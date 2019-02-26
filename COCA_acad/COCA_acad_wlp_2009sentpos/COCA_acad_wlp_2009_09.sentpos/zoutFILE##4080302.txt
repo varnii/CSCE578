@@ -1,0 +1,290 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    0 " We were about to give up and call it a night when somebody dropped the girl off the bridge .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    0 "_Y We_PPIS2 were_VBDR about_RPK to_TO give_VVI up_RP and_CC call_VVI it_PPH1 a_AT1 night_NNT1 when_RRQ somebody_PN1 dropped_VVD the_AT girl_NN1 off_II the_AT bridge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    1 " -- John D. MacDonald in Darker Than Amber THE NEXT TIME you visit a bookstore , do what most novelists do habitually .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    1 "_Y --_ZZ John_NP1 D._NP1 MacDonald_NP1 in_II Darker_JJR Than_CSN Amber_NN1_JJ THE_AT NEXT_MD TIME_NNT1 you_PPY visit_VV0 a_AT1 bookstore_NN1 ,_Y do_VD0 what_DDQ most_DAT novelists_NN2 do_VD0 habitually_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    2 Watch the people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    2 Watch_VV0 the_AT people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    3 Zoom in on a browser .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    3 Zoom_VV0 in_RP@ on_II a_AT1 browser_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    4 Something compels her to pull a book from the shelf .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    4 Something_PN1 compels_VVZ her_PPHO1 to_TO pull_VVI a_AT1 book_NN1 from_II the_AT shelf_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    5 She looks at the front cover , then flips it over , where blurbs and excerpts from reviews scream " Amazing !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    5 She_PPHS1 looks_VVZ at_II the_AT front_JJ_NN1 cover_NN1 ,_Y then_RT flips_VVZ it_PPH1 over_RP ,_Y where_CS_RRQ blurbs_NN2 and_CC excerpts_NN2 from_II reviews_NN2 scream_VV0 "_Y Amazing_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    6 , " " The next J.K. Rowling !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    6 ,_Y "_Y "_Y The_AT next_MD J.K._NP1 Rowling_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    7 " " A real page-turner !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    7 "_Y "_Y A_AT1_ZZ1 real_JJ page-turner_NN1_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    8 " If that does n't put her off , she opens the book and reads the flap copy , where the story 's premise is hyped and a brief biography ( and sometimes a head shot ) of the author appears .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    8 "_Y If_CS that_DD1 does_VDZ n't_XX put_VVI her_PPHO1 off_RP ,_Y she_PPHS1 opens_VVZ the_AT book_NN1 and_CC reads_VVZ the_AT flap_NN1 copy_NN1_VV0 ,_Y where_CS_RRQ the_AT story_NN1 's_GE premise_NN1 is_VBZ hyped_VVN@_JJ@ and_CC a_AT1 brief_JJ biography_NN1 (_Y and_CC sometimes_RT a_AT1 head_NN1_JJ@ shot_NN1_VVN )_Y of_IO the_AT author_NN1 appears_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0    9 So far , the publisher 's marketing department has done all of the work , and it might be enough for our browser to decide whether to tuck the book under her arm or return it to the shelf .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0    9 So_RG far_RR ,_Y the_AT publisher_NN1 's_GE marketing_NN1 department_NN1 has_VHZ done_VDN all_RR@ of_IO the_AT work_NN1 ,_Y and_CC it_PPH1 might_VM be_VBI enough_RR_DD for_IF our_APPGE browser_NN1 to_TO decide_VVI whether_CSW to_TO tuck_VVI the_AT book_NN1 under_II her_APPGE arm_NN1 or_CC return_VV0 it_PPH1 to_II the_AT shelf_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   10 Sometimes potential buyers really mouth , or good reviews , or because the author is a dependable old favorite .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   10 Sometimes_RT potential_JJ buyers_NN2 really_RR mouth_NN1 ,_Y or_CC good_JJ reviews_NN2 ,_Y or_CC because_CS the_AT author_NN1 is_VBZ a_AT1 dependable_JJ old_JJ favorite_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   11 Usually , though , readers do n't hand over their credit cards on the basis of a book 's jacket .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   11 Usually_RR ,_Y though_CS_RR@ ,_Y readers_NN2 do_VD0 n't_XX hand_NN1 over_II_RP their_APPGE credit_NN1 cards_NN2 on_II the_AT basis_NN1 of_IO a_AT1 book_NN1 's_GE jacket_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   12 Instead , they open it and start reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   12 Instead_RR ,_Y they_PPHS2 open_VV0 it_PPH1 and_CC start_VV0_NN1 reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   13 This is the author 's Moment of Truth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   13 This_DD1 is_VBZ the_AT author_NN1 's_GE Moment_NN1 of_IO Truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   14 Now our book buyer is judging the writer 's work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   14 Now_RT our_APPGE book_NN1 buyer_NN1 is_VBZ judging_VVG the_AT writer_NN1 's_GE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   15 What does she do next ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   15 What_DDQ does_VDZ she_PPHS1 do_VDI next_MD ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   16 Does she snap the book shut and return it to its place on the shelf ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   16 Does_VDZ she_PPHS1 snap_VVI the_AT book_NN1 shut_VVN_VVD_JJ_VV0 and_CC return_VVI it_PPH1 to_II its_Z' place_NN1 on_II the_AT shelf_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   17 Or does she lean against the wall , turn a page , and keep reading ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   17 Or_CC does_VDZ she_PPHS1 lean_VVI against_II the_AT wall_NN1 ,_Y turn_VV0 a_AT1 page_NN1 ,_Y and_CC keep_VV0 reading_NN1_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   18 Is she hooked ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   18 Is_VBZ she_PPHS1 hooked_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   19 Editors and literary agents ; in the absence of book jackets and blurbs , go straight to the first page Of the manuscript to decide whether they want to publish or represent it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   19 Editors_NN2 and_CC literary_JJ agents_NN2 ;_Y in_II the_AT absence_NN1 of_IO book_NN1 jackets_NN2 and_CC blurbs_NN2_VVZ ,_Y go_VV0 straight_RR to_II the_AT first_MD page_NN1 Of_IO the_AT manuscript_NN1 to_TO decide_VVI whether_CSW they_PPHS2 want_VV0 to_TO publish_VVI or_CC represent_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   20 Editors and agents have low expectations and little patience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   20 Editors_NN2 and_CC agents_NN2 have_VH0 low_JJ expectations_NN2 and_CC little_JJ_DA1 patience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   21 They assume that most of the stuff that crosses their desks will be unpublishable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   21 They_PPHS2 assume_VV0 that_CST most_DAT of_IO the_AT stuff_NN1 that_CST_DD1 crosses_VVZ their_APPGE desks_NN2 will_VM be_VBI unpublishable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   22 They will read the opening line , the first paragraph , maybe the first few pages .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   22 They_PPHS2 will_VM read_VVI the_AT opening_NN1_JJ@ line_NN1 ,_Y the_AT first_MD paragraph_NN1 ,_Y maybe_RR the_AT first_MD few_DA2 pages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   23 And on the basis of five pages a pang of guilt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   23 And_CC on_II the_AT basis_NN1 of_IO five_MC pages_NN2 a_AT1 pang_NN1 of_IO guilt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   24 But if you can hook them with your opening , they will want to read the whole novel , and if it fulfills the promise of its beginning , you 'll make a deal and get published .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   24 But_CCB if_CS you_PPY can_VM hook_VVI them_PPHO2 with_IW your_APPGE opening_NN1 ,_Y they_PPHS2 will_VM want_VVI to_TO read_VVI the_AT whole_JJ novel_NN1_JJ ,_Y and_CC if_CS_CSW@ it_PPH1 fulfills_VVZ the_AT promise_NN1 of_IO its_Z' beginning_NN1 ,_Y you_PPY 'll_VM make_VVI a_AT1 deal_NN1 and_CC get_VVI published_VVN_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   25 Of course , the agent or editor may ultimately decide not to proceed with your novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   25 Of_RR21 course_RR22 ,_Y the_AT agent_NN1 or_CC editor_NN1 may_VM ultimately_RR decide_VVI not_XX to_TO proceed_VVI with_IW your_APPGE novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   26 A great beginning does not necessarily make a salable novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   26 A_AT1_ZZ1 great_JJ beginning_NN1 does_VDZ not_XX necessarily_RR make_VVI a_AT1 salable_JJ novel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   27 But at least you gave yourself a fair chance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   27 But_CCB at_RR21 least_RR22 you_PPY gave_VVD yourself_PPX1 a_AT1 fair_JJ chance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   28 This , however , is always true : A bad opening guarantees rejection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   28 This_DD1 ,_Y however_RR ,_Y is_VBZ always_RR true_JJ :_Y A_ZZ1_AT1@ bad_JJ opening_NN1 guarantees_VVZ_NN2 rejection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   29 Make a narrative promise " Not for the first time , an argument had broken out over breakfast at number four , Privet Drive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   29 Make_VV0 a_AT1 narrative_JJ_NN1 promise_NN1_VV0 "_Y Not_XX for_IF the_AT first_MD time_NNT1 ,_Y an_AT1 argument_NN1 had_VHD broken_VVN out_RP over_II breakfast_NN1 at_II number_NN1 four_MC ,_Y Privet_NN1 Drive_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   30 Mr. Vernon Dursley had been woken in the early hours of the morning by a loud , hooting noise from his nephew Harry 's room .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   30 Mr._NNB Vernon_NP1 Dursley_NP1 had_VHD been_VBN woken_VVN in_II the_AT early_JJ hours_NNT2 of_IO the_AT morning_NNT1 by_II a_AT1 loud_JJ_RR ,_Y hooting_VVG noise_NN1 from_II his_APPGE nephew_NN1 Harry_NP1 's_GE room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   31 " -- J.K. Rowling , Harry Potter and the Chamber of Secrets Starting to read a book is like meeting a stranger .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   31 "_Y --_ZZ J.K._NP1 Rowling_NP1 ,_Y Harry_NP1 Potter_NP1 and_CC the_AT Chamber_NN1 of_IO Secrets_NN2 Starting_VVG to_TO read_VVI a_AT1 book_NN1 is_VBZ like_II meeting_VVG a_AT1 stranger_NN1_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   32 The first impression matters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   32 The_AT first_MD impression_NN1 matters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   33 How do the first lines greet the reader ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   33 How_RRQ do_VD0 the_AT first_MD lines_NN2 greet_VV0 the_AT reader_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   34 Do they reach out , grab her by they smile warmly , put their arm around her shoulder and invite her to come along ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   34 Do_VD0 they_PPHS2 reach_VVI out_RP ,_Y grab_VV0 her_PPHO1 by_II they_PPHS2 smile_VVI warmly_RR ,_Y put_VVD_VV0 their_APPGE arm_NN1 around_II_RP her_APPGE shoulder_NN1 and_CC invite_VV0 her_PPHO1 to_TO come_VVI along_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   35 Maybe they manage to do both .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   35 Maybe_RR they_PPHS2 manage_VV0 to_TO do_VDI both_DB2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   36 First lines do n't need to be aggressive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   36 First_MD lines_NN2 do_VD0 n't_XX need_VVI to_TO be_VBI aggressive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   37 A hug works as well as a hook .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   37 A_AT1 hug_NN1 works_VVZ_NN as_II31 well_II32 as_II33 a_AT1 hook_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   38 By its tone and its voice as well as its content , your story 's opening suggests the nature of the story that will follow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   38 By_II its_Z' tone_NN1 and_CC its_Z' voice_NN1 as_II31 well_II32 as_II33 its_Z' content_NN1_JJ ,_Y your_APPGE story_NN1 's_GE opening_NN1 suggests_VVZ the_AT nature_NN1 of_IO the_AT story_NN1 that_CST_DD1 will_VM follow_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   39 A novel that begins with gritty language and a cynical narrator promises a fast-paced thriller , a dark mystery , or maybe an existential exploration of the human condition .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   39 A_AT1_ZZ1 novel_NN1_JJ that_CST_DD1 begins_VVZ with_IW gritty_JJ language_NN1 and_CC a_AT1 cynical_JJ narrator_NN1 promises_VVZ a_AT1 fast-paced_JJ_NN1 thriller_NN1 ,_Y a_AT1 dark_JJ_NN1 mystery_NN1 ,_Y or_CC maybe_RR an_AT1 existential_JJ exploration_NN1 of_IO the_AT human_JJ_NN1 condition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   40 If a sweet love story or a cozy domestic mystery or a comic romp follows , that tone and voice have made false promises .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   40 If_CS a_AT1 sweet_JJ love_NN1 story_NN1 or_CC a_AT1 cozy_JJ domestic_JJ mystery_NN1 or_CC a_AT1 comic_JJ_NN1 romp_NN1 follows_VVZ ,_Y that_DD1 tone_NN1 and_CC voice_NN1 have_VH0 made_VVN false_JJ promises_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   41 The " narrative hook " is not just the opening line .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   41 The_AT "_Y narrative_JJ_NN1 hook_NN1 "_Y is_VBZ not_XX just_RR the_AT opening_NN1_JJ@ line_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   42 It 's the first scene , or a big chunk of it , and it may go on for several pages .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   42 It_PPH1 's_VBZ the_AT first_MD scene_NN1 ,_Y or_CC a_AT1 big_JJ chunk_NN1 of_IO it_PPH1 ,_Y and_CC it_PPH1 may_VM go_VVI on_RP@ for_IF several_DA2 pages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   43 Do n't worry about creating a memorable first sentence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   43 Do_VD0 n't_XX worry_VVI about_II_RP@ creating_VVG a_AT1 memorable_JJ first_MD sentence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   44 Clever first lines can actually stop a reader , when their job is to draw her in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   44 Clever_JJ first_MD lines_NN2 can_VM actually_RR stop_VVI a_AT1 reader_NN1 ,_Y when_CS_RRQ their_APPGE job_NN1 is_VBZ to_TO draw_VVI her_PPHO1 in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   45 Immerse the reader in your story job of that sentence is to entice your reader into reading the next one , and so on , we hope , all the way to The End .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   45 Immerse_VV0 the_AT reader_NN1 in_II your_APPGE story_NN1 job_NN1 of_IO that_DD1 sentence_NN1 is_VBZ to_TO entice_VVI your_APPGE reader_NN1 into_II reading_VVG the_AT next_MD one_PN1 ,_Y and_RR31 so_RR32 on_RR33 ,_Y we_PPIS2 hope_VV0 ,_Y all_DB the_AT way_NN1 to_II The_AT End_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   46 But no matter how catchy , the beginning of your story will fail unless it fulfills all of these promises it makes to your readers : * Events that occur in the first scene are relevant to the story that follows .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   46 But_CCB no_RGQV31 matter_RGQV32 how_RGQV33 catchy_JJ ,_Y the_AT beginning_NN1 of_IO your_APPGE story_NN1 will_VM fail_VVI unless_CS it_PPH1 fulfills_VVZ all_DB of_IO these_DD2 promises_NN2_VVZ it_PPH1 makes_VVZ to_II your_APPGE readers_NN2 :_Y *_FU Events_NN2 that_CST occur_VV0 in_II_RP@ the_AT first_MD scene_NN1 are_VBR relevant_JJ to_II the_AT story_NN1 that_CST_DD1 follows_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   47 * Characters who appear in the beginning will turn out to be significant players in the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   47 *_FU Characters_NN2 who_PNQS appear_VV0 in_II_RP@ the_AT beginning_NN1 will_VM turn_VVI out_RP to_TO be_VBI significant_JJ players_NN2 in_II the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   48 * The mood and tone established in the beginning foreshadow the general mood and tone of the entire story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   48 *_FU The_AT mood_NN1 and_CC tone_NN1 established_VVN_VVD in_II the_AT beginning_NN1 foreshadow_VV0 the_AT general_JJ_NN1 mood_NN1 and_CC tone_NN1 of_IO the_AT entire_JJ story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   49 * The narrative voice will sustain itself all the way to the end .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   49 *_FU The_AT narrative_JJ_NN1 voice_NN1 will_VM sustain_VVI itself_PPX1 all_RR@ the_AT way_NN1 to_II the_AT end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   50 * Conflicts introduced early will be developed as the story proceeds , and will be resolved by the end .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   50 *_FU Conflicts_NN2 introduced_VVN_VVD early_RR will_VM be_VBI developed_VVN as_II_CSA the_AT story_NN1 proceeds_NN2_VVZ ,_Y and_CC will_VM be_VBI resolved_VVN by_II the_AT end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   51 * Themes hinted at will be expanded and explored as the story deepens .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   51 *_FU Themes_NN2 hinted_VVN_VVD at_II will_VM be_VBI expanded_VVN_JJ and_CC explored_VVN_VVD as_II_CSA the_AT story_NN1 deepens_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   52 A flashy , attention-grabbing beginning that fails to fulfill these promises will make readers feel deceived and cheated .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   52 A_AT1_ZZ1 flashy_JJ ,_Y attention-grabbing_JJ_NN1 beginning_NN1_VVG that_CST_DD1 fails_VVZ to_TO fulfill_VVI these_DD2 promises_NN2 will_VM make_VVI readers_NN2 feel_VVI deceived_JJ@_VVN and_CC cheated_VVD_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   53 Do n't promise what you ca n't or do n't intend to deliver .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   53 Do_VD0 n't_XX promise_VVI what_DDQ you_PPY ca_VM n't_XX or_CC do_VD0 n't_XX intend_VVI to_TO deliver_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   54 Begin it , the first thing you 'll probably want to know is where I was born , and what my lousy childhood was like , and how my parents were occupied and all before they had me , and all that David Copperfield kind of crap , but I do n't feel like going into it , if you want to know the truth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   54 Begin_VV0 it_PPH1 ,_Y the_AT first_MD thing_NN1 you_PPY 'll_VM probably_RR want_VVI to_TO know_VVI is_VBZ where_RRQ_CS I_PPIS1 was_VBDZ born_VVN ,_Y and_CC what_DDQ my_APPGE lousy_JJ childhood_NN1 was_VBDZ like_II ,_Y and_CC how_RRQ my_APPGE parents_NN2 were_VBDR occupied_VVN and_CC all_RR@_DB before_CS they_PPHS2 had_VHD me_PPIO1 ,_Y and_CC all_DB that_CST David_NP1 Copperfield_NP1 kind_NN1 of_IO crap_NN1 ,_Y but_CCB I_PPIS1 do_VD0 n't_XX feel_VVI like_II going_VVG into_II it_PPH1 ,_Y if_CS you_PPY want_VV0 to_TO know_VVI the_AT truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   55 In the first place , that stuff bores me ... -- J.D. Salinger , The Catcher in the Rye My father had a small estate in Nottinghamshire ; I was the Third of five sons .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   55 In_II the_AT first_MD place_NN1 ,_Y that_DD1 stuff_NN1 bores_VVZ me_PPIO1 ..._... --_ZZ J.D._NP1 Salinger_NP ,_Y The_AT Catcher_NN1_NP1 in_II the_AT Rye_NP1_NN1@ My_APPGE father_NN1 had_VHD a_AT1 small_JJ estate_NN1 in_II Nottinghamshire_NP1 ;_Y I_PPIS1 was_VBDZ the_AT Third_MD of_IO five_MC sons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   56 He sent me to Emmanuel College , at Fourteen Years old , where I resided three Years , and applied my self close to my Studies ... -- Jonathan Swift , Gulliver 's Travels In the days before television and the Internet , readers had more patience ( and fewer distractions ) , and Dickens , Swift and their contemporaries could get away with leisurely , meandering , expository , self-indulgent beginnings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   56 He_PPHS1 sent_VVD me_PPIO1 to_II Emmanuel_NP1 College_NN1 ,_Y at_II Fourteen_MC Years_NNT2 old_JJ ,_Y where_CS_RRQ I_PPIS1 resided_VVD three_MC Years_NNT2 ,_Y and_CC applied_VVD my_APPGE self_NN1 close_RR_JJ to_II my_APPGE Studies_NN2 ..._... --_ZZ Jonathan_NP1 Swift_NP1 ,_Y Gulliver_NP1 's_GE Travels_NN2 In_II the_AT days_NNT2 before_II_CS television_NN1 and_CC the_AT Internet_NN1_NP1 ,_Y readers_NN2 had_VHD more_DAR patience_NN1 (_Y and_CC fewer_DAR distractions_NN2 )_Y ,_Y and_CC Dickens_NP1 ,_Y Swift_NP1 and_CC their_APPGE contemporaries_NN2 could_VM get_VVI away_RL with_IW leisurely_JJ_RR ,_Y meandering_VVG ,_Y expository_JJ ,_Y self-indulgent_JJ beginnings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   57 But that " David Copperfield crap " bores modern readers ( and agents and editors ) , ( that is , publishable ) novels begin at their logical beginning -- not earlier , and not later , either .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   57 But_CCB that_DD1_CST@ "_Y David_NP1 Copperfield_NP1 crap_NN1 "_Y bores_VVZ modern_JJ readers_NN2 (_Y and_CC agents_NN2 and_CC editors_NN2 )_Y ,_Y (_Y that_REX21 is_REX22 ,_Y publishable_JJ )_Y novels_NN2 begin_VV0 at_II their_APPGE logical_JJ beginning_NN1 --_NN1 not_XX earlier_RRR ,_Y and_CC not_XX later_RRR ,_Y either_RR_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   58 Starting before the beginning ( like Swift ) means loading up your readers with background information they have no reason to care about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   58 Starting_VVG_NN1 before_II_CS the_AT beginning_NN1 (_Y like_II Swift_NP1 )_Y means_VVZ_NN loading_VVG up_RP your_APPGE readers_NN2 with_IW background_NN1 information_NN1 they_PPHS2 have_VH0 no_AT reason_NN1 to_TO care_VVI about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   59 If they do n't abandon the book entirely , impatient modern readers will skip ahead to find the spot where the story gets under way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   59 If_CS they_PPHS2 do_VD0 n't_XX abandon_VVI the_AT book_NN1 entirely_RR ,_Y impatient_JJ modern_JJ readers_NN2 will_VM skip_VVI ahead_RL to_TO find_VVI the_AT spot_NN1 where_CS_RRQ the_AT story_NN1 gets_VVZ under_RR21 way_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   60 Opening somewhere in the middle of the story , or even at the climax , with the most exciting scene in the whole book -- in medias res ( the middle of things ) -- is tempting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   60 Opening_VVG_NN1 somewhere_RL in_II the_AT middle_NN1 of_IO the_AT story_NN1 ,_Y or_CC even_RR at_II the_AT climax_NN1 ,_Y with_IW the_AT most_RGT exciting_JJ scene_NN1 in_II the_AT whole_JJ book_NN1 --_NN1 in_RR31 medias_RR32 res_RR33 (_Y the_AT middle_NN1 of_IO things_NN2 )_Y --_NN1 is_VBZ tempting_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   61 But then you 've got to flip back to the start and fill in the backstory up to that point .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   61 But_CCB then_RT you_PPY 've_VH0 got_VVN to_TO flip_VVI back_RP to_II the_AT start_NN1 and_CC fill_VVI in_II_RP@ the_AT backstory_JJ up_II21 to_II22 that_DD1 point_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   62 This amounts to a giant flashback , which by its nature feels slack and anticlimactic , because you 've already signaled where it ends up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   62 This_DD1 amounts_VVZ to_II a_AT1 giant_JJ_NN1 flashback_NN1 ,_Y which_DDQ by_II its_Z' nature_NN1 feels_VVZ slack_JJ_NN1 and_CC anticlimactic_JJ_NN1@ ,_Y because_CS you_PPY 've_VH0 already_RR signaled_VVN where_CS_RRQ it_PPH1 ends_VVZ up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   63 Identify your story 's precipitating event , the moment when it begins -- a body being dropped off a bridge , for example -- and start there .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   63 Identify_VV0 your_APPGE story_NN1 's_VBZ_GE precipitating_VVG_JJ@ event_NN1 ,_Y the_AT moment_NN1 when_RRQ it_PPH1 begins_VVZ --_NN1_JJ a_AT1 body_NN1 being_VBG dropped_VVN off_II_RP a_AT1 bridge_NN1 ,_Y for_REX21 example_REX22 --_NN1_JJ and_CC start_VV0 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   64 Typically , this is a moment the story 's protagonist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   64 Typically_RR ,_Y this_DD1 is_VBZ a_AT1 moment_NN1 the_AT story_NN1 's_GE protagonist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   65 It 's when the story 's central question is posed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   65 It_PPH1 's_VBZ when_RRQ_CS the_AT story_NN1 's_GE central_JJ question_NN1 is_VBZ posed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   66 If your novel is about a man trying to adjust to a divorce ( can he find happiness ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   66 If_CS your_APPGE novel_NN1 is_VBZ about_II a_AT1 man_NN1 trying_VVG to_TO adjust_VVI to_II a_AT1 divorce_NN1 (_Y can_VV0%_NN1% he_PPHS1 find_VVI happiness_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   67 ) , begin when the wife says she 's leaving him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   67 )_Y ,_Y begin_VV0 when_RRQ_CS the_AT wife_NN1 says_VVZ she_PPHS1 's_VBZ leaving_VVG him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   68 If it 's about a detective tracking down a serial killer ( will he catch the bad guy before he can kill again ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   68 If_CS it_PPH1 's_VBZ about_II a_AT1 detective_NN1 tracking_VVG@_NN1 down_RP_II@ a_AT1 serial_JJ_NN1 killer_NN1 (_Y will_VM he_PPHS1 catch_VVI the_AT bad_JJ guy_NN1 before_CS he_PPHS1 can_VM kill_VVI again_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   69 ) , begin when the detective finds a corpse .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   69 )_Y ,_Y begin_VV0 when_RRQ_CS the_AT detective_NN1 finds_VVZ a_AT1 corpse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   70 If it 's a love story ( will the boy win the love of the girl ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   70 If_CS it_PPH1 's_VBZ a_AT1 love_NN1 story_NN1 (_Y will_VM the_AT boy_NN1 win_VVI the_AT love_NN1 of_IO the_AT girl_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   71 ) , begin when he first sees her at the bus station .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   71 )_Y ,_Y begin_VV0 when_RRQ_CS he_PPHS1 first_MD sees_VVZ her_PPHO1 at_II the_AT bus_NN1 station_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   72 Remember : Readers want to worry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   72 Remember_VV0 :_Y Readers_NN2 want_VV0 to_TO worry_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   73 Doubt causes tension , and tension causes conflict , and conflict is the energy that drives stories .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   73 Doubt_NN1_VV0 causes_VVZ_NN2 tension_NN1 ,_Y and_CC tension_NN1 causes_VVZ_NN2 conflict_NN1_VV0@ ,_Y and_CC conflict_NN1 is_VBZ the_AT energy_NN1 that_CST_DD1 drives_VVZ stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   74 Orient your reader Two and a half miles directly offshore from our cottage in Eastham , Massachusetts , on Cape Cod , lies Billingsgate Shoal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   74 Orient_VV0@_NP1 your_APPGE reader_NN1 Two_MC and_CC a_AT1 half_RR@_NN1@ miles_NNU2 directly_RR offshore_RL_JJ from_II our_APPGE cottage_NN1 in_II Eastham_NP1 ,_Y Massachusetts_NP1 ,_Y on_II Cape_NP1 Cod_NP1 ,_Y lies_VVZ Billingsgate_NP1 Shoal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   75 It appears on nautical charts in a color between that of either land or sea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   75 It_PPH1 appears_VVZ on_II nautical_JJ charts_NN2 in_II a_AT1 color_NN1 between_II that_DD1 of_IO either_RR land_NN1_VV0@ or_CC sea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   76 This is because Billingsgate is a sunken island and is visible Only briefly at tide 's farthest ebb .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   76 This_DD1 is_VBZ because_CS Billingsgate_NP1 is_VBZ a_AT1 sunken_JJ island_NN1 and_CC is_VBZ visible_JJ Only_RR_JJ briefly_RR at_II tide_NN1 's_GE farthest_JJT_RRT ebb_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   77 -- Rick Bayer , Billingsgate Shoal Along with the first hint of conflict , readers want to know the who , what , where and when of the story right from the outset .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   77 --_ZZ Rick_NP1 Bayer_NP1 ,_Y Billingsgate_NP1 Shoal_NN1 Along_II21 with_II22 the_AT first_MD hint_NN1 of_IO conflict_NN1 ,_Y readers_NN2 want_VV0 to_TO know_VVI the_AT who_PNQS ,_Y what_DDQ ,_Y where_RRQ_CS and_CC when_RRQ_CS of_IO the_AT story_NN1 right_NN1_RR from_II the_AT outset_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   78 Whose point of view are we in ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   78 Whose_DDQGE point_NN1 of_IO view_NN1 are_VBR we_PPIS2 in_II ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   79 Where in the world are we ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   79 Where_CS_RRQ in_II the_AT world_NN1 are_VBR we_PPIS2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   80 Are we in present time , ancient history , or some imagined future ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   80 Are_VBR we_PPIS2 in_II present_JJ time_NNT1 ,_Y ancient_JJ history_NN1 ,_Y or_CC some_DD imagined_JJ future_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   81 If readers have to guess , or if they 're confused or disoriented , your hook will not engage them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   81 If_CS readers_NN2 have_VH0 to_TO guess_VVI ,_Y or_CC if_CS_CSW@ they_PPHS2 're_VBR confused_VVN_JJ or_CC disoriented_JJ ,_Y your_APPGE hook_NN1 will_VM not_XX engage_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   82 Readers like mysteries , but they do n't want to feel manipulated .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   82 Readers_NN2 like_II mysteries_NN2 ,_Y but_CCB they_PPHS2 do_VD0 n't_XX want_VVI to_TO feel_VVI manipulated_VVN_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   83 Opening with a few lines of disembodied dialogue , for example , promotes the wrong kinds of questions ( " Who are these people ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   83 Opening_VVG_NN1 with_IW a_AT1 few_DA2 lines_NN2 of_IO disembodied_JJ@ dialogue_NN1 ,_Y for_REX21 example_REX22 ,_Y promotes_VVZ the_AT wrong_JJ kinds_NN2 of_IO questions_NN2 (_Y "_Y Who_PNQS are_VBR these_DD2 people_NN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   84 " " Where are we ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   84 "_Y "_Y Where_RRQ are_VBR we_PPIS2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   85 " " Why should I care ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   85 "_Y "_Y Why_RRQ should_VM I_PPIS1 care_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   86 " ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   86 "_Y )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   87 Likewise , a paragraph describing an overturned pickup truck or a brewing thunderstorm without characters populating the scene feels empty and pointless .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   87 Likewise_RR ,_Y a_AT1 paragraph_NN1 describing_VVG an_AT1 overturned_JJ@ pickup_NN1 truck_NN1 or_CC a_AT1 brewing_NN1 thunderstorm_NN1_VV0 without_IW characters_NN2 populating_VVG the_AT scene_NN1 feels_VVZ empty_JJ and_CC pointless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   88 Whether your novel takes place on present-day Cape Cod or on a fictional planet in the year 3331 , insert an early detail into your opening .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   88 Whether_CSW your_APPGE novel_NN1 takes_VVZ place_NN1 on_II present-day_JJ Cape_NP1 Cod_NP1 or_CC on_II a_AT1 fictional_JJ planet_NN1 in_II the_AT year_NNT1 3331_MC ,_Y insert_VV0 an_AT1 early_JJ detail_NN1 into_II your_APPGE opening_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   89 Give it a point of view .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   89 Give_VV0 it_PPH1 a_AT1 point_NN1 of_IO view_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   90 Stories are about characters , so one or more of them must be present from the beginning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   90 Stories_NN2 are_VBR about_II characters_NN2 ,_Y so_RR_RG one_MC1 or_CC more_DAR of_IO them_PPHO2 must_VM be_VBI present_JJ_NN1 from_II the_AT beginning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   91 The character may appear as the first-person narrator , the way MacDonald , Salinger and Bayer do it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   91 The_AT character_NN1 may_VM appear_VVI as_II the_AT first-person_JJ_NN1 narrator_NN1 ,_Y the_AT way_NN1 MacDonald_NP1 ,_Y Salinger_NP and_CC Bayer_NP1 do_VD0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   92 If your POV character is a child , alien , dog or dead person , understand that withholding such basic information risks alienating your readers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   92 If_CS your_APPGE POV_NP1 character_NN1 is_VBZ a_AT1 child_NN1 ,_Y alien_NN1_JJ ,_Y dog_NN1 or_CC dead_JJ person_NN1 ,_Y understand_VV0 that_CST_DD1 withholding_VVG_JJ such_DA basic_JJ information_NN1 risks_NN2_VVZ@ alienating_VVG% your_APPGE readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   93 Open with a scene Here 's a sample from my own work : I 'd picked up my Globe at Leon 's store and was bumping over a Maine dirt road on a Saturday morning in late August , taking the long way back to Alex 's house , when I spotted the woman shuffling along up ahead of me. -- Cutter 's Run I like to imagine the major motion picture that Steven Spielberg will make from my novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   93 Open_VV0_JJ with_IW a_AT1 scene_NN1 Here_RL 's_VBZ a_AT1 sample_NN1 from_II my_APPGE own_DA work_NN1 :_Y I_PPIS1 'd_VHD picked_VVN up_RP my_APPGE Globe_NN1 at_II Leon_NP1 's_GE store_NN1 and_CC was_VBDZ bumping_VVG over_RP_II a_AT1 Maine_NP1 dirt_NN1 road_NN1 on_II a_AT1 Saturday_NPD1 morning_NNT1 in_II late_JJ August_NPM1 ,_Y taking_VVG the_AT long_JJ way_NN1 back_RP to_II Alex_NP1 's_GE house_NN1 ,_Y when_CS_RRQ I_PPIS1 spotted_VVD the_AT woman_NN1 shuffling_NN1 along_RP up_RP ahead_II21 of_II22 me._NNU --_ZZ Cutter_NN1 's_GE Run_NN1_VVN_VV0 I_PPIS1 like_VV0@ to_TO imagine_VVI the_AT major_JJ motion_NN1 picture_NN1 that_CST Steven_NP1 Spielberg_NP1 will_VM make_VVI from_II my_APPGE novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   94 How will it open ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   94 How_RRQ will_VM it_PPH1 open_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   95 Spielberg will find the moment in the story when something changes , or threatens to change , for an important character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   95 Spielberg_NP1 will_VM find_VVI the_AT moment_NN1 in_II the_AT story_NN1 when_CS_RRQ something_PN1 changes_VVZ@_NN2 ,_Y or_CC threatens_VVZ to_TO change_VVI ,_Y for_IF an_AT1 important_JJ character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   96 After an establishing shot that orients viewers to time and , through his trapdoor , with a shark attacking a girl , or a man with a bullwhip entering a cave full of treasure -- or a heavyset woman struggling along a dirt road viewed through the windshield of a pickup truck -- and we will instantly find ourselves caring about his characters , and what happens next to them , and how they 'll act and react .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   96 After_CS_II an_AT1 establishing_NN1@ shot_VVD_VVN_NN1 that_CST_DD1 orients_VVZ viewers_NN2 to_II time_NNT1 and_CC ,_Y through_II his_APPGE trapdoor_NN1 ,_Y with_IW a_AT1 shark_NN1 attacking_VVG a_AT1 girl_NN1 ,_Y or_CC a_AT1 man_NN1 with_IW a_AT1 bullwhip_NN1 entering_VVG a_AT1 cave_NN1 full_JJ of_IO treasure_NN1 --_NN1 or_CC a_AT1 heavyset_NN1 woman_NN1 struggling_VVG along_RP_II a_AT1 dirt_NN1 road_NN1 viewed_VVN_VVD through_II the_AT windshield_NN1 of_IO a_AT1 pickup_NN1 truck_NN1 --_NN1 and_CC we_PPIS2 will_VM instantly_RR find_VVI ourselves_PPX2 caring_VVG about_II his_APPGE characters_NN2 ,_Y and_CC what_DDQ happens_VVZ next_II21 to_II22 them_PPHO2 ,_Y and_CC how_RRQ they_PPHS2 'll_VM act_VVI and_CC react_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   97 We 're hooked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   97 We_PPIS2 're_VBR hooked_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   98 Make sure something is happening in your first paragraph .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   98 Make_VV0 sure_JJ something_PN1 is_VBZ happening_VVG in_II_RP@ your_APPGE first_MD paragraph_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0   99 Put your characters in a specific time and place , introduce them to the problems that define your story 's main question , and threaten them with change .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0   99 Put_VV0 your_APPGE characters_NN2 in_II a_AT1 specific_JJ time_NNT1 and_CC place_NN1_VV0 ,_Y introduce_VV0 them_PPHO2 to_II the_AT problems_NN2 that_CST define_VV0 your_APPGE story_NN1 's_GE main_JJ question_NN1 ,_Y and_CC threaten_VV0 them_PPHO2 with_IW change_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  100 Every scene contains these elements : * A character trying to achieve an important goal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  100 Every_AT1 scene_NN1 contains_VVZ these_DD2 elements_NN2 :_Y *_FU A_ZZ1_AT1@ character_NN1 trying_VVG to_TO achieve_VVI an_AT1 important_JJ goal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  101 * Conflict : the obstacles and opposition ( from other characters and/or from forces of nature ) that make the goal difficult to achieve .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  101 *_FU Conflict_NN1 :_Y the_AT obstacles_NN2 and_CC opposition_NN1 (_Y from_II other_JJ characters_NN2 and/or_CC from_II forces_NN2 of_IO nature_NN1 )_Y that_CST make_VV0 the_AT goal_NN1 difficult_JJ to_TO achieve_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  102 * Failure to reach the goal -- it is at least partially thwarted .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  102 *_FU Failure_NN1 to_TO reach_VVI the_AT goal_NN1 --_NN1 it_PPH1 is_VBZ at_RR21 least_RR22 partially_RR thwarted_VVN_VVD_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  103 * Which leads , therefore , to a new goal , or a redefined goal , and new efforts to achieve it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  103 *_FU Which_DDQ leads_VVZ ,_Y therefore_RR ,_Y to_II a_AT1 new_JJ goal_NN1 ,_Y or_CC a_AT1 redefined_JJ@ goal_NN1 ,_Y and_CC new_JJ efforts_NN2 to_TO achieve_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  104 Polish who you hope will want to publish your manuscript ) begin reading it , they 're not expecting to be entertained .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  104 Polish_VV0@_JJ_NN1 who_PNQS you_PPY hope_VV0 will_VM want_VVI to_TO publish_VVI your_APPGE manuscript_NN1 )_Y begin_VV0 reading_VVG it_PPH1 ,_Y they_PPHS2 're_VBR not_XX expecting_VVG to_TO be_VBI entertained_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  105 They expect the worst .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  105 They_PPHS2 expect_VV0 the_AT worst_JJT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  106 They look for reasons to reject it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  106 They_PPHS2 look_VV0 for_IF reasons_NN2 to_TO reject_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  107 That is their nature .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  107 That_DD1 is_VBZ their_APPGE nature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  108 Your job is to surprise and delight them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  108 Your_APPGE job_NN1 is_VBZ to_TO surprise_VVI and_CC delight_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  109 If you give them no cause for rejection in the first several pages , they will smile and think , " Hey .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  109 If_CS you_PPY give_VV0 them_PPHO2 no_AT cause_NN1 for_IF rejection_NN1 in_II the_AT first_MD several_DA2 pages_NN2 ,_Y they_PPHS2 will_VM smile_VVI and_CC think_VVI ,_Y "_Y Hey_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  110 Maybe we 've got something here .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  110 Maybe_RR we_PPIS2 've_VH0 got_VVN something_PN1 here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  111 " In addition to knowing how , when and where to open your novel , you must also fine-tune your sentences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  111 "_Y In_II31 addition_II32 to_II33 knowing_VVG how_RRQ ,_Y when_RRQ_CS and_CC where_RRQ to_TO open_VVI your_APPGE novel_NN1_JJ ,_Y you_PPY must_VM also_RR fine-tune_JJ_NN1 your_APPGE sentences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  112 Your opening is your showcase .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  112 Your_APPGE opening_NN1 is_VBZ your_APPGE showcase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  113 It 's your best foot put forward , your first impression .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  113 It_PPH1 's_VBZ your_APPGE best_JJT foot_NN1 put_VVN forward_RL ,_Y your_APPGE first_MD impression_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  114 It 's an advertisement for the whole book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  114 It_PPH1 's_VBZ an_AT1 advertisement_NN1 for_IF the_AT whole_JJ book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  115 Revise and edit it until it glitters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  115 Revise_VV0 and_CC edit_VV0 it_PPH1 until_CS it_PPH1 glitters_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  116 Dozens of books and hundreds of magazine articles have been devoted to the subject of good , polished writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  116 Dozens_M of_IO books_NN2 and_CC hundreds_M of_IO magazine_NN1 articles_NN2 have_VH0 been_VBN devoted_VVN%_JJ to_II the_AT subject_NN1 of_IO good_JJ ,_Y polished_JJ_VVD writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  117 Virtually all preach these precepts : * Let the actions and the words of the characters , not the author 's descriptions and summaries , create scenes that the reader feels she is witnessing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  117 Virtually_RR all_DB_RR@ preach_VV0 these_DD2 precepts_NN2 :_Y *_FU Let_VVN@ the_AT actions_NN2 and_CC the_AT words_NN2 of_IO the_AT characters_NN2 ,_Y not_XX the_AT author_NN1 's_GE descriptions_NN2 and_CC summaries_NN2 ,_Y create_VV0 scenes_NN2 that_CST the_AT reader_NN1 feels_VVZ she_PPHS1 is_VBZ witnessing_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  118 specific nouns. * Minimize your use of adverbs , adjectives and passive constructions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  118 specific_JJ nouns._NNU *_FU Minimize_VV0 your_APPGE use_NN1 of_IO adverbs_NN2 ,_Y adjectives_NN2 and_CC passive_JJ constructions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  119 * Avoid clichs , melodrama , verbosity , excessive description , confusion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  119 *_FU Avoid_VV0 clichs_NN2 ,_Y melodrama_NN1 ,_Y verbosity_NN1 ,_Y excessive_JJ description_NN1 ,_Y confusion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  120 Go for conciseness , specificity , clarity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  120 Go_VV0 for_IF conciseness_NN1 ,_Y specificity_NN1 ,_Y clarity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  121 * Finally , do n't show off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  121 *_FU Finally_RR ,_Y do_VD0 n't_XX show_VVI off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  122 As the writer , be invisible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  122 As_II_CSA the_AT writer_NN1 ,_Y be_VBI invisible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  123 Put the spotlight on your characters and the events of the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  123 Put_VV0 the_AT spotlight_NN1 on_II your_APPGE characters_NN2 and_CC the_AT events_NN2 of_IO the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  124 WORKOUT READ THE following passage as if it were the opening of a novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  124 WORKOUT_NP1 READ_VVD THE_AT following_JJ passage_NN1 as_CS21 if_CS22 it_PPH1 were_VBDR the_AT opening_NN1 of_IO a_AT1 novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  125 When he woke up that morning his backyard was full of new snow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  125 When_CS_RRQ he_PPHS1 woke_VVD up_RP that_DD1 morning_NNT1 his_APPGE backyard_NN1 was_VBDZ full_JJ of_IO new_JJ snow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  126 When he was a child , he loved white cold snow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  126 When_CS_RRQ he_PPHS1 was_VBDZ a_AT1 child_NN1 ,_Y he_PPHS1 loved_VVD white_JJ cold_JJ_NN1 snow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  127 His mother used to say how he did n't know enough to .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  127 His_APPGE mother_NN1 used_VMK to_TO say_VVI how_RRQ he_PPHS1 did_VDD n't_XX know_VVI enough_DD_RR to_TO_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  128 come in from the snow , and it used to hurt his feelings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  128 come_VV0 in_RP@ from_II the_AT snow_NN1 ,_Y and_CC it_PPH1 used_VMK to_TO hurt_VVI his_APPGE feelings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  129 So when he saw all this snow piled up in his backyard , it reminded him of his mother , who was kind of white and cold herself , and he did n't know that somebody 's almost-dead body was under the snow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  129 So_RR when_CS_RRQ he_PPHS1 saw_VVD all_DB this_DD1 snow_NN1 piled_VVD_VVN up_RP in_II his_APPGE backyard_NN1 ,_Y it_PPH1 reminded_VVD him_PPHO1 of_IO his_APPGE mother_NN1 ,_Y who_PNQS was_VBDZ kind_RR21%_NN1 of_RR22_IO white_JJ and_CC cold_NN1_JJ herself_PPX1 ,_Y and_CC he_PPHS1 did_VDD n't_XX know_VVI that_CST_DD1 somebody_PN1 's_GE_VBZ almost-dead_JJ body_NN1 was_VBDZ under_II the_AT snow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  130 Later that morning his dog would start sniffing around and find the body , which was big problems for him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  130 Later_RRR that_DD1 morning_NNT1 his_APPGE dog_NN1 would_VM start_VVI sniffing_VVG around_RP and_CC find_VVI the_AT body_NN1 ,_Y which_DDQ was_VBDZ big_JJ problems_NN2 for_IF him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  131 Get him in trouble .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  131 Get_VV0 him_PPHO1 in_II trouble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  132 Almost cost him his life , even .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  132 Almost_RR cost_VV0_VVD@ him_PPHO1 his_APPGE life_NN1 ,_Y even_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  133 But now he was just remembering his mother , who he hardly ever thought about , and how he used to love the snow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  133 But_CCB now_RT he_PPHS1 was_VBDZ just_RR remembering_VVG his_APPGE mother_NN1 ,_Y who_PNQS he_PPHS1 hardly_RR ever_RR thought_VVN_VVD about_II ,_Y and_CC how_RRQ he_PPHS1 used_VMK to_TO love_VVI the_AT snow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  134 Now identify the mistakes in the passage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  134 Now_RT identify_VV0 the_AT mistakes_NN2 in_II the_AT passage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  135 Then revise it , creating your own opening scene in which a man finds an almost-dead body under the snow in his backyard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  135 Then_RT revise_VV0 it_PPH1 ,_Y creating_VVG your_APPGE own_DA opening_NN1 scene_NN1 in_II which_DDQ a_AT1 man_NN1 finds_VVZ an_AT1 almost-dead_JJ body_NN1 under_II the_AT snow_NN1 in_II his_APPGE backyard_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  136 -- W.G.T. RESOURCES * The Elements of Mystery Fiction by William G. Tapply .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  136 --_ZZ W.G.T._NP1 RESOURCES_NN2 *_FU The_AT Elements_NN2 of_IO Mystery_NN1 Fiction_NN1 by_II William_NP1 G._NP1 Tapply_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  137 Chapter 7 , titled " Getting Started : Setting the Narrative Hook , " contains advice for all novelists , not just mystery writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  137 Chapter_NN1 7_MC ,_Y titled_VVN "_Y Getting_VVG Started_VVN :_Y Setting_VVG the_AT Narrative_JJ_NN1 Hook_NP1_NN1@ ,_Y "_Y contains_VVZ advice_NN1 for_IF all_DB novelists_NN2 ,_Y not_XX just_RR_JJ@ mystery_NN1 writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  138 * The First Five Pages by Noah Lukeman .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  138 *_FU The_AT First_MD Five_MC Pages_NN2 by_II Noah_NP1 Lukeman_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  139 Focuses entirely on creating beginnings that will give agents and editors no reasons to reject .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  139 Focuses_VVZ entirely_RR on_II creating_VVG beginnings_NN2 that_CST_DD1 will_VM give_VVI agents_NN2 and_CC editors_NN2 no_AT reasons_NN2 to_TO reject_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  140 * The Lie That Tells a Truth by John Dufresne .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  140 *_FU The_AT Lie_NN1@_VV0 That_CST_DD1 Tells_VVZ a_AT1 Truth_NN1 by_II John_NP1 Dufresne_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  141 A book full of sound advice on writing fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  141 A_AT1 book_NN1 full_JJ of_IO sound_JJ advice_NN1 on_II writing_VVG_NN1 fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  142 See especially the chapter called " Getting her up the tree , getting her down .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  142 See_VV0 especially_RR the_AT chapter_NN1 called_VVN_VVD@ "_Y Getting_VVG her_PPHO1 up_RP_II@ the_AT tree_NN1 ,_Y getting_VVG her_PPHO1 down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  143 " By William G. Tapply William G. Tapply , a member of The Writer 's including his latest , Dark Tiger ( St. Martin 's Press ) , and 24 titles in his Brady Coyne series .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  143 "_Y By_II William_NP1 G._NP1 Tapply_NP1 William_NP1 G._NP1 Tapply_NP1 ,_Y a_AT1 member_NN1 of_IO The_AT Writer_NN1 's_GE including_II_VVG@ his_APPGE latest_JJT ,_Y Dark_JJ_NN1 Tiger_NN1 (_Y St._NP1 Martin_NP1 's_GE Press_NN1 )_Y ,_Y and_CC 24_MC titles_NN2 in_II his_APPGE Brady_NP1 Coyne_NP1 series_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  A    0  144 He also teaches at Clark University in Worcester , Mass.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080302 COCA  B    0  144 He_PPHS1 also_RR teaches_VVZ at_II Clark_NP1 University_NN1 in_II Worcester_NP1 ,_Y Mass._NP1

@@ -1,0 +1,210 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    0 WHO WRITES short stories these days ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    0 WHO_NP1_PNQS@ WRITES_VVZ short_JJ stories_NN2 these_DD2 days_NNT2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    1 Who reads hem ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    1 Who_PNQS reads_VVZ hem_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    2 Or , more to the point , who buys them ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    2 Or_CC ,_Y more_RRR_DAR to_II the_AT point_NN1 ,_Y who_PNQS buys_VVZ them_PPHO2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    3 Nowadays it seems that they are mostly penned by applicants for MFAs , read by their friends or competitors , and published in small literary journals .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    3 Nowadays_RT it_PPH1 seems_VVZ that_CST they_PPHS2 are_VBR mostly_RR penned_VVN by_II applicants_NN2 for_IF MFAs_NN2 ,_Y read_VVN by_II their_APPGE friends_NN2 or_CC competitors_NN2 ,_Y and_CC published_VVN in_II small_JJ literary_JJ journals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    4 And paid for with free copies .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    4 And_CC paid_VVN_VVD for_IF with_IW free_JJ copies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    5 It was n't always thus .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    5 It_PPH1 was_VBDZ n't_XX always_RR thus_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    6 Once there were plenty of short-fiction markets , from The Saturday Evening Post to Redbook , and a sale often brought enough to buy a new , not a used , car .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    6 Once_CS@_RR there_EX were_VBDR plenty_PN of_IO short-fiction_JJ_NN1 markets_NN2 ,_Y from_II The_AT Saturday_NPD1 Evening_NNT1 Post_NN1 to_II Redbook_NP1_NN1 ,_Y and_CC a_AT1 sale_NN1 often_RR brought_VVN_VVD enough_RR_DD to_TO buy_VVI a_AT1 new_JJ ,_Y not_XX a_AT1 used_JJ ,_Y car_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    7 F. Scott Fitzgerald and Irwin Shaw were n't writing short stories for the reviews or for their pals .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    7 F._NP1 Scott_NP1 Fitzgerald_NP1 and_CC Irwin_NP1 Shaw_NP1 were_VBDR n't_XX writing_VVG short_JJ stories_NN2 for_IF the_AT reviews_NN2 or_CC for_IF their_APPGE pals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    8 They were in it for the money .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    8 They_PPHS2 were_VBDR in_II it_PPH1 for_IF the_AT money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0    9 Today , unless you are a major literary star , it 's hard to even give short stories away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0    9 Today_RT ,_Y unless_CS you_PPY are_VBR a_AT1 major_JJ literary_JJ star_NN1 ,_Y it_PPH1 's_VBZ hard_JJ to_TO even_RR give_VVI short_JJ stories_NN2 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   10 That 's the bad news .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   10 That_DD1 's_VBZ the_AT bad_JJ news_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   11 The good news is , there is a still a lively commercial market for short fiction , open to newcomers as well as grizzled pros , left over from the pre-TV pulp days when digest-size magazines were printed on rough .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   11 The_AT good_JJ news_NN1 is_VBZ ,_Y there_EX is_VBZ a_AT1 still_RR a_AT1 lively_JJ commercial_JJ market_NN1 for_IF short_JJ fiction_NN1 ,_Y open_VV0_JJ_RR@ to_II newcomers_NN2 as_II31 well_II32 as_II33 grizzled_JJ@ pros_NN2 ,_Y left_VVD_VVN over_RP from_II the_AT pre-TV_JJ_NN1 pulp_NN1 days_NNT2 when_RRQ digest-size_JJ magazines_NN2 were_VBDR printed_VVN on_II rough_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   12 If you are one of those authors interested in a commercial market ( and why not !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   12 If_CS you_PPY are_VBR one_MC1 of_IO those_DD2 authors_NN2 interested_JJ in_II a_AT1 commercial_JJ market_NN1 (_Y and_CC why_RRQ not_XX !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   13 ) where writers get paid for spinning stories that are read not by other writers ( or worse , instructors ) but by actual flesh-and-blood readers , you might try writing short science fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   13 )_Y where_RRQ_CS writers_NN2 get_VV0 paid_VVN for_IF spinning_VVG_JJ@ stories_NN2 that_CST are_VBR read_VVN not_XX by_II other_JJ writers_NN2 (_Y or_CC worse_JJR_RRR@ ,_Y instructors_NN2 )_Y but_CCB by_II actual_JJ flesh-and-blood_JJ_NN1 readers_NN2 ,_Y you_PPY might_VM try_VVI writing_VVG short_JJ science_NN1 fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   14 Just remember that although sci-fi has some similarities to the mainstream or literary short story -- and even more similarities to the other genres -- it also has important differences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   14 Just_RR remember_VV0 that_CST although_CS sci-fi_NN1 has_VHZ some_DD similarities_NN2 to_II the_AT mainstream_JJ_NN1@ or_CC literary_JJ short_JJ story_NN1 --_NN1 and_CC even_RR more_DAR similarities_NN2 to_II the_AT other_JJ genres_NN2 --_NN1_JJ it_PPH1 also_RR has_VHZ important_JJ differences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   15 Here in no particular order are a few pointers , suggestions and guidelines for writing salable science fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   15 Here_RL in_II no_AT particular_JJ order_NN1 are_VBR a_AT1 few_DA2 pointers_NN2 ,_Y suggestions_NN2 and_CC guidelines_NN2 for_IF writing_VVG salable_JJ science_NN1 fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   16 ( Like the famous amp in This Is Spinal Tap , they go to 11. ) * Meet your reader 's expectations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   16 (_Y Like_II_VV0@ the_AT famous_JJ amp_NN1 in_II This_DD1 Is_VBZ Spinal_JJ Tap_NN1 ,_Y they_PPHS2 go_VV0 to_II 11._MC )_Y *_FU Meet_VV0 your_APPGE reader_NN1 's_GE expectations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   17 The Western reader wants horse , hat and gun .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   17 The_AT Western_JJ reader_NN1 wants_VVZ horse_NN1 ,_Y hat_NN1 and_CC gun_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   18 The mystery maven expects a murder or , at minimum , a misdemeanor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   18 The_AT mystery_NN1 maven_NN1 expects_VVZ a_AT1 murder_NN1 or_CC ,_Y at_II minimum_NN1_JJ ,_Y a_AT1 misdemeanor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   19 Romance requires a kiss .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   19 Romance_NN1 requires_VVZ a_AT1 kiss_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   20 The science-fiction fan 's literary needs are less specific but just as essential : He expects -- indeed , demands -- a cool , interesting or ( at the least ) new idea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   20 The_AT science-fiction_JJ_NN1 fan_NN1 's_GE literary_JJ needs_NN2 are_VBR less_RGR specific_JJ but_CCB just_RR as_RG essential_JJ :_Y He_PPHS1 expects_VVZ --_ZZ indeed_RR ,_Y demands_NN2_VVZ@ --_NN1_JJ a_AT1 cool_JJ_NN1@ ,_Y interesting_JJ or_CC (_Y at_II the_AT least_RGT_RRT )_Y new_JJ idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   21 Sci-fi readers 're not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   21 Sci-fi_NN1 readers_NN2 're_VBR not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   22 They 're looking to get amazed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   22 They_PPHS2 're_VBR looking_VVG to_TO get_VVI amazed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   23 Sci-fi appeals to the reader 's sense of wonder , as the critics put it -- an imagination excited by encounters with other worlds and other realities , whether it 's the landscape of a far planet or the perils of the near future .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   23 Sci-fi_NN1 appeals_NN2_VVZ@ to_II the_AT reader_NN1 's_GE sense_NN1 of_IO wonder_NN1 ,_Y as_CSA_II the_AT critics_NN2 put_VV0_VVD it_PPH1 --_ZZ an_AT1 imagination_NN1 excited_VVN by_II encounters_NN2 with_IW other_JJ worlds_NN2 and_CC other_JJ realities_NN2 ,_Y whether_CSW it_PPH1 's_VBZ the_AT landscape_NN1 of_IO a_AT1 far_JJ planet_NN1 or_CC the_AT perils_NN2 of_IO the_AT near_JJ@ future_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   24 * Know , and generally stick to , the genre rules .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   24 *_FU Know_VV0 ,_Y and_CC generally_RR stick_VV0 to_TO_II ,_Y the_AT genre_NN1 rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   25 If a pill or chip makes your narrator immortal , it s science fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   25 If_CS a_AT1 pill_NN1 or_CC chip_NN1 makes_VVZ your_APPGE narrator_NN1 immortal_JJ ,_Y it_PPH1 s_ZZ1 science_NN1 fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   26 If it 's a potion or wand , it 's fantasy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   26 If_CS it_PPH1 's_VBZ a_AT1 potion_NN1 or_CC wand_NN1 ,_Y it_PPH1 's_VBZ fantasy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   27 Fantasy is about magic , and most often the past , whereas science fiction ( as the name implies ) is about technology and its promises and problems .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   27 Fantasy_NN1 is_VBZ about_II_RG% magic_NN1_JJ ,_Y and_CC most_RGT often_RR the_AT past_NN1_JJ ,_Y whereas_CS science_NN1 fiction_NN1 (_Y as_CSA_II the_AT name_NN1 implies_VVZ )_Y is_VBZ about_II technology_NN1 and_CC its_Z' promises_NN2 and_CC problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   28 If you want to mix them up , know what you are mixing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   28 If_CS you_PPY want_VV0 to_TO mix_VVI them_PPHO2 up_RP ,_Y know_VV0 what_DDQ you_PPY are_VBR mixing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   29 If the reader thinks you do n't know what you are doing , she wo n't follow more than a few steps into the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   29 If_CS the_AT reader_NN1 thinks_VVZ you_PPY do_VD0 n't_XX know_VVI what_DDQ you_PPY are_VBR doing_VDG ,_Y she_PPHS1 wo_VM n't_XX follow_VVI more_DAR_RRR than_CSN a_AT1 few_DA2 steps_NN2 into_II the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   30 Yes , rules are made to be broken , but if you want them to snap cleanly , you have to know them first .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   30 Yes_UH ,_Y rules_NN2 are_VBR made_VVN to_TO be_VBI broken_VVN ,_Y but_CCB if_CS you_PPY want_VV0 them_PPHO2 to_TO snap_VVI cleanly_RR ,_Y you_PPY have_VH0 to_TO know_VVI them_PPHO2 first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   31 * Come up concept is more important than plot and characterization .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   31 *_FU Come_VVN@ up_RP concept_NN1 is_VBZ more_RGR important_JJ than_CSN plot_NN1_VV0 and_CC characterization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   32 The characters in sci-fi exist primarily but not exclusively to dramatize the idea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   32 The_AT characters_NN2 in_II sci-fi_NN1 exist_VV0 primarily_RR but_CCB not_XX exclusively_RR to_TO dramatize_VVI the_AT idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   33 They are not the point of the story ; the idea is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   33 They_PPHS2 are_VBR not_XX the_AT point_NN1 of_IO the_AT story_NN1 ;_Y the_AT idea_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   34 Of course , you want your characters to ring true , but do n't overdo it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   34 Of_RR21 course_RR22 ,_Y you_PPY want_VV0 your_APPGE characters_NN2 to_TO ring_VVI true_JJ ,_Y but_CCB do_VD0 n't_XX overdo_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   35 As for plot , it 's only there to propel the reader through the story so she reaches the idea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   35 As_II21_CSA for_II22_IF plot_NN1 ,_Y it_PPH1 's_VBZ only_RR there_RL_EX to_TO propel_VVI the_AT reader_NN1 through_II the_AT story_NN1 so_CS@_RR she_PPHS1 reaches_VVZ the_AT idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   36 I have written and sold sci-fi stories without characters and without plots ( for example , " Corona Centurion FAQ , " a faux infomercial for an artificial heart ) , but no one has ever successfully peddled a sci-fi story without an idea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   36 I_PPIS1 have_VH0 written_VVN and_CC sold_VVN sci-fi_NN1 stories_NN2 without_IW characters_NN2 and_CC without_IW plots_NN2 (_Y for_REX21 example_REX22 ,_Y "_Y Corona_NP1 Centurion_NP1 FAQ_NP1 ,_Y "_Y a_AT1 faux_NN1 infomercial_JJ_NN1% for_IF an_AT1 artificial_JJ heart_NN1 )_Y ,_Y but_CCB no_PN121 one_PN122 has_VHZ ever_RR successfully_RR peddled_VVN a_AT1 sci-fi_NN1 story_NN1 without_IW an_AT1 idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   37 ( Now that I think of it , there is a character in my story -- the reader !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   37 (_Y Now_CS21 that_CS22 I_PPIS1 think_VV0 of_IO it_PPH1 ,_Y there_EX is_VBZ a_AT1 character_NN1 in_II my_APPGE story_NN1 --_NN1 the_AT reader_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   38 ) * Develop your idea fully .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   38 )_Y *_FU Develop_VV0 your_APPGE idea_NN1 fully_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   39 A device , such as a warp drive , is not an idea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   39 A_AT1 device_NN1 ,_Y such_II21 as_II22 a_AT1 warp_NN1 drive_NN1_VV0 ,_Y is_VBZ not_XX an_AT1 idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   40 A warp drives that carries you back to a place before you started is an idea that will put your characters to work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   40 A_AT1 warp_NN1 drives_VVZ that_CST_DD1 carries_VVZ you_PPY back_RP to_II a_AT1 place_NN1 before_CS you_PPY started_VVD_VVN@ is_VBZ an_AT1 idea_NN1 that_CST_DD1 will_VM put_VVI your_APPGE characters_NN2 to_TO@_II work_VVI_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   41 A toy from the future is not an to get along in school or even in this universe is an idea ( check out " Mimsy Were the Borogoves , " Lewis Padgett 's classic about an educational game gone wild ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   41 A_AT1 toy_NN1 from_II the_AT future_NN1 is_VBZ not_XX an_AT1 to_TO get_VVI along_RP in_II school_NN1 or_CC even_RR in_II this_DD1 universe_NN1 is_VBZ an_AT1 idea_NN1 (_Y check_VV0 out_RP "_Y Mimsy_NP1_NN1 Were_VBDR the_AT Borogoves_NN2_NP1 ,_Y "_Y Lewis_NP1 Padgett_NP1 's_GE classic_NN1_JJ about_II an_AT1 educational_JJ game_NN1 gone_VVN wild_JJ_RR@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   42 The idea has to contain a conflict that demands resolution .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   42 The_AT idea_NN1 has_VHZ to_TO contain_VVI a_AT1 conflict_NN1 that_CST demands_VVZ@_NN2 resolution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   43 There 's a reason they call it speculative fiction , and it 's not just because they are too polite to call it sci-fi .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   43 There_EX 's_VBZ a_AT1 reason_NN1 they_PPHS2 call_VV0 it_PPH1 speculative_JJ fiction_NN1 ,_Y and_CC it_PPH1 's_VBZ not_XX just_RR because_CS they_PPHS2 are_VBR too_RG polite_JJ to_TO call_VVI it_PPH1 sci-fi_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   44 It 's because the what-if is the why .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   44 It_PPH1 's_VBZ because_CS the_AT what-if_CS is_VBZ the_AT why_RRQ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   45 * Put readers to work playing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   45 *_FU Put_VVN readers_NN2 to_TO@_II work_VVI_NN1 playing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   46 The sci-fi reader brings a gamer 's intelligence to the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   46 The_AT sci-fi_NN1 reader_NN1 brings_VVZ a_AT1 gamer_NN1 's_GE intelligence_NN1 to_II the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   47 This is the sci-fi writer 's great -- some would say her only -- advantage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   47 This_DD1 is_VBZ the_AT sci-fi_NN1 writer_NN1 's_GE great_JJ --_NN1 some_DD would_VM say_VVI her_APPGE_PPHO1 only_JJ --_ZZ advantage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   48 Use it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   48 Use_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   49 Think of your story as the controlled release of information .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   49 Think_VV0 of_IO your_APPGE story_NN1 as_II_CSA the_AT controlled_JJ@ release_NN1 of_IO information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   50 Let your world , character and conflict emerge in a series of scenes , not all at once .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   50 Let_VV0 your_APPGE world_NN1 ,_Y character_NN1 and_CC conflict_NN1_VV0@ emerge_VV0 in_II_RP@ a_AT1 series_NN of_IO scenes_NN2 ,_Y not_XX all_RR31 at_RR32 once_RR33 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   51 Do n't give the game away too soon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   51 Do_VD0 n't_XX give_VVI the_AT game_NN1 away_RL too_RG soon_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   52 The sci-fi reader is not your ally but your opponent and adversary .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   52 The_AT sci-fi_NN1 reader_NN1 is_VBZ not_XX your_APPGE ally_NN1 but_CCB your_APPGE opponent_NN1 and_CC adversary_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   53 Think of your story as a contest in which the reader is pleased only if he loses .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   53 Think_VV0 of_IO your_APPGE story_NN1 as_II_CSA a_AT1 contest_NN1 in_II which_DDQ the_AT reader_NN1 is_VBZ pleased_VVN@_JJ only_RR_JJ if_CS he_PPHS1 loses_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   54 * Simplify .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   54 *_FU Simplify_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   55 the more outrageous the idea , and the cleaner and more transparent your prose must be .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   55 the_AT more_RGR outrageous_JJ the_AT idea_NN1 ,_Y and_CC the_AT cleaner_NN1_JJR and_CC more_RGR transparent_JJ your_APPGE prose_NN1 must_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   56 Experimental writing is for mainstream fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   56 Experimental_JJ writing_NN1 is_VBZ for_IF mainstream_JJ fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   57 Virginia Woolf and James Joyce wrote about everyday life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   57 Virginia_NP1 Woolf_NP1 and_CC James_NP1 Joyce_NP1 wrote_VVD about_II everyday_JJ life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   58 The sci-fi writer 's job is not to make our world deliciously strange but to make a strange world believable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   58 The_AT sci-fi_NN1 writer_NN1 's_GE job_NN1 is_VBZ not_XX to_TO make_VVI our_APPGE world_NN1 deliciously_RR strange_JJ but_CCB to_TO make_VVI a_AT1 strange_JJ world_NN1 believable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   59 This applies to point of view and timeline as well as diction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   59 This_DD1 applies_VVZ to_TO point_VVI of_IO view_NN1 and_CC timeline_VVI as_II31 well_II32 as_II33 diction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   60 Mainstream writers often play with timeline and POV .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   60 Mainstream_JJ writers_NN2 often_RR play_VV0 with_IW timeline_NN1 and_CC POV_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   61 Do n't do this .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   61 Do_VD0 n't_XX do_VDI this_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   62 One POV is enough .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   62 One_MC1 POV_NP1 is_VBZ enough_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   63 One flashback is more than enough .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   63 One_MC1 flashback_NN1 is_VBZ more_DAR_RRR than_CSN enough_RR_DD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   64 * Learn from historical novelists .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   64 *_FU Learn_VV0 from_II historical_JJ novelists_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   65 They face the same problems as the sci-fi writer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   65 They_PPHS2 face_VV0 the_AT same_DA problems_NN2 as_CSA the_AT sci-fi_NN1 writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   66 The historical-fiction writer doing medieval Paris has the same central task you have in doing 23rd-century Chicago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   66 The_AT historical-fiction_JJ_NN1 writer_NN1 doing_VDG medieval_JJ Paris_NP1 has_VHZ the_AT same_DA central_JJ task_NN1 you_PPY have_VH0 in_II doing_VDG 23rd-century_JJ Chicago_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   67 Your characters are not walking around in the same world as the reader , so you have to work a little harder .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   67 Your_APPGE characters_NN2 are_VBR not_XX walking_VVG around_RP in_II the_AT same_DA world_NN1 as_CSA the_AT reader_NN1 ,_Y so_CS@_RR you_PPY have_VH0 to_TO work_VVI a_RR21 little_RR22 harder_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   68 Read Cecilia Holland or Dorothy Dunnett .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   68 Read_VV0 Cecilia_NP1 Holland_NP1 or_CC Dorothy_NP1 Dunnett_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   69 Be careful not to give readers descriptive clutter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   69 Be_VB0 careful_JJ not_XX to_TO give_VVI readers_NN2 descriptive_JJ clutter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   70 You do n't have the space in a short story , and a holographic bouquet or a pair of memory-shoes can suggest a world your world consistent .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   70 You_PPY do_VD0 n't_XX have_VHI the_AT space_NN1 in_II a_AT1 short_JJ story_NN1 ,_Y and_CC a_AT1 holographic_JJ bouquet_NN1 or_CC a_AT1 pair_NN of_IO memory-shoes_NN2 can_VM suggest_VVI a_AT1 world_NN1 your_APPGE world_NN1 consistent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   71 Sci-fi is not magical realism , which delights in surprise and shifting realities .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   71 Sci-fi_NN1 is_VBZ not_XX magical_JJ realism_NN1 ,_Y which_DDQ delights_NN2 in_II surprise_NN1 and_CC shifting_JJ_VVG_NN1 realities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   72 Make your reality consistent with your central idea , and make your world consistent with a plausible , if not strictly possible , future .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   72 Make_VV0 your_APPGE reality_NN1 consistent_JJ with_IW your_APPGE central_JJ idea_NN1 ,_Y and_CC make_VV0 your_APPGE world_NN1 consistent_JJ with_IW a_AT1 plausible_JJ ,_Y if_CS not_XX strictly_RR possible_JJ ,_Y future_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   73 If your character is wearing a space suit , her cat must , too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   73 If_CS your_APPGE character_NN1 is_VBZ wearing_VVG a_AT1 space_NN1 suit_NN1_VV0 ,_Y her_APPGE cat_NN1 must_VM ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   74 * Make your dialogue do triple duty .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   74 *_FU Make_VV0 your_APPGE dialogue_NN1 do_VDI triple_JJ_NN1 duty_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   75 Dialogue is about information , so have dialogue reveal something about the character , the world , and the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   75 Dialogue_NN1 is_VBZ about_II information_NN1 ,_Y so_RR have_VH0 dialogue_NN1 reveal_VV0 something_PN1 about_II the_AT character_NN1 ,_Y the_AT world_NN1 ,_Y and_CC the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   76 " I know he 's a robot , but he 's my ex , and he 's not coming to the wedding .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   76 "_Y I_PPIS1 know_VV0 he_PPHS1 's_VBZ a_AT1 robot_NN1 ,_Y but_CCB he_PPHS1 's_VBZ my_APPGE ex_NN1@ ,_Y and_CC he_PPHS1 's_VBZ_VHZ@ not_XX coming_VVG to_II the_AT wedding_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   77 " Small talk in sci-fi is like carbonation in wine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   77 "_Y Small_JJ_NP1 talk_NN1_VV0 in_II sci-fi_NN1 is_VBZ like_JJ@_II carbonation_NN1 in_II wine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   78 It detracts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   78 It_PPH1 detracts_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   79 * Do n't explain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   79 *_FU Do_VD0 n't_XX explain_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   80 That the dolphins reported to the admiral is enough ; that they were working for the Navy is best left unsaid .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   80 That_CST the_AT dolphins_NN2 reported_VVN_VVD to_II the_AT admiral_NN1 is_VBZ enough_RR ;_Y that_CST they_PPHS2 were_VBDR working_VVG for_IF the_AT Navy_NN1 is_VBZ best_RRT left_VVN unsaid_VVN_VVD_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   81 It 's what 's left out that puts what 's left in at work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   81 It_PPH1 's_VBZ what_DDQ 's_VBZ_VHZ@ left_VVN out_RP that_CST_DD1 puts_VVZ what_DDQ 's_VBZ_VHZ@ left_VVN in_RP@ at_II work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   82 This applies to jargon as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   82 This_DD1 applies_VVZ to_II jargon_NN1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   83 It only works when it does n't have to be translated .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   83 It_PPH1 only_RR works_VVZ when_RRQ_CS it_PPH1 does_VDZ n't_XX have_VHI to_TO be_VBI translated_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   84 Ten four .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   84 Ten_MC four_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   85 * Forget looking with short stories , but that 's OK .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   85 *_FU Forget_VV0 looking_VVG with_IW short_JJ stories_NN2 ,_Y but_CCB that_DD1 's_VBZ OK_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   86 Science-fiction editors actually read their slush .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   86 Science-fiction_JJ_NN1 editors_NN2 actually_RR read_VVD_VV0_VVN their_APPGE slush_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   87 They are looking for new ideas and new writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   87 They_PPHS2 are_VBR looking_VVG for_IF new_JJ ideas_NN2 and_CC new_JJ writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   88 ( They have a curious desire to survive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   88 (_Y They_PPHS2 have_VH0 a_AT1 curious_JJ desire_NN1 to_TO survive_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   89 ) Do n't worry about the cover letter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   89 )_Y Do_VD0 n't_XX worry_VVI about_II the_AT cover_NN1 letter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   90 No one cares if you have been published in this , that or the other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   90 No_PN121 one_PN122 cares_VVZ if_CS_CSW@ you_PPY have_VH0 been_VBN published_VVN in_II this_DD1 ,_Y that_DD1 or_CC the_AT other_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   91 If they are sci-fi mags , editors will know it ; if they are n't , they wo n't count .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   91 If_CS they_PPHS2 are_VBR sci-fi_NN1 mags_NN2 ,_Y editors_NN2 will_VM know_VVI it_PPH1 ;_Y if_CS they_PPHS2 are_VBR n't_XX ,_Y they_PPHS2 wo_VM n't_XX count_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   92 As I alluded to earlier , they do n't teach genre in most MFA programs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   92 As_CSA I_PPIS1 alluded_VVD to_II_TO earlier_JJR_RRR ,_Y they_PPHS2 do_VD0 n't_XX teach_VVI genre_NN1 in_II most_DAT MFA_NN1_NP1 programs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   93 They actually discourage it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   93 They_PPHS2 actually_RR discourage_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   94 But if you decide to get serious , check out Clarion " and Odyssey , boot camps for sci-fi recruits .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   94 But_CCB if_CS you_PPY decide_VV0 to_TO get_VVI serious_JJ ,_Y check_VV0 out_RP Clarion_NN1 "_Y and_CC Odyssey_NN1 ,_Y boot_VV0_NN1 camps_NN2 for_IF sci-fi_NN1 recruits_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   95 If you can afford a few weeks of hard-core workshopping ( and at least a couple of grand ) , you will graduate with a new pack of friends , a new kit of skills , and an insider 's track on the biz -- a pole position in fact , as one or two grads almost always hit the mags within a year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   95 If_CS you_PPY can_VM afford_VVI a_AT1 few_DA2 weeks_NNT2 of_IO hard-core_JJ_NN1 workshopping_NN1@_VVG (_Y and_CC at_RR21 least_RR22 a_AT1 couple_NN1 of_IO grand_FW@_JJ )_Y ,_Y you_PPY will_VM graduate_VVI with_IW a_AT1 new_JJ pack_NN1 of_IO friends_NN2 ,_Y a_AT1 new_JJ kit_NN1 of_IO skills_NN2 ,_Y and_CC an_AT1 insider_NN1 's_GE track_NN1 on_II the_AT biz_NN1 --_NN1 a_AT1 pole_NN1 position_NN1 in_II fact_NN1 ,_Y as_CSA one_MC1 or_CC two_MC grads_NN2 almost_RR always_RR hit_VVD_VVN the_AT mags_NN2 within_II a_AT1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   96 Asimov 's Science still-honorable pulps , are the top markets , paying anywhere from 5 cents to 9 cents a word .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   96 Asimov_NP1 's_GE Science_NN1 still-honorable_JJ pulps_NN2 ,_Y are_VBR the_AT top_JJ_NN1 markets_NN2 ,_Y paying_VVG anywhere_RL from_II 5_MC cents_NNU2 to_II 9_MC cents_NNU2 a_AT1 word_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   97 Strange Horizons is the best-paying online market at 5 cents a word , as of this writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   97 Strange_JJ Horizons_NN2 is_VBZ the_AT best-paying_JJT online_JJ_RR market_NN1_VV0 at_II 5_MC cents_NNU2 a_AT1 word_NN1 ,_Y as_II21 of_II22 this_DD1 writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   98 Others come and go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   98 Others_NN2 come_VV0 and_CC go_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0   99 Rake the Internet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0   99 Rake_VV0 the_AT Internet_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0  100 Meanwhile , maybe it 's best if you think of my 11 pointers as rules .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0  100 Meanwhile_RR ,_Y maybe_RR it_PPH1 's_VBZ best_RRT if_CS you_PPY think_VV0 of_IO my_APPGE 11_MC pointers_NN2 as_CSA_II@ rules_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0  101 That way , you can break them with some satisfaction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0  101 That_DD1 way_NN1 ,_Y you_PPY can_VM break_VVI them_PPHO2 with_IW some_DD satisfaction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0  102 And do n't say I did n't warn you : Getting paid , even a few cents a word , is intoxicating .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0  102 And_CC do_VD0 n't_XX say_VVI I_PPIS1 did_VDD n't_XX warn_VVI you_PPY :_Y Getting_VVG paid_VVN ,_Y even_RR a_AT1 few_DA2 cents_NNU2 a_AT1 word_NN1 ,_Y is_VBZ intoxicating_JJ_VVG@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0  103 PHOTO ( COLOR ) By Terry Bisson Sci-fi author Terry Bisson , winner of the Hugo and Nebula awards , is known mainly for his short stories , which include the Internet favorite They re Made out of Meat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0  103 PHOTO_NN1 (_Y COLOR_NN1 )_Y By_II Terry_NP1 Bisson_NP1 Sci-fi_NN1 author_NN1 Terry_NP1 Bisson_NP1 ,_Y winner_NN1 of_IO the_AT Hugo_NP1 and_CC Nebula_JJ_NN1_NP1 awards_NN2 ,_Y is_VBZ known_VVN mainly_RR for_IF his_APPGE short_JJ stories_NN2 ,_Y which_DDQ include_VV0 the_AT Internet_NN1_NP1 favorite_NN1 They_PPHS2 re_II Made_VVD_VVN out_II21 of_II22 Meat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  A    0  104 "
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080335 COCA  B    0  104 "_Y

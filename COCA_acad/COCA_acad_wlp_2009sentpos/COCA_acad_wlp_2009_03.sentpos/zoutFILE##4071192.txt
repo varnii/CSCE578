@@ -1,0 +1,168 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    0 GEORGE PLIMPTON established the genre of participatory journalism in the 1960s .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    0 GEORGE_NP1 PLIMPTON_NP1 established_VVD the_AT genre_NN1 of_IO participatory_JJ journalism_NN1 in_II the_AT 1960s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    1 He played professional football for the Detroit Lions , stepped into the ring to fight pro boxer Archie Moore , swung on a trapeze for a circus , and played triangle for the New York Philharmonic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    1 He_PPHS1 played_VVD professional_JJ football_NN1 for_IF the_AT Detroit_NP1 Lions_NN2 ,_Y stepped_VVN_VVD into_II the_AT ring_NN1 to_TO fight_VVI pro_JJ_II boxer_NN1 Archie_NP1 Moore_NP1 ,_Y swung_VVN_VVD on_II_RP@ a_AT1 trapeze_NN1 for_IF a_AT1 circus_NN1 ,_Y and_CC played_VVD_JJ@_VVN triangle_NN1 for_IF the_AT New_NP1 York_NP1 Philharmonic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    2 Although Plimpton died in 2003 , the genre of participatory journalism has lived on ( it 's also called adventure journalism and sometimes considered one feature of New Journalism ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    2 Although_CS Plimpton_NP1 died_VVD in_II 2003_MC ,_Y the_AT genre_NN1 of_IO participatory_JJ journalism_NN1 has_VHZ lived_VVN on_II_RP@ (_Y it_PPH1 's_VBZ also_RR called_VVN adventure_NN1 journalism_NN1 and_CC sometimes_RT considered_VVD_VVN one_MC1 feature_NN1 of_IO New_JJ Journalism_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    3 <p> " I first started as a rock journalist since I was too chicken to make it as a musician , " Corey Levitan says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    3 <p>_Y "_Y I_PPIS1 first_MD started_VVD_VVN@ as_II a_AT1 rock_NN1 journalist_NN1 since_CS I_PPIS1 was_VBDZ too_RG_RR@ chicken_JJ%_VV0@ to_TO make_VVI it_PPH1 as_II_CSA a_AT1 musician_NN1 ,_Y "_Y Corey_NP1 Levitan_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    4 " I hated it and had to reconsider my career .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    4 "_Y I_PPIS1 hated_VVD it_PPH1 and_CC had_VHD_VHN@ to_TO reconsider_VVI my_APPGE career_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    5 Ideally , I liked journalism , sort of , like my basic 101 courses in college as a freshman and sophomore , where you learn about everything but it never becomes boring .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    5 Ideally_RR ,_Y I_PPIS1 liked_VVD journalism_NN1 ,_Y sort_RR21@ of_RR22 ,_Y like_II my_APPGE basic_JJ 101_MC courses_NN2 in_II college_NN1 as_II_CSA a_AT1 freshman_NN1 and_CC sophomore_NN1 ,_Y where_CS_RRQ you_PPY learn_VV0 about_II_RP@ everything_PN1 but_CCB_II it_PPH1 never_RR becomes_VVZ boring_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    6 In real life , as a rock journalist , I had to describe to my friends ' kids why J.C .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    6 In_II real_JJ life_NN1 ,_Y as_CSA_II a_AT1 rock_NN1 journalist_NN1 ,_Y I_PPIS1 had_VHD to_TO describe_VVI to_II my_APPGE friends_NN2 '_GE kids_NN2 why_RRQ J.C_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    7 Chasez a member of the disbanded group *NSYNC was cool .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    7 Chasez_VV0 a_AT1 member_NN1 of_IO the_AT disbanded_JJ@ group_NN1 *NSYNC_FO was_VBDZ cool_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    8 I wanted to shoot myself .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    8 I_PPIS1 wanted_VVD to_TO shoot_VVI myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0    9 experience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0    9 experience_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   10 I 'm like George Costanza playing George Plimpton .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   10 I_PPIS1 'm_VBM like_II George_NP1 Costanza_NP1 playing_VVG George_NP1 Plimpton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   11 " <p> " For me , it 's still mostly about freedom and satisfying curiosity , " Tom Clynes says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   11 "_Y <p>_Y "_Y For_IF me_PPIO1 ,_Y it_PPH1 's_VBZ still_RR mostly_RR about_II freedom_NN1 and_CC satisfying_JJ curiosity_NN1 ,_Y "_Y Tom_NP1 Clynes_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   12 " No matter how much I read , I ca n't hope to be truly well-informed if I 'm seeing the world mainly through other people 's filters ( which are often colored by their organizations ' agendas ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   12 "_Y No_XX matter_RGQV32 how_RGQV33 much_RR I_PPIS1 read_VV0_VVD ,_Y I_PPIS1 ca_VM n't_XX hope_VVI to_TO be_VBI truly_RR well-informed_JJ if_CS I_PPIS1 'm_VBM seeing_VVG the_AT world_NN1 mainly_RR through_II other_JJ people_NN 's_GE filters_NN2 (_Y which_DDQ are_VBR often_RR colored_VVN by_II their_APPGE organizations_NN2 '_GE agendas_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   13 I believe that it 's intrinsically worthwhile to go and find out , for myself , what 's happening out there .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   13 I_PPIS1 believe_VV0 that_CST it_PPH1 's_VBZ intrinsically_RR worthwhile_JJ to_TO go_VVI and_CC find_VVI out_RP ,_Y for_IF myself_PPX1 ,_Y what_DDQ 's_VBZ happening_VVG out_RP there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   14 " <p> You can , too .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   14 "_Y <p>_Y You_PPY can_VM ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   15 Writing participatory journalism articles can be fun and enlightening , and many magazines and newspapers publish them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   15 Writing_VVG participatory_JJ journalism_NN1 articles_NN2 can_VM be_VBI fun_JJ and_CC enlightening_VVG_NN1@_JJ@ ,_Y and_CC many_DA2 magazines_NN2 and_CC newspapers_NN2 publish_VV0 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   16 Here are some strategies to keep in mind : <p> L : Choosing an activity Do something unique that most of a publication 's readers probably have not done .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   16 Here_RL are_VBR some_DD strategies_NN2 to_TO keep_VVI in_II mind_NN1 :_Y <p>_Y L_ZZ1_NP1@ :_Y Choosing_VVG an_AT1 activity_NN1 Do_VD0 something_PN1 unique_JJ that_CST most_DAT of_IO a_AT1 publication_NN1 's_GE readers_NN2 probably_RR have_VH0 not_XX done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   17 This can be a travel-related activity , a new sport or an unusual job .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   17 This_DD1 can_VM be_VBI a_AT1 travel-related_JJ_NN1 activity_NN1 ,_Y a_AT1 new_JJ sport_NN1 or_CC an_AT1 unusual_JJ job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   18 <p> Seek adventure in a faraway destination .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   18 <p>_Y Seek_VV0 adventure_NN1 in_II a_AT1 faraway_NN1 destination_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   19 Many participatory journalism articles involve adventure travel .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   19 Many_DA2 participatory_JJ journalism_NN1 articles_NN2 involve_VV0 adventure_NN1 travel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   20 For example , Clynes , a contributing editor for National Geographic Zealand and learned to fly in the Australian outback .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   20 For_REX21 example_REX22 ,_Y Clynes_NP1 ,_Y a_AT1 contributing_JJ@ editor_NN1 for_IF National_JJ Geographic_JJ Zealand_NP1 and_CC learned_VVD_VVN to_TO fly_VVI in_II the_AT Australian_JJ outback_NN1_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   21 You could write about snorkeling at the Great Barrier Reef , dogsledding in Alaska , bull riding at a Western ranch , or bungee jumping in New Zealand .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   21 You_PPY could_VM write_VVI about_II snorkeling_VVG at_II the_AT Great_JJ Barrier_NN1 Reef_NN1 ,_Y dogsledding_VVG in_II Alaska_NP1 ,_Y bull_NN1 riding_VVG at_II a_AT1 Western_JJ ranch_NN1 ,_Y or_CC bungee_NN1 jumping_VVG_NN1 in_II New_NP1 Zealand_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   22 Generally , the more exotic and unique the activity or destination , the better your chances are of selling your article .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   22 Generally_RR ,_Y the_AT more_RGR exotic_JJ and_CC unique_JJ the_AT activity_NN1 or_CC destination_NN1 ,_Y the_AT better_RRR your_APPGE chances_NN2 are_VBR of_IO selling_VVG your_APPGE article_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   23 <p> Focus on regional attractions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   23 <p>_Y Focus_VV0_NN1 on_II_RP@ regional_JJ attractions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   24 Karen Lee Ensley wrote an article for Pennsylvania Magazine in which she described driving a NASCAR race car 160 mph on a professional track at Pocono Raceway .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   24 Karen_NP1 Lee_NP1 Ensley_NP1 wrote_VVD an_AT1 article_NN1 for_IF Pennsylvania_NP1 Magazine_NN1 in_II which_DDQ she_PPHS1 described_VVD driving_VVG a_AT1 NASCAR_NN1 race_NN1 car_NN1 160_MC mph_NNU on_II a_AT1 professional_JJ track_NN1 at_II Pocono_NP1 Raceway_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   25 Members of the public , too , can drive real stock cars as part of the StockCar Racing Experience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   25 Members_NN2 of_IO the_AT public_NN1_JJ ,_Y too_RR@_RG ,_Y can_VM drive_VVI real_JJ stock_NN1 cars_NN2 as_II part_NN1 of_IO the_AT StockCar_NN1_NP1 Racing_VVG_NN1@_JJ@ Experience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   26 She later wrote another article about spelunking in a cave for the same magazine .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   26 She_PPHS1 later_RRR wrote_VVD another_DD1 article_NN1 about_II spelunking_VVG in_II_RP@ a_AT1 cave_NN1 for_IF the_AT same_DA magazine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   27 Regional magazines like these articles because they entice readers to try the same experience at a local attraction .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   27 Regional_JJ magazines_NN2 like_II these_DD2 articles_NN2 because_CS they_PPHS2 entice_VV0 readers_NN2 to_TO try_VVI the_AT same_DA experience_NN1 at_II a_AT1 local_JJ attraction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   28 <p> Be a sport and try a new game .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   28 <p>_Y Be_VB0 a_AT1 sport_NN1 and_CC try_VV0 a_AT1 new_JJ game_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   29 In 2007 , Nick Norlen , a contributor to City Paper ( Philadelphia ) , wrote about trying out for the U.S. Table Tennis Olympic Team .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   29 In_II 2007_MC ,_Y Nick_NP1 Norlen_NP1 ,_Y a_AT1 contributor_NN1 to_II City_NN1 Paper_NN1 (_Y Philadelphia_NP1 )_Y ,_Y wrote_VVD about_II trying_VVG out_RP for_IF the_AT U.S._NP1 Table_NN1 Tennis_NN1 Olympic_JJ Team_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   30 Doron Taussig , a staff school teams and a game of H-O-R-S-E against Louis Williams of the Philadelphia 76ers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   30 Doron_NP1@_NN1 Taussig_NP1_NN1 ,_Y a_AT1 staff_NN school_NN1 teams_NN2 and_CC a_AT1 game_NN1 of_IO H-O-R-S-E_NN1 against_II Louis_NP1 Williams_NP1 of_IO the_AT Philadelphia_NP1 76ers_FO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   31 <p> Get a job .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   31 <p>_Y Get_VV0 a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   32 Other types of participatory journalism involve the writer getting to do a certain job to give readers a sense of what it 's like .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   32 Other_JJ types_NN2 of_IO participatory_JJ journalism_NN1 involve_VV0 the_AT writer_NN1 getting_VVG to_TO do_VDI a_AT1 certain_JJ job_NN1 to_TO give_VVI readers_NN2 a_AT1 sense_NN1 of_IO what_DDQ it_PPH1 's_VBZ like_JJ@_RR% ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   33 It can be a unique profession or something typical .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   33 It_PPH1 can_VM be_VBI a_AT1 unique_JJ profession_NN1 or_CC something_PN1 typical_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   34 <p> Levitan tries a different occupation or hobby every week and then writes about it for his Fear and Loafing column in the Las Vegas Review-Journal .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   34 <p>_Y Levitan_NN1_NP1@ tries_VVZ a_AT1 different_JJ occupation_NN1 or_CC hobby_NN1 every_AT1 week_NNT1 and_CC then_RT writes_VVZ about_II it_PPH1 for_IF his_APPGE Fear_NN1 and_CC Loafing_VVG_NP1_JJ@ column_NN1 in_II the_AT Las_NP1 Vegas_NP1 Review-Journal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   35 Among the jobs he has taken on are temple cantor , birthday clown , sushi chef , prison guard , Roller Derby girl--or boy , in his case--and Little League umpire .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   35 Among_II the_AT jobs_NN2 he_PPHS1 has_VHZ taken_VVN on_RP are_VBR temple_NN1 cantor_NN1 ,_Y birthday_NN1 clown_NN1 ,_Y sushi_NN2 chef_NN1 ,_Y prison_NN1 guard_NN1_VV0 ,_Y Roller_NN1 Derby_NP1_NN1@ girl--or_CC boy_NN1 ,_Y in_II his_PPGE@ case--and_CC Little_JJ_DA1 League_NN1 umpire_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   36 <p> " I do activities that the audience is familiar with , but I bring in new elements of education and comedy that they had n't thought of , " Levitan says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   36 <p>_Y "_Y I_PPIS1 do_VD0 activities_NN2 that_CST the_AT audience_NN1 is_VBZ familiar_JJ with_IW ,_Y but_CCB I_PPIS1 bring_VV0 in_RP new_JJ elements_NN2 of_IO education_NN1 and_CC comedy_NN1 that_CST they_PPHS2 had_VHD n't_XX thought_VVN of_IO ,_Y "_Y Levitan_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   37 " Some of the activities are unique , like being a madam at the Las Vegas Chicken Ranch , but it 's not that important that it be a unique job .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   37 "_Y Some_DD of_IO the_AT activities_NN2 are_VBR unique_JJ ,_Y like_II being_VBG a_AT1 madam_NN1 at_II the_AT Las_NP1 Vegas_NP1 Chicken_NN1 Ranch_NN1 ,_Y but_CCB it_PPH1 's_VBZ not_XX that_DD1_RG%_CST important_JJ that_CST it_PPH1 be_VBI a_AT1 unique_JJ job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   38 " <p> Clynes adds , " I do n't think the place the writer 's approach to it does .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   38 "_Y <p>_Y Clynes_NP1 adds_VVZ ,_Y "_Y I_PPIS1 do_VD0 n't_XX think_VVI the_AT place_NN1 the_AT writer_NN1 's_GE approach_NN1 to_II it_PPH1 does_VDZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   39 The best example I can think of is David Foster Wallace 's account of a luxury Caribbean cruise , ' A Supposedly Fun Thing I 'll Never Do Again .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   39 The_AT best_JJT example_NN1 I_PPIS1 can_VM think_VVI of_IO is_VBZ David_NP1 Foster_NP1 Wallace_NP1 's_GE account_NN1 of_IO a_AT1 luxury_JJ Caribbean_JJ cruise_NN1 ,_Y '_"@_GE A_ZZ1 Supposedly_RR Fun_JJ Thing_NN1 I_PPIS1 'll_VM Never_RR Do_VDI Again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   40 ' " <p> As a journalism professor , I always assign a participatory journalism article to my students .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   40 '_"@_GE "_Y <p>_Y As_II_CSA a_AT1 journalism_NN1 professor_NN1 ,_Y I_PPIS1 always_RR assign_VV0 a_AT1 participatory_JJ journalism_NN1 article_NN1 to_II my_APPGE students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   41 They have come up with many interesting activities to write about , including milking a cow , visiting a shaman in the woods , practicing with a professional dodgeball team , trying Brazilian jujitsu , going to a shooting range , running an obstacle course at a mountain resort , and practicing Bikram yoga .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   41 They_PPHS2 have_VH0 come_VVN up_RP with_IW many_DA2 interesting_JJ activities_NN2 to_TO write_VVI about_II ,_Y including_II milking_VVG@_NN1 a_AT1 cow_NN1 ,_Y visiting_VVG a_AT1 shaman_NN1 in_II the_AT woods_NN2 ,_Y practicing_VVG with_IW a_AT1 professional_JJ dodgeball_NN1 team_NN1 ,_Y trying_VVG Brazilian_JJ_NN1 jujitsu_NN1 ,_Y going_VVG to_II a_AT1 shooting_NN1_JJ@ range_NN1 ,_Y running_VVG an_AT1 obstacle_NN1 course_NN1 at_II a_AT1 mountain_NN1 resort_NN1 ,_Y and_CC practicing_VVG_JJ@ Bikram_NN1_NP1 yoga_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   42 <p> L : Writing the article Write notes right away .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   42 <p>_Y L_ZZ1_NP1@ :_Y Writing_VVG the_AT article_NN1 Write_VV0 notes_NN2 right_RR away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   43 It is important to write down notes and your thoughts right after taking part in the activity , while it is fresh in your mind .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   43 It_PPH1 is_VBZ important_JJ to_TO write_VVI down_RP notes_NN2 and_CC your_APPGE thoughts_NN2 right_RR_NN1 after_II taking_VVG part_NN1 in_II the_AT activity_NN1 ,_Y while_CS it_PPH1 is_VBZ fresh_JJ in_II your_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   44 This will make your recollections more vivid and accurate .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   44 This_DD1 will_VM make_VVI your_APPGE recollections_NN2 more_RGR vivid_JJ and_CC accurate_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   45 This is especially important if you engage in an activity that takes several days to accomplish , such as climbing a mountain .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   45 This_DD1 is_VBZ especially_RR important_JJ if_CS_CSW@ you_PPY engage_VV0 in_II_RP@ an_AT1 activity_NN1 that_CST_DD1 takes_VVZ several_DA2 days_NNT2 to_TO accomplish_VVI ,_Y such_II21 as_II22 climbing_VVG a_AT1 mountain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   46 " I travel with Rite in the Rain notebooks relevant , so I do n't get overwhelmed when I sit down to write , " Clynes says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   46 "_Y I_PPIS1 travel_VV0 with_IW Rite_NN1 in_II the_AT Rain_NN1 notebooks_NN2 relevant_JJ ,_Y so_CS@_RR I_PPIS1 do_VD0 n't_XX get_VVI overwhelmed_JJ_VVN when_CS_RRQ I_PPIS1 sit_VV0 down_RP to_TO write_VVI ,_Y "_Y Clynes_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   47 <p> Write from your own subjective perspective .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   47 <p>_Y Write_VV0 from_II your_APPGE own_DA subjective_JJ perspective_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   48 Write the article in a narrative , first-person essay style .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   48 Write_VV0 the_AT article_NN1 in_II a_AT1 narrative_NN1_JJ ,_Y first-person_JJ_NN1 essay_NN1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   49 Use " I " and insert yourself into the article .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   49 Use_VV0 "_Y I_ZZ1%_PPIS1_MC1% "_Y and_CC insert_VV0_NN1 yourself_PPX1 into_II the_AT article_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   50 Unlike most forms of journalism , these articles are primarily about you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   50 Unlike_II@ most_DAT forms_NN2 of_IO journalism_NN1 ,_Y these_DD2 articles_NN2 are_VBR primarily_RR about_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   51 <p> " I always thought that objectivity was laughable , " Levitan says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   51 <p>_Y "_Y I_PPIS1 always_RR thought_VVN_VVD that_DD1_CST objectivity_NN1 was_VBDZ laughable_JJ ,_Y "_Y Levitan_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   52 " In this type of journalism , ... you need to make yourself a character in the story to get to the truth .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   52 "_Y In_II this_DD1 type_NN1 of_IO journalism_NN1 ,_Y ..._... you_PPY need_VV0 to_TO make_VVI yourself_PPX1 a_AT1 character_NN1 in_II the_AT story_NN1 to_TO get_VVI to_II the_AT truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   53 There 's no objectivity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   53 There_EX 's_VBZ no_AT objectivity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   54 " <p> Borrow fiction techniques .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   54 "_Y <p>_Y Borrow_VV0 fiction_NN1 techniques_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   55 " The best stories are the ones that present facts via the techniques of fiction , " Clynes says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   55 "_Y The_AT best_JJT stories_NN2 are_VBR the_AT ones_Z' that_CST_DD1 present_JJ_NN1 facts_NN2 via_II the_AT techniques_NN2 of_IO fiction_NN1 ,_Y "_Y Clynes_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   56 " You construct a central narrative , set scenes , present interesting characters , and tell the story in a compelling voice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   56 "_Y You_PPY construct_VV0 a_AT1 central_JJ narrative_NN1_JJ ,_Y set_VV0_VVD_NN1_JJ@ scenes_NN2 ,_Y present_JJ_VV0@ interesting_JJ characters_NN2 ,_Y and_CC tell_VV0 the_AT story_NN1 in_II a_AT1 compelling_JJ voice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   57 But ... real people and real events usually do n't fit easily to these conventions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   57 But_CCB ..._... real_JJ people_NN and_CC real_JJ events_NN2 usually_RR do_VD0 n't_XX fit_VVI easily_RR to_II these_DD2 conventions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   58 Reality is a sloppy mess , and you 're going to sometimes tear your hair out trying to develop a structure <p> Do n't do a lot of research .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   58 Reality_NN1 is_VBZ a_AT1 sloppy_JJ mess_NN1 ,_Y and_CC you_PPY 're_VBR going_VVG to_TO sometimes_RT tear_VVI your_APPGE hair_NN1 out_RP trying_VVG to_TO develop_VVI a_AT1 structure_NN1 <p>_Y Do_VD0 n't_XX do_VDI a_AT1 lot_NN1 of_IO research_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   59 Levitan believes that it is best to go into the activity cold , knowing little about it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   59 Levitan_NN1_NP1@ believes_VVZ that_CST it_PPH1 is_VBZ best_JJT to_TO go_VVI into_II the_AT activity_NN1 cold_NN1_JJ ,_Y knowing_VVG little_RR_JJ_DA1 about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   60 " The advantage of the lack of knowledge is to put it to use as the reader would so they can empathize with me , whether I 'm being a Chippendales dancer or a welder .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   60 "_Y The_AT advantage_NN1 of_IO the_AT lack_NN1 of_IO knowledge_NN1 is_VBZ to_TO put_VVI it_PPH1 to_TO use_VVI as_II the_AT reader_NN1 would_VM so_RR they_PPHS2 can_VM empathize_VVI with_IW me_PPIO1 ,_Y whether_CSW I_PPIS1 'm_VBM being_VBG a_AT1 Chippendales_NP2 dancer_NN1 or_CC a_AT1 welder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   61 People have asked me if I wanted to rehearse or study , but I said no .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   61 People_NN have_VH0 asked_VVN me_PPIO1 if_CS_CSW@ I_PPIS1 wanted_VVD to_TO rehearse_VVI or_CC study_NN1 ,_Y but_CCB I_PPIS1 said_VVD no_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   62 " <p> Layer in the details to set the scene for your readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   62 "_Y <p>_Y Layer_NN1_VV0@ in_II the_AT details_NN2 to_TO set_VVI the_AT scene_NN1 for_IF your_APPGE readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   63 To make your story come alive , describe your experience in detail , including the environment and the people around you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   63 To_TO make_VVI your_APPGE story_NN1 come_VVI alive_JJ ,_Y describe_VV0 your_APPGE experience_NN1 in_II detail_NN1 ,_Y including_II_VVG@ the_AT environment_NN1 and_CC the_AT people_NN around_II_RP you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   64 Add your dialogue with other participants to the story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   64 Add_VV0 your_APPGE dialogue_NN1 with_IW other_JJ participants_NN2 to_II the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   65 Use humor and self-deprecation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   65 Use_VV0_NN1 humor_NN1 and_CC self-deprecation_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   66 Express your fear and apprehension .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   66 Express_VV0 your_APPGE fear_NN1 and_CC apprehension_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   67 These are good techniques to get the readers to relate to you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   67 These_DD2 are_VBR good_JJ techniques_NN2 to_TO get_VVI the_AT readers_NN2 to_TO relate_VVI to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   68 If you had a lump in your throat right before you were about to get on a rodeo bull , your readers should have that lump as well as they read your description .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   68 If_CS you_PPY had_VHD a_AT1 lump_NN1 in_II your_APPGE throat_NN1 right_NN1_RR before_CS you_PPY were_VBDR about_RPK to_TO get_VVI on_II_RP@ a_AT1 rodeo_NN1 bull_NN1 ,_Y your_APPGE readers_NN2 should_VM have_VHI that_DD1 lump_NN1 as_RG well_RR as_CSA they_PPHS2 read_VV0_VVD your_APPGE description_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   69 <p> Include tips and final thoughts .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   69 <p>_Y Include_VV0 tips_NN2 and_CC final_JJ thoughts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   70 takes to do this activity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   70 takes_VVZ to_TO do_VDI this_DD1 activity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   71 Would you do it again ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   71 Would_VM you_PPY do_VDI it_PPH1 again_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   72 Would you encourage readers to try it ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   72 Would_VM you_PPY encourage_VVI readers_NN2 to_TO try_VVI it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   73 Mention what readers should know when trying this activity , e.g. , wear a helmet if you go snowboarding .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   73 Mention_VV0_NN1 what_DDQ readers_NN2 should_VM know_VVI when_RRQ trying_JJ@ this_DD1 activity_NN1 ,_Y e.g._REX ,_Y wear_VV0 a_AT1 helmet_NN1 if_CS you_PPY go_VV0 snowboarding_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   74 <p> Participatory journalism is n't easy , but it can be very rewarding .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   74 <p>_Y Participatory_JJ journalism_NN1 is_VBZ n't_XX easy_JJ ,_Y but_CCB it_PPH1 can_VM be_VBI very_RG rewarding_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   75 " There 's tremendous freedom " Clynes says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   75 "_Y There_EX 's_VBZ tremendous_JJ freedom_NN1 "_Y Clynes_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   76 " But ... the initial frustrations are fairly extravagant .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   76 "_Y But_CCB ..._... the_AT initial_JJ_NN1 frustrations_NN2 are_VBR fairly_RR extravagant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   77 Those who are tenacious and willing to learn from mistakes--and willing to make friends with uncertainty--will eventually be successful , if they keep at it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   77 Those_DD2 who_PNQS are_VBR tenacious_JJ and_CC willing_JJ to_TO learn_VVI from_II mistakes--and_NN2 willing_JJ_VVG% to_TO make_VVI friends_NN2 with_IW uncertainty--will_JJ eventually_RR be_VBI successful_JJ ,_Y if_CS they_PPHS2 keep_VV0 at_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   78 " <p> As for Levitan 's final advice to budding participatory journalists , he jokes , " Wait until I die from doing something dangerous .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   78 "_Y <p>_Y As_II21 for_II22 Levitan_NP1_NN1 's_GE final_JJ_NN1 advice_NN1 to_II budding_JJ_VVG@ participatory_JJ journalists_NN2 ,_Y he_PPHS1 jokes_VVZ@ ,_Y "_Y Wait_VV0 until_CS I_PPIS1 die_VV0 from_II doing_VDG something_PN1 dangerous_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   79 I do n't want competition .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   79 I_PPIS1 do_VD0 n't_XX want_VVI competition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   80 " <p> PHOTO ( COLOR ) : Swimming with the fishes in an exotic locale could make for a great participatory journalism article--especially if it 's your first time scuba diving .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   80 "_Y <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Swimming_VVG_NN1 with_IW the_AT fishes_NN2 in_II an_AT1 exotic_JJ locale_NN1 could_VM make_VVI for_IF a_AT1 great_JJ participatory_JJ journalism_NN1 article--especially_RR if_CS it_PPH1 's_VBZ your_APPGE first_MD time_NNT1 scuba_NN1 diving_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   81 <p> By Larry Atkins <p> Larry Atkins teaches journalism at Temple University and Arcadia University .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   81 <p>_Y By_II Larry_NP1 Atkins_NP1 <p>_Y Larry_NP1 Atkins_NP1 teaches_VVZ journalism_NN1 at_II Temple_NP1 University_NN1 and_CC Arcadia_NP1 University_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   82 He lives in Pennsylvania .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   82 He_PPHS1 lives_VVZ in_II Pennsylvania_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  A    0   83 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071192 COCA  B    0   83 <p>_Y

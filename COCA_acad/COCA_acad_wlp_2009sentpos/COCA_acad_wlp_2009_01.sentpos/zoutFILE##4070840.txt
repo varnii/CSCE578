@@ -1,0 +1,150 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    0 THE LAW OF UNINTENDED CONSEQUENCES comes in many forms , which is the point of the so-called ancient Chinese curse : " May you get what you wish for .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    0 THE_AT LAW_NN1 OF_IO UNINTENDED_JJ CONSEQUENCES_NN2 comes_VVZ in_II_RP@ many_DA2 forms_NN2 ,_Y which_DDQ is_VBZ the_AT point_NN1 of_IO the_AT so-called_JJ ancient_JJ Chinese_JJ curse_NN1 :_Y "_Y May_VM@ you_PPY get_VVI what_DDQ you_PPY wish_VV0 for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    1 " A less dramatic way of expressing this sentiment is to acknowledge that we learn more from our failures than from our successes .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    1 "_Y A_AT1 less_RGR dramatic_JJ way_NN1 of_IO expressing_VVG this_DD1 sentiment_NN1 is_VBZ to_TO acknowledge_VVI that_CST we_PPIS2 learn_VV0 more_RRR_DAR from_II our_APPGE failures_NN2 than_CSN from_II our_APPGE successes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    2 The two teachers who had the most positive impact on my life were both bad teachers .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    2 The_AT two_MC teachers_NN2 who_PNQS had_VHD the_AT most_RGT positive_JJ impact_NN1 on_II my_APPGE life_NN1 were_VBDR both_RR_DB2 bad_JJ teachers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    3 One , in elementary school , was unquestionably bad ; the other , in high school , was simply flawed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    3 One_MC1 ,_Y in_II elementary_JJ school_NN1 ,_Y was_VBDZ unquestionably_RR bad_JJ ;_Y the_AT other_JJ_NN1@ ,_Y in_II high_JJ school_NN1 ,_Y was_VBDZ simply_RR flawed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    4 I am not an advocate for hiring bad teachers , but bad can sometimes be good .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    4 I_PPIS1 am_VBM not_XX an_AT1 advocate_NN1 for_IF hiring_VVG bad_JJ teachers_NN2 ,_Y but_CCB bad_JJ_RR% can_VM_NN1% sometimes_RT be_VBI good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    5 <p> I took an instant dislike to a fourth grade teacher who was far too inflexible for me. in one assignment , she gave a list of ten words and asked us to write a sentence for each .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    5 <p>_Y I_PPIS1 took_VVD an_AT1 instant_JJ_NNT1 dislike_NN1 to_II a_AT1 fourth_MD grade_NN1 teacher_NN1 who_PNQS was_VBDZ far_RR too_RG inflexible_JJ for_IF me._NNU in_II one_MC1 assignment_NN1 ,_Y she_PPHS1 gave_VVD a_AT1 list_NN1 of_IO ten_M words_NN2 and_CC asked_VVD us_PPIO2 to_TO write_VVI a_AT1 sentence_NN1 for_IF each_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    6 I saw the ambiguity in her request , and thought I was being especially clever in coming up with one sentence that incorporated all ten words .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    6 I_PPIS1 saw_VVD the_AT ambiguity_NN1 in_II her_APPGE request_NN1 ,_Y and_CC thought_VVD_NN1 I_PPIS1 was_VBDZ being_VBG especially_RR clever_JJ in_II coming_VVG up_RP with_IW one_MC1 sentence_NN1 that_CST incorporated_VVD@_VVN all_DB_RR@ ten_M words_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    7 I expect there were significant grammatical problems with my very long sentence , and made me write ten separate sentences using each of the words once .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    7 I_PPIS1 expect_VV0 there_EX_RL were_VBDR significant_JJ grammatical_JJ problems_NN2 with_IW my_APPGE very_RG long_JJ sentence_NN1 ,_Y and_CC made_VVD me_PPIO1 write_VVI ten_M separate_JJ sentences_NN2 using_VVG each_DD1 of_IO the_AT words_NN2 once_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    8 So I defiantly followed the letter , but not the spirit , of her assignment .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    8 So_RR I_PPIS1 defiantly_RR followed_VVD the_AT letter_NN1 ,_Y but_CCB not_XX the_AT spirit_NN1 ,_Y of_IO her_APPGE assignment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0    9 For example , my sentence for the word " across " would be , " Across is a very nice word .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0    9 For_REX21 example_REX22 ,_Y my_APPGE sentence_NN1 for_IF the_AT word_NN1 "_Y across_RL@_II "_Y would_VM be_VBI ,_Y "_Y Across_RL@ is_VBZ a_AT1 very_RG nice_JJ word_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   10 " I made sure not to give a clue as to whether I knew the meaning of the word .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   10 "_Y I_PPIS1 made_VVD sure_JJ not_XX to_TO give_VVI a_AT1 clue_NN1 as_II21 to_II22 whether_CSW I_PPIS1 knew_VVD the_AT meaning_NN1 of_IO the_AT word_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   11 Again , I was punished .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   11 Again_RT ,_Y I_PPIS1 was_VBDZ punished_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   12 <p> OK , I confess .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   12 <p>_Y OK_RR ,_Y I_PPIS1 confess_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   13 I could be pretty insufferable .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   13 I_PPIS1 could_VM be_VBI pretty_RG insufferable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   14 But it was the punishment , rather than the assignment or my solutions to it , that changed my life .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   14 But_CCB it_PPH1 was_VBDZ the_AT punishment_NN1 ,_Y rather_II21_CS21@ than_II22_CS22@ the_AT assignment_NN1 or_CC my_APPGE solutions_NN2 to_II it_PPH1 ,_Y that_CST_DD1 changed_VVD my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   15 My punishment was to do math problems while my classmates were drawing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   15 My_APPGE punishment_NN1 was_VBDZ to_TO do_VDI math_NN1 problems_NN2 while_CS my_APPGE classmates_NN2 were_VBDR drawing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   16 So this obnoxious little kid was inspired by his teacher to enjoy mathematics because he saw that his teacher hated mathematics .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   16 So_RR this_DD1_RG% obnoxious_JJ little_JJ kid_NN1 was_VBDZ inspired_VVN by_II his_APPGE teacher_NN1 to_TO enjoy_VVI mathematics_NN1 because_CS he_PPHS1 saw_VVD that_CST his_APPGE teacher_NN1 hated_VVD_JJ@ mathematics_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   17 I also had the incentive to get thrown into the " briar patch " on a regular basis , which helped me to excel mathematically .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   17 I_PPIS1 also_RR had_VHD the_AT incentive_NN1 to_TO get_VVI thrown_VVN into_II the_AT "_Y briar_NN1 patch_NN1 "_Y on_II a_AT1 regular_JJ basis_NN1 ,_Y which_DDQ helped_VVD me_PPIO1 to_TO excel_VVI mathematically_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   18 One never knows all the forces that come into play in choosing a career , but I think this becoming a math professor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   18 One_PN1 never_RR knows_VVZ all_DB the_AT forces_NN2 that_CST come_VV0 into_II play_NN1 in_II choosing_VVG a_AT1 career_NN1 ,_Y but_CCB I_PPIS1 think_VV0 this_DD1 becoming_VVG a_AT1 math_NN1 professor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   19 I can only hope that her math phobia did n't turn too many other students off math forever .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   19 I_PPIS1 can_VM only_RR hope_VVI that_CST her_APPGE math_NN1 phobia_NN1 did_VDD n't_XX turn_VVI too_RG many_DA2 other_JJ students_NN2 off_II math_NN1 forever_RT ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   20 <p> The teacher who had the hugest impact on me was my English teacher in my senior year of high school , but his teaching of English was only marginally relevant .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   20 <p>_Y The_AT teacher_NN1 who_PNQS had_VHD the_AT hugest_JJT impact_NN1 on_II me_PPIO1 was_VBDZ my_APPGE English_JJ_NN1 teacher_NN1 in_II my_APPGE senior_JJ year_NNT1 of_IO high_JJ school_NN1 ,_Y but_CCB his_APPGE teaching_NN1 of_IO English_NN1 was_VBDZ only_RR marginally_RR relevant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   21 He was also our class advisor , and wanted our class to demonstrate school spirit .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   21 He_PPHS1 was_VBDZ also_RR our_APPGE class_NN1 advisor_NN1 ,_Y and_CC wanted_VVD our_APPGE class_NN1 to_TO demonstrate_VVI school_NN1 spirit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   22 So he declared that each Friday the members of our graduating class would wear a tie .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   22 So_RR he_PPHS1 declared_VVD that_CST each_DD1 Friday_NPD1 the_AT members_NN2 of_IO our_APPGE graduating_VVG class_NN1 would_VM wear_VVI a_AT1 tie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   23 When I came to school tieless , the teacher asked me to sit in the back and write an essay explaining my behavior .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   23 When_CS_RRQ I_PPIS1 came_VVD to_II school_NN1 tieless_JJ ,_Y the_AT teacher_NN1 asked_VVD me_PPIO1 to_TO sit_VVI in_II the_AT back_NN1 and_CC write_VVI an_AT1 essay_NN1 explaining_VVG my_APPGE behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   24 I incorporated in my essay some unsolicited advice from another student .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   24 I_PPIS1 incorporated_VVD in_II_RP@ my_APPGE essay_NN1 some_DD unsolicited_JJ advice_NN1 from_II another_DD1 student_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   25 I began , " This jerk sitting next to me just told me to write that I forgot the tie .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   25 I_PPIS1 began_VVD ,_Y "_Y This_DD1 jerk_NN1 sitting_VVG next_II21 to_II22 me_PPIO1 just_RR told_VVD_VVN me_PPIO1 to_TO write_VVI that_CST I_PPIS1 forgot_VVD the_AT tie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   26 Well , I did n't .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   26 Well_RR ,_Y I_PPIS1 did_VDD n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   27 " I then explained how " team spirit , " if it was important , which I did n't think it was , could n't be forced .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   27 "_Y I_PPIS1 then_RT explained_VVD how_RRQ "_Y team_NN1 spirit_NN1 ,_Y "_Y if_CS it_PPH1 was_VBDZ important_JJ ,_Y which_DDQ I_PPIS1 did_VDD n't_XX think_VVI it_PPH1 was_VBDZ ,_Y could_VM n't_XX be_VBI forced_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   28 The following Friday , I again came without a tie and was right , but the Friday tie seemed to turn from a requirement to a request .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   28 The_AT following_JJ Friday_NPD1 ,_Y I_PPIS1 again_RT came_VVD without_IW a_AT1 tie_NN1 and_CC was_VBDZ right_JJ ,_Y but_CCB the_AT Friday_NPD1 tie_NN1 seemed_VVD to_TO turn_VVI from_II a_AT1 requirement_NN1 to_II a_AT1 request_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   29 This incident must have been significant to me , since I still remember it , but I only mention it here because the teacher and I had another conversation that I know changed my life .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   29 This_DD1 incident_NN1 must_VM have_VHI been_VBN significant_JJ to_II me_PPIO1 ,_Y since_CS I_PPIS1 still_RR remember_VV0 it_PPH1 ,_Y but_CCB I_PPIS1 only_RR mention_VV0 it_PPH1 here_RL because_CS the_AT teacher_NN1 and_CC I_PPIS1 had_VHD another_DD1 conversation_NN1 that_CST I_PPIS1 know_VV0 changed_VVN_VVD my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   30 <p> He asked all the seniors to write short essays .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   30 <p>_Y He_PPHS1 asked_VVD all_DB the_AT seniors_NN2 to_TO write_VVI short_JJ essays_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   31 Not only would the valedictorian speak at graduation , but our advisor would choose three others to read their essays at graduation .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   31 Not_XX only_RR would_VM the_AT valedictorian_NN1 speak_VVI at_II graduation_NN1 ,_Y but_CCB our_APPGE advisor_NN1 would_VM choose_VVI three_MC others_NN2 to_TO read_VVI their_APPGE essays_NN2 at_II graduation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   32 When the winners were announced , I was not the least surprised to find I was n't one of the chosen three .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   32 When_CS the_AT winners_NN2 were_VBDR announced_VVN ,_Y I_PPIS1 was_VBDZ not_XX the_AT least_RGT surprised_JJ to_TO find_VVI I_PPIS1 was_VBDZ n't_XX one_MC1 of_IO the_AT chosen_JJ@ three_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   33 As I was leaving class that day , the advisor told me to go to his office after school .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   33 As_CSA I_PPIS1 was_VBDZ leaving_VVG class_NN1 that_DD1 day_NNT1 ,_Y the_AT advisor_NN1 told_VVD me_PPIO1 to_TO go_VVI to_II his_APPGE office_NN1 after_II_CS school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   34 I assumed he wanted to tell me how furious he was about what I had written .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   34 I_PPIS1 assumed_VVD he_PPHS1 wanted_VVD to_TO tell_VVI me_PPIO1 how_RGQ@_RRQ furious_JJ he_PPHS1 was_VBDZ about_II what_DDQ I_PPIS1 had_VHD written_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   35 Note : my essay was not about religion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   35 Note_VV0_NN1 :_Y my_APPGE essay_NN1 was_VBDZ not_XX about_II religion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   36 <p> When I got to my English teacher 's office , he closed the door behind me and said , " I wish I had the courage to choose your essay for graduation .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   36 <p>_Y When_CS_RRQ I_PPIS1 got_VVD to_II@ my_APPGE English_JJ_NN1 teacher_NN1 's_GE office_NN1 ,_Y he_PPHS1 closed_VVD the_AT door_NN1 behind_II me_PPIO1 and_CC said_VVD ,_Y "_Y I_PPIS1 wish_VV0 I_PPIS1 had_VHD the_AT courage_NN1 to_TO choose_VVI your_APPGE essay_NN1 for_IF graduation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   37 You 're not .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   37 You_PPY 're_VBR not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   38 I hope someday , when you are in a responsible position , that you will have the courage to do the kinds of things I do n't do .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   38 I_PPIS1 hope_VV0 someday_RT ,_Y when_CS_RRQ you_PPY are_VBR in_II a_AT1 responsible_JJ position_NN1 ,_Y that_CST you_PPY will_VM have_VHI the_AT courage_NN1 to_TO do_VDI the_AT kinds_NN2 of_IO things_NN2 I_PPIS1 do_VD0 n't_XX do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   39 " <p> My teacher 's remarks both angered and elated me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   39 "_Y <p>_Y My_APPGE teacher_NN1 's_GE remarks_NN2 both_RR angered_VVN_VVD and_CC elated_VVN me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   40 My first thought was about his being a coward .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   40 My_APPGE first_MD thought_NN1 was_VBDZ about_II his_APPGE being_VBG a_AT1 coward_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   41 My second thought was about his liking my essay .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   41 My_APPGE second_MD thought_NN1 was_VBDZ about_II his_APPGE liking_VVG my_APPGE essay_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   42 My third thought , which should have been my first , was that I had just talked to a very special teacher .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   42 My_APPGE third_MD thought_NN1 ,_Y which_DDQ should_VM have_VHI been_VBN my_APPGE first_MD ,_Y was_VBDZ that_CST I_PPIS1 had_VHD just_RR talked_VVN to_II a_AT1 very_RG special_JJ teacher_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   43 He was the first teacher who had been honest enough with me to admit his foibles and regrets .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   43 He_PPHS1 was_VBDZ the_AT first_MD teacher_NN1 who_PNQS had_VHD been_VBN honest_JJ enough_RR with_IW me_PPIO1 to_TO admit_VVI his_APPGE foibles_NN2 and_CC regrets_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   44 He was also confident that I would someday be in a responsible position , something I had doubted about myself .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   44 He_PPHS1 was_VBDZ also_RR confident_JJ that_CST I_PPIS1 would_VM someday_RT be_VBI in_II a_AT1 responsible_JJ position_NN1 ,_Y something_PN1 I_PPIS1 had_VHD doubted_VVN about_II myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   45 I made up my mind that whenever future conflicts arose for me between respectability and self-respect , I would opt for the latter .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   45 I_PPIS1 made_VVD up_RP my_APPGE mind_NN1 that_CST whenever_RRQV future_JJ conflicts_NN2 arose_VVD for_IF me_PPIO1 between_II respectability_NN1 and_CC self-respect_NN1 ,_Y I_PPIS1 would_VM opt_VVI for_IF the_AT latter_DA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   46 I would take risks even when in a responsible position .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   46 I_PPIS1 would_VM take_VVI risks_NN2 even_CS21 when_CS22 in_II a_AT1 responsible_JJ position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   47 I did n't realize until years later that this wonderful teacher had taken a considerable risk by confiding in me the way he did .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   47 I_PPIS1 did_VDD n't_XX realize_VVI until_CS_II@ years_NNT2 later_RRR that_CST this_DD1 wonderful_JJ teacher_NN1 had_VHD taken_VVN a_AT1 considerable_JJ risk_NN1 by_II confiding_VVG in_II me_PPIO1 the_AT way_NN1 he_PPHS1 did_VDD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   48 My one graduation memory while a fellow student droned on about the joys of John Keats .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   48 My_APPGE one_MC1 graduation_NN1 memory_NN1 while_CS a_AT1 fellow_JJ_NN1 student_NN1 droned_VVD on_RP@ about_II the_AT joys_NN2 of_IO John_NP1 Keats_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   49 I felt for the first time in my life that I was on the same wavelength as one of my teachers , and that we were looking at each other as equals .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   49 I_PPIS1 felt_VVD for_IF the_AT first_MD time_NNT1 in_II my_APPGE life_NN1 that_CST I_PPIS1 was_VBDZ on_II the_AT same_DA wavelength_NN1 as_CSA one_MC1 of_IO my_APPGE teachers_NN2 ,_Y and_CC that_CST we_PPIS2 were_VBDR looking_VVG at_II each_PPX221 other_PPX222 as_CSA equals_VVZ_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   50 <p> I hoped one day to be important enough to be invited as a graduation speaker at some academic institution .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   50 <p>_Y I_PPIS1 hoped_VVD one_MC1 day_NNT1 to_TO be_VBI important_JJ enough_RR to_TO be_VBI invited_VVN as_II a_AT1 graduation_NN1 speaker_NN1 at_II some_DD academic_JJ institution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   51 My title would be , " Fulfilling Your Dreams .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   51 My_APPGE title_NN1 would_VM be_VBI ,_Y "_Y Fulfilling_VVG Your_APPGE Dreams_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   52 " I would first describe the above incident , and then deliver my belated essay .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   52 "_Y I_PPIS1 would_VM first_MD describe_VVI the_AT above_JJ@ incident_NN1 ,_Y and_CC then_RT deliver_VV0 my_APPGE belated_JJ essay_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   53 I assumed it would be one of the few graduation speeches that graduates would actually remember .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   53 I_PPIS1 assumed_VVD it_PPH1 would_VM be_VBI one_MC1 of_IO the_AT few_DA2 graduation_NN1 speeches_NN2 that_CST graduates_NN2 would_VM actually_RR remember_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   54 Alas , no such speaking invitation has yet been received .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   54 Alas_UH ,_Y no_AT such_DA speaking_JJ@_NN1@ invitation_NN1 has_VHZ yet_RR been_VBN received_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   55 <p> So now the time has come for my rejected essay to be aired , at least as best as I remember it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   55 <p>_Y So_RR now_RT the_AT time_NNT1 has_VHZ come_VVN for_IF my_APPGE rejected_JJ@ essay_NN1 to_TO be_VBI aired_VVN ,_Y at_RR21 least_RR22 as_RG@ best_RRT_JJT as_CSA I_PPIS1 remember_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   56 A little background is in order .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   56 A_AT1 little_JJ background_NN1 is_VBZ in_II order_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   57 The year was 1959 , during the Eisenhower years , and I was at an all-academic public high school in Philadelphia .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   57 The_AT year_NNT1 was_VBDZ 1959_MC ,_Y during_II the_AT Eisenhower_NP1 years_NNT2 ,_Y and_CC I_PPIS1 was_VBDZ at_II an_AT1 all-academic_JJ public_JJ_NN1 high_JJ school_NN1 in_II Philadelphia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   58 What follows would not be nearly as shocking or as original today , though it would likely are neither clean nor dirty .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   58 What_DDQ follows_VVZ would_VM not_XX be_VBI nearly_RR as_CSA_RG@ shocking_JJ or_CC as_RG@_CSA original_JJ today_RT ,_Y though_CS it_PPH1 would_VM likely_RR@ are_VBR neither_RR clean_JJ nor_CC dirty_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   59 I still believe one of the sayings I learned in kindergarten : " Sticks and stones may break my bones , but words will never hurt me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   59 I_PPIS1 still_RR believe_VV0 one_MC1 of_IO the_AT sayings_NN2 I_PPIS1 learned_VVD in_II kindergarten_NN1 :_Y "_Y Sticks_NN2 and_CC stones_NN2 may_VM break_VVI my_APPGE bones_NN2 ,_Y but_CCB words_NN2 will_VM never_RR hurt_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   60 " Morality should be based on how we treat each other , not on our choice of words .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   60 "_Y Morality_NN1 should_VM be_VBI based_VVN on_II how_RRQ we_PPIS2 treat_VV0 each_PPX221 other_PPX222 ,_Y not_XX on_II our_APPGE choice_NN1 of_IO words_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   61 What is so wrong with saying the word " fuck " in public ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   61 What_DDQ is_VBZ so_RG_RR wrong_JJ_RR@ with_IW saying_VVG the_AT word_NN1 "_Y fuck_NN1_VV0 "_Y in_RR21 public_RR22 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   62 For those who do not know its meaning , there can be no harm .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   62 For_IF those_DD2 who_PNQS do_VD0 not_XX know_VVI its_Z' meaning_NN1 ,_Y there_EX can_VM be_VBI no_AT harm_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   63 For those who know that " fuck " is a synonym for " sexual intercourse , " why is one term acceptable and the other not ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   63 For_IF those_DD2 who_PNQS know_VV0 that_DD1_CST "_Y fuck_NN1_VV0 "_Y is_VBZ a_AT1 synonym_NN1 for_IF "_Y sexual_JJ intercourse_NN1 ,_Y "_Y why_RRQ is_VBZ one_MC1 term_NN1 acceptable_JJ and_CC the_AT other_JJ_NN1@ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   64 Why are we not allowed to see people fuck ( or , if you prefer , have sexual intercourse ) on television or in the movies ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   64 Why_RRQ are_VBR we_PPIS2 not_XX allowed_VVN to_TO see_VVI people_NN fuck_VVI (_Y or_CC ,_Y if_CS you_PPY prefer_VV0 ,_Y have_VH0 sexual_JJ intercourse_NN1 )_Y on_II television_NN1 or_CC in_II the_AT movies_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   65 Are we afraid this will inspire others to do likewise ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   65 Are_VBR we_PPIS2 afraid_JJ this_DD1 will_VM inspire_VVI others_NN2 to_TO do_VDI likewise_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   66 On the other hand , we can see plenty of violence and killing on television and in the movies .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   66 On_II the_AT other_JJ hand_NN1 ,_Y we_PPIS2 can_VM see_VVI plenty_PN of_IO violence_NN1 and_CC killing_VVG_NN1 on_II television_NN1 and_CC in_II the_AT movies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   67 For my part , when children grow up I would rather that they fuck than kill .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   67 For_IF my_APPGE part_NN1 ,_Y when_CS_RRQ children_NN2 grow_VV0 up_RP I_PPIS1 would_VM rather_RR@ that_CST they_PPHS2 fuck_VV0_NN1 than_CSN kill_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   68 <p> This 1959 essay , written two Lenny Bruce , was something I could not then have imagined anyone saying in polite company .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   68 <p>_Y This_DD1 1959_MC essay_NN1 ,_Y written_VVN two_MC Lenny_NP1 Bruce_NP1 ,_Y was_VBDZ something_PN1 I_PPIS1 could_VM not_XX then_RT have_VHI imagined_VVN anyone_PN1 saying_VVG in_II_RP@ polite_JJ company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   69 Had I been allowed to deliver my essay , I undoubtedly would have shamed and disgraced my entire family .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   69 Had_VHD I_PPIS1_MC1% been_VBN allowed_VVN to_TO deliver_VVI my_APPGE essay_NN1 ,_Y I_PPIS1 undoubtedly_RR would_VM have_VHI shamed_VVN and_CC disgraced_VVN my_APPGE entire_JJ family_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   70 Frankly , that would n't have bothered me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   70 Frankly_RR ,_Y that_DD1_CST would_VM n't_XX have_VHI bothered_VVN me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   71 But I know now that I benefited more from the rejection than I would have had my essay been accepted .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   71 But_CCB I_PPIS1 know_VV0 now_CS21 that_CS22 I_PPIS1 benefited_VVD more_RRR_DAR from_II the_AT rejection_NN1 than_CSN I_PPIS1 would_VM have_VHI had_VHN@ my_APPGE essay_NN1 been_VBN accepted_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   72 To state the flip side of the Chinese curse with which I began , " May you not get what you wish for .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   72 To_TO state_VVI the_AT flip_NN1 side_NN1 of_IO the_AT Chinese_JJ curse_NN1 with_IW which_DDQ I_PPIS1 began_VVD ,_Y "_Y May_VM@ you_PPY not_XX get_VVI what_DDQ you_PPY wish_VV0 for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   73 " <p> By Herb Silverman <p> Herb Silverman is Distinguished Professor of Mathematics at the College of Charleston , president of the Secular Coalition for America , and a board member of the American Humanist Association .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   73 "_Y <p>_Y By_II Herb_NN1 Silverman_NN1_NP1 <p>_Y Herb_NN1 Silverman_NN1_NP1 is_VBZ Distinguished_JJ Professor_NN1 of_IO Mathematics_NN1 at_II the_AT College_NN1 of_IO Charleston_NP1 ,_Y president_NN1 of_IO the_AT Secular_JJ Coalition_NN1 for_IF America_NP1 ,_Y and_CC a_AT1 board_NN1 member_NN1 of_IO the_AT American_JJ Humanist_JJ_NN1 Association_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  A    0   74 <p>
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070840 COCA  B    0   74 <p>_Y

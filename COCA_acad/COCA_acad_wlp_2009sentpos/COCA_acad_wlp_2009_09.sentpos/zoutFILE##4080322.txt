@@ -1,0 +1,216 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    0 TO PARAPHRASE legendary ad man David Ogilvy , writing copy for business clients is n't all beer and skittles .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    0 TO_TO PARAPHRASE_VVI legendary_JJ ad_NN1 man_NN1 David_NP1 Ogilvy_NP1 ,_Y writing_VVG_NN1 copy_NN1_VV0 for_IF business_NN1 clients_NN2 is_VBZ n't_XX all_DB beer_NN1 and_CC skittles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    1 Yes , it can be fun and financially rewarding .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    1 Yes_UH ,_Y it_PPH1 can_VM be_VBI fun_JJ and_CC financially_RR rewarding_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    2 But there are headaches , too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    2 But_CCB there_EX are_VBR headaches_NN2 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    3 Your business clients can be delightful people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    3 Your_APPGE business_NN1 clients_NN2 can_VM be_VBI delightful_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    4 But some will be difficult people -- at least some of the time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    4 But_CCB some_DD will_VM be_VBI difficult_JJ people_NN --_NN1_JJ at_RR21 least_RR22 some_DD of_IO the_AT time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    5 It 's the same in any business : You ca n't please all of the people all of the time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    5 It_PPH1 's_VBZ the_AT same_DA in_II any_DD business_NN1 :_Y You_PPY ca_VM n't_XX please_VVI all_DB of_IO the_AT people_NN all_RR@ of_IO the_AT time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    6 But as the old saying goes : It 's not what happens to you , it 's how you handle it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    6 But_CCB as_CSA_II the_AT old_JJ saying_NN1@ goes_VVZ :_Y It_PPH1 's_VBZ not_XX what_DDQ happens_VVZ to_II@_TO you_PPY ,_Y it_PPH1 's_VBZ how_RRQ you_PPY handle_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    7 As in any business , freelance writing has its share of problems .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    7 As_CSA in_II any_DD business_NN1 ,_Y freelance_VV0_NN1 writing_NN1 has_VHZ its_Z' share_NN1 of_IO problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    8 Here are eight of the most common problems freelance business writers face -- and one good way to handle each : 1 The client hates your copy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    8 Here_RL are_VBR eight_MC of_IO the_AT most_RGT common_JJ problems_NN2 freelance_VV0 business_NN1 writers_NN2 face_VV0 --_ZZ and_CC one_MC1 good_JJ way_NN1 to_TO handle_VVI each_DD1 :_Y 1_MC1 The_AT client_NN1 hates_VVZ your_APPGE copy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0    9 You hand in a promotion you think is brilliant .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0    9 You_PPY hand_VV0%_NN1 in_II_RP@ a_AT1 promotion_NN1 you_PPY think_VV0 is_VBZ brilliant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   10 To your great surprise , the client disagrees .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   10 To_II your_APPGE great_JJ surprise_NN1 ,_Y the_AT client_NN1 disagrees_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   11 In fact , she does n't like the copy at all .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   11 In_II fact_NN1 ,_Y she_PPHS1 does_VDZ n't_XX like_VVI the_AT copy_NN1 at_RR21_II all_RR22_DB ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   12 What do you do ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   12 What_DDQ do_VD0 you_PPY do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   13 To begin with , anticipate and address this potential Do you need a written agreement for every writing assignment ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   13 To_TO begin_VVI with_IW ,_Y anticipate_VV0 and_CC address_VVI this_DD1 potential_JJ_NN1 Do_VD0 you_PPY need_VVI a_AT1 written_JJ@ agreement_NN1 for_IF every_AT1 writing_NN1 assignment_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   14 Yes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   14 Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   15 Oral agreements are not enforceable , because the client 's recollection of the fee and terms may be different from yours .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   15 Oral_JJ_NN1 agreements_NN2 are_VBR not_XX enforceable_JJ ,_Y because_CS the_AT client_NN1 's_GE recollection_NN1 of_IO the_AT fee_NN1 and_CC terms_NN2 may_VM be_VBI different_JJ from_II yours_PPGE ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   16 Even if what you say about the contract is true , with only an oral agreement you ca n't prove it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   16 Even_CS21 if_CS22 what_DDQ you_PPY say_VV0 about_II the_AT contract_NN1 is_VBZ true_JJ ,_Y with_IW only_RR an_AT1 oral_JJ_NN1 agreement_NN1 you_PPY ca_VM n't_XX prove_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   17 Have a kill fee and go over it with the client before you start the job .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   17 Have_VH0 a_AT1 kill_NN1%_VV0 fee_NN1 and_CC go_VV0 over_II_RP it_PPH1 with_IW the_AT client_NN1 before_CS you_PPY start_VV0 the_AT job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   18 If the agreement is signed and then the client cancels , I get half the fee .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   18 If_CS the_AT agreement_NN1 is_VBZ signed_VVN and_CC then_RT the_AT client_NN1 cancels_VVZ ,_Y I_PPIS1 get_VV0 half_DB the_AT fee_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   19 Is this fair ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   19 Is_VBZ this_DD1_RG% fair_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   20 Yes , because I turned down other work to schedule his project .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   20 Yes_UH ,_Y because_CS I_PPIS1 turned_VVD down_RP other_JJ work_NN1 to_TO schedule_VVI his_APPGE project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   21 If I turn in the first draft and the client does not want to continue , I get 75 percent of the agreed-upon price .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   21 If_CS I_PPIS1 turn_VV0 in_II_RP@ the_AT first_MD draft_NN1 and_CC the_AT client_NN1 does_VDZ not_XX want_VVI to_TO continue_VVI ,_Y I_PPIS1 get_VV0 75_MC percent_NNU of_IO the_AT agreed-upon_II price_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   22 After the second draft , the client owes the full fee even if he cancels , because I have already done the work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   22 After_CS_II the_AT second_MD draft_NN1 ,_Y the_AT client_NN1 owes_VVZ the_AT full_JJ fee_NN1 even_CS21 if_CS22 he_PPHS1 cancels_VVZ ,_Y because_CS I_PPIS1 have_VH0 already_RR done_VDN the_AT work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   23 You can alter the percentages here to your preferences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   23 You_PPY can_VM alter_VVI the_AT percentages_NN2 here_RL to_II your_APPGE preferences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   24 Should you take it personally when an editor or client does n't like your copy ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   24 Should_VM you_PPY take_VVI it_PPH1 personally_RR when_CS_RRQ an_AT1 editor_NN1 or_CC client_NN1 does_VDZ n't_XX like_VVI your_APPGE copy_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   25 No .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   25 No_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   26 You want to fix the problem says she is unhappy with the draft , say : " I want you to be totally satisfied with the copy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   26 You_PPY want_VV0 to_TO fix_VVI the_AT problem_NN1 says_VVZ she_PPHS1 is_VBZ unhappy_JJ with_IW the_AT draft_NN1 ,_Y say_VV0 :_Y "_Y I_PPIS1 want_VV0 you_PPY to_TO be_VBI totally_RR satisfied_VVN@_JJ with_IW the_AT copy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   27 Can you tell me what you do n't like ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   27 Can_VM_VV0% you_PPY tell_VVI me_PPIO1 what_DDQ you_PPY do_VD0 n't_XX like_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   28 " Then listen carefully and make the fixes she asks for .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   28 "_Y Then_RT listen_VV0 carefully_RR and_CC make_VV0 the_AT fixes_NN2 she_PPHS1 asks_VVZ for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   29 2 The client does not return your e-mails or phone calls .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   29 2_MC The_AT client_NN1 does_VDZ not_XX return_VVI your_APPGE e-mails_NN2 or_CC phone_NN1 calls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   30 Almost as bad as the client who says he hates your copy is the client who says nothing at all .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   30 Almost_RR as_RG bad_JJ as_CSA the_AT client_NN1 who_PNQS says_VVZ he_PPHS1 hates_VVZ your_APPGE copy_NN1 is_VBZ the_AT client_NN1 who_PNQS says_VVZ nothing_PN1 at_RR21 all_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   31 You hand in the first draft , and eagerly , albeit a bit nervously , await the feedback .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   31 You_PPY hand_VV0%_NN1 in_II the_AT first_MD draft_NN1 ,_Y and_CC eagerly_RR ,_Y albeit_CS a_RR21 bit_RR22 nervously_RR ,_Y await_VV0 the_AT feedback_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   32 Days go by ... then a week ... then a couple of weeks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   32 Days_NNT2 go_VV0 by_II_RP% ..._... then_RT a_AT1 week_NNT1 ..._... then_RT a_AT1 couple_NN1 of_IO weeks_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   33 You start to worry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   33 You_PPY start_VV0 to_TO worry_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   34 Did he hate it ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   34 Did_VDD he_PPHS1 hate_VVI it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   35 You now dread hearing from him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   35 You_PPY now_RT dread_VV0 hearing_VVG_NN1 from_II him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   36 And you put off contacting the client to find out what 's wrong .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   36 And_CC you_PPY put_VV0_VVD off_RP_II contacting_VVG the_AT client_NN1 to_TO find_VVI out_RP what_DDQ 's_VBZ wrong_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   37 Relax .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   37 Relax_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   38 There may be nothing wrong .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   38 There_EX may_VM be_VBI nothing_PN1 wrong_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   39 Or there may be something wrong .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   39 Or_CC there_EX may_VM be_VBI something_PN1 wrong_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   40 Either way , the first step is to find out what the problem is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   40 Either_DD1 way_NN1 ,_Y the_AT first_MD step_NN1 is_VBZ to_TO find_VVI out_RP what_DDQ the_AT problem_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   41 It may not be what you think .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   41 It_PPH1 may_VM not_XX be_VBI what_DDQ you_PPY think_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   42 Your client -- the person who hired you -- may have left hold and the client did n't want to call you until she knew more .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   42 Your_APPGE client_NN1 --_NN1 the_AT person_NN1 who_PNQS hired_VVD you_PPY --_NN1_JJ may_VM have_VHI left_VVN hold_NN1 and_CC the_AT client_NN1 did_VDD n't_XX want_VVI to_TO call_VVI you_PPY until_CS she_PPHS1 knew_VVD more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   43 Or the person that has to review and approve the copy is out of town on business .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   43 Or_CC the_AT person_NN1 that_CST_DD1 has_VHZ to_TO review_VVI and_CC approve_VVI the_AT copy_NN1 is_VBZ out_II21 of_II22 town_NN1 on_II business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   44 Once you know what the problem is , you can address it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   44 Once_CS@_RR you_PPY know_VV0 what_DDQ the_AT problem_NN1 is_VBZ ,_Y you_PPY can_VM address_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   45 The client may be experiencing any of the situations I outlined , and he is allowed to have that problem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   45 The_AT client_NN1 may_VM be_VBI experiencing_VVG any_DD of_IO the_AT situations_NN2 I_PPIS1 outlined_VVD ,_Y and_CC he_PPHS1 is_VBZ allowed_VVN to_TO have_VHI that_DD1 problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   46 What he is not allowed to do is simply stop calling you and hope you will go away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   46 What_DDQ he_PPHS1 is_VBZ not_XX allowed_VVN to_TO do_VDI is_VBZ simply_RR stop_VV0 calling_VVG you_PPY and_CC hope_VV0 you_PPY will_VM go_VVI away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   47 You have a contract , and both of you -- not just the writer , but also the client -- are obligated to adhere to its terms and conditions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   47 You_PPY have_VH0 a_AT1 contract_NN1 ,_Y and_CC both_DB2 of_IO you_PPY --_ZZ not_XX just_RR the_AT writer_NN1 ,_Y but_CCB also_RR the_AT client_NN1 --_NN1 are_VBR obligated_VVN@ to_TO adhere_VVI to_II its_Z' terms_NN2 and_CC conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   48 To prevent prolonged periods of client silence , I put a clause in my contract that says I will make revisions at no charge as long as the changes are given to me within 30 days of the client 's receipt of my draft , at which time she gets a bill from me whether she responded to my draft or not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   48 To_TO prevent_VVI prolonged_JJ periods_NN2 of_IO client_NN1 silence_NN1 ,_Y I_PPIS1 put_VV0_VVD a_AT1 clause_NN1 in_II my_APPGE contract_NN1 that_CST_DD1 says_VVZ I_PPIS1 will_VM make_VVI revisions_NN2 at_II no_AT charge_NN1 as_CS31 long_CS32 as_CS33 the_AT changes_NN2 are_VBR given_VVN to_II me_PPIO1 within_II 30_MC days_NNT2 of_IO the_AT client_NN1 's_GE receipt_NN1 of_IO my_APPGE draft_NN1 ,_Y at_II which_DDQ time_NNT1 she_PPHS1 gets_VVZ a_AT1 bill_NN1 from_II me_PPIO1 whether_CSW she_PPHS1 responded_VVD to_II my_APPGE draft_NN1 or_CC not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   49 After that , I am not obligated to do further work on must pay an additional fee for the revisions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   49 After_II that_DD1 ,_Y I_PPIS1 am_VBM not_XX obligated_VVN@ to_TO do_VDI further_RRR work_VVI on_II must_VM pay_VVI an_AT1 additional_JJ fee_NN1 for_IF the_AT revisions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   50 3 The client does n't pay your bill .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   50 3_MC The_AT client_NN1 does_VDZ n't_XX pay_VVI your_APPGE bill_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   51 You send a bill requiring payment in net 30 days .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   51 You_PPY send_VV0 a_AT1 bill_NN1 requiring_VVG payment_NN1 in_II net_NN1_JJ 30_MC days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   52 A month passes , and no check arrives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   52 A_AT1 month_NNT1 passes_NN2_VVZ ,_Y and_CC no_AT check_NN1 arrives_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   53 Should you worry ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   53 Should_VM you_PPY worry_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   54 Not yet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   54 Not_XX yet_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   55 Despite your typing " net 30 days " On your invoice , many big corporations pay their bills in net 60 days , not 30 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   55 Despite_II your_APPGE typing_NN1 "_Y net_NN1 30_MC days_NNT2 "_Y On_II your_APPGE invoice_NN1 ,_Y many_DA2 big_JJ corporations_NN2 pay_VV0 their_APPGE bills_NN2 in_II net_NN1_JJ 60_MC days_NNT2 ,_Y not_XX 30_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   56 You can offer a discount for prompt payment , but unless you are living hand to mouth , why do that ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   56 You_PPY can_VM offer_VVI a_AT1 discount_NN1 for_IF prompt_JJ_NN1 payment_NN1 ,_Y but_CCB unless_CS you_PPY are_VBR living_JJ_VVG hand_NN1 to_II mouth_NN1 ,_Y why_RRQ do_VD0 that_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   57 The first step is to make sure the Client got the bill you sent .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   57 The_AT first_MD step_NN1 is_VBZ to_TO make_VVI sure_JJ the_AT Client_NN1 got_VVD_VVN the_AT bill_NN1 you_PPY sent_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   58 If he did n't , resend it via e-mail as an attached PDF file .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   58 If_CS he_PPHS1 did_VDD n't_XX ,_Y resend_VV0 it_PPH1 via_II e-mail_NN1 as_II_CSA an_AT1 attached_JJ@ PDF_NP1 file_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   59 Call to confirm receipt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   59 Call_VV0 to_TO confirm_VVI receipt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   60 The second step is to find out why it has n't been paid .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   60 The_AT second_MD step_NN1 is_VBZ to_TO find_VVI out_RP why_RRQ it_PPH1 has_VHZ n't_XX been_VBN paid_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   61 You will hear more reasons than I have room to list here .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   61 You_PPY will_VM hear_VVI more_DAR reasons_NN2 than_CSN I_PPIS1 have_VH0 room_NN1 to_TO list_VVI here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   62 If a client attributes nonpayment to minor difficulties , be understanding and go easy , but get her to commit to paying the invoice now -- preferably have her send an e-mail so it 's in not want to pay .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   62 If_CS a_AT1 client_NN1 attributes_VVZ_NN2 nonpayment_NN1 to_II minor_JJ difficulties_NN2 ,_Y be_VBI understanding_VVG_NN1_JJ@ and_CC go_VV0 easy_JJ_RR@ ,_Y but_CCB get_VV0 her_PPHO1 to_TO commit_VVI to_II paying_VVG the_AT invoice_NN1 now_RT --_ZZ preferably_RR have_VH0 her_PPHO1_APPGE send_VV0 an_AT1 e-mail_NN1 so_CS@_RR it_PPH1 's_VBZ in_II not_XX want_VVI to_TO pay_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   63 Not liking your copy is just one reason for payment refusal or delay .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   63 Not_XX liking_VVG your_APPGE copy_NN1 is_VBZ just_RR one_MC1 reason_NN1 for_IF payment_NN1 refusal_NN1 or_CC delay_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   64 Perhaps the product launch got rescheduled , or the new ad campaign was scrubbed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   64 Perhaps_RR the_AT product_NN1 launch_NN1 got_VVD_VVN rescheduled_JJ@_VVD ,_Y or_CC the_AT new_JJ ad_NN1 campaign_NN1 was_VBDZ scrubbed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   65 Now the client can not use your copy and wants to negotiate your bill .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   65 Now_RT the_AT client_NN1 can_VM not_XX use_VVI your_APPGE copy_NN1 and_CC wants_VVZ to_TO negotiate_VVI your_APPGE bill_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   66 Here is where your kill-fee schedule comes in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   66 Here_RL is_VBZ where_RRQ_CS your_APPGE kill-fee_JJ_NN1 schedule_NN1 comes_VVZ in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   67 Point out that he agreed to the kill fee , and you 'll accept that as payment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   67 Point_VV0@ out_RP that_CST he_PPHS1 agreed_VVD to_II the_AT kill_NN1%_VV0 fee_NN1 ,_Y and_CC you_PPY 'll_VM accept_VVI that_CST_DD1 as_CSA_II@ payment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   68 Remind him that the fee is already past due .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   68 Remind_VV0 him_PPHO1 that_CST the_AT fee_NN1 is_VBZ already_RR past_JJ_II due_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   69 Get a merchant account so you can accept credit cards , and offer to take payment right then with American Express , Visa or MasterCard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   69 Get_VV0 a_AT1 merchant_NN1 account_NN1_VV0 so_CS@_RR you_PPY can_VM accept_VVI credit_NN1 cards_NN2 ,_Y and_CC offer_VVI to_TO take_VVI payment_NN1 right_RR_NN1 then_RT with_IW American_JJ Express_NN1 ,_Y Visa_NN1 or_CC MasterCard_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   70 Some freelancers use PayPal. 4 The client calls or e-mails you about the project -- every day .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   70 Some_DD freelancers_NN2 use_VV0 PayPal._NP1 4_MC The_AT client_NN1 calls_NN2_VVZ or_CC e-mails_VVZ@_NN2 you_PPY about_II the_AT project_NN1 --_NN1 every_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   71 The client calls on Monday and asks , " How 's it going ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   71 The_AT client_NN1 calls_VVZ_NN2 on_II Monday_NPD1 and_CC asks_VVZ ,_Y "_Y How_RRQ 's_VBZ it_PPH1 going_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   72 " " Fine , " you reply , wondering why she 's asking , since you just got the job from her and the deadline is a month away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   72 "_Y "_Y Fine_JJ ,_Y "_Y you_PPY reply_VV0 ,_Y wondering_VVG why_RRQ she_PPHS1 's_VBZ asking_VVG ,_Y since_CS you_PPY just_RR got_VVD_VVN the_AT job_NN1 from_II her_PPHO1 and_CC the_AT deadline_NN1 is_VBZ a_AT1 month_NNT1 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   73 Then on Tuesday , another " How 's it going ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   73 Then_RT on_II Tuesday_NPD1 ,_Y another_DD1 "_Y How_RRQ 's_VBZ it_PPH1 going_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   74 " call .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   74 "_Y call_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   75 And so on get a job , establish a deadline and give the client a date on which you will start the project .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   75 And_RR31 so_RR32 on_RR33 get_VV0 a_AT1 job_NN1 ,_Y establish_VV0 a_AT1 deadline_NN1 and_CC give_VV0 the_AT client_NN1 a_AT1 date_NN1 on_II which_DDQ you_PPY will_VM start_VVI the_AT project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   76 This will eliminate anxious clients from pestering you about the work before you 've had a chance to dive into it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   76 This_DD1 will_VM eliminate_VVI anxious_JJ clients_NN2 from_II pestering_VVG you_PPY about_II the_AT work_NN1 before_CS you_PPY 've_VH0 had_VHN a_AT1 chance_NN1 to_TO dive_VVI into_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   77 * 5 The client keeps asking for revisions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   77 *_FU 5_MC The_AT client_NN1 keeps_VVZ asking_VVG for_IF revisions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   78 The solution is to specify your revisions policy in your client contract or agreement , which the client must sign and return to you with a check for half your fee before you begin work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   78 The_AT solution_NN1 is_VBZ to_TO specify_VVI your_APPGE revisions_NN2 policy_NN1 in_II your_APPGE client_NN1 contract_NN1 or_CC agreement_NN1 ,_Y which_DDQ the_AT client_NN1 must_VM sign_VVI and_CC return_VVI to_II you_PPY with_IW a_AT1 check_NN1 for_IF half_DB your_APPGE fee_NN1 before_CS you_PPY begin_VV0 work_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   79 If you have a revision policy in your agreement , the client is aware of how many revisions you 'll make at no charge -- and when additional revisions will incur an added fee .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   79 If_CS you_PPY have_VH0 a_AT1 revision_NN1 policy_NN1 in_II your_APPGE agreement_NN1 ,_Y the_AT client_NN1 is_VBZ aware_JJ of_IO how_RGQ@_RRQ many_DA2 revisions_NN2 you_PPY 'll_VM make_VVI at_II no_AT charge_NN1 --_NN1 and_CC when_CS_RRQ additional_JJ revisions_NN2 will_VM incur_VVI an_AT1 added_JJ fee_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   80 * 6 You do n't have experience in the client 's industry or product .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   80 *_FU 6_MC You_PPY do_VD0 n't_XX have_VHI experience_NN1 in_II the_AT client_NN1 's_GE industry_NN1 or_CC product_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   81 It 's really only a problem for you if its a problem for a client who is disinclined to hire you because you have n't worked in his industry or written about his type of product .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   81 It_PPH1 's_VBZ really_RR only_RR a_AT1 problem_NN1 for_IF you_PPY if_CS_CSW@ its_Z' a_AT1 problem_NN1 for_IF a_AT1 client_NN1 who_PNQS is_VBZ disinclined_JJ to_TO hire_VVI you_PPY because_CS you_PPY have_VH0 n't_XX worked_VVN in_II his_APPGE industry_NN1 or_CC written_VVN about_II his_APPGE type_NN1 of_IO product_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   82 For a client who wants highly specific industry experience that you lack , you may have assignment -- you ca n't win ' em all , you know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   82 For_IF a_AT1 client_NN1 who_PNQS wants_VVZ highly_RR specific_JJ industry_NN1 experience_NN1_VV0 that_CST you_PPY lack_VV0@ ,_Y you_PPY may_VM have_VHI assignment_NN1 --_NN1 you_PPY ca_VM n't_XX win_VVI '_"@ em_FU all_RR@ ,_Y you_PPY know_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   83 There are , however , a few things you can do to ingratiate yourself with a potential client : Join her trade association .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   83 There_EX are_VBR ,_Y however_RR ,_Y a_AT1 few_DA2 things_NN2 you_PPY can_VM do_VDI to_TO ingratiate_VVI yourself_PPX1 with_IW a_AT1 potential_JJ_NN1 client_NN1 :_Y Join_VV0 her_APPGE trade_NN1 association_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   84 Use or buy her product .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   84 Use_VV0_NN1 or_CC buy_VV0 her_APPGE product_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   85 Buy shares of her stock .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   85 Buy_VV0 shares_NN2 of_IO her_APPGE stock_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   86 Read her book and give it a good review on Amazon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   86 Read_VV0 her_APPGE book_NN1 and_CC give_VV0 it_PPH1 a_AT1 good_JJ review_NN1 on_II Amazon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   87 This can create a sense of affinity that may overcome your lack of direct experience with the subject she needs you to write about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   87 This_DD1 can_VM create_VVI a_AT1 sense_NN1 of_IO affinity_NN1 that_CST_DD1 may_VM overcome_VVI your_APPGE lack_NN1 of_IO direct_JJ experience_NN1 with_IW the_AT subject_NN1 she_PPHS1 needs_VVZ you_PPY to_TO write_VVI about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   88 7 The client treats you as a hired hand instead of a valued advisor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   88 7_MC The_AT client_NN1 treats_VVZ you_PPY as_II a_AT1 hired_JJ hand_NN1 instead_II21 of_II22 a_AT1 valued_JJ@ advisor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   89 Some people simply do not respect copywriters as professionals and believe we are workers without any specialized skill or knowledge .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   89 Some_DD people_NN simply_RR do_VD0 not_XX respect_VVI copywriters_NN2 as_CSA_II@ professionals_NN2 and_CC believe_VVI we_PPIS2 are_VBR workers_NN2 without_IW any_DD specialized_JJ skill_NN1 or_CC knowledge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   90 Do not work for clients who give you any indication that they are of this ilk .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   90 Do_VD0 not_XX work_VVI for_IF clients_NN2 who_PNQS give_VV0 you_PPY any_DD indication_NN1 that_CST they_PPHS2 are_VBR of_IO this_DD1 ilk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   91 You are most likely to be treated in a cavalier fashion if you charge very low rates , so the trick is not to .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   91 You_PPY are_VBR most_RGT likely_JJ to_TO be_VBI treated_VVN in_II a_AT1 cavalier_JJ_NN1 fashion_NN1 if_CS you_PPY charge_VV0@ very_RG low_JJ rates_NN2 ,_Y so_CS@_RR the_AT trick_NN1 is_VBZ not_XX to_TO_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   92 A number of copywriters explicitly state on their Web sites that if you are buying copywriting services based on price , they are not interested in working client treats you in a rude or disrespectful manner .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   92 A_AT1 number_NN1 of_IO copywriters_NN2 explicitly_RR state_VV0 on_II_RP@ their_APPGE Web_NN1 sites_NN2 that_CST if_CS you_PPY are_VBR buying_VVG copywriting_JJ@_VVG_NN1@ services_NN2 based_VVN on_II price_NN1 ,_Y they_PPHS2 are_VBR not_XX interested_JJ in_II working_VVG client_NN1 treats_VVZ you_PPY in_II_RP@ a_AT1 rude_JJ or_CC disrespectful_JJ manner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   93 Quite frankly , this ones not negotiable , at least not in my book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   93 Quite_RG frankly_RR ,_Y this_DD1 ones_Z' not_XX negotiable_JJ ,_Y at_RR21 least_RR22 not_XX in_II my_APPGE book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   94 Do not tolerate rudeness or disrespect -- from clients or anyone you deal with .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   94 Do_VD0 not_XX tolerate_VVI rudeness_NN1 or_CC disrespect_VV0_NN1 --_NN1_JJ from_II clients_NN2 or_CC anyone_PN1 you_PPY deal_VV0 with_IW ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   95 The first step in putting a stop to verbal abuse is to say something about it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   95 The_AT first_MD step_NN1_VV0 in_II putting_VVG a_AT1 stop_NN1 to_II verbal_JJ abuse_NN1 is_VBZ to_TO say_VVI something_PN1 about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   96 If someone makes an insulting comment , I pause a second and say : " Can you tell me what your intention was in making that comment ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   96 If_CS someone_PN1 makes_VVZ an_AT1 insulting_JJ comment_NN1 ,_Y I_PPIS1 pause_VV0@ a_AT1 second_NNT1_MD and_CC say_VV0 :_Y "_Y Can_VM you_PPY tell_VVI me_PPIO1 what_DDQ your_APPGE intention_NN1 was_VBDZ in_II making_VVG that_CST_DD1 comment_VV0_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   97 " The offender quickly becomes embarrassed and apologetic and does not repeat the behavior .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   97 "_Y The_AT offender_NN1 quickly_RR becomes_VVZ embarrassed_JJ and_CC apologetic_JJ and_CC does_VDZ not_XX repeat_VVI the_AT behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   98 Another response that works when receiving a rude or angry e-mail for no reason is to begin your reply with this sentence : " What did I do to offend you ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   98 Another_DD1 response_NN1 that_CST_DD1 works_VVZ_NN when_CS receiving_VVG a_AT1 rude_JJ or_CC angry_JJ e-mail_NN1 for_IF no_AT reason_NN1 is_VBZ to_TO begin_VVI your_APPGE reply_NN1 with_IW this_DD1 sentence_NN1 :_Y "_Y What_DDQ did_VDD I_PPIS1 do_VDI to_TO offend_VVI you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0   99 " Often someone 's anger is unrelated to you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0   99 "_Y Often_RR someone_PN1 's_GE anger_NN1 is_VBZ unrelated_JJ to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  100 Recently a valued client sent me an angry e-mail when I inquired about payment of an invoice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  100 Recently_RR a_AT1 valued_JJ@ client_NN1 sent_VVD_VVN me_PPIO1 an_AT1 angry_JJ e-mail_NN1 when_CS_RRQ I_PPIS1 inquired_VVD about_II payment_NN1 of_IO an_AT1 invoice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  101 When I asked him what I had done to give offense , he apologized and explained that his brother had been diagnosed with cancer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  101 When_CS_RRQ I_PPIS1 asked_VVD him_PPHO1 what_DDQ I_PPIS1 had_VHD done_VDN to_TO give_VVI offense_NN1 ,_Y he_PPHS1 apologized_VVD and_CC explained_VVD_VVN that_CST his_APPGE brother_NN1 had_VHD been_VBN diagnosed_VVN with_IW cancer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  102 His inappropriate reaction to my request n't .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  102 His_APPGE inappropriate_JJ reaction_NN1 to_II my_APPGE request_NN1 n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  103 But you never know unless you ask .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  103 But_CCB you_PPY never_RR know_VV0 unless_CS you_PPY ask_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  104 PHOTO ( COLOR ) : There 's no need to throw your weight around when your client has an issue with your work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  104 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y There_EX 's_VBZ no_AT need_NN1 to_TO throw_VVI your_APPGE weight_NN1 around_RP_II when_CS_RRQ your_APPGE client_NN1 has_VHZ an_AT1 issue_NN1 with_IW your_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  105 Reacting with professionalism should help you come to a reasonable agreement .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  105 Reacting_VVG with_IW professionalism_NN1 should_VM help_VVI you_PPY come_VVI to_II a_AT1 reasonable_JJ agreement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  106 By Robert W. Bly Robert W. Bly is the author of 75 hooks , including Secrets of a Freelance Writer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  106 By_II Robert_NP1 W._NP1 Bly_NP1 Robert_NP1 W._NP1 Bly_NP1 is_VBZ the_AT author_NN1 of_IO 75_MC hooks_NN2 ,_Y including_II_VVG@ Secrets_NN2 of_IO a_AT1 Freelance_NN1 Writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  A    0  107 Web : www.bly.com ; e-mail : rwbly@hly.com.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080322 COCA  B    0  107 Web_NN1 :_Y www.bly.com_ZZ_NN ;_Y e-mail_NN1_VV0@ :_Y rwbly@hly.com._FO

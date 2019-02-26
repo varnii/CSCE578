@@ -1,0 +1,96 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    0 In the Poetic Edda , in the second of the two lays devoted to the hero Helgavitha Hundingsbana , there is a certain stanza which has haunted me for many years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    0 In_II the_AT Poetic_JJ Edda_NP1_NN1@ ,_Y in_II the_AT second_MD_NNT1 of_IO the_AT two_MC lays_VVZ devoted_JJ to_II the_AT hero_NN1 Helgavitha_NP1 Hundingsbana_NP1 ,_Y there_EX is_VBZ a_AT1 certain_JJ stanza_NN1 which_DDQ has_VHZ haunted_VVN me_PPIO1 for_IF many_DA2 years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    1 The faithful Sigrn returns to the mound in which on the previous night she 'd slept with her dead husband in body and spirit .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    1 The_AT faithful_JJ Sigrn_NN1_NP1 returns_VVZ_NN2 to_II the_AT mound_NN1 in_II which_DDQ on_II the_AT previous_JJ night_NNT1 she_PPHS1 'd_VHD slept_VVN with_IW her_APPGE_PPHO1 dead_JJ husband_NN1 in_II body_NN1 and_CC spirit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    2 She waits .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    2 She_PPHS1 waits_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    3 Finally she sadly says : pre-formatted table What best accomplishes this eerily sorrowful effect ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    3 Finally_RR she_PPHS1 sadly_RR says_VVZ :_Y pre-formatted_ZZ table_NN1 What_DDQ best_RRT accomplishes_VVZ this_DD1_RG% eerily_RR sorrowful_JJ effect_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    4 Perhaps it is that the home of dreams is associated with her unfulfillment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    4 Perhaps_RR it_PPH1 is_VBZ that_CST the_AT home_NN1 of_IO dreams_NN2 is_VBZ associated_VVN with_IW her_APPGE unfulfillment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    5 Fantasy has a home , but it is elsewhere than in her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    5 Fantasy_NN1 has_VHZ a_AT1 home_NN1 ,_Y but_CCB it_PPH1 is_VBZ elsewhere_RL than_CSN in_II her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    6 And this elsewhere remains undescribed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    6 And_CC this_DD1 elsewhere_RL remains_VVZ undescribed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    7 The Eddas use description so sparingly that every modified concrete noun takes on extreme significance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    7 The_AT Eddas_NP2 use_VV0_NN1 description_NN1 so_RG_RR sparingly_RR that_CST every_AT1 modified_JJ concrete_JJ_NN1 noun_NN1 takes_VVZ on_RP extreme_JJ significance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    8 The ash-tree , of course , is Odin 's tree ; one of Odin 's names is Ygg , and Yggdrasil , " Odin 's horse , " is the tree of all worlds ; from its branches Odin hanged himself , thus riding the horse , until the secrets of runes came to him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    8 The_AT ash-tree_NN1_JJ ,_Y of_RR21 course_RR22 ,_Y is_VBZ Odin_NP1 's_GE tree_NN1 ;_Y one_MC1 of_IO Odin_NP1 's_GE names_NN2 is_VBZ Ygg_NP1_NN1 ,_Y and_CC Yggdrasil_NP1 ,_Y "_Y Odin_NP1 's_GE horse_NN1 ,_Y "_Y is_VBZ the_AT tree_NN1 of_IO all_DB worlds_NN2 ;_Y from_II its_Z' branches_NN2 Odin_NP1 hanged_VVD%_VVN himself_PPX1 ,_Y thus_RR riding_VVG the_AT horse_NN1 ,_Y until_CS the_AT secrets_NN2 of_IO runes_NN2 came_VVD to_II him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0    9 But why do the heroes perch on ash diminished into bird-sized ghosts , or perhaps even into leaves .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0    9 But_CCB why_RRQ do_VD0 the_AT heroes_NN2 perch_VVI on_II ash_NN1 diminished_VVN into_II bird-sized_JJ ghosts_NN2 ,_Y or_CC perhaps_RR even_RR into_II leaves_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   10 I presume these heroes are the same as the hosts , in which case they first flock to the ash-trees , then proceed to Valhalla .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   10 I_PPIS1 presume_VV0 these_DD2 heroes_NN2 are_VBR the_AT same_DA as_CSA the_AT hosts_NN2 ,_Y in_II which_DDQ case_NN1_VV0% they_PPHS2 first_MD flock_NN1_VV0 to_II the_AT ash-trees_NN2 ,_Y then_RT proceed_VV0 to_II Valhalla_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   11 But again , why ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   11 But_CCB again_RT ,_Y why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   12 The inexplicable strangeness , the hint of some seemingly inevitable natural or supernatural process ( just as leaves grow from the trees in spring , then die and fall , so dead heroes first flock to the trees , then fly away ) , does yield a trifle to context in the poem itself and in the corpus of Norse mythology generally .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   12 The_AT inexplicable_JJ strangeness_NN1 ,_Y the_AT hint_NN1 of_IO some_DD seemingly_RR inevitable_JJ natural_JJ or_CC supernatural_JJ process_NN1 (_Y just_RR as_CSA leaves_NN2 grow_VV0 from_II the_AT trees_NN2 in_II spring_NN1 ,_Y then_RT die_VV0 and_CC fall_NN1_VV0 ,_Y so_RG_RR dead_JJ heroes_NN2 first_MD flock_NN1_VV0 to_II the_AT trees_NN2 ,_Y then_RT fly_VV0 away_RL )_Y ,_Y does_VDZ yield_VVI a_AT1 trifle_NN1 to_II context_NN1 in_II the_AT poem_NN1 itself_PPX1 and_CC in_II the_AT corpus_NN1 of_IO Norse_NP1_NN1 mythology_NN1 generally_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   13 All the same , we seem to be in the presence of a mystery , as well we should , the theme being death itself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   13 All_RR31 the_RR32 same_RR33 ,_Y we_PPIS2 seem_VV0 to_TO be_VBI in_II the_AT presence_NN1 of_IO a_AT1 mystery_NN1 ,_Y as_RR21 well_RR22_RR we_PPIS2 should_VM ,_Y the_AT theme_NN1 being_VBG death_NN1 itself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   14 When Helgi dies , his absence grows horribly present .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   14 When_CS Helgi_NP1_NN1 dies_VVZ ,_Y his_APPGE absence_NN1 grows_VVZ horribly_RR present_JJ_VV0@_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   15 Who has not wished that the dead could return , if only for a moment , just so we could say and do one more thing ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   15 Who_PNQS has_VHZ not_XX wished_VVN that_CST the_AT dead_JJ could_VM return_VVI ,_Y if_CS only_RR for_IF a_AT1 moment_NN1 ,_Y just_RR so_CS@_RR we_PPIS2 could_VM say_VVI and_CC do_VDI one_MC1 more_DAR thing_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   16 And Sigrn receives this favor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   16 And_CC Sigrn_NP1_NN1 receives_VVZ this_DD1 favor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   17 The scene in which she gives herself to the cold and bloody corpse mingles horror and tenderness once more , as the dead have the habit of doing , Helgi goes away , the home of dreams .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   17 The_AT scene_NN1 in_II which_DDQ she_PPHS1 gives_VVZ herself_PPX1 to_II the_AT cold_JJ_NN1 and_CC bloody_JJ corpse_NN1 mingles_VVZ horror_NN1 and_CC tenderness_NN1 once_RR21 more_RR22 ,_Y as_CSA_II the_AT dead_JJ have_VH0 the_AT habit_NN1 of_IO doing_VDG ,_Y Helgi_NP1_NN1 goes_VVZ away_RL ,_Y the_AT home_NN1 of_IO dreams_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   18 I tend to think in nouns and adjectives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   18 I_PPIS1 tend_VV0 to_TO think_VVI in_II_RP@ nouns_NN2 and_CC adjectives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   19 My understanding of process is slow and sometimes tentative .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   19 My_APPGE understanding_NN1 of_IO process_NN1 is_VBZ slow_JJ and_CC sometimes_RT tentative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   20 I perceive a series of describable instants , like gorgeous scales on a dragon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   20 I_PPIS1 perceive_VV0 a_AT1 series_NN of_IO describable_JJ instants_NNT2 ,_Y like_II gorgeous_JJ scales_NN2 on_II a_AT1 dragon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   21 When the dragon takes flight , I notice first of all the altering refractions of the scales .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   21 When_CS the_AT dragon_NN1 takes_VVZ flight_NN1 ,_Y I_PPIS1 notice_VV0 first_MD of_IO all_DB the_AT altering_VVG_NN1% refractions_NN2 of_IO the_AT scales_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   22 The Eddic poets wrote in verbs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   22 The_AT Eddic_JJ poets_NN2 wrote_VVD in_II_RP@ verbs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   23 When I read the Eddas I seem to feel the wind of the dragon 's flight , and glimpse the waving branches .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   23 When_CS_RRQ I_PPIS1 read_VV0_VVD the_AT Eddas_NN2@ I_PPIS1 seem_VV0 to_TO feel_VVI the_AT wind_NN1 of_IO the_AT dragon_NN1 's_GE flight_NN1 ,_Y and_CC glimpse_VV0 the_AT waving_JJ branches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   24 Only by degrees can I come to visualize how the dragon 's contours must have run .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   24 Only_RR by_II degrees_NN2 can_VM I_PPIS1 come_VVI to_TO visualize_VVI how_RRQ the_AT dragon_NN1 's_GE contours_NN2 must_VM have_VHI run_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   25 Once near Lillehammer my friend Jon Erik showed me a howe .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   25 Once_RR near_II Lillehammer_NP1 my_APPGE friend_NN1 Jon_NP1 Erik_NP1 showed_VVD me_PPIO1 a_AT1 howe_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   26 It had been excavated , and we were permitted to go inside .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   26 It_PPH1 had_VHD been_VBN excavated_VVN ,_Y and_CC we_PPIS2 were_VBDR permitted_VVN to_TO go_VVI inside_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   27 That day I began to compose a poem called " Star of Norway .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   27 That_DD1 day_NNT1 I_PPIS1 began_VVD to_TO compose_VVI a_AT1 poem_NN1 called_VVN_VVD@ "_Y Star_NN1 of_IO Norway_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   28 " I wanted to envision dying as a beautifully erotic process , while not denying the icy dank darkness within the howe .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   28 "_Y I_PPIS1 wanted_VVD to_TO envision_VVI dying_VVG_JJ as_II_CSA a_AT1 beautifully_RR erotic_JJ process_NN1 ,_Y while_CS not_XX denying_VVG the_AT icy_JJ dank_JJ darkness_NN1 within_II the_AT howe_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   29 If some death-goddess tempted me into drinking an intoxicating doing what in reality you and I will someday have to do ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   29 If_CS some_DD death-goddess_NN1 tempted_VVD_VVN me_PPIO1 into_II drinking_VVG an_AT1 intoxicating_JJ doing_VDG what_DDQ in_II reality_NN1 you_PPY and_CC I_PPIS1 will_VM someday_RT have_VHI to_TO do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   30 The only way I knew to begin was by collecting and arranging perceptions , which might induce associations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   30 The_AT only_JJ way_NN1 I_PPIS1 knew_VVD to_TO begin_VVI was_VBDZ by_II collecting_VVG and_CC arranging_VVG perceptions_NN2 ,_Y which_DDQ might_VM induce_VVI associations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   31 The young dandelions on the grave mound struck me with their simple yet inaccessible truth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   31 The_AT young_JJ dandelions_NN2 on_II the_AT grave_JJ_NN1 mound_NN1 struck_VVD me_PPIO1 with_IW their_APPGE simple_JJ yet_RR inaccessible_JJ truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   32 The smell of grass insisted on being a part of the poem , because it was so sweetly , freshly alive while owing everything to death-fertilized earth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   32 The_AT smell_NN1 of_IO grass_NN1 insisted_VVD_VVN@ on_II being_VBG a_AT1 part_NN1 of_IO the_AT poem_NN1 ,_Y because_CS it_PPH1 was_VBDZ so_RG sweetly_RR ,_Y freshly_RR alive_JJ while_CS owing_VVG_JJ everything_PN1 to_II death-fertilized_JJ_NN1 earth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   33 Perhaps the elfin seductress of the poem would give off such a scent .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   33 Perhaps_RR the_AT elfin_NN1 seductress_NN1 of_IO the_AT poem_NN1 would_VM give_VVI off_II_RP such_DA a_AT1 scent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   34 Yes , her armpits smelled of grass .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   34 Yes_UH ,_Y her_APPGE armpits_NN2 smelled_VVD_VVN@ of_IO grass_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   35 All around me hung strings of birch leaves , and I realized that each leaf is its own picture , and perhaps the emblem of a specific dead face as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   35 All_DB_RR@ around_II me_PPIO1 hung_JJ@_VVD strings_NN2 of_IO birch_NN1 leaves_NN2_VVZ ,_Y and_CC I_PPIS1 realized_VVD that_CST each_DD1 leaf_NN1 is_VBZ its_Z' own_DA picture_NN1 ,_Y and_CC perhaps_RR the_AT emblem_NN1 of_IO a_AT1 specific_JJ dead_JJ face_NN1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   36 One kenning ( a Norse stock epithet ) for a woman is " necklace-tree , " and I began to see this place as a green mound above the offered necklaces of birch leaves .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   36 One_MC1 kenning_NN1@_VVG_JJ@ (_Y a_AT1 Norse_NN1 stock_NN1 epithet_NN1 )_Y for_IF a_AT1 woman_NN1 is_VBZ "_Y necklace-tree_JJ_NN1 ,_Y "_Y and_CC I_PPIS1 began_VVD to_TO see_VVI this_DD1 place_NN1 as_II_CSA a_AT1 green_JJ mound_NN1 above_II the_AT offered_JJ@ necklaces_NN2 of_IO birch_NN1 leaves_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   37 And what did the woman look like ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   37 And_CC what_DDQ did_VDD the_AT woman_NN1 look_VVI like_II ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   38 Whiteness is essential to feminine beauty in the Eddas ; and as I gazed at the pallid spring hair and cloud-white brow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   38 Whiteness_NN1_NP1@ is_VBZ essential_JJ to_II feminine_JJ beauty_NN1 in_II the_AT Eddas_NN2@ ;_Y and_CC as_CSA I_PPIS1 gazed_VVD at_II the_AT pallid_JJ spring_NN1 hair_NN1 and_CC cloud-white_JJ brow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   39 The success of the poem ( or not ) is hardly for me to determine ; the point is that I write poetry more or less the way I read it , my understanding accreting details by degrees .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   39 The_AT success_NN1 of_IO the_AT poem_NN1 (_Y or_CC not_XX )_Y is_VBZ hardly_RR for_IF me_PPIO1 to_TO determine_VVI ;_Y the_AT point_NN1 is_VBZ that_CST I_PPIS1 write_VV0 poetry_NN1 more_RRR_RGR or_CC less_RRR the_AT way_NN1 I_PPIS1 read_VV0_VVD it_PPH1 ,_Y my_APPGE understanding_NN1 accreting_VVG_NN1@ details_NN2 by_II degrees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   40 It would be very difficult for me to write an Eddic-style poem , because the very descriptors out of which I built it would face banishment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   40 It_PPH1 would_VM be_VBI very_RG difficult_JJ for_IF me_PPIO1 to_TO write_VVI an_AT1 Eddic-style_JJ_NN1 poem_NN1 ,_Y because_CS the_AT very_JJ descriptors_NN2 out_II21 of_II22 which_DDQ I_PPIS1 built_VVD it_PPH1 would_VM face_VVI banishment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   41 I wonder if the poet of " Helgavitha Hundingsbana " conceived of Valhalla in specific terms which the form of his understated art required him to withhold from us , or whether mere reference to it was good enough for him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   41 I_PPIS1 wonder_VV0 if_CSW@_CS the_AT poet_NN1 of_IO "_Y Helgavitha_NP1 Hundingsbana_NP1 "_Y conceived_VVD of_IO Valhalla_NP1_NN1@ in_II specific_JJ terms_NN2 which_DDQ the_AT form_NN1 of_IO his_APPGE understated_JJ@ art_NN1 required_VVN_VVD@ him_PPHO1 to_TO withhold_VVI from_II us_PPIO2 ,_Y or_CC whether_CSW mere_JJ reference_NN1 to_II it_PPH1 was_VBDZ good_JJ_RR% enough_RR for_IF him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   42 Moreover , I wonder whether the closing two lines which bewitch me were in his time poetic or religious boilerplate , banal even .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   42 Moreover_RR ,_Y I_PPIS1 wonder_VV0 whether_CSW the_AT closing_NN1_JJ two_MC lines_NN2 which_DDQ bewitch_VV0 me_PPIO1 were_VBDR in_II his_APPGE time_NNT1 poetic_JJ or_CC religious_JJ boilerplate_NN1 ,_Y banal_JJ even_RR_NNT1% ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   43 And what would he make of " Star of Norway " ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   43 And_CC what_DDQ would_VM he_PPHS1 make_VVI of_IO "_Y Star_NN1 of_IO Norway_NP1 "_Y ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   44 Would he choke on its overrichness ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   44 Would_VM he_PPHS1 choke_VVI on_II_RP@ its_Z' overrichness_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   45 Would it fail to be anything to him at all ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   45 Would_VM it_PPH1 fail_VVI to_TO be_VBI anything_PN1 to_II him_PPHO1 at_RR21 all_RR22 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   46 I would have liked to walk with him over a grassy old Norwegian grave-mound .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   46 I_PPIS1 would_VM have_VHI liked_VVN to_TO walk_VVI with_IW him_PPHO1 over_RP_II a_AT1 grassy_JJ old_JJ Norwegian_JJ_NN1 grave-mound_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  A    0   47 Then we could have opened our minds to one Vollmann
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080205 COCA  B    0   47 Then_RT we_PPIS2 could_VM have_VHI opened_VVN our_APPGE minds_NN2 to_II one_PPX121 Vollmann_NP1

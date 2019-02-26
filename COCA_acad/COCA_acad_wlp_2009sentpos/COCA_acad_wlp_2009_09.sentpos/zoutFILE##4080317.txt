@@ -1,0 +1,154 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    0 MY FATHER DIED at high noon on the spring equinox of 1997 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    0 MY_APPGE FATHER_NN1 DIED_VVD_VVN@ at_II high_JJ noon_NNT1 on_II the_AT spring_NN1 equinox_NN1 of_IO 1997_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    1 The equinox is supposed to be a time of early balance , yet my world was thrust into a spiraling free fall .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    1 The_AT equinox_NN1 is_VBZ supposed_JJ to_TO be_VBI a_AT1 time_NNT1 of_IO early_JJ balance_NN1 ,_Y yet_RR my_APPGE world_NN1 was_VBDZ thrust_VVN into_II a_AT1 spiraling_JJ@ free_JJ fall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    2 Three months later , still dizzy with grief , I found myself on a writing assignment in the depths of the Grand Canyon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    2 Three_MC months_NNT2 later_RRR ,_Y still_RR dizzy_JJ with_IW grief_NN1 ,_Y I_PPIS1 found_VVD myself_PPX1 on_II a_AT1 writing_NN1 assignment_NN1 in_II the_AT depths_NN2 of_IO the_AT Grand_JJ_NP1@ Canyon_NN1@_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    3 I had been asked to contribute an essay for the book Writing Down the River , and for the next two weeks would travel with 27 strangers down the Colorado River .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    3 I_PPIS1 had_VHD been_VBN asked_VVN@ to_TO contribute_VVI an_AT1 essay_NN1 for_IF the_AT book_NN1 Writing_NN1_VVG Down_NN1 the_AT River_NN1 ,_Y and_CC for_IF the_AT next_MD two_MC weeks_NNT2 would_VM travel_VVI with_IW 27_MC strangers_NN2 down_II@_RP the_AT Colorado_NP1 River_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    4 " The river will be a good place to grieve , " my sister told me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    4 "_Y The_AT river_NN1 will_VM be_VBI a_AT1 good_JJ place_NN1 to_TO grieve_VVI ,_Y "_Y my_APPGE sister_NN1 told_VVD me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    5 " You will hear the voices of our ancestors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    5 "_Y You_PPY will_VM hear_VVI the_AT voices_NN2 of_IO our_APPGE ancestors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    6 " I ran my fingers over the sandstone where the Great Unconformity -- a gap of millions of years in the geologic record -- is visible , and I thought of how I had smoothed the lines of anguish from my father 's face .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    6 "_Y I_PPIS1 ran_VVD my_APPGE fingers_NN2 over_II the_AT sandstone_NN1 where_CS_RRQ the_AT Great_JJ Unconformity_NN1 --_NN1 a_AT1 gap_NN1 of_IO millions_M of_IO years_NNT2 in_II the_AT geologic_JJ record_NN1 --_NN1 is_VBZ visible_JJ ,_Y and_CC I_PPIS1 thought_VVD of_IO how_RRQ I_PPIS1 had_VHD smoothed_VVN the_AT lines_NN2 of_IO anguish_NN1 from_II my_APPGE father_NN1 's_GE face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    7 I could discern no difference between my emotional landscape and the landscape of the canyon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    7 I_PPIS1 could_VM discern_VVI no_AT difference_NN1 between_II my_APPGE emotional_JJ landscape_NN1 and_CC the_AT landscape_NN1 of_IO the_AT canyon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    8 Nature articulated what I dare not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    8 Nature_NN1 articulated_VVN_VVD@ what_DDQ I_PPIS1 dare_VV0_VM@ not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0    9 I in Wyoming where I lived with my husband and children .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0    9 I_PPIS1 in_II Wyoming_NP1 where_RRQ I_PPIS1 lived_VVD with_IW my_APPGE husband_NN1 and_CC children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   10 The stories in my memoir In Search of Kinship , about aborted foals and orphaned calves , about coyotes gliding across the ridges and red foxes denning in the draws , are all attempts to get at the heart of the human experience through the eyes of the natural world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   10 The_AT stories_NN2 in_II my_APPGE memoir_NN1 In_II31 Search_II32 of_II33 Kinship_NN1 ,_Y about_II aborted_JJ@ foals_NN2 and_CC orphaned_JJ calves_NN2 ,_Y about_II coyotes_NN2 gliding_VVG across_II the_AT ridges_NN2 and_CC red_JJ foxes_NN2 denning_VVG in_II the_AT draws_NN2 ,_Y are_VBR all_DB attempts_NN2 to_TO get_VVI at_II the_AT heart_NN1 of_IO the_AT human_JJ_NN1 experience_NN1 through_II the_AT eyes_NN2 of_IO the_AT natural_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   11 Grand landscapes humble us with their immensity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   11 Grand_JJ landscapes_NN2 humble_VV0@ us_PPIO2 with_IW their_APPGE immensity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   12 They inspire us because they remind us that our own stories belong to a much larger narrative .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   12 They_PPHS2 inspire_VV0 us_PPIO2 because_CS they_PPHS2 remind_VV0 us_PPIO2 that_CST our_APPGE own_DA stories_NN2 belong_VV0 to_II a_AT1 much_RR larger_JJR narrative_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   13 The river down which we rafted in 1997 has flowed through that ancient canyon for millions of years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   13 The_AT river_NN1 down_II@_RP which_DDQ we_PPIS2 rafted_VVD in_II 1997_MC has_VHZ flowed_VVN through_II that_DD1 ancient_JJ canyon_NN1 for_IF millions_M of_IO years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   14 Humans have been gathering at rivers for thousands of years -- to fill our water jugs , bathe our children , wash our clothes , clean our food , trade with foreigners , and fight off enemies .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   14 Humans_NN2 have_VH0 been_VBN gathering_VVG at_II rivers_NN2 for_IF thousands_M of_IO years_NNT2 --_ZZ to_TO fill_VVI our_APPGE water_NN1 jugs_NN2 ,_Y bathe_VV0 our_APPGE children_NN2 ,_Y wash_VV0 our_APPGE clothes_NN2 ,_Y clean_VV0@ our_APPGE food_NN1 ,_Y trade_NN1_VV0@ with_IW foreigners_NN2 ,_Y and_CC fight_VV0 off_RP enemies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   15 " I 've known rivers ancient as the world and older than the flow of human blood in human veins " Langston Hughes wrote .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   15 "_Y I_PPIS1 've_VH0 known_VVN rivers_NN2 ancient_JJ_NN1@ as_II_CSA the_AT world_NN1 and_CC older_JJR than_CSN the_AT flow_NN1 of_IO human_JJ_NN1 blood_NN1 in_II human_JJ_NN1 veins_NN2 "_Y Langston_NP1 Hughes_NP1 wrote_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   16 Halfway across the country from where Hughes grew up , Peggy Simson Curry , Wyoming 's first poet laureate , wrote river .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   16 Halfway_RR_JJ across_II the_AT country_NN1 from_II where_RRQ Hughes_NP1 grew_VVD up_RP ,_Y Peggy_NP1 Simson_NP1 Curry_NP1 ,_Y Wyoming_NP1 's_GE first_MD poet_NN1 laureate_NN1_VV0 ,_Y wrote_VVD river_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   17 It is to carry the life force within you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   17 It_PPH1 is_VBZ to_TO carry_VVI the_AT life_NN1 force_NN1 within_II_RL@ you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   18 ... Where and what are your rivers ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   18 ..._... Where_CS_RRQ and_CC what_DDQ are_VBR your_APPGE rivers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   19 Look back , look long , look deep .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   19 Look_VV0 back_RP ,_Y look_VV0 long_RR_JJ ,_Y look_VV0 deep_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   20 " I grew up playing along the banks of the South Platte River in Colorado , yet our family always headed north to the Madison River near Ennis , Mont. , on fishing vacations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   20 "_Y I_PPIS1 grew_VVD up_RP playing_VVG along_II_RP the_AT banks_NN2 of_IO the_AT South_NP1 Platte_NP1 River_NNL1 in_II Colorado_NP1 ,_Y yet_RR our_APPGE family_NN1 always_RR headed_VVN north_ND1 to_II the_AT Madison_NP1 River_NNL1 near_II Ennis_NP1_NN1 ,_Y Mont._NP1 ,_Y on_II fishing_NN1 vacations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   21 In 1964 , my parents called a family meeting and asked my sister and me , " How would you girls like to go to Europe this summer instead ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   21 In_II 1964_MC ,_Y my_APPGE parents_NN2 called_VVN_VVD@ a_AT1 family_NN1 meeting_NN1_VVG and_CC asked_VVN my_APPGE sister_NN1 and_CC me_PPIO1 ,_Y "_Y How_RRQ would_VM you_PPY girls_NN2 like_VV0@ to_TO go_VVI to_II Europe_NP1 this_DD1 summer_NNT1 instead_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   22 " We were stunned .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   22 "_Y We_PPIS2 were_VBDR stunned_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   23 Dad earned a comfortable salary , but we were always pinching pennies .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   23 Dad_NN1 earned_VVD_VVN a_AT1 comfortable_JJ salary_NN1 ,_Y but_CCB we_PPIS2 were_VBDR always_RR pinching_VVG pennies_NNU2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   24 That evening , we spread a world map on the carpet to decide where in Europe we would go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   24 That_DD1 evening_NNT1 ,_Y we_PPIS2 spread_VV0_VVD a_AT1 world_NN1 map_NN1 on_II the_AT carpet_NN1 to_TO decide_VVI where_RRQ_CS in_II Europe_NP1 we_PPIS2 would_VM go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   25 An impossible choice !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   25 An_AT1 impossible_JJ choice_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   26 The entire world beckoned , and a brief summer vacation was not nearly enough time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   26 The_AT entire_JJ world_NN1 beckoned_VVD ,_Y and_CC a_AT1 brief_JJ summer_NNT1 vacation_NN1 was_VBDZ not_XX nearly_RR enough_DD time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   27 Instead , that fall , Dad quit his job , cashed in our modest stock portfolio , leased our home , and drove us to New York .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   27 Instead_RR ,_Y that_DD1_CST fall_NN1_VV0 ,_Y Dad_NN1 quit_VVD_VV0_VVN his_APPGE job_NN1 ,_Y cashed_VVD_VVN@ in_II_RP@ our_APPGE modest_JJ stock_NN1 portfolio_NN1 ,_Y leased_VVD_VVN our_APPGE home_NN1 ,_Y and_CC drove_VVD us_PPIO2 to_II New_NP1 York_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   28 Then we drove north to Montreal , sold the car , down the St. Lawrence Seaway .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   28 Then_RT we_PPIS2 drove_VVD north_ND1 to_II Montreal_NP1 ,_Y sold_VVD_VVN the_AT car_NN1 ,_Y down_RP_II@ the_AT St._NP1 Lawrence_NP1 Seaway_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   29 We were gone a full year , stepping onto the foreign soil of 27 countries .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   29 We_PPIS2 were_VBDR gone_VVN a_AT1 full_JJ year_NNT1 ,_Y stepping_VVG onto_II the_AT foreign_JJ soil_NN1 of_IO 27_MC countries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   30 We stood on the shores of the Thames , the Danube , the Tigris , the Neva , the Jordan , even the Tonegawa in Japan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   30 We_PPIS2 stood_VVD on_II the_AT shores_NN2 of_IO the_AT Thames_NP1 ,_Y the_AT Danube_NP1 ,_Y the_AT Tigris_NP1 ,_Y the_AT Neva_NP1_NN1@ ,_Y the_AT Jordan_NP1 ,_Y even_RR the_AT Tonegawa_NP1_NN1@ in_II Japan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   31 We returned in June of 1965 , sailing under San Francisco 's Golden Gate Bridge .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   31 We_PPIS2 returned_VVD in_II June_NPM1 of_IO 1965_MC ,_Y sailing_VVG under_II San_NP1 Francisco_NP1 's_GE Golden_JJ Gate_NN1 Bridge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   32 A few days later ; en route back to Colorado , we heard on the radio that a catastrophic flood had struck Denver .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   32 A_AT1 few_DA2 days_NNT2 later_RRR ;_Y en_RR21 route_RR22 back_RP to_II Colorado_NP1 ,_Y we_PPIS2 heard_VVD on_II the_AT radio_NN1 that_CST a_AT1 catastrophic_JJ flood_NN1 had_VHD struck_VVN Denver_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   33 A 50-foot-high wall of water was scouring everything in its path , including our home .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   33 A_AT1_ZZ1 50-foot-high_JJ wall_NN1 of_IO water_NN1 was_VBDZ scouring_VVG everything_PN1 in_II its_Z' path_NN1 ,_Y including_II_VVG@ our_APPGE home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   34 We returned jobless , homeless and moneyless .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   34 We_PPIS2 returned_VVD jobless_JJ ,_Y homeless_JJ and_CC moneyless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   35 We unpacked our suitcases in the unfinished basement of an aunt 's home , and began anew .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   35 We_PPIS2 unpacked_VVD our_APPGE suitcases_NN2 in_II the_AT unfinished_JJ basement_NN1 of_IO an_AT1 aunt_NN1 's_VBZ_GE home_RL_NN1@ ,_Y and_CC began_VVD anew_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   36 Rivers transform us .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   36 Rivers_NN2_NP1 transform_VV0 us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   37 They transform the landscape , our lives , our communities , and even our artistic visions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   37 They_PPHS2 transform_VV0 the_AT landscape_NN1 ,_Y our_APPGE lives_NN2 ,_Y our_APPGE communities_NN2 ,_Y and_CC even_RR our_APPGE artistic_JJ visions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   38 They thrill us with their boiling , frothy rapids and seduce us with their curvaceous banks and softly sloping shores .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   38 They_PPHS2 thrill_VV0 us_PPIO2 with_IW their_APPGE boiling_JJ ,_Y frothy_JJ rapids_NN2 and_CC seduce_VV0 us_PPIO2 with_IW their_APPGE curvaceous_JJ banks_NN2 and_CC softly_RR sloping_JJ_VVG shores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   39 Thirty-two years after the flood , when I returned from my first trip down the Grand Canyon , deadline , but I also returned with a dream -- a profound desire to return to the river , and a determination to bring other women with me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   39 Thirty-two_MC years_NNT2 after_II_CS the_AT flood_NN1 ,_Y when_CS_RRQ I_PPIS1 returned_VVD from_II my_APPGE first_MD trip_NN1 down_II@_RP the_AT Grand_JJ_NP1@ Canyon_NP1_NN1@ ,_Y deadline_NN1 ,_Y but_CCB I_PPIS1 also_RR returned_VVN_VVD with_IW a_AT1 dream_NN1 --_NN1 a_AT1 profound_JJ desire_NN1 to_TO return_VVI to_II the_AT river_NN1 ,_Y and_CC a_AT1 determination_NN1 to_TO bring_VVI other_JJ women_NN2 with_IW me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   40 That fall , I walked into the offices of Sheri Griffith Expeditions in Moab , Utah , and -- like I 'd seen my father do with strangers on our trip around the world -- introduced myself , and my dream , to Sheri .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   40 That_DD1 fall_NN1 ,_Y I_PPIS1 walked_VVD into_II the_AT offices_NN2 of_IO Sheri_NP1_JJ Griffith_NP1_NN1@ Expeditions_NN2 in_II Moab_NP1 ,_Y Utah_NP1 ,_Y and_CC --_ZZ like_CS%_VV0@_II I_PPIS1 'd_VHD seen_VVN my_APPGE father_NN1 do_VDI with_IW strangers_NN2 on_II our_APPGE trip_NN1 around_II the_AT world_NN1 --_NN1 introduced_VVD_VVN myself_PPX1 ,_Y and_CC my_APPGE dream_NN1 ,_Y to_II Sheri_NP1_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   41 The following summer , we launched the first " River Writing Journey for Women " retreat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   41 The_AT following_JJ summer_NNT1 ,_Y we_PPIS2 launched_VVD the_AT first_MD "_Y River_NNL1 Writing_NP1 Journey_NN1 for_IF Women_NN2 "_Y retreat_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   42 The fluid nature of the river invites us to unleash our creativity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   42 The_AT fluid_NN1_JJ@ nature_NN1 of_IO the_AT river_NN1 invites_VVZ us_PPIO2 to_TO unleash_VVI our_APPGE creativity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   43 We play .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   43 We_PPIS2 play_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   44 We swim .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   44 We_PPIS2 swim_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   45 We write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   45 We_PPIS2 write_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   46 We share .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   46 We_PPIS2 share_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   47 We get wonderfully silly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   47 We_PPIS2 get_VV0 wonderfully_RR silly_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   48 We get profoundly serious .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   48 We_PPIS2 get_VV0 profoundly_RR serious_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   49 We 're in and out of the water , up and down the canyon walls , in and out of each other 's stories , from sun to shade , dark to light -- in every metaphorical way you can imagine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   49 We_PPIS2 're_VBR in_RP@_II and_CC out_II21 of_II22 the_AT water_NN1 ,_Y up_RP and_CC down_RP_II@ the_AT canyon_NN1 walls_NN2 ,_Y in_II_RP@ and_CC out_II21 of_II22 each_PPX221 other_PPX222 's_GE stories_NN2 ,_Y from_II sun_NN1 to_II shade_NN1 ,_Y dark_JJ_NN1 to_TO light_VVI --_NN1_JJ in_II every_AT1 metaphorical_JJ way_NN1 you_PPY can_VM imagine_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   50 We explore the unfolding of theme and its connection to landscape .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   50 We_PPIS2 explore_VV0 the_AT unfolding_NN1@ of_IO theme_NN1 and_CC its_Z' connection_NN1 to_TO landscape_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   51 We discuss the pulse , shape and rhythm of writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   51 We_PPIS2 discuss_VV0 the_AT pulse_NN1 ,_Y shape_NN1 and_CC rhythm_NN1 of_IO writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   52 be chaotic , to let go of expectations , let go of sadness and embrace our passions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   52 be_VBI chaotic_JJ ,_Y to_TO let_VVI go_NN1%_VV0 of_IO expectations_NN2 ,_Y let_VV0 go_NN1%_VV0 of_IO sadness_NN1 and_CC embrace_VV0 our_APPGE passions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   53 With each trip , nature works the same miracle .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   53 With_IW each_DD1 trip_NN1 ,_Y nature_NN1 works_VVZ the_AT same_DA miracle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   54 I see us fall back in love with life , with ourselves , and with our work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   54 I_PPIS1 see_VV0 us_PPIO2 fall_VVI back_RP in_II love_NN1 with_IW life_NN1 ,_Y with_IW ourselves_PPX2 ,_Y and_CC with_IW our_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   55 A few years ago , an underwater photographer for National Geographic , whose job took her to the depths of the ocean , joined one of my river-writing trips .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   55 A_AT1 few_DA2 years_NNT2 ago_RA ,_Y an_AT1 underwater_JJ photographer_NN1 for_IF National_JJ Geographic_JJ ,_Y whose_DDQGE job_NN1 took_VVD her_PPHO1 to_II the_AT depths_NN2 of_IO the_AT ocean_NN1 ,_Y joined_VVD one_MC1 of_IO my_APPGE river-writing_JJ_NN1 trips_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   56 She felt far more at home with a camera , though , than a pen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   56 She_PPHS1 felt_VVD far_RG more_RRR_DAR at_II home_NN1 with_IW a_AT1 camera_NN1 ,_Y though_CS_RR@ ,_Y than_CSN a_AT1 pen_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   57 Sitting in our camp circle one evening , she shakily began , " I was diving off the coast of Florida , and came nose to nose with a shark .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   57 Sitting_VVG in_II_RP@ our_APPGE camp_NN1 circle_NN1 one_MC1 evening_NNT1 ,_Y she_PPHS1 shakily_RR began_VVD ,_Y "_Y I_PPIS1 was_VBDZ diving_VVG off_II_RP the_AT coast_NN1 of_IO Florida_NP1 ,_Y and_CC came_VVD nose_NN1 to_II nose_NN1 with_IW a_AT1 shark_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   58 " Slowly , the story of her brother 's untimely death months earlier wound its way out of her river journaling .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   58 "_Y Slowly_RR ,_Y the_AT story_NN1 of_IO her_APPGE brother_NN1 's_GE untimely_JJ death_NN1 months_NNT2 earlier_RRR wound_VVD_VVN its_Z' way_NN1 out_II21 of_II22 her_APPGE river_NN1 journaling_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   59 Grief , like nature , has many faces .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   59 Grief_NN1 ,_Y like_II_JJ@ nature_NN1 ,_Y has_VHZ many_DA2 faces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   60 Several years after the first river trip , I retreated for a month to a remote cabin in the Big Horn Mountains of Wyoming to grieve for my dying marriage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   60 Several_DA2 years_NNT2 after_II_CS the_AT first_MD river_NN1 trip_NN1 ,_Y I_PPIS1 retreated_VVD for_IF a_AT1 month_NNT1 to_II a_AT1 remote_JJ cabin_NN1 in_II the_AT Big_JJ Horn_NP1 Mountains_NNL2 of_IO Wyoming_NP1 to_TO grieve_VVI for_IF my_APPGE dying_JJ marriage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   61 The cabin , nestled in a running water , no electricity , no phone , no cell service , not even a vehicle in case of emergency .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   61 The_AT cabin_NN1 ,_Y nestled_VVD_VVN@ in_II_RP@ a_AT1 running_JJ_NN1 water_NN1 ,_Y no_AT electricity_NN1 ,_Y no_AT phone_NN1 ,_Y no_AT cell_NN1 service_NN1 ,_Y not_XX even_RR a_AT1 vehicle_NN1 in_II31 case_II32 of_II33 emergency_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   62 I pawed through field guides , wrote 400 pages in my journals , and penned 23 new poems .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   62 I_PPIS1 pawed_VVD through_II field_NN1 guides_NN2 ,_Y wrote_VVD 400_MC pages_NN2 in_II my_APPGE journals_NN2 ,_Y and_CC penned_VVD 23_MC new_JJ poems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   63 I carried on silent conversations at night as I read by flashlight the works of my favorite authors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   63 I_PPIS1 carried_VVD on_RP silent_JJ conversations_NN2 at_II night_NNT1 as_CSA I_PPIS1 read_VV0_VVD by_II flashlight_NN1 the_AT works_NN of_IO my_APPGE favorite_JJ_NN1 authors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   64 Each day , I hiked out of the canyon , following the same trails as the elk and deer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   64 Each_DD1 day_NNT1 ,_Y I_PPIS1 hiked_VVD out_II21 of_II22 the_AT canyon_NN1 ,_Y following_VVG the_AT same_DA trails_NN2 as_CSA the_AT elk_NN1 and_CC deer_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   65 As this passage from my work-in-progress shows , I relished this time of reflection : As I hike , I am so turned inward with thought that when I lift my eyes and see the mountains rise before me , or hear the breeze rattling the leaves , or feel the eyes of the forest upon me , I am shocked , as if I have forgotten that I am here .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   65 As_CSA this_DD1 passage_NN1 from_II my_APPGE work-in-progress_NN1 shows_NN2_VVZ ,_Y I_PPIS1 relished_VVD this_DD1 time_NNT1 of_IO reflection_NN1 :_Y As_CSA I_PPIS1 hike_VV0@ ,_Y I_PPIS1 am_VBM so_RR turned_VVN_VVD inward_RL@_JJ with_IW thought_NN1 that_CST when_CS I_PPIS1 lift_VV0 my_APPGE eyes_NN2 and_CC see_VV0 the_AT mountains_NN2 rise_VVI before_II me_PPIO1 ,_Y or_CC hear_VV0 the_AT breeze_NN1 rattling_VVG the_AT leaves_NN2 ,_Y or_CC feel_VV0 the_AT eyes_NN2 of_IO the_AT forest_NN1 upon_II me_PPIO1 ,_Y I_PPIS1 am_VBM shocked_JJ ,_Y as_CS21 if_CS22 I_PPIS1 have_VH0 forgotten_VVN that_CST I_PPIS1 am_VBM here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   66 My senses reclaim the moment and pull me away from the dark labyrinth of thought and suddenly I am back in the woods , a sensate creature in a sensuous world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   66 My_APPGE senses_NN2 reclaim_VV0 the_AT moment_NN1 and_CC pull_VV0 me_PPIO1 away_II21_RL from_II22_II the_AT dark_JJ_NN1 labyrinth_NN1 of_IO thought_NN1 and_CC suddenly_RR I_PPIS1 am_VBM back_RP in_II the_AT woods_NN2 ,_Y a_AT1 sensate_JJ_NN1 creature_NN1 in_II a_AT1 sensuous_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   67 Yet in that moment , I glimpse crossroads where the worlds of inner and outer meet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   67 Yet_RR in_II that_DD1 moment_NN1 ,_Y I_PPIS1 glimpse_VV0 crossroads_NN1 where_CS_RRQ the_AT worlds_NN2 of_IO inner_JJ and_CC outer_JJ meet_NN1%_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   68 Here , I begin to realize , lies the door-way to Becoming , in the silent spaces between these two dimensions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   68 Here_RL ,_Y I_PPIS1 begin_VV0 to_TO realize_VVI ,_Y lies_VVZ the_AT door-way_NN1 to_II Becoming_VVG ,_Y in_II the_AT silent_JJ spaces_NN2 between_II these_DD2 two_MC dimensions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   69 This is the gift nature bequeaths us -- the chance to leave our human experience and dwell for a time in the primal world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   69 This_DD1 is_VBZ the_AT gift_NN1 nature_NN1 bequeaths_VVZ us_PPIO2 --_NN1_JJ the_AT chance_NN1 to_TO leave_VVI our_APPGE human_JJ_NN1 experience_NN1 and_CC dwell_VVI for_IF a_AT1 time_NNT1 in_II the_AT primal_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   70 It 's the place I try to inhabit while writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   70 It_PPH1 's_VBZ the_AT place_NN1 I_PPIS1 try_VV0 to_TO inhabit_VVI while_CS writing_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   71 It 's where our stories live , waiting to bridge the distance between what we know , and what we seek to know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   71 It_PPH1 's_VBZ where_RRQ_CS our_APPGE stories_NN2 live_VV0 ,_Y waiting_VVG to_TO bridge_VVI the_AT distance_NN1 between_II what_DDQ we_PPIS2 know_VV0 ,_Y and_CC what_DDQ we_PPIS2 seek_VV0 to_TO know_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   72 Writing coach Page Lambert , recipient of the 2009 Orlando Nonfiction Prize , leads outdoor writing adventures and retreats .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   72 Writing_VVG_NN1 coach_NN1_VV0 Page_NN1_NP1@ Lambert_NP1 ,_Y recipient_NN1 of_IO the_AT 2009_MC Orlando_NP1 Nonfiction_NN1_NP1@ Prize_NN1 ,_Y leads_VVZ outdoor_JJ writing_NN1 adventures_NN2 and_CC retreats_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   73 O , The Oprah Magazine called her River Writing Journeys " one of the top six great all-girl getaways " of 2006 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   73 O_UH ,_Y The_AT Oprah_NP1_NN1@ Magazine_NN1 called_VVN_VVD@ her_PPHO1_APPGE River_NNL1 Writing_NP1 Journeys_NN2 "_Y one_MC1 of_IO the_AT top_NN1_JJ six_MC great_JJ all-girl_JJ getaways_NN2 "_Y of_IO 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   74 Web : www.pagelambert.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   74 Web_NN1 :_Y www.pagelambert.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   75 PHOTO ( COLOR ) : This cabin retreat in Wyoming 's Big Horn Mountains gave the author solace and helped spark a productive writing period .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   75 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y This_DD1 cabin_NN1 retreat_NN1 in_II Wyoming_NP1 's_GE_VBZ Big_JJ Horn_NP1 Mountains_NNL2 gave_VVD the_AT author_NN1 solace_NN1 and_CC helped_VVN_VVD_JJ@ spark_VVI a_AT1 productive_JJ writing_NN1 period_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  A    0   76 By Page Lambert
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080317 COCA  B    0   76 By_II Page_NP1@_NN1 Lambert_NP1

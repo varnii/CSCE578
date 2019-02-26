@@ -1,0 +1,188 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    0 WHEN THE BAR ASSOCIATION HELD ITS next evening program -- on direct examination -- there was professor Vince Warbler from the law school waiting at the front door when Angus , Judge Standwell and I arrived .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    0 WHEN_RRQ_CS THE_AT BAR_NN1 ASSOCIATION_NN1 HELD_VVD_VVN ITS_Z' next_MD evening_NNT1 program_NN1 --_NN1 on_II direct_JJ examination_NN1 --_NN1 there_EX_RL was_VBDZ professor_NN1 Vince_NP1 Warbler_NP1_NN1 from_II the_AT law_NN1 school_NN1 waiting_VVG at_II the_AT front_JJ_NN1 door_NN1 when_CS_RRQ Angus_NP1_NN1 ,_Y Judge_NP1@_VV0 Standwell_NP1 and_CC I_PPIS1 arrived_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    1 <p> Warbler pulled me aside before I could even walk into the room .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    1 <p>_Y Warbler_NP1@_NN1 pulled_VVD me_PPIO1 aside_RL before_CS I_PPIS1 could_VM even_RR walk_VVI into_II the_AT room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    2 " How much are Angus and the judge getting to do these programs ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    2 "_Y How_RGQ@_RRQ much_RR are_VBR Angus_NP1_NN1 and_CC the_AT judge_NN1 getting_VVG to_TO do_VDI these_DD2 programs_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    3 " he said , his eyes open wide .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    3 "_Y he_PPHS1 said_VVD ,_Y his_APPGE eyes_NN2 open_VV0 wide_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    4 <p> " Nothing , " I said .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    4 <p>_Y "_Y Nothing_PN1 ,_Y "_Y I_PPIS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    5 " This is pro bono .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    5 "_Y This_DD1 is_VBZ pro_JJ bono_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    6 " <p> " Well , what about sharing your notes with me ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    6 "_Y <p>_Y "_Y Well_RR ,_Y what_DDQ about_II sharing_VVG your_APPGE notes_NN2 with_IW me_PPIO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    7 " said Warbler .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    7 "_Y said_VVD Warbler_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    8 <p> " Sorry , " I said , " but maybe you could get reprint permission from the bar association newsletter .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    8 <p>_Y "_Y Sorry_JJ ,_Y "_Y I_PPIS1 said_VVD ,_Y "_Y but_CCB maybe_RR you_PPY could_VM get_VVI reprint_NN1 permission_NN1 from_II the_AT bar_NN1 association_NN1 newsletter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0    9 " <p> Warbler actually harrumphed as he stormed out of the building .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0    9 "_Y <p>_Y Warbler_NN1_NP1@ actually_RR harrumphed_VVD_VVN@ as_CSA he_PPHS1 stormed_VVD out_II21 of_II22 the_AT building_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   10 I just had time to get a cup of coffee and a blueberry scone before Angus started the program .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   10 I_PPIS1 just_RR had_VHD time_NNT1 to_TO get_VVI a_AT1 cup_NN1 of_IO coffee_NN1 and_CC a_AT1 blueberry_NN1 scone_NN1 before_II_CS Angus_NP1 started_VVD the_AT program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   11 <p> L : DO N'T TALK LIKE A LAWYER " LEGALESE IS A POISONOUS SET OF VERBAL HABITS THAT <p> we unconsciously turn on or off , depending " said Angus .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   11 <p>_Y L_ZZ1_NP1@ :_Y DO_VD0 N'T_XX TALK_VVI LIKE_II A_AT1@_ZZ1 LAWYER_NN1 "_Y LEGALESE_NN1_NN IS_VBZ A_AT1@_ZZ1 POISONOUS_JJ SET_NN1 OF_IO VERBAL_JJ HABITS_NN2 THAT_DD1 <p>_Y we_PPIS2 unconsciously_RR turn_VV0 on_RP@ or_CC off_RP ,_Y depending_II21 "_Y said_VVD Angus_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   12 " It 's the curse of a traditional legal education .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   12 "_Y It_PPH1 's_VBZ the_AT curse_NN1 of_IO a_AT1 traditional_JJ legal_JJ education_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   13 And when we 're in court -- which seems like the most obvious place to sound like a lawyer -- it creates all kinds of problems .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   13 And_CC when_CS_RRQ we_PPIS2 're_VBR in_II court_NN1 --_NN1 which_DDQ seems_VVZ like_II the_AT most_RGT obvious_JJ place_NN1 to_TO sound_VVI like_II a_AT1 lawyer_NN1 --_NN1 it_PPH1 creates_VVZ all_DB kinds_NN2 of_IO problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   14 <p> " Ask a stiff question and you 'll get a stiff answer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   14 <p>_Y "_Y Ask_VV0 a_AT1 stiff_JJ question_NN1 and_CC you_PPY 'll_VM get_VVI a_AT1 stiff_JJ answer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   15 <p> " Ask a long , rambling question and you 'll get a long , rambling answer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   15 <p>_Y "_Y Ask_VV0 a_AT1 long_JJ_RR ,_Y rambling_JJ_NN1 question_NN1 and_CC you_PPY 'll_VM get_VVI a_AT1 long_JJ_RR ,_Y rambling_JJ_NN1 answer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   16 <p> " Ask an incomprehensible question and you 'll get an incomprehensible answer -- or no answer at all .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   16 <p>_Y "_Y Ask_VV0 an_AT1 incomprehensible_JJ question_NN1 and_CC you_PPY 'll_VM get_VVI an_AT1 incomprehensible_JJ answer_NN1 --_NN1 or_CC no_AT answer_NN1 at_RR21_II all_RR22_DB ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   17 <p> " Here 's the secret for both effective writing and speaking : <p> " Learn to talk like a regular person wherever you are .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   17 <p>_Y "_Y Here_RL 's_VBZ the_AT secret_NN1_JJ for_IF both_DB2_RR effective_JJ writing_NN1 and_CC speaking_VVG_NN1@ :_Y <p>_Y "_Y Learn_VV0 to_TO talk_VVI like_II a_AT1 regular_JJ person_NN1 wherever_RRQV you_PPY are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   18 In the office or at home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   18 In_II the_AT office_NN1 or_CC at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   19 In court or out .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   19 In_II court_NN1 or_CC out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   20 And write like a regular person for both personal and professional matters unless you have a very good reason for using a precise legal term of art -- which is very seldom .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   20 And_CC write_VV0 like_II a_AT1 regular_JJ person_NN1 for_IF both_DB2_RR personal_JJ and_CC professional_JJ matters_NN2 unless_CS you_PPY have_VH0 a_AT1 very_RG good_JJ reason_NN1 for_IF using_VVG a_AT1 precise_JJ legal_JJ term_NN1 of_IO art_NN1 --_NN1 which_DDQ is_VBZ very_RG seldom_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   21 <p> " When you prepare for trial , do n't write out your questions .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   21 <p>_Y "_Y When_CS_RRQ you_PPY prepare_VV0 for_IF trial_NN1 ,_Y do_VD0 n't_XX write_VVI out_RP your_APPGE questions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   22 They 'll sound stiff and unnatural when you read them out looking for on the right-hand side of your outline , leaving the left side of the page for occasional notes and reminders .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   22 They_PPHS2 'll_VM sound_VVI stiff_JJ and_CC unnatural_JJ when_CS you_PPY read_VV0 them_PPHO2 out_RP looking_VVG for_IF on_II the_AT right-hand_JJ side_NN1 of_IO your_APPGE outline_NN1 ,_Y leaving_VVG the_AT left_JJ side_NN1 of_IO the_AT page_NN1 for_IF occasional_JJ notes_NN2 and_CC reminders_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   23 That system forces you to ' free-form ' your questions to get the information you need .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   23 That_DD1 system_NN1 forces_VVZ@_NN2 you_PPY to_TO_II '_GE free-form_NN1 '_GE your_APPGE questions_NN2 to_TO get_VVI the_AT information_NN1 you_PPY need_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   24 It makes everything sound more natural , including the witness 's answers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   24 It_PPH1 makes_VVZ everything_PN1 sound_RR% more_RGR natural_JJ ,_Y including_II_VVG@ the_AT witness_NN1 's_GE answers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   25 <p> " Keep your questions short and simple .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   25 <p>_Y "_Y Keep_VV0 your_APPGE questions_NN2 short_JJ_RR@ and_CC simple_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   26 Take advantage of context .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   26 Take_VV0 advantage_NN1 of_IO context_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   27 You do not need to recapitulate the witness 's previous testimony as part of each new question .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   27 You_PPY do_VD0 not_XX need_VVI to_TO recapitulate_VVI the_AT witness_NN1 's_GE previous_JJ testimony_NN1 as_II part_NN1 of_IO each_DD1 new_JJ question_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   28 <p> " ' Why ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   28 <p>_Y "_Y '_"@ Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   29 ' is a great follow-up question to ask on direct .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   29 '_GE_"@ is_VBZ a_AT1 great_JJ follow-up_JJ_NN1 question_NN1 to_TO ask_VVI on_II_RP@ direct_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   30 The question you should never ask on cross-examination will get useful , natural-sounding answers on direct .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   30 The_AT question_NN1 you_PPY should_VM never_RR ask_VVI on_II cross-examination_NN1 will_VM get_VVI useful_JJ ,_Y natural-sounding_JJ answers_NN2 on_II direct_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   31 " <p> L : THE FINE ART OF LEADING " I DID A LITTLE RESEARCH ON THIS NEXT TOPIC , " SAID Judge Standwell , " checking through everything in the court 's library as well as in my own books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   31 "_Y <p>_Y L_ZZ1_NP1@ :_Y THE_AT FINE_JJ ART_NN1 OF_IO LEADING_VVG_JJ "_Y I_PPIS1 DID_VDD A_AT1 LITTLE_JJ RESEARCH_NN1 ON_II THIS_DD1 NEXT_MD TOPIC_NN1 ,_Y "_Y SAID_VVD Judge_NP1@_NN1 Standwell_NP1 ,_Y "_Y checking_VVG through_II_RP@ everything_PN1 in_II the_AT court_NN1 's_GE library_NN1 as_II31_RG well_II32_RR as_II33_CSA in_II my_APPGE own_DA books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   32 And I am pleased to report that asking witnesses leading questions on direct examination is not listed anywhere as one of the seven deadly sins of trial lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   32 And_CC I_PPIS1 am_VBM pleased_JJ to_TO report_VVI that_CST_DD1 asking_VVG_NN1@ witnesses_NN2_VVZ@ leading_VVG_JJ questions_NN2 on_II direct_JJ examination_NN1 is_VBZ not_XX listed_VVN anywhere_RL as_CSA_II@ one_MC1 of_IO the_AT seven_MC deadly_JJ sins_NN2 of_IO trial_NN1 lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   33 <p> " take us much further .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   33 <p>_Y "_Y take_VVI us_PPIO2 much_RR further_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   34 It just says , ' Leading questions should not be used on the direct examination of a witness except as may be necessary to develop the witness 's testimony .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   34 It_PPH1 just_RR says_VVZ ,_Y '_GE Leading_JJ questions_NN2 should_VM not_XX be_VBI used_VVN on_II the_AT direct_JJ examination_NN1 of_IO a_AT1 witness_NN1 except_CS as_CSA may_VM be_VBI necessary_JJ to_TO develop_VVI the_AT witness_NN1 's_GE testimony_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   35 ' And it says you can lead hostile or adverse witnesses anytime .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   35 '_"@_GE And_CC it_PPH1 says_VVZ you_PPY can_VM lead_VVI hostile_JJ or_CC adverse_JJ witnesses_NN2 anytime_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   36 <p> " But Rule 611(c) does n't tell you about all the times when you can lead your own witnesses .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   36 <p>_Y "_Y But_CCB Rule_VV0@_NN1 611(c)_FO does_VDZ n't_XX tell_VVI you_PPY about_II all_DB the_AT times_NNT2 when_RRQ you_PPY can_VM lead_VVI your_APPGE own_DA witnesses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   37 And what most practice books do n't tell you is how mastering the art of asking permissible leading questions will make all of your direct examinations smoother , easier to follow and more conversational .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   37 And_CC what_DDQ most_DAT practice_NN1 books_NN2 do_VD0 n't_XX tell_VVI you_PPY is_VBZ how_RRQ mastering_NN1%_VVG the_AT art_NN1 of_IO asking_VVG permissible_JJ leading_JJ questions_NN2 will_VM make_VVI all_DB of_IO your_APPGE direct_JJ examinations_NN2 smoother_JJR ,_Y easier_RRR_JJR to_TO follow_VVI and_CC more_RGR conversational_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   38 <p> " But since we did n't know that , we all got out of law school thinking that asking leading questions on direct examination really is one of the seven deadly sins of trial lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   38 <p>_Y "_Y But_CCB since_CS we_PPIS2 did_VDD n't_XX know_VVI that_DD1_CST ,_Y we_PPIS2 all_DB_RR@ got_VVN_VVD out_II21 of_II22 law_NN1 school_NN1 thinking_VVG_NN1 that_CST_DD1 asking_VVG leading_JJ questions_NN2 on_II direct_JJ examination_NN1 really_RR is_VBZ one_MC1 of_IO the_AT seven_MC deadly_JJ sins_NN2 of_IO trial_NN1 lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   39 <p> " Enter the fine art of leading .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   39 <p>_Y "_Y Enter_VV0 the_AT fine_JJ art_NN1 of_IO leading_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   40 First , do n't start any direct examination by asking questions that sound like a heartless bureaucrat in a Franz.Kafka novel : ' Would you state your full name , spelling your last name for the benefit of the court reporter 2007 , would you indicate what , if anything , you were doing with respect to ... .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   40 First_MD ,_Y do_VD0 n't_XX start_VVI any_DD direct_JJ examination_NN1 by_II asking_VVG questions_NN2 that_CST_DD1 sound_NN1_VV0@ like_II a_AT1 heartless_JJ bureaucrat_NN1 in_II a_AT1 Franz.Kafka_NP1 novel_NN1_JJ :_Y '_"@ Would_VM you_PPY state_VVI your_APPGE full_JJ name_NN1 ,_Y spelling_VVG your_APPGE last_MD name_NN1 for_IF the_AT benefit_NN1 of_IO the_AT court_NN1 reporter_NN1 2007_MC ,_Y would_VM you_PPY indicate_VVI what_DDQ ,_Y if_CS anything_PN1 ,_Y you_PPY were_VBDR doing_VDG with_II31 respect_II32 to_II33 ..._... ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   41 ' <p> " Instead , start with a few friendly leading questions : <p> " ' Your name is Martin Drewek ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   41 '_"@_GE <p>_Y "_Y Instead_RR ,_Y start_VV0_NN1 with_IW a_AT1 few_DA2 friendly_JJ leading_JJ questions_NN2 :_Y <p>_Y "_Y '_"@_GE Your_APPGE name_NN1 is_VBZ Martin_NP1 Drewek_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   42 ' <p> " ' Yeah , that 's right .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   42 '_"@_GE <p>_Y "_Y '_"@ Yeah_UH ,_Y that_DD1 's_VBZ right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   43 Actually , Martin J. Drewek .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   43 Actually_RR ,_Y Martin_NP1 J._NP1 Drewek_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   44 My friends call me Marty ' <p> " ' And you 're a pipe fitter -- is that right ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   44 My_APPGE friends_NN2 call_VV0 me_PPIO1 Marty_NP1_NN1 '_GE <p>_Y "_Y '_GE And_CC you_PPY 're_VBR a_AT1 pipe_NN1 fitter_NN1_JJR --_NN1 is_VBZ that_DD1 right_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   45 ' <p> " ' Yeah , so far , but times are getting tight .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   45 '_"@_GE <p>_Y "_Y '_"@ Yeah_UH ,_Y so_RG far_RR ,_Y but_CCB times_VVZ%_NNT2 are_VBR getting_VVG tight_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   46 Some of my friends at other shops have already been cut down to 10 or 15 hours a week .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   46 Some_DD of_IO my_APPGE friends_NN2 at_II other_JJ shops_NN2 have_VH0 already_RR been_VBN cut_VVN down_RP to_II 10_MC or_CC 15_MC hours_NNT2 a_AT1 week_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   47 ' <p> " Here is where you just give an understanding nod and go on to the case at hand .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   47 '_"@_GE <p>_Y "_Y Here_RL is_VBZ where_RRQ_CS you_PPY just_RR give_VV0 an_AT1 understanding_NN1_JJ@ nod_NN1 and_CC go_VV0 on_RP_II21 to_II_II22 the_AT case_NN1 at_II hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   48 ' Mr. Drewek , you understand that this lawsuit is about a brand-new building that collapsed in downtown Cleveland on April 3 , 2007 ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   48 '_GE_"@ Mr._NNB Drewek_NP1 ,_Y you_PPY understand_VV0 that_CST this_DD1 lawsuit_NN1 is_VBZ about_II a_AT1 brand-new_JJ building_NN1 that_CST collapsed_VVD in_II_RP@ downtown_JJ_RL Cleveland_NP1 on_II April_NPM1 3_MC ,_Y 2007_MC ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   49 ' <p> " ' Absolutely , ' says Drewek .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   49 '_"@_GE <p>_Y "_Y '_GE Absolutely_RR ,_Y '_"@_GE says_VVZ Drewek_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   50 ' I was less than a block away when it started to fall .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   50 '_"@_GE I_PPIS1 was_VBDZ less_RRR_DAR than_CSN a_AT1 block_NN1 away_RL when_CS it_PPH1 started_VVD to_TO fall_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   51 ' <p> " And here , " said Judge Standwell the present tense -- just to help make it come alive -- and say , ' Mr. Drewek , tell us what you see as the building starts to fall .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   51 '_"@_GE <p>_Y "_Y And_CC here_RL ,_Y "_Y said_VVD Judge_NP1@_NN1 Standwell_NP1 the_AT present_JJ_NN1 tense_JJ --_NN1_JJ just_RR_JJ@ to_TO help_VVI make_VVI it_PPH1 come_VVI alive_JJ --_NN1_JJ and_CC say_VVI ,_Y '_GE_"@ Mr._NNB Drewek_NP1 ,_Y tell_VV0 us_PPIO2 what_DDQ you_PPY see_VV0 as_II_CSA the_AT building_NN1 starts_VVZ to_TO fall_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   52 ' <p> " ' The whole front of the building -- all eight stories -- starts to crumble and fall into the street .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   52 '_"@_GE <p>_Y "_Y '_GE_"@ The_AT whole_JJ front_NN1 of_IO the_AT building_NN1 --_NN1 all_DB_RR@ eight_MC stories_NN2 --_NN1 starts_VVZ to_TO crumble_VVI and_CC fall_VVI into_II the_AT street_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   53 ' " <p> " Can you do that ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   53 '_"@_GE "_Y <p>_Y "_Y Can_VM you_PPY do_VDI that_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   54 " said Maria Archuleta , who was in the third row .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   54 "_Y said_VVD Maria_NP1 Archuleta_NP1 ,_Y who_PNQS was_VBDZ in_II the_AT third_MD row_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   55 <p> " There is no rule against asking questions in the present tense , " said Judge Standwell , " and it sure makes the answers come alive .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   55 <p>_Y "_Y There_EX is_VBZ no_AT rule_NN1 against_II asking_VVG questions_NN2 in_II the_AT present_JJ_NN1 tense_JJ_NN1@_VV0 ,_Y "_Y said_VVD Judge_NP1@_NN1 Standwell_NP1 ,_Y "_Y and_CC it_PPH1 sure_RR%_JJ makes_VVZ the_AT answers_NN2 come_VVI alive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   56 <p> " Back to creative leading , " he said .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   56 <p>_Y "_Y Back_NN1_RP to_II creative_JJ leading_JJ ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   57 " It 's a great way to introduce an expert witness -- with five or six minutes of nice , tight leading questions from you instead of 25 or 30 minutes of painful self-aggrandizement from your expert .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   57 "_Y It_PPH1 's_VBZ a_AT1 great_JJ way_NN1 to_TO introduce_VVI an_AT1 expert_NN1_JJ@ witness_NN1_VV0 --_NN1_JJ with_IW five_MC or_CC six_MC minutes_NNT2 of_IO nice_JJ ,_Y tight_RR_JJ leading_JJ_VVG questions_NN2 from_II you_PPY instead_II21 of_II22 25_MC or_CC 30_MC minutes_NNT2 of_IO painful_JJ self-aggrandizement_NN1 from_II your_APPGE expert_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   58 Juries constantly tell me they get sick of listening to what they call ' overpaid blowhards bragging about themselves .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   58 Juries_NN2 constantly_RR tell_VV0 me_PPIO1 they_PPHS2 get_VV0 sick_JJ of_IO listening_VVG_NN1_JJ to_II what_DDQ they_PPHS2 call_NN1_VV0 '_GE overpaid_JJ@ blowhards_NN2 bragging_VVG about_II themselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   59 ' <p> " After you qualify your client 's medical doctor as an expert , it 's you use in your questions : ' Dr. Williamson , we need you to teach us about the heart .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   59 '_"@_GE <p>_Y "_Y After_CS you_PPY qualify_VV0 your_APPGE client_NN1 's_GE medical_JJ doctor_NN1 as_II_CSA an_AT1 expert_NN1 ,_Y it_PPH1 's_VBZ you_PPY use_VV0 in_II_RP@ your_APPGE questions_NN2 :_Y '_GE_"@ Dr._NNB Williamson_NP1 ,_Y we_PPIS2 need_VV0 you_PPY to_TO teach_VVI us_PPIO2 about_II the_AT heart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   60 Could you tell us what is meant by a " myocardial infarction " ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   60 Could_VM you_PPY tell_VVI us_PPIO2 what_DDQ is_VBZ meant_VVN by_II a_AT1 "_Y myocardial_JJ infarction_NN1 "_Y ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   61 ' <p> " ' A myocardial infarction is doctor talk for a heart attack .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   61 '_"@_GE <p>_Y "_Y '_"@_GE A_ZZ1 myocardial_JJ infarction_NN1 is_VBZ doctor_NN1 talk_NN1_VV0 for_IF a_AT1 heart_NN1 attack_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   62 It means that part of the heart actually dies , ' says Dr. Williamson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   62 It_PPH1 means_VVZ that_DD1_CST part_NN1 of_IO the_AT heart_NN1 actually_RR dies_VVZ ,_Y '_"@_GE says_VVZ Dr._NNB Williamson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   63 ' Usually it 's caused by a lack of blood flowing to that part of the heart .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   63 '_GE Usually_RR it_PPH1 's_VBZ caused_VVN by_II a_AT1 lack_NN1 of_IO blood_NN1 flowing_VVG to_II that_DD1 part_NN1 of_IO the_AT heart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   64 That 's what happened to Mrs. Johnson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   64 That_DD1 's_VBZ what_DDQ happened_VVD to_II@ Mrs._NNB Johnson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   65 And when her heart healed over time , it was left with a scar that permanently impairs how well her heart can pump blood throughout the body .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   65 And_CC when_CS her_APPGE heart_NN1 healed_VVN_VVD over_II time_NNT1 ,_Y it_PPH1 was_VBDZ left_VVN with_IW a_AT1 scar_NN1 that_CST permanently_RR impairs_VVZ how_RRQ_RGQ@ well_RR her_APPGE heart_NN1 can_VM pump_VVI blood_NN1 throughout_II the_AT body_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   66 ' <p> " That 's when the jurors all start wishing their doctors were as good at explaining things as your witness is .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   66 '_"@_GE <p>_Y "_Y That_DD1 's_VBZ when_RRQ the_AT jurors_NN2 all_DB_RR@ start_VV0_NN1 wishing_VVG their_APPGE doctors_NN2 were_VBDR as_RG good_JJ at_II explaining_VVG things_NN2 as_CSA_II@ your_APPGE witness_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   67 " <p> L : THE STORY METHOD OF DIRECT " YOU 'RE A TEACHER ON DIRECT EXAMINATION , " SAID Angus .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   67 "_Y <p>_Y L_ZZ1_NP1@ :_Y THE_AT STORY_NN1 METHOD_NN1 OF_IO DIRECT_JJ "_Y YOU_PPY 'RE_VBR A_AT1@_ZZ1 TEACHER_NN1 ON_II DIRECT_JJ EXAMINATION_NN1 ,_Y "_Y SAID_VVD Angus_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   68 " You 're teaching the judge and jury the facts of your case through the witnesses ' stories .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   68 "_Y You_PPY 're_VBR teaching_VVG the_AT judge_NN1 and_CC jury_NN1 the_AT facts_NN2 of_IO your_APPGE case_NN1 through_II the_AT witnesses_NN2 '_GE stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   69 But subtly -- not like a flamboyant symphony , conspicuously directing all of the musicians through their parts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   69 But_CCB subtly_RR --_ZZ not_XX like_II a_AT1 flamboyant_JJ_NN1 symphony_NN1 ,_Y conspicuously_RR directing_VVG all_DB of_IO the_AT musicians_NN2 through_II their_APPGE parts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   70 <p> " Do it well and you will seem to disappear during direct examination as the jury becomes locked in on what your witnesses are saying .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   70 <p>_Y "_Y Do_VD0 it_PPH1 well_RR and_CC you_PPY will_VM seem_VVI to_TO disappear_VVI during_II direct_JJ examination_NN1 as_II_CSA the_AT jury_NN1 becomes_VVZ locked_VVN_JJ in_RP@_II on_II what_DDQ your_APPGE witnesses_NN2 are_VBR saying_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   71 <p> " Use topic sentences to orient everybody .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   71 <p>_Y "_Y Use_VV0_NN1 topic_NN1 sentences_NN2 to_TO orient_VVI everybody_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   72 They keep the judge and jury on track while helping your witnesses to know what 's expected of them .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   72 They_PPHS2 keep_VV0 the_AT judge_NN1 and_CC jury_NN1 on_II track_NN1 while_CS helping_VVG your_APPGE witnesses_NN2 to_TO know_VVI what_DDQ 's_VBZ_VHZ@ expected_VVN_JJ of_IO them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   73 <p> " Where you start each witness ' story is one of the most important decisions you can make , " said Angus .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   73 <p>_Y "_Y Where_CS_RRQ you_PPY start_VV0 each_DD1 witness_NN1 '_GE story_NN1 is_VBZ one_MC1 of_IO the_AT most_RGT important_JJ decisions_NN2 you_PPY can_VM make_VVI ,_Y "_Y said_VVD Angus_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   74 <p> " One of the most exciting direct examinations I ever saw was conducted by Keith Roberts from Wheaton , I11. , as part of a trial advocacy program .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   74 <p>_Y "_Y One_MC1 of_IO the_AT most_RGT exciting_JJ direct_JJ examinations_NN2 I_PPIS1 ever_RR saw_VVD was_VBDZ conducted_VVN by_II Keith_NP1 Roberts_NP1 from_II Wheaton_NP1 ,_Y I11._FO ,_Y as_II part_NN1 of_IO a_AT1 trial_NN1 advocacy_NN1 program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   75 Roberts was representing the ' defendant ' in a criminal assault case and decided to put his client -- let 's call him Jesse Nolan -- on the stand as his first witness .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   75 Roberts_NP1 was_VBDZ representing_VVG the_AT '_GE defendant_NN1 '_GE in_II a_AT1 criminal_JJ_NN1 assault_NN1 case_NN1 and_CC decided_VVD_VVN to_TO put_VVI his_APPGE client_NN1 --_NN1 let_VM21 's_VM22 call_VVI him_PPHO1 Jesse_NP1 Nolan_NP1 --_NN1_JJ on_II the_AT stand_NN1 as_CSA_II@ his_APPGE first_MD witness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   76 <p> " But instead of starting with the usual routine of trying to make the criminal defendant look like a useful citizen , Roberts went straight to what the jury wanted to hear .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   76 <p>_Y "_Y But_CCB instead_II21 of_II22 starting_VVG with_IW the_AT usual_JJ routine_NN1 of_IO trying_VVG to_TO make_VVI the_AT criminal_JJ_NN1 defendant_NN1 look_VV0 like_II a_AT1 useful_JJ citizen_NN1 ,_Y Roberts_NP1 went_VVD straight_RR to_II what_DDQ the_AT jury_NN1 wanted_VVD_VVN to_TO hear_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   77 <p> " understand the nature of the charges this man has brought against you ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   77 <p>_Y "_Y understand_VVI the_AT nature_NN1 of_IO the_AT charges_NN2 this_DD1 man_NN1 has_VHZ brought_VVN against_II you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   78 ' Notice the leveling effect of that question .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   78 '_"@_GE Notice_VV0 the_AT leveling_JJ@_NN1@ effect_NN1 of_IO that_DD1 question_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   79 It 's no longer State v. Nolan but This Man v. Jesse .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   79 It_PPH1 's_VBZ no_AT longer_JJR State_NN1 v._II Nolan_NP1 but_CCB This_DD1 Man_NN1 v._II Jesse_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   80 <p> " ' I guess so , ' said Jesse .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   80 <p>_Y "_Y '_"@_GE I_PPIS1 guess_VV0 so_RR ,_Y '_GE_"@ said_VVD Jesse_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   81 ' He claims I attacked him in some alley down near the docks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   81 '_"@ He_PPHS1 claims_VVZ I_PPIS1 attacked_VVD him_PPHO1 in_II_RP@ some_DD alley_NN1 down_RP near_II the_AT docks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   82 ' <p> " ' Jesse Nolan , ' said Roberts , ' is that true ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   82 '_"@_GE <p>_Y "_Y '_GE Jesse_NP1 Nolan_NP1 ,_Y '_GE_"@ said_VVD Roberts_NP1 ,_Y '_GE_"@ is_VBZ that_DD1_CST_RG% true_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   83 Did you attack and rob this man in the alley outside the Seaman 's Cove on Aug. 3 ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   83 Did_VDD you_PPY attack_VVI and_CC rob_VVI this_DD1 man_NN1 in_II the_AT alley_NN1 outside_II the_AT Seaman_NN1 's_GE Cove_NN1 on_II Aug._NPM1 3_MC ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   84 ' <p> " ' Absolutely not !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   84 '_"@_GE <p>_Y "_Y '_GE Absolutely_RR not_XX !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   85 ' said Jesse .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   85 '_GE_"@ said_VVD Jesse_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   86 ' I would never do a thing like that .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   86 '_"@_GE I_PPIS1 would_VM never_RR do_VDI a_AT1 thing_NN1 like_II that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   87 I 've never seen that man before this case started and I was nowhere near the docks on Aug. 3 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   87 I_PPIS1 've_VH0 never_RR seen_VVN that_DD1_CST man_NN1 before_II_CS this_DD1 case_NN1 started_VVD_VVN@ and_CC I_PPIS1 was_VBDZ nowhere_RL near_II the_AT docks_NN2 on_II Aug._NPM1 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   88 ' <p> " ' Jesse , ' said Roberts , ' we 're going to have you tell us about where you were and everything you did on Aug. 3 , but first I want you to tell us a little about you .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   88 '_"@_GE <p>_Y "_Y '_GE Jesse_NP1 ,_Y '_GE_"@ said_VVD Roberts_NP1 ,_Y '_"@_GE we_PPIS2 're_VBR going_VVGK to_TO have_VHI you_PPY tell_VV0 us_PPIO2 about_II where_CS_RRQ you_PPY were_VBDR and_CC everything_PN1 you_PPY did_VDD on_II Aug._NPM1 3_MC ,_Y but_CCB first_MD I_PPIS1 want_VV0 you_PPY to_TO tell_VVI us_PPIO2 a_RR21 little_RR22 about_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   89 ' <p> " Keith Roberts understood that the most powerful said Angus , " not buried in the middle .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   89 '_"@_GE <p>_Y "_Y Keith_NP1 Roberts_NP1 understood_VVD that_CST the_AT most_RGT powerful_JJ said_VVD Angus_NP1_NN1 ,_Y "_Y not_XX buried_VVN in_II the_AT middle_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   90 " <p> From the rear of the room I heard someone say " Humbug , " and there was Professor Warbler , walking out the back door .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   90 "_Y <p>_Y From_II the_AT rear_NN1 of_IO the_AT room_NN1 I_PPIS1 heard_VVD someone_PN1 say_VVI "_Y Humbug_NN1 ,_Y "_Y and_CC there_EX was_VBDZ Professor_NNB Warbler_NP1 ,_Y walking_VVG out_RP the_AT back_NN1_JJ@ door_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   91 <p> By Jim Mcelhaney <p> Jim McElhaney is the Baker and Hostetler Distinguished Scholar in Trial Practice at Case Western Reserve University School of Law in Cleveland and the Joseph C Hutcheson Distinguished Lecturer in Trial Advocacy at South Texas College of Law in Houston .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   91 <p>_Y By_II Jim_NP1 Mcelhaney_NP1 <p>_Y Jim_NP1 McElhaney_NP1 is_VBZ the_AT Baker_NP1_NN1@ and_CC Hostetler_NP1_NN1 Distinguished_JJ Scholar_NN1 in_II Trial_NN1 Practice_NN1 at_II Case_NN1 Western_JJ_NP1 Reserve_JJ_NN1 University_NN1 School_NN1 of_IO Law_NN1 in_II Cleveland_NP1 and_CC the_AT Joseph_NP1 C_NP1 Hutcheson_NP1 Distinguished_JJ Lecturer_NN1 in_II Trial_NN1 Advocacy_NN1 at_II South_ND1 Texas_NP1 College_NN1 of_IO Law_NN1 in_II Houston_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   92 He is a senior editor and columnist for Litigation , the journal of the ABA Section of Litigation .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   92 He_PPHS1 is_VBZ a_AT1 senior_JJ editor_NN1 and_CC columnist_NN1 for_IF Litigation_NN1 ,_Y the_AT journal_NN1 of_IO the_AT ABA_NN1_NP1 Section_NN1 of_IO Litigation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  A    0   93 <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071538 COCA  B    0   93 <p>_Y

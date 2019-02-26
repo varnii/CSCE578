@@ -1,0 +1,1001 @@
+##4071511
+April	april	npm1
+4	4	mc
+,	,	y
+2009	2009	mc
+The	the	at
+Ohio	ohio	np1
+Technology	technology	nn1
+Education	education	nn1
+Association	association	nn1
+(	(	y
+OTEA		np1
+)	)	y
+Spring	spring	nn1_vv0@
+Conference	conference	nn1
+2009	2009	mc
+will	will	vm
+be	be	vbi
+held	hold	vvn
+at	at	ii
+Worthington	worthington	np1
+Kilbourne	kilbourne	np1
+High	high	jj
+School	school	nn1
+in	in	ii
+Columbus	columbus	np1
+,	,	y
+Ohio	ohio	np1
+.	.	y
+Visit	visit	vv0
+www.		zz
+otea.		nnu
+info/CONFERENCES		fu
+.	.	y
+HTML	html	np1
+for	for	if
+details.	details	nnu
+<>		null
+--		zz
+April	april	npm1
+27	27	mc
+,	,	y
+2009	2009	mc
+IMSTEA		np1_nn1
+Super	super	jj
+Mileage	mileage	nn1
+Challenge	challenge	nn1
+will	will	vm
+take	take	vvi
+place	place	nn1
+at	at	ii
+O	o	np1@_zz1
+'	'	ge
+Reilly	reilly	np1
+Indianapolis	indianapolis	np1
+Raceway	raceway	np1_nn1
+Park	park	nn1
+in	in	ii
+Indianapolis	indianapolis	np1
+.	.	y
+Indiana	indiana	np1
+High	high	jj
+School	school	nn1
+students	student	nn2
+are	be	vbr
+challenged	challenge	vvn
+to	to	to
+engineer	engineer	vvi
+solutions	solution	nn2
+for	for	if
+our	our	appge
+nation	nation	nn1
+'	'	ge
+s	s	zz1
+energy	energy	nn1
+needs	need	vvz_nn2
+in	in	ii
+the	the	at
+2009	2009	mc
+Super	super	jj
+Mileage	mileage	nn1
+Challenge	challenge	nn1_vv0
+!	!	y
+In	in	ii
+the	the	at
+SMC	smc	nn1
+,	,	y
+high	high	jj
+school	school	nn1
+students	student	nn2
+apply	apply	vv0
+Science	science	nn1
+,	,	y
+Technology	technology	nn1
+,	,	y
+Engineering	engineering	nn1
+,	,	y
+and	and	cc
+Mathematics	mathematics	nn1
+(	(	y
+STEM	stem	nn1_vv0
+)	)	y
+to	to	to
+design	design	vvi
+,	,	y
+engineer	engineer	nn1_vv0@
+,	,	y
+construct	construct	vv0
+,	,	y
+test	test	vv0_nn1
+,	,	y
+and	and	cc
+evaluate	evaluate	vv0
+vehicles	vehicle	nn2
+that	that	cst
+obtain	obtain	vv0
+the	the	at
+highest	high	jjt
+MPG	mpg	np1
+.	.	y
+Details	detail	nn2
+can	can	vm
+be	be	vbi
+found	find	vvn
+at	at	ii
+www.		zz
+doe.		zz
+state.	state	nnu
+in.	in	nnu
+us/octe/technologyed/		fu
+SuperMileageChallenge.		np1
+html	html	nnu
+or	or	cc
+www.		zz
+imstea.		nnu
+org/.		fu
+<>		null
+--		zz
+April	april	npm1
+30-may		vm
+1	1	mc1
+,	,	y
+2009	2009	mc
+The	the	at
+2008/2009		mf
+New	new	np1
+Jersey	jersey	np1
+Technology	technology	nn1
+Education	education	nn1
+Association	association	nn1
+(	(	y
+NJTEA		np1
+)	)	y
+Conference	conference	nn1
+,	,	y
+"	"	y
+Sustainability	sustainability	nn1
+in	in	ii
+Design	design	nn1
+,	,	y
+"	"	y
+will	will	vm
+be	be	vbi
+held	hold	vvn
+at	at	ii
+the	the	at
+Hilton	hilton	np1
+Hasbrouck	hasbrouck	np1_nn1
+Heights	height	nn2
+,	,	y
+NJ	nj	np1
+.	.	y
+Keynote	keynote	nn1
+speakers	speaker	nn2
+will	will	vm
+be	be	vbi
+TTT	ttt	np1
+contributor	contributor	nn1
+Harry	harry	np1
+Roman	roman	nn1_np1@_jj
+and	and	cc
+ITEA	itea	np1_nn1
+President	president	nn1
+,	,	y
+Ed	ed	np1
+Denton	denton	np1
+,	,	y
+DTE	dte	np1_nn1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+May	may	npm1
+26-27	26-27	mcmc
+,	,	y
+2009	2009	mc
+The	the	at
+Connecticut	connecticut	np1
+Technology	technology	nn1
+Education	education	nn1
+Association	association	nn1
+(	(	y
+CTEA	ctea	np1
+)	)	y
+Spring	spring	nn1_vv0@
+Conference	conference	nn1
+09	09	mc
+will	will	vm
+be	be	vbi
+held	hold	vvn
+at	at	ii
+CCSU	ccsu	np1_nn1
+.	.	y
+As	as	csa
+in	in	ii
+years	year	nnt2
+past	past	rt
+,	,	y
+the	the	at
+highlights	highlight	nn2
+of	of	io
+this	this	dd1
+year	year	nnt1
+'	'	ge
+s	s	zz1
+conference	conference	nn1
+will	will	vm
+be	be	vbi
+the	the	at
+Exhibitor	exhibitor	nn1_np1
+section	section	nn1
+,	,	y
+the	the	at
+Workshop	workshop	nn1
+sessions	session	nnt2
+,	,	y
+and	and	cc
+the	the	at
+great	great	jj
+Texas	texas	np1
+barbecue	barbecue	nn1_vv0
+lunch	lunch	nn1
+.	.	y
+To	to	to
+get	get	vvi
+a	a	at1
+free	free	jj
+lunch	lunch	nn1
+,	,	y
+you	you	ppy
+must	must	vm
+preregister	preregister	nn1
+before	before	ii
+May	may	npm1
+1	1	mc1
+,	,	y
+2009	2009	mc
+.	.	y
+You	you	ppy
+can	can	vm
+register	register	vvi
+online	online	rr_jj
+from	from	ii
+the	the	at
+CTEA	ctea	nn1_np1
+website	website	nn1
+or	or	cc
+by	by	ii
+mail	mail	nn1
+.	.	y
+Visit	visit	vv0
+http		nnu
+:	:	y
+//www.	//www	fu
+cteaweb.		nnu
+org/	org/	nn1_vv0
+for	for	if
+details.	details	nnu
+<>		null
+--		zz
+June	june	npm1
+15	15	mc
+,	,	y
+2009	2009	mc
+Submission	submission	nn1
+Deadline	deadline	nn1
+for	for	if
+Application	application	nn1
+to	to	ii
+Present	present	nn1_jj
+at	at	ii
+ITEA	itea	np1
+'	'	ge
+s	s	zz1
+72nd	72nd	md
+Annual	annual	jj
+Conference	conference	nn1
+,	,	y
+March	march	npm1
+18-20	18-20	mcmc
+,	,	y
+2010	2010	mc
+in	in	ii
+Charlotte	charlotte	np1
+,	,	y
+NC	nc	np1
+.	.	y
+The	the	at
+conference	conference	nn1
+theme	theme	nn1
+is	be	vbz
+"	"	y
+Green	green	jj
+Technology	technology	nn1
+:	:	y
+STEM	stem	vv0_nn1
+Solutions	solution	nn2
+for	for	if
+21st	21st	md
+Century	century	nnt1
+Citizens	citizen	nn2
+.	.	y
+"	"	y
+The	the	at
+application	application	nn1
+and	and	cc
+complete	complete	jj
+information	information	nn1
+are	be	vbr
+available	available	jj
+at	at	ii
+www.		zz
+iteaconnect.		zz
+**27;2001;TOOLONG		nn1
+htm.	htm	nnu
+<>		null
+--		zz
+June	june	npm1
+26-30	26-30	mcmc
+,	,	y
+2009	2009	mc
+The	the	at
+Centre	center	nn1
+for	for	if
+Research	research	nn1
+into	into	ii
+Primary	primary	jj_nn1
+Technology	technology	nn1
+(	(	y
+CRIPT		np1
+)	)	y
+at	at	ii
+Birmingham	birmingham	np1
+City	city	nn1
+University	university	nn1
+will	will	vm
+host	host	vvi
+its	its	z'
+7th	7th	md
+International	international	jj
+Primary	primary	jj_nn1
+Design	design	nn1
+&;		null
+Technology	technology	nn1
+Conference	conference	nn1
+,	,	y
+"	"	y
+Making	make	vvg
+the	the	at
+Difference	difference	nn1
+,	,	y
+"	"	y
+at	at	ii
+the	the	at
+Quality	quality	nn1
+Inn	inn	nn1
+,	,	y
+Hagley	hagley	np1
+Road	road	nnl1
+,	,	y
+Birmingham	birmingham	np1
+.	.	y
+Events	event	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+practical	practical	jj
+workshops	workshop	nn2
+,	,	y
+visits	visit	nn2_vvz@
+to	to	ii
+primary	primary	jj_nn1
+schools	school	nn2
+,	,	y
+and	and	cc
+displays	display	nn2
+of	of	io
+resources	resource	nn2
+.	.	y
+For	for	if
+registration	registration	nn1
+information	information	nn1
+,	,	y
+please	please	rr
+contact	contact	vv0
+Clare	clare	np1
+Benson	benson	np1
+at	at	ii
+clare.		nnu
+benson@bcu.		fo
+ac.	ac	nn1
+uk.		nnu
+<>		null
+--		zz
+June	june	np1@
+28-July	28-july	npm1
+2	2	mc
+,	,	y
+2009	2009	mc
+The	the	at
+Technology	technology	nn1
+Student	student	nn1
+Association	association	nn1
+will	will	vm
+hold	hold	vvi
+its	its	z'
+31st	31st	md
+TSA	tsa	np1
+National	national	jj
+Conference	conference	nn1
+,	,	y
+"	"	y
+Shape	shape	vv0@
+the	the	at
+Future	future	nn1_jj
+,	,	y
+"	"	y
+at	at	ii
+the	the	at
+Sheraton	sheraton	np1
+Denver	denver	np1
+Hotel	hotel	nn1
+and	and	cc
+the	the	at
+Colorado	colorado	np1
+Convention	convention	nn1
+Center	center	nn1
+.	.	y
+Complete	complete	jj_vv0
+conference	conference	nn1
+information	information	nn1
+,	,	y
+including	including	ii_vvg@
+registration	registration	nn1
+,	,	y
+accommodations	accommodation	nn2
+,	,	y
+and	and	cc
+competition	competition	nn1
+rules	rule	nn2
+,	,	y
+is	be	vbz
+available	available	jj
+at	at	ii
+www.		zz
+tsaweb.		nnu
+**54;2030;TOOLONG		fu
+<>		null
+--		zz
+August	august	npm1
+24-28	24-28	mcmc
+,	,	y
+2009	2009	mc
+The	the	at
+Pupils	pupil	nn2
+'	'	ge
+Attitudes	attitude	nn2
+Towards	towards	ii
+Technology	technology	nn1
+(	(	y
+PATT-22	patt-22	mc
+)	)	y
+Conference	conference	nn1
+,	,	y
+"	"	y
+Strengthening	strengthen	vvg_nn1
+Technology	technology	nn1
+Education	education	nn1
+in	in	ii
+the	the	at
+School	school	nn1
+Curriculum	curriculum	nn1
+,	,	y
+"	"	y
+will	will	vm
+be	be	vbi
+held	hold	vvn
+in	in	ii
+Delft	delft	np1_nn1
+,	,	y
+the	the	at
+Netherlands	netherlands	np1
+,	,	y
+hosted	host	vvn
+by	by	ii
+the	the	at
+Science	science	nn1
+Education	education	nn1
+and	and	cc
+Communication	communication	nn1
+(	(	y
+SEC	sec	nnu
+)	)	y
+section	section	nn1
+at	at	ii
+the	the	at
+Delft	delft	nn1_np1
+University	university	nn1
+of	of	io
+Technology	technology	nn1
+.	.	y
+You	you	ppy
+are	be	vbr
+invited	invite	vvn
+to	to	to
+submit	submit	vvi
+papers	paper	nn2
+to	to	to
+address	address	vvi
+one	one	mc1
+of	of	io
+the	the	at
+following	following	jj
+subthemes	subtheme	nn2
+:	:	y
+Seeking	seek	vvg
+strategic	strategic	jj
+curricular	curricular	jj
+alliances	alliance	nn2
+;	;	y
+Educating	educating	np1_vvg
+teachers	teacher	nn2
+for	for	if
+a	a	at1
+sustainable	sustainable	jj
+technology	technology	nn1
+education	education	nn1
+;	;	y
+Educational	educational	jj
+research	research	nn1
+for	for	if
+supporting	supporting	jj_vvg
+technology	technology	nn1
+education	education	nn1
+;	;	y
+Promoting	promote	vvg_jj@
+technology	technology	nn1
+education	education	nn1
+for	for	if
+the	the	at
+wider	wide	jjr
+public	public	nn1
+;	;	y
+Seeking	seek	vvg
+political	political	jj
+support	support	nn1
+;	;	y
+or	or	cc
+Other	other	jj
+strategies	strategy	nn2
+for	for	if
+strengthening	strengthen	vvg
+the	the	at
+position	position	nn1
+of	of	io
+technology	technology	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+international	international	jj
+discussion	discussion	nn1
+platform	platform	nn1
+for	for	if
+research	research	nn1
+and	and	cc
+developments	development	nn2
+in	in	ii
+technology	technology	nn1
+education	education	nn1
+.	.	y
+PATT	patt	vv0_np1_nn1
+conferences	conference	nn2
+are	be	vbr
+characterized	characterize	vvn
+by	by	ii
+their	their	appge
+informal	informal	jj
+atmosphere	atmosphere	nn1
+,	,	y
+the	the	at
+absence	absence	nn1
+of	of	io
+parallel	parallel	jj
+sessions	session	nnt2
+,	,	y
+an	a	at1
+open	open	jj
+exchange	exchange	nn1
+of	of	io
+information	information	nn1
+,	,	y
+and	and	cc
+ideas	idea	nn2
+in	in	ii
+presentations	presentation	nn2
+and	and	cc
+discussions	discussion	nn2
+.	.	y
+The	the	at
+PATT-Foundation	patt-foundation	nn1
+is	be	vbz
+based	base	vvn
+in	in	ii
+the	the	at
+Netherlands	netherlands	np1
+.	.	y
+For	for	if
+additional	additional	jj
+information	information	nn1
+,	,	y
+contact	contact	vv0_nn1
+Marc	marc	np1
+J.	xx_j	np1
+de	de	np1
+Vries	vries	np1_nn2
+at	at	ii
+m.	m	nnu
+j.	xx_j	nnu
+devries@tudelft.		fo
+nl	nl	nnu
+.	.	y
+Deadline	deadline	nn1
+for	for	if
+preregistration	preregistration	nn1
+is	be	vbz
+April	april	npm1
+1	1	mc1
+,	,	y
+2009.	2009	mc
+<>		null
+--		zz
+October	october	npm1
+6-8	6-8	mcmc
+2009	2009	mc
+Don	don	np1_nn1
+'	'	ge
+t	t	zz1
+miss	miss	vv0
+TENZ	tenz	nn1_np1_vv0
+2009	2009	mc
+.	.	y
+TENZ		np1
+'	'	ge
+s	s	zz1
+seventh	seventh	md
+biennial	biennial	nn1
+conference	conference	nn1
+will	will	vm_nn1@
+,	,	y
+like	like	ii
+its	its	z'
+predecessors	predecessor	nn2
+,	,	y
+offer	offer	vv0
+a	a	at1
+firstclass	firstclass	nn1
+professional	professional	jj_nn1@
+development	development	nn1
+opportunity	opportunity	nn1
+to	to	ii
+all	all	db
+those	those	dd2
+interested	interested	jj
+in	in	ii
+technology	technology	nn1
+education	education	nn1
+.	.	y
+The	the	at
+conference	conference	nn1
+will	will	vm
+be	be	vbi
+held	hold	vvn
+in	in	ii
+Napier	napier	np1
+,	,	y
+where	where	rrq
+Napier	napier	np1
+'	'	ge
+s	s	zz1
+stunning	stunning	jj
+War	war	nn1
+Memorial	memorial	nn1
+Conference	conference	nn1
+Centre	center	nn1
+is	be	vbz
+the	the	at
+venue	venue	nn1
+for	for	if
+presentations	presentation	nn2
+,	,	y
+workshops	workshop	nn2
+,	,	y
+and	and	cc
+the	the	at
+conference	conference	nn1
+dinner	dinner	nn1
+.	.	y
+The	the	at
+programme	program	nn1
+will	will	vm
+include	include	vvi
+a	a	at1
+broad	broad	jj
+range	range	nn1
+of	of	io
+activities	activity	nn2
+for	for	if
+primary	primary	nn1_jj
+,	,	y
+secondary	secondary	nn1_jj
+,	,	y
+and	and	cc
+tertiary	tertiary	jj
+educators	educator	nn2
+.	.	y
+Register	register	vv0
+now	now	rt
+at	at	ii
+www.		zz
+tenz.		nnu
+org.	org	nnu
+nz	nz	nnu
+,	,	y
+where	where	cs_rrq
+you	you	ppy
+will	will	vm
+also	also	rr
+find	find	vvi
+information	information	nn1
+on	on	ii
+possible	possible	jj
+accommodation	accommodation	nn1
+.	.	y
+To	to	to
+find	find	vvi
+out	out	rp
+more	more	rrr_dar
+about	about	ii
+TENZ		np1_nn1
+2009	2009	mc
+,	,	y
+email	e-mail	nn1_vv0@
+tenz2009@ipenz.		fo
+org.	org	nnu
+nz	nz	nnu
+.	.	y
+<>		null
+You	you	ppy
+are	be	vbr
+encouraged	encourage	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+a	a	at1
+paper	paper	nn1
+or	or	cc
+workshop	workshop	nn1
+presentation	presentation	nn1
+.	.	y
+The	the	at
+Organising	organize	vvg
+Committee	committee	nn1
+is	be	vbz
+keen	keen	jj
+to	to	to
+see	see	vvi
+a	a	at1
+range	range	nn1
+of	of	io
+presentations	presentation	nn2
+,	,	y
+and	and	cc
+information	information	nn1
+about	about	ii
+submission	submission	nn1
+is	be	vbz
+now	now	rt
+available	available	jj
+at	at	ii
+www.		zz
+tenz.		nnu
+org.	org	nnu
+nz/2009/presentation.		fu
+<>		null
+--		zz
+November	november	npm1
+11-13	11-13	mcmc
+,	,	y
+2009	2009	mc
+ICTE		np1_nn1
+2009	2009	mc
+(	(	y
+International	international	jj
+Conference	conference	nn1
+on	on	ii
+Technology	technology	nn1
+Education	education	nn1
+in	in	ii
+the	the	at
+Asia-Pacific	asia-pacific	jj
+Region	region	nn1
+)	)	y
+will	will	vm
+hold	hold	vvi
+its	its	z'
+fall	fall	nn1
+conference	conference	nn1
+,	,	y
+"	"	y
+Less	less	dar_rrr
+is	be	vbz
+More	more	rrr_dar
+,	,	y
+Searching	search	vvg
+Solutions	solution	nn2
+to	to	to_ii
+Facilitate	facilitate	vv0
+Technology	technology	nn1
+Education	education	nn1
+with	with	iw
+Limited	limited	jj
+Resources	resource	nn2
+,	,	y
+"	"	y
+in	in	ii
+Taipei	taipei	np1
+,	,	y
+Taiwan	taiwan	np1
+.	.	y
+The	the	at
+organizing	organizing	jj@_nn1@
+committee	committee	nn1
+has	have	vhz
+issued	issue	vvn
+a	a	at1
+call	call	nn1
+for	for	if
+papers	paper	nn2
+and	and	cc
+invites	invite	vvz
+submission	submission	nn1
+of	of	io
+papers	paper	nn2
+on	on	ii
+any	any	dd
+topics	topic	nn2
+relating	relate	vvg
+to	to	ii
+technology	technology	nn1
+education	education	nn1
+.	.	y
+ICTE		np1_nn1
+is	be	vbz
+a	a	at1
+biennial	biennial	nn1
+conference	conference	nn1
+in	in	ii
+which	which	ddq
+the	the	at
+most	most	rgt
+representative	representative	jj
+technology	technology	nn1
+associations/societies		nn2
+in	in	ii
+seven	seven	mc
+countries	country	nn2
+in	in	ii
+the	the	at
+Asia-Pacific	asia-pacific	jj
+Rim	rim	nn1
+participate	participate	vv0
+.	.	y
+Deadline	deadline	nn1
+for	for	if
+submission	submission	nn1
+of	of	io
+papers	paper	nn2
+is	be	vbz
+June	june	npm1
+1	1	mc1
+,	,	y
+2009	2009	mc
+.	.	y
+The	the	at
+conference	conference	nn1
+website	website	nn1
+is	be	vbz
+www.		zz
+ite.		nnu
+ntnu.		nnu
+edu.	edu	nnu
+tw.		nnu
+/icte2009/		nn1_jj
+.	.	y
+Email	e-mail	vv0@_nn1
+Dr.	dr	nnb
+Chi-Cheng		np1
+Chang	chang	np1_nn1_vv0
+at	at	ii
+samchang@ntnu.		fo
+edu.	edu	nnu
+tw	tw	nnu
+for	for	if
+additional	additional	jj
+information	information	nn1
+.	.	y
+<>		null
+List	list	vv0@
+your	your	appge
+State/Province	state/province	nn1
+Association	association	nn1
+Conference	conference	nn1
+in	in	ii
+TTT	ttt	np1
+and	and	cc
+Inside	inside	jj@_ii
+TIDE	tide	nn1
+(	(	y
+ITEA	itea	np1
+'	'	ge
+s	s	zz1
+electronic	electronic	jj
+newsletter	newsletter	nn1
+)	)	y
+.	.	y
+Submit	submit	vv0
+conference	conference	nn1
+title	title	nn1
+,	,	y
+date(s)		nn2_vvz
+,	,	y
+location	location	nn1
+,	,	y
+and	and	cc
+contact	contact	nn1_vv0
+information	information	nn1
+(	(	y
+at	at	rr21
+least	least	rr22
+two	two	mc
+months	month	nnt2
+prior	prior	ii21
+to	to	ii22
+journal	journal	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii

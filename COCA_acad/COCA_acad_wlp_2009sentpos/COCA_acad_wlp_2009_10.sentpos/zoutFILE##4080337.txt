@@ -1,0 +1,224 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    0 WINNING : I 'M expert when it comes to book proposals .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    0 WINNING_VVG :_Y I_PPIS1 'M_VBM expert_JJ@_NN1 when_CS it_PPH1 comes_VVZ to_II book_NN1 proposals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    1 In fact , I 've only ever read one proposal start to finish : my own .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    1 In_II fact_NN1 ,_Y I_PPIS1 've_VH0 only_RR ever_RR read_VVN one_MC1 proposal_NN1 start_NN1_VV0 to_TO finish_VVI :_Y my_APPGE own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    2 Miraculously , though , that proposal was enough to interest an agent and sell to an editor at Touchstone .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    2 Miraculously_RR ,_Y though_CS_RR@ ,_Y that_DD1 proposal_NN1 was_VBDZ enough_DD to_II interest_NN1 an_AT1 agent_NN1 and_CC sell_VV0 to_II an_AT1 editor_NN1 at_II Touchstone_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    3 And so -- miracle of miracles -- my travel memoir , The Motion of the Ocean : 1 Small Boat , 2 Average Lovers , and a Woman 's Search for the Meaning of Wife , hit bookstores this summer .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    3 And_CC so_RG_RR --_ZZ miracle_NN1 of_IO miracles_NN2 --_NN1_JJ my_APPGE travel_NN1 memoir_NN1 ,_Y The_AT Motion_NN1 of_IO the_AT Ocean_NN1 :_Y 1_MC1 Small_JJ@_NP1 Boat_NN1 ,_Y 2_MC Average_JJ Lovers_NN2 ,_Y and_CC a_AT1 Woman_NN1 's_GE Search_NN1 for_IF the_AT Meaning_NN1 of_IO Wife_NN1 ,_Y hit_NN1@_VVD_VVN bookstores_VVZ_NN2 this_DD1 summer_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    4 It is the story of a woman ( me !
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    4 It_PPH1 is_VBZ the_AT story_NN1 of_IO a_AT1 woman_NN1 (_Y me_PPIO1 !_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    5 ) who abandons her tidy life to chase love across the Pacific , only to find that navigating the world is easier than keeping her relationship off the rocks .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    5 )_Y who_PNQS abandons_VVZ her_APPGE_PPHO1 tidy_JJ life_NN1 to_TO chase_VVI love_NN1 across_II the_AT Pacific_NP1 ,_Y only_RR to_TO_II find_VVI that_CST_DD1 navigating_VVG the_AT world_NN1 is_VBZ easier_JJR_RRR than_CSN keeping_VVG her_APPGE relationship_NN1 off_II the_AT rocks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    6 ( Psst !
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    6 (_Y Psst_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    7 That 's my elevator pitch ; more on it later .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    7 That_DD1 's_VBZ my_APPGE elevator_NN1 pitch_NN1 ;_Y more_RRR_DAR on_II it_PPH1 later_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    8 ) Now , though I 'm no expert , I can at least share with you my experience in hopes you can glean something useful .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    8 )_Y Now_RT ,_Y though_CS I_PPIS1 'm_VBM no_AT expert_NN1 ,_Y I_PPIS1 can_VM at_RR21 least_RR22 share_VVI with_IW you_PPY my_APPGE experience_NN1 in_II hopes_NN2 you_PPY can_VM glean_VVI something_PN1 useful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0    9 Before you jump in Truth be told , I was n't an expert at sailing -- or love honeymoon .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0    9 Before_CS you_PPY jump_VV0 in_II_RP@ Truth_NN1 be_VBI told_VVN ,_Y I_PPIS1 was_VBDZ n't_XX an_AT1 expert_NN1 at_II sailing_VVG_NN1 --_ZZ or_CC love_NN1_VV0 honeymoon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   10 Still , I decided to quit my job , sell my car , and take a chance .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   10 Still_RR ,_Y I_PPIS1 decided_VVD to_TO quit_VVI my_APPGE job_NN1 ,_Y sell_VV0 my_APPGE car_NN1 ,_Y and_CC take_VV0 a_AT1 chance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   11 Every time you send out your writing , you 're taking a chance , too -- that it might get published .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   11 Every_AT1 time_NNT1 you_PPY send_VV0 out_RP your_APPGE writing_NN1 ,_Y you_PPY 're_VBR taking_VVG a_AT1 chance_NN1 ,_Y too_RG --_ZZ that_CST it_PPH1 might_VM get_VVI published_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   12 A fact : Your writing will never get published growing cobwebs in your hard drive .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   12 A_AT1 fact_NN1 :_Y Your_APPGE writing_NN1 will_VM never_RR get_VVI published_JJ@_VVN growing_JJ cobwebs_NN2 in_II your_APPGE hard_JJ drive_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   13 Now , if you 're like me , you 'll collect a mountain of rejection letters along with your molehill of clips .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   13 Now_RT ,_Y if_CS you_PPY 're_VBR like_II me_PPIO1 ,_Y you_PPY 'll_VM collect_VVI a_AT1 mountain_NN1 of_IO rejection_NN1 letters_NN2 along_II21 with_II22 your_APPGE molehill_NN1 of_IO clips_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   14 Chin up -- this is what writers do .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   14 Chin_NN1_NP1@ up_II@_RP --_NN1_JJ this_DD1 is_VBZ what_DDQ writers_NN2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   15 I built my audience and my writing skills by submitting to sailing magazines and travel anthologies , and by blogging about relationships .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   15 I_PPIS1 built_VVD my_APPGE audience_NN1 and_CC my_APPGE writing_NN1 skills_NN2 by_II submitting_VVG to_II sailing_VVG_NN1 magazines_NN2 and_CC travel_VV0_NN1 anthologies_NN2 ,_Y and_CC by_II blogging_VVG about_II_RP@ relationships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   16 Notice the small but expanding audience circles ; I did not start with The New York Times .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   16 Notice_VV0 the_AT small_JJ but_CCB expanding_JJ_VVG audience_NN1 circles_NN2 ;_Y I_PPIS1 did_VDD not_XX start_VVI with_IW The_AT New_NP1 York_NP1 Times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   17 Choose a topic you 're knowledgeable and passionate about-ideally , related to your book idea -- and send your best stuff to niche markets .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   17 Choose_VV0 a_AT1 topic_NN1 you_PPY 're_VBR knowledgeable_JJ and_CC passionate_JJ about-ideally_RR ,_Y related_VVN_VVD to_II your_APPGE book_NN1 idea_NN1 --_NN1 and_CC send_VV0 your_APPGE best_JJT stuff_NN1 to_II niche_NN1 markets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   18 Other writers I know built their so-called platforms through writing contests , newspapers and online gigs .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   18 Other_JJ writers_NN2 I_PPIS1 know_VV0 built_VVN_VVD their_APPGE so-called_JJ platforms_NN2 through_II writing_VVG_NN1 contests_NN2 ,_Y newspapers_NN2 and_CC online_JJ gigs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   19 Your platform is who you are in relation to your topic ( your credentials , experience , expertise ( your networks , notoriety , exposure ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   19 Your_APPGE platform_NN1 is_VBZ who_PNQS you_PPY are_VBR in_II31 relation_II32 to_II33 your_APPGE topic_NN1 (_Y your_APPGE credentials_NN2 ,_Y experience_NN1_VV0 ,_Y expertise_NN1 (_Y your_APPGE networks_NN2 ,_Y notoriety_NN1 ,_Y exposure_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   20 The clips you collect now will go directly into your book proposal later ; so will your blog , public speaking , professional activities , even social network -- so Facebook is n't a total waste of rime .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   20 The_AT clips_NN2 you_PPY collect_VV0 now_RT will_VM go_VVI directly_RR into_II your_APPGE book_NN1 proposal_NN1 later_RRR ;_Y so_RR will_VM your_APPGE blog_NN1 ,_Y public_JJ_RR@_NN1 speaking_NN1@_VVG ,_Y professional_JJ activities_NN2 ,_Y even_RR social_JJ network_NN1 --_NN1 so_CS@_RR Facebook_NP1_NN1 is_VBZ n't_XX a_AT1 total_JJ waste_NN1 of_IO rime_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   21 My point ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   21 My_APPGE point_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   22 The stuff you do before you write your proposal will impact what goes in it later .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   22 The_AT stuff_NN1 you_PPY do_VD0 before_II_RT@ you_PPY write_VV0 your_APPGE proposal_NN1 will_NN1@_VM impact_NN1 what_DDQ goes_VVZ in_II it_PPH1 later_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   23 What is a book proposal anyway ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   23 What_DDQ is_VBZ a_AT1 book_NN1 proposal_NN1 anyway_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   24 I first heard about book proposals on a slow drift across the Equator .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   24 I_PPIS1_MC1@ first_MD heard_VVD about_II book_NN1 proposals_NN2 on_II a_AT1 slow_JJ drift_NN1 across_II the_AT Equator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   25 We were on our beat-up old sailboat , there was no wind , and I was writing the first paragraph of a novel for the 139th rime .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   25 We_PPIS2 were_VBDR on_II our_APPGE beat-up_NN1_JJ@ old_JJ sailboat_NN1 ,_Y there_EX was_VBDZ no_AT wind_NN1 ,_Y and_CC I_PPIS1 was_VBDZ writing_VVG the_AT first_MD paragraph_NN1 of_IO a_AT1 novel_NN1_JJ for_IF the_AT 139th_MD rime_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   26 Ugh .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   26 Ugh_UH ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   27 To break up the monotony , I picked up a literary market guide and read about a guy who 'd entered a writing contest .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   27 To_TO break_VVI up_RP_II@ the_AT monotony_NN1 ,_Y I_PPIS1 picked_VVD up_RP a_AT1 literary_JJ market_NN1 guide_NN1 and_CC read_VVN_VVD_VV0 about_II_RP@ a_AT1 guy_NN1 who_PNQS 'd_VHD entered_VVN a_AT1 writing_NN1 contest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   28 He won !
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   28 He_PPHS1 won_VVD !_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   29 The prize was agent representation .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   29 The_AT prize_NN1 was_VBDZ agent_NN1 representation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   30 The agent called the author , said she loved his novel ... but did he have any nonfiction book ideas ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   30 The_AT agent_NN1 called_VVN_VVD@ the_AT author_NN1 ,_Y said_VVD she_PPHS1 loved_VVD his_APPGE novel_NN1_JJ ..._... but_CCB did_VDD he_PPHS1 have_VHI any_DD nonfiction_NN1 book_NN1 ideas_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   31 Er , he 'd always wanted to write a how-to yoga coffee table book for psychic , " she said .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   31 Er_FU ,_Y he_PPHS1 'd_VHD always_RR wanted_VVN to_TO write_VVI a_AT1 how-to_RRQ yoga_NN1 coffee_NN1 table_NN1 book_NN1 for_IF psychic_JJ ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   32 " I 'll sell that first .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   32 "_Y I_PPIS1 'll_VM sell_VVI that_DD1_CST first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   33 Then I 'll sell your novel .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   33 Then_RT I_PPIS1 'll_VM sell_VVI your_APPGE novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   34 " And she did .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   34 "_Y And_CC she_PPHS1 did_VDD ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   35 A lesson : It 's easier to sell ( unpenned ) nonfiction than ( fully penned , award-winning ) fiction .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   35 A_AT1 lesson_NN1 :_Y It_PPH1 's_VBZ easier_JJR to_TO sell_VVI (_Y unpenned_JJ )_Y nonfiction_NN1 than_CSN (_Y fully_RR penned_VVD_VVN@ ,_Y award-winning_JJ )_Y fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   36 So .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   36 So_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   37 If you have a novel that you must write now , write it .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   37 If_CS you_PPY have_VH0 a_AT1 novel_NN1_JJ that_CST you_PPY must_VM write_VVI now_RT ,_Y write_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   38 But maybe you 're like me : When I was n't hatcheting that first paragraph of my novel , I was writing sailing articles and dreaming of a memoir -- a sailing book that was not a sailing book , a journey both inner and outer , a crazy but true love story .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   38 But_CCB maybe_RR you_PPY 're_VBR like_II me_PPIO1 :_Y When_RRQ_CS I_PPIS1 was_VBDZ n't_XX hatcheting_VVG that_DD1_CST first_MD paragraph_NN1 of_IO my_APPGE novel_NN1_JJ ,_Y I_PPIS1 was_VBDZ writing_VVG sailing_NN1_VVG articles_NN2 and_CC dreaming_NN1@_VVG of_IO a_AT1 memoir_NN1 --_NN1 a_AT1 sailing_NN1 book_NN1 that_CST_DD1 was_VBDZ not_XX a_AT1 sailing_NN1 book_NN1 ,_Y a_AT1 journey_NN1 both_RR inner_JJ and_CC outer_JJ ,_Y a_AT1 crazy_JJ but_CCB true_JJ love_NN1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   39 I realized that what I really needed to write was a nonfiction book proposal .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   39 I_PPIS1 realized_VVD that_CST_DD1 what_DDQ I_PPIS1 really_RR needed_VVN_VVD to_TO write_VVI was_VBDZ a_AT1 nonfiction_NN1 book_NN1 proposal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   40 Another definition : A nonfiction book proposal is a marketing document that sells a nonfiction book to a publisher .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   40 Another_DD1 definition_NN1 :_Y A_AT1@_ZZ1 nonfiction_NN1 book_NN1 proposal_NN1 is_VBZ a_AT1 marketing_NN1 document_NN1_VV0@ that_CST_DD1 sells_VVZ a_AT1 nonfiction_NN1 book_NN1 to_II a_AT1 publisher_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   41 It includes : * what the book is about * why an author is qualified to write it * who the audience is * where the book fits in the field * how the author will promote it It also includes a chapters , so , yes , you usually have to write some of the actual book .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   41 It_PPH1 includes_VVZ :_Y *_FU what_DDQ the_AT book_NN1 is_VBZ about_II *_FU why_RRQ an_AT1 author_NN1 is_VBZ qualified_VVN_JJ to_TO write_VVI it_PPH1 *_FU who_PNQS the_AT audience_NN1 is_VBZ *_FU where_RRQ_CS the_AT book_NN1 fits_VVZ_NN2 in_II the_AT field_NN1 *_FU how_RRQ the_AT author_NN1 will_VM promote_VVI it_PPH1 It_NN1@_PPH1 also_RR includes_VVZ a_AT1 chapters_NN2 ,_Y so_RR ,_Y yes_UH ,_Y you_PPY usually_RR have_VH0 to_TO write_VVI some_DD of_IO the_AT actual_JJ book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   42 And if you 've already finished the book ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   42 And_CC if_CS_CSW@ you_PPY 've_VH0 already_RR finished_VVN the_AT book_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   43 Well , you 'll still want to write a proposal because virtually all nonfiction books are sold by proposal .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   43 Well_RR ,_Y you_PPY 'll_VM still_RR want_VVI to_TO write_VVI a_AT1 proposal_NN1 because_CS virtually_RR all_DB nonfiction_NN1 books_NN2 are_VBR sold_VVN by_II proposal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   44 But how ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   44 But_CCB how_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   45 Honestly , it takes a book to explain the minutiae of writing a proposal -- I used Elizabeth Lyon 's excellent Nonfiction Book Proposals Anybody Can Write .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   45 Honestly_RR ,_Y it_PPH1 takes_VVZ a_AT1 book_NN1 to_TO explain_VVI the_AT minutiae_NN2 of_IO writing_VVG a_AT1 proposal_NN1 --_NN1 I_PPIS1 used_VVD Elizabeth_NP1 Lyon_NP1 's_GE excellent_JJ Nonfiction_NN1 Book_NN1 Proposals_NN2 Anybody_PN1 Can_VM Write_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   46 Buy a good guide and mark it up .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   46 Buy_VV0 a_AT1 good_JJ guide_NN1 and_CC mark_VV0 it_PPH1 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   47 And then keep these thoughts in mind : Thought #1 : Be clear about where your book will be shelved .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   47 And_CC then_RT keep_VV0 these_DD2 thoughts_NN2 in_II mind_NN1 :_Y Thought_VVD_VVN_NN1 #1_NNU :_Y Be_VBI clear_JJ about_II where_RRQ your_APPGE book_NN1 will_VM be_VBI shelved_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   48 The assumption is a proposal about sailing means , well , a sailing book .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   48 The_AT assumption_NN1 is_VBZ a_AT1 proposal_NN1 about_II sailing_VVG_NN1 means_NN_VVZ ,_Y well_RR ,_Y a_AT1 sailing_NN1 book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   49 Not so ; in my proposal I write that my book is no Perfect Storm but a travel memoir for women : You know , like Eat , Pray , Love but in reverse : Instead of divorcing and traveling alone , Janna sets sail with her new hubby only to eat rations of Top Ramen , pray she 'll survive ... and still be in love when she competitors .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   49 Not_XX so_RR ;_Y in_II my_APPGE proposal_NN1 I_PPIS1 write_VV0 that_CST my_APPGE book_NN1 is_VBZ no_AT Perfect_JJ Storm_NN1 but_CCB a_AT1 travel_NN1 memoir_NN1 for_IF women_NN2 :_Y You_PPY know_VV0 ,_Y like_RR%_VV0@ Eat_VV0 ,_Y Pray_VV0 ,_Y Love_NN1_VV0 but_CCB in_II reverse_NN1_JJ :_Y Instead_II21 of_II22 divorcing_VVG and_CC traveling_VVG alone_RR_JJ ,_Y Janna_NP1 sets_NN2_VVZ sail_VV0_NN1@ with_IW her_APPGE_PPHO1 new_JJ hubby_NN1 only_RR to_TO_II eat_VVI rations_NN2 of_IO Top_JJ_NN1 Ramen_NN2_NP1 ,_Y pray_VV0 she_PPHS1 'll_VM survive_VVI ..._... and_CC still_RR be_VBI in_II love_NN1 when_CS_RRQ she_PPHS1 competitors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   50 Comparing your book to other successful titles demonstrates marketability .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   50 Comparing_VVG your_APPGE book_NN1 to_II other_JJ successful_JJ titles_NN2 demonstrates_VVZ marketability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   51 ( Nothing sets off alarms like " There 's nothing like my book anywhere in the universe .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   51 (_Y Nothing_PN1 sets_VVZ off_RP_II alarms_NN2 like_VV0@_II_CS% "_Y There_EX_RL 's_VBZ nothing_PN1 like_II my_APPGE book_NN1 anywhere_RL in_II the_AT universe_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   52 " ) That said , you 're supposed to show how your book is different or better , without being cocky or rude .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   52 "_Y )_Y That_DD1 said_VVD ,_Y you_PPY 're_VBR supposed_JJ to_TO show_VVI how_RRQ your_APPGE book_NN1 is_VBZ different_JJ or_CC better_RRR_JJR ,_Y without_IW being_VBG cocky_JJ or_CC rude_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   53 My trick ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   53 My_APPGE trick_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   54 In analyzing a fellow sailing memoir , I quoted a reviewer who lamented its lack of romance .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   54 In_II analyzing_VVG a_AT1 fellow_JJ_NN1 sailing_NN1 memoir_NN1 ,_Y I_PPIS1 quoted_VVD a_AT1 reviewer_NN1 who_PNQS lamented_VVD its_Z' lack_NN1 of_IO romance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   55 Then I added , " In contrast , The Motion of the Ocean is as much about navigating relationships as navigating the world .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   55 Then_RT I_PPIS1 added_VVD ,_Y "_Y In_II contrast_NN1 ,_Y The_AT Motion_NN1 of_IO the_AT Ocean_NN1 is_VBZ as_RG much_DA1_RR about_II navigating_VVG_JJ@ relationships_NN2 as_CSA navigating_VVG the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   56 " Thought #3 : Write in the voice of your book .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   56 "_Y Thought_VVD_VVN_NN1 #3_NNU :_Y Write_VV0 in_II_RP@ the_AT voice_NN1 of_IO your_APPGE book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   57 Your proposal should not only show that you can write , but how you will write .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   57 Your_APPGE proposal_NN1 should_VM not_XX only_RR show_VVI that_CST you_PPY can_VM write_VVI ,_Y but_CCB how_RRQ you_PPY will_VM write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   58 Academic ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   58 Academic_JJ_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   59 Folksy ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   59 Folksy_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   60 Dramatic ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   60 Dramatic_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   61 Funny ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   61 Funny_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   62 Get into character and stay there .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   62 Get_VV0 into_II character_NN1 and_CC stay_VV0 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   63 For me this meant using a candid , conversational tone : No wading through seafaring jargon ; no painful descriptions of sunsets .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   63 For_IF me_PPIO1 this_DD1 meant_VVD_VVN using_VVG a_AT1 candid_JJ ,_Y conversational_JJ tone_NN1 :_Y No_AT_UH wading_NN1 through_II seafaring_JJ jargon_NN1 ;_Y no_AT painful_JJ descriptions_NN2 of_IO sunsets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   64 Each chapter packs a punch .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   64 Each_DD1 chapter_NN1 packs_NN2 a_AT1 punch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   65 And for those passages where not much happens ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   65 And_CC for_IF those_DD2 passages_NN2 where_RRQ_CS not_XX much_RR_DA1 happens_VVZ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   66 We 'll leave those out , thank you very much marketing piece .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   66 We_PPIS2 'll_VM leave_VVI those_DD2 out_RP ,_Y thank_VV0 you_PPY very_RG much_DA1_RR marketing_NN1 piece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   67 But it worked .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   67 But_CCB it_PPH1 worked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   68 Thought #4 : If your book is creative nonfiction , get creative .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   68 Thought_VVD_VVN_NN1 #4_NNU :_Y If_CS your_APPGE book_NN1 is_VBZ creative_JJ nonfiction_NN1 ,_Y get_VV0 creative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   69 Offering " reader benefits " for an adventure love story ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   69 Offering_VVG_NN1 "_Y reader_NN1 benefits_NN2 "_Y for_IF an_AT1 adventure_NN1 love_NN1 story_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   70 Felt a bit like used-car salesmanship to me .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   70 Felt_VVN_VVD a_AT1 bit_NN1 like_VVI used-car_JJ_NN1 salesmanship_NN1 to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   71 My solution ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   71 My_APPGE solution_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   72 I said my book had three goals ; " to entertain , inform and inspire " and I gave examples : Entertain : Cheer on your favorite cross-dresser at the Tutti Frutti Beauty Pageant in Samoa .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   72 I_PPIS1 said_VVD my_APPGE book_NN1 had_VHD three_MC goals_NN2 ;_Y "_Y to_TO entertain_VVI ,_Y inform_VV0 and_CC inspire_VVI "_Y and_CC I_PPIS1 gave_VVD examples_NN2 :_Y Entertain_VV0 :_Y Cheer_VV0_NN1 on_II_RP@ your_APPGE favorite_JJ_NN1 cross-dresser_NN1 at_II the_AT Tutti_JJ_NP1_NN1 Frutti_JJ_NN1_NP1 Beauty_NN1 Pageant_NN1 in_II Samoa_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   73 Inform : Discover if the tiny atoll of Tuvalu is really sinking from global warming .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   73 Inform_VV0 :_Y Discover_VV0 if_CSW@_CS the_AT tiny_JJ atoll_NN1 of_IO Tuvalu_NP1 is_VBZ really_RR sinking_VVG from_II global_JJ warming_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   74 Inspire : Explore un-charted territory in your world , your relationship , and your self .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   74 Inspire_VV0 :_Y Explore_VV0 un-charted_JJ territory_NN1 in_II your_APPGE world_NN1 ,_Y your_APPGE relationship_NN1 ,_Y and_CC your_APPGE self_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   75 The great thing about a nonfiction book proposal is that , as you write it , you 'll discover more and more about your book .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   75 The_AT great_JJ thing_NN1 about_II a_AT1 nonfiction_NN1 book_NN1 proposal_NN1 is_VBZ that_CST_DD1 ,_Y as_CSA you_PPY write_VV0 it_PPH1 ,_Y you_PPY 'll_VM discover_VVI more_DAR_RRR_RGR and_CC more_RRR_DAR about_II your_APPGE book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   76 If you have the stamina to craft a compelling proposal -- mine was a marathon 135 pages including appendix and sample chapters -- you 'll be ready-set-go to write the actual book .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   76 If_CS you_PPY have_VH0 the_AT stamina_NN1 to_TO craft_VVI a_AT1 compelling_JJ proposal_NN1 --_NN1_JJ mine_NN1_PPGE was_VBDZ a_AT1 marathon_NN1 135_MC pages_NN2 including_II appendix_NN1 and_CC sample_NN1_VV0@ chapters_NN2 --_NN1_JJ you_PPY 'll_VM be_VBI ready-set-go_JJ to_TO write_VVI the_AT actual_JJ book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   77 Now what ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   77 Now_RT what_DDQ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   78 Once you 've penned the proposal , you can send it scattershot to random agents and editors of money on printing and postage .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   78 Once_CS@_RR you_PPY 've_VH0 penned_VVN the_AT proposal_NN1 ,_Y you_PPY can_VM send_VVI it_PPH1 scattershot_NN1 to_II random_JJ agents_NN2 and_CC editors_NN2 of_IO money_NN1 on_II printing_NN1_VVG and_CC postage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   79 Or , try this : 1 ) Query agents and editors first , or 2 ) Pitch to agents and editors at writers conferences .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   79 Or_CC ,_Y try_VV0 this_DD1 :_Y 1_MC1 )_Y Query_VV0_NN1 agents_NN2 and_CC editors_NN2 first_MD ,_Y or_CC 2_MC )_Y Pitch_NN1_VV0@ to_II agents_NN2 and_CC editors_NN2 at_II writers_NN2 conferences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   80 I took the latter route , hence my elevator pitch earlier .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   80 I_PPIS1 took_VVD the_AT latter_DA route_NN1 ,_Y hence_RR my_APPGE elevator_NN1 pitch_NN1_VV0@ earlier_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   81 The goal 's the same .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   81 The_AT goal_NN1 's_VBZ the_AT same_DA ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   82 You want these words on your proposal envelope : Requested materials enclosed .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   82 You_PPY want_VV0 these_DD2 words_NN2 on_II your_APPGE proposal_NN1 envelope_NN1 :_Y Requested_VVN materials_NN2 enclosed_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   83 Writing a nonfiction book proposal , like being cooped up for 813 days on a boat with one 's spouse , is not for the faint of heart .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   83 Writing_VVG a_AT1 nonfiction_NN1 book_NN1 proposal_NN1 ,_Y like_II being_VBG cooped_VVN@ up_RP for_IF 813_MC days_NNT2 on_II a_AT1 boat_NN1 with_IW one_PN1_MC1 's_GE spouse_NN1 ,_Y is_VBZ not_XX for_IF the_AT faint_NN1@_JJ of_IO heart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   84 You must approach it with the same passion , care and perseverance as you would writing your book .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   84 You_PPY must_VM approach_VVI it_PPH1 with_IW the_AT same_DA passion_NN1 ,_Y care_NN1_VV0 and_CC perseverance_NN1 as_CSA you_PPY would_VM writing_NN1_VVG your_APPGE book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   85 It took me over two years , three writers conferences , and numerous writing groups , classes , revisions and rejections before my proposal got its lucky break .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   85 It_PPH1 took_VVD me_PPIO1 over_RG two_MC years_NNT2 ,_Y three_MC writers_NN2 conferences_NN2 ,_Y and_CC numerous_JJ writing_NN1 groups_NN2 ,_Y classes_NN2 ,_Y revisions_NN2 and_CC rejections_NN2 before_II_CS my_APPGE proposal_NN1 got_VVD_VVN its_Z' lucky_JJ break_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   86 Chin up .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   86 Chin_NN1_NP1@ up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   87 Shoulders back .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   87 Shoulders_NN2 back_RP_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   88 Nose to the grindstone .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   88 Nose_NN1 to_II the_AT grindstone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   89 This is what writers do .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   89 This_DD1 is_VBZ what_DDQ writers_NN2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   90 By Janna Cawrse Esarey Janna Cawrse Esarey writes for sailing magazines and travel anthologies , and blogs for the Seattle Post-Intelligencer at " Happily Even After .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   90 By_II Janna_NP1 Cawrse_NP1 Esarey_NP1 Janna_NP1 Cawrse_NP1 Esarey_NP1 writes_VVZ for_IF sailing_VVG_NN1 magazines_NN2 and_CC travel_VV0_NN1 anthologies_NN2 ,_Y and_CC blogs_NN2_VVZ for_IF the_AT Seattle_NP1 Post-Intelligencer_JJ at_II "_Y Happily_RR Even_RR After_II ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   91 " Web : www.byjanna.com .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   91 "_Y Web_NN1 :_Y www.byjanna.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   92 What two editor at Touchstone Fireside : I really responded to Janna 's story of love lost and found , lost again , found again ... and then tested to its most extreme limits .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   92 What_DDQ two_MC editor_NN1 at_II Touchstone_NP1 Fireside_NP1 :_Y I_PPIS1 really_RR responded_VVD to_II Janna_NP1 's_GE story_NN1 of_IO love_NN1 lost_VVN_VVD and_CC found_VVN ,_Y lost_VVD_VVN again_RT ,_Y found_VVD_VVN again_RT ..._... and_CC then_RT tested_VVN_VVD to_II its_Z' most_RGT extreme_JJ limits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   93 The premise was so strong , and Janna 's ties to the Northwest bookselling/media community were compelling .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   93 The_AT premise_NN1 was_VBDZ so_RG_RR strong_JJ ,_Y and_CC Janna_NP1 's_GE ties_NN2 to_II the_AT Northwest_ND1 bookselling/media_FU community_NN1 were_VBDR compelling_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   94 Details such as her blog at the Seattle P-1 and her Jack Straw Writers series podcast showed that she had initiative in promoting her own work .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   94 Details_NN2 such_II21 as_II22 her_APPGE blog_NN1 at_II the_AT Seattle_NP1 P-1_FO and_CC her_APPGE Jack_NP1_NN1% Straw_NN1 Writers_NN2 series_NN podcast_NN1 showed_VVD that_CST she_PPHS1 had_VHD initiative_NN1 in_II promoting_VVG her_APPGE own_DA work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   95 And most of all , I just fell in love with her voice on the page -- all the other marketing details do n't mean a thing if the writing is n't there .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   95 And_CC most_DAT of_IO all_DB ,_Y I_PPIS1 just_RR fell_VVD in_II_RP@ love_NN1 with_IW her_APPGE voice_NN1 on_II the_AT page_NN1 --_NN1 all_DB the_AT other_JJ marketing_NN1 details_NN2 do_VD0 n't_XX mean_VVI a_AT1 thing_NN1 if_CS the_AT writing_NN1 is_VBZ n't_XX there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   96 I knew I could be a passionate champion of Janna 's work to my colleagues .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   96 I_PPIS1 knew_VVD I_PPIS1 could_VM be_VBI a_AT1 passionate_JJ champion_NN1 of_IO Janna_NP1 's_GE work_NN1 to_II my_APPGE colleagues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   97 From Heath Proulx , assistant editor at Crown Publishing Group , which was involved in the book 's auction but was outbid : The Motion of the Ocean grabbed me from the first page of the proposal -- this topic was one I 'd not read about before , and the writing was so engaging .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   97 From_II Heath_NP1 Proulx_NP1_NN1 ,_Y assistant_JJ_NN1 editor_NN1 at_II Crown_NN1 Publishing_NN1 Group_NN1 ,_Y which_DDQ was_VBDZ involved_JJ in_II the_AT book_NN1 's_GE auction_NN1 but_CCB was_VBDZ outbid_VVN@ :_Y The_AT Motion_NN1 of_IO the_AT Ocean_NN1 grabbed_VVD me_PPIO1 from_II the_AT first_MD page_NN1 of_IO the_AT proposal_NN1 --_NN1 this_DD1 topic_NN1 was_VBDZ one_PN1 I_PPIS1 'd_VM not_XX read_VVI about_RP@_II before_RT ,_Y and_CC the_AT writing_NN1 was_VBDZ so_RG_RR engaging_JJ_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   98 It was laid out in the way clear , the marketing was presented , the author 's platform was strong , and it was evident how she could leverage her contacts to move books .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   98 It_PPH1 was_VBDZ laid_VVN out_RP in_II the_AT way_NN1 clear_JJ ,_Y the_AT marketing_NN1 was_VBDZ presented_VVN ,_Y the_AT author_NN1 's_GE platform_NN1 was_VBDZ strong_JJ ,_Y and_CC it_PPH1 was_VBDZ evident_JJ how_RRQ she_PPHS1 could_VM leverage_NN1 her_APPGE contacts_NN2 to_TO move_VVI books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0   99 Above all , it was a well-told , great story .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0   99 Above_II all_DB ,_Y it_PPH1 was_VBDZ a_AT1 well-told_NN1_JJ ,_Y great_JJ story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  100 9 things to ask before sending a proposal * Do I have enough passion for this project to spend the next two to rive years ( yes , years ) writing and pitching the proposal and the book ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  100 9_MC things_NN2 to_TO ask_VVI before_II sending_VVG a_AT1 proposal_NN1 *_FU Do_VD0 I_PPIS1 have_VHI enough_DD passion_NN1 for_IF this_DD1 project_NN1 to_TO spend_VVI the_AT next_MD two_MC to_TO rive_VVI years_NNT2 (_Y yes_UH ,_Y years_NNT2 )_Y writing_NN1_VVG and_CC pitching_VVG the_AT proposal_NN1 and_CC the_AT book_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  101 * Have I been thorough , answering all questions ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  101 *_FU Have_VH0 I_PPIS1 been_VBN thorough_JJ ,_Y answering_VVG all_DB questions_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  102 * Have I been clear and concise ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  102 *_FU Have_VH0 I_PPIS1 been_VBN clear_JJ and_CC concise_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  103 Have outside readers confirmed this ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  103 Have_VH0 outside_JJ readers_NN2 confirmed_VVD_VVN this_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  104 * Does the tone of my proposal and book match ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  104 *_FU Does_VDZ the_AT tone_NN1 of_IO my_APPGE proposal_NN1 and_CC book_NN1 match_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  105 * Have I been honest ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  105 *_FU Have_VH0 I_PPIS1 been_VBN honest_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  106 ( Am I really willing to tour America in my VW bus to promote the book ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  106 (_Y Am_VBM I_PPIS1 really_RR willing_JJ to_II tour_NN1 America_NP1 in_II my_APPGE VW_NP1 bus_NN1_VV0@ to_TO promote_VVI the_AT book_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  107 ) * Have I made a compelling case for how my book is different , important , marketable and timely ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  107 )_Y *_FU Have_VH0 I_PPIS1 made_VVN a_AT1 compelling_JJ case_NN1 for_IF how_RRQ my_APPGE book_NN1 is_VBZ different_JJ ,_Y important_JJ ,_Y marketable_JJ and_CC timely_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  108 * Have I made it clear who my audience is and how I will reach them ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  108 *_FU Have_VH0 I_PPIS1 made_VVN it_PPH1 clear_JJ who_PNQS my_APPGE audience_NN1 is_VBZ and_CC how_RRQ I_PPIS1 will_VM reach_VVI them_PPHO2 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  109 * Have I used appropriate grammar , spelling and punctuation ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  109 *_FU Have_VH0 I_PPIS1 used_VVN appropriate_JJ grammar_NN1 ,_Y spelling_VVG_NN1 and_CC punctuation_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  110 Has someone else carefully edited my sample chapters my best work ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  110 Has_VHZ someone_PN1 else_RR carefully_RR edited_VVN my_APPGE sample_NN1_VV0@ chapters_NN2 my_APPGE best_JJT_RRT work_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  A    0  111 -- J.C.E.
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080337 COCA  B    0  111 --_NN1 J.C.E._NP1

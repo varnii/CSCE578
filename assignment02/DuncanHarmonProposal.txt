@@ -1,0 +1,33 @@
+Duncan Harmon
+11 February 2018
+CSCE578
+Buell
+
+I plan on creating a thesaurus from a dictionary (the GNU as of right now 
+and if I don't find one I prefer over that). The end goal of this project 
+is to have a dictionary with the term as a key and the similar words in a 
+list as the value.
+
+The plan is to create a dictionary of all the terms in the source paired 
+with a set of words, throwing out stop words, and comparing the sets of 
+words with one another to determine which words are similar.
+
+The comparison would be done by dividing the number of similar words (non 
+stop) by the total words (non stop) in the definition of the term. This 
+would return a dict of the terms as keys and an ordered list of the similar 
+words and their similarity (the comparison described above).
+This would require a certain threshold of similarity to be set: almost every 
+word will share something with every other word, but that doesn't mean they
+are similar; testing and analysing partial data sets would be done to
+refine the threshold and make the thesaurus more accurate.
+
+It could be interesting to see if only comparing terms with words of the same
+POS would give different results than simply ignoring the POS tags and comparing
+all words or if the wording of definitions changes significantly based on the
+POS of the word; however, I think this would only happen if stop words were 
+included, as stop words have a huge impact of the structure and meaning of a 
+sentence). (i.e. fish and swim may have similar key words in the definitions 
+but they are defnitely not synonyms).
+
+These variables (comparing POS and leaving out stopwords) will be tested to 
+see which provides a more accurate result.

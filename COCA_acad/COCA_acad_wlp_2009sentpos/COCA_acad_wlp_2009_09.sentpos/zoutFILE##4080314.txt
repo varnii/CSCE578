@@ -1,0 +1,182 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    0 As WRITERS WE depend on our computers , but they have a tendency to break down amid an all-important deadline .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    0 As_CSA WRITERS_NN2 WE_PPIS2 depend_VV0 on_II our_APPGE computers_NN2 ,_Y but_CCB they_PPHS2 have_VH0 a_AT1 tendency_NN1 to_TO break_VVI down_RP amid_II an_AT1 all-important_JJ deadline_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    1 But instead of drop-kicking your machine out the nearest window , try these tips for Windows and Mac to escape common computer crises .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    1 But_CCB instead_II21_CS21% of_II22_CS22 drop-kicking_NN1_JJ your_APPGE machine_NN1 out_RP_II% the_AT nearest_JJT window_NN1 ,_Y try_VV0 these_DD2 tips_NN2 for_IF Windows_NN2_NP1 and_CC Mac_NP1_NN1@ to_TO escape_VVI common_JJ computer_NN1 crises_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    2 1 The No. 1 solution : The oldest adage in tech support is : " When in doubt , reboot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    2 1_MC1 The_AT No._ZZ 1_MC1 solution_NN1 :_Y The_AT oldest_JJT adage_NN1 in_II tech_NN1 support_NN1 is_VBZ :_Y "_Y When_RRQ_CS in_II doubt_NN1 ,_Y reboot_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    3 " Restarting your computer Fixes most glitches .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    3 "_Y Restarting_VVG your_APPGE computer_NN1 Fixes_VVZ most_DAT glitches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    4 Instead of a warm boot or restart , it 's best to do a cold boot by turning your computer off and back on .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    4 Instead_II21_CS21% of_II22_CS22 a_AT1 warm_JJ boot_NN1 or_CC restart_NN1_VV0 ,_Y it_PPH1 's_VBZ best_JJT to_TO_II do_VDI a_AT1 cold_NN1_JJ boot_VVI by_II turning_VVG your_APPGE computer_NN1 off_RP_II and_CC back_NN1_RP_VV0% on_RP@_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    5 Be sure to use your computer 's Shut Down command because failure to do so can make your system less reliable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    5 Be_VB0 sure_JJ to_TO use_VVI your_APPGE computer_NN1 's_VBZ_VHZ@_GE Shut_VVN@_VV0 Down_RP_II@ command_NN1_VV0 because_CS failure_NN1 to_TO do_VDI so_RR can_VM make_VVI your_APPGE system_NN1 less_RGR reliable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    6 But do n't be surprised if , on occasion , you find yourself resorting to the power button .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    6 But_CCB do_VD0 n't_XX be_VBI surprised_JJ_VVN% if_CS_CSW@ ,_Y on_II occasion_NN1 ,_Y you_PPY find_VV0 yourself_PPX1 resorting_VVG to_II the_AT power_NN1 button_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    7 * 2 Why error messages are your friends : They give you tangible information .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    7 *_FU 2_MC Why_RRQ error_NN1 messages_NN2 are_VBR your_APPGE friends_NN2 :_Y They_PPHS2 give_VV0 you_PPY tangible_JJ information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    8 An error may be easy to understand ( " Unable to print file " ) or difficult ( " This program has performed an illegal operation " ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    8 An_AT1 error_NN1 may_VM be_VBI easy_JJ to_TO understand_VVI (_Y "_Y Unable_JK to_TO print_VVI file_NN1 "_Y )_Y or_CC difficult_JJ (_Y "_Y This_DD1 program_NN1 has_VHZ performed_VVN an_AT1 illegal_JJ operation_NN1 "_Y )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0    9 Try a Web search assuming your Internet connection is n't itself the issue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0    9 Try_VV0 a_AT1 Web_NN1 search_NN1 assuming_VVG your_APPGE Internet_NN1 connection_NN1 is_VBZ n't_XX itself_PPX1 the_AT issue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   10 You can often look up errors on your software maker 's Web site .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   10 You_PPY can_VM often_RR look_VVI up_RP errors_NN2 on_II your_APPGE software_NN1 maker_NN1 's_GE Web_NN1 site_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   11 User forums also illuminate problems and solutions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   11 User_NN1 forums_NN2 also_RR illuminate_VV0 problems_NN2 and_CC solutions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   12 * 3 Where Internet gremlins lie : The Internet is a lifeline when it 's working and a choke-hold when it 's not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   12 *_FU 3_MC Where_RRQ_CS Internet_NP1_NN1 gremlins_NN2 lie_VV0 :_Y The_AT Internet_NN1_NP1 is_VBZ a_AT1 lifeline_NN1 when_CS_RRQ it_PPH1 's_VBZ working_VVG_JJ@ and_CC a_AT1 choke-hold_NN1_JJ when_CS_RRQ it_PPH1 's_VBZ not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   13 Sometimes that " Page not found " message does n't mean your connection is down .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   13 Sometimes_RT that_DD1_CST "_Y Page_NN1 not_XX found_VVN "_Y message_NN1 does_VDZ n't_XX mean_VVI your_APPGE connection_NN1 is_VBZ down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   14 A slow Internet connection will cause Web pages to fail because they ca n't complete loading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   14 A_AT1_ZZ1 slow_JJ Internet_NN1 connection_NN1 will_VM cause_VVI Web_NN1 pages_NN2 to_TO fail_VVI because_CS they_PPHS2 ca_VM n't_XX complete_VVI loading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   15 Another common problem is that computers sometimes forget how to translate between a Web address such as www.writermag.com and a numeric Internet address such as 216.183.224.68 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   15 Another_DD1 common_JJ problem_NN1 is_VBZ that_CST computers_NN2 sometimes_RT forget_VV0 how_RRQ to_TO translate_VVI between_II a_AT1 Web_NN1 address_NN1 such_II21 as_II22 www.writermag.com_ZZ_NN and_CC a_AT1 numeric_JJ Internet_NN1 address_NN1 such_II21 as_II22 216.183.224.68_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   16 Try typing http : // and using the number instead of the address ( you can use the one I just mentioned ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   16 Try_VV0 typing_VVG http_NNU :_Y //_VV0_JJ_NN1 and_CC using_VVG the_AT number_NN1 instead_II21 of_II22 the_AT address_NN1 (_Y you_PPY can_VM use_VVI the_AT one_PN1 I_PPIS1 just_RR mentioned_VVN )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   17 If it works , the problem is with your name-server settings and not your Internet connection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   17 If_CS it_PPH1 works_VVZ ,_Y the_AT problem_NN1 is_VBZ with_IW your_APPGE name-server_JJ_NN1 settings_NN2 and_CC not_XX your_APPGE Internet_NN1 connection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   18 You 'll want to contact your Internet provider for the correct settings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   18 You_PPY 'll_VM want_VVI to_TO contact_VVI your_APPGE Internet_NN1 provider_NN1 for_IF the_AT correct_JJ settings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   19 For Internet outages , your DSL or cable modem may provide details via its activity lights .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   19 For_IF Internet_NN1_NP1 outages_NN2 ,_Y your_APPGE DSL_NP1 or_CC cable_NN1_VV0@ modem_NN1 may_VM provide_VVI details_NN2 via_II its_Z' activity_NN1 lights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   20 A blinking light that out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   20 A_AT1_ZZ1 blinking_JJ_NN1 light_NN1_JJ that_CST_DD1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   21 This light is usually labeled " Internet " " DSL " or " Cable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   21 This_DD1 light_NN1 is_VBZ usually_RR labeled_VVN "_Y Internet_NP1 "_Y "_Y DSL_NP1 "_Y or_CC "_Y Cable_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   22 " Be aware that some of these lights are meant to blink , so it 's a good idea to note what it looks like when it 's working so you can tell the difference when it 's not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   22 "_Y Be_VB0 aware_JJ that_CST some_DD of_IO these_DD2 lights_NN2 are_VBR meant_VVN to_TO blink_VVI ,_Y so_CS@_RR it_PPH1 's_VBZ a_AT1 good_JJ idea_NN1 to_TO note_VVI what_DDQ it_PPH1 looks_VVZ like_II when_RRQ_CS it_PPH1 's_VBZ working_VVG so_RR_CS@ you_PPY can_VM tell_VVI the_AT difference_NN1 when_CS_RRQ it_PPH1 's_VBZ not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   23 If your high-speed connection is well , try turning off your computer , then your firewall or router if you have one , and finally your modem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   23 If_CS your_APPGE high-speed_JJ connection_NN1 is_VBZ well_JJ ,_Y try_VV0 turning_VVG off_RP_II your_APPGE computer_NN1 ,_Y then_RT your_APPGE firewall_NN1 or_CC router_NN1 if_CS you_PPY have_VH0 one_PN1_MC1 ,_Y and_CC finally_RR your_APPGE modem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   24 Turn them back on in reverse order , waiting about 30 seconds between each step .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   24 Turn_VV0 them_PPHO2 back_RP on_RP@_II in_II reverse_JJ_NN1 order_NN1 ,_Y waiting_VVG about_RG 30_MC seconds_NNT2 between_II each_DD1 step_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   25 For wireless networks , look for interference from cordless phones , microwaves , speakers or monitors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   25 For_IF wireless_NN1 networks_NN2 ,_Y look_VV0_NN1 for_IF interference_NN1 from_II cordless_JJ phones_NN2 ,_Y microwaves_NN2 ,_Y speakers_NN2 or_CC monitors_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   26 Try moving your wireless access point to a different spot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   26 Try_VV0 moving_VVG your_APPGE wireless_NN1 access_NN1 point_NN1 to_II a_AT1 different_JJ spot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   27 4 What to do with funky-formatted files : Ever get a file that looks like it was written in hieroglyphics ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   27 4_MC What_DDQ to_TO do_VDI with_IW funky-formatted_JJ files_NN2 :_Y Ever_RR get_VV0 a_AT1 file_NN1 that_CST_DD1 looks_VVZ like_II_CS@ it_PPH1 was_VBDZ written_VVN in_II hieroglyphics_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   28 This usually means your computer is not opening the file with the right program .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   28 This_DD1 usually_RR means_VVZ your_APPGE computer_NN1 is_VBZ not_XX opening_VVG the_AT file_NN1 with_IW the_AT right_JJ_NN1 program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   29 Either you have the right program and the computer does n't realize it , or you do n't and you need to download a compatible one Properties , then the Change button .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   29 Either_RR_DD1 you_PPY have_VH0 the_AT right_JJ_NN1 program_NN1 and_CC the_AT computer_NN1 does_VDZ n't_XX realize_VVI it_PPH1 ,_Y or_CC you_PPY do_VD0 n't_XX and_CC you_PPY need_VV0 to_TO download_VVI a_AT1 compatible_JJ one_PN1 Properties_NN2 ,_Y then_RT the_AT Change_NN1 button_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   30 Select the correct program from the list or click Browse to look for another one .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   30 Select_VV0 the_AT correct_JJ program_NN1 from_II the_AT list_NN1 or_CC click_VV0_NN1 Browse_VV0 to_TO look_VVI for_IF another_DD1 one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   31 On a Mac you can click on the file in the Finder , select File , Get Info , and change the setting under Open With .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   31 On_II a_AT1 Mac_NN1@ you_PPY can_VM click_VVI on_II the_AT file_NN1 in_II the_AT Finder_NN1_NP1 ,_Y select_JJ_VV0 File_NN1 ,_Y Get_VV0 Info_NN1 ,_Y and_CC change_VV0 the_AT setting_NN1 under_II_RG@ Open_JJ With_IW ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   32 If none of your programs work , you may need a converter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   32 If_CS none_PN of_IO your_APPGE programs_NN2 work_VV0 ,_Y you_PPY may_VM need_VVI a_AT1 converter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   33 The best example is Word 2007 for Windows , which uses the new .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   33 The_AT best_JJT example_NN1 is_VBZ Word_NN1 2007_MC for_IF Windows_NP1_NN2 ,_Y which_DDQ uses_VVZ the_AT new_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   34 docx format .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   34 docx_VV0_NN1 format_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   35 If you use a Mac or lack the latest version of Word , files saved in Word 2007 display errors or open as hieroglyphics .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   35 If_CS you_PPY use_VV0 a_AT1 Mac_NN1@_NP1 or_CC lack_VV0@_NN1 the_AT latest_JJT version_NN1 of_IO Word_NN1 ,_Y files_NN2 saved_VVN_VVD in_II Word_NN1 2007_MC display_NN1_VV0 errors_NN2 or_CC open_JJ_VV0_RR@ as_CSA_II@ hieroglyphics_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   36 Visit office .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   36 Visit_VV0_NN1 office_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   37 microsoft.com to find a converter for earlier versions of Microsoft Office .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   37 microsoft.com_ZZ_NN to_TO find_VVI a_AT1 converter_NN1 for_IF earlier_JJR versions_NN2 of_IO Microsoft_NP1 Office_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   38 If you use WordPerfect , Apple 's iWork Pages , OpenOffice or its Mac equivalent NeoOffice , the latest versions of these programs can open Word 2007 files .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   38 If_CS you_PPY use_VV0 WordPerfect_NP1 ,_Y Apple_NN1 's_GE iWork_NN1 Pages_NN2 ,_Y OpenOffice_NP1 or_CC its_Z' Mac_NN1@_NP1 equivalent_JJ_NN1@ NeoOffice_NP1_NN1@ ,_Y the_AT latest_JJT versions_NN2 of_IO these_DD2 programs_NN2 can_VM open_VVI Word_NN1 2007_MC files_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   39 If the file was created in a program you do n't have , you can find online tools to convert them to PDF .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   39 If_CS the_AT file_NN1 was_VBDZ created_VVN in_II a_AT1 program_NN1 you_PPY do_VD0 n't_XX have_VHI ,_Y you_PPY can_VM find_VVI online_JJ tools_NN2 to_TO convert_VVI them_PPHO2 to_II PDF_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   40 * 5 Why you do n't have to fear fonts : Fonts have always been the bane of .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   40 *_FU 5_MC Why_RRQ you_PPY do_VD0 n't_XX have_VHI to_TO fear_VVI fonts_NN2 :_Y Fonts_NN2 have_VH0 always_RR been_VBN the_AT bane_NN1 of_IO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   41 Windows XP users , go to Start , Control Panel and click on Fonts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   41 Windows_NP1@ XP_NP1 users_NN2 ,_Y go_VV0 to_II Start_NN1 ,_Y Control_NN1_VV0@ Panel_NN1 and_CC click_VV0_NN1 on_II_RP@ Fonts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   42 This Fonts control panel has better features in Windows Vista .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   42 This_DD1 Fonts_VVZ control_VV0_NN1 panel_NN1 has_VHZ better_JJR features_NN2 in_II Windows_NP1 Vista_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   43 On Macs look for Font Book , located in your Applications folder .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   43 On_II Macs_NP2 look_VV0_NN1 for_IF Font_NN1 Book_NN1 ,_Y located_VVN_VVD in_II_RP@ your_APPGE Applications_NN2 folder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   44 Windows 7 and Mac OS X 10.6 ( Snow Leopard ) , both scheduled to become available in fall 2009 as of this writing , will include further improvements to fonts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   44 Windows_NP1@_NN2 7_MC and_CC Mac_NP1 OS_NP2 X_II% 10.6_MC (_Y Snow_NP1 Leopard_NP1 )_Y ,_Y both_RR_DB2 scheduled_VVN_JJ to_TO become_VVI available_JJ in_II fall_NN1 2009_MC as_II21 of_II22 this_DD1 writing_NN1 ,_Y will_VM include_VVI further_JJR@_RRR improvements_NN2 to_II fonts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   45 You can also try a third-party program like Suitcase ( Windows , $99.95 ) , Suitcase Fusion 2 ( Mac , $99.95 ) , Font-Expert 2009 ( Windows , $59 ) or FontExplorer X ( Mac , $79 ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   45 You_PPY can_VM also_RR try_VVI a_AT1 third-party_JJ program_NN1 like_II Suitcase_NN1 (_Y Windows_NP1 ,_Y $99.95_NNU )_Y ,_Y Suitcase_NN1 Fusion_NN1 2_MC (_Y Mac_NP1 ,_Y $99.95_NNU )_Y ,_Y Font-Expert_NN1 2009_MC (_Y Windows_NP1 ,_Y $59_NNU )_Y or_CC FontExplorer_NP1_NN1 X_ZZ1 (_Y Mac_NP1 ,_Y $79_NNU )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   46 * 6 Claw your way out of a color catastrophe : Your computer offers basic color-management features .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   46 *_FU 6_MC Claw_VV0 your_APPGE way_NN1 out_II21 of_II22 a_AT1 color_NN1 catastrophe_NN1 :_Y Your_APPGE computer_NN1 offers_VVZ@_NN2 basic_JJ color-management_JJ_NN1 features_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   47 Windows XP users can download the free Color Control Panel Applet from Microsoft .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   47 Windows_NP1@ XP_NP1 users_NN2 can_VM download_VVI the_AT free_JJ Color_NN1 Control_NN1 Panel_NN1 Applet_NN1 from_II Microsoft_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   48 Microsoft also describes the advanced color features available in Windows Vista .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   48 Microsoft_NP1 also_RR describes_VVZ the_AT advanced_JJ color_NN1 features_VVZ@_NN2 available_JJ in_II Windows_NP1 Vista_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   49 Mac users will find Digital Color Meter in Applications , Utilities .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   49 Mac_NP1_NN1 users_NN2 will_VM find_VVI Digital_JJ Color_NN1 Meter_NN1 in_II Applications_NN2 ,_Y Utilities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   50 Your monitor and printer may include software to improve color performance , as does graphics software such as Adobe InDesign .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   50 Your_APPGE monitor_NN1 and_CC printer_NN1 may_VM include_VVI software_NN1 to_TO improve_VVI color_NN1 performance_NN1 ,_Y as_CSA does_VDZ graphics_NN software_NN1 such_II21 as_II22 Adobe_NN1 InDesign_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   51 You 'll color performance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   51 You_PPY 'll_VM color_NN1_VV0@ performance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   52 * 7 How to fix procrastinating printers : Most printer problems boil down to software glitches or paper jams .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   52 *_FU 7_MC How_RRQ to_TO fix_VVI procrastinating_VVG_JJ@ printers_NN2 :_Y Most_DAT printer_NN1 problems_NN2 boil_VV0 down_RP to_II software_NN1 glitches_NN2_VVZ or_CC paper_NN1 jams_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   53 Glitches can sometimes be solved by rebooting your computer or by reinstalling the printer 's software ( called a driver ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   53 Glitches_NN2_NP1@ can_VM sometimes_RT be_VBI solved_VVN by_II rebooting_VVG your_APPGE computer_NN1 or_CC by_II reinstalling_VVG the_AT printer_NN1 's_GE software_NN1 (_Y called_VVN a_AT1 driver_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   54 You may want to check the manufacturer 's Web site to see if there is a newer version of the driver .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   54 You_PPY may_VM want_VVI to_TO check_VVI the_AT manufacturer_NN1 's_GE Web_NN1 site_NN1 to_TO see_VVI if_CSW@_CS there_EX is_VBZ a_AT1 newer_JJR version_NN1 of_IO the_AT driver_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   55 Paper jams can be persnickety , especially if they 're hard to see .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   55 Paper_NN1 jams_NN2 can_VM be_VBI persnickety_JJ ,_Y especially_RR if_CS they_PPHS2 're_VBR hard_JJ to_TO see_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   56 A can of compressed air is good at keeping paper dust from clogging your printer 's innards .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   56 A_ZZ1 can_VM of_IO compressed_VVN air_NN1 is_VBZ good_JJ at_II keeping_VVG paper_NN1 dust_NN1 from_II clogging_VVG your_APPGE printer_NN1 's_GE innards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   57 Many printers include cleaning options via the included software .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   57 Many_DA2 printers_NN2 include_VV0 cleaning_VVG_NN1 options_NN2 via_II the_AT included_JJ% software_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   58 You get what you pay for .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   58 You_PPY get_VV0 what_DDQ you_PPY pay_VV0 for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   59 A quality printer is a good investment for a writer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   59 A_AT1 quality_NN1 printer_NN1 is_VBZ a_AT1 good_JJ investment_NN1 for_IF a_AT1 writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   60 8 Why you need security software : Of all the tech-support problems I encounter , lack of adequate security software causes the biggest headaches .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   60 8_MC Why_RRQ you_PPY need_VV0 security_NN1 software_NN1 :_Y Of_IO all_DB the_AT tech-support_JJ_NN1 problems_NN2 I_PPIS1 encounter_VV0 ,_Y lack_NN1 of_IO adequate_JJ security_NN1 software_NN1 causes_VVZ the_AT biggest_JJT headaches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   61 These days it 's not enough to run antivirus software .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   61 These_DD2 days_NNT2 it_PPH1 's_VBZ not_XX enough_RR_DD to_TO run_VVI antivirus_NN1 software_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   62 You also need anti-spyware software to protect against other kinds of virus-like intruders .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   62 You_PPY also_RR need_VV0 anti-spyware_JJ_NN1 software_NN1 to_TO protect_VVI against_II other_JJ kinds_NN2 of_IO virus-like_JJ intruders_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   63 Free antivirus options for Windows include AVG and avast !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   63 Free_JJ antivirus_NN1 options_NN2 for_IF Windows_NN2_NP1 include_VV0 AVG_NN1_NP1 and_CC avast_VV0_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   64 Try Malwarebytes , Ad-Aware money but will give you maximum protection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   64 Try_VV0 Malwarebytes_NN2_NP1 ,_Y Ad-Aware_JJ money_NN1 but_CCB will_VM give_VVI you_PPY maximum_JJ protection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   65 I like Trend Micro Internet Security ( $49.95 ) or AVG Internet Security ( $54.99 ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   65 I_PPIS1 like_VV0 Trend_NN1 Micro_NN1 Internet_NN1_NP1 Security_NN1 (_Y $49.95_NNU )_Y or_CC AVG_NP1_VV0_NN1 Internet_NP1_NN1 Security_NN1 (_Y $54.99_NNU )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   66 Mac users are not exempt from viruses .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   66 Mac_NP1_NN1 users_NN2 are_VBR not_XX exempt_JJ_VV0 from_II viruses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   67 Avast !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   67 Avast_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   68 for Mac ( free ) , ClamXav ( free ) or Intego VirusBarrier ( $69.95 ) are good choices .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   68 for_CS% Mac_NP1 (_Y free_JJ_VV0@ )_Y ,_Y ClamXav_NP1 (_Y free_JJ_VV0@ )_Y or_CC Intego_NP1 VirusBarrier_NP1 (_Y $69.95_NNU )_Y are_VBR good_JJ choices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   69 * 9 Firewalls are a must : Think of them like fire doors in hospitals , keeping the inferno of the Internet away from your inner sanctum .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   69 *_FU 9_MC Firewalls_NP2 are_VBR a_AT1 must_NN1 :_Y Think_VV0 of_IO them_PPHO2 like_II fire_NN1 doors_NN2 in_II hospitals_NN2 ,_Y keeping_VVG the_AT inferno_NN1 of_IO the_AT Internet_NN1_NP1 away_II21 from_II22 your_APPGE inner_JJ sanctum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   70 The firewalls built into Windows and Mac are not enough .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   70 The_AT firewalls_NN2 built_VVN_VVD into_II Windows_NP1_NN2 and_CC Mac_NP1 are_VBR not_XX enough_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   71 I prefer hardware firewalls to the software ones included in most security suites , although using both provides more protection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   71 I_PPIS1 prefer_VV0 hardware_NN1 firewalls_VVZ_NN2 to_II the_AT software_NN1 ones_Z' included_VVN_VVD in_II most_DAT security_NN1 suites_NN2 ,_Y although_CS using_VVG both_RR provides_VVZ more_DAR protection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   72 Some routers come with firewall capability , but it may only be rudimentary .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   72 Some_DD routers_NN2 come_VV0_VVN@ with_IW firewall_NN1 capability_NN1 ,_Y but_CCB it_PPH1 may_VM only_RR be_VBI rudimentary_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   73 Look for the " SPI " feature to make sure your hardware firewall has teeth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   73 Look_VV0 for_IF the_AT "_Y SPI_JJ_NN1_NN2 "_Y feature_NN1_VV0@ to_TO make_VVI sure_JJ your_APPGE hardware_NN1 firewall_NN1 has_VHZ teeth_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   74 * 10 Why you should check regularly for updates ( or patches ) for your software : Updates fix bugs that might give viruses a back door into your computer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   74 *_FU 10_MC Why_RRQ you_PPY should_VM check_VVI regularly_RR for_IF updates_NN2 (_Y or_CC patches_NN2 )_Y for_IF your_APPGE software_NN1 :_Y Updates_NN2_VVZ fix_VV0_NN1 bugs_NN2_VVZ@ that_CST_DD1 might_VM give_VVI viruses_NN2 a_AT1 back_NN1_JJ@ door_NN1 into_II your_APPGE computer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   75 Windows users can enable Automatic Updates , while Mac users should use Software Updates under software like Microsoft Office and Adobe Acrobat , and Web browsers like Internet Explorer , Mozilla Firefox , Safari and Opera .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   75 Windows_NP1@_NN2 users_NN2 can_VM enable_VVI Automatic_JJ Updates_NN2 ,_Y while_CS Mac_NP1 users_NN2 should_VM use_VVI Software_NN1 Updates_VVZ_NN2 under_II software_NN1 like_II Microsoft_NP1 Office_NN1 and_CC Adobe_NN1 Acrobat_NN1_NP1 ,_Y and_CC Web_NN1 browsers_NN2 like_II Internet_NP1_NN1 Explorer_NN1 ,_Y Mozilla_NP1 Firefox_NP1 ,_Y Safari_NN1 and_CC Opera_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   76 A few concluding tips When it 's best to hire a pro : Many people rely on a tech-savvy relative or friend , but unless they 're experienced in small-business tech support , they may not have the right background .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   76 A_AT1 few_DA2 concluding_JJ tips_NN2 When_CS_RRQ it_PPH1 's_VBZ best_JJT to_TO hire_VVI a_AT1 pro_NN1_JJ :_Y Many_DA2 people_NN rely_VV0 on_II_RP@ a_AT1 tech-savvy_JJ_NN1 relative_NN1_JJ or_CC friend_NN1 ,_Y but_CCB unless_CS they_PPHS2 're_VBR experienced_VVN in_II small-business_JJ tech_NN1 support_NN1_VV0 ,_Y they_PPHS2 may_VM not_XX have_VHI the_AT right_JJ_NN1 background_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   77 In evaluating a technician , ask for credentials and references .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   77 In_II evaluating_VVG a_AT1 technician_NN1 ,_Y ask_VV0 for_IF credentials_NN2 and_CC references_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   78 Good computer pros will be happy to discuss your needs and not force you to a solution just because it 's their preferred brand of technology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   78 Good_JJ computer_NN1 pros_NN2 will_VM be_VBI happy_JJ to_TO discuss_VVI your_APPGE needs_NN2 and_CC not_XX force_VV0@_NN1 you_PPY to_II a_AT1 solution_NN1 just_RR because_CS it_PPH1 's_VBZ their_APPGE preferred_JJ brand_NN1 of_IO technology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   79 What writers can do : The best defense is prevention , Back up your data regularly , use good security software , and try to separate work from play by using different computers or by using different usernames on one computer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   79 What_DDQ writers_NN2 can_VM do_VDI :_Y The_AT best_JJT defense_NN1 is_VBZ prevention_NN1 ,_Y Back_VV0@_NN1 up_RP your_APPGE data_NN regularly_RR ,_Y use_VV0 good_JJ security_NN1 software_NN1 ,_Y and_CC try_VV0 to_TO separate_VVI work_NN1_VV0 from_II play_NN1 by_II using_VVG different_JJ computers_NN2 or_CC by_II using_VVG different_JJ usernames_NN2 on_II one_MC1 computer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   80 Use free programs like McAfee SiteAdvisor to check links before you click on them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   80 Use_VV0 free_JJ programs_NN2 like_II McAfee_NP1 SiteAdvisor_NP1_NN1 to_TO check_VVI links_NN2 before_CS you_PPY click_VV0 on_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   81 Never respond to spam e-mails .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   81 Never_RR respond_VV0 to_II spam_NN1 e-mails_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   82 By Triona Guidry Triona Guidry is a freelance writer and award-winning computer consultant based in suburban Chicago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   82 By_II Triona_NP1 Guidry_NP1 Triona_NP1 Guidry_NP1_NN1 is_VBZ a_AT1 freelance_NN1 writer_NN1 and_CC award-winning_JJ computer_NN1 consultant_NN1 based_VVN in_II suburban_JJ Chicago_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   83 Her blog ( **33;73563;TOOLONG ) offers computer help .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   83 Her_APPGE blog_NN1 (_Y **33;73563;TOOLONG_FU )_Y offers_VVZ@_NN2 computer_NN1 help_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   84 appalling trend I 've noticed in cyberspace , it 's the increasing prevalence of fake antivirus software and " computer cleaners " A simple Web search for " antivirus software " or the names of common security suites turns up many rogue links to malicious sites .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   84 appalling_JJ trend_NN1 I_PPIS1 've_VH0 noticed_VVN in_II cyberspace_NN1 ,_Y it_PPH1 's_VBZ the_AT increasing_JJ prevalence_NN1 of_IO fake_JJ antivirus_NN1 software_NN1 and_CC "_Y computer_NN1 cleaners_NN2 "_Y A_ZZ1 simple_JJ Web_NN1 search_NN1 for_IF "_Y antivirus_NN1 software_NN1 "_Y or_CC the_AT names_NN2 of_IO common_JJ security_NN1 suites_NN2 turns_VVZ up_RP many_DA2 rogue_JJ@_NN1 links_NN2_VVZ to_II malicious_JJ sites_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   85 These sneaky scams will do anything to hook you and your credit card .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   85 These_DD2 sneaky_JJ scams_NN2 will_VM do_VDI anything_PN1 to_TO hook_VVI you_PPY and_CC your_APPGE credit_NN1 card_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   86 They may display false pop-ups claiming to have found problems on your computer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   86 They_PPHS2 may_VM display_VVI false_JJ pop-ups_NN2 claiming_VVG to_TO have_VHI found_VVN problems_NN2 on_II your_APPGE computer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   87 Some even resort to fake errors to convince you that your computer has some sort of error that only their magic software can fix -- for a price .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   87 Some_DD even_JJ%_RR_NNT1% resort_NN1_VV0% to_TO fake_VVI errors_NN2 to_TO convince_VVI you_PPY that_CST your_APPGE computer_NN1 has_VHZ some_DD sort_NN1 of_IO error_NN1 that_CST only_RR_CS% their_APPGE magic_JJ_NN1 software_NN1 can_VM fix_VVI --_NN1_JJ for_IF a_AT1 price_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   88 Research any program before you install .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   88 Research_VV0@ any_DD program_NN1 before_CS you_PPY install_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   89 Go directly to the Web sites of well-known software makers , and stay tuned to computer sites and blogs for scam news .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   89 Go_VV0 directly_RR to_II the_AT Web_NN1 sites_NN2 of_IO well-known_JJ software_NN1 makers_NN2 ,_Y and_CC stay_VV0_NN1@ tuned_VVN_VVD to_II computer_NN1 sites_NN2 and_CC blogs_NN2_VVZ for_IF scam_NN1 news_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  A    0   90 Triona Guidry
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080314 COCA  B    0   90 Triona_NP1@_NN1 Guidry_NP1_NN1

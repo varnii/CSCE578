@@ -1,0 +1,184 @@
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    0 WHEN I SAW THE MRI films neatly arranged on the light board , my sense of the universe fell into itself .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    0 WHEN_RRQ_CS I_PPIS1 SAW_VVD THE_AT MRI_JJ_NN1 films_NN2 neatly_RR arranged_VVN_VVD on_II the_AT light_JJ_NN1 board_NN1 ,_Y my_APPGE sense_NN1 of_IO the_AT universe_NN1 fell_VVD into_II itself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    1 It fell into me .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    1 It_PPH1 fell_VVD into_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    2 All values of altruism , love , family , and ambition retreated and transformed into something beyond self-interest .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    2 All_DB values_NN2 of_IO altruism_NN1 ,_Y love_NN1_VV0 ,_Y family_NN1 ,_Y and_CC ambition_NN1 retreated_VVD_VVN@ and_CC transformed_VVN_VVD into_II something_PN1 beyond_II self-interest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    3 The doctor pointed to the lesion , a superfluous gesture considering the size and brightness , and calmly explained that this was a brain tumor .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    3 The_AT doctor_NN1 pointed_VVD_VVN to_II the_AT lesion_NN1 ,_Y a_AT1 superfluous_JJ gesture_NN1 considering_II_CS the_AT size_NN1 and_CC brightness_NN1 ,_Y and_CC calmly_RR explained_VVN_VVD that_CST this_DD1 was_VBDZ a_AT1 brain_NN1 tumor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    4 My parents were with me , but I did not feel their presence .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    4 My_APPGE parents_NN2 were_VBDR with_IW me_PPIO1 ,_Y but_CCB I_PPIS1 did_VDD not_XX feel_VVI their_APPGE presence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    5 I wanted to deny these pictures , but recognized the skull as my own : my crooked teeth and even my myopic eyeballs .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    5 I_PPIS1 wanted_VVD to_TO deny_VVI these_DD2 pictures_NN2 ,_Y but_CCB recognized_VVD the_AT skull_NN1 as_CSA_II@ my_APPGE own_DA :_Y my_APPGE crooked_JJ teeth_NN2 and_CC even_RR my_APPGE myopic_JJ eyeballs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    6 Would I die ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    6 Would_VM I_PPIS1 die_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    7 I felt fine .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    7 I_PPIS1 felt_VVD fine_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    8 I was twenty-eight .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    8 I_PPIS1 was_VBDZ twenty-eight_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0    9 One seizure had started the tests , but the seizure had felt more like a crazy dream , one I had almost dismissed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0    9 One_MC1 seizure_NN1 had_VHD started_VVN the_AT tests_NN2 ,_Y but_CCB the_AT seizure_NN1 had_VHD felt_VVN more_RRR like_II a_AT1 crazy_JJ dream_NN1 ,_Y one_PN1 I_PPIS1 had_VHD almost_RR dismissed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   10 Now I was being told I needed brain surgery .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   10 Now_RT I_PPIS1 was_VBDZ being_VBG told_VVN I_PPIS1 needed_VVD brain_NN1 surgery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   11 My family was upset , my boyfriend scared , my friends worried .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   11 My_APPGE family_NN1 was_VBDZ upset_VVN_JJ ,_Y my_APPGE boyfriend_NN1 scared_VVD@_JJ ,_Y my_APPGE friends_NN2 worried_VVD@_VVN@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   12 I was indifferent to them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   12 I_PPIS1 was_VBDZ indifferent_JJ to_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   13 I became a black hole .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   13 I_PPIS1 became_VVD a_AT1 black_JJ hole_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   14 Astronomically , a supernova can be a is true emotionally .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   14 Astronomically_RR_NP1@ ,_Y a_AT1 supernova_NN1 can_VM be_VBI a_AT1 is_VBZ true_JJ_RR% emotionally_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   15 When I collapsed I took in everything .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   15 When_CS_RRQ I_PPIS1 collapsed_VVD I_PPIS1 took_VVD in_II_RP@ everything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   16 I listened to the doctors carefully : I had a low-grade tumor .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   16 I_PPIS1 listened_VVD to_II the_AT doctors_NN2 carefully_RR :_Y I_PPIS1 had_VHD a_AT1 low-grade_JJ_NN1 tumor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   17 It had caused at least one seizure , probably more .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   17 It_PPH1 had_VHD caused_VVN at_RR21 least_RR22 one_MC1 seizure_NN1 ,_Y probably_RR more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   18 It had to be removed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   18 It_PPH1 had_VHD to_TO be_VBI removed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   19 At the very least , I would be partially disabled on the right side of my body .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   19 At_II the_AT very_RG least_RRT ,_Y I_PPIS1 would_VM be_VBI partially_RR disabled_VVN@_JJ_VVD@ on_II the_AT right_JJ side_NN1 of_IO my_APPGE body_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   20 Cognitive losses , including language , were possible but difficult to predict .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   20 Cognitive_JJ losses_NN2 ,_Y including_II_VVG@ language_NN1 ,_Y were_VBDR possible_JJ but_CCB difficult_JJ to_TO predict_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   21 We scheduled the surgery for two months out , leaving time for additional tests .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   21 We_PPIS2 scheduled_VVD the_AT surgery_NN1 for_IF two_MC months_NNT2 out_RP ,_Y leaving_VVG time_NNT1 for_IF additional_JJ tests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   22 For a few days I felt strong and brave .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   22 For_IF a_AT1 few_DA2 days_NNT2 I_PPIS1 felt_VVD strong_JJ and_CC brave_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   23 When I drove , the car seemed to hug the curves more than before ; at work I finished assignments in record time .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   23 When_CS_RRQ I_PPIS1 drove_VVD ,_Y the_AT car_NN1 seemed_VVD to_TO hug_VVI the_AT curves_NN2 more_RRR than_CSN before_RT@_II ;_Y at_II work_NN1 I_PPIS1 finished_VVD assignments_NN2 in_II record_NN1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   24 I was ready to focus on anything but myself .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   24 I_PPIS1 was_VBDZ ready_JJ_RR@ to_TO focus_VVI on_RP@_II anything_RR21 but_RR22 myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   25 I was eager to avoid the awkwardness and get over the initial shock of such an announcement .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   25 I_PPIS1 was_VBDZ eager_JJ to_TO avoid_VVI the_AT awkwardness_NN1 and_CC get_VVI over_RP_II the_AT initial_JJ_NN1 shock_NN1 of_IO such_DA an_AT1 announcement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   26 When I gave my news to friends and coworkers , I laughed and we joked it off .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   26 When_CS_RRQ I_PPIS1 gave_VVD my_APPGE news_NN1 to_II friends_NN2 and_CC coworkers_NN2 ,_Y I_PPIS1 laughed_VVD and_CC we_PPIS2 joked_VVD it_PPH1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   27 The explosion happened at home , and the humor dissipated quickly .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   27 The_AT explosion_NN1 happened_VVD_VVN@ at_II home_NN1 ,_Y and_CC the_AT humor_NN1 dissipated_VVD quickly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   28 My boyfriend , a kind and even-tempered Minnesotan , felt helpless completely adrift without the tools to fix me .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   28 My_APPGE boyfriend_NN1 ,_Y a_AT1 kind_NN1 and_CC even-tempered_JJ_NN1 Minnesotan_NN1_NP1 ,_Y felt_VVD_VVN helpless_JJ completely_RR adrift_JJ without_IW the_AT tools_NN2 to_TO fix_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   29 My anger blasted .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   29 My_APPGE anger_NN1 blasted_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   30 I yelled and cried , pulled him to me then pushed him away and yelled and cried again .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   30 I_PPIS1 yelled_VVD and_CC cried_VVD ,_Y pulled_VVD him_PPHO1 to_II me_PPIO1 then_RT pushed_VVD_VVN him_PPHO1 away_RL and_CC yelled_VVD and_CC cried_VVD again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   31 One night I viciously demanded that he bake some chocolate chip cookies .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   31 One_MC1 night_NNT1 I_PPIS1 viciously_RR demanded_VVN_VVD that_CST he_PPHS1 bake_VV0 some_DD chocolate_NN1 chip_NN1 cookies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   32 Eager to do something he ran out to purchase the ingredients but failed to follow the instructions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   32 Eager_JJ to_TO do_VDI something_PN1 he_PPHS1 ran_VVD out_RP to_TO purchase_VVI the_AT ingredients_NN2 but_CCB failed_VVD_VVN to_TO follow_VVI the_AT instructions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   33 Together we sifted the chips from the flour to make mixing possible , and for a brief moment I was able to see the absurdity of the situation and feel gratitude for the people who cared for me , even when I was unable to care about them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   33 Together_RL we_PPIS2 sifted_VVD the_AT chips_NN2 from_II the_AT flour_NN1 to_TO make_VVI mixing_VVG possible_JJ ,_Y and_CC for_IF a_AT1 brief_JJ moment_NN1 I_PPIS1 was_VBDZ able_JK to_TO see_VVI the_AT absurdity_NN1 of_IO the_AT situation_NN1 and_CC feel_VV0 gratitude_NN1 for_IF the_AT people_NN who_PNQS cared_VVD for_IF me_PPIO1 ,_Y even_CS21 when_CS22 I_PPIS1 was_VBDZ unable_JK to_TO care_VVI about_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   34 We went to the Mayo Clinic for a second opinion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   34 We_PPIS2 went_VVD to_II the_AT Mayo_NP1 Clinic_NN1 for_IF a_AT1 second_MD_NNT1 opinion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   35 In each waiting room I looked at the people around me .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   35 In_II each_DD1 waiting_NN1 room_NN1 I_PPIS1 looked_VVD at_II the_AT people_NN around_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   36 What did they mean to me ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   36 What_DDQ did_VDD they_PPHS2 mean_VVI to_II me_PPIO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   37 Nothing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   37 Nothing_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   38 Their illnesses , their sadness , and their hope could n't exist if I refused to imagine it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   38 Their_APPGE illnesses_NN2 ,_Y their_APPGE sadness_NN1 ,_Y and_CC their_APPGE hope_NN1 could_VM n't_XX exist_VVI if_CS_CSW@ I_PPIS1 refused_VVD to_TO imagine_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   39 When we lose empathy we lose our humanity .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   39 When_CS_RRQ we_PPIS2 lose_VV0 empathy_NN1 we_PPIS2 lose_VV0 our_APPGE humanity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   40 We become cold , lonely beings with one power : to continue or to end .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   40 We_PPIS2 become_VV0 cold_JJ_NN1 ,_Y lonely_JJ beings_NN2 with_IW one_MC1 power_NN1 :_Y to_TO continue_VVI or_CC to_TO end_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   41 So here 's you , or perhaps force you ( as a protective position ) to believe that your conscious mind is the only known reality , then you surrender your need to relate to other people .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   41 So_RR here_RL 's_VBZ you_PPY ,_Y or_CC perhaps_RR force_VV0@ you_PPY (_Y as_II_CSA a_AT1 protective_JJ position_NN1 )_Y to_TO believe_VVI that_CST your_APPGE conscious_JJ mind_NN1 is_VBZ the_AT only_JJ_RR known_JJ@_VVN reality_NN1 ,_Y then_RT you_PPY surrender_VV0 your_APPGE need_NN1 to_TO relate_VVI to_II other_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   42 They are ghosts .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   42 They_PPHS2 are_VBR ghosts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   43 And if that mortal threat is in your brain , then perhaps your mind is compromised .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   43 And_CC if_CS_CSW@ that_DD1 mortal_JJ_NN1 threat_NN1 is_VBZ in_II your_APPGE brain_NN1 ,_Y then_RT perhaps_RR your_APPGE mind_NN1 is_VBZ compromised_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   44 You are an unreliable narrator .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   44 You_PPY are_VBR an_AT1 unreliable_JJ narrator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   45 I felt my mind was the thing that mattered , and yet I could n't trust my brain .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   45 I_PPIS1 felt_VVD my_APPGE mind_NN1 was_VBDZ the_AT thing_NN1 that_CST mattered_VVD ,_Y and_CC yet_RR I_PPIS1 could_VM n't_XX trust_VVI my_APPGE brain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   46 To make things worse , if you 're a fiction writer , like me , your talents are rendered useless .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   46 To_TO make_VVI things_NN2 worse_JJR_RRR@ ,_Y if_CS you_PPY 're_VBR a_AT1 fiction_NN1 writer_NN1 ,_Y like_II_VV0@ me_PPIO1 ,_Y your_APPGE talents_NN2 are_VBR rendered_VVN useless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   47 A writer can not write once they refuse to see and feel the world around them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   47 A_AT1 writer_NN1 can_VM not_XX write_VVI once_CS@_RR they_PPHS2 refuse_VV0 to_TO see_VVI and_CC feel_VVI the_AT world_NN1 around_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   48 I 'd imagined this fertile time between diagnoses and surgery when I would frantically complete my novel ( or two , why not ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   48 I_PPIS1 'd_VHD imagined_VVN this_DD1_RG% fertile_JJ time_NNT1 between_II diagnoses_NN2 and_CC surgery_NN1 when_CS_RRQ I_PPIS1 would_VM frantically_RR complete_VVI my_APPGE novel_NN1_JJ (_Y or_CC two_MC ,_Y why_RRQ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   49 ) , compose letters to loved ones , surge with poetry .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   49 )_Y ,_Y compose_VV0 letters_NN2 to_II loved_JJ% ones_Z' ,_Y surge_VV0_NN1 with_IW poetry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   50 But I could n't .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   50 But_CCB I_PPIS1 could_VM n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   51 I did not care .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   51 I_PPIS1 did_VDD not_XX care_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   52 The tests proceeded .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   52 The_AT tests_NN2 proceeded_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   53 Another MRI , a functional MRI , a video EEG , a Minnesota Multiphasic Personality Test , and all kinds of other and draw clocks and name as many animals as I could .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   53 Another_DD1 MRI_NN1_JJ ,_Y a_AT1 functional_JJ MRI_NN2_NN1 ,_Y a_AT1 video_NN1 EEG_NN1_NP1 ,_Y a_AT1 Minnesota_NP1 Multiphasic_JJ_NN1 Personality_NN1 Test_NN1_VV0 ,_Y and_CC all_DB kinds_NN2 of_IO other_JJ and_CC draw_VVI clocks_NN2 and_CC name_VV0@_NN1 as_RG@_CSA_II@ many_DA2 animals_NN2 as_CSA I_PPIS1 could_VM ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   54 I always asked if I drew the clock fast enough , if I should have tried to name birds instead offish , but they did n't care to indulge my need for academic validation .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   54 I_PPIS1 always_RR asked_VVD if_CS_CSW@ I_PPIS1 drew_VVD the_AT clock_NN1 fast_RR enough_RR ,_Y if_CS I_PPIS1 should_VM have_VHI tried_VVN@ to_TO name_VVI birds_NN2 instead_RR offish_NN1 ,_Y but_CCB they_PPHS2 did_VDD n't_XX care_VVI to_TO indulge_VVI my_APPGE need_NN1 for_IF academic_JJ validation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   55 Everything seems good , they 'd say , put your shoes back on .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   55 Everything_PN1 seems_VVZ good_JJ ,_Y they_PPHS2 'd_VM say_VVI ,_Y put_VVD_VV0 your_APPGE shoes_NN2 back_RP_VV0% on_II_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   56 Tuesdays are statistically a lucky day for major surgeries .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   56 Tuesdays_NPD2 are_VBR statistically_RR a_AT1 lucky_JJ day_NNT1 for_IF major_JJ surgeries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   57 On my Tuesday at 4 a.m .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   57 On_II my_APPGE Tuesday_NPD1 at_II 4_MC a.m_RA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   58 I washed from head to toe with antibacterial soap .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   58 I_PPIS1 washed_VVD from_II head_NN1 to_II toe_NN1 with_IW antibacterial_JJ soap_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   59 We drove to the hospital and met my family in the waiting room .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   59 We_PPIS2 drove_VVD to_II the_AT hospital_NN1 and_CC met_VVD my_APPGE family_NN1 in_II the_AT waiting_NN1 room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   60 I did n't know what to say .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   60 I_PPIS1 did_VDD n't_XX know_VVI what_DDQ to_TO say_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   61 I smiled .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   61 I_PPIS1 smiled_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   62 I was calm , but still selfish .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   62 I_PPIS1 was_VBDZ calm_JJ_NN1 ,_Y but_CCB still_RR selfish_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   63 It was n't until about fifteen minutes later , after I was in my heavy-duty gown with IV sleeves and elastic stockings that my universe expanded again .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   63 It_PPH1 was_VBDZ n't_XX until_CS about_RG fifteen_MC minutes_NNT2 later_RRR ,_Y after_CS I_PPIS1 was_VBDZ in_II my_APPGE heavy-duty_JJ_NN1 gown_NN1 with_IW IV_MC sleeves_NN2 and_CC elastic_JJ_NN1 stockings_NN2 that_CST my_APPGE universe_NN1 expanded_VVD_VVN again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   64 Those couple of minutes were mercifully short , but it happened something like this : The neurosurgeon , always no-nonsense , came to confirm that everything was ready , I burst into hysterical sobs of fear without warning or warm up , my parents and boyfriend appeared in time for me to use my last bit of awareness to reach out my hands and declare my endless love .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   64 Those_DD2 couple_NN1_VV0 of_IO minutes_NNT2 were_VBDR mercifully_RR short_JJ_RR@ ,_Y but_CCB it_PPH1 happened_VVD something_PN1 like_II this_DD1 :_Y The_AT neurosurgeon_NN1 ,_Y always_RR no-nonsense_JJ_NN1 ,_Y came_VVD to_TO confirm_VVI that_CST_DD1 everything_PN1 was_VBDZ ready_JJ_RR@ ,_Y I_PPIS1 burst_VV0_VVD into_II hysterical_JJ sobs_NN2 of_IO fear_NN1 without_IW warning_NN1 or_CC warm_VV0@ up_RP ,_Y my_APPGE parents_NN2 and_CC boyfriend_NN1 appeared_VVD_VVN@ in_II time_NNT1 for_IF me_PPIO1 to_TO use_VVI my_APPGE last_MD bit_NN1 of_IO awareness_NN1 to_TO reach_VVI out_RP my_APPGE hands_NN2 and_CC declare_VVI my_APPGE endless_JJ love_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   65 I worried about them , that they now had ten hours of waiting , hoping and fearing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   65 I_PPIS1 worried_VVD about_II them_PPHO2 ,_Y that_CST they_PPHS2 now_RT had_VHD ten_MC hours_NNT2 of_IO waiting_VVG_NN1@ ,_Y hoping_VVG and_CC fearing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   66 And then everything went dark and the world came to an end .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   66 And_CC then_RT everything_PN1 went_VVD dark_JJ_NN1 and_CC the_AT world_NN1 came_VVD to_II an_AT1 end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   67 Often we hear stories of atheists who cope with tragedy or illness by suddenly turning to religion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   67 Often_RR we_PPIS2 hear_VV0 stories_NN2 of_IO atheists_NN2 who_PNQS cope_VV0 with_IW tragedy_NN1 or_CC illness_NN1 by_II suddenly_RR turning_VVG to_II religion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   68 I wondered if I would be one of them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   68 I_PPIS1 wondered_VVD if_CS_CSW@ I_PPIS1 would_VM be_VBI one_MC1 of_IO them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   69 Would I wake from surgery having seen the light ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   69 Would_VM I_PPIS1 wake_VVI from_II surgery_NN1 having_VHG seen_VVN the_AT light_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   70 Would I be a different person ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   70 Would_VM I_PPIS1 be_VBI a_AT1 different_JJ person_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   71 If so , would I direct the change , or would there be a divine kidnapping or intervention that would make me write essays cheering God 's mysterious ways ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   71 If_CS so_RR ,_Y would_VM I_PPIS1 direct_VVI the_AT change_NN1 ,_Y or_CC would_VM there_EX be_VBI a_AT1 divine_JJ kidnapping_NN1 or_CC intervention_NN1 that_CST_DD1 would_VM make_VVI me_PPIO1 write_VVI essays_NN2 cheering_VVG God_NP1 's_GE mysterious_JJ ways_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   72 The first thing I remember as I woke up after the surgery was disagreeing with the nurse about whether or not I was throwing up .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   72 The_AT first_MD thing_NN1 I_PPIS1 remember_VV0 as_CSA I_PPIS1 woke_VVD up_RP after_II_CS the_AT surgery_NN1 was_VBDZ disagreeing_VVG with_IW the_AT nurse_NN1 about_II whether_CSW31 or_CSW32 not_CSW33 I_PPIS1 was_VBDZ throwing_VVG up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   73 ( I said I was .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   73 (_Y I_PPIS1_ZZ1@ said_VVD I_PPIS1 was_VBDZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   74 She assured me the drugs made it impossible for me to vomit .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   74 She_PPHS1 assured_VVD me_PPIO1 the_AT drugs_NN2 made_VVD_VVN it_PPH1 impossible_JJ for_IF me_PPIO1 to_TO vomit_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   75 She was right .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   75 She_PPHS1 was_VBDZ right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   76 ) No divinity here .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   76 )_Y No_AT_UH divinity_NN1 here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   77 Just the usual mortal had to relearn everything , even reading a menu and especially walking .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   77 Just_RR the_AT usual_JJ mortal_JJ_NN1 had_VHD to_TO relearn_VVI everything_PN1 ,_Y even_RR reading_VVG a_AT1 menu_NN1 and_CC especially_RR walking_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   78 I had to relearn how to see the world .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   78 I_PPIS1 had_VHD to_TO relearn_VVI how_RRQ to_TO see_VVI the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   79 My essential selfishness gradually diminished and I returned to my usual orbit .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   79 My_APPGE essential_JJ selfishness_NN1 gradually_RR diminished_VVN_VVD and_CC I_PPIS1 returned_VVD to_II my_APPGE usual_JJ orbit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   80 Soon I was no longer the center of attention .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   80 Soon_RR I_PPIS1 was_VBDZ no_RR21 longer_RR22 the_AT center_NN1 of_IO attention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   81 I baked cookies for other people and sent out neuron-themed thank you cards .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   81 I_PPIS1 baked_VVD cookies_NN2 for_IF other_JJ people_NN and_CC sent_VVD_VVN out_RP neuron-themed_ZZ thank_VV0 you_PPY cards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   82 Unable to drive , I walked unembarrassed by my defective stride through the city and on the bridges over the Mississippi River .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   82 Unable_JK to_TO drive_VVI ,_Y I_PPIS1 walked_VVD unembarrassed_JJ by_II my_APPGE defective_JJ stride_NN1 through_II the_AT city_NN1 and_CC on_II the_AT bridges_NN2 over_II the_AT Mississippi_NP1 River_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   83 I felt pride in my hard-earned recovery and happiness in expanding my identity within pure physicality .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   83 I_PPIS1 felt_VVD pride_NN1 in_II my_APPGE hard-earned_JJ_NN1 recovery_NN1 and_CC happiness_NN1 in_II expanding_VVG my_APPGE identity_NN1 within_II pure_JJ physicality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   84 With time I returned to work and to writing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   84 With_IW time_NNT1 I_PPIS1 returned_VVD to_II work_NN1 and_CC to_II writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   85 I regained the bookworm persona that is my comfort zone .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   85 I_PPIS1 regained_VVD the_AT bookworm_NN1 persona_NN1 that_CST_DD1 is_VBZ my_APPGE comfort_NN1 zone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   86 I 'm not a different person , but now I 'm not afraid of falling down when my brain loses sync with my foot , or scared of talking to other people about their own illnesses or injuries .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   86 I_PPIS1 'm_VBM not_XX a_AT1 different_JJ person_NN1 ,_Y but_CCB now_RT I_PPIS1 'm_VBM not_XX afraid_JJ of_IO falling_VVG down_RP when_CS_RRQ my_APPGE brain_NN1 loses_VVZ sync_NN1 with_IW my_APPGE foot_NN1 ,_Y or_CC scared_JJ of_IO talking_VVG to_II other_JJ people_NN about_II their_APPGE own_DA illnesses_NN2 or_CC injuries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   87 In those ways , in my improved connections with myself and with other people , maybe my life is a little better .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   87 In_II those_DD2 ways_NN2 ,_Y in_II my_APPGE improved_JJ connections_NN2 with_IW myself_PPX1 and_CC with_IW other_JJ people_NN ,_Y maybe_RR my_APPGE life_NN1 is_VBZ a_RR21 little_RR22 better_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   88 My brain is safe for now , so diagnosis still echoes through my memory and threatens my future , but the experience left my universe enriched and agreeably complex -- less a black hole than a beautiful nebula with brutal origins .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   88 My_APPGE brain_NN1 is_VBZ safe_JJ for_IF now_RT ,_Y so_CS@_RR diagnosis_NN1 still_RR echoes_VVZ through_II_RP@ my_APPGE memory_NN1 and_CC threatens_VVZ my_APPGE future_NN1_JJ ,_Y but_CCB the_AT experience_NN1 left_VVD_VVN my_APPGE universe_NN1 enriched_VVN_VVD_JJ and_CC agreeably_RR complex_JJ --_NN1 less_RRR_II% a_AT1 black_JJ hole_NN1 than_CSN a_AT1 beautiful_JJ nebula_NN1_JJ with_IW brutal_JJ origins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   89 By Robin Rozanski Robin Rozanski still enjoys a friendly MRI scan every three months .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   89 By_II Robin_NP1 Rozanski_NP1 Robin_NP1 Rozanski_NP1_NN1 still_RR enjoys_VVZ a_AT1 friendly_JJ MRI_NN2 scan_VV0 every_AT1 three_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   90 She lives and teaches in Minneapolis and has an MA in creative writing from the University of Central Florida .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   90 She_PPHS1 lives_VVZ and_CC teaches_VVZ in_II Minneapolis_NP1 and_CC has_VHZ an_AT1 MA_NN1 in_II creative_JJ writing_NN1 from_II the_AT University_NN1 of_IO Central_JJ Florida_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  A    0   91 
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079983 COCA  B    0   91 

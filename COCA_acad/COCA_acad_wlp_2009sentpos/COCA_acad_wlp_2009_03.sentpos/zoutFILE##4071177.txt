@@ -1,0 +1,150 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    0 WRITING IS , by and large , a solitary endeavor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    0 WRITING_NN1 IS_VBZ ,_Y by_RR31 and_RR32 large_RR33 ,_Y a_AT1 solitary_JJ endeavor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    1 This is one of its main appeals--you only have yourself ( and your eventual readers ) to answer to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    1 This_DD1 is_VBZ one_MC1 of_IO its_Z' main_JJ appeals--you_NN2 only_RR have_VH0 yourself_PPX1 (_Y and_CC your_APPGE eventual_JJ readers_NN2 )_Y to_TO answer_VVI to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    2 It can also be a beginner 's undoing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    2 It_PPH1 can_VM also_RR be_VBI a_AT1 beginner_NN1 's_GE undoing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    3 We can chat volubly about our brilliant plots over lunch , share our excitement over a character 's latest scrape , but in the end , when we sit before that screen or sheet of paper , we 're beyond the reach of others .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    3 We_PPIS2 can_VM chat_VVI volubly_RR about_II our_APPGE brilliant_JJ plots_NN2 over_II lunch_NN1 ,_Y share_VV0 our_APPGE excitement_NN1 over_II_RP a_AT1 character_NN1 's_GE latest_JJT scrape_NN1 ,_Y but_CCB in_II the_AT end_NN1 ,_Y when_CS_RRQ we_PPIS2 sit_VV0 before_II_CS that_DD1 screen_NN1 or_CC sheet_NN1 of_IO paper_NN1 ,_Y we_PPIS2 're_VBR beyond_II the_AT reach_NN1 of_IO others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    4 Our self-doubts and fears emerge , as real and hobgoblinish as ever , making something , anything , seem easier .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    4 Our_APPGE self-doubts_NN2 and_CC fears_NN2 emerge_VV0 ,_Y as_CSA_RG@ real_JJ and_CC hobgoblinish_VV0_JJ as_RG@_CSA ever_RR ,_Y making_VVG something_PN1 ,_Y anything_PN1 ,_Y seem_VV0 easier_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    5 <p> A writing group can seem a lifeboat in a raging squall .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    5 <p>_Y A_AT1_ZZ1 writing_NN1 group_NN1 can_VM seem_VVI a_AT1 lifeboat_NN1 in_II a_AT1 raging_JJ squall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    6 But groups can have pitfalls as well , and before giving up time that could be spent writing ( as well as valuable income , if only for gas to the coffee shop ) , let 's consider their pros and cons .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    6 But_CCB groups_NN2 can_VM have_VHI pitfalls_NN2 as_RR21_RG well_RR22_RR ,_Y and_CC before_II giving_VVG up_RP_II@ time_NNT1 that_CST_DD1 could_VM be_VBI spent_VVN writing_NN1_VVG (_Y as_II31_RG well_II32_RR as_II33_CSA valuable_JJ income_NN1 ,_Y if_CS only_RR for_IF gas_NN1 to_II the_AT coffee_NN1 shop_NN1 )_Y ,_Y let_VM21 's_VM22 consider_VVI their_APPGE pros_NN2 and_CC cons_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    7 What are the benefits of writing groups , and can these very benefits pose dangers as well ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    7 What_DDQ are_VBR the_AT benefits_NN2 of_IO writing_VVG_NN1 groups_NN2 ,_Y and_CC can_VM_VV0% these_DD2 very_JJ@ benefits_NN2 pose_VV0 dangers_NN2 as_RR21_RG well_RR22_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    8 <p> Groups provide support .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    8 <p>_Y Groups_NN2 provide_VV0 support_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0    9 This is probably , the silence you work in can be harrowing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0    9 This_DD1 is_VBZ probably_RR ,_Y the_AT silence_NN1 you_PPY work_VV0 in_RP@_II can_VM be_VBI harrowing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   10 Doubts gnaw and rankle : Is this any good ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   10 Doubts_NN2 gnaw_VV0_NN1 and_CC rankle_VV0_NN1 :_Y Is_VBZ this_DD1 any_DD good_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   11 Am I really a writer , or am I just faking it ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   11 Am_VB0 I_PPIS1 really_RR a_AT1 writer_NN1 ,_Y or_CC am_VBM I_PPIS1 just_RR faking_VVG it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   12 In the right group you can let loose your writing demons , sharing frustrations with sympathetic ears .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   12 In_II the_AT right_JJ_NN1 group_NN1 you_PPY can_VM let_VVI loose_RR@_VV0@_JJ your_APPGE writing_NN1 demons_NN2 ,_Y sharing_VVG frustrations_NN2 with_IW sympathetic_JJ ears_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   13 ( Once after hearing me whine , a nonwriting friend declared blithely , " I do n't see what 's so hard about it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   13 (_Y Once_RR after_II hearing_VVG me_PPIO1 whine_VVI ,_Y a_AT1 nonwriting_JJ@_NN1@ friend_NN1 declared_VVD_VVN blithely_RR ,_Y "_Y I_PPIS1 do_VD0 n't_XX see_VVI what_DDQ 's_VBZ so_RG_RR hard_JJ about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   14 All you have to do is write .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   14 All_DB you_PPY have_VH0 to_TO do_VDI is_VBZ write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   15 " ) A group can point out strengths you did n't know you had--an ear for dialogue , an eye for detail--talents that can be honed and refined .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   15 "_Y )_Y A_AT1 group_NN1 can_VM point_VVI out_RP strengths_NN2 you_PPY did_VDD n't_XX know_VVI you_PPY had--an_AT1 ear_NN1 for_IF dialogue_NN1 ,_Y an_AT1 eye_NN1 for_IF detail--talents_NN2 that_CST_DD1 can_VM be_VBI honed_VVN and_CC refined_JJ_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   16 And a word of encouragement , a genuine interest in characters you 've grown to see as relatives , can be the candlelight you write by for years .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   16 And_CC a_AT1 word_NN1 of_IO encouragement_NN1 ,_Y a_AT1 genuine_JJ interest_NN1 in_II characters_NN2 you_PPY 've_VH0 grown_VVN to_TO see_VVI as_CSA_II@ relatives_NN2 ,_Y can_VM be_VBI the_AT candlelight_NN1 you_PPY write_VV0 by_RP%_II for_IF years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   17 <p> A common argument against writing groups is that authors of the past did n't need them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   17 <p>_Y A_AT1_ZZ1 common_JJ argument_NN1 against_II writing_VVG_NN1 groups_NN2 is_VBZ that_CST authors_NN2 of_IO the_AT past_NN1 did_VDD n't_XX need_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   18 The presumption is that the masters were made of stronger stuff , and that writing groups produce a kind of groupthink inimical to personal vision .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   18 The_AT presumption_NN1 is_VBZ that_CST the_AT masters_NN2 were_VBDR made_VVN of_IO stronger_JJR stuff_NN1 ,_Y and_CC that_DD1_CST writing_NN1_VVG groups_NN2 produce_VV0 a_AT1 kind_NN1_RR21% of_IO_RR22 groupthink_NN1_VV0 inimical_JJ to_II personal_JJ vision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   19 But no writer lived in found support from those around them , learning craft through talks or tutorials , writing letters to like-minded friends .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   19 But_CCB no_AT writer_NN1 lived_VVD_VVN in_II_RP@ found_VVN support_NN1_VV0 from_II those_DD2 around_II them_PPHO2 ,_Y learning_VVG_NN1 craft_NN1 through_II talks_NN2 or_CC tutorials_NN2 ,_Y writing_VVG_NN1 letters_NN2 to_II like-minded_JJ friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   20 <p> Groups motivate .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   20 <p>_Y Groups_NN2 motivate_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   21 Simply being with people who share a love of language--and know Rimbaud from Rambo !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   21 Simply_RR being_VBG with_IW people_NN who_PNQS share_VV0 a_AT1 love_NN1 of_IO language--and_CC know_VV0 Rimbaud_NP1 from_II Rambo_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   22 --can be exhilarating in itself .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   22 --can_JJ_NN1% be_VBI exhilarating_JJ in_II itself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   23 More important , it can help you develop the habits conducive to daily writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   23 More_RGR_DAR important_JJ ,_Y it_PPH1 can_VM help_VVI you_PPY develop_VVI the_AT habits_NN2 conducive_JJ to_II daily_JJ_RR writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   24 You turn over ideas discussed in group , applying them to your novel .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   24 You_PPY turn_VV0 over_RP_II ideas_NN2 discussed_VVN_VVD in_II group_NN1 ,_Y applying_VVG them_PPHO2 to_II your_APPGE novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   25 You read stories intently , cracking them open to find out what 's inside .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   25 You_PPY read_VV0 stories_NN2 intently_RR ,_Y cracking_VVG them_PPHO2 open_VV0_JJ to_TO find_VVI out_RP what_DDQ 's_VBZ inside_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   26 Thinking primes your subconscious for the actual desk work , so that by the time you face the page , your mental gears are whirring .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   26 Thinking_NN1 primes_VVZ your_APPGE subconscious_NN1_JJ for_IF the_AT actual_JJ desk_NN1 work_NN1_VV0 ,_Y so_CS21 that_CS22 by_II the_AT time_NNT1 you_PPY face_VV0 the_AT page_NN1 ,_Y your_APPGE mental_JJ gears_NN2 are_VBR whirring_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   27 <p> The pressure to bring something in , no matter how rough , builds a momentum to your days .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   27 <p>_Y The_AT pressure_NN1 to_TO bring_VVI something_PN1 in_RP@_II ,_Y no_RGQV31 matter_RGQV32 how_RGQV33 rough_JJ ,_Y builds_VVZ a_AT1 momentum_NN1 to_II your_APPGE days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   28 It instills a certain attitude : Writing is a process , and once I get feedback I can always rewrite .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   28 It_PPH1 instills_VVZ a_AT1 certain_JJ attitude_NN1 :_Y Writing_NN1_VVG is_VBZ a_AT1 process_NN1 ,_Y and_CC once_RR_CS@ I_PPIS1 get_VV0 feedback_NN1 I_PPIS1 can_VM always_RR rewrite_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   29 In fact , it 's important that you expect to revise after showing early drafts .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   29 In_II fact_NN1 ,_Y it_PPH1 's_VBZ important_JJ that_CST you_PPY expect_VV0 to_TO revise_VVI after_II showing_VVG early_JJ_RR drafts_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   30 Regard your work as perfect and you miss the chance to deepen it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   30 Regard_VV0 your_APPGE work_NN1 as_CSA perfect_JJ and_CC you_PPY miss_VV0 the_AT chance_NN1 to_TO deepen_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   31 <p> Of course , with Emotions can run high--these are our lives we 're dealing with here !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   31 <p>_Y Of_RR21 course_RR22 ,_Y with_IW Emotions_NN2 can_VM run_VVI high--these_DD2 are_VBR our_APPGE lives_NN2 we_PPIS2 're_VBR dealing_VVG with_IW here_RL !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   32 People 's talents and worldviews can threaten the insecure , choke off honest discussion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   32 People_NN 's_GE talents_NN2 and_CC worldviews_NN2 can_VM threaten_VVI the_AT insecure_JJ ,_Y choke_VV0_NN1 off_RP_II honest_JJ discussion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   33 If you find yourself dreading your meetings , it 's probably time to talk to someone about it , or find a less dysfunctional group .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   33 If_CS you_PPY find_VV0 yourself_PPX1 dreading_VVG your_APPGE meetings_NN2 ,_Y it_PPH1 's_VBZ probably_RR time_NNT1_VV0% to_TO talk_VVI to_II someone_PN1 about_II it_PPH1 ,_Y or_CC find_VV0 a_AT1 less_RGR dysfunctional_JJ group_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   34 <p> Groups give free ideas .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   34 <p>_Y Groups_NN2 give_VV0 free_JJ ideas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   35 One typical ground rule is that authors do n't speak until after the other members are done .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   35 One_MC1 typical_JJ ground_NN1 rule_NN1 is_VBZ that_CST authors_NN2 do_VD0 n't_XX speak_VVI until_CS after_CS_II the_AT other_JJ members_NN2 are_VBR done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   36 This offers a rare privilege--to glimpse your readers ' responses to the work as is , without guidance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   36 This_DD1 offers_VVZ a_AT1 rare_JJ privilege--to_NN1 glimpse_VV0_NN1 your_APPGE readers_NN2 '_GE responses_NN2 to_II the_AT work_NN1 as_CSA is_VBZ ,_Y without_IW guidance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   37 Sometimes things that seemed obvious will confuse or stymie others , the words falling short of the experience in your mind .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   37 Sometimes_RT things_NN2 that_CST seemed_VVD obvious_JJ will_VM confuse_VVI or_CC stymie_NN1 others_NN2 ,_Y the_AT words_NN2 falling_VVG short_JJ of_IO the_AT experience_NN1 in_II your_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   38 And under the harsh glare of scrutiny , words that seemed strong can suddenly seem to wilt .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   38 And_CC under_II the_AT harsh_JJ glare_NN1 of_IO scrutiny_NN1 ,_Y words_NN2 that_CST seemed_VVD strong_JJ_RR% can_VM suddenly_RR seem_VVI to_TO wilt_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   39 <p> Trying to explain gut feelings--why you just do n't like the word " tinkle " say --can expose your hidden assumptions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   39 <p>_Y Trying_VVG to_TO explain_VVI gut_NN1 feelings--why_NN2 you_PPY just_RR do_VD0 n't_XX like_VVI the_AT word_NN1 "_Y tinkle_NN1_VV0 "_Y say_VV0 --can_JJ expose_VV0 your_APPGE hidden_JJ@ assumptions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   40 It can also uncover your values .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   40 It_PPH1 can_VM also_RR uncover_VVI your_APPGE values_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   41 In a workshop I attended , one member felt that all beginnings should instantly snag the reader , often through violent means , while in a comfortable blanket .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   41 In_II a_AT1 workshop_NN1 I_PPIS1 attended_VVD ,_Y one_MC1 member_NN1 felt_VVD_VVN that_CST all_DB beginnings_NN2 should_VM instantly_RR snag_VVI the_AT reader_NN1 ,_Y often_RR through_II violent_JJ means_NN ,_Y while_CS in_II a_AT1 comfortable_JJ blanket_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   42 <p> But can groups become mere case studies of the blind leading the blind ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   42 <p>_Y But_CCB can_VM_VV0% groups_NN2 become_VVI mere_JJ case_NN1 studies_NN2 of_IO the_AT blind_NN1@_JJ leading_VVG the_AT blind_JJ_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   43 At their worst , sure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   43 At_II their_APPGE worst_JJT ,_Y sure_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   44 But even beginning writers are often keen , sensitive readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   44 But_CCB even_RR beginning_VVG writers_NN2 are_VBR often_RR keen_JJ ,_Y sensitive_JJ readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   45 And everyone has experienced childhood , loss , friendship , betrayal--vital knowledge that makes the stuff of art .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   45 And_CC everyone_PN1 has_VHZ experienced_VVN childhood_NN1 ,_Y loss_NN1 ,_Y friendship_NN1 ,_Y betrayal--vital_JJ knowledge_NN1 that_CST_DD1 makes_VVZ the_AT stuff_NN1 of_IO art_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   46 <p> Put too much stock in others ' opinions , though , and you can feel pulled in all directions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   46 <p>_Y Put_VV0 too_RG much_DA1 stock_NN1 in_II others_NN2 '_GE opinions_NN2 ,_Y though_CS_RR@ ,_Y and_CC you_PPY can_VM feel_VVI pulled_VVN in_II all_DB directions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   47 If you lack the confidence or experience to tell good advice from bad , you might lose sight of your own story , cobbling ideas from mismatched bits of cloth .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   47 If_CS you_PPY lack_VV0@ the_AT confidence_NN1 or_CC experience_VV0_NN1 to_TO tell_VVI good_JJ advice_NN1 from_II bad_JJ ,_Y you_PPY might_VM lose_VVI sight_NN1 of_IO your_APPGE own_DA story_NN1 ,_Y cobbling_VVG ideas_NN2 from_II mismatched_JJ@ bits_NN2 of_IO cloth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   48 Here 's an idea : When your draft is critiqued , write down every suggestion you hear .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   48 Here_RL 's_VBZ an_AT1 idea_NN1 :_Y When_RRQ_CS your_APPGE draft_NN1 is_VBZ critiqued_VVN@_JJ@ ,_Y write_VV0 down_RP every_AT1 suggestion_NN1 you_PPY hear_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   49 Later , manuscript in hand , correct obvious errors first .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   49 Later_RRR_JJR ,_Y manuscript_NN1 in_II hand_NN1 ,_Y correct_JJ_VV0@ obvious_JJ errors_NN2 first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   50 Then consider other comments one by one , rethinking paragraphs or phrases , experimenting on a clean sheet of paper .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   50 Then_RT consider_VV0 other_JJ comments_NN2 one_MC1 by_II one_MC1 ,_Y rethinking_VVG paragraphs_NN2 or_CC phrases_NN2 ,_Y experimenting_VVG on_II_RP@ a_AT1 clean_JJ sheet_NN1 of_IO paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   51 If the new way does n't feel obviously wrong , keep the suggestion to return to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   51 If_CS the_AT new_JJ way_NN1 does_VDZ n't_XX feel_VVI obviously_RR wrong_JJ_RR@ ,_Y keep_VV0 the_AT suggestion_NN1 to_TO return_VVI to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   52 But if it rings false , simply " X " it out .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   52 But_CCB if_CS it_PPH1 rings_VVZ false_JJ_RR@ ,_Y simply_RR "_Y X_MC@_ZZ1_II% "_Y it_PPH1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   53 <p> Groups help on magic , its failure more typically hinges on craft .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   53 <p>_Y Groups_NN2 help_VV0 on_II magic_NN1_JJ ,_Y its_Z' failure_NN1 more_RGR_RRR typically_RR hinges_VVZ on_II craft_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   54 The group experience teaches you to sift through criticism , using it to weed out fatal flaws .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   54 The_AT group_NN1 experience_NN1 teaches_VVZ you_PPY to_TO sift_VVI through_II criticism_NN1 ,_Y using_VVG it_PPH1 to_TO weed_VVI out_RP fatal_JJ flaws_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   55 Groups sharpen your eyes and ears , training them to catch awkward phrases , spot clunky dialogue , home in on the vague , muddled image or clich .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   55 Groups_NN2 sharpen_VV0 your_APPGE eyes_NN2 and_CC ears_NN2 ,_Y training_VVG@ them_PPHO2 to_TO catch_VVI awkward_JJ phrases_NN2 ,_Y spot_VV0@_NN1 clunky_JJ dialogue_NN1 ,_Y home_NN1_RL_VV0% in_RP@_II on_II the_AT vague_JJ ,_Y muddled_JJ image_NN1 or_CC clich_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   56 Over time , you absorb the thinking tools you 'll need to revise .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   56 Over_II time_NNT1 ,_Y you_PPY absorb_VV0 the_AT thinking_NN1 tools_NN2 you_PPY 'll_VM need_VVI to_TO revise_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   57 <p> Being drilled in fiction 's elements--e.g. , character , point of view , detail--can make the writing itself less daunting .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   57 <p>_Y Being_VBG drilled_VVN in_II fiction_NN1 's_GE elements--e.g._NN2 ,_Y character_NN1 ,_Y point_NN1 of_IO view_NN1 ,_Y detail--can_JJ make_VV0 the_AT writing_NN1 itself_PPX1 less_DAR_RRR daunting_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   58 After a session , these elements act as signposts : When the muse misleads you , they point to other paths ... a different narrator , perhaps , or focus .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   58 After_CS_II a_AT1 session_NNT1 ,_Y these_DD2 elements_NN2 act_VV0 as_CSA signposts_VVZ_NN2 :_Y When_RRQ_CS the_AT muse_NN1 misleads_VVZ you_PPY ,_Y they_PPHS2 point_VV0@ to_II other_JJ paths_NN2 ..._... a_AT1 different_JJ narrator_NN1 ,_Y perhaps_RR ,_Y or_CC focus_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   59 You feel in your gut that something 's wrong , then use what you know to right it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   59 You_PPY feel_VV0 in_II_RP@ your_APPGE gut_NN1 that_CST something_PN1 's_GE_VBZ wrong_JJ_RR@ ,_Y then_RT use_VV0 what_DDQ you_PPY know_VV0 to_TO_II right_RR_NN1_JJ it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   60 <p> Sometimes as you draft , however , the group itself intrudes , unconsciously becoming your audience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   60 <p>_Y Sometimes_RT as_CSA you_PPY draft_VV0 ,_Y however_RR ,_Y the_AT group_NN1 itself_PPX1 intrudes_VVZ ,_Y unconsciously_RR becoming_VVG your_APPGE audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   61 This is a real danger , since it works against our greatest aim as writers : to speak to the larger world .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   61 This_DD1 is_VBZ a_AT1 real_JJ danger_NN1 ,_Y since_CS it_PPH1 works_VVZ against_II our_APPGE greatest_JJT aim_NN1 as_CSA_II@ writers_NN2 :_Y to_TO speak_VVI to_II the_AT larger_JJR world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   62 You might strain for highbrow language loves .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   62 You_PPY might_VM strain_VVI for_IF highbrow_JJ language_NN1 loves_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   63 Be vigilant .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   63 Be_VB0 vigilant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   64 When we draw the curtains to write , our minds tune in to the myriad voices within us .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   64 When_CS_RRQ we_PPIS2 draw_VV0 the_AT curtains_NN2 to_TO write_VVI ,_Y our_APPGE minds_NN2 tune_VV0 in_RP@ to_II the_AT myriad_NN1 voices_NN2_VVZ@ within_II us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   65 We attend to them patiently , scribbling before they fade .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   65 We_PPIS2 attend_VV0 to_II them_PPHO2 patiently_RR ,_Y scribbling_VVG before_CS they_PPHS2 fade_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   66 If voices from the group filter in , tell them firmly , " Go away " or " That can wait .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   66 If_CS voices_NN2 from_II the_AT group_NN1 filter_NN1_VV0@ in_RP@_II ,_Y tell_VV0 them_PPHO2 firmly_RR ,_Y "_Y Go_VV0 away_RL "_Y or_CC "_Y That_DD1_CST can_VM wait_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   67 " Like the writers of the past , we ca n't avoid influences , but we can decide which ones to heed , and when .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   67 "_Y Like_II the_AT writers_NN2 of_IO the_AT past_NN1 ,_Y we_PPIS2 ca_VM n't_XX avoid_VVI influences_NN2 ,_Y but_CCB we_PPIS2 can_VM decide_VVI which_DDQ ones_Z' to_TO heed_VVI ,_Y and_CC when_RRQ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   68 <p> So is joining a writing group the right choice for you ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   68 <p>_Y So_RR is_VBZ joining_VVG a_AT1 writing_NN1 group_NN1 the_AT right_JJ_NN1 choice_NN1 for_IF you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   69 Consider your writing goals .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   69 Consider_VV0 your_APPGE writing_NN1 goals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   70 Where are you right now , and where do you hope to be ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   70 Where_RRQ are_VBR you_PPY right_RR_VV0% now_RT ,_Y and_CC where_RRQ do_VD0 you_PPY hope_VVI to_TO be_VBI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   71 Perhaps a few fellow travelers , met in the right group , will help set you on your way .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   71 Perhaps_RR a_AT1 few_DA2 fellow_JJ travelers_NN2 ,_Y met_VVN_VVD in_II the_AT right_JJ_NN1 group_NN1 ,_Y will_VM help_VVI set_VVI you_PPY on_II_RP@ your_APPGE way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   72 <p> By Stephen Delaney <p> Stephen Delaney has found a number of good writing groups in South Texas .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   72 <p>_Y By_II Stephen_NP1 Delaney_NP1 <p>_Y Stephen_NP1 Delaney_NP1 has_VHZ found_VVN a_AT1 number_NN1 of_IO good_JJ writing_NN1 groups_NN2 in_II South_ND1 Texas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   73 His most recent work has been in the Son Francisco Chronicle and The New Writer 's Handbook 2008 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   73 His_APPGE most_RGT recent_JJ work_NN1 has_VHZ been_VBN in_II the_AT Son_NN1 Francisco_NP1 Chronicle_NN1 and_CC The_AT New_JJ Writer_NN1 's_GE Handbook_NN1 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  A    0   74 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071177 COCA  B    0   74 <p>_Y

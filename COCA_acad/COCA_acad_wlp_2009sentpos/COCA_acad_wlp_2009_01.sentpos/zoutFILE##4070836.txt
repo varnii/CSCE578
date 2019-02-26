@@ -1,0 +1,240 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    0 IT 'S SUNDAY MORNING at a community center in a suburb of Portland , Oregon .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    0 IT_NN1_PPH1@ 'S_VBZ SUNDAY_NPD1 MORNING_NNT1 at_II a_AT1 community_NN1 center_NN1 in_II a_AT1 suburb_NN1 of_IO Portland_NP1 ,_Y Oregon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    1 A group of children , age four to twelve , form a half circle , their mouths ajar and eyes wide , staring at the man in front of them .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    1 A_AT1 group_NN1 of_IO children_NN2 ,_Y age_NN1_VV0@ four_MC to_II twelve_MC ,_Y form_VV0 a_AT1 half_NN1@_DB circle_NN1 ,_Y their_APPGE mouths_NN2 ajar_JJ and_CC eyes_NN2 wide_RR@_JJ ,_Y staring_VVG at_II the_AT man_NN1 in_II31 front_II32 of_II33 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    2 He performs a magic trick as part of the day 's Rational Sunday School activity , dubbed " magic and illusions .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    2 He_PPHS1 performs_VVZ a_AT1 magic_JJ_NN1 trick_NN1 as_II part_NN1 of_IO the_AT day_NNT1 's_GE_VBZ Rational_JJ Sunday_NPD1_NP1@ School_NN1 activity_NN1 ,_Y dubbed_VVN_VVD@ "_Y magic_JJ_NN1 and_CC illusions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    3 " Mike Mitchell , founder of the program , parent of two young ones , and magician for a day , has just captured a ghost inside a napkin .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    3 "_Y Mike_NP1 Mitchell_NP1 ,_Y founder_NN1 of_IO the_AT program_NN1 ,_Y parent_NN1 of_IO two_MC young_JJ ones_Z' ,_Y and_CC magician_NN1 for_IF a_AT1 day_NNT1 ,_Y has_VHZ just_RR captured_VVN a_AT1 ghost_NN1 inside_II a_AT1 napkin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    4 He invites the children to touch the napkin and feel for themselves : Unfortunately the ghost " collapses " the children break into uncontrollable laughter , and Mike wipes his forehead .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    4 He_PPHS1 invites_VVZ the_AT children_NN2 to_TO touch_VVI the_AT napkin_NN1 and_CC feel_VVI for_IF themselves_PPX2 :_Y Unfortunately_RR the_AT ghost_NN1 "_Y collapses_VVZ@_NN2 "_Y the_AT children_NN2 break_VV0 into_II uncontrollable_JJ laughter_NN1 ,_Y and_CC Mike_NP1 wipes_VVZ his_APPGE forehead_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    5 Today 's meeting is much more work than usual .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    5 Today_RT 's_GE meeting_NN1 is_VBZ much_DA1 more_DAR work_NN1 than_CSN usual_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    6 Mike has spent hours researching , watching magic videos , and practicing his tricks at home .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    6 Mike_NP1 has_VHZ spent_VVN hours_NNT2 researching_VVG ,_Y watching_VVG magic_JJ_NN1 videos_NN2 ,_Y and_CC practicing_VVG his_APPGE tricks_NN2 at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    7 After each trick Mike explains to the kids how it worked and why .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    7 After_CS_II each_DD1 trick_NN1 Mike_NP1 explains_VVZ to_II the_AT kids_NN2 how_RRQ it_PPH1 worked_VVD and_CC why_RRQ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    8 The " oohs " and " ahhs " confirm the class is a success , and free playtime .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    8 The_AT "_Y oohs_NN2 "_Y and_CC "_Y ahhs_NN2 "_Y confirm_VV0 the_AT class_NN1 is_VBZ a_AT1 success_NN1 ,_Y and_CC free_JJ playtime_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0    9 <p> Rational Sunday School , as the Sunday morning children 's activity for children of atheists and humanists is called in Portland , is not a particularly new movement among humanists in the United States .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0    9 <p>_Y Rational_JJ Sunday_NPD1_NP1@ School_NN1 ,_Y as_CSA_II the_AT Sunday_NPD1 morning_NNT1 children_NN2 's_GE activity_NN1 for_IF children_NN2 of_IO atheists_NN2 and_CC humanists_NN2 is_VBZ called_VVN in_II Portland_NP1 ,_Y is_VBZ not_XX a_AT1 particularly_RR new_JJ movement_NN1 among_II humanists_NN2 in_II the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   10 As a matter of fact , The Ethical Humanist Society of Long Island has had a children 's ethics program for kids between the ages of five and thirteen in place since the 1960s .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   10 As_II a_AT1 matter_NN1 of_JJ32_NN132 fact_NN1 ,_Y The_AT Ethical_JJ Humanist_JJ_NN1 Society_NN1 of_IO Long_JJ Island_NNL1 has_VHZ had_VHN a_AT1 children_NN2 's_GE ethics_NN program_NN1_VV0@ for_IF kids_NN2 between_II the_AT ages_NN2 of_IO five_MC and_CC thirteen_MC in_II place_NN1 since_CS_II@ the_AT 1960s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   11 The group meets each week as part of what the Ethical Society calls their Sunday platform ( the Portland group 's twice-a-month meetings generally split into two groups , " The Little Ones " and " Tween Talk " ) .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   11 The_AT group_NN1 meets_VVZ each_DD1 week_NNT1 as_II part_NN1 of_IO what_DDQ the_AT Ethical_JJ Society_NN1 calls_VVZ their_APPGE Sunday_NP1@ platform_NN1 (_Y the_AT Portland_NP1 group_NN1 's_GE twice-a-month_JJ meetings_NN2 generally_RR split_VVN_VVD_VV0 into_II two_MC groups_NN2 ,_Y "_Y The_AT Little_JJ Ones_Z' "_Y and_CC "_Y Tween_JJ_NP1_NN1 Talk_NN1 "_Y )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   12 Sharon Stanley , the Long Island children 's ethics program director says , " Our themes encompass Ethical Culture history , comparative religion , current events , social action projects , and the Six Pillars of Character as defined by the Josephson Institute Center for Youth Ethics .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   12 Sharon_NP1 Stanley_NP1 ,_Y the_AT Long_JJ Island_NNL1 children_NN2 's_GE ethics_NN program_NN1_VV0@ director_NN1 says_VVZ ,_Y "_Y Our_APPGE themes_NN2 encompass_VV0 Ethical_JJ Culture_NN1 history_NN1 ,_Y comparative_JJ religion_NN1 ,_Y current_JJ events_NN2 ,_Y social_JJ action_NN1 projects_NN2 ,_Y and_CC the_AT Six_MC Pillars_NN2 of_IO Character_NN1 as_CSA defined_VVN by_II the_AT Josephson_NP1_NN1@ Institute_NN1 Center_NN1 for_IF Youth_NN1 Ethics_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   13 " ( See sidebar on page 29 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   13 "_Y (_Y See_VV0 sidebar_NN1 on_II page_NN1 29_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   14 ) <p> In addition to Sunday morning activities , the society offers field trips to traditional places of worship , a local soup kitchen , bowling , game nights , and other fun trips .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   14 )_Y <p>_Y In_II31 addition_II32 to_II33 Sunday_NPD1 morning_NNT1 activities_NN2 ,_Y the_AT society_NN1 offers_NN2_VVZ@ field_NN1_VV0@ trips_VVZ_NN2 to_II traditional_JJ places_NN2 of_IO worship_NN1 ,_Y a_AT1 local_JJ soup_NN1 kitchen_NN1 ,_Y bowling_NN1_VVG@ ,_Y game_NN1_JJ% nights_NNT2 ,_Y and_CC other_JJ fun_JJ_NN1 trips_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   15 " I think the children who attend an ethical children 's Sunday program discuss ideas and participate in activities they will never have in school and might never participate in otherwise , " says Stanley , and adds , " The teenagers are smart , self-assured , honest , and totally involved with the issues and politics of the day .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   15 "_Y I_PPIS1 think_VV0 the_AT children_NN2 who_PNQS attend_VV0 an_AT1 ethical_JJ children_NN2 's_VBZ_GE Sunday_NPD1_NP1@ program_NN1_VV0@ discuss_VV0 ideas_NN2 and_CC participate_VV0 in_II_RP@ activities_NN2 they_PPHS2 will_VM never_RR have_VHI in_II school_NN1 and_CC might_VM never_RR participate_VVI in_RP@_II otherwise_RR ,_Y "_Y says_VVZ Stanley_NP1 ,_Y and_CC adds_VVZ ,_Y "_Y The_AT teenagers_NN2 are_VBR smart_JJ ,_Y self-assured_NN1_JJ ,_Y honest_JJ ,_Y and_CC totally_RR involved_JJ with_IW the_AT issues_NN2 and_CC politics_NN1 of_IO the_AT day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   16 " <p> Portland and Long Island , New York , are n't the only places in the country with such groups in place .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   16 "_Y <p>_Y Portland_NP1 and_CC Long_JJ Island_NNL1 ,_Y New_NP1 York_NP1 ,_Y are_VBR n't_XX the_AT only_JJ places_NN2 in_II the_AT country_NN1 with_IW such_DA groups_NN2 in_II place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   17 Albuquerque , New Mexico ; Palo Alto , California ; Chicago , Illinois ; and Harvard University offer similar programs , and their success shows .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   17 Albuquerque_NP1 ,_Y New_NP1 Mexico_NP1 ;_Y Palo_NP1 Alto_NP1 ,_Y California_NP1 ;_Y Chicago_NP1 ,_Y Illinois_NP1 ;_Y and_CC Harvard_NP1 University_NN1 offer_VV0_NN1 similar_JJ programs_NN2 ,_Y and_CC their_APPGE success_NN1 shows_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   18 The Palo Alto Humanist Society has offered a popular Sunday school off and on since the early ' 80s .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   18 The_AT Palo_NP1 Alto_NP1 Humanist_JJ_NN1 Society_NN1 has_VHZ offered_VVN a_AT1 popular_JJ Sunday_NPD1_NP1@ school_NN1_VV0% off_RP_II and_CC on_RP@_II since_CS_II@ the_AT early_JJ '_GE 80s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   19 While the younger group has no overriding curriculum and activities are led by a different person each week , Peter Bishop , one of the founders of the Palo Alto Sunday school , has written a textbook for the older kids ' humanist philosophy class life , not just some dry , irrelevant set of ideas , " says Bishop .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   19 While_CS the_AT younger_JJR group_NN1 has_VHZ no_AT overriding_JJ curriculum_NN1 and_CC activities_NN2 are_VBR led_VVN by_II a_AT1 different_JJ person_NN1 each_DD1 week_NNT1 ,_Y Peter_NP1 Bishop_NP1@_NN1 ,_Y one_MC1 of_IO the_AT founders_NN2 of_IO the_AT Palo_NP1 Alto_NP1 Sunday_NP1@_NPD1 school_NN1 ,_Y has_VHZ written_VVN a_AT1 textbook_NN1 for_IF the_AT older_JJR kids_NN2 '_GE humanist_JJ_NN1 philosophy_NN1 class_NN1 life_NN1 ,_Y not_XX just_RR some_DD dry_JJ ,_Y irrelevant_JJ set_NN1 of_IO ideas_NN2 ,_Y "_Y says_VVZ Bishop_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   20 <p> The Palo Alto Humanist Community was featured in Time magazine in November 2007 , and in March 2008 ABC 's Nightline did a segment of " Faith Matters " on the group and their Sunday school .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   20 <p>_Y The_AT Palo_NP1 Alto_NP1 Humanist_JJ_NN1 Community_NN1 was_VBDZ featured_VVN in_II Time_NNT1 magazine_NN1 in_II November_NPM1 2007_MC ,_Y and_CC in_II March_NPM1 2008_MC ABC_NP1 's_GE Nightline_NP1_NN1@ did_VDD a_AT1 segment_NN1 of_IO "_Y Faith_NN1 Matters_NN2_VVZ@ "_Y on_II the_AT group_NN1 and_CC their_APPGE Sunday_NP1@ school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   21 <p> The Harvard Humanist Parents group was formed in December 2008 through the humanist chaplaincy at Harvard led by Greg Epstein .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   21 <p>_Y The_AT Harvard_NP1 Humanist_JJ_NN1 Parents_NN2 group_NN1 was_VBDZ formed_VVN in_II December_NPM1 2008_MC through_II the_AT humanist_JJ_NN1 chaplaincy_NN1 at_II Harvard_NP1 led_VVN by_II Greg_NP1 Epstein_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   22 Monthly gatherings combine small group meetings and occasional field trips .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   22 Monthly_JJ gatherings_NN2 combine_VV0 small_JJ group_NN1 meetings_NN2 and_CC occasional_JJ field_NN1 trips_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   23 Parenting classes are also offered to assist parents in raising ethical , caring children .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   23 Parenting_NN1_VVG@ classes_NN2 are_VBR also_RR offered_VVN_VVD to_TO assist_VVI parents_NN2 in_II raising_VVG ethical_JJ ,_Y caring_VVG_JJ children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   24 The Harvard group was recently profiled in a March AP story that appeared in a variety of media , including the Washington Post , USA Today , and the Salt Lake Tribune .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   24 The_AT Harvard_NP1 group_NN1 was_VBDZ recently_RR profiled_VVN in_II_RP@ a_AT1 March_NP1@_NPM1 AP_NP1 story_NN1 that_CST appeared_VVD in_II_RP@ a_AT1 variety_NN1 of_IO media_NN ,_Y including_II_VVG@ the_AT Washington_NP1 Post_NN1 ,_Y USA_NP1 Today_RT ,_Y and_CC the_AT Salt_NP1 Lake_NNL1 Tribune_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   25 <p> The Humanist Society of New Mexico has a very new program in place , currently for children age four to nine .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   25 <p>_Y The_AT Humanist_JJ_NN1 Society_NN1 of_IO New_NP1 Mexico_NP1 has_VHZ a_AT1 very_RG new_JJ program_NN1 in_II place_NN1 ,_Y currently_RR for_IF children_NN2 age_VV0@_NN1 four_MC to_II nine_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   26 Jeff Cornelius , leader of the family co-op , states , " We have decided to focus on five key areas that we see as critical to humanist education .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   26 Jeff_NP1 Cornelius_NP2 ,_Y leader_NN1 of_IO the_AT family_NN1 co-op_NN1 ,_Y states_NN2_VVZ ,_Y "_Y We_PPIS2 have_VH0 decided_VVN to_TO focus_VVI on_II five_MC key_JJ areas_NN2 that_CST we_PPIS2 see_VV0 as_RG@_CSA critical_JJ to_II humanist_JJ_NN1 education_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   27 These areas are 's Parenting Beyond Belief .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   27 These_DD2 areas_NN2 are_VBR 's_GE Parenting_NN1 Beyond_II Belief_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   28 They are : religious literacy , ethics , personal responsibility , critical thinking , and experimental science .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   28 They_PPHS2 are_VBR :_Y religious_JJ literacy_NN1 ,_Y ethics_NN ,_Y personal_JJ responsibility_NN1 ,_Y critical_JJ thinking_NN1 ,_Y and_CC experimental_JJ science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   29 " Parents are responsible for planning the group 's activities , including storytelling , singing , recreation , and a science experiment , which Cornelius says always lights up kids ' faces with surprise and prompts questions .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   29 "_Y Parents_NN2 are_VBR responsible_JJ for_IF planning_VVG the_AT group_NN1 's_GE activities_NN2 ,_Y including_II_VVG@ storytelling_NN1 ,_Y singing_VVG ,_Y recreation_NN1 ,_Y and_CC a_AT1 science_NN1 experiment_NN1 ,_Y which_DDQ Cornelius_NP2 says_VVZ always_RR lights_VVZ%_NN2 up_RP_II@ kids_NN2 '_GE faces_NN2 with_IW surprise_NN1 and_CC prompts_VVZ_NN2 questions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   30 <p> McGowan , who was named 2008 Harvard Humanist of the Year , agrees with this approach to teaching children .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   30 <p>_Y McGowan_NP1 ,_Y who_PNQS was_VBDZ named_VVN 2008_MC Harvard_NP1 Humanist_NN1 of_IO the_AT Year_NNT1 ,_Y agrees_VVZ with_IW this_DD1 approach_NN1 to_II teaching_VVG_NN1 children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   31 " I would try to blow their minds--get them to say " wow !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   31 "_Y I_PPIS1 would_VM try_VVI to_TO blow_VVI their_APPGE minds--get_NN2 them_PPHO2 to_TO say_VVI "_Y wow_UH !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   32 " and mean it , " says the author , who adds there 's really no reason to go looking for mythic sources of amazement when the real world is so accommodating .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   32 "_Y and_CC mean_VVI it_PPH1 ,_Y "_Y says_VVZ the_AT author_NN1 ,_Y who_PNQS adds_VVZ there_EX_RL 's_VBZ really_RR no_AT reason_NN1 to_TO go_VVI looking_VVG for_IF mythic_JJ sources_NN2 of_IO amazement_NN1 when_CS_RRQ the_AT real_JJ world_NN1 is_VBZ so_RR_RG accommodating_VVG_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   33 When asked what a rational children 's program ideally should look like , McGowan states : <p> It should , first and foremost , be human and humane--fun and emotionally satisfying .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   33 When_CS asked_VVN@_VVD what_DDQ a_AT1 rational_JJ children_NN2 's_GE program_NN1 ideally_RR should_VM look_VVI like_CS_II ,_Y McGowan_NP1 states_VVZ_NN2 :_Y <p>_Y It_PPH1 should_VM ,_Y first_MD and_CC foremost_JJT ,_Y be_VBI human_JJ and_CC humane--fun_JJ_NN1 and_CC emotionally_RR satisfying_JJ_VVG@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   34 Critical inquiry would be part of it , although I would n't call it that , or anything like it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   34 Critical_JJ inquiry_NN1 would_VM be_VBI part_NN1 of_IO it_PPH1 ,_Y although_CS I_PPIS1 would_VM n't_XX call_VVI it_PPH1 that_CST_DD1 ,_Y or_CC anything_PN1 like_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   35 I 'd call it " Asking Great Questions .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   35 I_PPIS1 'd_VM call_VVI it_PPH1 "_Y Asking_VVG Great_JJ Questions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   36 noble Arthurian quest for truth .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   36 noble_JJ Arthurian_JJ quest_NN1 for_IF truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   37 There would be no weird black-and-white head shots of famous freethinkers around the room .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   37 There_EX would_VM be_VBI no_AT weird_JJ black-and-white_JJ head_NN1_JJ@ shots_NN2 of_IO famous_JJ freethinkers_NN2 around_II the_AT room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   38 I would want critical thinking activities to never exceed a one-to-one ratio with activities exploring empathy and ethics .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   38 I_PPIS1 would_VM want_VVI critical_JJ thinking_NN1 activities_NN2 to_TO never_RR exceed_VVI a_AT1 one-to-one_JJ ratio_NN1 with_IW activities_NN2 exploring_VVG empathy_NN1 and_CC ethics_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   39 And both should be further complemented with pointless fun .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   39 And_CC both_DB2_RR should_VM be_VBI further_RRR complemented_VVN_VVD with_IW pointless_JJ fun_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   40 <p> Atheists , humanists , agnostics , nonbelievers--however they might refer to themselves--have learned that they 're not alone .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   40 <p>_Y Atheists_NN2 ,_Y humanists_NN2 ,_Y agnostics_NN2 ,_Y nonbelievers--however_RRQV they_PPHS2 might_VM refer_VVI to_TO themselves--have_VHI learned_VVN that_CST they_PPHS2 're_VBR not_XX alone_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   41 As a matter of fact , studies show the number of nontheists in the United States ranges between 10 and 18 percent of the adult population , with the highest occurrence of nonbelievers in the youngest age brackets .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   41 As_II a_AT1 matter_NN1 of_JJ32_NN132 fact_NN1 ,_Y studies_NN2 show_VV0 the_AT number_NN1 of_IO nontheists_NN2 in_II the_AT United_NP1 States_NP1 ranges_VVZ_NN2 between_II 10_MC and_CC 18_MC percent_NNU of_IO the_AT adult_NN1_JJ@ population_NN1 ,_Y with_IW the_AT highest_JJT occurrence_NN1 of_IO nonbelievers_VVZ in_II the_AT youngest_JJT age_NN1 brackets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   42 Nonbelievers have always " been around , " but it has become easier in recent years to admit to one 's own lack of religion when asked the infamous " Which church do you go to ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   42 Nonbelievers_NP1@ have_VH0 always_RR "_Y been_VBN around_RP ,_Y "_Y but_CCB it_PPH1 has_VHZ become_VVN@ easier_RRR in_II recent_JJ years_NNT2 to_TO admit_VVI to_II one_PN1_MC1 's_GE own_DA lack_NN1 of_IO religion_NN1 when_RRQ_CS asked_VVD_VVN@ the_AT infamous_JJ "_Y Which_DDQ church_NN1 do_VD0 you_PPY go_VVI to_II ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   43 " question .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   43 "_Y question_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   44 What remains a problem is to find the kind of community religious people in this country have available to them , simply by belonging to a church , mosque , or synagogue .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   44 What_DDQ remains_VVZ a_AT1 problem_NN1 is_VBZ to_TO find_VVI the_AT kind_NN1 of_IO community_NN1 religious_JJ people_NN in_II this_DD1 country_NN1 have_VH0 available_JJ to_II them_PPHO2 ,_Y simply_RR by_II belonging_VVG to_II a_AT1 church_NN1 ,_Y mosque_NN1 ,_Y or_CC synagogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   45 Nonbelievers , like their religious peers , generally like and understood , to discuss issues of everyday life and deeper topics , and of course to provide the same sense of community to their children .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   45 Nonbelievers_NP1@_VVZ ,_Y like_II their_APPGE religious_JJ peers_NN2 ,_Y generally_RR like_VV0@_JJ@ and_CC understood_VVN ,_Y to_TO discuss_VVI issues_NN2 of_IO everyday_JJ life_NN1 and_CC deeper_JJR topics_NN2 ,_Y and_CC of_RR21 course_RR22 to_TO provide_VVI the_AT same_DA sense_NN1 of_IO community_NN1 to_II their_APPGE children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   46 <p> For those who are n't lucky enough to live anywhere near the groups mentioned here , resources are plentiful to either connect with a similar group in your area or start your own .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   46 <p>_Y For_IF those_DD2 who_PNQS are_VBR n't_XX lucky_JJ enough_RR to_TO live_VVI anywhere_RL near_II the_AT groups_NN2 mentioned_VVN_VVD here_RL ,_Y resources_NN2 are_VBR plentiful_JJ to_TO either_RR connect_VVI with_IW a_AT1 similar_JJ group_NN1 in_II your_APPGE area_NN1 or_CC start_VV0 your_APPGE own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   47 The following are useful steps to establishing a successful Sunday school community in your neck of the woods .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   47 The_AT following_JJ are_VBR useful_JJ steps_NN2 to_II establishing_VVG a_AT1 successful_JJ Sunday_NPD1_NP1@ school_NN1 community_NN1 in_II your_APPGE neck_NN1 of_IO the_AT woods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   48 <p> * Use a search engine to locate possible humanist chapters in your area .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   48 <p>_Y *_FU Use_NN1 a_AT1 search_NN1 engine_NN1 to_TO locate_VVI possible_JJ humanist_JJ_NN1 chapters_NN2 in_II your_APPGE area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   49 A good place to start is the American Humanist Association ( AHA ) .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   49 A_AT1_ZZ1 good_JJ place_NN1 to_TO start_VVI is_VBZ the_AT American_JJ Humanist_JJ_NN1 Association_NN1 (_Y AHA_UH )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   50 Or try your luck on meetup.com or yahoogroups.com for atheists , nontheists , or humanist groups .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   50 Or_CC try_VV0 your_APPGE luck_NN1 on_II meetup.com_ZZ_NN or_CC yahoogroups.com_ZZ_NN for_IF atheists_NN2 ,_Y nontheists_NN2 ,_Y or_CC humanist_JJ_NN1 groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   51 Or start your own--it only takes a few minutes .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   51 Or_CC start_VV0 your_APPGE own--it_PPH1 only_RR takes_VVZ a_AT1 few_DA2 minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   52 * Advertise in local newspapers , on Craigslist and other online forums ; post flyers in supermarkets , community centers , libraries , and other public places .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   52 *_FU Advertise_VV0 in_II_RP@ local_JJ newspapers_NN2 ,_Y on_II Craigslist_NN1_JJ and_CC other_JJ online_JJ forums_NN2 ;_Y post_NN1_II@ flyers_NN2 in_II supermarkets_NN2 ,_Y community_NN1 centers_NN2 ,_Y libraries_NN2 ,_Y and_CC other_JJ public_JJ_NN1 places_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   53 Creating a group contact e-mail address is a good idea .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   53 Creating_VVG a_AT1 group_NN1 contact_NN1 e-mail_NN1 address_NN1 is_VBZ a_AT1 good_JJ idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   54 * Once you 've recruited at least three or four families , hold your first whole set of great ideas , present them to your group ) .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   54 *_FU Once_RR you_PPY 've_VH0 recruited_VVN at_RR21 least_RR22 three_MC or_CC four_MC families_NN2 ,_Y hold_VV0 your_APPGE first_MD whole_NN1_JJ set_VVN of_IO great_JJ ideas_NN2 ,_Y present_VV0@ them_PPHO2 to_II your_APPGE group_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   55 You can meet at a coffee shop , a restaurant , the library , or , if you 're comfortable enough , at your house .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   55 You_PPY can_VM meet_VVI at_II a_AT1 coffee_NN1 shop_NN1 ,_Y a_AT1 restaurant_NN1 ,_Y the_AT library_NN1 ,_Y or_CC ,_Y if_CS you_PPY 're_VBR comfortable_JJ enough_RR ,_Y at_II your_APPGE house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   56 Do n't end the meeting without answering a few questions : When will the first Sunday school be held and where ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   56 Do_VD0 n't_XX end_VVI the_AT meeting_NN1 without_IW answering_VVG a_AT1 few_DA2 questions_NN2 :_Y When_RRQ will_VM the_AT first_MD Sunday_NPD1 school_NN1 be_VBI held_VVN and_CC where_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   57 Also , which activities will be introduced ( this can be as simple as story time and a few songs ) , and on what topics ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   57 Also_RR ,_Y which_DDQ activities_NN2 will_VM be_VBI introduced_VVN (_Y this_DD1 can_VM be_VBI as_RG simple_JJ as_CSA story_NN1 time_NNT1 and_CC a_AT1 few_DA2 songs_NN2 )_Y ,_Y and_CC on_II what_DDQ topics_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   58 * At the end of the first Sunday school meeting , plan the next activity and ask for volunteers to lead it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   58 *_FU At_II the_AT end_NN1 of_IO the_AT first_MD Sunday_NPD1 school_NN1 meeting_NN1_VVG ,_Y plan_VV0 the_AT next_MD activity_NN1 and_CC ask_VV0 for_IF volunteers_NN2 to_TO lead_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   59 Ask participants for word-of-mouth promotion of your group .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   59 Ask_VV0 participants_NN2 for_IF word-of-mouth_JJ_NN1 promotion_NN1 of_IO your_APPGE group_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   60 * After several weeks or even a couple of months meet with parents to brainstorm new ideas and ask for feedback .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   60 *_FU After_II several_DA2 weeks_NNT2 or_CC even_RR a_AT1 couple_NN1 of_IO months_NNT2 meet_VV0 with_IW parents_NN2 to_TO brainstorm_VVI new_JJ ideas_NN2 and_CC ask_VVI for_IF feedback_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   61 Do n't be afraid to ask for volunteers to step up and lead activities .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   61 Do_VD0 n't_XX be_VBI afraid_JJ to_TO ask_VVI for_IF volunteers_NN2 to_TO step_VVI up_RP and_CC lead_VVI activities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   62 Also , create core principles for the group or adopt them from an established chapter .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   62 Also_RR ,_Y create_VV0 core_NN1 principles_NN2 for_IF the_AT group_NN1 or_CC adopt_VV0 them_PPHO2 from_II an_AT1 established_JJ@ chapter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   63 Decide whether you 'd like to follow a set curriculum or take the " wing it " approach later more often ) to get the children acquainted and comfortable with each other .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   63 Decide_VV0 whether_CSW you_PPY 'd_VM like_VVI to_TO follow_VVI a_AT1 set_NN1_JJ@ curriculum_NN1 or_CC take_VV0 the_AT "_Y wing_NN1 it_PPH1 "_Y approach_NN1_VV0@ later_JJR_RRR more_RRR_RGR often_RR )_Y to_TO get_VVI the_AT children_NN2 acquainted_VVN and_CC comfortable_JJ with_IW each_PPX221 other_PPX222 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   64 Field trips , play dates , and museum visits are always great ideas for socializing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   64 Field_NN1_NP1@_VV0@ trips_NN2_VVZ ,_Y play_VV0_NN1 dates_NN2_VVZ ,_Y and_CC museum_NN1 visits_NN2 are_VBR always_RR great_JJ ideas_NN2 for_IF socializing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   65 Arranging a parents ' night out is also a great idea .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   65 Arranging_VVG a_AT1 parents_NN2 '_GE night_NNT1 out_RP is_VBZ also_RR a_AT1 great_JJ idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   66 * Locate a variety of sites for activities .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   66 *_FU Locate_VV0 a_AT1 variety_NN1 of_IO sites_NN2 for_IF activities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   67 Some libraries and community centers will let you rent rooms for free ( although some will require you to be a registered club ) or for a small fee .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   67 Some_DD libraries_NN2 and_CC community_NN1 centers_NN2 will_VM let_VVI you_PPY rent_VVI rooms_NN2 for_IF free_JJ (_Y although_CS some_DD will_VM require_VVI you_PPY to_TO be_VBI a_AT1 registered_JJ club_NN1 )_Y or_CC for_IF a_AT1 small_JJ fee_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   68 Agree on a " membership fee " to pay for room rentals , material fees , and so forth .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   68 Agree_VV0 on_II_RP@ a_AT1 "_Y membership_NN1 fee_NN1 "_Y to_TO pay_VVI for_IF room_NN1 rentals_NN2 ,_Y material_NN1_JJ@ fees_NN2 ,_Y and_RR31 so_RR32 forth_RR33 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   69 * Once your group grows , decide whether you 'd like to stay a private group or join an organization like the AHA , which will help when you try to add more structure to your program .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   69 *_FU Once_RR your_APPGE group_NN1 grows_VVZ ,_Y decide_VV0 whether_CSW you_PPY 'd_VM like_VVI to_TO stay_VVI a_AT1 private_JJ group_NN1 or_CC join_VV0 an_AT1 organization_NN1 like_II the_AT AHA_UH ,_Y which_DDQ will_VM help_VVI when_RRQ_CS you_PPY try_VV0 to_TO add_VVI more_DAR structure_NN1 to_II your_APPGE program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   70 Whatever your goal or vision , it does n't take too much of an effort to find like-minded people for your cause .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   70 Whatever_DDQV your_APPGE goal_NN1 or_CC vision_NN1 ,_Y it_PPH1 does_VDZ n't_XX take_VVI too_RG much_DA1 of_IO an_AT1 effort_NN1 to_TO find_VVI like-minded_JJ people_NN for_IF your_APPGE cause_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   71 And it 's important to note that rational Sunday schools are not created to bash religion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   71 And_CC it_PPH1 's_VBZ important_JJ to_TO note_VVI that_DD1_CST rational_JJ Sunday_NPD1 schools_NN2 are_VBR not_XX created_VVN to_TO bash_VVI religion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   72 The image of the bitter atheist is not one that should is to raise children with a true understanding of who they are and why others may be different , and that it 's okay that way .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   72 The_AT image_NN1 of_IO the_AT bitter_JJ atheist_NN1 is_VBZ not_XX one_PN1 that_CST should_VM is_VBZ to_TO raise_VVI children_NN2 with_IW a_AT1 true_JJ understanding_NN1 of_IO who_PNQS they_PPHS2 are_VBR and_CC why_RRQ others_NN2 may_VM be_VBI different_JJ ,_Y and_CC that_CST it_PPH1 's_VBZ okay_JJ that_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   73 Or as Dale McGowan puts it , " I want to know about the world , because it is so cool , and because I 'm so incredibly lucky to have ended up a conscious thing in the midst of it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   73 Or_CC as_CSA_II@ Dale_NP1 McGowan_NP1 puts_VVZ it_PPH1 ,_Y "_Y I_PPIS1 want_VV0 to_TO know_VVI about_II the_AT world_NN1 ,_Y because_CS it_PPH1 is_VBZ so_RG_RR cool_JJ_RR@ ,_Y and_CC because_CS I_PPIS1 'm_VBM so_RG incredibly_RR lucky_JJ to_TO have_VHI ended_VVN up_RP_II@ a_AT1 conscious_JJ thing_NN1 in_II the_AT midst_NN1 of_IO it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   74 " <p> L : " A Humanist Creed " by Peter and Catherine Bishop ( presented to teens in the Humanist Community group in Palo Alto , California ) : I believe in the real world and in people .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   74 "_Y <p>_Y L_ZZ1_NP1@ :_Y "_Y A_ZZ1_AT1@ Humanist_JJ Creed_NN1 "_Y by_II Peter_NP1 and_CC Catherine_NP1 Bishop_NP1@_NN1 (_Y presented_VVN to_II teens_NN2 in_II the_AT Humanist_JJ_NN1 Community_NN1 group_NN1 in_II Palo_NP1 Alto_NP1 ,_Y California_NP1 )_Y :_Y I_PPIS1 believe_VV0 in_II_RP@ the_AT real_JJ world_NN1 and_CC in_II people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   75 I believe in separating myth from reality .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   75 I_PPIS1 believe_VV0 in_II_RP@ separating_JJ_VVG myth_NN1 from_II reality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   76 I believe that people can solve their problems by using imagination and common sense applied with courage and following basic moral principles .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   76 I_PPIS1 believe_VV0 that_CST people_NN can_VM solve_VVI their_APPGE problems_NN2 by_II using_VVG imagination_NN1 and_CC common_JJ sense_NN1 applied_VVN_VVD with_IW courage_NN1 and_CC following_VVG_JJ@ basic_JJ moral_JJ principles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   77 <p> All my life I want to learn and develop , and to enrich the lives of other people .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   77 <p>_Y All_DB my_APPGE life_NN1 I_PPIS1 want_VV0 to_TO learn_VVI and_CC develop_VVI ,_Y and_CC to_TO enrich_VVI the_AT lives_NN2 of_IO other_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   78 I want to feel the joy of life .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   78 I_PPIS1 want_VV0 to_TO feel_VVI the_AT joy_NN1 of_IO life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   79 I want to make peace , democracy , and well-being in the world while respecting the freedom of people everywhere .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   79 I_PPIS1 want_VV0 to_TO make_VVI peace_NN1 ,_Y democracy_NN1 ,_Y and_CC well-being_NN1 in_II the_AT world_NN1 while_CS respecting_II_VVG@ the_AT freedom_NN1 of_IO people_NN everywhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   80 <p> .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   80 <p>_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   81 Beauty can be loved even when it is not understood , but truth can only be found through understanding .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   81 Beauty_NN1 can_VM be_VBI loved_VVN even_CS21 when_CS22 it_PPH1 is_VBZ not_XX understood_VVN ,_Y but_CCB truth_NN1 can_VM only_RR be_VBI found_VVN through_II understanding_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   82 Truth becomes clearer and more beautiful , the more it is investigated .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   82 Truth_NN1 becomes_VVZ clearer_JJR and_CC more_RGR beautiful_JJ ,_Y the_AT more_RRR it_PPH1 is_VBZ investigated_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   83 <p> L : The Six Pillars of Character ( as written for the Josephson Institute 's CHARACTER COUNTS !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   83 <p>_Y L_ZZ1_NP1@ :_Y The_AT Six_MC Pillars_NN2 of_IO Character_NN1 (_Y as_CSA written_VVN for_IF the_AT Josephson_NP1_NN1@ Institute_NN1 's_GE CHARACTER_NN1 COUNTS_VVZ_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   84 youth program ) Trustworthiness <p> Be honest .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   84 youth_NN1 program_NN1 )_Y Trustworthiness_NN1_NP1 <p>_Y Be_VB0 honest_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   85 Do n't deceive , cheat , or steal .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   85 Do_VD0 n't_XX deceive_VVI ,_Y cheat_VVI ,_Y or_CC steal_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   86 Be reliable - do what you say you 'll do .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   86 Be_VB0 reliable_JJ -_- do_VD0 what_DDQ you_PPY say_VV0 you_PPY 'll_VM do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   87 Have the courage to do the right thing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   87 Have_VH0 the_AT courage_NN1 to_TO do_VDI the_AT right_JJ_NN1 thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   88 Build a good reputation .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   88 Build_VV0 a_AT1 good_JJ reputation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   89 Be loyal - stand by your family , friends , and country .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   89 Be_VB0 loyal_JJ -_- stand_VV0 by_II your_APPGE family_NN1 ,_Y friends_NN2 ,_Y and_CC country_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   90 <p> Respect <p> Treat others with respect ; follow the Golden Rule .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   90 <p>_Y Respect_NN1_VV0@ <p>_Y Treat_VV0_NN1 others_NN2 with_IW respect_NN1 ;_Y follow_VV0 the_AT Golden_JJ Rule_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   91 Be tolerant of differences .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   91 Be_VB0 tolerant_JJ of_IO differences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   92 Use good manners , not bad language .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   92 Use_VV0 good_JJ manners_NN2 ,_Y not_XX bad_JJ language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   93 Be considerate of the feelings of others .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   93 Be_VB0 considerate_JJ of_IO the_AT feelings_NN2 of_IO others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   94 Do n't threaten , hit , or hurt anyone .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   94 Do_VD0 n't_XX threaten_VVI ,_Y hit_VVD_VVN ,_Y or_CC hurt_VV0_VVD_JJ anyone_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   95 Deal peacefully with anger , insults , and disagreements <p> Responsibility <p> Do what you are supposed to do .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   95 Deal_VV0 peacefully_RR with_IW anger_NN1 ,_Y insults_NN2_VVZ ,_Y and_CC disagreements_NN2 <p>_Y Responsibility_NN1 <p>_Y Do_VD0 what_DDQ you_PPY are_VBR supposed_JJ to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   96 Persevere : Keep on trying !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   96 Persevere_VV0 :_Y Keep_VV0 on_RP trying_VVG !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   97 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   97 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   98 Always do your best .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   98 Always_RR do_VD0 your_APPGE best_JJT_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0   99 Use self-control .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0   99 Use_VV0_NN1 self-control_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  100 Be self-disciplined .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  100 Be_VB0 self-disciplined_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  101 Think for your choices <p> Fairness <p> Play by the rules .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  101 Think_VV0 for_IF your_APPGE choices_NN2 <p>_Y Fairness_NN1 <p>_Y Play_VV0_NN1 by_II the_AT rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  102 Take turns and share .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  102 Take_VV0 turns_NN2@ and_CC share_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  103 Be open-minded ; listen to others .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  103 Be_VB0 open-minded_JJ ;_Y listen_VV0 to_II others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  104 Do n't take advantage of others .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  104 Do_VD0 n't_XX take_VVI advantage_NN1 of_IO others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  105 Do n't blame others carelessly <p> Caring <p> Be kind .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  105 Do_VD0 n't_XX blame_VVI others_NN2 carelessly_RR <p>_Y Caring_NN1_VVG_JJ <p>_Y Be_VB0 kind_JJ@_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  106 Be compassionate and show you care .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  106 Be_VB0 compassionate_JJ and_CC show_VV0 you_PPY care_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  107 Express gratitude .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  107 Express_VV0_NN1_JJ@ gratitude_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  108 Forgive others .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  108 Forgive_VV0 others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  109 Help people in need <p> Citizenship <p> Do your share to make your school and community better .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  109 Help_VV0_NN1 people_NN in_II need_NN1 <p>_Y Citizenship_NN1 <p>_Y Do_VD0 your_APPGE share_NN1 to_TO make_VVI your_APPGE school_NN1 and_CC community_NN1 better_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  110 Cooperate .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  110 Cooperate_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  111 Get involved in community affairs .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  111 Get_VV0 involved_JJ in_II community_NN1 affairs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  112 Stay informed ; vote .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  112 Stay_VV0_NN1@ informed_VVN_JJ@ ;_Y vote_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  113 Be a good neighbor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  113 Be_VB0 a_AT1 good_JJ neighbor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  114 Obey laws and rules .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  114 Obey_VV0 laws_NN2 and_CC rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  115 Respect authority .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  115 Respect_NN1_VV0@ authority_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  116 Protect the environment .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  116 Protect_VV0 the_AT environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  117 <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p> By Ute Mitchell <p> Ute Mitchell is a freelance writer and the co-founder of a Rational Sunday School program .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  117 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y By_II Ute_NP1 Mitchell_NP1 <p>_Y Ute_VV0_NP1@ Mitchell_NP1 is_VBZ a_AT1 freelance_NN1 writer_NN1 and_CC the_AT co-founder_NN1 of_IO a_AT1 Rational_JJ Sunday_NPD1_NP1@ School_NN1 program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  118 She homeschools two young children , and calls the beautiful Pacific Northwest her home .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  118 She_PPHS1 homeschools_VVZ two_MC young_JJ children_NN2 ,_Y and_CC calls_VVZ the_AT beautiful_JJ Pacific_NP1 Northwest_ND1 her_PPHO1_APPGE home_RL_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  A    0  119 <p>
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070836 COCA  B    0  119 <p>_Y

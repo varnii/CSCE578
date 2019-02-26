@@ -1,0 +1,180 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    0 THE WRITING of a poem from first draft to publishable version tends to fall into several phases .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    0 THE_AT WRITING_NN1 of_IO a_AT1 poem_NN1 from_II first_MD draft_NN1_VV0 to_II publishable_JJ version_NN1 tends_VVZ to_TO fall_VVI into_II several_DA2 phases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    1 Getting a first draft down on paper is , or ought to be , a pleasurable process .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    1 Getting_VVG a_AT1 first_MD draft_VV0_NN1 down_RP on_II paper_NN1 is_VBZ ,_Y or_CC ought_VMK to_TO be_VBI ,_Y a_AT1 pleasurable_JJ process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    2 Poetry incorporates an element of play .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    2 Poetry_NN1 incorporates_VVZ an_AT1 element_NN1 of_IO play_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    3 Word sounds that echo against each other ( in internal and endline rhyme , consonance , assonance and alliteration ) are a kind of technical signature of this play , which extends through image , metaphor and the whole narrative contour .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    3 Word_NN1 sounds_VVZ that_CST_DD1 echo_VV0_NN1 against_II each_PPX221 other_PPX222 (_Y in_II internal_JJ and_CC endline_VV0_NN1 rhyme_NN1_VV0 ,_Y consonance_NN1 ,_Y assonance_NN1 and_CC alliteration_NN1 )_Y are_VBR a_AT1 kind_NN1 of_IO technical_JJ signature_NN1 of_IO this_DD1 play_NN1 ,_Y which_DDQ extends_VVZ through_II image_NN1 ,_Y metaphor_NN1 and_CC the_AT whole_JJ_NN1 narrative_JJ_NN1 contour_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    4 <p> That is , the poet 's mind in the process of composing allows itself the child-freedom of lip-and-tongue eroticism , of language indulged as if in nonsense syllables .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    4 <p>_Y That_REX21 is_REX22 ,_Y the_AT poet_NN1 's_GE mind_NN1 in_II the_AT process_NN1 of_IO composing_NN1@_VVG allows_VVZ itself_PPX1 the_AT child-freedom_NN1 of_IO lip-and-tongue_JJ_NN1 eroticism_NN1 ,_Y of_IO language_NN1 indulged_VVN_VVD as_CS21 if_CS22 in_II nonsense_NN1 syllables_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    5 The idea of a poem is itself a playful invention , a bending or troping away from the literal into the figurative .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    5 The_AT idea_NN1 of_IO a_AT1 poem_NN1 is_VBZ itself_PPX1 a_AT1 playful_JJ invention_NN1 ,_Y a_AT1 bending_NN1@ or_CC troping_VVG away_II21_RL from_II22_II the_AT literal_JJ into_II the_AT figurative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    6 " God a mighty , " I still hear the old field hand saying , " this here morning is cold as blue blazes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    6 "_Y God_NP1_NN1 a_AT1 mighty_JJ ,_Y "_Y I_PPIS1 still_RR hear_VV0 the_AT old_JJ field_NN1 hand_NN1 saying_VVG_NN1@ ,_Y "_Y this_DD1 here_RL morning_NNT1 is_VBZ cold_JJ as_CSA blue_JJ blazes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    7 " I saw the cold--materialized , active--in those " blazes , " in those flames .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    7 "_Y I_PPIS1 saw_VVD the_AT cold--materialized_JJ_NN1@ ,_Y active--in_JJ those_DD2 "_Y blazes_NN2 ,_Y "_Y in_II those_DD2 flames_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    8 <p> L : PHASE 1 For my students , as a charioteer driving onward with loosely held reins .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    8 <p>_Y L_ZZ1_NP1@ :_Y PHASE_NN1 1_MC1 For_IF my_APPGE students_NN2 ,_Y as_II_CSA a_AT1 charioteer_NN1 driving_VVG onward_RL with_IW loosely_RR held_VVN_VVD reins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0    9 Instead of a horse as representative of that bodily , kinetic , spontaneous source of sound , association and undisclosed motive , I propose the more contemporary machine of the bingo parlor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0    9 Instead_II21_CS21% of_II22_CS22 a_AT1 horse_NN1 as_CSA_II@ representative_NN1_JJ of_IO that_DD1 bodily_RR_JJ ,_Y kinetic_JJ ,_Y spontaneous_JJ source_NN1 of_IO sound_NN1 ,_Y association_NN1 and_CC undisclosed_JJ motive_NN1 ,_Y I_PPIS1 propose_VV0 the_AT more_RGR contemporary_JJ machine_NN1 of_IO the_AT bingo_NN1 parlor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   10 It is a kind of glass-sided till , within which numbered Ping-Pong balls are steadily blown upward , like bubbles in the muses ' fountain .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   10 It_PPH1 is_VBZ a_AT1 kind_NN1 of_IO glass-sided_JJ_NN1 till_NN1@_CS ,_Y within_II which_DDQ numbered_VVD Ping-Pong_NP1 balls_NN2 are_VBR steadily_RR blown_VVN upward_RL@_JJ ,_Y like_II_JJ@ bubbles_NN2 in_II the_AT muses_NN2 '_GE fountain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   11 You , the conscious half of the writer , are standing above , receiving into your hands these syllables of an evolving riddle breathed from beneath .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   11 You_PPY ,_Y the_AT conscious_JJ half_NN1@ of_IO the_AT writer_NN1 ,_Y are_VBR standing_VVG above_RL ,_Y receiving_VVG into_II your_APPGE hands_NN2 these_DD2 syllables_NN2 of_IO an_AT1 evolving_JJ@ riddle_NN1 breathed_VVD_VVN@ from_II beneath_RL@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   12 <p> It is like a popcorn machine , sounds a bit like one , and maybe the smell of popcorn blows through the tent .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   12 <p>_Y It_PPH1 is_VBZ like_II a_AT1 popcorn_NN1 machine_NN1 ,_Y sounds_VVZ_NN2 a_RR21 bit_RR22 like_II one_MC1_PN1 ,_Y and_CC maybe_RR the_AT smell_NN1 of_IO popcorn_NN1 blows_VVZ_NN2 through_II the_AT tent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   13 You do n't accept every proposal for a word in your poem , or every rhythmic impulse , that so " pops up .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   13 You_PPY do_VD0 n't_XX accept_VVI every_AT1 proposal_NN1 for_IF a_AT1 word_NN1 in_II your_APPGE poem_NN1 ,_Y or_CC every_AT1 rhythmic_JJ impulse_NN1 ,_Y that_DD1_CST so_RR "_Y pops_VVZ up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   14 " You select , take some but push some back , asking for better imagination , a fresher number .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   14 "_Y You_PPY select_VV0 ,_Y take_VV0 some_DD but_CCB push_VV0 some_DD back_NN1 ,_Y asking_VVG for_IF better_JJR imagination_NN1 ,_Y a_AT1 fresher_JJR number_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   15 Language after all is generic , a possession in common , and every sound and sense has been used to death .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   15 Language_NN1 after_II all_DB is_VBZ generic_JJ ,_Y a_AT1 possession_NN1 in_RR21 common_RR22 ,_Y and_CC every_AT1 sound_NN1 and_CC sense_NN1 has_VHZ been_VBN used_JJ to_II death_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   16 Some of " what image for Phase 1 of the writing , and a point for appreciating a delicate balance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   16 Some_DD of_IO "_Y what_DDQ image_NN1 for_IF Phase_NN1 1_MC1 of_IO the_AT writing_NN1 ,_Y and_CC a_AT1 point_NN1 for_IF appreciating_VVG a_AT1 delicate_JJ balance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   17 Coleridge had his driver--my caller of numbers--hold the reins loosely .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   17 Coleridge_NP1 had_VHD his_APPGE driver--my_APPGE caller_NN1 of_IO numbers--hold_NN2 the_AT reins_NN2 loosely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   18 The horse must , to some extent , have its head .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   18 The_AT horse_NN1 must_VM ,_Y to_II some_DD extent_NN1 ,_Y have_VH0 its_Z' head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   19 A kind of momentum , expressed most obviously in the rhythm and sound , needs to develop .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   19 A_AT1 kind_NN1 of_IO momentum_NN1 ,_Y expressed_VVD_VVN most_RGT obviously_RR in_II the_AT rhythm_NN1 and_CC sound_NN1 ,_Y needs_VVZ_NN2 to_TO develop_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   20 If the caller waits for too long to pick out one of the balls , they may pile up in frustration and cause a blockage .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   20 If_CS the_AT caller_NN1 waits_VVZ for_IF too_RG long_JJ_RR to_TO pick_VVI out_RP one_MC1 of_IO the_AT balls_NN2 ,_Y they_PPHS2 may_VM pile_VVI up_RP in_II frustration_NN1 and_CC cause_VVI a_AT1 blockage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   21 What wants and needs to be said has to get itself in motion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   21 What_DDQ wants_VVZ and_CC needs_VVZ_NN2 to_TO be_VBI said_VVN@ has_VHZ to_TO get_VVI itself_PPX1 in_II motion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   22 <p> Altering the image , the words that begin to come are like the knotted scarves pulled by the magician from his hat .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   22 <p>_Y Altering_VVG the_AT image_NN1 ,_Y the_AT words_NN2 that_CST begin_VV0 to_TO come_VVI are_VBR like_II the_AT knotted_JJ scarves_NN2 pulled_VVN by_II the_AT magician_NN1 from_II his_APPGE hat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   23 One is linked to another , and pulling them into motion the first time is necessary for the whole strip to unfurl .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   23 One_PN1_MC1 is_VBZ linked_VVN to_II another_DD1 ,_Y and_CC pulling_VVG them_PPHO2 into_II motion_NN1 the_AT first_MD time_NNT1 is_VBZ necessary_JJ for_IF the_AT whole_JJ strip_NN1 to_TO unfurl_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   24 <p> For this stage of composition , then , I advise a willing suspension of disbelief in the validity of what you are saying .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   24 <p>_Y For_IF this_DD1 stage_NN1 of_IO composition_NN1 ,_Y then_RT ,_Y I_PPIS1 advise_VV0 a_AT1 willing_JJ suspension_NN1 of_IO disbelief_NN1 in_II the_AT validity_NN1 of_IO what_DDQ you_PPY are_VBR saying_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   25 I do n't mean that you should be wholly uncritical , but I do mean that you should allow yourself the n't hit a golf or tennis ball or skate or dive if you are so self-conscious that your movements are deliberate and forced .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   25 I_PPIS1 do_VD0 n't_XX mean_VVI that_CST you_PPY should_VM be_VBI wholly_RR uncritical_JJ ,_Y but_CCB I_PPIS1 do_VD0 mean_VVI that_CST you_PPY should_VM allow_VVI yourself_PPX1 the_AT n't_XX hit_VVI a_AT1 golf_NN1 or_CC tennis_NN1 ball_NN1 or_CC skate_NN1_VV0 or_CC dive_VV0_NN1 if_CS_CSW@ you_PPY are_VBR so_RG_RR self-conscious_JJ that_CST your_APPGE movements_NN2 are_VBR deliberate_JJ and_CC forced_VVD_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   26 You learn how to do it by practice , then do it , in a movement that is whole , feels spontaneous , and causes a certain delight .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   26 You_PPY learn_VV0 how_RRQ to_TO do_VDI it_PPH1 by_II practice_NN1 ,_Y then_RT do_VD0 it_PPH1 ,_Y in_II a_AT1 movement_NN1 that_CST_DD1 is_VBZ whole_JJ_NN1 ,_Y feels_VVZ spontaneous_JJ ,_Y and_CC causes_VVZ a_AT1 certain_JJ delight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   27 <p> The times to put the harder pressure on yourself are before this first writing , and after .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   27 <p>_Y The_AT times_NNT2 to_TO put_VVI the_AT harder_JJR pressure_NN1 on_II yourself_PPX1 are_VBR before_II_RT@ this_DD1 first_MD writing_NN1 ,_Y and_CC after_RT%_II_JJ% ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   28 What is available to you as you write is in part dependent on your preparation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   28 What_DDQ is_VBZ available_JJ to_II you_PPY as_CSA you_PPY write_VV0 is_VBZ in_II part_NN1 dependent_JJ on_II your_APPGE preparation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   29 Wide reading , study and analysis of poetry , reading aloud , developing access to your deeper sources of subject matter , all help enrich the mix of what is bubbling up from " below .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   29 Wide_JJ reading_NN1 ,_Y study_NN1 and_CC analysis_NN1 of_IO poetry_NN1 ,_Y reading_VVG aloud_RR ,_Y developing_JJ_VVG access_NN1 to_II your_APPGE deeper_JJR sources_NN2 of_IO subject_NN1_JJ@ matter_NN1 ,_Y all_DB_RR@ help_VV0_NN1 enrich_VVI the_AT mix_NN1 of_IO what_DDQ is_VBZ bubbling_VVG up_RP from_II "_Y below_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   30 " <p> Discriminating insight into language --sound as well as sense--should have become habitual in you before this moment .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   30 "_Y <p>_Y Discriminating_JJ_VVG insight_NN1 into_II language_NN1 --sound_NN1 as_RG_II31 well_RR_II32 as_CSA_II33 sense--should_VM have_VHI become_VVN@ habitual_JJ in_II you_PPY before_CS_II this_DD1 moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   31 Put pressure on yourself to read and to understand , to know yourself , to begin the extraction of insights that lead to the richer interior .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   31 Put_VV0 pressure_NN1 on_II yourself_PPX1 to_TO read_VVI and_CC to_TO understand_VVI ,_Y to_TO know_VVI yourself_PPX1 ,_Y to_TO begin_VVI the_AT extraction_NN1 of_IO insights_NN2 that_CST lead_VV0_NN1 to_II the_AT richer_JJR interior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   32 But do n't freeze up when you should be intuitive .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   32 But_CCB do_VD0 n't_XX freeze_VVI up_RP when_CS you_PPY should_VM be_VBI intuitive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   33 <p> Getting down the first draft is Phase 1 is still glowing inside your head .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   33 <p>_Y Getting_VVG down_RP_II@ the_AT first_MD draft_NN1 is_VBZ Phase_NN1 1_MC1 is_VBZ still_RR glowing_VVG_JJ inside_II your_APPGE head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   34 At this point , the text is illuminated by what you intended .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   34 At_II this_DD1 point_NN1 ,_Y the_AT text_NN1 is_VBZ illuminated_VVN by_II what_DDQ you_PPY intended_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   35 <p> L : PHASE 2 Phase 2 begins when the first glow has faded , or has begun to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   35 <p>_Y L_ZZ1_NP1@ :_Y PHASE_NN1 2_MC Phase_NN1 2_MC begins_VVZ when_RRQ_CS the_AT first_MD glow_NN1 has_VHZ faded_VVN ,_Y or_CC has_VHZ begun_VVN to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   36 Then there is the shock of recognition , as you encounter the text you have produced .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   36 Then_RT there_EX is_VBZ the_AT shock_NN1 of_IO recognition_NN1 ,_Y as_CSA you_PPY encounter_VV0 the_AT text_NN1 you_PPY have_VH0 produced_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   37 It is not necessarily disappointing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   37 It_PPH1 is_VBZ not_XX necessarily_RR disappointing_JJ_VVG@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   38 You may be happily surprised by the electricity in some phrases .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   38 You_PPY may_VM be_VBI happily_RR surprised_JJ_VVD@_VVN% by_II the_AT electricity_NN1 in_II some_DD phrases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   39 You may also note lapses , stretches of dead language , redundancy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   39 You_PPY may_VM also_RR note_VVI lapses_NN2 ,_Y stretches_NN2_VVZ of_IO dead_JJ language_NN1 ,_Y redundancy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   40 <p> Now you apply maximum pressure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   40 <p>_Y Now_RT you_PPY apply_VV0 maximum_JJ_NN1 pressure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   41 The poem wo n't be inhibited .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   41 The_AT poem_NN1 wo_VM n't_XX be_VBI inhibited_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   42 It already exists .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   42 It_PPH1 already_RR exists_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   43 Always keep the first draft .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   43 Always_RR keep_VV0 the_AT first_MD draft_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   44 You are n't a painter who loses the early version in revision .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   44 You_PPY are_VBR n't_XX a_AT1 painter_NN1 who_PNQS loses_VVZ the_AT early_JJ version_NN1 in_II revision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   45 Be as self-critical as you can be .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   45 Be_VB0 as_RG self-critical_JJ as_CSA you_PPY can_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   46 Call everything into question .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   46 Call_VV0 everything_PN1 into_II question_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   47 An objective appraisal of weaknesses and failings in your own writing is needed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   47 An_AT1 objective_JJ_NN1 appraisal_NN1 of_IO weaknesses_NN2 and_CC failings_NN2 in_II your_APPGE own_DA writing_NN1 is_VBZ needed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   48 It is essential for you to recognize excellence as well as to admit fault .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   48 It_PPH1 is_VBZ essential_JJ for_IF you_PPY to_TO recognize_VVI excellence_NN1 as_RG well_RR as_CSA to_TO admit_VVI fault_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   49 <p> You want to see the poem clearly , as it is , and for many poets ( including myself ) this requires part , that entertains the possibility that the whole poem may be a failure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   49 <p>_Y You_PPY want_VV0 to_TO see_VVI the_AT poem_NN1 clearly_RR ,_Y as_CSA it_PPH1 is_VBZ ,_Y and_CC for_IF many_DA2 poets_NN2 (_Y including_II_VVG@ myself_PPX1 )_Y this_DD1 requires_VVZ part_NN1 ,_Y that_DD1_CST entertains_VVZ the_AT possibility_NN1 that_CST the_AT whole_JJ poem_NN1 may_VM be_VBI a_AT1 failure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   50 I tend to over-revise at this point , possibly to over-rationalize , and perhaps to make the poetic statement artificially complete , too explicit .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   50 I_PPIS1 tend_VV0 to_TO over-revise_VVI at_II this_DD1 point_NN1 ,_Y possibly_RR to_TO over-rationalize_VVI ,_Y and_CC perhaps_RR to_TO make_VVI the_AT poetic_JJ statement_NN1 artificially_RR complete_VV0_JJ ,_Y too_RG explicit_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   51 Since I seem to need to do this , I allow it to happen , knowing that it is part of Phase 2 : critically confronting the poem .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   51 Since_CS I_PPIS1 seem_VV0 to_TO need_VVI to_TO do_VDI this_DD1 ,_Y I_PPIS1 allow_VV0 it_PPH1 to_TO happen_VVI ,_Y knowing_VVG that_CST it_PPH1 is_VBZ part_NN1 of_IO Phase_NN1 2_MC :_Y critically_RR confronting_VVG the_AT poem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   52 <p> L : PHASE 3 Phase 3 emphasizes the fact that the " real poem " knows more than " I " do , that ideally it combines the Phase 1 spontaneity and the Phase 2 appraisal .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   52 <p>_Y L_ZZ1_NP1@ :_Y PHASE_NN1 3_MC Phase_NN1 3_MC emphasizes_VVZ the_AT fact_NN1 that_CST the_AT "_Y real_JJ poem_NN1 "_Y knows_VVZ more_DAR_RRR than_CSN "_Y I_PPIS1 "_Y do_VD0 ,_Y that_DD1_CST ideally_RR it_PPH1 combines_VVZ the_AT Phase_NN1 1_MC1 spontaneity_NN1 and_CC the_AT Phase_NN1 2_MC appraisal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   53 Thinking too much about it , trying all possible combinations of key words in troublesome phrases , is only another effort on your part to see the essence of the poem clearly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   53 Thinking_VVG_NN1 too_RG much_DA1_RR about_II it_PPH1 ,_Y trying_VVG all_DB possible_JJ combinations_NN2 of_IO key_JJ_NN1 words_NN2 in_II troublesome_JJ phrases_NN2 ,_Y is_VBZ only_RR another_DD1 effort_NN1 on_II your_APPGE part_NN1 to_TO see_VVI the_AT essence_NN1 of_IO the_AT poem_NN1 clearly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   54 Thus , Phase 3 involves a kind of " forgetting " of this highly conscious , trial-and-error revision .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   54 Thus_RR ,_Y Phase_NN1 3_MC involves_VVZ a_AT1 kind_NN1 of_IO "_Y forgetting_VVG "_Y of_IO this_DD1 highly_RR conscious_JJ ,_Y trial-and-error_JJ_NN1 revision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   55 <p> I let the text rest , like dough between kneadings .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   55 <p>_Y I_PPIS1 let_VV0 the_AT text_NN1 rest_VVI ,_Y like_II_JJ@ dough_NN1 between_II kneadings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   56 This may be for weeks or months .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   56 This_DD1 may_VM be_VBI for_IF weeks_NNT2 or_CC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   57 Then something will reawaken interest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   57 Then_RT something_PN1 will_VM reawaken_VVI interest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   58 I will recall the true poem , .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   58 I_PPIS1 will_VM recall_VVI the_AT true_JJ poem_NN1 ,_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   59 Sometimes I literally recall the poem by writing it out afresh as I remember it at this point , perhaps with help from earlier drafts , especially the first .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   59 Sometimes_RT I_PPIS1 literally_RR recall_VV0 the_AT poem_NN1 by_II writing_VVG it_PPH1 out_RP afresh_RR as_CSA I_PPIS1 remember_VV0 it_PPH1 at_II this_DD1 point_NN1 ,_Y perhaps_RR with_IW help_NN1 from_II earlier_JJR drafts_NN2 ,_Y especially_RR the_AT first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   60 Often I find that the revision has helped pare away the nonessential , and to prepare a place for what in the first draft was really final .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   60 Often_RR I_PPIS1 find_VV0 that_CST the_AT revision_NN1 has_VHZ helped_VVN pare_VVI away_RL the_AT nonessential_JJ ,_Y and_CC to_TO prepare_VVI a_AT1 place_NN1 for_IF what_DDQ in_II the_AT first_MD draft_NN1 was_VBDZ really_RR final_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   61 <p> I cherish the sense that for each real poem there is some absolute , inevitable form toward which I have been fumbling through successive drafts .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   61 <p>_Y I_PPIS1 cherish_VV0 the_AT sense_NN1 that_CST_DD1 for_IF each_DD1 real_JJ poem_NN1 there_EX_RL is_VBZ some_DD absolute_JJ ,_Y inevitable_JJ form_NN1 toward_II which_DDQ I_PPIS1 have_VH0 been_VBN fumbling_VVG through_II_RP@ successive_JJ drafts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   62 This is in part an illusion , for even " final " texts get revised .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   62 This_DD1 is_VBZ in_RR21 part_RR22 an_AT1 illusion_NN1 ,_Y for_IF_CS% even_RR "_Y final_JJ "_Y texts_NN2 get_VV0 revised_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   63 You should never turn down what you consider better insight .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   63 You_PPY should_VM never_RR turn_VVI down_RP what_DDQ you_PPY consider_VV0 better_JJR insight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   64 The real poem seems to gather up into itself the many competing glimpses scattered through various versions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   64 The_AT real_JJ poem_NN1 seems_VVZ to_TO gather_VVI up_RP into_II itself_PPX1 the_AT many_DA2 competing_JJ glimpses_NN2 scattered_VVN through_II various_JJ versions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   65 I think of prose as linear , a link through time , but a poem is more a circle , which , when completed , does not end .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   65 I_PPIS1 think_VV0 of_IO prose_NN1 as_CSA_RG@ linear_JJ ,_Y a_AT1 link_NN1 through_II time_NNT1 ,_Y but_CCB a_AT1 poem_NN1 is_VBZ more_RRR a_AT1 circle_NN1 ,_Y which_DDQ ,_Y when_CS_RRQ completed_VVN ,_Y does_VDZ not_XX end_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   66 It looks forward and backward , resisting the erosion of more revisions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   66 It_PPH1 looks_VVZ forward_RL and_CC backward_RL_JJ ,_Y resisting_VVG the_AT erosion_NN1 of_IO more_DAR revisions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   67 <p> I am myself a runner , and River Writing : An Eno Journal was largely composed while , all weathers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   67 <p>_Y I_PPIS1 am_VBM myself_PPX1 a_AT1 runner_NN1 ,_Y and_CC River_NNL1 Writing_NP1 :_Y An_AT1 Eno_NP1 Journal_NN1 was_VBDZ largely_RR composed_VVN_VVD while_CS ,_Y all_DB weathers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   68 My premise came to be that the poem would be founded on whatever I saw or thought during the run .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   68 My_APPGE premise_NN1 came_VVD to_TO be_VBI that_CST the_AT poem_NN1 would_VM be_VBI founded_VVN on_II_RP@ whatever_DDQV I_PPIS1 saw_VVD or_CC thought_VVN_VVD_NN1 during_II the_AT run_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   69 The river is over the ridge behind my house , so I could go out and return without interruption .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   69 The_AT river_NN1 is_VBZ over_II_RP the_AT ridge_NN1 behind_II my_APPGE house_NN1 ,_Y so_CS@_RR I_PPIS1 could_VM go_VVI out_RP and_CC return_VVI without_IW interruption_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   70 <p> Here is the lesson I learned from the poems in River Writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   70 <p>_Y Here_RL is_VBZ the_AT lesson_NN1 I_PPIS1 learned_VVD from_II the_AT poems_NN2 in_II River_NNL1 Writing_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   71 It is good sometimes to let the cadences and larger structures of your poetry and its emotional momentum build .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   71 It_PPH1 is_VBZ good_JJ_RR% sometimes_RT to_TO let_VVI the_AT cadences_NN2 and_CC larger_JJR structures_NN2 of_IO your_APPGE poetry_NN1 and_CC its_Z' emotional_JJ momentum_NN1 build_VV0_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   72 Learn to write with ease , with relaxation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   72 Learn_VV0 to_TO write_VVI with_IW ease_NN1 ,_Y with_IW relaxation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   73 You ca n't really run faster or farther over the long haul simply by bearing down harder .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   73 You_PPY ca_VM n't_XX really_RR run_VVI faster_RRR_JJR or_CC farther_RRR_JJR over_II_RP the_AT long_JJ haul_NN1_VV0 simply_RR by_II bearing_VVG down_RP harder_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   74 You have to raise the level of your effort , then relax , and trust that preparation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   74 You_PPY have_VH0 to_TO raise_VVI the_AT level_NN1 of_IO your_APPGE effort_NN1 ,_Y then_RT relax_VV0 ,_Y and_CC trust_VV0 that_DD1 preparation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   75 Then perfect the draft later .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   75 Then_RT perfect_VV0@ the_AT draft_NN1 later_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   76 With joy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   76 With_IW joy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   77 As Fred Astaire said to a new partner , " Do n't be nervous , but do n't make a mistake " Learning not to be nervous , not to make yourself nervous , because of your relaxation and confidence in revision , will help you prevent making a mistake .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   77 As_CSA_II@ Fred_NP1 Astaire_NP1 said_VVD to_II a_AT1 new_JJ partner_NN1 ,_Y "_Y Do_VD0 n't_XX be_VBI nervous_JJ ,_Y but_CCB do_VD0 n't_XX make_VVI a_AT1 mistake_NN1 "_Y Learning_VVG_NN1 not_XX to_TO be_VBI nervous_JJ ,_Y not_XX to_TO make_VVI yourself_PPX1 nervous_JJ ,_Y because_II21 of_II22 your_APPGE relaxation_NN1 and_CC confidence_NN1 in_II revision_NN1 ,_Y will_VM help_VVI you_PPY prevent_VVI making_VVG a_AT1 mistake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   78 And remember that the only real mistake .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   78 And_CC remember_VV0 that_CST the_AT only_JJ real_JJ mistake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   79 <p> But the key element for most poets who are learning the process is knowing when and how to apply the pressure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   79 <p>_Y But_CCB the_AT key_JJ_NN1 element_NN1 for_IF most_DAT poets_NN2 who_PNQS are_VBR learning_VVG the_AT process_NN1 is_VBZ knowing_VVG when_RRQ and_CC how_RRQ to_TO apply_VVI the_AT pressure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   80 Writing poetry is like training for athletic competition .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   80 Writing_VVG_NN1 poetry_NN1 is_VBZ like_JJ@_II training_NN1_VVG@ for_IF athletic_JJ competition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   81 Performance in the event--the writing of the poem--is largely a product of conditioning , associated with analysis of form and technique .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   81 Performance_NN1 in_II the_AT event--the_AT writing_NN1 of_IO the_AT poem--is_VBZ largely_RR a_AT1 product_NN1 of_IO conditioning_NN1_JJ ,_Y associated_VVN with_IW analysis_NN1 of_IO form_NN1 and_CC technique_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   82 But you do n't perform that analysis in the act of writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   82 But_CCB you_PPY do_VD0 n't_XX perform_VVI that_DD1_CST analysis_NN1 in_II the_AT act_NN1 of_IO writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   83 You somewhat analyze the problem before you , but finally you have to get in there and perform .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   83 You_PPY somewhat_RR analyze_VV0 the_AT problem_NN1 before_II you_PPY ,_Y but_CCB finally_RR you_PPY have_VH0 to_TO get_VVI in_II_RP% there_RL and_CC perform_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   84 You do n't sit there anxiously wondering whether the last word was really the right one .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   84 You_PPY do_VD0 n't_XX sit_VVI there_RL anxiously_RR wondering_VVG whether_CSW the_AT last_MD word_NN1 was_VBDZ really_RR the_AT right_JJ one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   85 You do n't sit there worrying whether the poem will finally be any good .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   85 You_PPY do_VD0 n't_XX sit_VVI there_RL worrying_VVG@_JJ whether_CSW the_AT poem_NN1 will_VM finally_RR be_VBI any_DD good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   86 Time will tell .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   86 Time_NNT1 will_VM tell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   87 <p> PHOTO ( COLOR ) : First published in August 1988 <p> By James Applewhite <p> James Applewhite 's most recent poetry collection is A Diary of Altered Light .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   87 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y First_MD published_VVN in_II August_NPM1 1988_MC <p>_Y By_II James_NP1 Applewhite_NN1 <p>_Y James_NP1 Applewhite_NN1 's_GE most_RGT recent_JJ poetry_NN1 collection_NN1 is_VBZ A_AT1@ Diary_NN1 of_IO Altered_JJ Light_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   88 He teaches creative writing at Duke University .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   88 He_PPHS1 teaches_VVZ creative_JJ writing_NN1 at_II Duke_NN1 University_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  A    0   89 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071174 COCA  B    0   89 <p>_Y

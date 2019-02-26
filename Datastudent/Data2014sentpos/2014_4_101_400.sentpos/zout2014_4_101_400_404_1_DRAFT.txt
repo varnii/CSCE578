@@ -1,0 +1,248 @@
+SENTPOS 2014_4_101_400_404_1 DRAFT A    0    0 Through my research , I found that a trip to Mars is in a much more advanced state than I originally thought .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    0    0 Through_II my_APPGE research_NN1 ,_, I_PPIS1 found_VVD that_CST a_AT1 trip_NN1 to_II Mars_NP1 is_VBZ in_II a_AT1 much_RR more_RGR advanced_JJ state_NN1 than_CSN I_PPIS1 originally_RR thought_VVN ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    0    1 I have realized that a successful trip to mars could unveil secrets that scientist have been waiting for .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    0    1 I_PPIS1 have_VH0 realized_VVN that_CST a_AT1 successful_JJ trip_NN1 to_II mars_VVZ could_VM unveil_VVI secrets_NN2 that_CST scientist_NN1 have_VH0 been_VBN waiting_VVG for_IF ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    0    2 For years there has been successful drone missions to Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    0    2 For_IF years_NNT2 there_EX has_VHZ been_VBN successful_JJ drone_NN1 missions_NN2 to_II Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    0    3 These missions have collected tons of data and we used that data to determine that we could in fact travel to mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    0    3 These_DD2 missions_NN2 have_VH0 collected_VVN tons_NNU2 of_IO data_NN and_CC we_PPIS2 used_VVD that_CST data_NN to_TO determine_VVI that_CST we_PPIS2 could_VM in_II fact_NN1 travel_NN1 to_II mars_VVZ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1    4 The first article is titled , " Manned Mission to Mars By 2030s is Really Possible " by Miriam Kramer .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1    4 The_AT first_MD article_NN1 is_VBZ titled_VVN ,_, "_" Manned_JJ Mission_NN1 to_II Mars_NP1 By_II 2030s_MC2 is_VBZ Really_RR Possible_JJ "_" by_II Miriam_NP1 Kramer_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1    5 I believe starting with this article is important because it lays out the timeline on when an actual mission will be possible .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1    5 I_PPIS1 believe_VV0 starting_VVG with_IW this_DD1 article_NN1 is_VBZ important_JJ because_CS it_PPH1 lays_VVZ out_RP the_AT timeline_NN1 on_II when_RRQ an_AT1 actual_JJ mission_NN1 will_VM be_VBI possible_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1    6 The basis of this article is on the ideas of a group of more than thirty government , industry , and academic experts who evaluated if a mission to mars is realistic .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1    6 The_AT basis_NN1 of_IO this_DD1 article_NN1 is_VBZ on_II the_AT ideas_NN2 of_IO a_AT1 group_NN1 of_IO more_DAR than_CSN thirty_MC government_NN1 ,_, industry_NN1 ,_, and_CC academic_JJ experts_NN2 who_PNQS evaluated_VVD if_CS a_AT1 mission_NN1 to_II mars_VVZ is_VBZ realistic_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1    7 These experts came up with an achievable solution to restore the budget to " pre-sequestration " levels , so that a trip to mars is attainable .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1    7 These_DD2 experts_NN2 came_VVD up_RP with_IW an_AT1 achievable_JJ solution_NN1 to_TO restore_VVI the_AT budget_NN1 to_II "_" pre-sequestration_JJ "_" levels_NN2 ,_, so_CS21 that_CS22 a_AT1 trip_NN1 to_II mars_VVZ is_VBZ attainable_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1    8 Chris Carberry , the executive director of Explore Mars Inc. , states that , for a flight to Mars to even be possible NASA would need to reevaluate their budget .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1    8 Chris_NP1 Carberry_NP1 ,_, the_AT executive_NN1 director_NN1 of_IO Explore_VV0 Mars_NP1 Inc._JJ ,_, states_VVZ that_CST ,_, for_IF a_AT1 flight_NN1 to_II Mars_NP1 to_TO even_RR be_VBI possible_JJ NASA_NP1 would_VM need_VVI to_TO reevaluate_VVI their_APPGE budget_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1    9 From 2012 to 2013 NASAs budget was cut from seventy six billion to less than eighteen billion dollars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1    9 From_II 2012_MC to_II 2013_MC NASAs_NP2 budget_NN1 was_VBDZ cut_VVN from_II seventy_MC six_MC billion_NNO to_II less_DAR than_CSN eighteen_MC billion_NNO dollars_NNU2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   10 A flight will never be able to happen under the government 's budget restraints .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   10 A_AT1 flight_NN1 will_VM never_RR be_VBI able_JK to_TO happen_VVI under_II the_AT government_NN1 's_GE budget_NN1 restraints_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   11 NASA is not the only one capable of a mission to mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   11 NASA_NP1 is_VBZ not_XX the_AT only_JJ one_PN1 capable_JJ of_IO a_AT1 mission_NN1 to_II mars_VVZ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   12 Mars One , a private company is working on colonizing the planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   12 Mars_NP1 One_MC1 ,_, a_AT1 private_JJ company_NN1 is_VBZ working_VVG on_II colonizing_VVG@ the_AT planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   13 They are planning to send an unmanned shuttle in 2018 .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   13 They_PPHS2 are_VBR planning_VVG to_TO send_VVI an_AT1 unmanned_JJ shuttle_NN1 in_II 2018_MC ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   14 NASA , Boeing , Orbital Sciences Corp .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   14 NASA_NP1 ,_, Boeing_NP1 ,_, Orbital_JJ Sciences_NN2 Corp_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   15 and people attending the Affording Mars Workshop came up with six agreements that space agencies could use to plan a mission to mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   15 and_CC people_NN attending_VVG the_AT Affording_VVG Mars_NP1 Workshop_NN1 came_VVD up_RP with_IW six_MC agreements_NN2 that_CST space_NN1 agencies_NN2 could_VM use_VVI to_TO plan_VVI a_AT1 mission_NN1 to_II mars_VVZ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   16 These agreements range from using the International Space station to preform deep space missions , continuous missions of robotic exploration through the 2020s , to the idea that human exploration could be possible by the 30s .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   16 These_DD2 agreements_NN2 range_VV0@ from_II using_VVG the_AT International_JJ Space_NN1 station_NN1 to_TO preform_VVI deep_JJ space_NN1 missions_NN2 ,_, continuous_JJ missions_NN2 of_IO robotic_JJ exploration_NN1 through_II the_AT 2020s_MC2 ,_, to_II the_AT idea_NN1 that_CST human_JJ exploration_NN1 could_VM be_VBI possible_JJ by_II the_AT 30s_MC2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   17 If we used the International Space Station as a model and implemented the same idea of an " international " space flight , a mission could be possible .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   17 If_CS we_PPIS2 used_VVD the_AT International_JJ Space_NN1 Station_NN1 as_II a_AT1 model_NN1 and_CC implemented_VVD@ the_AT same_DA idea_NN1 of_IO an_AT1 "_" international_JJ "_" space_NN1 flight_NN1 ,_, a_AT1 mission_NN1 could_VM be_VBI possible_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    1   18 The international space station could have been cut off years ago , but because of international treaties and agreements it is still here .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    1   18 The_AT international_JJ space_NN1 station_NN1 could_VM have_VHI been_VBN cut_VVN off_II years_NNT2 ago_RA ,_, but_CCB because_II21 of_II22 international_JJ treaties_NN2 and_CC agreements_NN2 it_PPH1 is_VBZ still_RR here_RL ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   19 The article titled , " NASA Craft Is Orbiting Mars , to Study Its Air , " by Kenneth Chang is my second article .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   19 The_AT article_NN1 titled_VVN ,_, "_" NASA_NP1 Craft_NN1 Is_VBZ Orbiting_VVG Mars_NP1 ,_, to_II Study_NN1 Its_APPGE Air_NN1 ,_, "_" by_II Kenneth_NP1 Chang_NP1 is_VBZ my_APPGE second_MD article_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   20 The article is about MAVEN and its mission plan .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   20 The_AT article_NN1 is_VBZ about_II MAVEN_NP1 and_CC its_APPGE mission_NN1 plan_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   21 The article is aimed at your average person who does n't know much about the topic .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   21 The_AT article_NN1 is_VBZ aimed_VVN at_II your_APPGE average_JJ person_NN1 who_PNQS does_VDZ n't_XX know_VVI much_RR about_II the_AT topic_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   22 MAVEN short for Mars Atmosphere and Volatile Evolution Mission is the space probe that was sent to Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   22 MAVEN_JJ short_JJ for_IF Mars_NP1 Atmosphere_NN1 and_CC Volatile_JJ Evolution_NN1 Mission_NN1 is_VBZ the_AT space_NN1 probe_VV0 that_DD1 was_VBDZ sent_VVN to_II Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   23 It will be observing and analyzing the planet in a few different ways .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   23 It_PPH1 will_VM be_VBI observing_VVG and_CC analyzing_VVG the_AT planet_NN1 in_II a_AT1 few_DA2 different_JJ ways_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   24 It arrived to the planet on September 21 , 2014 .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   24 It_PPH1 arrived_VVD to_II the_AT planet_NN1 on_II September_NPM1 21_MC ,_, 2014_MC ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   25 MAVEN will be orbiting mars to study the planets atmosphere and water .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   25 MAVEN_NP1 will_VM be_VBI orbiting_VVG mars_VVZ to_TO study_VVI the_AT planets_NN2 atmosphere_NN1 and_CC water_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   26 The probe is orbiting earth on a thirty-five hour loop .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   26 The_AT probe_NN1 is_VBZ orbiting_VVG earth_NN1 on_II a_AT1 thirty-five_MC hour_NNT1 loop_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   27 " The spacecraft is to spend five days observing how the comet 's dust , traveling at 125,000 miles per hour , might heat up and expand Mars ' atmosphere , and how water ice from the comet might bump up the levels of hydrogen . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   27 "_" The_AT spacecraft_NN is_VBZ to_TO spend_VVI five_MC days_NNT2 observing_VVG how_RRQ the_AT comet_NN1 's_GE dust_NN1 ,_, traveling_VVG at_II 125,000_MC miles_NNU2 per_II hour_NNT1 ,_, might_VM heat_VVI up_RP and_CC expand_VVI Mars_NP1 '_GE atmosphere_NN1 ,_, and_CC how_RRQ water_NN1 ice_NN1 from_II the_AT comet_NN1 might_VM bump_VVI up_RP the_AT levels_NN2 of_IO hydrogen_NN1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   28 ( Chang ) Increased levels of hydrogen are one step of many to a habitable planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   28 (_( Chang_NP1@ )_) Increased_JJ levels_NN2 of_IO hydrogen_NN1 are_VBR one_MC1 step_NN1 of_IO many_DA2 to_II a_AT1 habitable_JJ planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   29 On October 19th , the probe will be within 82,000 miles and sensors on the craft with activate and observe the planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   29 On_II October_NPM1 19th_MD ,_, the_AT probe_NN1 will_VM be_VBI within_II 82,000_MC miles_NNU2 and_CC sensors_NN2 on_II the_AT craft_NN1 with_IW activate_VV0 and_CC observe_VV0 the_AT planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   30 At one point in the planets past , the environment was a lot warmer and was a lot wetter according to Dr. Jakosky , a professor of geological sciences at the University of Colorado .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   30 At_II one_MC1 point_NN1 in_II the_AT planets_NN2 past_RL ,_, the_AT environment_NN1 was_VBDZ a_RR21@ lot_RR22 warmer_JJR and_CC was_VBDZ a_RR21@ lot_RR22 wetter_JJR according_II21 to_II22 Dr._NNB Jakosky_NP1 ,_, a_AT1 professor_NN1 of_IO geological_JJ sciences_NN2 at_II the_AT University_NN1 of_IO Colorado_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   31 Since then the air has thinned out which in turn left the planet very cold and dry .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   31 Since_II then_RT the_AT air_NN1 has_VHZ thinned_VVN out_RP which_DDQ in_II turn_NN1 left_RL the_AT planet_NN1 very_RG cold_JJ and_CC dry_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    2   32 Scientist will study the upper atmosphere to observe how quickly the atmosphere is diminishing .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    2   32 Scientist_NN1 will_VM study_VVI the_AT upper_JJ atmosphere_NN1 to_TO observe_VVI how_RGQ@ quickly_RR the_AT atmosphere_NN1 is_VBZ diminishing_VVG ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   33 " After a Two-Year Trek , NASA 's Mars Rover Reaches Its Mountain Lab " by Kenneth Chang aimed at people who are curious about what is happening up on Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   33 "_" After_CS a_AT1 Two-Year_JJ Trek_NP1 ,_, NASA_NP1 's_GE Mars_NP1 Rover_NP1 Reaches_VVZ Its_APPGE Mountain_NN1 Lab_NN1 "_" by_II Kenneth_NP1 Chang_NP1 aimed_VVD at_II people_NN who_PNQS are_VBR curious_JJ about_II what_DDQ is_VBZ happening_VVG up_RP on_II Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   34 The rover that is on Mars is called , Curiosity .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   34 The_AT rover_NN1 that_CST is_VBZ on_II Mars_NP1 is_VBZ called_VVN ,_, Curiosity_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   35 One of Curiosity 's main objectives was to look for microbes on an ancient lake .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   35 One_MC1 of_IO Curiosity_NN1 's_GE main_JJ objectives_NN2 was_VBDZ to_TO look_VVI for_IF microbes_NN2 on_II an_AT1 ancient_JJ lake_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   36 Microbes are single cell organisms and without them on earth humans can not breathe .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   36 Microbes_NN2 are_VBR single_JJ cell_NN1 organisms_NN2 and_CC without_IW them_PPHO2 on_II earth_NN1 humans_NN2 can_VM not_XX breathe_VVI ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   37 Scientist now are conducting research hoping to find carbon-based compounds .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   37 Scientist_NN1 now_RT are_VBR conducting_VVG research_NN1 hoping_VVG to_TO find_VVI carbon-based_JJ compounds_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   38 The compounds can be found inside rocks and studying them could have " served as the building block for life " ( Chang ) .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   38 The_AT compounds_NN2 can_VM be_VBI found_VVN inside_II rocks_NN2 and_CC studying_VVG them_PPHO2 could_VM have_VHI "_" served_VVN as_II the_AT building_NN1 block_NN1 for_IF life_NN1 "_" (_( Chang_NP1 )_) ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   39 The rover has taken on a new mission to travel to Mount Sharp to study different rock levels .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   39 The_AT rover_NN1 has_VHZ taken_VVN on_RP a_AT1 new_JJ mission_NN1 to_TO travel_VVI to_II Mount_NNL1 Sharp_NP1 to_TO study_VVI different_JJ rock_NN1 levels_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   40 The rover encountered a rock that was high in silicon content .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   40 The_AT rover_NN1 encountered_VVN a_AT1 rock_NN1 that_CST was_VBDZ high_JJ in_II silicon_NN1 content_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   41 That rock at one point was altered by water , which means there actually was water on this planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   41 That_DD1 rock_NN1 at_II one_MC1 point_NN1 was_VBDZ altered_VVN by_II water_NN1 ,_, which_DDQ means_VVZ there_RL actually_RR was_VBDZ water_NN1 on_II this_DD1 planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   42 Finding evidence of water on the planet is n't much of a big find anymore .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   42 Finding_VVG evidence_NN1 of_IO water_NN1 on_II the_AT planet_NN1 is_VBZ n't_XX much_DA1 of_IO a_AT1 big_JJ find_VV0 anymore_RR ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    3   43 But more and more finding mean that there may have been a lot more water than what we thought or predicted .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    3   43 But_CCB more_RRR and_CC more_DAR finding_NN1 mean_VV0 that_CST there_EX may_VM have_VHI been_VBN a_RR21@ lot_RR22 more_DAR water_NN1 than_CSN what_DDQ we_PPIS2 thought_VVD or_CC predicted_VVD ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   44 On a different view we can look at " International Space Station Gets Life Extension through 2024 . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   44 On_II a_AT1 different_JJ view_NN1 we_PPIS2 can_VM look_VVI at_II "_" International_JJ Space_NN1 Station_NN1 Gets_VVZ Life_NN1 Extension_NN1 through_II 2024_MC ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   45 This article is important because the space station could prove to be a huge asset for the future of long distance space flight .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   45 This_DD1 article_NN1 is_VBZ important_JJ because_CS the_AT space_NN1 station_NN1 could_VM prove_VVI to_TO be_VBI a_AT1 huge_JJ asset_NN1 for_IF the_AT future_NN1 of_IO long_JJ distance_NN1 space_NN1 flight_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   46 This article is written for a vast audience .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   46 This_DD1 article_NN1 is_VBZ written_VVN for_IF a_AT1 vast_JJ audience_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   47 The space station was given a extension through the year 2024 .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   47 The_AT space_NN1 station_NN1 was_VBDZ given_VVN a_AT1 extension_NN1 through_II the_AT year_NNT1 2024_MC ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   48 The space station can run experiments for testing different hypothesis for space flight .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   48 The_AT space_NN1 station_NN1 can_VM run_VVI experiments_NN2 for_IF testing_VVG different_JJ hypothesis_NN1 for_IF space_NN1 flight_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   49 There was a projection that the space station would be shut down in 2020 .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   49 There_EX was_VBDZ a_AT1 projection_NN1 that_CST the_AT space_NN1 station_NN1 would_VM be_VBI shut_VVN down_RP in_II 2020_MC ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   50 New information has emerged and now scientist project that the space station is to be useful well past the 2020 mark .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   50 New_JJ information_NN1 has_VHZ emerged_VVN and_CC now_RT scientist_NN1 project_NN1 that_CST the_AT space_NN1 station_NN1 is_VBZ to_TO be_VBI useful_JJ well_RR past_II the_AT 2020_MC mark_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   51 Some say it could still be in use by 2028 .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   51 Some_DD say_VV0 it_PPH1 could_VM still_RR be_VBI in_II use_NN1 by_II 2028_MC ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   52 The space station has an annual 3 billion dollar budget that will last through the extension .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   52 The_AT space_NN1 station_NN1 has_VHZ an_AT1 annual_JJ 3_MC billion_NNO dollar_NNU1 budget_NN1 that_CST will_VM last_VVI through_II the_AT extension_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   53 In my opinion the space station should be replaced with a newer more advanced space station capable of housing a lot more astronauts and scientist .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   53 In_II my_APPGE opinion_NN1 the_AT space_NN1 station_NN1 should_VM be_VBI replaced_VVN with_IW a_AT1 newer_JJR more_RRR advanced_JJ space_NN1 station_NN1 capable_JJ of_IO housing_VVG a_RR21@ lot_RR22 more_DAR astronauts_NN2 and_CC scientist_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   54 Because of the extension the United States may no longer have to partner with the Russians when sending Americans to space , on Soyuz , the Russian spacecraft that taxis to and from the space station .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   54 Because_II21 of_II22 the_AT extension_NN1 the_AT United_NP1 States_NP1 may_VM no_RR21 longer_RR22 have_VHI to_TO partner_VVI with_IW the_AT Russians_NN2 when_CS sending_VVG Americans_NN2 to_TO space_VVI ,_, on_II Soyuz_NP1 ,_, the_AT Russian_JJ spacecraft_NN that_CST taxis_NN2 to_II and_CC from_II the_AT space_NN1 station_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   55 The United States is looking to buy flights from U.S. companies around the 2017 mark .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   55 The_AT United_NP1 States_NP1 is_VBZ looking_VVG to_TO buy_VVI flights_NN2 from_II U.S._NP1 companies_NN2 around_II the_AT 2017_MC mark_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   56 " Several companies , such as SpaceX , Boeing , Sierra Nevada and Blue Origin , are developing vehicles to view for NASA space taxi-contracts . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   56 "_" Several_DA2 companies_NN2 ,_, such_II21 as_II22 SpaceX_NP1 ,_, Boeing_NP1 ,_, Sierra_NP1 Nevada_NP1 and_CC Blue_JJ Origin_NN1 ,_, are_VBR developing_JJ vehicles_NN2 to_TO view_VVI for_IF NASA_NP1 space_NN1 taxi-contracts_NN2 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   57 The only reason the United States has not switched to the American companies is because they are bound by a contract through 2016 on Russian Soyuz .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   57 The_AT only_JJ reason_NN1 the_AT United_NP1 States_NP1 has_VHZ not_XX switched_VVN to_II the_AT American_JJ companies_NN2 is_VBZ because_CS they_PPHS2 are_VBR bound_VVN by_II a_AT1 contract_NN1 through_II 2016_MC on_II Russian_JJ Soyuz_NN1@ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    4   58 Because of limitability the United States will be purchasing seats on Russian Soyuz past 2016 as well .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    4   58 Because_II21 of_II22 limitability_NN1 the_AT United_NP1 States_NP1 will_VM be_VBI purchasing_VVG seats_NN2 on_II Russian_JJ Soyuz_NN1@ past_II 2016_MC as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   59 The article , " NASA to Test Making Oxygen , Key to Rocket Fuel , on Mars " by Associated Press , focuses on the production of oxygen on the planet Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   59 The_AT article_NN1 ,_, "_" NASA_NP1 to_II Test_NN1 Making_VVG Oxygen_NN1 ,_, Key_NN1 to_II Rocket_NN1 Fuel_NN1 ,_, on_II Mars_NP1 "_" by_II Associated_JJ Press_NN1 ,_, focuses_VVZ on_II the_AT production_NN1 of_IO oxygen_NN1 on_II the_AT planet_NN1 Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   60 By using the carbon dioxide in the atmosphere of the planet , machines will be able to produce oxygen .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   60 By_II using_VVG the_AT carbon_NN1 dioxide_NN1 in_II the_AT atmosphere_NN1 of_IO the_AT planet_NN1 ,_, machines_NN2 will_VM be_VBI able_JK to_TO produce_VVI oxygen_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   61 Because a planned mission to mars is crucial , having a huge supply of oxygen on another planet is a big factor in survival .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   61 Because_CS a_AT1 planned_JJ@ mission_NN1 to_II mars_VVZ is_VBZ crucial_JJ ,_, having_VHG a_AT1 huge_JJ supply_NN1 of_IO oxygen_NN1 on_II another_DD1 planet_NN1 is_VBZ a_AT1 big_JJ factor_NN1 in_II survival_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   62 Since the machine cant produce enough oxygen for a steady state , NASA plans on sending a machine called Moxie , two years before they plan on sending up the astronauts .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   62 Since_CS the_AT machine_NN1 cant_NN1 produce_VV0 enough_DD oxygen_NN1 for_IF a_AT1 steady_JJ state_NN1 ,_, NASA_NP1 plans_VVZ on_II sending_VVG a_AT1 machine_NN1 called_VVN Moxie_NP1 ,_, two_MC years_NNT2 before_CS they_PPHS2 plan_VV0 on_II sending_VVG up_RP the_AT astronauts_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   63 The oxygen they make is also used for making rocket fuel .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   63 The_AT oxygen_NN1 they_PPHS2 make_VV0 is_VBZ also_RR used_VVN for_IF making_VVG rocket_NN1 fuel_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   64 One of rocket fuels main element is oxygen .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   64 One_MC1 of_IO rocket_NN1 fuels_NN2 main_JJ element_NN1 is_VBZ oxygen_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   65 The rocket fuel will actually be made by Moxie , enough for their safe return home .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   65 The_AT rocket_NN1 fuel_NN1 will_VM actually_RR be_VBI made_VVN by_II Moxie_NP1 ,_, enough_RR for_IF their_APPGE safe_JJ return_NN1 home_RL ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   66 This article proves that technology is an advanced state passed what some believed .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   66 This_DD1 article_NN1 proves_VVZ that_DD1 technology_NN1 is_VBZ an_AT1 advanced_JJ state_NN1 passed_VVD what_DDQ some_DD believed_VVD ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   67 Who would have thought that rocket fuel could be made by an unmanned machine or robot in another planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   67 Who_PNQS would_VM have_VHI thought_VVN that_DD1 rocket_NN1 fuel_NN1 could_VM be_VBI made_VVN by_II an_AT1 unmanned_JJ machine_NN1 or_CC robot_NN1 in_II another_DD1 planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    5   68 Astonishing what accomplishments have been made for the advancement of exploration of space .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    5   68 Astonishing_JJ what_DDQ accomplishments_NN2 have_VH0 been_VBN made_VVN for_IF the_AT advancement_NN1 of_IO exploration_NN1 of_IO space_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   69 The article , " From India , Proof That a Trip to Mars Does n't Have to Break the Bank " by Saritha Rai , focuses on why a flight to mars is cost efficient .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   69 The_AT article_NN1 ,_, "_" From_II India_NP1 ,_, Proof_NN1 That_CST a_AT1 Trip_NN1 to_II Mars_NP1 Does_VDZ n't_XX Have_VHI to_TO Break_VV0 the_AT Bank_NN1 "_" by_II Saritha_NP1 Rai_NP1 ,_, focuses_VVZ on_II why_RRQ a_AT1 flight_NN1 to_II mars_VVZ is_VBZ cost_VVN% efficient_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   70 India 's most recent launch of their satellite only cost them seventy-five million dollars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   70 India_NP1 's_GE most_RGT recent_JJ launch_NN1 of_IO their_APPGE satellite_NN1 only_RR cost_VV0 them_PPHO2 seventy-five_MC million_NNO dollars_NNU2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   71 NASA 's mission , MAVEN is a similar project that cost a massive 671 million dollars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   71 NASA_NP1 's_GE mission_NN1 ,_, MAVEN_NP1 is_VBZ a_AT1 similar_JJ project_NN1 that_CST cost_VV0 a_AT1 massive_JJ 671_MC million_NNO dollars_NNU2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   72 Granted NASA 's satellite has three more instruments compared to India 's five .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   72 Granted_VVD NASA_NP1 's_GE satellite_NN1 has_VHZ three_MC more_DAR instruments_NN2 compared_VVN to_II India_NP1 's_GE five_MC ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   73 The instruments on India 's satellite are to study and measure methane gas .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   73 The_AT instruments_NN2 on_II India_NP1 's_GE satellite_NN1 are_VBR to_TO study_VVI and_CC measure_NN1 methane_NN1 gas_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   74 NASA 's Maven studies the failure of the Martian climate .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   74 NASA_NP1 's_GE Maven_JJ studies_NN2 the_AT failure_NN1 of_IO the_AT Martian_JJ climate_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   75 Because India only gets 0.34 percent of the country 's annual outlay they only receive one billion dollars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   75 Because_CS India_NP1 only_RR gets_VVZ 0.34_MC percent_NNU of_IO the_AT country_NN1 's_GE annual_JJ outlay_NN1 they_PPHS2 only_RR receive_VV0 one_MC1 billion_NNO dollars_NNU2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   76 The Indian Space Research Organization , or ISRO , has made due with what they are given .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   76 The_AT Indian_JJ Space_NN1 Research_NN1 Organization_NN1 ,_, or_CC ISRO_NP1 ,_, has_VHZ made_VVN due_JJ with_IW what_DDQ they_PPHS2 are_VBR given_VVN ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   77 India has to participate in the space race on a huge budget .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   77 India_NP1 has_VHZ to_TO participate_VVI in_II the_AT space_NN1 race_NN1 on_II a_AT1 huge_JJ budget_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   78 The ISRO saves the most money in low-cost engineering .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   78 The_AT ISRO_NN1 saves_VVZ the_AT most_DAT money_NN1 in_II low-cost_JJ engineering_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   79 " India 's abundant supply of young technical talent helped rein in personnel costs to less than 15 percent of the budget . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   79 "_" India_NP1 's_GE abundant_JJ supply_NN1 of_IO young_JJ technical_JJ talent_NN1 helped_VVD rein_NN1 in_II personnel_NN2 costs_VVZ to_II less_DAR than_CSN 15_MC percent_NNU of_IO the_AT budget_NN1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   80 ( AP ) Lower level engineers make around $250 per week , way less than NASA engineers .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   80 (_( AP_NP1 )_) Lower_JJR level_NN1 engineers_NN2 make_VV0 around_RG $250_NNU per_II week_NNT1 ,_, way_NN1 less_RRR than_CSN NASA_NP1 engineers_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   81 Having a shorter development schedule rules out a lot of the cost as well .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   81 Having_VHG a_AT1 shorter_JJR development_NN1 schedule_NN1 rules_VVZ@ out_RP a_AT1 lot_NN1 of_IO the_AT cost_NN1 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   82 The entire project was completed in 18 months .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   82 The_AT entire_JJ project_NN1 was_VBDZ completed_VVN in_II 18_MC months_NNT2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   83 They had to act quickly because they did n't want to miss the 26-month window where the Sun , Mars and Earth are line up for a launch to Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   83 They_PPHS2 had_VHD to_TO act_VVI quickly_RR because_CS they_PPHS2 did_VDD n't_XX want_VVI to_TO miss_VVI the_AT 26-month_JJ window_NN1 where_CS the_AT Sun_NN1 ,_, Mars_NP1 and_CC Earth_NN1 are_VBR line_NN1 up_RP for_IF a_AT1 launch_NN1 to_II Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   84 Little time went into the testing of models , which is hard to believe that this mission had success .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   84 Little_DA1 time_NNT1 went_VVD into_II the_AT testing_NN1 of_IO models_NN2 ,_, which_DDQ is_VBZ hard_JJ to_TO believe_VVI that_CST this_DD1 mission_NN1 had_VHD success_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   85 " The building blocks are kept the same so we do n't have to tailor-make for each mission " said Mr. Annadurai of the moon mission .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   85 "_" The_AT building_NN1 blocks_NN2 are_VBR kept_VVN the_AT same_DA so_CS@ we_PPIS2 do_VD0 n't_XX have_VHI to_TO tailor-make_JJ for_IF each_DD1 mission_NN1 "_" said_VVD Mr._NNB Annadurai_NP1 of_IO the_AT moon_NN1 mission_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   86 A lot of people were upset that India has even spent a dime on space flight when their country starves .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   86 A_AT1 lot_NN1 of_IO people_NN were_VBDR upset_VVN that_CST India_NP1 has_VHZ even_RR spent_VVN a_AT1 dime_NN1 on_II space_NN1 flight_NN1 when_CS their_APPGE country_NN1 starves_VVZ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   87 Mr. Narasimha , an aerospace scientist said , " My guess in that even the poorest Indians will happily forgo their chai to be able to see their country send a rocket all the way to Mars . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   87 Mr._NNB Narasimha_NP1 ,_, an_AT1 aerospace_NN1 scientist_NN1 said_VVD ,_, "_" My_APPGE guess_NN1@ in_II that_DD1 even_RR the_AT poorest_JJT Indians_NN2 will_VM happily_RR forgo_VVI their_APPGE chai_NN1 to_TO be_VBI able_JK to_TO see_VVI their_APPGE country_NN1 send_VVI a_AT1 rocket_NN1 all_DB the_AT way_NN1 to_II Mars_NP1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    6   88 I agree with Mr. Narasimha , people are happy with the success of their country and space success is something to be proud of .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    6   88 I_PPIS1 agree_VV0 with_IW Mr._NNB Narasimha_NP1 ,_, people_NN are_VBR happy_JJ with_IW the_AT success_NN1 of_IO their_APPGE country_NN1 and_CC space_NN1 success_NN1 is_VBZ something_PN1 to_TO be_VBI proud_JJ of_IO ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   89 The next article is , " A Habitable Environment of Martian Volcano ? " published by Brown University .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   89 The_AT next_MD article_NN1 is_VBZ ,_, "_" A_ZZ1 Habitable_JJ Environment_NN1 of_IO Martian_JJ Volcano_NN1 ?_? "_" published_VVN by_II Brown_NP1 University_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   90 This article talks about the chance of past life on the planet Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   90 This_DD1 article_NN1 talks_NN2 about_II the_AT chance_NN1 of_IO past_JJ life_NN1 on_II the_AT planet_NN1 Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   91 Underneath a massive glacier is a volcano and 210 million years ago scientist predicted that that volcano erupted resulting in the melting of the glacier that " would have created substantial amounts of liquid water on Mars 's surface . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   91 Underneath_II a_AT1 massive_JJ glacier_NN1 is_VBZ a_AT1 volcano_NN1 and_CC 210_MC million_NNO years_NNT2 ago_RA scientist_NN1 predicted_VVD that_CST that_DD1 volcano_NN1 erupted_VVD resulting_VVG in_II the_AT melting_NN1 of_IO the_AT glacier_NN1 that_CST "_" would_VM have_VHI created_VVN substantial_JJ amounts_NN2 of_IO liquid_JJ water_NN1 on_II Mars_NP1 's_GE surface_NN1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   92 ( Brown ) The melting of the glaciers would have created englacial lakes .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   92 (_( Brown_NP1 )_) The_AT melting_NN1 of_IO the_AT glaciers_NN2 would_VM have_VHI created_VVN englacial_JJ lakes_NN2 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   93 It is a lot younger than you may think ; the lake is 250 million years old while the site is roughly 2.5 billion years old .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   93 It_PPH1 is_VBZ a_RR21@ lot_RR22 younger_JJR than_CSN you_PPY may_VM think_VVI ;_; the_AT lake_NN1 is_VBZ 250_MC million_NNO years_NNT2 old_JJ while_CS the_AT site_NN1 is_VBZ roughly_RR 2.5_MC billion_NNO years_NNT2 old_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   94 " The fact that the Arsia Mons site is relatively young makes it an interesting target for the possible future exploration . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   94 "_" The_AT fact_NN1 that_CST the_AT Arsia_NP1 Mons_NP1 site_NN1 is_VBZ relatively_RR young_JJ makes_VVZ it_PPH1 an_AT1 interesting_JJ target_NN1 for_IF the_AT possible_JJ future_JJ exploration_NN1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   95 Kat Scanlon , a graduate student at Brown used data to determine that lava erupted when there were oceans present .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   95 Kat_VV0 Scanlon_NP1 ,_, a_AT1 graduate_NN1 student_NN1 at_II Brown_NP1 used_VVD data_NN to_TO determine_VVI that_DD1 lava_NN1 erupted_VVN when_CS there_EX were_VBDR oceans_NN2 present_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    7   96 She found that the lava had similar characteristic compared to lava on earth when it interacts on top on water .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    7   96 She_PPHS1 found_VVD that_CST the_AT lava_NN1 had_VHD similar_JJ characteristic_NN1 compared_VVN to_II lava_NN1 on_II earth_NN1 when_CS it_PPH1 interacts_VVZ on_II top_NN1 on_II water_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8   97 My last article , " Huge Mars Colony Eyed by SpaceX founder Elon Musk " by Rob Coppinger .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8   97 My_APPGE last_MD article_NN1 ,_, "_" Huge_JJ Mars_NP1 Colony_NN1 Eyed_VVD@ by_II SpaceX_NP1 founder_NN1 Elon_NN1 Musk_NN1 "_" by_II Rob_NP1 Coppinger_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8   98 Elon Musk CEO of SpaceX wants to start a colony of 80,000 people .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8   98 Elon_NP1@ Musk_NP1 CEO_NN1 of_IO SpaceX_NP1 wants_VVZ to_TO start_VVI a_AT1 colony_NN1 of_IO 80,000_MC people_NN ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8   99 The cost of the trip is valued at $500,000 .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8   99 The_AT cost_NN1 of_IO the_AT trip_NN1 is_VBZ valued_VVN at_II $500,000_NNU ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  100 The trip would start out at just roughly 10 people who would set up equipment to produce for example atmospheric C02 that can grow Earths plants in the mars soil .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  100 The_AT trip_NN1 would_VM start_VVI out_RP at_II just_RR roughly_RR 10_MC people_NN who_PNQS would_VM set_VVI up_RP equipment_NN1 to_TO produce_VVI for_REX21 example_REX22 atmospheric_JJ C02_FO that_DD1 can_VM grow_VVI Earths_NN2 plants_NN2 in_II the_AT mars_VVZ soil_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  101 " As the Mars colony became more self sufficient the big rocket would start to transport more people and fewer supplies and equipment . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  101 "_" As_II the_AT Mars_NP1 colony_NN1 became_VVD more_DAR self_NN1 sufficient_JJ the_AT big_JJ rocket_NN1 would_VM start_VVI to_TO transport_VVI more_DAR people_NN and_CC fewer_DAR supplies_NN2 and_CC equipment_NN1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  102 ( Coppinger ) Musk hinted at the use of the Mass Cargo Transport , or MCT to transport people to the planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  102 (_( Coppinger_NP1 )_) Musk_NP1 hinted_VVD at_II the_AT use_NN1 of_IO the_AT Mass_JJ Cargo_NN1 Transport_NN1 ,_, or_CC MCT_NP1 to_TO transport_VVI people_NN to_II the_AT planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  103 In my opinion $500,000 is a lot of money , but you are getting to travel and live on another planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  103 In_II my_APPGE opinion_NN1 $500,000_NNU is_VBZ a_AT1 lot_NN1 of_IO money_NN1 ,_, but_CCB you_PPY are_VBR getting_VVG to_TO travel_VVI and_CC live_VVI on_II another_DD1 planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  104 So to me $500,000 is actually an affordable number .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  104 So_RR to_II me_PPIO1 $500,000_NNU is_VBZ actually_RR an_AT1 affordable_JJ number_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  105 Musk says that " the ticket price needs to be low enough that most people in advanced countries , in their mid-forties or something like that , could put together enough money to make the trip . "
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  105 Musk_NN1 says_VVZ that_CST "_" the_AT ticket_NN1 price_NN1 needs_VVZ to_TO be_VBI low_JJ enough_RR that_CST most_DAT people_NN in_II advanced_JJ countries_NN2 ,_, in_II their_APPGE mid-forties_MC2 or_CC something_PN1 like_II that_DD1 ,_, could_VM put_VVI together_RL enough_DD money_NN1 to_TO make_VVI the_AT trip_NN1 ._. "_"
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  106 For the colonization of the Americas it took a large amount of money to get things started .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  106 For_IF the_AT colonization_NN1 of_IO the_AT Americas_NP2 it_PPH1 took_VVD a_AT1 large_JJ amount_NN1 of_IO money_NN1 to_TO get_VVI things_NN2 started_VVD ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  107 $36 billion is what the total cost of the mission is .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  107 $36_NNU billion_NNO is_VBZ what_DDQ the_AT total_JJ cost_NN1 of_IO the_AT mission_NN1 is_VBZ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  108 " Some money has to be spent on establishing a base on Mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  108 "_" Some_DD money_NN1 has_VHZ to_TO be_VBI spent_VVN on_II establishing_VVG a_AT1 base_NN1 on_II Mars_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  109 It 's about getting the basic fundamentals in place , " said Musk .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  109 It_PPH1 's_VBZ about_II getting_VVG the_AT basic_JJ fundamentals_NN2 in_II place_NN1 ,_, "_" said_VVD Musk_NP1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  110 This article was focused on the average middle class person who may or may not have been interested in space travel .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  110 This_DD1 article_NN1 was_VBDZ focused_VVN on_II the_AT average_JJ middle_JJ class_NN1 person_NN1 who_PNQS may_VM or_CC may_VM not_XX have_VHI been_VBN interested_JJ in_II space_NN1 travel_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  111 I think it is targeting these people because the company wants a well-established group of people to get to experience another planet .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  111 I_PPIS1 think_VV0 it_PPH1 is_VBZ targeting_VVG these_DD2 people_NN because_CS the_AT company_NN1 wants_VVZ a_AT1 well-established_JJ group_NN1 of_IO people_NN to_TO get_VVI to_TO experience_VVI another_DD1 planet_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    8  112 I also believe the goal is to send people who are able to colonize and make a family .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    8  112 I_PPIS1 also_RR believe_VV0 the_AT goal_NN1 is_VBZ to_TO send_VVI people_NN who_PNQS are_VBR able_JK to_TO colonize_VVI and_CC make_VVI a_AT1 family_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    9  113 All of these articles play a huge part in the success of a mission to mars its potential for colonization .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    9  113 All_DB of_IO these_DD2 articles_NN2 play_VV0 a_AT1 huge_JJ part_NN1 in_II the_AT success_NN1 of_IO a_AT1 mission_NN1 to_II mars_VVZ its_APPGE potential_NN1 for_IF colonization_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    9  114 The last article on the colonization really hit me the most .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    9  114 The_AT last_MD article_NN1 on_II the_AT colonization_NN1 really_RR hit_VVD me_PPIO1 the_AT most_RRT@ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    9  115 To think that in around 10 years humans could be living on Mars is astonishing to me .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    9  115 To_TO think_VVI that_CST in_II around_RG 10_MC years_NNT2 humans_NN2 could_VM be_VBI living_VVG on_II Mars_NP1 is_VBZ astonishing_JJ to_II me_PPIO1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    9  116 The other article that interests me the most the one about India and it cost efficiency space program .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    9  116 The_AT other_JJ article_NN1 that_CST interests_VVZ@ me_PPIO1 the_AT most_DAT the_AT one_PN1 about_II India_NP1 and_CC it_PPH1 cost_VVD@ efficiency_NN1 space_NN1 program_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    9  117 They have done something remarkable .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    9  117 They_PPHS2 have_VH0 done_VDN something_PN1 remarkable_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A    9  118 They had a successful mission to mars while doing it basically with no money .
+SENTPOS 2014_4_101_400_404_1 DRAFT B    9  118 They_PPHS2 had_VHD a_AT1 successful_JJ mission_NN1 to_II mars_VVZ while_CS doing_VDG it_PPH1 basically_RR with_IW no_AT money_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A   10  119 I believe that some of these sources will be useful in my final project .
+SENTPOS 2014_4_101_400_404_1 DRAFT B   10  119 I_PPIS1 believe_VV0 that_CST some_DD of_IO these_DD2 sources_NN2 will_VM be_VBI useful_JJ in_II my_APPGE final_JJ project_NN1 ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A   10  120 They will be useful because I find the information to be accurate and interesting .
+SENTPOS 2014_4_101_400_404_1 DRAFT B   10  120 They_PPHS2 will_VM be_VBI useful_JJ because_CS I_PPIS1 find_VV0 the_AT information_NN1 to_TO be_VBI accurate_JJ and_CC interesting_JJ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A   10  121 The topics also vary for one thing to the next .
+SENTPOS 2014_4_101_400_404_1 DRAFT B   10  121 The_AT topics_NN2 also_RR vary_VV0 for_IF one_MC1 thing_NN1 to_II the_AT next_MD ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A   10  122 For instance they range from India 's space budget to the colonization of mars .
+SENTPOS 2014_4_101_400_404_1 DRAFT B   10  122 For_REX21 instance_REX22 they_PPHS2 range_VV0@ from_II India_NP1 's_GE space_NN1 budget_NN1 to_II the_AT colonization_NN1 of_IO mars_VVZ ._.
+SENTPOS 2014_4_101_400_404_1 DRAFT A   10  122  Although all these things revolve around Mars , they are varied based on their specific details and ideas .
+SENTPOS 2014_4_101_400_404_1 DRAFT B   10  122  Although_CS all_DB these_DD2 things_NN2 revolve_VV0 around_II Mars_NP1 ,_, they_PPHS2 are_VBR varied_VVN based_VVN on_II their_APPGE specific_JJ details_NN2 and_CC ideas_NN2 ._.

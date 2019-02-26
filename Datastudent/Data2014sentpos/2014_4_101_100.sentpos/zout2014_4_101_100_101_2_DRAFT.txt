@@ -1,0 +1,298 @@
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    0 What are the benefits of GMO foods ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    0 What_DDQ are_VBR the_AT benefits_NN2 of_IO GMO_NN1 foods_NN2 ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    1 What are their risks ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    1 What_DDQ are_VBR their_APPGE risks_NN2 ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    2 Should GMO foods be labeled ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    2 Should_VM GMO_NP1 foods_NN2 be_VBI labeled_VVN@ ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    3 How healthy are GMO foods for humans ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    3 How_RGQ@ healthy_JJ are_VBR GMO_NN1 foods_NN2 for_IF humans_NN2 ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    4 The more that the consumers know about GMO foods the more questions are asked .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    4 The_AT more_RRR that_CST the_AT consumers_NN2 know_VV0 about_II GMO_NP1 foods_NN2 the_AT more_DAR questions_NN2 are_VBR asked_VVN@ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    5 What exactly are GMO foods ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    5 What_DDQ exactly_RR are_VBR GMO_NN1 foods_NN2 ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    6 GMO foods are crops that have their DNA modified to resist certain diseases , bugs , weather , inhabitable soil conditions , and other problems that could hinder the supply of food .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    6 GMO_NP1 foods_NN2 are_VBR crops_NN2 that_CST have_VH0 their_APPGE DNA_NN1 modified_VVN to_TO resist_VVI certain_JJ diseases_NN2 ,_, bugs_NN2 ,_, weather_NN1 ,_, inhabitable_JJ soil_NN1 conditions_NN2 ,_, and_CC other_JJ problems_NN2 that_CST could_VM hinder_VVI the_AT supply_NN1 of_IO food_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    0    7 To gain knowledge on these questions I gathered the following annotated bibliography and research reflection .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    0    7 To_TO gain_VVI knowledge_NN1 on_II these_DD2 questions_NN2 I_PPIS1 gathered_VVD the_AT following_JJ annotated_JJ@ bibliography_NN1 and_CC research_NN1 reflection_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    1    8 Aschbrenner , Joel .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    1    8 Aschbrenner_NN1 ,_, Joel_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    1    9 Eller , Donnelle .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    1    9 Eller_NN1 ,_, Donnelle_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    1   10 " GMO discussion shows sharply opposing views " DesMoinesRegister.com. 15 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    1   10 "_" GMO_NP1 discussion_NN1 shows_VVZ sharply_RR opposing_JJ views_NN2 "_" DesMoinesRegister.com._NP1 15_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    1   11 Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    1   11 Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    1   12 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    1   12 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   13 This article reports on a discussion among farmers , researchers , and others who work in the industry .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   13 This_DD1 article_NN1 reports_VVZ on_II a_AT1 discussion_NN1 among_II farmers_NN2 ,_, researchers_NN2 ,_, and_CC others_NN2 who_PNQS work_VV0 in_II the_AT industry_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   14 The debate brought up different arguments such as : there is no proof that GMO foods are bad for peoples ' health , there is less land erosion from it , less pesticide use , less diversity within plants , among others .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   14 The_AT debate_NN1 brought_VVD up_RP different_JJ arguments_NN2 such_II21 as_II22 :_: there_EX is_VBZ no_AT proof_NN1 that_CST GMO_NP1 foods_NN2 are_VBR bad_JJ for_IF peoples_NN2 '_GE health_NN1 ,_, there_EX is_VBZ less_DAR land_NN1 erosion_NN1 from_II it_PPH1 ,_, less_DAR pesticide_NN1 use_NN1 ,_, less_DAR diversity_NN1 within_II plants_NN2 ,_, among_II others_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   15 One participant , Ruth MacDonald , said that GMO foods are safe for consumers .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   15 One_MC1 participant_NN1 ,_, Ruth_NP1 MacDonald_NP1 ,_, said_VVD that_DD1 GMO_NN1 foods_NN2 are_VBR safe_JJ for_IF consumers_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   16 She leads the food science and human nutrition at Iowa State University .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   16 She_PPHS1 leads_VVZ the_AT food_NN1 science_NN1 and_CC human_JJ nutrition_NN1 at_II Iowa_NP1 State_NN1 University_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   17 The farmers , who plant the genetically modified crops , lashed back and said their pesticide use is more frequent now compared to a couple years ago .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   17 The_AT farmers_NN2 ,_, who_PNQS plant_VV0@ the_AT genetically_RR modified_JJ crops_NN2 ,_, lashed_VVD back_RP and_CC said_VVD their_APPGE pesticide_NN1 use_NN1 is_VBZ more_RGR frequent_JJ now_RT compared_VVN to_II a_AT1 couple_NN1 years_NNT2 ago_RA ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   18 The large amount of pesticide use is costing them thousands of dollars .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   18 The_AT large_JJ amount_NN1 of_IO pesticide_NN1 use_NN1 is_VBZ costing_VVG them_PPHO2 thousands_NNO2 of_IO dollars_NNU2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   19 The issue of labeling came up later in the conversation .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   19 The_AT issue_NN1 of_IO labeling_NN1@ came_VVD up_RP later_RRR in_II the_AT conversation_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   20 This would be a reliable source because many of the people involved give first hand accounts .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   20 This_DD1 would_VM be_VBI a_AT1 reliable_JJ source_NN1 because_CS many_DA2 of_IO the_AT people_NN involved_VVN give_VV0 first_MD hand_NN1 accounts_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   21 This leads credibility and value of the stakeholders ' stories .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   21 This_DD1 leads_VVZ credibility_NN1 and_CC value_NN1 of_IO the_AT stakeholders_NN2 '_GE stories_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    2   22 This article is good collection of arguments that are made on this issue and can be used in the future to argue different points of view .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    2   22 This_DD1 article_NN1 is_VBZ good_JJ collection_NN1 of_IO arguments_NN2 that_CST are_VBR made_VVN on_II this_DD1 issue_NN1 and_CC can_VM be_VBI used_VVN in_II the_AT future_JJ to_TO argue_VVI different_JJ points_NN2 of_IO view_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    3   23 Bartolotto , Carole .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    3   23 Bartolotto_NN1 ,_, Carole_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    3   24 " Why Genetically Modified Foods Should Be Labeled . "
+SENTPOS 2014_4_101_100_101_2 DRAFT B    3   24 "_" Why_RRQ Genetically_RR Modified_JJ Foods_NN2 Should_VM Be_VBI Labeled_JJ ._. "_"
+SENTPOS 2014_4_101_100_101_2 DRAFT A    3   25 Dick and Sharon 's LA Progressive .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    3   25 Dick_NP1 and_CC Sharon_NP1 's_GE LA_NP1 Progressive_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    3   26 7 September 2012 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    3   26 7_MC September_NPM1 2012_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    3   27 Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    3   27 Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    3   28 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    3   28 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    4   29 Bartolotto says that GMO foods should be labeled because we do not know their full effects on humans .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    4   29 Bartolotto_NN1 says_VVZ that_CST GMO_NP1 foods_NN2 should_VM be_VBI labeled_VVN@ because_CS we_PPIS2 do_VD0 not_XX know_VVI their_APPGE full_JJ effects_NN2 on_II humans_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    4   30 The least that these companies can do is label products that contain GMO foods .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    4   30 The_AT least_DAT that_CST these_DD2 companies_NN2 can_VM do_VDI is_VBZ label_NN1 products_NN2 that_CST contain_VV0 GMO_NN1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    4   31 Bartolotto has a bias for no GMO foods and does not present arguments for GMO foods .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    4   31 Bartolotto_NN1 has_VHZ a_AT1 bias_NN1 for_IF no_AT GMO_NN1 foods_NN2 and_CC does_VDZ not_XX present_VVI arguments_NN2 for_IF GMO_NN1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    4   32 She even says that the companies are greedy and power hungry so they spend millions of dollars to avoid labeling .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    4   32 She_PPHS1 even_RR says_VVZ that_CST the_AT companies_NN2 are_VBR greedy_JJ and_CC power_NN1 hungry_JJ so_CS@ they_PPHS2 spend_VV0 millions_NNO2 of_IO dollars_NNU2 to_TO avoid_VVI labeling_VVG ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    4   33 Although she has a bias toward labeling GMO foods this article is reliable because she provides statistics that I found in other sources .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    4   33 Although_CS she_PPHS1 has_VHZ a_AT1 bias_NN1 toward_II labeling_VVG GMO_NN1 foods_NN2 this_DD1 article_NN1 is_VBZ reliable_JJ because_CS she_PPHS1 provides_VVZ statistics_NN that_CST I_PPIS1 found_VVD in_II other_JJ sources_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    4   34 She has a masters degree in exercise physiology and has been working in the diet field for over twenty years .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    4   34 She_PPHS1 has_VHZ a_AT1 masters_NN2 degree_NN1 in_II exercise_NN1 physiology_NN1 and_CC has_VHZ been_VBN working_VVG in_II the_AT diet_NN1 field_NN1 for_IF over_RG twenty_MC years_NNT2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    5   35 Bech-Larson , Tino .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    5   35 Bech-Larson_NP1 ,_, Tino_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    5   36 Grunert , Klaus G. Lahteenmaki , Liisa .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    5   36 Grunert_VV0 ,_, Klaus_NP1 G._NP1 Lahteenmaki_NP1 ,_, Liisa_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    5   37 " Attitudes Towards the Use of GMOs in Food Production and Their Impact on Buying Intention : The Role of Positive Sensory Experience . "
+SENTPOS 2014_4_101_100_101_2 DRAFT B    5   37 "_" Attitudes_NN2 Towards_II the_AT Use_NN1 of_IO GMOs_NP2 in_II Food_NN1 Production_NN1 and_CC Their_APPGE Impact_NN1 on_II Buying_VVG Intention_NN1 :_: The_AT Role_NN1 of_IO Positive_JJ Sensory_JJ Experience_NN1 ._. "_"
+SENTPOS 2014_4_101_100_101_2 DRAFT A    5   38 Agribusiness. 20.1 ( 2004 ) : 95-107 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    5   38 Agribusiness._NP1 20.1_MC (_( 2004_MC )_) :_: 95-107_MCMC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    5   39 Biological &; Agricultural Index Plus Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    5   39 Biological_JJ &;_NULL Agricultural_JJ Index_NN1 Plus_II Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    5   40 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    5   40 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   41 This academic article reports on an experiment in which researchers chose a sample of people from four countries , in the European Union , and the participants tasted different cheeses .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   41 This_DD1 academic_JJ article_NN1 reports_VVZ on_II an_AT1 experiment_NN1 in_II which_DDQ researchers_NN2 chose_VVD a_AT1 sample_NN1 of_IO people_NN from_II four_MC countries_NN2 ,_, in_II the_AT European_JJ Union_NN1 ,_, and_CC the_AT participants_NN2 tasted_VVD different_JJ cheeses_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   42 This experiment was don in the European Union because people in those countries are skeptical of GMO foods .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   42 This_DD1 experiment_NN1 was_VBDZ don_NN1 in_II the_AT European_JJ Union_NN1 because_CS people_NN in_II those_DD2 countries_NN2 are_VBR skeptical_JJ of_IO GMO_NN1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   43 The researchers then asked the participants if they thought the cheese was tasteful .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   43 The_AT researchers_NN2 then_RT asked_VVD the_AT participants_NN2 if_CS they_PPHS2 thought_VVD the_AT cheese_NN1 was_VBDZ tasteful_JJ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   44 The experimental group had a positive experience tasting the cheeses .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   44 The_AT experimental_JJ group_NN1 had_VHD a_AT1 positive_JJ experience_NN1 tasting_VVG the_AT cheeses_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   45 This is a reliable journal because I found it on a database through the library system .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   45 This_DD1 is_VBZ a_AT1 reliable_JJ journal_NN1 because_CS I_PPIS1 found_VVD it_PPH1 on_II a_AT1 database_NN1 through_II the_AT library_NN1 system_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   46 Also , the authors work within this field .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   46 Also_RR ,_, the_AT authors_NN2 work_VV0 within_II this_DD1 field_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   47 The in text citations inform the reader where they can go to find out more about the subject .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   47 The_AT in_II text_NN1 citations_NN2 inform_VV0 the_AT reader_NN1 where_CS they_PPHS2 can_VM go_VVI to_TO find_VVI out_RP more_RRR about_II the_AT subject_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   48 There is more accuracy with this article than with others I have found because the results are posted within the journal .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   48 There_EX is_VBZ more_DAR accuracy_NN1 with_IW this_DD1 article_NN1 than_CSN with_IW others_NN2 I_PPIS1 have_VH0 found_VVN because_CS the_AT results_NN2 are_VBR posted_VVN within_II the_AT journal_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    6   49 This is useful to see how people react to eating a GMO food that is tasteful .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    6   49 This_DD1 is_VBZ useful_JJ to_TO see_VVI how_RRQ people_NN react_VV0 to_II eating_VVG a_AT1 GMO_NN1 food_NN1 that_CST is_VBZ tasteful_JJ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    7   50 Eng , Monica .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    7   50 Eng_NP1 ,_, Monica_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    7   51 " GMO supporter tells food industry meeting in Chicago to stop opposing GMO labeling " wbez.org. 16 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    7   51 "_" GMO_NP1 supporter_NN1 tells_VVZ food_NN1 industry_NN1 meeting_VVG in_II Chicago_NP1 to_TO stop_VVI opposing_JJ GMO_NN1 labeling_VVG "_" wbez.org._NNU 16_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    7   52 Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    7   52 Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    7   53 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    7   53 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   54 This article features a strong supporter of GMO foods , Mark Lynas , who supports GMO labeling .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   54 This_DD1 article_NN1 features_VVZ@ a_AT1 strong_JJ supporter_NN1 of_IO GMO_NN1 foods_NN2 ,_, Mark_NP1 Lynas_NP2 ,_, who_PNQS supports_VVZ GMO_NN1 labeling_VVG ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   55 Lynas had a presentation that many agricultural companies attended and have taken time to think about what he had to say .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   55 Lynas_NN2 had_VHD a_AT1 presentation_NN1 that_CST many_DA2 agricultural_JJ companies_NN2 attended_VVN and_CC have_VH0 taken_VVN time_NNT1 to_TO think_VVI about_II what_DDQ he_PPHS1 had_VHD to_TO say_VVI ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   56 The main argument is for these large companies to be more transparent to the consumer by labeling the food that contain GMOs .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   56 The_AT main_JJ argument_NN1 is_VBZ for_IF these_DD2 large_JJ companies_NN2 to_TO be_VBI more_RGR transparent_JJ to_II the_AT consumer_NN1 by_II labeling_VVG the_AT food_NN1 that_CST contain_VV0 GMOs_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   57 This article has many quotes from these agricultural companies that prove it 's authority to the audience .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   57 This_DD1 article_NN1 has_VHZ many_DA2 quotes_NN2 from_II these_DD2 agricultural_JJ companies_NN2 that_CST prove_VV0 it_PPH1 's_VBZ authority_NN1 to_II the_AT audience_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   58 Eng does show that those who are quoted are pro GMO foods , but against GMO labeling .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   58 Eng_NP1 does_VDZ show_VVI that_CST those_DD2 who_PNQS are_VBR quoted_VVN are_VBR pro_JJ GMO_NN1 foods_NN2 ,_, but_CCB against_II GMO_NP1 labeling_VVG ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   59 Lynas is a mixture of pro GMO foods and Pro GMO labeling .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   59 Lynas_NN2 is_VBZ a_AT1 mixture_NN1 of_IO pro_JJ GMO_NN1 foods_NN2 and_CC Pro_JJ GMO_NN1 labeling_VVG ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   60 This is an interesting article that gives this issue a different point of view .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   60 This_DD1 is_VBZ an_AT1 interesting_JJ article_NN1 that_CST gives_VVZ this_DD1 issue_NN1 a_AT1 different_JJ point_NN1 of_IO view_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   61 The article is very useful for explaining other thoughts on GMO foods .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   61 The_AT article_NN1 is_VBZ very_RG useful_JJ for_IF explaining_VVG other_JJ thoughts_NN2 on_II GMO_NP1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   62 This article is credible because Eng gives background information about Lynas .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   62 This_DD1 article_NN1 is_VBZ credible_JJ because_CS Eng_NP1 gives_VVZ background_NN1 information_NN1 about_II Lynas_NP2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    8   63 She only reports what happened at the presentation she does not put her opinion into this article .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    8   63 She_PPHS1 only_RR reports_VVZ what_DDQ happened_VVD at_II the_AT presentation_NN1 she_PPHS1 does_VDZ not_XX put_VVI her_APPGE opinion_NN1 into_II this_DD1 article_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   64 Food Inc .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   64 Food_NN1 Inc_JJ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   65 Dir .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   65 Dir_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   66 Robert Kenner .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   66 Robert_NP1 Kenner_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   67 Perf .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   67 Perf_VV0 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   68 Eric Schlosser .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   68 Eric_NP1 Schlosser_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   69 Magnolia Home Entertianment , 2009 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   69 Magnolia_NN Home_NN1 Entertianment_NN1 ,_, 2009_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A    9   70 DVD .
+SENTPOS 2014_4_101_100_101_2 DRAFT B    9   70 DVD_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   71 Food Inc. is a documentary about the food industry in the United States .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   71 Food_NN1 Inc._JJ is_VBZ a_AT1 documentary_NN1 about_II the_AT food_NN1 industry_NN1 in_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   72 Kenner dives deep into the darkness that the food industry puts the consumer in .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   72 Kenner_NP1 dives_VVZ deep_RR into_II the_AT darkness_NN1 that_CST the_AT food_NN1 industry_NN1 puts_VVZ the_AT consumer_NN1 in_RP@ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   73 He shines a light on how they raise meet , poultry , and pork .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   73 He_PPHS1 shines_VVZ a_AT1 light_NN1 on_II how_RRQ they_PPHS2 raise_VV0 meet_VV0 ,_, poultry_NN ,_, and_CC pork_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   74 A good portion of Food Inc. focuses on the meat production and packing industry .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   74 A_AT1 good_JJ portion_NN1 of_IO Food_NN1 Inc._JJ focuses_VVZ on_II the_AT meat_NN1 production_NN1 and_CC packing_VVG industry_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   75 Later Kenner moves into the GMO crops .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   75 Later_RRR Kenner_NP1 moves_VVZ into_II the_AT GMO_NN1 crops_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   76 He gives a history lesson on Monsanto , the chemical company that first produced GMO seeds .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   76 He_PPHS1 gives_VVZ a_AT1 history_NN1 lesson_NN1 on_II Monsanto_NP1 ,_, the_AT chemical_JJ company_NN1 that_DD1 first_MD produced_VVD GMO_NP1 seeds_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   77 He interviews many farmers about Monsanto and what precautions the company takes to prevent farmers from saving the seeds from their last crop .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   77 He_PPHS1 interviews_NN2 many_DA2 farmers_NN2 about_II Monsanto_NP1 and_CC what_DDQ precautions_NN2 the_AT company_NN1 takes_VVZ to_TO prevent_VVI farmers_NN2 from_II saving_VVG the_AT seeds_NN2 from_II their_APPGE last_MD crop_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   78 At the end of the documentary dives into the argument of labeling and how the large companies want to prevent it .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   78 At_II the_AT end_NN1 of_IO the_AT documentary_NN1 dives_VVZ into_II the_AT argument_NN1 of_IO labeling_VVG and_CC how_RRQ the_AT large_JJ companies_NN2 want_VV0 to_TO prevent_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   79 This is an empowering film for the consumer and tells the consumer that they can do something about it .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   79 This_DD1 is_VBZ an_AT1 empowering_JJ film_NN1 for_IF the_AT consumer_NN1 and_CC tells_VVZ the_AT consumer_NN1 that_CST they_PPHS2 can_VM do_VDI something_PN1 about_II it_PPH1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   80 The documentary is very detailed and contains a couple of case studies , interviews , history , and statistics for credibility .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   80 The_AT documentary_NN1 is_VBZ very_RG detailed_JJ and_CC contains_VVZ a_AT1 couple_NN1 of_IO case_NN1 studies_NN2 ,_, interviews_NN2 ,_, history_NN1 ,_, and_CC statistics_NN for_IF credibility_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   10   81 I will use this information in my essay to explain the industries power in the government and give statistics on GMO foods .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   10   81 I_PPIS1 will_VM use_VVI this_DD1 information_NN1 in_II my_APPGE essay_NN1 to_TO explain_VVI the_AT industries_NN2 power_NN1 in_II the_AT government_NN1 and_CC give_VV0 statistics_NN on_II GMO_NP1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   11   82 Haslberger , Alexander G. " Monitoring and labeling for genetically modified products . "
+SENTPOS 2014_4_101_100_101_2 DRAFT B   11   82 Haslberger_NN1 ,_, Alexander_NP1 G._NP1 "_" Monitoring_NN1 and_CC labeling_VVG for_IF genetically_RR modified_JJ products_NN2 ._. "_"
+SENTPOS 2014_4_101_100_101_2 DRAFT A   11   83 Science .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   11   83 Science_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   11   84 287.5452 ( 2000 ) : 431-432 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   11   84 287.5452_MC (_( 2000_MC )_) :_: 431-432_MCMC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   11   85 Biological &; Agricultural Index Plus Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   11   85 Biological_JJ &;_NULL Agricultural_JJ Index_NN1 Plus_II Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   11   86 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   11   86 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   12   87 This academic journal is informing of the GMO food situation in other countries .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   12   87 This_DD1 academic_JJ journal_NN1 is_VBZ informing_VVG of_IO the_AT GMO_NN1 food_NN1 situation_NN1 in_II other_JJ countries_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   12   88 Many of them have legislation put in place to regulate GMO foods .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   12   88 Many_DA2 of_IO them_PPHO2 have_VH0 legislation_NN1 put_VVN in_II place_NN1 to_TO regulate_VVI GMO_NN1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   12   89 Many countries label the foods that contain GMOs and some countries refuse to accept them from the United States .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   12   89 Many_DA2 countries_NN2 label_VV0 the_AT foods_NN2 that_CST contain_VV0 GMOs_NN2 and_CC some_DD countries_NN2 refuse_VV0 to_TO accept_VVI them_PPHO2 from_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   12   90 This is causing many issues with exports from the United States .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   12   90 This_DD1 is_VBZ causing_VVG many_DA2 issues_NN2 with_IW exports_NN2 from_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   12   91 Haslberger gives information from the European Union with references to make this academic journal reliable .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   12   91 Haslberger_NN1 gives_VVZ information_NN1 from_II the_AT European_JJ Union_NN1 with_IW references_NN2 to_TO make_VVI this_DD1 academic_JJ journal_NN1 reliable_JJ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   12   92 There seems to be no bias here because Haslberger is informing the audience of GMOs in other countries compared to the United States .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   12   92 There_EX seems_VVZ to_TO be_VBI no_AT bias_NN1 here_RL because_CS Haslberger_NP1 is_VBZ informing_VVG the_AT audience_NN1 of_IO GMOs_NP2 in_II other_JJ countries_NN2 compared_VVN to_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   13   93 Leiser , Ken .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   13   93 Leiser_NN1 ,_, Ken_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   13   94 " Hundreds protest outside Monsanto headquarters in St. Louis . "
+SENTPOS 2014_4_101_100_101_2 DRAFT B   13   94 "_" Hundreds_NNO2 protest_VV0 outside_II Monsanto_NP1 headquarters_NN in_II St._NP1 Louis_NP1 ._. "_"
+SENTPOS 2014_4_101_100_101_2 DRAFT A   14   95 stltoday.com : St. Louis Post-Dispatch. 13 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   14   95 stltoday.com_NNU :_: St._NP1 Louis_NP1 Post-Dispatch._JJ 13_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   14   96 Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   14   96 Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   14   97 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   14   97 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15   98 Leiser 's the main objective in this article is to inform the audience of a protest that occurred outside of Monsanto 's headquarters .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15   98 Leiser_NN1 's_VBZ the_AT main_JJ objective_NN1 in_II this_DD1 article_NN1 is_VBZ to_TO inform_VVI the_AT audience_NN1 of_IO a_AT1 protest_NN1 that_CST occurred_VVD outside_II21 of_II22 Monsanto_NP1 's_GE headquarters_NN ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15   99 More than five-hundred people showed up to make their grievances known .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15   99 More_DAR than_CSN five-hundred_MC people_NN showed_VVD up_RP to_TO make_VVI their_APPGE grievances_NN2 known_VVN ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  100 Monsanto is a chemical company that genetically modifies plants .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  100 Monsanto_NN1 is_VBZ a_AT1 chemical_JJ company_NN1 that_CST genetically_RR modifies_VVZ plants_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  101 In the crowd a farmer , Mark Brown , stepped out for a short interview .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  101 In_II the_AT crowd_NN1 a_AT1 farmer_NN1 ,_, Mark_NP1 Brown_NP1 ,_, stepped_VVD out_RP for_IF a_AT1 short_JJ interview_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  102 This article does not have a strong bias because it presents news from the protest .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  102 This_DD1 article_NN1 does_VDZ not_XX have_VHI a_AT1 strong_JJ bias_NN1 because_CS it_PPH1 presents_VVZ news_NN1 from_II the_AT protest_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  103 Leiser had more access to the protesters because Monsanto made a statement on Friday before the protest .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  103 Leiser_NP1@ had_VHD more_DAR access_NN1 to_II the_AT protesters_NN2 because_CS Monsanto_NP1 made_VVD a_AT1 statement_NN1 on_II Friday_NPD1 before_II the_AT protest_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  104 This article provides information on Monsanto and on GMO crops .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  104 This_DD1 article_NN1 provides_VVZ information_NN1 on_II Monsanto_NP1 and_CC on_II GMO_NP1 crops_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  105 This is credible because Lesier is reporting the protest and not adding his opinion to the issue .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  105 This_DD1 is_VBZ credible_JJ because_CS Lesier_NP1 is_VBZ reporting_VVG the_AT protest_NN1 and_CC not_XX adding_VVG his_APPGE opinion_NN1 to_II the_AT issue_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   15  106 This will be good to use as an example of how the stakeholders feel about the issue .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   15  106 This_DD1 will_VM be_VBI good_JJ to_TO use_VVI as_II an_AT1 example_NN1 of_IO how_RRQ the_AT stakeholders_NN2 feel_VV0 about_II the_AT issue_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   16  107 Round , Christopher .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   16  107 Round_JJ ,_, Christopher_NP1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   16  108 " One thing Everyone 's Missing About GMO Foods " PolicyMic. 16 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   16  108 "_" One_MC1 thing_NN1 Everyone_PN1 's_VBZ Missing_VVG About_II GMO_NP1 Foods_NN2 "_" PolicyMic._NP1 16_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   16  109 Web .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   16  109 Web_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   16  110 19 October 2013 .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   16  110 19_MC October_NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   17  111 This article mentions the protest from the Leiser article and goes into more detail about the negatives and positive of GMO crops .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   17  111 This_DD1 article_NN1 mentions_VVZ the_AT protest_NN1 from_II the_AT Leiser_NN1 article_NN1 and_CC goes_VVZ into_II more_DAR detail_NN1 about_II the_AT negatives_NN2 and_CC positive_JJ of_IO GMO_NN1 crops_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   17  112 Round makes two good points in his article ; an argument against is that the diversity among plants will diminish , and the argument for is that the plants could become resistant to heat or inhospitable soil .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   17  112 Round_NN1@ makes_VVZ two_MC good_JJ points_NN2 in_II his_APPGE article_NN1 ;_; an_AT1 argument_NN1 against_II is_VBZ that_CST the_AT diversity_NN1 among_II plants_NN2 will_VM diminish_VVI ,_, and_CC the_AT argument_NN1 for_IF is_VBZ that_CST the_AT plants_NN2 could_VM become_VVI resistant_JJ to_TO heat_VVI or_CC inhospitable_JJ soil_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   17  113 A main part of the article focus on the diminishing genetic diversity and the complications of acres of crops wiped out by diseases .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   17  113 A_AT1 main_JJ part_NN1 of_IO the_AT article_NN1 focus_NN1 on_II the_AT diminishing_JJ genetic_JJ diversity_NN1 and_CC the_AT complications_NN2 of_IO acres_NNU2 of_IO crops_NN2 wiped_VVD out_RP by_II diseases_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   17  114 He Mentions at the end that GMOs are not all around terrible because we can feed the world 's hungry with the amount of food that can be produced .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   17  114 He_PPHS1 Mentions_VVZ at_II the_AT end_NN1 that_CST GMOs_NN2 are_VBR not_XX all_DB around_RG@ terrible_JJ because_CS we_PPIS2 can_VM feed_VVI the_AT world_NN1 's_VBZ hungry_JJ with_IW the_AT amount_NN1 of_IO food_NN1 that_CST can_VM be_VBI produced_VVN ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   17  115 This source is credible because Round is a graduate student pursuing a masters in environmental science and political affairs .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   17  115 This_DD1 source_NN1 is_VBZ credible_JJ because_CS Round_JJ is_VBZ a_AT1 graduate_NN1 student_NN1 pursuing_VVG a_AT1 masters_NN2 in_II environmental_JJ science_NN1 and_CC political_JJ affairs_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   17  116 Though the article does not mention the labeling issue is can still be used for facts and examples .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   17  116 Though_CS the_AT article_NN1 does_VDZ not_XX mention_VVI the_AT labeling_JJ@ issue_NN1 is_VBZ can_VM still_RR be_VBI used_VVN for_IF facts_NN2 and_CC examples_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   19  117 Reflection Essay I knew a little about GMO foods and wanted to learn more , but some people are not informed about GMOs at all .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   19  117 Reflection_NN1 Essay_NN1 I_PPIS1 knew_VVD a_RR21 little_RR22 about_II GMO_NP1 foods_NN2 and_CC wanted_VVD to_TO learn_VVI more_RRR ,_, but_CCB some_DD people_NN are_VBR not_XX informed_VVN about_II GMOs_NN2 at_RR21 all_RR22 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   19  118 They do n't realize that many of the foods they ingest are genetically modified .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   19  118 They_PPHS2 do_VD0 n't_XX realize_VVI that_CST many_DA2 of_IO the_AT foods_NN2 they_PPHS2 ingest_JJT are_VBR genetically_RR modified_VVN ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   19  119 So with what little I knew I thought that it would be good to find out more on this topic .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   19  119 So_RR with_IW what_DDQ little_RR I_PPIS1 knew_VVD I_PPIS1 thought_VVD that_CST it_PPH1 would_VM be_VBI good_JJ to_TO find_VVI out_RP more_RRR on_II this_DD1 topic_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   20  120 I held the belief that GMO foods are bad for your health because the DNA in the pure crop is naturally that way .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   20  120 I_PPIS1 held_VVD the_AT belief_NN1 that_CST GMO_NP1 foods_NN2 are_VBR bad_JJ for_IF your_APPGE health_NN1 because_CS the_AT DNA_NN1 in_II the_AT pure_JJ crop_NN1 is_VBZ naturally_RR that_DD1 way_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   20  121 Also , people have been eating non-GMO foods for centuries .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   20  121 Also_RR ,_, people_NN have_VH0 been_VBN eating_VVG non-GMO_JJ foods_NN2 for_IF centuries_NNT2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   20  122 So , I formulated my research question to be : are GMO foods good for your health ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B   20  122 So_RR ,_, I_PPIS1 formulated_VVD my_APPGE research_NN1 question_NN1 to_TO be_VBI :_: are_VBR GMO_NN1 foods_NN2 good_JJ for_IF your_APPGE health_NN1 ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A   20  123 However , because there is not definitive evidence that GMO foods diminish a person 's health .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   20  123 However_RR ,_, because_CS there_EX is_VBZ not_XX definitive_JJ evidence_NN1 that_CST GMO_NP1 foods_NN2 diminish_VV0 a_AT1 person_NN1 's_GE health_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   20  124 I changed my question to : What are the arguments made for and against GMO food and what evidence is there to support either side ?
+SENTPOS 2014_4_101_100_101_2 DRAFT B   20  124 I_PPIS1 changed_VVD my_APPGE question_NN1 to_II :_: What_DDQ are_VBR the_AT arguments_NN2 made_VVN for_IF and_CC against_II GMO_NP1 food_NN1 and_CC what_DDQ evidence_NN1 is_VBZ there_EX to_TO support_VVI either_DD1 side_NN1 ?_?
+SENTPOS 2014_4_101_100_101_2 DRAFT A   20  125 This question opened up several research opportunities .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   20  125 This_DD1 question_NN1 opened_VVD up_RP several_DA2 research_NN1 opportunities_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  126 I went to Google first to see what I could find on the topic/issue .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  126 I_PPIS1 went_VVD to_II Google_NP1 first_MD to_TO see_VVI what_DDQ I_PPIS1 could_VM find_VVI on_II the_AT topic/issue_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  127 After finding several articles I moved on to the library 's website for databases .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  127 After_II finding_VVG several_DA2 articles_NN2 I_PPIS1 moved_VVD on_RP to_II the_AT library_NN1 's_GE website_NN1 for_IF databases_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  128 There I found two articles under the Biological &; Agricultural Index Plus database .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  128 There_RL I_PPIS1 found_VVD two_MC articles_NN2 under_II the_AT Biological_JJ &;_NULL Agricultural_JJ Index_NN1 Plus_II database_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  129 These two articles provided me with good information , the only problem is that they are dated .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  129 These_DD2 two_MC articles_NN2 provided_VVD me_PPIO1 with_IW good_JJ information_NN1 ,_, the_AT only_JJ problem_NN1 is_VBZ that_CST they_PPHS2 are_VBR dated_VVN ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  130 The news articles that I found are very recent and are up to date on the new strides made by the government for stricter regulations on GMOs .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  130 The_AT news_NN1 articles_NN2 that_CST I_PPIS1 found_VVD are_VBR very_RG recent_JJ and_CC are_VBR up_JJ31 to_JJ32 date_JJ33 on_II the_AT new_JJ strides_NN2 made_VVN by_II the_AT government_NN1 for_IF stricter_JJR regulations_NN2 on_II GMOs_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  131 I also used references from other articles to find out more information .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  131 I_PPIS1 also_RR used_JJ references_NN2 from_II other_JJ articles_NN2 to_TO find_VVI out_RP more_DAR information_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   21  132 This expanded my search to find out about companies that create GMO seeds and sell them to farmers .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   21  132 This_DD1 expanded_VVD my_APPGE search_NN1 to_TO find_VVI out_RP about_II companies_NN2 that_CST create_VV0 GMO_NN1 seeds_NN2 and_CC sell_VV0 them_PPHO2 to_II farmers_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  133 I later found a documentary named Food Inc. and added it to my sources .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  133 I_PPIS1 later_RRR found_VVD a_AT1 documentary_NN1 named_VVD Food_NN1 Inc._JJ and_CC added_VVD it_PPH1 to_II my_APPGE sources_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  134 This opened my eyes to a who new world of the food industry .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  134 This_DD1 opened_VVD my_APPGE eyes_NN2 to_II a_AT1 who_PNQS new_JJ world_NN1 of_IO the_AT food_NN1 industry_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  135 These companies intentionally leave consumers in the dark .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  135 These_DD2 companies_NN2 intentionally_RR leave_VV0 consumers_NN2 in_II the_AT dark_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  136 The companies have so much power in the government and support government leaders .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  136 The_AT companies_NN2 have_VH0 so_RG much_DA1 power_NN1 in_II the_AT government_NN1 and_CC support_VV0 government_NN1 leaders_NN2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  137 This turned the tables on just focusing on GMO foods to expanding to the food company 's role in the government .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  137 This_DD1 turned_VVD the_AT tables_NN2 on_II just_RR focusing_VVG on_II GMO_NP1 foods_NN2 to_II expanding_VVG to_II the_AT food_NN1 company_NN1 's_GE role_NN1 in_II the_AT government_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  138 I learned more about Monsanto , the chemical company that introduced the first GMO soybean .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  138 I_PPIS1 learned_VVD more_RRR about_II Monsanto_NP1 ,_, the_AT chemical_JJ company_NN1 that_CST introduced_VVD the_AT first_MD GMO_NN1 soybean_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  139 Food Inc. introduced more about the topic of GMOs and the labeling effort .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  139 Food_NN1 Inc._JJ introduced_VVN more_RRR about_II the_AT topic_NN1 of_IO GMOs_NP2 and_CC the_AT labeling_JJ@ effort_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   22  140 This shaped my argument further and strengthened my beliefs on this topic .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   22  140 This_DD1 shaped_VVD my_APPGE argument_NN1 further_RRR and_CC strengthened_VVD my_APPGE beliefs_NN2 on_II this_DD1 topic_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   23  141 This issue has been developing for years because there is still no evidence that GMOs are safe .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   23  141 This_DD1 issue_NN1 has_VHZ been_VBN developing_VVG for_IF years_NNT2 because_CS there_EX is_VBZ still_RR no_AT evidence_NN1 that_CST GMOs_NN2 are_VBR safe_JJ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   23  142 This topic is still too young for anyone to have proof that these GMOs are either good or bad for human health .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   23  142 This_DD1 topic_NN1 is_VBZ still_RR too_RG young_JJ for_IF anyone_PN1 to_TO have_VHI proof_NN1 that_CST these_DD2 GMOs_NN2 are_VBR either_RR good_JJ or_CC bad_JJ for_IF human_JJ health_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   23  143 My research informed me that GMOs are recent ; they were not developed until the early 1990s .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   23  143 My_APPGE research_NN1 informed_VVD me_PPIO1 that_CST GMOs_NN2 are_VBR recent_JJ ;_; they_PPHS2 were_VBDR not_XX developed_VVN until_CS the_AT early_JJ 1990s_MC2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   23  144 That is why there is still so much that is unknown .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   23  144 That_DD1 is_VBZ why_RRQ there_EX is_VBZ still_RR so_RG much_DA1 that_CST is_VBZ unknown_JJ ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   24  145 I still have the same position as I did in the beginning , but I am glad that I chose this topic .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   24  145 I_PPIS1 still_RR have_VH0 the_AT same_DA position_NN1 as_CSA I_PPIS1 did_VDD in_II the_AT beginning_NN1 ,_, but_CCB I_PPIS1 am_VBM glad_JJ that_CST I_PPIS1 chose_VVD this_DD1 topic_NN1 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   24  146 It has opened my eyes to the arguments that are made .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   24  146 It_PPH1 has_VHZ opened_VVN my_APPGE eyes_NN2 to_II the_AT arguments_NN2 that_CST are_VBR made_VVN ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   24  147 There is still so much more to learn about GMOs and what benefits or consequences can come from them .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   24  147 There_EX is_VBZ still_RR so_RG much_DA1 more_DAR to_TO learn_VVI about_II GMOs_NN2 and_CC what_DDQ benefits_NN2 or_CC consequences_NN2 can_VM come_VVI from_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_101_2 DRAFT A   24  147  As time goes on more research will be done to obtain proof , but for now we must find out what arguments are made and decide for ourselves if the benefits out weigh the costs .
+SENTPOS 2014_4_101_100_101_2 DRAFT B   24  147  As_CSA time_NNT1 goes_VVZ on_II more_DAR research_NN1 will_VM be_VBI done_VDN to_TO obtain_VVI proof_NN1 ,_, but_II21 for_II22 now_RT we_PPIS2 must_VM find_VVI out_RP what_DDQ arguments_NN2 are_VBR made_VVN and_CC decide_VV0 for_IF ourselves_PPX2 if_CS the_AT benefits_NN2 out_RP weigh_VV0 the_AT costs_NN2 ._.

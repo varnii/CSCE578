@@ -1,0 +1,462 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    0 THE DOCTOR WILL see you now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    0 THE_AT DOCTOR_NN1 WILL_VM see_VVI you_PPY now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    1 The book doctor , that is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    1 The_AT book_NN1 doctor_NN1 ,_Y that_DD1_CST is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    2 Those of us who work as fiction editors frequently feel as if we are physicians ministering to ailing stories , and sometimes to their ailing authors as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    2 Those_DD2 of_IO us_PPIO2 who_PNQS work_VV0 as_CSA_II@ fiction_NN1 editors_NN2 frequently_RR feel_VV0 as_CS21 if_CS22 we_PPIS2 are_VBR physicians_NN2 ministering_VVG to_II ailing_JJ stories_NN2 ,_Y and_CC sometimes_RT to_II their_APPGE ailing_JJ authors_NN2 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    3 Writing fiction is art as much as craft .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    3 Writing_VVG_NN1 fiction_NN1 is_VBZ art_NN1 as_RG much_DA1 as_CSA craft_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    4 Every piece is an original creation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    4 Every_AT1 piece_NN1 is_VBZ an_AT1 original_JJ creation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    5 Yet , art can be enhanced and originality encouraged when a writer fixes mistakes and weaknesses in craft .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    5 Yet_RR ,_Y art_NN1 can_VM be_VBI enhanced_VVN_JJ and_CC originality_NN1 encouraged_VVN_VVD when_CS_RRQ a_AT1 writer_NN1 fixes_VVZ mistakes_NN2 and_CC weaknesses_NN2 in_II craft_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    6 Most of the problems addressed in this article are craft-based .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    6 Most_DAT of_IO the_AT problems_NN2 addressed_VVN_VVD in_II this_DD1 article_NN1 are_VBR craft-based_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    7 For the majority of fiction writers , clear up mistakes and weaknesses in craft , and time and practice will take care of art and originality .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    7 For_IF the_AT majority_NN1 of_IO fiction_NN1 writers_NN2 ,_Y clear_VV0@_RR@ up_RP_II@ mistakes_NN2 and_CC weaknesses_NN2 in_II craft_NN1 ,_Y and_CC time_NNT1 and_CC practice_NN1 will_VM take_VVI care_NN1 of_IO art_NN1 and_CC originality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    8 Use the following sections as a self-editing checklist for evaluating your characterization , story and plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    8 Use_VV0 the_AT following_JJ sections_NN2 as_II_CSA a_AT1 self-editing_JJ_NN1 checklist_NN1 for_IF evaluating_VVG your_APPGE characterization_NN1 ,_Y story_NN1 and_CC plot_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0    9 Characterization Diagnosis #1 : Underdeveloped characters that produce inadequate depth , dimensionality , believability or interest .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0    9 Characterization_NN1 Diagnosis_NN1 #1_NNU :_Y Underdeveloped_JJ characters_NN2 that_CST produce_VV0 inadequate_JJ depth_NN1 ,_Y dimensionality_NN1 ,_Y believability_NN1 or_CC interest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   10 In other words : flat , boring characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   10 In_II other_JJ words_NN2 :_Y flat_JJ_NN1_RR@ ,_Y boring_JJ_VVG@ characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   11 Treatment : In 20 years of editing novels , I 've noticed a peculiar but common problem : The last character to emerge as interesting or dimensional is usually be the star !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   11 Treatment_NN1 :_Y In_II 20_MC years_NNT2 of_IO editing_VVG_NN1 novels_NN2 ,_Y I_PPIS1 've_VH0 noticed_VVN a_AT1 peculiar_JJ but_CCB common_JJ problem_NN1 :_Y The_AT last_MD character_NN1 to_TO emerge_VVI as_RG@_CSA interesting_JJ or_CC dimensional_JJ is_VBZ usually_RR be_VBI the_AT star_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   12 Why is this ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   12 Why_RRQ is_VBZ this_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   13 Writers may identify with the hero or heroine more than any other character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   13 Writers_NN2 may_VM identify_VVI with_IW the_AT hero_NN1 or_CC heroine_NN1 more_RRR_DAR than_CSN any_DD other_JJ character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   14 As a result , they may have a blind spot about the development of the protagonist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   14 As_II a_AT1 result_NN1 ,_Y they_PPHS2 may_VM have_VHI a_AT1 blind_JJ spot_NN1 about_II the_AT development_NN1 of_IO the_AT protagonist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   15 Check and revise for these key areas of character development : a clear yearning ; a traumatic past and a near past ; a prominent and heroic strength and a primary weakness ; a host of unique personality traits , habits , likes , dislikes , talents , hobbies , attitudes , quirks ; strong emotions and motives ; fears and secrets ; and one or several contradictions that deeper characterization can explain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   15 Check_VV0_NN1 and_CC revise_VV0 for_IF these_DD2 key_JJ areas_NN2 of_IO character_NN1 development_NN1 :_Y a_AT1 clear_JJ yearning_NN1@_JJ@ ;_Y a_AT1 traumatic_JJ past_NN1_JJ and_CC a_AT1 near_JJ@ past_NN1_RL_JJ ;_Y a_AT1 prominent_JJ and_CC heroic_JJ strength_NN1 and_CC a_AT1 primary_JJ_NN1 weakness_NN1 ;_Y a_AT1 host_NN1 of_IO unique_JJ personality_NN1 traits_NN2 ,_Y habits_NN2 ,_Y likes_NN2_VVZ ,_Y dislikes_NN2_VVZ ,_Y talents_NN2 ,_Y hobbies_NN2 ,_Y attitudes_NN2 ,_Y quirks_NN2 ;_Y strong_JJ emotions_NN2 and_CC motives_NN2 ;_Y fears_NN2 and_CC secrets_NN2 ;_Y and_CC one_MC1_PN1 or_CC several_DA2 contradictions_NN2 that_CST deeper_JJR characterization_NN1 can_VM explain_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   16 Diagnosis #2 : Passive characters who watch rather than act , or are on the defensive , or whose actions are not bound by the conflicts -- i.e. , the character could walk away from the situation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   16 Diagnosis_NN1 #2_NNU :_Y Passive_JJ characters_NN2 who_PNQS watch_VV0 rather_CS21 than_CS22 act_VVI ,_Y or_CC are_VBR on_II the_AT defensive_JJ ,_Y or_CC whose_DDQGE actions_NN2 are_VBR not_XX bound_VVN by_II the_AT conflicts_NN2 --_NN1_JJ i.e._REX ,_Y the_AT character_NN1 could_VM walk_VVI away_II21_RL from_II22_II the_AT situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   17 Treatment : An " interested narrator " -- someone who watches and comments on the protagonist -- is a difficult viewpoint .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   17 Treatment_NN1 :_Y An_AT1 "_Y interested_JJ narrator_NN1 "_Y --_ZZ someone_PN1 who_PNQS watches_VVZ and_CC comments_NN2_VVZ@ on_II the_AT protagonist_NN1 --_NN1 is_VBZ a_AT1 difficult_JJ viewpoint_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   18 It 's best if this narrator 's fate is inextricably bound to the protagonist , avoiding the unemotional writers have a passive protagonist , the story is in trouble .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   18 It_PPH1 's_VBZ best_RRT if_CS this_DD1 narrator_NN1 's_GE fate_NN1 is_VBZ inextricably_RR bound_VVN_VVD to_II the_AT protagonist_NN1 ,_Y avoiding_VVG the_AT unemotional_JJ writers_NN2 have_VH0 a_AT1 passive_JJ protagonist_NN1 ,_Y the_AT story_NN1 is_VBZ in_II trouble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   19 A protagonist should be striving to reach the outer story goal , resolving the plot problem , and relieving inner suffering .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   19 A_AT1 protagonist_NN1 should_VM be_VBI striving_VVG to_TO reach_VVI the_AT outer_JJ story_NN1 goal_NN1 ,_Y resolving_VVG the_AT plot_NN1 problem_NN1 ,_Y and_CC relieving_JJ_VVG inner_JJ suffering_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   20 This striving makes for a heroic character who formulates goals , leaves his comfort zone , and fights his way past obstacles .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   20 This_DD1 striving_NN1@ makes_VVZ for_IF a_AT1 heroic_JJ character_NN1 who_PNQS formulates_VVZ goals_NN2 ,_Y leaves_VVZ his_APPGE comfort_NN1 zone_NN1 ,_Y and_CC fights_VVZ his_APPGE way_NN1 past_II_NN1_JJ obstacles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   21 ( While other archetypes are legitimate , you must do in-depth development of any protagonist you would seek to characterize as weak or passive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   21 (_Y While_CS other_JJ archetypes_NN2 are_VBR legitimate_JJ ,_Y you_PPY must_VM do_VDI in-depth_JJ development_NN1 of_IO any_DD protagonist_NN1 you_PPY would_VM seek_VVI to_TO characterize_VVI as_RG@_CSA weak_JJ or_CC passive_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   22 ) Often , a protagonist on the defensive means that your story goal has been formulated in terms of the antagonist 's goals , e.g. , to prevent detonation of the nuclear bomb .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   22 )_Y Often_RR ,_Y a_AT1 protagonist_NN1 on_II the_AT defensive_JJ means_NN_VVZ that_CST your_APPGE story_NN1 goal_NN1 has_VHZ been_VBN formulated_VVN in_II31 terms_II32 of_II33 the_AT antagonist_NN1 's_GE goals_NN2 ,_Y e.g._REX ,_Y to_TO prevent_VVI detonation_NN1 of_IO the_AT nuclear_JJ bomb_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   23 If so , determine what " positive " goal your protagonist would achieve by preventing that detonation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   23 If_CS so_RR ,_Y determine_VV0 what_DDQ "_Y positive_JJ "_Y goal_NN1 your_APPGE protagonist_NN1 would_VM achieve_VVI by_II preventing_VVG that_DD1 detonation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   24 Often , if you show your character acting toward this end goal , you can recast the story in a way that places the protagonist in an offensive position .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   24 Often_RR ,_Y if_CS you_PPY show_VV0 your_APPGE character_NN1 acting_VVG toward_II this_DD1 end_NN1 goal_NN1 ,_Y you_PPY can_VM recast_VVI the_AT story_NN1 in_II a_AT1 way_NN1 that_CST_DD1 places_VVZ@ the_AT protagonist_NN1 in_II an_AT1 offensive_JJ position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   25 If your point-of-view ( POV ) character could walk away from a conflict , either you have not provided enough at stake in the conflict related to have cast the wrong character in your scene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   25 If_CS your_APPGE point-of-view_NN1 (_Y POV_NP1 )_Y character_NN1 could_VM walk_VVI away_II21_RL from_II22_II a_AT1 conflict_NN1 ,_Y either_RR_DD1 you_PPY have_VH0 not_XX provided_VVN enough_RR at_II stake_NN1 in_II the_AT conflict_NN1 related_VVN_VVD to_II have_VH0 cast_VVN the_AT wrong_JJ character_NN1 in_II your_APPGE scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   26 If your story problem does not directly affect your protagonist , you may have chosen the wrong hero or heroine as your star .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   26 If_CS your_APPGE story_NN1 problem_NN1 does_VDZ not_XX directly_RR affect_VVI your_APPGE protagonist_NN1 ,_Y you_PPY may_VM have_VHI chosen_VVN the_AT wrong_JJ hero_NN1 or_CC heroine_NN1 as_CSA_II@ your_APPGE star_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   27 Diagnosis #3 : Insufficient relationship , chemistry , contrast or conflict between the characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   27 Diagnosis_NN1 #3_NNU :_Y Insufficient_JJ relationship_NN1 ,_Y chemistry_NN1 ,_Y contrast_NN1 or_CC conflict_NN1_VV0@ between_II the_AT characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   28 Treatment : Increase the relatedness of your characters and you raise the level of emotions and potential for conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   28 Treatment_NN1 :_Y Increase_VV0 the_AT relatedness_NN1 of_IO your_APPGE characters_NN2 and_CC you_PPY raise_VV0 the_AT level_NN1 of_IO emotions_NN2 and_CC potential_NN1_JJ for_IF conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   29 Think Peyton Place , where everybody is involved in everybody else 's business .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   29 Think_VV0 Peyton_NP1 Place_NNL1 ,_Y where_CS_RRQ everybody_PN1 is_VBZ involved_JJ in_II everybody_PN1 else_RR 's_GE_VBZ business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   30 You are building a tiny universe .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   30 You_PPY are_VBR building_VVG@ a_AT1 tiny_JJ universe_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   31 Blood ties increase caring and feelings over potential loss .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   31 Blood_NN1 ties_NN2_VVZ increase_VV0_NN1 caring_JJ_NN1_VVG and_CC feelings_NN2 over_II potential_JJ_NN1 loss_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   32 Love and sexual liaisons also increase ties .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   32 Love_VV0_NN1 and_CC sexual_JJ liaisons_NN2 also_RR increase_VV0 ties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   33 What about financial ties ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   33 What_DDQ about_II_RG% financial_JJ ties_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   34 And so forth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   34 And_RR31 so_RR32 forth_RR33 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   35 Make your characters essential in each other 's worlds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   35 Make_VV0 your_APPGE characters_NN2 essential_JJ in_II each_PPX221 other_PPX222 's_GE worlds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   36 Insufficient chemistry can stem from underdeveloped characters or a failure to think in terms of opposites and contrast .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   36 Insufficient_JJ chemistry_NN1 can_VM stem_VVI from_II underdeveloped_JJ characters_NN2 or_CC a_AT1 failure_NN1 to_TO think_VVI in_II31 terms_II32 of_II33 opposites_NN2 and_CC contrast_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   37 Read a psychology text or Linda Goodman 's Sun Signs and develop distinctive differences between your characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   37 Read_VV0 a_AT1 psychology_NN1 text_NN1 or_CC Linda_NP1 Goodman_NP1 's_GE Sun_NN1 Signs_NN2 and_CC develop_VV0 distinctive_JJ differences_NN2 between_II your_APPGE characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   38 When you give them different goals , goals at cross-purposes to one another , whether ally or enemy , you heighten conflict , and conflict means heightened reader subtext -- the tension beneath the surface -- if not in the events .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   38 When_CS_RRQ you_PPY give_VV0 them_PPHO2 different_JJ goals_NN2 ,_Y goals_NN2 at_II cross-purposes_NN2 to_II one_PPX121 another_PPX122 ,_Y whether_CSW ally_NN1 or_CC enemy_NN1 ,_Y you_PPY heighten_VV0 conflict_NN1 ,_Y and_CC conflict_NN1 means_VVZ_NN heightened_JJ reader_NN1 subtext_NN1 --_NN1 the_AT tension_NN1 beneath_II the_AT surface_NN1 --_NN1 if_CS not_XX in_II the_AT events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   39 Diagnosis #4 : Too many or too few characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   39 Diagnosis_NN1 #4_NNU :_Y Too_RG many_DA2 or_CC too_RG few_DA2 characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   40 Treatment : If you increase the relationships between your characters -- familial , professional , romantic -- you may discover that you can double up jobs for one character , thereby getting rid of superfluous characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   40 Treatment_NN1 :_Y If_CS you_PPY increase_VV0 the_AT relationships_NN2 between_II your_APPGE characters_NN2 --_ZZ familial_JJ ,_Y professional_JJ_NN1@ ,_Y romantic_JJ --_NN1_JJ you_PPY may_VM discover_VVI that_CST you_PPY can_VM double_VVI up_RP jobs_NN2 for_IF one_MC1 character_NN1 ,_Y thereby_RR getting_VVG rid_VVN of_IO superfluous_JJ characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   41 Why did you give your character three children ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   41 Why_RRQ did_VDD you_PPY give_VVI your_APPGE character_NN1 three_MC children_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   42 Why not one ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   42 Why_RRQ not_XX one_PN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   43 If your protagonist has two best friends who are sidekicks or helpers , can you merge them into one ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   43 If_CS your_APPGE protagonist_NN1 has_VHZ two_MC best_JJT friends_NN2 who_PNQS are_VBR sidekicks_NN2 or_CC helpers_NN2 ,_Y can_VM you_PPY merge_VVI them_PPHO2 into_II one_PN1_MC1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   44 Can you justify every point-of-view character ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   44 Can_VM_VV0% you_PPY justify_VVI every_AT1 point-of-view_NN1 character_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   45 If you have more than three , can you eliminate or combine the others ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   45 If_CS you_PPY have_VH0 more_DAR than_CSN three_MC ,_Y can_VM you_PPY eliminate_VVI or_CC combine_VVI the_AT others_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   46 Too few characters often corresponds to the single-viewpoint story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   46 Too_RG few_DA2 characters_NN2 often_RR corresponds_VVZ to_II the_AT single-viewpoint_JJ_NN1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   47 Maybe your first-person story would gain dimension with the addition of a third-person subjective viewpoint of the antagonist or another main character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   47 Maybe_RR your_APPGE first-person_JJ_NN1 story_NN1 would_VM gain_VVI dimension_NN1 with_IW the_AT addition_NN1 of_IO a_AT1 third-person_JJ subjective_JJ viewpoint_NN1 of_IO the_AT antagonist_NN1 or_CC another_DD1 main_JJ character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   48 Too few characters may also signal the need to develop one or several subplots , which will add depth and interest .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   48 Too_RG few_DA2 characters_NN2 may_VM also_RR signal_VVI the_AT need_NN1 to_TO develop_VVI one_PN1_MC1 or_CC several_DA2 subplots_NN2 ,_Y which_DDQ will_VM add_VVI depth_NN1 and_CC interest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   49 Point of view Diagnosis #1 : Inconsistent point of view ( POV ) ; jumps from omniscient to third person POV character does n't know or would n't be thinking about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   49 Point_NN1 of_IO view_NN1 Diagnosis_NN1 #1_NNU :_Y Inconsistent_JJ point_NN1 of_IO view_NN1 (_Y POV_NP1 )_Y ;_Y jumps_VVZ_NN2@ from_II omniscient_JJ to_II third_MD person_NN1 POV_NP1 character_NN1 does_VDZ n't_XX know_VVI or_CC would_VM n't_XX be_VBI thinking_VVG about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   50 Treatment : Read your draft carefully and note which areas could be attributed to a video camera .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   50 Treatment_NN1 :_Y Read_VV0 your_APPGE draft_NN1 carefully_RR and_CC note_VV0_NN1 which_DDQ areas_NN2 could_VM be_VBI attributed_VVN to_II a_AT1 video_NN1 camera_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   51 Mark those sentences where the text reveals subjective feelings , physical sensations or emotions of a character other than the viewpoint character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   51 Mark_VV0 those_DD2 sentences_NN2 where_RRQ_CS the_AT text_NN1 reveals_VVZ subjective_JJ feelings_NN2 ,_Y physical_JJ sensations_NN2 or_CC emotions_NN2 of_IO a_AT1 character_NN1 other_II21 than_II22 the_AT viewpoint_NN1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   52 Look for POV slips where you , the writer , intrude with explanation or description that would not be on the mind of the POV character at that time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   52 Look_VV0 for_IF POV_NP1 slips_VVZ_NN2 where_RRQ_CS you_PPY ,_Y the_AT writer_NN1 ,_Y intrude_VV0 with_IW explanation_NN1 or_CC description_NN1 that_CST_DD1 would_VM not_XX be_VBI on_II the_AT mind_NN1 of_IO the_AT POV_NP1 character_NN1 at_II that_DD1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   53 Delete these slips or rewrite them through the perceptions and experiences of your POV character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   53 Delete_VV0 these_DD2 slips_NN2 or_CC rewrite_VV0 them_PPHO2 through_II the_AT perceptions_NN2 and_CC experiences_NN2 of_IO your_APPGE POV_NP1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   54 Diagnosis #2 : A wrong character is given the POV .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   54 Diagnosis_NN1 #2_NNU :_Y A_ZZ1_AT1@ wrong_JJ character_NN1 is_VBZ given_VVN the_AT POV_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   55 Treatment : This is a tough problem to spot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   55 Treatment_NN1 :_Y This_DD1 is_VBZ a_AT1 tough_JJ problem_NN1 to_TO spot_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   56 If your protagonist and one or several other POV characters are in a scene , your protagonist should be the viewpoint character nine out of 10 times .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   56 If_CS your_APPGE protagonist_NN1 and_CC one_MC1_PN1 or_CC several_DA2 other_JJ POV_NP1 characters_NN2 are_VBR in_II a_AT1 scene_NN1 ,_Y your_APPGE protagonist_NN1 should_VM be_VBI the_AT viewpoint_NN1 character_NN1 nine_MC out_II21 of_II22 10_MC times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   57 If a POV character has a weak scene goal compared to another viewpoint character , try switching viewpoints for greater drama .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   57 If_CS a_AT1 POV_NP1 character_NN1 has_VHZ a_AT1 weak_JJ scene_NN1 goal_NN1 compared_VVN to_II another_DD1 viewpoint_NN1 character_NN1 ,_Y try_VV0 switching_JJ_VVG_NN1 viewpoints_NN2 for_IF greater_JJR drama_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   58 Most set pieces ( i.e. , " big scenes " or dramatic turning points ) and the sequels that follow them novel is sufficiently complex and long to have well-developed subplots and parallel or main characters with their own set pieces .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   58 Most_DAT_RGT set_JJ@_VV0_NN1 pieces_NN2 (_Y i.e._REX ,_Y "_Y big_JJ scenes_NN2 "_Y or_CC dramatic_JJ turning_NN1 points_NN2_VVZ )_Y and_CC the_AT sequels_NN2 that_CST follow_VV0 them_PPHO2 novel_NN1 is_VBZ sufficiently_RR complex_JJ and_CC long_JJ_RR_VV0@ to_TO have_VHI well-developed_JJ subplots_NN2 and_CC parallel_JJ_NN1_RR or_CC main_JJ characters_NN2 with_IW their_APPGE own_DA set_NN1 pieces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   59 Diagnosis #3 : The POV hovers or borders on omniscient .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   59 Diagnosis_NN1 #3_NNU :_Y The_AT POV_NP1 hovers_VVZ or_CC borders_NN2 on_II omniscient_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   60 Treatment : An unanchored viewpoint shows a character in action and supplies only what the character sees .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   60 Treatment_NN1 :_Y An_AT1 unanchored_JJ viewpoint_NN1 shows_VVZ a_AT1 character_NN1 in_II action_NN1 and_CC supplies_VVZ_NN2 only_RR_JJ what_DDQ the_AT character_NN1 sees_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   61 The remedy for a hovering viewpoint is almost always deeper characterization , including the addition of other visceral sensations ( sounds , smells , touch , taste ) , emotions ( as displayed by a physical response , e.g. , " He clenched his fist " ) , thoughts ( including strategies for a scene goal ) , and references to a past ( including the yearning and/or memories of the past ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   61 The_AT remedy_NN1 for_IF a_AT1 hovering_JJ@ viewpoint_NN1 is_VBZ almost_RR always_RR deeper_JJR characterization_NN1 ,_Y including_II_VVG@ the_AT addition_NN1 of_IO other_JJ visceral_JJ sensations_NN2 (_Y sounds_VVZ_NN2 ,_Y smells_NN2_VVZ ,_Y touch_NN1_VV0 ,_Y taste_NN1 )_Y ,_Y emotions_NN2 (_Y as_CSA displayed_VVN by_II a_AT1 physical_JJ response_NN1 ,_Y e.g._REX ,_Y "_Y He_PPHS1 clenched_VVD his_APPGE fist_NN1 "_Y )_Y ,_Y thoughts_NN2 (_Y including_II_VVG@ strategies_NN2 for_IF a_AT1 scene_NN1 goal_NN1 )_Y ,_Y and_CC references_NN2_VVZ@ to_II a_AT1 past_NN1_JJ (_Y including_II the_AT yearning_NN1@_JJ@ and/or_CC memories_NN2 of_IO the_AT past_NN1_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   62 When a character is fully developed , the viewpoint no longer appears to hover .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   62 When_CS a_AT1 character_NN1 is_VBZ fully_RR developed_VVN_VVD_JJ ,_Y the_AT viewpoint_NN1 no_RR21 longer_RR22 appears_VVZ to_TO hover_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   63 Diagnosis #4 : Awkward shifts from one POV to another POV .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   63 Diagnosis_NN1 #4_NNU :_Y Awkward_JJ shifts_NN2 from_II one_MC1 POV_NP1 to_II another_DD1 POV_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   64 Treatment : Because POV should be maintained throughout one scene , section or chapter -- unless the writer is using omniscient viewpoint -- most awkward shifts occur between these units of structure .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   64 Treatment_NN1 :_Y Because_CS POV_NP1 should_VM be_VBI maintained_VVN throughout_II one_MC1 scene_NN1 ,_Y section_NN1 or_CC chapter_NN1 --_NN1 unless_CS the_AT writer_NN1 is_VBZ using_VVG omniscient_JJ viewpoint_NN1 --_NN1_JJ most_RGT_DAT awkward_JJ shifts_NN2 occur_VV0 between_II these_DD2 units_NN2 of_IO structure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   65 Smoother transitions can come from repetition of on Tuesday " or by starting with the new character 's name .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   65 Smoother_JJR transitions_NN2 can_VM come_VVI from_II repetition_NN1 of_IO on_II% Tuesday_NPD1 "_Y or_CC by_II starting_VVG with_IW the_AT new_JJ character_NN1 's_GE name_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   66 Dialogue Diagnosis #1 : Too much dialogue for too long ; i.e. , " talking heads .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   66 Dialogue_NN1 Diagnosis_NN1 #1_NNU :_Y Too_RG much_DA1 dialogue_NN1 for_IF too_RG long_RR_JJ ;_Y i.e._REX ,_Y "_Y talking_VVG heads_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   67 " Treatment : Too much dialogue may mean a " speech " rather than a dialogue , and all you need do is break it up with a response from another character so that it becomes a conversation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   67 "_Y Treatment_NN1 :_Y Too_RG much_DA1 dialogue_NN1 may_VM mean_VVI a_AT1 "_Y speech_NN1 "_Y rather_II21 than_II22 a_AT1 dialogue_NN1 ,_Y and_CC all_DB you_PPY need_VM@ do_VDI is_VBZ break_NN1 it_PPH1 up_RP with_IW a_AT1 response_NN1 from_II another_DD1 character_NN1 so_CS21 that_CS22 it_PPH1 becomes_VVZ a_AT1 conversation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   68 You may he loading up the dialogue with too much information or offering the equivalent of a court-reporter record .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   68 You_PPY may_VM he_PPHS1 loading_VVG up_RP_II@ the_AT dialogue_NN1 with_IW too_RG much_DA1 information_NN1 or_CC offering_VVG the_AT equivalent_NN1@_JJ of_IO a_AT1 court-reporter_JJ_NN1 record_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   69 In either case , prune and tighten .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   69 In_II either_DD1 case_NN1 ,_Y prune_NN1_VV0 and_CC tighten_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   70 " Talking heads " refers to dialogue that goes on too long without any other element of craft , such as small-scene action or character sensation , emotion or thought .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   70 "_Y Talking_VVG heads_NN2 "_Y refers_VVZ to_II dialogue_NN1 that_CST_DD1 goes_VVZ on_RP@_II too_RG long_RR_JJ without_IW any_DD other_JJ element_NN1 of_IO craft_NN1 ,_Y such_II21 as_II22 small-scene_JJ_NN1 action_NN1 or_CC character_NN1 sensation_NN1 ,_Y emotion_NN1 or_CC thought_VVD_NN1_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   71 Few fiction writers can keep readers involved solely with dialogue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   71 Few_DA2 fiction_NN1 writers_NN2 can_VM keep_VVI readers_NN2 involved_VVD_VVN solely_RR with_IW dialogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   72 Repair talking heads by adding setting , sensory experience and other characterization , all through the filter of your POV character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   72 Repair_VV0_NN1 talking_VVG heads_NN2 by_II adding_VVG_JJ@ setting_NN1 ,_Y sensory_JJ experience_NN1 and_CC other_JJ characterization_NN1 ,_Y all_DB_RR@ through_II the_AT filter_NN1 of_IO your_APPGE POV_NP1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   73 Diagnosis #2 : The voice of one speaker is indistinguishable from another , and they are all pancake flat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   73 Diagnosis_NN1 #2_NNU :_Y The_AT voice_NN1 of_IO one_MC1 speaker_NN1 is_VBZ indistinguishable_JJ from_II another_DD1 ,_Y and_CC they_PPHS2 are_VBR all_DB pancake_NN1 flat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   74 Treatment : Develop figures of speech , regionalisms , slang your characters ' ethnicity , race , country or ancestry of origin , vocation and personality .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   74 Treatment_NN1 :_Y Develop_VV0 figures_NN2 of_IO speech_NN1 ,_Y regionalisms_NN2 ,_Y slang_NN1 your_APPGE characters_NN2 '_GE ethnicity_NN1 ,_Y race_NN1_VV0@ ,_Y country_NN1 or_CC ancestry_NN1 of_IO origin_NN1 ,_Y vocation_NN1 and_CC personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   75 Build a word list of favorite phrases , including metaphors that fit a character 's outlook .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   75 Build_VV0 a_AT1 word_NN1 list_NN1 of_IO favorite_JJ_NN1 phrases_NN2 ,_Y including_II_VVG@ metaphors_NN2 that_CST fit_VV0 a_AT1 character_NN1 's_GE outlook_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   76 Diagnosis #3 : Dialogue lacks tension , fails to move the plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   76 Diagnosis_NN1 #3_NNU :_Y Dialogue_NN1 lacks_VVZ tension_NN1 ,_Y fails_VVZ to_TO move_VVI the_AT plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   77 Treatment : Revise based on your POV character 's scene goal or emotional need .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   77 Treatment_NN1 :_Y Revise_VV0 based_VVN on_II your_APPGE POV_NP1 character_NN1 's_GE scene_NN1 goal_NN1 or_CC emotional_JJ need_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   78 Use dialogue to show the POV character pushing to reach the goal and running into opposition .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   78 Use_VV0_NN1 dialogue_NN1 to_TO show_VVI the_AT POV_NP1 character_NN1 pushing_VVG to_TO reach_VVI the_AT goal_NN1 and_CC running_VVG_NN1 into_II opposition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   79 If your scene does not have this opposition inherent in it , delete the scene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   79 If_CS your_APPGE scene_NN1 does_VDZ not_XX have_VHI this_DD1 opposition_NN1 inherent_JJ in_II it_PPH1 ,_Y delete_VV0 the_AT scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   80 Or , you may need to add an antagonistic character to a scene and let that character challenge your POV character through dialogue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   80 Or_CC ,_Y you_PPY may_VM need_VVI to_TO add_VVI an_AT1 antagonistic_JJ character_NN1 to_II a_AT1 scene_NN1 and_CC let_VV0 that_DD1_CST character_NN1 challenge_VVI your_APPGE POV_NP1 character_NN1 through_II dialogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   81 Diagnosis #4 : Attributions -- who is speaking -- take readers out of the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   81 Diagnosis_NN1 #4_NNU :_Y Attributions_NN2 --_NN1 who_PNQS is_VBZ speaking_VVG_JJ@ --_NN1_JJ take_VV0_NN1% readers_NN2 out_II21 of_II22 the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   82 Treatment : Replace almost all attributions that describe the dialogue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   82 Treatment_NN1 :_Y Replace_VV0 almost_RR all_DB attributions_NN2 that_CST describe_VV0 the_AT dialogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   83 These include words such as snarled , growled , giggled , chortled , announced , chided , scolded , etc .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   83 These_DD2 include_VV0 words_NN2 such_II21 as_II22 snarled_JJ@ ,_Y growled_VVD ,_Y giggled_VVD ,_Y chortled_VVD ,_Y announced_VVD_VVN ,_Y chided_VVD ,_Y scolded_VVD_VVN ,_Y etc_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   84 Replace them with he said or she said .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   84 Replace_VV0 them_PPHO2 with_IW he_PPHS1 said_VVD or_CC she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   85 Or replace most of your uses of he said or she said with a sentence #5 : Avoid over-the-top writing of dialect , slang , jargon , profanity , clichs , foreign terms or speech tags .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   85 Or_CC replace_VV0 most_DAT of_IO your_APPGE uses_NN2 of_IO he_PPHS1 said_VVD or_CC she_PPHS1 said_VVD with_IW a_AT1 sentence_NN1 #5_NNU :_Y Avoid_VV0 over-the-top_JJ_NN1 writing_NN1 of_IO dialect_NN1 ,_Y slang_NN1 ,_Y jargon_NN1 ,_Y profanity_NN1 ,_Y clichs_NN2_VVZ ,_Y foreign_JJ terms_NN2 or_CC speech_NN1 tags_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   86 Treatment : Dialect is especially hard to read , and if your readers must slow down to translate it , you 've taken them out of the magic mood of being lost in the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   86 Treatment_NN1 :_Y Dialect_NN1 is_VBZ especially_RR hard_JJ to_TO read_VVI ,_Y and_CC if_CS_CSW@ your_APPGE readers_NN2 must_VM slow_VVI down_RP to_TO translate_VVI it_PPH1 ,_Y you_PPY 've_VH0 taken_VVN them_PPHO2 out_II21 of_II22 the_AT magic_JJ_NN1 mood_NN1 of_IO being_VBG lost_VVN in_II the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   87 You can affect dialect with a few dropped " g 's , " such as " walkin ' " and " thinkin ' , " but avoid trying to phonetically spell dialects .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   87 You_PPY can_VM affect_VVI dialect_NN1 with_IW a_AT1 few_DA2 dropped_VVD_VVN "_Y g_ZZ221 's_ZZ222 ,_Y "_Y such_II21 as_II22 "_Y walkin_NN1 '_GE "_Y and_CC "_Y thinkin_NN1 '_GE ,_Y "_Y but_CCB avoid_VV0 trying_VVG to_TO phonetically_RR spell_VVI dialects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   88 For all other special language ( slang , jargon , foreign terms ) , use a light hand .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   88 For_IF all_DB other_JJ special_JJ language_NN1 (_Y slang_NN1 ,_Y jargon_NN1 ,_Y foreign_JJ terms_NN2 )_Y ,_Y use_VV0 a_AT1 light_JJ_NN1 hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   89 Story and plot Diagnosis #1 : Absent , weak or unclear story yearning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   89 Story_NN1 and_CC plot_VV0_NN1 Diagnosis_NN1 #1_NNU :_Y Absent_JJ_VV0@ ,_Y weak_JJ or_CC unclear_JJ story_NN1 yearning_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   90 Treatment : Plot alone sustains few stories .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   90 Treatment_NN1 :_Y Plot_VV0 alone_RR sustains_VVZ few_DA2 stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   91 Give your protagonist and other POV characters a universal human need such as self-respect , identity , family unity , survival or belonging , and connect it to a past event where that need was denied or made impossible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   91 Give_VV0 your_APPGE protagonist_NN1 and_CC other_JJ POV_NP1 characters_NN2 a_AT1 universal_JJ human_JJ_NN1 need_NN1_VV0 such_II21 as_II22 self-respect_NN1 ,_Y identity_NN1 ,_Y family_NN1 unity_NN1 ,_Y survival_NN1 or_CC belonging_VVG ,_Y and_CC connect_VV0 it_PPH1 to_II a_AT1 past_JJ_NN1 event_NN1 where_CS_RRQ that_DD1 need_NN1 was_VBDZ denied_VVN or_CC made_VVD_VVN impossible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   92 Develop only one such need .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   92 Develop_VV0 only_RR one_MC1 such_DA need_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   93 Show the character as he or she yearns for and pursues fulfillment of Diagnosis #2 : Episodic story structure lacks central conflict or a story goal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   93 Show_VV0 the_AT character_NN1 as_CSA he_PPHS1 or_CC she_PPHS1 yearns_VVZ for_IF and_CC pursues_VVZ fulfillment_NN1 of_IO Diagnosis_NN1 #2_NNU :_Y Episodic_JJ story_NN1 structure_NN1 lacks_VVZ central_JJ conflict_NN1 or_CC a_AT1 story_NN1 goal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   94 Treatment : Review this story structure and outline your plot accordingly : * A character with a problem ; * Complications ; * Crises that reach a climax ; * Resolution of the problem ; * Character learns something about self or life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   94 Treatment_NN1 :_Y Review_VV0@_NN1 this_DD1 story_NN1 structure_NN1 and_CC outline_VV0 your_APPGE plot_NN1 accordingly_RR :_Y *_FU A_ZZ1_AT1@ character_NN1 with_IW a_AT1 problem_NN1 ;_Y *_FU Complications_NN2 ;_Y *_FU Crises_NN2 that_CST reach_VV0 a_AT1 climax_NN1 ;_Y *_FU Resolution_NN1 of_IO the_AT problem_NN1 ;_Y *_FU Character_NN1 learns_VVZ something_PN1 about_II self_NN1 or_CC life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   95 Also review , and outline your plot accordingly with , the classic structures of the Hero 's Journey or Heroine 's Journey , based on the work of Joseph Campbell , Maureen Murdock and Christopher Vogler .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   95 Also_RR review_VV0 ,_Y and_CC outline_VV0 your_APPGE plot_NN1 accordingly_RR with_IW ,_Y the_AT classic_JJ_NN1 structures_NN2 of_IO the_AT Hero_NN1 's_GE Journey_NN1 or_CC Heroine_NN1 's_GE Journey_NN1 ,_Y based_VVN on_II the_AT work_NN1 of_IO Joseph_NP1 Campbell_NP1 ,_Y Maureen_NP1 Murdock_NP1 and_CC Christopher_NP1 Vogler_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   96 ( I discuss these structures at length in my books A Writer 's Guide to Fiction and Manuscript Makeover .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   96 (_Y I_PPIS1_ZZ1@ discuss_VV0 these_DD2 structures_NN2 at_RR21 length_RR22 in_II my_APPGE books_NN2 A_ZZ1_AT1@ Writer_NN1 's_GE Guide_NN1 to_II Fiction_NN1 and_CC Manuscript_NN1 Makeover_NP1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   97 ) Demonstrate one big , important problem as your inciting incident .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   97 )_Y Demonstrate_VV0 one_PN1_MC1 big_JJ ,_Y important_JJ problem_NN1 as_CSA_II@ your_APPGE inciting_VVG incident_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   98 This will , in turn , define your ending and the goal your protagonist is striving for .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   98 This_DD1 will_NN1@_VM ,_Y in_II turn_NN1 ,_Y define_VV0 your_APPGE ending_NN1 and_CC the_AT goal_NN1 your_APPGE protagonist_NN1 is_VBZ striving_VVG for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0   99 Make sure your plot goal can be expressed in specific , tangible ways : Not " happiness , " but " custody of the kids .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0   99 Make_VV0 sure_JJ your_APPGE plot_NN1 goal_NN1 can_VM be_VBI expressed_VVN in_II specific_JJ ,_Y tangible_JJ ways_NN2 :_Y Not_XX "_Y happiness_NN1 ,_Y "_Y but_CCB "_Y custody_NN1 of_IO the_AT kids_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  100 " Not " security , " but " a home and a job .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  100 "_Y Not_XX "_Y security_NN1 ,_Y "_Y but_CCB "_Y a_AT1 home_NN1 and_CC a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  101 " Not " success " but is too familiar or too clichd .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  101 "_Y Not_XX "_Y success_NN1 "_Y but_CCB is_VBZ too_RG familiar_JJ or_CC too_RR@ clichd_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  102 Treatment : Our lives are flooded with visual media .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  102 Treatment_NN1 :_Y Our_APPGE lives_NN2 are_VBR flooded_VVN with_IW visual_JJ media_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  103 But , while every plot you can conceive has already been done , you must create an original rendition .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  103 But_CCB ,_Y while_CS every_AT1 plot_NN1_VV0 you_PPY can_VM conceive_VVI has_VHZ already_RR been_VBN done_VDN ,_Y you_PPY must_VM create_VVI an_AT1 original_JJ rendition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  104 Do n't settle for your first plot ideas ; they are probably full of what you 've most recently seen or read .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  104 Do_VD0 n't_XX settle_VVI for_IF your_APPGE first_MD plot_NN1 ideas_NN2 ;_Y they_PPHS2 are_VBR probably_RR full_JJ of_IO what_DDQ you_PPY 've_VH0 most_RGT recently_RR seen_VVN or_CC read_VVD_VV0_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  105 Push your imagination to brainstorm " What if ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  105 Push_VV0 your_APPGE imagination_NN1 to_TO brainstorm_VVI "_Y What_DDQ if_CS ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  106 " scenarios .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  106 "_Y scenarios_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  107 Write your ideas as a synopsis and seek feedback from your writing group or friends .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  107 Write_VV0 your_APPGE ideas_NN2 as_II_CSA a_AT1 synopsis_NN1 and_CC seek_VV0 feedback_NN1 from_II your_APPGE writing_NN1 group_NN1 or_CC friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  108 Ask if any part of your story seems familiar or clichd .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  108 Ask_VV0 if_CSW@_CS any_DD part_NN1 of_IO your_APPGE story_NN1 seems_VVZ familiar_JJ or_CC clichd_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  109 Read plot synopses for your genre to familiarize yourself with what 's been done .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  109 Read_VV0 plot_NN1_VV0 synopses_NN2 for_IF your_APPGE genre_NN1 to_TO familiarize_VVI yourself_PPX1 with_IW what_DDQ 's_VHZ been_VBN done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  110 Read widely and pay attention to common themes and plots .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  110 Read_VV0 widely_RR and_CC pay_VV0_NN1 attention_NN1 to_II common_JJ themes_NN2 and_CC plots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  111 Diagnosis #4 : The plot lacks dramatic tension or the threat does n't seem real .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  111 Diagnosis_NN1 #4_NNU :_Y The_AT plot_NN1 lacks_VVZ dramatic_JJ tension_NN1 or_CC the_AT threat_NN1 does_VDZ n't_XX seem_VVI real_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  112 Treatment : The protagonist and antagonist should be forces of equal power working at cross-purposes with an equal passion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  112 Treatment_NN1 :_Y The_AT protagonist_NN1 and_CC antagonist_NN1 should_VM be_VBI forces_NN2 of_IO equal_JJ power_NN1 working_VVG at_II cross-purposes_NN2 with_IW an_AT1 equal_JJ passion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  113 The clich describes this as " an irresistible force meets an immovable object .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  113 The_AT clich_NN1 describes_VVZ this_DD1 as_II "_Y an_AT1 irresistible_JJ force_NN1 meets_VVZ an_AT1 immovable_JJ object_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  114 " Check that you 've given your hero and villain specific skills , tools , .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  114 "_Y Check_VV0 that_CST you_PPY 've_VH0 given_VVN your_APPGE hero_NN1 and_CC villain_NN1 specific_JJ skills_NN2 ,_Y tools_NN2 ,_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  115 Make sure you 've given your antagonist a face ; i.e. , avoid the antagonist that is a collective , such as a government or bureaucracy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  115 Make_VV0 sure_JJ you_PPY 've_VH0 given_VVN your_APPGE antagonist_NN1 a_AT1 face_NN1 ;_Y i.e._REX ,_Y avoid_VV0 the_AT antagonist_NN1 that_CST_DD1 is_VBZ a_AT1 collective_NN1_JJ ,_Y such_II21 as_II22 a_AT1 government_NN1 or_CC bureaucracy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  116 Make sure you 've individualized that larger entity with a threatening individual who can and will harm your protagonist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  116 Make_VV0 sure_JJ you_PPY 've_VH0 individualized_VVN that_CST_DD1 larger_JJR entity_NN1 with_IW a_AT1 threatening_JJ@ individual_NN1 who_PNQS can_VM_VV0% and_CC will_VM harm_VVI your_APPGE protagonist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  117 A plot can lack dramatic tension if the scenes have more or less equal suspense , or if you have failed to create a crescendo of tension leading to crises and set pieces .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  117 A_AT1 plot_NN1 can_VM lack_VVI dramatic_JJ tension_NN1 if_CS the_AT scenes_NN2 have_VH0 more_RGR or_CC less_RGR equal_JJ suspense_NN1 ,_Y or_CC if_CS_CSW@ you_PPY have_VH0 failed_VVN to_TO create_VVI a_AT1 crescendo_NN1 of_IO tension_NN1 leading_VVG to_II crises_NN2 and_CC set_VV0_NN1_VVD_JJ@ pieces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  118 You can rarely go wrong intensifying conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  118 You_PPY can_VM rarely_RR go_VVI wrong_RR intensifying_VVG_JJ@ conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  119 Turn differences of opinion into arguments or fights .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  119 Turn_VV0_NN1 differences_NN2 of_IO opinion_NN1 into_II arguments_NN2 or_CC fights_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  120 Turn potential loss into outright tragedy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  120 Turn_VV0 potential_JJ_NN1 loss_NN1 into_II outright_JJ tragedy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  121 Examine every scene and define your source of conflict and threat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  121 Examine_VV0 every_AT1 scene_NN1 and_CC define_VV0 your_APPGE source_NN1 of_IO conflict_NN1 and_CC threat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  122 Assign a level of suspense from one , the lowest , to five .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  122 Assign_VV0 a_AT1 level_NN1 of_IO suspense_NN1 from_II one_MC1_PN1 ,_Y the_AT lowest_JJT_RRT ,_Y to_II five_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  123 Ask what different goal , conflict or threat would fit your plot but is far worse than what you have written -- and then write it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  123 Ask_VV0 what_DDQ different_JJ goal_NN1 ,_Y conflict_NN1 or_CC threat_NN1 would_VM fit_VVI your_APPGE plot_NN1 but_CCB is_VBZ far_RG worse_JJR_RRR@ than_CSN what_DDQ you_PPY have_VH0 written_VVN --_ZZ and_CC then_RT write_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  124 Make your lows super low -- a death is about as low as low can be -- and make sure your highs are triumphant or joyful .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  124 Make_VV0 your_APPGE lows_NN2 super_JJ low_JJ --_NN1_JJ a_AT1 death_NN1 is_VBZ about_II_RG%_RP@ as_RG low_JJ_RR@ as_CSA low_JJ_NN1@_RR@ can_VM be_VBI --_ZZ and_CC make_VV0 sure_JJ your_APPGE highs_NN2 are_VBR triumphant_JJ or_CC joyful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  125 Exaggerate the emotional reactions of be just about right .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  125 Exaggerate_VV0 the_AT emotional_JJ reactions_NN2 of_IO be_VBI just_RR21 about_RR22 right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  126 Diagnosis #5 : Too many subplots or too few .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  126 Diagnosis_NN1 #5_NNU :_Y Too_RG many_DA2 subplots_NN2 or_CC too_RG few_DA2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  127 Treatment : When a story has too many subplots , the strength of the primary plot is weakened or obscured .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  127 Treatment_NN1 :_Y When_RRQ_CS a_AT1 story_NN1 has_VHZ too_RG many_DA2 subplots_NN2 ,_Y the_AT strength_NN1 of_IO the_AT primary_JJ_NN1 plot_NN1 is_VBZ weakened_VVN or_CC obscured_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  128 Your book may reflect this problem by its length or by its large cast of characters , especially POV characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  128 Your_APPGE book_NN1 may_VM reflect_VVI this_DD1 problem_NN1 by_II its_Z' length_NN1 or_CC by_II its_Z' large_JJ cast_NN1@ of_IO characters_NN2 ,_Y especially_RR POV_NP1 characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  129 Too few subplots may make your primary plot seem too direct or simple .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  129 Too_RG few_DA2 subplots_NN2 may_VM make_VVI your_APPGE primary_JJ_NN1 plot_NN1 seem_VV0 too_RG direct_JJ or_CC simple_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  130 You need to divert the reader 's attention from the " falling piano .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  130 You_PPY need_VV0 to_TO divert_VVI the_AT reader_NN1 's_GE attention_NN1 from_II the_AT "_Y falling_JJ@ piano_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  131 " Add subplots .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  131 "_Y Add_VV0 subplots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  132 The romantic subplot is the most common , but you may create one involving home or work life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  132 The_AT romantic_JJ subplot_NN1 is_VBZ the_AT most_RGT common_JJ ,_Y but_CCB you_PPY may_VM create_VVI one_PN1 involving_VVG home_RL_NN1 or_CC work_VV0_NN1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  133 Use the subplot to create moments of higher conflict or tension when the primary plot has lower tension or sequels , and vice versa .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  133 Use_VV0 the_AT subplot_NN1 to_TO create_VVI moments_NN2 of_IO higher_JJR conflict_NN1 or_CC tension_NN1 when_CS_RRQ the_AT primary_JJ_NN1 plot_NN1 has_VHZ lower_JJR tension_NN1 or_CC sequels_NN2 ,_Y and_CC vice_RR21 versa_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  134 Bring the subplots to their climax just before the climax of the primary plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  134 Bring_VV0 the_AT subplots_NN2 to_II their_APPGE climax_NN1 just_RR before_II_CS the_AT climax_NN1 of_IO the_AT primary_JJ_NN1 plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  135 That way , the subplots will contribute their dramatic energy to your climax .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  135 That_DD1 way_NN1 ,_Y the_AT subplots_NN2 will_VM contribute_VVI their_APPGE dramatic_JJ energy_NN1 to_II your_APPGE climax_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  136 Conflict Diagnosis #1 : Conflict seems contrived and is hard to believe .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  136 Conflict_NN1_VV0@ Diagnosis_NN1 #1_NNU :_Y Conflict_NN1 seems_VVZ contrived_JJ and_CC is_VBZ hard_JJ to_TO believe_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  137 Treatment : Go back to the drawing board and check that you have provided all of or atypical actions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  137 Treatment_NN1 :_Y Go_VV0 back_RP to_II the_AT drawing_NN1 board_NN1 and_CC check_VV0_NN1 that_CST you_PPY have_VH0 provided_VVN all_DB of_IO or_CC atypical_JJ actions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  138 For instance , you may need to do more research to learn how law enforcement investigates crimes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  138 For_REX21 instance_REX22 ,_Y you_PPY may_VM need_VVI to_TO do_VDI more_DAR_RRR research_NN1_VV0@ to_TO learn_VVI how_RRQ law_NN1 enforcement_NN1 investigates_VVZ crimes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  139 Make sure you do n't give your antagonist superhuman powers -- unless he is superhuman or alien .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  139 Make_VV0 sure_JJ you_PPY do_VD0 n't_XX give_VVI your_APPGE antagonist_NN1 superhuman_JJ powers_NN2 --_NN1_JJ unless_CS he_PPHS1 is_VBZ superhuman_JJ or_CC alien_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  140 Everyday people do n't own Lear jets to fly across country and spit in someone 's face .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  140 Everyday_JJ people_NN do_VD0 n't_XX own_VVI Lear_NP1 jets_NN2_VVZ% to_TO fly_VVI across_II country_NN1 and_CC spit_VVI in_II_RP@ someone_PN1 's_GE face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  141 They also ca n't come up with a million-dollar ransom with ease .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  141 They_PPHS2 also_RR ca_VM n't_XX come_VVI up_RP with_IW a_AT1 million-dollar_JJ ransom_NN1 with_IW ease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  142 Plug your holes of logic and avoid contrivances .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  142 Plug_VV0 your_APPGE holes_NN2 of_IO logic_NN1 and_CC avoid_VV0 contrivances_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  143 Diagnosis #2 : Conflict is too mild or a situation does n't create enough conflict within the character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  143 Diagnosis_NN1 #2_NNU :_Y Conflict_NN1 is_VBZ too_RG mild_JJ or_CC a_AT1 situation_NN1 does_VDZ n't_XX create_VVI enough_DD conflict_NN1 within_II the_AT character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  144 Treatment : Readers are interested in conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  144 Treatment_NN1 :_Y Readers_NN2 are_VBR interested_JJ in_II conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  145 Mild conflict stirs mild suspense .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  145 Mild_JJ conflict_NN1 stirs_VVZ mild_JJ suspense_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  146 You may be a nice , conflict-avoiding person , but as a writer , get mean !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  146 You_PPY may_VM be_VBI a_AT1 nice_JJ ,_Y conflict-avoiding_JJ_NN1 person_NN1 ,_Y but_CCB as_II_CSA a_AT1 writer_NN1 ,_Y get_VV0 mean_VV0_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  147 Replace your character 's cut arm with a broken arm .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  147 Replace_VV0 your_APPGE character_NN1 's_GE cut_NN1_JJ@_VVN arm_NN1 with_IW a_AT1 broken_JJ arm_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  148 Replace the fire damage with the loss of the entire house -- or neighborhood .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  148 Replace_VV0 the_AT fire_NN1 damage_NN1 with_IW the_AT loss_NN1 of_IO the_AT entire_JJ house_NN1 --_NN1 or_CC neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  149 If a situation does n't arouse enough conflict within your character , you may need to change the situation or alter the relationship of the character to the situation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  149 If_CS a_AT1 situation_NN1 does_VDZ n't_XX arouse_VVI enough_DD conflict_NN1 within_II your_APPGE character_NN1 ,_Y you_PPY may_VM need_VVI to_TO change_VVI the_AT situation_NN1 or_CC alter_VV0 the_AT relationship_NN1 of_IO the_AT character_NN1 to_II the_AT situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  150 For instance , if an a deal as it would be if he is the father of your character 's unborn child .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  150 For_REX21 instance_REX22 ,_Y if_CS an_AT1 a_AT1 deal_NN1 as_CSA it_PPH1 would_VM be_VBI if_CS_CSW@ he_PPHS1 is_VBZ the_AT father_NN1 of_IO your_APPGE character_NN1 's_GE unborn_JJ child_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  151 If a $20,000 car gets totaled in an accident , the conflict for your character will be greater if it 's his first car and he just dropped his insurance when he lost his job .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  151 If_CS a_AT1 $20,000_NNU car_NN1 gets_VVZ totaled_JJ@_VVN@ in_II an_AT1 accident_NN1 ,_Y the_AT conflict_NN1 for_IF your_APPGE character_NN1 will_VM be_VBI greater_JJR if_CS it_PPH1 's_VBZ his_APPGE first_MD car_NN1 and_CC he_PPHS1 just_RR dropped_VVD_VVN his_APPGE insurance_NN1 when_CS_RRQ he_PPHS1 lost_VVD his_APPGE job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  152 Sometimes , the answer to insufficient conflict is to delete a scene entirely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  152 Sometimes_RT ,_Y the_AT answer_NN1 to_II insufficient_JJ conflict_NN1 is_VBZ to_TO delete_VVI a_AT1 scene_NN1 entirely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  153 Summarize the interaction in narration and jump-cut to the next scene where the stakes are higher and the characters are desperate to succeed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  153 Summarize_VV0 the_AT interaction_NN1 in_II narration_NN1 and_CC jump-cut_VV0_NN1_JJ to_II the_AT next_MD scene_NN1 where_CS_RRQ the_AT stakes_NN2 are_VBR higher_JJR and_CC the_AT characters_NN2 are_VBR desperate_JJ to_TO succeed_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  154 Diagnosis #3 : Conflict occurs too late in the scene or chapter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  154 Diagnosis_NN1 #3_NNU :_Y Conflict_NN1 occurs_VVZ too_RG late_RR_JJ in_II the_AT scene_NN1 or_CC chapter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  155 Treatment : At the beginning of scenes , the POV character 's goal should be clearly stated or else implied by former events .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  155 Treatment_NN1 :_Y At_II the_AT beginning_NN1 of_IO scenes_NN2 ,_Y the_AT POV_NP1 character_NN1 's_GE goal_NN1 should_VM be_VBI clearly_RR stated_VVN_VVD or_CC else_RR implied_VVN by_II former_DA events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  156 Do n't ask readers to invest on faith , hoping they eventually figure out what is important and then understand the conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  156 Do_VD0 n't_XX ask_VVI readers_NN2 to_TO invest_VVI on_II faith_NN1 ,_Y hoping_VVG they_PPHS2 eventually_RR figure_VV0@ out_RP what_DDQ is_VBZ important_JJ and_CC then_RT understand_VV0 the_AT conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  157 A good rule is to begin with conflict , create more and worsening conflict , and end with a new conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  157 A_AT1_ZZ1 good_JJ rule_NN1 is_VBZ to_TO begin_VVI with_IW conflict_NN1 ,_Y create_VV0 more_DAR_RRR and_CC worsening_JJ conflict_NN1 ,_Y and_CC end_VV0_NN1 with_IW a_AT1 new_JJ conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  158 Diagnosis #4 : Characters are too agreeable , too at peace .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  158 Diagnosis_NN1 #4_NNU :_Y Characters_NN2 are_VBR too_RG agreeable_JJ ,_Y too_RR@_RG at_II peace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  159 Treatment : Character chemistry arises between characters , even between characters sharing the same goals .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  159 Treatment_NN1 :_Y Character_NN1 chemistry_NN1 arises_VVZ between_II characters_NN2 ,_Y even_RR between_II characters_NN2 sharing_VVG the_AT same_DA goals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  160 A husband is a police officer who must catch the criminal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  160 A_AT1 husband_NN1 is_VBZ a_AT1 police_NN2 officer_NN1 who_PNQS must_VM catch_VVI the_AT criminal_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  161 The wife needs him to be a husband and father , and they argue about him leaving .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  161 The_AT wife_NN1 needs_VVZ him_PPHO1 to_TO be_VBI a_AT1 husband_NN1 and_CC father_NN1 ,_Y and_CC they_PPHS2 argue_VV0 about_II him_PPHO1 leaving_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  162 A second form of " too agreeable " is when a protagonist or POV character has too much inner peace , or is too competent in the world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  162 A_AT1 second_MD_NNT1 form_NN1 of_IO "_Y too_RG agreeable_JJ "_Y is_VBZ when_RRQ_CS a_AT1 protagonist_NN1 or_CC POV_NP1 character_NN1 has_VHZ too_RG much_DA1_RR inner_JJ peace_NN1 ,_Y or_CC is_VBZ too_RG competent_JJ in_II the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  163 Disturb that inner peace by denying fulfillment of needs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  163 Disturb_VV0 that_CST_DD1 inner_JJ peace_NN1 by_II denying_VVG fulfillment_NN1 of_IO needs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  164 Throw characters off-balance in the world ; reduce their competencies by pushing them out of their comfort zones and into piranha-infested waters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  164 Throw_VV0_NN1 characters_NN2 off-balance_JJ in_II the_AT world_NN1 ;_Y reduce_VV0 their_APPGE competencies_NN2 by_II pushing_VVG them_PPHO2 out_II21 of_II22 their_APPGE comfort_NN1 zones_NN2 and_CC into_II piranha-infested_JJ_NN1 waters_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  165 Ask yourself where a particular character would be most uncomfortable in terms of setting , for instance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  165 Ask_VV0 yourself_PPX1 where_CS_RRQ a_AT1 particular_JJ character_NN1 would_VM be_VBI most_RGT uncomfortable_JJ in_II31 terms_II32 of_II33 setting_VVG_NN1 ,_Y for_REX21 instance_REX22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  166 Then stage a scene in that setting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  166 Then_RT stage_VV0% a_AT1 scene_NN1 in_II that_DD1 setting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  167 Your character hates riding horses ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  167 Your_APPGE character_NN1 hates_VVZ riding_VVG horses_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  168 Force him on horseback .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  168 Force_VV0@ him_PPHO1 on_II horseback_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  169 You get the idea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  169 You_PPY get_VV0 the_AT idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  170 Diagnosis #5 : Not enough scenes or set pieces .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  170 Diagnosis_NN1 #5_NNU :_Y Not_XX enough_DD scenes_NN2 or_CC set_VV0_NN1_VVD_JJ@ pieces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  171 Treatment : Too few scenes or set pieces mean too little conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  171 Treatment_NN1 :_Y Too_RG few_DA2 scenes_NN2 or_CC set_VV0_NN1_VVD_JJ@ pieces_NN2 mean_VV0 too_RG little_DA1 conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  172 Conflict is at the heart of these structures .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  172 Conflict_NN1 is_VBZ at_II the_AT heart_NN1 of_IO these_DD2 structures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  173 Go back to your maps of the plot and increase plot complexity by adding out of ideas , brainstorm with some writing friends .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  173 Go_VV0 back_RP to_II your_APPGE maps_NN2 of_IO the_AT plot_NN1 and_CC increase_NN1_VV0 plot_NN1_VV0 complexity_NN1 by_II adding_VVG_JJ@ out_II21 of_II22 ideas_NN2 ,_Y brainstorm_VV0_NN1 with_IW some_DD writing_NN1 friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  174 Ask " What if ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  174 Ask_VV0 "_Y What_DDQ if_CS ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  175 " and write down all responses .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  175 "_Y and_CC write_VV0 down_RP all_DB responses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  176 Pace Diagnosis #1 : Pace is too slow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  176 Pace_NN1_VV0@ Diagnosis_NN1 #1_NNU :_Y Pace_NN1 is_VBZ too_RG slow_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  177 Treatment : When the pace is too slow , you need more action .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  177 Treatment_NN1 :_Y When_RRQ_CS the_AT pace_NN1 is_VBZ too_RG slow_JJ ,_Y you_PPY need_VV0 more_DAR action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  178 More action means more scenes and greater conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  178 More_DAR action_NN1 means_VVZ more_DAR scenes_NN2 and_CC greater_JJR conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  179 Usually , too slow of a pace also means too much narration ( telling ) , including too much of a character 's interior thoughts , feelings and sensations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  179 Usually_RR ,_Y too_RG slow_JJ of_IO a_AT1 pace_NN1 also_RR means_VVZ too_RG much_DA1 narration_NN1 (_Y telling_VVG_NN1@ )_Y ,_Y including_II_VVG@ too_RG much_DA1 of_IO a_AT1 character_NN1 's_GE interior_JJ_NN1 thoughts_NN2 ,_Y feelings_NN2 and_CC sensations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  180 Slow pace may also signal overuse of passive , boring and to-be verbs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  180 Slow_JJ pace_NN1 may_VM also_RR signal_VVI overuse_NN1 of_IO passive_JJ_NN1@ ,_Y boring_JJ_VVG@ and_CC to-be_JJ@ verbs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  181 Passive verbs include ones like appeared , seemed or became .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  181 Passive_JJ verbs_NN2 include_VV0 ones_Z' like_RR%_II_VV0@ appeared_VVD_VVN@ ,_Y seemed_VVD_VVN@ or_CC became_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  182 The most overused boring verbs are looked , walked and turned .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  182 The_AT most_RGT overused_JJ boring_JJ verbs_NN2 are_VBR looked_VVN ,_Y walked_VVD and_CC turned_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  183 To-be verbs are any variation of is , was , were , be , being and been .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  183 To-be_JJ@ verbs_NN2 are_VBR any_DD variation_NN1 of_IO is_VBZ ,_Y was_VBDZ ,_Y were_VBDR ,_Y be_VBI ,_Y being_NN1% and_CC been_VBN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  184 Slow pace may also stem from failure to create movement within narration through the use of active imagery and the raising of questions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  184 Slow_JJ pace_NN1 may_VM also_RR stem_VVI from_II failure_NN1 to_TO create_VVI movement_NN1 within_II narration_NN1 through_II the_AT use_NN1 of_IO active_JJ imagery_NN1 and_CC the_AT raising_NN1 of_IO questions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  185 Read each sentence and ask yourself if some question is raised that will pull the reader into the next sentence in search of an answer -- which you He grabbed the binoculars and saw the Susie-Q hoist its sail , heading back to port .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  185 Read_VV0 each_DD1 sentence_NN1 and_CC ask_VV0 yourself_PPX1 if_CS some_DD question_NN1 is_VBZ raised_VVN that_CST_DD1 will_VM pull_VVI the_AT reader_NN1 into_II the_AT next_MD sentence_NN1 in_II31 search_II32 of_II33 an_AT1 answer_NN1 --_NN1 which_DDQ you_PPY He_PPHS1 grabbed_VVD the_AT binoculars_NN2 and_CC saw_VVD the_AT Susie-Q_NP1 hoist_VVI its_Z' sail_NN1@ ,_Y heading_VVG back_RP to_II port_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  186 " This sentence has minimal speed produced by the two action verbs , grabbed and hoist , and the suspense meter is at best registering a 1 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  186 "_Y This_DD1 sentence_NN1 has_VHZ minimal_JJ speed_NN1 produced_VVN by_II the_AT two_MC action_NN1 verbs_NN2 ,_Y grabbed_VVN_VVD and_CC hoist_NN1_VV0 ,_Y and_CC the_AT suspense_NN1 meter_NN1 is_VBZ at_RR21 best_RR22 registering_VVG a_AT1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  187 Let 's revise : " He grabbed the binoculars .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  187 Let_VM21 's_VM22 revise_VVI :_Y "_Y He_PPHS1 grabbed_VVD the_AT binoculars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  188 He peered over the cresting waves .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  188 He_PPHS1 peered_VVD over_II_RP the_AT cresting_JJ@_NN1@ waves_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  189 There , he saw her , and strained to make out the boat 's name .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  189 There_RL ,_Y he_PPHS1 saw_VVD her_PPHO1 ,_Y and_CC strained_VVD_VVN_JJ to_TO make_VVI out_RP the_AT boat_NN1 's_GE name_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  190 The Susie-Q -- but why was she hoisting her sail ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  190 The_AT Susie-Q_NP1 --_NN1_JJ but_CCB why_RRQ was_VBDZ she_PPHS1 hoisting_VVG her_APPGE_PPHO1 sail_NN1@_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  191 " Each sentence leaves readers asking a question that leads to the next sentence and the next , in search of answers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  191 "_Y Each_DD1 sentence_NN1 leaves_VVZ readers_NN2 asking_VVG a_AT1 question_NN1 that_CST_DD1 leads_VVZ to_II the_AT next_MD sentence_NN1 and_CC the_AT next_MD ,_Y in_II31 search_II32 of_II33 answers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  192 The pace is far quicker this time , and the writing has much more dramatic intensity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  192 The_AT pace_NN1 is_VBZ far_RG quicker_RRR this_DD1 time_NNT1 ,_Y and_CC the_AT writing_NN1 has_VHZ much_RR_DA1 more_RGR_DAR dramatic_JJ intensity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  193 Another way to speed your pace is to use shorter sentences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  193 Another_DD1 way_NN1 to_TO speed_VVI your_APPGE pace_NN1 is_VBZ to_TO use_VVI shorter_JJR sentences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  194 When your characters approach danger or are fleeing from it , use short sentences to speed the pace and mimic the quickened heartbeat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  194 When_CS your_APPGE characters_NN2 approach_VV0@_NN1 danger_NN1 or_CC are_VBR fleeing_VVG from_II it_PPH1 ,_Y use_VV0 short_JJ sentences_NN2 to_TO speed_VVI the_AT pace_NN1 and_CC mimic_VVI the_AT quickened_JJ@ heartbeat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  195 Diagnosis #2 : Pace is too fast .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  195 Diagnosis_NN1 #2_NNU :_Y Pace_NN1 is_VBZ too_RG fast_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  196 Treatment : When pace is too fast , that usually means too much action without other elements intruding man with the binoculars .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  196 Treatment_NN1 :_Y When_RRQ_CS pace_NN1 is_VBZ too_RG fast_JJ ,_Y that_DD1_CST usually_RR means_VVZ too_RG much_DA1 action_NN1 without_IW other_JJ elements_NN2 intruding_VVG man_NN1 with_IW the_AT binoculars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  197 Each of these sentences has a short action , and the pace clips right along .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  197 Each_DD1 of_IO these_DD2 sentences_NN2 has_VHZ a_AT1 short_JJ action_NN1 ,_Y and_CC the_AT pace_NN1 clips_VVZ_NN2 right_RR_NN1 along_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  198 To slow the pace , create sentences in between them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  198 To_TO slow_VVI the_AT pace_NN1 ,_Y create_VV0 sentences_NN2 in_II21 between_II22 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  199 Add character thoughts , reactions , physical sensations , interaction with someone , or details of setting or the environment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  199 Add_VV0 character_NN1 thoughts_NN2 ,_Y reactions_NN2 ,_Y physical_JJ sensations_NN2 ,_Y interaction_NN1 with_IW someone_PN1 ,_Y or_CC details_NN2 of_IO setting_NN1_VVG or_CC the_AT environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  200 When writers use a narrative summary , they are moving a story along : " They spent the rest of the afternoon fishing , returning home at dark .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  200 When_RRQ_CS writers_NN2 use_VV0 a_AT1 narrative_JJ_NN1 summary_NN1 ,_Y they_PPHS2 are_VBR moving_VVG a_AT1 story_NN1 along_RP_II :_Y "_Y They_PPHS2 spent_VVD the_AT rest_NN1 of_IO the_AT afternoon_NNT1 fishing_NN1 ,_Y returning_VVG home_RL at_II dark_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  201 " To slow this story down , develop scenes for what occurred while fishing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  201 "_Y To_TO slow_VVI this_DD1 story_NN1 down_RP ,_Y develop_VV0 scenes_NN2 for_IF what_DDQ occurred_VVD while_CS fishing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  202 Diagnosis #3 : Flashbacks come too soon or are unnecessary .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  202 Diagnosis_NN1 #3_NNU :_Y Flashbacks_NN2_NP1 come_VV0 too_RG soon_RR or_CC are_VBR unnecessary_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  203 Treatment : Flashbacks bring forward movement to a dead halt and steer the reader 's attention to the backstory .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  203 Treatment_NN1 :_Y Flashbacks_NN2_NP1 bring_VV0 forward_JJ@_RL movement_NN1 to_II a_AT1 dead_JJ halt_NN1 and_CC steer_VV0 the_AT reader_NN1 's_GE attention_NN1 to_II the_AT backstory_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  204 If you include them too early , your readers not only do n't care , they feel antagonistic toward your interruption of the present story , which they are still working to figure out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  204 If_CS you_PPY include_VV0 them_PPHO2 too_RG early_RR_JJ ,_Y your_APPGE readers_NN2 not_XX only_RR do_VD0 n't_XX care_VVI ,_Y they_PPHS2 feel_VV0 antagonistic_JJ toward_II your_APPGE interruption_NN1 of_IO the_AT present_JJ_NN1 story_NN1 ,_Y which_DDQ they_PPHS2 are_VBR still_RR working_VVG to_TO figure_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  205 An exception is a story that begins in the flashback past and then continues in the present or jump-cuts to the present .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  205 An_AT1 exception_NN1 is_VBZ a_AT1 story_NN1 that_CST_DD1 begins_VVZ in_II the_AT flashback_NN1 past_RL_NN1 and_CC then_RT continues_VVZ in_II the_AT present_NN1_JJ or_CC jump-cuts_NN2 to_II the_AT present_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  206 Writers may want to try information in as seamlessly as possible into the now-time story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  206 Writers_NN2 may_VM want_VVI to_TO try_VVI information_NN1 in_II as_RG seamlessly_RR as_CSA possible_JJ into_II the_AT now-time_JJ_NNT1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  207 Possible substitutes for a flashback include conversation with another character , or anything written , such as a newspaper article , report , memo or letter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  207 Possible_JJ substitutes_NN2 for_IF a_AT1 flashback_NN1 include_VV0 conversation_NN1 with_IW another_DD1 character_NN1 ,_Y or_CC anything_PN1 written_VVN ,_Y such_II21 as_II22 a_AT1 newspaper_NN1 article_NN1 ,_Y report_NN1_VV0@ ,_Y memo_NN1 or_CC letter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  208 If you do use something written , such as a police report or diary entry , only provide the essential words .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  208 If_CS you_PPY do_VD0 use_VVI something_PN1 written_VVN ,_Y such_II21 as_II22 a_AT1 police_NN2 report_NN1_VV0@ or_CC diary_NN1 entry_NN1 ,_Y only_RR provide_VV0 the_AT essential_JJ words_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  209 Do n't be like a photocopy machine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  209 Do_VD0 n't_XX be_VBI like_II a_AT1 photocopy_NN1 machine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  210 A flashback will slow your story , and you 'll have to regain momentum .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  210 A_AT1 flashback_NN1 will_VM slow_VVI your_APPGE story_NN1 ,_Y and_CC you_PPY 'll_VM have_VHI to_TO regain_VVI momentum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  211 As a pacing device , it is useful , but make sure you can afford , or need , the slowdown .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  211 As_II_CSA a_AT1 pacing_VVG device_NN1 ,_Y it_PPH1 is_VBZ useful_JJ ,_Y but_CCB make_VV0 sure_JJ you_PPY can_VM afford_VVI ,_Y or_CC need_NN1_VV0 ,_Y the_AT slowdown_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  212 Diagnosis #4 : Scene plays too slowly ; dramatic tension is low .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  212 Diagnosis_NN1 #4_NNU :_Y Scene_NN1 plays_VVZ too_RG slowly_RR ;_Y dramatic_JJ tension_NN1 is_VBZ low_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  213 Treatment : Two pacing techniques will help increase dramatic tension .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  213 Treatment_NN1 :_Y Two_MC pacing_VVG techniques_NN2 will_VM help_VVI increase_NN1_VV0 dramatic_JJ tension_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  214 First , use foreshadowing -- of conflict , of set pieces , and of events of pleasure or peril .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  214 First_MD ,_Y use_VV0_NN1 foreshadowing_VVG_JJ@ --_NN1 of_IO conflict_NN1 ,_Y of_IO set_NN1_JJ@ pieces_NN2 ,_Y and_CC of_IO events_NN2 of_IO pleasure_NN1 or_CC peril_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  215 If you show the POV character in a scene hiding a knife in his boot before guards drag him into the shed , readers will experience a sense of heightened pace , perhaps reading faster , to see what happens when he of a scene slows pace .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  215 If_CS you_PPY show_VV0 the_AT POV_NP1 character_NN1 in_II a_AT1 scene_NN1 hiding_VVG a_AT1 knife_NN1 in_II his_APPGE boot_NN1 before_II_CS guards_NN2 drag_VV0 him_PPHO1 into_II the_AT shed_Z' ,_Y readers_NN2 will_VM experience_VVI a_AT1 sense_NN1 of_IO heightened_JJ pace_NN1 ,_Y perhaps_RR reading_VVG faster_RRR_JJR ,_Y to_TO see_VVI what_DDQ happens_VVZ when_RRQ_CS he_PPHS1 of_IO a_AT1 scene_NN1 slows_VVZ pace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  216 Writers need to assess how much buildup of suspense they 've created prior to a scene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  216 Writers_NN2 need_VV0 to_TO assess_VVI how_RGQ@ much_DA1 buildup_NN1 of_IO suspense_NN1 they_PPHS2 've_VH0 created_VVN prior_II21 to_II22 a_AT1 scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  217 Exchanges of dialogue have a pace that makes sense to the listener .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  217 Exchanges_NN2 of_IO dialogue_NN1 have_VH0 a_AT1 pace_NN1 that_CST_DD1 makes_VVZ sense_NN1 to_II the_AT listener_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  218 Too much interruption for attributions or to show actions can make dialogue sound too unnatural .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  218 Too_RG much_DA1 interruption_NN1 for_IF attributions_NN2 or_CC to_TO show_VVI actions_NN2 can_VM make_VVI dialogue_NN1 sound_NN1_VV0@ too_RG unnatural_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  219 Check your dialogue and make sure that some exchanges have no attributions -- if you want to pick up the pace .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  219 Check_VV0 your_APPGE dialogue_NN1 and_CC make_VV0 sure_JJ that_CST some_DD exchanges_NN2 have_VH0 no_AT attributions_NN2 --_NN1_JJ if_CS you_PPY want_VV0 to_TO pick_VVI up_RP_II@ the_AT pace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  220 Do include other small scene action or interior character development if you desire to slow the pace .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  220 Do_VD0 include_VVI other_JJ small_JJ scene_NN1 action_NN1 or_CC interior_JJ_NN1 character_NN1 development_NN1 if_CS you_PPY desire_VV0@ to_TO slow_VVI the_AT pace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  221 Diagnosis #5 : Pace is too even ; not enough variety .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  221 Diagnosis_NN1 #5_NNU :_Y Pace_NN1 is_VBZ too_RG even_RR ;_Y not_XX enough_DD variety_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  222 Treatment : If all of your scenes , sequels , shortcuts and chapters are about the same length , you risk creating a rhythm that is too regular .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  222 Treatment_NN1 :_Y If_CS all_DB of_IO your_APPGE scenes_NN2 ,_Y sequels_NN2 ,_Y shortcuts_NN2 and_CC chapters_NN2 are_VBR about_II the_AT same_DA length_NN1 ,_Y you_PPY risk_VV0 creating_VVG a_AT1 rhythm_NN1 that_CST_DD1 is_VBZ too_RG regular_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  223 Likewise , if your scene drama reaches a similar peak of intensity in most scenes , your pace will seem too even ( i.e. , boring ) as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  223 Likewise_RR ,_Y if_CS your_APPGE scene_NN1 drama_NN1 reaches_VVZ a_AT1 similar_JJ peak_NN1 of_IO intensity_NN1 in_II most_DAT scenes_NN2 ,_Y your_APPGE pace_NN1 will_VM seem_VVI too_RG even_RR (_Y i.e._REX ,_Y boring_JJ_VVG@ )_Y as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  224 The answer lies in variety .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  224 The_AT answer_NN1 lies_VVZ_NN2 in_II variety_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  225 Vary the lengths of your structural units and create dramatic highs and lows .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  225 Vary_VV0 the_AT lengths_NN2 of_IO your_APPGE structural_JJ units_NN2 and_CC create_VV0 dramatic_JJ highs_NN2 and_CC lows_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  226 Vary chapter lengths as allowed by your genre Elizabeth Lyon by arrangement with Perigee , a member of Penguin Group ( USA ) Inc. 2004 by Elizabeth Lyon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  226 Vary_VV0 chapter_NN1 lengths_NN2 as_CSA allowed_VVN by_II your_APPGE genre_NN1 Elizabeth_NP1 Lyon_NP1 by_II arrangement_NN1 with_IW Perigee_NP1_NN1 ,_Y a_AT1 member_NN1 of_IO Penguin_NP1 Group_NN1 (_Y USA_NP1 )_Y Inc._JJ 2004_MC by_II Elizabeth_NP1 Lyon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  227 PHOTO ( COLOR ) : The author 's guide to fiction writing focuses on the art and craft of storytelling .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  227 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y The_AT author_NN1 's_GE guide_NN1 to_II fiction_NN1 writing_NN1 focuses_VVZ on_II the_AT art_NN1 and_CC craft_NN1 of_IO storytelling_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  228 By Elizabeth Lyon A freelance book editor for more than 20 years , Elizabeth Lyon is the author of six books for writers , with more than 65,000 copies sold .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  228 By_II Elizabeth_NP1 Lyon_NP1 A_ZZ1 freelance_VV0_NN1 book_NN1 editor_NN1 for_IF more_DAR than_CSN 20_MC years_NNT2 ,_Y Elizabeth_NP1 Lyon_NP1 is_VBZ the_AT author_NN1 of_IO six_MC books_NN2 for_IF writers_NN2 ,_Y with_IW more_DAR than_CSN 65,000_MC copies_NN2 sold_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  229 She lives in Oregon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  229 She_PPHS1 lives_VVZ in_II Oregon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  A    0  230 Web : www.4-edit.com or www.elizabethlyon.com.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080294 COCA  B    0  230 Web_NN1 :_Y www.4-edit.com_JJ_NNU or_CC www.elizabethlyon.com._ZZ_NN

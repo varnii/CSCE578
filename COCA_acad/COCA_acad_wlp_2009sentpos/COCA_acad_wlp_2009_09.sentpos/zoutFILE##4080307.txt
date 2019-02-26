@@ -1,0 +1,234 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    0 I WAS NEVER A big fan of plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    0 I_ZZ1%_MC1% WAS_VBDZ NEVER_RR A_AT1@_ZZ1 big_JJ fan_NN1 of_IO plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    1 Two reasons : First , I considered plot the concern of more mainstream writers , those who did n't particularly care about the sentence or achieving a certain aesthetic .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    1 Two_MC reasons_NN2 :_Y First_MD ,_Y I_PPIS1 considered_VVD plot_VV0_NN1 the_AT concern_NN1 of_IO more_RGR mainstream_JJ writers_NN2 ,_Y those_DD2 who_PNQS did_VDD n't_XX particularly_RR care_VVI about_II the_AT sentence_NN1 or_CC achieving_VVG a_AT1 certain_JJ aesthetic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    2 But second , and more important , I believed that in order for things to happen in my stories , they had to be happening in my life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    2 But_CCB second_MD ,_Y and_CC more_RGR important_JJ ,_Y I_PPIS1 believed_VVD that_CST_DD1 in_BCL21 order_BCL22 for_IF things_NN2 to_TO happen_VVI in_II_RP@ my_APPGE stories_NN2 ,_Y they_PPHS2 had_VHD to_TO be_VBI happening_VVG in_II_RP@ my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    3 Let me explain : For years I lived in the same house in the same small town .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    3 Let_VV0 me_PPIO1 explain_VVI :_Y For_IF years_NNT2 I_PPIS1 lived_VVD in_II the_AT same_DA house_NN1 in_II the_AT same_DA small_JJ town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    4 I went to work every day at the same job and came home to eat the same meal ( I was stuck on Lean Cuisine pizzas for a ridiculously long time ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    4 I_PPIS1 went_VVD to_II work_NN1 every_AT1 day_NNT1 at_II the_AT same_DA job_NN1 and_CC came_VVD home_RL to_TO eat_VVI the_AT same_DA meal_NN1 (_Y I_PPIS1 was_VBDZ stuck_VVN on_II Lean_JJ Cuisine_NN1 pizzas_NN2 for_IF a_AT1 ridiculously_RR long_JJ time_NNT1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    5 I never rearranged my furniture , and when I got in my car , I instinctively drove the same route to the same places I always went .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    5 I_PPIS1 never_RR rearranged_VVD my_APPGE furniture_NN1 ,_Y and_CC when_CS_RRQ I_PPIS1 got_VVD in_II_RP@ my_APPGE car_NN1 ,_Y I_PPIS1 instinctively_RR drove_VVD the_AT same_DA route_NN1 to_II the_AT same_DA places_NN2 I_PPIS1 always_RR went_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    6 The people around me seemed just as predictable , shopping for groceries and watching TV , spending eight hours out of every weekday in front of a computer screen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    6 The_AT people_NN around_II me_PPIO1 seemed_VVD just_RR as_RG predictable_JJ ,_Y shopping_VVG for_IF groceries_NN2 and_CC watching_VVG TV_NN1 ,_Y spending_VVG_NN1 eight_MC hours_NNT2 out_II21 of_II22 every_AT1 weekday_NNT1 in_II31 front_II32 of_II33 a_AT1 computer_NN1 screen_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    7 Because of this , I did n't fully believe that things me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    7 Because_II21 of_II22 this_DD1 ,_Y I_PPIS1 did_VDD n't_XX fully_RR believe_VVI that_CST things_NN2 me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    8 Of course , stories are everywhere .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    8 Of_RR21 course_RR22 ,_Y stories_NN2 are_VBR everywhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0    9 I was just having trouble seeing them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0    9 I_PPIS1 was_VBDZ just_RR having_VHG trouble_NN1 seeing_VVG them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   10 Not surprisingly , my characters hunkered down .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   10 Not_XX surprisingly_RR ,_Y my_APPGE characters_NN2 hunkered_VVD_VVN down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   11 I can see them all crouched in a basement somewhere with cans of tuna and hand-crank radios , waiting for whatever terrible fate to befall them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   11 I_PPIS1 can_VM see_VVI them_PPHO2 all_DB_RR@ crouched_VVN_VVD in_II a_AT1 basement_NN1 somewhere_RL with_IW cans_NN2 of_IO tuna_NN and_CC hand-crank_JJ_NN1 radios_NN2 ,_Y waiting_VVG for_IF whatever_DDQV terrible_JJ fate_NN1 to_TO befall_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   12 They were n't happy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   12 They_PPHS2 were_VBDR n't_XX happy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   13 On the contrary , most were quite miserable , but , like me , they did n't want to know what changes a different life might require of them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   13 On_II the_AT contrary_NN1_JJ ,_Y most_DAT were_VBDR quite_RG miserable_JJ ,_Y but_CCB ,_Y like_II_VV0@ me_PPIO1 ,_Y they_PPHS2 did_VDD n't_XX want_VVI to_TO know_VVI what_DDQ changes_VVZ@ a_AT1 different_JJ life_NN1 might_VM require_VVI of_IO them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   14 SEVERAL MONTHS ago , I wrote another story in which nothing happened and sent it off to a friend so he could tell me how brilliant I was .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   14 SEVERAL_DA2 MONTHS_NNT2 ago_RA ,_Y I_PPIS1 wrote_VVD another_DD1 story_NN1 in_II which_DDQ nothing_PN1 happened_VVD and_CC sent_VVD_VVN it_PPH1 off_RP to_II a_AT1 friend_NN1 so_CS@_RR he_PPHS1 could_VM tell_VVI me_PPIO1 how_RGQ@_RRQ brilliant_JJ I_PPIS1 was_VBDZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   15 A few days later , he sent me an e-mail with suggestions for improvement : " I do n't get the feeling that the narrator is all that into the old guy , so it would n't take much for her to divert her path or plan away from him , " he wrote .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   15 A_AT1 few_DA2 days_NNT2 later_RRR ,_Y he_PPHS1 sent_VVD me_PPIO1 an_AT1 e-mail_NN1 with_IW suggestions_NN2 for_IF improvement_NN1 :_Y "_Y I_PPIS1 do_VD0 n't_XX get_VVI the_AT feeling_NN1 that_CST the_AT narrator_NN1 is_VBZ all_DB that_CST_DD1 into_II the_AT old_JJ guy_NN1 ,_Y so_CS@_RR it_PPH1 would_VM n't_XX take_VVI much_DA1_RR for_IF her_PPHO1 to_TO divert_VVI her_APPGE path_NN1 or_CC plan_NN1_VV0 away_II21_RL from_II22_II him_PPHO1 ,_Y "_Y he_PPHS1 wrote_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   16 " What about making the bartender good-looking or very funny or from her hometown ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   16 "_Y What_DDQ about_II making_VVG the_AT bartender_NN1 good-looking_JJ or_CC very_RG funny_JJ or_CC from_II her_APPGE hometown_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   17 Some connection ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   17 Some_DD connection_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   18 The first point , I remember thinking , here we go , something 's going to happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   18 The_AT first_MD point_NN1 ,_Y I_PPIS1 remember_VV0 thinking_NN1_VVG ,_Y here_RL we_PPIS2 go_VV0 ,_Y something_PN1 's_VBZ going_VVGK to_TO happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   19 " There were n't any exclamation points , or a single wow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   19 "_Y There_EX were_VBDR n't_XX any_DD exclamation_NN1 points_NN2_VVZ ,_Y or_CC a_AT1 single_JJ_NN1@ wow_NN1%_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   20 I skimmed over his suggestions thinking he wanted what everyone wanted -- plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   20 I_PPIS1 skimmed_VVD over_RP_II his_APPGE suggestions_NN2 thinking_VVG he_PPHS1 wanted_VVD what_DDQ everyone_PN1 wanted_VVD --_ZZ plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   21 But my characters did n't do the things necessary to make something happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   21 But_CCB my_APPGE characters_NN2 did_VDD n't_XX do_VDI the_AT things_NN2 necessary_JJ to_TO make_VVI something_PN1 happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   22 They waited .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   22 They_PPHS2 waited_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   23 They cranked their radios and listened to themselves think .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   23 They_PPHS2 cranked_VVD their_APPGE radios_NN2 and_CC listened_VVD_VVN to_II themselves_PPX2 think_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   24 So I fired off a quick thank-you , closed his e-mail , and I do n't know , probably ate a Lean Cuisine Deluxe French Bread Pizza .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   24 So_RR I_PPIS1 fired_VVD off_RP_II a_AT1 quick_JJ thank-you_NN1 ,_Y closed_VVD his_APPGE e-mail_NN1 ,_Y and_CC I_PPIS1 do_VD0 n't_XX know_VVI ,_Y probably_RR ate_VVD a_AT1 Lean_JJ Cuisine_NN1 Deluxe_JJ_NP1 French_JJ_NN1 Bread_NN1 Pizza_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   25 Eventually , though , I went back to read his comments more thoroughly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   25 Eventually_RR ,_Y though_CS_RR@ ,_Y I_PPIS1 went_VVD back_RP to_TO read_VVI his_APPGE comments_NN2 more_RGR thoroughly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   26 I told myself that he 'd taken the time to read my story and give me feedback and I 'd feel guilty if I did n't at least consider his suggestions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   26 I_PPIS1 told_VVD myself_PPX1 that_CST he_PPHS1 'd_VHD taken_VVN the_AT time_NNT1 to_TO read_VVI my_APPGE story_NN1 and_CC give_VVI me_PPIO1 feedback_NN1 and_CC I_PPIS1 'd_VM feel_VVI guilty_JJ if_CS_CSW@ I_PPIS1 did_VDD n't_XX at_RR21 least_RR22 consider_VVI his_APPGE suggestions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   27 After rereading his message , this sentence slammed me : " The first time I read it , when I got to this point , I remember thinking , here we go , something 's going to happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   27 After_II rereading_VVG his_APPGE message_NN1 ,_Y this_DD1 sentence_NN1 slammed_VVD me_PPIO1 :_Y "_Y The_AT first_MD time_NNT1 I_PPIS1 read_VV0_VVD it_PPH1 ,_Y when_CS_RRQ I_PPIS1 got_VVD to_II@ this_DD1 point_NN1 ,_Y I_PPIS1 remember_VV0 thinking_NN1_VVG ,_Y here_RL we_PPIS2 go_VV0 ,_Y something_PN1 's_VBZ going_VVGK to_TO happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   28 " And I knew he was right .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   28 "_Y And_CC I_PPIS1 knew_VVD he_PPHS1 was_VBDZ right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   29 my narrator the proverbial gun she was n't going to shoot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   29 my_APPGE narrator_NN1 the_AT proverbial_JJ gun_NN1 she_PPHS1 was_VBDZ n't_XX going_VVGK to_TO shoot_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   30 In the first version of the story , the narrator , Jillian , is on a date with " the old guy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   30 In_II the_AT first_MD version_NN1 of_IO the_AT story_NN1 ,_Y the_AT narrator_NN1 ,_Y Jillian_JJ_NN1@ ,_Y is_VBZ on_II a_AT1 date_NN1 with_IW "_Y the_AT old_JJ guy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   31 " They 're at a casino , and he 's playing blackjack while she sits alone at the bar , drinking and talking to the bartender , who is about to be deployed to Iraq .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   31 "_Y They_PPHS2 're_VBR at_II a_AT1 casino_NN1 ,_Y and_CC he_PPHS1 's_VBZ playing_VVG blackjack_NN1 while_CS she_PPHS1 sits_VVZ alone_RR_JJ at_II the_AT bar_NN1 ,_Y drinking_VVG_NN1 and_CC talking_VVG to_II the_AT bartender_NN1 ,_Y who_PNQS is_VBZ about_RPK to_TO be_VBI deployed_VVN to_II Iraq_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   32 Like the bartender , Jillian is also in a transition period , newly separated from her husband , her divorce not yet final .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   32 Like_II the_AT bartender_NN1 ,_Y Jillian_NN1@_JJ is_VBZ also_RR in_II a_AT1 transition_NN1 period_NN1 ,_Y newly_RR separated_VVN from_II her_APPGE husband_NN1 ,_Y her_APPGE divorce_NN1 not_XX yet_RR final_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   33 She is feeling fragile and exposed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   33 She_PPHS1 is_VBZ feeling_VVG fragile_JJ and_CC exposed_VVD_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   34 Everything leads up to this scene , with the two of them at the bar , speaking to each other with an unexpected degree of familiarity : " I looked up and he started talking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   34 Everything_PN1 leads_VVZ up_II21 to_II22 this_DD1 scene_NN1 ,_Y with_IW the_AT two_MC of_IO them_PPHO2 at_II the_AT bar_NN1 ,_Y speaking_VVG to_II each_PPX221 other_PPX222 with_IW an_AT1 unexpected_JJ degree_NN1 of_IO familiarity_NN1 :_Y "_Y I_PPIS1 looked_VVD up_RP and_CC he_PPHS1 started_VVD talking_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   35 ... He 'd be gone soon , he told me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   35 ..._... He_PPHS1 'd_VM be_VBI gone_VVN soon_RR ,_Y he_PPHS1 told_VVD me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   36 He had no one to leave and no one to come back to and he used to be sort of fat with a ponytail but now he did n't have any fat on him and he was practically bald and it was " Everything they said and did created a palpable tension -- the expectation of action -- but then I just let Jillian get up and walk away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   36 He_PPHS1 had_VHD no_PN121 one_PN122 to_II leave_NN1 and_CC no_PN121 one_PN122 to_TO_II come_VVI back_RP to_II and_CC he_PPHS1 used_VMK to_TO be_VBI sort_RR21@_NN1 of_RR22_IO fat_JJ_NN1 with_IW a_AT1 ponytail_NN1 but_CCB now_RT he_PPHS1 did_VDD n't_XX have_VHI any_DD fat_NN1_JJ on_II him_PPHO1 and_CC he_PPHS1 was_VBDZ practically_RR bald_JJ and_CC it_PPH1 was_VBDZ "_Y Everything_PN1 they_PPHS2 said_VVD and_CC did_VDD created_VVD_VVN_JJ@ a_AT1 palpable_JJ tension_NN1 --_NN1 the_AT expectation_NN1 of_IO action_NN1 --_NN1_JJ but_CCB then_RT I_PPIS1 just_RR let_VV0 Jillian_JJ_NN1@ get_VVI up_RP and_CC walk_VVI away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   37 Now maybe in a different story , Jillian does get up and walk away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   37 Now_RT maybe_RR in_II a_AT1 different_JJ story_NN1 ,_Y Jillian_JJ_NN1@ does_VDZ get_VVI up_RP and_CC walk_VVI away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   38 Maybe she goes back to the old guy and watches him play blackjack and it feels right , like she 's made a conscious decision to take a different path .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   38 Maybe_RR she_PPHS1 goes_VVZ back_RP to_II the_AT old_JJ guy_NN1 and_CC watches_VVZ him_PPHO1 play_VV0_NN1 blackjack_NN1_VV0 and_CC it_PPH1 feels_VVZ right_RR_NN1_JJ ,_Y like_CS%_VV0@ she_PPHS1 's_VBZ_VHZ@ made_VVN a_AT1 conscious_JJ decision_NN1 to_TO take_VVI a_AT1 different_JJ path_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   39 But in this particular story , I knew I 'd made her walk away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   39 But_CCB in_II this_DD1 particular_JJ story_NN1 ,_Y I_PPIS1 knew_VVD I_PPIS1 'd_VHD made_VVN her_APPGE_PPHO1 walk_NN1_VV0 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   40 She had n't wanted to .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   40 She_PPHS1 had_VHD n't_XX wanted_VVN to_TO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   41 So I set about revising with the intention of letting my narrator show me what was supposed to happen instead of forcing her into the static role I would have taken , but I knew I had to be careful .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   41 So_RR I_PPIS1 set_VV0_VVD about_RP revising_VVG with_IW the_AT intention_NN1 of_IO letting_VVG my_APPGE narrator_NN1 show_VVI me_PPIO1 what_DDQ was_VBDZ supposed_JJ to_TO happen_VVI instead_II21 of_II22 forcing_VVG her_PPHO1 into_II the_AT static_JJ role_NN1 I_PPIS1 would_VM have_VHI taken_VVN ,_Y but_CCB I_PPIS1 knew_VVD I_PPIS1 had_VHD to_TO be_VBI careful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   42 I did n't want to make something happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   42 I_PPIS1 did_VDD n't_XX want_VVI to_TO make_VVI something_PN1 happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   43 I did n't want the action to feel forced or plotted .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   43 I_PPIS1 did_VDD n't_XX want_VVI the_AT action_NN1 to_TO feel_VVI forced_JJ_VVN or_CC plotted_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   44 I just wanted to let Jillian decide for herself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   44 I_PPIS1 just_RR wanted_VVD to_TO let_VVI Jillian_JJ_NN1@ decide_VVI for_IF herself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   45 As I revised , I had to keep reminding myself : I am not my narrator .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   45 As_CSA I_PPIS1 revised_VVD ,_Y I_PPIS1 had_VHD to_TO keep_VVI reminding_VVG myself_PPX1 :_Y I_PPIS1 am_VBM not_XX my_APPGE narrator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   46 She is Jillian -- living back at firm ; a woman who still considers herself a girl .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   46 She_PPHS1 is_VBZ Jillian_JJ --_NN1_JJ living_VVG_NN1 back_RP_NN1 at_II firm_NN1 ;_Y a_AT1 woman_NN1 who_PNQS still_RR considers_VVZ herself_PPX1 a_AT1 girl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   47 I am a writer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   47 I_PPIS1 am_VBM a_AT1 writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   48 I have my own apartment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   48 I_PPIS1 have_VH0 my_APPGE own_DA apartment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   49 I do n't date old men and have never worked at a law firm in my life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   49 I_PPIS1 do_VD0 n't_XX date_VVI old_JJ men_NN2 and_CC have_VH0 never_RR worked_VVN at_II a_AT1 law_NN1 firm_NN1 in_II my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   50 Though there were similarities between us , we were not the same .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   50 Though_CS there_EX were_VBDR similarities_NN2 between_II us_PPIO2 ,_Y we_PPIS2 were_VBDR not_XX the_AT same_DA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   51 Back at the bar , she said some of the same things she 'd said before , and the bartender responded in some of the same ways .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   51 Back_NN1_RP at_II the_AT bar_NN1 ,_Y she_PPHS1 said_VVD some_DD of_IO the_AT same_DA things_NN2 she_PPHS1 'd_VHD said_VVN before_RT ,_Y and_CC the_AT bartender_NN1 responded_VVN_VVD in_II_RP@ some_DD of_IO the_AT same_DA ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   52 Then she asked him if he was taking a break any time soon , and it turned out he was .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   52 Then_RT she_PPHS1 asked_VVD him_PPHO1 if_CS_CSW@ he_PPHS1 was_VBDZ taking_VVG a_AT1 break_NN1_VV0 any_DD time_NNT1 soon_RR ,_Y and_CC it_PPH1 turned_VVD out_RP he_PPHS1 was_VBDZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   53 In the end , the something that happened was n't really about their encounter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   53 In_II the_AT end_NN1 ,_Y the_AT something_PN1 that_CST happened_VVD was_VBDZ n't_XX really_RR about_II their_APPGE encounter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   54 It was about letting her choose her own path , which often means making a mistake .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   54 It_PPH1 was_VBDZ about_II letting_VVG her_PPHO1 choose_VVI her_APPGE own_DA path_NN1 ,_Y which_DDQ often_RR means_VVZ_NN making_VVG a_AT1 mistake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   55 If we prevent our characters from making mistakes , they do n't get hurt , but they also do n't grow or change .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   55 If_CS we_PPIS2 prevent_VV0 our_APPGE characters_NN2 from_II making_VVG mistakes_NN2 ,_Y they_PPHS2 do_VD0 n't_XX get_VVI hurt_JJ ,_Y but_CCB they_PPHS2 also_RR do_VD0 n't_XX grow_VVI or_CC change_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   56 Sometimes our characters want nothing more than to make a good , irreversible mistake .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   56 Sometimes_RT our_APPGE characters_NN2 want_VV0 nothing_PN1 more_DAR than_CSN to_TO make_VVI a_AT1 good_JJ ,_Y irreversible_JJ mistake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   57 Sometimes we do , too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   57 Sometimes_RT we_PPIS2 do_VD0 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   58 MY LIFE HAS changed a lot in the last six months .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   58 MY_APPGE LIFE_NN1 HAS_VHZ changed_VVN a_RR21@_AT1 lot_RR22_NN1 in_II the_AT last_MD six_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   59 anymore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   59 anymore_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   60 Occasionally , I miss it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   60 Occasionally_RR ,_Y I_PPIS1 miss_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   61 The basement is safe .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   61 The_AT basement_NN1 is_VBZ safe_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   62 The floor is solid , and you have everything you need down there , including all of the preparations for a disaster that may never come .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   62 The_AT floor_NN1 is_VBZ solid_JJ ,_Y and_CC you_PPY have_VH0 everything_PN1 you_PPY need_VV0 down_RP there_RL ,_Y including_II_VVG@ all_DB of_IO the_AT preparations_NN2 for_IF a_AT1 disaster_NN1 that_CST_DD1 may_VM never_RR come_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   63 Of course , the singular disaster we 're all bracing ourselves for -- the only certainty in life besides taxes -- ca n't be thwarted by immobility .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   63 Of_RR21 course_RR22 ,_Y the_AT singular_JJ_NN1 disaster_NN1 we_PPIS2 're_VBR all_DB_RR@ bracing_VVG ourselves_PPX2 for_IF --_NN1_JJ the_AT only_JJ certainty_NN1 in_II life_NN1 besides_II taxes_NN2 --_NN1 ca_VM n't_XX be_VBI thwarted_VVN by_II immobility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   64 Just because I 'm out of the basement , just because I usually manage to separate myself from my narrators , does n't mean I do n't still struggle .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   64 Just_RR because_CS I_PPIS1 'm_VBM out_II21 of_II22 the_AT basement_NN1 ,_Y just_RR because_CS I_PPIS1 usually_RR manage_VV0 to_TO separate_VVI myself_PPX1 from_II my_APPGE narrators_NN2 ,_Y does_VDZ n't_XX mean_VVI I_PPIS1 do_VD0 n't_XX still_RR struggle_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   65 I recently wrote a story about a girl sitting at a table drinking wine ( does anyone see a pattern here ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   65 I_PPIS1 recently_RR wrote_VVD a_AT1 story_NN1 about_II a_AT1 girl_NN1 sitting_VVG at_II a_AT1 table_NN1 drinking_NN1_VVG wine_NN1 (_Y does_VDZ anyone_PN1 see_VVI a_AT1 pattern_NN1 here_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   66 ) with somebody else 's husband .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   66 )_Y with_IW somebody_PN1 else_RR 's_GE_VBZ husband_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   67 The story ends with the narrator still in the chair , a glass in her hand .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   67 The_AT story_NN1 ends_VVZ_NN2 with_IW the_AT narrator_NN1 still_RR in_II the_AT chair_NN1 ,_Y a_AT1 glass_NN1 in_II her_APPGE hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   68 The only difference is that her purse has moved from the floor to her lap .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   68 The_AT only_JJ difference_NN1 is_VBZ that_CST her_APPGE purse_NN1 has_VHZ moved_VVN from_II the_AT floor_NN1 to_II her_APPGE lap_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   69 Basically , I ended the story so I would n't have to move it forward .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   69 Basically_RR ,_Y I_PPIS1 ended_VVD the_AT story_NN1 so_CS@_RR I_PPIS1 would_VM n't_XX have_VHI to_TO move_VVI it_PPH1 forward_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   70 I did n't know else what to do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   70 I_PPIS1 did_VDD n't_XX know_VVI else_RR what_DDQ to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   71 I imagine she says goodbye and pointless .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   71 I_PPIS1 imagine_VV0 she_PPHS1 says_VVZ goodbye_NN1@_UH and_CC pointless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   72 In the end -- though I like my sentences , though I think I created a " vivid and continuous dream , " to quote John Gardner -- the story is a failure .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   72 In_II the_AT end_NN1 --_NN1 though_CS I_PPIS1 like_VV0 my_APPGE sentences_NN2 ,_Y though_CS I_PPIS1 think_VV0 I_PPIS1 created_VVD a_AT1 "_Y vivid_JJ and_CC continuous_JJ dream_NN1 ,_Y "_Y to_TO quote_VVI John_NP1 Gardner_NP1 --_NN1_JJ the_AT story_NN1 is_VBZ a_AT1 failure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   73 It makes me ask myself : What 's the point ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   73 It_PPH1 makes_VVZ me_PPIO1 ask_VVI myself_PPX1 :_Y What_DDQ 's_VBZ the_AT point_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   74 What 's at risk ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   74 What_DDQ 's_VBZ at_II risk_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   75 What 's changed ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   75 What_DDQ 's_VBZ_VHZ@ changed_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   76 And my answer : I do n't know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   76 And_CC my_APPGE answer_NN1 :_Y I_PPIS1 do_VD0 n't_XX know_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   77 Something I ca n't put my finger on .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   77 Something_PN1 I_PPIS1 ca_VM n't_XX put_VVI my_APPGE finger_NN1 on_RP@_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   78 Nothing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   78 Nothing_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   79 Maybe one day I 'll revise it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   79 Maybe_RR one_MC1 day_NNT1 I_PPIS1 'll_VM revise_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   80 Maybe my narrator will step in and do something , or I 'll get to know her better and her lack of action will feel like a choice instead of just passivity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   80 Maybe_RR my_APPGE narrator_NN1 will_VM step_VVI in_RP@ and_CC do_VDI something_PN1 ,_Y or_CC I_PPIS1 'll_VM get_VVI to_TO know_VVI her_APPGE_PPHO1 better_JJR and_CC her_APPGE lack_NN1 of_IO action_NN1 will_VM feel_VVI like_II a_AT1 choice_NN1 instead_II21 of_II22 just_JJ@ passivity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   81 I notice stories everywhere now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   81 I_PPIS1 notice_VV0 stories_NN2 everywhere_RL now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   82 I open the newspaper and dozens of stories want me to write them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   82 I_PPIS1 open_VV0 the_AT newspaper_NN1 and_CC dozens_M of_IO stories_NN2 want_VV0 me_PPIO1 to_TO write_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   83 I turn on the TV .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   83 I_PPIS1 turn_VV0 on_II_RP@ the_AT TV_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   84 It 's full of stories ( especially the public-access channel on basic cable ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   84 It_PPH1 's_VBZ full_JJ of_IO stories_NN2 (_Y especially_RR the_AT public-access_JJ_NN1 channel_NN1 on_II basic_JJ cable_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   85 And everyone I meet has stories they 're desperate to share .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   85 And_CC everyone_PN1 I_PPIS1 meet_VV0 has_VHZ stories_NN2 they_PPHS2 're_VBR desperate_JJ to_TO share_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   86 I only have to listen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   86 I_PPIS1 only_RR have_VH0 to_TO listen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   87 Last night , I was hanging out with some new friends , and I was and beautiful .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   87 Last_MD night_NNT1 ,_Y I_PPIS1 was_VBDZ hanging_VVG out_RP with_IW some_DD new_JJ friends_NN2 ,_Y and_CC I_PPIS1 was_VBDZ and_CC beautiful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   88 Our flaws and insecurities only make us more so .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   88 Our_APPGE flaws_NN2 and_CC insecurities_NN2 only_RR make_VV0 us_PPIO2 more_DAR_RRR so_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   89 Finding stories is n't difficult for me anymore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   89 Finding_VVG_NN1_JJ@ stories_NN2 is_VBZ n't_XX difficult_JJ for_IF me_PPIO1 anymore_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   90 The choice is in deciding which ones I want to tell .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   90 The_AT choice_NN1 is_VBZ in_II deciding_VVG which_DDQ ones_Z' I_PPIS1 want_VV0 to_TO tell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   91 I still tend to write stories with narrators who are stuck because I tend to get stuck .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   91 I_PPIS1 still_RR tend_VV0 to_TO write_VVI stories_NN2 with_IW narrators_NN2 who_PNQS are_VBR stuck_VVN because_CS I_PPIS1 tend_VV0 to_TO get_VVI stuck_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   92 Once I get unstuck , I get myself stuck all over again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   92 Once_CS@_RR I_PPIS1 get_VV0 unstuck_JJ ,_Y I_PPIS1 get_VV0 myself_PPX1 stuck_VVD_VVN all_RR over_II_RP@ again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   93 Maybe this is human nature , or perhaps it 's only some of our natures .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   93 Maybe_RR this_DD1 is_VBZ human_JJ nature_NN1 ,_Y or_CC perhaps_RR it_PPH1 's_VBZ only_RR some_DD of_IO our_APPGE natures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   94 Either way , it makes plot especially difficult .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   94 Either_DD1 way_NN1 ,_Y it_PPH1 makes_VVZ plot_NN1_VV0 especially_RR difficult_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   95 Right now I 'm in love with cucumber sandwiches .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   95 Right_RR now_RT I_PPIS1 'm_VBM in_II love_NN1 with_IW cucumber_NN1 sandwiches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   96 I eat them every day for breakfast and lunch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   96 I_PPIS1 eat_VV0 them_PPHO2 every_AT1 day_NNT1 for_IF breakfast_NN1 and_CC lunch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   97 For dinner , I eat salad or pasta .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   97 For_IF dinner_NN1 ,_Y I_PPIS1 eat_VV0 salad_NN1 or_CC pasta_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   98 I frequent the same grocery store , drive the same route to my sister 's house , and fill up my tank at the same gas station .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   98 I_PPIS1 frequent_VV0@ the_AT same_DA grocery_NN1 store_NN1 ,_Y drive_VV0 the_AT same_DA route_NN1 to_II my_APPGE sister_NN1 's_GE house_NN1 ,_Y and_CC fill_VV0 up_RP my_APPGE tank_NN1 at_II the_AT same_DA gas_NN1 station_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0   99 But more and more , I want to know what happens when the woman at the pump across from me gets in her car .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0   99 But_CCB more_RRR_DAR_RGR and_CC more_RRR_DAR ,_Y I_PPIS1 want_VV0 to_TO know_VVI what_DDQ happens_VVZ when_RRQ_CS the_AT woman_NN1 at_II the_AT pump_NN1 across_RL@_II from_II me_PPIO1 gets_VVZ in_II_RP@ her_APPGE car_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  100 I want to know what happens when she drives off in a different direction , even if she 's stories have appeared in dozens of online and print magazines , including McSweeney 's Quarterly Concern , Black Clock , Quick Fiction , Mississippi Review and Oxford American .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  100 I_PPIS1 want_VV0 to_TO know_VVI what_DDQ happens_VVZ when_RRQ_CS she_PPHS1 drives_VVZ off_RP in_II a_AT1 different_JJ direction_NN1 ,_Y even_CS21 if_CS22 she_PPHS1 's_VBZ_VHZ@ stories_NN2 have_VH0 appeared_VVN in_II_RP@ dozens_M of_IO online_JJ and_CC print_VV0_NN1 magazines_NN2 ,_Y including_II McSweeney_NP1 's_GE Quarterly_JJ_NN1 Concern_NN1 ,_Y Black_JJ Clock_NN1 ,_Y Quick_JJ Fiction_NN1 ,_Y Mississippi_NP1 Review_NN1_NP1@ and_CC Oxford_NP1 American_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  101 Her short-story collection , Big World , was published earlier this year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  101 Her_APPGE short-story_JJ_NN1 collection_NN1 ,_Y Big_JJ World_NN1 ,_Y was_VBDZ published_VVN earlier_RRR this_DD1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  102 A lively character makes her own choices HE WENT to the other side of the bar to serve an older couple and then he came back and told me his name was David .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  102 A_AT1_ZZ1 lively_JJ character_NN1 makes_VVZ her_APPGE own_DA choices_NN2 HE_PPHS1 WENT_VVD to_II the_AT other_JJ side_NN1 of_IO the_AT bar_NN1 to_TO serve_VVI an_AT1 older_JJR couple_NN1 and_CC then_RT he_PPHS1 came_VVD back_RP and_CC told_VVD me_PPIO1 his_APPGE name_NN1 was_VBDZ David_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  103 " Jillian , " I said .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  103 "_Y Jillian_NN1_NP1@_JJ ,_Y "_Y I_PPIS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  104 " I was kidding about you keeping my dog .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  104 "_Y I_PPIS1 was_VBDZ kidding_VVG about_II_RP@ you_PPY keeping_VVG my_APPGE dog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  105 My ex-girlfriend 's going to keep her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  105 My_APPGE ex-girlfriend_NN1 's_VBZ going_VVGK to_TO keep_VVI her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  106 " ... ... I smiled .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  106 "_Y ..._... ..._... I_PPIS1 smiled_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  107 He showed me his back and I stopped playing video poker and waited for him to look at me and then he did and I did n't look away like I usually do because there was n't any time for it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  107 He_PPHS1 showed_VVD me_PPIO1 his_APPGE back_NN1 and_CC I_PPIS1 stopped_VVD playing_VVG video_NN1 poker_NN1 and_CC waited_VVD for_IF him_PPHO1 to_TO look_VVI at_II me_PPIO1 and_CC then_RT he_PPHS1 did_VDD and_CC I_PPIS1 did_VDD n't_XX look_VVI away_RL like_CS%_VV0@_II I_PPIS1 usually_RR do_VD0 because_CS there_EX was_VBDZ n't_XX any_DD time_NNT1 for_IF it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  108 I pointed at my drink and he fixed me another .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  108 I_PPIS1 pointed_VVD at_II my_APPGE drink_NN1 and_CC he_PPHS1 fixed_VVD@ me_PPIO1 another_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  109 " Are you taking a break anytime soon ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  109 "_Y Are_VBR you_PPY taking_VVG a_AT1 break_NN1 anytime_NNT1 soon_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  110 " I asked , and then I was following him down a brightly lit hallway and I could see my drink sitting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  110 "_Y I_PPIS1 asked_VVD ,_Y and_CC then_RT I_PPIS1 was_VBDZ following_VVG him_PPHO1 down_RP a_AT1 brightly_RR lit_VVN_VVD hallway_NN1 and_CC I_PPIS1 could_VM see_VVI my_APPGE drink_NN1 sitting_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  111 The walls were white and blank and the hallway so long I could n't see the end of it and all I could think to say was that the tunnel was like death but I did n't say that because already I could hear it hanging in the air above us and then he stopped and took a key from his pocket .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  111 The_AT walls_NN2 were_VBDR white_JJ and_CC blank_JJ and_CC the_AT hallway_NN1 so_RG_RR long_RR I_PPIS1 could_VM n't_XX see_VVI the_AT end_NN1 of_IO it_PPH1 and_CC all_DB_RR@ I_PPIS1 could_VM think_VVI to_TO say_VVI was_VBDZ that_CST the_AT tunnel_NN1 was_VBDZ like_JJ@_II death_NN1 but_CCB I_PPIS1 did_VDD n't_XX say_VVI that_CST because_CS already_RR I_PPIS1 could_VM hear_VVI it_PPH1 hanging_VVG_JJ in_II the_AT air_NN1 above_II us_PPIO2 and_CC then_RT he_PPHS1 stopped_VVD and_CC took_VVD a_AT1 key_NN1_JJ from_II his_APPGE pocket_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  112 Boxes everywhere .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  112 Boxes_NN2 everywhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  113 I pulled his shirt out of his pants and ran my hand over his stomach , which was flat and brown like the boxes , and he lifted his arms and leaned forward so I could pull it off and then he was kissing my neck , my mouth , my cheeks , my eyelids , which was sad and unexpected and made me think he thought he was n't coming back .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  113 I_PPIS1 pulled_VVD his_APPGE shirt_NN1 out_II21 of_II22 his_APPGE pants_NN2 and_CC ran_VVD my_APPGE hand_NN1 over_II_RP his_APPGE stomach_NN1 ,_Y which_DDQ was_VBDZ flat_JJ and_CC brown_JJ_NN1@ like_II the_AT boxes_NN2 ,_Y and_CC he_PPHS1 lifted_VVD his_APPGE arms_NN2 and_CC leaned_VVD_VVN forward_RL so_CS@_RR I_PPIS1 could_VM pull_VVI it_PPH1 off_RP and_CC then_RT he_PPHS1 was_VBDZ kissing_VVG my_APPGE neck_NN1 ,_Y my_APPGE mouth_NN1 ,_Y my_APPGE cheeks_NN2 ,_Y my_APPGE eyelids_NN2 ,_Y which_DDQ was_VBDZ sad_JJ and_CC unexpected_JJ and_CC made_VVD me_PPIO1 think_NN1%_VV0 he_PPHS1 thought_VVD he_PPHS1 was_VBDZ n't_XX coming_VVG back_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  114 He wanted me to keep his dog and I thought maybe I should instead of letting his ex-girlfriend have him because already I had taken a strong dislike to this ex-girlfriend. -- Mary Miller From " Pearl , " originally published in Hobart .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  114 He_PPHS1 wanted_VVD me_PPIO1 to_TO keep_VVI his_APPGE dog_NN1 and_CC I_PPIS1 thought_VVD maybe_RR I_PPIS1 should_VM instead_II21 of_II22 letting_VVG his_APPGE ex-girlfriend_NN1 have_VH0 him_PPHO1 because_CS already_RR I_PPIS1 had_VHD taken_VVN a_AT1 strong_JJ dislike_NN1 to_II this_DD1 ex-girlfriend._JJ --_NN1_JJ Mary_NP1 Miller_NP1 From_II "_Y Pearl_NP1_NN1 ,_Y "_Y originally_RR published_VVN in_II Hobart_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  115 Reprinted with permission of the author .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  115 Reprinted_VVN_JJ with_IW permission_NN1 of_IO the_AT author_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  A    0  116 
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080307 COCA  B    0  116 

@@ -1,0 +1,378 @@
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    0 Environmental health-related land use planning conditions can enhance the environment in Hong Kong .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    0 Environmental_JJ health-related_JJ_NN1 land_NN1 use_NN1 planning_NN1_VVG conditions_NN2 can_VM enhance_VVI the_AT environment_NN1 in_II Hong_NP1 Kong_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    1 Previous research by others has shown , however , that a lack of compliance with planning conditions often occurs .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    1 Previous_JJ research_NN1 by_II others_NN2 has_VHZ shown_VVN ,_Y however_RR ,_Y that_CST a_AT1 lack_NN1 of_IO compliance_NN1 with_IW planning_VVG_NN1 conditions_NN2 often_RR occurs_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    2 And as no direct enforcement of planning conditions exists in Hong Kong , it is of interest to understand possible ways in which to increase the motivation of land developers and property owners to comply with planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    2 And_CC as_II_CSA no_AT direct_JJ enforcement_NN1 of_IO planning_VVG_NN1 conditions_NN2 exists_VVZ in_II Hong_NP1 Kong_NP1 ,_Y it_PPH1 is_VBZ of_IO interest_NN1 to_TO understand_VVI possible_JJ ways_NN2 in_II which_DDQ to_TO increase_VVI the_AT motivation_NN1 of_IO land_NN1 developers_NN2 and_CC property_NN1 owners_NN2 to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    3 The author looked at motivation from the perspective of three traditional motivation theories : Theory X , Theory Y , and incentive theory .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    3 The_AT author_NN1 looked_VVN_VVD at_II motivation_NN1 from_II the_AT perspective_NN1 of_IO three_MC traditional_JJ motivation_NN1 theories_NN2 :_Y Theory_NN1 X_ZZ1 ,_Y Theory_NN1 Y_ZZ1 ,_Y and_CC incentive_NN1 theory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    4 While the majority of this article focuses on the enforcement and the legal tests in land use planning conditions , it also presents the results of the first study of the motivations behind Hong Kong land developers to comply with land use planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    4 While_CS the_AT majority_NN1 of_IO this_DD1 article_NN1 focuses_VVZ on_II the_AT enforcement_NN1 and_CC the_AT legal_JJ tests_NN2 in_II land_NN1 use_NN1 planning_NN1_VVG conditions_NN2 ,_Y it_PPH1 also_RR presents_VVZ the_AT results_NN2 of_IO the_AT first_MD study_NN1 of_IO the_AT motivations_NN2 behind_II Hong_NP1 Kong_NP1 land_NN1 developers_NN2 to_TO comply_VVI with_IW land_NN1 use_NN1 planning_NN1_VVG conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    5 Introduction A General Overview of Land Use Planning in Hong Kong In Hong Kong , Outline Zoning Plan ( OZP ) and land leases govern land use .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    5 Introduction_NN1 A_ZZ1 General_JJ Overview_NN1 of_IO Land_NN1 Use_NN1 Planning_VVG_NN1 in_II Hong_NP1 Kong_NP1 In_II Hong_NP1 Kong_NP1 ,_Y Outline_VV0_NN1 Zoning_NN1 Plan_NN1 (_Y OZP_NP1 )_Y and_CC land_NN1 leases_NN2 govern_VV0 land_NN1 use_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    6 Under the current OZP , two cases occur where uses or developments are always permitted .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    6 Under_II the_AT current_JJ OZP_NN1_NP1 ,_Y two_MC cases_NN2 occur_VV0 where_RRQ_CS uses_NN2 or_CC developments_NN2 are_VBR always_RR permitted_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    7 ( 1 the covering notes of the plan ; and ( 2 ) " Column 1 " uses of the land use zone are always permitted .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    7 (_Y 1_MC1 the_AT covering_NN1@_VVG notes_NN2 of_IO the_AT plan_NN1 ;_Y and_CC (_Y 2_MC )_Y "_Y Column_NN1 1_MC1 "_Y uses_NN2_VVZ of_IO the_AT land_NN1 use_NN1 zone_NN1 are_VBR always_RR permitted_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    8 Any proposed uses or developments that fall under " Column 2 , " or as noted under the terms of the guidance notes on application for permission under town planning ordinance require submitting section 16 applications .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    8 Any_DD proposed_JJ uses_NN2 or_CC developments_NN2 that_CST fall_VV0_NN1 under_II "_Y Column_NN1 2_MC ,_Y "_Y or_CC as_CSA noted_VVN under_II the_AT terms_NN2 of_IO the_AT guidance_NN1 notes_VVZ_NN2 on_II application_NN1 for_IF permission_NN1 under_II town_NN1 planning_NN1_VVG ordinance_NN1 require_VV0 submitting_VVG_JJ@ section_NN1 16_MC applications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0    9 Upon approval of the planning applications , the town planning board may introduce planning conditions under section 16 ( 5 ) of the town planning ordinance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0    9 Upon_II approval_NN1 of_IO the_AT planning_NN1 applications_NN2 ,_Y the_AT town_NN1 planning_NN1_VVG board_NN1 may_VM introduce_VVI planning_VVG_NN1 conditions_NN2 under_II section_NN1 16_NN1 (_Y 5_MC )_Y of_IO the_AT town_NN1 planning_NN1_VVG ordinance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   10 In some cases , the town planning board may discuss the planning conditions for the particular case during the town planning board biweekly meetings .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   10 In_II some_DD cases_NN2 ,_Y the_AT town_NN1 planning_NN1_VVG board_NN1 may_VM discuss_VVI the_AT planning_NN1 conditions_NN2 for_IF the_AT particular_JJ case_NN1 during_II the_AT town_NN1 planning_NN1_VVG board_NN1 biweekly_RR meetings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   11 Yet , it is quite obvious that the board members never discuss town planning conditions during open meetings , i.e. , it might be said that the production development of town planning conditions is a matter of black box operation ( Town Planning Board , 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   11 Yet_RR ,_Y it_PPH1 is_VBZ quite_RG obvious_JJ that_CST the_AT board_NN1 members_NN2 never_RR discuss_VV0 town_NN1 planning_NN1_VVG conditions_NN2 during_II open_JJ meetings_NN2 ,_Y i.e._REX ,_Y it_PPH1 might_VM be_VBI said_VVN@ that_CST the_AT production_NN1 development_NN1 of_IO town_NN1 planning_NN1_VVG conditions_NN2 is_VBZ a_AT1 matter_NN1 of_IO black_JJ box_NN1 operation_NN1 (_Y Town_NN1 Planning_NN1_VVG Board_NN1 ,_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   12 Another problem with planning conditions is that no direct enforcement of planning conditions exists in Hong Kong ; noncompliance is , therefore , common in Hong Kong ( Lai Yau , 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   12 Another_DD1 problem_NN1 with_IW planning_VVG_NN1 conditions_NN2 is_VBZ that_CST no_AT direct_JJ enforcement_NN1 of_IO planning_VVG_NN1 conditions_NN2 exists_VVZ in_II Hong_NP1 Kong_NP1 ;_Y noncompliance_NN1 is_VBZ ,_Y therefore_RR ,_Y common_JJ in_II Hong_NP1 Kong_NP1 (_Y Lai_NP1 Yau_NP1 ,_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   13 Previous academic research on planning conditions mainly focused on their enforcement , e.g. , McKay and McGreal ( 2003 ) , and their legal tests of planning conditions ( Banks , 1994 ; Galligan , 1997 ; Morgan Nott , 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   13 Previous_JJ academic_JJ research_NN1 on_II planning_VVG_NN1 conditions_NN2 mainly_RR focused_VVN_VVD on_II their_APPGE enforcement_NN1 ,_Y e.g._REX ,_Y McKay_NP1 and_CC McGreal_NP1 (_Y 2003_MC )_Y ,_Y and_CC their_APPGE legal_JJ tests_NN2 of_IO planning_VVG_NN1 conditions_NN2 (_Y Banks_NP1@_NN2 ,_Y 1994_MC ;_Y Galligan_NP1 ,_Y 1997_MC ;_Y Morgan_NP1 Nott_NP1 ,_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   14 The author is not aware , however , of any study of the motivations for compliance with planning conditions in Hong Kong .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   14 The_AT author_NN1 is_VBZ not_XX aware_JJ ,_Y however_RR ,_Y of_IO any_DD study_NN1 of_IO the_AT motivations_NN2 for_IF compliance_NN1 with_IW planning_VVG_NN1 conditions_NN2 in_II Hong_NP1 Kong_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   15 It is important , therefore , to study the forces motivating land owners to comply with planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   15 It_PPH1 is_VBZ important_JJ ,_Y therefore_RR ,_Y to_TO study_VVI the_AT forces_NN2 motivating_VVG land_NN1 owners_NN2 to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   16 Environmental Health-Related Planning Conditions Where an application is made by an applicant ( usually the land owner or developer ; if not , he or she needs to give notification to or obtain the consents from the current land owner as specified in town planning board guidelines No .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   16 Environmental_JJ Health-Related_JJ_NN1 Planning_NN1_VVG Conditions_NN2 Where_RRQ_CS an_AT1 application_NN1 is_VBZ made_VVN by_II an_AT1 applicant_NN1 (_Y usually_RR the_AT land_NN1 owner_NN1 or_CC developer_NN1 ;_Y if_CS not_XX ,_Y he_PPHS1 or_CC she_PPHS1 needs_VVZ to_TO give_VVI notification_NN1 to_II or_CC obtain_VV0 the_AT consents_NN2 from_II the_AT current_JJ land_NN1 owner_NN1 as_CSA specified_VVN in_II town_NN1 planning_NN1_VVG board_NN1 guidelines_NN2 No_UH ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   17 TPB PG-No. 31 Town Planning Board , 2005 ) , the board members " may decide to grant the permission or approval subject to or without conditions or to refuse it ... ( Galligan , 1997 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   17 TPB_NP1 PG-No._NN1_JJ 31_MC Town_NN1 Planning_NN1_VVG Board_NN1 ,_Y 2005_MC )_Y ,_Y the_AT board_NN1 members_NN2 "_Y may_VM decide_VVI to_TO grant_VVI the_AT permission_NN1 or_CC approval_NN1 subject_II21 to_II22 or_CC without_IW conditions_NN2 or_CC to_TO refuse_VVI it_PPH1 ..._... (_Y Galligan_NN1_NP1@ ,_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   18 " Planning conditions generally serve the purposes of making an otherwise undesirable development al. , 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   18 "_Y Planning_VVG_NN1 conditions_NN2 generally_RR serve_VV0 the_AT purposes_NN2 of_IO making_VVG an_AT1 otherwise_RR undesirable_JJ development_NN1 al._RA22 ,_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   19 For example , the introduction of noise barrier conditions next to a proposed residential development can increase environmental satisfaction and decrease the possible effects of negative externalities .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   19 For_REX21 example_REX22 ,_Y the_AT introduction_NN1 of_IO noise_NN1 barrier_NN1 conditions_NN2 next_II21 to_II22 a_AT1 proposed_JJ residential_JJ development_NN1 can_VM increase_VVI environmental_JJ satisfaction_NN1 and_CC decrease_VVI the_AT possible_JJ effects_NN2 of_IO negative_JJ externalities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   20 The provision of a landscape plan can enhance the quality of a development .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   20 The_AT provision_NN1 of_IO a_AT1 landscape_NN1 plan_NN1 can_VM enhance_VVI the_AT quality_NN1 of_IO a_AT1 development_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   21 Valid Planning Conditions As a matter of policy , planning conditions should only be imposed when they satisfy all of the following five tests .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   21 Valid_JJ Planning_NN1 Conditions_NN2 As_II a_AT1 matter_NN1 of_IO policy_NN1 ,_Y planning_VVG_NN1 conditions_NN2 should_VM only_RR be_VBI imposed_VVN when_CS_RRQ they_PPHS2 satisfy_VV0 all_DB of_IO the_AT following_JJ five_MC tests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   22 Planning conditions must be 1 ) reasonable ; 2 ) within the control of the applicant ; 3 ) certain ( planning conditions should be relevant to the development to be permitted , enforceable , precise , and reasonable in all other respects ) ; 4 ) not imposed for ulterior purposes ; and 5 ) related to the development ( Banks , 1994 ; Galligan , 1997 ; Lai et al. , 2007 ; Moore , 2002 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   22 Planning_VVG_NN1 conditions_NN2 must_VM be_VBI 1_MC1 )_Y reasonable_JJ_RR@ ;_Y 2_MC )_Y within_II the_AT control_NN1 of_IO the_AT applicant_NN1 ;_Y 3_MC )_Y certain_JJ (_Y planning_VVG_NN1 conditions_NN2 should_VM be_VBI relevant_JJ to_II the_AT development_NN1 to_TO be_VBI permitted_VVN ,_Y enforceable_JJ ,_Y precise_JJ ,_Y and_CC reasonable_JJ_RR@ in_II all_DB other_JJ respects_NN2 )_Y ;_Y 4_MC )_Y not_XX imposed_VVN for_IF ulterior_JJ purposes_NN2 ;_Y and_CC 5_MC )_Y related_VVD_VVN to_II the_AT development_NN1 (_Y Banks_NP1@_NN2 ,_Y 1994_MC ;_Y Galligan_NP1 ,_Y 1997_MC ;_Y Lai_NP1 et_RA21 al._RA22 ,_Y 2007_MC ;_Y Moore_NP1 ,_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   23 Indirect Enforceable Nature of Planning Conditions Although the town planning ( amendment ) ordinance of 1991 provides the Planning Authority of Hong Kong with enforcement power against unauthorized developments and states that all the planning conditions should be enforceable enforced indirectly via the building ordinance and the lease conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   23 Indirect_JJ Enforceable_JJ Nature_NN1 of_IO Planning_VVG_NN1 Conditions_NN2 Although_CS the_AT town_NN1 planning_NN1_VVG (_Y amendment_NN1 )_Y ordinance_NN1 of_IO 1991_MC provides_VVZ the_AT Planning_NN1 Authority_NN1 of_IO Hong_NP1 Kong_NP1 with_IW enforcement_NN1 power_NN1 against_II unauthorized_JJ developments_NN2 and_CC states_VVZ_NN2 that_CST all_DB the_AT planning_NN1 conditions_NN2 should_VM be_VBI enforceable_JJ enforced_VVN indirectly_RR via_II the_AT building_NN1 ordinance_NN1 and_CC the_AT lease_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   24 Nevertheless , a loophole exists as such .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   24 Nevertheless_RR ,_Y a_AT1 loophole_NN1 exists_VVZ as_II such_DA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   25 Any planning condition that is not related to the building , e.g. , the submission of a landscape proposal , can not be enforced ( Lai et al. , 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   25 Any_DD planning_NN1 condition_NN1 that_CST_DD1 is_VBZ not_XX related_VVN to_II the_AT building_NN1 ,_Y e.g._REX ,_Y the_AT submission_NN1 of_IO a_AT1 landscape_NN1 proposal_NN1 ,_Y can_VM not_XX be_VBI enforced_VVN (_Y Lai_NP1 et_RA21 al._RA22 ,_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   26 When a development requires no lease modification , the impositions of planning conditions might not be included in both lease conditions and the building ordinance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   26 When_CS a_AT1 development_NN1 requires_VVZ no_AT lease_NN1 modification_NN1 ,_Y the_AT impositions_NN2 of_IO planning_VVG_NN1 conditions_NN2 might_VM not_XX be_VBI included_VVN in_II both_DB2 lease_VV0@_NN1 conditions_NN2 and_CC the_AT building_NN1 ordinance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   27 Motivation Theories and Their Applications to Compliance with Planning Conditions " Performance is a function of ability and motivation ( Erez Isen , 2002 ) , " and compliance performance in planning conditions is no exception .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   27 Motivation_NN1 Theories_NN2 and_CC Their_APPGE Applications_NN2 to_II Compliance_NN1 with_IW Planning_VVG_NN1 Conditions_NN2 "_Y Performance_NN1 is_VBZ a_AT1 function_NN1 of_IO ability_NN1 and_CC motivation_NN1 (_Y Erez_NP1 Isen_NP1 ,_Y 2002_MC )_Y ,_Y "_Y and_CC compliance_NN1 performance_NN1 in_II planning_VVG_NN1 conditions_NN2 is_VBZ no_AT exception_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   28 Motivation is the set of processes that arouse , direct , and maintain human behavior toward achievement of a certain goal ( Cesare Sadri , 2003 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   28 Motivation_NN1 is_VBZ the_AT set_NN1 of_IO processes_NN2 that_CST arouse_VV0 ,_Y direct_JJ_RR@_VV0@ ,_Y and_CC maintain_VV0 human_JJ_NN1 behavior_NN1 toward_II achievement_NN1 of_IO a_AT1 certain_JJ goal_NN1 (_Y Cesare_NP1 Sadri_NP1 ,_Y 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   29 Motivation is the incentive of any individual which leads them to act or not to act .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   29 Motivation_NN1 is_VBZ the_AT incentive_NN1 of_IO any_DD individual_NN1_JJ which_DDQ leads_VVZ them_PPHO2 to_TO act_VVI or_CC not_XX to_TO act_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   30 Psycho-biologically speaking , perceptions of positive or negative phenomena stimulate an individual 's behavior ( Moody Pesut , 2006 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   30 Psycho-biologically_RR speaking_VVG_JJ@ ,_Y perceptions_NN2 of_IO positive_JJ or_CC negative_JJ phenomena_NN2 stimulate_VV0 an_AT1 individual_NN1 's_GE behavior_NN1 (_Y Moody_NP1@_JJ Pesut_NP1_NN1 ,_Y 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   31 Motivation is determined by free will , goal to their perceived desires .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   31 Motivation_NN1 is_VBZ determined_VVN by_II free_JJ will_NN1@ ,_Y goal_NN1 to_II33 their_APPGE perceived_JJ@ desires_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   32 It is the values which activate human behavior in response to their goals .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   32 It_PPH1 is_VBZ the_AT values_NN2 which_DDQ activate_VV0 human_JJ_NN1 behavior_NN1 in_II31 response_II32 to_II33 their_APPGE goals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   33 In any case , however , " figuring out how to enhance compliance is a difficult puzzle for local officials , as well as for regulatory scholars ( Prior , 2000 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   33 In_II any_DD case_NN1 ,_Y however_RR ,_Y "_Y figuring_VVG out_RP how_RRQ to_TO enhance_VVI compliance_NN1 is_VBZ a_AT1 difficult_JJ puzzle_NN1 for_IF local_JJ officials_NN2 ,_Y as_RG_II31 well_RR_II32 as_CSA_II33 for_IF regulatory_JJ scholars_NN2 (_Y Prior_RR_NP1@_JJ ,_Y 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   34 " Theory X Douglas McGregor 's Theory X postulates that human must be threatened with punishment before they act .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   34 "_Y Theory_NN1 X_ZZ1_II% Douglas_NP1 McGregor_NP1 's_GE Theory_NN1 X_ZZ1 postulates_VVZ that_DD1_CST human_NN1 must_VM be_VBI threatened_VVN with_IW punishment_NN1 before_CS they_PPHS2 act_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   35 Burby and co-authors ( 1998 ) and Scholz ( 1997 ) regard punishment of violators as one of the ways in which to achieve compliance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   35 Burby_NN1_NP1@ and_CC co-authors_NN2 (_Y 1998_MC )_Y and_CC Scholz_NP1 (_Y 1997_MC )_Y regard_VV0_NN1 punishment_NN1 of_IO violators_NN2 as_II one_MC1 of_IO the_AT ways_NN2 in_II which_DDQ to_TO achieve_VVI compliance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   36 From this perspective , punishment for noncompliance is necessary to ensure that land developers and land owners comply with planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   36 From_II this_DD1 perspective_NN1 ,_Y punishment_NN1 for_IF noncompliance_NN1 is_VBZ necessary_JJ to_TO ensure_VVI that_DD1_CST land_NN1 developers_NN2 and_CC land_NN1 owners_NN2 comply_VV0 with_IW planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   37 Kuperan and Sutinen ( 1999 ) state that violators are motivated largely by the direct tangible consequences of their actions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   37 Kuperan_NN1_JJ_NP1@ and_CC Sutinen_NP1_NN1 (_Y 1999_MC )_Y state_VV0 that_CST violators_NN2 are_VBR motivated_VVN largely_RR by_II the_AT direct_JJ tangible_JJ consequences_NN2 of_IO their_APPGE actions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   38 For example , to comply with planning conditions , developers or land owners need to spend money to pay the construction and labor costs to build a noise barrier .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   38 For_REX21 example_REX22 ,_Y to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 ,_Y developers_NN2 or_CC land_NN1 owners_NN2 need_VV0 to_TO spend_VVI money_NN1 to_TO pay_VVI the_AT construction_NN1 and_CC labor_NN1 costs_VVZ_NN2 to_TO build_VVI a_AT1 noise_NN1 barrier_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   39 In view of Theory X , the developer or owner might only comply with this requirement if they know there cost of punishment exceeds the cost of compliance with the noise barrier condition .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   39 In_II31 view_II32 of_II33 Theory_NN1 X_ZZ1 ,_Y the_AT developer_NN1 or_CC owner_NN1 might_VM only_RR comply_VVI with_IW this_DD1 requirement_NN1 if_CS they_PPHS2 know_VV0 there_EX_RL cost_NN1 of_IO punishment_NN1 exceeds_VVZ the_AT cost_NN1 of_IO compliance_NN1 with_IW the_AT noise_NN1 barrier_NN1 condition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   40 The primary objective of enforcement is , however , not to completely eliminate noncompliance , but to achieve a certain level of compliance ( Stigler , 1970 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   40 The_AT primary_JJ_NN1 objective_NN1 of_IO enforcement_NN1 is_VBZ ,_Y however_RR ,_Y not_XX to_TO completely_RR eliminate_VVI noncompliance_NN1 ,_Y but_CCB to_TO achieve_VVI a_AT1 certain_JJ level_NN1 of_IO compliance_NN1 (_Y Stigler_NP1_NN1 ,_Y 1970_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   41 Moreover , " punishment is doubtful to be effective if it is not recurrent and of mild intensity ( Peters , 1991 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   41 Moreover_RR ,_Y "_Y punishment_NN1 is_VBZ doubtful_JJ to_TO be_VBI effective_JJ if_CS_CSW@ it_PPH1 is_VBZ not_XX recurrent_JJ and_CC of_IO mild_JJ intensity_NN1 (_Y Peters_VVZ@_NP ,_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   42 " Theory Y Theory Y presupposes that human can be trusted , can exercise discretion subject to constraints and rules , and are self-motivated ( Cooper Phillips , 1997 ; Morden , 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   42 "_Y Theory_NN1 Y_ZZ1 Theory_NN1 Y_ZZ1 presupposes_VVZ that_DD1_CST human_NN1 can_VM be_VBI trusted_VVN ,_Y can_VM exercise_VVI discretion_NN1 subject_II21 to_II22 constraints_NN2 and_CC rules_NN2 ,_Y and_CC are_VBR self-motivated_JJ (_Y Cooper_NP1 Phillips_NP1 ,_Y 1997_MC ;_Y Morden_NP1 ,_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   43 Theory Y also presupposes that external control and the threat of punishment are not the only means for bringing about effort toward organizational objectives ( Stroh , 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   43 Theory_NN1 Y_ZZ1 also_RR presupposes_VVZ that_CST_DD1 external_JJ control_NN1 and_CC the_AT threat_NN1 of_IO punishment_NN1 are_VBR not_XX the_AT only_JJ means_NN for_IF bringing_VVG about_RP effort_NN1 toward_II organizational_JJ objectives_NN2 (_Y Stroh_NP1_NN1 ,_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   44 Therefore , only minimal supervision is required ( Morden , 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   44 Therefore_RR ,_Y only_RR_JJ minimal_JJ supervision_NN1 is_VBZ required_VVN_JJ (_Y Morden_NP1 ,_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   45 Trustful relationships between people , a major criteria in their attaining high performance , call for meeting the antecedent condition of credibility ( Burack , 1999 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   45 Trustful_JJ relationships_NN2 between_II people_NN ,_Y a_AT1 major_JJ criteria_NN2 in_II their_APPGE attaining_VVG high_JJ performance_NN1 ,_Y call_VV0_NN1 for_IF meeting_VVG the_AT antecedent_JJ condition_NN1 of_IO credibility_NN1 (_Y Burack_NP1_VV0_NN1 ,_Y 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   46 By adopting Theory Y , organizations would benefit from what Maslow saw as an intrinsic trait of feel like a valuable member of a society ( Kock , 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   46 By_II adopting_VVG_JJ@ Theory_NN1 Y_ZZ1 ,_Y organizations_NN2 would_VM benefit_VVI from_II what_DDQ Maslow_NP1_NN1_VV0 saw_VVD_NN1@ as_II an_AT1 intrinsic_JJ trait_NN1 of_IO feel_VVI like_II a_AT1 valuable_JJ member_NN1 of_IO a_AT1 society_NN1 (_Y Kock_NP1_VV0_NN1 ,_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   47 Without trust , we lack the capacity for open , communal learning and communication .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   47 Without_IW trust_NN1 ,_Y we_PPIS2 lack_VV0@ the_AT capacity_NN1 for_IF open_JJ_RR@ ,_Y communal_JJ learning_NN1 and_CC communication_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   48 Under these theories , the win-win approach of high trust is the ideal catalyst for remarkable synergy .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   48 Under_II these_DD2 theories_NN2 ,_Y the_AT win-win_JJ approach_NN1 of_IO high_JJ trust_NN1 is_VBZ the_AT ideal_JJ catalyst_NN1 for_IF remarkable_JJ synergy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   49 It removes the negative energy focused on differences in character and position and creates a positive cooperative power .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   49 It_PPH1 removes_VVZ the_AT negative_JJ energy_NN1 focused_VVN_VVD on_II differences_NN2 in_II character_NN1 and_CC position_NN1 and_CC creates_VVZ a_AT1 positive_JJ cooperative_JJ power_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   50 To build trust through open communication people need to seek other 's ideas , listen , disclose , and be positive ( Rogers , 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   50 To_TO build_VVI trust_NN1_VV0 through_II open_JJ communication_NN1 people_NN need_VV0 to_TO seek_VVI other_NN1@_JJ 's_GE ideas_NN2 ,_Y listen_VV0 ,_Y disclose_VV0 ,_Y and_CC be_VBI positive_JJ (_Y Rogers_NP1 ,_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   51 From this perspective , town planning board members not only need to trust the developers who will follow the planning conditions automatically without punishment , they also need to listen others ' ideas in making their decisions on what kind of planning conditions should be imposed for each and every planning applications .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   51 From_II this_DD1 perspective_NN1 ,_Y town_NN1 planning_NN1_VVG board_NN1 members_NN2 not_XX only_RR need_VV0 to_TO trust_VVI the_AT developers_NN2 who_PNQS will_VM follow_VVI the_AT planning_NN1 conditions_NN2 automatically_RR without_IW punishment_NN1 ,_Y they_PPHS2 also_RR need_VV0 to_TO listen_VVI others_NN2 '_GE ideas_NN2 in_II making_VVG their_APPGE decisions_NN2 on_II what_DDQ kind_NN1 of_IO planning_VVG_NN1 conditions_NN2 should_VM be_VBI imposed_VVN for_IF each_DD1 and_CC every_AT1 planning_NN1 applications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   52 They should be open-minded , hear from other government departments such as the Environmental Protection Department and Fire Services Department , and even listen to suggestions from the general public , regardless of whether they are village representatives , individual shop owners , or district produced .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   52 They_PPHS2 should_VM be_VBI open-minded_JJ ,_Y hear_VV0 from_II other_JJ government_NN1 departments_NN2 such_II21 as_II22 the_AT Environmental_JJ Protection_NN1 Department_NN1 and_CC Fire_NN1_VV0@ Services_NN2 Department_NN1 ,_Y and_CC even_RR listen_VV0 to_II suggestions_NN2 from_II the_AT general_JJ_NN1 public_NN1_JJ ,_Y regardless_RR of_IO whether_CSW they_PPHS2 are_VBR village_NN1 representatives_NN2 ,_Y individual_JJ shop_NN1 owners_NN2 ,_Y or_CC district_NN1 produced_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   53 Developers trust that compliance with planning conditions is good for them and the general public .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   53 Developers_NN2 trust_VV0 that_DD1_CST compliance_NN1 with_IW planning_VVG_NN1 conditions_NN2 is_VBZ good_JJ for_IF them_PPHO2 and_CC the_AT general_JJ_NN1 public_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   54 The town planning board trusts that the developers will comply with the planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   54 The_AT town_NN1 planning_NN1_VVG board_NN1 trusts_VVZ@_NN2 that_CST the_AT developers_NN2 will_VM comply_VVI with_IW the_AT planning_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   55 For example , developers will comply with the noise barrier planning condition if and only if a source of noise nuisance exists that is loud enough to lower the dwelling value offered to the perspective purchasers .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   55 For_REX21 example_REX22 ,_Y developers_NN2 will_VM comply_VVI with_IW the_AT noise_NN1 barrier_NN1 planning_NN1_VVG condition_NN1 if_CS and_CC only_RR_JJ if_CS_CSW@ a_AT1 source_NN1 of_IO noise_NN1 nuisance_NN1 exists_VVZ that_CST_DD1 is_VBZ loud_RR enough_RR_DD to_TO lower_VVI the_AT dwelling_NN1 value_NN1 offered_VVN_VVD to_II the_AT perspective_NN1 purchasers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   56 Nevertheless , if the noise is not loud enough to become a nuisance , no developer will provide such a barrier even if it is stated explicitly .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   56 Nevertheless_RR ,_Y if_CS the_AT noise_NN1 is_VBZ not_XX loud_RR enough_RR_DD to_TO become_VVI a_AT1 nuisance_NN1 ,_Y no_AT developer_NN1 will_VM provide_VVI such_DA a_AT1 barrier_NN1 even_CS21 if_CS22 it_PPH1 is_VBZ stated_VVN explicitly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   57 So who knows the best about the site nearby ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   57 So_RR who_PNQS knows_VVZ the_AT best_RRT_JJT about_II the_AT site_NN1 nearby_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   58 The general public who work or live around the site know best .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   58 The_AT general_JJ_NN1 public_NN1 who_PNQS work_VV0 or_CC live_VV0_JJ around_RP_II the_AT site_NN1 know_VV0 best_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   59 Their opinions are , therefore , of high value in the creation of planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   59 Their_APPGE opinions_NN2 are_VBR ,_Y therefore_RR ,_Y of_IO high_JJ value_NN1 in_II the_AT creation_NN1 of_IO planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   60 Town planning board members ' trust of public opinions is very important .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   60 Town_NN1 planning_NN1_VVG board_NN1 members_NN2 '_GE trust_NN1 of_IO public_JJ_NN1 opinions_NN2 is_VBZ very_RG important_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   61 The assumption , however , that humans can be trusted and self-motivated to comply with planning conditions is in doubt when we look at an empirical studies that were done by Lai and co-authors ( 2007 ) and Berry and co-authors out of 82 residential developments in Hong Kong failed to comply with planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   61 The_AT assumption_NN1 ,_Y however_RR ,_Y that_CST humans_NN2 can_VM be_VBI trusted_VVN_JJ and_CC self-motivated_JJ_NN1 to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 is_VBZ in_II doubt_NN1 when_CS_RRQ we_PPIS2 look_VV0 at_II an_AT1 empirical_JJ studies_NN2 that_CST were_VBDR done_VDN by_II Lai_NP1 and_CC co-authors_NN2 (_Y 2007_MC )_Y and_CC Berry_NP1 and_CC co-authors_NN2 out_II21 of_II22 82_MC residential_JJ developments_NN2 in_II Hong_NP1 Kong_NP1 failed_VVD to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   62 The latter study found that all the developers failed to comply with open space planning conditions in the UK .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   62 The_AT latter_DA study_NN1 found_VVD_VVN that_CST all_DB the_AT developers_NN2 failed_VVD_VVN to_TO comply_VVI with_IW open_JJ space_NN1 planning_NN1_VVG conditions_NN2 in_II the_AT UK_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   63 These study results can be explained by the fact that no direct enforcement in either place exists with regard to planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   63 These_DD2 study_NN1_VV0@ results_NN2 can_VM be_VBI explained_VVN by_II the_AT fact_NN1 that_CST no_AT direct_JJ enforcement_NN1 in_II either_DD1 place_NN1 exists_VVZ with_II31 regard_II32 to_II33 planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   64 Theories X and Y represent two extremes that are not usually found in their pure form in reality ( Kock , 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   64 Theories_NN2 X_ZZ1 and_CC Y_ZZ1 represent_VV0 two_MC extremes_NN2 that_CST are_VBR not_XX usually_RR found_VVN_VVD in_II their_APPGE pure_JJ form_NN1 in_II reality_NN1 (_Y Kock_NP1_VV0_NN1 ,_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   65 A combination of the two theories is more likely to offer the best administration ( Cole , 2004 ; Li Poon , 2007 ) in the context of developing land use planning conditions and then ensuring adequate levels of compliance with those conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   65 A_AT1 combination_NN1 of_IO the_AT two_MC theories_NN2 is_VBZ more_RGR likely_JJ to_TO offer_VVI the_AT best_JJT administration_NN1 (_Y Cole_NP1 ,_Y 2004_MC ;_Y Li_NP1 Poon_NP1 ,_Y 2007_MC )_Y in_II the_AT context_NN1 of_IO developing_JJ_VVG land_NN1 use_NN1 planning_NN1_VVG conditions_NN2 and_CC then_RT ensuring_VVG adequate_JJ levels_NN2 of_IO compliance_NN1 with_IW those_DD2 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   66 Incentive Theory Incentive theory focuses on how external stimuli pull people in certain directions ( Weiten , 1992 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   66 Incentive_NN1 Theory_NN1 Incentive_NN1 theory_NN1 focuses_VVZ on_II_RP@ how_RGQ@_RRQ external_JJ stimuli_NN2 pull_VV0 people_NN in_II certain_JJ directions_NN2 (_Y Weiten_NP1_VV0 ,_Y 1992_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   67 There are three types of incentives : ( 1 ) remunerative incentives , which refer to some form of reward , especially monetary ones , in exchange for acting in a particular way ; ( 2 ) moral incentives , which are said to to do , i.e. , a person acts based on a moral incentive to have self-esteem or even admiration from his/her community ; and ( 3 ) coercive incentives , which are said to exist where a person can expect that the failure to act in a particular way will result in physical force being used against them by others in the community , for example , by inflicting pain in punishment ( Li , 2008 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   67 There_EX are_VBR three_MC types_NN2 of_IO incentives_NN2 :_Y (_Y 1_MC1 )_Y remunerative_JJ incentives_NN2 ,_Y which_DDQ refer_VV0 to_II some_DD form_NN1 of_IO reward_NN1 ,_Y especially_RR monetary_JJ ones_Z' ,_Y in_II exchange_NN1 for_IF acting_VVG in_II_RP@ a_AT1 particular_JJ way_NN1 ;_Y (_Y 2_MC )_Y moral_JJ incentives_NN2 ,_Y which_DDQ are_VBR said_VVN@ to_TO to_TO do_VDI ,_Y i.e._REX ,_Y a_AT1 person_NN1 acts_NN2_VVZ based_VVN on_II a_AT1 moral_JJ incentive_NN1 to_TO have_VHI self-esteem_NN1 or_CC even_RR_JJ% admiration_NN1 from_II his/her_APPGE community_NN1 ;_Y and_CC (_Y 3_MC )_Y coercive_JJ incentives_NN2 ,_Y which_DDQ are_VBR said_VVN@ to_TO exist_VVI where_RRQ_CS a_AT1 person_NN1 can_VM expect_VVI that_CST the_AT failure_NN1 to_TO act_VVI in_II_RP@ a_AT1 particular_JJ way_NN1 will_VM result_VVI in_II physical_JJ force_NN1 being_VBG used_VVN against_II them_PPHO2 by_II others_NN2 in_II the_AT community_NN1 ,_Y for_REX21 example_REX22 ,_Y by_II inflicting_VVG pain_NN1 in_II punishment_NN1 (_Y Li_NP1 ,_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   68 Motivation is a function of whatever independent variables are stipulated by a person 's favorite incentive theory ( Mwita , 2000 ) , and compliance behavior depends on individual 's expectations of benefits from compliance behavior ( Downey Greer , 1982 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   68 Motivation_NN1 is_VBZ a_AT1 function_NN1 of_IO whatever_DDQV independent_JJ variables_NN2 are_VBR stipulated_VVN by_II a_AT1 person_NN1 's_GE favorite_JJ_NN1 incentive_NN1 theory_NN1 (_Y Mwita_NP1 ,_Y 2000_MC )_Y ,_Y and_CC compliance_NN1 behavior_NN1 depends_VVZ on_II individual_NN1 's_GE expectations_NN2 of_IO benefits_NN2 from_II compliance_NN1 behavior_NN1 (_Y Downey_NP1 Greer_NP ,_Y 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   69 An implication of the incentive theory is that in order to induce land developers to comply with planning conditions , certain incentive systems can be provided .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   69 An_AT1 implication_NN1 of_IO the_AT incentive_NN1 theory_NN1 is_VBZ that_CST_DD1 in_BCL21 order_BCL22 to_TO induce_VVI land_NN1 developers_NN2 to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 ,_Y certain_JJ incentive_NN1 systems_NN2 can_VM be_VBI provided_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   70 For example , those who have a good record of compliance have a higher chance of getting approval from the town planning board or receive expedited application times for section 16/12/12A .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   70 For_REX21 example_REX22 ,_Y those_DD2 who_PNQS have_VH0 a_AT1 good_JJ record_NN1 of_IO compliance_NN1 have_VH0 a_AT1 higher_JJR chance_NN1 of_IO getting_VVG approval_NN1 from_II the_AT town_NN1 planning_NN1_VVG board_NN1 or_CC receive_VV0 expedited_JJ@ application_NN1 times_NNT2_VVZ% for_IF section_NN1 16/12/12A_FU ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   71 Suppose there are two applicants who complete section 16 applications residential use .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   71 Suppose_VV0 there_EX_RL are_VBR two_MC applicants_NN2 who_PNQS complete_VV0 section_NN1 16_MC applications_NN2 residential_JJ use_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   72 Developer A failed to provide a noise barrier ( one of the planning conditions ) once in one of his lands three years previously .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   72 Developer_NN1 A_ZZ1 failed_VVD_VVN_JJ@ to_TO provide_VVI a_AT1 noise_NN1 barrier_NN1 (_Y one_MC1 of_IO the_AT planning_NN1 conditions_NN2 )_Y once_RR in_II one_MC1 of_IO his_APPGE lands_NN2 three_MC years_NNT2 previously_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   73 Developer B never failed to comply with any planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   73 Developer_NN1 B_ZZ1 never_RR failed_VVN_VVD to_TO comply_VVI with_IW any_DD planning_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   74 Holding other factors constant , the latter will have a higher chance of approval when he applies for section 16 applications .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   74 Holding_VVG other_JJ factors_NN2 constant_JJ_NN1@ ,_Y the_AT latter_DA will_VM have_VHI a_AT1 higher_JJR chance_NN1 of_IO approval_NN1 when_CS_RRQ he_PPHS1 applies_VVZ for_IF section_NN1 16_MC applications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   75 Nevertheless , Shields ( 1995 ) stresses that this approach has limited use , as motivation is often short-lived .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   75 Nevertheless_RR ,_Y Shields_NN2_NP1@_VVZ (_Y 1995_MC )_Y stresses_VVZ that_CST this_DD1 approach_NN1 has_VHZ limited_VVN use_NN1_VV0 ,_Y as_CSA motivation_NN1 is_VBZ often_RR short-lived_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   76 Besides , as human are unique , people respond differently to the same kind of incentives .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   76 Besides_RR ,_Y as_CSA human_NN1_JJ are_VBR unique_JJ ,_Y people_NN respond_VV0 differently_RR to_II the_AT same_DA kind_NN1 of_IO incentives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   77 Imperfect knowledge of individual incentives makes it difficult for the planning authority to know what kinds of incentives to offer .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   77 Imperfect_JJ knowledge_NN1 of_IO individual_JJ_NN1 incentives_NN2 makes_VVZ it_PPH1 difficult_JJ for_IF the_AT planning_NN1 authority_NN1 to_TO know_VVI what_DDQ kinds_NN2 of_IO incentives_NN2 to_TO offer_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   78 To provide a better picture , Table 1 compares and contrasts how well the three motivation theories achieve the goal of compliance in planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   78 To_TO provide_VVI a_AT1 better_JJR picture_NN1 ,_Y Table_NN1 1_MC1 compares_VVZ and_CC contrasts_VVZ_NN2 how_RRQ_RGQ@ well_RR the_AT three_MC motivation_NN1 theories_NN2 achieve_VV0 the_AT goal_NN1 of_IO compliance_NN1 in_II planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   79 Conclusion Imposing planning conditions without enforcement is based on the " trust " in developers or landowners who are self-motivated .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   79 Conclusion_NN1 Imposing_JJ_VVG planning_NN1 conditions_NN2 without_IW enforcement_NN1 is_VBZ based_VVN on_II the_AT "_Y trust_NN1 "_Y in_II developers_NN2 or_CC landowners_NN2 who_PNQS are_VBR self-motivated_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   80 Yet empirical studies in both Hong Kong and the UK have disproved such an assumption .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   80 Yet_RR empirical_JJ studies_NN2 in_II both_DB2 Hong_NP1 Kong_NP1 and_CC the_AT UK_NP1 have_VH0 disproved_VVN such_DA an_AT1 assumption_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   81 Theory X might better serve the real world from that Theory Y has no value at all .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   81 Theory_NN1 X_ZZ1 might_VM better_RRR serve_VVI the_AT real_JJ world_NN1 from_II that_DD1_CST Theory_NN1 Y_ZZ1 has_VHZ no_AT value_NN1 at_RR21_II all_RR22_DB ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   82 The stakeholders who work or live nearby know best about the site .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   82 The_AT stakeholders_NN2 who_PNQS work_VV0 or_CC live_VV0 nearby_RL know_VV0 best_RRT about_II the_AT site_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   83 To prepare useful planning conditions , board members need to trust the ideas or suggestions given by these people .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   83 To_TO prepare_VVI useful_JJ planning_NN1 conditions_NN2 ,_Y board_NN1_VV0@ members_NN2 need_VV0 to_TO trust_VVI the_AT ideas_NN2 or_CC suggestions_NN2 given_VVN by_II these_DD2 people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   84 Incentive theory provides another direction for compliance , for those who comply with planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   84 Incentive_NN1 theory_NN1 provides_VVZ another_DD1 direction_NN1 for_IF compliance_NN1 ,_Y for_IF those_DD2 who_PNQS comply_VV0 with_IW planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   85 Either monetary or nonmonetary rewards for the developers might motivate them to comply with planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   85 Either_RR monetary_JJ or_CC nonmonetary_JJ_NN1 rewards_NN2 for_IF the_AT developers_NN2 might_VM motivate_VVI them_PPHO2 to_TO comply_VVI with_IW planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   86 Nevertheless , it is difficult to produce effective incentives that can enhance compliance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   86 Nevertheless_RR ,_Y it_PPH1 is_VBZ difficult_JJ to_TO produce_VVI effective_JJ incentives_NN2 that_CST_DD1 can_VM enhance_VVI compliance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   87 In view of this , board members have to open channels of communications with those relevant parties , trust their advice , and produce the right incentives .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   87 In_II31 view_II32 of_II33 this_DD1 ,_Y board_NN1_VV0@ members_NN2 have_VH0 to_TO open_VVI channels_NN2 of_IO communications_NN2 with_IW those_DD2 relevant_JJ parties_NN2 ,_Y trust_VV0 their_APPGE advice_NN1 ,_Y and_CC produce_VV0 the_AT right_JJ_NN1 incentives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   88 Since the three theories have their own merits and shortcomings , a combination of the three motivation theories can provide the best solution to achieve the goal of zero noncompliance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   88 Since_CS the_AT three_MC theories_NN2 have_VH0 their_APPGE own_DA merits_NN2 and_CC shortcomings_NN2 ,_Y a_AT1 combination_NN1 of_IO the_AT three_MC motivation_NN1 theories_NN2 can_VM provide_VVI the_AT best_JJT solution_NN1 to_TO achieve_VVI the_AT goal_NN1 of_IO zero_M noncompliance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   89 Acknowledgement : The author is indebted to the useful comments and advice on this article by anonymous referees .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   89 Acknowledgement_NN1 :_Y The_AT author_NN1 is_VBZ indebted_JJ to_II the_AT useful_JJ comments_NN2 and_CC advice_NN1 on_II this_DD1 article_NN1 by_II anonymous_JJ referees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   90 Although most of the information presented in the Journal refers to situations within the United States , environmental health and protection know no boundaries issues relevant to our international constituency , representing over 60 countries worldwide , are addressed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   90 Although_CS most_DAT of_IO the_AT information_NN1 presented_VVN_VVD in_II the_AT Journal_NN1 refers_VVZ to_II situations_NN2 within_II the_AT United_NP1 States_NP1 ,_Y environmental_JJ health_NN1 and_CC protection_NN1 know_VV0 no_AT boundaries_NN2 issues_VVZ@_NN2 relevant_JJ to_II our_APPGE international_JJ constituency_NN1 ,_Y representing_VVG over_RG 60_MC countries_NN2 worldwide_RL ,_Y are_VBR addressed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   91 Our goal is to raise diverse issues of interest to all our readers , irrespective of origin .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   91 Our_APPGE goal_NN1 is_VBZ to_TO raise_VVI diverse_JJ issues_NN2 of_IO interest_NN1 to_II all_DB our_APPGE readers_NN2 ,_Y irrespective_II21 of_II22 origin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   92 TABLE 1 Summary of the Three Motivation Theories pre-formatted table REFERENCES Banks , S. ( 1994 ) Practical planning : Appeals and inquiries .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   92 TABLE_NN1 1_MC1 Summary_NN1 of_IO the_AT Three_MC Motivation_NN1 Theories_NN2 pre-formatted_ZZ table_NN1 REFERENCES_VVZ@_NN2 Banks_NN2 ,_Y S._ZZ (_Y 1994_MC )_Y Practical_JJ planning_NN1 :_Y Appeals_NN2 and_CC inquiries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   93 London : Longman .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   93 London_NP1 :_Y Longman_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   94 Berry , J. , McGreal , S. , McKay , S. ( 2003 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   94 Berry_NP1_NN1 ,_Y J._NP1 ,_Y McGreal_NP1 ,_Y S._ZZ ,_Y McKay_NP1 ,_Y S._ZZ (_Y 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   95 Planning enforcement : Lessons for practice and procedure .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   95 Planning_VVG_NN1 enforcement_NN1 :_Y Lessons_NN2 for_IF practice_NN1 and_CC procedure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   96 Planning Theory and Practice , 4(3) , 325-344 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   96 Planning_VVG_NN1 Theory_NN1 and_CC Practice_NN1 ,_Y 4(3)_FO ,_Y 325-344_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   97 Burack , E.H .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   97 Burack_VV0_NN1_NP1@ ,_Y E.H_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   98 ( 1999 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   98 (_Y 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0   99 Spirituality in the workplace .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0   99 Spirituality_NN1_NP1@ in_II the_AT workplace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  100 Journal of Organizational Change Management , 12(4) , 280-292 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  100 Journal_NN1 of_IO Organizational_JJ_NP1 Change_NN1 Management_NN1 ,_Y 12(4)_FO ,_Y 280-292_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  101 Burby EJ. , May , R.C. , Paterson , R.J. ( 1998 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  101 Burby_NP1@ EJ._NP1 ,_Y May_NPM1 ,_Y R.C._NP1 ,_Y Paterson_NP1 ,_Y R.J._NP1 (_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  102 Improving compliance with regulations : Choices and outcomes lor local government .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  102 Improving_JJ_VVG compliance_NN1 with_IW regulations_NN2 :_Y Choices_NN2 and_CC outcomes_NN2 lor_NN1 local_JJ government_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  103 Journal of the American Planning Association , 64(3) , 324-334 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  103 Journal_NN1 of_IO the_AT American_JJ Planning_NN1 Association_NN1 ,_Y 64(3)_FO ,_Y 324-334_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  104 Cesare , J.D. , Sadri , G. ( 2003 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  104 Cesare_NP1 ,_Y J.D._NP1 ,_Y Sadri_NP1_NN1 ,_Y G._NP1_NNU@ (_Y 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  105 Do all carrots look the same ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  105 Do_VD0 all_RR@_DB carrots_NN2 look_VVI the_AT same_DA ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  106 Examining the impact of culture on employee motivation .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  106 Examining_VVG the_AT impact_NN1 of_IO culture_NN1 on_II employee_NN1 motivation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  107 Management Research News , 26(1) , Management : Theory and practice .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  107 Management_NN1 Research_NN1 News_NN1 ,_Y 26(1)_FO ,_Y Management_NN1 :_Y Theory_NN1 and_CC practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  108 London : Thomson Learning .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  108 London_NP1 :_Y Thomson_NP1 Learning_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  109 Cooper , M.D. , Phillips , R.A. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  109 Cooper_NP1 ,_Y M.D._NNA ,_Y Phillips_NP1 ,_Y R.A._NNA (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  110 Killing two birds with one stone : Achieving quality via total safety management .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  110 Killing_VVG_NN1 two_MC birds_NN2 with_IW one_MC1 stone_NN1 :_Y Achieving_VVG quality_NN1 via_II total_JJ_NN1 safety_NN1 management_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  111 Facilities , 15(1-2) , 34-41 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  111 Facilities_NN2 ,_Y 15(1-2)_NN1_JJ ,_Y 34-41_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  112 Downey , H.K. , Greer , C.R. ( 1982 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  112 Downey_NP1 ,_Y H.K._NP1 ,_Y Greer_NP ,_Y C.R._NP1 (_Y 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  113 Industrial compliance with social legislation : Investigations of decision rationales .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  113 Industrial_JJ compliance_NN1 with_IW social_JJ legislation_NN1 :_Y Investigations_NN2 of_IO decision_NN1 rationales_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  114 The Academy of Management Review , 7(3) , 488-498 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  114 The_AT Academy_NN1 of_IO Management_NN1 Review_NN1 ,_Y 7(3)_FO ,_Y 488-498_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  115 Erez , A. , Isen , A.M. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  115 Erez_VV0_NN1_NP1@ ,_Y A._ZZ ,_Y Isen_NP1 ,_Y A.M._RA (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  116 The influence of positive affect on the components of expectancy motivation .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  116 The_AT influence_NN1 of_IO positive_JJ affect_NN1 on_II the_AT components_NN2 of_IO expectancy_NN1 motivation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  117 Journal of Applied Psychology , 87(6) , 1055-1067 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  117 Journal_NN1 of_IO Applied_JJ Psychology_NN1 ,_Y 87(6)_FO ,_Y 1055-1067_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  118 Galligan , E. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  118 Galligan_NN1_NP1@ ,_Y E._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  119 Irish planning law and procedure .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  119 Irish_JJ planning_NN1 law_NN1 and_CC procedure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  120 London : Sweet and Maxwell .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  120 London_NP1 :_Y Sweet_JJ_NP1@ and_CC Maxwell_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  121 Kock , N.E ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  121 Kock_VV0_NN1_NP1@ ,_Y N.E_ND1 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  122 Business process improvement through E-collaboration : Knowledge sharing through the use of virtual groups .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  122 Business_NN1 process_NN1_VV0 improvement_NN1 through_II E-collaboration_NN1_JJ :_Y Knowledge_NN1 sharing_VVG through_II the_AT use_NN1 of_IO virtual_JJ groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  123 Hershey PA : Idea Group Publishing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  123 Hershey_NP1@_NN1_JJ@ PA_NP1@_NN1 :_Y Idea_NN1 Group_NN1 Publishing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  124 Kuperan , K , Sutinen , J.G. ( 1999 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  124 Kuperan_NN1_NP1@_JJ ,_Y K_ZZ1 ,_Y Sutinen_NP1_NN1 ,_Y J.G._NP1 (_Y 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  125 A socio-economic theory of regulatory compliance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  125 A_AT1_ZZ1 socio-economic_JJ theory_NN1 of_IO regulatory_JJ compliance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  126 International Journal of Social Economics , 26(1/2/3) , 174-193 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  126 International_JJ Journal_NN1 of_IO Social_JJ Economics_NN1 ,_Y 26(1/2/3)_VV0_NN1_JJ ,_Y 174-193_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  127 Lai , L. W.C. , , D.C.W. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  127 Lai_NP1 ,_Y L._ZZ W.C._NN1 ,_Y ,_Y D.C.W._NP1 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  128 The private supply of and public demand for planning : Compliance with planning conditions in the absence of direct statutory enforcement measures .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  128 The_AT private_JJ supply_NN1 of_IO and_CC public_JJ_NN1 demand_NN1_VV0 for_IF planning_VVG_NN1 :_Y Compliance_NN1 with_IW planning_VVG_NN1 conditions_NN2 in_II the_AT absence_NN1 of_IO direct_JJ statutory_JJ enforcement_NN1 measures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  129 Planning Practice and Research , 22(A) , 535-557 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  129 Planning_VVG_NN1 Practice_NN1 and_CC Research_NN1 ,_Y 22(A)_FO ,_Y 535-557_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  130 Li , R.Y.M. ( 2008 , November ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  130 Li_NP1 ,_Y R.Y.M._NP1 (_Y 2008_MC ,_Y November_NPM1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  131 What induces people to submit public comments to ensure sustainable urban land use ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  131 What_DDQ induces_VVZ people_NN to_TO submit_VVI public_JJ_NN1 comments_NN2 to_TO ensure_VVI sustainable_JJ urban_JJ land_NN1 use_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  132 Valuable insights into response mediation theory and Tolman 's systematic theory .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  132 Valuable_JJ insights_NN2 into_II response_NN1 mediation_NN1 theory_NN1 and_CC Tolman_NP1_NN1 's_GE systematic_JJ theory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  133 Paper presented at the Building Green Partnership for Sustainable Development Conference , Hong Kong .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  133 Paper_NN1 presented_VVN_VVD at_II the_AT Building_NN1 Green_JJ_NN1@ Partnership_NN1 for_IF Sustainable_JJ Development_NN1 Conference_NN1 ,_Y Hong_NP1 Kong_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  134 Li , R.Y.M. , Poon , S.W. ( 2007 , October ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  134 Li_NP1 ,_Y R.Y.M._NP1 ,_Y Poon_NP1_NN1 ,_Y S.W._ND1 (_Y 2007_MC ,_Y October_NPM1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  135 A critical review of construction safety motivation in Hong Kong .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  135 A_AT1_ZZ1 critical_JJ review_NN1 of_IO construction_NN1 safety_NN1 motivation_NN1 in_II Hong_NP1 Kong_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  136 Paper presented at the Management Science and Engineering Academic Conference , Tianjin .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  136 Paper_NN1 presented_VVN_VVD at_II the_AT Management_NN1 Science_NN1 and_CC Engineering_NN1 Academic_JJ_NN1@ Conference_NN1 ,_Y Tianjin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  137 McKay , S.J.B. , McGreal , S. ( 2003 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  137 McKay_NP1 ,_Y S.J.B._NP1 ,_Y McGreal_NP1 ,_Y S._ZZ (_Y 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  138 Planning enforcement : Lessons for practice and procedure .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  138 Planning_VVG_NN1 enforcement_NN1 :_Y Lessons_NN2 for_IF practice_NN1 and_CC procedure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  139 Planning Theory Practice , 4(3) , 325-344 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  139 Planning_VVG_NN1 Theory_NN1 Practice_NN1 ,_Y 4(3)_FO ,_Y 325-344_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  140 Moody , R.C. , Pesut , D.J .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  140 Moody_JJ_NP1% ,_Y R.C._NP1 ,_Y Pesut_NP1_VV0_NN1 ,_Y D.J_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  141 ( 2006 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  141 (_Y 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  142 The motivation to care : Application and extension of motivation theory to professional nursing work .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  142 The_AT motivation_NN1 to_TO care_VVI :_Y Application_NN1 and_CC extension_NN1 of_IO motivation_NN1 theory_NN1 to_II professional_JJ nursing_JJ_NN1 work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  143 Journal of Health Organization and Management ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  143 Journal_NN1 of_IO Health_NN1 Organization_NN1 and_CC Management_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  144 A practical approach to planning law .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  144 A_AT1_ZZ1 practical_JJ approach_NN1 to_II planning_VVG_NN1 law_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  145 Oxford : Oxford University Press .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  145 Oxford_NP1 :_Y Oxford_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  146 Morden , T. ( 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  146 Morden_NP1 ,_Y T._NP1 (_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  147 International culture and management .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  147 International_JJ culture_NN1 and_CC management_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  148 Management Decision , 33(2) , 16-21 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  148 Management_NN1 Decision_NN1 ,_Y 33(2)_FO ,_Y 16-21_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  149 Mwita , J.I. ( 2000 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  149 Mwita_NN1_NP1@ ,_Y J.I._NP1 (_Y 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  150 Performance management model : A systems-based approach to public service quality .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  150 Performance_NN1 management_NN1 model_NN1 :_Y A_ZZ1_AT1@ systems-based_JJ approach_NN1 to_II public_JJ_NN1 service_NN1 quality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  151 International Journal of Public Sector Management , 13(1) , 19-37 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  151 International_JJ Journal_NN1 of_IO Public_JJ_NN1 Sector_NN1 Management_NN1 ,_Y 13(1)_FO ,_Y 19-37_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  152 Peters , R.H. ( 1991 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  152 Peters_NP ,_Y R.H._FO (_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  153 Strategies for encouraging sell-protective employee behavior .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  153 Strategies_NN2 for_IF encouraging_JJ_VVG@ sell-protective_JJ employee_NN1 behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  154 Journal of Safety Research , 22(2) , 53-70 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  154 Journal_NN1 of_IO Safety_NN1 Research_NN1 ,_Y 22(2)_FO ,_Y 53-70_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  155 Prior , A. ( 2000 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  155 Prior_RR_JJ ,_Y A._ZZ (_Y 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  156 Problems in the theory and practice of planning enforcement .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  156 Problems_NN2 in_II the_AT theory_NN1 and_CC practice_NN1 of_IO planning_VVG_NN1 enforcement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  157 Planning Theory Practice , 1(1) , 53-69 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  157 Planning_VVG_NN1 Theory_NN1 Practice_NN1 ,_Y 1(1)_FO ,_Y 53-69_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  158 Rogers , R.W. ( 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  158 Rogers_NP1 ,_Y R.W._NP1 (_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  159 The psychological contract of trust -- Part II .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  159 The_AT psychological_JJ contract_NN1 of_IO trust_NN1 --_NN1_JJ Part_NN1 II_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  160 Executive Development , 8(2) , 7-15 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  160 Executive_NN1_JJ@ Development_NN1 ,_Y 8(2)_FO ,_Y 7-15_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  161 Scholz , J.T ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  161 Scholz_VV0_NN1_NP1@ ,_Y J.T_NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  162 Enforcement policy and corporate misconduct : The changing perspective of deterrence theory .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  162 Enforcement_NN1 policy_NN1 and_CC corporate_JJ misconduct_NN1 :_Y The_AT changing_JJ perspective_NN1 of_IO deterrence_NN1 theory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  163 Law and Contemporary Problems , 60(3) , 253-268 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  163 Law_NN1 and_CC Contemporary_JJ Problems_NN2 ,_Y 60(3)_FO ,_Y 253-268_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  164 Shields , MA. ( 1995 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  164 Shields_NP1 ,_Y MA._NNA (_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  165 Human relations in safety .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  165 Human_JJ_NN1 relations_NN2 in_II safety_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  166 Safety Bulletin , 12(1) , 6-7 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  166 Safety_NN1 Bulletin_NN1 ,_Y 12(1)_FO ,_Y 6-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  167 Stigler , G.J. ( 1970 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  167 Stigler_NN1_NP1@ ,_Y G.J._NP1 (_Y 1970_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  168 Economy , 78(3) , 526-536 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  168 Economy_NN1 ,_Y 78(3)_FO ,_Y 526-536_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  169 Stroh , L.K. ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  169 Stroh_NN1_NP1@ ,_Y L.K._NP1 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  170 International assignments : An integration of strategy , research , and practice .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  170 International_JJ assignments_NN2 :_Y An_AT1 integration_NN1 of_IO strategy_NN1 ,_Y research_NN1_VV0@ ,_Y and_CC practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  171 Mahwah , NJ : Lawrence Erlbaum Associates .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  171 Mahwah_UH ,_Y NJ_NP1 :_Y Lawrence_NP1 Erlbaum_NP1 Associates_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  172 Suen , M. ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  172 Suen_NN1_NP1@_JJ ,_Y M._NNU@_NN1 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  173 LCQ10 : Enforcement of conditions in the land lease and to the planning permission .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  173 LCQ10_FO :_Y Enforcement_NN1 of_IO conditions_NN2 in_II the_AT land_NN1 lease_NN1 and_CC to_II the_AT planning_NN1 permission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  174 Retrieved January 20 , 2007 , from http : **52;23576;TOOLONG Town Planning Board .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  174 Retrieved_VVN_JJ@_VVD January_NPM1 20_MC ,_Y 2007_MC ,_Y from_II http_NNU :_Y **52;23576;TOOLONG_FU Town_NN1 Planning_NN1_VVG Board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  175 ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  175 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  176 Town planning board guidelines on satisfying the owner 's consent/notijication requirements under sections 12A and 16 of the town planning ordinance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  176 Town_NN1 planning_NN1_VVG board_NN1 guidelines_NN2 on_II satisfying_VVG@ the_AT owner_NN1 's_GE consent/notijication_NN1 requirements_NN2 under_II sections_NN2 12A_FO and_CC 16_MC of_IO the_AT town_NN1 planning_NN1_VVG ordinance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  177 Retrieved November 15 , 2008 , from http : **42;23630;TOOLONG TPBPG31.pdl Town Planning Board .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  177 Retrieved_VVN_JJ@_VVD November_NPM1 15_MC ,_Y 2008_MC ,_Y from_II http_NNU :_Y **42;23630;TOOLONG_VV0_NN1 TPBPG31.pdl_FO Town_NN1 Planning_NN1_VVG Board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  178 ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  178 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  179 Town planning board .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  179 Town_NN1 planning_NN1_VVG board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  180 Retrieved November 29 , 2007 , from http : //www.info.gov.hk/tpb/ Weiten , W. ( 1992 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  180 Retrieved_VVN_JJ@_VVD November_NPM1 29_MC ,_Y 2007_MC ,_Y from_II http_NNU :_Y //www.info.gov.hk/tpb/_VV0_JJ Weiten_NP1_VV0 ,_Y W._NP1_NNU@ (_Y 1992_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  181 Psychology .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  181 Psychology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  182 Three Lakes , WI : Cole Publishing Company .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  182 Three_MC Lakes_NN2 ,_Y WI_NP1 :_Y Cole_NP1 Publishing_NN1 Company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  183 Yau , J.H.W. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  183 Yau_NP1 ,_Y J.H.W._NP1 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  184 Comprehensive development area zoning .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  184 Comprehensive_JJ development_NN1 area_NN1 zoning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  185 In Hong Kong : An empirical study of planning conditions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  185 In_II Hong_NP1 Kong_NP1 :_Y An_AT1 empirical_JJ study_NN1 of_IO planning_VVG_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  186 Unpublished BSc dissertation , the University of Hong Kong , Hong Kong .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  186 Unpublished_JJ BSc_NN1 dissertation_NN1 ,_Y the_AT University_NN1 of_IO Hong_NP1 Kong_NP1 ,_Y Hong_NP1 Kong_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  187 By Rita Li Yi Man , ACIArb , , Room 533 , Knowles Building , The University of Hong Kong , Pokfulam , Hong Kong , China .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  187 By_II Rita_NP1 Li_NP1 Yi_NP1 Man_NN1 ,_Y ACIArb_NP1 ,_Y ,_Y Room_NN1 533_MC ,_Y Knowles_NP1 Building_NN1 ,_Y The_AT University_NN1 of_IO Hong_NP1 Kong_NP1 ,_Y Pokfulam_NP1_VV0_NN1 ,_Y Hong_NP1 Kong_NP1 ,_Y China_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  A    0  188 E-mail : h0339637@hkusua.hku.hk.
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080009 COCA  B    0  188 E-mail_NN1_VV0@ :_Y h0339637@hkusua.hku.hk._FO

@@ -1,0 +1,346 @@
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    0 Adoption has become a more popular alternative for couples that are looking to start their own family .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    0 Adoption_NN1 has_VHZ become_VVN@ a_AT1 more_RGR popular_JJ alternative_NN1 for_IF couples_NN2 that_CST are_VBR looking_VVG to_TO start_VVI their_APPGE own_DA family_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    1 There are couples in this world that are unable to have their own children , but still want to have a family .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    1 There_EX are_VBR couples_NN2 in_II this_DD1 world_NN1 that_CST are_VBR unable_JK to_TO have_VHI their_APPGE own_DA children_NN2 ,_, but_CCB still_RR want_VV0 to_TO have_VHI a_AT1 family_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    2 There are also people in this world that believe there are already children that need homes , so they choose to adopt instead .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    2 There_EX are_VBR also_RR people_NN in_II this_DD1 world_NN1 that_CST believe_VV0 there_EX are_VBR already_RR children_NN2 that_CST need_VV0 homes_NN2 ,_, so_CS@ they_PPHS2 choose_VV0 to_TO adopt_VVI instead_RR ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    3 No matter the circumstances , most adoptive parents are unaware of the psychological concerns that can come with being adopted .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    3 No_UH matter_VV0 the_AT circumstances_NN2 ,_, most_RGT adoptive_JJ parents_NN2 are_VBR unaware_JJ of_IO the_AT psychological_JJ concerns_NN2 that_CST can_VM come_VVI with_IW being_VBG adopted_VVN ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    4 According to The Adoption History Project , " adoption was first recognized as a social and legal operation for a child in 1851 by the state of Massachusetts after it passed the first modern adoption law . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    4 According_II21 to_II22 The_AT Adoption_NN1 History_NN1 Project_NN1 ,_, "_" adoption_NN1 was_VBDZ first_MD recognized_VVN as_II a_AT1 social_JJ and_CC legal_JJ operation_NN1 for_IF a_AT1 child_NN1 in_II 1851_MC by_II the_AT state_NN1 of_IO Massachusetts_NP1 after_CS it_PPH1 passed_VVD the_AT first_MD modern_JJ adoption_NN1 law_NN1 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    5 ( The Adoption History Project .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    5 (_( The_AT Adoption_NN1 History_NN1 Project_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    6 Wired Humanities Project .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    6 Wired_JJ@ Humanities_NN2 Project_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    7 Feb. 2012 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    7 Feb._NPM1 2012_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    8 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    8 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0    9 16 Feb. 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0    9 16_MC Feb._NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   10 This law known as the 1851 Adoption of Children Act was a major turning point .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   10 This_DD1 law_NN1 known_VVN as_II the_AT 1851_MC Adoption_NN1 of_IO Children_NN2 Act_NN1 was_VBDZ a_AT1 major_JJ turning_NN1 point_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   11 This allowed for adoptions to be " fit and proper " for all parties involved .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   11 This_DD1 allowed_VVN for_IF adoptions_NN2 to_TO be_VBI "_" fit_JJ and_CC proper_JJ "_" for_IF all_DB parties_NN2 involved_VVD ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   12 By the early 1900s , a law was passed in the state of Minnesota " requiring children and adults to be investigated and adoption records to be shielded from public view . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   12 By_II the_AT early_JJ 1900s_MC2 ,_, a_AT1 law_NN1 was_VBDZ passed_VVN in_II the_AT state_NN1 of_IO Minnesota_NP1 "_" requiring_VVG children_NN2 and_CC adults_NN2 to_TO be_VBI investigated_VVN and_CC adoption_NN1 records_NN2 to_TO be_VBI shielded_VVN from_II public_JJ view_NN1 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   13 ( The Adoption History Project .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   13 (_( The_AT Adoption_NN1 History_NN1 Project_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   14 Wired Humanities Project .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   14 Wired_JJ@ Humanities_NN2 Project_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   15 Feb. 2012 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   15 Feb._NPM1 2012_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   16 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   16 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   17 16 Feb. 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   17 16_MC Feb._NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   18 Since then , practically all the states in the country have altered and revised their laws to protect the child 's welfare .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   18 Since_II then_RT ,_, practically_RR all_DB the_AT states_NN2 in_II the_AT country_NN1 have_VH0 altered_VVN and_CC revised_VVN their_APPGE laws_NN2 to_TO protect_VVI the_AT child_NN1 's_GE welfare_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   19 The Adoption History Project states that in 1950 , children being adopted expanded " beyond 'normal' children to include other , disabled , non-white , and other children with special needs . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   19 The_AT Adoption_NN1 History_NN1 Project_NN1 states_VVZ that_CST in_II 1950_MC ,_, children_NN2 being_VBG adopted_VVN expanded_VVN "_" beyond_II 'normal'_JJ children_NN2 to_TO include_VVI other_JJ ,_, disabled_JJ ,_, non-white_JJ ,_, and_CC other_JJ children_NN2 with_IW special_JJ needs_NN2 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   20 ( The Adoption History Project .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   20 (_( The_AT Adoption_NN1 History_NN1 Project_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   21 Wired Humanities Project .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   21 Wired_JJ@ Humanities_NN2 Project_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   22 Feb. 2012 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   22 Feb._NPM1 2012_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   23 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   23 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   24 16 Feb. 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   24 16_MC Feb._NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   25 This has allowed for a broader range of children to be adopted and kept out of Foster Care .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   25 This_DD1 has_VHZ allowed_VVN for_IF a_AT1 broader_JJR range_NN1 of_IO children_NN2 to_TO be_VBI adopted_VVN and_CC kept_VVN out_II21 of_II22 Foster_NP1 Care_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   26 The Adoption History Project believes that " adoption has been decisively changed by laws , public policy and cultural change which has altered Americans ' ordinary lives and families in which they live and love . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   26 The_AT Adoption_NN1 History_NN1 Project_NN1 believes_VVZ that_DD1 "_" adoption_NN1 has_VHZ been_VBN decisively_RR changed_VVN by_II laws_NN2 ,_, public_JJ policy_NN1 and_CC cultural_JJ change_NN1 which_DDQ has_VHZ altered_VVN Americans_NN2 '_GE ordinary_JJ lives_NN2 and_CC families_NN2 in_II which_DDQ they_PPHS2 live_VV0 and_CC love_NN1 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   27 While want it means to be a family has n't changed , what a family looks like has .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   27 While_CS want_VV0 it_PPH1 means_VVZ to_TO be_VBI a_AT1 family_NN1 has_VHZ n't_XX changed_VVN ,_, what_DDQ a_AT1 family_NN1 looks_VVZ like_II has_VHZ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    0   28 Even though this statement is true , there is still much debate on how a family should be formed .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    0   28 Even_CS21 though_CS22 this_DD1 statement_NN1 is_VBZ true_JJ ,_, there_EX is_VBZ still_RR much_DA1 debate_NN1 on_II how_RRQ a_AT1 family_NN1 should_VM be_VBI formed_VVN ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   29 Transracial adoptions began in the United States at the end of World War II when thousands of children needed homes , according to Andrew Morrison .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   29 Transracial_JJ adoptions_NN2 began_VVD in_II the_AT United_NP1 States_NP1 at_II the_AT end_NN1 of_IO World_NN1 War_NN1 II_MC when_CS thousands_NNO2 of_IO children_NN2 needed_VVD homes_NN2 ,_, according_II21 to_II22 Andrew_NP1 Morrison_NP1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   30 ( Transracial Adoption : The Pros and Cons and the Parents ' Perspective .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   30 (_( Transracial_JJ Adoption_NN1 :_: The_AT Pros_NN2 and_CC Cons_NN2 and_CC the_AT Parents_NN2 '_GE Perspective_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   31 Harvard Blackletter Law Journal Vol. 20 , 2004 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   31 Harvard_NP1 Blackletter_NP1 Law_NN1 Journal_NN1 Vol._NN1 20_MC ,_, 2004_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   32 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   32 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   33 14 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   33 14_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   34 The first Black child to be adopted into a white family was first recorded in 1948 in Minnesota .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   34 The_AT first_MD Black_JJ child_NN1 to_TO be_VBI adopted_VVN into_II a_AT1 white_JJ family_NN1 was_VBDZ first_MD recorded_VVN in_II 1948_MC in_II Minnesota_NP1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   35 Since then , Americans have become more open to the idea of transracial adoptions in the United States .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   35 Since_II then_RT ,_, Americans_NN2 have_VH0 become_VVN@ more_RGR open_JJ to_II the_AT idea_NN1 of_IO transracial_JJ adoptions_NN2 in_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    1   36 However , that is not to say that the same people are open to international adoptions as well .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    1   36 However_RR ,_, that_DD1 is_VBZ not_XX to_TO say_VVI that_CST the_AT same_DA people_NN are_VBR open_JJ to_II international_JJ adoptions_NN2 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   37 Many people have criticized the idea of an international adoption ever since it became an alternative option for prospective adopting parents .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   37 Many_DA2 people_NN have_VH0 criticized_VVN the_AT idea_NN1 of_IO an_AT1 international_JJ adoption_NN1 ever_RR since_CS it_PPH1 became_VVD an_AT1 alternative_JJ option_NN1 for_IF prospective_JJ adopting_JJ@ parents_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   38 People believe that parents should adopt from their own country .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   38 People_NN believe_VV0 that_CST parents_NN2 should_VM adopt_VVI from_II their_APPGE own_DA country_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   39 Parents that choose to adopt internationally do because they are open to the idea of raising a child from another country .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   39 Parents_NN2 that_CST choose_VV0 to_TO adopt_VVI internationally_RR do_VD0 because_CS they_PPHS2 are_VBR open_JJ to_II the_AT idea_NN1 of_IO raising_VVG a_AT1 child_NN1 from_II another_DD1 country_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   40 Many children are in need of homes , but when it comes to where you are adopting from , it is a personal choice .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   40 Many_DA2 children_NN2 are_VBR in_II31 need_II32 of_II33 homes_NN2 ,_, but_CCB when_CS it_PPH1 comes_VVZ to_II where_RRQ you_PPY are_VBR adopting_VVG from_II ,_, it_PPH1 is_VBZ a_AT1 personal_JJ choice_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   41 The main issue people have with international adoptions is that families are being made from different ethnic heritages , resulting in a noticeable difference to the public .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   41 The_AT main_JJ issue_NN1 people_NN have_VH0 with_IW international_JJ adoptions_NN2 is_VBZ that_CST families_NN2 are_VBR being_VBG made_VVN from_II different_JJ ethnic_JJ heritages_NN2 ,_, resulting_VVG in_II a_AT1 noticeable_JJ difference_NN1 to_II the_AT public_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   42 According to Peter Conn , author of the article The Politics of International Adoption , " the World Health Organization reports more than ten million children under five years old -- most of them in developing countries -- die each year from violence , malnutrition or disease . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   42 According_II21 to_II22 Peter_NP1 Conn_NP1 ,_, author_NN1 of_IO the_AT article_NN1 The_AT Politics_NN1 of_IO International_JJ Adoption_NN1 ,_, "_" the_AT World_NN1 Health_NN1 Organization_NN1 reports_VVZ more_DAR than_CSN ten_MC million_NNO children_NN2 under_RG five_MC years_NNT2 old_JJ --_NN1 most_DAT of_IO them_PPHO2 in_II developing_JJ countries_NN2 --_NN1 die_VV0 each_DD1 year_NNT1 from_II violence_NN1 ,_, malnutrition_NN1 or_CC disease_NN1 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   43 ( The Politics of International Adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   43 (_( The_AT Politics_NN1 of_IO International_JJ Adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   44 Origins : Current Events in Historical Perspective .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   44 Origins_NN2 :_: Current_JJ Events_NN2 in_II Historical_JJ Perspective_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   45 Jan. 2008 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   45 Jan._NPM1 2008_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   46 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   46 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   47 14 Apr. 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   47 14_MC Apr._NN1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   48 He breaks this down for us saying that , " Every day , the toll of children 's lives equals ten times the number of died in the World Trade Towers , and each week matches the total of fatalities in the 2004 Asian tsunami . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   48 He_PPHS1 breaks_VVZ this_DD1 down_RP for_IF us_PPIO2 saying_VVG that_CST ,_, "_" Every_AT1 day_NNT1 ,_, the_AT toll_NN1 of_IO children_NN2 's_GE lives_NN2 equals_VVZ ten_MC times_NNT2 the_AT number_NN1 of_IO died_VVN@ in_II the_AT World_NN1 Trade_NN1 Towers_NP1 ,_, and_CC each_DD1 week_NNT1 matches_VVZ the_AT total_NN1 of_IO fatalities_NN2 in_II the_AT 2004_MC Asian_JJ tsunami_NN2 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   49 These numbers are significant and all these children need is to find stability and a healthy environment and home for them to survive and possibly live in .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   49 These_DD2 numbers_NN2 are_VBR significant_JJ and_CC all_DB these_DD2 children_NN2 need_VV0 is_VBZ to_TO find_VVI stability_NN1 and_CC a_AT1 healthy_JJ environment_NN1 and_CC home_NN1 for_IF them_PPHO2 to_TO survive_VVI and_CC possibly_RR live_VVI in_RP@ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   50 All adoptions , no matter the type , involve disruption , loss and mourning .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   50 All_DB adoptions_NN2 ,_, no_UH matter_VV0 the_AT type_NN1 ,_, involve_VV0 disruption_NN1 ,_, loss_NN1 and_CC mourning_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   51 However , adoption offers a substantially better outcome for children that have been abandoned , keeping them off the streets and out of orphanages .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   51 However_RR ,_, adoption_NN1 offers_VVZ@ a_AT1 substantially_RR better_JJR outcome_NN1 for_IF children_NN2 that_CST have_VH0 been_VBN abandoned_VVN ,_, keeping_VVG them_PPHO2 off_II the_AT streets_NN2 and_CC out_II21 of_II22 orphanages_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   52 International adoptions have the ability to change what it means to be a family .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   52 International_JJ adoptions_NN2 have_VH0 the_AT ability_NN1 to_TO change_VVI what_DDQ it_PPH1 means_VVZ to_TO be_VBI a_AT1 family_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   53 Peter Conn says that , " multiethnic adoptive families are sites of constant ethnographic instruction : they offer routine access to cultural knowledge and experiences that lie outside the usual domestic interactions . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   53 Peter_NP1 Conn_NP1 says_VVZ that_CST ,_, "_" multiethnic_JJ adoptive_JJ families_NN2 are_VBR sites_NN2 of_IO constant_JJ ethnographic_JJ instruction_NN1 :_: they_PPHS2 offer_VV0 routine_NN1 access_NN1 to_II cultural_JJ knowledge_NN1 and_CC experiences_NN2 that_CST lie_VV0 outside_II the_AT usual_JJ domestic_JJ interactions_NN2 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   54 ( The Politics of International Adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   54 (_( The_AT Politics_NN1 of_IO International_JJ Adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   55 Origins : Current Events in Historical Perspective .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   55 Origins_NN2 :_: Current_JJ Events_NN2 in_II Historical_JJ Perspective_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   56 Jan. 2008 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   56 Jan._NPM1 2008_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   57 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   57 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   58 14 Apr. 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   58 14_MC Apr._NN1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   59 This allows for people to learn about different cultures .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   59 This_DD1 allows_VVZ for_IF people_NN to_TO learn_VVI about_II different_JJ cultures_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   60 Around the world there are an estimated 153 million orphans who have lost one parent .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   60 Around_II the_AT world_NN1 there_EX are_VBR an_AT1 estimated_JJ@ 153_MC million_NNO orphans_NN2 who_PNQS have_VH0 lost_VVN one_MC1 parent_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   61 According to the website Childinfo.org , there are 17,900,000 orphans who have lost both parents and are living in orphanages or on the streets and lack the care and attention required for healthy development .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   61 According_II21 to_II22 the_AT website_NN1 Childinfo.org_NP1 ,_, there_EX are_VBR 17,900,000_MC orphans_NN2 who_PNQS have_VH0 lost_VVN both_DB2 parents_NN2 and_CC are_VBR living_VVG in_II orphanages_NN2 or_CC on_II the_AT streets_NN2 and_CC lack_VV0@ the_AT care_NN1 and_CC attention_NN1 required_VVN for_IF healthy_JJ development_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   62 These children are at a higher risk of disease , malnutrition and even death .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   62 These_DD2 children_NN2 are_VBR at_II a_AT1 higher_JJR risk_NN1 of_IO disease_NN1 ,_, malnutrition_NN1 and_CC even_RR death_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   63 ( Orphan Estimates .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   63 (_( Orphan_NN1 Estimates_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   64 Childinfo.org .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   64 Childinfo.org_NP1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   65 Apr 2013 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   65 Apr_NN1 2013_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   66 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   66 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    2   67 16 Feb. 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    2   67 16_MC Feb._NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   68 On the other side of the argument , people believe that American citizens should be banned from adoption children internationally because there is currently a great need from adoption domestically .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   68 On_II the_AT other_JJ side_NN1 of_IO the_AT argument_NN1 ,_, people_NN believe_VV0 that_CST American_JJ citizens_NN2 should_VM be_VBI banned_VVN from_II adoption_NN1 children_NN2 internationally_RR because_CS there_EX is_VBZ currently_RR a_AT1 great_JJ need_NN1 from_II adoption_NN1 domestically_RR ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   69 According to the Children 's Bureau programs and resources , 408,425 children are in the foster care system and are waiting to be adopted .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   69 According_II21 to_II22 the_AT Children_NN2 's_GE Bureau_NN1 programs_NN2 and_CC resources_NN2 ,_, 408,425_MC children_NN2 are_VBR in_II the_AT foster_JJ care_NN1 system_NN1 and_CC are_VBR waiting_VVG to_TO be_VBI adopted_VVN ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   70 8,668 children were adopted into the United States in 2012 according to the Annual Report of Inter-country Adoptions .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   70 8,668_MC children_NN2 were_VBDR adopted_VVN into_II the_AT United_NP1 States_NP1 in_II 2012_MC according_II21 to_II22 the_AT Annual_JJ Report_NN1 of_IO Inter-country_JJ Adoptions_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   71 People believe that we are Americans have a responsibility to help all American citizens , orphans included , before we take into account problems of other nations .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   71 People_NN believe_VV0 that_CST we_PPIS2 are_VBR Americans_NN2 have_VH0 a_AT1 responsibility_NN1 to_TO help_VVI all_DB American_JJ citizens_NN2 ,_, orphans_NN2 included_VVD ,_, before_CS we_PPIS2 take_VV0 into_II account_NN1 problems_NN2 of_IO other_JJ nations_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   72 Adopting internationally has negative and unintended effects and may not be in the best interest of the child .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   72 Adopting_VVG internationally_RR has_VHZ negative_JJ and_CC unintended_JJ effects_NN2 and_CC may_VM not_XX be_VBI in_II the_AT best_JJT interest_NN1 of_IO the_AT child_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   73 People who are against international adoptions would say that children in foster care are being deprived of a loving family , which is an essential element to living a balanced and stable life .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   73 People_NN who_PNQS are_VBR against_II international_JJ adoptions_NN2 would_VM say_VVI that_CST children_NN2 in_II foster_JJ care_NN1 are_VBR being_VBG deprived_VVN of_IO a_AT1 loving_JJ family_NN1 ,_, which_DDQ is_VBZ an_AT1 essential_JJ element_NN1 to_II living_VVG a_AT1 balanced_JJ and_CC stable_JJ life_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   74 While this is a valid argument , there are far more children in orphanages and living on the streets around the world than there are children in Foster Care .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   74 While_CS this_DD1 is_VBZ a_AT1 valid_JJ argument_NN1 ,_, there_EX are_VBR far_RG more_DAR children_NN2 in_II orphanages_NN2 and_CC living_VVG on_II the_AT streets_NN2 around_II the_AT world_NN1 than_CSN there_EX are_VBR children_NN2 in_II Foster_NP1 Care_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   75 This , along with USA Today reporting that the number of foster-care kids waiting to be adopted dropped from 106,345 in September of 2011 to 101,719 in September of 2012 shows that the Foster Care system is improving and children are being adopted from the system .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   75 This_DD1 ,_, along_II21 with_II22 USA_NP1 Today_RT reporting_VVG that_CST the_AT number_NN1 of_IO foster-care_JJ kids_NN2 waiting_VVG to_TO be_VBI adopted_VVN dropped_VVN from_II 106,345_MC in_II September_NPM1 of_IO 2011_MC to_II 101,719_MC in_II September_NPM1 of_IO 2012_MC shows_VVZ that_CST the_AT Foster_JJ@ Care_NN1 system_NN1 is_VBZ improving_JJ and_CC children_NN2 are_VBR being_VBG adopted_VVN from_II the_AT system_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   76 ( Adoption Numbers Rising For Kids in Foster Care .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   76 (_( Adoption_NN1 Numbers_NN2 Rising_VVG For_IF Kids_NN2 in_II Foster_NP1 Care_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   77 USA Today .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   77 USA_NP1 Today_RT ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   78 Aug. 2013 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   78 Aug._NPM1 2013_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   79 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   79 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   80 14 April , 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   80 14_MC April_NPM1 ,_, 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   81 Unfortunately , there are a large number of children who are 'unadoptable' .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   81 Unfortunately_RR ,_, there_EX are_VBR a_AT1 large_JJ number_NN1 of_IO children_NN2 who_PNQS are_VBR 'unadoptable'_JJ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   82 This can be caused from a great deal if things , such as past drug addictions or even criminal records .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   82 This_DD1 can_VM be_VBI caused_VVN from_II a_RR31@ great_RR32 deal_RR33 if_CS things_NN2 ,_, such_II21 as_II22 past_JJ drug_NN1 addictions_NN2 or_CC even_RR criminal_JJ records_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   83 For children like this who statistically will remain in the system until adulthood , there are options such as the 'CORE' program from which 79% of the programs graduates go onto college .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   83 For_IF children_NN2 like_II this_DD1 who_PNQS statistically_RR will_VM remain_VVI in_II the_AT system_NN1 until_CS adulthood_NN1 ,_, there_EX are_VBR options_NN2 such_II21 as_II22 the_AT 'CORE'_JJ@ program_NN1 from_II which_DDQ 79%_NNU of_IO the_AT programs_NN2 graduates_NN2 go_VV0 onto_II college_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   84 CORE is a national nonprofit organization " that serves children and youth from disadvantaged backgrounds through residential education programs and schools . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   84 CORE_NN1 is_VBZ a_AT1 national_JJ nonprofit_JJ organization_NN1 "_" that_CST serves_VVZ children_NN2 and_CC youth_NN1 from_II disadvantaged_JJ backgrounds_NN2 through_II residential_JJ education_NN1 programs_NN2 and_CC schools_NN2 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   85 ( CORE .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   85 (_( CORE_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   86 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   86 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   87 14 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   87 14_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   88 It is a community like setting where children and youth can come together in a stable , supportive community .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   88 It_PPH1 is_VBZ a_AT1 community_NN1 like_II setting_VVG where_RRQ children_NN2 and_CC youth_NN1 can_VM come_VVI together_RL in_II a_AT1 stable_JJ ,_, supportive_JJ community_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    3   89 This is a great option for children in foster care that need support and care .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    3   89 This_DD1 is_VBZ a_AT1 great_JJ option_NN1 for_IF children_NN2 in_II foster_JJ care_NN1 that_CST need_VV0 support_NN1 and_CC care_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   90 Why , if someone decides to adopt , should there choices be limited to inter-country adoptions ?
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   90 Why_RRQ ,_, if_CS someone_PN1 decides_VVZ to_TO adopt_VVI ,_, should_VM there_EX choices_NN2 be_VBI limited_VVN to_II inter-country_JJ adoptions_NN2 ?_?
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   91 We as American citizens have the basic right to procreate .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   91 We_PPIS2 as_RG@ American_JJ citizens_NN2 have_VH0 the_AT basic_JJ right_NN1 to_TO procreate_VVI ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   92 Placing a higher burden on those who ca n't naturally conceive to adopt only children in the United States breaches several human rights .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   92 Placing_VVG a_AT1 higher_JJR burden_NN1 on_II those_DD2 who_PNQS ca_VM n't_XX naturally_RR conceive_VVI to_TO adopt_VVI only_JJ children_NN2 in_II the_AT United_NP1 States_NP1 breaches_VVZ@ several_DA2 human_JJ rights_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   93 Most people who internationally adopt do so either because the American system has failed to find them a suitable match or because they have some link to the child or country .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   93 Most_DAT people_NN who_PNQS internationally_RR adopt_VV0 do_VD0 so_RR either_RR because_CS the_AT American_JJ system_NN1 has_VHZ failed_VVN to_TO find_VVI them_PPHO2 a_AT1 suitable_JJ match_NN1 or_CC because_CS they_PPHS2 have_VH0 some_DD link_NN1 to_II the_AT child_NN1 or_CC country_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   94 What many people do not realize about adopting internationally rather than domestically is that the cost for adopting internationally does not differ from adopting domestically .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   94 What_DDQ many_DA2 people_NN do_VD0 not_XX realize_VVI about_II adopting_VVG internationally_RR rather_II21 than_II22 domestically_RR is_VBZ that_CST the_AT cost_NN1 for_IF adopting_VVG internationally_RR does_VDZ not_XX differ_VVI from_II adopting_VVG domestically_RR ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   95 This seems to be one of the main reasons why people decide to adopt internationally rather than domestically but what they do not understand is that both international and domestic adoptions come with a price .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   95 This_DD1 seems_VVZ to_TO be_VBI one_MC1 of_IO the_AT main_JJ reasons_NN2 why_RRQ people_NN decide_VV0 to_TO adopt_VVI internationally_RR rather_II21 than_II22 domestically_RR but_CCB what_DDQ they_PPHS2 do_VD0 not_XX understand_VVI is_VBZ that_CST both_DB2 international_JJ and_CC domestic_JJ adoptions_NN2 come_VV0 with_IW a_AT1 price_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   96 The American Adoptions ' article , Domestic vs .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   96 The_AT American_JJ Adoptions_NN2 '_GE article_NN1 ,_, Domestic_JJ vs_II ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   97 International Adoption , says that basically when adopting internationally , couples must be aware that they might have to travel and stay in the country they are adopting from for a period of time that could range from a few days to several weeks .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   97 International_JJ Adoption_NN1 ,_, says_VVZ that_CST basically_RR when_CS adopting_VVG internationally_RR ,_, couples_NN2 must_VM be_VBI aware_JJ that_CST they_PPHS2 might_VM have_VHI to_TO travel_VVI and_CC stay_VVI in_II the_AT country_NN1 they_PPHS2 are_VBR adopting_VVG from_II for_IF a_AT1 period_NN1 of_IO time_NNT1 that_CST could_VM range_VVI from_II a_AT1 few_DA2 days_NNT2 to_II several_DA2 weeks_NNT2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   98 Multiple visits could also be required and must budget into their expenses getting a visa .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   98 Multiple_JJ visits_NN2 could_VM also_RR be_VBI required_VVN and_CC must_VM budget_VVI into_II their_APPGE expenses_NN2 getting_VVG a_AT1 visa_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4   99 Likewise , domestic adoptions also come with a price .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4   99 Likewise_RR ,_, domestic_JJ adoptions_NN2 also_RR come_VV0 with_IW a_AT1 price_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  100 The couple may be asked to pay for certain expenses that otherwise would not be asked if it was an international adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  100 The_AT couple_NN1 may_VM be_VBI asked_VVN@ to_TO pay_VVI for_IF certain_JJ expenses_NN2 that_CST otherwise_RR would_VM not_XX be_VBI asked_VVN@ if_CS it_PPH1 was_VBDZ an_AT1 international_JJ adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  101 If the baby is born outside the adoptive family 's state , the family must stay until ICPC ( Interstate Compact on the Placement of Children ) approval has been granted which could take seven to ten days to complete .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  101 If_CS the_AT baby_NN1 is_VBZ born_VVN outside_II the_AT adoptive_JJ family_NN1 's_GE state_NN1 ,_, the_AT family_NN1 must_VM stay_VVI until_CS ICPC_NP1 (_( Interstate_NN1 Compact_NN1 on_II the_AT Placement_NN1 of_IO Children_NN2 )_) approval_NN1 has_VHZ been_VBN granted_VVN which_DDQ could_VM take_VVI seven_MC to_II ten_MC days_NNT2 to_TO complete_VVI ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  102 This is to make sure that " the children who are placed across state lines for foster care or adoption receive adequate protection and support services . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  102 This_DD1 is_VBZ to_TO make_VVI sure_JJ that_CST "_" the_AT children_NN2 who_PNQS are_VBR placed_VVN across_II state_NN1 lines_NN2 for_IF foster_JJ care_NN1 or_CC adoption_NN1 receive_VV0 adequate_JJ protection_NN1 and_CC support_VV0 services_NN2 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  103 ( Interstate Compact on the Placement of Children .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  103 (_( Interstate_JJ Compact_NN1 on_II the_AT Placement_NN1 of_IO Children_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  104 Department of Social Services .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  104 Department_NN1 of_IO Social_JJ Services_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  105 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  105 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    4  106 14 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    4  106 14_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    5  107 One of the deciding factors as whether to adopt internationally or domestically is the issue of medical history .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    5  107 One_MC1 of_IO the_AT deciding_JJ@ factors_NN2 as_II@ whether_CSW to_TO adopt_VVI internationally_RR or_CC domestically_RR is_VBZ the_AT issue_NN1 of_IO medical_JJ history_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    5  108 Medical records for children adopted internationally are very rare .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    5  108 Medical_JJ records_NN2 for_IF children_NN2 adopted_VVD internationally_RR are_VBR very_RG rare_JJ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    5  109 Family medical history or any possible exposure to drugs and alcohol during pregnancy is usually unavailable which is something adopting parents must highly consider .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    5  109 Family_NN1 medical_JJ history_NN1 or_CC any_DD possible_JJ exposure_NN1 to_II drugs_NN2 and_CC alcohol_NN1 during_II pregnancy_NN1 is_VBZ usually_RR unavailable_JJ which_DDQ is_VBZ something_PN1 adopting_VVG parents_NN2 must_VM highly_RR consider_VVI ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    5  110 Couples adopting domestically can usually be provided with the medical records of the child and the family medical history .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    5  110 Couples_NN2 adopting_VVG domestically_RR can_VM usually_RR be_VBI provided_VVN with_IW the_AT medical_JJ records_NN2 of_IO the_AT child_NN1 and_CC the_AT family_NN1 medical_JJ history_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    5  111 Not all countries ' medical facilities and treatments are up to speed with that of the United States .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    5  111 Not_XX all_DB countries_NN2 '_GE medical_JJ facilities_NN2 and_CC treatments_NN2 are_VBR up_RP to_TO speed_VVI with_IW that_DD1 of_IO the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    5  112 Each adoption stories is different so it can be difficult to make the decision based on other people 's personal experiences .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    5  112 Each_DD1 adoption_NN1 stories_NN2 is_VBZ different_JJ so_CS@ it_PPH1 can_VM be_VBI difficult_JJ to_TO make_VVI the_AT decision_NN1 based_VVN on_II other_JJ people_NN 's_GE personal_JJ experiences_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  113 There are many benefits to adopting internationally .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  113 There_EX are_VBR many_DA2 benefits_NN2 to_II adopting_VVG internationally_RR ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  114 In 2010 , the earthquakes in Haiti and Chile left thousands of children orphaned .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  114 In_II 2010_MC ,_, the_AT earthquakes_NN2 in_II Haiti_NP1 and_CC Chile_NP1 left_VVD thousands_NNO2 of_IO children_NN2 orphaned_JJ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  115 According to a Newsweek article , " weeks after the earthquake in Haiti , a group of American missionaries were arrested on charges of child-trafficking " and many Haiti 's orphans since that arrest have continued to come across the borders .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  115 According_II21 to_II22 a_AT1 Newsweek_NN1@ article_NN1 ,_, "_" weeks_NNT2 after_II the_AT earthquake_NN1 in_II Haiti_NP1 ,_, a_AT1 group_NN1 of_IO American_JJ missionaries_NN2 were_VBDR arrested_VVN on_II charges_NN2 of_IO child-trafficking_NN1 "_" and_CC many_DA2 Haiti_NP1 's_GE orphans_NN2 since_CS that_DD1 arrest_NN1 have_VH0 continued_VVN to_TO come_VVI across_II the_AT borders_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  116 ( The Benefits of International Adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  116 (_( The_AT Benefits_NN2 of_IO International_JJ Adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  117 Newsweek .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  117 Newsweek_VV0 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  118 July 2010 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  118 July_NPM1 2010_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  119 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  119 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  120 10 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  120 10_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  121 While race and ethnicity are worth consideration , they should not be the deciding factors in any adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  121 While_CS race_NN1 and_CC ethnicity_NN1 are_VBR worth_II consideration_NN1 ,_, they_PPHS2 should_VM not_XX be_VBI the_AT deciding_JJ@ factors_NN2 in_II any_DD adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  122 According to Andrew Morrison , " Numerous studies show that transracially adopted children are able to develop positive self-esteems and sense of racial identity .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  122 According_II21 to_II22 Andrew_NP1 Morrison_NP1 ,_, "_" Numerous_JJ studies_NN2 show_VV0 that_CST transracially_RR adopted_VVN children_NN2 are_VBR able_JK to_TO develop_VVI positive_JJ self-esteems_NN2 and_CC sense_NN1 of_IO racial_JJ identity_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  123 These studies show that transracially adopted children are able to feel as good about themselves and their race as children in same-race placements , and even children raised by their biological parents . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  123 These_DD2 studies_NN2 show_VV0 that_CST transracially_RR adopted_VVN children_NN2 are_VBR able_JK to_TO feel_VVI as_RG@ good_JJ about_II themselves_PPX2 and_CC their_APPGE race_NN1 as_CSA children_NN2 in_II same-race_JJ placements_NN2 ,_, and_CC even_RR children_NN2 raised_VVN by_II their_APPGE biological_JJ parents_NN2 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  124 ( Transracial Adoption : The Pros and Cons and the Parents ' Perspective .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  124 (_( Transracial_JJ Adoption_NN1 :_: The_AT Pros_NN2 and_CC Cons_NN2 and_CC the_AT Parents_NN2 '_GE Perspective_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  125 Harvard Blackletter Law Journal Vol. 20 , 2004 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  125 Harvard_NP1 Blackletter_NP1 Law_NN1 Journal_NN1 Vol._NN1 20_MC ,_, 2004_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  126 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  126 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  127 14 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  127 14_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  128 Some people find it hard to imagine that white parents are capable of raising emotionally healthy black , Asian and Hispanic children .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  128 Some_DD people_NN find_VV0 it_PPH1 hard_RR to_TO imagine_VVI that_DD1 white_JJ parents_NN2 are_VBR capable_JJ of_IO raising_VVG emotionally_RR healthy_JJ black_JJ ,_, Asian_JJ and_CC Hispanic_JJ children_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  129 It goes without saying that it also applies to children from another country .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  129 It_PPH1 goes_VVZ without_IW saying_VVG that_CST it_PPH1 also_RR applies_VVZ to_II children_NN2 from_II another_DD1 country_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  130 People who are against international adoptions argue that " the supply of Third-World infants is not a natural occurrence but a respond to the demand of adoption markets in the West for child-trafficking . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  130 People_NN who_PNQS are_VBR against_II international_JJ adoptions_NN2 argue_VV0 that_CST "_" the_AT supply_NN1 of_IO Third-World_NN1 infants_NN2 is_VBZ not_XX a_AT1 natural_JJ occurrence_NN1 but_CCB a_AT1 respond_VV0 to_II the_AT demand_NN1 of_IO adoption_NN1 markets_NN2 in_II the_AT West_ND1 for_IF child-trafficking_NN1 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  131 ( The Benefits of International Adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  131 (_( The_AT Benefits_NN2 of_IO International_JJ Adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  132 Newsweek .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  132 Newsweek_VV0 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  133 July 2010 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  133 July_NPM1 2010_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  134 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  134 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  135 10 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  135 10_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  136 Even after child trafficking is taken out of the equation , there are still millions of infants waiting to be adopted abroad than there are in the United States .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  136 Even_RR after_II child_NN1 trafficking_NN1 is_VBZ taken_VVN out_II21 of_II22 the_AT equation_NN1 ,_, there_EX are_VBR still_RR millions_NNO2 of_IO infants_NN2 waiting_VVG to_TO be_VBI adopted_VVN abroad_RL than_CSN there_EX are_VBR in_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  137 As stated before , most parents choose international adoption only after the United States adoption agencies has made it more difficult for them to adopt .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  137 As_CSA stated_VVN before_RT ,_, most_DAT parents_NN2 choose_VV0 international_JJ adoption_NN1 only_RR after_II the_AT United_NP1 States_NP1 adoption_NN1 agencies_NN2 has_VHZ made_VVN it_PPH1 more_RGR difficult_JJ for_IF them_PPHO2 to_TO adopt_VVI ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  138 Birth parents change their minds at the last minute and/or ask for " stringent and sometimes arbitrary requirements " making the domestic adoptions much more complicated and difficult .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  138 Birth_NN1 parents_NN2 change_VV0 their_APPGE minds_NN2 at_II the_AT last_MD minute_NNT1 and/or_CC ask_VV0 for_IF "_" stringent_JJ and_CC sometimes_RT arbitrary_JJ requirements_NN2 "_" making_VVG the_AT domestic_JJ adoptions_NN2 much_RR more_RGR complicated_JJ and_CC difficult_JJ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  139 ( The Benefits of International Adoption .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  139 (_( The_AT Benefits_NN2 of_IO International_JJ Adoption_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  140 Newsweek .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  140 Newsweek_VV0 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  141 July 2010 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  141 July_NPM1 2010_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  142 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  142 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  143 10 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  143 10_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  144 What matters most in an adoption is not where the child is from but whether the child will be placed in a loving , caring and responsible home where he or she can be loved and nurtured , regardless of race or nationality .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  144 What_DDQ matters_VVZ@ most_RRT@ in_II an_AT1 adoption_NN1 is_VBZ not_XX where_RRQ the_AT child_NN1 is_VBZ from_II but_CCB whether_CSW the_AT child_NN1 will_VM be_VBI placed_VVN in_II a_AT1 loving_JJ ,_, caring_VVG and_CC responsible_JJ home_NN1 where_CS he_PPHS1 or_CC she_PPHS1 can_VM be_VBI loved_VVN and_CC nurtured_VVN ,_, regardless_RR of_IO race_NN1 or_CC nationality_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  145 This is not to say that the child 's culture should be overlooked .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  145 This_DD1 is_VBZ not_XX to_TO say_VVI that_CST the_AT child_NN1 's_GE culture_NN1 should_VM be_VBI overlooked_VVN ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  146 It is important that the child , especially an infant , is reminded of their cultural heritage and where they came from .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  146 It_PPH1 is_VBZ important_JJ that_CST the_AT child_NN1 ,_, especially_RR an_AT1 infant_NN1 ,_, is_VBZ reminded_VVN of_IO their_APPGE cultural_JJ heritage_NN1 and_CC where_CS they_PPHS2 came_VVD from_II ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    6  147 It is important to understand the child 's heritage and language and to incorporate some of that into their life style .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    6  147 It_PPH1 is_VBZ important_JJ to_TO understand_VVI the_AT child_NN1 's_GE heritage_NN1 and_CC language_NN1 and_CC to_TO incorporate_VVI some_DD of_IO that_DD1 into_II their_APPGE life_NN1 style_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  148 It is argued that international or transracial adoptions cam actually help our society .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  148 It_PPH1 is_VBZ argued_VVN that_CST international_JJ or_CC transracial_JJ adoptions_NN2 cam_NN1 actually_RR help_VV0 our_APPGE society_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  149 They believe that " it helps alleviate societal racism and racial tension . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  149 They_PPHS2 believe_VV0 that_CST "_" it_PPH1 helps_VVZ alleviate_VVI societal_JJ racism_NN1 and_CC racial_JJ tension_NN1 ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  150 ( Transracial Adoption : The Pros and Cons and the Parents ' Perspective .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  150 (_( Transracial_JJ Adoption_NN1 :_: The_AT Pros_NN2 and_CC Cons_NN2 and_CC the_AT Parents_NN2 '_GE Perspective_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  151 Harvard Blackletter Law Journal Vol. 20 , 2004 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  151 Harvard_NP1 Blackletter_NP1 Law_NN1 Journal_NN1 Vol._NN1 20_MC ,_, 2004_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  152 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  152 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  153 14 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  153 14_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  154 The adopting parents , the children , friends and family will all quickly have to learn that Blacks , Asians , Hispanics , etc. and whites deserve equal treatment .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  154 The_AT adopting_JJ@ parents_NN2 ,_, the_AT children_NN2 ,_, friends_NN2 and_CC family_NN1 will_VM all_DB quickly_RR have_VHI to_TO learn_VVI that_CST Blacks_NN2 ,_, Asians_NN2 ,_, Hispanics_NP1 ,_, etc._RA and_CC whites_NN2 deserve_VV0 equal_JJ treatment_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  155 When the public sees a white family with a child from a different race , it shows that everyone can love each other , no matter what the race of the child or parents are .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  155 When_CS the_AT public_NN1 sees_VVZ a_AT1 white_JJ family_NN1 with_IW a_AT1 child_NN1 from_II a_AT1 different_JJ race_NN1 ,_, it_PPH1 shows_VVZ that_CST everyone_PN1 can_VM love_VVI each_PPX221 other_PPX222 ,_, no_DDQV31 matter_DDQV32 what_DDQV33 the_AT race_NN1 of_IO the_AT child_NN1 or_CC parents_NN2 are_VBR ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  156 Just because they do not look alike , does not mean that they ca n't love each other .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  156 Just_RR because_CS they_PPHS2 do_VD0 not_XX look_VVI alike_RR ,_, does_VDZ not_XX mean_VVI that_CST they_PPHS2 ca_VM n't_XX love_VVI each_PPX221 other_PPX222 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  157 There are thousands of qualified white parents that are waiting to adopt , and there are thousands of children around the world that need loving homes .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  157 There_EX are_VBR thousands_NNO2 of_IO qualified_JJ white_JJ parents_NN2 that_CST are_VBR waiting_VVG to_TO adopt_VVI ,_, and_CC there_EX are_VBR thousands_NNO2 of_IO children_NN2 around_II the_AT world_NN1 that_CST need_VV0 loving_JJ homes_NN2 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  158 By allowing white families to adopt internationally , it teaches them a completely new culture .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  158 By_II allowing_VVG white_JJ families_NN2 to_TO adopt_VVI internationally_RR ,_, it_PPH1 teaches_VVZ them_PPHO2 a_AT1 completely_RR new_JJ culture_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  159 As Andrew Morrison says , " it will likely provide the parents and the children with the ability to integrate into other cultures in their careers or socially . "
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  159 As_CSA Andrew_NP1 Morrison_NP1 says_VVZ ,_, "_" it_PPH1 will_VM likely_RR@ provide_VVI the_AT parents_NN2 and_CC the_AT children_NN2 with_IW the_AT ability_NN1 to_TO integrate_VVI into_II other_JJ cultures_NN2 in_II their_APPGE careers_NN2 or_CC socially_RR ._. "_"
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  160 ( Transracial Adoption : The Pros and Cons and the Parents ' Perspective .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  160 (_( Transracial_JJ Adoption_NN1 :_: The_AT Pros_NN2 and_CC Cons_NN2 and_CC the_AT Parents_NN2 '_GE Perspective_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  161 Harvard Blackletter Law Journal Vol. 20 , 2004 .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  161 Harvard_NP1 Blackletter_NP1 Law_NN1 Journal_NN1 Vol._NN1 20_MC ,_, 2004_MC ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  162 Web .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  162 Web_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  163 14 April 2014 . )
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  163 14_MC April_NPM1 2014_MC ._. )_)
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  164 As the child gets older , the more the parents are able to learn and can help the child remember his or her cultural heritage .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  164 As_II the_AT child_NN1 gets_VVZ older_JJR ,_, the_AT more_RRR the_AT parents_NN2 are_VBR able_JK to_TO learn_VVI and_CC can_VM help_VVI the_AT child_NN1 remember_VV0 his_APPGE or_CC her_APPGE cultural_JJ heritage_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  165 International adoptions have the potential to make a difference in how people view other parts of the world .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  165 International_JJ adoptions_NN2 have_VH0 the_AT potential_JJ to_TO make_VVI a_AT1 difference_NN1 in_II how_RRQ people_NN view_VV0@ other_JJ parts_NN2 of_IO the_AT world_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  166 It can help lead to a more productive , healthier society instead of having a prejudice and racist society .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  166 It_PPH1 can_VM help_VVI lead_NN1 to_II a_AT1 more_RGR productive_JJ ,_, healthier_JJR society_NN1 instead_II21 of_II22 having_VHG a_AT1 prejudice_NN1 and_CC racist_JJ society_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  167 No matter what you may believe , when you hold an infant for the first time , you will love and care for that child no matter what .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  167 No_DDQV31 matter_DDQV32 what_DDQV33 you_PPY may_VM believe_VVI ,_, when_CS you_PPY hold_VV0 an_AT1 infant_NN1 for_IF the_AT first_MD time_NNT1 ,_, you_PPY will_VM love_VVI and_CC care_VVI for_IF that_DD1 child_NN1 no_DDQV31 matter_DDQV32 what_DDQV33 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  168 You do n't see his or her skin color , but instead you see someone that you will love and cherish the rest of your life .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  168 You_PPY do_VD0 n't_XX see_VVI his_APPGE or_CC her_APPGE skin_NN1 color_NN1 ,_, but_CCB instead_RR you_PPY see_VV0 someone_PN1 that_CST you_PPY will_VM love_VVI and_CC cherish_VVI the_AT rest_NN1 of_IO your_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  169 It is selfish for us to discriminate against other countries because we believe the children in our foster care system are more important .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  169 It_PPH1 is_VBZ selfish_JJ for_IF us_PPIO2 to_TO discriminate_VVI against_II other_JJ countries_NN2 because_CS we_PPIS2 believe_VV0 the_AT children_NN2 in_II our_APPGE foster_JJ care_NN1 system_NN1 are_VBR more_RGR important_JJ ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  170 That is not to say that they should be over looked , but there are children around the world that need just as much love and care as those in the foster care system here .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  170 That_DD1 is_VBZ not_XX to_TO say_VVI that_CST they_PPHS2 should_VM be_VBI over_RP looked_VVN ,_, but_CCB there_EX are_VBR children_NN2 around_II the_AT world_NN1 that_CST need_VV0 just_RR as_RG much_RR love_VVI and_CC care_VVI as_CSA those_DD2 in_II the_AT foster_JJ care_NN1 system_NN1 here_RL ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  171 People from all around the world come to the United States in search for the " American Dream " .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  171 People_NN from_II all_DB around_II the_AT world_NN1 come_VVN@ to_II the_AT United_NP1 States_NP1 in_II search_NN1 for_IF the_AT "_" American_JJ Dream_NN1 "_" ._.
+SENTPOS 2014_4_101_100_155_3 DRAFT A    7  171  By adopting internationally as well as domestically , we can give hope to those children who never thought they could live the " American Dream " and create a more diverse and accepting society .
+SENTPOS 2014_4_101_100_155_3 DRAFT B    7  171  By_II adopting_VVG internationally_RR as_II31 well_II32 as_II33 domestically_RR ,_, we_PPIS2 can_VM give_VVI hope_NN1 to_II those_DD2 children_NN2 who_PNQS never_RR thought_VVD they_PPHS2 could_VM live_VVI the_AT "_" American_JJ Dream_NN1 "_" and_CC create_VV0 a_AT1 more_RGR diverse_JJ and_CC accepting_VVG society_NN1 ._.

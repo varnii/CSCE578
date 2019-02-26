@@ -1,0 +1,94 @@
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    0 When social media becomes visualized in an image , it becomes far less powerful than what society might think .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    0 When_CS social_JJ media_NN becomes_VVZ visualized_JJ@ in_II an_AT1 image_NN1 ,_, it_PPH1 becomes_VVZ far_RG less_RGR powerful_JJ than_CSN what_DDQ society_NN1 might_VM think_VVI ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    1 In today 's world , especially in a country such as the USA , society gives so much powerful to social media , and almost uses it as an outlet to feel like better people .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    1 In_II today_RT 's_GE world_NN1 ,_, especially_RR in_II a_AT1 country_NN1 such_II21 as_II22 the_AT USA_NP1 ,_, society_NN1 gives_VVZ so_RG much_DA1 powerful_JJ to_II social_JJ media_NN ,_, and_CC almost_RR uses_VVZ it_PPH1 as_II an_AT1 outlet_NN1 to_TO feel_VVI like_II better_JJR people_NN ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    2 What is society really doing by liking a post of an African child or by sharing an image of starvation in a third world country ?
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    2 What_DDQ is_VBZ society_NN1 really_RR doing_VDG by_II liking_VVG a_AT1 post_NN1 of_IO an_AT1 African_JJ child_NN1 or_CC by_II sharing_VVG an_AT1 image_NN1 of_IO starvation_NN1 in_II a_AT1 third_MD world_NN1 country_NN1 ?_?
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    3 The answer is nothing .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    3 The_AT answer_NN1 is_VBZ nothing_PN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    4 That does absolutely nothing to help the issue .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    4 That_DD1 does_VDZ absolutely_RR nothing_PN1 to_TO help_VVI the_AT issue_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    5 All it does is make us feel like a better person for that split second , and then let us return to scrolling through twitter or Facebook .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    5 All_DB it_PPH1 does_VDZ is_VBZ make_VV0 us_PPIO2 feel_VVI like_II a_AT1 better_JJR person_NN1 for_IF that_DD1 split_JJ second_NNT1 ,_, and_CC then_RT let_VV0 us_PPIO2 return_VVI to_II scrolling_VVG through_II twitter_NN1 or_CC Facebook_NP1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    6 This idea is demonstrated through a powerful advertisement for Crisis Relief .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    6 This_DD1 idea_NN1 is_VBZ demonstrated_VVN through_II a_AT1 powerful_JJ advertisement_NN1 for_IF Crisis_NN1 Relief_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    7 The selected image is a visual representation of what actually happens on social media , opposed to what society might think happens .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    7 The_AT selected_JJ image_NN1 is_VBZ a_AT1 visual_JJ representation_NN1 of_IO what_DDQ actually_RR happens_VVZ on_II social_JJ media_NN ,_, opposed_VVN to_II what_DDQ society_NN1 might_VM think_VVI happens_VVZ ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    8 It is through angle , words , and the contrast between black and white that the image makes the point that the power society gives to social media really is n't much of a power at all .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    8 It_PPH1 is_VBZ through_II angle_NN1 ,_, words_NN2 ,_, and_CC the_AT contrast_NN1 between_II black_JJ and_CC white_JJ that_CST the_AT image_NN1 makes_VVZ the_AT point_NN1 that_CST the_AT power_NN1 society_NN1 gives_VVZ to_II social_JJ media_NN really_RR is_VBZ n't_XX much_DA1 of_IO a_AT1 power_NN1 at_RR21 all_RR22 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    0    9 It has no benefits to the world around us , contrary to popular belief .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    0    9 It_PPH1 has_VHZ no_AT benefits_NN2 to_II the_AT world_NN1 around_II us_PPIO2 ,_, contrary_II21 to_II22 popular_JJ belief_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   10 The angle of the image creates a distance between the child and the viewer .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   10 The_AT angle_NN1 of_IO the_AT image_NN1 creates_VVZ a_AT1 distance_NN1 between_II the_AT child_NN1 and_CC the_AT viewer_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   11 The baby is lower than the viewer and the hands surround him .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   11 The_AT baby_NN1 is_VBZ lower_JJR than_CSN the_AT viewer_NN1 and_CC the_AT hands_NN2 surround_VV0 him_PPHO1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   12 Given that the baby is looking up at the viewer and the hands , it creates a sense of helplessness for the baby .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   12 Given_CS21 that_CS22 the_AT baby_NN1 is_VBZ looking_VVG up_RP at_II the_AT viewer_NN1 and_CC the_AT hands_NN2 ,_, it_PPH1 creates_VVZ a_AT1 sense_NN1 of_IO helplessness_NN1 for_IF the_AT baby_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   13 The child also does not have a leg , but only bandages where the leg would be .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   13 The_AT child_NN1 also_RR does_VDZ not_XX have_VHI a_AT1 leg_NN1 ,_, but_CCB only_JJ bandages_NN2 where_RRQ the_AT leg_NN1 would_VM be_VBI ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   14 The child is surrounded by thumbs up , as well as by us as the viewer .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   14 The_AT child_NN1 is_VBZ surrounded_VVN by_II thumbs_NN2 up_RP ,_, as_RG well_RR as_CSA by_II us_PPIO2 as_II the_AT viewer_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   15 We overwhelm the baby by putting all these thumbs up , yet none of the hands are touching the child or providing any actual comfort or love .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   15 We_PPIS2 overwhelm_VV0 the_AT baby_NN1 by_II putting_VVG all_DB these_DD2 thumbs_NN2 up_RP ,_, yet_RR none_PN of_IO the_AT hands_NN2 are_VBR touching_VVG the_AT child_NN1 or_CC providing_VVG any_DD actual_JJ comfort_NN1 or_CC love_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   16 From the baby 's point of view , he sees no help .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   16 From_II the_AT baby_NN1 's_GE point_NN1 of_IO view_NN1 ,_, he_PPHS1 sees_VVZ no_AT help_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   17 He sees no hope for his future .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   17 He_PPHS1 sees_VVZ no_AT hope_NN1 for_IF his_APPGE future_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    1   18 He is surrounded by all of these hands but none of them are aiding him or comforting him .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    1   18 He_PPHS1 is_VBZ surrounded_VVN by_II all_DB of_IO these_DD2 hands_NN2 but_CCB none_PN of_IO them_PPHO2 are_VBR aiding_VVG him_PPHO1 or_CC comforting_VVG@ him_PPHO1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   19 By putting us , the viewer , above the child and in the same perspective of the hands , the advertisement is telling us that we are part of the issue .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   19 By_II putting_VVG us_PPIO2 ,_, the_AT viewer_NN1 ,_, above_II the_AT child_NN1 and_CC in_II the_AT same_DA perspective_NN1 of_IO the_AT hands_NN2 ,_, the_AT advertisement_NN1 is_VBZ telling_VVG us_PPIO2 that_CST we_PPIS2 are_VBR part_NN1 of_IO the_AT issue_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   20 We are liking these images and sharing them on social media , but that is clearly doing absolutely nothing .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   20 We_PPIS2 are_VBR liking_VVG these_DD2 images_NN2 and_CC sharing_VVG them_PPHO2 on_II social_JJ media_NN ,_, but_CCB that_DD1 is_VBZ clearly_RR doing_VDG absolutely_RR nothing_PN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   21 It provides no real relief for the baby or for the other human beings affected by third world problems .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   21 It_PPH1 provides_VVZ no_AT real_JJ relief_NN1 for_IF the_AT baby_NN1 or_CC for_IF the_AT other_JJ human_JJ beings_NN2 affected_VVN by_II third_MD world_NN1 problems_NN2 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   22 From the viewer 's perspective , it puts us above the child .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   22 From_II the_AT viewer_NN1 's_GE perspective_NN1 ,_, it_PPH1 puts_VVZ us_PPIO2 above_II the_AT child_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   23 We feel sorry for him , but all we can do is like the picture or share the post .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   23 We_PPIS2 feel_VV0 sorry_JJ for_IF him_PPHO1 ,_, but_CCB all_DB we_PPIS2 can_VM do_VDI is_VBZ like_II the_AT picture_NN1 or_CC share_VV0 the_AT post_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   24 It makes us feel better about ourselves for a moment in time and makes us feel like good humanitarians , but then we get on with our lives .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   24 It_PPH1 makes_VVZ us_PPIO2 feel_VVI better_RRR about_II ourselves_PPX2 for_IF a_AT1 moment_NN1 in_II time_NNT1 and_CC makes_VVZ us_PPIO2 feel_VVI like_II good_JJ humanitarians_NN2 ,_, but_CCB then_RT we_PPIS2 get_VV0 on_RP@ with_IW our_APPGE lives_NN2 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    2   25 We keep scrolling and see what else there is .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    2   25 We_PPIS2 keep_VV0 scrolling_JJ and_CC see_VV0 what_DDQ else_RR there_EX is_VBZ ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   26 The words in this image are so influential .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   26 The_AT words_NN2 in_II this_DD1 image_NN1 are_VBR so_RG influential_JJ ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   27 The visual consists of three words .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   27 The_AT visual_JJ consists_VVZ of_IO three_MC words_NN2 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   28 Liking is n't helping .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   28 Liking_VVG is_VBZ n't_XX helping_VVG ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   29 Small , white , and so simple , these words have work in unison with the image depicted to create such a compelling advertisement and message .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   29 Small_NP1 ,_, white_JJ ,_, and_CC so_RG simple_JJ ,_, these_DD2 words_NN2 have_VH0 work_NN1 in_II unison_NN1 with_IW the_AT image_NN1 depicted_VVD to_TO create_VVI such_DA a_AT1 compelling_JJ advertisement_NN1 and_CC message_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   30 Also , the structure of the sentence is parallel which allows the sentence to flow naturally and read smoothly .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   30 Also_RR ,_, the_AT structure_NN1 of_IO the_AT sentence_NN1 is_VBZ parallel_RR which_DDQ allows_VVZ the_AT sentence_NN1 to_TO flow_VVI naturally_RR and_CC read_VVD smoothly_RR ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   31 The lettering is a smaller size and a simple font , which contrasts with the somewhat hectic image and overwhelming amount of thumbs up .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   31 The_AT lettering_NN1 is_VBZ a_AT1 smaller_JJR size_NN1 and_CC a_AT1 simple_JJ font_NN1 ,_, which_DDQ contrasts_VVZ with_IW the_AT somewhat_RR hectic_JJ image_NN1 and_CC overwhelming_JJ amount_NN1 of_IO thumbs_NN2 up_RP ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   32 Also , the period at the end of the sentence creates an interesting effect .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   32 Also_RR ,_, the_AT period_NN1 at_II the_AT end_NN1 of_IO the_AT sentence_NN1 creates_VVZ an_AT1 interesting_JJ effect_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   33 It makes the sentence linger and stick with the viewer for long after they see the image .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   33 It_PPH1 makes_VVZ the_AT sentence_NN1 linger_VVI and_CC stick_VVI with_IW the_AT viewer_NN1 for_RR21 long_RR22 after_CS they_PPHS2 see_VV0 the_AT image_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   34 The sentence might not have had the complete same effect if it did not end with a period .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   34 The_AT sentence_NN1 might_VM not_XX have_VHI had_VHN@ the_AT complete_JJ same_DA effect_NN1 if_CS it_PPH1 did_VDD not_XX end_VVI with_IW a_AT1 period_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    3   35 Although a minor detail , the choice of words , punctuation , and font leave a lasting impact on the viewer .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    3   35 Although_CS a_AT1 minor_JJ detail_NN1 ,_, the_AT choice_NN1 of_IO words_NN2 ,_, punctuation_NN1 ,_, and_CC font_NN1 leave_VV0 a_AT1 lasting_JJ impact_NN1 on_II the_AT viewer_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   36 The contrast between the black and white underlies the whole image .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   36 The_AT contrast_NN1 between_II the_AT black_JJ and_CC white_NN1@ underlies_VVZ the_AT whole_JJ image_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   37 Not only is the image in black and white , but also the races of the people in the image are black and white .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   37 Not_XX only_RR is_VBZ the_AT image_NN1 in_II black_JJ and_CC white_JJ ,_, but_CCB also_RR the_AT races_NN2 of_IO the_AT people_NN in_II the_AT image_NN1 are_VBR black_JJ and_CC white_JJ ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   38 The black and white image provides a focus on the light intensity and the contrast of the darks and lights .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   38 The_AT black_JJ and_CC white_JJ image_NN1 provides_VVZ a_AT1 focus_NN1 on_II the_AT light_JJ intensity_NN1 and_CC the_AT contrast_NN1 of_IO the_AT darks_NN2 and_CC lights_NN2 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   39 It emphasizes the dark shadows around the child 's face , which could represent that lack of hope the child has .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   39 It_PPH1 emphasizes_VVZ the_AT dark_JJ shadows_NN2 around_II the_AT child_NN1 's_GE face_NN1 ,_, which_DDQ could_VM represent_VVI that_DD1 lack_NN1 of_IO hope_NN1 the_AT child_NN1 has_VHZ ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   40 By stripping the color of the image , different details become more important and other parts of the image are emphasized .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   40 By_II stripping_VVG the_AT color_NN1 of_IO the_AT image_NN1 ,_, different_JJ details_NN2 become_VV0 more_RGR important_JJ and_CC other_JJ parts_NN2 of_IO the_AT image_NN1 are_VBR emphasized_VVN ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   41 The other black and white contrast between the African child and the Caucasian hands present a stronger , deeper issue .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   41 The_AT other_JJ black_JJ and_CC white_JJ contrast_NN1 between_II the_AT African_JJ child_NN1 and_CC the_AT Caucasian_JJ hands_NN2 present_VV0@ a_AT1 stronger_JJR ,_, deeper_JJR issue_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    4   42 It suggests that there are two opposite ends of the spectrum being depicted : the people who are liking the image , which are represented by the hands , and the object of the image , which is the child in need .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    4   42 It_PPH1 suggests_VVZ that_CST there_EX are_VBR two_MC opposite_JJ ends_NN2 of_IO the_AT spectrum_NN1 being_VBG depicted_VVN :_: the_AT people_NN who_PNQS are_VBR liking_VVG the_AT image_NN1 ,_, which_DDQ are_VBR represented_VVN by_II the_AT hands_NN2 ,_, and_CC the_AT object_NN1 of_IO the_AT image_NN1 ,_, which_DDQ is_VBZ the_AT child_NN1 in_II need_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    5   43 In conclusion , visual texts have the power to convey a strong message without using words or as without as many words as an actual text .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    5   43 In_II conclusion_NN1 ,_, visual_JJ texts_NN2 have_VH0 the_AT power_NN1 to_TO convey_VVI a_AT1 strong_JJ message_NN1 without_IW using_VVG words_NN2 or_CC as_CSA without_IW as_RG@ many_DA2 words_NN2 as_II an_AT1 actual_JJ text_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    5   44 Through other compositional elements such as angle , object placement , contrast , and color , visual texts can denote an even more powerful message than just a text .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    5   44 Through_II other_JJ compositional_JJ elements_NN2 such_II21 as_II22 angle_NN1 ,_, object_VV0 placement_NN1 ,_, contrast_NN1 ,_, and_CC color_NN1 ,_, visual_JJ texts_NN2 can_VM denote_VVI an_AT1 even_RR more_RGR powerful_JJ message_NN1 than_CSN just_RR a_AT1 text_NN1 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    5   45 The image analyzed conveyed a very intense message through the use of angle , color contrast between black and white , and a simple yet moving choice of words .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    5   45 The_AT image_NN1 analyzed_VVD conveyed_VVN a_AT1 very_RG intense_JJ message_NN1 through_II the_AT use_NN1 of_IO angle_NN1 ,_, color_NN1 contrast_NN1 between_II black_JJ and_CC white_JJ ,_, and_CC a_AT1 simple_JJ yet_RR moving_VVG choice_NN1 of_IO words_NN2 ._.
+SENTPOS 2014_4_101_000_066_2 DRAFT A    5   45  Through these compositional elements , the visual text proves that social media does n't have nearly the amount of power or beneficial impact that society credits it with .
+SENTPOS 2014_4_101_000_066_2 DRAFT B    5   45  Through_II these_DD2 compositional_JJ elements_NN2 ,_, the_AT visual_JJ text_NN1 proves_VVZ that_CST social_JJ media_NN does_VDZ n't_XX have_VHI nearly_RR the_AT amount_NN1 of_IO power_NN1 or_CC beneficial_JJ impact_NN1 that_CST society_NN1 credits_VVZ it_PPH1 with_IW ._.

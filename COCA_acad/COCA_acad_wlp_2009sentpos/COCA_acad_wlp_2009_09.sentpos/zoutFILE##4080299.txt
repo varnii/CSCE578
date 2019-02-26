@@ -1,0 +1,302 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    0 IF YOU 'VE SENT your first story out 20 times , starting with The New Yorker and ending up with a quarterly your brother-in-law prints in his garage in Rockford , Ill. , and each time the story has come back to you -- it 's just possible there 's some thing wrong with it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    0 IF_CS YOU_PPY 'VE_VH0 SENT_VVN your_APPGE first_MD story_NN1 out_RP_II% 20_MC times_NNT2 ,_Y starting_VVG with_IW The_AT New_JJ Yorker_NP1 and_CC ending_VVG up_RP with_IW a_AT1 quarterly_NN1_RR_JJ your_APPGE brother-in-law_NN1 prints_NN2 in_II his_APPGE garage_NN1 in_II Rockford_NP1 ,_Y Ill._Z' ,_Y and_CC each_DD1 time_NNT1 the_AT story_NN1 has_VHZ come_VVN back_RP to_II you_PPY --_ZZ it_PPH1 's_VBZ just_RR possible_JJ there_EX 's_VBZ some_DD thing_NN1 wrong_JJ_NN1@_RR@ with_IW it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    1 It 's also just possible that what ails it is one or more of the following 10 common problems : 1 Nothing happens in your story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    1 It_PPH1 's_VBZ also_RR just_RR possible_JJ that_CST_DD1 what_DDQ ails_VVZ it_PPH1 is_VBZ one_MC1 or_CC more_DAR of_IO the_AT following_JJ 10_MC common_JJ problems_NN2 :_Y 1_MC1 Nothing_PN1 happens_VVZ in_II_RP@ your_APPGE story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    2 Do n't laugh .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    2 Do_VD0 n't_XX laugh_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    3 It 's shocking how often first stories fail in just this way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    3 It_PPH1 's_VBZ shocking_VVG@_JJ how_RGQ often_RR first_MD stories_NN2 fail_VV0 in_RP@_II just_RR this_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    4 What happens need n't be earthshaking , so long as it shakes up the people in the story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    4 What_DDQ happens_VVZ need_VM@_NN1_VV0 n't_XX be_VBI earthshaking_VVG ,_Y so_RG long_RR_JJ as_CSA it_PPH1 shakes_VVZ up_RP_II@ the_AT people_NN in_II the_AT story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    5 Something must happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    5 Something_PN1 must_VM happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    6 Or fail to happen -- our fears and hopes come to nothing at least as often as they come true , and a letdown can work well as pivot for a story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    6 Or_CC fail_VV0 to_TO happen_VVI --_NN1_JJ our_APPGE fears_NN2 and_CC hopes_NN2 come_VV0_VVN@ to_II nothing_PN1 at_RR21 least_RR22 as_RG often_RR as_CSA they_PPHS2 come_VV0 true_JJ ,_Y and_CC a_AT1 letdown_NN1 can_VM work_VVI well_RR as_CSA pivot_NN1 for_IF a_AT1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    7 But pivot a story needs , an event around which everything turns .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    7 But_CCB pivot_VV0 a_AT1 story_NN1 needs_NN2_VVZ ,_Y an_AT1 event_NN1 around_II which_DDQ everything_PN1 turns_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    8 Your story 's pivot can be an accident , as in James Agee 's A Death in the Family done not by fate but by a human being .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    8 Your_APPGE story_NN1 's_GE pivot_NN1 can_VM be_VBI an_AT1 accident_NN1 ,_Y as_CSA in_II James_NP1 Agee_NP1 's_GE A_AT1 Death_NN1 in_II the_AT Family_NN1 done_VDN not_XX by_II fate_NN1 but_CCB by_II a_AT1 human_JJ being_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0    9 What he does will be the result of what he wants -- or maybe wants to avoid .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0    9 What_DDQ he_PPHS1 does_VDZ will_VM be_VBI the_AT result_NN1 of_IO what_DDQ he_PPHS1 wants_VVZ --_ZZ or_CC maybe_RR wants_VVZ to_TO avoid_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   10 I purposely chose the word wants .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   10 I_PPIS1 purposely_RR chose_VVD the_AT word_NN1 wants_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   11 Need is something else .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   11 Need_NN1_VV0 is_VBZ something_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   12 Need waits at the extremes of life , want at the center .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   12 Need_VV0 waits_NN2@_VVZ at_II the_AT extremes_NN2 of_IO life_NN1 ,_Y want_VV0 at_II the_AT center_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   13 To bring off an honest story based on need is hard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   13 To_TO bring_VVI off_RP_II an_AT1 honest_JJ story_NN1 based_VVN on_II need_NN1 is_VBZ hard_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   14 Few of us are driven to starvation , madness , murder or suicide .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   14 Few_DA2 of_IO us_PPIO2 are_VBR driven_VVN to_II starvation_NN1 ,_Y madness_NN1 ,_Y murder_NN1 or_CC suicide_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   15 The planes we take rarely crash , our children are not often kidnapped , we are seldom trapped by blizzards in rural hotels with homicidal maniacs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   15 The_AT planes_NN2 we_PPIS2 take_VV0 rarely_RR crash_VV0 ,_Y our_APPGE children_NN2 are_VBR not_XX often_RR kidnapped_VVN_VVD ,_Y we_PPIS2 are_VBR seldom_RR trapped_VVN by_II blizzards_NN2 in_II rural_JJ hotels_NN2 with_IW homicidal_JJ maniacs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   16 Give your story a break .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   16 Give_VV0 your_APPGE story_NN1 a_AT1 break_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   17 Avoid extremes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   17 Avoid_VV0 extremes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   18 The impulse of the character who acts to set your story in motion can be as simple as a man 's longing for peace and quiet in a houseful of unmanaged kids , a winos hope for a warm doorway to sleep in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   18 The_AT impulse_NN1 of_IO the_AT character_NN1 who_PNQS acts_VVZ to_TO set_VVI your_APPGE story_NN1 in_II motion_NN1 can_VM be_VBI as_RG simple_JJ as_CSA a_AT1 man_NN1 's_VBZ_GE longing_VVG_NN1 for_IF peace_NN1 and_CC quiet_JJ_NN1@ in_II a_AT1 houseful_NN1 of_IO unmanaged_JJ kids_NN2 ,_Y a_AT1 winos_NN2 hope_VV0 for_IF a_AT1 warm_JJ doorway_NN1 to_TO sleep_VVI in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   19 What results when a want is spoken or acted on , or promised or threatened or kept secret , can take all kinds of directions , depending on who or what gets a man is cold , he wants to get warm .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   19 What_DDQ results_VVZ@_NN2 when_RRQ_CS a_AT1 want_NN1% is_VBZ spoken_VVN or_CC acted_VVD_VVN on_RP@ ,_Y or_CC promised_VVD_VVN_JJ@ or_CC threatened_VVD_VVN_JJ@ or_CC kept_VVD_VVN secret_JJ_NN1 ,_Y can_VM take_VVI all_DB kinds_NN2 of_IO directions_NN2 ,_Y depending_II21 on_II22 who_PNQS or_CC what_DDQ gets_VVZ a_AT1 man_NN1 is_VBZ cold_JJ ,_Y he_PPHS1 wants_VVZ to_TO get_VVI warm_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   20 Wet , he wants to get dry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   20 Wet_JJ_VV0@ ,_Y he_PPHS1 wants_VVZ to_TO get_VVI dry_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   21 Hungry , he wants to eat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   21 Hungry_JJ ,_Y he_PPHS1 wants_VVZ to_TO eat_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   22 He wants an end to pain , loneliness , everything that hurts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   22 He_PPHS1 wants_VVZ an_AT1 end_NN1 to_II pain_NN1 ,_Y loneliness_NN1 ,_Y everything_PN1 that_CST hurts_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   23 When he tries to do something about it , that 's a story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   23 When_CS_RRQ he_PPHS1 tries_VVZ to_TO do_VDI something_PN1 about_II it_PPH1 ,_Y that_DD1 's_VBZ a_AT1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   24 2 You started too soon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   24 2_MC You_PPY started_VVD too_RG soon_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   25 If the worst mistake you can make is to write a story in which nothing happens , the most common mistake you can make is to write a story that begins before the beginning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   25 If_CS the_AT worst_JJT_RRT@ mistake_NN1_VV0@ you_PPY can_VM make_VVI is_VBZ to_TO write_VVI a_AT1 story_NN1 in_II which_DDQ nothing_PN1 happens_VVZ ,_Y the_AT most_RGT common_JJ mistake_NN1 you_PPY can_VM make_VVI is_VBZ to_TO write_VVI a_AT1 story_NN1 that_CST_DD1 begins_VVZ before_II_CS the_AT beginning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   26 A woman in my fiction workshop gave me a novel manuscript to read .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   26 A_AT1 woman_NN1 in_II my_APPGE fiction_NN1 workshop_NN1 gave_VVD me_PPIO1 a_AT1 novel_JJ_NN1 manuscript_NN1 to_TO read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   27 It ran 300 pages , and the first hundred were needless .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   27 It_PPH1 ran_VVD 300_MC pages_NN2 ,_Y and_CC the_AT first_MD hundred_M1 were_VBDR needless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   28 The main character was a middle-aged woman whose husband and grown children had left her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   28 The_AT main_JJ character_NN1 was_VBDZ a_AT1 middle-aged_JJ woman_NN1 whose_DDQGE husband_NN1 and_CC grown_VVN_VVD@ children_NN2 had_VHD left_VVN her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   29 Others kept asking , " What are you going to do ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   29 Others_NN2 kept_VVD_VVN asking_VVG_NN1@ ,_Y "_Y What_DDQ are_VBR you_PPY going_VVG to_TO do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   30 " So did I , and not patiently .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   30 "_Y So_RR did_VDD I_PPIS1 ,_Y and_CC not_XX patiently_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   31 At last , the woman did something , and the novel began .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   31 At_RR21 last_RR22 ,_Y the_AT woman_NN1 did_VDD something_PN1 ,_Y and_CC the_AT novel_NN1 began_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   32 Remember , a writer 's best friend is the wastebasket .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   32 Remember_VV0 ,_Y a_AT1 writer_NN1 's_GE best_JJT friend_NN1 is_VBZ the_AT wastebasket_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   33 It may take you a few pages to get into the bravery to toss away the words that were simply a warm-up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   33 It_PPH1 may_VM take_VVI you_PPY a_AT1 few_DA2 pages_NN2 to_TO get_VVI into_II the_AT bravery_NN1 to_TO toss_VVI away_RL the_AT words_NN2 that_CST were_VBDR simply_RR a_AT1 warm-up_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   34 How do you know when you 're there ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   34 How_RRQ do_VD0 you_PPY know_VVI when_RRQ you_PPY 're_VBR there_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   35 You 're very likely there when a character with a reason to make a move makes that move .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   35 You_PPY 're_VBR very_RG likely_JJ_RR@ there_RL when_CS a_AT1 character_NN1 with_IW a_AT1 reason_NN1 to_TO make_VVI a_AT1 move_NN1 makes_VVZ that_CST move_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   36 While the move produces actions and reactions , the story goes on .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   36 While_CS the_AT move_NN1 produces_VVZ actions_NN2 and_CC reactions_NN2 ,_Y the_AT story_NN1 goes_VVZ on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   37 It ends when you think a smart reader can guess how it will turn out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   37 It_PPH1 ends_VVZ when_RRQ_CS you_PPY think_VV0 a_AT1 smart_JJ reader_NN1 can_VM guess_VVI how_RRQ it_PPH1 will_VM turn_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   38 It 's wise to figure on the reader 's being at least as smart as you are .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   38 It_PPH1 's_VBZ wise_JJ to_TO figure_VVI on_II the_AT reader_NN1 's_VBZ being_VBG at_RR21 least_RR22 as_RG smart_JJ as_CSA you_PPY are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   39 * 3 You wrote it twice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   39 *_FU 3_MC You_PPY wrote_VVD it_PPH1 twice_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   40 Or three times .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   40 Or_CC three_MC times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   41 Or four .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   41 Or_CC four_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   42 Why do new writers repeat themselves so much ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   42 Why_RRQ do_VD0 new_JJ writers_NN2 repeat_VV0 themselves_PPX2 so_RG much_DA1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   43 Maybe they simply have n't learned to see what good writers leave out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   43 Maybe_RR they_PPHS2 simply_RR have_VH0 n't_XX learned_VVN to_TO see_VVI what_DDQ good_JJ writers_NN2 leave_VV0 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   44 Until you 've written a lot , that 's a tough assignment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   44 Until_CS you_PPY 've_VH0 written_VVN a_RR21@_AT1 lot_RR22_NN1 ,_Y that_DD1 's_VBZ a_AT1 tough_JJ assignment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   45 In the meantime , show what happens only when it happens .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   45 In_II the_AT meantime_NNT1 ,_Y show_VV0_NN1 what_DDQ happens_VVZ only_RR_JJ when_CS_RRQ it_PPH1 happens_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   46 Do n't warn the reader that it 's going to happen ; do n't tell him afterward that it did happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   46 Do_VD0 n't_XX warn_VVI the_AT reader_NN1 that_CST it_PPH1 's_VBZ going_VVGK to_TO happen_VVI ;_Y do_VD0 n't_XX tell_VVI him_PPHO1 afterward_RL_JJ that_CST it_PPH1 did_VDD happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   47 And as Benjamin Disraeli said , never explain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   47 And_CC as_CSA_II@ Benjamin_NP1 Disraeli_NP1 said_VVD ,_Y never_RR explain_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   48 Just set your characters in motion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   48 Just_RR set_VVD_VV0_VVN your_APPGE characters_NN2 in_II motion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   49 What they do story told .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   49 What_DDQ they_PPHS2 do_VD0 story_NN1 told_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   50 The reader will figure out the meaning for himself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   50 The_AT reader_NN1 will_VM figure_VVI out_RP the_AT meaning_NN1 for_IF himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   51 If you 've done your job right , he may even get the meaning you intended him to get .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   51 If_CS you_PPY 've_VH0 done_VDN your_APPGE job_NN1 right_NN1_RR ,_Y he_PPHS1 may_VM even_RR get_VVI the_AT meaning_NN1 you_PPY intended_VVD him_PPHO1 to_TO get_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   52 * 4 You kept interrupting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   52 *_FU 4_MC You_PPY kept_VVD interrupting_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   53 Flashbacks can be useful .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   53 Flashbacks_NN2_NP1@ can_VM be_VBI useful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   54 But they do jerk the reader 's attention from one time and place to another .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   54 But_CCB they_PPHS2 do_VD0 jerk_VVI the_AT reader_NN1 's_GE attention_NN1 from_II one_MC1 time_NNT1 and_CC place_VV0_NN1 to_II another_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   55 If this happens too often it is tiring .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   55 If_CS this_DD1 happens_VVZ too_RG often_RR it_PPH1 is_VBZ tiring_JJ_VVG@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   56 Stay with the present .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   56 Stay_VV0 with_IW the_AT present_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   57 Habits of movement , speech , mind ; where a character lives ; what he wears ; what he eats ; the dust or polish of his rooms ; what he drinks if he drinks at all ; his possessions , furniture , books , pictures , an old recording on a new turntable , a faded photograph stuck in the frame of a mirror-this kind of detail can tell as much about him as half a dozen flashbacks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   57 Habits_NN2 of_IO movement_NN1 ,_Y speech_NN1 ,_Y mind_NN1_VV0 ;_Y where_CS_RRQ a_AT1 character_NN1 lives_NN2_VVZ ;_Y what_DDQ he_PPHS1 wears_VVZ ;_Y what_DDQ he_PPHS1 eats_VVZ ;_Y the_AT dust_NN1 or_CC polish_NN1 of_IO his_APPGE rooms_NN2 ;_Y what_DDQ he_PPHS1 drinks_VVZ@ if_CS_CSW@ he_PPHS1 drinks_VVZ@ at_RR21 all_RR22 ;_Y his_APPGE possessions_NN2 ,_Y furniture_NN1 ,_Y books_NN2 ,_Y pictures_NN2 ,_Y an_AT1 old_JJ recording_NN1 on_II a_AT1 new_JJ turntable_NN1 ,_Y a_AT1 faded_JJ photograph_NN1 stuck_VVN_VVD in_II the_AT frame_NN1 of_IO a_AT1 mirror-this_RG%_DD1 kind_RR21%_NN1 of_RR22_IO detail_NN1_VV0@ can_VM tell_VVI as_RG much_DA1_RR about_II him_PPHO1 as_CSA half_DB_RR@ a_AT1 dozen_M1 flashbacks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   58 And details are of the here and now , whereas flashbacks are of the past and never have the impact of things present .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   58 And_CC details_NN2 are_VBR of_IO the_AT here_RL and_CC now_RT ,_Y whereas_CS flashbacks_NN2 are_VBR of_IO the_AT past_NN1_JJ and_CC never_RR have_VH0 the_AT impact_NN1 of_IO things_NN2 present_NN1_VV0@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   59 If your story has more than one or two flashbacks , you may flashbacks may be what is really on your mind .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   59 If_CS your_APPGE story_NN1 has_VHZ more_DAR than_CSN one_MC1 or_CC two_MC flashbacks_NN2 ,_Y you_PPY may_VM flashbacks_NN2 may_VM be_VBI what_DDQ is_VBZ really_RR on_II your_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   60 If so , write that story instead , and if not , cut the flashbacks. 5 There 's no one in your story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   60 If_CS so_RR ,_Y write_VV0 that_DD1_CST story_NN1 instead_RR ,_Y and_CC if_CS not_XX ,_Y cut_VV0_VVD@ the_AT flashbacks._NNU 5_MC There_EX 's_VBZ no_PN121 one_PN122 in_II your_APPGE story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   61 Nobody is humdrum .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   61 Nobody_PN1 is_VBZ humdrum_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   62 Everyone is a little crazy -- except you and me , of course .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   62 Everyone_PN1 is_VBZ a_RR21 little_RR22 crazy_JJ --_NN1_JJ except_CS you_PPY and_CC me_PPIO1 ,_Y of_RR21 course_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   63 And everybody is interesting , at least for a short while .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   63 And_CC everybody_PN1 is_VBZ interesting_JJ ,_Y at_RR21 least_RR22 for_IF a_AT1 short_JJ while_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   64 If your characters are flat , it 's not their fault -- it 's yours .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   64 If_CS your_APPGE characters_NN2 are_VBR flat_JJ_RR@ ,_Y it_PPH1 's_VBZ not_XX their_APPGE fault_NN1 --_NN1 it_PPH1 's_VBZ yours_PPGE ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   65 You have n't dug out the special thing they have that no one else has , the thing inside them that makes them ring , as a clapper does a bell .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   65 You_PPY have_VH0 n't_XX dug_VVN out_RP the_AT special_JJ thing_NN1 they_PPHS2 have_VH0 that_DD1 no_PN121 one_PN122 else_RR has_VHZ ,_Y the_AT thing_NN1 inside_II them_PPHO2 that_DD1_CST makes_VVZ them_PPHO2 ring_VVI ,_Y as_CSA_II a_AT1 clapper_NN1 does_VDZ a_AT1 bell_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   66 Forget the limp , the stammer , the funny hat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   66 Forget_VV0 the_AT limp_NN1_JJ ,_Y the_AT stammer_NN1 ,_Y the_AT funny_JJ hat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   67 Try instead making the distinctive characteristic a habit -- leaving fallen objects where they lie , waxing the kitchen floor when it does n't need waxing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   67 Try_VV0 instead_RR making_VVG the_AT distinctive_JJ characteristic_NN1_JJ a_AT1 habit_NN1 --_NN1_JJ leaving_VVG_NN1@ fallen_JJ%_VVN objects_NN2 where_CS_RRQ they_PPHS2 lie_VV0 ,_Y waxing_VVG the_AT kitchen_NN1 floor_NN1 when_CS_RRQ it_PPH1 does_VDZ n't_XX need_VVI waxing_VVG_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   68 Do n't prop a dummy in a rocker , stick a corncob pipe in its mouth and hang a sign on it -- " Grandpa " Grandpa may be 16 years old inside .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   68 Do_VD0 n't_XX prop_VVI a_AT1 dummy_NN1_JJ in_II a_AT1 rocker_NN1 ,_Y stick_VV0 a_AT1 corncob_NN1 pipe_NN1 in_II its_Z' mouth_NN1 and_CC hang_VV0 a_AT1 sign_NN1 on_II it_PPH1 --_ZZ "_Y Grandpa_NN1 "_Y Grandpa_NN1 may_VM be_VBI 16_MC years_NNT2 old_JJ inside_RL_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   69 Show me that or something else that Find the kink that makes a man , woman , child , dog , cat , horse , unique -- not grotesque , bizarre , outlandish -- but simply and specifically different .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   69 Show_VV0 me_PPIO1 that_DD1 or_CC something_PN1 else_RR that_DD1_CST Find_VV0 the_AT kink_NN1 that_CST_DD1 makes_VVZ a_AT1 man_NN1 ,_Y woman_NN1 ,_Y child_NN1 ,_Y dog_NN1 ,_Y cat_NN1 ,_Y horse_NN1 ,_Y unique_JJ --_NN1_JJ not_XX grotesque_JJ_NN1 ,_Y bizarre_JJ ,_Y outlandish_JJ --_NN1_JJ but_CCB simply_RR and_CC specifically_RR different_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   70 There is ample room inside the boundaries of the probable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   70 There_EX is_VBZ ample_JJ room_NN1 inside_II the_AT boundaries_NN2 of_IO the_AT probable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   71 Look around you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   71 Look_VV0 around_RP_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   72 * 6 There are too many people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   72 *_FU 6_MC There_EX are_VBR too_RG many_DA2 people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   73 This is where a lot of first stories founder-not in having too many characters , but in not having a viewpoint character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   73 This_DD1 is_VBZ where_RRQ_CS a_AT1 lot_NN1 of_IO first_MD stories_NN2 founder-not_ZZ in_II having_VHG too_RG many_DA2 characters_NN2 ,_Y but_CCB in_II not_XX having_VHG a_AT1 viewpoint_NN1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   74 Have you watched your story unfold through one pair of eyes only ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   74 Have_VH0 you_PPY watched_VVN your_APPGE story_NN1 unfold_VV0 through_II_RP@ one_MC1 pair_NN of_IO eyes_NN2 only_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   75 Have you heard , touched , smelled , tasted , with the senses of one character only ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   75 Have_VH0 you_PPY heard_VVN ,_Y touched_VVD_VVN ,_Y smelled_VVD ,_Y tasted_VVD_VVN ,_Y with_IW the_AT senses_NN2 of_IO one_MC1 character_NN1 only_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   76 Have you gone inside the thoughts and emotions , fears , hungers , of him or her alone ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   76 Have_VH0 you_PPY gone_VVN inside_II the_AT thoughts_NN2 and_CC emotions_NN2 ,_Y fears_NN2_VVZ ,_Y hungers_NN2 ,_Y of_IO him_PPHO1 or_CC her_APPGE alone_JJ_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   77 If not , then take a deep breath and write your story again from start to finish .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   77 If_CS not_XX ,_Y then_RT take_VV0 a_AT1 deep_JJ breath_NN1 and_CC write_VV0 your_APPGE story_NN1 again_RT from_II start_NN1 to_II finish_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   78 * 7 It does n't happen any place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   78 *_FU 7_MC It_PPH1 does_VDZ n't_XX happen_VVI any_DD place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   79 A shower head drips behind a plastic curtain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   79 A_AT1 shower_NN1 head_NN1 drips_VVZ_NN2 behind_II a_AT1 plastic_NN1 curtain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   80 A refrigerator shudders like a palsied old man .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   80 A_AT1 refrigerator_NN1 shudders_VVZ_NN2 like_II a_AT1 palsied_JJ@ old_JJ man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   81 The shadow of a gull crosses a dirty windowpane .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   81 The_AT shadow_NN1 of_IO a_AT1 gull_NN1 crosses_VVZ a_AT1 dirty_JJ windowpane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   82 Places and things can lend life to action and character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   82 Places_NN2 and_CC things_NN2 can_VM lend_VVI life_NN1 to_II action_NN1 and_CC character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   83 But a story is poorer without it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   83 But_CCB a_AT1 story_NN1 is_VBZ poorer_JJR without_IW it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   84 When your people talk and act , let it be in a particular place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   84 When_CS your_APPGE people_NN talk_VV0_NN1 and_CC act_NN1_VV0 ,_Y let_VV0 it_PPH1 be_VBI in_II a_AT1 particular_JJ place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   85 And let the place be more than a name .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   85 And_CC let_VV0 the_AT place_NN1 be_VBI more_DAR_RRR than_CSN a_AT1 name_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   86 As with characters , find specific details that make your office , living room , air terminal different from every other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   86 As_CSA with_IW characters_NN2 ,_Y find_VV0 specific_JJ details_NN2 that_CST make_VV0 your_APPGE office_NN1 ,_Y living_NN1 room_NN1 ,_Y air_NN1_VV0% terminal_JJ_NN1 different_JJ from_II every_AT1 other_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   87 This does n't mean you must describe every inch of the place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   87 This_DD1 does_VDZ n't_XX mean_VVI you_PPY must_VM describe_VVI every_AT1 inch_NNU1 of_IO the_AT place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   88 But if a character has to push a sleeping cat off a chair before he can sit down , if a carpet is strewn with toys , if beer cans tumble out from under a kitchen sink , the reader will have been told something as surely as action or dialogue could have told him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   88 But_CCB if_CS a_AT1 character_NN1 has_VHZ to_TO push_VVI a_AT1 sleeping_JJ_NN1 cat_NN1 off_II_RP a_AT1 chair_NN1 before_CS he_PPHS1 can_VM sit_VVI down_RP ,_Y if_CS a_AT1 carpet_NN1 is_VBZ strewn_VVN with_IW toys_NN2 ,_Y if_CS beer_NN1 cans_NN2 tumble_VV0 out_RP from_II under_II_RG@ a_AT1 kitchen_NN1 sink_NN1_VV0 ,_Y the_AT reader_NN1 will_VM have_VHI been_VBN told_VVN something_PN1 as_RG surely_RR as_CSA action_NN1 or_CC dialogue_NN1 could_VM have_VHI told_VVN him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   89 Do n't stop with things .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   89 Do_VD0 n't_XX stop_VVI with_IW things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   90 Use weather .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   90 Use_VV0_NN1 weather_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   91 The gray light of a rainy day affects your mood and mine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   91 The_AT gray_JJ light_NN1 of_IO a_AT1 rainy_JJ day_NNT1 affects_VVZ your_APPGE mood_NN1 and_CC mine_PPGE_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   92 It can affect that of your characters , too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   92 It_PPH1 can_VM affect_VVI that_DD1 of_IO your_APPGE characters_NN2 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   93 Then there are sounds , smells , tastes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   93 Then_RT there_EX are_VBR sounds_NN2 ,_Y smells_NN2_VVZ ,_Y tastes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   94 These are part of everyone 's day , every day .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   94 These_DD2 are_VBR part_NN1 of_IO everyone_PN1 's_GE_VBZ day_NNT1 ,_Y every_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   95 If the reader does n't know you 've left them out that for some reason your story does n't quite convince him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   95 If_CS the_AT reader_NN1 does_VDZ n't_XX know_VVI you_PPY 've_VH0 left_VVN them_PPHO2 out_RP that_DD1_CST for_IF some_DD reason_NN1_VV0@ your_APPGE story_NN1 does_VDZ n't_XX quite_RR@ convince_VVI him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   96 8 Everybody talks too much .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   96 8_MC Everybody_PN1 talks_VVZ@ too_RG much_DA1_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   97 Real speech is often full of tangled syntax , repetitions , hesitations , unfinished sentences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   97 Real_JJ speech_NN1 is_VBZ often_RR full_JJ of_IO tangled_JJ syntax_NN1 ,_Y repetitions_NN2 ,_Y hesitations_NN2 ,_Y unfinished_JJ sentences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   98 Writers like John O'Hara , known for their lifelike dialogue , never wrote any such thing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   98 Writers_NN2 like_II John_NP1 O'Hara_NP1 ,_Y known_VVN for_IF their_APPGE lifelike_JJ dialogue_NN1 ,_Y never_RR wrote_VVD any_DD such_DA thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0   99 If they had , no one would have read them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0   99 If_CS they_PPHS2 had_VHD ,_Y no_PN121 one_PN122 would_VM have_VHI read_VVN them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  100 And when we really want to be understood , we talk like characters in novels .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  100 And_CC when_CS_RRQ we_PPIS2 really_RR want_VV0 to_TO be_VBI understood_VVN ,_Y we_PPIS2 talk_VV0 like_II_JJ@ characters_NN2 in_II novels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  101 We choose plain words and package them in short sentences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  101 We_PPIS2 choose_VV0 plain_JJ_NN1 words_NN2 and_CC package_VV0@ them_PPHO2 in_II_RR21 short_JJ_RR22 sentences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  102 Talk in fiction is action , and the words in quotation marks function as do all other words in a good story -- to move it along .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  102 Talk_VV0_NN1 in_II fiction_NN1 is_VBZ action_NN1 ,_Y and_CC the_AT words_NN2 in_II quotation_NN1 marks_NN2_VVZ@ function_VV0@_NN1 as_CSA do_VD0 all_RR@ other_JJ words_NN2 in_II a_AT1 good_JJ story_NN1 --_NN1_JJ to_TO move_VVI it_PPH1 along_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  103 Writers of dialogue that seems natural and also thrusts the story forward know that people rarely listen to each other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  103 Writers_NN2 of_IO dialogue_NN1 that_CST_DD1 seems_VVZ natural_JJ and_CC also_RR thrusts_VVZ the_AT story_NN1 forward_RL know_VV0 that_CST people_NN rarely_RR listen_VV0 to_II each_PPX221 other_PPX222 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  104 Talk between two people is often no more than interrupted monologues .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  104 Talk_VV0_NN1 between_II two_MC people_NN is_VBZ often_RR no_AT more_DAR_RRR than_CSN interrupted_JJ@_VVN monologues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  105 Each one is taken up with what he wants and what he has to say about it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  105 Each_DD1 one_PN1 is_VBZ taken_VVN up_RP with_IW what_DDQ he_PPHS1 wants_VVZ and_CC what_DDQ he_PPHS1 has_VHZ to_TO say_VVI about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  106 For this reason , people respond glancingly , if at all , to much of what is said to them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  106 For_IF this_DD1 reason_NN1 ,_Y people_NN respond_VV0 glancingly_RR ,_Y if_CS at_RR21 all_RR22 ,_Y to_II much_DA1 of_IO what_DDQ is_VBZ said_VVN@ to_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  107 Keep each half deaf to anyone else 's , and you 'll be all right .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  107 Keep_VV0 each_DD1 half_DB_RR@ deaf_JJ to_II anyone_PN1 else_RR 's_VBZ_GE_VHZ@ ,_Y and_CC you_PPY 'll_VM be_VBI all_RR@_DB right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  108 9 You used a thesaurus .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  108 9_MC You_PPY used_VVD a_AT1 thesaurus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  109 When The Paris Review asked Georges Simenon what he cut out of his work , he said , " Adjectives , adverbs , every word that is there just to make an effect .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  109 When_CS The_AT Paris_NP1 Review_NP1@_NN1 asked_VVD Georges_NP1 Simenon_NP1_NN1 what_DDQ he_PPHS1 cut_VVD@ out_II21 of_II22 his_APPGE work_NN1 ,_Y he_PPHS1 said_VVD ,_Y "_Y Adjectives_NN2 ,_Y adverbs_NN2 ,_Y every_AT1 word_NN1 that_CST_DD1 is_VBZ there_EX_RL% just_RR to_TO make_VVI an_AT1 effect_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  110 " Adjectives and adverbs are meant to sharpen and define .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  110 "_Y Adjectives_NN2 and_CC adverbs_NN2 are_VBR meant_VVN to_TO sharpen_VVI and_CC define_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  111 In the hands of a skilled professional , they do this because he or she uses them only when they 're needed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  111 In_II the_AT hands_NN2 of_IO a_AT1 skilled_JJ professional_JJ_NN1@ ,_Y they_PPHS2 do_VD0 this_DD1 because_CS he_PPHS1 or_CC she_PPHS1 uses_VVZ them_PPHO2 only_RR when_CS_RRQ they_PPHS2 're_VBR needed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  112 In inexperienced hands , too often they blur and weaken the noun or verb the writer wants them to strengthen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  112 In_II inexperienced_JJ hands_NN2 ,_Y too_RG often_RR they_PPHS2 blur_VV0 and_CC weaken_VV0 the_AT noun_NN1 or_CC verb_NN1 the_AT writer_NN1 wants_VVZ them_PPHO2 to_TO strengthen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  113 If you have to prop a word up with another word , chances are you chose the wrong word in the first place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  113 If_CS you_PPY have_VH0 to_TO prop_VVI a_AT1 word_NN1 up_RP with_IW another_DD1 word_NN1 ,_Y chances_NN2 are_VBR you_PPY chose_VVN the_AT wrong_JJ word_NN1 in_II the_AT first_MD place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  114 Stay away from that thesaurus .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  114 Stay_VV0 away_II21_RL from_II22_II that_DD1 thesaurus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  115 Use plain words that come naturally .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  115 Use_VV0 plain_JJ_NN1 words_NN2 that_CST come_VV0 naturally_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  116 You are likeliest to pile on adjectives and adverbs when the scene you are trying to write is n't clear to you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  116 You_PPY are_VBR likeliest_JJT to_TO pile_VVI on_II_RP@ adjectives_NN2 and_CC adverbs_NN2 when_RRQ_CS the_AT scene_NN1 you_PPY are_VBR trying_VVG to_TO write_VVI is_VBZ n't_XX clear_JJ_RR@ to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  117 Once you get it clear , you 'll find you do n't need them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  117 Once_CS@_RR you_PPY get_VV0 it_PPH1 clear_RR@_JJ ,_Y you_PPY 'll_VM find_VVI you_PPY do_VD0 n't_XX need_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  118 And cutting them will be your final in quotation marks , use " said " after the name or pronoun .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  118 And_CC cutting_VVG them_PPHO2 will_VM be_VBI your_APPGE final_JJ_NN1 in_II quotation_NN1 marks_NN2 ,_Y use_NN1 "_Y said_VVD_VVN@ "_Y after_II_CS the_AT name_NN1 or_CC pronoun_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  119 You will seldom need more .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  119 You_PPY will_VM seldom_RR need_VVI more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  120 You wo n't need the like of " remarked , " " argued , " " exclaimed " " opined .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  120 You_PPY wo_VM n't_XX need_VVI the_AT like_NN1%_JJ@ of_IO "_Y remarked_VVN ,_Y "_Y "_Y argued_VVD_VVN ,_Y "_Y "_Y exclaimed_VVD_VVN "_Y "_Y opined_JJ@_VVD_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  121 " It 's also rarely necessary to add attributives to " said " -- " Barry said sadly " " Marie said gaily .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  121 "_Y It_PPH1 's_VBZ also_RR rarely_RR necessary_JJ to_TO add_VVI attributives_NN2 to_II "_Y said_JJ% "_Y --_NN1_JJ "_Y Barry_NP1 said_VVD sadly_RR "_Y "_Y Marie_NP1 said_VVD gaily_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  122 " The emotional and logical burden of a scene , if you 've written it right , will make clear to the reader the tone of voice of the speakers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  122 "_Y The_AT emotional_JJ and_CC logical_JJ burden_NN1 of_IO a_AT1 scene_NN1 ,_Y if_CS you_PPY 've_VH0 written_VVN it_PPH1 right_RR ,_Y will_VM make_VVI clear_JJ to_II the_AT reader_NN1 the_AT tone_NN1 of_IO voice_NN1 of_IO the_AT speakers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  123 10 It takes too long .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  123 10_MC It_PPH1 takes_VVZ too_RG long_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  124 Learning to write action is much like learning to walk .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  124 Learning_VVG_NN1 to_TO write_VVI action_NN1 is_VBZ much_RR_DA1 like_II learning_VVG_NN1 to_TO walk_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  125 New writers stumble a lot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  125 New_JJ writers_NN2 stumble_VV0 a_AT1_RR21@ lot_NN1_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  126 Moving a character from a chair to a door can become a nightmare .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  126 Moving_VVG a_AT1 character_NN1 from_II a_AT1 chair_NN1 to_II a_AT1 door_NN1 can_VM become_VVI a_AT1 nightmare_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  127 It can waste the Writer 's words and the reader 's patience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  127 It_PPH1 can_VM waste_VVI the_AT Writer_NN1 's_GE words_NN2 and_CC the_AT reader_NN1 's_GE patience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  128 There 's a way around this , though .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  128 There_EX 's_VBZ a_AT1 way_NN1 around_II this_DD1 ,_Y though_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  129 In filmmaking it 's called a jump cut .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  129 In_II filmmaking_VVG it_PPH1 's_VBZ called_VVN a_AT1 jump_NN1 cut_NN1_VVN_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  130 If you want your char-octet at the door , put him there .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  130 If_CS you_PPY want_VV0 your_APPGE char-octet_NN1_JJ at_II the_AT door_NN1 ,_Y put_VVD_VV0 him_PPHO1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  131 Do n't make us watch him walk .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  131 Do_VD0 n't_XX make_VVI us_PPIO2 watch_VVI him_PPHO1 walk_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  132 Walking in itself is n't interesting whole by using jump cuts to get from scene to scene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  132 Walking_VVG_NN1 in_II itself_PPX1 is_VBZ n't_XX interesting_JJ whole_NN1 by_II using_VVG jump_NN1 cuts_VVZ_NN2 to_TO get_VVI from_II scene_NN1 to_II scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  133 And when you get there , keep the scenes crisp .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  133 And_CC when_CS_RRQ you_PPY get_VV0 there_RL ,_Y keep_VV0 the_AT scenes_NN2 crisp_NN1_VV0@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  134 When you can , begin after the beginning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  134 When_CS_RRQ you_PPY can_VM ,_Y begin_VV0 after_II_CS the_AT beginning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  135 Spare the reader a lot of stair climbing , bell pushing , door opening .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  135 Spare_VV0 the_AT reader_NN1 a_AT1 lot_NN1 of_IO stair_NN1 climbing_NN1_VVG ,_Y bell_NN1 pushing_VVG ,_Y door_NN1 opening_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  136 Do n't cut them out if you need them -- but be sure you really do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  136 Do_VD0 n't_XX cut_VVI them_PPHO2 out_RP if_CS you_PPY need_VV0 them_PPHO2 --_ZZ but_CCB be_VBI sure_JJ you_PPY really_RR do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  137 End the scene as soon as its point is made .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  137 End_VV0 the_AT scene_NN1 as_CS31 soon_CS32 as_CS33 its_Z' point_NN1 is_VBZ made_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  138 Do n't loiter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  138 Do_VD0 n't_XX loiter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  139 Unless they add information , tension , humor , pathos , atmosphere , do n't bother with good-byes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  139 Unless_CS they_PPHS2 add_VV0 information_NN1 ,_Y tension_NN1 ,_Y humor_NN1_VV0@ ,_Y pathos_NN1 ,_Y atmosphere_NN1 ,_Y do_VD0 n't_XX bother_VVI with_IW good-byes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  140 Get on to the next scene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  140 Get_VV0 on_RP_II21 to_II_II22 the_AT next_MD scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  141 There is more to writing a good short story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  141 There_EX is_VBZ more_RRR_DAR to_II writing_VVG a_AT1 good_JJ short_JJ story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  142 But if you can avoid making the big mistakes I 've touched on here , you 'll be that much farther ahead .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  142 But_CCB if_CS you_PPY can_VM avoid_VVI making_VVG the_AT big_JJ mistakes_NN2 I_PPIS1 've_VH0 touched_VVN on_II_RP@ here_RL ,_Y you_PPY 'll_VM be_VBI that_RG much_DA1_RR farther_JJR_RRR ahead_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  143 In the end , the only way to learn to write is to write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  143 In_II the_AT end_NN1 ,_Y the_AT only_JJ way_NN1 to_TO learn_VVI to_TO write_VVI is_VBZ to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  144 The chances of your first story 's seeing print or even of being any good are slim .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  144 The_AT chances_NN2 of_IO your_APPGE first_MD story_NN1 's_VBZ_GE seeing_VVG print_NN1 or_CC even_RR of_IO being_VBG any_RR% good_JJ are_VBR slim_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  145 Maybe your fifth or 10th will work for you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  145 Maybe_RR your_APPGE fifth_MD or_CC 10th_MD will_VM work_VVI for_IF you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  146 But there 's only one way to find out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  146 But_CCB there_EX 's_VBZ only_RR one_MC1 way_NN1 to_TO find_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  147 in October 1976 By Joseph Hansen Joseph Hansen published many short stories , mainstream novels and mysteries , as well as several poetry collections .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  147 in_II October_NPM1 1976_MC By_II Joseph_NP1 Hansen_NP1 Joseph_NP1 Hansen_NP1 published_VVD many_DA2 short_JJ stories_NN2 ,_Y mainstream_JJ novels_NN2 and_CC mysteries_NN2 ,_Y as_II31 well_II32 as_II33 several_DA2 poetry_NN1 collections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  148 He is perhaps best known for his Dave Brandstetter series , the first of which , Fadeout , introduced readers to an openly gay investigator .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  148 He_PPHS1 is_VBZ perhaps_RR best_RRT known_VVN for_IF his_APPGE Dave_NP1 Brandstetter_NP1 series_NN ,_Y the_AT first_MD of_IO which_DDQ ,_Y Fadeout_NP1_VV0_NN1 ,_Y introduced_VVD_VVN_JJ@ readers_NN2 to_II an_AT1 openly_RR gay_JJ investigator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  149 In 1992 he received a lifetime achievement award from The Private Eye Writers of America .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  149 In_II 1992_MC he_PPHS1 received_VVD a_AT1 lifetime_NNT1 achievement_NN1 award_NN1 from_II The_AT Private_JJ Eye_NN1 Writers_NN2 of_IO America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  A    0  150 He died in 2004.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080299 COCA  B    0  150 He_PPHS1 died_VVD in_II 2004._MC

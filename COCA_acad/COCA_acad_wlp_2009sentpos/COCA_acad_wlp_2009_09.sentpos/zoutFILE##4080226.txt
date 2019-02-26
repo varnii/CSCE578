@@ -1,0 +1,100 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    0 Tweet !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    0 Tweet_VV0_NN1_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    1 Ashton Kutcher just ate a bowl of cereal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    1 Ashton_NP1 Kutcher_NP1_NN1 just_RR ate_VVD a_AT1 bowl_NN1 of_IO cereal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    2 Tweet !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    2 Tweet_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    3 Miley Cyrus is memorizing her lines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    3 Miley_NP1@_NN1_JJ@ Cyrus_NP1_NN1 is_VBZ memorizing_VVG her_APPGE lines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    4 Tweet !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    4 Tweet_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    5 Will Smith is reading a script .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    5 Will_NP1@ Smith_NP1 is_VBZ reading_VVG a_AT1 script_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    6 You might recognize that these mini-messages belong to Twitter , the latest online sensation that has everyone , well , atwitter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    6 You_PPY might_VM recognize_VVI that_CST these_DD2 mini-messages_NN2 belong_VV0 to_II Twitter_NN1 ,_Y the_AT latest_JJT online_JJ sensation_NN1 that_CST_DD1 has_VHZ everyone_PN1 ,_Y well_RR ,_Y atwitter_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    7 Twitter is just one of many online options available to teens today -- Facebook , MySpace , YouTube , instant messaging , and online video gaming are some of the ways teens can plug in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    7 Twitter_NN1_VV0 is_VBZ just_RR one_MC1 of_IO many_DA2 online_JJ options_NN2 available_JJ to_II teens_NN2 today_RT --_ZZ Facebook_NN1_NP1 ,_Y MySpace_NP1 ,_Y YouTube_NP1 ,_Y instant_JJ messaging_NN1 ,_Y and_CC online_JJ video_NN1 gaming_NN1_VVG are_VBR some_DD of_IO the_AT ways_NN2 teens_NN2 can_VM plug_VVI in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    8 With the vast digital world at your fingertips , you might wonder : Is it really possible to have meaningful human interaction behind a computer screen ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    8 With_IW the_AT vast_JJ digital_JJ world_NN1 at_II your_APPGE fingertips_NN2 ,_Y you_PPY might_VM wonder_VVI :_Y Is_VBZ it_PPH1 really_RR possible_JJ to_TO have_VHI meaningful_JJ human_JJ_NN1 interaction_NN1 behind_II a_AT1 computer_NN1 screen_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0    9 In the rush to be superconnected , are you less connected than ever ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0    9 In_II the_AT rush_NN1 to_TO be_VBI superconnected_VVN@ ,_Y are_VBR you_PPY less_RGR_RRR connected_JJ_VVN than_CSN ever_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   10 Gateway To The World The online world offers many benefits .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   10 Gateway_NP1_NN1 To_II The_AT World_NN1 The_AT online_JJ world_NN1 offers_VVZ@_NN2 many_DA2 benefits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   11 First of all , it 's a great place to get real-time updates and breaking news .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   11 First_MD of_IO all_DB ,_Y it_PPH1 's_VBZ a_AT1 great_JJ place_NN1 to_TO get_VVI real-time_JJ_NN1 updates_NN2 and_CC breaking_VVG news_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   12 " Twitter , Digg , and sites like CNN.com are all easy ways to stay connected to the news , " says teen Anas Alexich-Duran of Chico , California .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   12 "_Y Twitter_VV0_NN1 ,_Y Digg_NP1_VV0_NN1 ,_Y and_CC sites_NN2 like_II CNN.com_NP1 are_VBR all_DB_RR@ easy_JJ ways_NN2 to_TO stay_VVI connected_VVN_JJ to_II the_AT news_NN1 ,_Y "_Y says_VVZ teen_NN1 Anas_NP2_NN2@ Alexich-Duran_NN1 of_IO Chico_NP1 ,_Y California_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   13 " Twitter time too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   13 "_Y Twitter_NN1 time_NNT1 too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   14 " Twitter is also a way for teens to connect to the people they admire .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   14 "_Y Twitter_NN1_VV0 is_VBZ also_RR a_AT1 way_NN1 for_IF teens_NN2 to_TO connect_VVI to_II the_AT people_NN they_PPHS2 admire_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   15 Celebrities like Sean Combs ( aka P. Diddy ) and Kutcher use Twitter to talk directly to their fans and get the word out about important social causes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   15 Celebrities_NN2 like_II Sean_NP1 Combs_NN2_VVZ (_Y aka_NN1 P._NP1 Diddy_NP1 )_Y and_CC Kutcher_NP1_NN1 use_NN1_VV0 Twitter_NN1_VV0 to_TO talk_VVI directly_RR to_II their_APPGE fans_NN2 and_CC get_VVI the_AT word_NN1 out_RP about_II important_JJ social_JJ causes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   16 Earlier this year , Kutcher raced CNN for 1 million Twitter subscribers -- and he won !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   16 Earlier_RRR this_DD1 year_NNT1 ,_Y Kutcher_NP1 raced_VVD CNN_NP1 for_IF 1_MC1 million_M1 Twitter_NN1 subscribers_NN2 --_NN1_JJ and_CC he_PPHS1 won_VVD !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   17 Online social networking sites offer teens a place to connect to each other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   17 Online_RR_JJ social_JJ networking_NN1 sites_NN2 offer_VV0 teens_NN2 a_AT1 place_NN1 to_TO connect_VVI to_II each_PPX221 other_PPX222 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   18 " Facebook may be the only source of communication to stay connected with loved ones , " says 9th-grader Michael McMahon , also from Chico .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   18 "_Y Facebook_NN1_NP1@ may_VM be_VBI the_AT only_JJ source_NN1 of_IO communication_NN1 to_TO stay_VVI connected_JJ_VVN with_IW loved_JJ% ones_Z' ,_Y "_Y says_VVZ 9th-grader_JJ_NN1 Michael_NP1 McMahon_NP1 ,_Y also_RR from_II Chico_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   19 " This Web site has brought me to many people I did n't believe I would stay in contact with .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   19 "_Y This_DD1 Web_NN1 site_NN1 has_VHZ brought_VVN me_PPIO1 to_II many_DA2 people_NN I_PPIS1 did_VDD n't_XX believe_VVI I_PPIS1 would_VM stay_VVI in_II31 contact_II32 with_II33 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   20 " Some experts see the upside of life online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   20 "_Y Some_DD experts_NN2 see_VV0 the_AT upside_NN1 of_IO life_NN1 online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   21 " It may look as though kids are wasting time , whether it 's on MySpace or sending instant messages , but their participation is giving them the technological skills and literacy they need to succeed , " says Mizuko Ito , a lead researcher on a study called Living and Learning With New Media others , how to manage a public identity , how to create a home page .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   21 "_Y It_PPH1 may_VM look_VVI as_CS21 though_CS22 kids_NN2 are_VBR wasting_VVG time_NNT1 ,_Y whether_CSW it_PPH1 's_VBZ on_II MySpace_NP1 or_CC sending_VVG instant_JJ messages_NN2 ,_Y but_CCB their_APPGE participation_NN1 is_VBZ giving_VVG them_PPHO2 the_AT technological_JJ skills_NN2 and_CC literacy_NN1 they_PPHS2 need_VV0 to_TO succeed_VVI ,_Y "_Y says_VVZ Mizuko_NP1_NN1 Ito_NP1_NN1 ,_Y a_AT1 lead_NN1 researcher_NN1 on_II a_AT1 study_NN1 called_VVN_VVD@ Living_JJ_NN1_VVG and_CC Learning_VVG_NN1 With_IW New_JJ Media_NN others_NN2 ,_Y how_RRQ to_TO manage_VVI a_AT1 public_JJ_NN1 identity_NN1 ,_Y how_RRQ to_TO create_VVI a_AT1 home_NN1 page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   22 " " Real World " Disconnect ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   22 "_Y "_Y Real_JJ World_NN1 "_Y Disconnect_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   23 Sure the online world has its perks , but not every teen is convinced .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   23 Sure_RR%_JJ the_AT online_JJ world_NN1 has_VHZ its_Z' perks_NN2 ,_Y but_CCB not_XX every_AT1 teen_NN1 is_VBZ convinced_JJ_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   24 " A little technology is n't bad , but if you are spending hours on the computer , you start to lose connection , " says teen Lauren Mullins of Chico , California .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   24 "_Y A_AT1 little_JJ technology_NN1 is_VBZ n't_XX bad_JJ_RR% ,_Y but_CCB if_CS you_PPY are_VBR spending_JJ@_VVG hours_NNT2 on_II the_AT computer_NN1 ,_Y you_PPY start_VV0 to_TO lose_VVI connection_NN1 ,_Y "_Y says_VVZ teen_NN1 Lauren_NP1 Mullins_NP1 of_IO Chico_NP1 ,_Y California_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   25 " You 'll stop walking your dog .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   25 "_Y You_PPY 'll_VM stop_VVI walking_VVG your_APPGE dog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   26 Jumping on the trampoline with your sister will come to a halt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   26 Jumping_VVG_NN1_JJ on_II the_AT trampoline_NN1 with_IW your_APPGE sister_NN1 will_VM come_VVI to_II a_AT1 halt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   27 The dog-house you and your dad planned on building becomes the doghouse your dad is building alone .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   27 The_AT dog-house_NN1 you_PPY and_CC your_APPGE dad_NN1 planned_VVN_VVD on_II building_NN1 becomes_VVZ the_AT doghouse_NN1 your_APPGE dad_NN1 is_VBZ building_VVG@ alone_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   28 " The same goes for teens who ca n't put down their video games .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   28 "_Y The_AT same_DA goes_VVZ_NN2% for_IF teens_NN2 who_PNQS ca_VM n't_XX put_VVI down_RP their_APPGE video_NN1 games_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   29 Some studies estimate that 1 in 12 teens show signs of addiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   29 Some_DD studies_NN2 estimate_VV0 that_CST_DD1 1_MC1 in_II 12_MC teens_NN2 show_VV0 signs_NN2 of_IO addiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   30 " I think they should be doing something more productive , " says 7th-grader Mario Jelev of Haltom City , Texas .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   30 "_Y I_PPIS1 think_VV0 they_PPHS2 should_VM be_VBI doing_VDG something_PN1 more_RGR_DAR productive_JJ ,_Y "_Y says_VVZ 7th-grader_JJ_NN1 Mario_NP1 Jelev_NP1 of_IO Haltom_NP1_NN1 City_NN1 ,_Y Texas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   31 " Maybe getting their grades up or playing sports , doing something active with their friends .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   31 "_Y Maybe_RR getting_VVG their_APPGE grades_NN2 up_RP or_CC playing_VVG sports_NN2 ,_Y doing_VDG something_PN1 active_JJ with_IW their_APPGE friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   32 " Do those endless hours in front of a screen keep you from Haltom City , says they do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   32 "_Y Do_VD0 those_DD2 endless_JJ hours_NNT2 in_II31 front_II32 of_II33 a_AT1 screen_NN1 keep_VV0 you_PPY from_II Haltom_NP1_NN1 City_NN1 ,_Y says_VVZ they_PPHS2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   33 " You can connect with people using Twitter or YouTube , but in the end , you do n't know them unless you talk to them in real life , " she explains .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   33 "_Y You_PPY can_VM connect_VVI with_IW people_NN using_VVG Twitter_NN1 or_CC YouTube_NP1 ,_Y but_CCB in_II the_AT end_NN1 ,_Y you_PPY do_VD0 n't_XX know_VVI them_PPHO2 unless_CS you_PPY talk_VV0 to_II them_PPHO2 in_II real_JJ life_NN1 ,_Y "_Y she_PPHS1 explains_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   34 Anas agrees .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   34 Anas_NP1@_NN2 agrees_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   35 " Although we believe that we are connecting when we text , write , or Webcam our friends and family , we are not connecting , " Anas says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   35 "_Y Although_CS we_PPIS2 believe_VV0 that_CST we_PPIS2 are_VBR connecting_VVG_JJ when_RRQ_CS we_PPIS2 text_NN1 ,_Y write_VV0 ,_Y or_CC Webcam_VV0 our_APPGE friends_NN2 and_CC family_NN1 ,_Y we_PPIS2 are_VBR not_XX connecting_VVG_JJ ,_Y "_Y Anas_NP2_NN2@ says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   36 " True communication is when you can physically see , hear , and talk to another person .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   36 "_Y True_JJ communication_NN1 is_VBZ when_RRQ_CS you_PPY can_VM physically_RR see_VVI ,_Y hear_VVI ,_Y and_CC talk_VVI to_II another_DD1 person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   37 " What are your thoughts on this hot topic ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   37 "_Y What_DDQ are_VBR your_APPGE thoughts_NN2 on_II this_DD1 hot_JJ topic_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   38 Does socializing online make you feel a connection disconnect ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   38 Does_VDZ socializing_NN1@_JJ@ online_RR make_VV0 you_PPY feel_VVI a_AT1 connection_NN1 disconnect_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   39 Your Digital World 97% of teens play video games .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   39 Your_APPGE Digital_JJ World_NN1 97%_NNU of_IO teens_NN2 play_VV0 video_NN1 games_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   40 87% of teens use e-mail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   40 87%_NNU of_IO teens_NN2 use_VV0 e-mail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   41 70% of teens who use the Internet visit social networking sites .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   41 70%_NNU of_IO teens_NN2 who_PNQS use_VV0 the_AT Internet_NN1_NP1 visit_VV0_NN1 social_JJ networking_NN1 sites_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   42 30% of teens who use the Internet have blogs. 20% of teens who use the Internet make their own art with online content .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   42 30%_NNU of_IO teens_NN2 who_PNQS use_VV0 the_AT Internet_NN1_NP1 have_VH0 blogs._NNU 20%_NNU of_IO teens_NN2 who_PNQS use_VV0 the_AT Internet_NN1_NP1 make_VV0 their_APPGE own_DA art_NN1 with_IW online_JJ content_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   43 Big Deeper READING COMPREHENSION 1 Which is NOT a benefit of the digital world ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   43 Big_RR%_JJ Deeper_JJR_RRR READING_NN1 COMPREHENSION_NN1 1_MC1 Which_DDQ is_VBZ NOT_XX a_AT1 benefit_NN1 of_IO the_AT digital_JJ world_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   44 pre-formatted table DEBATE IX Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   44 pre-formatted_ZZ table_NN1 DEBATE_NN1 IX_MC Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   45 Does being social online make short paragraph explaining your opinion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   45 Does_VDZ being_VBG social_JJ online_RR make_VV0 short_JJ paragraph_NN1 explaining_VVG your_APPGE opinion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   46 Then , debate the topic with your class or among your friends !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   46 Then_RT ,_Y debate_VV0@_NN1 the_AT topic_NN1 with_IW your_APPGE class_NN1 or_CC among_II your_APPGE friends_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   47 PHOTO ( COLOR ) : Today , 93% of teens use the Internet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   47 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Today_RT ,_Y 93%_NNU of_IO teens_NN2 use_VV0 the_AT Internet_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   48 PHOTO ( COLOR ) : Ashton Kutcher ( left ) and Sean Combs talk about Twitter on Larry King Live .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   48 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Ashton_NP1 Kutcher_NP1 (_Y left_JJ_VVN_NN1@ )_Y and_CC Sean_NP1 Combs_NN2_VVZ talk_VV0_NN1 about_II Twitter_NN1 on_II Larry_NP1 King_NP1@_NN1 Live_VV0_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  A    0   49 By Kristin Lewis
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080226 COCA  B    0   49 By_II Kristin_NP1 Lewis_NP1

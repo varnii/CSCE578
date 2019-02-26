@@ -1,0 +1,124 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    0 The Teen Choice Awards crowned him Choice Comedian in 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    0 The_AT Teen_NN1 Choice_NN1 Awards_NN2 crowned_VVD_VVN him_PPHO1 Choice_JJ@_NN1 Comedian_NN1@_JJ in_II 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    1 Forbes magazine dubbed him 2009 's Most Valuable Comedian .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    1 Forbes_NP1 magazine_NN1 dubbed_VVN_VVD@ him_PPHO1 2009_MC 's_GE_VBZ Most_RGT Valuable_JJ Comedian_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    2 You know him as Adam Sandler .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    2 You_PPY know_VV0 him_PPHO1 as_CSA_II@ Adam_NP1 Sandler_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    3 " Every day I wake up and say , ' I got ta have some fun today , ' " Sandler says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    3 "_Y Every_AT1 day_NNT1 I_PPIS1 wake_VV0 up_RP and_CC say_VV0 ,_Y '_"@_GE I_PPIS1_ZZ1% got_VVN ta_TO have_VHI some_DD fun_NN1_JJ today_RT ,_Y '_GE "_Y Sandler_NN1_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    4 " I try to laugh and make other people laugh .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    4 "_Y I_PPIS1 try_VV0 to_TO laugh_VVI and_CC make_VVI other_JJ people_NN laugh_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    5 It 's something my family gave to me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    5 It_PPH1 's_VBZ something_PN1 my_APPGE family_NN1 gave_VVD to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    6 " That gift of laughter is the gift that keeps on giving .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    6 "_Y That_DD1 gift_NN1 of_IO laughter_NN1 is_VBZ the_AT gift_NN1 that_CST_DD1 keeps_VVZ on_RP giving_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    7 Unlike most actors , the comedian does n't just work in front of the camera in his blockbuster movies -- he often writes them too !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    7 Unlike_II@ most_DAT actors_NN2 ,_Y the_AT comedian_NN1 does_VDZ n't_XX just_RR work_VVI in_II31 front_II32 of_II33 the_AT camera_NN1 in_II his_APPGE blockbuster_NN1 movies_NN2 --_NN1_JJ he_PPHS1 often_RR writes_VVZ them_PPHO2 too_RR@ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    8 Way With Words Fans still quote lines from Sandler classics like Billy Madison and Happy Gilmore years after the films were released .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    8 Way_NN1 With_IW Words_NN2 Fans_VVZ@_NN2 still_RR quote_VV0_NN1 lines_NN2 from_II Sandler_NP1_NN1 classics_NN2 like_II Billy_NP1 Madison_NP1 and_CC Happy_JJ Gilmore_NN1@_NP1 years_NNT2 after_II_CS the_AT films_NN2 were_VBDR released_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0    9 Sandler 's fastrack to fame began in 1990 when he landed a writing gig for the NBC TV show Saturday Night Live .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0    9 Sandler_NP1@_NN1 's_GE fastrack_NN1 to_II fame_NN1 began_VVD in_II 1990_MC when_RRQ he_PPHS1 landed_VVD a_AT1 writing_NN1 gig_NN1 for_IF the_AT NBC_NP1 TV_NN1 show_NN1_VV0 Saturday_NPD1 Night_NNT1 Live_VV0_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   10 The following year , he started acting on the show and quickly became a fan favorite .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   10 The_AT following_JJ year_NNT1 ,_Y he_PPHS1 started_VVD acting_VVG on_II the_AT show_NN1 and_CC quickly_RR became_VVD a_AT1 fan_NN1 favorite_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   11 After leaving the show in 1995 , Sandler broke into filmwriting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   11 After_II leaving_VVG the_AT show_NN1 in_II 1995_MC ,_Y Sandler_NP1 broke_VVD into_II filmwriting_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   12 He became one Big Daddy and The Waterboy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   12 He_PPHS1 became_VVD one_MC1 Big_JJ Daddy_NN1 and_CC The_AT Waterboy_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   13 How does Sandler write such funny stuff ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   13 How_RRQ does_VDZ Sandler_NP1_NN1 write_VVI such_DA funny_JJ stuff_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   14 He uses different kinds of literary devices ( see sidebar , right ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   14 He_PPHS1 uses_VVZ different_JJ kinds_NN2 of_IO literary_JJ devices_NN2 (_Y see_VV0 sidebar_NN1 ,_Y right_RR_NN1_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   15 For example , many of his films feature a literary device called irony .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   15 For_REX21 example_REX22 ,_Y many_DA2 of_IO his_APPGE films_NN2 feature_VV0@ a_AT1 literary_JJ device_NN1 called_VVN_VVD@ irony_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   16 This is when a joke or plotline defies your expectations in a funny and surprising way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   16 This_DD1 is_VBZ when_RRQ_CS a_AT1 joke_NN1 or_CC plotline_NN1 defies_VVZ your_APPGE expectations_NN2 in_II a_AT1 funny_JJ and_CC surprising_JJ way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   17 For example , in You Do n't Mess with the Zohan , Sandler plays a fierce military commando who leaves the army to pursue his lifelong dream of becoming a hair stylist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   17 For_REX21 example_REX22 ,_Y in_II You_PPY Do_VD0 n't_XX Mess_NN1_VV0@ with_IW the_AT Zohan_NP1_NN1@ ,_Y Sandler_NP1_NN1 plays_VVZ a_AT1 fierce_JJ military_JJ commando_NN1 who_PNQS leaves_VVZ the_AT army_NN1 to_TO pursue_VVI his_APPGE lifelong_JJ dream_NN1 of_IO becoming_VVG a_AT1 hair_NN1 stylist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   18 This plot surprise is ironic ( and funny ) because you do n't expect such a tough guy to aspire to style hair for a living .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   18 This_DD1 plot_NN1 surprise_NN1 is_VBZ ironic_JJ (_Y and_CC funny_JJ )_Y because_CS you_PPY do_VD0 n't_XX expect_VVI such_DA a_AT1 tough_JJ guy_NN1 to_TO aspire_VVI to_II style_NN1 hair_NN1 for_IF a_AT1 living_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   19 Sandler also uses a form of verbal irony called sarcasm , in which a statement expresses the opposite of its meaning in order to mock a situation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   19 Sandler_NN1_NP1@ also_RR uses_VVZ a_AT1 form_NN1 of_IO verbal_JJ irony_NN1 called_VVN_VVD@ sarcasm_NN1 ,_Y in_II which_DDQ a_AT1 statement_NN1 expresses_VVZ the_AT opposite_NN1@_JJ of_IO its_Z' meaning_NN1 in_BCL21 order_BCL22 to_TO mock_VVI a_AT1 situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   20 For example , in The Waterboy , ex-quarterback Dan Fouts and announcer Brent Musberger ( playing themselves ) have a scene where Dan says , " The waterboy just needed some water !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   20 For_REX21 example_REX22 ,_Y in_II The_AT Waterboy_NN1_NP1 ,_Y ex-quarterback_JJ_NN1 Dan_NP1 Fouts_NP1_NN2_VVZ and_CC announcer_NN1 Brent_NP1 Musberger_NP1 (_Y playing_VVG themselves_PPX2 )_Y have_VH0 a_AT1 scene_NN1 where_CS_RRQ Dan_NP1 says_VVZ ,_Y "_Y The_AT waterboy_NN1 just_RR needed_VVN_VVD some_DD water_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   21 " Musburger responds , " Wow , Dan , did you uses sarcasm to make fun of Dan for stating the obvious .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   21 "_Y Musburger_NN1_NP1@ responds_VVZ ,_Y "_Y Wow_UH ,_Y Dan_NP1 ,_Y did_VDD you_PPY uses_VVZ sarcasm_NN1 to_TO make_VVI fun_NN1 of_IO Dan_NP1 for_IF stating_VVG the_AT obvious_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   22 Funny language choices are n't all you need for success in comedy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   22 Funny_JJ language_NN1 choices_NN2 are_VBR n't_XX all_DB you_PPY need_VV0 for_IF success_NN1 in_II comedy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   23 Sandler says it 's important to consider an audience 's feelings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   23 Sandler_NN1_NP1@ says_VVZ it_PPH1 's_VBZ important_JJ to_TO consider_VVI an_AT1 audience_NN1 's_GE feelings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   24 " My intention is never to hurt anybody .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   24 "_Y My_APPGE intention_NN1 is_VBZ never_RR to_TO hurt_VVI anybody_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   25 I 'm happy when people are having a good time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   25 I_PPIS1 'm_VBM happy_JJ when_CS_RRQ people_NN are_VBR having_VHG a_AT1 good_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   26 " In other words , Sandler 's no bully .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   26 "_Y In_II other_JJ words_NN2 ,_Y Sandler_NP1_NN1 's_VBZ no_AT bully_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   27 This was especially true of Bedtime Stories , a recent film that Sandler wrote and starred in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   27 This_DD1 was_VBDZ especially_RR true_JJ of_IO Bedtime_NNT1 Stories_NN2 ,_Y a_AT1 recent_JJ film_NN1 that_CST Sandler_NP1_NN1 wrote_VVD and_CC starred_VVD in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   28 " I actually had a great time on this movie trying to make friendlier jokes , " he says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   28 "_Y I_PPIS1 actually_RR had_VHD a_AT1 great_JJ time_NNT1 on_II this_DD1 movie_NN1 trying_VVG to_TO make_VVI friendlier_JJR jokes_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   29 Funny Bone Having a natural sense of humor also helps a person write comical stories and dialogue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   29 Funny_JJ Bone_NN1 Having_VHG a_AT1 natural_JJ sense_NN1 of_IO humor_NN1 also_RR helps_VVZ a_AT1 person_NN1 write_VVI comical_JJ stories_NN2 and_CC dialogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   30 Part of a funny family , Sandler was always cracking jokes at home .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   30 Part_NN1 of_IO a_AT1 funny_JJ family_NN1 ,_Y Sandler_NP1_NN1 was_VBDZ always_RR cracking_JJ_VVG jokes_NN2 at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   31 In high school , he was voted Class Comedian .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   31 In_II high_JJ school_NN1 ,_Y he_PPHS1 was_VBDZ voted_VVN Class_NN1 Comedian_NN1@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   32 Still , Sandler never considered a career in comedy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   32 Still_RR ,_Y Sandler_NP1_NN1 never_RR considered_VVN_VVD a_AT1 career_NN1 in_II comedy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   33 He says he felt lost when he was 17 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   33 He_PPHS1 says_VVZ he_PPHS1 felt_VVD lost_VVN_JJ@_VVD when_CS_RRQ he_PPHS1 was_VBDZ 17_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   34 " I had no idea what I was going to do with my life , " he says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   34 "_Y I_PPIS1 had_VHD no_AT idea_NN1 what_DDQ I_PPIS1 was_VBDZ going_VVGK to_TO do_VDI with_IW my_APPGE life_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   35 One day his brother came Sandler should become a professional comedian .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   35 One_MC1 day_NNT1 his_APPGE brother_NN1 came_VVD Sandler_NP1_NN1 should_VM become_VVI a_AT1 professional_JJ comedian_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   36 The first time he did live stand-up , the crowd started laughing only when Sandler made fun of how no one was laughing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   36 The_AT first_MD time_NNT1 he_PPHS1 did_VDD live_VVI stand-up_NN1_JJ ,_Y the_AT crowd_NN1 started_VVD laughing_VVG only_RR_JJ when_CS_RRQ Sandler_NP1 made_VVD fun_NN1 of_IO how_RRQ no_PN121 one_PN122 was_VBDZ laughing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   37 " It took about five years to start being OK with my friends showing up and watching me , " he admits .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   37 "_Y It_PPH1 took_VVD about_RG five_MC years_NNT2 to_TO start_VVI being_VBG OK_JJ with_IW my_APPGE friends_NN2 showing_VVG up_RP and_CC watching_VVG me_PPIO1 ,_Y "_Y he_PPHS1 admits_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   38 These days , the whole world shows up for Sandler 's comedy , and the audience always laughs !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   38 These_DD2 days_NNT2 ,_Y the_AT whole_JJ world_NN1 shows_VVZ up_RP for_IF Sandler_NP1_NN1 's_GE comedy_NN1 ,_Y and_CC the_AT audience_NN1 always_RR laughs_VVZ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   39 5 Tricks for Funny Writing * IRONY is when a situation ends differently than expected .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   39 5_MC Tricks_NN2_VVZ for_IF Funny_JJ Writing_NN1 *_FU IRONY_NN1 is_VBZ when_RRQ_CS a_AT1 situation_NN1 ends_VVZ_NN2 differently_RR than_CSN expected_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   40 Unfortunately , Adam Sandler could n't get tickets for his own family to see his latest movie .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   40 Unfortunately_RR ,_Y Adam_NP1 Sandler_NP1_NN1 could_VM n't_XX get_VVI tickets_NN2 for_IF his_APPGE own_DA family_NN1 to_TO see_VVI his_APPGE latest_JJT movie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   41 * SARCASM is a form of verbal irony that mocks a situation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   41 *_FU SARCASM_NN1 is_VBZ a_AT1 form_NN1 of_IO verbal_JJ irony_NN1 that_CST_DD1 mocks_VVZ a_AT1 situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   42 After his car broke down for the 10th time , Adam Sandler said , " At least my car 's reliable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   42 After_CS_II his_APPGE car_NN1 broke_VVD down_RP for_IF the_AT 10th_MD time_NNT1 ,_Y Adam_NP1 Sandler_NP1 said_VVD ,_Y "_Y At_RR21 least_RR22 my_APPGE car_NN1 's_GE_VBZ reliable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   43 " * HYPERBOLE is an exaggeration that ca n't literally be true .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   43 "_Y *_FU HYPERBOLE_NN1_NP1 is_VBZ an_AT1 exaggeration_NN1 that_CST_DD1 ca_VM n't_XX literally_RR be_VBI true_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   44 Kim swore she would stop breathing if she had to wait one more minute to see Adam Sandler 's new movie .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   44 Kim_NP1 swore_VVD she_PPHS1 would_VM stop_VVI breathing_NN1_VVG if_CS_CSW@ she_PPHS1 had_VHD to_TO wait_VVI one_MC1 more_DAR minute_NNT1 to_TO see_VVI Adam_NP1 Sandler_NP1 's_GE new_JJ movie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   45 * PUNS are jokes using similar-sounding words with different meanings or different meanings of .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   45 *_FU PUNS_NN2 are_VBR jokes_NN2 using_VVG similar-sounding_JJ words_NN2 with_IW different_JJ meanings_NN2 or_CC different_JJ meanings_NN2 of_IO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   46 Why did Adam Sandler shoot an arrow ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   46 Why_RRQ did_VDD Adam_NP1 Sandler_NP1 shoot_VVI an_AT1 arrow_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   47 He tried to get a point across .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   47 He_PPHS1 tried_VVD to_TO get_VVI a_AT1 point_NN1 across_RL@_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   48 * PARODY pokes fun at genres or artistic creations by imitating their style .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   48 *_FU PARODY_NN1 pokes_VVZ fun_NN1_JJ at_II genres_NN2 or_CC artistic_JJ creations_NN2 by_II imitating_VVG their_APPGE style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   49 What light through yonder window breaks ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   49 What_DDQ light_VV0@_NN1 through_II_RP@ yonder_DD@ window_NN1 breaks_VVZ_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   50 It is the east , and Adam Sandler is the sun .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   50 It_PPH1 is_VBZ the_AT east_ND1 ,_Y and_CC Adam_NP1 Sandler_NP1_NN1 is_VBZ the_AT sun_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   51 So arise fair sun and make me laugh already .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   51 So_RR arise_VV0 fair_JJ sun_NN1 and_CC make_VV0 me_PPIO1 laugh_NN1@ already_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   52 Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   52 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   53 On a separate sheet of paper , write your own examples for the five literary devices above .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   53 On_II a_AT1 separate_JJ sheet_NN1 of_IO paper_NN1 ,_Y write_VV0 your_APPGE own_DA examples_NN2 for_IF the_AT five_MC literary_JJ devices_NN2 above_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   54 Remember to infuse your writing with as much hilarity as possible !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   54 Remember_VV0 to_TO infuse_VVI your_APPGE writing_NN1 with_IW as_RG much_DA1 hilarity_NN1 as_CSA possible_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   55 Share your writing with a classmate for a true test of your comedic skills .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   55 Share_VV0 your_APPGE writing_NN1 with_IW a_AT1 classmate_NN1 for_IF a_AT1 true_JJ test_NN1 of_IO your_APPGE comedic_JJ skills_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   56 Did you get some laughs ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   56 Did_VDD you_PPY get_VVI some_DD laughs_NN2@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   57 PHOTO ( COLOR ) : Sandler weathers a candy downpour in Bedtime Stories .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   57 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Sandler_NP1_NN1 weathers_VVZ@ a_AT1 candy_NN1 downpour_NN1 in_II Bedtime_NNT1 Stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   58 PHOTO ( COLOR ) : Surf 's up !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   58 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Surf_NN1 's_VBZ up_RP !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   59 Sandler won Choice Comedian at the 2008 Teen Choice Awards .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   59 Sandler_NP1@_NN1 won_VVD Choice_JJ@_NN1 Comedian_NN1@_JJ at_II the_AT 2008_MC Teen_NN1 Choice_NN1 Awards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   60 PHOTO ( COLOR ) : Sandler and Seth Rogen laugh it up in Funny People .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   60 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Sandler_NP1_NN1 and_CC Seth_NP1 Rogen_NP1 laugh_VV0 it_PPH1 up_RP in_II Funny_JJ People_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  A    0   61 By Zach Jones
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080225 COCA  B    0   61 By_II Zach_NP1 Jones_NP1

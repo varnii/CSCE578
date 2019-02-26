@@ -1,0 +1,210 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    0 MY MFA experience was un usual , to say the least .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    0 MY_APPGE MFA_NN1 experience_NN1 was_VBDZ un_FW usual_JJ ,_Y to_TO say_VVI the_AT least_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    1 At the end of my first semester , for example , I shared with my fiction instructor two things : a rejection letter from a literary journal , and a sneak peek at a starred review in Publishers Weekly for my second novel .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    1 At_II the_AT end_NN1 of_IO my_APPGE first_MD semester_NN1 ,_Y for_REX21 example_REX22 ,_Y I_PPIS1 shared_VVD with_IW my_APPGE fiction_NN1 instructor_NN1 two_MC things_NN2 :_Y a_AT1 rejection_NN1 letter_NN1 from_II a_AT1 literary_JJ journal_NN1 ,_Y and_CC a_AT1 sneak_NN1%_VV0 peek_NN1_VV0 at_II a_AT1 starred_JJ% review_NN1 in_II Publishers_NN2 Weekly_JJ_RR@_NN1@ for_IF my_APPGE second_MD novel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    2 I 'd been a freelance writer for more than a decade when I went back to school , but I learned a lot , both from the many great writers ( both students and faculty ) , and from a recurring sense of dj vu .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    2 I_PPIS1 'd_VHD been_VBN a_AT1 freelance_NN1 writer_NN1 for_IF more_DAR than_CSN a_AT1 decade_NNT1 when_RRQ_CS I_PPIS1 went_VVD back_RP to_II school_NN1 ,_Y but_CCB I_PPIS1 learned_VVD a_AT1_RR21@ lot_NN1_RR22 ,_Y both_RR_DB2 from_II the_AT many_DA2 great_JJ writers_NN2 (_Y both_RR students_NN2 and_CC faculty_NN1 )_Y ,_Y and_CC from_II a_AT1 recurring_JJ sense_NN1 of_IO dj_NNU vu_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    3 The struggles of my fellow students reminded me of a whole bunch of stuff I had learned back when I was matriculated in the School of Hard Knocks .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    3 The_AT struggles_NN2 of_IO my_APPGE fellow_JJ_NN1 students_NN2 reminded_VVD_VVN me_PPIO1 of_IO a_AT1 whole_JJ bunch_NN1 of_IO stuff_NN1 I_PPIS1 had_VHD learned_VVN back_RP when_CS_RRQ I_PPIS1 was_VBDZ matriculated_VVN@ in_II the_AT School_NN1 of_IO Hard_JJ Knocks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    4 No MFA program will make you into a writer ; you have to start thinking like a writer from your first day of class .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    4 No_XX MFA_NN1_NP1 program_NN1 will_VM make_VVI you_PPY into_II a_AT1 writer_NN1 ;_Y you_PPY have_VH0 to_TO start_VVI thinking_VVG_NN1 like_II a_AT1 writer_NN1 from_II your_APPGE first_MD day_NNT1 of_IO class_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    5 Here 's what you should do : <p> L : DO read all you can This may sound like silly advice , and yet , lots of students do n't read .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    5 Here_RL 's_VBZ what_DDQ you_PPY should_VM do_VDI :_Y <p>_Y L_ZZ1_NP1@ :_Y DO_VD0 read_VVI all_DB you_PPY can_VM_VV0% This_DD1 may_VM sound_VVI like_II silly_JJ advice_NN1 ,_Y and_CC yet_RR ,_Y lots_PN of_IO students_NN2 do_VD0 n't_XX read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    6 I do n't want to be influenced by others .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    6 I_PPIS1 do_VD0 n't_XX want_VVI to_TO be_VBI influenced_VVN by_II others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    7 " Every writer is influenced by the work of others , and this is a good thing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    7 "_Y Every_AT1 writer_NN1 is_VBZ influenced_VVN by_II the_AT work_NN1 of_IO others_NN2 ,_Y and_CC this_DD1 is_VBZ a_AT1 good_JJ thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    8 Literature , journalism , newer forms such as creative nonfiction--all are part of a series of conversations writers have with one another across generations .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    8 Literature_NN1 ,_Y journalism_NN1 ,_Y newer_JJR forms_NN2 such_II21 as_II22 creative_JJ nonfiction--all_DB are_VBR part_NN1 of_IO a_AT1 series_NN of_IO conversations_NN2 writers_NN2 have_VH0 with_IW one_PPX121 another_PPX122 across_II generations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0    9 <p> " Well " one of the guys I was hanging out with asked me , " what about the first writers ever ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0    9 <p>_Y "_Y Well_RR "_Y one_MC1 of_IO the_AT guys_NN2 I_PPIS1 was_VBDZ hanging_VVG out_RP with_IW asked_VVD me_PPIO1 ,_Y "_Y what_DDQ about_II the_AT first_MD writers_NN2 ever_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   10 They did n't read ; they had nothing to read .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   10 They_PPHS2 did_VDD n't_XX read_VVI ;_Y they_PPHS2 had_VHD nothing_PN1 to_TO read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   11 " They also were n't very good .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   11 "_Y They_PPHS2 also_RR were_VBDR n't_XX very_RG good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   12 The surviving classics of the ancient world came from the oral tradition-the first scribes wrote down the good stuff , and left the junk to vanish .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   12 The_AT surviving_JJ classics_NN2 of_IO the_AT ancient_JJ world_NN1 came_VVD from_II the_AT oral_NN1_JJ tradition-the_AT first_MD scribes_NN2 wrote_VVD down_RP the_AT good_JJ stuff_NN1 ,_Y and_CC left_VVD the_AT junk_NN1 to_TO vanish_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   13 Trying to write without reading is like trying to swim without ever visiting the water .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   13 Trying_VVG to_TO write_VVI without_IW reading_NN1_VVG is_VBZ like_II trying_VVG to_TO swim_VVI without_IW ever_RR visiting_VVG the_AT water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   14 But what should you read ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   14 But_CCB what_DDQ should_VM you_PPY read_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   15 <p> Read what you want to write .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   15 <p>_Y Read_VV0 what_DDQ you_PPY want_VV0 to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   16 You need to keep up with the field .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   16 You_PPY need_VV0 to_TO keep_VVI up_RP with_IW the_AT field_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   17 Your science-fiction tale is going to be instantly obsolete if the last space opera you read was an old Star Trek novelization .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   17 Your_APPGE science-fiction_JJ_NN1 tale_NN1 is_VBZ going_VVGK to_TO be_VBI instantly_RR obsolete_JJ if_CS_CSW@ the_AT last_MD space_NN1 opera_NN1 you_PPY read_VV0_VVD was_VBDZ an_AT1 old_JJ Star_NN1 Trek_NP1_NN1@ novelization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   18 <p> Read faculty publications .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   18 <p>_Y Read_VV0 faculty_NN1 publications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   19 Forget is simpatico with what you want to do .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   19 Forget_VV0 is_VBZ simpatico_NN1 with_IW what_DDQ you_PPY want_VV0 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   20 Find like minds by checking out your professors ' books .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   20 Find_VV0 like_II_JJ@ minds_NN2 by_II checking_VVG out_RP your_APPGE professors_NN2 '_GE books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   21 <p> Read everything else .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   21 <p>_Y Read_VV0 everything_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   22 Read the classics , even if they bore you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   22 Read_VV0 the_AT classics_NN2 ,_Y even_CS21 if_CS22 they_PPHS2 bore_VV0 you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   23 Check out experimental literature , even if it confuses you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   23 Check_VV0 out_RP experimental_JJ literature_NN1 ,_Y even_CS21 if_CS22 it_PPH1 confuses_VVZ you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   24 And read a bunch of paperback novels from the supermarket , even if you think them beneath you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   24 And_CC read_VVD_VV0 a_AT1 bunch_NN1 of_IO paperback_NN1 novels_NN2 from_II the_AT supermarket_NN1 ,_Y even_CS21 if_CS22 you_PPY think_VV0 them_PPHO2 beneath_II_RL@ you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   25 They all have something to teach .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   25 They_PPHS2 all_DB have_VH0 something_PN1 to_TO teach_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   26 <p> And , of course , you need to read the assignments your fellow students hand in for your workshops , which brings me to my next tip ... <p> L : DO leave your ego at the door The writing workshop is designed to do many things .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   26 <p>_Y And_CC ,_Y of_RR21 course_RR22 ,_Y you_PPY need_VV0 to_TO read_VVI the_AT assignments_NN2 your_APPGE fellow_JJ_NN1 students_NN2 hand_VV0%_NN1 in_RP@ for_IF your_APPGE workshops_NN2 ,_Y which_DDQ brings_VVZ me_PPIO1 to_II my_APPGE next_MD tip_NN1 ..._... <p>_Y L_ZZ1_NP1@ :_Y DO_VD0 leave_VVI your_APPGE ego_NN1 at_II the_AT door_NN1 The_AT writing_NN1 workshop_NN1 is_VBZ designed_VVN to_TO do_VDI many_DA2 things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   27 It keeps you writing on a schedule , teaches you how others read and misread your work , and develops your focus and critical ability .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   27 It_PPH1 keeps_VVZ you_PPY writing_VVG on_II_RP@ a_AT1 schedule_NN1 ,_Y teaches_VVZ you_PPY how_RRQ others_NN2 read_VV0_VVN_VVD and_CC misread_VVD_VV0 your_APPGE work_NN1 ,_Y and_CC develops_VVZ your_APPGE focus_NN1 and_CC critical_JJ ability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   28 The success of a writing workshop depends on you , and your ability to keep some distance from the work .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   28 The_AT success_NN1 of_IO a_AT1 writing_NN1 workshop_NN1 depends_VVZ on_II you_PPY ,_Y and_CC your_APPGE ability_NN1 to_TO keep_VVI some_DD distance_NN1 from_II the_AT work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   29 <p> Keep your mouth shut when your work is discussed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   29 <p>_Y Keep_VV0 your_APPGE mouth_NN1 shut_VVN_VVD_VV0 when_CS_RRQ your_APPGE work_NN1 is_VBZ discussed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   30 You wo n't be there to explain to an editor that some the bluebird symbolized in your poem , so it 's futile to defend your work in class .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   30 You_PPY wo_VM n't_XX be_VBI there_RL to_TO explain_VVI to_II an_AT1 editor_NN1 that_CST some_DD the_AT bluebird_NN1 symbolized_VVN_VVD in_II_RP@ your_APPGE poem_NN1 ,_Y so_CS@_RR it_PPH1 's_VBZ futile_JJ to_TO defend_VVI your_APPGE work_NN1 in_II class_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   31 Do n't argue ; do n't complain .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   31 Do_VD0 n't_XX argue_VVI ;_Y do_VD0 n't_XX complain_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   32 You can accept critiques or reject them , but do so in silence .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   32 You_PPY can_VM accept_VVI critiques_NN2 or_CC reject_VV0 them_PPHO2 ,_Y but_CCB do_VDI so_RR in_II_RP@ silence_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   33 <p> Remember that you are not your story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   33 <p>_Y Remember_VV0 that_CST you_PPY are_VBR not_XX your_APPGE story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   34 You are not being critiqued , even if your piece is a memoir , or even if the work came from a deep and secret part of your soul .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   34 You_PPY are_VBR not_XX being_VBG critiqued_VVN@ ,_Y even_CS21 if_CS22 your_APPGE piece_NN1 is_VBZ a_AT1 memoir_NN1 ,_Y or_CC even_CS21 if_CS22 the_AT work_NN1 came_VVD from_II a_AT1 deep_JJ and_CC secret_JJ part_NN1 of_IO your_APPGE soul_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   35 The class is discussing words on a page , not your personality .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   35 The_AT class_NN1 is_VBZ discussing_VVG words_NN2 on_II a_AT1 page_NN1 ,_Y not_XX your_APPGE personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   36 <p> You are not a psychology major .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   36 <p>_Y You_PPY are_VBR not_XX a_AT1 psychology_NN1 major_NN1@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   37 By the same token , you do not have a special insight into your classmates from reading their work .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   37 By_II the_AT same_DA token_NN1_JJ ,_Y you_PPY do_VD0 not_XX have_VHI a_AT1 special_JJ insight_NN1 into_II your_APPGE classmates_NN2 from_II reading_VVG their_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   38 The student who writes from the point of view of a murderer is n't a killer waiting to strike .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   38 The_AT student_NN1 who_PNQS writes_VVZ from_II the_AT point_NN1 of_IO view_NN1 of_IO a_AT1 murderer_NN1 is_VBZ n't_XX a_AT1 killer_NN1 waiting_VVG to_TO strike_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   39 If something gets under your skin , you have probably encountered that rarest of workshop submissions : effective writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   39 If_CS something_PN1 gets_VVZ under_II_RP@ your_APPGE skin_NN1 ,_Y you_PPY have_VH0 probably_RR encountered_VVN that_CST_DD1 rarest_JJT of_IO workshop_NN1 submissions_NN2 :_Y effective_JJ writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   40 <p> You 're in your MFA program not just to read or to talk about writing , but to spend a couple of years actually writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   40 <p>_Y You_PPY 're_VBR in_II your_APPGE MFA_NN1 program_NN1_VV0@ not_XX just_RR to_TO read_VVI or_CC to_TO talk_VVI about_II writing_NN1_VVG ,_Y but_CCB to_TO spend_VVI a_AT1 couple_NN1 of_IO years_NNT2 actually_RR writing_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   41 Keep in mind that work read .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   41 Keep_VV0 in_II_RP@ mind_NN1_VV0 that_CST_DD1 work_NN1 read_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   42 So , keep these tips in mind : <p> L : DO pursue publication I 've met more than a few MFA graduates who had no idea how to submit work for publication .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   42 So_RR ,_Y keep_VV0 these_DD2 tips_NN2 in_II mind_NN1 :_Y <p>_Y L_ZZ1_NP1@ :_Y DO_VD0 pursue_VVI publication_NN1 I_PPIS1 've_VH0 met_VVN more_RRR_DAR than_CSN a_AT1 few_DA2 MFA_NN1_NP1 graduates_NN2 who_PNQS had_VHD no_AT idea_NN1 how_RRQ to_TO submit_VVI work_NN1_VV0 for_IF publication_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   43 Sometimes , professors even tell students to concentrate on their " art " and leave the commerce for after graduation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   43 Sometimes_RT ,_Y professors_NN2 even_RR tell_VV0 students_NN2 to_TO concentrate_VVI on_II_RP@ their_APPGE "_Y art_NN1 "_Y and_CC leave_VV0 the_AT commerce_NN1 for_IF after_II_JJ%_CS graduation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   44 I 'll be blunt : They are wrong .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   44 I_PPIS1 'll_VM be_VBI blunt_JJ :_Y They_PPHS2 are_VBR wrong_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   45 Most writers , historically , learned through years of submitting and collecting rejection slips .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   45 Most_DAT writers_NN2 ,_Y historically_RR ,_Y learned_VVN_VVD through_II years_NNT2 of_IO submitting_VVG_NN1@_JJ@ and_CC collecting_VVG rejection_NN1 slips_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   46 Even the most exquisite piece of literature you 've ever read went through the submission process , by definition .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   46 Even_RR the_AT most_RGT exquisite_JJ piece_NN1 of_IO literature_NN1 you_PPY 've_VH0 ever_RR read_VVN went_VVD through_II the_AT submission_NN1 process_NN1_VV0 ,_Y by_II definition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   47 It had to be published to be read .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   47 It_PPH1 had_VHD to_TO be_VBI published_VVN to_TO be_VBI read_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   48 So , to publish ... <p> Start at the top .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   48 So_RR ,_Y to_TO publish_VVI ..._... <p>_Y Start_VV0_NN1 at_II the_AT top_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   49 Submit your work to the most prestigious , most popular , and best-paying venues first .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   49 Submit_VV0 your_APPGE work_NN1 to_II the_AT most_RGT prestigious_JJ ,_Y most_RGT_DAT popular_JJ ,_Y and_CC best-paying_JJT_NN1 venues_NN2 first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   50 As the rejections roll in , work your way down .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   50 As_II_CSA the_AT rejections_NN2 roll_VV0 in_RP@ ,_Y work_VV0 your_APPGE way_NN1 down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   51 Yes , The Paris Review and Binky Urban will reject you , but all you 'll have lost is stamps and time .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   51 Yes_UH ,_Y The_AT Paris_NP1 Review_NN1_NP1@ and_CC Binky_NP1_JJ Urban_NP1@_JJ will_VM reject_VVI you_PPY ,_Y but_CCB all_DB you_PPY 'll_VM have_VHI lost_VVN is_VBZ stamps_NN2 and_CC time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   52 If you get published , the rewards can be great , unless you settle for some obscure Web zine to your thesis .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   52 If_CS you_PPY get_VV0 published_VVN ,_Y the_AT rewards_NN2 can_VM be_VBI great_JJ ,_Y unless_CS you_PPY settle_VV0 for_IF some_DD obscure_JJ Web_NN1 zine_NN1 to_II your_APPGE thesis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   53 Novels are in greater demand than short-story collections .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   53 Novels_NN2 are_VBR in_II greater_JJR demand_NN1 than_CSN short-story_JJ collections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   54 A bundle of random stories , or a collection entitled Every Poem Since Eighth Grade , probably is n't going to set the publishing industry on fire .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   54 A_AT1 bundle_NN1 of_IO random_JJ stories_NN2 ,_Y or_CC a_AT1 collection_NN1 entitled_VVN Every_AT1 Poem_NN1 Since_CS_II@ Eighth_MD Grade_NN1 ,_Y probably_RR is_VBZ n't_XX going_VVGK to_TO set_VVI the_AT publishing_NN1 industry_NN1 on_II fire_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   55 You have two or three years to write , so get to work early and write something you 'll be able to publish .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   55 You_PPY have_VH0 two_MC or_CC three_MC years_NNT2 to_TO write_VVI ,_Y so_RR get_VV0 to_TO@ work_VVI early_JJ_RR and_CC write_VVI something_PN1 you_PPY 'll_VM be_VBI able_JK to_TO publish_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   56 <p> Do n't publish yourself .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   56 <p>_Y Do_VD0 n't_XX publish_VVI yourself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   57 You wo n't fool anyone who is n't easily fooled by using a self-publishing service or a new small press you just happen to own .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   57 You_PPY wo_VM n't_XX fool_VVI anyone_PN1 who_PNQS is_VBZ n't_XX easily_RR fooled_VVN by_II using_VVG a_AT1 self-publishing_JJ_NN1 service_NN1 or_CC a_AT1 new_JJ small_JJ press_NN1_VV0 you_PPY just_RR happen_VV0 to_TO own_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   58 <p> L : DO meet people " It 's not what you know , it 's who you know " is true , up to a point .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   58 <p>_Y L_ZZ1_NP1@ :_Y DO_VD0 meet_VVI people_NN "_Y It_PPH1 's_VBZ not_XX what_DDQ you_PPY know_VV0 ,_Y it_PPH1 's_VBZ who_PNQS you_PPY know_VV0 "_Y is_VBZ true_JJ ,_Y up_II21 to_II22 a_AT1 point_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   59 Few people have patter so smooth that they can talk themselves into a book deal , but making contacts is crucial .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   59 Few_DA2 people_NN have_VH0 patter_NN1 so_RG_RR smooth_JJ_VV0@ that_CST they_PPHS2 can_VM talk_VVI themselves_PPX2 into_II a_AT1 book_NN1 deal_NN1_VV0 ,_Y but_CCB making_VVG contacts_NN2 is_VBZ crucial_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   60 There are tons of ways to meet people .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   60 There_EX are_VBR tons_NNU2 of_IO ways_NN2 to_TO meet_VVI people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   61 <p> Start a blog and update it regularly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   61 <p>_Y Start_VV0 a_AT1 blog_NN1 and_CC update_VV0 it_PPH1 regularly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   62 You do n't want to publish your own fiction , poetry or formal essays on your blog , but you 'll find that it is a else .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   62 You_PPY do_VD0 n't_XX want_VVI to_TO publish_VVI your_APPGE own_DA fiction_NN1 ,_Y poetry_NN1 or_CC formal_JJ essays_NN2 on_II your_APPGE blog_NN1 ,_Y but_CCB you_PPY 'll_VM find_VVI that_CST it_PPH1 is_VBZ a_RR21@ else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   63 Use your blog as a soapbox , as a place for personal stories , and as an idea generator .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   63 Use_VV0 your_APPGE blog_NN1 as_II_CSA a_AT1 soapbox_NN1 ,_Y as_CSA_II a_AT1 place_NN1 for_IF personal_JJ stories_NN2 ,_Y and_CC as_II_CSA an_AT1 idea_NN1 generator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   64 Get involved in the big conversations going on in the literary blogosphere .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   64 Get_VV0 involved_JJ in_II the_AT big_JJ conversations_NN2 going_VVG on_RP@ in_II the_AT literary_JJ blogosphere_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   65 <p> Attend events , readings and soirees .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   65 <p>_Y Attend_VV0 events_NN2 ,_Y readings_NN2 and_CC soirees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   66 At the very least , you 'll find they 're often a good way to get some free protein in the form of hors d'oeuvres .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   66 At_II the_AT very_RG least_RRT ,_Y you_PPY 'll_VM find_VVI they_PPHS2 're_VBR often_RR a_AT1 good_JJ way_NN1 to_TO get_VVI some_DD free_JJ protein_NN1 in_II the_AT form_NN1 of_IO hors_NN221 d'oeuvres_NN222 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   67 This is a crucial trick for starving writers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   67 This_DD1 is_VBZ a_AT1 crucial_JJ trick_NN1 for_IF starving_JJ writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   68 <p> Write letters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   68 <p>_Y Write_VV0 letters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   69 Famous authors are routinely badgered by kooks , but the not-so-famous are often open to hearing from their readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   69 Famous_JJ authors_NN2 are_VBR routinely_RR badgered_VVN by_II kooks_NN2 ,_Y but_CCB the_AT not-so-famous_JJ are_VBR often_RR open_JJ to_II hearing_VVG_NN1 from_II their_APPGE readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   70 Do n't ask for favors ( like " Please read my work !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   70 Do_VD0 n't_XX ask_VVI for_IF favors_NN2 (_Y like_VV0@_II "_Y Please_RR read_VVD_VV0_VVN my_APPGE work_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   71 " ) out of the blue , but strike up correspondences with some up-and-comers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   71 "_Y )_Y out_II21 of_II22 the_AT blue_JJ_NN1@ ,_Y but_CCB strike_VV0 up_RP correspondences_NN2 with_IW some_DD up-and-comers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   72 You might be surprised what a casual e-mail can lead to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   72 You_PPY might_VM be_VBI surprised_JJ_VVN% what_DDQ a_AT1 casual_JJ e-mail_NN1 can_VM lead_VVI to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   73 <p> L : Some DON'TS Now let 's talk about a few things you should not do if you want to get the most out of your MFA experience : <p> DO N'T find excuses to avoid revising .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   73 <p>_Y L_ZZ1_NP1@ :_Y Some_DD DON'TS_NN2 Now_RT let_VM21 's_VM22 talk_VVI about_II a_AT1 few_DA2 things_NN2 you_PPY should_VM not_XX do_VDI if_CS you_PPY want_VV0 to_TO get_VVI the_AT most_RRT@_RGT out_II21 of_II22 your_APPGE MFA_NN1 experience_NN1_VV0 :_Y <p>_Y DO_VD0 N'T_XX find_VVI excuses_NN2 to_TO avoid_VVI revising_VVG_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   74 Your work will probably generate mixed opinions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   74 Your_APPGE work_NN1 will_VM probably_RR generate_VVI mixed_JJ@ opinions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   75 This is , " Well , half the people like it and half do n't , so I do n't know what to do " as I heard so often in my workshops .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   75 This_DD1 is_VBZ ,_Y "_Y Well_RR ,_Y half_DB the_AT people_NN like_II_VV0@ it_PPH1 and_CC half_DB_RR@ do_VD0 n't_XX ,_Y so_CS@_RR I_PPIS1 do_VD0 n't_XX know_VVI what_DDQ to_TO do_VDI "_Y as_CSA I_PPIS1 heard_VVD so_RG often_RR in_II my_APPGE workshops_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   76 Not one of the confused workshoppers actually listened to the people who recommended changes ; they took the path of least resistance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   76 Not_XX one_MC1 of_IO the_AT confused_JJ workshoppers_NN2 actually_RR listened_VVN_VVD to_II the_AT people_NN who_PNQS recommended_VVD changes_NN2 ;_Y they_PPHS2 took_VVD the_AT path_NN1 of_IO least_DAT resistance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   77 Yes , there will be credible opinions in your workshops , and useless ones ; your job is to be able to tell them apart and act accordingly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   77 Yes_UH ,_Y there_EX will_VM be_VBI credible_JJ opinions_NN2 in_II your_APPGE workshops_NN2 ,_Y and_CC useless_JJ ones_Z' ;_Y your_APPGE job_NN1 is_VBZ to_TO be_VBI able_JK to_TO tell_VVI them_PPHO2 apart_RL and_CC act_VVI accordingly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   78 <p> DO N'T " obey " While revision is crucial , revising simply to comply with instructor taste or , even worse , to make the workshop happy , is ridiculous .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   78 <p>_Y DO_VD0 N'T_XX "_Y obey_VV0 "_Y While_CS revision_NN1 is_VBZ crucial_JJ ,_Y revising_VVG simply_RR to_TO comply_VVI with_IW instructor_NN1 taste_NN1 or_CC ,_Y even_RR worse_JJR_RRR@ ,_Y to_TO make_VVI the_AT workshop_NN1 happy_JJ ,_Y is_VBZ ridiculous_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   79 Revision should have one goal : making your piece the work you want it to be .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   79 Revision_NN1 should_VM have_VHI one_MC1 goal_NN1 :_Y making_VVG your_APPGE piece_NN1 the_AT work_NN1_VV0 you_PPY want_VV0 it_PPH1 to_TO be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   80 <p> DO N'T keep score .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   80 <p>_Y DO_VD0 N'T_XX keep_VVI score_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   81 There 's no way to " win " a workshop .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   81 There_EX 's_VBZ no_AT way_NN1 to_TO "_Y win_VVI "_Y a_AT1 workshop_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   82 There are plenty of workshop superstars who have never published a thing , and an enormous number of writers who did just fine without taking a single writing course .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   82 There_EX are_VBR plenty_PN of_IO workshop_NN1 superstars_NN2 who_PNQS have_VH0 never_RR published_VVN a_AT1 thing_NN1 ,_Y and_CC an_AT1 enormous_JJ number_NN1 of_IO writers_NN2 who_PNQS did_VDD just_RR fine_JJ without_IW taking_VVG a_AT1 single_JJ writing_NN1 course_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   83 The only thing that matters is what 's on the page once .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   83 The_AT only_JJ thing_NN1 that_CST matters_NN2_VVZ@ is_VBZ what_DDQ 's_VBZ on_II the_AT page_NN1 once_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   84 <p> DO N'T " have experiences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   84 <p>_Y DO_VD0 N'T_XX "_Y have_VH0 experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   85 " Of course you should live life , but do n't jump out of an airplane or sleep with strangers or move to Tanzania just to have something to write about .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   85 "_Y Of_RR21 course_RR22 you_PPY should_VM live_VVI life_NN1 ,_Y but_CCB do_VD0 n't_XX jump_VVI out_II21 of_II22 an_AT1 airplane_NN1 or_CC sleep_VV0_NN1 with_IW strangers_NN2 or_CC move_VV0_NN1 to_II Tanzania_NP1 just_RR to_TO have_VHI something_PN1 to_TO write_VVI about_II ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   86 If you have something to say , you 'll learn to articulate it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   86 If_CS you_PPY have_VH0 something_PN1 to_TO say_VVI ,_Y you_PPY 'll_VM learn_VVI to_TO articulate_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   87 If not , all the wacky adventures in the world wo n't make you more interesting .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   87 If_CS not_XX ,_Y all_DB the_AT wacky_JJ adventures_NN2 in_II the_AT world_NN1 wo_VM n't_XX make_VVI you_PPY more_RGR_RRR interesting_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   88 Recall , whatever does n't kill you will only make you seem desperate .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   88 Recall_VV0 ,_Y whatever_DDQV does_VDZ n't_XX kill_VVI you_PPY will_VM only_RR make_VVI you_PPY seem_VVI desperate_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   89 <p> DO N'T think your degree means anything .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   89 <p>_Y DO_VD0 N'T_XX think_VVI your_APPGE degree_NN1 means_VVZ anything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   90 An MFA degree and two bucks will get you a ride on the subway .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   90 An_AT1 MFA_NN1 degree_NN1 and_CC two_MC bucks_NN2 will_VM get_VVI you_PPY a_AT1 ride_NN1 on_II the_AT subway_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   91 A credential does n't mean you 're a writer , and it does n't mean that agents and editors are dying to hear from you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   91 A_AT1_ZZ1 credential_NN% does_VDZ n't_XX mean_VVI you_PPY 're_VBR a_AT1 writer_NN1 ,_Y and_CC it_PPH1 does_VDZ n't_XX mean_VVI that_CST agents_NN2 and_CC editors_NN2 are_VBR dying_VVG_JJ to_TO hear_VVI from_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   92 It 's the words that matter , not just three letters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   92 It_PPH1 's_VBZ the_AT words_NN2 that_CST_DD1 matter_VV0_NN1 ,_Y not_XX just_RR three_MC letters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   93 Make every word count .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   93 Make_VV0 every_AT1 word_NN1 count_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   94 <p> By Nick Mamatas <p> Nick Mamatas is the author of two novels and many short stories , essays and articles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   94 <p>_Y By_II Nick_NP1 Mamatas_NP2 <p>_Y Nick_NP1 Mamatas_NP2 is_VBZ the_AT author_NN1 of_IO two_MC novels_NN2 and_CC many_DA2 short_JJ stories_NN2 ,_Y essays_NN2 and_CC articles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   95 Forthcoming are a short-story collection , You Might Sleep ... , and Haunted Legends , on ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   95 Forthcoming_JJ are_VBR a_AT1 short-story_JJ_NN1 collection_NN1 ,_Y You_PPY Might_VM Sleep_VV0_NN1 ..._... ,_Y and_CC Haunted_JJ Legends_NN2 ,_Y on_II )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   96 <p> <p> MORE ON MAKING THE MOST OF ' LOW-RES ' MFAS MOST OF the advice I 've provided in the main article works for low-residency MFA programs as well as for on-campus learning , but here are a few more tips for those writing from home : <p> Learn to use your computer : Many low-res programs use distance-learning software and e-mail .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   96 <p>_Y <p>_Y MORE_RRR_DAR ON_II MAKING_VVG THE_AT MOST_DAT OF_IO '_GE LOW-RES_NN1 '_GE MFAS_NN2 MOST_DAT OF_IO the_AT advice_NN1 I_PPIS1 've_VH0 provided_VVN in_II the_AT main_JJ article_NN1 works_VVZ_NN for_IF low-residency_JJ_NN1 MFA_NN1 programs_NN2 as_RG_II31 well_RR_II32 as_CSA_II33 for_IF on-campus_JJ_NN1 learning_NN1 ,_Y but_CCB here_RL are_VBR a_AT1 few_DA2 more_DAR tips_NN2 for_IF those_DD2 writing_VVG from_II home_NN1 :_Y <p>_Y Learn_VV0 to_TO use_VVI your_APPGE computer_NN1 :_Y Many_DA2 low-res_NN2 programs_NN2 use_VV0 distance-learning_JJ_NN1 software_NN1 and_CC e-mail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   97 In my program we had a student show up in the " virtual classroom " halfway through the semester because she could n't figure out how to log in .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   97 In_II my_APPGE program_NN1 we_PPIS2 had_VHD a_AT1 student_NN1 show_VV0_NN1 up_RP in_II the_AT "_Y virtual_JJ classroom_NN1 "_Y halfway_RR_JJ through_II the_AT semester_NN1 because_CS she_PPHS1 could_VM n't_XX figure_VVI out_RP how_RRQ to_TO log_VVI in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   98 That 's like spending weeks wandering around campus , looking for the right building .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   98 That_DD1 's_VBZ like_JJ@_II spending_NN1_JJ@_VVG weeks_NNT2 wandering_VVG around_II_RP campus_NN1 ,_Y looking_VVG for_IF the_AT right_JJ_NN1 building_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0   99 <p> Teach : Few low-ms programs offer teaching assistantships , but teaching experience is vital for an academic position .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0   99 <p>_Y Teach_VV0 :_Y Few_DA2 low-ms_JJ programs_NN2 offer_VV0 teaching_VVG_NN1 assistantships_NN2 ,_Y but_CCB teaching_VVG_NN1 experience_NN1 is_VBZ vital_JJ for_IF an_AT1 academic_JJ position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0  100 Hit the community colleges , continuing-education programs , and adult and child literacy programs to get some experience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0  100 Hit_VV0@_VVD_VVN the_AT community_NN1 colleges_NN2 ,_Y continuing-education_JJ_NN1 programs_NN2 ,_Y and_CC adult_NN1_JJ@ and_CC child_NN1 literacy_NN1 programs_NN2 to_TO get_VVI some_DD experience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0  101 <p> Make time : Traditional MFA programs are a two-year break from life in which to write .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0  101 <p>_Y Make_VV0 time_NNT1 :_Y Traditional_JJ MFA_NN1 programs_NN2 are_VBR a_AT1 two-year_JJ break_NN1 from_II life_NN1 in_II which_DDQ to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0  102 Low-res programs are about finding spare moments to write while living .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0  102 Low-res_NN2 programs_NN2 are_VBR about_II finding_VVG spare_JJ moments_NN2 to_TO write_VVI while_CS living_VVG_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0  103 Set aside time every day to catch up on correspondence , your deadline-intensive writing career .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0  103 Set_VV0 aside_RL time_VV0%_NNT1 every_AT1 day_NNT1 to_TO catch_VVI up_RP on_II correspondence_NN1 ,_Y your_APPGE deadline-intensive_JJ writing_NN1 career_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  A    0  104 <p> -N.M.
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071180 COCA  B    0  104 <p>_Y -N.M._NP1

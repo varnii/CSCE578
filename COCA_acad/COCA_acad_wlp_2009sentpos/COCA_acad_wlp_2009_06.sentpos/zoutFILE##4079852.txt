@@ -1,0 +1,1032 @@
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    0 Cell division is necessary to the building of a soma from the single-celled zygote during development , as well as the sine qua non , in the form of meiosis , for the evolutionary success of species .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    0 Cell_NN1 division_NN1 is_VBZ necessary_JJ to_II the_AT building_NN1 of_IO a_AT1 soma_NN1 from_II the_AT single-celled_JJ zygote_NN1 during_II development_NN1 ,_Y as_II31 well_II32 as_II33 the_AT sine_NN131 qua_NN132 non_NN133 ,_Y in_II the_AT form_NN1 of_IO meiosis_NN1 ,_Y for_IF the_AT evolutionary_JJ success_NN1 of_IO species_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    1 Here we review recent progress in our understanding of a key player , the kinetochore , in these processes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    1 Here_RL we_PPIS2 review_VV0 recent_JJ progress_NN1 in_II our_APPGE understanding_NN1 of_IO a_AT1 key_JJ player_NN1 ,_Y the_AT kinetochore_NN1 ,_Y in_II these_DD2 processes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    2 The kinetochore is both the anchor to the mitotic spindle for chromosomes at division and the motor for distribution of chromosomal units to daughter cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    2 The_AT kinetochore_NN1 is_VBZ both_RR the_AT anchor_NN1 to_II the_AT mitotic_JJ spindle_NN1 for_IF chromosomes_NN2 at_II division_NN1 and_CC the_AT motor_NN1 for_IF distribution_NN1 of_IO chromosomal_JJ units_NN2 to_II daughter_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    3 In addition , the kinetochore plays a key role in the molecular checkpoints of cell-cycle progression .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    3 In_RR21 addition_RR22 ,_Y the_AT kinetochore_NN1 plays_VVZ a_AT1 key_JJ role_NN1 in_II the_AT molecular_JJ checkpoints_NN2 of_IO cell-cycle_JJ_NN1 progression_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    4 Although the nucleation of the kinetochore at a chromosomal site is under epigenetic control , the underlying base sequence of the DNA at the centromere is not critical : The assembly of the kinetochore occurs at exactly the same place on the same chromosomes at every division cycle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    4 Although_CS the_AT nucleation_NN1 of_IO the_AT kinetochore_NN1 at_II a_AT1 chromosomal_JJ site_NN1 is_VBZ under_RG@_II epigenetic_JJ control_NN1 ,_Y the_AT underlying_JJ base_NN1 sequence_NN1 of_IO the_AT DNA_NN1 at_II the_AT centromere_NN1 is_VBZ not_XX critical_JJ :_Y The_AT assembly_NN1 of_IO the_AT kinetochore_NN1 occurs_VVZ at_II exactly_RR the_AT same_DA place_NN1 on_II the_AT same_DA chromosomes_NN2 at_II every_AT1 division_NN1 cycle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    5 We discuss recent advances in our understanding of how the kinetochore is organized and assembled , as well as how it contributes to critical cell-cycle checkpoints and to chromosome movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    5 We_PPIS2 discuss_VV0 recent_JJ advances_NN2 in_II our_APPGE understanding_NN1 of_IO how_RRQ the_AT kinetochore_NN1 is_VBZ organized_VVN and_CC assembled_VVN ,_Y as_II31 well_II32 as_II33 how_RRQ it_PPH1 contributes_VVZ to_II critical_JJ cell-cycle_JJ_NN1 checkpoints_NN2_VVZ and_CC to_II chromosome_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    6 Keywords : kinetochore ; molecular methods ; cornerstone of evolutionary success in higher organisms : It provides for a body , the soma , and for the gametes necessary to produce the next generation .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    6 Keywords_NN2 :_Y kinetochore_VV0_NN1 ;_Y molecular_JJ methods_NN2 ;_Y cornerstone_NN1 of_IO evolutionary_JJ success_NN1 in_II higher_JJR organisms_NN2 :_Y It_PPH1 provides_VVZ for_IF a_AT1 body_NN1 ,_Y the_AT soma_NN1 ,_Y and_CC for_IF the_AT gametes_NN2 necessary_JJ to_TO produce_VVI the_AT next_MD generation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    7 In this review , we focus on a critical component of karyokinesis , the partitioning of the genome contained in the nucleus .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    7 In_II this_DD1 review_NN1 ,_Y we_PPIS2 focus_VV0 on_II_RP@ a_AT1 critical_JJ component_NN1 of_IO karyokinesis_NN1 ,_Y the_AT partitioning_NN1 of_IO the_AT genome_NN1 contained_VVN_VVD in_II the_AT nucleus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    8 This is accomplished by the mitotic spindle , a highly conserved feature of karyokinesis in the cells of multitudes of organisms that have been examined by light or electron microscopy .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    8 This_DD1 is_VBZ accomplished_VVN by_II the_AT mitotic_JJ spindle_NN1 ,_Y a_AT1 highly_RR conserved_JJ@_VVD feature_NN1 of_IO karyokinesis_NN1 in_II the_AT cells_NN2 of_IO multitudes_NN2 of_IO organisms_NN2 that_CST have_VH0 been_VBN examined_VVN by_II light_NN1_JJ or_CC electron_NN1 microscopy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0    9 After 125 years of study , we know much about the " mitotic machine , " but as we hope to demonstrate here , much remains to be discovered .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0    9 After_II_CS 125_MC years_NNT2 of_IO study_NN1 ,_Y we_PPIS2 know_VV0 much_RR_DA1 about_II the_AT "_Y mitotic_JJ machine_NN1 ,_Y "_Y but_CCB as_CSA we_PPIS2 hope_VV0 to_TO demonstrate_VVI here_RL ,_Y much_RR remains_VVZ to_TO be_VBI discovered_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   10 To the continual bafflement of many , both the terms " centromere " and " kinetochore " are used for , variously , the constriction in chromosomes that marks the location of spindle attachment , the underlying DNA base sequence at this site , the heterochromatin observable at this location in many organisms , and the multiprotein complex that provides attachment to the spindle and the motor molecules that move the chromosomes at anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   10 To_II the_AT continual_JJ bafflement_NN1 of_IO many_DA2 ,_Y both_DB2_RR the_AT terms_NN2 "_Y centromere_NN1 "_Y and_CC "_Y kinetochore_NN1_VV0 "_Y are_VBR used_VVN for_IF ,_Y variously_RR ,_Y the_AT constriction_NN1 in_II chromosomes_NN2 that_CST_DD1 marks_VVZ@ the_AT location_NN1 of_IO spindle_NN1 attachment_NN1 ,_Y the_AT underlying_JJ DNA_NN1 base_NN1 sequence_NN1 at_II this_DD1 site_NN1 ,_Y the_AT heterochromatin_NN1 observable_JJ at_II this_DD1 location_NN1 in_II many_DA2 organisms_NN2 ,_Y and_CC the_AT multiprotein_NN1 complex_NN1_JJ that_CST_DD1 provides_VVZ attachment_NN1 to_II the_AT spindle_NN1 and_CC the_AT motor_NN1 molecules_NN2 that_CST move_VV0 the_AT chromosomes_NN2 at_II anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   11 To be clear , at the primary constriction on chromosomes ( Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   11 To_TO be_VBI clear_JJ ,_Y at_II the_AT primary_JJ_NN1 constriction_NN1 on_II chromosomes_NN2 (_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   12 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   12 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   13 When we use the term " centromere , " we mean the underlying base sequence at this site , and we are aware , of the irony that this structure ( by definition ) can not be seen in the light microscope ( Earnshaw 1991 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   13 When_CS_RRQ we_PPIS2 use_VV0 the_AT term_NN1 "_Y centromere_NN1 ,_Y "_Y we_PPIS2 mean_VV0 the_AT underlying_JJ base_NN1 sequence_NN1 at_II this_DD1 site_NN1 ,_Y and_CC we_PPIS2 are_VBR aware_JJ ,_Y of_IO the_AT irony_NN1 that_CST this_DD1 structure_NN1 (_Y by_II definition_NN1 )_Y can_VM not_XX be_VBI seen_VVN in_II the_AT light_JJ_NN1 microscope_NN1 (_Y Earnshaw_NP1_VV0_NN1 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   14 The kinetochore is a multiprotein chromatin complex at which the forces of mitosis work to congress , and later to separate , chromosomes into daughter cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   14 The_AT kinetochore_NN1 is_VBZ a_AT1 multiprotein_NN1 chromatin_NN1 complex_NN1 at_II which_DDQ the_AT forces_NN2 of_IO mitosis_NN1 work_NN1_VV0 to_II congress_NN1 ,_Y and_CC later_RRR_JJR to_TO separate_VVI ,_Y chromosomes_NN2 into_II daughter_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   15 We will treat the meiotic and mitotic kinetochore identically , specifying only when it is relevant , because a significant difference between the two has never been observed .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   15 We_PPIS2 will_VM treat_VVI the_AT meiotic_JJ_NN1@ and_CC mitotic_JJ kinetochore_NN1 identically_RR ,_Y specifying_VVG only_RR_JJ when_CS_RRQ it_PPH1 is_VBZ relevant_JJ ,_Y because_CS a_AT1 significant_JJ difference_NN1 between_II the_AT two_MC has_VHZ never_RR been_VBN observed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   16 However , it is worth keeping in mind that the back-to-back orientation of sister kinetochores at mitosis and at meiosis II is rearranged to the side-by-side arrangement seen in meiosis I cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   16 However_RR ,_Y it_PPH1 is_VBZ worth_II keeping_VVG in_II_RP@ mind_NN1 that_CST the_AT back-to-back_JJ_NN1 orientation_NN1 of_IO sister_NN1 kinetochores_VVZ_NN2 at_II mitosis_NN1 and_CC at_II meiosis_NN1 II_MC is_VBZ rearranged_VVN to_II the_AT side-by-side_RR arrangement_NN1 seen_VVN in_II meiosis_NN1 I_ZZ1%_MC1% cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   17 Further , the accurate separation of homologues ( reduction ) depends on this rearrangement ( figure 1 ; Nicklas 1986 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   17 Further_RRR_JJR ,_Y the_AT accurate_JJ separation_NN1 of_IO homologues_NN2 (_Y reduction_NN1 )_Y depends_VVZ on_II this_DD1 rearrangement_NN1 (_Y figure_NN1_VV0@ 1_MC1 ;_Y Nicklas_NN2@ 1986_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   18 Kinetochore structure and function have been well studied and many reviews are available ( e.g. , Rieder 1982 , and Sunkel 2004 , Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   18 Kinetochore_VV0_NN1 structure_NN1 and_CC function_NN1 have_VH0 been_VBN well_RR studied_VVN_VVD and_CC many_DA2 reviews_NN2 are_VBR available_JJ (_Y e.g._REX ,_Y Rieder_JJR_NP1@_VV0@ 1982_MC ,_Y and_CC Sunkel_NP1 2004_MC ,_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   19 2005 , Carroll and Straight 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   19 2005_MC ,_Y Carroll_NP1 and_CC Straight_RR_JJ 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   20 Therefore , our presentation will not be comprehensive .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   20 Therefore_RR ,_Y our_APPGE presentation_NN1 will_VM not_XX be_VBI comprehensive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   21 Instead , we will detail how traditional microscopy and modern molecular techniques have merged to produce new insight into kinetochore structure and function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   21 Instead_RR ,_Y we_PPIS2 will_VM detail_VVI how_RGQ@_RRQ traditional_JJ microscopy_NN1 and_CC modern_JJ molecular_JJ techniques_NN2 have_VH0 merged_VVN to_TO produce_VVI new_JJ insight_NN1 into_II kinetochore_NN1 structure_NN1 and_CC function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   22 Figure 1 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   22 Figure_VV0@_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   23 ( a ) Structure of the vertebrate kinetochore at the light ( left ) and electron ( right ) microscope levels .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   23 (_Y a_ZZ1 )_Y Structure_NN1 of_IO the_AT vertebrate_JJ kinetochore_NN1 at_II the_AT light_NN1_JJ (_Y left_JJ_VVN_NN1@ )_Y and_CC electron_NN1 (_Y right_RR_NN1_JJ )_Y microscope_NN1 levels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   24 The centromere region is shown by virtue of binding to antibodies specific for kinetochore proteins .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   24 The_AT centromere_NN1 region_NN1 is_VBZ shown_VVN by_II virtue_NN1 of_IO binding_VVG_JJ to_II antibodies_NN2 specific_JJ for_IF kinetochore_NN1 proteins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   25 The two sister kinetochores have back-to-back orientation and are attached to the outer aspect of the chromatid. ( b ) The kinetochore has a trilaminar structure with outer and inner electron-opaque layers and a middle electron-translucent layer .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   25 The_AT two_MC sister_NN1 kinetochores_NN2 have_VH0 back-to-back_JJ orientation_NN1 and_CC are_VBR attached_VVN to_II the_AT outer_JJ aspect_NN1 of_IO the_AT chromatid._NNU (_Y b_ZZ1 )_Y The_AT kinetochore_NN1 has_VHZ a_AT1 trilaminar_JJ_NN1 structure_NN1 with_IW outer_JJ and_CC inner_JJ electron-opaque_JJ layers_NN2 and_CC a_AT1 middle_JJ electron-translucent_JJ layer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   26 The outer lamina binds spindle micro tubules during prometaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   26 The_AT outer_JJ lamina_NN1 binds_VVZ_NN2@ spindle_NN1_VV0 micro_NN1 tubules_VVZ_NN2 during_II prometaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   27 Rearranged from figure 17-36 in Alberts and colleagues ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   27 Rearranged_VVN_VVD from_II figure_NN1 17-36_MCMC in_II Alberts_NP2 and_CC colleagues_NN2 (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   28 The history of kinetochore research : Light microscopy The light microscope was the first , and arguably is the most significant , tool in the study of cellular division .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   28 The_AT history_NN1 of_IO kinetochore_NN1 research_NN1 :_Y Light_JJ microscopy_NN1 The_AT light_JJ_NN1 microscope_NN1 was_VBDZ the_AT first_MD ,_Y and_CC arguably_RR is_VBZ the_AT most_RGT significant_JJ ,_Y tool_NN1 in_II the_AT study_NN1 of_IO cellular_JJ division_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   29 Images of mitosis in living cells have illuminated the basic mechanisms , kinetochore attachment to spindle poles by fibers ( later known to be microtubules constructed from tubulin polymers ) , condensation of genetic material into chromosomes , congression of chromatids , and the separation of sister chromatids in anaphase ( Mitchison and Salmon 2001 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   29 Images_NN2 of_IO mitosis_NN1 in_II living_JJ_VVG_NN1 cells_NN2 have_VH0 illuminated_VVN the_AT basic_JJ mechanisms_NN2 ,_Y kinetochore_VV0_NN1 attachment_NN1 to_TO spindle_VVI poles_NN2 by_II fibers_NN2 (_Y later_RRR known_VVN to_TO be_VBI microtubules_NN2 constructed_VVN from_II tubulin_NN1 polymers_NN2 )_Y ,_Y condensation_NN1 of_IO genetic_JJ material_NN1 into_II chromosomes_NN2 ,_Y congression_NN1 of_IO chromatids_NN2 ,_Y and_CC the_AT separation_NN1 of_IO sister_NN1 chromatids_NN2 in_II anaphase_NN1 (_Y Mitchison_NP1 and_CC Salmon_NN_NP1@ 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   30 With the advent of chromosome banding , centromeric heterochromatin became observable .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   30 With_IW the_AT advent_NN1 of_IO chromosome_NN1 banding_NN1 ,_Y centromeric_JJ heterochromatin_NN1 became_VVD observable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   31 Heterochromatin ( as opposed to euchromatin ) is highly condensed , which makes it bind firmly to certain dye molecules ( Mitchison and Salmon 2001 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   31 Heterochromatin_NP1@_NN1 (_Y as_II31 opposed_II32 to_II33 euchromatin_NN1 )_Y is_VBZ highly_RR condensed_VVN_VVD_JJ ,_Y which_DDQ makes_VVZ it_PPH1 bind_VVI firmly_RR to_II certain_JJ dye_NN1 molecules_NN2 (_Y Mitchison_NP1 and_CC Salmon_NN_NP1@ 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   32 Chromosome banding techniques use a variety of treatments and stains to produce patterns of differentiation on the chromosome .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   32 Chromosome_NN1 banding_NN1 techniques_NN2 use_VV0 a_AT1 variety_NN1 of_IO treatments_NN2 and_CC stains_VVZ_NN2 to_TO produce_VVI patterns_NN2 of_IO differentiation_NN1 on_II the_AT chromosome_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   33 These patterns allowed for identification and early homology studies ( Sumner et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   33 These_DD2 patterns_NN2 allowed_VVN_VVD for_IF identification_NN1 and_CC early_JJ homology_NN1 studies_NN2 (_Y Sumner_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   34 1971 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   34 1971_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   35 One technique , C-banding , allows Giemsa stain binding for visualization of heterochromatic regions , which can be found near most kinetochores .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   35 One_MC1 technique_NN1 ,_Y C-banding_NN1_JJ ,_Y allows_VVZ Giemsa_NP1 stain_NN1_VV0 binding_VVG_JJ for_IF visualization_NN1 of_IO heterochromatic_JJ regions_NN2 ,_Y which_DDQ can_VM be_VBI found_VVN near_II most_DAT kinetochores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   36 C-banding was observed first in the light microscope , and then in the transmission electron microscope ( TEM ; Jack et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   36 C-banding_NN1 was_VBDZ observed_VVN first_MD in_II the_AT light_JJ_NN1 microscope_NN1 ,_Y and_CC then_RT in_II the_AT transmission_NN1 electron_NN1 microscope_NN1 (_Y TEM_NP1_VV0_NN1 ;_Y Jack_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   37 1985 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   37 1985_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   38 In addition to observation , light microscopy has been useful for elucidation of the physical properties of kinetochores .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   38 In_II31 addition_II32 to_II33 observation_NN1 ,_Y light_JJ_NN1 microscopy_NN1 has_VHZ been_VBN useful_JJ for_IF elucidation_NN1 of_IO the_AT physical_JJ properties_NN2 of_IO kinetochores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   39 Micromanipulation studies When chromosomes in live cells were pulled with a micromanipulation needle , the kinetochore was stretched , but it remained attached to microtubules ( Nicklas et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   39 Micromanipulation_NN1_NP1@ studies_NN2 When_RRQ_CS chromosomes_NN2 in_II live_JJ cells_NN2 were_VBDR pulled_VVN with_IW a_AT1 micromanipulation_NN1 needle_NN1 ,_Y the_AT kinetochore_NN1 was_VBDZ stretched_VVN ,_Y but_CCB it_PPH1 remained_VVD attached_VVN to_II microtubules_NN2 (_Y Nicklas_NN2@ et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   40 1982 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   40 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   41 A combination of light microscopy , the TEM , and micromanipulation allowed Nicklas and colleagues ( 1982 ) to pull chromosomes out of the spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   41 A_AT1 combination_NN1 of_IO light_JJ_NN1 microscopy_NN1 ,_Y the_AT TEM_NN1_NP1 ,_Y and_CC micromanipulation_NN1 allowed_VVD Nicklas_NP2_NN2@ and_CC colleagues_NN2 (_Y 1982_MC )_Y to_TO pull_VVI chromosomes_NN2 out_II21 of_II22 the_AT spindle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   42 They found that after being removed , chromosomes reattached and moved back into the spindle , where they were reoriented .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   42 They_PPHS2 found_VVD that_CST after_II being_VBG removed_VVN ,_Y chromosomes_NN2 reattached_VVD_VVN@ and_CC moved_VVN back_RP into_II the_AT spindle_NN1 ,_Y where_CS_RRQ they_PPHS2 were_VBDR reoriented_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   43 Light microscopy was one of the earliest tools used in kinetochore research and it remains one of the most powerful , especially with the advent of the laser scanning confocal microscope , which can produce a three-dimensional image .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   43 Light_JJ_NN1 microscopy_NN1 was_VBDZ one_MC1 of_IO the_AT earliest_JJT tools_NN2 used_VVN_VVD in_II kinetochore_NN1 research_NN1 and_CC it_PPH1 remains_VVZ one_MC1 of_IO the_AT most_RGT powerful_JJ ,_Y especially_RR with_IW the_AT advent_NN1 of_IO the_AT laser_NN1 scanning_VVG confocal_JJ microscope_NN1 ,_Y which_DDQ can_VM produce_VVI a_AT1 three-dimensional_JJ image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   44 A powerful addition : Transmission electron microscopy Transmission electron microscopy is an important tool in determining kinetochore structure , given the size of the structure ( roughly 1 to 2 micrometers him in diameter ; Brinkley and Stubblefield 1966 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   44 A_AT1_ZZ1 powerful_JJ addition_NN1 :_Y Transmission_NN1 electron_NN1 microscopy_NN1 Transmission_NN1 electron_NN1 microscopy_NN1 is_VBZ an_AT1 important_JJ tool_NN1 in_II determining_JJ_VVG kinetochore_NN1 structure_NN1 ,_Y given_VVN the_AT size_NN1 of_IO the_AT structure_NN1 (_Y roughly_RR 1_MC1 to_II 2_MC micrometers_NN2 him_PPHO1 in_II diameter_NN1 ;_Y Brinkley_NP1 and_CC Stubblefield_NP1 1966_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   45 Use of the TEM allowed for the elucidation of the trilaminar structure of the kinetochore ( figure 1 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   45 Use_NN1_VV0 of_IO the_AT TEM_NN1_NP1 allowed_VVN_VVD for_IF the_AT elucidation_NN1 of_IO the_AT trilaminar_JJ_NN1 structure_NN1 of_IO the_AT kinetochore_NN1 (_Y figure_NN1_VV0@ 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   46 The kinetochore has a coarsely granular inner plate that is 20 to 40 30 to 40 nm wide , composed of fibrillar components ; and a middle zone , 15 to 35 nm wide , made of loosely organized fibrillar material that appears electron-translucent in the TEM ( McEwen et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   46 The_AT kinetochore_NN1 has_VHZ a_AT1 coarsely_RR granular_JJ inner_JJ plate_NN1 that_CST_DD1 is_VBZ 20_MC to_II 40_MC 30_MC to_II 40_MC nm_FU wide_JJ_RR@ ,_Y composed_VVD_VVN of_IO fibrillar_JJ components_NN2 ;_Y and_CC a_AT1 middle_JJ_NN1 zone_NN1 ,_Y 15_MC to_II 35_MC nm_FU wide_JJ_RR@ ,_Y made_VVD_VVN of_IO loosely_RR organized_VVN_VVD fibrillar_JJ material_NN1 that_CST_DD1 appears_VVZ electron-translucent_JJ in_II the_AT TEM_NP1_NN1 (_Y McEwen_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   47 1993 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   47 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   48 What appear to be hairlike projections on the outer plate are most conspicuous on kinetochores that have not made contact with microtubules ( Brinkley 1990 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   48 What_DDQ appear_VV0 to_TO be_VBI hairlike_JJ projections_NN2 on_II the_AT outer_JJ plate_NN1 are_VBR most_RGT conspicuous_JJ on_II kinetochores_NN2 that_CST have_VH0 not_XX made_VVN contact_NN1 with_IW microtubules_NN2 (_Y Brinkley_NP1 1990_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   49 This area was termed the " corona " by Jokelainen ( 1967 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   49 This_DD1 area_NN1 was_VBDZ termed_VVN the_AT "_Y corona_NN1 "_Y by_II Jokelainen_NP1 (_Y 1967_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   50 The TEM allowed for accurate measurement of kinetochore size : from 0.4 to 0.6 m in width in PtK ( rat kangaroo ) cells , but as large as 1.45 m in length in Indian muntjac cells ( Earnshaw 1991 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   50 The_AT TEM_NN1_NP1 allowed_VVN_VVD for_IF accurate_JJ measurement_NN1 of_IO kinetochore_NN1 size_NN1 :_Y from_II 0.4_MC to_II 0.6_MC m_NNO@_NNU@ in_II width_NN1 in_II PtK_NP1 (_Y rat_NN1 kangaroo_NN1 )_Y cells_NN2 ,_Y but_CCB as_RG large_JJ as_CSA 1.45_MC m_NNO@_NNU@ in_II length_NN1 in_II Indian_JJ muntjac_NN1 cells_NN2 (_Y Earnshaw_NP1_VV0_NN1 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   51 In prophase , the kinetochore appears to be a ball inserted into a dense cup .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   51 In_II prophase_NN1 ,_Y the_AT kinetochore_NN1 appears_VVZ to_TO be_VBI a_AT1 ball_NN1 inserted_VVN into_II a_AT1 dense_JJ cup_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   52 In vertebrates , kinetochores appear soon after the nuclear envelope breaks down , and the cell enters prometaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   52 In_II vertebrates_NN2 ,_Y kinetochores_NN2 appear_VV0 soon_RR after_II_CS the_AT nuclear_JJ envelope_NN1 breaks_VVZ down_RP ,_Y and_CC the_AT cell_NN1 enters_VVZ prometaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   53 Microtubules connect with kinetochores , and the ball-and-cup structure begins to differentiate into a plate-like structure .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   53 Microtubules_NN2 connect_VV0 with_IW kinetochores_NN2 ,_Y and_CC the_AT ball-and-cup_JJ_NN1 structure_NN1 begins_VVZ to_TO differentiate_VVI into_II a_AT1 plate-like_JJ structure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   54 The corona is then observable until the microtubules bind , after which it is trilaminar plate is apparent .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   54 The_AT corona_NN1 is_VBZ then_RT observable_JJ until_CS_II@ the_AT microtubules_NN2 bind_VV0 ,_Y after_II_CS which_DDQ it_PPH1 is_VBZ trilaminar_JJ_NN1 plate_NN1 is_VBZ apparent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   55 The kinetochore plate remains visible until the nuclear envelop re-forms in telophase ( Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   55 The_AT kinetochore_NN1 plate_NN1 remains_VVZ visible_JJ until_CS_II@ the_AT nuclear_JJ envelop_VV0 re-forms_NN2@_VVZ in_II telophase_NN1 (_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   56 A diverse group of organisms , from diatoms to humans , has kinetochores that are trilaminar in structure , but not all kinetochores fit this description ( Wise 1988 , Brinkley 1990 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   56 A_AT1_ZZ1 diverse_JJ group_NN1 of_IO organisms_NN2 ,_Y from_II diatoms_NN2 to_II humans_NN2 ,_Y has_VHZ kinetochores_NN2 that_CST are_VBR trilaminar_JJ in_II structure_NN1 ,_Y but_CCB not_XX all_DB kinetochores_NN2 fit_VV0 this_DD1 description_NN1 (_Y Wise_NP1 1988_MC ,_Y Brinkley_NP1 1990_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   57 Insects and higher plants have a ball-and-cup kinetochore ( Rufas et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   57 Insects_NN2 and_CC higher_JJR plants_NN2 have_VH0 a_AT1 ball-and-cup_JJ_NN1 kinetochore_NN1 (_Y Rufas_NN2@ et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   58 1994 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   58 1994_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   59 Even so , Maiato and colleagues ( 2006 ) argued that the kinetochores of Drosophila , an insect , are very similar to those of vertebrates .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   59 Even_RR21 so_RR22 ,_Y Maiato_NP1_NN1 and_CC colleagues_NN2 (_Y 2006_MC )_Y argued_VVD that_CST the_AT kinetochores_NN2 of_IO Drosophila_NP1 ,_Y an_AT1 insect_NN1 ,_Y are_VBR very_RG similar_JJ to_II those_DD2 of_IO vertebrates_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   60 Microtubule attachment to kinetochores was first observed in detail using TEM ( Brinkley and Stubblefield 1966 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   60 Microtubule_VV0_NN1 attachment_NN1 to_II kinetochores_NN2 was_VBDZ first_MD observed_VVN_VVD in_II detail_NN1 using_VVG TEM_NP1_NN1 (_Y Brinkley_NP1 and_CC Stubblefield_NP1 1966_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   61 Kinetochore fibers ( K-fibers ) are bundles of microtubules that connect to kinetochores .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   61 Kinetochore_VV0_NN1 fibers_NN2 (_Y K-fibers_NN2 )_Y are_VBR bundles_NN2 of_IO microtubules_NN2 that_CST connect_VV0 to_II kinetochores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   62 There appears to be a rough correlation between evolutionary complexity and the number of kinetochore microtubules .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   62 There_EX appears_VVZ to_TO be_VBI a_AT1 rough_JJ correlation_NN1 between_II evolutionary_JJ complexity_NN1 and_CC the_AT number_NN1 of_IO kinetochore_NN1 microtubules_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   63 The budding yeast , Saccharomyces cerevisiae , has one microtubule attached to the kinetochore , whereas the fission yeast , Schizosaccharomyces pombe , has two to four ; Drosophila melanogaster has four to six ; and mammals have 20 or more seems constant , with an intermicrotubule spacing of 50 to 60 nm ( Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   63 The_AT budding_JJ yeast_NN1 ,_Y Saccharomyces_VVZ@_NP2 cerevisiae_NN2 ,_Y has_VHZ one_MC1 microtubule_NN1 attached_VVN to_II the_AT kinetochore_NN1 ,_Y whereas_CS the_AT fission_NN1 yeast_NN1_VV0 ,_Y Schizosaccharomyces_NP2_NN2@_VVZ@ pombe_VV0_NN1 ,_Y has_VHZ two_MC to_II four_MC ;_Y Drosophila_NP1 melanogaster_NN1 has_VHZ four_MC to_II six_MC ;_Y and_CC mammals_NN2 have_VH0 20_MC or_CC more_DAR seems_VVZ constant_JJ_NN1@ ,_Y with_IW an_AT1 intermicrotubule_NN1 spacing_NN1 of_IO 50_MC to_II 60_MC nm_FU (_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   64 Live-cell light microscope imaging and TEM used in tandem have been successful tools in understanding K-fibers .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   64 Live-cell_JJ_NN1 light_JJ_NN1 microscope_NN1 imaging_NN1_VVG and_CC TEM_NP1_NN1 used_VVD_VVN in_II tandem_NN1 have_VH0 been_VBN successful_JJ tools_NN2 in_II understanding_VVG_NN1_JJ@ K-fibers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   65 McEwen and colleagues ( 1997 ) determined that in PtK cells , the number of microtubules attached to each kinetochore increases from prometaphase to anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   65 McEwen_NP1 and_CC colleagues_NN2 (_Y 1997_MC )_Y determined_VVD@_VVN_JJ that_CST in_II PtK_NP1 cells_NN2 ,_Y the_AT number_NN1 of_IO microtubules_NN2 attached_VVN to_II each_DD1 kinetochore_NN1 increases_VVZ_NN2 from_II prometaphase_NN1 to_II anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   66 This finding indicates that the fibers are more stable in later mitotic stages than in earlier stages ( McEwen et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   66 This_DD1 finding_NN1 indicates_VVZ that_CST the_AT fibers_NN2 are_VBR more_RGR stable_JJ in_II later_JJR mitotic_JJ stages_NN2 than_CSN in_II earlier_JJR stages_NN2 (_Y McEwen_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   67 1997 ) , and leads to the notion of kinetochore maturation , the idea that kinetochores become more stable as mitosis progresses .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   67 1997_MC )_Y ,_Y and_CC leads_VVZ to_II the_AT notion_NN1 of_IO kinetochore_NN1 maturation_NN1 ,_Y the_AT idea_NN1 that_CST kinetochores_NN2 become_VV0 more_RGR_DAR stable_JJ as_CSA_II@ mitosis_NN1 progresses_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   68 Major technological advances such as the discovery of restriction endonucleases , recombinant DNA technology , and advanced confocal laser scanning microscopy have revolutionized the study of mitosis ( Macgregor 1993 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   68 Major_JJ_NP1 technological_JJ advances_NN2 such_II21 as_II22 the_AT discovery_NN1 of_IO restriction_NN1 endonucleases_NN2_VVZ ,_Y recombinant_JJ_NN1 DNA_NN1 technology_NN1 ,_Y and_CC advanced_JJ_VVD confocal_JJ laser_NN1 scanning_VVG_NN1@ microscopy_NN1 have_VH0 revolutionized_VVN the_AT study_NN1 of_IO mitosis_NN1 (_Y Macgregor_NP1 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   69 The merger of modern technology with microscopic techniques has enabled researchers to ask questions that had not been possible before .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   69 The_AT merger_NN1 of_IO modern_JJ technology_NN1 with_IW microscopic_JJ techniques_NN2 has_VHZ enabled_VVN researchers_NN2 to_TO ask_VVI questions_NN2 that_CST had_VHD not_XX been_VBN possible_JJ before_RT ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   70 Here , we detail some of the results relevant to kinetochore structure and function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   70 Here_RL ,_Y we_PPIS2 detail_VV0@ some_DD of_IO the_AT results_NN2 relevant_JJ to_TO kinetochore_VVI structure_NN1 and_CC function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   71 Centromeric DNA Centromeric DNA cloning and sequencing techniques are complex , and will not be detailed sequence to kinetochore and protein function is an important point , and thus is covered briefly ( for a review , see Carroll and Straight 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   71 Centromeric_JJ DNA_NN1 Centromeric_JJ_NP1 DNA_NN1 cloning_NN1 and_CC sequencing_NN1_VVG@ techniques_NN2 are_VBR complex_JJ ,_Y and_CC will_VM not_XX be_VBI detailed_VVN@ sequence_NN1 to_TO kinetochore_VVI and_CC protein_NN1 function_NN1 is_VBZ an_AT1 important_JJ point_NN1 ,_Y and_CC thus_RR is_VBZ covered_VVN briefly_RR (_Y for_IF a_AT1 review_NN1 ,_Y see_VV0 Carroll_NP1 and_CC Straight_RR_JJ 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   72 The kinetochore forms in the same location on each chromosome at each mitotic event .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   72 The_AT kinetochore_NN1 forms_VVZ_NN2 in_II the_AT same_DA location_NN1 on_II each_DD1 chromosome_NN1 at_II each_DD1 mitotic_JJ event_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   73 However , the location is not always determined by the specific DNA sequence .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   73 However_RR ,_Y the_AT location_NN1 is_VBZ not_XX always_RR determined_VVN by_II the_AT specific_JJ DNA_NN1 sequence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   74 In budding yeast , the centromeric sequence is 125 base pairs ( bp ) in length , divided into three domains ( Fitzgerald-Hayes et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   74 In_II budding_JJ yeast_NN1 ,_Y the_AT centromeric_JJ sequence_NN1 is_VBZ 125_MC base_NN1_JJ% pairs_NN2 (_Y bp_NNU )_Y in_II length_NN1 ,_Y divided_VVN_VVD into_II three_MC domains_NN2 (_Y Fitzgerald-Hayes_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   75 1982 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   75 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   76 These sequences are not chromosome specific ; sequences can be switched between chromosomes to no ill effect .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   76 These_DD2 sequences_NN2 are_VBR not_XX chromosome_NN1 specific_JJ_NN1% ;_Y sequences_NN2 can_VM be_VBI switched_VVN between_II chromosomes_NN2 to_II no_AT ill_Z' effect_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   77 Carbon and Clarke ( 1984 ) altered the nucleotide sequence of the DNA surrounding the centromere of yeast chromosome III and found that domains two and three are necessary for normal centromere function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   77 Carbon_NN1 and_CC Clarke_NP1 (_Y 1984_MC )_Y altered_VVD the_AT nucleotide_NN1 sequence_NN1 of_IO the_AT DNA_NN1 surrounding_VVG the_AT centromere_NN1 of_IO yeast_NN1 chromosome_NN1 III_MC and_CC found_VVD_VVN that_CST domains_NN2 two_MC and_CC three_MC are_VBR necessary_JJ for_IF normal_JJ centromere_NN1 function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   78 Therefore , a specific region is required for segregation .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   78 Therefore_RR ,_Y a_AT1 specific_JJ region_NN1 is_VBZ required_VVN for_IF segregation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   79 The fission yeast contains a central nonrepetitive region , flanked by centromere-specific innermost repeats that form the site of kinetochore assembly ( Carroll and Straight 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   79 The_AT fission_NN1 yeast_NN1 contains_VVZ a_AT1 central_JJ nonrepetitive_JJ region_NN1 ,_Y flanked_VVN by_II centromere-specific_JJ innermost_JJ repeats_NN2 that_CST form_VV0 the_AT site_NN1 of_IO kinetochore_NN1 assembly_NN1 (_Y Carroll_NP1 and_CC Straight_RR_JJ 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   80 Surrounding this central domain are long , tandem arrays of outer repeats , common to of 40 to 100 kilobase pairs .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   80 Surrounding_VVG this_DD1 central_JJ domain_NN1 are_VBR long_JJ ,_Y tandem_NN1 arrays_NN2 of_IO outer_JJ repeats_NN2 ,_Y common_JJ to_II of_IO 40_MC to_II 100_MC kilobase_NN1_VV0 pairs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   81 No single DNA sequence is necessary for kinetochore assembly , indicating an epigenetic mechanism .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   81 No_AT single_JJ DNA_NN1 sequence_NN1 is_VBZ necessary_JJ for_IF kinetochore_NN1 assembly_NN1 ,_Y indicating_VVG an_AT1 epigenetic_JJ mechanism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   82 How these factors work is not yet evident .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   82 How_RRQ these_DD2 factors_NN2 work_VV0_NN1 is_VBZ not_XX yet_RR evident_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   83 Centromeres of human chromosomes contain large arrays of tandem repeated 170 bp a-satellite monomers that can span several megabases ( Carroll and Straight 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   83 Centromeres_NN2 of_IO human_JJ_NN1 chromosomes_NN2 contain_VV0 large_JJ arrays_NN2 of_IO tandem_NN1 repeated_VVD_VVN 170_MC bp_NNU a-satellite_NN1 monomers_NN2 that_CST_DD1 can_VM span_VVI several_DA2 megabases_NN2 (_Y Carroll_NP1 and_CC Straight_RR_JJ 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   84 Masumoto and colleagues ( 1989 ) used immunoblots and gel electrophoresis in HeLa cells to show that many of these repeats contain a binding site for a sequence specific protein , CENP-B .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   84 Masumoto_NN1_NP1@ and_CC colleagues_NN2 (_Y 1989_MC )_Y used_JJ_VVD immunoblots_NN2 and_CC gel_NN1_VV0@ electrophoresis_NN1 in_II HeLa_NP1 cells_NN2 to_TO show_VVI that_CST many_DA2 of_IO these_DD2 repeats_NN2 contain_VV0 a_AT1 binding_JJ site_NN1 for_IF a_AT1 sequence_NN1 specific_JJ protein_NN1 ,_Y CENP-B_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   85 Therefore , a-satellite DNA can promote the binding of sequence-specific DNA binding proteins .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   85 Therefore_RR ,_Y a-satellite_NN1 DNA_NN1 can_VM promote_VVI the_AT binding_NN1@_JJ of_IO sequence-specific_JJ DNA_NN1 binding_VVG_JJ proteins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   86 Neocentromeres , at which a new centromere is activated on a noncentromeric region , have been observed in several organisms .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   86 Neocentromeres_NN2_NP1@ ,_Y at_II which_DDQ a_AT1 new_JJ centromere_NN1 is_VBZ activated_VVN on_II a_AT1 noncentromeric_JJ region_NN1 ,_Y have_VH0 been_VBN observed_VVN in_II several_DA2 organisms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   87 Even though some known kinetochore proteins do not bind to these neocentromeres , a functional kinetochore is assembled .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   87 Even_CS21 though_CS22 some_DD known_JJ@ kinetochore_NN1 proteins_NN2 do_VD0 not_XX bind_VVI to_II these_DD2 neocentromeres_NN2 ,_Y a_AT1 functional_JJ kinetochore_NN1 is_VBZ assembled_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   88 Neocentromeres are heritable through many generations , so specific DNA sequences are not necessary for kinetochore assembly , but could be favorable ( Carroll and Straight 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   88 Neocentromeres_NN2 are_VBR heritable_JJ through_II many_DA2 generations_NN2 ,_Y so_RG_RR specific_JJ DNA_NN1 sequences_NN2 are_VBR not_XX necessary_JJ for_IF kinetochore_NN1 assembly_NN1 ,_Y but_CCB could_VM be_VBI favorable_JJ (_Y Carroll_NP1 and_CC Straight_RR_JJ 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   89 The discovery of neocentromeres strengthened the idea that epigenetic factors determine kinetochore placement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   89 The_AT discovery_NN1 of_IO neocentromeres_NN2 strengthened_VVD_VVN the_AT idea_NN1 that_CST_DD1 epigenetic_JJ factors_NN2 determine_VV0 kinetochore_NN1_VV0 placement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   90 Human antikinetochore antibodies Serum that bind specifically to kinetochore proteins ( Moroi et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   90 Human_JJ_NN1 antikinetochore_NN1 antibodies_NN2 Serum_NN1 that_CST bind_VV0 specifically_RR to_TO kinetochore_VVI proteins_NN2 (_Y Moroi_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   91 1980 , Tan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   91 1980_MC ,_Y Tan_NN1_JJ_VV0@ et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   92 1980 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   92 1980_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   93 These antibodies have been localized to kinetochores during mitosis , but also reveal " prekinetochores " present during interphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   93 These_DD2 antibodies_NN2 have_VH0 been_VBN localized_VVN@ to_II kinetochores_NN2 during_II mitosis_NN1 ,_Y but_CCB also_RR reveal_VV0 "_Y prekinetochores_NN2 "_Y present_VV0@_NN1_JJ during_II interphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   94 In early interphase , prekinetochores are single and become doubled in later interphase ( figure 2 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   94 In_II early_JJ interphase_NN1 ,_Y prekinetochores_NN2 are_VBR single_JJ and_CC become_VV0 doubled_VVN in_II later_JJR interphase_NN1 (_Y figure_NN1 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   95 This suggests that there is a presumptive , or preliminary , kinetochore when the chromatin is decondensed .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   95 This_DD1 suggests_VVZ that_CST there_EX is_VBZ a_AT1 presumptive_JJ ,_Y or_CC preliminary_JJ ,_Y kinetochore_VV0_NN1 when_RRQ_CS the_AT chromatin_NN1 is_VBZ decondensed_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   96 However , there is no structural similarity to the mitotic kinetochore , as discrete mitotic kinetochore structure does not appear in interphase in animal cells ( Brenner et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   96 However_RR ,_Y there_EX is_VBZ no_AT structural_JJ similarity_NN1 to_II the_AT mitotic_JJ kinetochore_NN1 ,_Y as_CSA_RG@ discrete_JJ mitotic_JJ kinetochore_NN1 structure_NN1 does_VDZ not_XX appear_VVI in_II_RP@ interphase_NN1 in_II animal_NN1 cells_NN2 (_Y Brenner_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   97 1981 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   97 1981_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   98 CREST staining showed for the first time that kinetochore proteins are present throughout the cell cycle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   98 CREST_NN1 staining_NN1@_VVG showed_VVD for_IF the_AT first_MD time_NNT1 that_CST_DD1 kinetochore_VV0_NN1 proteins_NN2 are_VBR present_JJ throughout_II the_AT cell_NN1 cycle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0   99 Figure 2 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0   99 Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  100 Prekinetochores in Chinese hamster ovary cultured cells revealed by binding to kinetochore-specific antibodies found in human CREST serum .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  100 Prekinetochores_NN2_VVZ in_II Chinese_JJ hamster_NN1 ovary_NN1 cultured_JJ cells_NN2 revealed_VVN by_II binding_VVG to_II kinetochore-specific_JJ antibodies_NN2 found_VVN_VVD in_II human_JJ_NN1 CREST_NN1 serum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  101 ( a ) Single structures in early interphase ; ( b ) double structures in late interphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  101 (_Y a_ZZ1 )_Y Single_JJ structures_NN2 in_II early_JJ_RR interphase_NN1_VV0 ;_Y (_Y b_ZZ1 )_Y double_JJ structures_NN2 in_II late_JJ interphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  102 Magnification approximately 3000X .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  102 Magnification_NN1_NP1@ approximately_RR 3000X_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  103 While the cytology and ultrastructure of kinetochores were relatively well understood before these experiments , little was known about the biochemical .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  103 While_CS the_AT cytology_NN1 and_CC ultrastructure_NN1 of_IO kinetochores_NN2 were_VBDR relatively_RR well_RR understood_VVN_VVD before_II_CS these_DD2 experiments_NN2 ,_Y little_DA1_RR was_VBDZ known_VVN about_II the_AT biochemical_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  104 The use of CREST antiserum to label the kinetochore was responsible for initiating a period of molecular and biochemical experiments that led to discoveries about kinetochore proteins and an understanding of the kinetochore assembly and checkpoint pathways .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  104 The_AT use_NN1 of_IO CREST_NN1 antiserum_NN1 to_TO label_VVI the_AT kinetochore_NN1 was_VBDZ responsible_JJ for_IF initiating_VVG a_AT1 period_NN1 of_IO molecular_JJ and_CC biochemical_JJ experiments_NN2 that_CST led_VVD to_II discoveries_NN2 about_II kinetochore_NN1 proteins_NN2 and_CC an_AT1 understanding_NN1 of_IO the_AT kinetochore_NN1 assembly_NN1 and_CC checkpoint_VV0_NN1 pathways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  105 To date , more than 60 kinetochore proteins have been detected in budding yeast , and more than 100 in vertebrate cells ( figure 3 ; Okada et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  105 To_II date_NN1 ,_Y more_DAR than_CSN 60_MC kinetochore_NN1_VV0 proteins_NN2 have_VH0 been_VBN detected_VVN in_II budding_JJ yeast_NN1 ,_Y and_CC more_DAR than_CSN 100_MC in_II vertebrate_JJ cells_NN2 (_Y figure_NN1 3_MC ;_Y Okada_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  106 2006 , Musacchio and Salmon 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  106 2006_MC ,_Y Musacchio_NP1 and_CC Salmon_NN_NP1@ 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  107 Figure 3 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  107 Figure_NN1 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  108 A diagram of kinetochore structure , including many of the protein complexes known to be involved in metazoan kinetochore structure or function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  108 A_AT1 diagram_NN1 of_IO kinetochore_NN1 structure_NN1 ,_Y including_II_VVG@ many_DA2 of_IO the_AT protein_NN1 complexes_NN2 known_VVN to_TO be_VBI involved_JJ in_II metazoan_JJ_NN1 kinetochore_NN1 structure_NN1 or_CC function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  109 The precipitating event in kinetochore assembly is the binding of the modified histone , CENP-A , to nucleosomes in the centromere region .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  109 The_AT precipitating_JJ@_NN1@ event_NN1 in_II kinetochore_NN1 assembly_NN1 is_VBZ the_AT binding_NN1@_JJ of_IO the_AT modified_JJ histone_NN1 ,_Y CENP-A_NP1_VV0_NN1 ,_Y to_II nucleosomes_NN2 in_II the_AT centromere_NN1 region_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  110 Source : Figure 4 from Musacchio and Salmon ( 2007 ) ; see that article for a full definition of protein acronyms .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  110 Source_NN1 :_Y Figure_NN1 4_MC from_II Musacchio_NP1 and_CC Salmon_NN_NP1@ (_Y 2007_MC )_Y ;_Y see_VV0 that_DD1_CST article_NN1 for_IF a_AT1 full_JJ definition_NN1 of_IO protein_NN1 acronyms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  111 The kinetochore assembly pathway and CENP-A analysis A variety of kinetochore assembly proteins was examined in parallel from the CREST breakthrough , but we will use only one , the centromere-associated protein A ( CENP-A ) , as an example of how protein or pathway .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  111 The_AT kinetochore_NN1 assembly_NN1 pathway_NN1 and_CC CENP-A_NP1_VV0_NN1 analysis_NN1 A_ZZ1_AT1@ variety_NN1 of_IO kinetochore_NN1 assembly_NN1 proteins_NN2 was_VBDZ examined_VVN in_II_RP@ parallel_NN1_JJ_RR from_II the_AT CREST_NN1 breakthrough_NN1 ,_Y but_CCB we_PPIS2 will_VM use_VVI only_RR one_MC1_PN1 ,_Y the_AT centromere-associated_JJ_NN1 protein_NN1 A_ZZ1 (_Y CENP-A_NP1 )_Y ,_Y as_CSA_II an_AT1 example_NN1 of_IO how_RGQ@_RRQ protein_NN1 or_CC pathway_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  112 Earnshaw and Rothfield ( 1985 ) and others ( Valdivia and Brinkley 1985 ) used SDS-PAGE ( sodium dodecyl sulfate polyacrylamide gel electrophoresis ) or fractionation and immunoblots ( Western blots ) to discover several discrete antibodies in CREST serum .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  112 Earnshaw_VV0_NN1_NP1@ and_CC Rothfield_NP1 (_Y 1985_MC )_Y and_CC others_NN2 (_Y Valdivia_NP1 and_CC Brinkley_NP1 1985_MC )_Y used_JJ_VVD SDS-PAGE_NN1_JJ (_Y sodium_NN1 dodecyl_NN1 sulfate_NN1 polyacrylamide_NN1_VV0 gel_NN1 electrophoresis_NN1 )_Y or_CC fractionation_NN1 and_CC immunoblots_NN2 (_Y Western_NP1_JJ blots_VVZ_NN2 )_Y to_TO discover_VVI several_DA2 discrete_JJ antibodies_NN2 in_II CREST_NN1 serum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  113 Using these antibodies , the first centromere-associated proteins ( CENPs ) were identified ( Craig et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  113 Using_VVG these_DD2 antibodies_NN2 ,_Y the_AT first_MD centromere-associated_JJ_NN1 proteins_NN2 (_Y CENPs_NP2_VVZ_NN2 )_Y were_VBDR identified_VVN (_Y Craig_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  114 1999 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  114 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  115 Palmer and colleagues ( 1991 ) used reverse-phase , high-performance liquid chromatography ( HPLC ) to purify CENP-A ( a 17 kD protein identified by Earnshaw and Rothfield 1985 ) from bull spermatozoa , and determined a partial gene sequence .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  115 Palmer_NP1 and_CC colleagues_NN2 (_Y 1991_MC )_Y used_JJ_VVD reverse-phase_NN1_JJ ,_Y high-performance_JJ liquid_JJ_NN1 chromatography_NN1 (_Y HPLC_NP1 )_Y to_TO purify_VVI CENP-A_NP1_NN1 (_Y a_AT1 17_MC kD_NNU protein_NN1 identified_VVN by_II Earnshaw_NP1_NN1 and_CC Rothfield_NP1 1985_MC )_Y from_II bull_NN1 spermatozoa_NN1 ,_Y and_CC determined_VVN_VVD@ a_AT1 partial_JJ gene_NN1 sequence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  116 The sequence was found to be similar to that of the histone H3 , which is involved in the structure of chromatin .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  116 The_AT sequence_NN1 was_VBDZ found_VVN to_TO be_VBI similar_JJ to_II that_DD1 of_IO the_AT histone_NN1 H3_FO ,_Y which_DDQ is_VBZ involved_JJ in_II the_AT structure_NN1 of_IO chromatin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  117 These results suggested that CENP-A had a role in centromeric chromatin packing and function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  117 These_DD2 results_NN2 suggested_VVD_VVN that_CST_DD1 CENP-A_NP1_NN1 had_VHD a_AT1 role_NN1 in_II centromeric_JJ chromatin_NN1 packing_NN1_VVG and_CC function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  118 The sequence and function of CENP-A was revealed by the isolation of partial cDNA using reverse-transcriptase PCR ( polymerase chain reaction ) , chimeric proteins , crystal structure studies , and the creation of mutants .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  118 The_AT sequence_NN1 and_CC function_NN1 of_IO CENP-A_NP1_NN1 was_VBDZ revealed_VVN by_II the_AT isolation_NN1 of_IO partial_JJ cDNA_NN1 using_VVG reverse-transcriptase_JJ_NN1 PCR_NP1 (_Y polymerase_NN1 chain_NN1 reaction_NN1 )_Y ,_Y chimeric_JJ proteins_NN2 ,_Y crystal_NN1 structure_NN1 studies_NN2 ,_Y and_CC the_AT creation_NN1 of_IO mutants_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  119 Through these experiments and others , highly conserved CENP-A histone observed ( Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  119 Through_II these_DD2 experiments_NN2 and_CC others_NN2 ,_Y highly_RR conserved_VVD_JJ@ CENP-A_NP1_NN1 histone_NN1 observed_VVN_VVD (_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  120 2000 , Kitagawa and Heiter 2001 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  120 2000_MC ,_Y Kitagawa_NP1 and_CC Heiter_NP1_NN1 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  121 Immunofluorescence , the labeling of antibodies that bind to a protein in the cell with fluorescent dyes , allowed for easier protein localization than did previous methods .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  121 Immunofluorescence_NN1_NP1@ ,_Y the_AT labeling_NN1@ of_IO antibodies_NN2 that_CST bind_VV0 to_II a_AT1 protein_NN1 in_II the_AT cell_NN1 with_IW fluorescent_JJ dyes_NN2 ,_Y allowed_VVN_VVD for_IF easier_JJR protein_NN1 localization_NN1 than_CSN did_VDD previous_JJ methods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  122 CENP-A antibodies allowed for immunofluorescence , and gave information about the localization of the protein .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  122 CENP-A_VV0_NP1_NN1 antibodies_NN2 allowed_VVN_VVD for_IF immunofluorescence_NN1 ,_Y and_CC gave_VVN information_NN1 about_II the_AT localization_NN1 of_IO the_AT protein_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  123 Comparisons between immunofluorescence and immunoeletcron microscopy determined that the protein is found on the inner kinetochore plate ( Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  123 Comparisons_NN2 between_II immunofluorescence_NN1 and_CC immunoeletcron_NN1 microscopy_NN1 determined_VVN_VVD@ that_CST the_AT protein_NN1 is_VBZ found_VVN on_II the_AT inner_JJ kinetochore_NN1 plate_NN1 (_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  124 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  124 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  125 Specific genes can be silenced ( " knocked out " ) using genetic engineering techniques .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  125 Specific_JJ genes_NN2 can_VM be_VBI silenced_VVN@ (_Y "_Y knocked_VVN_VVD out_RP "_Y )_Y using_VVG genetic_JJ engineering_NN1 techniques_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  126 Knockouts enabled further analysis of CENP-A in vivo .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  126 Knockouts_NN2_NP1@ enabled_VVD_VVN further_JJR@_RRR analysis_NN1 of_IO CENP-A_NP1_NN1 in_RR21_JJ21 vivo_RR22_JJ22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  127 Howman and colleagues ( 2000 ) found that in CENP-A heterozygous knockout mice , there was no obvious effect ; the mice were fertile and apparently healthy .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  127 Howman_NN1_NP1@ and_CC colleagues_NN2 (_Y 2000_MC )_Y found_VVD that_CST_DD1 in_II CENP-A_NP1_NN1 heterozygous_JJ knockout_NN1 mice_NN2 ,_Y there_EX was_VBDZ no_AT obvious_JJ effect_NN1 ;_Y the_AT mice_NN2 were_VBDR fertile_JJ and_CC apparently_RR healthy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  128 However , all homozygous knockout mutants died within a few days .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  128 However_RR ,_Y all_DB_RR@ homozygous_JJ knockout_NN1 mutants_NN2 died_VVD_VVN@ within_II a_AT1 few_DA2 days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  129 Mutant embryos had severe mitotic defects that were specifically characterized .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  129 Mutant_NN1 embryos_NN2 had_VHD severe_JJ mitotic_JJ defects_NN2 that_CST were_VBDR specifically_RR characterized_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  130 In addition , other CENP proteins were affected by the loss of CENP-A , indicating that CENP-A was necessary for kinetochore targeting of these proteins .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  130 In_RR21 addition_RR22 ,_Y other_JJ CENP_NN1 proteins_NN2 were_VBDR affected_VVN by_II the_AT loss_NN1 of_IO CENP-A_NP1_NN1 ,_Y indicating_VVG that_DD1_CST CENP-A_NN1_NP1 was_VBDZ necessary_JJ for_IF kinetochore_NN1 targeting_VVG_NN1% of_IO these_DD2 proteins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  131 RNA interference ( RNAi ) inhibits .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  131 RNA_NN1 interference_NN1 (_Y RNAi_NP1 )_Y inhibits_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  132 RNA interference technology was used to deplete CENP-A in HEp-2 ( human ) cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  132 RNA_NN1 interference_NN1 technology_NN1 was_VBDZ used_VVN to_TO deplete_VVI CENP-A_NN1_NP1 in_II HEp-2_MC (_Y human_NN1_JJ )_Y cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  133 Depletion of CENP-A caused a high percentage of defects in mitosis .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  133 Depletion_NN1 of_IO CENP-A_NP1_NN1 caused_VVD a_AT1 high_JJ percentage_NN1 of_IO defects_NN2 in_II mitosis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  134 A budding yeast CENP-A homolog , Cse4p , was introduced after CENP-A depletion , and it was determined that the homolog could rescue CENP-A depleted cells , and therefore was functionally similar ( Wieland et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  134 A_AT1_ZZ1 budding_JJ yeast_NN1 CENP-A_NN1_NP1_VV0 homolog_NN1_VV0 ,_Y Cse4p_FO ,_Y was_VBDZ introduced_VVN after_II_CS CENP-A_NP1_NN1 depletion_NN1 ,_Y and_CC it_PPH1 was_VBDZ determined_VVN that_CST the_AT homolog_NN1 could_VM rescue_VVI CENP-A_NP1_NN1_VV0 depleted_JJ cells_NN2 ,_Y and_CC therefore_RR was_VBDZ functionally_RR similar_JJ (_Y Wieland_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  135 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  135 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  136 Thus , through a variety of molecular techniques , it was discovered that CENP-A localization depends on various other proteins ( Hayashi et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  136 Thus_RR ,_Y through_II a_AT1 variety_NN1 of_IO molecular_JJ techniques_NN2 ,_Y it_PPH1 was_VBDZ discovered_VVN@ that_CST_DD1 CENP-A_VV0_NN1_NP1 localization_NN1 depends_VVZ on_II various_JJ other_JJ proteins_NN2 (_Y Hayashi_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  137 2004 , Okada et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  137 2004_MC ,_Y Okada_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  138 2006 , Kwon et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  138 2006_MC ,_Y Kwon_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  139 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  139 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  140 Together , these experiments permitted a better understanding of the centromeric chromatin and the complicated kinetochore assembly pathways ( figure 2 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  140 Together_RL ,_Y these_DD2 experiments_NN2 permitted_VVD_VVN a_AT1 better_JJR understanding_NN1 of_IO the_AT centromeric_JJ chromatin_NN1 and_CC the_AT complicated_JJ kinetochore_NN1 assembly_NN1 pathways_NN2 (_Y figure_NN1 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  141 To date , at least two pathways are known : the Mis12 pathway , independent of CENP-A , and a CENP-A assembly pathway ( Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  141 To_II date_NN1 ,_Y at_RR21 least_RR22 two_MC pathways_NN2 are_VBR known_VVN :_Y the_AT Mis12_FO pathway_NN1 ,_Y independent_JJ_NN1@ of_IO CENP-A_NP1_NN1 ,_Y and_CC a_AT1 CENP-A_NN1 assembly_NN1 pathway_NN1 (_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  142 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  142 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  143 In addition , pathways that connect inner kinetochore proteins ( such as CENP-E ) with outer kinetochore proteins ( motor and checkpoint proteins ) have also been found .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  143 In_RR21 addition_RR22 ,_Y pathways_NN2 that_CST connect_VV0 inner_JJ kinetochore_NN1 proteins_NN2 (_Y such_II21 as_II22 CENP-E_NP1 )_Y with_IW outer_JJ kinetochore_NN1 proteins_NN2 (_Y motor_NN1 and_CC checkpoint_VV0_NN1 proteins_NN2 )_Y have_VH0 also_RR been_VBN found_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  144 animal cells , the centrosomes form the spindle poles .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  144 animal_NN1 cells_NN2 ,_Y the_AT centrosomes_NN2 form_VV0 the_AT spindle_NN1 poles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  145 In budding yeast , spindle pole bodies are embedded in the nuclear envelope , which does not break down during mitosis .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  145 In_II budding_JJ yeast_NN1 ,_Y spindle_VV0_NN1 pole_NN1 bodies_NN2 are_VBR embedded_VVN in_II the_AT nuclear_JJ envelope_NN1 ,_Y which_DDQ does_VDZ not_XX break_VVI down_RP during_II mitosis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  146 Higher plants and certain other organisms do not have centrosomes ; they rely on microtubules and associated proteins to create a bipolar spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  146 Higher_JJR plants_NN2 and_CC certain_JJ other_JJ organisms_NN2 do_VD0 not_XX have_VHI centrosomes_NN2 ;_Y they_PPHS2 rely_VV0 on_II_RP@ microtubules_NN2 and_CC associated_JJ proteins_NN2 to_TO create_VVI a_AT1 bipolar_JJ spindle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  147 Microtubules have intrinsic polarity , with the plus end located at the equatorial plane and the minus end at the spindle poles ( Gadde and Heald 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  147 Microtubules_NN2 have_VH0 intrinsic_JJ polarity_NN1 ,_Y with_IW the_AT plus_NN1@ end_NN1 located_VVN_VVD at_II the_AT equatorial_JJ plane_NN1 and_CC the_AT minus_NN1 end_NN1_VV0 at_II the_AT spindle_NN1 poles_NN2 (_Y Gadde_NP1_NN1 and_CC Heald_VV0_NP1_NN1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  148 Microtubules are nucleated from centrosomes to create kinetochore fibers .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  148 Microtubules_NN2 are_VBR nucleated_VVN@ from_II centrosomes_NN2 to_TO create_VVI kinetochore_NN1 fibers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  149 It has been known for decades that only the bipolar orientation of sister kinetochores is stable ( figure 4 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  149 It_PPH1 has_VHZ been_VBN known_VVN for_IF decades_NNT2 that_CST_DD1_RG% only_RR the_AT bipolar_JJ orientation_NN1 of_IO sister_NN1 kinetochores_NN2_VVZ is_VBZ stable_JJ (_Y figure_NN1 4_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  150 Unstable orientations are most often converted to the stable one .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  150 Unstable_JJ orientations_NN2 are_VBR most_RGT often_RR converted_VVN_VVD to_II the_AT stable_JJ one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  151 When this does not happen , nondisjunction occurs .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  151 When_CS this_DD1 does_VDZ not_XX happen_VVI ,_Y nondisjunction_NN1 occurs_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  152 Figure 4 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  152 Figure_NN1 4_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  153 A diagram of the ways in which two sister kinetochores can attach to the spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  153 A_AT1 diagram_NN1 of_IO the_AT ways_NN2 in_II which_DDQ two_MC sister_NN1 kinetochores_NN2_VVZ can_VM attach_VVI to_II the_AT spindle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  154 Each orientation can be converted to the only stable ( bipolar ) orientation by changes in spindle microtubules binding .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  154 Each_DD1 orientation_NN1 can_VM be_VBI converted_VVN to_II the_AT only_JJ stable_NN1@_JJ (_Y bipolar_JJ )_Y orientation_NN1 by_II changes_NN2 in_II spindle_NN1 microtubules_VVZ_NN2 binding_JJ_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  155 A molecular mechanism , the spindle assembly checkpoint , monitors stable attachment of all chromosomes , sister kinetochores can delay anaphase onset .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  155 A_AT1_ZZ1 molecular_JJ mechanism_NN1 ,_Y the_AT spindle_NN1 assembly_NN1 checkpoint_NN1_VV0 ,_Y monitors_VVZ stable_JJ attachment_NN1 of_IO all_DB chromosomes_NN2 ,_Y sister_NN1 kinetochores_NN2_VVZ can_VM delay_VVI anaphase_NN1 onset_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  156 Source : Diagram from figure 17-39 in Alberts and colleagues ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  156 Source_NN1 :_Y Diagram_NN1 from_II figure_NN1 17-39_MCMC in_II Alberts_NP2 and_CC colleagues_NN2 (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  157 Although it is true that kinetochore microtubules are nucleated at the poles in most spindles , it is a fact that the kinetochore itself can nucleate microtubule assembly under some circumstances ( Rieder 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  157 Although_CS it_PPH1 is_VBZ true_JJ that_CST_DD1 kinetochore_VV0_NN1 microtubules_NN2 are_VBR nucleated_VVN@ at_II the_AT poles_NN2 in_II most_DAT spindles_NN2 ,_Y it_PPH1 is_VBZ a_AT1 fact_NN1 that_CST the_AT kinetochore_NN1 itself_PPX1 can_VM nucleate_VVI microtubule_NN1 assembly_NN1 under_II some_DD circumstances_NN2 (_Y Rieder_NP1@_JJR_VV0@ 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  158 In early experiments , when isolated HeLa mitotic chromosomes were incubated with isolated chick brain tubulin , the kinetochores could act as initiation sites for microtubule polymerization ( Telzer et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  158 In_II early_JJ experiments_NN2 ,_Y when_CS_RRQ isolated_JJ_VVN HeLa_NP1_NN1@ mitotic_JJ chromosomes_NN2 were_VBDR incubated_VVN@ with_IW isolated_JJ chick_NN1 brain_NN1 tubulin_NN1 ,_Y the_AT kinetochores_NN2 could_VM act_VVI as_II@_CSA initiation_NN1 sites_NN2 for_IF microtubule_NN1 polymerization_NN1 (_Y Telzer_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  159 1975 , Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  159 1975_MC ,_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  160 These results were further confirmed using lysed cells incubated with exogenous tubulin ( Snyder and McIntosh 1975 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  160 These_DD2 results_NN2 were_VBDR further_RRR confirmed_VVN_VVD using_VVG lysed_JJ cells_NN2 incubated_VVD_VVN@ with_IW exogenous_JJ tubulin_NN1 (_Y Snyder_NP1_NN1_VV0 and_CC McIntosh_NP1 1975_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  161 Mitchison and Kirschner ( 1984 ) found that microtubules are dynamic and have two phases , a " growing " and a " shrinking " phase , which was confirmed by experiments using immunofluorescence and light microscopy ( Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  161 Mitchison_NN1_NP1@ and_CC Kirschner_NP1 (_Y 1984_MC )_Y found_VVD that_CST microtubules_NN2_VVZ are_VBR dynamic_JJ and_CC have_VH0 two_MC phases_NN2 ,_Y a_AT1 "_Y growing_JJ_NN1@ "_Y and_CC a_AT1 "_Y shrinking_JJ_NN1 "_Y phase_NN1 ,_Y which_DDQ was_VBDZ confirmed_VVN by_II experiments_NN2 using_VVG immunofluorescence_NN1 and_CC light_JJ_NN1 microscopy_NN1 (_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  162 These results led to the search-and-capture model of kinetochore-microtubule interaction proposed by Mitchison and colleagues ( 1986 ) , which posited that in early stages of mitosis , microtubules grow from a kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  162 These_DD2 results_NN2 led_VVN_VVD to_II the_AT search-and-capture_JJ_NN1 model_NN1 of_IO kinetochore-microtubule_JJ_NN1 interaction_NN1 proposed_VVN by_II Mitchison_NP1 and_CC colleagues_NN2 (_Y 1986_MC )_Y ,_Y which_DDQ posited_VVD that_CST_DD1 in_II early_JJ stages_NN2 of_IO mitosis_NN1 ,_Y microtubules_NN2 grow_VV0 from_II a_AT1 kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  163 When Hayden and colleagues ( 1990 ) used light microscopy to show that chromosome attachment in newt cells results from astral microtubules interacting with a kinetochore , the search-and-capture model became the most widely accepted model of kinetochore-microtubule interaction ( figure 5 ; Rieder 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  163 When_CS Hayden_NP1 and_CC colleagues_NN2 (_Y 1990_MC )_Y used_VVD_JJ light_JJ_NN1 microscopy_NN1 to_TO show_VVI that_DD1_CST chromosome_NN1 attachment_NN1 in_II newt_NN1 cells_NN2 results_NN2_VVZ@ from_II astral_JJ_NN1 microtubules_NN2_VVZ interacting_VVG with_IW a_AT1 kinetochore_NN1 ,_Y the_AT search-and-capture_JJ_NN1 model_NN1 became_VVD the_AT most_RGT widely_RR accepted_JJ_VVN model_NN1 of_IO kinetochore-microtubule_JJ_NN1 interaction_NN1 (_Y figure_NN1 5_MC ;_Y Rieder_JJR_NP1@_VV0@ 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  164 Figure 5 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  164 Figure_NN1 5_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  165 Activities of the kinetochore during the course of mitosis .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  165 Activities_NN2 of_IO the_AT kinetochore_NN1 during_II the_AT course_NN1 of_IO mitosis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  166 Top : Attachment to the plus ends of spindle microtubules and alignment at the equator ( congression ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  166 Top_NN1_VV0@_JJ :_Y Attachment_NN1 to_II the_AT plus_NN1@ ends_NN2_VVZ of_IO spindle_NN1 microtubules_NN2_VVZ and_CC alignment_NN1 at_II the_AT equator_NN1 (_Y congression_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  167 The force necessary to move the chromosome during congression is probably provided by motor proteins embedded in the kinetochore itself .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  167 The_AT force_NN1 necessary_JJ to_TO move_VVI the_AT chromosome_NN1 during_II congression_NN1 is_VBZ probably_RR provided_VVN by_II motor_NN1 proteins_NN2 embedded_VVN in_II the_AT kinetochore_NN1 itself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  168 Bottom : Separation of sister chromatids and movement to opposite spindle poles ( anaphase A ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  168 Bottom_NN1_VV0@_JJ :_Y Separation_NN1 of_IO sister_NN1 chromatids_NN2 and_CC movement_NN1 to_II opposite_JJ spindle_NN1 poles_NN2 (_Y anaphase_VV0_NN1 A_ZZ1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  169 Sliding of overlapping midzone microtubules to move apart the spindle poles ( anaphase B ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  169 Sliding_JJ_VVG of_IO overlapping_JJ_VVG midzone_NN1 microtubules_VVZ_NN2 to_TO move_VVI apart_RL the_AT spindle_NN1 poles_NN2 (_Y anaphase_VV0_NN1 B_ZZ1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  170 The kinetochore is probably not involved in the latter .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  170 The_AT kinetochore_NN1 is_VBZ probably_RR not_XX involved_JJ in_II the_AT latter_DA ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  171 Source : Rearranged from figures 17-28 and 17-46 in Alberts and colleagues ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  171 Source_NN1 :_Y Rearranged_VVN_VVD from_II figures_NN2 17-28_MCMC and_CC 17-46_MCMC in_II Alberts_NP2 and_CC colleagues_NN2 (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  172 Recent experiments ( Compton 2000 ) show that microtubule nucleation is enhanced by centrosome-associated ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  172 Recent_JJ experiments_NN2 (_Y Compton_NP1 2000_MC )_Y show_VV0 that_CST_DD1 microtubule_VV0_NN1 nucleation_NN1 is_VBZ enhanced_VVN by_II centrosome-associated_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  173 -tubulin and the ring complex it forms ( Job et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  173 -tubulin_NN1 and_CC the_AT ring_NN1 complex_NN1_JJ it_PPH1 forms_VVZ (_Y Job_NN1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  174 2003 ) have various functions such as stabilizing , anchoring , and nucleating microtubules ( Schuyler and Pellman 2001 , Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  174 2003_MC )_Y have_VHI various_JJ functions_NN2 such_II21 as_II22 stabilizing_VVG_NN1@ ,_Y anchoring_VVG_NN1 ,_Y and_CC nucleating_VVG_JJ@ microtubules_NN2 (_Y Schuyler_NP1 and_CC Pellman_NP1_NN1 2001_MC ,_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  175 These studies provide support for the search-and-capture model , and indicate that the basic requirement to create a kinetochore fiber in vitro seems to be microtubules and a functioning kinetochore to stabilize polymerized microtubules ( Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  175 These_DD2 studies_NN2 provide_VV0 support_NN1_VV0 for_IF the_AT search-and-capture_JJ_NN1 model_NN1 ,_Y and_CC indicate_VV0 that_CST the_AT basic_JJ requirement_NN1 to_TO create_VVI a_AT1 kinetochore_NN1 fiber_NN1 in_RR21 vitro_RR22 seems_VVZ to_TO be_VBI microtubules_NN2 and_CC a_AT1 functioning_JJ@_NN1@ kinetochore_NN1_VV0 to_TO stabilize_VVI polymerized_JJ@ microtubules_NN2 (_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  176 Congression Congression refers to the back-and-forth movements of chromosomes , with final arrival at the spindle equator ( figure 5 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  176 Congression_NN1_NP1@ Congression_NN1_NP1@ refers_VVZ to_II the_AT back-and-forth_JJ movements_NN2 of_IO chromosomes_NN2 ,_Y with_IW final_JJ arrival_NN1 at_II the_AT spindle_NN1 equator_NN1 (_Y figure_NN1 5_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  177 Rieder and Alexander ( 1990 ) demonstrated in newt lung cells that chromosomes can interact with a spindle microtubule through lateral interactions in early prometaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  177 Rieder_VV0_NP1@ and_CC Alexander_NP1 (_Y 1990_MC )_Y demonstrated_VVD_VVN in_II newt_NN1 lung_NN1 cells_NN2 that_CST chromosomes_NN2 can_VM interact_VVI with_IW a_AT1 spindle_NN1 microtubule_NN1_VV0 through_II lateral_JJ interactions_NN2 in_II early_JJ prometaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  178 The kinetochore is then transported poleward on the surface of the microtubule without microtubule depolymerization , suggesting that motor proteins on the surface of the kinetochore or on the surface of the microtubules could be responsible for early chromosome movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  178 The_AT kinetochore_NN1 is_VBZ then_RT transported_VVN poleward_RL on_II the_AT surface_NN1 of_IO the_AT microtubule_NN1 without_IW microtubule_NN1 depolymerization_NN1 ,_Y suggesting_VVG that_DD1_CST motor_NN1 proteins_NN2 on_II the_AT surface_NN1 of_IO the_AT kinetochore_NN1 or_CC on_II the_AT surface_NN1 of_IO the_AT microtubules_NN2 could_VM be_VBI responsible_JJ for_IF early_JJ chromosome_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  179 It has been suggested that chromosomes that are closer to one spindle pole than to the other undergo polar ejection forces , which push the chromosomes toward the midzone of the spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  179 It_PPH1 has_VHZ been_VBN suggested_VVN that_CST chromosomes_NN2 that_CST are_VBR closer_JJR to_II one_MC1 spindle_NN1 pole_NN1 than_CSN to_II the_AT other_JJ_NN1@ undergo_VV0 polar_JJ ejection_NN1 forces_NN2 ,_Y which_DDQ push_VV0 the_AT chromosomes_NN2 toward_II the_AT midzone_NN1 of_IO the_AT spindle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  180 Rieder and colleagues ( and TEM to create mono-oriented chromosomes with one kinetochore that moved away from the pole .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  180 Rieder_VV0_NP1@ and_CC colleagues_NN2 (_Y and_CC TEM_VV0_NN1 to_TO create_VVI mono-oriented_JJ@ chromosomes_NN2 with_IW one_MC1 kinetochore_NN1_VV0 that_CST moved_VVD away_II21_RL from_II22_II the_AT pole_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  181 Optical trapping microscopy has recently indicated that motor proteins located in or on the chromosome arms ( such as the protein Kid , a kinesin-like DNA-binding protein ) may interact with astral microtubules and may be responsible for these forces ( Antonio et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  181 Optical_JJ trapping_NN1 microscopy_NN1 has_VHZ recently_RR indicated_VVN that_DD1_CST motor_NN1_VV0@ proteins_NN2 located_VVD_VVN in_RP@_II or_CC on_II the_AT chromosome_NN1 arms_NN2 (_Y such_II21 as_II22 the_AT protein_NN1 Kid_NN1 ,_Y a_AT1 kinesin-like_JJ DNA-binding_JJ_NN1 protein_NN1 )_Y may_VM interact_VVI with_IW astral_JJ_NN1 microtubules_NN2 and_CC may_VM be_VBI responsible_JJ for_IF these_DD2 forces_NN2 (_Y Antonio_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  182 2000 , Brouhard and Hunt 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  182 2000_MC ,_Y Brouhard_NP1 and_CC Hunt_NP1 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  183 In living newt lung cells , Skibbens and colleagues ( 1993 ) made use of high-resolution video microscopy and computer-assisted tracking techniques to measure the positions of individual kinetochores with respect to the poles through time .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  183 In_II living_JJ_VVG_NN1 newt_NN1 lung_NN1 cells_NN2 ,_Y Skibbens_NP2_NN2@ and_CC colleagues_NN2 (_Y 1993_MC )_Y made_VVD_VVN use_NN1 of_IO high-resolution_JJ_NN1 video_NN1 microscopy_NN1 and_CC computer-assisted_JJ tracking_JJ_NN1 techniques_NN2 to_TO measure_VVI the_AT positions_NN2 of_IO individual_JJ_NN1 kinetochores_NN2_VVZ with_II31 respect_II32 to_II33 the_AT poles_NN2 through_II time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  184 These experiments showed that kinetochores oscillate , switching between movements toward one pole ( termed " P " ) and the other ( termed " AP " ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  184 These_DD2 experiments_NN2 showed_VVD that_CST kinetochores_NN2 oscillate_VV0 ,_Y switching_VVG between_II movements_NN2 toward_II one_MC1 pole_NN1 (_Y termed_VVN_VVD "_Y P_ZZ1 "_Y )_Y and_CC the_AT other_JJ_NN1@ (_Y termed_VVD_VVN "_Y AP_NP1 "_Y )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  185 This phenomenon was termed " directional instability .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  185 This_DD1 phenomenon_NN1 was_VBDZ termed_VVN "_Y directional_JJ instability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  186 " Later , video light microscopy and TEM determined that the trailing kinetochore ( moving away from the pole ) always is bound to at least twice as many microtubules , and thus may require more force than the leading kinetochore ( moving toward the pole ; Maiato both spindle poles , and Mitchison and colleagues ( 1986 ) determined , using microinjected biotinylated tubulin and the TEM , that one kinetochore fiber must polymerize while the other depolymerizes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  186 "_Y Later_RRR_JJR ,_Y video_VV0@_NN1 light_JJ_NN1 microscopy_NN1 and_CC TEM_NP1_NN1_VV0 determined_VVD@_VVN_JJ that_CST the_AT trailing_JJ kinetochore_NN1 (_Y moving_VVG away_II21_RL from_II22_II the_AT pole_NN1 )_Y always_RR is_VBZ bound_VVN to_II_TO at_RR21 least_RR22 twice_RR as_RG@_CSA many_DA2 microtubules_NN2 ,_Y and_CC thus_RR may_VM require_VVI more_DAR force_NN1 than_CSN the_AT leading_JJ kinetochore_NN1 (_Y moving_VVG toward_II the_AT pole_NN1 ;_Y Maiato_NP1 both_DB2 spindle_VV0 poles_NN2 ,_Y and_CC Mitchison_NP1 and_CC colleagues_NN2 (_Y 1986_MC )_Y determined_JJ_VVN_VVD@ ,_Y using_VVG microinjected_JJ@_VVD biotinylated_JJ@ tubulin_NN1 and_CC the_AT TEM_NN1_NP1 ,_Y that_CST_DD1 one_MC1 kinetochore_NN1 fiber_NN1 must_VM polymerize_VVI while_CS the_AT other_NN1@_JJ depolymerizes_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  187 These results have been supported by other experiments ( Wise et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  187 These_DD2 results_NN2 have_VH0 been_VBN supported_VVN by_II other_JJ experiments_NN2 (_Y Wise_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  188 1991 , Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  188 1991_MC ,_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  189 Maddox and colleagues ( 2003 ) proposed a " slip-clutch " mechanism for congression movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  189 Maddox_NP1 and_CC colleagues_NN2 (_Y 2003_MC )_Y proposed_VVD a_AT1 "_Y slip-clutch_JJ_NN1 "_Y mechanism_NN1 for_IF congression_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  190 High-resolution fluorescent speckle microscopy and direct labeling of kinetochores used in Xenopus extracts showed that at high tensions , microtubule polymerization is promoted in order to prevent detachment , and that the polymerization state of the kinetochore is determined by tension .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  190 High-resolution_JJ fluorescent_JJ speckle_NN1 microscopy_NN1 and_CC direct_JJ labeling_NN1@ of_IO kinetochores_NN2 used_VVN_VVD in_II Xenopus_NP1_NN1 extracts_NN2 showed_VVD that_CST_DD1 at_II high_JJ tensions_NN2 ,_Y microtubule_VV0_NN1 polymerization_NN1 is_VBZ promoted_VVN in_BCL21 order_BCL22 to_TO prevent_VVI detachment_NN1 ,_Y and_CC that_CST the_AT polymerization_NN1 state_NN1 of_IO the_AT kinetochore_NN1 is_VBZ determined_VVN by_II tension_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  191 Therefore , kinetochores oscillate from poleward ( pulling forces ) to anti-poleward because of spindle forces that produce flux ( Maiato and Sunkel 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  191 Therefore_RR ,_Y kinetochores_NN2 oscillate_VV0 from_II poleward_RL_JJ (_Y pulling_VVG_JJ@ forces_NN2 )_Y to_II anti-poleward_JJ because_II21 of_II22 spindle_NN1 forces_NN2_VVZ@ that_CST produce_VV0 flux_NN1 (_Y Maiato_NP1_NN1 and_CC Sunkel_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  192 Plus-end-directed motor proteins , chromokinesins ( Nod and Kid ) , also play an important part in the congression of chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  192 Plus-end-directed_JJ_NN1 motor_NN1 proteins_NN2 ,_Y chromokinesins_NN2 (_Y Nod_NN1_VV0 and_CC Kid_NN1 )_Y ,_Y also_RR play_VV0 an_AT1 important_JJ part_NN1 in_II the_AT congression_NN1 of_IO chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  193 Immunolocalization and overexpression of Nod in Drosophila showed that in meiotic cells that have not undergone recombination , Nod is necessary for the proper alignment of chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  193 Immunolocalization_NN1_NP1@ and_CC overexpression_NN1 of_IO Nod_NN1 in_II Drosophila_NP1 showed_VVD that_CST_DD1 in_II meiotic_JJ cells_NN2 that_CST have_VH0 not_XX undergone_VVN recombination_NN1 ,_Y Nod_NN1_VV0 is_VBZ necessary_JJ for_IF the_AT proper_JJ alignment_NN1 of_IO chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  194 Antibody-induced inhibition of Kid proper chromosome alignment ( Cleveland et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  194 Antibody-induced_JJ_NN1 inhibition_NN1 of_IO Kid_NN1 proper_JJ chromosome_NN1 alignment_NN1 (_Y Cleveland_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  195 2003 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  195 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  196 Molecular techniques , protein identification , and function information have all aided in understanding chromosome congression .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  196 Molecular_JJ techniques_NN2 ,_Y protein_NN1 identification_NN1 ,_Y and_CC function_NN1_VV0@ information_NN1 have_VH0 all_RR@_DB aided_VVN in_II understanding_NN1_VVG_JJ@ chromosome_NN1 congression_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  197 The spindle assembly checkpoint Progression through mitosis is controlled by a series of checkpoints .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  197 The_AT spindle_NN1 assembly_NN1 checkpoint_NN1_VV0 Progression_NN1 through_II mitosis_NN1 is_VBZ controlled_VVN by_II a_AT1 series_NN of_IO checkpoints_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  198 The spindle assembly checkpoint ( SAC ) operates to assure proper distribution of sister chromatids .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  198 The_AT spindle_NN1 assembly_NN1 checkpoint_NN1 (_Y SAC_NN1 )_Y operates_VVZ to_TO assure_VVI proper_JJ distribution_NN1 of_IO sister_NN1 chromatids_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  199 In mitosis , kinetochore pairs attach to microtubules , align at the metaphase plate , and migrate to opposite poles to be separated into the daughter cells ( figure 5 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  199 In_II mitosis_NN1 ,_Y kinetochore_VV0_NN1 pairs_NN2 attach_VV0 to_II microtubules_NN2 ,_Y align_VV0 at_II the_AT metaphase_NN1 plate_NN1 ,_Y and_CC migrate_VV0 to_II opposite_JJ poles_NN2 to_TO be_VBI separated_VVN into_II the_AT daughter_NN1 cells_NN2 (_Y figure_NN1 5_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  200 The SAC prevents the transition from metaphase to anaphase until proper alignment and tension are detected by a series of proteins .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  200 The_AT SAC_NN1 prevents_VVZ the_AT transition_NN1 from_II metaphase_NN1 to_II anaphase_NN1 until_CS_II@ proper_JJ alignment_NN1 and_CC tension_NN1 are_VBR detected_VVN by_II a_AT1 series_NN of_IO proteins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  201 One unattached or ill-aligned kinetochore causes metaphase arrest and will prevent aneuploidy .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  201 One_MC1_PN1 unattached_JJ or_CC ill-aligned_JJ_NN1 kinetochore_NN1 causes_NN2_VVZ metaphase_VV0_NN1 arrest_NN1_VV0 and_CC will_VM prevent_VVI aneuploidy_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  202 The SAC functions by inhibiting the anaphase promoting complex ( APC ) , an E3 ubiquitin ligase that targets regulating proteins for degradation by the 26S proteasome , turning off the checkpoint ( Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  202 The_AT SAC_NN1 functions_NN2_VVZ@ by_II inhibiting_VVG the_AT anaphase_NN1 promoting_VVG complex_NN1_JJ (_Y APC_FO )_Y ,_Y an_AT1 E3_FO ubiquitin_NN1 ligase_VV0_NN1 that_CST targets_NN2 regulating_VVG proteins_NN2 for_IF degradation_NN1 by_II the_AT 26S_MC2 proteasome_JJ ,_Y turning_VVG off_II_RP the_AT checkpoint_NN1 (_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  203 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  203 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  204 When active , the APC targets the protein securin , and securin then triggers the release of separase , leading to the degradation of cohesin , and its degradation allows the sisters to be pulled apart in anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  204 When_CS_RRQ active_JJ ,_Y the_AT APC_FO targets_NN2 the_AT protein_NN1 securin_NN1 ,_Y and_CC securin_NN1 then_RT triggers_VVZ the_AT release_NN1 of_IO separase_NN1 ,_Y leading_VVG to_II the_AT degradation_NN1 of_IO cohesin_NN1 ,_Y and_CC its_Z' degradation_NN1 allows_VVZ the_AT sisters_NN2 to_TO be_VBI pulled_VVN apart_RL in_II anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  205 One of the APC regulators is the protein Cdc20 ( or Slp1 in fission yeast ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  205 One_MC1 of_IO the_AT APC_FO regulators_NN2 is_VBZ the_AT protein_NN1 Cdc20_FO (_Y or_CC Slp1_FO in_II fission_NN1 yeast_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  206 Many proteins are involved in the pathway , with more being discovered regularly .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  206 Many_DA2 proteins_NN2 are_VBR involved_JJ in_II the_AT pathway_NN1 ,_Y with_IW more_RRR_DAR being_VBG discovered_VVN@ regularly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  207 However , since this is not a checkpoint review , we will forgo comprehensive analysis here , and instead will demonstrate how molecular tools contributed to this research .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  207 However_RR ,_Y since_CS this_DD1 is_VBZ not_XX a_AT1 checkpoint_NN1 review_NN1 ,_Y we_PPIS2 will_VM forgo_VVI comprehensive_JJ analysis_NN1 here_RL ,_Y and_CC instead_RR will_VM demonstrate_VVI how_RGQ@_RRQ molecular_JJ tools_NN2 contributed_VVN_VVD to_II this_DD1 research_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  208 The attachment component of the SAC When the human gene , mitotic arrest deficient 2 ( MAD2 ) , was sequenced , the protein was found to be homologous with budding yeast Mad2 and Xenopus Mad2 , implying that the protein is evolutionarily conserved .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  208 The_AT attachment_NN1 component_NN1 of_IO the_AT SAC_NN1 When_CS_RRQ the_AT human_JJ_NN1 gene_NN1 ,_Y mitotic_JJ arrest_NN1 deficient_JJ 2_MC (_Y MAD2_FO )_Y ,_Y was_VBDZ sequenced_VVN_JJ ,_Y the_AT protein_NN1 was_VBDZ found_VVN to_TO be_VBI homologous_JJ with_IW budding_JJ yeast_NN1 Mad2_FO and_CC Xenopus_NP1_NN1 Mad2_FO ,_Y implying_VVG that_CST the_AT protein_NN1 is_VBZ evolutionarily_RR conserved_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  209 Li and Benezra ( 1996 ) used electropermeabilization , a technique that increases the permeability of the cell membrane , to incorporate anti-Mad2 antibodies into cells , and found that Mad2 was necessary to activate the SAC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  209 Li_NP1 and_CC Benezra_NP1 (_Y 1996_MC )_Y used_JJ_VVD electropermeabilization_NN1 ,_Y a_AT1 technique_NN1 that_CST_DD1 increases_VVZ the_AT permeability_NN1 of_IO the_AT cell_NN1 membrane_NN1 ,_Y to_TO incorporate_VVI anti-Mad2_JJ_NN1 antibodies_NN2 into_II cells_NN2 ,_Y and_CC found_VVD_VVN that_CST_DD1 Mad2_FO was_VBDZ necessary_JJ to_TO activate_VVI the_AT SAC_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  210 Another study ( Gorbsky et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  210 Another_DD1 study_NN1 (_Y Gorbsky_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  211 1998 ) confirmed these results in other mammalian cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  211 1998_MC )_Y confirmed_VVD these_DD2 results_NN2 in_II other_JJ mammalian_JJ cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  212 The yeast two-hybrid technique , which allows the investigation of protein-to-protein interactions , has been instrumental in it was discovered that Mad1 , Mad2 , and Mad3 interact with Cdc20 ( Hwang et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  212 The_AT yeast_NN1 two-hybrid_NN1_JJ technique_NN1 ,_Y which_DDQ allows_VVZ the_AT investigation_NN1 of_IO protein-to-protein_JJ_NN1 interactions_NN2 ,_Y has_VHZ been_VBN instrumental_JJ in_II it_PPH1 was_VBDZ discovered_VVN@ that_CST_DD1 Mad1_FO ,_Y Mad2_FO ,_Y and_CC Mad3_FO interact_VV0 with_IW Cdc20_FO (_Y Hwang_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  213 1998 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  213 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  214 These experiments initiated a series of others that investigated the mitotic checkpoint and the involvement of Mad2 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  214 These_DD2 experiments_NN2 initiated_VVD_VVN a_AT1 series_NN of_IO others_NN2 that_CST investigated_VVD the_AT mitotic_JJ checkpoint_NN1 and_CC the_AT involvement_NN1 of_IO Mad2_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  215 Experiments using immunofluorescence showed Mad2 to be concentrated on unattached kinetochores in prometaphase , and to delocalize after chromosomes were properly attached to the spindle ( Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  215 Experiments_NN2 using_VVG immunofluorescence_NN1 showed_VVD Mad2_FO to_TO be_VBI concentrated_VVN on_II unattached_JJ kinetochores_NN2 in_II prometaphase_NN1 ,_Y and_CC to_TO delocalize_VVI after_II_CS chromosomes_NN2 were_VBDR properly_RR attached_VVN to_II the_AT spindle_NN1 (_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  216 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  216 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  217 The use of the drug taxol , which decreases tension at the kinetochore by promoting microtubule assembly , was used to determine whether or not Mad2 monitors for tension or for alignment of the kinetochore in PtK1 cells ( Waters et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  217 The_AT use_NN1 of_IO the_AT drug_NN1 taxol_NN1_VV0 ,_Y which_DDQ decreases_VVZ tension_NN1 at_II the_AT kinetochore_NN1 by_II promoting_VVG_JJ@ microtubule_NN1 assembly_NN1 ,_Y was_VBDZ used_VVN to_TO determine_VVI whether_CSW31 or_CSW32 not_CSW33 Mad2_FO monitors_VVZ_NN2 for_IF tension_NN1 or_CC for_IF alignment_NN1 of_IO the_AT kinetochore_NN1 in_II PtK1_FO cells_NN2 (_Y Waters_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  218 1998 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  218 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  219 Taxol was added and Mad2 relocalized to only a few kinetochores , probably because loss of tension can lead to loss of microtubule attachment .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  219 Taxol_NN1_NP1@_VV0 was_VBDZ added_VVN_JJ and_CC Mad2_FO relocalized_VVD_VVN@ to_II_TO only_RR a_AT1 few_DA2 kinetochores_NN2 ,_Y probably_RR because_CS loss_NN1 of_IO tension_NN1 can_VM lead_VVI to_II loss_NN1 of_IO microtubule_NN1 attachment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  220 Also , when microtubules were depolymerized using the drug nocodazole , Mad2 returned , indicating that the protein detects unattached kinetochores rather than tension ( Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  220 Also_RR ,_Y when_CS_RRQ microtubules_NN2 were_VBDR depolymerized_VVN@ using_VVG the_AT drug_NN1 nocodazole_NN1 ,_Y Mad2_FO returned_VVN_VVD ,_Y indicating_VVG that_CST the_AT protein_NN1 detects_VVZ unattached_JJ kinetochores_NN2 rather_II21 than_II22 tension_NN1 (_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  221 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  221 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  222 It was recently determined that the protein exists in two conformations , open ( O-Mad2 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  222 It_PPH1 was_VBDZ recently_RR determined_VVN that_CST the_AT protein_NN1 exists_VVZ in_II two_MC conformations_NN2 ,_Y open_VV0_JJ (_Y O-Mad2_NN1_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  223 At least two models of Mad2 regulation emerged from these discoveries , both of which implicate the protein Cdc20 ( Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  223 At_RR21 least_RR22 two_MC models_NN2 of_IO Mad2_FO regulation_NN1 emerged_VVD_VVN@ from_II these_DD2 discoveries_NN2 ,_Y both_DB2 of_IO which_DDQ implicate_VV0 the_AT protein_NN1 Cdc20_FO (_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  224 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  224 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  225 Molecular , genetic , and biochemical methods have illuminated possible mechanisms of action of Mad2 and other proteins involved in the attachment component of the checkpoint ( Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  225 Molecular_JJ ,_Y genetic_JJ ,_Y and_CC biochemical_JJ methods_NN2 have_VH0 illuminated_VVN possible_JJ mechanisms_NN2 of_IO action_NN1 of_IO Mad2_FO and_CC other_JJ proteins_NN2 involved_JJ in_II the_AT attachment_NN1 component_NN1 of_IO the_AT checkpoint_NN1 (_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  226 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  226 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  227 The tension component of the SAC The tension component of the checkpoint , the 3F3 phosphoepitope , was originally detected in studies of antibodies directed against Xenopus egg extracts ( Cyert et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  227 The_AT tension_NN1 component_NN1 of_IO the_AT SAC_NN1 The_AT tension_NN1 component_NN1 of_IO the_AT checkpoint_NN1 ,_Y the_AT 3F3_FO phosphoepitope_NN1_VV0 ,_Y was_VBDZ originally_RR detected_VVN_VVD in_II studies_NN2 of_IO antibodies_NN2 directed_VVN_VVD against_II Xenopus_NP1_NN1 egg_NN1 extracts_NN2 (_Y Cyert_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  228 1988 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  228 1988_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  229 Later , Gorbsky and Ricketts ( 1993 ) used cell fractionation , immunoblots , and immunofluorescence to determine that the 3F3 phosphoepitope binds to kinetochores in prophase and prometaphase , and in midprometaphase in misaligned kinetochores .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  229 Later_RRR_JJR ,_Y Gorbsky_NP1 and_CC Ricketts_NP1 (_Y 1993_MC )_Y used_JJ_VVD cell_NN1 fractionation_NN1 ,_Y immunoblots_NN2_VVZ ,_Y and_CC immunofluorescence_NN1 to_TO determine_VVI that_CST the_AT 3F3_FO phosphoepitope_NN1 binds_VVZ to_II kinetochores_NN2 in_II prophase_NN1 and_CC prometaphase_NN1_VV0 ,_Y and_CC in_II midprometaphase_NN1 in_II misaligned_JJ@ kinetochores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  230 The phosphoepitope brightly stained both sister kinetochores near the poles , but the leading kinetochore was more brightly stained near the metaphase plate .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  230 The_AT phosphoepitope_NN1 brightly_RR stained_VVN_VVD both_RR_DB2 sister_NN1 kinetochores_VVZ_NN2 near_II the_AT poles_NN2 ,_Y but_CCB the_AT leading_JJ kinetochore_NN1 was_VBDZ more_RGR_RRR brightly_RR stained_VVN_VVD near_II the_AT metaphase_NN1 plate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  231 These and other workers concluded that the phosphoepitope may have a checkpoint function ( Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  231 These_DD2 and_CC other_JJ workers_NN2 concluded_VVD_VVN that_CST the_AT phosphoepitope_NN1 may_VM have_VHI a_AT1 checkpoint_NN1 function_NN1 (_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  232 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  232 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  233 The microinjection of antibodies against the 3F3 phosphoepitope in PtK1 , but anaphase was delayed .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  233 The_AT microinjection_NN1 of_IO antibodies_NN2 against_II the_AT 3F3_FO phosphoepitope_VV0_NN1 in_II PtK1_FO ,_Y but_CCB anaphase_NN1_VV0 was_VBDZ delayed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  234 In the same series of experiments , Campbell and Gorbsky ( 1995 ) demonstrated that **25;9161;TOOLONG drugs ( which reduce tension at the kinetochore ) added during metaphase caused the 3F3 phosphoepitope to relocalize to the kinetochore , providing additional evidence that the 3F3 phosphoepitope is involved in the SAC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  234 In_II the_AT same_DA series_NN of_IO experiments_NN2 ,_Y Campbell_NP1 and_CC Gorbsky_NP1 (_Y 1995_MC )_Y demonstrated_VVD that_CST_DD1 **25;9161;TOOLONG_JJ_NN1 drugs_NN2 (_Y which_DDQ reduce_VV0 tension_NN1 at_II the_AT kinetochore_NN1 )_Y added_VVD_VVN during_II metaphase_NN1 caused_VVD_VVN the_AT 3F3_FO phosphoepitope_VV0_NN1 to_TO relocalize_VVI to_II the_AT kinetochore_NN1 ,_Y providing_VVG_CS@ additional_JJ evidence_NN1 that_CST the_AT 3F3_FO phosphoepitope_NN1_VV0 is_VBZ involved_JJ in_II the_AT SAC_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  235 In addition , they used the TEM to determine that the 3F3 phosphoepitope was found in the middle layer of the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  235 In_RR21 addition_RR22 ,_Y they_PPHS2 used_VVD the_AT TEM_NN1_NP1 to_TO determine_VVI that_CST the_AT 3F3_FO phosphoepitope_NN1 was_VBDZ found_VVN in_II the_AT middle_JJ_NN1 layer_NN1 of_IO the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  236 Nicklas and colleagues ( 1995 ) showed that the 3F3 phosphoepitope monitors tension at the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  236 Nicklas_NN2_NP1@ and_CC colleagues_NN2 (_Y 1995_MC )_Y showed_VVD that_CST the_AT 3F3_FO phosphoepitope_NN1_VV0 monitors_VVZ_NN2 tension_NN1 at_II the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  237 Using micromanipulation , light microscopy , and immunofluorescence in grasshopper spermatocytes , these authors determined that the longer chromosomes remained off the spindle , the more strongly they stained .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  237 Using_VVG micromanipulation_NN1 ,_Y light_JJ_NN1 microscopy_NN1 ,_Y and_CC immunofluorescence_NN1 in_II grasshopper_NN1 spermatocytes_NN2 ,_Y these_DD2 authors_NN2 determined_VVN_VVD@ that_CST the_AT longer_JJR chromosomes_NN2 remained_VVN_VVD off_II_RP the_AT spindle_NN1 ,_Y the_AT more_RGR strongly_RR they_PPHS2 stained_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  238 A properly attached kinetochore was dislodged from the spindle and reattached to one pole , resulting in loss of tension at the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  238 A_AT1_ZZ1 properly_RR attached_VVN_JJ@ kinetochore_NN1 was_VBDZ dislodged_VVN from_II the_AT spindle_NN1 and_CC reattached_VVN to_II one_MC1 pole_NN1 ,_Y resulting_VVG in_II loss_NN1 of_IO tension_NN1 at_II the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  239 Here , the kinetochores stained brightly , indicating that attachment was not sufficient to lose the 3F3 phosphoepitope .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  239 Here_RL ,_Y the_AT kinetochores_NN2 stained_VVD_VVN brightly_RR ,_Y indicating_VVG that_DD1_CST attachment_NN1 was_VBDZ not_XX sufficient_JJ to_TO lose_VVI the_AT 3F3_FO phosphoepitope_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  240 Other experiments confirmed these results ( Waters et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  240 Other_JJ experiments_NN2 confirmed_VVD_VVN these_DD2 results_NN2 (_Y Waters_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  241 1998 , Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  241 1998_MC ,_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  242 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  242 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  243 Various other enzyme polo-like kinase 1 ( Plk1 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  243 Various_JJ other_JJ enzyme_NN1 polo-like_JJ kinase_NN1 1_MC1 (_Y Plk1_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  244 Depletion of Plk1 led to a loss of 3F3 phosphoepitope activity , while purified recombinant Plk1 could generate the 3F3 phosphoepitope .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  244 Depletion_NN1 of_IO Plk1_FO led_VVN_VVD to_II a_AT1 loss_NN1 of_IO 3F3_FO phosphoepitope_NN1_VV0 activity_NN1 ,_Y while_CS purified_JJ@_VVN@ recombinant_NN1_JJ Plk1_FO could_VM generate_VVI the_AT 3F3_FO phosphoepitope_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  245 Small interfering RNA experiments and rephosphorylation assays on Plk1 confirmed these results .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  245 Small_NP1_JJ interfering_VVG_JJ@_NN1@ RNA_NN1 experiments_NN2 and_CC rephosphorylation_NN1 assays_NN2_VVZ@ on_II Plk1_FO confirmed_VVD_VVN these_DD2 results_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  246 Recently , Wong and Fang ( 2007 ) used recombinant proteins , immunodepletion , and immunofluorescence to demonstrate that phosphorylation of the protein BubR1 by the Xenopus polo-like kinase 1 ( Plx1 ) generates the 3F3 phosphoepitope .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  246 Recently_RR ,_Y Wong_NP1_NN1_VV0 and_CC Fang_NN1 (_Y 2007_MC )_Y used_VVD_JJ recombinant_JJ_NN1 proteins_NN2 ,_Y immunodepletion_NN1 ,_Y and_CC immunofluorescence_NN1 to_TO demonstrate_VVI that_DD1_CST phosphorylation_NN1 of_IO the_AT protein_NN1 BubR1_FO by_II the_AT Xenopus_NN1_NP1 polo-like_JJ kinase_NN1 1_MC1 (_Y Plx1_FO )_Y generates_VVZ the_AT 3F3_FO phosphoepitope_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  247 Motor proteins Of the various motor proteins located at the kinetochore , we will focus on centromere protein E ( CENP-E ) , since it has been well studied and is involved in SAC activation ( figure 3 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  247 Motor_NN1_VV0@ proteins_NN2 Of_IO the_AT various_JJ motor_NN1 proteins_NN2 located_VVN_VVD at_II the_AT kinetochore_NN1 ,_Y we_PPIS2 will_VM focus_VVI on_II centromere_NN1 protein_NN1 E_ZZ1 (_Y CENP-E_NP1 )_Y ,_Y since_CS it_PPH1 has_VHZ been_VBN well_RR studied_VVN_VVD and_CC is_VBZ involved_JJ in_II SAC_NN1 activation_NN1 (_Y figure_NN1 3_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  248 Yen and colleagues ( 1991 ) identified CENP-E as a protein necessary for the metaphase to anaphase transition .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  248 Yen_VV0_NN and_CC colleagues_NN2 (_Y 1991_MC )_Y identified_VVD@_VVN CENP-E_NP1 as_II_CSA a_AT1 protein_NN1 necessary_JJ for_IF the_AT metaphase_NN1 to_TO anaphase_VVI transition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  249 In the same series of experiments , immunofluorescence was used to determine that CENP-E was first localized at the kinetochore during prometaphase , and relocalized to the spindle midzone at the start of anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  249 In_II the_AT same_DA series_NN of_IO experiments_NN2 ,_Y immunofluorescence_NN1 was_VBDZ used_VVN to_TO determine_VVI that_CST CENP-E_NP1 was_VBDZ first_MD localized_VVD_JJ_VVN@ at_II the_AT kinetochore_NN1 during_II prometaphase_NN1 ,_Y and_CC relocalized_VVD to_II the_AT spindle_NN1 midzone_NN1_VV0 at_II the_AT start_NN1 of_IO anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  250 When sequenced , CENP-E was determined to be a member of the kinesin family , with protein is fairly well conserved , with homologues detected in a variety of eukaryotes , budding yeast being an interesting exception ( Maney et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  250 When_CS sequenced_VVN_JJ ,_Y CENP-E_NP1 was_VBDZ determined_VVN to_TO be_VBI a_AT1 member_NN1 of_IO the_AT kinesin_NN1 family_NN1 ,_Y with_IW protein_NN1 is_VBZ fairly_RR well_RR conserved_VVN ,_Y with_IW homologues_NN2 detected_VVN_VVD in_II a_AT1 variety_NN1 of_IO eukaryotes_NN2 ,_Y budding_JJ yeast_NN1 being_VBG an_AT1 interesting_JJ exception_NN1 (_Y Maney_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  251 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  251 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  252 Yeast two-hybrid experiments showed that CENP-E interacts with CENP-F ( found on the kinetochore ) and the SAC protein , BubR1 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  252 Yeast_VV0 two-hybrid_JJ_NN1 experiments_NN2 showed_VVD that_CST CENP-E_NP1 interacts_VVZ with_IW CENP-F_NP1 (_Y found_VVN on_II the_AT kinetochore_NN1 )_Y and_CC the_AT SAC_NN1 protein_NN1 ,_Y BubR1_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  253 It was suggested that these proteins create a binding site for CENP-E on the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  253 It_PPH1 was_VBDZ suggested_VVN that_CST these_DD2 proteins_NN2 create_VV0 a_AT1 binding_JJ site_NN1 for_IF CENP-E_NP1 on_II the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  254 Other experiments determined that CENP-E was necessary for normal mitosis , and defects in the protein resulted in severe mitotic defects or mitotic arrest ( Chan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  254 Other_JJ experiments_NN2 determined_VVN_VVD@ that_CST CENP-E_NP1 was_VBDZ necessary_JJ for_IF normal_JJ mitosis_NN1 ,_Y and_CC defects_NN2 in_II the_AT protein_NN1 resulted_VVN_VVD in_II severe_JJ mitotic_JJ defects_NN2 or_CC mitotic_JJ arrest_NN1 (_Y Chan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  255 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  255 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  256 These and other results confirmed that CENP-E is a kinetochore-microtubule sensor that relays information to the SAC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  256 These_DD2 and_CC other_JJ results_NN2 confirmed_VVD_VVN that_CST CENP-E_NP1 is_VBZ a_AT1 kinetochore-microtubule_JJ_NN1 sensor_NN1 that_CST_DD1 relays_VVZ information_NN1 to_II the_AT SAC_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  257 Anaphase After the SAC is satisfied , anaphase is initiated .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  257 Anaphase_VV0_NN1 After_II_CS the_AT SAC_NN1 is_VBZ satisfied_JJ_VVN@ ,_Y anaphase_NN1_VV0 is_VBZ initiated_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  258 Anaphase occurs in two stages , anaphases A and B ( figure 5 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  258 Anaphase_NN1_NP1@ occurs_VVZ in_II two_MC stages_NN2 ,_Y anaphases_NN2_VVZ A_ZZ1 and_CC B_ZZ1 (_Y figure_NN1 5_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  259 Anaphase A is defined as chromosome movement toward the poles ; anaphase B occurs when the spindle elongates .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  259 Anaphase_VV0 A_ZZ1 is_VBZ defined_VVN as_CSA_II@ chromosome_NN1 movement_NN1 toward_II the_AT poles_NN2 ;_Y anaphase_VV0 B_ZZ1 occurs_VVZ when_RRQ_CS the_AT spindle_NN1 elongates_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  260 Here , we will discuss only anaphase A , since it is the component of anaphase in which the kinetochore clearly plays a major role .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  260 Here_RL ,_Y we_PPIS2 will_VM discuss_VVI only_RR_JJ anaphase_VV0_NN1 A_ZZ1 ,_Y since_CS it_PPH1 is_VBZ the_AT component_NN1 of_IO anaphase_NN1 in_II which_DDQ the_AT kinetochore_NN1 clearly_RR plays_VVZ a_AT1 major_JJ role_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  261 Anaphase B consists .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  261 Anaphase_VV0 B_ZZ1 consists_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  262 Although many models have been proposed for anaphase A movement ( Pickett-Heaps et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  262 Although_CS many_DA2 models_NN2 have_VH0 been_VBN proposed_VVN for_IF anaphase_NN1 A_ZZ1_AT1@ movement_NN1 (_Y Pickett-Heaps_NN2 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  263 1982 ) , two major models are now being debated : the pac-man and the traction-fiber models .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  263 1982_MC )_Y ,_Y two_MC major_JJ models_NN2 are_VBR now_RT being_VBG debated_VVN :_Y the_AT pac-man_NN1_JJ and_CC the_AT traction-fiber_JJ_NN1 models_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  264 The latter does not directly involve the kinetochore and therefore will not be discussed here .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  264 The_AT latter_DA does_VDZ not_XX directly_RR involve_VVI the_AT kinetochore_NN1 and_CC therefore_RR will_VM not_XX be_VBI discussed_VVN here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  265 The pac-man model is currently the most accepted one , and proposes that poleward forces are generated near or at the kinetochore by motor proteins ( Nicklas 1989 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  265 The_AT pac-man_JJ_NN1 model_NN1 is_VBZ currently_RR the_AT most_RGT accepted_JJ one_PN1 ,_Y and_CC proposes_VVZ that_CST_DD1 poleward_JJ forces_NN2 are_VBR generated_VVN near_RL or_CC at_II the_AT kinetochore_NN1 by_II motor_NN1 proteins_NN2 (_Y Nicklas_NN2@ 1989_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  266 As a by-product , the kinetochore microtubules disassemble , and the kinetochore " chews " its way toward the pole ( Gadde and Heald 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  266 As_II_CSA a_AT1 by-product_NN1 ,_Y the_AT kinetochore_NN1 microtubules_NN2_VVZ disassemble_VV0_NN1 ,_Y and_CC the_AT kinetochore_NN1 "_Y chews_VVZ "_Y its_Z' way_NN1 toward_II the_AT pole_NN1 (_Y Gadde_NP1_NN1 and_CC Heald_VV0_NP1_NN1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  267 Protein functional studies have revealed new information about anaphase movement and the function of motor proteins .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  267 Protein_NN1 functional_JJ studies_NN2 have_VH0 revealed_VVN new_JJ information_NN1 about_II anaphase_NN1 movement_NN1 and_CC the_AT function_NN1 of_IO motor_NN1 proteins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  268 Rogers and colleagues ( 2004 ) discovered two **25;9188;TOOLONG kinesin-like enzymes in Drosophila that are responsible for chromosome-to-pole movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  268 Rogers_NP1 and_CC colleagues_NN2 (_Y 2004_MC )_Y discovered_VVD two_MC **25;9188;TOOLONG_JJ kinesin-like_JJ enzymes_NN2 in_II Drosophila_NP1_NN1@ that_CST are_VBR responsible_JJ for_IF chromosome-to-pole_JJ_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  269 One of these proteins contributes to motility , as in the pac-man mechanism , while the other is involved in poleward microtubule flux .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  269 One_MC1 of_IO these_DD2 proteins_NN2 contributes_VVZ to_II motility_NN1 ,_Y as_CSA in_II the_AT pac-man_JJ_NN1 mechanism_NN1 ,_Y while_CS the_AT other_NN1@_JJ is_VBZ involved_JJ in_II poleward_JJ_RL microtubule_NN1_VV0 flux_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  270 Work with molecular techniques such as RNAi and immunofluorescence microscopy have further clarified these models ( Zhang et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  270 Work_VV0_NN1 with_IW molecular_JJ techniques_NN2 such_II21 as_II22 RNAi_NP1_NN1_JJ and_CC immunofluorescence_NN1 microscopy_NN1 have_VH0 further_RRR clarified_VVN these_DD2 models_NN2 (_Y Zhang_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  271 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  271 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  272 molecules and microtubule flux contribute to chromosome movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  272 molecules_NN2 and_CC microtubule_VV0_NN1 flux_NN1 contribute_VV0 to_II chromosome_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  273 Experimental models Attempts to create a model spindle have provided additional insight into the function of kinetochores .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  273 Experimental_JJ models_NN2 Attempts_NN2_VVZ% to_TO create_VVI a_AT1 model_NN1 spindle_NN1 have_VH0 provided_VVN additional_JJ insight_NN1 into_II the_AT function_NN1 of_IO kinetochores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  274 Brinkley and colleagues ( 1983 ) found that when hydroxyurea and caffeine were added to Chinese hamster ovary cells , the cells entered a premature mitosis without replicating their DNA .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  274 Brinkley_NN1_NP1@ and_CC colleagues_NN2 (_Y 1983_MC )_Y found_VVD that_CST when_CS hydroxyurea_NN1 and_CC caffeine_NN1 were_VBDR added_VVN to_II Chinese_JJ hamster_NN1 ovary_NN1 cells_NN2 ,_Y the_AT cells_NN2 entered_VVD_VVN a_AT1 premature_JJ mitosis_NN1 without_IW replicating_VVG their_APPGE DNA_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  275 The chromatin was fractured and scattered throughout the cell and kinetochores were detached from the chromosomes , producing single kinetochore fragments with small amounts of chromatin attached .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  275 The_AT chromatin_NN1 was_VBDZ fractured_VVN_JJ and_CC scattered_VVN_JJ throughout_II the_AT cell_NN1 and_CC kinetochores_NN2 were_VBDR detached_VVN from_II the_AT chromosomes_NN2 ,_Y producing_VVG single_JJ kinetochore_NN1 fragments_NN2 with_IW small_JJ amounts_NN2 of_IO chromatin_NN1 attached_VVN_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  276 Wise and Brinkley ( 1997 ) found that these fragments achieved prometaphase congression and metaphase alignment , and interacted with microtubules in orthodox ways .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  276 Wise_JJ_NP1@ and_CC Brinkley_NP1 (_Y 1997_MC )_Y found_VVD that_CST these_DD2 fragments_NN2 achieved_VVN_VVD@ prometaphase_NN1_VV0 congression_NN1 and_CC metaphase_VV0_NN1 alignment_NN1 ,_Y and_CC interacted_VVN_VVD with_IW microtubules_NN2 in_II orthodox_JJ ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  277 These experiments showed that even single kinetochore fragments are able to attach to the spindle , to congress to the metaphase plate , and to be distributed equally to the daughter cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  277 These_DD2 experiments_NN2 showed_VVD that_CST_DD1 even_RR single_JJ kinetochore_NN1 fragments_NN2 are_VBR able_JK to_TO attach_VVI to_II the_AT spindle_NN1 ,_Y to_II congress_NN1 to_II the_AT metaphase_NN1 plate_NN1 ,_Y and_CC to_TO be_VBI distributed_VVN equally_RR to_II the_AT daughter_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  278 Recent experiments using laser microsurgery and maize meiotic mutants have suggested that a single kinetochore can act in the same manner as two sister kinetochores during congression , and that kinetochores are redundant structures able to carry out their functions in duplicate ( Zinkowski et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  278 Recent_JJ experiments_NN2 using_VVG laser_NN1 microsurgery_NN1 and_CC maize_NN1 meiotic_JJ_NN1@ mutants_NN2 have_VH0 suggested_VVN that_CST a_AT1 single_JJ kinetochore_NN1 can_VM act_VVI in_II the_AT same_DA manner_NN1 as_CSA two_MC sister_NN1 kinetochores_VVZ_NN2 during_II congression_NN1 ,_Y and_CC that_CST_DD1 kinetochores_NN2_VVZ are_VBR redundant_JJ structures_NN2 able_JK to_TO carry_VVI out_RP their_APPGE functions_NN2 in_II duplicate_NN1_JJ (_Y Zinkowski_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  279 Dawe 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  279 Dawe_NP1 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  280 The future Pickett-Heaps and colleagues ( 1982 ) wrote that " after 40 years of intense investigative work , biologists hardly seem closer to a solution " for the mechanism of chromosome movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  280 The_AT future_JJ_NN1 Pickett-Heaps_NN2 and_CC colleagues_NN2 (_Y 1982_MC )_Y wrote_VVD that_CST "_Y after_II_CS 40_MC years_NNT2 of_IO intense_JJ investigative_JJ work_NN1 ,_Y biologists_NN2 hardly_RR seem_VV0 closer_JJR to_TO a_AT1 solution_NN1 "_Y for_IF the_AT mechanism_NN1 of_IO chromosome_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  281 Modern molecular and genetic technology , merged with microscopy , has improved our ability to probe , but much is left to be determined about kinetochore assembly , the SAC , and the role of the kinetochore in accurate chromosome orientation and movement .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  281 Modern_JJ molecular_JJ and_CC genetic_JJ technology_NN1 ,_Y merged_VVN_VVD with_IW microscopy_NN1 ,_Y has_VHZ improved_VVN our_APPGE ability_NN1 to_TO probe_VVI ,_Y but_CCB much_DA1_RR is_VBZ left_VVN_JJ to_TO be_VBI determined_VVN about_II kinetochore_NN1 assembly_NN1 ,_Y the_AT SAC_NN1 ,_Y and_CC the_AT role_NN1 of_IO the_AT kinetochore_NN1 in_II accurate_JJ chromosome_NN1 orientation_NN1 and_CC movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  282 We also have much to learn about the intricacies of epigenetic factors on the centromere and on the placement of the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  282 We_PPIS2 also_RR have_VH0 much_DA1_RR to_TO learn_VVI about_II the_AT intricacies_NN2 of_IO epigenetic_JJ factors_NN2 on_II the_AT centromere_NN1 and_CC on_II the_AT placement_NN1 of_IO the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  283 The analysis of protein function , coupled with light and electron microscopy , will play an important role in discovering more about the kinetochore 's structure and function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  283 The_AT analysis_NN1 of_IO protein_NN1 function_NN1 ,_Y coupled_VVN_VVD with_IW light_JJ_NN1 and_CC electron_NN1 microscopy_NN1 ,_Y will_VM play_VVI an_AT1 important_JJ role_NN1 in_II discovering_VVG more_RRR_DAR about_II the_AT kinetochore_NN1 's_GE structure_NN1 and_CC function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  284 Acknowledgments The authors would like to thank Lisa Evans for her assistance and Charles Matyi for his advice .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  284 Acknowledgments_NN2_NP1@ The_AT authors_NN2 would_VM like_VVI to_TO thank_VVI Lisa_NP1 Evans_NP1 for_IF her_APPGE assistance_NN1 and_CC Charles_NP1 Matyi_NP1_NN1 for_IF his_APPGE advice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  285 We are also grateful for the sage advice of the reviewers of this manuscript .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  285 We_PPIS2 are_VBR also_RR grateful_JJ for_IF the_AT sage_NN1_JJ@ advice_NN1 of_IO the_AT reviewers_NN2 of_IO this_DD1 manuscript_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  286 We regret that many important papers could not be cited because of space limitations ; we have chosen those we deem to be is dedicated to Professor Bruce Nicklas for his abiding interest in and landmark work on the kinetochore and its various functions .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  286 We_PPIS2 regret_VV0 that_CST many_DA2 important_JJ papers_NN2 could_VM not_XX be_VBI cited_VVN because_II21 of_II22 space_NN1 limitations_NN2 ;_Y we_PPIS2 have_VH0 chosen_VVN those_DD2 we_PPIS2 deem_VV0 to_TO be_VBI is_VBZ dedicated_VVN to_II Professor_NNB Bruce_NP1 Nicklas_NP2 for_IF his_APPGE abiding_JJ interest_NN1 in_II_RP@ and_CC landmark_NN1 work_NN1_VV0 on_II the_AT kinetochore_NN1 and_CC its_Z' various_JJ functions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  287 References cited Alberts B , Bray D , Lewis J , Raff M , Roberts K , Watson JD , eds. 2008 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  287 References_NN2 cited_VVD Alberts_NP2 B_NP1@ ,_Y Bray_NP1_VV0 D_ZZ1_NP1@ ,_Y Lewis_NP1 J_ZZ1_NP1@ ,_Y Raff_NP1_VV0 M_ZZ1_NN1 ,_Y Roberts_NP1 K_ZZ1_NP1@ ,_Y Watson_NP1 JD_NP1 ,_Y eds._NN2 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  288 Molecular Biology of the Cell , 5th ed .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  288 Molecular_JJ Biology_NN1 of_IO the_AT Cell_NN1 ,_Y 5th_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  289 Garland Science .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  289 Garland_NN1_NP1@ Science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  290 Antonio C , Ferby I , Wilhelm H , Jones M , Karsenti E , Nebreda AR , Vernos I. 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  290 Antonio_NP1 C_NP1_ZZ1 ,_Y Ferby_NP1_NN1 I_ZZ1%_PPIS1 ,_Y Wilhelm_NP1 H_ZZ1_NP1@ ,_Y Jones_NP1 M_ZZ1_NN1 ,_Y Karsenti_NP1_JJ E_ZZ1_NP1@ ,_Y Nebreda_NN1@_NP1 AR_UH ,_Y Vernos_NP1 I._NP1 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  291 Xkid , a chromokinesin required for chromosome alignment on the metaphase plate .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  291 Xkid_NN1_NP1@_JJ ,_Y a_AT1 chromokinesin_NN1 required_VVN for_IF chromosome_NN1 alignment_NN1 on_II the_AT metaphase_NN1 plate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  292 Cell 102 : 425-435 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  292 Cell_NN1 102_MC :_Y 425-435_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  293 Brenner S , Pepper D , Berns MW , Tan E , Brinkley BR. 1981 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  293 Brenner_NN1_NP1@ S_ZZ1_NP1@ ,_Y Pepper_NN1 D_ZZ1 ,_Y Berns_NP2 MW_NNU ,_Y Tan_JJ_NN1_VV0@ E_ZZ1 ,_Y Brinkley_NP1 BR._ZZ 1981_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  294 Kinetochore structure , duplication , and distribution in mammalian cells : Analysis by human autoantibodies from scleroderma patients .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  294 Kinetochore_VV0_NN1 structure_NN1 ,_Y duplication_NN1 ,_Y and_CC distribution_NN1 in_II mammalian_JJ cells_NN2 :_Y Analysis_NN1 by_II human_JJ_NN1 autoantibodies_NN2 from_II scleroderma_NN1 patients_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  295 Journal of Cell Biology 91 : 95-102 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  295 Journal_NN1 of_IO Cell_NN1 Biology_NN1 91_MC :_Y 95-102_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  296 Brinkley BR. 1990 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  296 Brinkley_NP1@ BR._ZZ 1990_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  297 Toward a structural and molecular definition of the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  297 Toward_II a_AT1 structural_JJ and_CC molecular_JJ definition_NN1 of_IO the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  298 Cell Motility and the Cytoskeleton 16:104-109 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  298 Cell_NN1 Motility_NN1_NP1 and_CC the_AT Cytoskeleton_NP1_NN1@ 16:104-109_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  299 Brinkley BR , Stubblefield E. 1966 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  299 Brinkley_NP1@ BR_NP1 ,_Y Stubblefield_NP1 E._NP1 1966_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  300 The fine structure of the kinetochore of a mammalian cell in vitro .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  300 The_AT fine_JJ structure_NN1 of_IO the_AT kinetochore_NN1 of_IO a_AT1 mammalian_JJ cell_NN1 in_RR21 vitro_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  301 Chromosoma 19 : 28-43 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  301 Chromosoma_NN1_NP1@ 19_MC :_Y 28-43_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  302 Brinkley BR , Zinkowski RP Pershouse M , Rao PN. 1988 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  302 Brinkley_NP1@ BR_NP1 ,_Y Zinkowski_NP1 RP_NP1 Pershouse_NP1_NN1 M_ZZ1_NN1 ,_Y Rao_NP1 PN._NP1 1988_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  303 Movement and segregation of kinetochores experimentally detached from mammalian chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  303 Movement_NN1 and_CC segregation_NN1 of_IO kinetochores_NN2 experimentally_RR detached_VVN from_II mammalian_JJ chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  304 Nature 336:251-254 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  304 Nature_NN1 336:251-254_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  305 Brouhard GJ , Hunt AJ. 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  305 Brouhard_NP1@ GJ_NP1 ,_Y Hunt_NP1 AJ._NP1 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  306 Microtubule movements on the arms of mitotic chromosomes : Polar ejection forces quantified in vitro .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  306 Microtubule_VV0_NN1 movements_NN2 on_II the_AT arms_NN2 of_IO mitotic_JJ chromosomes_NN2 :_Y Polar_JJ ejection_NN1 forces_NN2 quantified_VVN_VVD@ in_RR21 vitro_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  307 Proceedings of the National Academy of Sciences 102:13903-13908 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  307 Proceedings_NN2 of_IO the_AT National_JJ Academy_NN1 of_IO Sciences_NN2 102:13903-13908_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  308 Campbell MS , Gorbsky GJ. 1995 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  308 Campbell_NP1 MS_NN1 ,_Y Gorbsky_NP1 GJ._NP1 1995_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  309 Microinjection of mitotic cells with the 3F3/2 anti-phosphoepitope antibody delays the onset of anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  309 Microinjection_NN1 of_IO mitotic_JJ cells_NN2 with_IW the_AT 3F3/2_FU anti-phosphoepitope_JJ_NN1 antibody_NN1 delays_NN2_VVZ% the_AT onset_NN1 of_IO anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  310 Journal of Cell Biology 129:1195-1204 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  310 Journal_NN1 of_IO Cell_NN1 Biology_NN1 129:1195-1204_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  311 Carbon J , Clarke L. 1984 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  311 Carbon_NN1 J_ZZ1 ,_Y Clarke_NP1 L._ZZ 1984_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  312 Structural and functional analysis of a yeast centromere ( CEN3 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  312 Structural_JJ and_CC functional_JJ analysis_NN1 of_IO a_AT1 yeast_NN1 centromere_NN1 (_Y CEN3_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  313 Journal of Cell Science ( suppl. 1 ) : 43-58 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  313 Journal_NN1 of_IO Cell_NN1 Science_NN1 (_Y suppl._NNU 1_MC1 )_Y :_Y 43-58_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  314 Carroll CW , Straight AF. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  314 Carroll_NP1 CW_NP1 ,_Y Straight_RR_JJ AF._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  315 Centromere formation : From epigenetics to self-assembly .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  315 Centromere_NN1_NP1@ formation_NN1 :_Y From_II epigenetics_NN1 to_II self-assembly_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  316 Trends in Cell Biology 16:70-78 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  316 Trends_NN2 in_II Cell_NN1 Biology_NN1 16:70-78_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  317 Chan GK , Liu ST , Yen TJ. 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  317 Chan_NP1 GK_NP1 ,_Y Liu_NP1 ST_NNL1 ,_Y Yen_VV0_NN TJ._NP1 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  318 Kinetochore structure and function .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  318 Kinetochore_VV0_NN1 structure_NN1 and_CC function_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  319 Trends in Cell Biology 15 : 589-598 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  319 Trends_NN2 in_II Cell_NN1 Biology_NN1 15_MC :_Y 589-598_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  320 Cleveland DW , Mao Y , Sullivan KF. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  320 Cleveland_NP1 DW_NP1 ,_Y Mao_NP1 Y_ZZ1_NP1@ ,_Y Sullivan_NP1 KF._NP1 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  321 Centromeres and kinetochores : From epigenetics to mitotic checkpoint signaling .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  321 Centromeres_NN2_NP1@ and_CC kinetochores_VVZ_NN2 :_Y From_II epigenetics_NN1 to_II mitotic_NN1 checkpoint_NN1_VV0 signaling_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  322 Cell 112:407-421 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  322 Cell_NN1 112:407-421_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  323 Compton DA .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  323 Compton_NP1 DA_NN1_FU ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  324 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  324 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  325 Spindle assembly in animal cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  325 Spindle_VV0_NN1 assembly_NN1 in_II animal_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  326 Annual , Vagnarelli P. 1999 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  326 Annual_JJ ,_Y Vagnarelli_NP1 P._NP1 1999_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  327 Mammalian centromeres : DNA sequence , protein composition , and role in cell cycle progression .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  327 Mammalian_JJ centromeres_NN2 :_Y DNA_NN1 sequence_NN1 ,_Y protein_NN1 composition_NN1 ,_Y and_CC role_NN1 in_II cell_NN1 cycle_NN1 progression_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  328 Experimental Cell Research 246 : 249-262 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  328 Experimental_JJ Cell_NN1 Research_NN1 246_MC :_Y 249-262_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  329 Cyert MS , Scherson T , Kirschner MW. 1988 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  329 Cyert_VV0_NN1 MS_NN1 ,_Y Scherson_NP1 T_ZZ1_NP1@ ,_Y Kirschner_NP1 MW._NNU 1988_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  330 Monodonal antibodies specific for thiophosphorylated proteins recognize Xenopus MPF .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  330 Monodonal_JJ antibodies_NN2 specific_JJ for_IF thiophosphorylated_JJ@ proteins_NN2 recognize_VV0 Xenopus_NP1 MPF_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  331 Developmental Biology 129 : 209-216 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  331 Developmental_JJ Biology_NN1 129_MC :_Y 209-216_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  332 Earnshaw WC. 1991 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  332 Earnshaw_VV0_NN1 WC._NN1 1991_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  333 When is a centromere not a kinetochore ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  333 When_RRQ is_VBZ a_AT1 centromere_NN1 not_XX a_AT1 kinetochore_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  334 Journal of Cell Science 99 : 1-4 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  334 Journal_NN1 of_IO Cell_NN1 Science_NN1 99_MC :_Y 1-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  335 Earnshaw WC , Rothfield N. 1985 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  335 Earnshaw_VV0_NN1 WC_NN1 ,_Y Rothfield_NP1 N._NP1 1985_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  336 Identification of a family of human centromere proteins using autoimmune sera from patients with scleroderma .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  336 Identification_NN1 of_IO a_AT1 family_NN1 of_IO human_JJ_NN1 centromere_NN1 proteins_NN2 using_VVG autoimmune_NN1 sera_FW from_II patients_NN2 with_IW scleroderma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  337 Chromosoma 91 : 313-321 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  337 Chromosoma_NN1_NP1@ 91_MC :_Y 313-321_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  338 Fitzgerald-Hayes M , Clarke l , Carbon J. 1982 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  338 Fitzgerald-Hayes_NP1 M_ZZ1_NN1 ,_Y Clarke_NP1 l_ZZ1 ,_Y Carbon_NN1 J._NP1 1982_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  339 Nucleotide sequence comparisons and functional analysis of yeast centromere DNAs .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  339 Nucleotide_VV0_NN1 sequence_NN1 comparisons_NN2 and_CC functional_JJ analysis_NN1 of_IO yeast_NN1 centromere_NN1 DNAs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  340 Cell 29 : 235-244 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  340 Cell_NN1 29_MC :_Y 235-244_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  341 Gadde S , Heald R. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  341 Gadde_NN1_NP1@ S_ZZ1_NP1@ ,_Y Heald_NP1 R._NP1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  342 Mechanisms and molecules of the mitotic spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  342 Mechanisms_NN2 and_CC molecules_NN2 of_IO the_AT mitotic_JJ spindle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  343 Current Biology 14 : 797-805 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  343 Current_JJ Biology_NN1 14_MC :_Y 797-805_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  344 Gorbsky GI , Ricketts WA. 1993 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  344 Gorbsky_JJ GI_NN1 ,_Y Ricketts_NP1 WA._NP1 1993_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  345 Differential expression of a phosphoepitope at the kinetochores of moving chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  345 Differential_JJ_NN1 expression_NN1 of_IO a_AT1 phosphoepitope_NN1 at_II the_AT kinetochores_NN2 of_IO moving_VVG_JJ@ chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  346 Journal of Cell Biology 122 : 1311-1321 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  346 Journal_NN1 of_IO Cell_NN1 Biology_NN1 122_MC :_Y 1311-1321_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  347 Gorbsky GJ , Chen RH , Murray AW .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  347 Gorbsky_NP1@_JJ GJ_NP1 ,_Y Chen_NP1 RH_FO ,_Y Murray_NP1 AW_UH ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  348 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  348 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  349 Microinjection of antibody to .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  349 Microinjection_NN1 of_IO antibody_NN1 to_II ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  350 Journal of Cell Biology 141:1193-1205 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  350 Journal_NN1 of_IO Cell_NN1 Biology_NN1 141:1193-1205_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  351 Hayashi T , Fujita Y , Iwasaki O , Adachi Y , Takahashi K , Yanagida M. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  351 Hayashi_NP1@_NN2 T_ZZ1_NP1@ ,_Y Fujita_NP1 Y_ZZ1_NP1@ ,_Y Iwasaki_NP1_NN1 O_ZZ1_NP1@ ,_Y Adachi_NP1_JJ Y_ZZ1_NP1@ ,_Y Takahashi_NP1_JJ K_ZZ1_NP1@ ,_Y Yanagida_NP1 M._NN1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  352 Mis16 and Mis18 are required for CENP-A loading and histone deacetylation at centromeres .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  352 Mis16_FO and_CC Mis18_FO are_VBR required_VVN for_IF CENP-A_NN1_NP1 loading_NN1_VVG and_CC histone_NN1 deacetylation_NN1 at_II centromeres_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  353 Cell 118 : 715-729 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  353 Cell_NN1 118_MC :_Y 715-729_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  354 Hayden JH , Bowser SS , Rieder CL. 1990 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  354 Hayden_NP1 JH_NP1 ,_Y Bowser_NP1 SS_NP1 ,_Y Rieder_JJR_NP1@_VV0@ CL._FO 1990_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  355 Kinetochores capture astral microtubules during chromosome attachment to the mitotic spindle : Direct visualization in live newt lung cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  355 Kinetochores_NN2 capture_VV0 astral_JJ_NN1 microtubules_NN2_VVZ during_II chromosome_NN1 attachment_NN1 to_II the_AT mitotic_JJ spindle_NN1 :_Y Direct_JJ visualization_NN1 in_II live_JJ newt_NN1 lung_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  356 Journal of Cell Biology 111 : 1039-1045 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  356 Journal_NN1 of_IO Cell_NN1 Biology_NN1 111_MC :_Y 1039-1045_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  357 Howman EV , Fowler KJ , Newson AJ , Redward S , MacDonald AC , Kalitsis P , Choo KH. 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  357 Howman_NN1_NP1@ EV_NN1 ,_Y Fowler_NP1 KJ_NP1 ,_Y Newson_NP1 AJ_NP1 ,_Y Redward_NP1 S_ZZ1_NP1@ ,_Y MacDonald_NP1 AC_NN1 ,_Y Kalitsis_NP1 P_ZZ1_NP1@ ,_Y Choo_NP1 KH._ZZ 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  358 Early disruption of centromeric chromatin organization in centromere protein A ( Cenpa ) null mice .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  358 Early_JJ disruption_NN1 of_IO centromeric_JJ chromatin_NN1 organization_NN1 in_II centromere_NN1 protein_NN1 A_ZZ1 (_Y Cenpa_NP1 )_Y null_JJ mice_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  359 Proceedings of the National Academy of Sciences 97:1148-1153 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  359 Proceedings_NN2 of_IO the_AT National_JJ Academy_NN1 of_IO Sciences_NN2 97:1148-1153_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  360 Hwang LH , Lau LF , Smith DL , Mistrot CA , Hardwick KG , Hwang ES , Amon A , Murray AW .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  360 Hwang_VV0_NP1@ LH_NP1 ,_Y Lau_NP1 LF_NP1 ,_Y Smith_NP1 DL_MC ,_Y Mistrot_NP1 CA_NP1@_VM ,_Y Hardwick_NP1 KG_NNU ,_Y Hwang_NP1 ES_NP1_FW ,_Y Amon_NP1_NN1 A_ZZ1 ,_Y Murray_NP1 AW_UH ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  361 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  361 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  362 Budding yeast Cdc20 : A target of the spindle checkpoint .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  362 Budding_JJ yeast_NN1 Cdc20_FO :_Y A_AT1@_ZZ1 target_NN1 of_IO the_AT spindle_NN1 checkpoint_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  363 Science 279 : 1041-1044 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  363 Science_NN1 279_MC :_Y 1041-1044_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  364 Jack EM , Harrison CJ , Allen TD , Harris R. 1985 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  364 Jack_NP1_VV0@ EM_FU ,_Y Harrison_NP1 CJ_NP1 ,_Y Allen_NP1 TD_NN1 ,_Y Harris_NP1 R._NP1 1985_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  365 The structural basis for C-banding : .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  365 The_AT structural_JJ basis_NN1 for_IF C-banding_NN1_JJ :_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  366 Job D , Valiron O , Oakley B. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  366 Job_NN1 D_ZZ1 ,_Y Valiron_NP1_NN1 O_ZZ1_NP1@ ,_Y Oakley_NP1 B._NP1 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  367 Microtubule nucleation .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  367 Microtubule_VV0_NN1 nucleation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  368 Current Opinion in Cell Biology 15 : 111-117 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  368 Current_JJ Opinion_NN1 in_II Cell_NN1 Biology_NN1 15_MC :_Y 111-117_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  369 Jokelainen PT. 1967 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  369 Jokelainen_JJ_NN1 PT._NN1 1967_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  370 The ultrastructure and spatial organization of the metaphase kinetochore in mitotic rat cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  370 The_AT ultrastructure_NN1 and_CC spatial_JJ organization_NN1 of_IO the_AT metaphase_NN1 kinetochore_NN1_VV0 in_II mitotic_JJ rat_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  371 Journal of Ultrastructural Research 19 : 19-44 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  371 Journal_NN1 of_IO Ultrastructural_JJ_NP1_NN1 Research_NN1 19_MC :_Y 19-44_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  372 Khodjakov A , Cole RW , McEwen BF , Buttle KF , Rieder CL. 1997 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  372 Khodjakov_NP1 A_ZZ1 ,_Y Cole_NP1 RW_NP1 ,_Y McEwen_NP1 BF_NP1 ,_Y Buttle_NP1 KF_NP1 ,_Y Rieder_JJR_NP1@_VV0@ CL._FO 1997_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  373 Chromosome fragments possessing only one kinetochore can congress to the spindle equator .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  373 Chromosome_NN1 fragments_NN2 possessing_VVG only_RR one_MC1 kinetochore_NN1 can_VM_NN1% congress_NN1 to_II the_AT spindle_NN1 equator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  374 Journal of Cell Biology 136 : 229-240 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  374 Journal_NN1 of_IO Cell_NN1 Biology_NN1 136_MC :_Y 229-240_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  375 Kitagawa K , Heiter P. 2001 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  375 Kitagawa_NN1_NP1@ K_ZZ1_NP1@ ,_Y Heiter_NP1 P._NP1 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  376 Evolutionary conservation between budding yeast and human kinetochores .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  376 Evolutionary_JJ conservation_NN1 between_II budding_JJ yeast_NN1 and_CC human_JJ_NN1 kinetochores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  377 Nature Reviews Molecular Cell Biology 2 : 678-687 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  377 Nature_NN1 Reviews_VVZ Molecular_JJ Cell_NN1 Biology_NN1 2_MC :_Y 678-687_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  378 Kwon MS , Hori T , Okada M , Fukagawa T. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  378 Kwon_NN1_NP1@ MS_NN1 ,_Y Hori_NP1_JJ T_ZZ1_NP1@ ,_Y Okada_NP1 M_ZZ1_NN1 ,_Y Fukagawa_NP1 T._NP1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  379 CENP-C is involved in chromosome segregation , mitotic checkpoint function , and kinetochore assembly .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  379 CENP-C_NP1 is_VBZ involved_JJ in_II chromosome_NN1 segregation_NN1 ,_Y mitotic_JJ checkpoint_NN1 function_NN1 ,_Y and_CC kinetochore_VV0_NN1 assembly_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  380 Molecular Biology of the Cell 18:2155-2168 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  380 Molecular_JJ Biology_NN1 of_IO the_AT Cell_NN1 18:2155-2168_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  381 Li Y , Benezra R. 1996 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  381 Li_NP1 Y_ZZ1_NP1@ ,_Y Benezra_NP1 R._NP1 1996_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  382 Identification of a human mitotic checkpoint gene : hsMAD2 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  382 Identification_NN1 of_IO a_AT1 human_JJ mitotic_JJ checkpoint_NN1 gene_NN1 :_Y hsMAD2_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  383 Science 274 : 246-248 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  383 Science_NN1 274_MC :_Y 246-248_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  384 Macgregor HC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  384 Macgregor_NP1 HC_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  385 1993 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  385 1993_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  386 Chromosome research -- look forward to 2001 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  386 Chromosome_NN1 research_NN1 --_NN1_JJ look_VV0_NN1 forward_RL to_II 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  387 Chromosome Research 1 : 5-7 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  387 Chromosome_NN1 Research_NN1 1_MC1 :_Y 5-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  388 Maddox P , Straight 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  388 Maddox_NP1 P_ZZ1_NP1@ ,_Y Straight_RR_JJ 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  389 Direct observation of microtubule attachment at kinetochores in Xenopus extract spindles : Implications for spindle mechanics .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  389 Direct_JJ observation_NN1 of_IO microtubule_NN1 attachment_NN1 at_II kinetochores_NN2 in_II Xenopus_NP1_NN1 extract_NN1 spindles_VVZ_NN2 :_Y Implications_NN2 for_IF spindle_NN1 mechanics_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  390 Journal of Cell Biology 162 : 377-382 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  390 Journal_NN1 of_IO Cell_NN1 Biology_NN1 162_MC :_Y 377-382_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  391 Maiato H , Sunkel CE. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  391 Maiato_NN1_NP1@ H_ZZ1_NP1@ ,_Y Sunkel_NP1 CE._NP1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  392 Kinetochore-microtubule interactions during cell division .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  392 Kinetochore-microtubule_JJ_NN1 interactions_NN2 during_II cell_NN1 division_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  393 Chromosome Research 12 : 585-597 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  393 Chromosome_NN1 Research_NN1 12_MC :_Y 585-597_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  394 Maiato H , Hergert PJ , Moutinho-Pereira S , Dong Y , Vandenbeldt KJ , Rieder CL , McEwen , BF. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  394 Maiato_NN1_NP1@ H_ZZ1_NP1@ ,_Y Hergert_NP1 PJ_NP1 ,_Y Moutinho-Pereira_NP1 S_ZZ1_NP1@ ,_Y Dong_NP1 Y_ZZ1_NP1@ ,_Y Vandenbeldt_NP1 KJ_NP1 ,_Y Rieder_NP1@_JJR CL_NP1 ,_Y McEwen_NP1 ,_Y BF._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  395 The ultrastructure of the kinetochore and kinetochore fiber in Drosophila somatic cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  395 The_AT ultrastructure_NN1 of_IO the_AT kinetochore_NN1 and_CC kinetochore_VV0_NN1 fiber_NN1 in_II Drosophila_NP1 somatic_JJ cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  396 Chromosoma 115 : 469 -- 480 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  396 Chromosoma_NN1_NP1@ 115_MC :_Y 469_MC --_ZZ 480_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  397 Maney T , Ginkel LM , Hunter AW , Wordeman L. 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  397 Maney_NN1_NP1@ T_ZZ1_NP1@ ,_Y Ginkel_NP1 LM_NP1 ,_Y Hunter_NN1@_NP1 AW_UH ,_Y Wordeman_NP1 L._ZZ 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  398 The kinetochore of higher eukaryotes : A molecular view .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  398 The_AT kinetochore_NN1 of_IO higher_JJR eukaryotes_NN2 :_Y A_ZZ1_AT1@ molecular_JJ view_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  399 International Review of Cytology 194 : 67-131 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  399 International_JJ Review_NN1 of_IO Cytology_NP1_NN1 194_MC :_Y 67-131_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  400 Masumoto H , Masukata H , Muro Y , Nozaki N , Okazaki T. 1989 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  400 Masumoto_NN1_NP1@ H_ZZ1_NP1@ ,_Y Masukata_NP1 H_ZZ1_NP1@ ,_Y Muro_NP1 Y_ZZ1_NP1@ ,_Y Nozaki_NP1_JJ N_ZZ1_NP1@ ,_Y Okazaki_NP1 T._NP1 1989_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  401 A human centromere antigen ( CENP-B ) interacts with a short specific sequence in alphoid DNA , a human centromeric satellite .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  401 A_AT1_ZZ1 human_JJ_NN1 centromere_NN1 antigen_NN1 (_Y CENP-B_NP1 )_Y interacts_VVZ with_IW a_AT1 short_JJ specific_JJ sequence_NN1 in_II alphoid_JJ_NN1 DNA_NN1 ,_Y a_AT1 human_JJ centromeric_JJ satellite_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  402 Journal of Cell Biology 109 : 1963-1973 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  402 Journal_NN1 of_IO Cell_NN1 Biology_NN1 109_MC :_Y 1963-1973_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  403 McEwen BF , Arena JT , Frank J , Rieder CL. 1993 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  403 McEwen_NP1 BF_NP1 ,_Y Arena_NP1 JT_NP1 ,_Y Frank_NP1 J_ZZ1_NP1@ ,_Y Rieder_JJR_NP1@_VV0@ CL._FO 1993_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  404 Structure of the colcemid-treated PtK1 kinetochore outer plate as determined by high : 301-312 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  404 Structure_NN1 of_IO the_AT colcemid-treated_NN1_JJ PtK1_FO kinetochore_VV0 outer_JJ plate_NN1 as_CSA determined_VVN by_II high_JJ :_Y 301-312_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  405 McEwen BF , Heagle AB , Cassels GO , Buttle KF , Rieder CL. 1997 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  405 McEwen_NP1 BF_NP1 ,_Y Heagle_NP1_VV0 AB_FO ,_Y Cassels_NP2_NN2@ GO_VV0 ,_Y Buttle_NP1 KF_NP1 ,_Y Rieder_JJR_NP1@_VV0@ CL._FO 1997_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  406 Kinetochore fiber maturation in PtK1 cells and its implications for the mechanisms of chromosome congression and anaphase onset .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  406 Kinetochore_VV0_NN1 fiber_NN1 maturation_NN1 in_II PtK1_FO cells_NN2 and_CC its_Z' implications_NN2 for_IF the_AT mechanisms_NN2 of_IO chromosome_NN1 congression_NN1 and_CC anaphase_VV0_NN1 onset_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  407 Journal of Cell Biology 137 : 1567-1580 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  407 Journal_NN1 of_IO Cell_NN1 Biology_NN1 137_MC :_Y 1567-1580_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  408 Mitchison T , Kirschner M. 1984 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  408 Mitchison_NN1_NP1@ T_ZZ1_NP1@ ,_Y Kirschner_NP1 M._NN1 1984_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  409 Dynamic instability of microtubule growth .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  409 Dynamic_JJ instability_NN1 of_IO microtubule_NN1 growth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  410 Nature 312 : 237-242 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  410 Nature_NN1 312_MC :_Y 237-242_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  411 Mitchison TJ , Salmon ED. 2001 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  411 Mitchison_NP1@ TJ_NP1 ,_Y Salmon_NN_NP1@ ED._NN1 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  412 Mitosis : A history of division .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  412 Mitosis_NP1@_NN1 :_Y A_AT1@_ZZ1 history_NN1 of_IO division_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  413 Nature Cell Biology 3 : 17-21 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  413 Nature_NN1 Cell_NN1 Biology_NN1 3_MC :_Y 17-21_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  414 Mitchison T , Evans l , Schulze E , Kirschner M. 1986 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  414 Mitchison_NN1_NP1@ T_ZZ1_NP1@ ,_Y Evans_NP1 l_ZZ1 ,_Y Schulze_NP1_VV0 E_ZZ1_NP1@ ,_Y Kirschner_NP1 M._NN1 1986_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  415 Sites of microtubule assembly and disassembly in the mitotic spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  415 Sites_NN2 of_IO microtubule_NN1 assembly_NN1 and_CC disassembly_RR in_II the_AT mitotic_JJ spindle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  416 Cell 45 : 515-527 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  416 Cell_NN1 45_MC :_Y 515-527_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  417 Moroi Y , Peebles C , Fritzler MJ , Steigerwald J , Tan EM .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  417 Moroi_NP1@_NN2 Y_ZZ1_NP1@ ,_Y Peebles_NP1 C_NP1_ZZ1 ,_Y Fritzler_NP1 MJ_NP1 ,_Y Steigerwald_NP1_VV0 J_ZZ1_NP1@ ,_Y Tan_JJ_VV0@_NN1 EM_FU ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  418 1980 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  418 1980_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  419 Autoantibody to centromere ( kinetochore ) in scleroderma sera .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  419 Autoantibody_NN1_NP1@ to_II centromere_NN1 (_Y kinetochore_NN1_VV0 )_Y in_II scleroderma_NN1 sera_FW ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  420 Proceedings of the National Academy of Sciences 77:1627-1631 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  420 Proceedings_NN2 of_IO the_AT National_JJ Academy_NN1 of_IO Sciences_NN2 77:1627-1631_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  421 Musacchio A , Salmon ED. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  421 Musacchio_NN1_NP1@ A_ZZ1 ,_Y Salmon_NN_NP1@ ED._NN1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  422 The spindle-assembly checkpoint in space and time .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  422 The_AT spindle-assembly_JJ_NN1 checkpoint_NN1 in_II space_NN1 and_CC time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  423 Nature Reviews Molecular and Cell Biology 8 : 379-393 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  423 Nature_NN1 Reviews_VVZ Molecular_JJ and_CC Cell_NN1 Biology_NN1 8_MC :_Y 379-393_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  424 Nicklas RB. 1986 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  424 Nicklas_NP1@ RB._NP1 1986_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  425 Mitosis in eukaryotic cells : An overview of chromosome distribution .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  425 Mitosis_NN1_NP1@ in_II eukaryotic_JJ cells_NN2 :_Y An_AT1 overview_NN1 of_IO chromosome_NN1 distribution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  426 Pages and Mechanisms .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  426 Pages_NN2 and_CC Mechanisms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  427 Plenum. ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  427 Plenum._NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  428 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  428 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  429 1989 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  429 1989_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  430 The motor for poleward chromosome movement in anaphase is in or near the kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  430 The_AT motor_NN1 for_IF poleward_JJ chromosome_NN1 movement_NN1 in_II anaphase_NN1 is_VBZ in_RP@_II or_CC near_II_VV0@ the_AT kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  431 Journal of Cell Biology 109 : 2245-2255 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  431 Journal_NN1 of_IO Cell_NN1 Biology_NN1 109_MC :_Y 2245-2255_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  432 Nicklas RB , Kubai DF , Hays TS .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  432 Nicklas_NP1@ RB_NP1 ,_Y Kubai_JJ_NP1 DF_NN1 ,_Y Hays_NP1 TS_ZZ2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  433 1982 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  433 1982_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  434 Spindle microtubules and their mechanical associations after micromanipulation in anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  434 Spindle_VV0_NN1 microtubules_NN2 and_CC their_APPGE mechanical_JJ associations_NN2 after_II_CS micromanipulation_NN1 in_II anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  435 Journal of Cell Biology 95:91-104 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  435 Journal_NN1 of_IO Cell_NN1 Biology_NN1 95:91-104_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  436 Nicklas RB , Ward SC , Gorbsky GJ. 1995 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  436 Nicklas_NP1@ RB_NP1 ,_Y Ward_NP1 SC_FO ,_Y Gorbsky_NP1 GJ._NP1 1995_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  437 Kinetochore chemistry is sensitive to tension and may link mitotic forces to a cell cycle checkpoint .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  437 Kinetochore_VV0_NN1 chemistry_NN1 is_VBZ sensitive_JJ to_II tension_NN1 and_CC may_VM link_VVI mitotic_JJ forces_NN2 to_II a_AT1 cell_NN1 cycle_NN1 checkpoint_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  438 Journal of Cell Biology 130 : 929-939 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  438 Journal_NN1 of_IO Cell_NN1 Biology_NN1 130_MC :_Y 929-939_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  439 Okada M , Cheeseman IM , Hori T , Okawa K , McLeod IX , Yates JR III , Desai A , Fukagawa T. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  439 Okada_NN1_NP1@ M_ZZ1_NN1 ,_Y Cheeseman_NP1 IM_Z' ,_Y Hori_NP1_JJ T_ZZ1_NP1@ ,_Y Okawa_NP1 K_ZZ1_NP1@ ,_Y McLeod_NP1 IX_MC ,_Y Yates_NP1 JR_NNA III_MC ,_Y Desai_NP1_JJ_NN1 A_ZZ1 ,_Y Fukagawa_NP1 T._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  440 The CENP-H-I complex is required for the efficient incorporation of newly synthesized CENP-A into centromeres .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  440 The_AT CENP-H-I_NP1 complex_NN1 is_VBZ required_VVN for_IF the_AT efficient_JJ incorporation_NN1 of_IO newly_RR synthesized_VVD_JJ@ CENP-A_NP1_NN1 into_II centromeres_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  441 Nature Cell Biology 8 : 446-457 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  441 Nature_NN1 Cell_NN1 Biology_NN1 8_MC :_Y 446-457_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  442 Palmer DK , O'Day K , Trong HL , Charbonneau H , Margolis RL. 1991 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  442 Palmer_NP1 DK_NP1 ,_Y O'Day_NP1 K_ZZ1_NP1@ ,_Y Trong_NP1 HL_NP1 ,_Y Charbonneau_NP1 H_ZZ1_NP1@ ,_Y Margolis_NP1 RL._NP1 1991_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  443 Purification of the centromere-specific protein CENP-A and demonstration that it is a distinctive histone .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  443 Purification_NN1 of_IO the_AT centromere-specific_JJ protein_NN1 CENP-A_NN1_NP1 and_CC demonstration_NN1 that_CST it_PPH1 is_VBZ a_AT1 distinctive_JJ histone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  444 Proceedings of the National Academy of Sciences 88 : 3734-3738 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  444 Proceedings_NN2 of_IO the_AT National_JJ Academy_NN1 of_IO Sciences_NN2 88_MC :_Y 3734-3738_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  445 Pickett-Heaps JD , Tippit DH , 729-744 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  445 Pickett-Heaps_NN2 JD_NP1 ,_Y Tippit_NP1 DH_NP1 ,_Y 729-744_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  446 Rieder CL. 1982 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  446 Rieder_VV0 CL._FO 1982_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  447 The formation , structure , and composition of the mammalian kinetochore and kinetochore fiber .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  447 The_AT formation_NN1 ,_Y structure_NN1 ,_Y and_CC composition_NN1 of_IO the_AT mammalian_JJ kinetochore_NN1 and_CC kinetochore_VV0_NN1 fiber_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  448 International Review of Cytology 79 : 1-58. ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  448 International_JJ Review_NN1 of_IO Cytology_NP1_NN1 79_MC :_Y 1-58._MCMC ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  449 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  449 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  450 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  450 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  451 Kinetochore fiber formation in animal somatic cells : Dueling mechanisms come to a draw .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  451 Kinetochore_VV0_NN1 fiber_NN1 formation_NN1 in_II animal_NN1_JJ% somatic_JJ cells_NN2 :_Y Dueling_VVG_NP1_JJ@ mechanisms_NN2 come_VV0_VVN@ to_II a_AT1 draw_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  452 Chromosoma 114 : 310-318 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  452 Chromosoma_NN1_NP1@ 114_MC :_Y 310-318_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  453 Rieder CL , Alexander SP. 1990 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  453 Rieder_VV0_NP1@ CL_NP1 ,_Y Alexander_NP1 SP._NN1 1990_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  454 Kinetochores are transported poleward along a single astral , microtubule during chromosome attachment to the spindle in newt lung cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  454 Kinetochores_NN2 are_VBR transported_VVN poleward_RL along_II a_AT1 single_JJ astral_NN1_JJ ,_Y microtubule_VV0_NN1 during_II chromosome_NN1 attachment_NN1 to_II the_AT spindle_NN1 in_II newt_NN1 lung_NN1 cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  455 Journal of Cell Biology 110:81-95 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  455 Journal_NN1 of_IO Cell_NN1 Biology_NN1 110:81-95_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  456 Rieder CL , Davison EA , Jensen LC , Cassimeris l , Salmon ED. 1986 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  456 Rieder_VV0_NP1@ CL_NP1 ,_Y Davison_NP1 EA_NP1 ,_Y Jensen_NP1 LC_NP1 ,_Y Cassimeris_NP1 l_ZZ1 ,_Y Salmon_NN_NP1@ ED._NN1 1986_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  457 Oscillatory movements of monooriented chromosomes and their position relative to the spindle pole result from the ejection properties of the aster and half-spindle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  457 Oscillatory_JJ movements_NN2 of_IO monooriented_JJ@ chromosomes_NN2 and_CC their_APPGE position_NN1 relative_II21 to_II22 the_AT spindle_NN1 pole_NN1 result_NN1_VV0 from_II the_AT ejection_NN1 properties_NN2 of_IO the_AT aster_NN1 and_CC half-spindle_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  458 Journal of Cell Biology 103:581-591 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  458 Journal_NN1 of_IO Cell_NN1 Biology_NN1 103:581-591_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  459 Rogers GC , Rogers SL , Schwimmer TA , Ems-McClung SC , Walczak CE , Vale RD , Scholey JM , Sharp DJ .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  459 Rogers_NP1 GC_NP1 ,_Y Rogers_NP1 SL_NP1 ,_Y Schwimmer_VV0_NN1 TA_UH ,_Y Ems-McClung_NN1_JJ SC_FO ,_Y Walczak_NP1 CE_NP1 ,_Y Vale_NP1 RD_NNL1 ,_Y Scholey_NP1 JM_NP1 ,_Y Sharp_JJ_NP1 DJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  460 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  460 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  461 Two mitotic kinesins cooperate to drive sister chromatid separation during anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  461 Two_MC mitotic_JJ kinesins_NN2 cooperate_VV0 to_TO drive_VVI sister_NN1 chromatid_NN1_JJ separation_NN1 during_II anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  462 Nature 427 : 364-370 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  462 Nature_NN1 427_MC :_Y 364-370_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  463 Rufas JS , Mazzella C , Garca de la Vega C , Suja JA .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  463 Rufas_NP1@ JS_NP2 ,_Y Mazzella_NP1 C_NP1_ZZ1 ,_Y Garca_NP1 de_FW la_FW Vega_NP1 C_NP1_ZZ1 ,_Y Suja_NP1 JA_NP1_FW ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  464 1994 Research 2 : 369-375 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  464 1994_MC Research_NN1 2_MC :_Y 369-375_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  465 Schuyler SC , Pellman D. 2001 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  465 Schuyler_NP1 SC_FO ,_Y Pellman_NP1 D._NP1 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  466 Microtubule " plus-end-tracking proteins " : The end is just the beginning .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  466 Microtubule_VV0 "_Y plus-end-tracking_JJ_NN1 proteins_NN2 "_Y :_Y The_AT end_NN1 is_VBZ just_RR the_AT beginning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  467 Cell 105 : 421-424 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  467 Cell_NN1 105_MC :_Y 421-424_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  468 Skibbens RV , Skeen VP , Salmon ED. 1993 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  468 Skibbens_NP1@ RV_NP1 ,_Y Skeen_NP1 VP_NP1 ,_Y Salmon_NN_NP1@ ED._NN1 1993_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  469 Directional instability of kinetochore motility during chromosome congression and segregation in mitotic newt lung cells : A push-pull mechanism .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  469 Directional_JJ instability_NN1 of_IO kinetochore_NN1 motility_NN1 during_II chromosome_NN1 congression_NN1 and_CC segregation_NN1 in_II mitotic_JJ newt_NN1 lung_NN1 cells_NN2 :_Y A_ZZ1_AT1@ push-pull_JJ mechanism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  470 Journal of Cell Biology 122 : 859-875 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  470 Journal_NN1 of_IO Cell_NN1 Biology_NN1 122_MC :_Y 859-875_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  471 Snyder JA , McIntosh JR .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  471 Snyder_VV0_NP1@ JA_NP1_FW ,_Y McIntosh_NP1 JR_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  472 1975 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  472 1975_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  473 Initiation and growth of microtubules from mitotic centers in lysed mammalian cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  473 Initiation_NN1 and_CC growth_NN1 of_IO microtubules_NN2 from_II mitotic_JJ centers_NN2 in_II lysed_JJ mammalian_JJ cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  474 Journal of Cell Biology 67 : 744-760 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  474 Journal_NN1 of_IO Cell_NN1 Biology_NN1 67_MC :_Y 744-760_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  475 Sumner AT , Evans HJ , Buckland RA. 1971 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  475 Sumner_NP1 AT_II ,_Y Evans_NP1 HJ_NP1 ,_Y Buckland_NP1 RA._NNA 1971_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  476 A new technique for distinguishing between human chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  476 A_AT1_ZZ1 new_JJ technique_NN1 for_IF distinguishing_VVG between_II human_JJ_NN1 chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  477 Nature : New Biology 232 : 31-32 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  477 Nature_NN1 :_Y New_JJ Biology_NN1 232_MC :_Y 31-32_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  478 Tan EM , Rodnan GP , Garcia I , Moroi Y , Fritzler MJ , Peebles C. 1980 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  478 Tan_VV0@_JJ EM_FU ,_Y Rodnan_JJ_NP1 GP_NN1 ,_Y Garcia_NP1 I_ZZ1% ,_Y Moroi_NP1_JJ Y_ZZ1_NP1@ ,_Y Fritzler_NP1 MJ_NP1 ,_Y Peebles_NP1 C._NP1 1980_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  479 Diversity of antinuclear antibodies in progressive systemic sclerosis : Anti-centromere antibody and its relationship to CREST syndrome .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  479 Diversity_NN1 of_IO antinuclear_JJ antibodies_NN2 in_II progressive_JJ systemic_JJ sclerosis_NN1 :_Y Anti-centromere_JJ antibody_NN1 and_CC its_Z' relationship_NN1 to_II CREST_NN1 syndrome_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  480 Arthritis and Rheumatism 23:617-625 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  480 Arthritis_NN1_NP1@ and_CC Rheumatism_NN1 23:617-625_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  481 Telzer BR , Moses MJ , Rosenbaum JL. 1975 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  481 Telzer_NP1@ BR_NP1 ,_Y Moses_NP1 MJ_NP1 ,_Y Rosenbaum_NP1 JL._ZZ 1975_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  482 Assembly of microtubules onto kinetochores of isolated mitotic chromosomes of HeLa cells .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  482 Assembly_NN1 of_IO microtubules_NN2 onto_II kinetochores_NN2 of_IO isolated_JJ mitotic_JJ chromosomes_NN2 of_IO HeLa_NP1_NN1@ cells_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  483 Proceedings of MM , Brinkley BR. 1995 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  483 Proceedings_NN2 of_IO MM_UH ,_Y Brinkley_NP1 BR._ZZ 1995_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  484 Fractionation and initial characterization of the kinetochore from mammalian metaphase chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  484 Fractionation_NN1_NP1@ and_CC initial_JJ_NN1 characterization_NN1 of_IO the_AT kinetochore_NN1 from_II mammalian_JJ metaphase_NN1 chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  485 Journal of Cell Biology 101:1124-1134 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  485 Journal_NN1 of_IO Cell_NN1 Biology_NN1 101:1124-1134_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  486 Waters JC , Chen R-H , Murray AW , Salmon ED. 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  486 Waters_NP1 JC_NP1 ,_Y Chen_NP1 R-H_FO ,_Y Murray_NP1 AW_UH ,_Y Salmon_NN_NP1@ ED._NN1 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  487 Localization of Mad2 to kinetochores depends on microtubule attachment , not tension .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  487 Localization_NN1 of_IO Mad2_FO to_II kinetochores_NN2 depends_VVZ on_II microtubule_NN1 attachment_NN1 ,_Y not_XX tension_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  488 Journal of Cell Biology 141:1181-1191 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  488 Journal_NN1 of_IO Cell_NN1 Biology_NN1 141:1181-1191_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  489 Wieland G , Orthaus S , Ohndorf S , Diekmann S , Hemmerich P. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  489 Wieland_NN1_NP1@ G_ZZ1_NP1@ ,_Y Orthaus_NP1 S_ZZ1_NP1@ ,_Y Ohndorf_NP1 S_ZZ1_NP1@ ,_Y Diekmann_NP1 S_ZZ1_NP1@ ,_Y Hemmerich_NP1 P._NP1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  490 Functional complementation of human centromere protein A ( CENP-A ) by Cse4p from Saccharomyces cerevisiae .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  490 Functional_JJ complementation_NN1 of_IO human_JJ_NN1 centromere_NN1 protein_NN1 A_ZZ1 (_Y CENP-A_NP1 )_Y by_II Cse4p_FO from_II Saccharomyces_NP2 cerevisiae_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  491 Molecular and Cellular Biology 24 : 6620-6630 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  491 Molecular_JJ and_CC Cellular_JJ Biology_NN1 24_MC :_Y 6620-6630_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  492 Wise D. 1988 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  492 Wise_NP1@_JJ D._NP1 1988_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  493 The diversity of mitosis : The value of evolutionary experiments .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  493 The_AT diversity_NN1 of_IO mitosis_NN1 :_Y The_AT value_NN1 of_IO evolutionary_JJ experiments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  494 Biochemistry and Cell Biology 66:515-529 Wise DA , Brinkley BR. 1997 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  494 Biochemistry_NN1_NP1@ and_CC Cell_NN1 Biology_NN1 66:515-529_MCMC Wise_JJ_NP1 DA_NN1_FU ,_Y Brinkley_NP1 BR._ZZ 1997_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  495 Mitosis in cells with unreplicated genomes ( MUGs ) : Spindle assembly and behavior of centromere fragments .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  495 Mitosis_NN1_NP1@ in_II cells_NN2 with_IW unreplicated_JJ genomes_NN2 (_Y MUGs_NN2_VVZ@ )_Y :_Y Spindle_VV0_NP1_NN1 assembly_NN1 and_CC behavior_NN1 of_IO centromere_NN1 fragments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  496 Cell Motility and the Cytoskeleton 36:291-302 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  496 Cell_NN1 Motility_NN1_NP1 and_CC the_AT Cytoskeleton_NP1_NN1@ 36:291-302_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  497 Wise D , Cassimeris l , Rieder CL , Wadsworth P , Salmon ED. 1991 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  497 Wise_JJ_NP1@ D_ZZ1_NP1@ ,_Y Cassimeris_NP1 l_ZZ1 ,_Y Rieder_NP1@_JJR CL_NP1 ,_Y Wadsworth_NP1 P_ZZ1_NP1@ ,_Y Salmon_NN_NP1@ ED._NN1 1991_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  498 Chromosome fiber dynamics and congression oscillations in metaphase PtK2 cells at 23 degrees C. Cell Motility and the Cytoskeleton 18 : 131-142 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  498 Chromosome_NN1 fiber_NN1 dynamics_NN and_CC congression_NN1 oscillations_NN2 in_II metaphase_NN1 PtK2_FO cells_NN2 at_II 23_MC degrees_NN2 C._NP1_ZZ1@ Cell_NN1 Motility_NN1_NP1 and_CC the_AT Cytoskeleton_NP1_NN1@ 18_MC :_Y 131-142_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  499 Wong OK , Fang arrest and Plk1-mediated formation of the 3F3/2 epitope .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  499 Wong_VV0 OK_RR ,_Y Fang_NN1 arrest_NN1 and_CC Plk1-mediated_JJ formation_NN1 of_IO the_AT 3F3/2_FU epitope_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  500 Journal of Cell Biology 179:611-617 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  500 Journal_NN1 of_IO Cell_NN1 Biology_NN1 179:611-617_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  501 Yen TJ , Compton DA , Wise D , Zinkowski RP , Brinkley BR , Earnshaw WC , Cleveland DW. 1991 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  501 Yen_VV0_NN TJ_NP1 ,_Y Compton_NP1 DA_FU_NN1 ,_Y Wise_NP1_JJ D_ZZ1_NP1@ ,_Y Zinkowski_NP1 RP_NP1 ,_Y Brinkley_NP1 BR_NP1 ,_Y Earnshaw_NP1_VV0_NN1 WC_NN1 ,_Y Cleveland_NP1 DW._ZZ 1991_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  502 CENP-E , a novel human centromere-associated protein required for progression from metaphase to anaphase .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  502 CENP-E_NP1 ,_Y a_AT1 novel_JJ human_JJ_NN1 centromere-associated_JJ_NN1 protein_NN1 required_VVN for_IF progression_NN1 from_II metaphase_NN1 to_II anaphase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  503 EMBO Journal 10 : 1245-1254 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  503 EMBO_NP1_NN1 Journal_NN1 10_MC :_Y 1245-1254_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  504 Yu HG , Dawe RK. 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  504 Yu_NP1 HG_FO ,_Y Dawe_NP1 RK._NP1 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  505 Functional redundancy in the maize meiotic kinetochore .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  505 Functional_JJ redundancy_NN1 in_II the_AT maize_NN1 meiotic_JJ_NN1@ kinetochore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  506 Journal of Cell Biology 151 : 131-142 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  506 Journal_NN1 of_IO Cell_NN1 Biology_NN1 151_MC :_Y 131-142_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  507 Zhang D , Rogers GC , Buster DW , Sharp DJ .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  507 Zhang_VV0 D_ZZ1 ,_Y Rogers_NP1 GC_NP1 ,_Y Buster_NP1 DW_NP1 ,_Y Sharp_JJ_NP1 DJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  508 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  508 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  509 Three microtubule severing enzymes contribute to the " Pacman-flux " machinery that moves chromosomes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  509 Three_MC microtubule_VV0_NN1 severing_VVG enzymes_NN2 contribute_VV0 to_II the_AT "_Y Pacman-flux_JJ_NN1 "_Y machinery_NN1 that_CST_DD1 moves_VVZ chromosomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  510 Journal of Cell Biology 177:231-242 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  510 Journal_NN1 of_IO Cell_NN1 Biology_NN1 177:231-242_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  511 Zinkowski RP , Meyne J , Brinkley BR. 1991 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  511 Zinkowski_NP1@ RP_NP1 ,_Y Meyne_NP1 J_ZZ1_NP1@ ,_Y Brinkley_NP1 BR._ZZ 1991_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  512 The centromere-kinetochore complex : A repeat subunit model .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  512 The_AT centromere-kinetochore_JJ_NN1 complex_NN1_JJ :_Y A_ZZ1 repeat_VV0 subunit_NN1_VV0 model_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  513 Journal of Cell Biology 113:1091-1110 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  513 Journal_NN1 of_IO Cell_NN1 Biology_NN1 113:1091-1110_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  514 By Mary Kathrine Johnson and Dwayne A. Wise Mary Kathrine Johnson ( kato144188@hotmail.com ) and Dwayne A. Wise ( daw1@ra.msstate.edu ) are with the Department of Biological Sciences at Mississippi State University .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  514 By_II Mary_NP1 Kathrine_NP1 Johnson_NP1 and_CC Dwayne_NP1 A._ZZ Wise_NP1 Mary_NP1 Kathrine_NP1 Johnson_NP1 (_Y kato144188@hotmail.com_FO )_Y and_CC Dwayne_NP1 A._ZZ Wise_NP1 (_Y daw1@ra.msstate.edu_FO )_Y are_VBR with_IW the_AT Department_NN1 of_IO Biological_JJ Sciences_NN2 at_II Mississippi_NP1 State_NN1 University_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  A    0  515 
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079852 COCA  B    0  515 

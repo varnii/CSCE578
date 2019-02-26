@@ -1,0 +1,168 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    0 THE ADULT WORLD often fails to consider matters from a child 's viewpoint , so when a writer sees through a young person 's eyes , readers gain a fresh perspective .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    0 THE_AT ADULT_NN1_JJ@ WORLD_NN1 often_RR fails_VVZ to_TO consider_VVI matters_NN2 from_II a_AT1 child_NN1 's_GE viewpoint_NN1 ,_Y so_RR when_CS_RRQ a_AT1 writer_NN1 sees_VVZ through_II_RP@ a_AT1 young_JJ person_NN1 's_GE eyes_NN2 ,_Y readers_NN2 gain_VV0 a_AT1 fresh_JJ perspective_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    1 Children have little life experience or education with which to process their observations , so their narrow , often skewed , interpretations can add humor and insight .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    1 Children_NN2 have_VH0 little_DA1 life_NN1 experience_NN1 or_CC education_NN1 with_IW which_DDQ to_TO process_VVI their_APPGE observations_NN2 ,_Y so_CS@_RR their_APPGE narrow_JJ ,_Y often_RR skewed_VVN_VVD_JJ ,_Y interpretations_NN2 can_VM add_VVI humor_NN1 and_CC insight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    2 Poignancy is another plus .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    2 Poignancy_NN1 is_VBZ another_DD1 plus_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    3 The innocence of a child touches hearts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    3 The_AT innocence_NN1 of_IO a_AT1 child_NN1 touches_VVZ hearts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    4 A case in point : Roseflower Creek , a touching literary novel by J.L. Miles set in the rural South of the 1950s .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    4 A_AT1 case_NN1 in_II point_NN1 :_Y Roseflower_VV0_NP1_NN1 Creek_NN1 ,_Y a_AT1 touching_JJ literary_JJ novel_NN1 by_II J.L._NP1 Miles_NP1 set_VVD in_II the_AT rural_JJ South_ND1 of_IO the_AT 1950s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    5 The author ( who also writes as Jackie Lee Miles ) tells a story of abuse and poverty through the voice of a dead 10-year-old .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    5 The_AT author_NN1 (_Y who_PNQS also_RR writes_VVZ as_CSA_II@ Jackie_NP1 Lee_NP1 Miles_NP1 )_Y tells_VVZ a_AT1 story_NN1 of_IO abuse_NN1 and_CC poverty_NN1 through_II the_AT voice_NN1 of_IO a_AT1 dead_RG 10-year-old_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    6 That ploy could come across as hokey , but Miles pulls it off with a child character no reader will forget .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    6 That_DD1 ploy_NN1 could_VM come_VVI across_RL@_II as_CSA_II@_RG@ hokey_NN1_JJ@ ,_Y but_CCB Miles_NP1 pulls_VVZ it_PPH1 off_RP with_IW a_AT1 child_NN1 character_NN1 no_AT reader_NN1 will_VM forget_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    7 In fact , she writes this character so well , we can use her novel as our own guide for employing the voices of children .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    7 In_II fact_NN1 ,_Y she_PPHS1 writes_VVZ this_DD1 character_NN1 so_RG_RR well_RR ,_Y we_PPIS2 can_VM use_VVI her_APPGE novel_NN1_JJ as_CSA_II@ our_APPGE own_DA guide_NN1 for_IF employing_VVG the_AT voices_NN2 of_IO children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    8 Miles ' little Lori Jean weaves her revelations through time , starting with her death at the back to her father 's abandonment of his family , the death of her unborn brother , and the loss of her grandmother .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    8 Miles_NP1@ '_GE little_JJ Lori_NP1_NN1_JJ Jean_NP1 weaves_VVZ her_APPGE revelations_NN2 through_II time_NNT1 ,_Y starting_VVG with_IW her_APPGE death_NN1 at_II the_AT back_RP to_II her_APPGE father_NN1 's_GE abandonment_NN1 of_IO his_APPGE family_NN1 ,_Y the_AT death_NN1 of_IO her_APPGE unborn_JJ brother_NN1 ,_Y and_CC the_AT loss_NN1 of_IO her_APPGE grandmother_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0    9 She introduces us to her mom 's friend Lexie .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0    9 She_PPHS1 introduces_VVZ us_PPIO2 to_II her_APPGE mom_NN1 's_GE friend_NN1 Lexie_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   10 In the telling , events bounce around in scrambled sequence , exactly the way a child would divulge them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   10 In_II the_AT telling_NN1@_JJ@ ,_Y events_NN2 bounce_VV0 around_RP in_II scrambled_JJ sequence_NN1 ,_Y exactly_RR the_AT way_NN1 a_AT1 child_NN1 would_VM divulge_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   11 Miles ' rendering of Loft Jean has much to offer writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   11 Miles_NP1@ '_GE rendering_NN1 of_IO Loft_NN1 Jean_NP1 has_VHZ much_DA1_RR to_TO offer_VVI writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   12 Whether you wish to compose a story or novel in a child 's voice , or simply want to improve the dialogue and portrayals of children in your writing , the tips below can help .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   12 Whether_CSW you_PPY wish_VV0 to_TO compose_VVI a_AT1 story_NN1 or_CC novel_NN1_JJ in_II a_AT1 child_NN1 's_GE voice_NN1 ,_Y or_CC simply_RR want_VV0 to_TO improve_VVI the_AT dialogue_NN1 and_CC portrayals_NN2 of_IO children_NN2 in_II your_APPGE writing_NN1 ,_Y the_AT tips_NN2 below_RL can_VM help_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   13 1 Do your homework .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   13 1_MC1 Do_VD0 your_APPGE homework_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   14 As with any character , thoughts , action and dialogue must fit the person .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   14 As_CSA with_IW any_DD character_NN1 ,_Y thoughts_NN2 ,_Y action_NN1 and_CC dialogue_NN1 must_VM fit_VVI the_AT person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   15 Age-appropriate knowledge , behavior and wording are a must .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   15 Age-appropriate_JJ knowledge_NN1 ,_Y behavior_NN1 and_CC wording_NN1 are_VBR a_AT1 must_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   16 If you 're uninvolved with children in your family or work , you might want to spend time with kids the age of your character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   16 If_CS you_PPY 're_VBR uninvolved_JJ with_IW children_NN2 in_II your_APPGE family_NN1 or_CC work_NN1_VV0 ,_Y you_PPY might_VM want_VVI to_TO spend_VVI time_NNT1 with_IW kids_NN2 the_AT age_NN1 of_IO your_APPGE character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   17 Read children 's books and novels with young narrators .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   17 Read_VV0 children_NN2 's_GE books_NN2 and_CC novels_NN2 with_IW young_JJ narrators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   18 Psychology books offer even deeper insight into juvenile behavior .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   18 Psychology_NN1 books_NN2 offer_VV0 even_RR deeper_JJR insight_NN1 into_II juvenile_JJ behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   19 Recall your own childhood -- your misconceptions , fears , joys , activities you 're completely free to intertwine real incidents from your past or someone else 's with those you make up , changing facts as needed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   19 Recall_VV0 your_APPGE own_DA childhood_NN1 --_NN1 your_APPGE misconceptions_NN2 ,_Y fears_NN2_VVZ ,_Y joys_NN2 ,_Y activities_NN2 you_PPY 're_VBR completely_RR free_JJ_VV0@ to_TO intertwine_VVI real_JJ incidents_NN2 from_II your_APPGE past_NN1_JJ or_CC someone_PN1 else_RR 's_VBZ with_IW those_DD2 you_PPY make_VV0 up_RP ,_Y changing_VVG_JJ facts_NN2 as_CSA needed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   20 Lori Jean comes across as authentic because Miles knows how little girls think .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   20 Lori_NP1@ Jean_NP1 comes_VVZ across_II_RL@ as_RG@_CSA authentic_JJ because_CS Miles_NP1 knows_VVZ how_RRQ_RGQ@ little_JJ girls_NN2 think_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   21 When the girl 's battered body lies broken in the mud , she smells the ground and thinks of the mud cakes and dirt cookies she and her friend Carolee made on the creek bank the day before .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   21 When_CS the_AT girl_NN1 's_GE battered_JJ body_NN1 lies_NN2_VVZ broken_VVN_JJ in_II the_AT mud_NN1 ,_Y she_PPHS1 smells_VVZ the_AT ground_NN1 and_CC thinks_VVZ of_IO the_AT mud_NN1 cakes_NN2 and_CC dirt_NN1 cookies_NN2 she_PPHS1 and_CC her_APPGE friend_NN1 Carolee_NN1_NP1 made_VVN_VVD on_II the_AT creek_NN1 bank_NN1_VV0@ the_AT day_NNT1 before_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   22 2 Determine what impresses a child .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   22 2_MC Determine_VV0 what_DDQ impresses_VVZ a_AT1 child_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   23 More is required to impact a jaded adult than a child , for whom the world is relatively new .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   23 More_DAR_RRR is_VBZ required_VVN to_II impact_NN1 a_AT1 jaded_JJ adult_NN1 than_CSN a_AT1 child_NN1 ,_Y for_IF whom_PNQO the_AT world_NN1 is_VBZ relatively_RR new_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   24 A simple pleasure can bring a big thrill and create a lasting memory .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   24 A_AT1_ZZ1 simple_JJ pleasure_NN1 can_VM bring_VVI a_AT1 big_JJ thrill_NN1 and_CC create_VVI a_AT1 lasting_JJ memory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   25 One of Lori Jean 's best recollections is riding in her father 's pickup : I do n't remember much about my pa , but I remember that truck .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   25 One_MC1 of_IO Lori_NP1 Jean_NP1 's_GE best_JJT recollections_NN2 is_VBZ riding_VVG in_II_RP@ her_APPGE father_NN1 's_GE pickup_NN1 :_Y I_PPIS1 do_VD0 n't_XX remember_VVI much_RR_DA1 about_II my_APPGE pa_NN1 ,_Y but_CCB I_PPIS1 remember_VV0 that_DD1 truck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   26 He let me ride in the back whenever we drove to town .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   26 He_PPHS1 let_VVD me_PPIO1 ride_NN1 in_II the_AT back_NN1 whenever_RRQV we_PPIS2 drove_VVD to_II town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   27 Like to throwed me out a couple a ' times , but I loved it , being too little to realize a body could get killed that way and gravitate toward grown-ups who know how to have fun .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   27 Like_VV0@ to_II throwed_VVD me_PPIO1 out_RP a_AT1 couple_NN1_VV0 a_AT1 '_GE_"@ times_NNT2 ,_Y but_CCB I_PPIS1 loved_VVD it_PPH1 ,_Y being_VBG too_RG little_JJ to_TO_II realize_VVI a_AT1 body_NN1 could_VM get_VVI killed_VVN that_DD1 way_NN1 and_CC gravitate_VV0_NN1 toward_II grown-ups_NN2 who_PNQS know_VV0 how_RRQ to_TO have_VHI fun_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   28 Depression stands between Lori Jean and her mother , but her mom 's friend Lexie reaches out to her and asks for help with her little ones , making her feel needed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   28 Depression_NN1 stands_VVZ_NN2 between_II Lori_NP1 Jean_NP1 and_CC her_APPGE mother_NN1 ,_Y but_CCB her_APPGE mom_NN1 's_GE friend_NN1 Lexie_NP1_NN1@ reaches_VVZ out_RP to_II her_PPHO1 and_CC asks_VVZ for_IF help_NN1 with_IW her_APPGE_PPHO1 little_JJ ones_Z' ,_Y making_VVG her_APPGE_PPHO1 feel_NN1%_VV0 needed_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   29 She buys Lori Jean a pretty new dress and takes her to the circus .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   29 She_PPHS1 buys_VVZ Lori_NP1_JJ Jean_NP1 a_AT1 pretty_RG_JJ new_JJ dress_NN1 and_CC takes_VVZ her_PPHO1 to_II the_AT circus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   30 3 Depict literal and imaginative thinking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   30 3_MC Depict_VV0 literal_JJ and_CC imaginative_JJ thinking_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   31 Small children are likely to take words literally and question the platitudes adults use to comfort themselves and others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   31 Small_JJ_NP1 children_NN2 are_VBR likely_JJ to_TO take_VVI words_NN2 literally_RR and_CC question_VVI the_AT platitudes_NN2 adults_NN2 use_VV0 to_TO comfort_VVI themselves_PPX2 and_CC others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   32 When Lori Jean 's dad returns to sign the divorce papers and leaves again , her grandmother tells her she has a father in heaven who wo n't ever leave her , that he 's holding her in his arms to keep her safe at that very moment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   32 When_CS Lori_NP1 Jean_NP1 's_GE dad_NN1 returns_VVZ_NN2 to_TO sign_VVI the_AT divorce_NN1 papers_NN2 and_CC leaves_VVZ_NN2 again_RT ,_Y her_APPGE grandmother_NN1 tells_VVZ her_PPHO1 she_PPHS1 has_VHZ a_AT1 father_NN1 in_II heaven_NN1 who_PNQS wo_VM n't_XX ever_RR leave_VVI her_PPHO1 ,_Y that_CST he_PPHS1 's_VBZ holding_VVG her_PPHO1 in_II_RP@ his_APPGE arms_NN2 to_TO keep_VVI her_APPGE_PPHO1 safe_JJ_NN1@ at_II that_DD1 very_JJ moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   33 Lori Jean 's reaction : " I asked him to please , if'n he could , to hold me a bit tighter -- I could n't feel a thing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   33 Lori_NP1@ Jean_NP1 's_GE reaction_NN1 :_Y "_Y I_PPIS1 asked_VVD him_PPHO1 to_TO please_VVI ,_Y if'n_VV0_NN1 he_PPHS1 could_VM ,_Y to_TO hold_VVI me_PPIO1 a_RR21 bit_RR22 tighter_JJR --_NN1 I_PPIS1 could_VM n't_XX feel_VVI a_AT1 thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   34 " She overhears the church ladies talking about her daddy being on a slow train to hell for running off with another woman .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   34 "_Y She_PPHS1 overhears_VVZ the_AT church_NN1 ladies_NN2 talking_VVG about_II her_APPGE daddy_NN1 being_VBG on_II a_AT1 slow_JJ train_NN1 to_II hell_NN1 for_IF running_VVG off_RP with_IW another_DD1 woman_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   35 Her reaction real fast when he left .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   35 Her_APPGE reaction_NN1 real_JJ_RG% fast_JJ_RR_NN1@ when_CS_RRQ he_PPHS1 left_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   36 " Small children also tend to trust adults and older children .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   36 "_Y Small_JJ_NP1 children_NN2 also_RR tend_VV0 to_TO trust_VVI adults_NN2 and_CC older_JJR children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   37 Lori Jean 's grandmother teaches her to love the little brother who never got a chance to live .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   37 Lori_NP1@ Jean_NP1 's_GE grandmother_NN1 teaches_VVZ her_PPHO1 to_TO love_VVI the_AT little_JJ brother_NN1 who_PNQS never_RR got_VVN_VVD a_AT1 chance_NN1 to_TO live_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   38 She names him , buries him , and takes Lori Jean to visit his grave regularly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   38 She_PPHS1 names_VVZ@ him_PPHO1 ,_Y buries_VVZ him_PPHO1 ,_Y and_CC takes_VVZ Lori_NP1_JJ Jean_NP1 to_TO visit_VVI his_APPGE grave_NN1_JJ regularly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   39 This child knows that if her grandmother cares for her unborn brother , she can be trusted to take care of her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   39 This_DD1 child_NN1 knows_VVZ that_CST if_CS her_APPGE grandmother_NN1 cares_VVZ for_IF her_APPGE_PPHO1 unborn_JJ brother_NN1 ,_Y she_PPHS1 can_VM be_VBI trusted_VVN to_TO take_VVI care_NN1 of_IO her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   40 Lori Jean relies on her wise sayings to help herself understand the world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   40 Lori_NP1@ Jean_NP1 relies_VVZ on_II her_APPGE wise_JJ sayings_NN2 to_TO help_VVI herself_PPX1 understand_VV0 the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   41 Young people like to envision themselves as heroes righting injustices .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   41 Young_JJ people_NN like_VV0@ to_TO envision_VVI themselves_PPX2 as_CSA_II@ heroes_NN2 righting_VVG injustices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   42 Their imaginations let them soar .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   42 Their_APPGE imaginations_NN2 let_VV0 them_PPHO2 soar_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   43 Experience has yet to temper their judgment , so they may take on fights they ca n't win .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   43 Experience_NN1_VV0 has_VHZ yet_RR to_TO temper_VVI their_APPGE judgment_NN1 ,_Y so_CS@_RR they_PPHS2 may_VM take_VVI on_RP fights_NN2_VVZ they_PPHS2 ca_VM n't_XX win_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   44 Many , like Lori Jean , have no problem producing make-believe friends .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   44 Many_DA2 ,_Y like_II Lori_NP1 Jean_NP1 ,_Y have_VH0 no_AT problem_NN1 producing_VVG make-believe_JJ_NN1 friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   45 She and Carolee create their own magical world on the banks of Roseflower Creek by conjuring up the imaginary John Benjamin , the only boy they know who does n't tease them and pull their hair .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   45 She_PPHS1 and_CC Carolee_NP1_NN1 create_VV0 their_APPGE own_DA magical_JJ world_NN1 on_II the_AT banks_NN2 of_IO Roseflower_NP1_NN1 Creek_NN1 by_II conjuring_VVG up_RP_II@ the_AT imaginary_JJ John_NP1 Benjamin_NP1 ,_Y the_AT only_JJ boy_NN1 they_PPHS2 know_VV0 who_PNQS does_VDZ n't_XX tease_VVI them_PPHO2 and_CC pull_VVI their_APPGE hair_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   46 Children 's active imaginations know no bounds , and they fantasize to cope with If you want an honest opinion , ask a child .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   46 Children_NN2 's_GE active_JJ imaginations_NN2 know_VV0 no_AT bounds_NN2 ,_Y and_CC they_PPHS2 fantasize_VV0 to_TO cope_VVI with_IW If_CS you_PPY want_VV0 an_AT1 honest_JJ opinion_NN1 ,_Y ask_VV0 a_AT1 child_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   47 To describe Lexie 's dye-job , Lori Jean says , " It were n't any color I ever seen on a movie star ' less you count Howdy Doody .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   47 To_TO describe_VVI Lexie_NP1 's_GE dye-job_NN1_JJ ,_Y Lori_NP1 Jean_NP1 says_VVZ ,_Y "_Y It_PPH1 were_VBDR n't_XX any_DD color_NN1_VV0@ I_PPIS1 ever_RR seen_VVN on_II a_AT1 movie_NN1 star_NN1 '_GE less_II%_RGR you_PPY count_VV0 Howdy_UH Doody_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   48 " Of her mom 's new boyfriend , she says , " The first thing I noticed ' bout Ray was he picked his nose and had bad breath .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   48 "_Y Of_IO her_APPGE mom_NN1 's_GE new_JJ boyfriend_NN1 ,_Y she_PPHS1 says_VVZ ,_Y "_Y The_AT first_MD thing_NN1 I_PPIS1 noticed_VVD '_GE bout_NN1 Ray_NP1_NN1@ was_VBDZ he_PPHS1 picked_VVN his_APPGE nose_NN1 and_CC had_VHD_VHN@ bad_JJ breath_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   49 Mama must not of cared , her being so lonely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   49 Mama_NN1 must_VM not_XX of_IO cared_VVN ,_Y her_APPGE being_VBG so_RG_RR lonely_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   50 " What an astute conclusion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   50 "_Y What_DDQ an_AT1 astute_JJ conclusion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   51 Children 's language may be unorthodox when they do n't know the proper words , or do n't quite grasp a subject .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   51 Children_NN2 's_GE language_NN1 may_VM be_VBI unorthodox_JJ when_CS they_PPHS2 do_VD0 n't_XX know_VVI the_AT proper_JJ words_NN2 ,_Y or_CC do_VD0 n't_XX quite_RR@ grasp_VVI a_AT1 subject_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   52 Speaking of Ray , Lori Jean says : " It made him crazy in the head .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   52 Speaking_NN1@_VVG of_IO Ray_NP1 ,_Y Lori_NP1 Jean_NP1 says_VVZ :_Y "_Y It_PPH1 made_VVD him_PPHO1 crazy_JJ in_II the_AT head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   53 " She describes her own fainting when she sees Lexie 's baby being born with this phrase : " when the floor left my feet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   53 "_Y She_PPHS1 describes_VVZ her_APPGE own_DA fainting_VVG_NN1% when_RRQ_CS she_PPHS1 sees_VVZ Lexie_NP1 's_GE baby_NN1 being_VBG born_VVN with_IW this_DD1 phrase_NN1 :_Y "_Y when_RRQ_CS the_AT floor_NN1 left_VVD_VVN my_APPGE feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   54 " 5 Bring in childhood fears .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   54 "_Y 5_MC Bring_VV0 in_RP childhood_NN1 fears_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   55 Because children are small and relatively helpless , fear plays a big part in their lives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   55 Because_CS children_NN2 are_VBR small_JJ and_CC relatively_RR helpless_JJ ,_Y fear_NN1 plays_VVZ a_AT1 big_JJ part_NN1 in_II their_APPGE lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   56 When Lori Jean 's father left , her mother threw herself from a little girl understood that her mom did not care about the unborn baby : " She did n't seem to want me much either .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   56 When_CS Lori_NP1 Jean_NP1 's_GE father_NN1 left_VVD_VVN ,_Y her_APPGE mother_NN1 threw_VVD herself_PPX1 from_II a_AT1 little_JJ_DA1 girl_NN1 understood_VVD_VVN that_CST her_APPGE mom_NN1 did_VDD not_XX care_VVI about_II the_AT unborn_JJ baby_NN1 :_Y "_Y She_PPHS1 did_VDD n't_XX seem_VVI to_TO want_VVI me_PPIO1 much_RR_DA1 either_RR_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   57 ' Least she did n't throw me off no ladder .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   57 '_"@ Least_DAT she_PPHS1 did_VDD n't_XX throw_VVI me_PPIO1 off_II_RP no_AT ladder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   58 " Subtle , but you can sense her fear that her mother might one day lose control and do something similar to her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   58 "_Y Subtle_JJ ,_Y but_CCB you_PPY can_VM sense_VVI her_APPGE_PPHO1 fear_NN1_VV0 that_CST her_APPGE mother_NN1 might_VM one_MC1 day_NNT1 lose_VVI control_NN1 and_CC do_VD0 something_PN1 similar_JJ to_II her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   59 Nightmares are common in childhood , as well as fears of the dark , storms and heights , so work these into your plot for emotional impact .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   59 Nightmares_NN2 are_VBR common_JJ in_II childhood_NN1 ,_Y as_II31 well_II32 as_II33 fears_NN2 of_IO the_AT dark_NN1_JJ ,_Y storms_NN2 and_CC heights_NN2 ,_Y so_RR work_VV0 these_DD2 into_II your_APPGE plot_NN1 for_IF emotional_JJ impact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   60 Do n't forget ghosts and bogeymen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   60 Do_VD0 n't_XX forget_VVI ghosts_NN2 and_CC bogeymen_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   61 Unfounded concerns may arise from overheard information that is misunderstood , or from erroneous explanations given by adults or other children .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   61 Unfounded_JJ concerns_NN2 may_VM arise_VVI from_II overheard_JJ@ information_NN1 that_CST_DD1 is_VBZ misunderstood_VVN ,_Y or_CC from_II erroneous_JJ explanations_NN2 given_VVN by_II adults_NN2 or_CC other_JJ children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   62 6 Show easy forgiveness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   62 6_MC Show_VV0_NN1 easy_JJ forgiveness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   63 Children are usually quick to forgive , even when they do n't understand .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   63 Children_NN2 are_VBR usually_RR quick_JJ to_TO forgive_VVI ,_Y even_CS21 when_CS22 they_PPHS2 do_VD0 n't_XX understand_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   64 Lori Jean saves her abusive stepfather 's life by dragging him from their burning house when she finds him passed out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   64 Lori_NP1@ Jean_NP1 saves_VVZ her_APPGE_PPHO1 abusive_JJ stepfather_NN1 's_GE life_NN1 by_II dragging_VVG him_PPHO1 from_II their_APPGE burning_JJ house_NN1 when_CS_RRQ she_PPHS1 finds_VVZ him_PPHO1 passed_VVD_VVN out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   65 Ray later beats her in a fit of temper , then realizes her body is lifeless .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   65 Ray_NP1_NN1 later_RRR beats_VVZ her_PPHO1 in_II_RP@ a_AT1 fit_NN1@_JJ of_IO temper_NN1 ,_Y then_RT realizes_VVZ her_APPGE body_NN1 is_VBZ lifeless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   66 " Lori Jean , honey , wake up !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   66 "_Y Lori_NP1@ Jean_NP1 ,_Y honey_NN1 ,_Y wake_VV0 up_RP !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   67 Wake up , honey !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   67 Wake_VV0 up_RP ,_Y honey_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   68 " he ; he was holding me so nice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   68 "_Y he_PPHS1 ;_Y he_PPHS1 was_VBDZ holding_VVG me_PPIO1 so_RG_RR nice_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   69 He had his arms wrapped all around me and he was hugging me to his chest , just like a regular daddy , just like I always wanted him to .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   69 He_PPHS1 had_VHD his_APPGE arms_NN2 wrapped_VVN all_DB_RR@ around_II me_PPIO1 and_CC he_PPHS1 was_VBDZ hugging_VVG me_PPIO1 to_II his_APPGE chest_NN1 ,_Y just_RR like_II_VV0@ a_AT1 regular_JJ daddy_NN1 ,_Y just_RR like_VV0@_CS% I_PPIS1 always_RR wanted_VVD_VVN him_PPHO1 to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   70 Displaying instant forgiveness , Lori Jean goes on to say she wanted to hug him back .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   70 Displaying_VVG instant_JJ forgiveness_NN1 ,_Y Lori_NP1 Jean_NP1 goes_VVZ on_RP to_TO say_VVI she_PPHS1 wanted_VVD to_TO hug_VVI him_PPHO1 back_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   71 She knows from hearing Ray 's brother talk about their childhood that his father beat him the way he beat her , so on some level she understands what makes him cruel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   71 She_PPHS1 knows_VVZ from_II hearing_VVG_NN1 Ray_NP1 's_GE brother_NN1 talk_NN1_VV0 about_II their_APPGE childhood_NN1 that_CST his_APPGE father_NN1 beat_VVD him_PPHO1 the_AT way_NN1 he_PPHS1 beat_VVD her_PPHO1 ,_Y so_RR on_II some_DD level_NN1_JJ she_PPHS1 understands_VVZ what_DDQ makes_VVZ him_PPHO1 cruel_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   72 7 Forget perfection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   72 7_MC Forget_VV0 perfection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   73 Like adult characters , children should be flawed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   73 Like_II_JJ@_VV0@ adult_NN1_JJ@ characters_NN2 ,_Y children_NN2 should_VM be_VBI flawed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   74 They may not always tell the truth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   74 They_PPHS2 may_VM not_XX always_RR tell_VVI the_AT truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   75 They may fail to stand up for a friend being bullied .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   75 They_PPHS2 may_VM fail_VVI to_TO stand_VVI up_RP for_IF a_AT1 friend_NN1 being_VBG bullied_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   76 They may treat another child or an animal unkindly , especially after someone hurts them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   76 They_PPHS2 may_VM treat_VVI another_DD1 child_NN1 or_CC an_AT1 animal_NN1 unkindly_RR ,_Y especially_RR after_CS_II someone_PN1 hurts_VVZ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   77 WORKOUT WRITE A SCENE in third person or from an adult point of view as it plays out in a home .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   77 WORKOUT_NP1_VV0 WRITE_VV0 A_AT1@_ZZ1 SCENE_NN1 in_II third_MD person_NN1 or_CC from_II an_AT1 adult_NN1_JJ@ point_NN1 of_IO view_NN1 as_CSA it_PPH1 plays_VVZ out_RP in_II a_AT1 home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   78 Then let a child describe the same scene as he witnesses it from his hiding place at the top of the stairs or in a closet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   78 Then_RT let_VV0 a_AT1 child_NN1 describe_VVI the_AT same_DA scene_NN1 as_II he_PPHS1 witnesses_VVZ@ it_PPH1 from_II his_APPGE hiding_NN1 place_NN1 at_II the_AT top_NN1 of_IO the_AT stairs_NN2 or_CC in_II a_AT1 closet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   79 Give voice to his the heart of the matter , as Lori Jean did in the novel Roseflower Creek in understanding that her mom 's loneliness made her overlook her boyfriend 's shortcomings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   79 Give_VV0 voice_NN1 to_II his_APPGE the_AT heart_NN1 of_IO the_AT matter_NN1 ,_Y as_CSA Lori_NP1 Jean_NP1 did_VDD in_II the_AT novel_JJ_NN1 Roseflower_NN1 Creek_NN1 in_II understanding_VVG_NN1 that_CST her_APPGE mom_NN1 's_GE loneliness_NN1 made_VVD_VVN her_PPHO1 overlook_VV0 her_APPGE boyfriend_NN1 's_GE shortcomings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   80 -- Betty Wilson Beamguard PHOTO ( COLOR ) : The world is relatively fresh and new for child characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   80 --_ZZ Betty_NP1 Wilson_NP1 Beamguard_NP1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y The_AT world_NN1 is_VBZ relatively_RR fresh_JJ and_CC new_JJ for_IF child_NN1 characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   81 Trust , imagination and honesty are important elements , too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   81 Trust_VV0_NN1 ,_Y imagination_NN1 and_CC honesty_NN1 are_VBR important_JJ elements_NN2 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   82 By Betty Wilson Beamguard Betty Wilson Beamguard writes fiction , humor and poetry from York , S.C .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   82 By_II Betty_NP1 Wilson_NP1 Beamguard_NP1 Betty_NP1 Wilson_NP1 Beamguard_NP1 writes_VVZ fiction_NN1 ,_Y humor_NN1 and_CC poetry_NN1 from_II York_NP1 ,_Y S.C_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  A    0   83 Links to her work can be found at **29;73503;TOOLONG ; bbeamguard.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080311 COCA  B    0   83 Links_NN2_VVZ to_II her_APPGE work_NN1 can_VM be_VBI found_VVN at_II **29;73503;TOOLONG_FU ;_Y bbeamguard._NNU

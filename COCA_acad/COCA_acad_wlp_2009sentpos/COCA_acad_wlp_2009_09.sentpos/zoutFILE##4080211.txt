@@ -1,0 +1,502 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    0 N1 : In the 23rd century , Earth is part of a galaxy that is governed by the United Federation of Planets , a peaceful alliance composed of human and alien species .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    0 N1_FO :_Y In_II the_AT 23rd_MD century_NNT1 ,_Y Earth_NN1 is_VBZ part_NN1 of_IO a_AT1 galaxy_NN1 that_CST_DD1 is_VBZ governed_VVN by_II the_AT United_JJ Federation_NN1 of_IO Planets_NN2 ,_Y a_AT1 peaceful_JJ alliance_NN1 composed_VVN_VVD of_IO human_NN1_JJ and_CC alien_JJ species_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    1 People use spaceships and shuttles to travel through space to different planets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    1 People_NN use_VV0_NN1 spaceships_NN2 and_CC shuttles_NN2 to_TO travel_VVI through_II space_NN1 to_II different_JJ planets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    2 N2 : Starfleet , an elite armada of spaceships and their crews , protects the Federation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    2 N2_FO :_Y Starfleet_NP1_VV0_NN1 ,_Y an_AT1 elite_NN1_JJ@ armada_NN1 of_IO spaceships_NN2 and_CC their_APPGE crews_NN2 ,_Y protects_VVZ the_AT Federation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    3 N3 : One of these ships , the U.S.S. Kelvin , investigates a lightning storm in space .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    3 N3_FO :_Y One_MC1 of_IO these_DD2 ships_NN2 ,_Y the_AT U.S.S._NP1 Kelvin_NP1 ,_Y investigates_VVZ a_AT1 lightning_NN1 storm_NN1 in_II space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    4 Suddenly , it 's attacked by a mysterious spacecraft , the Narada .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    4 Suddenly_RR ,_Y it_PPH1 's_VBZ attacked_VVN by_II a_AT1 mysterious_JJ spacecraft_NN ,_Y the_AT Narada_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    5 GEORGE KIRK : Torpedo locked on us at 320 degrees -- incoming fast !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    5 GEORGE_NP1 KIRK_NP1 :_Y Torpedo_NN1 locked_VVN_VVD on_II us_PPIO2 at_II 320_MC degrees_NN2 --_ZZ incoming_JJ fast_JJ_NN1@_RR !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    6 N4 : A direct hit from the torpedo smashes the ship !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    6 N4_FO :_Y A_ZZ1_AT1@ direct_RR@_JJ hit_VVN_NN1@_VVD from_II the_AT torpedo_NN1 smashes_VVZ the_AT ship_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    7 N1 : Suddenly , the first officer of the Narada , Ayel , appears on the Kelvin 's view screen at the front of the bridge .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    7 N1_FO :_Y Suddenly_RR ,_Y the_AT first_MD officer_NN1 of_IO the_AT Narada_NP1_NN1@ ,_Y Ayel_NP1 ,_Y appears_VVZ on_II the_AT Kelvin_NP1 's_GE view_NN1 screen_NN1 at_II the_AT front_NN1 of_IO the_AT bridge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    8 AYEL : My commander requires the presence of your captain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    8 AYEL_NP1_VV0 :_Y My_APPGE commander_NN1 requires_VVZ the_AT presence_NN1 of_IO your_APPGE captain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0    9 Your refusal would be unwise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0    9 Your_APPGE refusal_NN1 would_VM be_VBI unwise_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   10 N2 : Captain Robau turns to his first officer , George Kirk .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   10 N2_FO :_Y Captain_NNB Robau_NP1 turns_VVZ to_II his_APPGE first_MD officer_NN1 ,_Y George_NP1 Kirk_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   11 CAPTAIN ROBAU : You 're the captain now , Mr. Kirk Narada , where he meets with Ayel and his captain , Nero .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   11 CAPTAIN_NN1 ROBAU_NP1_NN1 :_Y You_PPY 're_VBR the_AT captain_NN1 now_RT ,_Y Mr._NNB Kirk_NP1 Narada_NP1_NN1@ ,_Y where_CS_RRQ he_PPHS1 meets_VVZ with_IW Ayel_NP1 and_CC his_APPGE captain_NN1 ,_Y Nero_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   12 AYEL : Are you familiar with Ambassador Spock ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   12 AYEL_NP1_VV0 :_Y Are_VBR you_PPY familiar_JJ with_IW Ambassador_NNB Spock_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   13 CAPTAIN ROBAU : No .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   13 CAPTAIN_NN1 ROBAU_NP1_NN1 :_Y No_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   14 AYEL : What is the current stardate ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   14 AYEL_NP1_VV0 :_Y What_DDQ is_VBZ the_AT current_JJ stardate_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   15 CAPTAIN ROBAU : It 's 2233.04 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   15 CAPTAIN_NN1 ROBAU_NP1_NN1 :_Y It_PPH1 's_VBZ_VHZ@ 2233.04_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   16 N4 : Nero kills Captain Robau .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   16 N4_FO :_Y Nero_NP1 kills_VVZ Captain_NNB Robau_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   17 The Narada continues its assault on the U.S.S. Kelvin .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   17 The_AT Narada_NP1_NN1@ continues_VVZ its_Z' assault_NN1 on_II the_AT U.S.S._NP1 Kelvin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   18 N1 : Back aboard the Kelvin , George Kirk tries to handle the attack by flying the Kelvin into the Narada .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   18 N1_FO :_Y Back_NN1_RP aboard_II the_AT Kelvin_NP1_NNU ,_Y George_NP1 Kirk_NP1 tries_VVZ to_TO handle_VVI the_AT attack_NN1 by_II flying_VVG the_AT Kelvin_NP1_NNU into_II the_AT Narada_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   19 GEORGE KIRK : Set self-destruct !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   19 GEORGE_NP1 KIRK_NP1 :_Y Set_VV0_NN1 self-destruct_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   20 Get to the shuttles now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   20 Get_VV0 to_II the_AT shuttles_NN2 now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   21 N2 : As the crew evacuates the ship , George pilots the Kelvin .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   21 N2_FO :_Y As_II_CSA the_AT crew_NN1 evacuates_VVZ the_AT ship_NN1 ,_Y George_NP1 pilots_NN2 the_AT Kelvin_NP1_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   22 N3 : Meanwhile , George 's wife , Winona , has just given birth on a shuttie .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   22 N3_FO :_Y Meanwhile_RR ,_Y George_NP1 's_GE wife_NN1 ,_Y Winona_NP1 ,_Y has_VHZ just_RR given_VVN_JJ@ birth_NN1 on_II a_AT1 shuttie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   23 She talks to Kirk via comlink .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   23 She_PPHS1 talks_VVZ@ to_II Kirk_NP1 via_II comlink_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   24 WINONA : Its a boy !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   24 WINONA_NP1 :_Y Its_Z' a_AT1 boy_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   25 GEORGE KIRK : What should we call him ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   25 GEORGE_NP1 KIRK_NP1 :_Y What_DDQ should_VM we_PPIS2 call_VVI him_PPHO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   26 WINONA : We could name him after your father .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   26 WINONA_NP1 :_Y We_PPIS2 could_VM name_VVI him_PPHO1 after_II_CS your_APPGE father_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   27 GEORGE KIRK : Tiberius ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   27 GEORGE_NP1 KIRK_NP1 :_Y Tiberius_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   28 No , that 's the worst .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   28 No_UH ,_Y that_DD1_CST 's_VBZ the_AT worst_JJT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   29 Let 's call him Jim .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   29 Let_VM21 's_VM22 call_VVI him_PPHO1 Jim_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   30 N4 : George Kirk pilots the Kelvin into the Narada , knowing his own death is process .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   30 N4_FO :_Y George_NP1 Kirk_NP1 pilots_NN2 the_AT Kelvin_NP1_NNU into_II the_AT Narada_NP1_NN1@ ,_Y knowing_VVG his_APPGE own_DA death_NN1 is_VBZ process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   31 The Kelvin is destroyed , but the Narada flies deeper into space .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   31 The_AT Kelvin_NP1 is_VBZ destroyed_VVN ,_Y but_CCB the_AT Narada_NP1_NN1@ flies_VVZ deeper_RRR_JJR into_II space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   32 SCENE 2 N1 : Several years later , a young half-human , half-Vulcan named Spock approaches the Vulcan high council with his father , Sarek , to find out whether he has been admitted to the Vulcan Science Academy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   32 SCENE_NN1 2_MC N1_FO :_Y Several_DA2 years_NNT2 later_RRR ,_Y a_AT1 young_JJ half-human_NN1_JJ ,_Y half-Vulcan_NP1 named_VVD Spock_NP1_NN1 approaches_VVZ the_AT Vulcan_NP1 high_JJ council_NN1 with_IW his_APPGE father_NN1 ,_Y Sarek_NP1 ,_Y to_TO find_VVI out_RP whether_CSW he_PPHS1 has_VHZ been_VBN admitted_VVN to_II the_AT Vulcan_NP1 Science_NN1 Academy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   33 N2 : The Vulcans are a species from the planet Vulcan whose lives are dictated by logic and the control of their emotions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   33 N2_FO :_Y The_AT Vulcans_NP2 are_VBR a_AT1 species_NN from_II the_AT planet_NN1 Vulcan_NP1 whose_DDQGE lives_NN2 are_VBR dictated_VVN by_II logic_NN1 and_CC the_AT control_NN1 of_IO their_APPGE emotions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   34 VULCAN SCIENCE MINISTER : Your final record is flawless with one exception .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   34 VULCAN_NP1 SCIENCE_NN1 MINISTER_NN1 :_Y Your_APPGE final_JJ_NN1 record_NN1 is_VBZ flawless_JJ with_IW one_MC1 exception_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   35 I see you have applied to Starfleet as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   35 I_PPIS1 see_VV0 you_PPY have_VHI applied_VVN to_II Starfleet_NP1_NN1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   36 SPOCK : It was logical to cultivate multiple options .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   36 SPOCK_NP1_VV0 :_Y It_PPH1 was_VBDZ logical_JJ to_TO cultivate_VVI multiple_JJ_NN1 options_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   37 VULCAN SCIENCE MINISTER : You are hereby accepted to the Vulcan Science Academy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   37 VULCAN_NP1 SCIENCE_NN1 MINISTER_NN1 :_Y You_PPY are_VBR hereby_RR accepted_VVN to_II the_AT Vulcan_NP1 Science_NN1 Academy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   38 It is truly remarkable that you have achieved so much despite your disadvantage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   38 It_PPH1 is_VBZ truly_RR remarkable_JJ that_CST you_PPY have_VH0 achieved_VVN so_RG much_DA1_RR despite_II your_APPGE disadvantage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   39 SPOCK : What " disadvantage " are you referring to ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   39 SPOCK_NP1_VV0 :_Y What_DDQ "_Y disadvantage_NN1 "_Y are_VBR you_PPY referring_VVG to_II ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   40 VULCAN SCIENCE MINISTER : Your human mother .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   40 VULCAN_NP1 SCIENCE_NN1 MINISTER_NN1 :_Y Your_APPGE human_JJ_NN1 mother_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   41 SPOCK : Council , I must decline .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   41 SPOCK_NP1_VV0 :_Y Council_NN1 ,_Y I_PPIS1 must_VM decline_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   42 SAREK : Spock , you have made a commitment to honor the Vulcan way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   42 SAREK_NP1_VV0 :_Y Spock_NP1_VV0_NN1 ,_Y you_PPY have_VH0 made_VVN a_AT1 commitment_NN1 to_TO honor_VVI the_AT Vulcan_NP1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   43 SPOCK : Father , I can think of no as its first Vulcan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   43 SPOCK_NP1_VV0 :_Y Father_NN1 ,_Y I_PPIS1 can_VM think_VVI of_IO no_AT as_CSA_II@ its_Z' first_MD Vulcan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   44 SCENE 3 N3 : A few years later , Starfleet officer Captain Pike visits Jim Kirk , who lives in Iowa on planet Earth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   44 SCENE_NN1 3_MC N3_FO :_Y A_AT1 few_DA2 years_NNT2 later_RRR ,_Y Starfleet_NP1_VV0_NN1 officer_NN1 Captain_NNB Pike_NP1 visits_VVZ@_NN2 Jim_NP1 Kirk_NP1 ,_Y who_PNQS lives_VVZ in_II Iowa_NP1 on_II planet_NN1 Earth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   45 Kirk is now a young man .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   45 Kirk_NP1_NN1 is_VBZ now_RT a_AT1 young_JJ man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   46 PIKE : I looked up your file .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   46 PIKE_NN :_Y I_PPIS1 looked_VVD up_RP your_APPGE file_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   47 Your aptitude tests were off the charts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   47 Your_APPGE aptitude_NN1 tests_NN2 were_VBDR off_II_RP the_AT charts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   48 Enlist in Starfleet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   48 Enlist_VV0 in_II Starfleet_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   49 KIRK : You must be way down on your recruiting quota for the month .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   49 KIRK_NP1 :_Y You_PPY must_VM be_VBI way_NN1_RR% down_RP on_II your_APPGE recruiting_NN1 quota_NN1 for_IF the_AT month_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   50 PIKE : You could be an officer in four years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   50 PIKE_NN :_Y You_PPY could_VM be_VBI an_AT1 officer_NN1 in_II four_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   51 Your father was captain of a starship for 12 minutes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   51 Your_APPGE father_NN1 was_VBDZ captain_NN1 of_IO a_AT1 starship_NN1 for_IF 12_MC minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   52 I dare you to do better .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   52 I_PPIS1 dare_VV0 you_PPY to_TO do_VDI better_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   53 N4 : Kirk thinks over his decision throughout the night .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   53 N4_FO :_Y Kirk_NP1 thinks_VVZ over_RP_II his_APPGE decision_NN1 throughout_II the_AT night_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   54 N1 : In the morning , Pike prepares to leave the planet with a group of cadets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   54 N1_FO :_Y In_II the_AT morning_NNT1 ,_Y Pike_NN_NP1@ prepares_VVZ to_TO leave_VVI the_AT planet_NN1 with_IW a_AT1 group_NN1 of_IO cadets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   55 Kirk rides up on his motorcycle .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   55 Kirk_NP1_NN1 rides_VVZ up_RP on_II his_APPGE motorcycle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   56 KIRK : Four years ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   56 KIRK_NP1 :_Y Four_MC years_NNT2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   57 I 'm going to do it in three .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   57 I_PPIS1 'm_VBM going_VVGK to_TO do_VDI it_PPH1 in_II three_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   58 N2 : Inside the shuttle to the academy , Kirk sits next to McCoy , who is afraid of space flight .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   58 N2_FO :_Y Inside_II_RL the_AT shuttle_NN1 to_II the_AT academy_NN1 ,_Y Kirk_NP1 sits_VVZ next_II21 to_II22 McCoy_NP1 ,_Y who_PNQS is_VBZ afraid_JJ of_IO space_NN1 flight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   59 MCCOY : I might throw up on you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   59 MCCOY_NP1 :_Y I_PPIS1 might_VM throw_VVI up_RP on_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   60 KIRK : I think these things are pretty safe in darkness and silence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   60 KIRK_NP1 :_Y I_PPIS1 think_VV0 these_DD2 things_NN2 are_VBR pretty_RG safe_JJ in_II darkness_NN1 and_CC silence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   61 KIRK : I hate to break this to you , but Starfleet operates in space .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   61 KIRK_NP1 :_Y I_PPIS1 hate_VV0 to_TO break_VVI this_DD1 to_II you_PPY ,_Y but_CCB Starfleet_NP1_NN1 operates_VVZ in_II space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   62 SCENE 4 N3 : Three years later , Kirk is about to graduate from the Academy , but he is having difficulty with a final test that is designed to be impossible to pass .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   62 SCENE_NN1 4_MC N3_FO :_Y Three_MC years_NNT2 later_RRR ,_Y Kirk_NP1 is_VBZ about_RPK to_TO graduate_VVI from_II the_AT Academy_NN1 ,_Y but_CCB he_PPHS1 is_VBZ having_VHG difficulty_NN1 with_IW a_AT1 final_JJ_NN1 test_NN1_VV0 that_CST_DD1 is_VBZ designed_VVN to_TO be_VBI impossible_JJ to_TO pass_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   63 He asks McCoy to take the test with him again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   63 He_PPHS1 asks_VVZ McCoy_NP1 to_TO take_VVI the_AT test_NN1 with_IW him_PPHO1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   64 MCCOY : Why bother ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   64 MCCOY_NP1 :_Y Why_RRQ bother_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   65 KIRK : Because I 've failed it twice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   65 KIRK_NP1 :_Y Because_CS I_PPIS1 've_VH0 failed_VVN it_PPH1 twice_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   66 MCCOY : It 's not like you need to pass it to graduate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   66 MCCOY_NP1 :_Y It_PPH1 's_VBZ not_XX like_II_VV0@_CS% you_PPY need_VV0 to_TO pass_VVI it_PPH1 to_TO graduate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   67 KIRK : So , Bones , why do they make us take it ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   67 KIRK_NP1 :_Y So_RR ,_Y Bones_NN2 ,_Y why_RRQ do_VD0 they_PPHS2 make_VVI us_PPIO2 take_VVI it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   68 MCCOY : I told you to stop calling me that .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   68 MCCOY_NP1 :_Y I_PPIS1 told_VVD you_PPY to_TO stop_VVI calling_VVG me_PPIO1 that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   69 N4 : Kirk overhears Uhura , an alien linguistics student , discuss something strange with her roommate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   69 N4_FO :_Y Kirk_NP1 overhears_VVZ Uhura_NP1 ,_Y an_AT1 alien_JJ_NN1 linguistics_NN1 student_NN1 ,_Y discuss_VV0 something_PN1 strange_JJ with_IW her_APPGE roommate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   70 UHURA : I picked up a transmission from a Klingon prison planet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   70 UHURA_NP1 :_Y I_PPIS1 picked_VVD up_RP a_AT1 transmission_NN1 from_II a_AT1 Klingon_NN1 prison_NN1 planet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   71 Someone escaped and stole a ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   71 Someone_PN1 escaped_VVD_VVN and_CC stole_VVD a_AT1 ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   72 N1 : Kirk , Uhura , and McCoy take the test -- a simulation of a space attack .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   72 N1_FO :_Y Kirk_NP1 ,_Y Uhura_NP1 ,_Y and_CC McCoy_NP1 take_VV0 the_AT test_NN1 --_NN1 a_AT1 simulation_NN1 of_IO a_AT1 space_NN1 attack_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   73 Uhura works the communication station .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   73 Uhura_NN1_NP1@ works_VVZ the_AT communication_NN1 station_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   74 MCCOY : Klingon vessels have entered the Neutral n't worry about it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   74 MCCOY_NP1 :_Y Klingon_NP1_NN1 vessels_NN2 have_VH0 entered_VVN the_AT Neutral_JJ n't_XX worry_VVI about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   75 MCCOY : Our ship is being hit .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   75 MCCOY_NP1 :_Y Our_APPGE ship_NN1 is_VBZ being_VBG hit_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   76 KIRK : I understand .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   76 KIRK_NP1 :_Y I_PPIS1 understand_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   77 MCCOY : Should we fire back ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   77 MCCOY_NP1 :_Y Should_VM we_PPIS2 fire_VVI back_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   78 KIRK : Mmm ... No .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   78 KIRK_NP1 :_Y Mmm_UH ..._... No_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   79 N2 : Kirk 's casual approach confuses the test administrators , including Spock .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   79 N2_FO :_Y Kirk_NP1 's_GE casual_JJ approach_NN1 confuses_VVZ the_AT test_NN1 administrators_NN2 ,_Y including_II_VVG@ Spock_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   80 UHURA : The Klingons have stopped firing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   80 UHURA_NP1 :_Y The_AT Klingons_NN2 have_VH0 stopped_VVN firing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   81 KIRK : Fire on all enemy ships .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   81 KIRK_NP1 :_Y Fire_NN1_VV0@ on_II_RP@ all_DB enemy_NN1 ships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   82 N3 : The crew destroys all five Klingon ships .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   82 N3_FO :_Y The_AT crew_NN1 destroys_VVZ all_DB five_MC Klingon_NN1_NP1 ships_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   83 The administrators are shocked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   83 The_AT administrators_NN2 are_VBR shocked_JJ_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   84 TEST ADMINISTRATOR : How did that kid beat your test ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   84 TEST_VV0_NN1 ADMINISTRATOR_NN1 :_Y How_RRQ did_VDD that_DD1 kid_VVI beat_VV0_VVD_NN1 your_APPGE test_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   85 SPOCK : I do not know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   85 SPOCK_NP1_VV0 :_Y I_PPIS1 do_VD0 not_XX know_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   86 SCENE 5 N4 : Spock investigates and discovers that Kirk cheated in order to pass the test .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   86 SCENE_NN1 5_MC N4_FO :_Y Spock_NP1_NN1 investigates_VVZ and_CC discovers_VVZ that_CST Kirk_NP1 cheated_VVD_VVN in_BCL21 order_BCL22 to_TO pass_VVI the_AT test_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   87 Kirk faces an academic discipline board .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   87 Kirk_NP1_NN1 faces_VVZ an_AT1 academic_JJ discipline_NN1 board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   88 SPOCK : Cadet Kirk , you managed to install and activate a subroutine in the programming code that changed the conditions of the test .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   88 SPOCK_NP1_VV0 :_Y Cadet_NN1 Kirk_NP1_NN1@ ,_Y you_PPY managed_VVD_VVN to_TO install_VVI and_CC activate_VVI a_AT1 subroutine_NN1_JJ in_II the_AT programming_NN1 code_NN1_VV0@ that_CST changed_VVD the_AT conditions_NN2 of_IO the_AT test_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   89 KIRK : Your point being ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   89 KIRK_NP1 :_Y Your_APPGE point_NN1 being_NN1% ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   90 ACADEMIC PRESIDENT : You cheated .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   90 ACADEMIC_JJ PRESIDENT_NN1 :_Y You_PPY cheated_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   91 KIRK : You programmed it to be impossible to pass .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   91 KIRK_NP1 :_Y You_PPY programmed_VVD it_PPH1 to_TO be_VBI impossible_JJ to_TO pass_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   92 The test itself is a cheat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   92 The_AT test_NN1 itself_PPX1 is_VBZ a_AT1 cheat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   93 SPOCK : You have failed to understand the purpose of the test .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   93 SPOCK_NP1_VV0 :_Y You_PPY have_VH0 failed_VVN to_TO understand_VVI the_AT purpose_NN1 of_IO the_AT test_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   94 The purpose is to KIRK : Is n't it true that as a Vulcan you do n't experience fear at all ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   94 The_AT purpose_NN1 is_VBZ to_TO KIRK_NP1 :_Y Is_VBZ n't_XX it_PPH1 true_JJ that_CST as_II_CSA a_AT1 Vulcan_NP1 you_PPY do_VD0 n't_XX experience_VVI fear_NN1_VV0 at_RR21_II all_RR22_DB ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   95 What does that say about your ability to make command decisions ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   95 What_DDQ does_VDZ that_DD1 say_VVI about_II your_APPGE ability_NN1 to_TO make_VVI command_NN1 decisions_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   96 ACADEMIC PRESIDENT : We 've received a distress call from Vulcan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   96 ACADEMIC_JJ PRESIDENT_NN1 :_Y We_PPIS2 've_VH0 received_VVN a_AT1 distress_NN1 call_NN1_VV0 from_II Vulcan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   97 Cadet Kirk , you are on academic probation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   97 Cadet_NN1 Kirk_NP1_NN1@ ,_Y you_PPY are_VBR on_II academic_JJ probation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   98 Cadets , report to Shuttle Hangar One immediately .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   98 Cadets_NN2 ,_Y report_NN1_VV0@ to_II Shuttle_NN1 Hangar_NN1 One_PN1_MC1 immediately_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0   99 SCENE 6 N1 : McCoy sneaks Kirk onto the U.S.S. Enterprise , which is commanded by Captain Pike and piloted by Hikaru Sulu .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0   99 SCENE_NN1 6_MC N1_FO :_Y McCoy_NP1 sneaks_VVZ Kirk_NP1_NN1@ onto_II the_AT U.S.S._NP1 Enterprise_NN1 ,_Y which_DDQ is_VBZ commanded_VVN by_II Captain_NNB Pike_NP1 and_CC piloted_VVN by_II Hikaru_NP1 Sulu_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  100 N2 : Meanwhile on the Narada , Nero prepares for his assault on Vulcan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  100 N2_FO :_Y Meanwhile_RR on_II the_AT Narada_NP1_NN1@ ,_Y Nero_NP1 prepares_VVZ for_IF his_APPGE assault_NN1 on_II Vulcan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  101 NERO : Prepare the Red Matter , N3 : Back on the Enterprise , Ensign Chekov , the navigator , briefs the crew via video link on their mission to Vulcan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  101 NERO_NP1 :_Y Prepare_VV0 the_AT Red_JJ Matter_NN1 ,_Y N3_FO :_Y Back_NN1_RP on_II the_AT Enterprise_NN1 ,_Y Ensign_NP1 Chekov_NP1 ,_Y the_AT navigator_NN1 ,_Y briefs_VVZ@_NN2 the_AT crew_NN1 via_II video_NN1 link_NN1_VV0 on_II their_APPGE mission_NN1 to_II Vulcan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  102 CHEKOV : Telemetry detected what appeared to be a lightning storm in space .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  102 CHEKOV_NP1 :_Y Telemetry_NN1 detected_VVD_VVN what_DDQ appeared_VVD to_TO be_VBI a_AT1 lightning_NN1 storm_NN1 in_II space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  103 Soon after , the planet Vulcan experienced seismic activity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  103 Soon_RR after_CS ,_Y the_AT planet_NN1 Vulcan_NP1 experienced_VVD_JJ seismic_JJ activity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  104 Our mission is to assess the condition of Vulcan and assist in evacuations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  104 Our_APPGE mission_NN1 is_VBZ to_TO assess_VVI the_AT condition_NN1 of_IO Vulcan_NP1 and_CC assist_VVI in_II_RP@ evacuations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  105 N4 : Kirk watches from the medical bay with McCoy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  105 N4_FO :_Y Kirk_NP1 watches_VVZ_NN2 from_II the_AT medical_JJ bay_NN1 with_IW McCoy_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  106 KIRK : Bones , we have to stop the ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  106 KIRK_NP1 :_Y Bones_NN2 ,_Y we_PPIS2 have_VH0 to_TO stop_VVI the_AT ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  107 KIRK : Captain Pike , we have to stop the ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  107 KIRK_NP1 :_Y Captain_NNB Pike_NP1 ,_Y we_PPIS2 have_VH0 to_TO stop_VVI the_AT ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  108 Vulcan is n't experiencing a natural disaster .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  108 Vulcan_NP1 is_VBZ n't_XX experiencing_VVG a_AT1 natural_JJ disaster_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  109 The Romulans are attacking it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  109 The_AT Romulans_NN2 are_VBR attacking_VVG it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  110 SPOCK : I can remove the cadet from the bridge , sir .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  110 SPOCK_NP1_VV0 :_Y I_PPIS1 can_VM remove_VVI the_AT cadet_NN1 from_II the_AT bridge_NN1 ,_Y sir_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  111 KIRK : Fact : The lightning storm in space that we saw today also occurred on the day of my birth , before a Romulan ship attacked the U.S.S. Kelvin .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  111 KIRK_NP1 :_Y Fact_NN1 :_Y The_AT lightning_NN1 storm_NN1 in_II space_NN1 that_CST we_PPIS2 saw_VVD today_RT also_RR occurred_VVD_VVN@ on_II the_AT day_NNT1 of_IO my_APPGE birth_NN1 ,_Y before_CS_II a_AT1 Romulan_JJ_NN1 ship_NN1 attacked_VVD_VVN the_AT U.S.S._NP1 Kelvin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  112 Fact : The Kelvin attack took place on the edge of Klingon space and last night , there was an escape from a Klingon prison planet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  112 Fact_NN1 :_Y The_AT Kelvin_NP1_NNU attack_NN1 took_VVD place_NN1 on_II the_AT edge_NN1 of_IO Klingon_NP1_NN1 space_NN1 and_CC last_MD night_NNT1 ,_Y there_EX was_VBDZ an_AT1 escape_NN1 from_II a_AT1 Klingon_NN1 prison_NN1 planet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  113 Fact : The escaped prisoners were Romulans , sir , and it was reported that they stole a ship from the prison dock .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  113 Fact_NN1 :_Y The_AT escaped_JJ@ prisoners_NN2 were_VBDR Romulans_NN2_NP1 ,_Y sir_NN1 ,_Y and_CC it_PPH1 was_VBDZ reported_VVN that_CST they_PPHS2 stole_VVD a_AT1 ship_NN1 from_II the_AT prison_NN1 dock_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  114 UHURA : Sir , I intercepted and translated the message myself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  114 UHURA_NP1 :_Y Sir_NN1 ,_Y I_PPIS1 intercepted_VVD and_CC translated_VVD the_AT message_NN1 myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  115 Kirk 's report is accurate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  115 Kirk_NP1 's_GE report_NN1 is_VBZ accurate_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  116 SPOCK : The logic of the cadet is sound .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  116 SPOCK_NP1_VV0 :_Y The_AT logic_NN1 of_IO the_AT cadet_NN1 is_VBZ sound_NN1_JJ@_RR% ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  117 And Lieutenant Uhura is unmatched in xenolinguistics .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  117 And_CC Lieutenant_NNB Uhura_NP1 is_VBZ unmatched_JJ in_II xenolinguistics_NN1_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  118 We would be wise to accept her conclusion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  118 We_PPIS2 would_VM be_VBI wise_JJ to_TO accept_VVI her_APPGE conclusion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  119 SULU : Arrival at Vulcan in five seconds !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  119 SULU_NP1 :_Y Arrival_NN1 at_II Vulcan_NP1 in_II five_MC seconds_NNT2 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  120 Four .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  120 Four_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  121 Three .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  121 Three_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  122 Two -- N2 : They arrive at Vulcan and are in the N3 : The Enterprise engages in evasive maneuvers , but the Narada 's powerful weapons hit it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  122 Two_MC --_ZZ N2_FO :_Y They_PPHS2 arrive_VV0 at_II Vulcan_NP1 and_CC are_VBR in_II the_AT N3_FO :_Y The_AT Enterprise_NN1 engages_VVZ in_II evasive_JJ maneuvers_NN2 ,_Y but_CCB the_AT Narada_NP1 's_GE powerful_JJ weapons_NN2 hit_VVD_VV0@_VVN it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  123 PIKE : All power to forward shields -- prepare to fire all weapons !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  123 PIKE_NN :_Y All_DB power_NN1 to_II forward_RL_NN1@_JJ@ shields_VVZ_NN2 --_NN1_JJ prepare_VV0 to_TO fire_VVI all_DB weapons_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  124 N4 : Although the Enterprise attacks the Narada with all its might , they do not damage the ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  124 N4_FO :_Y Although_CS the_AT Enterprise_NN1 attacks_VVZ@_NN2 the_AT Narada_NN1@_NP1 with_IW all_DB its_Z' might_NN1% ,_Y they_PPHS2 do_VD0 not_XX damage_VVI the_AT ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  125 N1 : Nero hails the Enterprise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  125 N1_FO :_Y Nero_NP1 hails_VVZ the_AT Enterprise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  126 NERO : Captain Pike , you will pilot a shuttle and come aboard the Narada for negotiations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  126 NERO_NP1 :_Y Captain_NNB Pike_NP1 ,_Y you_PPY will_VM pilot_VVI a_AT1 shuttle_NN1 and_CC come_VVI aboard_II_RL the_AT Narada_NN1@_NP1 for_IF negotiations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  127 PIKE : Spock , I 'm leaving you in command of the ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  127 PIKE_NN :_Y Spock_NP1_VV0_NN1 ,_Y I_PPIS1 'm_VBM leaving_VVG you_PPY in_II command_NN1 of_IO the_AT ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  128 You will contact Starfleet and report what 's happening here .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  128 You_PPY will_VM contact_VVI Starfleet_NP1_NN1 and_CC report_NN1_VV0@ what_DDQ 's_VBZ happening_VVG here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  129 Kirk , I 'm promoting you to First Officer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  129 Kirk_NP1_NN1 ,_Y I_PPIS1 'm_VBM promoting_VVG you_PPY to_II First_MD Officer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  130 N2 : Pike takes a shuttle to the Narada .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  130 N2_FO :_Y Pike_NN_NP1@ takes_VVZ a_AT1 shuttle_NN1 to_II the_AT Narada_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  131 N3 : The Narada then launches the Red Matter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  131 N3_FO :_Y The_AT Narada_NP1_NN1@ then_RT launches_VVZ the_AT Red_JJ Matter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  132 CHEKOV : That pod they launched is creating a singularity that will consume the planet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  132 CHEKOV_NP1 :_Y That_DD1 pod_NN1 they_PPHS2 launched_VVD_VVN is_VBZ creating_VVG a_AT1 singularity_NN1 that_CST_DD1 will_VM consume_VVI the_AT planet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  133 SPOCK : They are creating a black hole at the center of Vulcan ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  133 SPOCK_NP1_VV0 :_Y They_PPHS2 are_VBR creating_VVG a_AT1 black_JJ hole_NN1 at_II the_AT center_NN1 of_IO Vulcan_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  134 Alert Vulcan Command Center to signal a planetwide evacuation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  134 Alert_VV0_JJ Vulcan_NP1 Command_NN1_VV0 Center_NN1 to_TO signal_VVI a_AT1 planetwide_JJ evacuation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  135 N4 : Spock beams down to Vulcan to evacuate his parents .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  135 N4_FO :_Y Spock_NP1_NN1_VV0 beams_VVZ@_NN2 down_RP to_II Vulcan_NP1 to_TO evacuate_VVI his_APPGE parents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  136 N1 : Unfortunately , Spock 's mother .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  136 N1_FO :_Y Unfortunately_RR ,_Y Spock_NP1 's_GE mother_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  137 Vulcan and most of its people are completely destroyed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  137 Vulcan_NP1 and_CC most_DAT of_IO its_Z' people_NN are_VBR completely_RR destroyed_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  138 Spock tries to hide his sadness from the rest of the crew .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  138 Spock_NN1_NP1@_VV0 tries_VVZ_NN2 to_TO hide_VVI his_APPGE sadness_NN1 from_II the_AT rest_NN1 of_IO the_AT crew_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  139 SPOCK : Acting Captain 's log .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  139 SPOCK_NP1_VV0 :_Y Acting_JJ Captain_NN1 's_GE log_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  140 Stardate 2256.42 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  140 Stardate_VV0_NN1 2256.42_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  141 I have heard no word from Captain Pike .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  141 I_PPIS1 have_VH0 heard_VVN no_AT word_NN1 from_II Captain_NNB Pike_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  142 I have therefore classified him as a hostage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  142 I_PPIS1 have_VH0 therefore_RR classified_VVN him_PPHO1 as_II_CSA a_AT1 hostage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  143 UHURA : Tell me what you need .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  143 UHURA_NP1 :_Y Tell_VV0 me_PPIO1 what_DDQ you_PPY need_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  144 SPOCK : I need for us all to continue performing admirably .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  144 SPOCK_NP1_VV0 :_Y I_PPIS1 need_VV0 for_IF us_PPIO2 all_DB to_TO continue_VVI performing_VVG_NN1 admirably_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  145 Lieutenant , have you confirmed that Nero is headed for Earth ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  145 Lieutenant_NN1 ,_Y have_VH0 you_PPY confirmed_VVN that_CST Nero_NP1 is_VBZ headed_VVN for_IF Earth_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  146 UHURA : Their path suggests no other destination , Captain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  146 UHURA_NP1 :_Y Their_APPGE path_NN1 suggests_VVZ no_AT other_JJ destination_NN1 ,_Y Captain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  147 SPOCK : The engineering comprehension necessary to artificially create a black hole could theoretically be manipulated to create a tunnel through space and time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  147 SPOCK_NP1_VV0 :_Y The_AT engineering_NN1 comprehension_NN1 necessary_JJ to_TO artificially_RR create_VVI a_AT1 black_JJ hole_NN1 could_VM theoretically_RR be_VBI manipulated_VVN to_TO create_VVI a_AT1 tunnel_NN1 through_II space_NN1 and_CC time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  148 MCCOY : I 'm a doctor , not a physicist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  148 MCCOY_NP1 :_Y I_PPIS1 'm_VBM a_AT1 doctor_NN1 ,_Y not_XX a_AT1 physicist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  149 Are you suggesting they 're from the future ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  149 Are_VBR you_PPY suggesting_VVG they_PPHS2 're_VBR from_II the_AT future_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  150 KIRK : What would an angry future Romulan want with Captain Pike ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  150 KIRK_NP1 :_Y What_DDQ would_VM an_AT1 angry_JJ future_JJ_NN1 Romulan_NN1_NP1 want_VV0 with_IW Captain_NNB Pike_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  151 SULU : Captain Pike knows details of Starfleet 's defenses .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  151 SULU_NP1 :_Y Captain_NNB Pike_NP1 knows_VVZ details_NN2 of_IO Starfleet_NP1_NN1 's_GE defenses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  152 KIRK : What we need to do is catch up to that ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  152 KIRK_NP1 :_Y What_DDQ we_PPIS2 need_VV0 to_TO do_VDI is_VBZ catch_NN1 up_II21 to_II22 that_DD1 ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  153 Disable it , take it over , and get Pike back .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  153 Disable_VV0 it_PPH1 ,_Y take_VV0 it_PPH1 over_RP ,_Y and_CC get_VV0 Pike_NN back_NN1_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  154 SPOCK KIRK : I will not allow us to go away from the problem instead of hunting Nero down .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  154 SPOCK_NP1_VV0 KIRK_NP1 :_Y I_PPIS1 will_VM not_XX allow_VVI us_PPIO2 to_TO go_VVI away_II21_RL from_II22_II the_AT problem_NN1 instead_II21 of_II22 hunting_NN1_VVG@ Nero_NP1 down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  155 SPOCK : Then I must remove you from this ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  155 SPOCK_NP1_VV0 :_Y Then_RT I_PPIS1 must_VM remove_VVI you_PPY from_II this_DD1 ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  156 N2 : Spock subdues Kirk and kicks him off the Enterprise and into a space shuttle , sending him to the fierce ice planet , Delta Vega .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  156 N2_FO :_Y Spock_NP1_NN1 subdues_VVZ Kirk_NP1 and_CC kicks_VVZ him_PPHO1 off_II_RP the_AT Enterprise_NN1 and_CC into_II a_AT1 space_NN1 shuttle_NN1 ,_Y sending_VVG him_PPHO1 to_II the_AT fierce_JJ ice_NN1 planet_NN1 ,_Y Delta_NN1 Vega_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  157 SCENE 8 N3 : On Delta Vega , a giant insectoid beast chases Kirk into a cave .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  157 SCENE_NN1 8_MC N3_FO :_Y On_II Delta_NN1 Vega_NP1_NN1@ ,_Y a_AT1 giant_JJ insectoid_JJ_NN1 beast_NN1 chases_VVZ Kirk_NP1_NN1@ into_II a_AT1 cave_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  158 The beast is about to eat Kirk when a mysterious figure appears , waving a torch and scaring away the creature .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  158 The_AT beast_NN1 is_VBZ about_RPK to_TO eat_VVI Kirk_NP1_NN1@ when_RRQ_CS a_AT1 mysterious_JJ figure_NN1 appears_VVZ ,_Y waving_VVG a_AT1 torch_NN1 and_CC scaring_VVG away_RL the_AT creature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  159 N4 : Before Kirk stands an elderly Spock , sent from the future !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  159 N4_FO :_Y Before_CS_II Kirk_NP1 stands_VVZ an_AT1 elderly_JJ Spock_NN1_NP1 ,_Y sent_VVN_VVD from_II the_AT future_NN1_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  160 SPOCK : Jim ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  160 SPOCK_NP1_VV0 :_Y Jim_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  161 KIRK : How do you know my name ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  161 KIRK_NP1 :_Y How_RRQ do_VD0 you_PPY know_VVI my_APPGE name_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  162 SPOCK : I have always been and always will be your friend .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  162 SPOCK_NP1_VV0 :_Y I_PPIS1 have_VH0 always_RR been_VBN and_CC always_RR will_VM be_VBI your_APPGE friend_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  163 I am Spock -- 130 years senior to the Vulcan you know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  163 I_PPIS1 am_VBM Spock_NP1_NN1 --_NN1_JJ 130_MC years_NNT2 senior_JJ to_II the_AT Vulcan_NP1 you_PPY know_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  164 KIRK : I do n't know you , and if you are Spock , we 're not friends .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  164 KIRK_NP1 :_Y I_PPIS1 do_VD0 n't_XX know_VVI you_PPY ,_Y and_CC if_CS_CSW@ you_PPY are_VBR Spock_NP1_NN1 ,_Y we_PPIS2 're_VBR not_XX friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  165 You marooned me here for mutiny .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  165 You_PPY marooned_VVD me_PPIO1 here_RL for_IF mutiny_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  166 N1 : Spock places his fingers on Kirk 's cheek and temple , allowing : 127 years from now , a star in Beta Quadrant will go supernova and destroy everything .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  166 N1_FO :_Y Spock_NP1_NN1 places_VVZ@ his_APPGE fingers_NN2 on_II Kirk_NP1 's_GE cheek_NN1 and_CC temple_NN1 ,_Y allowing_VVG :_Y 127_MC years_NNT2 from_II now_RT ,_Y a_AT1 star_NN1 in_II Beta_NN1 Quadrant_NN1 will_VM go_VVI supernova_NN1 and_CC destroy_VVI everything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  167 We built a ship containing a material capable of generating the only thing powerful enough to consume a supernova -- a black hole .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  167 We_PPIS2 built_VVD a_AT1 ship_NN1 containing_VVG a_AT1 material_JJ@_NN1 capable_JJ of_IO generating_VVG the_AT only_JJ thing_NN1 powerful_JJ enough_RR to_TO consume_VVI a_AT1 supernova_NN1 --_NN1 a_AT1 black_JJ hole_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  168 N2 : Kirk sees the ship being built .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  168 N2_FO :_Y Kirk_NP1 sees_VVZ the_AT ship_NN1 being_VBG built_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  169 SPOCK : I agreed to pilot the ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  169 SPOCK_NP1_VV0 :_Y I_PPIS1 agreed_VVD to_TO pilot_VVI the_AT ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  170 Unfortunately , before I could begin the mission , the supernova destroyed Romulus .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  170 Unfortunately_RR ,_Y before_CS I_PPIS1 could_VM begin_VVI the_AT mission_NN1 ,_Y the_AT supernova_NN1 destroyed_VVD Romulus_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  171 KIRK : Nero 's planet was destroyed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  171 KIRK_NP1 :_Y Nero_NP1 's_GE planet_NN1 was_VBDZ destroyed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  172 SPOCK : Nero came after me , determined to thwart my mission .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  172 SPOCK_NP1_VV0 :_Y Nero_NP1 came_VVD after_II me_PPIO1 ,_Y determined_VVN_JJ_VVD@ to_TO thwart_VVI my_APPGE mission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  173 I realized a smaller black hole could send me back in time , allowing me to complete my mission .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  173 I_PPIS1 realized_VVD a_AT1 smaller_JJR black_JJ hole_NN1 could_VM send_VVI me_PPIO1 back_RP in_II time_NNT1 ,_Y allowing_VVG me_PPIO1 to_TO complete_VVI my_APPGE mission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  174 N3 : Kirk sees Spock create a small black hole with his ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  174 N3_FO :_Y Kirk_NP1 sees_VVZ Spock_NP1_NN1 create_VVI a_AT1 small_JJ black_JJ hole_NN1 with_IW his_APPGE ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  175 SPOCK : Nero got to the black hole first .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  175 SPOCK_NP1_VV0 :_Y Nero_NP1 got_VVD to_II the_AT black_JJ hole_NN1 first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  176 N4 : Kirk sees the Narada confront and steal Spock 's ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  176 N4_FO :_Y Kirk_NP1 sees_VVZ the_AT Narada_NP1_NN1@ confront_VVI and_CC steal_VVI Spock_NP1_NN1 's_GE ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  177 Kirk is emotionally moved by the gravity of these events .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  177 Kirk_NP1_NN1 is_VBZ emotionally_RR moved_VVN by_II the_AT gravity_NN1 of_IO these_DD2 events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  178 SPOCK : Emotional transference is an effect of the mind meld .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  178 SPOCK_NP1_VV0 :_Y Emotional_JJ transference_NN1 is_VBZ an_AT1 effect_NN1 of_IO the_AT mind_NN1 meld_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  179 KIRK : So you do feel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  179 KIRK_NP1 :_Y So_CS@_RR you_PPY do_VD0 feel_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  180 SPOCK : We must go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  180 SPOCK_NP1_VV0 :_Y We_PPIS2 must_VM go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  181 There is a you came from , did I know my father ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  181 There_EX is_VBZ a_AT1 you_PPY came_VVD from_II ,_Y did_VDD I_PPIS1 know_VVI my_APPGE father_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  182 SPOCK : He lived to proudly see you become captain of the Enterprise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  182 SPOCK_NP1_VV0 :_Y He_PPHS1 lived_VVD to_TO proudly_RR see_VVI you_PPY become_VVI captain_NN1 of_IO the_AT Enterprise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  183 SCENE 9 N1 : Kirk and Spock trudge through the snow to the outpost .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  183 SCENE_NN1 9_MC N1_FO :_Y Kirk_NP1 and_CC Spock_NP1_VV0_NN1 trudge_NN1_VV0 through_II the_AT snow_NN1 to_II the_AT outpost_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  184 SPOCK : To stop Nero , you must take command of your ship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  184 SPOCK_NP1_VV0 :_Y To_TO stop_VVI Nero_NP1 ,_Y you_PPY must_VM take_VVI command_NN1 of_IO your_APPGE ship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  185 KIRK : How ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  185 KIRK_NP1 :_Y How_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  186 SPOCK : Starfleet Regulation 619 states that any commanding officer who is emotionally compromised by the mission at hand must resign command .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  186 SPOCK_NP1_VV0 :_Y Starfleet_VV0_NP1_NN1 Regulation_NN1 619_MC states_VVZ_NN2 that_CST any_DD commanding_JJ officer_NN1 who_PNQS is_VBZ emotionally_RR compromised_VVN by_II the_AT mission_NN1 at_II hand_NN1 must_VM resign_VVI command_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  187 KIRK : So I need to emotionally compromise you ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  187 KIRK_NP1 :_Y So_RR_CS@ I_PPIS1 need_VV0 to_TO emotionally_RR compromise_VVI you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  188 SPOCK : Kirk , I just lost my planet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  188 SPOCK_NP1_VV0 :_Y Kirk_NP1 ,_Y I_PPIS1 just_RR lost_VVD my_APPGE planet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  189 I can tell you I am emotionally compromised .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  189 I_PPIS1 can_VM tell_VVI you_PPY I_PPIS1 am_VBM emotionally_RR compromised_VVN_VVD_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  190 What you must do is get me to show it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  190 What_DDQ you_PPY must_VM do_VDI is_VBZ get_VVI me_PPIO1 to_TO show_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  191 KIRK : You know , coming back in time , changing history -- that 's cheating .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  191 KIRK_NP1 :_Y You_PPY know_VV0 ,_Y coming_VVG back_RP in_II time_NNT1 ,_Y changing_VVG_JJ history_NN1 --_NN1 that_CST_DD1 's_VBZ cheating_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  192 SPOCK : A trick I learned from an old friend .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  192 SPOCK_NP1_VV0 :_Y A_ZZ1_AT1@ trick_VV0_NN1 I_PPIS1 learned_VVD from_II an_AT1 old_JJ friend_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  193 N2 : Spock activates the transporter and Kirk dematerializes and finds himself back aboard the Enterprise !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  193 N2_FO :_Y Spock_NP1_NN1 activates_VVZ the_AT transporter_NN1 and_CC Kirk_NP1 dematerializes_VVZ and_CC finds_VVZ himself_PPX1 back_RP aboard_II the_AT Enterprise_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  194 N3 : Security finds Kirk and escorts him to Captain Spock .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  194 N3_FO :_Y Security_NN1 finds_VVZ Kirk_NP1 and_CC escorts_NN2 him_PPHO1 to_II Captain_NNB Spock_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  195 KIRK : Surprise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  195 KIRK_NP1 :_Y Surprise_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  196 SPOCK : Escort him to the brig .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  196 SPOCK_NP1_VV0 :_Y Escort_VV0 him_PPHO1 to_II the_AT brig_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  197 KIRK : and you 're not even upset ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  197 KIRK_NP1 :_Y and_CC you_PPY 're_VBR not_XX even_RR upset_VV0_VVN_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  198 SPOCK : Your presumption that these experiences interfere with my abilities to command this ship is inaccurate -- KIRK : And yet you said fear was necessary for command .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  198 SPOCK_NP1_VV0 :_Y Your_APPGE presumption_NN1 that_CST these_DD2 experiences_NN2 interfere_VV0 with_IW my_APPGE abilities_NN2 to_TO command_VVI this_DD1 ship_NN1 is_VBZ inaccurate_JJ --_NN1_JJ KIRK_NP1_NN1 :_Y And_CC yet_RR you_PPY said_VVD fear_NN1 was_VBDZ necessary_JJ for_IF command_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  199 SPOCK : I will not allow you to lecture me on the merits of emotion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  199 SPOCK_NP1_VV0 :_Y I_PPIS1 will_VM not_XX allow_VVI you_PPY to_TO lecture_VVI me_PPIO1 on_II the_AT merits_NN2 of_IO emotion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  200 KIRK : What is it like not to feel ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  200 KIRK_NP1 :_Y What_DDQ is_VBZ it_PPH1 like_II_CS%_RR% not_XX to_TO feel_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  201 You must not have loved her at all !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  201 You_PPY must_VM not_XX have_VHI loved_VVN her_PPHO1 at_RR21_II all_RR22_DB !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  202 N4 : Spock attacks Kirk with brutal force .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  202 N4_FO :_Y Spock_NP1_VV0_NN1 attacks_VVZ@_NN2 Kirk_NP1_NN1@ with_IW brutal_JJ force_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  203 He pins Kirk against the wall and chokes him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  203 He_PPHS1 pins_VVZ% Kirk_NP1_NN1@ against_II the_AT wall_NN1 and_CC chokes_VVZ him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  204 N1 : Spock realizes what has just happened to him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  204 N1_FO :_Y Spock_NP1_NN1 realizes_VVZ what_DDQ has_VHZ just_RR happened_VVN to_II@ him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  205 SPOCK : I am no longer fit for duty .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  205 SPOCK_NP1_VV0 :_Y I_PPIS1 am_VBM no_RR21 longer_RR22 fit_JJ for_IF duty_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  206 I relinquish my command .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  206 I_PPIS1 relinquish_VV0 my_APPGE command_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  207 MCCOY : Congratulations , Jim !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  207 MCCOY_NP1 :_Y Congratulations_NN2 ,_Y Jim_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  208 Now we 've got no captain and no first officer to replace him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  208 Now_RT we_PPIS2 've_VH0 got_VVN no_AT captain_NN1 and_CC no_AT first_MD officer_NN1 to_TO replace_VVI him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  209 KIRK : Yeah , we do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  209 KIRK_NP1 :_Y Yeah_UH ,_Y we_PPIS2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  210 N2 : Since Pike promoted Kirk to first officer before he left , Kirk can now assume command of the Enterprise as captain !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  210 N2_FO :_Y Since_CS Pike_NN_NP1@ promoted_VVD@_VVN Kirk_NP1_NN1@ to_II first_MD officer_NN1 before_CS he_PPHS1 left_VVD ,_Y Kirk_NP1 can_VM now_RT assume_VVI command_NN1 of_IO the_AT Enterprise_NN1 as_CSA_II@ captain_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  211 KIRK : Attention crew of the Enterprise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  211 KIRK_NP1 :_Y Attention_NN1 crew_NN1 of_IO the_AT Enterprise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  212 This is Jim Kirk .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  212 This_DD1 is_VBZ Jim_NP1 Kirk_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  213 Spock has resigned commission and advanced me to acting captain ship to Earth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  213 Spock_NN1_NP1@_VV0 has_VHZ resigned_VVN commission_NN1 and_CC advanced_VVN me_PPIO1 to_II acting_VVG_JJ@ captain_NN1 ship_NN1 to_II Earth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  214 MCCOY : You ca n't go in guns blazing , not with their technology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  214 MCCOY_NP1 :_Y You_PPY ca_VM n't_XX go_VVI in_II_RP@ guns_NN2 blazing_VVG ,_Y not_XX with_IW their_APPGE technology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  215 That 's suicide .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  215 That_DD1 's_VBZ suicide_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  216 CHEKOV : If we could drop out of warp behind one of Saturn 's moons , the magnetic distortion would make us invisible to Nero .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  216 CHEKOV_NP1 :_Y If_CS we_PPIS2 could_VM drop_VVI out_II21 of_II22 warp_NN1 behind_II one_MC1 of_IO Saturn_NP1 's_GE moons_NN2 ,_Y the_AT magnetic_JJ distortion_NN1 would_VM make_VVI us_PPIO2 invisible_JJ to_II Nero_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  217 N3 : Spock walks onto the bridge with a renewed sense of purpose .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  217 N3_FO :_Y Spock_NP1_VV0_NN1 walks_VVZ_NN2 onto_II the_AT bridge_NN1 with_IW a_AT1 renewed_JJ sense_NN1 of_IO purpose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  218 SPOCK : Mr. Chekov is correct .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  218 SPOCK_NP1_VV0 :_Y Mr._NNB Chekov_NP1 is_VBZ correct_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  219 If Mr. Sulu can maneuver us into position , I can beam aboard the ship that belongs to Nerd and locate the black hole device .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  219 If_CS Mr._NNB Sulu_NP1 can_VM maneuver_VVI us_PPIO2 into_II position_NN1 ,_Y I_PPIS1 can_VM beam_VVI aboard_II the_AT ship_NN1 that_CST_DD1 belongs_VVZ to_II Nerd_NP1 and_CC locate_VV0 the_AT black_JJ hole_NN1 device_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  220 KIRK : Then I 'm coming with you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  220 KIRK_NP1 :_Y Then_RT I_PPIS1 'm_VBM coming_VVG with_IW you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  221 N4 : The crew of the Enterprise sets a course for Earth to stop Nero and the Narada in the face of impossible odds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  221 N4_FO :_Y The_AT crew_NN1 of_IO the_AT Enterprise_NN1 sets_VVZ a_AT1 course_NN1 for_IF Earth_NN1 to_TO stop_VVI Nero_NP1 and_CC the_AT Narada_NP1_NN1@ in_II the_AT face_NN1 of_IO impossible_JJ odds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  222 Characters Write your initials next to the character you 're going to read .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  222 Characters_NN2 Write_VV0 your_APPGE initials_NN2 next_II21 to_II22 the_AT character_NN1 you_PPY 're_VBR going_VVGK to_TO read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  223 *Starred characters are major roles .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  223 *Starred_FO characters_NN2 are_VBR major_JJ roles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  224 pre-formatted table FROM THE MOTION PICTURE STAR TREK .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  224 pre-formatted_ZZ table_NN1 FROM_II THE_AT MOTION_NN1 PICTURE_NN1 STAR_NN1 TREK_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  225 DIRECTED BY J.J. ABRAMS , BASED ON THE MOTION PICTURE SCREENPLAY STAR TREK , WRITTEN BY ROBERTO ORCI ALEX KURTZMAN , BASED UPON STAR TREK CREATED BY CENE RODDENBERRY .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  225 DIRECTED_VVN BY_II J.J._NP1 ABRAMS_NP2_VVZ_NN2 ,_Y BASED_VVN ON_II THE_AT MOTION_NN1 PICTURE_NN1 SCREENPLAY_NN1_VV0_NP1 STAR_NN1_JJ@ TREK_NN1_NP1 ,_Y WRITTEN_VVN BY_II ROBERTO_NP1 ORCI_NP1 ALEX_NP1 KURTZMAN_NP1 ,_Y BASED_VVN UPON_II STAR_NN1_JJ@ TREK_NN1_NP1 CREATED_VVN BY_II CENE_NP1 RODDENBERRY_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  226 ADAPTATION PICTURES .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  226 ADAPTATION_NN1 PICTURES_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  227 STAR TREK AND RELATED MARKS AND LOGOS ARE TRADEMARKS OF CBS STUDIOS INC .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  227 STAR_NN1_JJ@_VV0@ TREK_NN1_NP1 AND_CC RELATED_JJ_VVD MARKS_NN2_NP1 AND_CC LOGOS_NN2 ARE_VBR TRADEMARKS_NN2 OF_IO CBS_NP1 STUDIOS_NN2 INC_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  228 ALL RIGHTS RESERVED .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  228 ALL_DB RIGHTS_NN2 RESERVED_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  229 USED BY PERMISSION .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  229 USED_VVN BY_II PERMISSION_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  230 WHAT HAPPENS NEXT ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  230 WHAT_DDQ HAPPENS_VVZ NEXT_MD ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  231 Will Kirk and Spock be able to recover the black hole device ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  231 Will_NP1@ Kirk_NP1 and_CC Spock_NN1_NP1 be_VBI able_JK to_TO recover_VVI the_AT black_JJ hole_NN1 device_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  232 What has become of Captain Pike ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  232 What_DDQ has_VHZ become_VVN@ of_IO Captain_NNB Pike_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  233 See Star Trek to find out !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  233 See_VV0 Star_NN1_JJ@ Trek_NP1_NN1@_VV0@ to_TO find_VVI out_RP !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  234 Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  234 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  235 This story takes place more than 200 years from now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  235 This_DD1 story_NN1 takes_VVZ place_NN1 more_DAR than_CSN 200_MC years_NNT2 from_II now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  236 What do you think the world will be like then ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  236 What_DDQ do_VD0 you_PPY think_VVI the_AT world_NN1 will_VM be_VBI like_II_JJ@_RR% then_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  237 Where will people live ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  237 Where_RRQ will_VM people_NN live_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  238 How will they travel ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  238 How_RRQ will_VM they_PPHS2 travel_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  239 Let your imagination run free .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  239 Let_VV0 your_APPGE imagination_NN1 run_VVI free_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  240 Set a short story in this futuristic world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  240 Set_VV0 a_AT1 short_JJ story_NN1 in_II this_DD1 futuristic_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  241 Who is your main character ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  241 Who_PNQS is_VBZ your_APPGE main_JJ character_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  242 What does he or she wear ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  242 What_DDQ does_VDZ he_PPHS1 or_CC she_PPHS1 wear_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  243 SAY IT !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  243 SAY_VV0 IT_PPH1@_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  244 xenolinguistics -- ZEE-on-lin-GWIHS-ticks PHOTO ( COLOR ) : Kirk sits on his motorcycle in Iowa while checking out Starfleet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  244 xenolinguistics_NN1 --_NN1_JJ ZEE-on-lin-GWIHS-ticks_NP1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Kirk_NP1 sits_VVZ on_II_RP@ his_APPGE motorcycle_NN1 in_II Iowa_NP1 while_CS checking_VVG out_RP Starfleet_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  245 PHOTO ( COLOR ) : Kirk and the crew of the U.S.S. Enterprise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  245 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Kirk_NP1 and_CC the_AT crew_NN1 of_IO the_AT U.S.S._NP1 Enterprise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  246 PHOTO ( COLOR ) : Kirk and Spock join forces to stop Nero .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  246 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Kirk_NP1 and_CC Spock_NP1_VV0_NN1 join_VV0 forces_NN2 to_TO stop_VVI Nero_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  247 PHOTO ( COLOR ) : Nero ( Eric Bana ) is captain of the Narada .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  247 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Nero_NP1 (_Y Eric_NP1 Bana_NP1 )_Y is_VBZ captain_NN1 of_IO the_AT Narada_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  248 PHOTO ( COLOR ) : Spock Pine ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  248 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Spock_NP1 Pine_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  249 PHOTO ( COLOR ) : The exterior of the U.S.S. Enterprise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  249 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y The_AT exterior_NN1 of_IO the_AT U.S.S._NP1 Enterprise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  A    0  250 PHOTO ( COLOR ) : Kirk is sent to the fierce ice planet Delta Vega.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080211 COCA  B    0  250 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Kirk_NP1 is_VBZ sent_VVN to_II the_AT fierce_JJ ice_NN1 planet_NN1 Delta_NN1 Vega._NP1

@@ -1,0 +1,80 @@
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    0 Is going to college a waste of time ?
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    0 Is_VBZ going_VVG to_II college_NN1 a_AT1 waste_NN1 of_IO time_NNT1 ?_?
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    1 With pricy tuition costs and low job projections in some fields , plenty of people seem to consider that it is .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    1 With_IW pricy_JJ tuition_NN1 costs_NN2 and_CC low_JJ job_NN1 projections_NN2 in_II some_DD fields_NN2 ,_, plenty_PN of_IO people_NN seem_VV0 to_TO consider_VVI that_CST it_PPH1 is_VBZ ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    2 Not everyone believes that a degree is necessary .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    2 Not_XX everyone_PN1 believes_VVZ that_CST a_AT1 degree_NN1 is_VBZ necessary_JJ ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    3 Students and their parents are often left in a mountain of debt from paying for college .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    3 Students_NN2 and_CC their_APPGE parents_NN2 are_VBR often_RR left_VVN in_II a_AT1 mountain_NN1 of_IO debt_NN1 from_II paying_VVG for_IF college_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    4 A degree does n't guarantee a job or career .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    4 A_AT1 degree_NN1 does_VDZ n't_XX guarantee_VVI a_AT1 job_NN1 or_CC career_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    5 College-level work may be too much for some recent high school graduates .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    5 College-level_JJ work_NN1 may_VM be_VBI too_RG much_DA1 for_IF some_DD recent_JJ high_JJ school_NN1 graduates_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    6 Many have opinions that college is a scam .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    6 Many_DA2 have_VH0 opinions_NN2 that_CST college_NN1 is_VBZ a_AT1 scam_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    0    7 Despite these arguments , David Leonhardt believes that a degree is imperative .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    0    7 Despite_II these_DD2 arguments_NN2 ,_, David_NP1 Leonhardt_NP1 believes_VVZ that_CST a_AT1 degree_NN1 is_VBZ imperative_JJ ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1    8 Even For Cashiers , College Pays Off , an article written for the New York Times , author David Leonhardt presents the issue that going to college and obtaining a degree will get a graduate ahead of those without .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1    8 Even_RR For_IF Cashiers_NN2 ,_, College_NN1 Pays_VVZ Off_RP ,_, an_AT1 article_NN1 written_VVN for_IF the_AT New_NP1 York_NP1 Times_NNT2 ,_, author_NN1 David_NP1 Leonhardt_NP1 presents_VVZ the_AT issue_NN1 that_CST going_VVG to_II college_NN1 and_CC obtaining_VVG a_AT1 degree_NN1 will_VM get_VVI a_AT1 graduate_NN1 ahead_II21 of_II22 those_DD2 without_IW ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1    9 He perceives it as being an advantage .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1    9 He_PPHS1 perceives_VVZ it_PPH1 as_CSA being_VBG an_AT1 advantage_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1   10 " A new study even shows that a bachelor 's degree pays off for jobs that do n't require one : secretaries , plumbers and cashiers .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1   10 "_" A_AT1 new_JJ study_NN1 even_RR shows_VVZ that_CST a_AT1 bachelor_NN1 's_GE degree_NN1 pays_VVZ off_RP for_IF jobs_NN2 that_CST do_VD0 n't_XX require_VVI one_MC1 :_: secretaries_NN2 ,_, plumbers_NN2 and_CC cashiers_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1   11 And , beyond money , education seems to make people happier and healthier , " writes Leonhardt .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1   11 And_CC ,_, beyond_II money_NN1 ,_, education_NN1 seems_VVZ to_TO make_VVI people_NN happier_JJR and_CC healthier_JJR ,_, "_" writes_VVZ Leonhardt_NP1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1   12 Employers would rather hire someone with a college degree over someone who does n't .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1   12 Employers_NN2 would_VM rather_RR@ hire_VVI someone_PN1 with_IW a_AT1 college_NN1 degree_NN1 over_II someone_PN1 who_PNQS does_VDZ n't_XX ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1   13 College courses teach more than just curriculum .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1   13 College_NN1 courses_NN2 teach_VV0 more_DAR than_CSN just_JJ@ curriculum_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1   14 It teaches time management , organization skills , and better study habits .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1   14 It_PPH1 teaches_VVZ time_NNT1 management_NN1 ,_, organization_NN1 skills_NN2 ,_, and_CC better_JJR study_NN1 habits_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    1   15 The college experience is another element that sets apart a college graduate from a high school graduate .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    1   15 The_AT college_NN1 experience_NN1 is_VBZ another_DD1 element_NN1 that_CST sets_VVZ apart_RL a_AT1 college_NN1 graduate_NN1 from_II a_AT1 high_JJ school_NN1 graduate_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    2   16 Being that this article was published in the business column of the New York Times , the audience is not very specific .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    2   16 Being_NN1% that_CST this_DD1 article_NN1 was_VBDZ published_VVN in_II the_AT business_NN1 column_NN1 of_IO the_AT New_NP1 York_NP1 Times_NNT2 ,_, the_AT audience_NN1 is_VBZ not_XX very_RG specific_JJ ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    2   17 Generally speaking , most people who read the New York Times are businessmen and women .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    2   17 Generally_RR speaking_VVG ,_, most_DAT people_NN who_PNQS read_VVD the_AT New_NP1 York_NP1 Times_NNT2 are_VBR businessmen_NN2 and_CC women_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    2   18 Teachers and professors probably read it also .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    2   18 Teachers_NN2 and_CC professors_NN2 probably_RR read_VV0 it_PPH1 also_RR ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    2   19 Leonhardt is directing his article more towards parents and students .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    2   19 Leonhardt_NN1 is_VBZ directing_VVG his_APPGE article_NN1 more_RRR towards_II parents_NN2 and_CC students_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   20 The apparent stakeholder is David Leonhardt , the writer of the article .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   20 The_AT apparent_JJ stakeholder_NN1 is_VBZ David_NP1 Leonhardt_NP1 ,_, the_AT writer_NN1 of_IO the_AT article_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   21 Other stakeholders for this issue would be high school students interested in or preparing for college , current college students , parents of students , professors , faculty , and employers .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   21 Other_JJ stakeholders_NN2 for_IF this_DD1 issue_NN1 would_VM be_VBI high_JJ school_NN1 students_NN2 interested_JJ in_II or_CC preparing_VVG for_IF college_NN1 ,_, current_JJ college_NN1 students_NN2 ,_, parents_NN2 of_IO students_NN2 ,_, professors_NN2 ,_, faculty_NN1 ,_, and_CC employers_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   22 Students are the most important stakeholders because they are the ones that decide their future , whether they want a degree or not .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   22 Students_NN2 are_VBR the_AT most_RGT important_JJ stakeholders_NN2 because_CS they_PPHS2 are_VBR the_AT ones_NN2 that_CST decide_VV0 their_APPGE future_NN1 ,_, whether_CSW they_PPHS2 want_VV0 a_AT1 degree_NN1 or_CC not_XX ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   23 Parents matter in this situation since they pay for their child or children to go to college .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   23 Parents_NN2 matter_VV0 in_II this_DD1 situation_NN1 since_CS they_PPHS2 pay_VV0 for_IF their_APPGE child_NN1 or_CC children_NN2 to_TO go_VVI to_II college_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   24 Professors and other faculty members are also stakeholders because if no one 's attending college , they do n't have a job .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   24 Professors_NN2 and_CC other_JJ faculty_NN1 members_NN2 are_VBR also_RR stakeholders_NN2 because_CS if_CS no_PN121 one_PN122 's_VBZ attending_VVG college_NN1 ,_, they_PPHS2 do_VD0 n't_XX have_VHI a_AT1 job_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   25 Professors and advisors are there to push students toward graduating and becoming what they want to be in life .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   25 Professors_NN2 and_CC advisors_NN2 are_VBR there_RL to_TO push_VVI students_NN2 toward_II graduating_VVG and_CC becoming_VVG what_DDQ they_PPHS2 want_VV0 to_TO be_VBI in_II life_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    3   26 Employers , especially those ahead of large or corporate companies , want to hire the best .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    3   26 Employers_NN2 ,_, especially_RR those_DD2 ahead_II21 of_II22 large_JJ or_CC corporate_JJ companies_NN2 ,_, want_VV0 to_TO hire_VVI the_AT best_JJT ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   27 David Leonhardt expresses that money is the main factor in attending college .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   27 David_NP1 Leonhardt_NP1 expresses_VVZ that_DD1 money_NN1 is_VBZ the_AT main_JJ factor_NN1 in_II attending_VVG college_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   28 He presents statistics that back up his idea that having a degree is beneficial in the long run .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   28 He_PPHS1 presents_VVZ statistics_NN that_CST back_VV0@ up_RP his_APPGE idea_NN1 that_CST having_VHG a_AT1 degree_NN1 is_VBZ beneficial_JJ in_II the_AT long_JJ run_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   29 Last year , full-time workers made eighty-three percent more than those with just a high school diploma .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   29 Last_MD year_NNT1 ,_, full-time_JJ workers_NN2 made_VVD eighty-three_MC percent_NNU more_DAR than_CSN those_DD2 with_IW just_RR a_AT1 high_JJ school_NN1 diploma_NN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   30 Compared to non-graduates , college graduates are far more likely to be employed .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   30 Compared_VVN to_II non-graduates_NN2 ,_, college_NN1 graduates_NN2 are_VBR far_RG more_RGR likely_JJ to_TO be_VBI employed_VVN ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   31 Leonhardt regards that having a degree will get someone farther , even in careers where a degree is not required .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   31 Leonhardt_NN1 regards_VVZ that_CST having_VHG a_AT1 degree_NN1 will_VM get_VVI someone_PN1 farther_RRR ,_, even_RR in_II careers_NN2 where_RRQ a_AT1 degree_NN1 is_VBZ not_XX required_VVN ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   32 " Construction workers , police officers , plumbers , retail salespeople and secretaries , among others , make significantly more with a degree than without one .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   32 "_" Construction_NN1 workers_NN2 ,_, police_NN2 officers_NN2 ,_, plumbers_NN2 ,_, retail_JJ salespeople_NN2 and_CC secretaries_NN2 ,_, among_II others_NN2 ,_, make_VV0 significantly_RR more_RRR with_IW a_AT1 degree_NN1 than_CSN without_IW one_PN1 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   33 Why ?
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   33 Why_RRQ ?_?
+SENTPOS 2014_4_101_100_170_1 DRAFT A    4   34 Education helps people do higher-skilled work , get jobs with better-paying companies or open their own businesses " ( Leonhardt , 2011 ) .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    4   34 Education_NN1 helps_VVZ people_NN do_VDI higher-skilled_JJR work_NN1 ,_, get_VV0 jobs_NN2 with_IW better-paying_JJR companies_NN2 or_CC open_VV0 their_APPGE own_DA businesses_NN2 "_" (_( Leonhardt_NP1 ,_, 2011_MC )_) ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    5   35 According to Leonhardt , the answer is to improve colleges , not abandon them .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    5   35 According_II21 to_II22 Leonhardt_NP1 ,_, the_AT answer_NN1 is_VBZ to_TO improve_VVI colleges_NN2 ,_, not_XX abandon_VV0 them_PPHO2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    5   36 With the constant change in the economy , how could a high school diploma alone satisfy an individual 's educational essentials ?
+SENTPOS 2014_4_101_100_170_1 DRAFT B    5   36 With_IW the_AT constant_JJ change_NN1 in_II the_AT economy_NN1 ,_, how_RRQ could_VM a_AT1 high_JJ school_NN1 diploma_NN1 alone_RR satisfy_VV0 an_AT1 individual_NN1 's_GE educational_JJ essentials_NN2 ?_?
+SENTPOS 2014_4_101_100_170_1 DRAFT A    5   37 Leonhardt suggests that action could be taken to convalesce colleges .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    5   37 Leonhardt_NN1 suggests_VVZ that_DD1 action_NN1 could_VM be_VBI taken_VVN to_TO convalesce_VVI colleges_NN2 ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    5   38 More financial aid could be given ; tuition could be more affordable .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    5   38 More_RGR financial_JJ aid_NN1 could_VM be_VBI given_VVN ;_; tuition_NN1 could_VM be_VBI more_RGR affordable_JJ ._.
+SENTPOS 2014_4_101_100_170_1 DRAFT A    5   38  So much could be done to make going to college easier .
+SENTPOS 2014_4_101_100_170_1 DRAFT B    5   38  So_RR much_RR could_VM be_VBI done_VDN to_TO make_VVI going_VVG to_II college_NN1 easier_RRR ._.

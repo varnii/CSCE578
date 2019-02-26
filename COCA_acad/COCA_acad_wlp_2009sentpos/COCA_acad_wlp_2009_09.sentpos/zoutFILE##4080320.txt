@@ -1,0 +1,206 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    0 " And immediately one feels : that hill has a soul , it has meaning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    0 "_Y And_CC immediately_RR_CS@ one_PN1_MC1 feels_VVZ :_Y that_DD1 hill_NN1 has_VHZ a_AT1 soul_NN1 ,_Y it_PPH1 has_VHZ meaning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    1 " -- D.H .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    1 "_Y --_ZZ D.H_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    2 Lawrence A MARK OF A great novel , memoir or literary travel narrative is its rich rendering of a unique place and time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    2 Lawrence_NP1 A_ZZ1 MARK_NN1 OF_IO A_ZZ1_AT1@ great_JJ novel_NN1_JJ ,_Y memoir_NN1 or_CC literary_JJ travel_NN1 narrative_NN1 is_VBZ its_Z' rich_JJ rendering_NN1 of_IO a_AT1 unique_JJ place_NN1 and_CC time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    3 Bruce Chatwin 's Patagonia , Lawrence Durrell 's Alexandria , Proust 's Combray , D.H .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    3 Bruce_NP1 Chatwin_NP1 's_GE Patagonia_NP1 ,_Y Lawrence_NP1 Durrell_NP1 's_GE Alexandria_NP1 ,_Y Proust_NP1 's_GE Combray_NN1_NP1 ,_Y D.H_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    4 Lawrence 's Etruria , Alice Munro 's small-town Canada , Walter Benjamin 's Paris -- all share a vivid evocation of place and a keen sense of how place shapes identity and character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    4 Lawrence_NP1 's_GE Etruria_NP1_NN1@ ,_Y Alice_NP1 Munro_NP1 's_GE small-town_JJ_NN1 Canada_NP1 ,_Y Walter_NP1 Benjamin_NP1 's_GE Paris_NP1 --_NN1_JJ all_DB_RR@ share_VV0 a_AT1 vivid_JJ evocation_NN1 of_IO place_NN1 and_CC a_AT1 keen_JJ sense_NN1 of_IO how_RRQ place_NN1_VV0 shapes_NN2 identity_NN1 and_CC character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    5 In the ancient Mediterranean world , people believed that every physical place -- from an individual room to a continent -- had its unique in-dwelling spirit , its spark of sacred , individual identity , called the genius loci .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    5 In_II the_AT ancient_JJ Mediterranean_JJ world_NN1 ,_Y people_NN believed_VVD_VVN that_CST every_AT1 physical_JJ place_NN1 --_NN1 from_II an_AT1 individual_JJ room_NN1 to_II a_AT1 continent_NN1 --_NN1 had_VHD its_Z' unique_JJ in-dwelling_JJ_NN1 spirit_NN1 ,_Y its_Z' spark_NN1 of_IO sacred_JJ ,_Y individual_JJ identity_NN1 ,_Y called_VVN_VVD@ the_AT genius_NN121 loci_NN122 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    6 This soul , or spirit of place , imparted to that place its specific character and preserved its existence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    6 This_DD1 soul_NN1 ,_Y or_CC spirit_NN1 of_IO place_NN1 ,_Y imparted_VVD_VVN@ to_II that_DD1 place_NN1_VV0 its_Z' specific_JJ character_NN1 and_CC preserved_VVD@_VVN its_Z' existence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    7 The spirit of the place determined the development and vitality of all life forms in a given place , and influenced the character and destiny of human activities unfolding there .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    7 The_AT spirit_NN1 of_IO the_AT place_NN1 determined_VVN_VVD@ the_AT development_NN1 and_CC vitality_NN1 of_IO all_DB life_NN1 forms_VVZ_NN2 in_II a_AT1 given_JJ@ place_NN1 ,_Y and_CC influenced_VVD@_VVN the_AT character_NN1 and_CC destiny_NN1 of_IO human_JJ_NN1 activities_NN2 unfolding_VVG there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    8 For writers and a flood of inspiration and unlock the gates to a bounty of memories , submerged impressions and other material .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    8 For_IF writers_NN2 and_CC a_AT1 flood_NN1 of_IO inspiration_NN1 and_CC unlock_VVI the_AT gates_NN2 to_II a_AT1 bounty_NN1 of_IO memories_NN2 ,_Y submerged_JJ impressions_NN2 and_CC other_JJ material_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0    9 Below the surface " Deep map " is a term coined by writer William Least Heat-Moon in his extraordinary travel book PrairyErth , an in-depth exploration of a tiny corner of Chase County , Kan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0    9 Below_II the_AT surface_NN1 "_Y Deep_JJ_NN1@ map_NN1 "_Y is_VBZ a_AT1 term_NN1 coined_VVN by_II writer_NN1 William_NP1 Least_DAT Heat-Moon_NP1 in_II his_APPGE extraordinary_JJ travel_NN1 book_NN1 PrairyErth_NN1_NP1 ,_Y an_AT1 in-depth_JJ exploration_NN1 of_IO a_AT1 tiny_JJ corner_NN1 of_IO Chase_NN1 County_NN1 ,_Y Kan_NP1_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   10 He conducted the exploration on foot following a highly structured itinerary charted on a grid of 12 quadrants drawn from U.S. Geological Survey maps of the area .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   10 He_PPHS1 conducted_VVD the_AT exploration_NN1 on_II foot_NN1 following_VVG_II@ a_AT1 highly_RR structured_JJ_VVN itinerary_NN1 charted_VVN_VVD on_II_RP@ a_AT1 grid_NN1 of_IO 12_MC quadrants_NN2 drawn_VVN from_II U.S._NP1 Geological_JJ Survey_NN1 maps_NN2 of_IO the_AT area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   11 Heat-Moon 's ramble across this territory is a vertical descent through recent and remote history , down into geological time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   11 Heat-Moon_NN1 's_GE ramble_NN1 across_II this_DD1 territory_NN1 is_VBZ a_AT1 vertical_JJ descent_NN1 through_II recent_JJ and_CC remote_JJ history_NN1 ,_Y down_RP into_II geological_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   12 He weaves together exquisite passages of nature writing , cartography , poetry , local history and folklore , oral testimony by local residents , autobiography , sociology , archaeology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   12 He_PPHS1 weaves_VVZ together_RL exquisite_JJ passages_NN2 of_IO nature_NN1 writing_NN1_VVG ,_Y cartography_NN1 ,_Y poetry_NN1 ,_Y local_JJ history_NN1 and_CC folklore_NN1 ,_Y oral_JJ_NN1 testimony_NN1 by_II local_JJ residents_NN2 ,_Y autobiography_NN1 ,_Y sociology_NN1 ,_Y archaeology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   13 He penetrates deep into the realm of myths and legends belonging to the ancient Native-American residents of the area , with whom he conducts an interior dialogue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   13 He_PPHS1 penetrates_VVZ deep_RR_JJ into_II the_AT realm_NN1 of_IO myths_NN2 and_CC legends_NN2 belonging_VVG to_II the_AT ancient_JJ Native-American_JJ residents_NN2 of_IO the_AT area_NN1 ,_Y with_IW whom_PNQO he_PPHS1 conducts_VVZ an_AT1 interior_JJ_NN1 dialogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   14 Since his book came out , geographers have used " deep map " to refer to a sample section of the many layers of natural , cultural and lies the genius loci .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   14 Since_CS his_APPGE book_NN1 came_VVD out_RP ,_Y geographers_NN2 have_VH0 used_VVN "_Y deep_RR_JJ map_VV0@_NN1 "_Y to_TO refer_VVI to_II a_AT1 sample_NN1 section_NN1 of_IO the_AT many_DA2 layers_NN2 of_IO natural_JJ ,_Y cultural_JJ and_CC lies_VVZ the_AT genius_NN121 loci_NN122 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   15 The following activity is designed to help you make a deep map of your own neighborhood or town .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   15 The_AT following_JJ activity_NN1 is_VBZ designed_VVN to_TO help_VVI you_PPY make_VVI a_AT1 deep_JJ map_NN1 of_IO your_APPGE own_DA neighborhood_NN1 or_CC town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   16 It also draws inspiration in part from Elizabeth Vander Schaaf 's article titled " Finding the Soul of the City " To complete a deep map , you may want to make several field trips , armed with notebook , pen and comfortable shoes , taking notes and maybe photographs as you go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   16 It_PPH1 also_RR draws_VVZ inspiration_NN1 in_RR21 part_RR22 from_II Elizabeth_NP1 Vander_NP1 Schaaf_NP1 's_GE article_NN1 titled_VVN "_Y Finding_VVG the_AT Soul_NN1 of_IO the_AT City_NN1 "_Y To_TO complete_VVI a_AT1 deep_JJ map_NN1 ,_Y you_PPY may_VM want_VVI to_TO make_VVI several_DA2 field_NN1 trips_NN2_VVZ ,_Y armed_VVN_JJ with_IW notebook_NN1 ,_Y pen_NN1 and_CC comfortable_JJ shoes_NN2 ,_Y taking_VVG notes_NN2 and_CC maybe_RR photographs_VVZ@_NN2 as_CSA you_PPY go_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   17 But it may also be done simply by re-creating and evoking a place in memory .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   17 But_CCB it_PPH1 may_VM also_RR be_VBI done_VDN simply_RR by_II re-creating_VVG and_CC evoking_VVG a_AT1 place_NN1 in_II memory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   18 Once you have worked through the activity all the way to the end , you will have a very different picture -- much more detailed and sumptuous -- than your present idea of the place you choose to investigate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   18 Once_CS@_RR you_PPY have_VH0 worked_VVN through_II the_AT activity_NN1 all_DB the_AT way_NN1 to_II the_AT end_NN1 ,_Y you_PPY will_VM have_VHI a_AT1 very_RG different_JJ picture_NN1 --_NN1 much_RR more_RGR detailed_JJ and_CC sumptuous_JJ --_NN1_JJ than_CSN your_APPGE present_JJ_NN1 idea_NN1 of_IO the_AT place_NN1_VV0 you_PPY choose_VV0 to_TO investigate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   19 For a range of writers , including travel writers and memoir writers , it will unlock a wealth of previously unrecalled details .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   19 For_IF a_AT1 range_NN1 of_IO writers_NN2 ,_Y including_II_VVG@ travel_NN1 writers_NN2 and_CC memoir_NN1 writers_NN2 ,_Y it_PPH1 will_VM unlock_VVI a_AT1 wealth_NN1 of_IO previously_RR unrecalled_JJ details_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   20 The body metaphor In some African cultures , the layout of villages corresponds to an idealized form of the human body .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   20 The_AT body_NN1 metaphor_NN1 In_II some_DD African_JJ cultures_NN2 ,_Y the_AT layout_NN1 of_IO villages_NN2 corresponds_VVZ to_II an_AT1 idealized_JJ@ form_NN1 of_IO the_AT human_JJ_NN1 body_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   21 Apply this metaphor to your own town or neighborhood .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   21 Apply_VV0 this_DD1 metaphor_NN1 to_II your_APPGE own_DA town_NN1 or_CC neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   22 Looking at Aerial photography or images from Google Earth will also provide interesting perspectives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   22 Looking_VVG at_II Aerial_NN1_JJ@ photography_NN1 or_CC images_NN2 from_II Google_NP1_NN1 Earth_NN1 will_VM also_RR provide_VVI interesting_JJ perspectives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   23 Where is the heart ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   23 Where_RRQ is_VBZ the_AT heart_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   24 The head ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   24 The_AT head_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   25 How are these marked or otherwise indicated ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   25 How_RRQ are_VBR these_DD2 marked_JJ_VVN or_CC otherwise_RR indicated_VVN_VVD ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   26 Locate the " center " -- does it correspond to either heart or head ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   26 Locate_VV0 the_AT "_Y center_NN1 "_Y --_NN1 does_VDZ it_PPH1 correspond_VVI to_II_TO either_RR heart_NN1 or_CC head_NN1_VV0@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   27 Identify the boundaries , which may be said to correspond to the skin , separating this being from others or from the surrounding space .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   27 Identify_VV0 the_AT boundaries_NN2 ,_Y which_DDQ may_VM be_VBI said_VVN@ to_TO correspond_VVI to_II the_AT skin_NN1 ,_Y separating_VVG this_DD1 being_VBG_NN1% from_II others_NN2 or_CC from_II the_AT surrounding_JJ space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   28 Examine the orifices and routes of access .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   28 Examine_VV0 the_AT orifices_NN2 and_CC routes_NN2 of_IO access_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   29 Study the circulatory system , traffic routes , railways , subways .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   29 Study_VV0@ the_AT circulatory_JJ system_NN1 ,_Y traffic_NN1 routes_NN2 ,_Y railways_NN2 ,_Y subways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   30 Note if there are any other features that might be said to correspond to human organs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   30 Note_VV0_NN1 if_CSW@_CS there_EX are_VBR any_DD other_JJ features_NN2 that_CST_DD1 might_VM be_VBI said_VVN@ to_TO correspond_VVI to_II human_JJ_NN1 organs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   31 Consider connective tissue : What connects the diverse zones ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   31 Consider_VV0 connective_JJ_NN1 tissue_NN1 :_Y What_DDQ connects_VVZ the_AT diverse_JJ zones_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   32 Note the presence of water in any form : natural or artificial bodies of water , pipelines , water tanks , wells , treatment plants , fountains .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   32 Note_VV0 the_AT presence_NN1 of_IO water_NN1 in_II any_DD form_NN1_VV0 :_Y natural_JJ or_CC artificial_JJ bodies_NN2 of_IO water_NN1 ,_Y pipelines_NN2 ,_Y water_NN1 tanks_NN2 ,_Y wells_NN2 ,_Y treatment_NN1 plants_NN2 ,_Y fountains_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   33 Where are the other " watering holes " where people meet to eat and drink , bathe , swim ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   33 Where_RRQ are_VBR the_AT other_JJ "_Y watering_NN1 holes_NN2 "_Y where_RRQ_CS people_NN meet_VV0 to_TO eat_VVI and_CC drink_NN1_VV0 ,_Y bathe_VVI ,_Y swim_VV0_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   34 Note the presence of fire in any form , including steam , power plants , electric lighting , concentrations of the colors red , yellow or orange " and which ones are " down " -- both physically and socially ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   34 Note_VV0 the_AT presence_NN1 of_IO fire_NN1 in_II any_DD form_NN1_VV0 ,_Y including_II_VVG@ steam_NN1 ,_Y power_NN1 plants_NN2 ,_Y electric_JJ lighting_NN1 ,_Y concentrations_NN2 of_IO the_AT colors_NN2 red_JJ_NN1 ,_Y yellow_JJ or_CC orange_NN1_JJ "_Y and_CC which_DDQ ones_Z' are_VBR "_Y down_RP_JJ%_II@ "_Y --_NN1_JJ both_RR physically_RR and_CC socially_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   35 What distinguishes public space from private space in both types of areas ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   35 What_DDQ distinguishes_VVZ public_JJ space_NN1 from_II private_JJ space_NN1 in_II both_DB2 types_NN2 of_IO areas_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   36 How do night and day affect the activities carried out in both areas ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   36 How_RRQ do_VD0 night_NNT1 and_CC day_NNT1 affect_VV0 the_AT activities_NN2 carried_VVN out_RP in_II both_DB2 areas_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   37 Who owns the streets by day and by night ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   37 Who_PNQS owns_VVZ the_AT streets_NN2 by_II day_NNT1 and_CC by_II night_NNT1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   38 Where are the centers of money , power , religion and governance located with respect to your other elements ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   38 Where_RRQ are_VBR the_AT centers_NN2 of_IO money_NN1 ,_Y power_NN1 ,_Y religion_NN1 and_CC governance_NN1 located_VVN_VVD with_II31 respect_II32 to_II33 your_APPGE other_JJ elements_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   39 Where are the major centers of production , communication and commerce ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   39 Where_RRQ are_VBR the_AT major_JJ centers_NN2 of_IO production_NN1 ,_Y communication_NN1 and_CC commerce_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   40 Where is the cemetery ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   40 Where_RRQ is_VBZ the_AT cemetery_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   41 The recycling stations or landfills ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   41 The_AT recycling_NN1 stations_NN2 or_CC landfills_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   42 The libraries , archives , universities , the courthouse ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   42 The_AT libraries_NN2 ,_Y archives_NN2 ,_Y universities_NN2 ,_Y the_AT courthouse_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   43 The prisons , hospitals , schools ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   43 The_AT prisons_NN2 ,_Y hospitals_NN2 ,_Y schools_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   44 What areas are untouched by traffic or noise , which the noisiest ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   44 What_DDQ areas_NN2 are_VBR untouched_JJ by_II traffic_NN1 or_CC noise_NN1 ,_Y which_DDQ the_AT noisiest_JJT ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   45 Are there areas where specific groups of people tend to gather -- men in groups or alone , children and teenagers , mothers with small children , students , the elderly , homeless , vagrants ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   45 Are_VBR there_RL_EX areas_NN2 where_RRQ_CS specific_JJ groups_NN2 of_IO people_NN tend_VV0 to_TO gather_VVI --_ZZ men_NN2 in_II groups_NN2 or_CC alone_RR_JJ ,_Y children_NN2 and_CC teenagers_NN2 ,_Y mothers_NN2 with_IW small_JJ children_NN2 ,_Y students_NN2 ,_Y the_AT elderly_JJ ,_Y homeless_JJ ,_Y vagrants_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   46 Where are the lonely places , the no-man 's lands , the dangerous places ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   46 Where_RRQ are_VBR the_AT lonely_JJ places_NN2 ,_Y the_AT no-man_NN1 's_GE lands_NN2 ,_Y the_AT dangerous_JJ places_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   47 What distinguishes them from safe places ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   47 What_DDQ distinguishes_VVZ them_PPHO2 from_II safe_JJ places_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   48 Natural cycles and rituals How does the cycle of Where is the highest density of plant life ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   48 Natural_JJ cycles_NN2 and_CC rituals_NN2 How_RRQ does_VDZ the_AT cycle_NN1 of_IO Where_RRQ is_VBZ the_AT highest_JJT density_NN1 of_IO plant_NN1 life_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   49 Do populations of birds , animals or insects share your space ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   49 Do_VD0 populations_NN2 of_IO birds_NN2 ,_Y animals_NN2 or_CC insects_NN2 share_VV0 your_APPGE space_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   50 Where can you see the fruits of the seasons displayed ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   50 Where_RRQ can_VM you_PPY see_VVI the_AT fruits_NN2 of_IO the_AT seasons_NNT2 displayed_VVN_VVD ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   51 Think metaphorically : " Fruits of the seasons " may also be shop merchandise or seasonal clothing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   51 Think_VV0 metaphorically_RR :_Y "_Y Fruits_NN2 of_IO the_AT seasons_NNT2 "_Y may_VM also_RR be_VBI shop_NN1 merchandise_NN1 or_CC seasonal_JJ clothing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   52 Investigate and participate in the rituals of your neighborhood .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   52 Investigate_VV0 and_CC participate_VV0 in_II_RP@ the_AT rituals_NN2 of_IO your_APPGE neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   53 When are the festivals or holidays celebrated ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   53 When_RRQ are_VBR the_AT festivals_NN2 or_CC holidays_NN2 celebrated_VVN_VVD_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   54 What exactly do they celebrate and why ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   54 What_DDQ exactly_RR do_VD0 they_PPHS2 celebrate_VVI and_CC why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   55 Consider major sports , school or political events , fairs , seasonal markets , carnivals and unofficial gatherings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   55 Consider_VV0 major_JJ sports_NN2 ,_Y school_NN1 or_CC political_JJ events_NN2 ,_Y fairs_NN2_VVZ ,_Y seasonal_JJ markets_NN2 ,_Y carnivals_NN2 and_CC unofficial_JJ gatherings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   56 Chart the ritual itineraries used by pedestrians and motorists : children , teenagers , parade and protest-march routes , religious processions , funeral corteges , afternoon promenades , short-cuts , major traffic routes at rush hour .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   56 Chart_VV0@ the_AT ritual_JJ_NN1 itineraries_NN2 used_VVN by_II pedestrians_NN2 and_CC motorists_NN2 :_Y children_NN2 ,_Y teenagers_NN2 ,_Y parade_NN1 and_CC protest-march_JJ_NN1 routes_NN2 ,_Y religious_JJ processions_NN2 ,_Y funeral_NN1 corteges_NN2 ,_Y afternoon_NNT1 promenades_NN2 ,_Y short-cuts_NN2 ,_Y major_JJ traffic_NN1 routes_NN2 at_II rush_NN1 hour_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   57 What ritual objects are displayed throughout the neighborhood ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   57 What_DDQ ritual_JJ_NN1 objects_NN2 are_VBR displayed_VVN throughout_II the_AT neighborhood_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   58 Consider public art , decorations , civic inscriptions and monuments , commemorative shrines , religious monuments , billboards and signs as well as private shrines , private inscriptions or graffiti .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   58 Consider_VV0 public_JJ_NN1 art_NN1 ,_Y decorations_NN2 ,_Y civic_JJ inscriptions_NN2 and_CC monuments_NN2 ,_Y commemorative_JJ shrines_NN2 ,_Y religious_JJ monuments_NN2 ,_Y billboards_NN2 and_CC signs_NN2_VVZ@ as_II31 well_II32 as_II33 private_JJ shrines_NN2 ,_Y private_JJ inscriptions_NN2 or_CC graffiti_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   59 History What place names ( street names , etc. ) are historical , religious , symbolic ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   59 History_NN1 What_DDQ place_VV0 names_NN2 (_Y street_NN1 names_NN2 ,_Y etc._RA )_Y are_VBR historical_JJ ,_Y religious_JJ ,_Y symbolic_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   60 Who were lived there before them ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   60 Who_PNQS were_VBDR lived_VVD there_RL before_II them_PPHO2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   61 What traces have they left ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   61 What_DDQ traces_NN2 have_VH0 they_PPHS2 left_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   62 Are there historical monuments or even prehistoric ones attesting to early inhabitants , or have they been effaced ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   62 Are_VBR there_RL_EX historical_JJ monuments_NN2 or_CC even_RR prehistoric_JJ ones_Z' attesting_VVG to_II early_JJ inhabitants_NN2 ,_Y or_CC have_VH0 they_PPHS2 been_VBN effaced_VVN@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   63 If so , when , why , and by whom ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   63 If_CS so_RR ,_Y when_RRQ_CS ,_Y why_RRQ ,_Y and_CC by_II whom_PNQO ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   64 What important historical events have occurred ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   64 What_DDQ important_JJ historical_JJ events_NN2 have_VH0 occurred_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   65 Aside from battles , burials or political events connected to the civic or religious life of the place , also consider the private side of local legends and gossip : scandals , tragedies , " visitations " odd occurrences or sightings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   65 Aside_II21 from_II22 battles_NN2 ,_Y burials_NN2 or_CC political_JJ events_NN2 connected_VVN to_II the_AT civic_JJ or_CC religious_JJ life_NN1 of_IO the_AT place_NN1 ,_Y also_RR consider_VV0 the_AT private_JJ side_NN1 of_IO local_JJ legends_NN2 and_CC gossip_VV0_NN1 :_Y scandals_NN2 ,_Y tragedies_NN2 ,_Y "_Y visitations_NN2 "_Y odd_JJ occurrences_NN2 or_CC sightings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   66 Is there a " haunted house " or taboo place , place of shame , magic place ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   66 Is_VBZ there_EX a_AT1 "_Y haunted_JJ house_NN1 "_Y or_CC taboo_JJ_NN1 place_NN1 ,_Y place_NN1 of_IO shame_NN1 ,_Y magic_JJ_NN1 place_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   67 How is it designated ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   67 How_RRQ is_VBZ it_PPH1 designated_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   68 How do local residents think of it -- children , especially ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   68 How_RRQ do_VD0 local_JJ residents_NN2 think_VV0 of_IO it_PPH1 --_ZZ children_NN2 ,_Y especially_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   69 Do any places have special names given by locals or children ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   69 Do_VD0 any_DD places_NN2 have_VHI special_JJ names_NN2 given_VVN by_II locals_NN2 or_CC children_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   70 Do you note any secret or surprising connections between places , buildings , neighborhoods ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   70 Do_VD0 you_PPY note_VVI any_DD secret_JJ_NN1 or_CC surprising_JJ connections_NN2 between_II places_NN2 ,_Y buildings_NN2 ,_Y neighborhoods_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   71 These questions help capture the essence of a familiar place and offer interesting insights into new places .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   71 These_DD2 questions_NN2 help_VV0 capture_VVI the_AT essence_NN1 of_IO a_AT1 familiar_JJ place_NN1 and_CC offer_VV0 interesting_JJ insights_NN2 into_II new_JJ places_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   72 The soul of a place -- often unnoticed and uninterrogated -- nourishes our roots and our connection to past times and off from home intent on new discoveries .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   72 The_AT soul_NN1 of_IO a_AT1 place_NN1 --_NN1 often_RR unnoticed_JJ and_CC uninterrogated_JJ --_NN1 nourishes_VVZ our_APPGE roots_NN2 and_CC our_APPGE connection_NN1 to_II past_JJ times_NNT2 and_CC off_RP from_II home_NN1 intent_NN1 on_II new_JJ discoveries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   73 Often our response to our surroundings remains unconscious and untapped , yet it is the informing power of place that shapes our wonder and our impression of our environment , wherever we may be .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   73 Often_RR our_APPGE response_NN1 to_II our_APPGE surroundings_NN2 remains_VVZ unconscious_JJ and_CC untapped_JJ_VVD@ ,_Y yet_RR it_PPH1 is_VBZ the_AT informing_NN1 power_NN1 of_IO place_NN1 that_CST_DD1 shapes_VVZ%_NN2 our_APPGE wonder_NN1 and_CC our_APPGE impression_NN1 of_IO our_APPGE environment_NN1 ,_Y wherever_RRQV we_PPIS2 may_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   74 By Linda Lappin Linda Lappin , author of three novels , has taught essay writing in Italian universities for 28 years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   74 By_II Linda_NP1 Lappin_NP1 Linda_NP1 Lappin_NP1 ,_Y author_NN1 of_IO three_MC novels_NN2 ,_Y has_VHZ taught_VVN essay_NN1 writing_VVG_NN1 in_II Italian_JJ_NN1 universities_NN2 for_IF 28_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   75 Her newest hook is The Genius Loci : A Writer 's Guide to Capturing the Soul of Place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   75 Her_APPGE newest_JJT hook_NN1 is_VBZ The_AT Genius_NN121 Loci_NN122 :_Y A_AT1@_ZZ1 Writer_NN1 's_GE Guide_NN1 to_II Capturing_VVG the_AT Soul_NN1 of_IO Place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   76 Web : www.lindalappin.net , and , for her creative-writing workshops in Italy , www.pokkoli.org .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   76 Web_NN1 :_Y www.lindalappin.net_NNU ,_Y and_CC ,_Y for_IF her_APPGE_PPHO1 creative-writing_JJ workshops_NN2 in_II Italy_NP1 ,_Y www.pokkoli.org_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   77 WORKOUT 1 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   77 WORKOUT_VV0_NP1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   78 Choose a place near your home , school , workplace or university to study over time : 24 hours , a week , a month , a season , a year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   78 Choose_VV0 a_AT1 place_NN1 near_II your_APPGE home_NN1 ,_Y school_NN1 ,_Y workplace_NN1 or_CC university_NN1 to_TO study_VVI over_II_RP time_NNT1 :_Y 24_MC hours_NNT2 ,_Y a_AT1 week_NNT1 ,_Y a_AT1 month_NNT1 ,_Y a_AT1 season_NNT1 ,_Y a_AT1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   79 It may be a busy square , a lonely road , an expanse of countryside , an urban neighborhood , a caf , a tree , etc .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   79 It_PPH1 may_VM be_VBI a_AT1 busy_JJ square_NN1_JJ ,_Y a_AT1 lonely_JJ road_NN1 ,_Y an_AT1 expanse_NN1 of_IO countryside_NN1 ,_Y an_AT1 urban_JJ neighborhood_NN1 ,_Y a_AT1 caf_NN1 ,_Y a_AT1 tree_NN1 ,_Y etc_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   80 Notice how rhythms of change -- hourly , diurnal , nocturnal , seasonal -- affect the place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   80 Notice_VV0 how_RRQ rhythms_NN2 of_IO change_NN1 --_NN1_JJ hourly_RR_JJ ,_Y diurnal_JJ ,_Y nocturnal_JJ ,_Y seasonal_JJ --_NN1_JJ affect_VV0_NN1 the_AT place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   81 What details signal change ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   81 What_DDQ details_NN2_VVZ% signal_VV0@_NN1 change_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   82 Keep a detailed journal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   82 Keep_VV0 a_AT1 detailed_JJ journal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   83 Notice deepen over time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   83 Notice_VV0 deepen_VVI over_II_RP time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   84 2 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   84 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   85 Think back to your explorations of places through direct experience , reading or only imagination .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   85 Think_VV0 back_RP to_II your_APPGE explorations_NN2 of_IO places_NN2 through_II direct_JJ experience_NN1 ,_Y reading_VVG_NN1 or_CC only_JJ imagination_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   86 What environments are the most pleasing to you ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   86 What_DDQ environments_NN2 are_VBR the_AT most_RGT pleasing_JJ to_II you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   87 The most thrilling ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   87 The_AT most_RGT thrilling_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   88 Think of environments that have charmed you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   88 Think_VV0 of_IO environments_NN2 that_CST have_VH0 charmed_VVN you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   89 Can you identify elements of the sublime , the beautiful and the picturesque ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   89 Can_VM_VV0% you_PPY identify_VVI elements_NN2 of_IO the_AT sublime_JJ ,_Y the_AT beautiful_JJ and_CC the_AT picturesque_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   90 Do any overlap ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   90 Do_VD0 any_RR% overlap_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   91 Recall a moment you 've experienced , either in a natural or artificial environment , when you 've felt touched by a powerful emotion , a great silence or an overwhelming sound .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   91 Recall_VV0 a_AT1 moment_NN1 you_PPY 've_VH0 experienced_VVN ,_Y either_RR in_II a_AT1 natural_JJ or_CC artificial_JJ environment_NN1 ,_Y when_CS_RRQ you_PPY 've_VH0 felt_VVN touched_VVN by_II a_AT1 powerful_JJ emotion_NN1 ,_Y a_AT1 great_JJ silence_NN1 or_CC an_AT1 overwhelming_JJ sound_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   92 First describe your surroundings using concrete imagery , then go on to describe your feelings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   92 First_MD describe_VV0 your_APPGE surroundings_NN2 using_VVG concrete_JJ_NN1 imagery_NN1 ,_Y then_RT go_VV0 on_RP to_TO describe_VVI your_APPGE feelings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   93 When you read a piece of travel writing or landscape description you admire , notice if these elements are present .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   93 When_CS_RRQ you_PPY read_VV0_VVD a_AT1 piece_NN1 of_IO travel_NN1 writing_NN1_VVG or_CC landscape_NN1 description_NN1 you_PPY admire_VV0 ,_Y notice_VV0_NN1 if_CS these_DD2 elements_NN2 are_VBR present_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   94 3 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   94 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   95 Focus on one ( or more ) of the following encountered while exploring your place : an animal ; plant ; building ; street or square ; body of water ; statue ; park or garden ; station ; prison ; church , temple , or other worship center ; tomb ; home ; door ; or gate a place and write a passage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   95 Focus_VV0_NN1 on_II_RP@ one_MC1 (_Y or_CC more_RRR_DAR )_Y of_IO the_AT following_JJ encountered_VVN while_CS exploring_VVG your_APPGE place_NN1 :_Y an_AT1 animal_NN1 ;_Y plant_NN1_VV0@ ;_Y building_NN1_VVG@ ;_Y street_NN1 or_CC square_NN1_JJ ;_Y body_NN1 of_IO water_NN1 ;_Y statue_NN1 ;_Y park_NN1_VV0@ or_CC garden_NN1 ;_Y station_NN1 ;_Y prison_NN1 ;_Y church_NN1 ,_Y temple_NN1 ,_Y or_CC other_JJ worship_NN1 center_NN1 ;_Y tomb_NN1 ;_Y home_RL_NN1 ;_Y door_NN1 ;_Y or_CC gate_NN1 a_AT1 place_NN1 and_CC write_VV0 a_AT1 passage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   96 You can try various means : * Using the first person from the point of view of the item chosen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   96 You_PPY can_VM try_VVI various_JJ means_NN :_Y *_FU Using_VVG the_AT first_MD person_NN1 from_II the_AT point_NN1 of_IO view_NN1 of_IO the_AT item_NN1 chosen_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   97 " I am ... " * Using the second person , with the item chosen ad dressing you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   97 "_Y I_PPIS1_MC1@ am_VBM_RA@ ..._... "_Y *_FU Using_VVG the_AT second_MD person_NN1 ,_Y with_IW the_AT item_NN1 chosen_VVN_JJ@ ad_NN1 dressing_VVG you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   98 * A narrative passage in third person .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   98 *_FU A_ZZ1 narrative_JJ passage_NN1 in_II third_MD person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0   99 * Alternating first-person point of view with yourself as narrator and either of the first two approaches mentioned in this list .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0   99 *_FU Alternating_JJ first-person_JJ_NN1 point_NN1 of_IO view_NN1 with_IW yourself_PPX1 as_CSA_II@ narrator_NN1 and_CC either_DD1_RR of_IO the_AT first_MD two_MC approaches_NN2 mentioned_VVN_VVD in_II this_DD1 list_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0  100 * Structure a long poem or piece of writing , dedicating a line , stanza , paragraph or chapter to each of the locations I mentioned .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0  100 *_FU Structure_NN1 a_AT1 long_JJ poem_NN1 or_CC piece_NN1 of_IO writing_NN1_VVG ,_Y dedicating_VVG a_AT1 line_NN1 ,_Y stanza_NN1 ,_Y paragraph_NN1 or_CC chapter_NN1 to_II each_DD1 of_IO the_AT locations_NN2 I_PPIS1 mentioned_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0  101 * Use this material as the frame for a fragment of childhood memoir , literary travel narrative or poem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0  101 *_FU Use_NN1 this_DD1 material_NN1 as_II_CSA the_AT frame_NN1 for_IF a_AT1 fragment_NN1 of_IO childhood_NN1 memoir_NN1 ,_Y literary_JJ travel_NN1 narrative_NN1 or_CC poem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  A    0  102 -- Linda Lappin
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080320 COCA  B    0  102 --_ZZ Linda_NP1 Lappin_NP1

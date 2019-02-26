@@ -1,0 +1,256 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    0 I AS RECENTLY asked to speak to a group of graduate students about the principles that have guided my writing career over the past 25 years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    0 I_ZZ1%_MC1% AS_CSA_RG@ RECENTLY_RR asked_VVD_VVN@ to_TO speak_VVI to_II a_AT1 group_NN1 of_IO graduate_NN1 students_NN2 about_II the_AT principles_NN2 that_CST have_VH0 guided_VVN my_APPGE writing_NN1 career_NN1 over_II the_AT past_JJ 25_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    1 At first I demurred .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    1 At_RR21 first_RR22 I_PPIS1 demurred_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    2 Principles ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    2 Principles_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    3 Mostly , I feel like I 've been in survival mode , just scrambling from one project to the next , making it up as I go along .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    3 Mostly_RR ,_Y I_PPIS1 feel_VV0 like_CS%_VV0@_II_RR% I_PPIS1 've_VH0 been_VBN in_II survival_NN1 mode_NN1 ,_Y just_RR scrambling_VVG from_II one_MC1 project_NN1 to_II the_AT next_MD ,_Y making_VVG it_PPH1 up_RP as_CSA I_PPIS1 go_VV0 along_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    4 As I prepared my presentation , however , I realized that I have , in fact , cobbled together a core set of beliefs about the writing life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    4 As_CSA I_PPIS1 prepared_VVD@ my_APPGE presentation_NN1 ,_Y however_RR ,_Y I_PPIS1 realized_VVD that_CST I_PPIS1 have_VH0 ,_Y in_II fact_NN1 ,_Y cobbled_VVN@_JJ_VVD% together_RL a_AT1 core_NN1 set_NN1 of_IO beliefs_NN2 about_II the_AT writing_NN1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    5 They include : Take risks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    5 They_PPHS2 include_VV0 :_Y Take_VV0 risks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    6 Think about it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    6 Think_VV0 about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    7 What 's the riskiest thing a writer can do ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    7 What_DDQ 's_VBZ the_AT riskiest_JJT thing_NN1 a_AT1 writer_NN1 can_VM do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    8 Try a new genre ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    8 Try_VV0 a_AT1 new_JJ genre_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0    9 Break up with an agent ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0    9 Break_VV0 up_RP with_IW an_AT1 agent_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   10 Disagree with an editor ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   10 Disagree_VV0 with_IW an_AT1 editor_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   11 Switch publishers ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   11 Switch_VV0_NN1 publishers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   12 Actually , the answer is a lot more basic : Sending out a new manuscript is the single scariest thing a writer -- any writer -- can do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   12 Actually_RR ,_Y the_AT answer_NN1 is_VBZ a_RR21@ lot_RR22 more_RGR basic_JJ :_Y Sending_VVG out_RP a_AT1 new_JJ manuscript_NN1 is_VBZ the_AT single_JJ scariest_JJT thing_NN1 a_AT1 writer_NN1 --_NN1 any_DD writer_NN1 --_NN1 can_VM do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   13 It 's easy to understand why so many of us are reluctant to take this step .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   13 It_PPH1 's_VBZ easy_JJ to_TO understand_VVI why_RRQ so_RG many_DA2 of_IO us_PPIO2 are_VBR reluctant_JJ to_TO take_VVI this_DD1 step_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   14 Frankly , the second that we push the send button or rejection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   14 Frankly_RR ,_Y the_AT second_NNT1_MD that_CST we_PPIS2 push_VV0 the_AT send_VV0 button_NN1 or_CC rejection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   15 And seriously now -- who likes to be rejected ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   15 And_CC seriously_RR now_RT --_NN1 who_PNQS likes_VVZ to_TO be_VBI rejected_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   16 But here 's the bottom line .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   16 But_CCB here_RL 's_VBZ the_AT bottom_JJ_NN1 line_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   17 No one is going to show up on your front porch and beg to see the article/poem/short story/novel/screenplay you 've stashed away in the top drawer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   17 No_PN121 one_PN122 is_VBZ going_VVGK to_TO show_VVI up_RP on_II your_APPGE front_JJ_NN1 porch_NN1 and_CC beg_VV0 to_TO see_VVI the_AT article/poem/short_NN1 story/novel/screenplay_NN1 you_PPY 've_VH0 stashed_VVN away_RL in_II the_AT top_JJ_NN1 drawer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   18 If you want to publish what you 've written , you must send it out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   18 If_CS you_PPY want_VV0 to_TO publish_VVI what_DDQ you_PPY 've_VH0 written_VVN ,_Y you_PPY must_VM send_VVI it_PPH1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   19 More than once , probably .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   19 More_DAR than_CSN once_RR ,_Y probably_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   20 Like the ski jumper at the top of the ramp , you have to commit .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   20 Like_II the_AT ski_NN1 jumper_NN1 at_II the_AT top_NN1 of_IO the_AT ramp_NN1 ,_Y you_PPY have_VH0 to_TO commit_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   21 You have to go for it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   21 You_PPY have_VH0 to_TO go_VVI for_IF it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   22 And when you do , please give yourself points .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   22 And_CC when_CS_RRQ you_PPY do_VD0 ,_Y please_RR give_VV0 yourself_PPX1 points_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   23 Congratulations !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   23 Congratulations_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   24 You are now an official risk-taker , and as everyone knows , risk-takers are the people who can make things happen for themselves ( even if they acquire a few bruises along the way ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   24 You_PPY are_VBR now_RT an_AT1 official_JJ risk-taker_NN1_JJ ,_Y and_CC as_CSA everyone_PN1 knows_VVZ ,_Y risk-takers_NN2 are_VBR the_AT people_NN who_PNQS can_VM make_VVI things_NN2 happen_VVI for_IF themselves_PPX2 (_Y even_CS21 if_CS22 they_PPHS2 acquire_VV0 a_AT1 few_DA2 bruises_NN2 along_II the_AT way_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   25 Pursue unexpected opportunities .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   25 Pursue_VV0 unexpected_JJ opportunities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   26 Early in my career I was invited to attend a gathering for local women writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   26 Early_RR_JJ in_II my_APPGE career_NN1 I_PPIS1 was_VBDZ invited_VVN to_TO attend_VVI a_AT1 gathering_NN1 for_IF local_JJ women_NN2 writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   27 I did n't want to go because I did n't know anybody .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   27 I_PPIS1 did_VDD n't_XX want_VVI to_TO go_VVI because_CS I_PPIS1 did_VDD n't_XX know_VVI anybody_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   28 Also , I did n't know what to wear .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   28 Also_RR ,_Y I_PPIS1 did_VDD n't_XX know_VVI what_DDQ to_TO wear_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   29 And I had a really bad perm ( this with my big hair and watch Magnum P.I .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   29 And_CC I_PPIS1 had_VHD a_AT1 really_RR bad_JJ perm_NN1 (_Y this_DD1 with_IW my_APPGE big_JJ hair_NN1 and_CC watch_VV0_NN1 Magnum_NP1 P.I_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   30 Still , I forced myself to go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   30 Still_RR ,_Y I_PPIS1 forced_VVD myself_PPX1 to_TO go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   31 Turns out I met the editor of a local city magazine that was recognized for its investigative reporting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   31 Turns_VVZ out_RP I_PPIS1 met_VVD the_AT editor_NN1 of_IO a_AT1 local_JJ city_NN1 magazine_NN1 that_CST_DD1 was_VBDZ recognized_VVN for_IF its_Z' investigative_JJ reporting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   32 When he found out I grew up in a county to the south , this editor mentioned a controversy involving a new school program there and wondered if I 'd do a piece about it on spec .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   32 When_CS_RRQ he_PPHS1 found_VVD out_RP I_PPIS1 grew_VVD up_RP in_II a_AT1 county_NN1 to_II the_AT south_ND1 ,_Y this_DD1 editor_NN1 mentioned_VVD_VVN a_AT1 controversy_NN1 involving_VVG a_AT1 new_JJ school_NN1 program_NN1_VV0@ there_RL and_CC wondered_VVD if_CS_CSW@ I_PPIS1 'd_VM do_VDI a_AT1 piece_NN1 about_II it_PPH1 on_II spec_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   33 " I ca n't promise you I 'll publish it , " he said , " but I 'm willing to take a look at what you do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   33 "_Y I_PPIS1 ca_VM n't_XX promise_VVI you_PPY I_PPIS1 'll_VM publish_VVI it_PPH1 ,_Y "_Y he_PPHS1 said_VVD ,_Y "_Y but_CCB I_PPIS1 'm_VBM willing_JJ to_TO take_VVI a_AT1 look_NN1 at_II what_DDQ you_PPY do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   34 " Well !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   34 "_Y Well_RR !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   35 I was n't a reporter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   35 I_PPIS1 was_VBDZ n't_XX a_AT1 reporter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   36 I had n't taken a single journalism class , not even in junior high .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   36 I_PPIS1 had_VHD n't_XX taken_VVN a_AT1 single_JJ journalism_NN1 class_NN1 ,_Y not_XX even_RR in_II junior_JJ high_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   37 What I wanted to do was write fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   37 What_DDQ I_PPIS1 wanted_VVD to_TO do_VDI was_VBDZ write_VVI fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   38 Still , I 'd been a passionate reader of this editor 's magazine for years , so I told him I 'd give it a try .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   38 Still_RR ,_Y I_PPIS1 'd_VHD been_VBN a_AT1 passionate_JJ reader_NN1 of_IO this_DD1 editor_NN1 's_GE magazine_NN1 for_IF years_NNT2 ,_Y so_CS@_RR I_PPIS1 told_VVD him_PPHO1 I_PPIS1 'd_VM give_VVI it_PPH1 a_AT1 try_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   39 What did I have to lose , except sleep ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   39 What_DDQ did_VDD I_PPIS1 have_VHI to_TO lose_VVI ,_Y except_CS_II sleep_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   40 I jumped on the assignment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   40 I_PPIS1 jumped_VVD on_II the_AT assignment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   41 I made a few phone calls and a couple of visits and The editor , quite frankly , was surprised I 'd followed through .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   41 I_PPIS1 made_VVD a_AT1 few_DA2 phone_NN1 calls_NN2 and_CC a_AT1 couple_NN1 of_IO visits_NN2 and_CC The_AT editor_NN1 ,_Y quite_RG frankly_RR ,_Y was_VBDZ surprised_JJ I_PPIS1 'd_VHD followed_VVN through_RP@_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   42 Who knows ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   42 Who_PNQS knows_VVZ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   43 Maybe he was n't used to unknown writers following through .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   43 Maybe_RR he_PPHS1 was_VBDZ n't_XX used_VVN to_II unknown_JJ writers_NN2 following_VVG through_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   44 But he liked what he saw , and I went on to write for the magazine on a regular basis over the next 10 years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   44 But_CCB he_PPHS1 liked_VVD what_DDQ he_PPHS1 saw_VVD ,_Y and_CC I_PPIS1 went_VVD on_RP to_TO write_VVI for_IF the_AT magazine_NN1 on_II a_AT1 regular_JJ basis_NN1 over_II the_AT next_MD 10_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   45 ( OK .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   45 (_Y OK_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   46 I just reread that paragraph .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   46 I_PPIS1 just_RR reread_VV0_VVN_VVD that_DD1 paragraph_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   47 I 'm making it sound much easier than it felt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   47 I_PPIS1 'm_VBM making_VVG it_PPH1 sound_VVI much_RR_DA1 easier_RRR_JJR than_CSN it_PPH1 felt_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   48 I spent a lot of those 10 years writing and rewriting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   48 I_PPIS1 spent_VVD a_AT1 lot_NN1 of_IO those_DD2 10_MC years_NNT2 writing_VVG_NN1 and_CC rewriting_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   49 And then rewriting some more .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   49 And_CC then_RT rewriting_VVG some_DD more_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   50 Too bad I skipped out on the journalism classes earlier .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   50 Too_RG bad_JJ_RR% I_PPIS1 skipped_VVD out_RP on_II the_AT journalism_NN1 classes_NN2 earlier_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   51 ) The point is , however , that I managed to stare down my own abundant insecurities and take a chance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   51 )_Y The_AT point_NN1 is_VBZ ,_Y however_RR ,_Y that_CST I_PPIS1 managed_VVD to_TO stare_VVI down_RP my_APPGE own_DA abundant_JJ insecurities_NN2 and_CC take_VV0 a_AT1 chance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   52 Do n't say " no " too quickly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   52 Do_VD0 n't_XX say_VVI "_Y no_AT_UH "_Y too_RG quickly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   53 Unexpected opportunities do present themselves , and I 've come to believe it 's important not to say no too quickly -- especially at the beginning of a career .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   53 Unexpected_JJ opportunities_NN2 do_VD0 present_VVI themselves_PPX2 ,_Y and_CC I_PPIS1 've_VH0 come_VVN to_TO believe_VVI it_PPH1 's_VBZ important_JJ not_XX to_TO say_VVI no_UH too_RG quickly_RR --_ZZ especially_RR at_II the_AT beginning_NN1 of_IO a_AT1 career_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   54 Why do I say this ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   54 Why_RRQ do_VD0 I_PPIS1 say_VVI this_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   55 Because ( clich alert !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   55 Because_CS (_Y clich_VV0_NN1 alert_JJ_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   56 ) the more you write , the more you write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   56 )_Y the_AT more_RGR_DAR_RRR you_PPY write_VV0 ,_Y the_AT more_RGR_DAR_RRR you_PPY write_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   57 It does n't really matter what thoughts and setting them down on paper helps you become better , stronger , more effective .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   57 It_PPH1 does_VDZ n't_XX really_RR matter_VVI what_DDQ thoughts_NN2 and_CC setting_VVG them_PPHO2 down_RP on_II paper_NN1 helps_VVZ you_PPY become_VVI better_RRR_JJR ,_Y stronger_JJR ,_Y more_RGR effective_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   58 For example , even though I never wanted to write copy , I did , in fact , write copy for various in-house publications -- hardly thrilling work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   58 For_REX21 example_REX22 ,_Y even_CS21 though_CS22 I_PPIS1 never_RR wanted_VVN_VVD to_TO write_VVI copy_NN1 ,_Y I_PPIS1 did_VDD ,_Y in_II fact_NN1 ,_Y write_VV0 copy_NN1_VV0 for_IF various_JJ in-house_JJ publications_NN2 --_NN1_JJ hardly_RR thrilling_JJ work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   59 But the experience taught me to streamline my prose and write to a word count -- two skills I rely upon now that I write a weekly column for a metro newspaper .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   59 But_CCB the_AT experience_NN1 taught_VVD me_PPIO1 to_TO streamline_VVI my_APPGE prose_NN1 and_CC write_VVI to_II a_AT1 word_NN1 count_NN1_VV0 --_NN1_JJ two_MC skills_NN2 I_PPIS1 rely_VV0 upon_II now_CS21 that_CS22 I_PPIS1 write_VV0 a_AT1 weekly_JJ column_NN1 for_IF a_AT1 metro_NN1 newspaper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   60 Who knows ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   60 Who_PNQS knows_VVZ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   61 Maybe if I had n't written copy then , I would n't be doing a column now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   61 Maybe_RR if_CS I_PPIS1 had_VHD n't_XX written_VVN_JJ@ copy_NN1_VV0 then_RT ,_Y I_PPIS1 would_VM n't_XX be_VBI doing_VDG a_AT1 column_NN1 now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   62 You never know where an experience will lead you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   62 You_PPY never_RR know_VV0 where_RRQ an_AT1 experience_NN1 will_VM lead_VVI you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   63 I think it 's important to understand that sometimes less desirable projects can lead to more attractive ones -- provided you do your work well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   63 I_PPIS1 think_VV0 it_PPH1 's_VBZ important_JJ to_TO understand_VVI that_CST_DD1 sometimes_RT less_RGR desirable_JJ projects_NN2 can_VM lead_VVI to_II more_RGR attractive_JJ ones_Z' --_NN1_JJ provided_CS you_PPY do_VD0 your_APPGE work_NN1 well_RR_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   64 Never lose sight of your audience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   64 Never_RR lose_VV0 sight_NN1 of_IO your_APPGE audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   65 Sure , you 're writing to express yourself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   65 Sure_RR ,_Y you_PPY 're_VBR writing_VVG to_TO express_VVI yourself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   66 That 's what writers do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   66 That_DD1 's_VBZ what_DDQ writers_NN2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   67 But unless you 're content to leave your writing in the top drawer ( and I 'm pretty sure you 're not ) , you need to remember you 're also writing to even antagonize ( !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   67 But_CCB unless_CS you_PPY 're_VBR content_JJ to_TO leave_VVI your_APPGE writing_NN1 in_II the_AT top_JJ_NN1 drawer_NN1 (_Y and_CC I_PPIS1 'm_VBM pretty_RG sure_JJ you_PPY 're_VBR not_XX )_Y ,_Y you_PPY need_VV0 to_TO remember_VVI you_PPY 're_VBR also_RR writing_VVG to_TO even_RR antagonize_VV0 (_Y !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   68 ) someone else .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   68 )_Y someone_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   69 To do this , you need to know exactly who that someone else is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   69 To_TO do_VDI this_DD1 ,_Y you_PPY need_VV0 to_TO know_VVI exactly_RR who_PNQS that_DD1 someone_PN1 else_RR is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   70 Ask yourself questions about his or her age , beliefs , tastes , experiences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   70 Ask_VV0 yourself_PPX1 questions_VVZ% about_II_RP@ his_APPGE or_CC her_APPGE age_NN1 ,_Y beliefs_NN2 ,_Y tastes_NN2 ,_Y experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   71 Sometimes it helps to put a specific face on your audience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   71 Sometimes_RT it_PPH1 helps_VVZ to_TO put_VVI a_AT1 specific_JJ face_NN1 on_II your_APPGE audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   72 A good friend of mine , another newspaper columnist , writes to provoke his long-suffering mother-in-law -- and in so doing , he provokes thousands of people who share her values .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   72 A_AT1_ZZ1 good_JJ friend_NN1 of_IO mine_PPGE ,_Y another_DD1 newspaper_NN1 columnist_NN1 ,_Y writes_VVZ to_TO provoke_VVI his_APPGE long-suffering_JJ mother-in-law_NN1 --_NN1 and_CC in_II_RP@ so_RR doing_VDG ,_Y he_PPHS1 provokes_VVZ thousands_M of_IO people_NN who_PNQS share_VV0 her_APPGE values_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   73 ( For the record , tie relishes every single piece of hate mail he gets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   73 (_Y For_IF the_AT record_NN1 ,_Y tie_NN1 relishes_VVZ every_AT1 single_JJ piece_NN1 of_IO hate_NN1 mail_NN1 he_PPHS1 gets_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   74 ) Discipline yourself on a daily basis to do the real work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   74 )_Y Discipline_NN1 yourself_PPX1 on_II a_AT1 daily_JJ basis_NN1 to_TO do_VDI the_AT real_JJ work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   75 I once met a man at a conference who had an entire book tour planned for himself down to the minutest detail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   75 I_PPIS1 once_RR met_VVD a_AT1 man_NN1 at_II a_AT1 conference_NN1 who_PNQS had_VHD an_AT1 entire_JJ book_NN1 tour_NN1 planned_VVN_VVD for_IF himself_PPX1 down_RP to_II the_AT minutest_JJT detail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   76 This writer even knew what he wanted to wear to his signings ( a hat , for one thing ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   76 This_DD1 writer_NN1 even_RR knew_VVD what_DDQ he_PPHS1 wanted_VVD to_TO wear_VVI to_II his_APPGE signings_NN2 (_Y a_AT1 hat_NN1 ,_Y for_IF one_MC1 thing_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   77 The only problem was he 'd never actually finished writing a novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   77 The_AT only_JJ problem_NN1 was_VBDZ he_PPHS1 'd_VHD_VM never_RR actually_RR finished_VVN writing_VVG a_AT1 novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   78 Writing , as we all know , is a solitary , often frustrating business .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   78 Writing_NN1_VVG ,_Y as_CSA we_PPIS2 all_DB know_VV0 ,_Y is_VBZ a_AT1 solitary_JJ ,_Y often_RR frustrating_JJ business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   79 It 's easy to get distracted from the while I put another load of laundry in the washing machine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   79 It_PPH1 's_VBZ easy_JJ to_TO get_VVI distracted_VVN from_II the_AT while_CS I_PPIS1 put_VV0_VVD another_DD1 load_NN1 of_IO laundry_NN1 in_II the_AT washing_NN1 machine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   80 ) However , you can increase your chances for success by acknowledging this reality , then taking steps to deal with it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   80 )_Y However_RR ,_Y you_PPY can_VM increase_VVI your_APPGE chances_NN2 for_IF success_NN1 by_II acknowledging_VVG this_DD1 reality_NN1 ,_Y then_RT taking_VVG steps_NN2 to_TO deal_VVI with_IW it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   81 If you want to write , you must make it a priority .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   81 If_CS you_PPY want_VV0 to_TO write_VVI ,_Y you_PPY must_VM make_VVI it_PPH1 a_AT1 priority_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   82 Every morning when you get out of bed , ask yourself when and how you 're going to write that day -- even if it 's only for 20 minutes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   82 Every_AT1 morning_NNT1 when_RRQ_CS you_PPY get_VV0 out_II21 of_II22 bed_NN1 ,_Y ask_VV0 yourself_PPX1 when_CS_RRQ and_CC how_RRQ you_PPY 're_VBR going_VVGK to_TO write_VVI that_DD1 day_NNT1 --_NN1_JJ even_CS21 if_CS22 it_PPH1 's_VBZ only_RR for_IF 20_MC minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   83 ( Another writer friend I know finishes a novel a year working only 20 minutes a day -- that 's because she 's focused and because she really does write 20 minutes every single day .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   83 (_Y Another_DD1 writer_NN1 friend_NN1 I_PPIS1 know_VV0 finishes_VVZ_NN2 a_AT1 novel_NN1_JJ a_AT1 year_NNT1 working_VVG only_RR 20_MC minutes_NNT2 a_AT1 day_NNT1 --_NN1_JJ that_CST_DD1 's_VBZ because_CS she_PPHS1 's_VBZ_VHZ@ focused_VVN and_CC because_CS she_PPHS1 really_RR does_VDZ write_VVI 20_MC minutes_NNT2 every_AT1 single_JJ day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   84 ) Even if you do n't know what to write , set time aside and have faith in the process .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   84 )_Y Even_CS21 if_CS22 you_PPY do_VD0 n't_XX know_VVI what_DDQ to_TO write_VVI ,_Y set_VV0_VVD_JJ@_NN1 time_NNT1 aside_RL and_CC have_VH0 faith_NN1 in_II the_AT process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   85 Like those mythical players in the movie Field of Dreams , ideas will come if you show up consistently to build the baseball diamond , to do the work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   85 Like_II_VV0@ those_DD2 mythical_JJ players_NN2 in_II the_AT movie_NN1 Field_NN1 of_IO Dreams_NN2 ,_Y ideas_NN2 will_VM come_VVI if_CSW@_CS you_PPY show_VV0 up_RP consistently_RR to_TO build_VVI the_AT baseball_NN1 diamond_NN1 ,_Y to_TO do_VDI the_AT work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   86 Celebrate the success of your peers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   86 Celebrate_VV0 the_AT success_NN1 of_IO your_APPGE peers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   87 I had a painfully long period where I could n't sell anything .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   87 I_PPIS1 had_VHD a_AT1 painfully_RR long_JJ period_NN1 where_RRQ I_PPIS1 could_VM n't_XX sell_VVI anything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   88 This , after I had time , I found myself growing increasingly jealous of anyone who was experiencing success .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   88 This_DD1 ,_Y after_CS I_PPIS1 had_VHD time_NNT1 ,_Y I_PPIS1 found_VVD myself_PPX1 growing_VVG increasingly_RR jealous_JJ of_IO anyone_PN1 who_PNQS was_VBDZ experiencing_VVG success_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   89 In fact , at times I felt devoured by my feelings of envy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   89 In_II fact_NN1 ,_Y at_II times_NNT2 I_PPIS1 felt_VVD devoured_VVN by_II my_APPGE feelings_NN2 of_IO envy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   90 I suspect that all of us struggle with these feelings from time to time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   90 I_PPIS1 suspect_VV0 that_CST all_DB of_IO us_PPIO2 struggle_NN1_VV0@ with_IW these_DD2 feelings_NN2 from_RR41 time_RR42 to_RR43 time_RR44 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   91 But as a wise friend and fellow writer pointed out to me , indulging in feelings of resentment is like drinking poison and expecting it to hurt the other ( more successful ) guy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   91 But_CCB as_II_CSA a_AT1 wise_JJ friend_NN1 and_CC fellow_JJ_NN1 writer_NN1 pointed_VVD_VVN out_RP to_II me_PPIO1 ,_Y indulging_VVG in_II_RP@ feelings_NN2 of_IO resentment_NN1 is_VBZ like_II_JJ@ drinking_VVG_NN1 poison_NN1 and_CC expecting_VVG it_PPH1 to_TO hurt_VVI the_AT other_JJ_NN1@ (_Y more_RGR_RRR successful_JJ )_Y guy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   92 I knew I had to find a way to handle my jealousy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   92 I_PPIS1 knew_VVD I_PPIS1 had_VHD to_TO find_VVI a_AT1 way_NN1 to_TO handle_VVI my_APPGE jealousy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   93 So I decided to actively celebrate the success of my fellow writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   93 So_RR I_PPIS1 decided_VVD to_TO actively_RR celebrate_VVI the_AT success_NN1 of_IO my_APPGE fellow_JJ_NN1 writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   94 Read their work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   94 Read_VV0 their_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   95 Call .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   95 Call_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   96 Write a fan letter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   96 Write_VV0 a_AT1 fan_NN1 letter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   97 Send flowers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   97 Send_VV0 flowers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   98 Heap praise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   98 Heap_VV0_NN1 praise_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0   99 Does mounting a charm offensive completely eliminate your own strong negative emotions ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0   99 Does_VDZ mounting_NN1@_VVG_JJ@ a_AT1 charm_NN1 offensive_NN1@_JJ completely_RR eliminate_VV0 your_APPGE own_DA strong_JJ negative_JJ emotions_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  100 No , it does n't .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  100 No_UH ,_Y it_PPH1 does_VDZ n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  101 But it helps .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  101 But_CCB it_PPH1 helps_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  102 And your gracious gestures do mean a great deal to your peers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  102 And_CC your_APPGE gracious_JJ gestures_NN2 do_VD0 mean_VVI a_RR31@_AT1 great_RR32_JJ deal_RR33_NN1 to_II your_APPGE peers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  103 Really , celebrating the success of your peers is a win-win approach to a tough situation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  103 Really_RR ,_Y celebrating_VVG the_AT success_NN1 of_IO your_APPGE peers_NN2 is_VBZ a_AT1 win-win_JJ approach_NN1 to_II a_AT1 tough_JJ situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  104 Put success ( and failure !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  104 Put_VV0 success_NN1 (_Y and_CC failure_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  105 ) in a larger context .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  105 )_Y in_II a_AT1 larger_JJR context_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  106 I work weekends in of time shelving .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  106 I_MC1@_PPIS1 work_NN1_VV0 weekends_NNT2 in_II of_IO time_NNT1 shelving_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  107 And the thing I 've noticed over the years is that sales of the world 's hottest titles ( think Harry Potter and the Sorcerer 's Stone ) eventually drop off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  107 And_CC the_AT thing_NN1 I_PPIS1 've_VH0 noticed_VVN over_II_RP the_AT years_NNT2 is_VBZ that_CST_DD1 sales_NN of_IO the_AT world_NN1 's_GE hottest_JJT titles_NN2 (_Y think_VV0 Harry_NP1 Potter_NP1 and_CC the_AT Sorcerer_NP1_NN1 's_GE Stone_NN1 )_Y eventually_RR drop_VV0 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  108 Some of them even go out of print .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  108 Some_DD of_IO them_PPHO2 even_RR go_VV0 out_II21 of_II22 print_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  109 Does that mean a writer should n't bother to write ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  109 Does_VDZ that_DD1 mean_VVI a_AT1 writer_NN1 should_VM n't_XX bother_VVI to_TO write_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  110 Absolutely not !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  110 Absolutely_RR not_XX !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  111 You have a story and you should tell that story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  111 You_PPY have_VH0 a_AT1 story_NN1 and_CC you_PPY should_VM tell_VVI that_DD1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  112 But sometimes it 's useful to have this perspective on the world of publishing : Things come , things go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  112 But_CCB sometimes_RT it_PPH1 's_VBZ useful_JJ to_TO have_VHI this_DD1 perspective_NN1 on_II the_AT world_NN1 of_IO publishing_NN1_VVG :_Y Things_NN2 come_VV0 ,_Y things_NN2 go_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  113 Someone asked me about my kids and my books and how many I have of each .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  113 Someone_PN1 asked_VVD me_PPIO1 about_II my_APPGE kids_NN2 and_CC my_APPGE books_NN2 and_CC how_RGQ@ many_DA2 I_PPIS1_ZZ1% have_VH0 of_IO each_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  114 I said I have five kids and 11 books , but that I 'd rather have 11 kids and five books .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  114 I_PPIS1 said_VVD I_PPIS1 have_VH0 five_MC kids_NN2 and_CC 11_MC books_NN2 ,_Y but_CCB that_DD1_CST@ I_PPIS1 'd_VM rather_RR@ have_VHI 11_MC kids_NN2 and_CC five_MC books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  115 My answer , as it flew out of my mouth , surprised me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  115 My_APPGE answer_NN1 ,_Y as_CSA it_PPH1 flew_VVD out_II21 of_II22 my_APPGE mouth_NN1 ,_Y surprised_VVD@ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  116 ( OK , now that I think about it , maybe I do n't want 11 kids .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  116 (_Y OK_RR ,_Y now_CS21 that_CS22 I_PPIS1 think_VV0 about_II it_PPH1 ,_Y maybe_RR I_PPIS1 do_VD0 n't_XX want_VVI 11_MC kids_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  117 ) But the point is this : As fantastic as it is to see your name in print , getting published should n't be the standard by which you 's a big world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  117 )_Y But_CCB the_AT point_NN1 is_VBZ this_DD1 :_Y As_RG fantastic_JJ as_CSA it_PPH1 is_VBZ to_TO see_VVI your_APPGE name_NN1 in_II print_NN1 ,_Y getting_VVG published_VVN should_VM n't_XX be_VBI the_AT standard_NN1_JJ by_II which_DDQ you_PPY 's_VBZ a_AT1 big_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  118 It 's a big life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  118 It_PPH1 's_VBZ a_AT1 big_JJ life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  119 Plenty of things matter much , much more .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  119 Plenty_PN of_IO things_NN2 matter_VV0 much_RR_DA1 ,_Y much_RR_DA1 more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  120 There you have it -- my thoughts on the writing life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  120 There_RL you_PPY have_VH0 it_PPH1 --_ZZ my_APPGE thoughts_NN2 on_II the_AT writing_NN1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  121 Keep at it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  121 Keep_VV0 at_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  122 And I will , too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  122 And_CC I_PPIS1 will_VM ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  123 PHOTO ( COLOR ) By Ann Edwards Cannon Ann Edwards Cannon is a writer of fiction for children and young adults .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  123 PHOTO_NN1 (_Y COLOR_NN1 )_Y By_II Ann_NP1 Edwards_NP1 Cannon_NP1@ Ann_NP1 Edwards_NP1 Cannon_NP1@_NN is_VBZ a_AT1 writer_NN1 of_IO fiction_NN1 for_IF children_NN2 and_CC young_JJ adults_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  124 Col Cameron by Day , Spider-Man by Night won the Delacorte Press Prize for a first young-adult novel , and her latest YA novel is A Loser 's Guide to life and Love .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  124 Col_NNB Cameron_NP1 by_II Day_NP1_NNT1 ,_Y Spider-Man_NP1 by_II Night_NNT1 won_VVD_VVN the_AT Delacorte_NN1_NP1 Press_NN1_VV0 Prize_NN1 for_IF a_AT1 first_MD young-adult_NN1_JJ@ novel_NN1 ,_Y and_CC her_APPGE latest_JJT YA_UH_PPY novel_NN1 is_VBZ A_AT1@ Loser_NN1 's_GE Guide_NN1 to_II life_NN1 and_CC Love_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  125 She is also a newspaper columnist for the Deseret News in Utah , a creative-writing teacher , and the mother of five sons .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  125 She_PPHS1 is_VBZ also_RR a_AT1 newspaper_NN1 columnist_NN1 for_IF the_AT Deseret_NN1_NP1 News_NN1 in_II Utah_NP1 ,_Y a_AT1 creative-writing_JJ teacher_NN1 ,_Y and_CC the_AT mother_NN1 of_IO five_MC sons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  126 She lives in Salt Lake City with her husband , Ken , their family and ( too ) many pets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  126 She_PPHS1 lives_VVZ in_II Salt_NP1 Lake_NP1 City_NN1 with_IW her_APPGE husband_NN1 ,_Y Ken_NP1 ,_Y their_APPGE family_NN1 and_CC (_Y too_RR@ )_Y many_DA2 pets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  A    0  127 Web : www.aecannon.com.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080304 COCA  B    0  127 Web_NN1 :_Y www.aecannon.com._ZZ_NN

@@ -1,0 +1,248 @@
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    0 As a child you probably learned , to your astonishment , that you could carry two heavy pails of water , one on either side , more easily than one .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    0 As_II_CSA a_AT1 child_NN1 you_PPY probably_RR learned_VVN_VVD ,_Y to_II your_APPGE astonishment_NN1 ,_Y that_CST you_PPY could_VM carry_VVI two_MC heavy_JJ pails_NN2 of_IO water_NN1 ,_Y one_PN1_MC1 on_II either_DD1 side_NN1 ,_Y more_RGR easily_RR than_CSN one_PN1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    1 Or you might have delighted in those Chinese finger traps that finger-cuffed you to a friend no matter how hard you pulled .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    1 Or_CC you_PPY might_VM have_VHI delighted_VVN@ in_II those_DD2 Chinese_JJ finger_NN1 traps_VVZ@_NN2 that_CST_DD1 finger-cuffed_JJ_NN1@ you_PPY to_II a_AT1 friend_NN1 no_RGQV31 matter_RGQV32 how_RGQV33 hard_RR_JJ you_PPY pulled_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    2 These are familiar examples of the often unfamiliar design principle of self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    2 These_DD2 are_VBR familiar_JJ examples_NN2 of_IO the_AT often_RR unfamiliar_JJ design_NN1 principle_NN1 of_IO self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    3 It 's an odd name , self-help , for a principle of mechanical design .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    3 It_PPH1 's_VBZ an_AT1 odd_JJ name_NN1 ,_Y self-help_NN1_JJ ,_Y for_IF a_AT1 principle_NN1 of_IO mechanical_JJ design_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    4 In popular psychology , self-help is all about solving personal problems without professional intervention .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    4 In_II popular_JJ psychology_NN1 ,_Y self-help_NN1 is_VBZ all_DB_RR@ about_II solving_VVG personal_JJ problems_NN2 without_IW professional_JJ intervention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    5 In mechanical design , it means letting the design deal with a problem from within , rather than intervening with more structure or force .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    5 In_II mechanical_JJ design_NN1 ,_Y it_PPH1 means_VVZ letting_VVG the_AT design_NN1 deal_VVI with_IW a_AT1 problem_NN1 from_II within_RL@ ,_Y rather_II21 than_II22 intervening_VVG_JJ with_IW more_DAR structure_NN1 or_CC force_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    6 Common examples that show the principle are as varied as scissors , broom holders , lift bridges , O-rings , building elevators , pressurized airliner doors , and knots .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    6 Common_JJ examples_NN2 that_CST show_VV0 the_AT principle_NN1 are_VBR as_RG varied_JJ as_CSA scissors_NN2 ,_Y broom_NN1 holders_NN2 ,_Y lift_VV0_NN1 bridges_NN2 ,_Y O-rings_NN2 ,_Y building_NN1_VVG@ elevators_NN2 ,_Y pressurized_VVD_JJ@ airliner_NN1 doors_NN2 ,_Y and_CC knots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    7 Simply stated , self-help is using applied loads to improve performance .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    7 Simply_RR stated_VVN_VVD ,_Y self-help_NN1 is_VBZ using_VVG applied_JJ loads_NN2 to_TO improve_VVI performance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    8 So adding more weight -- the second water pail -- eliminates the moment , and you can carry two with the same structure .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    8 So_RR adding_VVG more_DAR weight_NN1 --_NN1 the_AT second_MD water_NN1 pail_NN1_VV0 --_NN1 eliminates_VVZ the_AT moment_NN1 ,_Y and_CC you_PPY can_VM carry_VVI two_MC with_IW the_AT same_DA structure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0    9 finger trap , so constricting it beforehand is unnecessary .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0    9 finger_NN1 trap_NN1_VV0 ,_Y so_RR constricting_VVG it_PPH1 beforehand_RR is_VBZ unnecessary_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   10 A An example of self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   10 A_ZZ1_AT1 An_AT1 example_NN1 of_IO self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   11 The harder you pull , the tighter it grips .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   11 The_AT harder_JJR_RRR you_PPY pull_VV0 ,_Y the_AT tighter_JJR it_PPH1 grips_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   12 Alexander Slocum , a professor of mechanical engineering at the Massachusetts Institute of Technology and author of the text , Precision Machine Design , taught the principle to ME undergraduates in MIT 's Manufacturing and Design I course .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   12 Alexander_NP1 Slocum_NP1 ,_Y a_AT1 professor_NN1 of_IO mechanical_JJ engineering_NN1 at_II the_AT Massachusetts_NP1 Institute_NN1 of_IO Technology_NN1 and_CC author_NN1 of_IO the_AT text_NN1 ,_Y Precision_NN1 Machine_VV0_NN1@ Design_NN1 ,_Y taught_VVD_VVN the_AT principle_NN1 to_II ME_NN1_PPIO1 undergraduates_NN2 in_II MIT_NP1 's_GE Manufacturing_NN1 and_CC Design_VV0@_NN1 I_PPIS1_MC1% course_VV0%_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   13 According to Slocum , who led the class for fourteen years , " Students often do n't believe that there is actually a real physical principle .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   13 According_II21 to_II22 Slocum_NP1_NN1 ,_Y who_PNQS led_VVD the_AT class_NN1 for_IF fourteen_MC years_NNT2 ,_Y "_Y Students_NN2 often_RR do_VD0 n't_XX believe_VVI that_CST there_EX is_VBZ actually_RR a_AT1 real_JJ physical_JJ principle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   14 " Slocum said that self-principles , as he calls the various forms of self-help , are among the many useful guidelines to be applied right from the start in design , not at the end on some checklist .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   14 "_Y Slocum_NP1@_NN1 said_VVD that_CST self-principles_NN2 ,_Y as_CSA he_PPHS1 calls_VVZ the_AT various_JJ forms_NN2 of_IO self-help_NN1_JJ ,_Y are_VBR among_II the_AT many_DA2 useful_JJ guidelines_NN2 to_TO be_VBI applied_VVN_JJ right_RR_NN1 from_II the_AT start_NN1 in_II design_NN1 ,_Y not_XX at_II the_AT end_NN1 on_II some_DD checklist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   15 " In the purest form , it 's one of Newton 's laws : action and reaction , right ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   15 "_Y In_II the_AT purest_JJT form_NN1 ,_Y it_PPH1 's_VBZ one_MC1 of_IO Newton_NP1 's_GE laws_NN2 :_Y action_NN1 and_CC reaction_NN1 ,_Y right_RR_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   16 " Slocum said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   16 "_Y Slocum_NP1@_NN1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   17 Nevertheless , he explained , " It 's like anything , I think , or most things , anyway .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   17 Nevertheless_RR ,_Y he_PPHS1 explained_VVD ,_Y "_Y It_PPH1 's_VBZ like_II_JJ@ anything_PN1 ,_Y I_PPIS1 think_VV0 ,_Y or_CC most_DAT things_NN2 ,_Y anyway_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   18 You 've got to live it a while before you begin to appreciate how it really substantial reductions in motor power , and leaves the cable diameter unaffected , but it also increases tower load -- usually a small price to pay .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   18 You_PPY 've_VH0 got_VVN to_TO live_VVI it_PPH1 a_AT1 while_NNT1@ before_CS you_PPY begin_VV0 to_TO appreciate_VVI how_RRQ it_PPH1 really_RR substantial_JJ reductions_NN2 in_II motor_NN1 power_NN1 ,_Y and_CC leaves_VVZ the_AT cable_NN1 diameter_NN1 unaffected_JJ ,_Y but_CCB it_PPH1 also_RR increases_VVZ tower_NN1 load_NN1_VV0 --_NN1_JJ usually_RR a_AT1 small_JJ price_NN1 to_TO pay_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   19 How It Works Before we live it , let me explain it some .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   19 How_RRQ It_PPH1 Works_VVZ Before_CS we_PPIS2 live_VV0 it_PPH1 ,_Y let_VV0 me_PPIO1 explain_VVI it_PPH1 some_DD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   20 You might be thinking , " I understand the pails , and I understand the finger trap , but I do n't connect the two .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   20 You_PPY might_VM be_VBI thinking_VVG ,_Y "_Y I_PPIS1 understand_VV0 the_AT pails_NN2 ,_Y and_CC I_PPIS1 understand_VV0 the_AT finger_NN1 trap_NN1_VV0 ,_Y but_CCB I_PPIS1 do_VD0 n't_XX connect_VVI the_AT two_MC ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   21 " Indeed , they work differently , but come together at a higher level : Performance can improve with action on and interaction between components , rather than remaining neutral or degrading .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   21 "_Y Indeed_RR ,_Y they_PPHS2 work_VV0 differently_RR ,_Y but_CCB come_VV0 together_RL at_II a_AT1 higher_JJR level_NN1 :_Y Performance_NN1 can_VM improve_VVI with_IW action_NN1 on_II_RP@ and_CC interaction_NN1 between_II components_NN2 ,_Y rather_II21 than_II22 remaining_VVG_JJ neutral_JJ or_CC degrading_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   22 But how ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   22 But_CCB how_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   23 The forces in a structure or mechanism are used to great advantage when they : * balance forces * redirect forces * create new forces * redistribute loads .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   23 The_AT forces_NN2 in_II a_AT1 structure_NN1 or_CC mechanism_NN1 are_VBR used_VVN to_II great_JJ advantage_NN1 when_CS_RRQ they_PPHS2 :_Y *_FU balance_NN1 forces_NN2_VVZ@ *_FU redirect_JJ forces_NN2 *_FU create_VV0 new_JJ forces_NN2 *_FU redistribute_VV0 loads_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   24 Authors on self-help like to organize variations of the self-help principle into taxonomies .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   24 Authors_NN2 on_II self-help_JJ_NN1 like_JJ@_VV0@_NN1%_II to_TO organize_VVI variations_NN2 of_IO the_AT self-help_JJ_NN1 principle_NN1 into_II taxonomies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   25 So for example , the counter-weights in lift bridges and elevators typify balancing self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   25 So_RR_CS@ for_REX21 example_REX22 ,_Y the_AT counter-weights_NN2 in_II lift_NN1 bridges_NN2 and_CC elevators_NN2 typify_VV0 balancing_VVG self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   26 Practically , however , categorizing is often unnecessary .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   26 Practically_RR ,_Y however_RR ,_Y categorizing_VVG_NN1@ is_VBZ often_RR unnecessary_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   27 Asking the right question at the right time naturally suggests principle of self-help , without regard for what type it is a simple , fundamental principle can often be confusing .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   27 Asking_VVG the_AT right_JJ_NN1 question_NN1 at_II the_AT right_JJ_NN1 time_NNT1 naturally_RR suggests_VVZ principle_NN1 of_IO self-help_NN1_JJ ,_Y without_IW regard_NN1 for_IF what_DDQ type_NN1 it_PPH1 is_VBZ a_AT1 simple_JJ ,_Y fundamental_JJ principle_NN1 can_VM often_RR be_VBI confusing_JJ_VVG@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   28 " Academics love it , but students just glaze over , " he said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   28 "_Y Academics_NN2 love_VV0 it_PPH1 ,_Y but_CCB students_NN2 just_RR glaze_VV0 over_RP ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   29 " Examples from the real world , I think , is how students really learn .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   29 "_Y Examples_NN2 from_II the_AT real_JJ world_NN1 ,_Y I_PPIS1 think_VV0 ,_Y is_VBZ how_RRQ students_NN2 really_RR learn_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   30 " On Balance According to Mark Graves , vice president sales manager of Ellison Bronze Inc. , his company 's founders developed an improved hinge for its doors in 1928 after seeing a woman struggle to open a door among the skyscrapers in wind-ridden Chicago .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   30 "_Y On_II Balance_NN1 According_II21 to_II22 Mark_NP1 Graves_NN2 ,_Y vice_JJ_II president_NN1 sales_NN manager_NN1 of_IO Ellison_NP1 Bronze_NN1 Inc._JJ ,_Y his_APPGE company_NN1 's_GE founders_NN2 developed_VVD_VVN an_AT1 improved_JJ hinge_NN1 for_IF its_Z' doors_NN2 in_II 1928_MC after_II seeing_VVG a_AT1 woman_NN1 struggle_NN1 to_TO open_VVI a_AT1 door_NN1 among_II the_AT skyscrapers_NN2 in_II wind-ridden_JJ_NN1 Chicago_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   31 Inventor Edward H. Ellison max have thought : " Opening those big doors in a strong wind is impossible .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   31 Inventor_NP1@ Edward_NP1 H._NP1 Ellison_NP1 max_NN1 have_VH0 thought_VVN :_Y "_Y Opening_VVG those_DD2 big_JJ doors_NN2 in_II a_AT1 strong_JJ wind_NN1 is_VBZ impossible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   32 Why ca n't the wind help to open it ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   32 Why_RRQ ca_VM n't_XX the_AT wind_NN1 help_VVI to_TO open_VVI it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   33 " He probably also noticed a strong wind blowing doors open , and holding them open as well .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   33 "_Y He_PPHS1 probably_RR also_RR noticed_VVD a_AT1 strong_JJ wind_NN1 blowing_VVG_NN1@ doors_NN2 open_VV0 ,_Y and_CC holding_VVG them_PPHO2 open_VV0_RR@_JJ as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   34 " A year or so later , they came up with this hinging mechanism that moved the pivot point over , " Graves said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   34 "_Y A_AT1 year_NNT1 or_CC so_RR_RG later_RRR_JJR ,_Y they_PPHS2 came_VVD up_RP with_IW this_DD1 hinging_JJ@_NN1@_VVG mechanism_NN1 that_CST moved_VVD the_AT pivot_NN1 point_NN1_VV0@ over_RP ,_Y "_Y Graves_NN2 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   35 " With that pivot point moved over , roughly that portion of the door -- if the wind pushes on that -- is acting to help you .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   35 "_Y With_IW that_DD1 pivot_NN1 point_NN1 moved_VVD_VVN over_RP ,_Y roughly_RR that_DD1 portion_NN1 of_IO the_AT door_NN1 --_NN1_JJ if_CS the_AT wind_NN1 pushes_VVZ on_II that_DD1 --_NN1 is_VBZ acting_VVG to_TO help_VVI you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   36 " Furthermore doors will flutter due to the internal pressures and the wind .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   36 "_Y Furthermore_RR doors_NN2 will_VM flutter_VVI due_II21 to_II22 the_AT internal_JJ pressures_NN2 and_CC the_AT wind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   37 " Increasing the closing Spring force is an obvious solution , but that also affects the effort to open it .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   37 "_Y Increasing_VVG the_AT closing_JJ_NN1 Spring_NN1 force_NN1 is_VBZ an_AT1 obvious_JJ solution_NN1 ,_Y but_CCB that_DD1 also_RR affects_VVZ the_AT effort_NN1 to_TO open_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   38 With the balancing sell help of a balanced door , wind will neither open it nor hold it open , yet the door is easily opened by pedestrians even in strong winds .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   38 With_IW the_AT balancing_NN1@ sell_VV0 help_NN1 of_IO a_AT1 balanced_JJ door_NN1 ,_Y wind_NN1 will_VM neither_RR open_VVI it_PPH1 nor_CC hold_VV0 it_PPH1 open_RR@_JJ ,_Y yet_RR the_AT door_NN1 is_VBZ easily_RR opened_VVN by_II pedestrians_NN2 even_RR in_II strong_JJ winds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   39 " So the Counterbalancing helps in both the opening and closing cycle , " Graves said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   39 "_Y So_CS@_RR the_AT Counterbalancing_NP1_NN1@ helps_VVZ in_II_RP@ both_DB2_RR the_AT opening_NN1 and_CC closing_JJ_VVG_NN1 cycle_NN1 ,_Y "_Y Graves_NN2 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   40 The hinge pins slide toward the jam as the door opens , opening the door fully .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   40 The_AT hinge_NN1 pins_NN2 slide_VV0 toward_II the_AT jam_NN1 as_II_CSA the_AT door_NN1 opens_VVZ ,_Y opening_VVG the_AT door_NN1 fully_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   41 Balanced doors have special , articulated hinges so wind does n't blow them open .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   41 Balanced_JJ doors_NN2 have_VH0 special_JJ ,_Y articulated_JJ hinges_NN2 so_RR_CS@ wind_NN1_VV0@ does_VDZ n't_XX blow_VVI them_PPHO2 open_JJ_VV0_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   42 Yet they open easily , and fully , when pulled or pushed .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   42 Yet_RR they_PPHS2 open_VV0 easily_RR ,_Y and_CC fully_RR ,_Y when_CS_RRQ pulled_VVN_JJ@ or_CC pushed_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   43 Those spring clip-style broom holders work , until the broom is too heavy .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   43 Those_DD2 spring_VV0@_NN1 clip-style_JJ_NN1 broom_NN1 holders_NN2 work_VV0 ,_Y until_CS the_AT broom_NN1 is_VBZ too_RG heavy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   44 An obvious solution is a stronger spring , which adds the obvious problem of , well , a stronger spring .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   44 An_AT1 obvious_JJ solution_NN1 is_VBZ a_AT1 stronger_JJR spring_NN1 ,_Y which_DDQ adds_VVZ the_AT obvious_JJ problem_NN1 of_IO ,_Y well_RR ,_Y a_AT1 stronger_JJR spring_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   45 If you were designing a holder for bigger brooms , you could ask , " The broom is too heavy for a spring , so can I use the heavier the broom , the higher the holding force !
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   45 If_CS you_PPY were_VBDR designing_VVG a_AT1 holder_NN1 for_IF bigger_JJR brooms_NN2 ,_Y you_PPY could_VM ask_VVI ,_Y "_Y The_AT broom_NN1 is_VBZ too_RG heavy_JJ for_IF a_AT1 spring_NN1 ,_Y so_RR can_VM I_PPIS1 use_VVI the_AT heavier_JJR the_AT broom_NN1 ,_Y the_AT higher_JJR the_AT holding_JJ@_NN1@ force_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   46 " That thinking may have led someone to invent the jamming-style holder .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   46 "_Y That_DD1 thinking_NN1 may_VM have_VHI led_VVN someone_PN1 to_TO invent_VVI the_AT jamming-style_JJ_NN1 holder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   47 Broom holders : spring-loaded ( left ) and self-helping .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   47 Broom_NN1 holders_NN2 :_Y spring-loaded_NN1_JJ (_Y left_JJ_VVN_NN1@ )_Y and_CC self-helping_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   48 Wind in the Sails All modern ram -- air parachutes have a device called a slider to retard deployment .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   48 Wind_NN1_VV0@ in_II the_AT Sails_NN2 All_DB_RR@ modern_JJ ram_NN1 --_NN1_JJ air_NN1 parachutes_NN2 have_VH0 a_AT1 device_NN1 called_VVN a_AT1 slider_NN1 to_TO retard_VVI deployment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   49 Without some way to impede the opening , a ram-air 's opening shock was unbearable .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   49 Without_IW some_DD way_NN1 to_TO impede_VVI the_AT opening_NN1 ,_Y a_AT1 ram-air_NN1 's_GE opening_NN1_VVG_JJ@ shock_NN1 was_VBDZ unbearable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   50 Ted Strong , a pioneer of the parachute industry , said , " There 's been a couple of other ways of reefing a canopy -- of slowing a canopy down -- outside of the slider .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   50 Ted_NP1 Strong_NP1@_JJ ,_Y a_AT1 pioneer_NN1 of_IO the_AT parachute_NN1 industry_NN1 ,_Y said_VVD ,_Y "_Y There_EX 's_VHZ been_VBN a_AT1 couple_NN1 of_IO other_JJ ways_NN2 of_IO reefing_VVG a_AT1 canopy_NN1 --_NN1 of_IO slowing_VVG a_AT1 canopy_NN1 down_II@_RP --_NN1_JJ outside_II21 of_II22 the_AT slider_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   51 " But none worked as well , according to Strong , whose company , Strong Enterprises , has made military and civilian parachuting equipment since 1961 .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   51 "_Y But_CCB none_PN worked_VVD as_RR21_RG well_RR22_RR ,_Y according_II21 to_II22 Strong_JJ_NP1@ ,_Y whose_DDQGE company_NN1 ,_Y Strong_JJ Enterprises_NN2 ,_Y has_VHZ made_VVN military_JJ and_CC civilian_JJ_NN1 parachuting_JJ@_NN1@_VVG equipment_NN1 since_II 1961_MC ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   52 " However you packed it , you could jump it .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   52 "_Y However_RRQV you_PPY packed_VVD it_PPH1 ,_Y you_PPY could_VM jump_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   53 The slider made that possible .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   53 The_AT slider_NN1 made_VVD_VVN that_RG possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   54 " Someone probably asked , " The freefall wind opens these new parachutes too fast .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   54 "_Y Someone_PN1 probably_RR asked_VVD_VVN@ ,_Y "_Y The_AT freefall_NN1 wind_NN1 opens_VVZ these_DD2 new_JJ parachutes_NN2 too_RG fast_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   55 Can the air flow itself retard the deployment ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   55 Can_VV0%_VM the_AT air_NN1 flow_VVI itself_PPX1 retard_VV0 the_AT deployment_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   56 " The self-help answer is the wind-inflated slider , which rides on the suspension , slider and forces it to the base of the parachute , holding the parachute partially closed .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   56 "_Y The_AT self-help_JJ_NN1 answer_NN1 is_VBZ the_AT wind-inflated_JJ_NN1 slider_NN1 ,_Y which_DDQ rides_VVZ on_II the_AT suspension_NN1 ,_Y slider_NN1 and_CC forces_VVZ@_NN2 it_PPH1 to_II the_AT base_NN1 of_IO the_AT parachute_NN1 ,_Y holding_VVG the_AT parachute_NN1 partially_RR closed_VVN_VVD_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   57 The slider travels down the lines as the velocity and wind pressure decrease , until the parachute is fully open .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   57 The_AT slider_NN1 travels_VVZ down_RP_II@ the_AT lines_NN2 as_II_CSA the_AT velocity_NN1 and_CC wind_NN1_VV0@ pressure_NN1 decrease_NN1_VV0 ,_Y until_CS the_AT parachute_NN1 is_VBZ fully_RR open_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   58 Self-help in a ram-air parachute -- air speed both opens the parachute and holds it closed .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   58 Self-help_NN1_JJ in_II a_AT1 ram-air_JJ_NN1 parachute_NN1 --_NN1_JJ air_NN1 speed_NN1 both_RR opens_VVZ the_AT parachute_NN1 and_CC holds_VVZ it_PPH1 closed_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   59 Cut to the Chase A left-handed colleague once educated me about self-help in scissors .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   59 Cut_VV0_VVN_NN1 to_II the_AT Chase_NN1 A_ZZ1 left-handed_JJ colleague_NN1 once_RR educated_VVN_VVD@ me_PPIO1 about_II self-help_NN1_JJ in_II scissors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   60 I ( right-handed ) assumed left-handed scissors exist to fit the left hand .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   60 I_ZZ1@_MC1@ (_Y right-handed_RR_JJ )_Y assumed_VVD left-handed_JJ scissors_NN2 exist_VV0 to_TO fit_VVI the_AT left_JJ hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   61 Not so .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   61 Not_XX so_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   62 With hand action , a component vector normal to the blades forces the cutting edges together .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   62 With_IW hand_NN1 action_NN1 ,_Y a_AT1 component_NN1_JJ@ vector_NN1 normal_JJ to_II the_AT blades_NN2 forces_VVZ@ the_AT cutting_NN1_JJ@ edges_NN2 together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   63 Using wrong-handed scissors forces the edges apart , and the scissors wo n't cut .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   63 Using_VVG wrong-handed_JJ scissors_NN2 forces_VVZ@ the_AT edges_NN2 apart_RL ,_Y and_CC the_AT scissors_NN2 wo_VM n't_XX cut_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   64 Normal action forces the cutting edges of a pair of scissors together -- but only if it 's correct-handed .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   64 Normal_JJ action_NN1 forces_VVZ@_NN2 the_AT cutting_NN1_JJ@ edges_NN2 of_IO a_AT1 pair_NN of_IO scissors_NN2 together_RL --_ZZ but_CCB only_RR if_CS it_PPH1 's_VBZ correct-handed_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   65 A design engineer noticing how the blades separate for some users might tighten the hinge play or curve the blades inward .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   65 A_AT1 design_NN1 engineer_NN1 noticing_VVG how_RRQ the_AT blades_NN2 separate_VV0 for_IF some_DD users_NN2 might_VM tighten_VVI the_AT hinge_NN1 play_NN1 or_CC curve_VV0@_NN1 the_AT blades_NN2 inward_RL@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   66 But a good design engineer would also ask , " Is there a way that hand action can always force the blades ' edges together ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   66 But_CCB a_AT1 good_JJ design_NN1 engineer_NN1 would_VM also_RR ask_VVI ,_Y "_Y Is_VBZ there_EX a_AT1 way_NN1 that_CST_DD1 hand_NN1 action_NN1 can_VM always_RR force_VVI the_AT blades_NN2 '_GE edges_NN2 together_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   67 " From there one an improved pair of scissors that accentuates that action due to the grips ' forms .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   67 "_Y From_II there_RL one_PN1 an_AT1 improved_JJ pair_NN of_IO scissors_NN2 that_CST_DD1 accentuates_VVZ that_DD1_CST action_NN1 due_II21 to_II22 the_AT grips_NN2 '_GE forms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   68 The examples so far balance , create , or redirect forces .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   68 The_AT examples_NN2 so_RG far_RR balance_VV0@_NN1 ,_Y create_VV0 ,_Y or_CC redirect_JJ_VV0 forces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   69 A stacked leaf spring on a motor vehicle is self-help that redistributes forces .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   69 A_AT1_ZZ1 stacked_JJ leaf_NN1 spring_NN1 on_II a_AT1 motor_NN1 vehicle_NN1 is_VBZ self-help_JJ that_CST redistributes_VVZ forces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   70 Downward deflection of the suspension brings more of the leaves into play , which stiffens the suspension for further deflection .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   70 Downward_JJ deflection_NN1 of_IO the_AT suspension_NN1 brings_VVZ more_DAR of_IO the_AT leaves_NN2 into_II play_NN1 ,_Y which_DDQ stiffens_VVZ the_AT suspension_NN1 for_IF further_JJR@ deflection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   71 When confronted with an overstressed single leaf spring , an inventor might have asked , " Can the load be distributed over more leaves with high loads , yet remain on fewer leaves with light loads ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   71 When_CS confronted_VVN with_IW an_AT1 overstressed_JJ@ single_JJ leaf_NN1 spring_NN1 ,_Y an_AT1 inventor_NN1 might_VM have_VHI asked_VVN@ ,_Y "_Y Can_VM the_AT load_NN1 be_VBI distributed_VVN over_RP_II more_DAR_RRR leaves_NN2_VVZ with_IW high_JJ loads_NN2 ,_Y yet_RR remain_VV0 on_RP@_II fewer_DAR leaves_NN2 with_IW light_JJ loads_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   72 " Stiffness and strength can often improve rather than worsen with deflection , if you just give it some thought .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   72 "_Y Stiffness_NN1 and_CC strength_NN1 can_VM often_RR improve_VVI rather_CS21 than_CS22 worsen_VVI with_IW deflection_NN1 ,_Y if_CS you_PPY just_RR give_VV0 it_PPH1 some_DD thought_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   73 Or think , for example , of Hertzian contact , which recruits ever more surface area with increasing load .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   73 Or_CC think_VV0 ,_Y for_REX21 example_REX22 ,_Y of_IO Hertzian_JJ contact_NN1 ,_Y which_DDQ recruits_VVZ ever_RR more_DAR surface_NN1 area_NN1 with_IW increasing_JJ_VVG load_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   74 Self-help is an important feature of the control surfaces -- rudders and elevators -- on many airplanes .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   74 Self-help_NN1 is_VBZ an_AT1 important_JJ feature_NN1 of_IO the_AT control_NN1 surfaces_NN2 --_ZZ rudders_NN2 and_CC elevators_NN2 --_NN1_JJ on_II many_DA2 airplanes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   75 Balance weights on the opposite side of the pivot reduce the pilot 's control column forces and eliminate flutter by changing the center of mass .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   75 Balance_NN1_VV0@ weights_NN2_VVZ@ on_II the_AT opposite_JJ side_NN1 of_IO the_AT pivot_NN1 reduce_VV0 the_AT pilot_NN1 's_GE control_NN1 column_NN1 forces_NN2 and_CC eliminate_VV0 flutter_NN1_VV0 by_II changing_VVG the_AT center_NN1 of_IO mass_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   76 But aerodynamic balances , such as surfaces and reduce control column force as well .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   76 But_CCB aerodynamic_JJ balances_NN2 ,_Y such_II21 as_II22 surfaces_NN2 and_CC reduce_VV0 control_NN1_VV0 column_NN1 force_NN1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   77 One solution for pilots fatigued by high forces on the controls is the hydraulic or electrical assist in large modern aircraft , but an early aeronautical design engineer might have asked , " Why ca n't the air pressure itself assist the pilot ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   77 One_MC1 solution_NN1 for_IF pilots_NN2 fatigued_VVD_VVN@ by_II high_JJ forces_NN2 on_II the_AT controls_NN2 is_VBZ the_AT hydraulic_JJ or_CC electrical_JJ assist_VV0_NN1% in_II large_JJ modern_JJ aircraft_NN ,_Y but_CCB an_AT1 early_JJ_RR aeronautical_JJ design_NN1 engineer_NN1 might_VM have_VHI asked_VVN@ ,_Y "_Y Why_RRQ ca_VM n't_XX the_AT air_NN1 pressure_NN1 itself_PPX1 assist_VV0 the_AT pilot_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   78 " It can , if the airflow hits surfaces on either side of the hinge , as in the horn balance .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   78 "_Y It_PPH1 can_VM ,_Y if_CS the_AT airflow_NN1 hits_VVZ surfaces_NN2 on_II either_DD1 side_NN1 of_IO the_AT hinge_NN1 ,_Y as_CSA in_II the_AT horn_NN1 balance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   79 But that question could also lead to the balance tab , which is not nearly as obvious .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   79 But_CCB that_DD1 question_NN1 could_VM also_RR lead_VVI to_II the_AT balance_NN1 tab_NN1_VV0 ,_Y which_DDQ is_VBZ not_XX nearly_RR as_CSA_RG@ obvious_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   80 Aerodynamic balances on aircraft assist the pilot with control surface forces .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   80 Aerodynamic_JJ balances_NN2 on_II aircraft_NN assist_VV0 the_AT pilot_NN1 with_IW control_NN1 surface_NN1 forces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   81 The balance tab 's long moment arm to the elevator hinge makes it effective .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   81 The_AT balance_NN1 tab_NN1 's_GE long_JJ moment_NN1 arm_NN1 to_II the_AT elevator_NN1 hinge_NN1 makes_VVZ it_PPH1 effective_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   82 A Knotty Problem Knots in ropes hold from slipping principally because of self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   82 A_AT1_ZZ1 Knotty_JJ Problem_NN1 Knots_NN2 in_II ropes_NN2 hold_VV0 from_II slipping_VVG principally_RR because_II21 of_II22 self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   83 According to the Web site AllAboutKnots.com , created by knot expert Richard Chisholm , an important effect of load on the rope is to press areas of contact together .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   83 According_II21 to_II22 the_AT Web_NN1 site_NN1 AllAboutKnots.com_NP1 ,_Y created_VVN by_II knot_NN1 expert_NN1 Richard_NP1 Chisholm_NP1 ,_Y an_AT1 important_JJ effect_NN1 of_IO load_NN1 on_II the_AT rope_NN1 is_VBZ to_TO press_VVI areas_NN2 of_IO contact_NN1 together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   84 This develops friction to resist slipping .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   84 This_DD1 develops_VVZ friction_NN1 to_TO resist_VVI slipping_VVG_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   85 Friction from self-help " keeps it together .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   85 Friction_NN1 from_II self-help_NN1 "_Y keeps_VVZ it_PPH1 together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   86 Period .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   86 Period_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   87 Does n't ' help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   87 Does_VDZ n't_XX '_GE help_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   88 ' It 's the only you were designing a knot to tie to a post , for example , you would ask , " How can the applied loads create friction to secure the rope ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   88 '_"@_GE It_PPH1 's_VBZ the_AT only_JJ you_PPY were_VBDR designing_VVG a_AT1 knot_NN1 to_TO tie_VVI to_II a_AT1 post_NN1 ,_Y for_REX21 example_REX22 ,_Y you_PPY would_VM ask_VVI ,_Y "_Y How_RRQ can_VM the_AT applied_JJ loads_NN2 create_VV0 friction_NN1 to_TO secure_VVI the_AT rope_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   89 " You might wrap the rope around the post multiple times for added friction , like a capstan or windlass , but you might also loop the rope over itself to clamp the wrap against the post .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   89 "_Y You_PPY might_VM wrap_VVI the_AT rope_NN1 around_II the_AT post_NN1 multiple_JJ_NN1 times_NNT2 for_IF added_JJ friction_NN1 ,_Y like_II a_AT1 capstan_NN1 or_CC windlass_NN1_VV0 ,_Y but_CCB you_PPY might_VM also_RR loop_VVI the_AT rope_NN1 over_II itself_PPX1 to_TO clamp_VVI the_AT wrap_NN1 against_II the_AT post_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   90 But knot friction alone results only in security , or how well a knot holds with normal loads .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   90 But_CCB knot_NN1_VV0@ friction_NN1 alone_JJ_RR results_NN2_VVZ@ only_RR in_II security_NN1 ,_Y or_CC how_RGQ@_RRQ well_RR a_AT1 knot_NN1 holds_VVZ with_IW normal_JJ loads_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   91 Abnormal loads can lead to knot failure in an otherwise secure knot .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   91 Abnormal_JJ loads_NN2 can_VM lead_VVI to_TO knot_VVI failure_NN1 in_II an_AT1 otherwise_RR secure_JJ_VV0 knot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   92 This is knot stability .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   92 This_DD1 is_VBZ knot_NN1 stability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   93 Pull on a bowline ( or a sheet bend ) the wrong way and it becomes unstable , tumbling or untying itself , and alarmingly so for a knot considered safe .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   93 Pull_VV0 on_II_RP@ a_AT1 bowline_NN1 (_Y or_CC a_AT1 sheet_NN1 bend_NN1 )_Y the_AT wrong_JJ way_NN1 and_CC it_PPH1 becomes_VVZ unstable_JJ ,_Y tumbling_VVG_JJ or_CC untying_VVG itself_PPX1 ,_Y and_CC alarmingly_RR so_RR for_IF a_AT1 knot_NN1 considered_VVD_VVN safe_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   94 Your next question should be : " Can abnormal loads tighten and stabilize the knot rather than loosen or tumble it ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   94 Your_APPGE next_MD question_NN1 should_VM be_VBI :_Y "_Y Can_VM abnormal_JJ loads_NN2 tighten_VV0 and_CC stabilize_VV0 the_AT knot_NN1 rather_CS21 than_CS22 loosen_VVI or_CC tumble_VVI it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   95 " That question may have led an early angler to invent the double fisherman 's knot .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   95 "_Y That_DD1 question_NN1 may_VM have_VHI led_VVN an_AT1 early_JJ angler_NN1 to_TO invent_VVI the_AT double_JJ fisherman_NN1 's_GE knot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   96 Chisholm writes on his Web site , " No matter how you tug at deform .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   96 Chisholm_NP1 writes_VVZ on_II_RP@ his_APPGE Web_NN1 site_NN1 ,_Y "_Y No_RRQV31 matter_RRQV32 how_RRQV33 you_PPY tug_VV0 at_II deform_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   97 " Chisholm , who learned about knots as a Boy Scout , Navy sailor , and ski patroller , acknowledged the self-help in this knot , saying , " And that 's exactly a good example of your concept of self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   97 "_Y Chisholm_NP1 ,_Y who_PNQS learned_VVD about_II_RP@ knots_NN2 as_II_CSA a_AT1 Boy_NN1 Scout_NN1 ,_Y Navy_NN1 sailor_NN1 ,_Y and_CC ski_VV0_NN1 patroller_NN1 ,_Y acknowledged_VVD_VVN the_AT self-help_NN1_JJ in_II this_DD1 knot_NN1 ,_Y saying_VVG ,_Y "_Y And_CC that_DD1 's_VBZ exactly_RR a_AT1 good_JJ example_NN1 of_IO your_APPGE concept_NN1 of_IO self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   98 Any force that you put on the standing part tends to pull it together , rather than pull it apart .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   98 Any_DD force_NN1_VV0@ that_CST you_PPY put_VV0_VVD on_RP the_AT standing_NN1_JJ@ part_NN1 tends_VVZ to_TO pull_VVI it_PPH1 together_RL ,_Y rather_CS21 than_CS22 pull_VVI it_PPH1 apart_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0   99 " A half-nut for a lead screw drive can benefit from self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0   99 "_Y A_AT1_ZZ1 half-nut_NN1_JJ for_IF a_AT1 lead_NN1 screw_NN1_VV0 drive_NN1 can_VM benefit_VVI from_II self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  100 Getting Real But most of today 's designers do n't design knots , lift bridges , airplane elevators , or scissors , and if they did , they 'd already know how , right ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  100 Getting_VVG Real_JJ But_CCB most_DAT of_IO today_RT 's_GE designers_NN2 do_VD0 n't_XX design_VVI knots_NN2 ,_Y lift_VV0_NN1 bridges_NN2 ,_Y airplane_NN1 elevators_NN2 ,_Y or_CC scissors_NN2 ,_Y and_CC if_CS_CSW@ they_PPHS2 did_VDD ,_Y they_PPHS2 'd_VM already_RR know_VVI how_RRQ ,_Y right_RR_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  101 Right .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  101 Right_RR_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  102 So a real example from my experience is a half-nut for the lead screw drive of a medical syringe pump .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  102 So_RR a_AT1 real_JJ example_NN1 from_II my_APPGE experience_NN1 is_VBZ a_AT1 half-nut_NN1_JJ for_IF the_AT lead_NN1 screw_NN1_VV0 drive_NN1 of_IO a_AT1 medical_JJ syringe_NN1 pump_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  103 Users decouple the half-nut from the lead-screw to quickly reset the drive .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  103 Users_NN2 decouple_VV0 the_AT half-nut_NN1_JJ from_II the_AT lead-screw_NN1_JJ to_TO quickly_RR reset_VVI the_AT drive_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  104 The bias spring proved too weak for the highest driven loads , and the half-nut decoupled on its own .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  104 The_AT bias_NN1 spring_NN1 proved_VVD_VVN too_RG weak_JJ for_IF the_AT highest_JJT driven_JJ loads_NN2 ,_Y and_CC the_AT half-nut_NN1 decoupled_VVD_VVN@ on_II_RP@ its_Z' own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  105 The obvious solution was a stronger spring , but that increases decoupling effort and frictional torque , both of which are bad , " Can the driven load itself produce the coupling force ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  105 The_AT obvious_JJ solution_NN1 was_VBDZ a_AT1 stronger_JJR spring_NN1 ,_Y but_CCB that_DD1 increases_VVZ decoupling_VVG_JJ@ effort_NN1 and_CC frictional_JJ torque_NN1 ,_Y both_DB2 of_IO which_DDQ are_VBR bad_JJ ,_Y "_Y Can_VM the_AT driven_JJ load_NN1 itself_PPX1 produce_VV0 the_AT coupling_NN1 force_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  106 " That led to a jamming halfnut design with a line of action that forces the half-nut into the lead screw .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  106 "_Y That_DD1 led_VVD_VVN to_II a_AT1 jamming_NN1 halfnut_NN1 design_NN1 with_IW a_AT1 line_NN1 of_IO action_NN1 that_CST_DD1 forces_VVZ@ the_AT half-nut_NN1_JJ into_II the_AT lead_NN1 screw_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  107 This solves not only the decoupling problem , but reduces the frictional torque , now proportional to driven load , and the decoupling force , now only a return spring .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  107 This_DD1 solves_VVZ not_XX only_RR the_AT decoupling_JJ@_NN1@ problem_NN1 ,_Y but_CCB reduces_VVZ the_AT frictional_JJ torque_NN1 ,_Y now_RT proportional_JJ to_II driven_JJ load_NN1 ,_Y and_CC the_AT decoupling_JJ@_NN1@ force_NN1 ,_Y now_RT only_RR a_AT1 return_NN1_JJ@ spring_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  108 Here 's another example , but in reverse , from a former colleague , Paul Lucas .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  108 Here_RL 's_VBZ another_DD1 example_NN1 ,_Y but_CCB in_II reverse_NN1_JJ ,_Y from_II a_AT1 former_DA colleague_NN1 ,_Y Paul_NP1 Lucas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  109 He was connecting flexible tubing to the input port of an off-the-shelf PC board-mounted silicon pressure transducer .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  109 He_PPHS1 was_VBDZ connecting_VVG_JJ flexible_JJ tubing_NN1 to_II the_AT input_NN1 port_NN1 of_IO an_AT1 off-the-shelf_JJ_NN1 PC_NN1 board-mounted_NN1_JJ silicon_NN1 pressure_NN1 transducer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  110 The port was a smooth metal tube , with no barb or enlargement .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  110 The_AT port_NN1 was_VBDZ a_AT1 smooth_JJ metal_NN1 tube_NN1 ,_Y with_IW no_AT barb_NN1 or_CC enlargement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  111 " Believe it or not , " Lucas said , " the metal connection tube actually had a slight taper -- you guessed it -- in the anti-self-help direction .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  111 "_Y Believe_VV0 it_PPH1 or_CC not_XX ,_Y "_Y Lucas_NP1 said_VVD ,_Y "_Y the_AT metal_NN1 connection_NN1 tube_NN1 actually_RR had_VHN@_VHD a_AT1 slight_JJ taper_NN1 --_NN1 you_PPY guessed_VVD it_PPH1 --_ZZ in_II the_AT anti-self-help_JJ_NN1 direction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  112 " So even with a tubing clamp , the connection loosened with the slightest movement .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  112 "_Y So_RR even_RR with_IW a_AT1 tubing_NN1 clamp_NN1_VV0 ,_Y the_AT connection_NN1 loosened_VVN_VVD with_IW the_AT slightest_JJT movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  113 If a design engineer had only asked , " Can the connection get tighter as the tube is pulled ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  113 If_CS a_AT1 design_NN1 engineer_NN1 had_VHD only_RR asked_VVN ,_Y "_Y Can_VM the_AT connection_NN1 get_VVI tighter_JJR_RRR@ as_II_CSA the_AT tube_NN1 is_VBZ pulled_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  114 " A double fisherman 's knot .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  114 "_Y A_AT1_ZZ1 double_JJ fisherman_NN1 's_GE knot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  115 This core-and-wrap style knot stabilize it even more .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  115 This_DD1 core-and-wrap_JJ_NN1 style_NN1 knot_NN1 stabilize_VV0 it_PPH1 even_RR more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  116 That example also offers a different lesson in self-help .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  116 That_DD1 example_NN1 also_RR offers_VVZ@ a_AT1 different_JJ lesson_NN1 in_II self-help_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  117 If you WANT something to fail , make it self-damaging .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  117 If_CS you_PPY WANT_VV0 something_PN1 to_TO fail_VVI ,_Y make_VV0 it_PPH1 self-damaging_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  118 I could explain that , but by now you probably get the idea .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  118 I_PPIS1 could_VM explain_VVI that_DD1_CST ,_Y but_CCB by_RT21 now_RT22 you_PPY probably_RR get_VV0 the_AT idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  119 By James G. Skakoon James G. Skakoon operates Vertex Technology LLC. an engineering firm in St. Paul .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  119 By_II James_NP1 G._NP1 Skakoon_NP1 James_NP1 G._NP1 Skakoon_NP1 operates_VVZ Vertex_NN1_NP1 Technology_NN1 LLC._NP1 an_AT1 engineering_NN1 firm_NN1 in_II St._NP1 Paul_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  120 Minn .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  120 Minn_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  121 He is the author of several books , most recently The Elements of Mechanical Design .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  121 He_PPHS1 is_VBZ the_AT author_NN1 of_IO several_DA2 books_NN2 ,_Y most_RGT recently_RR The_AT Elements_NN2 of_IO Mechanical_JJ Design_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  122 published in 2008 by ASME Press .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  122 published_VVN in_II 2008_MC by_II ASME_NP1_NN1 Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  A    0  123 
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080057 COCA  B    0  123 

@@ -1,0 +1,108 @@
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    0 Our status in society has been an important concept for centuries .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    0 Our_APPGE status_NN1 in_II society_NN1 has_VHZ been_VBN an_AT1 important_JJ concept_NN1 for_IF centuries_NNT2 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    1 During the 19th century , status was significantly based up on wealth and whether or not you were a man or a woman .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    1 During_II the_AT 19th_MD century_NNT1 ,_, status_NN1 was_VBDZ significantly_RR based_VVN up_RP on_II wealth_NN1 and_CC whether_CSW31 or_CSW32 not_CSW33 you_PPY were_VBDR a_AT1 man_NN1 or_CC a_AT1 woman_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    2 This can be seen in Guy de Maupasant 's short story , " The Necklace . "
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    2 This_DD1 can_VM be_VBI seen_VVN in_II Guy_NP1 de_NP1 Maupasant_NP1 's_GE short_JJ story_NN1 ,_, "_" The_AT Necklace_NN1 ._. "_"
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    3 The main character of the story , Mathilde Loisel , agonizes over the fact that she is n't someone in the world and only has meager things in life .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    3 The_AT main_JJ character_NN1 of_IO the_AT story_NN1 ,_, Mathilde_NP1 Loisel_NP1 ,_, agonizes_VVZ over_II the_AT fact_NN1 that_CST she_PPHS1 is_VBZ n't_XX someone_PN1 in_II the_AT world_NN1 and_CC only_RR has_VHZ meager_JJ things_NN2 in_II life_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    4 This is reiterated throughout the story and ultimately emphasizes her status as solely a common woman in 19th century France .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    4 This_DD1 is_VBZ reiterated_VVN@ throughout_II the_AT story_NN1 and_CC ultimately_RR emphasizes_VVZ her_APPGE status_NN1 as_CSA solely_RR a_AT1 common_JJ woman_NN1 in_II 19th_MD century_NNT1 France_NP1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    5 Her status serves as a burden , and through a series of events her status plays a significant role in her life .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    5 Her_APPGE status_NN1 serves_VVZ as_II a_AT1 burden_NN1 ,_, and_CC through_II a_AT1 series_NN of_IO events_NN2 her_APPGE status_NN1 plays_VVZ a_AT1 significant_JJ role_NN1 in_II her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    0    6 Through a close reading of " The Necklace " it is apparent that status is dependent on what one owns , gender , and wealth .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    0    6 Through_II a_AT1 close_JJ reading_NN1 of_IO "_" The_AT Necklace_NN1 "_" it_PPH1 is_VBZ apparent_JJ that_CST status_NN1 is_VBZ dependent_JJ on_II what_DDQ one_PN1 owns_VVZ ,_, gender_NN1 ,_, and_CC wealth_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1    7 Mathilide was consumed by a materialistic obsession .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1    7 Mathilide_NN1 was_VBDZ consumed_VVN by_II a_AT1 materialistic_JJ obsession_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1    8 She constantly daydreamed and longed for an elegant life with everything that she did n't and would n't be able to have due to her husband 's income .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1    8 She_PPHS1 constantly_RR daydreamed_VVD and_CC longed_VVD for_IF an_AT1 elegant_JJ life_NN1 with_IW everything_PN1 that_CST she_PPHS1 did_VDD n't_XX and_CC would_VM n't_XX be_VBI able_JK to_TO have_VHI due_II21 to_II22 her_APPGE husband_NN1 's_GE income_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1    9 She had a house , but longed for a mansion .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1    9 She_PPHS1 had_VHD a_AT1 house_NN1 ,_, but_CCB longed_VVD for_IF a_AT1 mansion_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   10 She had clothes , but longed for beautiful dresses and jewels .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   10 She_PPHS1 had_VHD clothes_NN2 ,_, but_CCB longed_VVD for_IF beautiful_JJ dresses_NN2 and_CC jewels_NN2 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   11 She had a loving husband , but longed for a wealthy one at that .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   11 She_PPHS1 had_VHD a_AT1 loving_JJ husband_NN1 ,_, but_CCB longed_VVD for_IF a_AT1 wealthy_JJ one_PN1 at_II that_DD1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   12 As de Maupassant explains , " she had no dresses , no jewels , nothing .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   12 As_CSA de_NP1 Maupassant_NP1 explains_VVZ ,_, "_" she_PPHS1 had_VHD no_AT dresses_NN2 ,_, no_AT jewels_NN2 ,_, nothing_PN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   13 And she loved nothing but that " ( 22 ) .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   13 And_CC she_PPHS1 loved_VVD nothing_PN1 but_CCB that_DD1 "_" (_( 22_MC )_) ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   14 While she did have these items , it felt as if she did n't have them at all because they were n't lavish and expensive .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   14 While_CS she_PPHS1 did_VDD have_VHI these_DD2 items_NN2 ,_, it_PPH1 felt_VVD as_CS21 if_CS22 she_PPHS1 did_VDD n't_XX have_VHI them_PPHO2 at_RR21 all_RR22 because_CS they_PPHS2 were_VBDR n't_XX lavish_JJ and_CC expensive_JJ ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   15 According to her , what we own must be expensive for it to be enjoyable which is an unfortunate philosophy .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   15 According_II21 to_II22 her_PPHO1 ,_, what_DDQ we_PPIS2 own_VV0@ must_VM be_VBI expensive_JJ for_IF it_PPH1 to_TO be_VBI enjoyable_JJ which_DDQ is_VBZ an_AT1 unfortunate_JJ philosophy_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   16 The dearth of these expensive items induced a daily struggle for Mathilde .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   16 The_AT dearth_NN1 of_IO these_DD2 expensive_JJ items_NN2 induced_VVD a_AT1 daily_JJ struggle_NN1 for_IF Mathilde_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   17 This can be seen when she could no longer visit her wealthy friend because it inflicted so much suffering once she had to return home .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   17 This_DD1 can_VM be_VBI seen_VVN when_RRQ she_PPHS1 could_VM no_RR21 longer_RR22 visit_VVI her_APPGE wealthy_JJ friend_NN1 because_CS it_PPH1 inflicted_VVD so_RG much_DA1 suffering_NN1 once_CS@ she_PPHS1 had_VHD to_TO return_VVI home_RL ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   18 One would be able to deduce that if given the opportunity to be rich , Mathilde would grasp it .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   18 One_PN1 would_VM be_VBI able_JK to_TO deduce_VVI that_CST if_CS given_VVN the_AT opportunity_NN1 to_TO be_VBI rich_JJ ,_, Mathilde_NP1 would_VM grasp_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   19 However , when offered the opportunity to attend a ball , she immediately refused , as she did n't have the proper clothing to be seen at the event .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   19 However_RR ,_, when_CS offered_VVN the_AT opportunity_NN1 to_TO attend_VVI a_AT1 ball_NN1 ,_, she_PPHS1 immediately_RR refused_VVN ,_, as_CSA she_PPHS1 did_VDD n't_XX have_VHI the_AT proper_JJ clothing_NN1 to_TO be_VBI seen_VVN at_II the_AT event_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   20 Once she and her husband finagled enough money to fund a dress , she realized that she did n't have jewels and yet again considered dropping out of attending .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   20 Once_CS@ she_PPHS1 and_CC her_APPGE husband_NN1 finagled_VVD enough_DD money_NN1 to_TO fund_VVI a_AT1 dress_NN1 ,_, she_PPHS1 realized_VVD that_CST she_PPHS1 did_VDD n't_XX have_VHI jewels_NN2 and_CC yet_RR again_RT considered_VVD dropping_VVG out_II21 of_II22 attending_VVG ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   21 Flowers were out of the question because " there &lsqb; was &rsqb; nothing more humiliating to look poor among other women who are rich " ( de Maupasant 24 ) .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   21 Flowers_NN2 were_VBDR out_II21 of_II22 the_AT question_NN1 because_CS "_" there_RL &lsqb;_( was_VBDZ &rsqb;_) nothing_PN1 more_RGR humiliating_JJ to_TO look_VVI poor_JJ among_II other_JJ women_NN2 who_PNQS are_VBR rich_JJ "_" (_( de_NP1 Maupasant_NP1 24_MC )_) ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   22 Thankfully she agreed to borrow a beautiful jewel necklace from her friend , Mme. Forestier .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   22 Thankfully_RR she_PPHS1 agreed_VVD to_TO borrow_VVI a_AT1 beautiful_JJ jewel_NN1 necklace_NN1 from_II her_APPGE friend_NN1 ,_, Mme._NNB Forestier_NP1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    1   23 Though terrible , having an expensive dress and jewels made Mathilde feel worthy of a having a wealthy status , even if it were just for one night .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    1   23 Though_CS terrible_JJ ,_, having_VHG an_AT1 expensive_JJ dress_NN1 and_CC jewels_NN2 made_VVD Mathilde_NP1 feel_VVI worthy_JJ of_IO a_AT1 having_VHG a_AT1 wealthy_JJ status_NN1 ,_, even_CS21 if_CS22 it_PPH1 were_VBDR just_RR for_IF one_MC1 night_NNT1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   24 Another aspect of status in the story is between Mathilde and her husband .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   24 Another_DD1 aspect_NN1 of_IO status_NN1 in_II the_AT story_NN1 is_VBZ between_II Mathilde_NP1 and_CC her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   25 Unlike today where many husbands and wives both work to support themselves , Mathilde 's husband was the sole breadwinner of the story .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   25 Unlike_JJ today_RT where_CS many_DA2 husbands_NN2 and_CC wives_NN2 both_RR work_VV0 to_TO support_VVI themselves_PPX2 ,_, Mathilde_NP1 's_GE husband_NN1 was_VBDZ the_AT sole_JJ breadwinner_NN1 of_IO the_AT story_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   26 After all , " since with women there is neither caste nor rank " ( de Maupassant 22 . )
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   26 After_II all_DB ,_, "_" since_CS with_IW women_NN2 there_EX is_VBZ neither_RR caste_NN1 nor_CC rank_NN1 "_" (_( de_NP1 Maupassant_NP1 22_MC ._. )_)
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   27 Mathilde 's husband made enough to support himself , his wife , and to pay their servant .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   27 Mathilde_NP1@ 's_GE husband_NN1 made_VVD enough_RR to_TO support_VVI himself_PPX1 ,_, his_APPGE wife_NN1 ,_, and_CC to_TO pay_VVI their_APPGE servant_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   28 There were n't any supplemental funds to support lavish clothes or jewelry- both Mathilde so desperately desired .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   28 There_EX were_VBDR n't_XX any_DD supplemental_JJ funds_NN2 to_TO support_VVI lavish_JJ clothes_NN2 or_CC jewelry-_NN1 both_RR Mathilde_NP1 so_RG desperately_RR desired_VVN ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   29 However , if she wanted them so badly why could n't she work to purchase them herself ?
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   29 However_RR ,_, if_CS she_PPHS1 wanted_VVD them_PPHO2 so_RG badly_RR why_RRQ could_VM n't_XX she_PPHS1 work_VVI to_TO purchase_VVI them_PPHO2 herself_PPX1 ?_?
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   30 This idea is widely accepted and encouraged in today 's society , but the status between men and women in 19th century France was differentiated based on the concept of working .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   30 This_DD1 idea_NN1 is_VBZ widely_RR accepted_VVN and_CC encouraged_VVN in_RP@ today_RT 's_GE society_NN1 ,_, but_CCB the_AT status_NN1 between_II men_NN2 and_CC women_NN2 in_II 19th_MD century_NNT1 France_NP1 was_VBDZ differentiated_VVN based_VVN on_II the_AT concept_NN1 of_IO working_VVG ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   31 Mathlide 's husband worked everyday as a clerk , while she sat around the house their servant cleaned .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   31 Mathlide_NP1@ 's_GE husband_NN1 worked_VVD everyday_JJ as_II a_AT1 clerk_NN1 ,_, while_CS she_PPHS1 sat_VVD around_II the_AT house_NN1 their_APPGE servant_NN1 cleaned_VVD ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   32 However , once the two had gained so much debt from the replacement necklace , they had to fire their servant and move to a smaller house .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   32 However_RR ,_, once_CS@ the_AT two_MC had_VHD gained_VVN so_RG much_DA1 debt_NN1 from_II the_AT replacement_NN1 necklace_NN1 ,_, they_PPHS2 had_VHD to_TO fire_VVI their_APPGE servant_NN1 and_CC move_VVI to_II a_AT1 smaller_JJR house_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   33 Mathilde " now knew the horrible existence of the needy " by having to pursue the housework as an occupation ( de Maupassant 26 ) .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   33 Mathilde_NN1 "_" now_RT knew_VVD the_AT horrible_JJ existence_NN1 of_IO the_AT needy_JJ "_" by_II having_VHG to_TO pursue_VVI the_AT housework_NN1 as_II an_AT1 occupation_NN1 (_( de_NP1 Maupassant_NP1 26_MC )_) ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   34 Her status as a woman shows that she could n't have considered a profession of trade or physical labor , both of which bring in money .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   34 Her_APPGE status_NN1 as_II a_AT1 woman_NN1 shows_VVZ that_CST she_PPHS1 could_VM n't_XX have_VHI considered_VVN a_AT1 profession_NN1 of_IO trade_NN1 or_CC physical_JJ labor_NN1 ,_, both_DB2 of_IO which_DDQ bring_VV0 in_RP money_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   35 Only her husband would continue his work as a clerk and have additional jobs to settle their debt .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   35 Only_RR her_APPGE husband_NN1 would_VM continue_VVI his_APPGE work_NN1 as_II a_AT1 clerk_NN1 and_CC have_VH0 additional_JJ jobs_NN2 to_TO settle_VVI their_APPGE debt_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    2   36 This signifies that having status as a woman did n't allow much flexibility when it came to pursing a career .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    2   36 This_DD1 signifies_VVZ that_CST having_VHG status_NN1 as_II a_AT1 woman_NN1 did_VDD n't_XX allow_VVI much_DA1 flexibility_NN1 when_CS it_PPH1 came_VVD to_II pursing_VVG a_AT1 career_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   37 The final aspect of status is the assumption that all wealthy people own expensive items .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   37 The_AT final_JJ aspect_NN1 of_IO status_NN1 is_VBZ the_AT assumption_NN1 that_CST all_DB wealthy_JJ people_NN own_VV0@ expensive_JJ items_NN2 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   38 Upon losing the necklace , Mathilde and her husband immediately thought it was a necklace of some worth .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   38 Upon_II losing_VVG the_AT necklace_NN1 ,_, Mathilde_NP1 and_CC her_APPGE husband_NN1 immediately_RR thought_VVD it_PPH1 was_VBDZ a_AT1 necklace_NN1 of_IO some_DD worth_NN1@ ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   39 Therefore they searched for a replacement that had diamonds as the jewels and they were confident in the decision that Mme. Forestier would n't suspect a thing .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   39 Therefore_RR they_PPHS2 searched_VVD for_IF a_AT1 replacement_NN1 that_CST had_VHD diamonds_NN2 as_II the_AT jewels_NN2 and_CC they_PPHS2 were_VBDR confident_JJ in_II the_AT decision_NN1 that_CST Mme._NNB Forestier_NP1 would_VM n't_XX suspect_VVI a_AT1 thing_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   40 After ten years of debt finally paid , Mathilde reveled to Mme. Forestier that she had lost the necklace and was poor because of having to pay off the thirty six thousand francs for the replacement .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   40 After_II ten_MC years_NNT2 of_IO debt_NN1 finally_RR paid_VVN ,_, Mathilde_NP1 reveled_VVD to_II Mme._NNB Forestier_NP1 that_CST she_PPHS1 had_VHD lost_VVN the_AT necklace_NN1 and_CC was_VBDZ poor_JJ because_II21 of_II22 having_VHG to_TO pay_VVI off_II the_AT thirty_MC six_MC thousand_NNO francs_NNU2 for_CS% the_AT replacement_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   41 Mathilde felt so proud that Mme. Forestier had n't noticed that it was n't the real necklace .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   41 Mathilde_NP1@ felt_VVD so_RG proud_JJ that_CST Mme._NNB Forestier_NP1 had_VHD n't_XX noticed_VVN that_CST it_PPH1 was_VBDZ n't_XX the_AT real_JJ necklace_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   42 Yet Mathlide 's assumption backfired greatly .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   42 Yet_RR Mathlide_NP1 's_GE assumption_NN1 backfired_VVD greatly_RR ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   43 Mme. Forestier explained that " &lsqb; her &rsqb; necklace was paste .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   43 Mme._NNB Forestier_NP1 explained_VVD that_CST "_" &lsqb;_( her_APPGE &rsqb;_) necklace_NN1 was_VBDZ paste_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   44 It was worth at most five hundred francs " ( de Maupassant 28 ) .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   44 It_PPH1 was_VBDZ worth_II at_RR21 most_RR22 five_MC hundred_NNO francs_NNU2 "_" (_( de_NP1 Maupassant_NP1 28_MC )_) ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    3   45 This proves that having a wealthy status does n't mean everything you own is of value .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    3   45 This_DD1 proves_VVZ that_CST having_VHG a_AT1 wealthy_JJ status_NN1 does_VDZ n't_XX mean_VVI everything_PN1 you_PPY own_VV0@ is_VBZ of_IO value_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   46 Status in society influences our opportunities and perceptions .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   46 Status_NN1 in_II society_NN1 influences_VVZ@ our_APPGE opportunities_NN2 and_CC perceptions_NN2 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   47 In " The Necklace " Mathilde would never have a career due to her status as a woman and would never have valuable things due to her status as a commoner .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   47 In_II "_" The_AT Necklace_NN1 "_" Mathilde_NN1 would_VM never_RR have_VHI a_AT1 career_NN1 due_II21 to_II22 her_APPGE status_NN1 as_II a_AT1 woman_NN1 and_CC would_VM never_RR have_VHI valuable_JJ things_NN2 due_II21 to_II22 her_APPGE status_NN1 as_II a_AT1 commoner_NN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   48 Mme. Forestier 's status as a wealthy person made Mathilde and her husband assume everything she owned would be worth something .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   48 Mme._NNB Forestier_NP1 's_GE status_NN1 as_II a_AT1 wealthy_JJ person_NN1 made_VVD Mathilde_NP1 and_CC her_APPGE husband_NN1 assume_VV0 everything_PN1 she_PPHS1 owned_VVD would_VM be_VBI worth_II something_PN1 ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   49 Finally , Mathide 's status as an average commoner set her back and caused her to deeply yearn for a life that was financially impossible .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   49 Finally_RR ,_, Mathide_NP1 's_GE status_NN1 as_II an_AT1 average_JJ commoner_NN1 set_VVD her_PPHO1 back_RP and_CC caused_VVD her_PPHO1 to_TO deeply_RR yearn_VVI for_IF a_AT1 life_NN1 that_CST was_VBDZ financially_RR impossible_JJ ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   50 Conclusively , Mathilde 's status determined her life 's path and assumptions she made about higher ranking people .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   50 Conclusively_RR ,_, Mathilde_NP1 's_GE status_NN1 determined_VVN her_APPGE life_NN1 's_GE path_NN1 and_CC assumptions_NN2 she_PPHS1 made_VVD about_II higher_JJR ranking_NN1 people_NN ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   51 Ironically , after both working off the debt for ten years , they would have been considered of a wealthy status and afford all that Mathilde wanted ten years ago .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   51 Ironically_RR ,_, after_CS both_DB2 working_VVG off_II the_AT debt_NN1 for_IF ten_MC years_NNT2 ,_, they_PPHS2 would_VM have_VHI been_VBN considered_VVN of_IO a_AT1 wealthy_JJ status_NN1 and_CC afford_VV0 all_DB that_DD1 Mathilde_NN1 wanted_VVD ten_MC years_NNT2 ago_RA ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   52 Status is relative and in the end can not be defined by what we own and who we are .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   52 Status_NN1 is_VBZ relative_JJ and_CC in_II the_AT end_NN1 can_VM not_XX be_VBI defined_VVN by_II what_DDQ we_PPIS2 own_VV0@ and_CC who_PNQS we_PPIS2 are_VBR ._.
+SENTPOS 2014_4_101_300_301_1 DRAFT A    4   52  In the case of " The Necklace " , had Mathilde not taken her poor status so close to heart , she may have been able to accomplish more and perhaps own a beautiful necklace of her own .
+SENTPOS 2014_4_101_300_301_1 DRAFT B    4   52  In_II the_AT case_NN1 of_IO "_" The_AT Necklace_NN1 "_" ,_, had_VHD Mathilde_NN1 not_XX taken_VVN her_APPGE poor_JJ status_NN1 so_RG close_RR to_II heart_NN1 ,_, she_PPHS1 may_VM have_VHI been_VBN able_JK to_TO accomplish_VVI more_DAR and_CC perhaps_RR own_DA a_AT1 beautiful_JJ necklace_NN1 of_IO her_APPGE own_DA ._.

@@ -1,0 +1,96 @@
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    0 The paint Checkmate was created by Friedrich Moritz August Retzsch .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    0 The_AT paint_NN1 Checkmate_NN1 was_VBDZ created_VVN by_II Friedrich_NP1 Moritz_NP1 August_NPM1 Retzsch_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    1 In the painting there are three figures .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    1 In_II the_AT painting_NN1 there_EX are_VBR three_MC figures_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    2 On the left of the painting there is a man with a green robe and a metal helmet .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    2 On_II the_AT left_NN1@ of_IO the_AT painting_NN1 there_EX is_VBZ a_AT1 man_NN1 with_IW a_AT1 green_JJ robe_NN1 and_CC a_AT1 metal_NN1 helmet_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    3 On the right of the painting is a man wearing red clothes with a black jacket .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    3 On_II the_AT right_NN1 of_IO the_AT painting_NN1 is_VBZ a_AT1 man_NN1 wearing_VVG red_JJ clothes_NN2 with_IW a_AT1 black_JJ jacket_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    4 Then in the middle of the painting is an angel that is looking at the man on the right of the painting .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    4 Then_RT in_II the_AT middle_NN1 of_IO the_AT painting_NN1 is_VBZ an_AT1 angel_NN1 that_CST is_VBZ looking_VVG at_II the_AT man_NN1 on_II the_AT right_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    5 The man in the green and the man in the red clothing are playing chess .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    5 The_AT man_NN1 in_II the_AT green_NN1 and_CC the_AT man_NN1 in_II the_AT red_JJ clothing_NN1 are_VBR playing_VVG chess_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    6 The man in the green is playing as black while the man in the red is playing as white .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    6 The_AT man_NN1 in_II the_AT green_NN1 is_VBZ playing_VVG as_RG@ black_JJ while_CS the_AT man_NN1 in_II the_AT red_NN1 is_VBZ playing_VVG as_RG@ white_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    0    7 The angel in the painting is not doing anything but looking at the man in the red .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    0    7 The_AT angel_NN1 in_II the_AT painting_NN1 is_VBZ not_XX doing_VDG anything_RR21 but_RR22 looking_VVG at_II the_AT man_NN1 in_II the_AT red_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1    8 The colors used in Checkmate give off a sense of hopeless and sadness while other colors helps make some elements of the painting more prevalent .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1    8 The_AT colors_NN2 used_VVN in_II Checkmate_NN1 give_VV0 off_RP a_AT1 sense_NN1 of_IO hopeless_JJ and_CC sadness_NN1 while_CS other_JJ colors_NN2 helps_NN2@ make_VVI some_DD elements_NN2 of_IO the_AT painting_NN1 more_RGR prevalent_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1    9 When looking at the painting most of the colors used are dark colors .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1    9 When_CS looking_VVG at_II the_AT painting_NN1 most_DAT of_IO the_AT colors_NN2 used_VVN are_VBR dark_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1   10 The walls are colored grey , the background of the angel is black , and the statues are a muddy brown or gray color .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1   10 The_AT walls_NN2 are_VBR colored_VVN@ grey_JJ ,_, the_AT background_NN1 of_IO the_AT angel_NN1 is_VBZ black_JJ ,_, and_CC the_AT statues_NN2 are_VBR a_AT1 muddy_JJ brown_JJ or_CC gray_JJ color_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1   11 All of these color are very dark colors and these colors are usually associated with negative emotions like sadness or fear .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1   11 All_DB of_IO these_DD2 color_NN1 are_VBR very_RG dark_JJ colors_NN2 and_CC these_DD2 colors_NN2 are_VBR usually_RR associated_VVN with_IW negative_JJ emotions_NN2 like_II sadness_NN1 or_CC fear_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1   12 This is what the artist wanted the looker to feel as these colors fill up the majority of the painting still the colors used on the people are different .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1   12 This_DD1 is_VBZ what_DDQ the_AT artist_NN1 wanted_VVD the_AT looker_NN1 to_TO feel_VVI as_CSA these_DD2 colors_NN2 fill_VV0 up_RP the_AT majority_NN1 of_IO the_AT painting_NN1 still_RR the_AT colors_NN2 used_VVN on_II the_AT people_NN are_VBR different_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1   13 The colors of the people are very different as the color are lighter colors and are colors that are in contrast with the dark colors .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1   13 The_AT colors_NN2 of_IO the_AT people_NN are_VBR very_RG different_JJ as_II the_AT color_NN1 are_VBR lighter_JJR colors_NN2 and_CC are_VBR colors_NN2 that_CST are_VBR in_II contrast_NN1 with_IW the_AT dark_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    1   14 These colors serve the purpose of make the characters more prominent in the painting as the character 's colors are contrasting with the background colors .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    1   14 These_DD2 colors_NN2 serve_VV0 the_AT purpose_NN1 of_IO make_VV0 the_AT characters_NN2 more_RGR prominent_JJ in_II the_AT painting_NN1 as_II the_AT character_NN1 's_GE colors_NN2 are_VBR contrasting_VVG with_IW the_AT background_NN1 colors_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   15 The objects painted in Checkmate all show that the game is supernatural and that there something evil about where they are .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   15 The_AT objects_NN2 painted_VVN in_II Checkmate_NN1 all_DB show_VV0 that_CST the_AT game_NN1 is_VBZ supernatural_JJ and_CC that_CST there_EX something_PN1 evil_JJ about_II where_RRQ they_PPHS2 are_VBR ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   16 The place gives off a sense of evil because of the decor of the place that the two men are playing chess in .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   16 The_AT place_NN1 gives_VVZ off_RP a_AT1 sense_NN1 of_IO evil_NN1 because_II21 of_II22 the_AT decor_NN1 of_IO the_AT place_NN1 that_CST the_AT two_MC men_NN2 are_VBR playing_VVG chess_NN1 in_RP@ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   17 The decor are all things that are associated with evil .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   17 The_AT decor_NN1 are_VBR all_DB things_NN2 that_CST are_VBR associated_VVN with_IW evil_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   18 The statues that are located in three corners of the painting are not regular animals .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   18 The_AT statues_NN2 that_CST are_VBR located_VVN in_II three_MC corners_NN2 of_IO the_AT painting_NN1 are_VBR not_XX regular_JJ animals_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   19 The statues ' faces has sharp teeth and bulgy which makes the statues look very repugnant .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   19 The_AT statues_NN2 '_GE faces_NN2 has_VHZ sharp_JJ teeth_NN2 and_CC bulgy_NN1 which_DDQ makes_VVZ the_AT statues_NN2 look_VVI very_RG repugnant_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   20 The painting also have three skulls .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   20 The_AT painting_NN1 also_RR have_VH0 three_MC skulls_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   21 The skulls are located at the table and at the bottom left corner of the painting .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   21 The_AT skulls_NN2 are_VBR located_VVN at_II the_AT table_NN1 and_CC at_II the_AT bottom_JJ left_JJ corner_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   22 The skulls show that the place is evil because skulls are usually associated with death and evil .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   22 The_AT skulls_NN2 show_VV0 that_CST the_AT place_NN1 is_VBZ evil_JJ because_CS skulls_NN2 are_VBR usually_RR associated_VVN with_IW death_NN1 and_CC evil_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   23 This association that these skulls have show the looker that the setting has a very evil presence .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   23 This_DD1 association_NN1 that_CST these_DD2 skulls_NN2 have_VH0 show_NN1 the_AT looker_NN1 that_CST the_AT setting_NN1 has_VHZ a_AT1 very_RG evil_JJ presence_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   24 The chess pieces that the players are playing with show that the game is supernatural .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   24 The_AT chess_NN1 pieces_NN2 that_CST the_AT players_NN2 are_VBR playing_VVG with_IW show_NN1 that_CST the_AT game_NN1 is_VBZ supernatural_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   25 The chess pieces are of magical creatures and of humans which shows that there is something paranormal about the game .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   25 The_AT chess_NN1 pieces_NN2 are_VBR of_IO magical_JJ creatures_NN2 and_CC of_IO humans_NN2 which_DDQ shows_VVZ that_CST there_EX is_VBZ something_PN1 paranormal_JJ about_II the_AT game_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    2   26 This chess match can not be a regular match because if it was then the artist would have no need to make chess pieces of creatures , but could have used just a regular chess set .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    2   26 This_DD1 chess_NN1 match_NN1 can_VM not_XX be_VBI a_AT1 regular_JJ match_NN1 because_CS if_CS it_PPH1 was_VBDZ then_RT the_AT artist_NN1 would_VM have_VHI no_AT need_NN1 to_TO make_VVI chess_NN1 pieces_NN2 of_IO creatures_NN2 ,_, but_CCB could_VM have_VHI used_VVN just_RR a_AT1 regular_JJ chess_NN1 set_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   27 Lastly , the characters in Checkmate all represent something .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   27 Lastly_RR ,_, the_AT characters_NN2 in_II Checkmate_NN1 all_DB represent_VV0 something_PN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   28 The man in the green robe represent evil because of some elements that the man in the green robe have .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   28 The_AT man_NN1 in_II the_AT green_JJ robe_NN1 represent_VV0 evil_NN1 because_II21 of_II22 some_DD elements_NN2 that_CST the_AT man_NN1 in_II the_AT green_JJ robe_NN1 have_VH0 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   29 The first element is that his face is very angular .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   29 The_AT first_MD element_NN1 is_VBZ that_CST his_APPGE face_NN1 is_VBZ very_RG angular_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   30 When looking at all three characters one can see that the face of green robed man is the only face that is angular .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   30 When_CS looking_VVG at_RR21 all_RR22 three_MC characters_NN2 one_MC1 can_VM see_VVI that_CST the_AT face_NN1 of_IO green_JJ robed_JJ@ man_NN1 is_VBZ the_AT only_JJ face_NN1 that_CST is_VBZ angular_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   31 Angular faces are used by painters to show the looker that the character is a villain as an angular face looks uninviting like a villain would be .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   31 Angular_JJ faces_NN2 are_VBR used_VVN by_II painters_NN2 to_TO show_VVI the_AT looker_NN1 that_CST the_AT character_NN1 is_VBZ a_AT1 villain_NN1 as_II an_AT1 angular_JJ face_NN1 looks_VVZ uninviting_JJ like_II a_AT1 villain_NN1 would_VM be_VBI ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   32 The green robed man is also playing as black and black is usually the color that is associated with villains thus the green robed man is evil .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   32 The_AT green_JJ robed_JJ@ man_NN1 is_VBZ also_RR playing_VVG as_RG@ black_JJ and_CC black_NN1@ is_VBZ usually_RR the_AT color_NN1 that_CST is_VBZ associated_VVN with_IW villains_NN2 thus_RR the_AT green_JJ robed_JJ@ man_NN1 is_VBZ evil_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   33 The man in the red shirt represent good as because his facial structure is very similar to the angel and since angels are a force for good that would mean that the man in the red shirt is the good guy .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   33 The_AT man_NN1 in_II the_AT red_JJ shirt_NN1 represent_VV0 good_JJ as_CSA because_CS his_APPGE facial_JJ structure_NN1 is_VBZ very_RG similar_JJ to_II the_AT angel_NN1 and_CC since_CS angels_NN2 are_VBR a_AT1 force_NN1 for_RR21 good_RR22 that_DD1 would_VM mean_VVI that_CST the_AT man_NN1 in_II the_AT red_JJ shirt_NN1 is_VBZ the_AT good_JJ guy_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   34 The man in the red shirt also is playing white in the game and white is usually a holy color which shows that a person is good .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   34 The_AT man_NN1 in_II the_AT red_JJ shirt_NN1 also_RR is_VBZ playing_VVG white_JJ in_II the_AT game_NN1 and_CC white_NN1@ is_VBZ usually_RR a_AT1 holy_JJ color_NN1 which_DDQ shows_VVZ that_CST a_AT1 person_NN1 is_VBZ good_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   35 Lastly , the angel in the painting represent something both men want like power .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   35 Lastly_RR ,_, the_AT angel_NN1 in_II the_AT painting_NN1 represent_VV0 something_PN1 both_RR men_NN2 want_VV0 like_II power_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   36 The chess game is a battle between the two men and so it can be inferred that the men are fighting over the angel .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   36 The_AT chess_NN1 game_NN1 is_VBZ a_AT1 battle_NN1 between_II the_AT two_MC men_NN2 and_CC so_RR it_PPH1 can_VM be_VBI inferred_VVN that_CST the_AT men_NN2 are_VBR fighting_VVG over_II the_AT angel_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   37 The reason for this logic is because the battle between the chess players can not be of good and evil .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   37 The_AT reason_NN1 for_IF this_DD1 logic_NN1 is_VBZ because_CS the_AT battle_NN1 between_II the_AT chess_NN1 players_NN2 can_VM not_XX be_VBI of_IO good_JJ and_CC evil_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    3   38 The battle of good and evil would have made the artist paint a demon not just an angel and so since there is only an angel that is present the looker can guess that the battle is over the angel .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    3   38 The_AT battle_NN1 of_IO good_JJ and_CC evil_NN1 would_VM have_VHI made_VVN the_AT artist_NN1 paint_VVI a_AT1 demon_NN1 not_XX just_RR an_AT1 angel_NN1 and_CC so_RR since_CS there_EX is_VBZ only_RR an_AT1 angel_NN1 that_CST is_VBZ present_JJ the_AT looker_NN1 can_VM guess_VVI that_CST the_AT battle_NN1 is_VBZ over_II the_AT angel_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   39 These analyses all show a piece of the meaning of the painting , but by putting it together the viewer can see the theme of the painting .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   39 These_DD2 analyses_NN2 all_DB show_VV0 a_AT1 piece_NN1 of_IO the_AT meaning_NN1 of_IO the_AT painting_NN1 ,_, but_CCB by_II putting_VVG it_PPH1 together_RL the_AT viewer_NN1 can_VM see_VVI the_AT theme_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   40 The theme is that in an evil world the good guy is not always the winner in a match .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   40 The_AT theme_NN1 is_VBZ that_CST in_II an_AT1 evil_JJ world_NN1 the_AT good_JJ guy_NN1 is_VBZ not_XX always_RR the_AT winner_NN1 in_II a_AT1 match_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   41 This theme is show by first how the room that the characters are in is very evil and the room is an environment .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   41 This_DD1 theme_NN1 is_VBZ show_NN1 by_II first_MD how_RRQ the_AT room_NN1 that_CST the_AT characters_NN2 are_VBR in_RP@ is_VBZ very_RG evil_JJ and_CC the_AT room_NN1 is_VBZ an_AT1 environment_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   42 This environment could be said to represent the world and that the world is evil .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   42 This_DD1 environment_NN1 could_VM be_VBI said_VVN@ to_TO represent_VVI the_AT world_NN1 and_CC that_CST the_AT world_NN1 is_VBZ evil_JJ ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   43 Then by looking at the chess board a view could see that the green robed man is winning the game and he is the villain .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   43 Then_RT by_II looking_VVG at_II the_AT chess_NN1 board_NN1 a_AT1 view_NN1 could_VM see_VVI that_CST the_AT green_JJ robed_JJ@ man_NN1 is_VBZ winning_VVG the_AT game_NN1 and_CC he_PPHS1 is_VBZ the_AT villain_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   44 The faces of the chess players also show that the green robed man is winning .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   44 The_AT faces_NN2 of_IO the_AT chess_NN1 players_NN2 also_RR show_VV0 that_CST the_AT green_JJ robed_JJ@ man_NN1 is_VBZ winning_VVG ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   45 The green robed man is very confident and is only looking at his opponent while the red shirt man is very focused on his next move .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   45 The_AT green_JJ robed_JJ@ man_NN1 is_VBZ very_RG confident_JJ and_CC is_VBZ only_RR looking_VVG at_II his_APPGE opponent_NN1 while_CS the_AT red_JJ shirt_NN1 man_NN1 is_VBZ very_RG focused_JJ@ on_II his_APPGE next_MD move_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   46 This focus shows that the red shirt man does is trying to find a way out but can not .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   46 This_DD1 focus_NN1 shows_VVZ that_CST the_AT red_JJ shirt_NN1 man_NN1 does_VDZ is_VBZ trying_VVG to_TO find_VVI a_AT1 way_NN1 out_RP but_CCB can_VM not_XX ._.
+SENTPOS 2014_4_101_300_337_2 DRAFT A    4   46  In conclusion these element from the painting show that the theme of the painting is that the good guy is not always the winner .
+SENTPOS 2014_4_101_300_337_2 DRAFT B    4   46  In_II conclusion_NN1 these_DD2 element_NN1 from_II the_AT painting_NN1 show_VV0 that_CST the_AT theme_NN1 of_IO the_AT painting_NN1 is_VBZ that_CST the_AT good_JJ guy_NN1 is_VBZ not_XX always_RR the_AT winner_NN1 ._.

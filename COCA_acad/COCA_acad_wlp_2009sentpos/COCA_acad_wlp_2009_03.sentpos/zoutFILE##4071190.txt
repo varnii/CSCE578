@@ -1,0 +1,198 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    0 MANY WRITERS MINE newspapers for potential story ideas .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    0 MANY_DA2 WRITERS_NN2 MINE_NN1 newspapers_NN2 for_IF potential_JJ_NN1 story_NN1 ideas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    1 I was n't consciously setting out to do that when I turned to the local news section of my paper that morning .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    1 I_PPIS1 was_VBDZ n't_XX consciously_RR setting_VVG out_RP to_TO do_VDI that_DD1 when_CS I_PPIS1 turned_VVD to_II the_AT local_JJ news_NN1 section_NN1 of_IO my_APPGE paper_NN1 that_DD1 morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    2 But there was something about the article I could n't shake : It detailed a traveling real estate auction , whose organizers tended to prey on unsuspecting bidders--mainly immigrants and urban citizens of lesser means--by promising them land at rock-bottom prices , sight unseen .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    2 But_CCB there_EX was_VBDZ something_PN1 about_II the_AT article_NN1 I_PPIS1 could_VM n't_XX shake_VVI :_Y It_PPH1 detailed_VVD@ a_AT1 traveling_JJ@ real_JJ estate_NN1 auction_NN1 ,_Y whose_DDQGE organizers_NN2 tended_VVD to_TO prey_VVI on_II_RP@ unsuspecting_JJ bidders--mainly_NN2 immigrants_NN2 and_CC urban_JJ citizens_NN2 of_IO lesser_JJ means--by_NN promising_VVG@ them_PPHO2 land_NN1_VV0@ at_II rock-bottom_JJ prices_NN2 ,_Y sight_VV0@_NN1 unseen_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    3 And of course , in many cases , these opportunities proved too good to be true .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    3 And_CC of_RR21 course_RR22 ,_Y in_II many_DA2 cases_NN2 ,_Y these_DD2 opportunities_NN2 proved_VVD_VVN too_RG good_JJ to_TO be_VBI true_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    4 <p> I sensed a chance to treat in fiction a topic of serious socioeconomic significance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    4 <p>_Y I_PPIS1 sensed_VVD a_AT1 chance_NN1 to_TO treat_VVI in_II fiction_NN1 a_AT1 topic_NN1 of_IO serious_JJ socioeconomic_JJ significance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    5 The unscrupulous auctioneers were exploiting people 's dreams .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    5 The_AT unscrupulous_JJ auctioneers_NN2 were_VBDR exploiting_VVG people_NN 's_GE dreams_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    6 And they were aided by the then-cresting wave of real estate speculation that so many people were trying to ride .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    6 And_CC they_PPHS2 were_VBDR aided_VVN by_II the_AT then-cresting_JJ wave_NN1 of_IO real_JJ estate_NN1 speculation_NN1 that_CST so_RG many_DA2 people_NN were_VBDR trying_VVG to_TO ride_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    7 It seemed perfectly pitched for the moment , and I got down to writing almost immediately .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    7 It_PPH1 seemed_VVD perfectly_RR pitched_VVN_VVD for_IF the_AT moment_NN1 ,_Y and_CC I_PPIS1 got_VVD down_RP to_II writing_VVG_NN1 almost_RR immediately_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    8 <p> I began a short story whose protagonist would be one of those unlucky , exploited buyers ; I saw the antagonist as one of the auctioneers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    8 <p>_Y I_PPIS1 began_VVD a_AT1 short_JJ story_NN1 whose_DDQGE protagonist_NN1 would_VM be_VBI one_MC1 of_IO those_DD2 unlucky_JJ ,_Y exploited_JJ_VVD buyers_NN2 ;_Y I_PPIS1 saw_VVD the_AT antagonist_NN1 as_CSA_II@ one_MC1 of_IO the_AT auctioneers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0    9 The story 's The problem ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0    9 The_AT story_NN1 's_GE The_AT problem_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   10 The story just was n't coming together the way I wanted it to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   10 The_AT story_NN1 just_RR was_VBDZ n't_XX coming_VVG together_RL the_AT way_NN1 I_PPIS1 wanted_VVD it_PPH1 to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   11 At first I followed the traditional approach : Protagonist meets obstacle as represented by antagonist ; conflict ensues and tension develops ; climax occurs ; resolution is made ; and readers come away richer with understanding .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   11 At_RR21 first_RR22 I_PPIS1 followed_VVD the_AT traditional_JJ approach_NN1 :_Y Protagonist_NN1 meets_VVZ obstacle_NN1 as_CSA represented_VVN by_II antagonist_NN1 ;_Y conflict_NN1 ensues_VVZ and_CC tension_NN1 develops_VVZ ;_Y climax_NN1 occurs_VVZ ;_Y resolution_NN1 is_VBZ made_VVN ;_Y and_CC readers_NN2 come_VV0 away_RL_JJ% richer_JJR with_IW understanding_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   12 <p> For some reason , though , I just could n't connect with the piece as it was unfolding .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   12 <p>_Y For_IF some_DD reason_NN1 ,_Y though_CS_RR@ ,_Y I_PPIS1 just_RR could_VM n't_XX connect_VVI with_IW the_AT piece_NN1 as_CSA it_PPH1 was_VBDZ unfolding_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   13 In fact , I soon sensed that the traditional setup was the problem .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   13 In_II fact_NN1 ,_Y I_PPIS1 soon_RR sensed_VVD that_CST the_AT traditional_JJ setup_NN1 was_VBDZ the_AT problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   14 And I realized my own ambivalence about the topic played a role .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   14 And_CC I_PPIS1 realized_VVD my_APPGE own_DA ambivalence_NN1 about_II the_AT topic_NN1 played_VVD_VVN a_AT1 role_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   15 <p> Fact is , I 'm like many Americans in that I pretty much buy into the American dream , or at least the basic idea .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   15 <p>_Y Fact_NN1 is_VBZ ,_Y I_PPIS1 'm_VBM like_II many_DA2 Americans_NN2 in_II_CS21% that_DD1_CS22@ I_PPIS1_MC1% pretty_RG much_RR_DA1 buy_VV0_NN1% into_II the_AT American_JJ dream_NN1 ,_Y or_CC at_RR21 least_RR22 the_AT basic_JJ idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   16 What 's wrong with owning--or for that matter , selling--real estate ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   16 What_DDQ 's_VBZ wrong_JJ_RR@ with_IW owning--or_CC for_IF that_DD1 matter_NN1 ,_Y selling--real_JJ estate_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   17 At the same time , the greedy , grubby , land-grabbing aspect of it is really a turnoff .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   17 At_II the_AT same_DA time_NNT1 ,_Y the_AT greedy_JJ ,_Y grubby_JJ ,_Y land-grabbing_JJ_NN1 aspect_NN1 of_IO it_PPH1 is_VBZ really_RR a_AT1 turnoff_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   18 Consequently , my stagnating short story reflected these simple dichotomies .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   18 Consequently_RR ,_Y my_APPGE stagnating_JJ@_VVG_NN1@ short_JJ story_NN1 reflected_VVD_VVN these_DD2 simple_JJ dichotomies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   19 Struggling would-be purchaser , good !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   19 Struggling_JJ_VVG would-be_JJ purchaser_NN1 ,_Y good_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   20 Greedy salesman , bad !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   20 Greedy_JJ salesman_NN1 ,_Y bad_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   21 I needed an approach that would allow me to investigate Otherwise , I would n't have a story but a screed , as the following passage in an early version indicates .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   21 I_PPIS1 needed_VVD an_AT1 approach_NN1 that_CST_DD1 would_VM allow_VVI me_PPIO1 to_TO investigate_VVI Otherwise_RR ,_Y I_PPIS1 would_VM n't_XX have_VHI a_AT1 story_NN1 but_CCB a_AT1 screed_NN1 ,_Y as_CSA_II the_AT following_JJ passage_NN1 in_II an_AT1 early_JJ version_NN1 indicates_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   22 <p> " You misled me , deliberately , " Wilton said , conscious of his diction , making it as precise and formal as possible .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   22 <p>_Y "_Y You_PPY misled_VVD me_PPIO1 ,_Y deliberately_RR ,_Y "_Y Wilton_NP1 said_VVD ,_Y conscious_JJ of_IO his_APPGE diction_NN1 ,_Y making_VVG it_PPH1 as_RG precise_JJ and_CC formal_JJ as_CSA possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   23 " It is my right to protest , Mr. O'Rourke , to bring my grievance personally to you !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   23 "_Y It_PPH1 is_VBZ my_APPGE right_NN1 to_TO protest_VVI ,_Y Mr._NNB O'Rourke_NP1 ,_Y to_TO bring_VVI my_APPGE grievance_NN1 personally_RR to_II you_PPY !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   24 " <p> " But Mr. D'Angelique " the salesman answered .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   24 "_Y <p>_Y "_Y But_CCB Mr._NNB D'Angelique_NP1 "_Y the_AT salesman_NN1 answered_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   25 He held palms out , but Wilton did not trust the gesture .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   25 He_PPHS1 held_VVD palms_NN2 out_RP ,_Y but_CCB Wilton_NP1 did_VDD not_XX trust_VVI the_AT gesture_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   26 " I 've done you no wrong .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   26 "_Y I_PPIS1 've_VH0 done_VDN you_PPY no_AT wrong_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   27 It pains me to think that you believe I did .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   27 It_PPH1 pains_VVZ% me_PPIO1 to_TO think_VVI that_CST you_PPY believe_VV0 I_PPIS1 did_VDD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   28 " <p> Wilton felt his Adam 's apple bob as the anger coursed through his body .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   28 "_Y <p>_Y Wilton_NP1 felt_VVD his_APPGE Adam_NP1 's_GE apple_NN1 bob_NN as_II_CSA the_AT anger_NN1 coursed_VVN_VVD through_II_RP@ his_APPGE body_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   29 <p> " Now , I have to ask , " the salesman said , his voice falling like a feather into a softer , cajoling register .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   29 <p>_Y "_Y Now_RT ,_Y I_PPIS1 have_VH0 to_TO ask_VVI ,_Y "_Y the_AT salesman_NN1 said_VVD ,_Y his_APPGE voice_NN1 falling_VVG like_II a_AT1 feather_NN1 into_II a_AT1 softer_JJR ,_Y cajoling_VVG_JJ@ register_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   30 " Did you do due diligence ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   30 "_Y Did_VDD you_PPY do_VDI due_JJ diligence_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   31 Did you , " he continued , " do your research ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   31 Did_VDD you_PPY ,_Y "_Y he_PPHS1 continued_VVD ,_Y "_Y do_VD0 your_APPGE research_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   32 " <p> Wilton swallowed ; he could n't speak .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   32 "_Y <p>_Y Wilton_NP1 swallowed_VVD ;_Y he_PPHS1 could_VM n't_XX speak_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   33 To be accused of this--to be portrayed as salesman how much he 'd read , how much time he 'd spent online at the library ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   33 To_TO be_VBI accused_VVN of_IO this--to_DD1 be_VBI portrayed_VVN as_CSA_RG@_II@ salesman_NN1 how_RGQ@_RRQ much_DA1_RR he_PPHS1 'd_VM read_VVI ,_Y how_RGQ@_RRQ much_DA1 time_NNT1 he_PPHS1 'd_VHD spent_VVN online_RR_JJ at_II the_AT library_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   34 This man .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   34 This_DD1 man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   35 He should have to explain himself , to Wilton .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   35 He_PPHS1 should_VM have_VHI to_TO explain_VVI himself_PPX1 ,_Y to_II Wilton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   36 Not the other way around .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   36 Not_XX the_AT other_JJ way_NN1 around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   37 This man was a crook !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   37 This_DD1 man_NN1 was_VBDZ a_AT1 crook_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   38 <p> It just did n't strike me as very original or interesting .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   38 <p>_Y It_PPH1 just_RR did_VDD n't_XX strike_VVI me_PPIO1 as_RG@_CSA_II@ very_RG original_JJ or_CC interesting_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   39 And it did n't seem like something that would engage an editor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   39 And_CC it_PPH1 did_VDD n't_XX seem_VVI like_II something_PN1 that_CST would_VM engage_VVI an_AT1 editor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   40 <p> I decided to break the piece into its parts and approach each from different angles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   40 <p>_Y I_PPIS1 decided_VVD to_TO break_VVI the_AT piece_NN1 into_II its_Z' parts_NN2 and_CC approach_VV0@_NN1 each_DD1 from_II different_JJ angles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   41 First , I wrote from the young salesman 's point of view , as he tries to explain why he 's out there auctioning plots of land to anyone who can put up a percentage of the price .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   41 First_MD ,_Y I_PPIS1 wrote_VVD from_II the_AT young_JJ salesman_NN1 's_GE point_NN1 of_IO view_NN1 ,_Y as_CSA he_PPHS1 tries_VVZ to_TO explain_VVI why_RRQ he_PPHS1 's_VBZ out_RP there_RL auctioning_VVG_JJ@ plots_NN2 of_IO land_NN1 to_II anyone_PN1 who_PNQS can_VM put_VVI up_RP a_AT1 percentage_NN1 of_IO the_AT price_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   42 Then , I made my protagonist a lesser player --in essence turning him into the young salesman 's foe .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   42 Then_RT ,_Y I_PPIS1 made_VVD my_APPGE protagonist_NN1 a_AT1 lesser_JJ player_NN1 --in_NN1 essence_NN1 turning_VVG him_PPHO1 into_II the_AT young_JJ salesman_NN1 's_GE foe_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   43 Still , the story seemed slight .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   43 Still_RR ,_Y the_AT story_NN1 seemed_VVD slight_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   44 <p> So I imagined other buyers and what might happen to them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   44 <p>_Y So_RR I_PPIS1 imagined_VVD other_JJ buyers_NN2 and_CC what_DDQ might_VM happen_VVI to_II@ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   45 And I thought of people who might have already owned land for years , and how they felt about that .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   45 And_CC I_PPIS1 thought_VVD of_IO people_NN who_PNQS might_VM have_VHI already_RR owned_VVN_JJ@_VVD land_NN1 for_IF years_NNT2 ,_Y and_CC how_RRQ they_PPHS2 felt_VVD about_II that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   46 And I thought of someone felt so lucky in getting his own piece of property that he did n't care it was a bog in the middle of nowhere .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   46 And_CC I_PPIS1 thought_VVD of_IO someone_PN1 felt_VVD so_RG_RR lucky_JJ in_II getting_VVG his_APPGE own_DA piece_NN1 of_IO property_NN1 that_CST he_PPHS1 did_VDD n't_XX care_VVI it_PPH1 was_VBDZ a_AT1 bog_NN1 in_II the_AT middle_NN1 of_IO nowhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   47 <p> If that makes it sound like I suddenly had a whole new cast of characters , well , that was exactly the case .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   47 <p>_Y If_CS that_DD1 makes_VVZ it_PPH1 sound_VVI like_CS%_II_RR% I_PPIS1 suddenly_RR had_VHD a_AT1 whole_JJ new_JJ cast_NN1@ of_IO characters_NN2 ,_Y well_RR ,_Y that_DD1_CST was_VBDZ exactly_RR the_AT case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   48 And in drafting the smaller tales of these individuals , one by one , I saw a structure coming into focus that I knew could work .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   48 And_CC in_II drafting_VVG the_AT smaller_JJR tales_NN2 of_IO these_DD2 individuals_NN2 ,_Y one_MC1 by_II one_MC1 ,_Y I_PPIS1 saw_VVD a_AT1 structure_NN1 coming_VVG into_II focus_NN1 that_CST I_PPIS1 knew_VVD could_VM work_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   49 The story in essence became a loosely linked series of first-person vignettes , in which the parties bumped up against one another in encounters that were purposely fleeting , so as to keep the focus on each narrator 's relationship to the " dream .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   49 The_AT story_NN1 in_II essence_NN1 became_VVD a_AT1 loosely_RR linked_JJ_VVN series_NN of_IO first-person_JJ_NN1 vignettes_NN2 ,_Y in_II which_DDQ the_AT parties_NN2 bumped_VVD_VVN up_RP against_II one_PPX121 another_PPX122 in_II encounters_NN2 that_CST were_VBDR purposely_RR fleeting_JJ_VVG ,_Y so_BCL21 as_BCL22 to_TO keep_VVI the_AT focus_NN1 on_II each_DD1 narrator_NN1 's_GE relationship_NN1 to_II the_AT "_Y dream_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   50 " There was no central character , I saw--and that was going to have to be fine .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   50 "_Y There_EX was_VBDZ no_AT central_JJ character_NN1 ,_Y I_ZZ1%_PPIS1_MC1% saw--and_CC that_DD1_CST was_VBDZ going_VVGK to_TO have_VHI to_TO be_VBI fine_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   51 <p> That 's when the work got really hard .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   51 <p>_Y That_DD1 's_VBZ when_RRQ the_AT work_NN1 got_VVD_VVN really_RR hard_JJ_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   52 Squeezing a half-dozen characters of equal importance into a short story proved a challenge .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   52 Squeezing_VVG a_AT1 half-dozen_M characters_NN2 of_IO equal_JJ importance_NN1 into_II a_AT1 short_JJ story_NN1 proved_VVD_VVN a_AT1 challenge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   53 First , the young salesman was receiving too much airtime .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   53 First_MD ,_Y the_AT young_JJ salesman_NN1 was_VBDZ receiving_VVG too_RG much_DA1 airtime_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   54 Then my swindled buyer became too prominent .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   54 Then_RT my_APPGE swindled_JJ@ buyer_NN1 became_VVD too_RG prominent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   55 For a while , the proud owner the middle-aged Italian-American businesswoman .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   55 For_IF a_AT1 while_NNT1@ ,_Y the_AT proud_JJ owner_NN1 the_AT middle-aged_JJ Italian-American_JJ businesswoman_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   56 The only choice was the democratic one : I would give each of these characters equal billing , in a separately labeled section for each , and show them interacting with the secondary characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   56 The_AT only_JJ choice_NN1 was_VBDZ the_AT democratic_JJ one_PN1 :_Y I_PPIS1 would_VM give_VVI each_DD1 of_IO these_DD2 characters_NN2 equal_JJ billing_NN1 ,_Y in_II a_AT1 separately_RR labeled_JJ@_VVD section_NN1 for_IF each_DD1 ,_Y and_CC show_VV0 them_PPHO2 interacting_VVG_JJ with_IW the_AT secondary_JJ_NN1 characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   57 <p> The final challenge ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   57 <p>_Y The_AT final_JJ_NN1 challenge_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   58 Deciding the order of vignettes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   58 Deciding_VVG the_AT order_NN1 of_IO vignettes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   59 It had to begin with the young salesman at the auction , since that section depicts the only act of sale in the story ; it was only logical that a sale kick things off .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   59 It_PPH1 had_VHD to_TO begin_VVI with_IW the_AT young_JJ salesman_NN1 at_II the_AT auction_NN1 ,_Y since_CS that_DD1 section_NN1 depicts_VVZ the_AT only_JJ act_NN1 of_IO sale_NN1 in_II the_AT story_NN1 ;_Y it_PPH1 was_VBDZ only_RR_JJ logical_JJ that_CST a_AT1 sale_NN1 kick_NN1_VV0 things_NN2 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   60 Further , the auction served as a recurring image in the other sections .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   60 Further_RRR_JJR ,_Y the_AT auction_NN1 served_VVN_VVD as_II a_AT1 recurring_JJ image_NN1 in_II the_AT other_JJ sections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   61 Thus , it made sense to start this way and gradually move through the other sections , then wrap up with the happy yet nervous owner looking over his ( less-than-spectacular ) land .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   61 Thus_RR ,_Y it_PPH1 made_VVD sense_NN1 to_TO start_VVI this_DD1 way_NN1 and_CC gradually_RR move_VV0 through_II_RP@ the_AT other_JJ sections_NN2 ,_Y then_RT wrap_VV0 up_RP with_IW the_AT happy_JJ yet_RR nervous_JJ owner_NN1 looking_VVG over_RP_II his_APPGE (_Y less-than-spectacular_JJ )_Y land_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   62 <p> I was finally satisfied with the result : no overtly bad guys , no overtly good guys--but plenty of tension to propel the narrative .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   62 <p>_Y I_PPIS1 was_VBDZ finally_RR satisfied_VVN@_JJ with_IW the_AT result_NN1 :_Y no_UH overtly_RR bad_JJ guys_NN2 ,_Y no_UH overtly_RR good_JJ guys--but_NN2 plenty_PN of_IO tension_NN1 to_TO propel_VVI the_AT narrative_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   63 Better yet , the story accomplished my overall aim : to examine the numerous conflicting facets of the dreams we 're conditioned to dream .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   63 Better_RRR_JJR yet_RR ,_Y the_AT story_NN1 accomplished_VVD_VVN my_APPGE overall_JJ_NN1 aim_NN1 :_Y to_TO examine_VVI the_AT numerous_JJ conflicting_JJ facets_NN2 of_IO the_AT dreams_NN2 we_PPIS2 're_VBR conditioned_VVN to_TO dream_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   64 Only with a multiplicity of : The short story " Dreamland , " in the JMWW Fall/Winter 2006 issue : **30;16571;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   64 Only_RR with_IW a_AT1 multiplicity_NN1 of_IO :_Y The_AT short_JJ story_NN1 "_Y Dreamland_NP1_NN1@ ,_Y "_Y in_II the_AT JMWW_NP1 Fall/Winter_FU 2006_MC issue_NN1_VV0 :_Y **30;16571;TOOLONG_FO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   65 <p> THE PROBLEM : The traditional conflict/resolution approach is too simple and falls flat .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   65 <p>_Y THE_AT PROBLEM_NN1 :_Y The_AT traditional_JJ conflict/resolution_NN1 approach_NN1 is_VBZ too_RG simple_JJ and_CC falls_VVZ_NN2 flat_JJ_NN1_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   66 <p> THE SOLUTION : Broaden the cast of characters and use multiple points of view .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   66 <p>_Y THE_AT SOLUTION_NN1 :_Y Broaden_VV0 the_AT cast_NN1@ of_IO characters_NN2 and_CC use_VV0_NN1 multiple_JJ_NN1 points_NN2 of_IO view_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   67 <p> By Dominic Preziosi <p> Dominic Preziosi 's recent fiction has been in Storyglossia , Front Porch , Thieves Jargon and JMWW 's best-of-2007 print anthology .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   67 <p>_Y By_II Dominic_NP1 Preziosi_NP1_NN1 <p>_Y Dominic_NP1 Preziosi_NP1 's_GE recent_JJ fiction_NN1 has_VHZ been_VBN in_II Storyglossia_NP1 ,_Y Front_JJ_NN1 Porch_NN1 ,_Y Thieves_NN2 Jargon_NN1 and_CC JMWW_NP1 's_GE best-of-2007_MC print_NN1_VV0 anthology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   68 He teaches at Gotham Writers ' Workshop .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   68 He_PPHS1 teaches_VVZ at_II Gotham_NP1 Writers_NN2 '_GE Workshop_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   69 <p> <p> Broadening the scope of a story BEFORE AND AFTER <p> L : Problem In " Dreamland " I sought to examine the concept of home ownership , and what it means for people from differing backgrounds .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   69 <p>_Y <p>_Y Broadening_VVG the_AT scope_NN1 of_IO a_AT1 story_NN1 BEFORE_CS_RT@_II AND_CC AFTER_CS_II <p>_Y L_ZZ1_NP1@ :_Y Problem_NN1 In_II "_Y Dreamland_NP1_NN1@ "_Y I_PPIS1 sought_VVD to_TO examine_VVI the_AT concept_NN1 of_IO home_NN1 ownership_NN1 ,_Y and_CC what_DDQ it_PPH1 means_VVZ for_IF people_NN from_II differing_JJ_VVG backgrounds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   70 But as the short story took shape , I found its scope too narrow--a problem I traced to reliance on the traditional protagonist-vs. -antagonist dynamic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   70 But_CCB as_CSA_II the_AT short_JJ story_NN1 took_VVD shape_NN1 ,_Y I_PPIS1 found_VVD its_Z' scope_NN1 too_RG narrow--a_JJ problem_NN1 I_PPIS1 traced_VVD to_II reliance_NN1 on_II the_AT traditional_JJ protagonist-vs._II -antagonist_JJ_NN1 dynamic_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   71 <p> " If you ask me , Wilton , there are far too many obstacles to letting people own a piece of the pie .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   71 <p>_Y "_Y If_CS you_PPY ask_VV0 me_PPIO1 ,_Y Wilton_NP1 ,_Y there_EX are_VBR far_RR too_RG many_DA2 obstacles_NN2 to_II letting_VVG people_NN own_VVI a_AT1 piece_NN1 of_IO the_AT pie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   72 You mind if I call you Wilton ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   72 You_PPY mind_VV0 if_CS_CSW@ I_PPIS1 call_VV0 you_PPY Wilton_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   73 " <p> Wilton looked at the salesman .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   73 "_Y <p>_Y Wilton_NP1 looked_VVD at_II the_AT salesman_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   74 " to his jacket .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   74 "_Y to_II his_APPGE jacket_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   75 The nametag 's shiny surface reflected back the bright lights of the hotel banquet room in little knife-like points .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   75 The_AT nametag_NN1 's_GE shiny_JJ surface_NN1 reflected_VVD_VVN back_RP the_AT bright_JJ lights_NN2 of_IO the_AT hotel_NN1 banquet_NN1 room_NN1 in_II little_JJ_RR_DA1 knife-like_JJ points_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   76 <p> " The ownership society , " this Adam O'Rourke continued .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   76 <p>_Y "_Y The_AT ownership_NN1 society_NN1 ,_Y "_Y this_DD1 Adam_NP1 O'Rourke_NP1 continued_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   77 " I 'm for it , and very much so .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   77 "_Y I_PPIS1 'm_VBM for_IF_CS% it_PPH1 ,_Y and_CC very_RG much_DA1_RR so_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   78 When it 's yours , you care .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   78 When_CS_RRQ it_PPH1 's_VBZ yours_PPGE ,_Y you_PPY care_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   79 Am I right ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   79 Am_VB0 I_PPIS1 right_RR_VV0% ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   80 " <p> Wilton felt the conversation speeding up and threatening to get away .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   80 "_Y <p>_Y Wilton_NP1 felt_VVD the_AT conversation_NN1 speeding_VVG up_RP and_CC threatening_VVG to_TO get_VVI away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   81 He knew the salesman--Adam--was trying to change the subject .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   81 He_PPHS1 knew_VVD the_AT salesman--Adam--was_VBDZ trying_VVG to_TO change_VVI the_AT subject_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   82 <p> " We do n't want problems , " Adam said .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   82 <p>_Y "_Y We_PPIS2 do_VD0 n't_XX want_VVI problems_NN2 ,_Y "_Y Adam_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   83 " But the fact is , and it pains me to say , the fact is we sometimes make mistakes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   83 "_Y But_CCB the_AT fact_NN1 is_VBZ ,_Y and_CC it_PPH1 pains_VVZ% me_PPIO1 to_TO say_VVI ,_Y the_AT fact_NN1 is_VBZ we_PPIS2 sometimes_RT make_VV0 mistakes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   84 " <p> L : Solution By expanding the cast of characters beyond the traditional protagonist and antagonist , I was able to widen the story 's scope and examine its main theme from a variety of angles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   84 "_Y <p>_Y L_ZZ1_NP1@ :_Y Solution_NN1 By_II expanding_VVG the_AT cast_NN1@ of_IO characters_NN2 beyond_II the_AT traditional_JJ protagonist_NN1 and_CC antagonist_NN1 ,_Y I_PPIS1 was_VBDZ able_JK to_TO widen_VVI the_AT story_NN1 's_GE scope_NN1 and_CC examine_VVI its_Z' main_JJ theme_NN1 from_II a_AT1 variety_NN1 of_IO angles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   85 I used multiple first-person point of view , giving all of my newly created characters--including a land salesman , a businesswoman , and a nervous owner visiting his yet-unseen property--a chance to speak for themselves .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   85 I_PPIS1 used_VVD multiple_JJ first-person_JJ_NN1 point_NN1 of_IO view_NN1 ,_Y giving_VVG all_DB of_IO my_APPGE newly_RR created_VVN_VVD_JJ@ characters--including_NN2 a_AT1 land_NN1 salesman_NN1 ,_Y a_AT1 businesswoman_NN1 ,_Y and_CC a_AT1 nervous_JJ owner_NN1 visiting_VVG his_APPGE yet-unseen_JJ property--a_NN1 chance_NN1 to_TO speak_VVI for_IF themselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   86 <p> But it could be a name in a household .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   86 <p>_Y But_CCB it_PPH1 could_VM be_VBI a_AT1 name_NN1 in_II a_AT1 household_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   87 That 's what I like to think .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   87 That_DD1 's_VBZ what_DDQ I_PPIS1 like_VV0@ to_TO think_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   88 I like to think of Mr. D'Angelique on a better day , once he 's found his piece of the dream and has erected his modest dwelling and is sitting there with his family while a TV hums quietly in the background and snow falls gently on the other side of the window .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   88 I_PPIS1 like_VV0 to_TO think_VVI of_IO Mr._NNB D'Angelique_NP1 on_II a_AT1 better_JJR day_NNT1 ,_Y once_CS@_RR he_PPHS1 's_VBZ_VHZ@ found_VVN his_APPGE piece_NN1 of_IO the_AT dream_NN1 and_CC has_VHZ erected_VVN his_APPGE modest_JJ dwelling_NN1 and_CC is_VBZ sitting_VVG there_RL with_IW his_APPGE family_NN1 while_CS a_AT1 TV_NN1 hums_VVZ_NN2 quietly_RR in_II the_AT background_NN1 and_CC snow_NN1 falls_VVZ_NN2 gently_RR on_II the_AT other_JJ side_NN1 of_IO the_AT window_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   89 So far from where I started , he 'll say to himself , recalling the squalor and steam and filth of Kingston or Lagos or Port au Prince or whatever godforsaken place he escaped from .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   89 So_RG far_RR from_II where_RRQ I_PPIS1 started_VVD ,_Y he_PPHS1 'll_VM say_VVI to_II himself_PPX1 ,_Y recalling_VVG the_AT squalor_NN1 and_CC steam_NN1 and_CC filth_NN1 of_IO Kingston_NP1 or_CC Lagos_NP1 or_CC Port_NP1 au_NP1 Prince_NP1 or_CC whatever_DDQV godforsaken_JJ place_NN1 he_PPHS1 escaped_VVD from_II ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   90 So far from where I started , thanks to Mr. Adam O'Rourke .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   90 So_RG far_RR from_II where_RRQ I_PPIS1 started_VVD ,_Y thanks_NN2 to_II Mr._NNB Adam_NP1 O'Rourke_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   91 <p> I say , " You ca n't live on it , it 's zoned all highway-commercial .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   91 <p>_Y I_PPIS1 say_VV0 ,_Y "_Y You_PPY ca_VM n't_XX live_VVI on_II it_PPH1 ,_Y it_PPH1 's_VBZ zoned_VVN@_JJ all_DB_RR@ highway-commercial_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   92 " I tell him , " It 's too small to build on , " which it is--unless you 're only looking to add space , like me .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   92 "_Y I_PPIS1 tell_VV0 him_PPHO1 ,_Y "_Y It_PPH1 's_VBZ too_RG small_JJ to_TO build_VVI on_RP@ ,_Y "_Y which_DDQ it_PPH1 is--unless_CS you_PPY 're_VBR only_RR looking_VVG to_TO add_VVI space_NN1 ,_Y like_II_VV0@ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   93 ... Even if he could build small commercial , I can see the township calling for a jug-handle a type of intersection and .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   93 ..._... Even_CS21 if_CS22 he_PPHS1 could_VM build_VVI small_JJ commercial_JJ_NN1@ ,_Y I_PPIS1 can_VM see_VVI the_AT township_NN1 calling_VVG for_IF a_AT1 jug-handle_NN1_JJ a_AT1 type_NN1 of_IO intersection_NN1 and_CC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   94 He 'd probably lose a couple of hundred feet of frontage to road reconfiguration alone .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   94 He_PPHS1 'd_VM probably_RR lose_VVI a_AT1 couple_NN1 of_IO hundred_M feet_NN2 of_IO frontage_NN1 to_II road_NN1 reconfiguration_NN1 alone_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   95 <p> ... I ca n't tell if he does n't understand me , or if he does n't believe me .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   95 <p>_Y ..._... I_PPIS1 ca_VM n't_XX tell_VVI if_CSW@_CS he_PPHS1 does_VDZ n't_XX understand_VVI me_PPIO1 ,_Y or_CC if_CS_CSW@ he_PPHS1 does_VDZ n't_XX believe_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   96 I do n't know if I 'd believe me , some woman come traipsing over from the general direction of the flat-roofed warehouse with the big plumbing supply sign .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   96 I_PPIS1 do_VD0 n't_XX know_VVI if_CS_CSW@ I_PPIS1 'd_VM believe_VVI me_PPIO1 ,_Y some_DD woman_NN1 come_VV0_VVN@ traipsing_VVG over_RP from_II the_AT general_JJ_NN1 direction_NN1 of_IO the_AT flat-roofed_JJ_NN1 warehouse_NN1 with_IW the_AT big_JJ plumbing_NN1 supply_NN1_VV0 sign_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   97 He might think it 's all a bunch of you-know-what , just to get him to sell .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   97 He_PPHS1 might_VM think_VVI it_PPH1 's_VBZ all_DB_RR@ a_AT1 bunch_NN1 of_IO you-know-what_NN1 ,_Y just_RR to_TO get_VVI him_PPHO1 to_TO sell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  A    0   98 <p> --Dominic Preziosi
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071190 COCA  B    0   98 <p>_Y --Dominic_NP1 Preziosi_NP1

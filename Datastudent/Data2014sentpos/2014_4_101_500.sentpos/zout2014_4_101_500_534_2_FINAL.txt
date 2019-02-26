@@ -1,0 +1,118 @@
+SENTPOS 2014_4_101_500_534_2 FINAL A    0    0 This painting depicts The Battle of Shiloh that took place on April 6 1862 in Shiloh , TN .
+SENTPOS 2014_4_101_500_534_2 FINAL B    0    0 This_DD1 painting_NN1 depicts_VVZ The_AT Battle_NN1 of_IO Shiloh_NN1 that_CST took_VVD place_NN1 on_II April_NPM1 6_MC 1862_MC in_II Shiloh_NP1 ,_, TN_NP1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    0    1 This particular text is a piece of mural painted by Theophile Poilpot showing the horrors of battle .
+SENTPOS 2014_4_101_500_534_2 FINAL B    0    1 This_DD1 particular_JJ text_NN1 is_VBZ a_AT1 piece_NN1 of_IO mural_NN1 painted_VVN by_II Theophile_NP1 Poilpot_NP1 showing_VVG the_AT horrors_NN2 of_IO battle_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    0    2 It shows the overwhelmed Union Army stopping and making a stand against the Confederate Army at a crossroads .
+SENTPOS 2014_4_101_500_534_2 FINAL B    0    2 It_PPH1 shows_VVZ the_AT overwhelmed_JJ Union_NN1 Army_NN1 stopping_VVG and_CC making_VVG a_AT1 stand_NN1 against_II the_AT Confederate_NN1 Army_NN1 at_II a_AT1 crossroads_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    0    3 It also shows how the Union army was able to reform its lines and counter attack , which then overwhelmed the Confederate lines .
+SENTPOS 2014_4_101_500_534_2 FINAL B    0    3 It_PPH1 also_RR shows_VVZ how_RRQ the_AT Union_NN1 army_NN1 was_VBDZ able_JK to_TO reform_VVI its_APPGE lines_NN2 and_CC counter_VVI attack_NN1 ,_, which_DDQ then_RT overwhelmed_VVN the_AT Confederate_NN1 lines_NN2 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    0    4 At first glance , it is obvious that the artist wanted to give the viewer a glimpse of war but a closer look at the details reveal symbols of deeper meanings .
+SENTPOS 2014_4_101_500_534_2 FINAL B    0    4 At_II first_MD glance_NN1 ,_, it_PPH1 is_VBZ obvious_JJ that_CST the_AT artist_NN1 wanted_VVD to_TO give_VVI the_AT viewer_NN1 a_AT1 glimpse_NN1 of_IO war_NN1 but_CCB a_AT1 closer_JJR look_NN1 at_II the_AT details_NN2 reveal_VV0 symbols_NN2 of_IO deeper_JJR meanings_NN2 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    0    5 The barren trees , the disjunct between the horror of war and advertisement for farm equipment , and clearly defined company lines all represent a different symbolic aspect in the painting that together , evoke varying emotions from the observer .
+SENTPOS 2014_4_101_500_534_2 FINAL B    0    5 The_AT barren_JJ trees_NN2 ,_, the_AT disjunct_JJ between_II the_AT horror_NN1 of_IO war_NN1 and_CC advertisement_NN1 for_IF farm_NN1 equipment_NN1 ,_, and_CC clearly_RR defined_VVN company_NN1 lines_NN2 all_DB represent_VV0 a_AT1 different_JJ symbolic_JJ aspect_NN1 in_II the_AT painting_NN1 that_CST together_RL ,_, evoke_VV0 varying_JJ emotions_NN2 from_II the_AT observer_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1    6 If we look closely at the trees , we can see that they look almost dead , they are leafless , bark less , and all drooping .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1    6 If_CS we_PPIS2 look_VV0 closely_RR at_II the_AT trees_NN2 ,_, we_PPIS2 can_VM see_VVI that_CST they_PPHS2 look_VV0 almost_RR dead_JJ ,_, they_PPHS2 are_VBR leafless_JJ ,_, bark_VV0 less_RRR ,_, and_CC all_DB drooping_JJ ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1    7 They are a symbol of death and destruction in war and give us the visual representation of this .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1    7 They_PPHS2 are_VBR a_AT1 symbol_NN1 of_IO death_NN1 and_CC destruction_NN1 in_II war_NN1 and_CC give_VV0 us_PPIO2 the_AT visual_JJ representation_NN1 of_IO this_DD1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1    8 This is so important that our eyes immediately focus on the massive oak right in the middle of the painting .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1    8 This_DD1 is_VBZ so_RG important_JJ that_CST our_APPGE eyes_NN2 immediately_RR focus_VV0 on_II the_AT massive_JJ oak_NN1 right_RR in_II the_AT middle_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1    9 Oak trees are usually large and strong .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1    9 Oak_NN1 trees_NN2 are_VBR usually_RR large_JJ and_CC strong_JJ ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   10 They are beautiful and seemingly everlasting .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   10 They_PPHS2 are_VBR beautiful_JJ and_CC seemingly_RR everlasting_JJ ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   11 However , the oak in this painting does not look like an oak tree that represents strength and durability .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   11 However_RR ,_, the_AT oak_NN1 in_II this_DD1 painting_NN1 does_VDZ not_XX look_VVI like_II an_AT1 oak_NN1 tree_NN1 that_CST represents_VVZ strength_NN1 and_CC durability_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   12 The painter illustrated the mighty oak as lifeless and defeated , just like the old Confederate soldier sitting underneath it on its fallen branch .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   12 The_AT painter_NN1 illustrated_VVD the_AT mighty_JJ oak_NN1 as_CSA lifeless_JJ and_CC defeated_VVD ,_, just_RR like_II the_AT old_JJ Confederate_NN1 soldier_NN1 sitting_VVG underneath_RL it_PPH1 on_II its_APPGE fallen_JJ% branch_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   13 These two reflect each other , the tree represents the soldier ; broken , down and defeated .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   13 These_DD2 two_MC reflect_VV0 each_PPX221 other_PPX222 ,_, the_AT tree_NN1 represents_VVZ the_AT soldier_NN1 ;_; broken_JJ ,_, down_RP and_CC defeated_VVD ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   14 When we look beyond the dead and lifeless trees , we see the live trees in the distance .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   14 When_CS we_PPIS2 look_VV0 beyond_II the_AT dead_JJ and_CC lifeless_JJ trees_NN2 ,_, we_PPIS2 see_VV0 the_AT live_JJ trees_NN2 in_II the_AT distance_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   15 This also shows the death and horrors of war , but as an isolated event .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   15 This_DD1 also_RR shows_VVZ the_AT death_NN1 and_CC horrors_NN2 of_IO war_NN1 ,_, but_CCB as_II an_AT1 isolated_JJ event_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   16 The country was torn by war , but the Northeast and Western parts of the country that were still busy and bustling as represented by the live tress in the upper and left parts of the painting .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   16 The_AT country_NN1 was_VBDZ torn_VVN by_II war_NN1 ,_, but_CCB the_AT Northeast_ND1 and_CC Western_JJ parts_NN2 of_IO the_AT country_NN1 that_CST were_VBDR still_RR busy_JJ and_CC bustling_JJ as_CSA represented_VVN by_II the_AT live_JJ tress_NN1 in_II the_AT upper_JJ and_CC left_JJ parts_NN2 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    1   17 These places that were not scorched by the war but surrounded the war-torn , broken and dead part of the country .
+SENTPOS 2014_4_101_500_534_2 FINAL B    1   17 These_DD2 places_NN2 that_CST were_VBDR not_XX scorched_VVN by_II the_AT war_NN1 but_CCB surrounded_VVD the_AT war-torn_JJ ,_, broken_JJ and_CC dead_JJ part_NN1 of_IO the_AT country_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   18 One of the most interesting things about this painting is the fact that is being used as an advertisement .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   18 One_MC1 of_IO the_AT most_RGT interesting_JJ things_NN2 about_II this_DD1 painting_NN1 is_VBZ the_AT fact_NN1 that_CST is_VBZ being_VBG used_VVN as_II an_AT1 advertisement_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   19 Below the title of the painting , we see the phrase " The McCormick machines come victoriously out of every contest , and without a scratch . "
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   19 Below_II the_AT title_NN1 of_IO the_AT painting_NN1 ,_, we_PPIS2 see_VV0 the_AT phrase_NN1 "_" The_AT McCormick_NP1 machines_NN2 come_VV0 victoriously_RR out_II21 of_II22 every_AT1 contest_NN1 ,_, and_CC without_IW a_AT1 scratch_NN1 ._. "_"
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   20 This line helps direct the painting at an audience of farmers , more so the large plantation owners that lost their slaves because of the outcome of the war and helps explain the toughness and resilience of this machinery .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   20 This_DD1 line_NN1 helps_VVZ direct_RR@ the_AT painting_NN1 at_II an_AT1 audience_NN1 of_IO farmers_NN2 ,_, more_RGR so_RR the_AT large_JJ plantation_NN1 owners_NN2 that_CST lost_VVD their_APPGE slaves_NN2 because_II21 of_II22 the_AT outcome_NN1 of_IO the_AT war_NN1 and_CC helps_NN2@ explain_VVI the_AT toughness_NN1 and_CC resilience_NN1 of_IO this_DD1 machinery_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   21 In the painting , we see a McCormick Harvester in the shattered building right in front ; this is an obvious addition to the original work .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   21 In_II the_AT painting_NN1 ,_, we_PPIS2 see_VV0 a_AT1 McCormick_NP1 Harvester_NN1 in_II the_AT shattered_JJ building_NN1 right_NN1 in_II front_NN1 ;_; this_DD1 is_VBZ an_AT1 obvious_JJ addition_NN1 to_II the_AT original_JJ work_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   22 The addition shows harvester unharmed and spotless even in the midst of battle .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   22 The_AT addition_NN1 shows_VVZ harvester_NN1 unharmed_JJ and_CC spotless_JJ even_RR in_II the_AT midst_NN1 of_IO battle_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   23 This is actually an advertising genius for the time .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   23 This_DD1 is_VBZ actually_RR an_AT1 advertising_NN1 genius_NN1 for_IF the_AT time_NNT1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   24 The harvester is shown in one of the most famous battles of a war that just ended ; the work and advertisement came out in 1885 .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   24 The_AT harvester_NN1 is_VBZ shown_VVN in_II one_MC1 of_IO the_AT most_RGT famous_JJ battles_NN2 of_IO a_AT1 war_NN1 that_CST just_RR ended_VVN ;_; the_AT work_NN1 and_CC advertisement_NN1 came_VVD out_RP in_II 1885_MC ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   25 The placement of the harvester directly below the confederate soldier and the tree naturally draw ours eyes to it .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   25 The_AT placement_NN1 of_IO the_AT harvester_NN1 directly_RR below_II the_AT confederate_NN1 soldier_NN1 and_CC the_AT tree_NN1 naturally_RR draw_VV0 ours_PPGE eyes_VVZ% to_II it_PPH1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   26 In addition , the fact that it is bright red helps us see it and by using a bright warm color it make it visual appealing because warm colors make people feel psychologically happy and for one brief moment it make us feel happy by taking us away from the battle .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   26 In_RR21 addition_RR22 ,_, the_AT fact_NN1 that_CST it_PPH1 is_VBZ bright_JJ red_NN1 helps_VVZ us_PPIO2 see_VVI it_PPH1 and_CC by_II using_VVG a_AT1 bright_JJ warm_JJ color_NN1 it_PPH1 make_VV0 it_PPH1 visual_JJ appealing_JJ because_CS warm_JJ colors_NN2 make_VV0 people_NN feel_VVI psychologically_RR happy_JJ and_CC for_IF one_MC1 brief_JJ moment_NN1 it_PPH1 make_VV0 us_PPIO2 feel_VVI happy_JJ by_II taking_VVG us_PPIO2 away_II21 from_II22 the_AT battle_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   27 It makes us feel like this machine can really make it through anything and might actually last forever .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   27 It_PPH1 makes_VVZ us_PPIO2 feel_VVI like_II this_DD1 machine_NN1 can_VM really_RR make_VVI it_PPH1 through_II anything_PN1 and_CC might_VM actually_RR last_VVI forever_RT ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    2   28 Again , adverting genius for this time .
+SENTPOS 2014_4_101_500_534_2 FINAL B    2   28 Again_RT ,_, adverting_VVG genius_NN1 for_IF this_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   29 Another major point that we notice is the lines of opposing sides .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   29 Another_DD1 major_JJ point_NN1 that_CST we_PPIS2 notice_VV0 is_VBZ the_AT lines_NN2 of_IO opposing_JJ sides_NN2 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   30 We see a well-formed and organized Union line on the right side of the road and a breaking , discombobulated , and defeated Confederate line on the left side of the road .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   30 We_PPIS2 see_VV0 a_AT1 well-formed_NN1 and_CC organized_VVD Union_NP1 line_NN1 on_II the_AT right_JJ side_NN1 of_IO the_AT road_NN1 and_CC a_AT1 breaking_NN1@ ,_, discombobulated_VVD ,_, and_CC defeated_JJ Confederate_NN1 line_NN1 on_II the_AT left_JJ side_NN1 of_IO the_AT road_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   31 This is very interesting also , since the Union did not rally and turn the tide of the battle until the second day of the battle .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   31 This_DD1 is_VBZ very_RG interesting_JJ also_RR ,_, since_CS the_AT Union_NP1 did_VDD not_XX rally_VVI and_CC turn_VVI the_AT tide_NN1 of_IO the_AT battle_NN1 until_CS the_AT second_MD day_NNT1 of_IO the_AT battle_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   32 These lines represent the overall ending of war .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   32 These_DD2 lines_NN2 represent_VV0 the_AT overall_JJ ending_NN1 of_IO war_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   33 The war left the South dead and broken .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   33 The_AT war_NN1 left_VVD the_AT South_ND1 dead_JJ and_CC broken_JJ ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   34 We see the Union line decimating the Rebel line with a volley of shots from their rifles ; we also see shots from the cannon landing right in the middle of the Southern line .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   34 We_PPIS2 see_VV0 the_AT Union_NN1 line_NN1 decimating_VVG the_AT Rebel_NN1 line_NN1 with_IW a_AT1 volley_NN1 of_IO shots_NN2 from_II their_APPGE rifles_NN2 ;_; we_PPIS2 also_RR see_VV0 shots_NN2 from_II the_AT cannon_NN landing_VVG right_RR in_II the_AT middle_NN1 of_IO the_AT Southern_JJ line_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   35 This depiction really shows the overall outcome of the war and shows what the North did to the South after The Civil War .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   35 This_DD1 depiction_NN1 really_RR shows_VVZ the_AT overall_JJ outcome_NN1 of_IO the_AT war_NN1 and_CC shows_NN2 what_DDQ the_AT North_ND1 did_VDD to_II the_AT South_ND1 after_II The_AT Civil_JJ War_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   36 They just kept shooting even after the other side had been defeated .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   36 They_PPHS2 just_RR kept_VVD shooting_VVG even_RR after_II the_AT other_JJ side_NN1 had_VHD been_VBN defeated_VVN ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   37 Another thing we noticed about the line is that the Southern side as no leadership , whereas the Northern side have many key leaders on horseback overlooking the battle , guiding and directly the troops on the ground .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   37 Another_DD1 thing_NN1 we_PPIS2 noticed_VVD about_II the_AT line_NN1 is_VBZ that_CST the_AT Southern_JJ side_NN1 as_II no_AT leadership_NN1 ,_, whereas_CS the_AT Northern_JJ side_NN1 have_VH0 many_DA2 key_JJ leaders_NN2 on_II horseback_NN1 overlooking_VVG the_AT battle_NN1 ,_, guiding_JJ and_CC directly_RR the_AT troops_NN2 on_II the_AT ground_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    3   38 This shows the prominent leadership that that Union had during not just this battle but also the whole war .
+SENTPOS 2014_4_101_500_534_2 FINAL B    3   38 This_DD1 shows_VVZ the_AT prominent_JJ leadership_NN1 that_CST that_DD1 Union_NN1 had_VHD during_II not_XX just_RR this_DD1 battle_NN1 but_CCB also_RR the_AT whole_JJ war_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   39 The painting is demanding the viewer to observe and understand the ugly face of war .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   39 The_AT painting_NN1 is_VBZ demanding_VVG the_AT viewer_NN1 to_TO observe_VVI and_CC understand_VVI the_AT ugly_JJ face_NN1 of_IO war_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   40 At the beginning of the war , many Americans still had a very naive view of war and the real effect it had on soldiers .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   40 At_II the_AT beginning_NN1 of_IO the_AT war_NN1 ,_, many_DA2 Americans_NN2 still_RR had_VHN@ a_AT1 very_RG naive_JJ view_NN1 of_IO war_NN1 and_CC the_AT real_JJ effect_NN1 it_PPH1 had_VHD on_II soldiers_NN2 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   41 People were going to battlefields to spend the day as spectators .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   41 People_NN were_VBDR going_VVG to_II battlefields_NN2 to_TO spend_VVI the_AT day_NNT1 as_CSA spectators_NN2 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   42 This painting served to give a more realistic view of battle .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   42 This_DD1 painting_NN1 served_VVD to_TO give_VVI a_AT1 more_RGR realistic_JJ view_NN1 of_IO battle_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   43 The point of view seems to be from higher ground , much like the hilltops from where spectators watched .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   43 The_AT point_NN1 of_IO view_NN1 seems_VVZ to_TO be_VBI from_II higher_JJR ground_NN1 ,_, much_RR like_II the_AT hilltops_NN2 from_II where_RRQ spectators_NN2 watched_VVD ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   44 However , instead of picnic baskets and fallen men seen only through opera glasses , the artist shows the war in detail , down to the overturned horse and structures torn to pieces .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   44 However_RR ,_, instead_II21 of_II22 picnic_NN1 baskets_NN2 and_CC fallen_VVN men_NN2 seen_VVN only_RR through_II opera_NN1 glasses_NN2 ,_, the_AT artist_NN1 shows_VVZ the_AT war_NN1 in_II detail_NN1 ,_, down_RP to_II the_AT overturned_JJ@ horse_NN1 and_CC structures_NN2 torn_VVN to_II pieces_NN2 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   45 This detail serves to evoke strong emotions from the viewer , from sadness and disgust to curiosity .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   45 This_DD1 detail_NN1 serves_VVZ to_TO evoke_VVI strong_JJ emotions_NN2 from_II the_AT viewer_NN1 ,_, from_II sadness_NN1 and_CC disgust_NN1 to_II curiosity_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   46 The hopelessness and distress that emanates from the mural causes the viewer to sympathize with the soldiers and their plight .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   46 The_AT hopelessness_NN1 and_CC distress_NN1 that_CST emanates_VVZ from_II the_AT mural_NN1 causes_VVZ the_AT viewer_NN1 to_TO sympathize_VVI with_IW the_AT soldiers_NN2 and_CC their_APPGE plight_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   47 In some , it might even cause shame and the desire to shade the eyes from the undesirable sight .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   47 In_II some_DD ,_, it_PPH1 might_VM even_RR cause_VVI shame_NN1 and_CC the_AT desire_NN1 to_TO shade_VVI the_AT eyes_NN2 from_II the_AT undesirable_JJ sight_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    4   48 However , the gory detail also warrants further examination and the viewer could become entranced in the complexity and ugliness .
+SENTPOS 2014_4_101_500_534_2 FINAL B    4   48 However_RR ,_, the_AT gory_JJ detail_NN1 also_RR warrants_VVZ further_JJR@ examination_NN1 and_CC the_AT viewer_NN1 could_VM become_VVI entranced_VVN@ in_II the_AT complexity_NN1 and_CC ugliness_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    5   49 The combination of symbolism in the mural send messages that reflect the state of the country at the time of the Civil War .
+SENTPOS 2014_4_101_500_534_2 FINAL B    5   49 The_AT combination_NN1 of_IO symbolism_NN1 in_II the_AT mural_NN1 send_VV0 messages_NN2 that_CST reflect_VV0 the_AT state_NN1 of_IO the_AT country_NN1 at_II the_AT time_NNT1 of_IO the_AT Civil_JJ War_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    5   50 It not only broadcasts the very real nature of war but also , in subtle ways , the attitudes of citizens at the time with the transformation of the painting into an advertisement and its attempt to set the ugly face of war at the forefront .
+SENTPOS 2014_4_101_500_534_2 FINAL B    5   50 It_PPH1 not_XX only_RR broadcasts_VVZ@ the_AT very_RG real_JJ nature_NN1 of_IO war_NN1 but_CCB also_RR ,_, in_II subtle_JJ ways_NN2 ,_, the_AT attitudes_NN2 of_IO citizens_NN2 at_II the_AT time_NNT1 with_IW the_AT transformation_NN1 of_IO the_AT painting_NN1 into_II an_AT1 advertisement_NN1 and_CC its_APPGE attempt_NN1 to_TO set_VVI the_AT ugly_JJ face_NN1 of_IO war_NN1 at_II the_AT forefront_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    5   51 The artist invites the observer in for a spectator 's view but with a front row seat .
+SENTPOS 2014_4_101_500_534_2 FINAL B    5   51 The_AT artist_NN1 invites_VVZ the_AT observer_NN1 in_RP@ for_IF a_AT1 spectator_NN1 's_GE view_NN1 but_CCB with_IW a_AT1 front_JJ row_NN1 seat_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   52 Poilpot , Theophile .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   52 Poilpot_VV0 ,_, Theophile_NP1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   53 Battle of Shiloh - April 6th 1862. 1885 .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   53 Battle_NN1 of_IO Shiloh_NP1 -_- April_NPM1 6th_MD 1862._MC 1885_MC ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   54 The Carolina Reader .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   54 The_AT Carolina_NP1 Reader_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   55 Fall 2014 ed .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   55 Fall_VV0 2014_MC ed_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   56 USC Dept. of English .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   56 USC_NP1 Dept._NN1 of_IO English_NN1 ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   57 Plymouth : Hayden McNeil , 2014. 210 .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   57 Plymouth_NP1 :_: Hayden_NP1 McNeil_NP1 ,_, 2014._MC 210_MC ._.
+SENTPOS 2014_4_101_500_534_2 FINAL A    6   57  Print .
+SENTPOS 2014_4_101_500_534_2 FINAL B    6   57  Print_VV0 ._.

@@ -1,0 +1,220 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    0 AS THE CRIME-FICTION book reviewer for The Boston Globe , I have the great luxury of picking the books I review from among the more than 80 titles published in hardcover each month .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    0 AS_II_CSA THE_AT CRIME-FICTION_JJ_NN1 book_NN1 reviewer_NN1 for_IF The_AT Boston_NP1 Globe_NN1 ,_Y I_PPIS1 have_VH0 the_AT great_JJ luxury_NN1 of_IO picking_VVG the_AT books_NN2 I_PPIS1 review_VV0 from_II among_II the_AT more_DAR than_CSN 80_MC titles_NN2 published_VVN in_II hardcover_NN1_VV0 each_DD1 month_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    1 Best of all , I do n't have to keep reading a book I do n't like .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    1 Best_JJT_RRT of_IO all_DB ,_Y I_PPIS1 do_VD0 n't_XX have_VHI to_TO keep_VVI reading_VVG a_AT1 book_NN1 I_PPIS1 do_VD0 n't_XX like_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    2 I might start as many as 20 novels to find the three I 'll review in my monthly " On Crime " column .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    2 I_PPIS1 might_VM start_VVI as_RG many_DA2 as_CSA 20_MC novels_NN2 to_TO find_VVI the_AT three_MC I_PPIS1 'll_VM review_VVI in_II_RP@ my_APPGE monthly_JJ_NN1@ "_Y On_II Crime_NN1 "_Y column_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    3 I 'm not put off if there 's no murder or violence in the first 10 pages .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    3 I_PPIS1 'm_VBM not_XX put_VVN off_RP if_CS_CSW@ there_EX 's_VBZ no_AT murder_NN1 or_CC violence_NN1 in_II the_AT first_MD 10_MC pages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    4 As long as a story captures my interest , I 'll keep reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    4 As_CS31 long_CS32 as_CS33 a_AT1 story_NN1 captures_VVZ my_APPGE interest_NN1 ,_Y I_PPIS1 'll_VM keep_VVI reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    5 An engaging narrator or sympathetic main character or intriguing situation can do it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    5 An_AT1 engaging_JJ narrator_NN1 or_CC sympathetic_JJ main_JJ character_NN1 or_CC intriguing_JJ situation_NN1 can_VM do_VDI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    6 As E.B. White said , " I know when something is right because bells begin ringing and lights flash .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    6 As_CSA_II@ E.B._NP1 White_NP1 said_VVD ,_Y "_Y I_PPIS1 know_VV0 when_RRQ something_PN1 is_VBZ right_RR_JJ because_CS bells_NN2 begin_VV0 ringing_NN1_VVG and_CC lights_NN2 flash_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    7 " Mystery readers have short attention spans , so a crime novel has to set those bells ringing and lights flashing early and often .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    7 "_Y Mystery_NN1 readers_NN2 have_VH0 short_JJ attention_NN1 spans_NN2_VVZ ,_Y so_RR_CS@_RG a_AT1 crime_NN1 novel_NN1 has_VHZ to_TO set_VVI those_DD2 bells_NN2 ringing_VVG_NN1 and_CC lights_NN2 flashing_VVG early_JJ_RR and_CC often_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    8 Literary agents , editors , librarians and booksellers are looking for books they can enthusiastically represent , publish , acquire or clamoring for attention , why give them a reason to stop reading yours ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    8 Literary_JJ agents_NN2 ,_Y editors_NN2 ,_Y librarians_NN2 and_CC booksellers_NN2 are_VBR looking_VVG for_IF books_NN2 they_PPHS2 can_VM enthusiastically_RR represent_VVI ,_Y publish_VV0 ,_Y acquire_VV0 or_CC clamoring_VVG for_IF attention_NN1 ,_Y why_RRQ give_VVI them_PPHO2 a_AT1 reason_NN1 to_TO stop_VVI reading_NN1 yours_PPGE ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0    9 For authors trying to write a mystery that gets past " hello " with readers , I offer these insights , plus those of a few other equally opinionated folks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0    9 For_IF authors_NN2 trying_VVG to_TO write_VVI a_AT1 mystery_NN1 that_CST_DD1 gets_VVZ past_JJ_II "_Y hello_NN1% "_Y with_IW readers_NN2 ,_Y I_PPIS1 offer_VV0 these_DD2 insights_NN2 ,_Y plus_II those_DD2 of_IO a_AT1 few_DA2 other_JJ equally_RR opinionated_VVD_JJ@ folks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   10 Why I put ' em down Nothing happens .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   10 Why_RRQ I_PPIS1 put_VV0_VVD '_"@ em_FU down_II@_JJ% Nothing_PN1 happens_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   11 The book introduces a bunch of characters and paints a vivid setting , but nothing happens that makes me want to keep reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   11 The_AT book_NN1 introduces_VVZ a_AT1 bunch_NN1 of_IO characters_NN2 and_CC paints_VVZ a_AT1 vivid_JJ setting_NN1 ,_Y but_CCB nothing_PN1 happens_VVZ that_CST_DD1 makes_VVZ me_PPIO1 want_VVI to_TO keep_VVI reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   12 I do n't care how gorgeous the writing is ; at the end of the opening scene , I need to be hooked and asking myself , " And what happens next ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   12 I_PPIS1 do_VD0 n't_XX care_VVI how_RGQ@_RRQ gorgeous_JJ the_AT writing_NN1 is_VBZ ;_Y at_II the_AT end_NN1 of_IO the_AT opening_NN1_JJ@ scene_NN1 ,_Y I_PPIS1 need_VV0 to_TO be_VBI hooked_VVN and_CC asking_VVG myself_PPX1 ,_Y "_Y And_CC what_DDQ happens_VVZ next_MD ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   13 " Who are all these people ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   13 "_Y Who_PNQS are_VBR all_DB these_DD2 people_NN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   14 Only the most skilled of authors can open with a crowd scene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   14 Only_RR the_AT most_RGT skilled_JJ of_IO authors_NN2 can_VM open_VVI with_IW a_AT1 crowd_NN1 scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   15 I need to be anchored at the outset in an interesting situation and a few key characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   15 I_PPIS1 need_VV0 to_TO be_VBI anchored_VVN at_II the_AT outset_NN1 in_II an_AT1 interesting_JJ situation_NN1 and_CC a_AT1 few_DA2 key_JJ characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   16 If I find myself having to make a list of the character names and taking notes about who 's who , you 've lost me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   16 If_CS I_PPIS1 find_VV0 myself_PPX1 having_VHG to_TO make_VVI a_AT1 list_NN1 of_IO the_AT character_NN1 names_NN2 and_CC taking_VVG notes_NN2 about_II who_PNQS 's_VBZ_VHZ@ who_PNQS ,_Y you_PPY 've_VH0 lost_VVN me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   17 Backstory , backstory , backstory .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   17 Backstory_NP1@_JJ ,_Y backstory_JJ ,_Y backstory_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   18 The story barely gains velocity when the author stops it their past .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   18 The_AT story_NN1 barely_RR gains_VVZ@_NN2 velocity_NN1 when_CS_RRQ the_AT author_NN1 stops_VVZ it_PPH1 their_APPGE past_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   19 Even if it 's in dialogue ( " Did you know , Bob ... " ) or in a dramatic flashback , if I do n't yet care enough about these characters and the current situation , I wo n't keep reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   19 Even_CS21 if_CS22 it_PPH1 's_VBZ in_II dialogue_NN1 (_Y "_Y Did_VDD you_PPY know_VVI ,_Y Bob_NP1 ..._... "_Y )_Y or_CC in_II a_AT1 dramatic_JJ flashback_NN1 ,_Y if_CS I_PPIS1 do_VD0 n't_XX yet_RR care_VVI enough_RR_DD about_II these_DD2 characters_NN2 and_CC the_AT current_JJ situation_NN1 ,_Y I_PPIS1 wo_VM n't_XX keep_VVI reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   20 Too many spinning plates .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   20 Too_RG many_DA2 spinning_JJ@ plates_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   21 Multiple viewpoints and multiple plots seem to be de rigueur these days , especially in thrillers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   21 Multiple_JJ_NN1 viewpoints_NN2 and_CC multiple_JJ_NN1 plots_NN2 seem_VV0 to_TO be_VBI de_JJ21 rigueur_JJ22 these_DD2 days_NNT2 ,_Y especially_RR in_II thrillers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   22 That 's because tension and suspense are hyped when the reader knows more than any individual character does .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   22 That_DD1 's_VBZ because_CS tension_NN1 and_CC suspense_NN1 are_VBR hyped_VVN@ when_CS_RRQ the_AT reader_NN1 knows_VVZ more_DAR_RRR than_CSN any_DD individual_JJ character_NN1 does_VDZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   23 But writer beware .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   23 But_CCB writer_NN1 beware_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   24 By about page 25 , if I ca n't tell who the main character is and what this book is going to be about , then I give up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   24 By_II_RP% about_II page_NN1 25_MC ,_Y if_CS I_PPIS1 ca_VM n't_XX tell_VVI who_PNQS the_AT main_JJ character_NN1 is_VBZ and_CC what_DDQ this_DD1 book_NN1 is_VBZ going_VVGK to_TO be_VBI about_RP@_II ,_Y then_RT I_PPIS1 give_VV0 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   25 Desperately seeking a likable character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   25 Desperately_RR seeking_VVG a_AT1 likable_JJ character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   26 It 's laudable when a crime novel feels real , and this is more likely when the hero seems flawed and complex .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   26 It_PPH1 's_VBZ laudable_JJ when_CS a_AT1 crime_NN1 novel_NN1 feels_VVZ real_JJ ,_Y and_CC this_DD1 is_VBZ more_RGR likely_JJ_RR@ when_CS_RRQ the_AT hero_NN1 seems_VVZ flawed_JJ and_CC complex_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   27 However , a protagonist who is despicable and lacks any redeeming features puts me off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   27 However_RR ,_Y a_AT1 protagonist_NN1 who_PNQS is_VBZ despicable_JJ and_CC lacks_VVZ any_DD redeeming_JJ@_VVG features_NN2 puts_VVZ me_PPIO1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   28 Part of what keeps me reading is the need to learn what 's going to happen to a character I 'm rooting for .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   28 Part_NN1 of_IO what_DDQ keeps_VVZ me_PPIO1 reading_NN1_VVG is_VBZ the_AT need_NN1 to_TO learn_VVI what_DDQ 's_VBZ going_VVGK to_TO happen_VVI to_II a_AT1 character_NN1 I_PPIS1 'm_VBM rooting_VVG for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   29 Misfiring in a Janet Evanovich novel : a hip , funny narrator who zings one-liners and whose take on the world is unique and laugh-out-loud funny .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   29 Misfiring_VVG_JJ@_NP1@ in_II a_AT1 Janet_NP1 Evanovich_NP1 novel_NN1_JJ :_Y a_AT1 hip_NN1 ,_Y funny_JJ narrator_NN1 who_PNQS zings_NN2 one-liners_NN2 and_CC whose_DDQGE take_NN1% on_RP_II% the_AT world_NN1 is_VBZ unique_JJ and_CC laugh-out-loud_JJ funny_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   30 It turns out that writing funny and sustaining that humor is much harder than it looks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   30 It_PPH1 turns_VVZ out_RP that_CST_DD1 writing_VVG_NN1 funny_JJ and_CC sustaining_VVG that_DD1_CST humor_NN1 is_VBZ much_RR_DA1 harder_RRR_JJR than_CSN it_PPH1 looks_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   31 An arch voice can soon feel annoying .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   31 An_AT1 arch_JJ_NN1 voice_NN1 can_VM soon_RR feel_VVI annoying_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   32 Stock sidekicks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   32 Stock_NN1_NP1@ sidekicks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   33 We 've all seen the mouthy reporter and the gay florist and the Eddie Murphy or Roseanne Barr clone -- and on it goes through the clichd sidekicks that show up over and over in crime novels .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   33 We_PPIS2 've_VH0 all_RR@_DB seen_VVN the_AT mouthy_JJ_NN1 reporter_NN1 and_CC the_AT gay_JJ florist_NN1 and_CC the_AT Eddie_NP1 Murphy_NP1 or_CC Roseanne_NP1 Barr_NP1 clone_NN1_VV0 --_NN1_JJ and_CC on_II it_PPH1 goes_VVZ through_II the_AT clichd_NN1 sidekicks_NN2 that_CST show_VV0 up_RP over_RP_II and_CC over_RP in_II crime_NN1 novels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   34 In this case , familiarity breeds contempt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   34 In_II this_DD1 case_NN1 ,_Y familiarity_NN1 breeds_NN2_VVZ@ contempt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   35 If I 'd but known ... Opening a book with a scene that creates ominous foreshadowing can work , but I much prefer when the scene ending does n't telegraph that message with 20/20 hindsight .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   35 If_CS I_PPIS1 'd_VM but_CCB known_VVN_JJ@ ..._... Opening_VVG a_AT1 book_NN1 with_IW a_AT1 scene_NN1 that_CST_DD1 creates_VVZ ominous_JJ foreshadowing_NN1@ can_VM work_VVI ,_Y but_CCB I_PPIS1 much_RR prefer_VV0 when_RRQ_CS the_AT scene_NN1 ending_NN1 does_VDZ n't_XX telegraph_NN1 that_CST_DD1 message_NN1 with_IW 20/20_MF hindsight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   36 When I read , " If only I 'd known what was about to happen , ... " it does n't make me want to keep reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   36 When_CS_RRQ I_PPIS1 read_VV0_VVD ,_Y "_Y If_CS only_RR I_PPIS1 'd_VHD known_VVN what_DDQ was_VBDZ about_RPK to_TO happen_VVI ,_Y ..._... "_Y it_PPH1 does_VDZ n't_XX make_VVI me_PPIO1 want_VVI to_TO keep_VVI reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   37 Over the top .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   37 Over_II the_AT top_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   38 Readers expect murders and mayhem in a mystery .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   38 Readers_NN2 expect_VV0 murders_NN2 and_CC mayhem_NN1 in_II a_AT1 mystery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   39 But the writer has to earn my trust before I 'm willing to be , sex or extended profanity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   39 But_CCB the_AT writer_NN1 has_VHZ to_TO earn_VVI my_APPGE trust_NN1 before_CS I_PPIS1 'm_VBM willing_JJ to_TO be_VBI ,_Y sex_NN1 or_CC extended_JJ@_VVD_VVN profanity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   40 And if the victim is a helpless woman , child or animal , then no amount of character development and good writing is going to get me there .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   40 And_CC if_CS_CSW@ the_AT victim_NN1 is_VBZ a_AT1 helpless_JJ woman_NN1 ,_Y child_NN1 or_CC animal_NN1 ,_Y then_RT no_AT amount_NN1 of_IO character_NN1 development_NN1 and_CC good_JJ writing_NN1 is_VBZ going_VVGK to_TO get_VVI me_PPIO1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   41 Who 's talking ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   41 Who_PNQS 's_VBZ talking_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   42 Trying to emulate edgy literary novelists , some authors eschew attribution .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   42 Trying_VVG to_TO emulate_VVI edgy_JJ literary_JJ novelists_NN2 ,_Y some_DD authors_NN2 eschew_VV0 attribution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   43 Line after line of disembodied dialogue appears and readers must puzzle out who says what .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   43 Line_NN1_VV0@ after_II_CS line_NN1 of_IO disembodied_JJ@ dialogue_NN1 appears_VVZ and_CC readers_NN2 must_VM puzzle_VVI out_RP who_PNQS says_VVZ what_DDQ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   44 It 's the kind of mystery I do n't need .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   44 It_PPH1 's_VBZ the_AT kind_NN1 of_IO mystery_NN1 I_PPIS1 do_VD0 n't_XX need_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   45 Repetition compulsion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   45 Repetition_NN1 compulsion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   46 As writers , we 've had it drilled into our heads to " Show , do n't tell .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   46 As_CSA writers_NN2 ,_Y we_PPIS2 've_VH0 had_VHN it_PPH1 drilled_VVN into_II our_APPGE heads_NN2 to_II "_Y Show_NN1 ,_Y do_VD0 n't_XX tell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   47 " But for some , that 's gotten revised to " Show and then tell .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   47 "_Y But_II21_CCB for_II22_IF some_DD ,_Y that_DD1 's_VBZ gotten_VVN revised_VVN to_II "_Y Show_NN1 and_CC then_RT tell_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   48 " As in : " The crying girl looked up and smiled .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   48 "_Y As_CSA in_II :_Y "_Y The_AT crying_NN1_JJ@ girl_NN1 looked_VVD_VVN up_RP and_CC smiled_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   49 She seemed relieved .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   49 She_PPHS1 seemed_VVD relieved_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   50 " The description of what the girl does shows her relief .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   50 "_Y The_AT description_NN1 of_IO what_DDQ the_AT girl_NN1 does_VDZ shows_VVZ her_APPGE relief_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   51 The writer does n't need to hammer her " relief " home .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   51 The_AT writer_NN1 does_VDZ n't_XX need_VVI to_TO hammer_VVI her_APPGE "_Y relief_NN1 "_Y home_RL_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   52 Nits R Us .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   52 Nits_NN2 R_ZZ1_NP1@ Us_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   53 Finally , I 'll mention some idiosyncrasies that drive me nuts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   53 Finally_RR ,_Y I_PPIS1 'll_VM mention_VVI some_DD idiosyncrasies_NN2 that_CST drive_VV0 me_PPIO1 nuts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   54 These include sliding viewpoint ; overuse of adverbs ( particularly heinous when coupled with the word " " churbled " or " murmured " or " hissed " instead of " said " or " asked " ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   54 These_DD2 include_VV0 sliding_JJ_VVG viewpoint_NN1 ;_Y overuse_NN1_VV0 of_IO adverbs_NN2 (_Y particularly_RR heinous_JJ when_CS coupled_VVN with_IW the_AT word_NN1 "_Y "_Y churbled_VVD "_Y or_CC "_Y murmured_VVD_JJ@ "_Y or_CC "_Y hissed_VVD "_Y instead_II21_CS21% of_II22_CS22 "_Y said_JJ%_VVN@ "_Y or_CC "_Y asked_VVD_VVN@ "_Y )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   55 I admit , these idiosyncrasies wo n't drive the average reader nuts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   55 I_PPIS1 admit_VV0 ,_Y these_DD2 idiosyncrasies_NN2 wo_VM n't_XX drive_VVI the_AT average_JJ_NN1 reader_NN1 nuts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   56 But like me , many agents , editors , librarians and booksellers care , too -- and they 're the gatekeepers who can get a manuscript published .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   56 But_CCB like_II_VV0@ me_PPIO1 ,_Y many_DA2 agents_NN2 ,_Y editors_NN2 ,_Y librarians_NN2 and_CC booksellers_NN2 care_VV0_NN1 ,_Y too_RG --_ZZ and_CC they_PPHS2 're_VBR the_AT gatekeepers_NN2 who_PNQS can_VM get_VVI a_AT1 manuscript_NN1 published_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   57 By Hallie Ephron Hallie Ephron is an author , writing teacher and book reviewer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   57 By_II Hallie_NP1 Ephron_NP1 Hallie_NP1 Ephron_NP1_NN1 is_VBZ an_AT1 author_NN1 ,_Y writing_VVG_NN1 teacher_NN1 and_CC book_NN1 reviewer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   58 Her solo debut novel is Never Tell a Lie , from William Morrow .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   58 Her_APPGE solo_NN1_JJ@ debut_NN1 novel_NN1 is_VBZ Never_RR Tell_VV0 a_AT1 Lie_NN1@ ,_Y from_II William_NP1 Morrow_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   59 Her how-to book , Writing and Selling Your Mystery Novel , earned an Edgar nomination .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   59 Her_PPHO1_APPGE how-to_RRQ book_NN1 ,_Y Writing_VVG_NN1 and_CC Selling_VVG Your_APPGE Mystery_NN1 Novel_NN1 ,_Y earned_VVD_VVN an_AT1 Edgar_NP1 nomination_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   60 Web : www.hallieephron.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   60 Web_NN1 :_Y www.hallieephron.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   61 Blog : www.jungleredwriters.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   61 Blog_VV0_NP1@_NN1 :_Y www.jungleredwriters.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   62 What makes them stop reading a mystery Lesa Holstine , librarian An avid mystery reader who reviews crime novels for Library Journal and other publications , she manages the Velma Teague branch library in Glendale , Ariz .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   62 What_DDQ makes_VVZ them_PPHO2 stop_VVI reading_VVG a_AT1 mystery_NN1 Lesa_NP1 Holstine_NP1 ,_Y librarian_NN1 An_AT1 avid_JJ mystery_NN1 reader_NN1 who_PNQS reviews_VVZ crime_NN1 novels_NN2 for_IF Library_NN1 Journal_NN1 and_CC other_JJ publications_NN2 ,_Y she_PPHS1 manages_VVZ the_AT Velma_NP1 Teague_NP1 branch_NN1 library_NN1 in_II Glendale_NP1 ,_Y Ariz_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   63 She loves what she calls " the puzzle aspect " of a mystery , not " the thrill or the chase .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   63 She_PPHS1 loves_VVZ what_DDQ she_PPHS1 calls_VVZ "_Y the_AT puzzle_NN1 aspect_NN1 "_Y of_IO a_AT1 mystery_NN1 ,_Y not_XX "_Y the_AT thrill_NN1 or_CC the_AT chase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   64 " She adds , " Give me good meaty characters who could be real people unlikable protagonist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   64 "_Y She_PPHS1 adds_VVZ ,_Y "_Y Give_VV0 me_PPIO1 good_JJ_RR% meaty_JJ characters_NN2 who_PNQS could_VM be_VBI real_JJ people_NN unlikable_JJ protagonist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   65 ( " I have to care what happens to the main character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   65 (_Y "_Y I_PPIS1_ZZ1@ have_VH0 to_TO care_VVI what_DDQ happens_VVZ to_II@ the_AT main_JJ character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   66 " ) * A main character who is helpless and does n't actively solve the mystery .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   66 "_Y )_Y *_FU A_ZZ1 main_JJ character_NN1 who_PNQS is_VBZ helpless_JJ and_CC does_VDZ n't_XX actively_RR solve_VVI the_AT mystery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   67 * A stale plot ; a book that seems to be written for the market .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   67 *_FU A_ZZ1 stale_JJ plot_NN1 ;_Y a_AT1 book_NN1 that_CST_DD1 seems_VVZ to_TO be_VBI written_VVN for_IF the_AT market_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   68 ( " Bestselling authors and their plots get stale .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   68 (_Y "_Y Bestselling_JJ authors_NN2 and_CC their_APPGE plots_NN2 get_VV0 stale_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   69 " ) * A character who is " too stupid to live .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   69 "_Y )_Y *_FU A_ZZ1_AT1@ character_NN1 who_PNQS is_VBZ "_Y too_RG stupid_JJ to_TO live_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   70 " ( " Women who set themselves up to be victims .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   70 "_Y (_Y "_Y Women_NN2 who_PNQS set_VV0_VVD themselves_PPX2 up_RP to_TO be_VBI victims_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   71 " ) * A story line that " abuses the reader 's trust .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   71 "_Y )_Y *_FU A_ZZ1_AT1@ story_NN1 line_NN1 that_CST_DD1 "_Y abuses_VVZ the_AT reader_NN1 's_GE trust_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   72 " ( " I 'm one of those people who 've quit when an animal gets killed or when a series author killed off a favorite character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   72 "_Y (_Y "_Y I_PPIS1 'm_VBM one_MC1 of_IO those_DD2 people_NN who_PNQS 've_VH0 quit_VVN when_CS_RRQ an_AT1 animal_NN1 gets_VVZ killed_JJ_VVN or_CC when_CS_RRQ a_AT1 series_NN author_NN1 killed_VVD_VVN off_RP a_AT1 favorite_JJ_NN1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   73 " ) Kate Mattes , ex-bookseller Kate Mattes opened one of the first independent mystery bookstores , Kate 's Mystery Books , in Cambridge , Mass. , some 20 years ago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   73 "_Y )_Y Kate_NP1 Mattes_NN2 ,_Y ex-bookseller_JJ_NN1 Kate_NP1 Mattes_NN2 opened_VVD one_MC1 of_IO the_AT first_MD independent_JJ mystery_NN1 bookstores_NN2_VVZ ,_Y Kate_NP1 's_GE Mystery_NN1 Books_NN2 ,_Y in_II Cambridge_NP1 ,_Y Mass._NP1 ,_Y some_DD 20_MC years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   74 ( It closed this year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   74 (_Y It_PPH1 closed_VVD this_DD1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   75 ) In that capacity , she says , she 'd receive piles of advance copies , giving her " the luxury of being able to put a What would stop her : * The jacket copy touts " the next Dan Brown !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   75 )_Y In_II that_DD1 capacity_NN1 ,_Y she_PPHS1 says_VVZ ,_Y she_PPHS1 'd_VM receive_VVI piles_NN2 of_IO advance_NN1_JJ@ copies_NN2 ,_Y giving_VVG her_PPHO1 "_Y the_AT luxury_NN1 of_IO being_VBG able_JK to_TO put_VVI a_AT1 What_DDQ would_VM stop_VVI her_PPHO1 :_Y *_FU The_AT jacket_NN1 copy_NN1 touts_NN2_VVZ% "_Y the_AT next_MD Dan_NP1 Brown_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   76 " ( " I do n't want to read another book just like what someone else wrote , even if I like that author .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   76 "_Y (_Y "_Y I_PPIS1 do_VD0 n't_XX want_VVI to_TO read_VVI another_DD1 book_NN1 just_RR like_II what_DDQ someone_PN1 else_RR wrote_VVD ,_Y even_CS21 if_CS22 I_PPIS1 like_VV0 that_DD1 author_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   77 " ) * Nothing grabs her on the opening page .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   77 "_Y )_Y *_FU Nothing_PN1 grabs_VVZ her_PPHO1 on_II the_AT opening_NN1_JJ@ page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   78 ( " Whether it 's the narrator or a character , or the atmosphere , or the setting , something has to catch my interest and make me curious ; it does n't even have to be about the murder .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   78 (_Y "_Y Whether_CSW it_PPH1 's_VBZ the_AT narrator_NN1 or_CC a_AT1 character_NN1 ,_Y or_CC the_AT atmosphere_NN1 ,_Y or_CC the_AT setting_NN1 ,_Y something_PN1 has_VHZ to_TO catch_VVI my_APPGE interest_NN1 and_CC make_VVI me_PPIO1 curious_JJ ;_Y it_PPH1 does_VDZ n't_XX even_RR have_VHI to_TO be_VBI about_II the_AT murder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   79 " ) * Being thrust into the mind of a villain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   79 "_Y )_Y *_FU Being_VBG thrust_VVN into_II the_AT mind_NN1 of_IO a_AT1 villain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   80 ( " That will turn me off , especially if it is a serial killer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   80 (_Y "_Y That_DD1 will_VM turn_VVI me_PPIO1 off_RP ,_Y especially_RR if_CS it_PPH1 is_VBZ a_AT1 serial_JJ_NN1 killer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   81 " ) * A beginning with graphic violence rendered in grisly detail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   81 "_Y )_Y *_FU A_ZZ1 beginning_VVG_NN1 with_IW graphic_JJ violence_NN1 rendered_VVN in_II grisly_JJ detail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   82 ( " I need to know more about the characters before I 'm willing to take in that kind of detail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   82 (_Y "_Y I_PPIS1_ZZ1@ need_VV0 to_TO know_VVI more_RRR_DAR about_II the_AT characters_NN2 before_CS I_PPIS1 'm_VBM willing_JJ to_TO take_VVI in_II that_DD1 kind_NN1 of_IO detail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   83 " ) * Taking too long to get going .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   83 "_Y )_Y *_FU Taking_VVG too_RG long_JJ_RR to_TO get_VVI going_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   84 ( " Writers can take too long setting the table , especially in their first book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   84 (_Y "_Y Writers_NN2 can_VM take_VVI too_RG long_RR setting_VVG the_AT table_NN1 ,_Y especially_RR in_II their_APPGE first_MD book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   85 That does n't mean there has to be interested enough to get to the murder .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   85 That_DD1 does_VDZ n't_XX mean_VVI there_RL_EX has_VHZ to_TO be_VBI interested_JJ_VVN% enough_RR_DD to_TO get_VVI to_II the_AT murder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   86 " ) Kelley Ragland , editor Executive editor of Minotaur Books , Kelley Ragland has been selecting and editing mystery novels for 15 years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   86 "_Y )_Y Kelley_NP1@_NN1 Ragland_NP1 ,_Y editor_NN1 Executive_NN1 editor_NN1 of_IO Minotaur_NN1 Books_NN2 ,_Y Kelley_NP1 Ragland_NP1 has_VHZ been_VBN selecting_VVG and_CC editing_VVG_NN1 mystery_NN1 novels_NN2 for_IF 15_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   87 Each year agents send her hundreds of manuscripts ; of those she acquires two or three unpublished writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   87 Each_DD1 year_NNT1 agents_NN2 send_VV0 her_APPGE hundreds_M of_IO manuscripts_NN2 ;_Y of_IO those_DD2 she_PPHS1 acquires_VVZ two_MC or_CC three_MC unpublished_JJ writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   88 Her recent books include Rizzo 's War by Lou Manfredo and Evil at Heart by Chelsea Cain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   88 Her_APPGE recent_JJ books_NN2 include_VV0 Rizzo_NP1 's_GE War_NN1 by_II Lou_NP1 Manfredo_NP1_NN1 and_CC Evil_NN1_JJ at_II Heart_NN1 by_II Chelsea_NP1 Cain_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   89 She wants a book that starts fast and keeps her riveted .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   89 She_PPHS1 wants_VVZ a_AT1 book_NN1 that_CST_DD1 starts_VVZ fast_JJ_RR and_CC keeps_VVZ her_PPHO1 riveted_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   90 What stops her : * Too much introductory material , background information , or one-by-one introductions to the main characters complete with description .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   90 What_DDQ stops_VVZ her_PPHO1 :_Y *_FU Too_RR@_RG much_RR_DA1 introductory_JJ material_NN1 ,_Y background_NN1 information_NN1 ,_Y or_CC one-by-one_MC introductions_NN2 to_II the_AT main_JJ characters_NN2 complete_JJ with_IW description_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   91 ( " A savvy writer jumps right into things and feathers in the necessary information as she moves along .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   91 (_Y "_Y A_ZZ1 savvy_JJ writer_NN1 jumps_VVZ right_RR_NN1_JJ into_II things_NN2 and_CC feathers_NN2 in_II the_AT necessary_JJ information_NN1 as_CSA she_PPHS1 moves_VVZ along_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   92 I like to feel I am joining a story after it 's already started .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   92 I_PPIS1 like_VV0 to_TO feel_VVI I_PPIS1 am_VBM joining_VVG a_AT1 story_NN1 after_CS_II it_PPH1 's_VBZ already_RR started_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   93 " ) * A narrator or narrative voice that 's not compelling or too distant .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   93 "_Y )_Y *_FU A_ZZ1_AT1@ narrator_NN1 or_CC narrative_JJ_NN1 voice_NN1 that_CST_DD1 's_VBZ not_XX compelling_VVG_JJ or_CC too_RG distant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   94 ( " I am looking to fall in love , to be engaged .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   94 (_Y "_Y I_PPIS1 am_VBM looking_VVG to_TO fall_VVI in_II love_NN1 ,_Y to_TO be_VBI engaged_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   95 " ) * A start that lacks tension and fails to build momentum .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   95 "_Y )_Y *_FU A_ZZ1 start_VV0 that_CST_DD1 lacks_VVZ tension_NN1 and_CC fails_VVZ to_TO build_VVI momentum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   96 ( " A reader needs to or will soon be something important at stake .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   96 (_Y "_Y A_ZZ1_AT1 reader_NN1 needs_VVZ_NN2 to_TO or_CC will_VM soon_RR be_VBI something_PN1 important_JJ at_II stake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   97 " ) * Typographical , grammatical or factual errors in the text .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   97 "_Y )_Y *_FU Typographical_JJ_NP1 ,_Y grammatical_JJ or_CC factual_JJ errors_NN2 in_II the_AT text_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   98 Janet Reid , literary agent Literary agent Janet Reid spent 15 years in book publicity before becoming an agent .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   98 Janet_NP1 Reid_NP1 ,_Y literary_JJ agent_NN1 Literary_JJ agent_NN1 Janet_NP1 Reid_NP1 spent_VVD 15_MC years_NNT2 in_II book_NN1 publicity_NN1 before_II becoming_VVG an_AT1 agent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0   99 Working now with FinePrint Literary Management in New York , her recent books include Even by Andrew Grant and The Breach by Patrick Lee .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0   99 Working_VVG now_RT with_IW FinePrint_NP1_NN1 Literary_JJ Management_NN1 in_II New_NP1 York_NP1 ,_Y her_APPGE recent_JJ books_NN2 include_VV0 Even_RR by_II Andrew_NP1 Grant_NP1 and_CC The_AT Breach_NN1 by_II Patrick_NP1 Lee_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  100 What stops her : * No immediate action or decision happening .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  100 What_DDQ stops_VVZ her_PPHO1 :_Y *_FU No_AT immediate_JJ action_NN1 or_CC decision_NN1 happening_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  101 ( " I liken this to writers including the overture to the musical in their novel rather than opening when the curtain actually goes up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  101 (_Y "_Y I_PPIS1_ZZ1@ liken_VV0 this_DD1 to_II writers_NN2 including_II the_AT overture_NN1 to_II the_AT musical_JJ_NN1@ in_II their_APPGE novel_NN1_JJ rather_II21 than_II22 opening_VVG_NN1 when_RRQ_CS the_AT curtain_NN1 actually_RR goes_VVZ up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  102 " ) * What 's happening is so ordinary that it 's boring .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  102 "_Y )_Y *_FU What_DDQ 's_VBZ happening_VVG_NN1 is_VBZ so_RG_RR ordinary_JJ that_CST it_PPH1 's_VBZ boring_JJ_VVG@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  103 ( " This is where ' fresh and new ' come in. " ) * A dull narrator 's voice or uninteresting characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  103 (_Y "_Y This_DD1 is_VBZ where_RRQ_CS '_GE fresh_JJ and_CC new_JJ '_GE come_VV0 in._NNU "_Y )_Y *_FU A_ZZ1 dull_JJ narrator_NN1 's_GE voice_NN1 or_CC uninteresting_JJ characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  104 ( Voice and character can " keep me reading even if nothing is happening .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  104 (_Y Voice_NN1 and_CC character_NN1 can_VM "_Y keep_VV0 me_PPIO1 reading_VVG_NN1 even_CS21 if_CS22 nothing_PN1 is_VBZ happening_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  105 " ) * Backstory that crops up in the opening chapter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  105 "_Y )_Y *_FU Backstory_JJ that_CST crops_NN2 up_RP in_II the_AT opening_NN1_JJ@ chapter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  106 ( " Backstory is important , but placement is crucial .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  106 (_Y "_Y Backstory_NP1@_JJ is_VBZ important_JJ ,_Y but_CCB placement_NN1 is_VBZ crucial_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  107 " ) * Killing the dog .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  107 "_Y )_Y *_FU Killing_NN1 the_AT dog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  108 ( " Do stuff wrong .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  108 (_Y "_Y Do_VD0 stuff_NN1_VV0@ wrong_NN1@_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  A    0  109 ( For instance , " the Willamette River flowing south ; eight digit phone numbers in 1934 ; 50 stars on the flag in 1950. " ) -- H.E.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080328 COCA  B    0  109 (_Y For_REX21 instance_REX22 ,_Y "_Y the_AT Willamette_NP1 River_NNL1 flowing_VVG_JJ south_ND1 ;_Y eight_MC digit_NN1 phone_NN1 numbers_NN2 in_II 1934_MC ;_Y 50_MC stars_NN2 on_II the_AT flag_NN1 in_II 1950._MC "_Y )_Y --_ZZ H.E._NP1

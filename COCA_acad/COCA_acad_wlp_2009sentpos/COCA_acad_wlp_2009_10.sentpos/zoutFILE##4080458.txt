@@ -1,0 +1,94 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    0 The branchial apparatus , which gives rise to a wide array of structures that originate in the cervical area , is organized into arches , pouches ( endoderm ) , and clefts ( ectoderm ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    0 The_AT branchial_JJ apparatus_NN1 ,_Y which_DDQ gives_VVZ rise_NN1 to_II a_AT1 wide_JJ array_NN1 of_IO structures_NN2 that_CST originate_VV0 in_II_RP@ the_AT cervical_JJ area_NN1 ,_Y is_VBZ organized_VVN into_II arches_NN2 ,_Y pouches_NN2 (_Y endoderm_NN1_VV0 )_Y ,_Y and_CC clefts_NN2 (_Y ectoderm_NN1_VV0 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    1 Developmental abnormalities of this apparatus area common cause of congenital lateral neck masses .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    1 Developmental_JJ abnormalities_NN2 of_IO this_DD1 apparatus_NN1 area_NN1 common_JJ cause_NN1 of_IO congenital_JJ lateral_JJ neck_NN1 masses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    2 Most often these anomalies are seen in the pediatric population , accounting for 17% of all pediatric cervical masses , n1 but they also may present at a much later age .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    2 Most_RGT often_RR these_DD2 anomalies_NN2 are_VBR seen_VVN in_II the_AT pediatric_JJ population_NN1 ,_Y accounting_VVG for_IF 17%_NNU of_IO all_DB pediatric_JJ cervical_JJ masses_NN2 ,_Y n1_FO but_CCB they_PPHS2 also_RR may_VM present_VVI at_II a_AT1 much_RR later_JJR age_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    3 Most patients present with an intermittent mucoid discharge from a sinus opening in the neck or an acute infection in the lower part of neck with mucopurulent discharge .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    3 Most_DAT patients_NN2 present_VV0@_NN1_JJ with_IW an_AT1 intermittent_JJ mucoid_JJ_NN1 discharge_NN1_VV0 from_II a_AT1 sinus_NN1 opening_VVG_NN1 in_II the_AT neck_NN1 or_CC an_AT1 acute_JJ infection_NN1 in_II the_AT lower_JJR part_NN1 of_IO neck_NN1 with_IW mucopurulent_JJ discharge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    4 A 15-year-old boy presented with a history of whitish discharge from a small opening on the right lower third of his neck since birth .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    4 A_AT1_ZZ1 15-year-old_JJ boy_NN1 presented_VVN_VVD with_IW a_AT1 history_NN1 of_IO whitish_JJ discharge_NN1 from_II a_AT1 small_JJ opening_NN1 on_II the_AT right_NN1_RR_JJ lower_RRR@_JJR third_MD of_IO his_APPGE neck_NN1 since_CS_II@ birth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    5 On examination , a small opening was seen on the right side of the neck at the junction of the middle and lower third , just anterior to the sternocleidomastoid muscle .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    5 On_II examination_NN1 ,_Y a_AT1 small_JJ opening_NN1 was_VBDZ seen_VVN on_II the_AT right_JJ side_NN1 of_IO the_AT neck_NN1 at_II the_AT junction_NN1 of_IO the_AT middle_NN1_JJ and_CC lower_RRR@_JJR third_MD ,_Y just_RR anterior_JJ to_II the_AT sternocleidomastoid_JJ_NN1 muscle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    6 When pressed , it discharged a thick , whitish material .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    6 When_CS pressed_VVN ,_Y it_PPH1 discharged_VVD@_VVN a_AT1 thick_JJ ,_Y whitish_JJ material_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    7 On pharyngoscopy , no internal opening was visualized .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    7 On_II pharyngoscopy_NN1 ,_Y no_AT internal_JJ opening_NN1 was_VBDZ visualized_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    8 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    8 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0    9 Fistulography was performed for confirmation , in anteroposterior , oblique , and lateral projection under image-intensifier guidance ( figure ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0    9 Fistulography_NN1_NP1@ was_VBDZ performed_VVN for_IF confirmation_NN1 ,_Y in_II anteroposterior_NN1_JJ ,_Y oblique_JJ_NN1@ ,_Y and_CC lateral_JJ projection_NN1 under_II_RG@ image-intensifier_JJ_NN1 guidance_NN1 (_Y figure_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   10 It revealed a long tract extending from the skin surface and traveling up posteriorly and cranially , entering the lateral wall of the oropharynx in the tonsillar bed .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   10 It_PPH1 revealed_VVD a_AT1 long_JJ tract_NN1_VV0 extending_VVG from_II the_AT skin_NN1 surface_NN1 and_CC traveling_VVG up_RP posteriorly_RR and_CC cranially_RR ,_Y entering_VVG the_AT lateral_JJ wall_NN1 of_IO the_AT oropharynx_NN1 in_II the_AT tonsillar_JJ bed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   11 During the procedure the patient tasted dye shortly after it was injected , leading to a diagnosis of complete branchial fistula .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   11 During_II the_AT procedure_NN1 the_AT patient_NN1 tasted_VVD_VVN dye_NN1 shortly_RR after_CS it_PPH1 was_VBDZ injected_VVN ,_Y leading_VVG to_II a_AT1 diagnosis_NN1 of_IO complete_JJ branchial_JJ fistula_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   12 Figure .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   12 Figure_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   13 Fistulograms ( anteroposterior view A , oblique view B , and lateral view C ) show the fistulous tract extending from the right lower neck up to the tonsillar fossa .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   13 Fistulograms_NN2_NP1@ (_Y anteroposterior_JJ_NN1 view_NN1 A_ZZ1 ,_Y oblique_JJ view_NN1 B_ZZ1 ,_Y and_CC lateral_JJ view_NN1 C_ZZ1 )_Y show_VV0 the_AT fistulous_JJ tract_NN1 extending_VVG from_II the_AT right_RR_NN1_JJ lower_JJR neck_NN1 up_II21 to_II22 the_AT tonsillar_JJ fossa_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   14 The patient underwent excision of the branchial fistula via a combined transcervical and transoral approach under general anesthesia .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   14 The_AT patient_NN1 underwent_VVD excision_NN1 of_IO the_AT branchial_JJ fistula_NN1 via_II a_AT1 combined_JJ transcervical_JJ and_CC transoral_JJ_NN1 approach_NN1 under_II_RG@ general_JJ_NN1 anesthesia_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   15 Because of the proximity of the tract to the patient 's carotid arteries , a vascular surgeon was asked to be present during the operation in case any vascular complication arose .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   15 Because_II21 of_II22 the_AT proximity_NN1 of_IO the_AT tract_NN1 to_II the_AT patient_NN1 's_GE carotid_JJ_NN1 arteries_NN2 ,_Y a_AT1 vascular_JJ surgeon_NN1 was_VBDZ asked_VVN@ to_TO be_VBI present_JJ_NN1 during_II the_AT operation_NN1 in_CS21 case_CS22 any_DD vascular_JJ complication_NN1 arose_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   16 The fistulous tract was excised via a " stepladder " procedure , with two incisions made in the neck .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   16 The_AT fistulous_JJ tract_NN1 was_VBDZ excised_VVN via_II a_AT1 "_Y stepladder_NN1 "_Y procedure_NN1 ,_Y with_IW two_MC incisions_NN2 made_VVN_VVD in_II the_AT neck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   17 A right-sided tonsillectomy was performed , and the tonsillar fossa was inspected for an .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   17 A_AT1_ZZ1 right-sided_JJ_NN1 tonsillectomy_NN1 was_VBDZ performed_VVN ,_Y and_CC the_AT tonsillar_JJ fossa_NN1 was_VBDZ inspected_VVN for_IF an_AT1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   18 The entire fistulous tract was excised , and the patient had an uneventful recovery .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   18 The_AT entire_JJ fistulous_JJ tract_NN1 was_VBDZ excised_VVN_JJ ,_Y and_CC the_AT patient_NN1 had_VHD an_AT1 uneventful_JJ recovery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   19 Histopathology of the specimen revealed a branchial fistula tract lined with pseudostratified columnar epithelium .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   19 Histopathology_NN1 of_IO the_AT specimen_NN1 revealed_VVD_VVN a_AT1 branchial_JJ fistula_JJ_NN1 tract_NN1 lined_VVN with_IW pseudostratified_JJ@ columnar_JJ epithelium_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   20 At the 6-month follow-up , the patient was asymptomatic .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   20 At_II the_AT 6-month_JJ_NNT1 follow-up_NN1_JJ ,_Y the_AT patient_NN1 was_VBDZ asymptomatic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   21 In 65 to 95% of cases , branchial anomalies arise from the second arch and may present as a cyst or sinus/fistula , with the former being far more common. n1 Usually the anomaly is a simple sinus opening that extends up the neck for a variable distance .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   21 In_II 65_MC to_II 95%_NNU of_IO cases_NN2 ,_Y branchial_JJ anomalies_NN2 arise_VV0 from_II the_AT second_MD arch_NN1_JJ and_CC may_VM present_VVI as_II a_AT1 cyst_NN1 or_CC sinus/fistula_NN1 ,_Y with_IW the_AT former_DA being_NN1%_VBG far_RG more_RGR_DAR_RRR common._NNU n1_FO Usually_RR the_AT anomaly_NN1 is_VBZ a_AT1 simple_JJ sinus_NN1 opening_VVG_NN1 that_CST_DD1 extends_VVZ up_RP_II@ the_AT neck_NN1 for_IF a_AT1 variable_JJ_NN1 distance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   22 In rare cases , a branchial sinus is also found to have an internal opening , thus forming a true branchial fistula .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   22 In_II rare_JJ cases_NN2 ,_Y a_AT1 branchial_JJ sinus_NN1 is_VBZ also_RR found_VVN_VVD to_TO have_VHI an_AT1 internal_JJ opening_NN1 ,_Y thus_RR forming_VVG a_AT1 true_JJ branchial_JJ fistula_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   23 Computed tomography ( CT ) , ultrasound , and fistulography are useful in tracing the fistulous tract .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   23 Computed_JJ@_VVN tomography_NN1 (_Y CT_NP1@_NN1 )_Y ,_Y ultrasound_VV0_NN1 ,_Y and_CC fistulography_NN1 are_VBR useful_JJ in_II tracing_VVG the_AT fistulous_JJ tract_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   24 Multidetector CT fistulography recently has been described for diagnosis of branchial fistula. n2 Radiologically demonstrable , complete branchial fistulas up to the tonsillar region are rare .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   24 Multidetector_NN1_NP1@ CT_NN1_NP1@ fistulography_NN1 recently_RR has_VHZ been_VBN described_VVN for_IF diagnosis_NN1 of_IO branchial_JJ fistula._NNU n2_FO Radiologically_RR demonstrable_JJ ,_Y complete_JJ_VV0 branchial_JJ fistulas_NN2 up_II21 to_II22 the_AT tonsillar_JJ region_NN1 are_VBR rare_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   25 Ford et al documented only 1 case in their series of 98 fistulas in which the entire tract was visualized. n3 The completeness of a fistula can be diagnosed by contrast-enhanced fistulography .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   25 Ford_NP1 et_RA21 al_RA22 documented_VVD only_RR 1_MC1 case_NN1 in_II their_APPGE series_NN of_IO 98_MC fistulas_NN2 in_II which_DDQ the_AT entire_JJ tract_NN1 was_VBDZ visualized._NNU n3_FO The_AT completeness_NN1 of_IO a_AT1 fistula_NN1 can_VM be_VBI diagnosed_VVN by_II contrast-enhanced_JJ_NN1 fistulography_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   26 becomes positive under general anesthesia because of muscle relaxation .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   26 becomes_VVZ positive_JJ under_II general_JJ_NN1 anesthesia_NN1 because_II21 of_II22 muscle_NN1 relaxation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   27 Occasionally the fistula tract may be blocked by thick secretions or granulation tissue .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   27 Occasionally_RR the_AT fistula_JJ_NN1 tract_NN1 may_VM be_VBI blocked_VVN by_II thick_JJ secretions_NN2 or_CC granulation_NN1 tissue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   28 Fistulography is an effective method of showing the exact anatomy and topography of fistulas in the neck .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   28 Fistulography_NN1_NP1@ is_VBZ an_AT1 effective_JJ method_NN1 of_IO showing_VVG the_AT exact_JJ anatomy_NN1 and_CC topography_NN1 of_IO fistulas_NN2 in_II the_AT neck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   29 It is easy to perform and painless .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   29 It_PPH1 is_VBZ easy_JJ to_TO perform_VVI and_CC painless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   30 CT and MRI of the neck are also helpful in producing cross-sectional images of organs and other internal body structures n4 and are useful in delineating the relationship between the lesion and surrounding neurovascular structures .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   30 CT_NN1_NP1@ and_CC MRI_NN2_NN1 of_IO the_AT neck_NN1 are_VBR also_RR helpful_JJ in_II producing_VVG cross-sectional_JJ images_NN2 of_IO organs_NN2 and_CC other_JJ internal_JJ body_NN1 structures_NN2_VVZ@ n4_FO and_CC are_VBR useful_JJ in_II delineating_VVG the_AT relationship_NN1 between_II the_AT lesion_NN1 and_CC surrounding_JJ_VVG neurovascular_JJ structures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   31 The treatment of choice for branchial fistula is complete surgical excision .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   31 The_AT treatment_NN1 of_IO choice_NN1 for_IF branchial_JJ fistula_NN1 is_VBZ complete_JJ surgical_JJ excision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   32 A " stepladder " approach exposes the fistula tract with less tissue dissection .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   32 A_AT1_ZZ1 "_Y stepladder_NN1 "_Y approach_NN1 exposes_VVZ the_AT fistula_JJ_NN1 tract_NN1 with_IW less_DAR tissue_NN1 dissection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   33 In complete branchial fistula , a combined transcervical and transoral approach is preferred .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   33 In_II complete_JJ branchial_JJ fistula_NN1_JJ ,_Y a_AT1 combined_JJ transcervical_JJ and_CC transoral_JJ_NN1 approach_NN1 is_VBZ preferred_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   34 References ( n1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   34 References_NN2 (_Y n1_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   35 ) Kenealy JF , Torsiglieri AJ Jr. , Tom LW .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   35 )_Y Kenealy_NP1@_RR JF_NP1 ,_Y Torsiglieri_NP1 AJ_NP1 Jr._NP1 ,_Y Tom_NP1 LW_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   36 Branchial cleft anomalies : A five-year retrospective review .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   36 Branchial_JJ_NP1@ cleft_JJ_NN1 anomalies_NN2 :_Y A_ZZ1_AT1@ five-year_JJ retrospective_JJ review_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   37 Trans Pa Acad Ophthalmol Otolaryngol 1990 ; 42:1022-5. ( n2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   37 Trans_NP2 Pa_NP1 Acad_NP1 Ophthalmol_NP1 Otolaryngol_NP1_NN1 1990_MC ;_Y 42:1022-5._MCMC (_Y n2_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   38 ) Ryu CW , Lee JH , Lee HK , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   38 )_Y Ryu_NP1@ CW_NP1 ,_Y Lee_NP1 JH_NP1 ,_Y Lee_NP1 HK_NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   39 Clinical usefulness of multidetector CT fistulography of branchial cleft fistula .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   39 Clinical_JJ usefulness_NN1 of_IO multidetector_NN1 CT_NN1 fistulography_NN1 of_IO branchial_JJ cleft_JJ_NN1 fistula_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   40 Clin Imaging 2006 ; 30(5):339-42. ( JN , Bailey CM .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   40 Clin_NN1_NP1@ Imaging_NN1_VVG 2006_MC ;_Y 30(5):339-42._FO (_Y JN_NP1 ,_Y Bailey_NP1 CM_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   41 Branchial cleft and pouch anomalies .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   41 Branchial_JJ_NP1@ cleft_NN1_JJ and_CC pouch_NN1_VV0@ anomalies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   42 J Laryngol Otol 1992 ; 106(2) : 137-43. ( n4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   42 J_NP1@_ZZ1 Laryngol_NP1 Otol_NP1_NN1 1992_MC ;_Y 106(2)_FO :_Y 137-43._MCMC (_Y n4_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   43 ) Palacios E , Valvassori G. Branchial cleft cyst .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   43 )_Y Palacios_NP1@_NN2 E_ZZ1_NP1@ ,_Y Valvassori_NP1 G._NP1 Branchial_NP1_JJ cleft_JJ_VVD_NN1 cyst_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   44 Ear Nose Throat J 2001 ; 80(5):302 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   44 Ear_NN1 Nose_NN1 Throat_NN1 J_ZZ1 2001_MC ;_Y 80(5):302_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   45 By Sampan Singh Bist , MS ; Saurabh Varshney , MS ; Rakesh Kumar , MS and Nitin Gupta , MS From the Department of ENT-Head and Neck Surgery , Himalayan Institute of Medical Science , HIHT University , Jolly Grant , Doiwala Dehradun , India .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   45 By_II Sampan_NN1 Singh_NP1 Bist_NN1_JJ ,_Y MS_NN1 ;_Y Saurabh_NP1 Varshney_NP1 ,_Y MS_NN1 ;_Y Rakesh_NP1 Kumar_NP1 ,_Y MS_NN1 and_CC Nitin_NP1 Gupta_NP1 ,_Y MS_NN1 From_II the_AT Department_NN1 of_IO ENT-Head_NN1 and_CC Neck_NN1_VV0@ Surgery_NN1 ,_Y Himalayan_JJ Institute_NN1 of_IO Medical_JJ Science_NN1 ,_Y HIHT_NP1_VV0_NN1 University_NN1 ,_Y Jolly_JJ_VV0@ Grant_NP1_NN1@ ,_Y Doiwala_NP1 Dehradun_NP1 ,_Y India_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  A    0   46 
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080458 COCA  B    0   46 

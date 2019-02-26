@@ -1,0 +1,118 @@
+SENTPOS 2014_4_101_300_348_3 DRAFT A    0    0 To be able to fully understand literary text , sometimes one has to look further into the historical context .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    0    0 To_TO be_VBI able_JK to_TO fully_RR understand_VVI literary_JJ text_NN1 ,_, sometimes_RT one_PN1 has_VHZ to_TO look_VVI further_RRR into_II the_AT historical_JJ context_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    0    1 For example , in Kate Chopin 's short Story of an Hour , the author uses symbolism and various types of ironies to highlight the contrasts between her story 's protagonist and the women of her time .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    0    1 For_REX21 example_REX22 ,_, in_II Kate_NP1 Chopin_NP1 's_GE short_JJ Story_NN1 of_IO an_AT1 Hour_NNT1 ,_, the_AT author_NN1 uses_VVZ symbolism_NN1 and_CC various_JJ types_NN2 of_IO ironies_NN2 to_TO highlight_VVI the_AT contrasts_NN2 between_II her_APPGE story_NN1 's_GE protagonist_NN1 and_CC the_AT women_NN2 of_IO her_APPGE time_NNT1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    0    2 Her character Mrs. Mallard goes against the typical belief of Victorian women ideals of the late 19th and early 20th centuries .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    0    2 Her_APPGE character_NN1 Mrs._NNB Mallard_NP1 goes_VVZ against_II the_AT typical_JJ belief_NN1 of_IO Victorian_JJ women_NN2 ideals_NN2 of_IO the_AT late_JJ 19th_MD and_CC early_JJ 20th_MD centuries_NNT2 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    0    3 Instead of quietly going about under the dominion of her husband , Mrs. Mallard recognizes her new freedoms and all that comes along with them .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    0    3 Instead_CS21% of_CS22 quietly_RR going_VVG about_RP@ under_II the_AT dominion_NN1 of_IO her_APPGE husband_NN1 ,_, Mrs._NNB Mallard_NP1 recognizes_VVZ her_APPGE new_JJ freedoms_NN2 and_CC all_DB that_DD1 comes_VVZ along_II21 with_II22 them_PPHO2 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    1    4 In the late 19th Century , women were viewed as domestic creatures who took care of their families and their homes .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    1    4 In_II the_AT late_JJ 19th_MD Century_NNT1 ,_, women_NN2 were_VBDR viewed_VVN as_CSA domestic_JJ creatures_NN2 who_PNQS took_VVD care_NN1 of_IO their_APPGE families_NN2 and_CC their_APPGE homes_NN2 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    1    5 During this Victorian era , women were taught to be sensitive and submissive , often thought of as being the weaker sex .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    1    5 During_II this_DD1 Victorian_JJ era_NN1 ,_, women_NN2 were_VBDR taught_VVN to_TO be_VBI sensitive_JJ and_CC submissive_JJ ,_, often_RR thought_VVN of_IO as_CSA being_VBG the_AT weaker_JJR sex_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    1    6 It is why feminism was able to take off as much as it did during this time period .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    1    6 It_PPH1 is_VBZ why_RRQ feminism_NN1 was_VBDZ able_JK to_TO take_VVI off_RP as_RG much_DA1 as_CSA it_PPH1 did_VDD during_II this_DD1 time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    1    7 Women fought for their right to vote , divorce , and receive an education .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    1    7 Women_NN2 fought_VVN for_IF their_APPGE right_NN1 to_TO vote_VVI ,_, divorce_VVI ,_, and_CC receive_VVI an_AT1 education_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    1    8 Instead of being forced to sit all pretty and bear children , they were out achieving social reformation .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    1    8 Instead_II21 of_II22 being_VBG forced_VVN to_TO sit_VVI all_DB pretty_JJ and_CC bear_VVI children_NN2 ,_, they_PPHS2 were_VBDR out_RP achieving_VVG social_JJ reformation_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    2    9 The feminist movement came about in the late 19th/early 20th centuries as a series of campaigns for reform on various issues such as voting , domestic violence , equal pay , and reproduction .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    2    9 The_AT feminist_JJ movement_NN1 came_VVD about_RP@ in_II the_AT late_JJ 19th/early_FU 20th_MD centuries_NNT2 as_II a_AT1 series_NN of_IO campaigns_NN2 for_IF reform_NN1 on_II various_JJ issues_NN2 such_II21 as_II22 voting_NN1 ,_, domestic_JJ violence_NN1 ,_, equal_JJ pay_NN1 ,_, and_CC reproduction_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    2   10 There were three main waves of feminism .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    2   10 There_EX were_VBDR three_MC main_JJ waves_NN2 of_IO feminism_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    2   11 The first of which came about around the time when Chopin started writing and publishing her works highlighting women 's suffrage near the turn of the century .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    2   11 The_AT first_MD of_IO which_DDQ came_VVD about_RP@ around_II the_AT time_NNT1 when_RRQ Chopin_NP1 started_VVD writing_VVG and_CC publishing_VVG her_APPGE works_NN highlighting_VVG women_NN2 's_GE suffrage_NN1 near_II the_AT turn_NN1 of_IO the_AT century_NNT1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    2   12 Feminists set about to rid society of its patriarchal dominance and gain freedom for themselves .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    2   12 Feminists_NN2 set_VVD about_RPK to_TO rid_VVI society_NN1 of_IO its_APPGE patriarchal_JJ dominance_NN1 and_CC gain_VV0 freedom_NN1 for_IF themselves_PPX2 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   13 In Kate Chopin 's Story of an Hour , the female protagonist , Mrs. Mallard , has heart trouble .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   13 In_II Kate_NP1 Chopin_NP1 's_GE Story_NN1 of_IO an_AT1 Hour_NNT1 ,_, the_AT female_JJ protagonist_NN1 ,_, Mrs._NNB Mallard_NP1 ,_, has_VHZ heart_NN1 trouble_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   14 The symbol of Mrs. Mallard 's heart troubles represents more than just a health condition .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   14 The_AT symbol_NN1 of_IO Mrs._NNB Mallard_NP1 's_GE heart_NN1 troubles_NN2 represents_VVZ more_DAR than_CSN just_RR a_AT1 health_NN1 condition_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   15 It is physical and symbolic .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   15 It_PPH1 is_VBZ physical_JJ and_CC symbolic_JJ ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   16 The heart is a delicate symbol often used when talking about love .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   16 The_AT heart_NN1 is_VBZ a_AT1 delicate_JJ symbol_NN1 often_RR used_VVN when_CS talking_VVG about_II love_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   17 " And yet she had loved him--sometimes .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   17 "_" And_CC yet_RR she_PPHS1 had_VHD loved_VVN him--sometimes_RT ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   18 Often she had not .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   18 Often_RR she_PPHS1 had_VHD not_XX ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   19 What did it matter !
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   19 What_DDQ did_VDD it_PPH1 matter_VVI !_!
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   20 What could love , the unsolved mystery , count for in the face of this possession of self-assertion which she suddenly recognized as the strongest impulse of her being ! "
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   20 What_DDQ could_VM love_VVI ,_, the_AT unsolved_JJ mystery_NN1 ,_, count_VV0 for_IF in_II the_AT face_NN1 of_IO this_DD1 possession_NN1 of_IO self-assertion_NN1 which_DDQ she_PPHS1 suddenly_RR recognized_VVN as_II the_AT strongest_JJT impulse_NN1 of_IO her_APPGE being_NN1% !_! "_"
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   21 . Her heart troubles could have very easily been partially coming from her marriage with her husband .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   21 ._. Her_APPGE heart_NN1 troubles_NN2 could_VM have_VHI very_RG easily_RR been_VBN partially_RR coming_VVG from_II her_APPGE marriage_NN1 with_IW her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   22 Sure she loved him some of the time but at the same time it was probably weighing down on her .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   22 Sure_JJ she_PPHS1 loved_VVD him_PPHO1 some_DD of_IO the_AT time_NNT1 but_CCB at_II the_AT same_DA time_NNT1 it_PPH1 was_VBDZ probably_RR weighing_VVG down_RP on_II her_PPHO1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   23 She felt trapped in her marriage like most women at that time .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   23 She_PPHS1 felt_VVD trapped_VVN in_II her_APPGE marriage_NN1 like_II most_DAT women_NN2 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   24 That is why she felt so relieved when he died , sad at first , but overall relieved .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   24 That_DD1 is_VBZ why_RRQ she_PPHS1 felt_VVD so_RR relieved_VVN when_CS he_PPHS1 died_VVD ,_, sad_JJ at_RR21 first_RR22 ,_, but_CCB overall_RR relieved_VVN ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   25 In the end , her husband turns out to still be alive .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   25 In_II the_AT end_NN1 ,_, her_APPGE husband_NN1 turns_VVZ out_RP to_TO still_RR be_VBI alive_JJ ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   26 It was that initial shock , that loss of joy , that killed her .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   26 It_PPH1 was_VBDZ that_DD1 initial_JJ shock_NN1 ,_, that_DD1 loss_NN1 of_IO joy_NN1 ,_, that_CST killed_VVD her_PPHO1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   27 The doctor 's in the story diagnosed her as having died from " heart disease " believing her to have been so overwhelmed with joy that her heart stopped .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   27 The_AT doctor_NN1 's_VBZ in_II the_AT story_NN1 diagnosed_VVD her_PPHO1 as_CSA having_VHG died_VVN from_II "_" heart_NN1 disease_NN1 "_" believing_VVG her_PPHO1 to_TO have_VHI been_VBN so_RR overwhelmed_VVN with_IW joy_NN1 that_CST her_APPGE heart_NN1 stopped_VVD ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    3   28 In reality , the pain of the loss of her independence was too much for her to bear .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    3   28 In_II reality_NN1 ,_, the_AT pain_NN1 of_IO the_AT loss_NN1 of_IO her_APPGE independence_NN1 was_VBDZ too_RG much_DA1 for_IF her_PPHO1 to_TO bear_VVI ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   29 Windows symbolize freedom or a sort of passageway .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   29 Windows_NN2 symbolize_VV0 freedom_NN1 or_CC a_AT1 sort_NN1 of_IO passageway_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   30 Chopin also uses the open window in the isolated room as another symbol throughout her short story .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   30 Chopin_NP1 also_RR uses_VVZ the_AT open_JJ window_NN1 in_II the_AT isolated_JJ room_NN1 as_CSA another_DD1 symbol_NN1 throughout_II her_APPGE short_JJ story_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   31 Mrs. Mallard realizes all of her potential and all of her newfound freedom in the death of her husband .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   31 Mrs._NNB Mallard_NP1 realizes_VVZ all_DB of_IO her_APPGE potential_NN1 and_CC all_DB of_IO her_APPGE newfound_JJ freedom_NN1 in_II the_AT death_NN1 of_IO her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   32 While looking out the window , sobbing , when the feeling of her independence overcame her .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   32 While_CS looking_VVG out_RP the_AT window_NN1 ,_, sobbing_VVG ,_, when_CS the_AT feeling_NN1 of_IO her_APPGE independence_NN1 overcame_VVD her_PPHO1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   33 " There was something coming to her and she was waiting for it , fearfully .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   33 "_" There_EX was_VBDZ something_PN1 coming_VVG to_II her_PPHO1 and_CC she_PPHS1 was_VBDZ waiting_VVG for_IF it_PPH1 ,_, fearfully_RR ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   34 What was it ?
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   34 What_DDQ was_VBDZ it_PPH1 ?_?
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   35 She did not know ; it was too subtle and elusive to name .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   35 She_PPHS1 did_VDD not_XX know_VVI ;_; it_PPH1 was_VBDZ too_RG subtle_JJ and_CC elusive_JJ to_TO name_VVI ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   36 But she felt it , creeping out of the sky , reaching toward her through the sounds , the scents , the color that filled the air . "
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   36 But_CCB she_PPHS1 felt_VVD it_PPH1 ,_, creeping_VVG out_II21 of_II22 the_AT sky_NN1 ,_, reaching_VVG toward_II her_PPHO1 through_II the_AT sounds_NN2 ,_, the_AT scents_NN2 ,_, the_AT color_NN1 that_CST filled_VVD the_AT air_NN1 ._. "_"
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   37 The longer she stares out of the window , she allows this joy to take over every part of her .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   37 The_AT longer_RRR she_PPHS1 stares_VVZ out_II21 of_II22 the_AT window_NN1 ,_, she_PPHS1 allows_VVZ this_DD1 joy_NN1 to_TO take_VVI over_RP every_AT1 part_NN1 of_IO her_PPHO1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   38 It springs her to life in the wake of her husband 's death .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   38 It_PPH1 springs_VVZ@ her_PPHO1 to_II life_NN1 in_II the_AT wake_NN1 of_IO her_APPGE husband_NN1 's_GE death_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    4   39 This open window provides her a clear opening for her to look into her future as a free woman and all of the things she can now do , completely free from anything or anyone bending her will to their own .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    4   39 This_DD1 open_JJ window_NN1 provides_VVZ her_PPHO1 a_AT1 clear_JJ opening_NN1 for_IF her_PPHO1 to_TO look_VVI into_II her_APPGE future_NN1 as_II a_AT1 free_JJ woman_NN1 and_CC all_DB of_IO the_AT things_NN2 she_PPHS1 can_VM now_RT do_VDI ,_, completely_RR free_JJ from_II anything_PN1 or_CC anyone_PN1 bending_VVG her_APPGE will_NN1@ to_II their_APPGE own_DA ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   40 Irony is a situation or event that seems contradictory to what one might think something to be which often produces an amusing result .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   40 Irony_NN1 is_VBZ a_AT1 situation_NN1 or_CC event_NN1 that_CST seems_VVZ contradictory_JJ to_II what_DDQ one_PN1 might_VM think_VVI something_PN1 to_TO be_VBI which_DDQ often_RR produces_VVZ an_AT1 amusing_JJ result_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   41 Kate Chopin uses lots of dramatic situational irony throughout her short story Story of an Hour .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   41 Kate_NP1 Chopin_NP1 uses_VVZ lots_PN of_IO dramatic_JJ situational_JJ irony_NN1 throughout_II her_APPGE short_JJ story_NN1 Story_NN1 of_IO an_AT1 Hour_NNT1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   42 Richards , a friend of Mrs. Mallard 's husband , told her about her husband 's death after receiving two telegrams about the incident .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   42 Richards_NP1 ,_, a_AT1 friend_NN1 of_IO Mrs._NNB Mallard_NP1 's_GE husband_NN1 ,_, told_VVD her_PPHO1 about_II her_APPGE husband_NN1 's_GE death_NN1 after_II receiving_VVG two_MC telegrams_NN2 about_II the_AT incident_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   43 However , when one is thought to be dead , they are n't thought to walk through the door 60 minutes later .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   43 However_RR ,_, when_CS one_PN1 is_VBZ thought_VVN to_TO be_VBI dead_JJ ,_, they_PPHS2 are_VBR n't_XX thought_VVN to_TO walk_VVI through_II the_AT door_NN1 60_MC minutes_NNT2 later_RRR ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   44 Instead of Mr. Mallard being the one who is dead , it is Mrs. Mallard who dies in the end .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   44 Instead_II21 of_II22 Mr._NNB Mallard_NP1 being_VBG the_AT one_PN1 who_PNQS is_VBZ dead_JJ ,_, it_PPH1 is_VBZ Mrs._NNB Mallard_NP1 who_PNQS dies_VVZ in_II the_AT end_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   45 After Richards told her of Mr. Mallard 's death , Mrs. Mallard breaks down sobbing and locks herself in a room .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   45 After_CS Richards_NP1 told_VVD her_PPHO1 of_IO Mr._NNB Mallard_NP1 's_GE death_NN1 ,_, Mrs._NNB Mallard_NP1 breaks_VVZ down_RP sobbing_VVG and_CC locks_VVZ@ herself_PPX1 in_II a_AT1 room_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   46 After sitting in the room for a little while , she starts to sob for a completely different reason .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   46 After_II sitting_VVG in_II the_AT room_NN1 for_IF a_AT1 little_JJ while_NNT1 ,_, she_PPHS1 starts_VVZ to_TO sob_VVI for_IF a_AT1 completely_RR different_JJ reason_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   47 She realizes she is n't sad about the death of her husband but that she is rather happy about it , elated almost .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   47 She_PPHS1 realizes_VVZ she_PPHS1 is_VBZ n't_XX sad_JJ about_II the_AT death_NN1 of_IO her_APPGE husband_NN1 but_CCB that_CST@ she_PPHS1 is_VBZ rather_RG happy_JJ about_II it_PPH1 ,_, elated_JJ almost_RR ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   48 Josephine , Mrs. Mallard 's sister , is worried about her being locked in a room all by herself because she could be making herself sick .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   48 Josephine_NP1 ,_, Mrs._NNB Mallard_NP1 's_GE sister_NN1 ,_, is_VBZ worried_VVN@ about_II her_APPGE being_VBG locked_VVN in_II a_AT1 room_NN1 all_DB by_II herself_PPX1 because_CS she_PPHS1 could_VM be_VBI making_VVG herself_PPX1 sick_JJ ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   49 Instead of making herself ill , Mrs. Mallard is dreaming about how amazing her life is going to be now that she is free from her oppressing marriage .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   49 Instead_II21 of_II22 making_VVG herself_PPX1 ill_JJ ,_, Mrs._NNB Mallard_NP1 is_VBZ dreaming_VVG about_II how_RGQ@ amazing_JJ her_APPGE life_NN1 is_VBZ going_VVGK to_TO be_VBI now_CS21 that_CS22 she_PPHS1 is_VBZ free_JJ from_II her_APPGE oppressing_JJ@ marriage_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   50 Not that much later , she comes out of the room and goes downstairs to greet her sister with joy only to find her not-so-dead husband to walk through the door .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   50 Not_XX that_RG much_DA1 later_JJR ,_, she_PPHS1 comes_VVZ out_II21 of_II22 the_AT room_NN1 and_CC goes_VVZ downstairs_RL to_TO greet_VVI her_APPGE sister_NN1 with_IW joy_NN1 only_RR to_TO find_VVI her_APPGE not-so-dead_JJ husband_NN1 to_TO walk_VVI through_II the_AT door_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   51 Mrs. Mallard dies from the shock and depression at having her new independence taken away from her .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   51 Mrs._NNB Mallard_NP1 dies_VVZ from_II the_AT shock_NN1 and_CC depression_NN1 at_II having_VHG her_APPGE new_JJ independence_NN1 taken_VVN away_II21 from_II22 her_PPHO1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   52 " When the doctors came they said she had died of heart disease--of the joy that kills . "
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   52 "_" When_CS the_AT doctors_NN2 came_VVD they_PPHS2 said_VVD she_PPHS1 had_VHD died_VVN of_IO heart_NN1 disease--of_NN1 the_AT joy_NN1 that_CST kills_VVZ ._. "_"
+SENTPOS 2014_4_101_300_348_3 DRAFT A    5   53 She was n't full of joy or relieved to find out her husband was still alive , instead she was the exact opposite .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    5   53 She_PPHS1 was_VBDZ n't_XX full_JJ of_IO joy_NN1 or_CC relieved_VVD to_TO find_VVI out_RP her_APPGE husband_NN1 was_VBDZ still_RR alive_JJ ,_, instead_RR she_PPHS1 was_VBDZ the_AT exact_JJ opposite_JJ ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    6   54 Historical context often times helps to frame a story and helps the reader to go deeper into the text to understand its meaning and significance .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    6   54 Historical_JJ context_NN1 often_RR times_NNT2 helps_VVZ to_TO frame_VVI a_AT1 story_NN1 and_CC helps_VVZ the_AT reader_NN1 to_TO go_VVI deeper_RRR into_II the_AT text_NN1 to_TO understand_VVI its_APPGE meaning_NN1 and_CC significance_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    6   55 The first wave of feminism was just starting to kick-off during the time Kate Chopin wrote her short story called Story of an Hour , which is why it was so influential at the time .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    6   55 The_AT first_MD wave_NN1 of_IO feminism_NN1 was_VBDZ just_RR starting_VVG to_II kick-off_NN1 during_II the_AT time_NNT1 Kate_NP1 Chopin_NP1 wrote_VVD her_APPGE short_JJ story_NN1 called_VVN Story_NN1 of_IO an_AT1 Hour_NNT1 ,_, which_DDQ is_VBZ why_RRQ it_PPH1 was_VBDZ so_RG influential_JJ at_II the_AT time_NNT1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    6   56 Her strong use of symbolism with the heart and the window as well as constant irony really exemplified women 's underlying desire to be free and independent from the constricting lives they lived in the Victorian era .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    6   56 Her_APPGE strong_JJ use_NN1 of_IO symbolism_NN1 with_IW the_AT heart_NN1 and_CC the_AT window_NN1 as_II31 well_II32 as_II33 constant_JJ irony_NN1 really_RR exemplified_VVN women_NN2 's_GE underlying_JJ desire_NN1 to_TO be_VBI free_JJ and_CC independent_JJ from_II the_AT constricting_JJ lives_NN2 they_PPHS2 lived_VVD in_II the_AT Victorian_JJ era_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    6   57 The heart symbolizing love and desire , the open window representing Mrs. Mallard 's independence , and the irony of her reaction to her husband 's death as well as her own death .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    6   57 The_AT heart_NN1 symbolizing_VVG love_NN1 and_CC desire_NN1 ,_, the_AT open_JJ window_NN1 representing_VVG Mrs._NNB Mallard_NP1 's_GE independence_NN1 ,_, and_CC the_AT irony_NN1 of_IO her_APPGE reaction_NN1 to_II her_APPGE husband_NN1 's_GE death_NN1 as_II31 well_II32 as_II33 her_APPGE own_DA death_NN1 ._.
+SENTPOS 2014_4_101_300_348_3 DRAFT A    6   57  Story of an Hour as well as other works by Chopin , were extremely influential in the late 19th century for that reason .
+SENTPOS 2014_4_101_300_348_3 DRAFT B    6   57  Story_NN1 of_IO an_AT1 Hour_NNT1 as_II31 well_II32 as_II33 other_JJ works_NN by_II Chopin_NP1 ,_, were_VBDR extremely_RR influential_JJ in_II the_AT late_JJ 19th_MD century_NNT1 for_IF that_DD1 reason_NN1 ._.

@@ -1,0 +1,336 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    0 THE YEAR WAS 1949 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    0 THE_AT YEAR_NNT1 WAS_VBDZ 1949_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    1 BOBBY LEE Cook was handling one of his first-ever murder trials , defending a man who had killed another man who had called him a " goddamn son of a bitch .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    1 BOBBY_NP1 LEE_NP1 Cook_NP1 was_VBDZ handling_VVG one_MC1 of_IO his_APPGE first-ever_JJ murder_NN1 trials_NN2 ,_Y defending_VVG a_AT1 man_NN1 who_PNQS had_VHD killed_VVN another_DD1 man_NN1 who_PNQS had_VHD called_VVN him_PPHO1 a_AT1 "_Y goddamn_JJ son_NN1 of_IO a_AT1 bitch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    2 " During opening statements , the prosecutor told the Dade County , Ga. , jurors that while calling someone this was a bad thing , it did n't give the defendant the right to kill the man .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    2 "_Y During_II opening_VVG_NN1_JJ@ statements_NN2 ,_Y the_AT prosecutor_NN1 told_VVD_VVN the_AT Dade_NP1_NN1@ County_NN1 ,_Y Ga._NP1 ,_Y jurors_NN2 that_CST while_CS calling_VVG someone_PN1 this_DD1 was_VBDZ a_AT1 bad_JJ thing_NN1 ,_Y it_PPH1 did_VDD n't_XX give_VVI the_AT defendant_NN1 the_AT right_NN1 to_TO kill_VVI the_AT man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    3 <p> Slowly , Cook rose from his chair at the defense table to approach the jury .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    3 <p>_Y Slowly_RR ,_Y Cook_NP1 rose_VVD from_II his_APPGE chair_NN1 at_II the_AT defense_NN1 table_NN1 to_TO approach_VVI the_AT jury_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    4 " I have a question for you , " he asked the dozen in the box .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    4 "_Y I_PPIS1 have_VH0 a_AT1 question_NN1 for_IF you_PPY ,_Y "_Y he_PPHS1 asked_VVD the_AT dozen_M in_II the_AT box_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    5 " What would you have done if someone had called you a goddamn son of a bitch ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    5 "_Y What_DDQ would_VM you_PPY have_VHI done_VDN if_CS someone_PN1 had_VHD called_VVN you_PPY a_AT1 goddamn_JJ son_NN1 of_IO a_AT1 bitch_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    6 " <p> At that moment , an older mountain man with a long beard sitting at the back of the jury box whispered just loud enough for the other jurors to hear : " Why , I would have killed the son of a bitch .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    6 "_Y <p>_Y At_II that_DD1 moment_NN1 ,_Y an_AT1 older_JJR mountain_NN1 man_NN1 with_IW a_AT1 long_JJ beard_NN1 sitting_VVG at_II the_AT back_NN1 of_IO the_AT jury_NN1 box_NN1 whispered_VVD just_RR loud_RR_JJ enough_RR_DD for_IF the_AT other_JJ jurors_NN2 to_TO hear_VVI :_Y "_Y Why_RRQ ,_Y I_PPIS1 would_VM have_VHI killed_VVN the_AT son_NN1 of_IO a_AT1 bitch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    7 " <p> " I had an entire opening statement planned , " Cook says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    7 "_Y <p>_Y "_Y I_PPIS1 had_VHD an_AT1 entire_JJ opening_NN1_JJ@ statement_NN1 planned_VVD_VVN ,_Y "_Y Cook_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    8 at the jurors , nodded , walked back to my chair and sat down .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    8 at_II the_AT jurors_NN2 ,_Y nodded_VVD ,_Y walked_VVD back_RP to_II my_APPGE chair_NN1 and_CC sat_VVD down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0    9 " <p> The next day , the jury acquitted his client .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0    9 "_Y <p>_Y The_AT next_MD day_NNT1 ,_Y the_AT jury_NN1 acquitted_VVD_VVN his_APPGE client_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   10 <p> During the past six decades , Cook has tried thousands of cases , including more than 300 murder trials , in more than 40 states and several countries .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   10 <p>_Y During_II the_AT past_JJ six_MC decades_NNT2 ,_Y Cook_NP1 has_VHZ tried_VVN thousands_M of_IO cases_NN2 ,_Y including_VVG@_II more_DAR than_CSN 300_MC murder_NN1 trials_NN2 ,_Y in_II more_DAR than_CSN 40_MC states_NN2 and_CC several_DA2 countries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   11 He 's represented moonshiners and money launderers , bootleggers and bank fraud schemers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   11 He_PPHS1 's_VBZ_VHZ@ represented_VVN moonshiners_NN2 and_CC money_NN1 launderers_NN2 ,_Y bootleggers_NN2_VVZ and_CC bank_NN1 fraud_NN1 schemers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   12 The Rockefellers and Carnegies have been his clients .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   12 The_AT Rockefellers_NP2 and_CC Carnegies_NN2_NP1 have_VH0 been_VBN his_APPGE clients_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   13 The television show Matlock was reportedly based on Cook 's practice .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   13 The_AT television_NN1 show_NN1_VV0 Matlock_NP1 was_VBDZ reportedly_RR based_VVN on_II Cook_NP1 's_GE practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   14 And his defense of Savannah socialite Jim Williams helped bring to life John Berendt 's true-crime classic Midnight in the Garden of Good and Evil .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   14 And_CC his_APPGE defense_NN1 of_IO Savannah_NN1 socialite_NN1 Jim_NP1 Williams_NP1 helped_VVD bring_VVI to_II life_NN1 John_NP1 Berendt_NP1 's_GE true-crime_JJ_NN1 classic_JJ_NN1 Midnight_NNT1 in_II the_AT Garden_NN1 of_IO Good_JJ_NP1@ and_CC Evil_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   15 <p> At age 82 , Cook still lives in Summerville , Ga. , which sits a little closer to Chattanooga , Tenn. , than to Atlanta .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   15 <p>_Y At_II age_NN1 82_MC ,_Y Cook_NP1_VV0@ still_RR_JJ@ lives_VVZ_NN2 in_II Summerville_NP1 ,_Y Ga._NP1 ,_Y which_DDQ sits_VVZ a_RR21 little_RR22 closer_RRR_JJR to_II Chattanooga_NP1 ,_Y Tenn._NP1 ,_Y than_CSN to_II Atlanta_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   16 He 's still trying cases -- he represents three murder defendants in separate cases set to go to trial this year .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   16 He_PPHS1 's_VBZ_VHZ@ still_RR trying_VVG_JJ@ cases_NN2 --_NN1_JJ he_PPHS1 represents_VVZ three_MC murder_NN1 defendants_NN2 in_II separate_JJ cases_NN2 set_VV0_VVD_VVN to_TO go_VVI to_II trial_NN1 this_DD1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   17 He remains one of the most sought-after criminal defense lawyers in the South .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   17 He_PPHS1 remains_VVZ one_MC1 of_IO the_AT most_RGT sought-after_JJ criminal_JJ_NN1 defense_NN1 lawyers_NN2 in_II the_AT South_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   18 <p> " I 'm having the best and most productive I enjoy waking up every morning and kicking somebody in the ass that needs it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   18 <p>_Y "_Y I_PPIS1 'm_VBM having_VHG the_AT best_JJT and_CC most_RGT_DAT productive_JJ I_PPIS1 enjoy_VV0 waking_VVG up_RP every_AT1 morning_NNT1 and_CC kicking_VVG somebody_PN1 in_II the_AT ass_NN1 that_CST_DD1 needs_VVZ it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   19 " <p> When that feeling is gone , he says , that 's the day he 'll retire .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   19 "_Y <p>_Y When_CS that_DD1 feeling_NN1 is_VBZ gone_VVN ,_Y he_PPHS1 says_VVZ ,_Y that_DD1 's_VBZ the_AT day_NNT1 he_PPHS1 'll_VM retire_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   20 <p> L : FROM CREDITORS TO CLIENTS " THE LAW PRACTICE HAS CHANGED so much , " says Cook .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   20 <p>_Y L_ZZ1_NP1@ :_Y FROM_II CREDITORS_NN2 TO_II CLIENTS_NN2 "_Y THE_AT LAW_NN1 PRACTICE_NN1 HAS_VHZ CHANGED_VVN so_RG much_DA1_RR ,_Y "_Y says_VVZ Cook_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   21 " The law is viewed as a business these days -- and not as a noble profession .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   21 "_Y The_AT law_NN1 is_VBZ viewed_VVN as_II a_AT1 business_NN1 these_DD2 days_NNT2 --_ZZ and_CC not_XX as_II_CSA a_AT1 noble_JJ profession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   22 Law firms are operated as banks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   22 Law_NN1 firms_NN2 are_VBR operated_VVN as_CSA_II@ banks_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   23 I know partners at big law firms who have never tried a case to a jury .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   23 I_PPIS1 know_VV0 partners_NN2 at_II big_JJ law_NN1 firms_NN2 who_PNQS have_VH0 never_RR tried_VVN a_AT1 case_NN1 to_II a_AT1 jury_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   24 I did n't become a lawyer to get rich , but I 'm doing OK .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   24 I_PPIS1 did_VDD n't_XX become_VVI a_AT1 lawyer_NN1 to_TO get_VVI rich_JJ ,_Y but_CCB I_PPIS1 'm_VBM doing_VDG OK_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   25 " <p> Indeed he is .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   25 "_Y <p>_Y Indeed_RR he_PPHS1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   26 Cook 's reported net income is about $1 million a year .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   26 Cook_NP1_NN1 's_VBZ_GE_VHZ@ reported_VVN_JJ@ net_JJ_NN1 income_NN1 is_VBZ about_RG $1_NNU million_M a_AT1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   27 He owns houses on the side of historic Lookout Mountain and on beautiful Sea Island .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   27 He_PPHS1 owns_VVZ houses_NN2 on_II the_AT side_NN1 of_IO historic_JJ Lookout_NP1 Mountain_NNL1 and_CC on_II beautiful_JJ Sea_NP1 Island_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   28 His driver transports him back and forth in his Rolls-Royce .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   28 His_APPGE driver_NN1 transports_VVZ him_PPHO1 back_RP and_CC forth_RR in_II his_APPGE Rolls-Royce_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   29 But it has n't always been this way .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   29 But_CCB it_PPH1 has_VHZ n't_XX always_RR been_VBN this_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   30 <p> " For many early years , I got more calls from creditors than I did clients , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   30 <p>_Y "_Y For_IF many_DA2 early_JJ years_NNT2 ,_Y I_PPIS1 got_VVD more_DAR_RRR calls_NN2_VVZ from_II creditors_NN2 than_CSN I_PPIS1 did_VDD clients_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   31 " And want to defend , and I made some enemies in the process .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   31 "_Y And_CC want_VVI to_TO defend_VVI ,_Y and_CC I_PPIS1 made_VVD some_DD enemies_NN2 in_II the_AT process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   32 " <p> In 1951 , Cook represented a man who had been arrested for moon-shining by a Georgia sheriff who did n't appreciate Cook 's belief that the Fourth Amendment 's prohibition on illegal searches and seizures should apply in Georgia .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   32 "_Y <p>_Y In_II 1951_MC ,_Y Cook_NP1 represented_VVD a_AT1 man_NN1 who_PNQS had_VHD been_VBN arrested_VVN for_IF moon-shining_NN1_JJ by_II a_AT1 Georgia_NP1 sheriff_NN1 who_PNQS did_VDD n't_XX appreciate_VVI Cook_NP1 's_GE belief_NN1 that_CST the_AT Fourth_MD Amendment_NN1 's_GE prohibition_NN1 on_II illegal_JJ searches_NN2 and_CC seizures_NN2 should_VM apply_VVI in_II Georgia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   33 When Cook showed up at the jail to post bail for his client , the sheriff refused to accept the money and threatened to kill the defense lawyer if he made any further attempts to have his client freed .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   33 When_CS Cook_NP1 showed_VVD up_RP at_II the_AT jail_NN1 to_II post_NN1 bail_NN1_VV0 for_IF his_APPGE client_NN1 ,_Y the_AT sheriff_NN1 refused_VVD_VVN to_TO accept_VVI the_AT money_NN1 and_CC threatened_VVD_VVN to_TO kill_VVI the_AT defense_NN1 lawyer_NN1 if_CS he_PPHS1 made_VVD any_DD further_JJR@ attempts_NN2 to_TO have_VHI his_APPGE client_NN1 freed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   34 <p> " You 're not going to shoot me , " Cook told the sheriff .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   34 <p>_Y "_Y You_PPY 're_VBR not_XX going_VVGK to_TO shoot_VVI me_PPIO1 ,_Y "_Y Cook_NP1 told_VVD the_AT sheriff_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   35 " There are hundreds of Cooks who live in this county and they will hunt you down like a damn rabbit , and they will kill you .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   35 "_Y There_EX are_VBR hundreds_M of_IO Cooks_NN2 who_PNQS live_VV0 in_II_RP@ this_DD1 county_NN1 and_CC they_PPHS2 will_VM hunt_VVI you_PPY down_RP like_II a_AT1 damn_JJ rabbit_NN1 ,_Y and_CC they_PPHS2 will_VM kill_VVI you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   36 " <p> Cook says he put the money on the table , grabbed the keys to the jail cell and started to walk his client out the door , when he heard the sheriff cock his pistol .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   36 "_Y <p>_Y Cook_NP1_NN1 says_VVZ he_PPHS1 put_VVD the_AT money_NN1 on_II the_AT table_NN1 ,_Y grabbed_VVD_VVN the_AT keys_NN2 to_II the_AT jail_NN1 cell_NN1 and_CC started_VVD to_TO walk_VVI his_APPGE client_NN1 out_II the_AT door_NN1 ,_Y when_CS_RRQ he_PPHS1 heard_VVD the_AT sheriff_NN1 cock_VVI his_APPGE pistol_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   37 <p> " Boom !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   37 <p>_Y "_Y Boom_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   38 The gun fires and the bullet shoots into the doorway I got my client the hell out of there .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   38 The_AT gun_NN1 fires_NN2 and_CC the_AT bullet_NN1 shoots_VVZ_NN2 into_II the_AT doorway_NN1 I_PPIS1 got_VVD my_APPGE client_NN1 the_AT hell_NN1 out_II21 of_II22 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   39 " <p> A month later , at his client 's trial , Cook got his revenge .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   39 "_Y <p>_Y A_AT1 month_NNT1 later_RRR ,_Y at_II his_APPGE client_NN1 's_GE trial_NN1 ,_Y Cook_NP1 got_VVD his_APPGE revenge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   40 He had the sheriff on cross-examination and asked why he had n't also arrested his client 's neighbors for moon-shining .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   40 He_PPHS1 had_VHD the_AT sheriff_NN1 on_II cross-examination_NN1_JJ and_CC asked_VVD why_RRQ he_PPHS1 had_VHD n't_XX also_RR arrested_VVN his_APPGE client_NN1 's_GE neighbors_NN2 for_IF moon-shining_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   41 When the sheriff did n't answer , Cook responded it was because the neighbors had been making secret payments to the sheriff while his client had not .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   41 When_CS the_AT sheriff_NN1 did_VDD n't_XX answer_VVI ,_Y Cook_NP1 responded_VVD it_PPH1 was_VBDZ because_CS the_AT neighbors_NN2 had_VHD been_VBN making_VVG secret_JJ payments_NN2 to_II the_AT sheriff_NN1 while_CS his_APPGE client_NN1 had_VHD not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   42 Angered , the sheriff threw a Coke bottle at Cook , barely missing him .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   42 Angered_VVN_VVD_JJ@ ,_Y the_AT sheriff_NN1 threw_VVD a_AT1 Coke_NN1 bottle_NN1 at_II Cook_NP1 ,_Y barely_RR missing_VVG him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   43 <p> " I walked up to the witness stand , grabbed the sheriff by the collar , pulled him down onto the floor and started whipping up on him , " says Cook .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   43 <p>_Y "_Y I_PPIS1 walked_VVD up_II21 to_II22 the_AT witness_NN1 stand_NN1_VV0 ,_Y grabbed_VVD_VVN the_AT sheriff_NN1 by_II the_AT collar_NN1 ,_Y pulled_VVD him_PPHO1 down_RP onto_II the_AT floor_NN1 and_CC started_VVD whipping_VVG up_RP on_II him_PPHO1 ,_Y "_Y says_VVZ Cook_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   44 " The judge was on the bench and the jury was in the box watching me whip up on him for several minutes .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   44 "_Y The_AT judge_NN1 was_VBDZ on_II the_AT bench_NN1 and_CC the_AT jury_NN1 was_VBDZ in_II the_AT box_NN1 watching_VVG me_PPIO1 whip_NN1 up_RP on_II him_PPHO1 for_IF several_DA2 minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   45 They all knew the sheriff was a tyrant .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   45 They_PPHS2 all_DB_RR@ knew_VVD the_AT sheriff_NN1 was_VBDZ a_AT1 tyrant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   46 After a few minutes , the judge cleared his throat and said , ' Mr. Cook , I think he 's had enough .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   46 After_CS_II a_AT1 few_DA2 minutes_NNT2 ,_Y the_AT judge_NN1 cleared_VVD_VVN his_APPGE throat_NN1 and_CC said_VVD ,_Y '_GE_"@ Mr._NNB Cook_NP1 ,_Y I_PPIS1 think_VV0 he_PPHS1 's_VHZ had_VHN enough_DD_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   47 ' <p> " I pushed the sheriff back into Cook .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   47 '_"@_GE <p>_Y "_Y I_PPIS1 pushed_VVD the_AT sheriff_NN1 back_RP_NN1 into_II Cook_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   48 " Damn jury was out for only a few minutes before they came back with a not guilty verdict on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   48 "_Y Damn_JJ_VV0_UH jury_NN1 was_VBDZ out_RP for_IF only_RR a_AT1 few_DA2 minutes_NNT2 before_CS they_PPHS2 came_VVD back_RP with_IW a_AT1 not_XX guilty_JJ verdict_NN1 on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   49 " <p> Cook 's fame grew in 1975 when he represented on appeal seven men accused of killing Atlanta pathologists Drs .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   49 "_Y <p>_Y Cook_NP1 's_GE fame_NN1 grew_VVD in_II 1975_MC when_RRQ he_PPHS1 represented_VVD on_II_RP@ appeal_NN1 seven_MC men_NN2 accused_VVN_VVD of_IO killing_VVG_NN1 Atlanta_NP1 pathologists_NN2 Drs_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   50 Warren and Rosina Matthews .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   50 Warren_NP1_NN1 and_CC Rosina_NP1 Matthews_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   51 The key witness in the case -- " Hell , the only witness , " says Cook -- was Deborah Kidd , who testified that she had been with the defendants and witnessed them brutally killing the victims .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   51 The_AT key_JJ_NN1 witness_NN1 in_II the_AT case_NN1 --_NN1_JJ "_Y Hell_NN1 ,_Y the_AT only_JJ witness_NN1 ,_Y "_Y says_VVZ Cook_NP1_NN1@ --_NN1 was_VBDZ Deborah_NP1 Kidd_NP1 ,_Y who_PNQS testified_VVD that_CST she_PPHS1 had_VHD been_VBN with_IW the_AT defendants_NN2 and_CC witnessed_VVD them_PPHO2 brutally_RR killing_VVG the_AT victims_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   52 Prosecutors had given her total immunity in return for her testimony .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   52 Prosecutors_NN2 had_VHD given_VVN her_APPGE_PPHO1 total_JJ_NN1 immunity_NN1 in_II31 return_II32 for_II33 her_APPGE testimony_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   53 <p> But years after Georgia courts had refused to relook at the case , Cook got one more chance to question Kidd under oath in a federal habeas proceeding .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   53 <p>_Y But_CCB years_NNT2 after_II_CS Georgia_NP1 courts_NN2 had_VHD refused_VVN to_TO relook_VVI at_II the_AT case_NN1 ,_Y Cook_NP1 got_VVD one_MC1 more_DAR chance_NN1 to_TO question_VVI Kidd_NP1_NN1@ under_II oath_NN1 in_II a_AT1 federal_JJ habeas_NN2 proceeding_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   54 <p> At first , Kidd stuck to the same story she had told at trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   54 <p>_Y At_RR21 first_RR22 ,_Y Kidd_NP1 stuck_VVD to_II the_AT same_DA story_NN1 she_PPHS1 had_VHD told_VVN at_II trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   55 But Cook showed Kidd a personal check she had written in South Carolina the very day she claimed she was supposedly with the defendants committing murder .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   55 But_CCB Cook_NP1 showed_VVD Kidd_NP1 a_AT1 personal_JJ check_NN1 she_PPHS1 had_VHD written_VVN in_II South_NP1 Carolina_NP1 the_AT very_JJ day_NNT1 she_PPHS1 claimed_VVD she_PPHS1 was_VBDZ supposedly_RR with_IW the_AT defendants_NN2 committing_VVG murder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   56 <p> When Kidd claimed the check was a forgery , Cook presented three handwriting experts she 'd backdated the checks , Cook presented witnesses who said Kidd gave them the checks in South Carolina the day she claimed she was in Georgia .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   56 <p>_Y When_CS Kidd_NP1 claimed_VVD the_AT check_NN1 was_VBDZ a_AT1 forgery_NN1 ,_Y Cook_NP1 presented_VVD three_MC handwriting_NN1 experts_NN2 she_PPHS1 'd_VHD backdated_VVN the_AT checks_NN2 ,_Y Cook_NP1 presented_VVD witnesses_NN2 who_PNQS said_VVD Kidd_NP1 gave_VVD them_PPHO2 the_AT checks_NN2 in_II South_NP1 Carolina_NP1 the_AT day_NNT1 she_PPHS1 claimed_VVD she_PPHS1 was_VBDZ in_II Georgia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   57 <p> Cook also presented Kidd with an affidavit she 'd signed in a South Carolina divorce case at the exact time she claimed she was at the murder scene .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   57 <p>_Y Cook_VV0_NP1 also_RR presented_VVD_VVN Kidd_NP1_NN1@ with_IW an_AT1 affidavit_NN1 she_PPHS1 'd_VHD signed_VVN in_II a_AT1 South_NP1 Carolina_NP1 divorce_NN1_VV0 case_NN1 at_II the_AT exact_JJ time_NNT1 she_PPHS1 claimed_VVD she_PPHS1 was_VBDZ at_II the_AT murder_NN1 scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   58 Finally , Cook presented evidence that Kidd and the lead detective had been sleeping together during the trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   58 Finally_RR ,_Y Cook_NP1 presented_VVD evidence_NN1 that_CST Kidd_NP1 and_CC the_AT lead_NN1 detective_NN1 had_VHD been_VBN sleeping_VVG together_RL during_II the_AT trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   59 <p> Overwhelmed , Kidd broke down on the witness stand and confessed to Cook and the federal judge that she had made up the entire story , and that she and the police had framed the seven defendants .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   59 <p>_Y Overwhelmed_JJ_VVN ,_Y Kidd_NP1 broke_VVD down_RP on_II the_AT witness_NN1 stand_NN1_VV0 and_CC confessed_VVD to_II Cook_NP1 and_CC the_AT federal_JJ judge_NN1 that_CST she_PPHS1 had_VHD made_VVN up_RP_II@ the_AT entire_JJ story_NN1 ,_Y and_CC that_CST she_PPHS1 and_CC the_AT police_NN2 had_VHD framed_VVN the_AT seven_MC defendants_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   60 <p> The convictions were thrown out and prosecutors later admitted that the seven were innocent .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   60 <p>_Y The_AT convictions_NN2 were_VBDR thrown_VVN out_RP and_CC prosecutors_NN2 later_RRR admitted_VVN_VVD that_CST the_AT seven_MC were_VBDR innocent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   61 <p> " If you can railroad a bad man to prison , " says Cook , " you can railroad a good man .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   61 <p>_Y "_Y If_CS you_PPY can_VM_VV0% railroad_NN1 a_AT1 bad_JJ man_NN1 to_II prison_NN1 ,_Y "_Y says_VVZ Cook_NP1 ,_Y "_Y you_PPY can_VM_VV0% railroad_NN1 a_AT1 good_JJ man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   62 That 's why we should always vigorously fight for the constitutional rights of even those who are most despised in our communities .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   62 That_DD1 's_VBZ why_RRQ we_PPIS2 should_VM always_RR vigorously_RR fight_VVI for_IF the_AT constitutional_JJ rights_NN2 of_IO even_RR those_DD2 who_PNQS are_VBR most_RRT@_RGT despised_VVN_JJ in_II our_APPGE communities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   63 " <p> L : AGAINST THE GRAIN COOK HAS A HISTORY OF the only lawyer in Georgia who represented unions during the 1950s , when organized labor was considered communist .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   63 "_Y <p>_Y L_ZZ1_NP1@ :_Y AGAINST_II THE_AT GRAIN_NN1 COOK_NN1_NP1 HAS_VHZ A_AT1@ HISTORY_NN1 OF_IO the_AT only_JJ lawyer_NN1 in_II Georgia_NP1 who_PNQS represented_VVD unions_NN2 during_II the_AT 1950s_MC2 ,_Y when_CS_RRQ organized_JJ@_VVN labor_NN1 was_VBDZ considered_VVN communist_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   64 And his defense of high-profile criminals left many of his neighbors scratching their heads .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   64 And_CC his_APPGE defense_NN1 of_IO high-profile_JJ criminals_NN2 left_VVD_VVN many_DA2 of_IO his_APPGE neighbors_NN2 scratching_VVG their_APPGE heads_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   65 <p> In the mid-1980s , he was having breakfast at a Summerville diner when a longtime friend approached his table to ask how he could represent a local man who was accused of killing four people .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   65 <p>_Y In_II the_AT mid-1980s_NN2 ,_Y he_PPHS1 was_VBDZ having_VHG breakfast_NN1 at_II a_AT1 Summerville_NP1 diner_NN1 when_CS_RRQ a_AT1 longtime_JJ friend_NN1 approached_VVD_VVN his_APPGE table_NN1 to_TO ask_VVI how_RRQ he_PPHS1 could_VM represent_VVI a_AT1 local_JJ man_NN1 who_PNQS was_VBDZ accused_VVN of_IO killing_VVG_NN1 four_MC people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   66 <p> " I explained the Sixth Amendment , right to counsel , innocent until proven guilty , right to confront your accuser , " says Cook .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   66 <p>_Y "_Y I_PPIS1 explained_VVD the_AT Sixth_MD Amendment_NN1 ,_Y right_RR_JJ_NN1 to_TO counsel_VVI ,_Y innocent_JJ until_CS_II@ proven_JJ_VVN guilty_JJ ,_Y right_RR_JJ_NN1 to_TO confront_VVI your_APPGE accuser_NN1 ,_Y "_Y says_VVZ Cook_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   67 The friend gave Cook a puzzled look .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   67 The_AT friend_NN1 gave_VVD Cook_NP1 a_AT1 puzzled_JJ look_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   68 A few days later , another longtime friend approached Cook , also seeking an explanation of how he could defend such a horrible person .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   68 A_AT1 few_DA2 days_NNT2 later_RRR ,_Y another_DD1 longtime_JJ friend_NN1 approached_VVD Cook_NP1 ,_Y also_RR seeking_VVG an_AT1 explanation_NN1 of_IO how_RRQ he_PPHS1 could_VM defend_VVI such_DA a_AT1 horrible_JJ person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   69 <p> " I could tell you that it is the right to a fair trial , due process , effective assistance of counsel , but there 's more to it than just that , " Cook told his friend .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   69 <p>_Y "_Y I_PPIS1 could_VM tell_VVI you_PPY that_CST it_PPH1 is_VBZ the_AT right_NN1 to_II a_AT1 fair_JJ trial_NN1 ,_Y due_JJ process_NN1 ,_Y effective_JJ assistance_NN1 of_IO counsel_NN1 ,_Y but_CCB there_EX 's_VBZ more_RRR_DAR to_II it_PPH1 than_CSN just_RR that_DD1_CST ,_Y "_Y Cook_NP1 told_VVD his_APPGE friend_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   70 " The guy paid me $150,000 in cash up front .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   70 "_Y The_AT guy_NN1 paid_VVD_VVN me_PPIO1 $150,000_NNU in_II cash_NN1 up_RL21 front_RL22 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   71 " <p> " Well goddamn , Bobby Lee , We hope you win .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   71 "_Y <p>_Y "_Y Well_RR goddamn_UH_JJ ,_Y Bobby_NP1 Lee_NP1 ,_Y We_PPIS2 hope_VV0 you_PPY win_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   72 " <p> Cook , who has won about 80 percent of his murder trials , says there are two things a lawyer must prove to a jury in order to win a murder case : That the victim was a bad person who deserved to be killed , and that your client was just the man for the job .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   72 "_Y <p>_Y Cook_NP1_VV0 ,_Y who_PNQS has_VHZ won_VVN about_RG 80_MC percent_NNU of_IO his_APPGE murder_NN1 trials_NN2 ,_Y says_VVZ there_EX_RL are_VBR two_MC things_NN2 a_AT1 lawyer_NN1 must_VM prove_VVI to_II a_AT1 jury_NN1 in_BCL21 order_BCL22 to_TO win_VVI a_AT1 murder_NN1 case_NN1 :_Y That_CST the_AT victim_NN1 was_VBDZ a_AT1 bad_JJ person_NN1 who_PNQS deserved_VVD to_TO be_VBI killed_VVN ,_Y and_CC that_CST your_APPGE client_NN1 was_VBDZ just_RR the_AT man_NN1 for_IF the_AT job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   73 <p> " If you prove those two things , nine times out of 10 , your client walks , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   73 <p>_Y "_Y If_CS you_PPY prove_VV0 those_DD2 two_MC things_NN2 ,_Y nine_MC times_NNT2 out_II21 of_II22 10_MC ,_Y your_APPGE client_NN1 walks_NN2_VVZ ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   74 <p> Not that Cook wins all of his cases .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   74 <p>_Y Not_XX that_CST_DD1 Cook_NP1_NN1@ wins_VVZ all_DB of_IO his_APPGE cases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   75 In the 1970s , he represented a young man charged with arson in the defendant 's small north Georgia town .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   75 In_II the_AT 1970s_MC2 ,_Y he_PPHS1 represented_VVD a_AT1 young_JJ man_NN1 charged_VVN_VVD with_IW arson_NN1 in_II the_AT defendant_NN1 's_GE_VBZ small_JJ north_ND1 Georgia_NP1 town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   76 Cook asked the panel members during jury selection whether any of them knew his client .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   76 Cook_NP1 asked_VVD the_AT panel_NN1 members_NN2 during_II jury_NN1 selection_NN1 whether_CSW any_DD of_IO them_PPHO2 knew_VVD his_APPGE client_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   77 Several jurors raised a hand .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   77 Several_DA2 jurors_NN2 raised_VVD_VVN a_AT1 hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   78 Cook randomly pointed to one of the potential jurors and asked what he knew .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   78 Cook_VV0_NP1 randomly_RR pointed_VVN_VVD to_II one_MC1 of_IO the_AT potential_JJ_NN1 jurors_NN2 and_CC asked_VVD what_DDQ he_PPHS1 knew_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   79 <p> " Everyone knows Tommy 's always been a little firebug , " the juror responded .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   79 <p>_Y "_Y Everyone_PN1 knows_VVZ Tommy_NP1 's_VHZ always_RR been_VBN a_AT1 little_JJ firebug_NN1 ,_Y "_Y the_AT juror_NN1 responded_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   80 <p> " I knew then it was time to plead this case , " Cook says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   80 <p>_Y "_Y I_PPIS1 knew_VVD then_RT it_PPH1 was_VBDZ time_NNT1 to_TO plead_VVI this_DD1 case_NN1 ,_Y "_Y Cook_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   81 <p> adjust your argument based on the makeup of your jury .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   81 <p>_Y adjust_VVI your_APPGE argument_NN1 based_VVN on_II the_AT makeup_NN1 of_IO your_APPGE jury_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   82 Cook points to a death penalty case he was defending in rural Georgia in the early 1970s .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   82 Cook_NP1_VV0_NN1 points_VVZ_NN2 to_II a_AT1 death_NN1 penalty_NN1 case_NN1 he_PPHS1 was_VBDZ defending_VVG in_II_RP@ rural_JJ Georgia_NP1 in_II the_AT early_JJ 1970s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   83 <p> Seeking leniency from the jury during closing arguments , Cook quoted Shakespeare : " The quality of mercy is not strained .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   83 <p>_Y Seeking_VVG leniency_NN1 from_II the_AT jury_NN1 during_II closing_JJ_VVG_NN1 arguments_NN2 ,_Y Cook_NP1 quoted_VVD Shakespeare_NP1 :_Y "_Y The_AT quality_NN1 of_IO mercy_NN1 is_VBZ not_XX strained_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   84 It droppeth as the gentle rain from heaven , upon the place beneath .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   84 It_PPH1 droppeth_VVZ as_II_CSA the_AT gentle_JJ rain_NN1 from_II heaven_NN1 ,_Y upon_II the_AT place_NN1 beneath_RL@_II ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   85 It is twice blessed : It blesseth him that gives and him that takes .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   85 It_PPH1 is_VBZ twice_RR blessed_VVN :_Y It_PPH1 blesseth_VVZ him_PPHO1 that_CST_DD1 gives_VVZ and_CC him_PPHO1 that_CST_DD1 takes_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   86 " <p> Cook started to attribute his quote to Shakespeare when he caught himself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   86 "_Y <p>_Y Cook_NP1 started_VVD to_TO attribute_VVI his_APPGE quote_NN1 to_II Shakespeare_NP1 when_RRQ_CS he_PPHS1 caught_VVD himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   87 <p> " I realized that I was in Dade County , Ga. , " Cook says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   87 <p>_Y "_Y I_PPIS1 realized_VVD that_CST I_PPIS1 was_VBDZ in_II Dade_NP1 County_NN1 ,_Y Ga._NP1 ,_Y "_Y Cook_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   88 " The people of Dade County are good but simple people .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   88 "_Y The_AT people_NN of_IO Dade_NP1 County_NN1 are_VBR good_JJ but_CCB simple_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   89 They do n't know who the hell William Shakespeare is .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   89 They_PPHS2 do_VD0 n't_XX know_VVI who_PNQS the_AT hell_NN1 William_NP1 Shakespeare_NP1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   90 They may think he 's some guy named Bill from Tennessee , or worse from Alabama , and sentence my client to death .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   90 They_PPHS2 may_VM think_VVI he_PPHS1 's_VBZ_VHZ@ some_DD guy_NN1 named_VVD_VVN Bill_NP1_NN1 from_II Tennessee_NP1 ,_Y or_CC worse_JJR_RRR@ from_II Alabama_NP1 ,_Y and_CC sentence_NN1_VV0% my_APPGE client_NN1 to_II death_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   91 " <p> So Cook cleared his throat and told jurors , " And that 's from Song of Solomon in the Bible .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   91 "_Y <p>_Y So_RR Cook_NP1 cleared_VVD his_APPGE throat_NN1 and_CC told_VVD_VVN jurors_NN2 ,_Y "_Y And_CC that_DD1 's_VBZ from_II Song_NN1 of_IO Solomon_NP1 in_II the_AT Bible_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   92 " The jurors all nodded in reverence .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   92 "_Y The_AT jurors_NN2 all_DB_RR@ nodded_VVD_VVN@ in_II reverence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   93 call .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   93 call_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   94 It was the prosecutor in the case who said he had just finished reading through the Song of Solomon for the fourth time .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   94 It_PPH1 was_VBDZ the_AT prosecutor_NN1 in_II the_AT case_NN1 who_PNQS said_VVD he_PPHS1 had_VHD just_RR finished_VVN reading_VVG_NN1 through_II the_AT Song_NN1 of_IO Solomon_NP1 for_IF the_AT fourth_MD time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   95 <p> " What you told the jury ai n't in there , you son of a bitch , " the district attorney said .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   95 <p>_Y "_Y What_DDQ you_PPY told_VVD the_AT jury_NN1 ai_FU n't_XX in_II there_RL ,_Y you_PPY son_NN1 of_IO a_AT1 bitch_NN1 ,_Y "_Y the_AT district_NN1 attorney_NN1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   96 <p> " What version of the Bible are you reading ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   96 <p>_Y "_Y What_DDQ version_NN1 of_IO the_AT Bible_NN1 are_VBR you_PPY reading_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   97 " Cook asked .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   97 "_Y Cook_NP1 asked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   98 <p> " The King James Version , " the ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   98 <p>_Y "_Y The_AT King_NNB James_NP1 Version_NN1 ,_Y "_Y the_AT ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0   99 prosecutor responded .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0   99 prosecutor_NN1 responded_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  100 <p> " I never said it was the KJV , " Cook replied and then hung up .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  100 <p>_Y "_Y I_PPIS1 never_RR said_VVD it_PPH1 was_VBDZ the_AT KJV_NP1 ,_Y "_Y Cook_NP1 replied_VVD and_CC then_RT hung_VVD_VVN up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  101 <p> " The next day , the jury spared my client 's life , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  101 <p>_Y "_Y The_AT next_MD day_NNT1 ,_Y the_AT jury_NN1 spared_VVD_VVN my_APPGE client_NN1 's_GE life_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  102 <p> L : A DEFT TOUCH WITH THE JURY COOK FREQUENTLY USES PEOPLE 'S basic mistrust of government and power as a foundation for his case .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  102 <p>_Y L_ZZ1_NP1@ :_Y A_ZZ1_AT1@ DEFT_JJ TOUCH_NN1 WITH_IW THE_AT JURY_NN1 COOK_NN1_VV0_NP1 FREQUENTLY_RR USES_VVZ PEOPLE_NN 'S_GE basic_JJ mistrust_NN1 of_IO government_NN1 and_CC power_NN1 as_II_CSA a_AT1 foundation_NN1 for_IF his_APPGE case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  103 In 1979 , the Rockefellers and Carnegies hired Cook after the federal government seized their coastal Georgia property as part of a land condemnation procedure , offering only nickels on the dollar .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  103 In_II 1979_MC ,_Y the_AT Rockefellers_NP2 and_CC Carnegies_NP1_NN2 hired_VVD Cook_NP1_NN1@ after_II_CS the_AT federal_JJ government_NN1 seized_VVD_VVN their_APPGE coastal_JJ Georgia_NP1 property_NN1 as_II part_NN1 of_IO a_AT1 land_NN1 condemnation_NN1 procedure_NN1 ,_Y offering_VVG only_JJ nickels_NN2 on_II the_AT dollar_NNU1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  104 His clients told him they doubted a Georgia jury would ever side with them because they are that argument upside down .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  104 His_APPGE clients_NN2 told_VVD_VVN him_PPHO1 they_PPHS2 doubted_VVD a_AT1 Georgia_NP1 jury_NN1 would_VM ever_RR side_NN1_VV0% with_IW them_PPHO2 because_CS they_PPHS2 are_VBR that_DD1_CST argument_NN1 upside_RL21 down_RL22 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  105 He told the jury that if the federal government could do this to the rich and powerful Rockefellers , then imagine what they could do to ordinary citizens of Georgia .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  105 He_PPHS1 told_VVD the_AT jury_NN1 that_CST if_CS the_AT federal_JJ government_NN1 could_VM do_VDI this_DD1 to_II the_AT rich_JJ and_CC powerful_JJ Rockefellers_NP2 ,_Y then_RT imagine_VV0 what_DDQ they_PPHS2 could_VM do_VDI to_II ordinary_JJ citizens_NN2 of_IO Georgia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  106 The jury awarded the families $5.5 million , multiple times what the government had offered .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  106 The_AT jury_NN1 awarded_VVN_VVD@ the_AT families_NN2 $5.5_NNU million_M ,_Y multiple_JJ times_NNT2 what_DDQ the_AT government_NN1 had_VHD offered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  107 <p> In 1985 , Cook used his extraordinary ability to relate to jurors and his exceptional cross-examination skills in defending C.H. Butcher Jr .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  107 <p>_Y In_II 1985_MC ,_Y Cook_NP1 used_VVD his_APPGE extraordinary_JJ ability_NN1 to_TO relate_VVI to_II jurors_NN2 and_CC his_APPGE exceptional_JJ cross-examination_JJ_NN1 skills_NN2 in_II defending_VVG_NN1_JJ@ C.H._NN1 Butcher_NP1 Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  108 of Knoxville , Tenn. , in what was then one of the largest federal banking-fraud cases in history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  108 of_IO Knoxville_NP1 ,_Y Tenn._NP1 ,_Y in_II what_DDQ was_VBDZ then_RT one_MC1 of_IO the_AT largest_JJT federal_JJ banking-fraud_JJ_NN1 cases_NN2 in_II history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  109 His client 's brother , Jake Butcher , had already pleaded guilty for his role in the alleged scheme .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  109 His_APPGE client_NN1 's_GE brother_NN1 ,_Y Jake_NP1 Butcher_NP1 ,_Y had_VHD already_RR pleaded_VVN guilty_JJ for_IF his_APPGE role_NN1 in_II the_AT alleged_JJ scheme_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  110 <p> During jury selection , Cook 's fellow lawyers advised him to use his peremptory strikes to remove from the jury both a military veteran and an 81-year-old woman , neither of whom fit the profile they were looking for .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  110 <p>_Y During_II jury_NN1 selection_NN1 ,_Y Cook_NP1 's_GE fellow_JJ_NN1 lawyers_NN2 advised_VVD_VVN him_PPHO1 to_TO use_VVI his_APPGE peremptory_JJ strikes_NN2 to_TO remove_VVI from_II the_AT jury_NN1 both_RR a_AT1 military_JJ veteran_NN1_JJ and_CC an_AT1 81-year-old_JJ woman_NN1 ,_Y neither_DD1_RR of_IO whom_PNQO fit_VV0 the_AT profile_NN1 they_PPHS2 were_VBDR looking_VVG for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  111 <p> " They thought she was too damn old and would fall asleep during the highly complicated financial testimony , and they thought the veteran was too pro-government , " Cook says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  111 <p>_Y "_Y They_PPHS2 thought_VVD she_PPHS1 was_VBDZ too_RG damn_JJ_RG@ old_JJ and_CC would_VM fall_VVI asleep_JJ during_II the_AT highly_RR complicated_JJ financial_JJ testimony_NN1 ,_Y and_CC they_PPHS2 thought_VVD the_AT veteran_NN1 was_VBDZ too_RG pro-government_JJ ,_Y "_Y Cook_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  112 " I of shit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  112 "_Y I_PPIS1 of_IO shit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  113 Picking a jury is about common sense and something down deep in your gut .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  113 Picking_VVG a_AT1 jury_NN1 is_VBZ about_II_RG% common_JJ sense_NN1 and_CC something_PN1 down_RP deep_RR_JJ in_II your_APPGE gut_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  114 It 's not about science .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  114 It_PPH1 's_VBZ not_XX about_II science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  115 So I kept them on the jury .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  115 So_RR I_PPIS1 kept_VVD them_PPHO2 on_II the_AT jury_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  116 " <p> The key witness in the case was a senior executive from a national accounting firm hired by federal prosecutors to review millions of pages of documents from the failed United American Bank .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  116 "_Y <p>_Y The_AT key_JJ_NN1 witness_NN1 in_II the_AT case_NN1 was_VBDZ a_AT1 senior_JJ executive_NN1 from_II a_AT1 national_JJ accounting_NN1_JJ@ firm_NN1 hired_VVN by_II federal_JJ prosecutors_NN2 to_TO review_VVI millions_M of_IO pages_NN2 of_IO documents_NN2 from_II the_AT failed_JJ@ United_JJ American_JJ Bank_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  117 The auditors discovered that the $3 billion Butcher banking empire in Tennessee was nothing more than a house of cards based on paper fraud .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  117 The_AT auditors_NN2 discovered_VVD that_CST the_AT $3_NNU billion_M Butcher_NP1_NN1@ banking_NN1 empire_NN1 in_II Tennessee_NP1 was_VBDZ nothing_PN1 more_DAR than_CSN a_AT1 house_NN1 of_IO cards_NN2 based_VVN on_II paper_NN1 fraud_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  118 Tens of thousands of people had lost their money .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  118 Tens_M of_IO thousands_M of_IO people_NN had_VHD lost_VVN their_APPGE money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  119 <p> The entire case rested on the credibility and independence of the private auditors .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  119 <p>_Y The_AT entire_JJ case_NN1 rested_VVN_VVD on_II the_AT credibility_NN1 and_CC independence_NN1 of_IO the_AT private_JJ auditors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  120 <p> On cross-examination , Cook asked the witness whether he had personally reviewed the allegedly fraudulent documents .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  120 <p>_Y On_II cross-examination_NN1_JJ ,_Y Cook_NP1 asked_VVD the_AT witness_NN1_VV0 whether_CSW he_PPHS1 had_VHD personally_RR reviewed_VVN the_AT allegedly_RR fraudulent_JJ documents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  121 <p> " No sir , " came the answer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  121 <p>_Y "_Y No_XX sir_NN1 ,_Y "_Y came_VVD the_AT answer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  122 " But I have working for me the best and most honest team of accountants in the business , " the executive responded .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  122 "_Y But_CCB I_PPIS1 have_VH0 working_JJ@ for_IF me_PPIO1 the_AT best_JJT and_CC most_RGT_DAT honest_JJ team_NN1 of_IO accountants_NN2 in_II the_AT business_NN1 ,_Y "_Y the_AT executive_NN1 responded_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  123 <p> Cook asked whether he was willing to vouch for them personally .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  123 <p>_Y Cook_NP1 asked_VVD whether_CSW he_PPHS1 was_VBDZ willing_JJ to_TO vouch_VVI for_IF them_PPHO2 personally_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  124 <p> " Yes , sir , " the executive them , and they are the best .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  124 <p>_Y "_Y Yes_UH ,_Y sir_NN1 ,_Y "_Y the_AT executive_NN1 them_PPHO2 ,_Y and_CC they_PPHS2 are_VBR the_AT best_JJT_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  125 " <p> Cook then turned to the four accountants seated behind the prosecution table and asked them to stand .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  125 "_Y <p>_Y Cook_VV0_NP1 then_RT turned_VVN_VVD to_II the_AT four_MC accountants_NN2 seated_VVN_VVD behind_II the_AT prosecution_NN1 table_NN1 and_CC asked_VVN them_PPHO2 to_TO stand_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  126 <p> " Are these the four ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  126 <p>_Y "_Y Are_VBR these_DD2 the_AT four_MC ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  127 " <p> Yes , said the witness .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  127 "_Y <p>_Y Yes_UH ,_Y said_VVD the_AT witness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  128 <p> " Well , I want you to introduce each of them to the jury , " Cook continued .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  128 <p>_Y "_Y Well_RR ,_Y I_PPIS1 want_VV0 you_PPY to_TO introduce_VVI each_DD1 of_IO them_PPHO2 to_II the_AT jury_NN1 ,_Y "_Y Cook_NP1 continued_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  129 <p> The witness stammered for a minute and then proceeded to say that each was highly educated and well-qualified .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  129 <p>_Y The_AT witness_NN1 stammered_VVD_VVN@ for_IF a_AT1 minute_NNT1 and_CC then_RT proceeded_VVD to_TO say_VVI that_CST each_DD1 was_VBDZ highly_RR educated_VVN_JJ and_CC well-qualified_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  130 <p> " But I want their names , " Cook said .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  130 <p>_Y "_Y But_CCB I_PPIS1 want_VV0 their_APPGE names_NN2 ,_Y "_Y Cook_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  131 " You said just a minute ago that you know each and every one of them , and that you vouched for their credibility and expertise .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  131 "_Y You_PPY said_VVD just_RR a_AT1 minute_NNT1 ago_RA that_CST you_PPY know_VV0 each_DD1 and_CC every_AT1 one_MC1 of_IO them_PPHO2 ,_Y and_CC that_CST you_PPY vouched_VVD for_IF their_APPGE credibility_NN1 and_CC expertise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  132 What are their names ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  132 What_DDQ are_VBR their_APPGE names_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  133 " <p> One by one , Cook acknowledged the four accountants , asking the executive to provide their names .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  133 "_Y <p>_Y One_MC1 by_II one_MC1 ,_Y Cook_NP1 acknowledged_VVD the_AT four_MC accountants_NN2 ,_Y asking_VVG the_AT executive_NN1 to_TO provide_VVI their_APPGE names_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  134 <p> Finally , the executive admitted he could n't remember them .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  134 <p>_Y Finally_RR ,_Y the_AT executive_NN1 admitted_VVD he_PPHS1 could_VM n't_XX remember_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  135 <p> When the four started to sit down , Cook stopped them and asked them to remain standing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  135 <p>_Y When_CS the_AT four_MC started_VVD to_TO sit_VVI down_RP ,_Y Cook_NP1 stopped_VVD them_PPHO2 and_CC asked_VVD them_PPHO2 to_TO remain_VVI standing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  136 He returned to the witness .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  136 He_PPHS1 returned_VVD to_II the_AT witness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  137 " And if you , at any names , you stop me and let me know .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  137 "_Y And_CC if_CS_CSW@ you_PPY ,_Y at_II any_DD names_NN2 ,_Y you_PPY stop_VV0 me_PPIO1 and_CC let_VV0 me_PPIO1 know_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  138 " <p> Every few minutes , after a series of questions , Cook paused dramatically and returned attention to the standing accountants : " Have you remembered any of their names yet ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  138 "_Y <p>_Y Every_AT1 few_DA2 minutes_NNT2 ,_Y after_CS_II a_AT1 series_NN of_IO questions_NN2 ,_Y Cook_NP1 paused_VVD dramatically_RR and_CC returned_VVD_VVN attention_NN1 to_II the_AT standing_NN1_JJ@ accountants_NN2 :_Y "_Y Have_VH0 you_PPY remembered_VVN any_DD of_IO their_APPGE names_NN2 yet_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  139 " <p> He never did .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  139 "_Y <p>_Y He_PPHS1 never_RR did_VDD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  140 <p> In his closing argument , Cook all but ignored most of the findings of the accountants .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  140 <p>_Y In_II his_APPGE closing_JJ_NN1 argument_NN1 ,_Y Cook_NP1_VV0@ all_RR21 but_RR22 ignored_VVN_VVD most_DAT of_IO the_AT findings_NN2 of_IO the_AT accountants_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  141 He questioned the integrity of the audit , focused on patriotic themes , and reminded the folks in the jury box that they could be a check on an all-powerful government .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  141 He_PPHS1 questioned_VVD the_AT integrity_NN1 of_IO the_AT audit_NN1 ,_Y focused_VVN_VVD on_II patriotic_JJ themes_NN2 ,_Y and_CC reminded_VVN the_AT folks_NN2 in_II the_AT jury_NN1 box_NN1 that_CST they_PPHS2 could_VM be_VBI a_AT1 check_NN1 on_II an_AT1 all-powerful_JJ government_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  142 <p> At the end of the six-week trial , the jury acquitted Butcher on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  142 <p>_Y At_II the_AT end_NN1 of_IO the_AT six-week_JJ trial_NN1 ,_Y the_AT jury_NN1 acquitted_VVD_VVN Butcher_NP1 on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  143 As Cook walked from the courtroom , the 81-year-old juror approached him and whispered in his ear , " I was with you from the beginning , Bobby Lee .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  143 As_CSA_II@ Cook_NP1 walked_VVD from_II the_AT courtroom_NN1 ,_Y the_AT 81-year-old_JJ juror_NN1 approached_VVD_VVN him_PPHO1 and_CC whispered_VVD in_II_RP@ his_APPGE ear_NN1 ,_Y "_Y I_PPIS1 was_VBDZ with_IW you_PPY from_II the_AT beginning_NN1 ,_Y Bobby_NP1 Lee_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  144 " <p> " The law is viewed as a business these days -- and not as a noble profession .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  144 "_Y <p>_Y "_Y The_AT law_NN1 is_VBZ viewed_VVN as_II a_AT1 business_NN1 these_DD2 days_NNT2 --_ZZ and_CC not_XX as_II_CSA a_AT1 noble_JJ profession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  145 Law firms are operated as banks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  145 Law_NN1 firms_NN2 are_VBR operated_VVN as_CSA_II@ banks_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  146 " <p> L : BOBBY LEE COOK Born 1927 in Lyerly , Ga .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  146 "_Y <p>_Y L_ZZ1_NP1@ :_Y BOBBY_NP1 LEE_NP1 COOK_NP1_NN1 Born_VVN_JJ@ 1927_MC in_II Lyerly_NP1 ,_Y Ga_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  147 <p> Firm Cook .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  147 <p>_Y Firm_JJ_NN1 Cook_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  148 <p> L : Significant cases * 1986 -- Defended Tennessee banker C.H. Butcher Jr. , who faced 25 counts of fraud .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  148 <p>_Y L_ZZ1_NP1@ :_Y Significant_JJ cases_NN2 *_FU 1986_MC --_NN1_JJ Defended_VVD Tennessee_NP1 banker_NN1 C.H._NN1 Butcher_NP1 Jr._NNA ,_Y who_PNQS faced_VVD 25_MC counts_NN2 of_IO fraud_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  149 Butcher was acquitted on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  149 Butcher_NP1_NN1 was_VBDZ acquitted_VVN on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  150 * 1988 -- Represented former Auburn University All-American football star Bobby Hoppe , who was charged with murder in a 1957 shooting .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  150 *_FU 1988_MC --_NN1_JJ Represented_VVN_VVD former_DA Auburn_JJ University_NN1 All-American_JJ_NN1@ football_NN1 star_NN1 Bobby_NP1 Hoppe_NP1 ,_Y who_PNQS was_VBDZ charged_VVN with_IW murder_NN1 in_II a_AT1 1957_MC shooting_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  151 Jurors deadlocked 10-2 for acquittal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  151 Jurors_NN2_NP1@ deadlocked_VVD 10-2_MCMC for_IF acquittal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  152 The case was never retried .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  152 The_AT case_NN1 was_VBDZ never_RR retried_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  153 Currently -- Represents Wayne Williams , who is appealing his 1982 conviction for the murder of two black youths in what was known as the Atlanta Child Murders .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  153 Currently_RR --_NN1_JJ Represents_VVZ Wayne_NP1 Williams_NP1 ,_Y who_PNQS is_VBZ appealing_VVG his_APPGE 1982_MC conviction_NN1 for_IF the_AT murder_NN1 of_IO two_MC black_JJ youths_NN2 in_II what_DDQ was_VBDZ known_VVN as_II the_AT Atlanta_NP1 Child_NN1 Murders_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  154 <p> Other career highlights -- Widely believed to have inspired the TV-show character Ben Matlock .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  154 <p>_Y Other_JJ career_NN1 highlights_VVZ_NN2 --_ZZ Widely_RR believed_VVN_VVD to_TO have_VHI inspired_VVN the_AT TV-show_JJ_NN1 character_NN1 Ben_NP1 Matlock_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  155 <p> " I never use jury experts because I think they are full of shit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  155 <p>_Y "_Y I_PPIS1 never_RR use_VV0 jury_NN1 experts_NN2 because_CS I_PPIS1 think_VV0 they_PPHS2 are_VBR full_JJ of_IO shit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  156 Picking a jury is about common sense ana something down deep in your gut .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  156 Picking_VVG a_AT1 jury_NN1 is_VBZ about_II_RG% common_JJ sense_NN1 ana_NN1 something_PN1 down_RP deep_RR_JJ in_II your_APPGE gut_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  157 It 's not about science .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  157 It_PPH1 's_VBZ not_XX about_II science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  158 " <p> Case U.S. v. Thevis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  158 "_Y <p>_Y Case_NN1_VV0% U.S._NP1 v._II Thevis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  159 <p> Date 1980 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  159 <p>_Y Date_NN1_VV0@ 1980_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  160 <p> Location Atlanta federal courthouse .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  160 <p>_Y Location_NN1 Atlanta_NP1 federal_JJ courthouse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  161 <p> Who Bobby Lee Cook , as sketched by an artist during his final argument .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  161 <p>_Y Who_NP1% Bobby_NP1 Lee_NP1 Cook_NP1 ,_Y as_CSA sketched_VVN by_II an_AT1 artist_NN1 during_II his_APPGE final_JJ_NN1 argument_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  162 <p> What The racketeering trial of Michael Thevis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  162 <p>_Y What_DDQ The_AT racketeering_NN1 trial_NN1 of_IO Michael_NP1 Thevis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  163 Thevis , " was accused of at least two murders in defense of his adult entertainment empire .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  163 Thevis_NN1_NP1@ ,_Y "_Y was_VBDZ accused_VVN of_IO at_RR21 least_RR22 two_MC murders_NN2 in_II defense_NN1 of_IO his_APPGE adult_NN1_JJ@ entertainment_NN1 empire_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  164 <p> Note After his indictment in 1978 , Thevis became a fugitive and was listed among the FBI 's " 10 most wanted " before being captured in Connecticut later that year .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  164 <p>_Y Note_VV0_NN1 After_II_CS his_APPGE indictment_NN1 in_II 1978_MC ,_Y Thevis_NP1 became_VVD a_AT1 fugitive_NN1 and_CC was_VBDZ listed_VVN among_II the_AT FBI_NP1 's_GE "_Y 10_MC most_RRT@_RGT wanted_VVN_JJ@ "_Y before_II being_VBG captured_VVN in_II Connecticut_NP1 later_RRR that_DD1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  165 Thevis , now 76 , was convicted and sentenced to federal prison .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  165 Thevis_NN1_NP1@ ,_Y now_RT 76_MC ,_Y was_VBDZ convicted_VVN_JJ and_CC sentenced_VVN to_II federal_JJ prison_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  166 He is scheduled for release in 2028 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  166 He_PPHS1 is_VBZ scheduled_VVN for_IF release_NN1 in_II 2028_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  A    0  167 <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071553 COCA  B    0  167 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y

@@ -1,0 +1,92 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    0 I am the first person in the world to complete a backflip in a wheelchair -- a stunt that landed me in the Guinness Book of World Records last year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    0 I_PPIS1_MC1% am_VBM_RA@ the_AT first_MD person_NN1 in_II the_AT world_NN1 to_TO complete_VVI a_AT1 backflip_NN1 in_II a_AT1 wheelchair_NN1 --_NN1 a_AT1 stunt_NN1 that_CST landed_VVD me_PPIO1 in_II the_AT Guinness_NP1 Book_NN1 of_IO World_NN1 Records_NN2_VVZ@ last_MD year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    1 Flipping is only one aspect of the sport I created , called " hardcore sitting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    1 Flipping_JJ is_VBZ only_RR one_MC1 aspect_NN1 of_IO the_AT sport_NN1 I_PPIS1 created_VVD ,_Y called_VVN_VVD@ "_Y hardcore_NN1_VV0 sitting_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    2 " As a hardcore sitter , I basically do what skateboarders do , but in my wheelchair , rather than on a board .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    2 "_Y As_II_CSA a_AT1 hardcore_NN1 sitter_NN1 ,_Y I_PPIS1 basically_RR do_VD0 what_DDQ skateboarders_NN2 do_VDI ,_Y but_CCB in_II my_APPGE wheelchair_NN1 ,_Y rather_CS21@_II21 than_CS22@_II22 on_II a_AT1 board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    3 I can .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    3 I_PPIS1 can_VM_VV0% ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    4 drift , grind , carve , air a 180 , jump stairs , stall , and hand-plant .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    4 drift_VV0_NN1 ,_Y grind_VV0_NN1 ,_Y carve_VV0 ,_Y air_VV0%_NN1 a_AT1 180_MC ,_Y jump_VV0_NN1 stairs_NN2 ,_Y stall_VV0_NN1 ,_Y and_CC hand-plant_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    5 I learned how to do these stunts through trial and error .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    5 I_PPIS1 learned_VVD how_RRQ to_TO do_VDI these_DD2 stunts_NN2 through_II trial_NN1 and_CC error_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    6 These days , I compete in the BMX division at the Vegas Amjam , and I travel all over the world to perform at extreme sporting events , like last year 's X Games .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    6 These_DD2 days_NNT2 ,_Y I_PPIS1 compete_VV0 in_II_RP@ the_AT BMX_NP1 division_NN1 at_II the_AT Vegas_NP1 Amjam_NP1 ,_Y and_CC I_PPIS1 travel_VV0 all_RR over_II the_AT world_NN1 to_TO perform_VVI at_II extreme_JJ sporting_NN1 events_NN2 ,_Y like_II last_MD year_NNT1 's_GE X_MC@_ZZ1 Games_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    7 There are n't many extreme wheelchair athletes like me , but it 's a cool way to live my life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    7 There_EX are_VBR n't_XX many_DA2 extreme_JJ wheelchair_NN1 athletes_NN2 like_II_VV0@ me_PPIO1 ,_Y but_CCB it_PPH1 's_VBZ a_AT1 cool_JJ way_NN1 to_TO live_VVI my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    8 It takes agility , bravery , and hard work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    8 It_PPH1 takes_VVZ agility_NN1 ,_Y bravery_NN1 ,_Y and_CC hard_JJ_RR work_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0    9 Flipping for Backflips I was born with a birth defect called spina bifida that affects one in 1,000 pregnancy , the spinal cord developing in the fetus gets damaged .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0    9 Flipping_JJ for_IF Backflips_NN2_NP1 I_PPIS1 was_VBDZ born_VVN with_IW a_AT1 birth_NN1 defect_NN1 called_VVN_VVD@ spina_NN121 bifida_NN122 that_CST_DD1 affects_VVZ one_MC1 in_II 1,000_MC pregnancy_NN1 ,_Y the_AT spinal_JJ cord_NN1 developing_VVG in_II the_AT fetus_NN1 gets_VVZ damaged_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   10 In Latin , spina bifida means " split spine " because Sitting and Soaring the result is the same as when someone has an accident that severs the spinal cord .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   10 In_II Latin_NN1_JJ ,_Y spina_NN121 bifida_NN122 means_VVZ_NN "_Y split_JJ spine_NN1 "_Y because_CS Sitting_VVG_NN1 and_CC Soaring_VVG@ the_AT result_NN1 is_VBZ the_AT same_DA as_CSA when_CS someone_PN1 has_VHZ an_AT1 accident_NN1 that_CST_DD1 severs_VVZ the_AT spinal_JJ cord_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   11 So how did I get the idea for hardcore sitting ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   11 So_RR how_RRQ did_VDD I_PPIS1 get_VVI the_AT idea_NN1 for_IF hardcore_NN1 sitting_VVG_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   12 It started with my brother , Brian .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   12 It_PPH1 started_VVD with_IW my_APPGE brother_NN1 ,_Y Brian_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   13 When I was little , I would go watch him at skate parks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   13 When_CS_RRQ I_PPIS1 was_VBDZ little_JJ ,_Y I_PPIS1 would_VM go_VVI watch_VV0 him_PPHO1 at_II skate_NN1 parks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   14 Then one day , he said I should give it a try in my wheelchair .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   14 Then_RT one_MC1 day_NNT1 ,_Y he_PPHS1 said_VVD I_PPIS1 should_VM give_VVI it_PPH1 a_AT1 try_NN1@ in_II my_APPGE wheelchair_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   15 I took his advice , and I was immediately hooked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   15 I_PPIS1 took_VVD his_APPGE advice_NN1 ,_Y and_CC I_PPIS1 was_VBDZ immediately_RR hooked_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   16 After a few years , I could do all sorts of stunts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   16 After_CS_II a_AT1 few_DA2 years_NNT2 ,_Y I_PPIS1 could_VM do_VDI all_DB sorts_NN2 of_IO stunts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   17 Then some of my friends started talking about how cool it would be if I could do a backflip .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   17 Then_RT some_DD of_IO my_APPGE friends_NN2 started_VVD talking_VVG about_II how_RGQ@_RRQ cool_RR@_JJ_VV0@ it_PPH1 would_VM be_VBI if_CS_CSW@ I_PPIS1 could_VM do_VDI a_AT1 backflip_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   18 When I mentioned it to my mom , she said " no way !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   18 When_CS_RRQ I_PPIS1 mentioned_VVD it_PPH1 to_II my_APPGE mom_NN1 ,_Y she_PPHS1 said_VVD "_Y no_AT way_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   19 " until we found Woodward , a training camp for action sports .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   19 "_Y until_CS we_PPIS2 found_VVD Woodward_NP1 ,_Y a_AT1 training_NN1 camp_NN1 for_IF action_NN1 sports_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   20 They had a pit made of foam where I could practice safely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   20 They_PPHS2 had_VHD a_AT1 pit_NN1 made_VVN of_IO foam_NN1 where_CS_RRQ I_PPIS1 could_VM practice_NN1 safely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   21 I felt triumphant the first time I did a successful flip , but it was many times .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   21 I_PPIS1 felt_VVD triumphant_JJ the_AT first_MD time_NNT1 I_PPIS1 did_VDD a_AT1 successful_JJ flip_NN1 ,_Y but_CCB it_PPH1 was_VBDZ many_DA2 times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   22 It took me a moment to realize I had done it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   22 It_PPH1 took_VVD me_PPIO1 a_AT1 moment_NN1 to_TO realize_VVI I_PPIS1 had_VHD done_VDN it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   23 Luckily , a photographer caught it on tape , so I knew it was real .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   23 Luckily_RR ,_Y a_AT1 photographer_NN1 caught_VVD_VVN it_PPH1 on_II tape_NN1 ,_Y so_CS@_RR I_PPIS1 knew_VVD it_PPH1 was_VBDZ real_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   24 To the Extreme My high-flying stunts take a lot of practice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   24 To_II the_AT Extreme_JJ_NN1@ My_APPGE high-flying_JJ stunts_NN2 take_VV0 a_AT1 lot_NN1 of_IO practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   25 I go to the skate park every day to work on flips , stay in shape , and try out new tricks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   25 I_PPIS1 go_VV0 to_II the_AT skate_NN1 park_NN1_VV0@ every_AT1 day_NNT1 to_TO@_II work_VVI_NN1 on_II_RP@ flips_NN2@_VVZ ,_Y stay_VV0 in_II_RP@ shape_NN1 ,_Y and_CC try_VV0 out_RP new_JJ tricks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   26 What I do can be dangerous , so I always wear a helmet and elbow pads .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   26 What_DDQ I_PPIS1 do_VD0 can_VM be_VBI dangerous_JJ ,_Y so_CS@_RR I_PPIS1 always_RR wear_VV0 a_AT1 helmet_NN1 and_CC elbow_NN1 pads_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   27 I 've broken my elbow three times , hit my head hard enough to see stars ( even in the helmet ) , and I 've strained all the muscles in my back .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   27 I_PPIS1 've_VH0 broken_VVN my_APPGE elbow_NN1 three_MC times_NNT2 ,_Y hit_VVD my_APPGE head_NN1 hard_RR enough_RR_DD to_TO see_VVI stars_NN2 (_Y even_RR in_II the_AT helmet_NN1 )_Y ,_Y and_CC I_PPIS1 've_VH0 strained_VVN all_DB the_AT muscles_NN2 in_II my_APPGE back_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   28 The helmet has saved my life too many times to count !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   28 The_AT helmet_NN1 has_VHZ saved_VVN my_APPGE life_NN1 too_RG many_DA2 times_NNT2 to_TO count_VVI !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   29 Still , I keep going , because for me , it 's like therapy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   29 Still_RR ,_Y I_PPIS1 keep_VV0 going_VVG ,_Y because_CS for_IF me_PPIO1 ,_Y it_PPH1 's_VBZ like_JJ@_II therapy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   30 When I 'm in a bad mood , it pulls me out of it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   30 When_CS_RRQ I_PPIS1 'm_VBM in_II a_AT1 bad_JJ mood_NN1 ,_Y it_PPH1 pulls_VVZ me_PPIO1 out_II21 of_II22 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   31 Gearing Up I have a lot of goals for the future , like completing a double backflip ( two full rotations in the air ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   31 Gearing_VVG Up_RP I_PPIS1 have_VH0 a_AT1 lot_NN1 of_IO goals_NN2 for_IF the_AT future_NN1_JJ ,_Y like_II completing_VVG a_AT1 double_JJ backflip_NN1 (_Y two_MC full_JJ rotations_NN2 in_II the_AT air_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   32 I also want hardcore sitting to Games .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   32 I_PPIS1 also_RR want_VV0 hardcore_NN1_VV0 sitting_VVG to_TO Games_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   33 It would be great if all sporting events included a category for athletes who are disabled , rather than giving them a separate event .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   33 It_PPH1 would_VM be_VBI great_JJ if_CS all_DB sporting_NN1 events_NN2 included_VVD_VVN a_AT1 category_NN1 for_IF athletes_NN2 who_PNQS are_VBR disabled_JJ_VVN@ ,_Y rather_II21 than_II22 giving_VVG them_PPHO2 a_AT1 separate_JJ event_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   34 I also plan to start an athletic wheelchair company .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   34 I_PPIS1 also_RR plan_VV0 to_TO start_VVI an_AT1 athletic_JJ wheelchair_NN1 company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   35 Recently , I appeared on the TV show Secret Millionaire , where I received $20,000 to help me pursue my dreams of designing athletic chairs and teaching others how to do wheelchair stunts like I do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   35 Recently_RR ,_Y I_PPIS1 appeared_VVD on_II the_AT TV_NN1 show_VV0_NN1 Secret_JJ_NN1 Millionaire_NN1 ,_Y where_CS_RRQ I_PPIS1 received_VVD $20,000_NNU to_TO help_VVI me_PPIO1 pursue_VVI my_APPGE dreams_NN2 of_IO designing_VVG athletic_JJ chairs_NN2 and_CC teaching_VVG_NN1 others_NN2 how_RRQ to_TO do_VDI wheelchair_NN1 stunts_NN2 like_VV0@_CS% I_PPIS1 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   36 My sport is about adrenaline and determination : No matter what the future brings , I will never give up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   36 My_APPGE sport_NN1 is_VBZ about_II adrenaline_NN1 and_CC determination_NN1 :_Y No_DDQV31 matter_DDQV32 what_DDQV33 the_AT future_NN1 brings_VVZ ,_Y I_PPIS1 will_VM never_RR give_VVI up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   37 Dig Deeper READING COMPREHENSION 1 Which adjectives BEST describe Aaron ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   37 Dig_VV0 Deeper_JJR_RRR READING_NN1_VVG_NP1 COMPREHENSION_NN1 1_MC1 Which_DDQ adjectives_NN2 BEST_RRT describe_VV0 Aaron_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   38 pre-formatted table Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   38 pre-formatted_ZZ table_NN1 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   39 Aaron writes that he , " felt triumphant the first time I did a successful flip , but it was also kind of a shock .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   39 Aaron_NP1 writes_VVZ that_CST he_PPHS1 ,_Y "_Y felt_VVD_VVN triumphant_JJ the_AT first_MD time_NNT1 I_PPIS1 did_VDD a_AT1 successful_JJ flip_NN1 ,_Y but_CCB it_PPH1 was_VBDZ also_RR kind_NN1_RR21% of_IO_RR22 a_AT1 shock_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   40 " Have you felt triumphant after accomplishing something for the first time ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   40 "_Y Have_VH0 you_PPY felt_VVN triumphant_JJ after_II accomplishing_VVG something_PN1 for_IF the_AT first_MD time_NNT1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   41 Were you shocked that you accomplished this thing ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   41 Were_VBDR you_PPY shocked_VVN that_CST you_PPY accomplished_VVD this_DD1 thing_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   42 Write about the experience in a personal essay .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   42 Write_VV0 about_II the_AT experience_NN1 in_II a_AT1 personal_JJ essay_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   43 PHOTO ( COLOR ) : Aaron Fotheringham , AKA Wheelz , performs daredevil stunts in his wheelchair .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   43 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Aaron_NP1 Fotheringham_NP1 ,_Y AKA_NP1 Wheelz_NP1 ,_Y performs_VVZ daredevil_NN1 stunts_NN2 in_II his_APPGE wheelchair_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   44 PHOTO ( COLOR ) : stunt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   44 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y stunt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  A    0   45 By Aaron Fotheringham
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080224 COCA  B    0   45 By_II Aaron_NP1 Fotheringham_NP1

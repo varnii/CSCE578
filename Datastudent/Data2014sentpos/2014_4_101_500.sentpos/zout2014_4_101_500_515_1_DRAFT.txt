@@ -1,0 +1,90 @@
+SENTPOS 2014_4_101_500_515_1 DRAFT A    0    0 Close reading a story can be very challenging , but it can also be very interesting .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    0    0 Close_VV0 reading_VVG a_AT1 story_NN1 can_VM be_VBI very_RG challenging_JJ ,_, but_CCB it_PPH1 can_VM also_RR be_VBI very_RG interesting_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    0    1 When you analyze a text you can see many different ways a word can mean something .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    0    1 When_CS you_PPY analyze_VV0 a_AT1 text_NN1 you_PPY can_VM see_VVI many_DA2 different_JJ ways_NN2 a_AT1 word_NN1 can_VM mean_VVI something_PN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    0    2 It can help you understand the story better as well as the author .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    0    2 It_PPH1 can_VM help_VVI you_PPY understand_VVI the_AT story_NN1 better_RRR as_II31 well_II32 as_II33 the_AT author_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    0    3 " The Necklace " is a story about a very charming lady named Mme. Loisel who does not have very much money .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    0    3 "_" The_AT Necklace_NN1 "_" is_VBZ a_AT1 story_NN1 about_II a_AT1 very_RG charming_JJ lady_NN1 named_VVD Mme._NNB Loisel_NP1 who_PNQS does_VDZ not_XX have_VHI very_RG much_DA1 money_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    0    4 She was invited to attend The Palace of Ministry but was very concerned with what she was going to wear .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    0    4 She_PPHS1 was_VBDZ invited_VVN to_TO attend_VVI The_AT Palace_NN1 of_IO Ministry_NN1 but_CCB was_VBDZ very_RG concerned_JJ with_IW what_DDQ she_PPHS1 was_VBDZ going_VVGK to_TO wear_VVI ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    0    5 There are many different things that happen in this story and some of them are , her personality changes , the word choice compared to the storyline , and the overall message of the story .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    0    5 There_EX are_VBR many_DA2 different_JJ things_NN2 that_CST happen_VV0 in_II this_DD1 story_NN1 and_CC some_DD of_IO them_PPHO2 are_VBR ,_, her_APPGE personality_NN1 changes_NN2 ,_, the_AT word_NN1 choice_NN1 compared_VVN to_II the_AT storyline_NN1 ,_, and_CC the_AT overall_JJ message_NN1 of_IO the_AT story_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1    6 At the beginning of the story they express Mme. Loisel 's personality .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1    6 At_II the_AT beginning_NN1 of_IO the_AT story_NN1 they_PPHS2 express_VV0 Mme._NNB Loisel_NP1 's_GE personality_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1    7 They say she is a very charming sweet lady who has no expectations .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1    7 They_PPHS2 say_VV0 she_PPHS1 is_VBZ a_AT1 very_RG charming_JJ sweet_JJ lady_NN1 who_PNQS has_VHZ no_AT expectations_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1    8 Of course when she get the invite to the Ministry that all changes .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1    8 Of_RR21 course_RR22 when_CS she_PPHS1 get_VV0 the_AT invite_NN1% to_II the_AT Ministry_NN1 that_CST all_DB changes_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1    9 All of a sudden she has expectations and begins to get worried about what she is going to wear and how it is going to compare to all the other women .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1    9 All_RR41 of_RR42 a_RR43 sudden_RR44 she_PPHS1 has_VHZ expectations_NN2 and_CC begins_VVZ to_TO get_VVI worried_JJ about_II what_DDQ she_PPHS1 is_VBZ going_VVGK to_TO wear_VVI and_CC how_RRQ it_PPH1 is_VBZ going_VVGK to_TO compare_VVI to_II all_DB the_AT other_JJ women_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1   10 She states : " And what do you want me to put on my back . "
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1   10 She_PPHS1 states_VVZ :_: "_" And_CC what_DDQ do_VD0 you_PPY want_VVI me_PPIO1 to_TO put_VVI on_RP my_APPGE back_NN1 ._. "_"
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1   11 ( Maupassant , 23 ) This shows her personality change because she is not trying to find a way to make it work best for her .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1   11 (_( Maupassant_NN1 ,_, 23_MC )_) This_DD1 shows_VVZ her_APPGE personality_NN1 change_NN1 because_CS she_PPHS1 is_VBZ not_XX trying_VVG to_TO find_VVI a_AT1 way_NN1 to_TO make_VVI it_PPH1 work_VVI best_RRT for_IF her_PPHO1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1   12 Although the end of the story her personality changes back .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1   12 Although_CS the_AT end_NN1 of_IO the_AT story_NN1 her_APPGE personality_NN1 changes_VVZ@ back_RP ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    1   13 When she realizes she has lost the expensive necklace she does everything she can in order to return it in the condition that she borrowed it in .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    1   13 When_CS she_PPHS1 realizes_VVZ she_PPHS1 has_VHZ lost_VVN the_AT expensive_JJ necklace_NN1 she_PPHS1 does_VDZ everything_PN1 she_PPHS1 can_VM in_II order_VVI to_TO return_VVI it_PPH1 in_II the_AT condition_NN1 that_CST she_PPHS1 borrowed_VVD it_PPH1 in_RP@ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    2   14 The word choice in this story was very elegant and elaborate .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    2   14 The_AT word_NN1 choice_NN1 in_II this_DD1 story_NN1 was_VBDZ very_RG elegant_JJ and_CC elaborate_VV0 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    2   15 The elegant words matched with the elegant ball that Mme. Loisel was invited too .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    2   15 The_AT elegant_JJ words_NN2 matched_VVN with_IW the_AT elegant_JJ ball_NN1 that_CST Mme._NNB Loisel_NP1 was_VBDZ invited_VVN too_RR@ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    2   16 She had explained how she really needed a nice dress to fit it .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    2   16 She_PPHS1 had_VHD explained_VVN how_RRQ she_PPHS1 really_RR needed_VVN a_AT1 nice_JJ dress_NN1 to_TO fit_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    2   17 Although the words are not big and hard to understand , it is elegant because of the setting that they are in and where she is attending .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    2   17 Although_CS the_AT words_NN2 are_VBR not_XX big_JJ and_CC hard_JJ to_TO understand_VVI ,_, it_PPH1 is_VBZ elegant_JJ because_II21 of_II22 the_AT setting_NN1 that_CST they_PPHS2 are_VBR in_RP@ and_CC where_RRQ she_PPHS1 is_VBZ attending_VVG ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    2   18 Although they used elegant words they did a very good job of elaborating so the reader could understand .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    2   18 Although_CS they_PPHS2 used_VVD elegant_JJ words_NN2 they_PPHS2 did_VDD a_AT1 very_RG good_JJ job_NN1 of_IO elaborating_VVG so_RR the_AT reader_NN1 could_VM understand_VVI ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    3   19 There were many different parts of the story that were elaborated to make the reader understand why some things were so important and such a big deal .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    3   19 There_EX were_VBDR many_DA2 different_JJ parts_NN2 of_IO the_AT story_NN1 that_CST were_VBDR elaborated_VVN to_TO make_VVI the_AT reader_NN1 understand_VVI why_RRQ some_DD things_NN2 were_VBDR so_RG important_JJ and_CC such_DA a_AT1 big_JJ deal_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    3   20 One of the things they said was how the necklace looked .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    3   20 One_MC1 of_IO the_AT things_NN2 they_PPHS2 said_VVD was_VBDZ how_RRQ the_AT necklace_NN1 looked_VVD ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    3   21 They elaborated on that so that the reader understood why it was such a big deal when they lost the necklace .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    3   21 They_PPHS2 elaborated_VVD on_RP@ that_CST so_CS21 that_CS22 the_AT reader_NN1 understood_VVD why_RRQ it_PPH1 was_VBDZ such_DA a_AT1 big_JJ deal_NN1 when_CS they_PPHS2 lost_VVD the_AT necklace_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    4   22 They said " All of a sudden she discovered , in a black satin box , a superb necklace of diamonds , and her heart began to beat with an immoderate desire .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    4   22 They_PPHS2 said_VVD "_" All_RR41 of_RR42 a_RR43 sudden_RR44 she_PPHS1 discovered_VVD ,_, in_II a_AT1 black_JJ satin_NN1 box_NN1 ,_, a_AT1 superb_JJ necklace_NN1 of_IO diamonds_NN2 ,_, and_CC her_APPGE heart_NN1 began_VVD to_TO beat_VVI with_IW an_AT1 immoderate_JJ desire_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    4   23 Her hands trembled as she took it .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    4   23 Her_APPGE hands_NN2 trembled_VVD as_CSA she_PPHS1 took_VVD it_PPH1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    4   24 She fastened it around her throat , outside her high-necked dress , and remained lost in ecstasy at the sight of herself .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    4   24 She_PPHS1 fastened_VVD it_PPH1 around_RP her_APPGE throat_NN1 ,_, outside_II her_APPGE high-necked_JJ dress_NN1 ,_, and_CC remained_VVD lost_VVN in_II ecstasy_NN1 at_II the_AT sight_NN1 of_IO herself_PPX1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    4   25 They showed how big of a deal it was to Mme. Loisel to wear this necklace because she was so excited when she first saw it . "
+SENTPOS 2014_4_101_500_515_1 DRAFT B    4   25 They_PPHS2 showed_VVD how_RGQ@ big_JJ of_IO a_AT1 deal_NN1 it_PPH1 was_VBDZ to_II Mme._NNB Loisel_NP1 to_TO wear_VVI this_DD1 necklace_NN1 because_CS she_PPHS1 was_VBDZ so_RG excited_JJ when_CS she_PPHS1 first_MD saw_VVD it_PPH1 ._. "_"
+SENTPOS 2014_4_101_500_515_1 DRAFT A    5   26 ( Maupassant , 24 ) The other way they elaborated throughout the story was 10 years later when Mme. Loisel had worked to pay all the money back for the necklace .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    5   26 (_( Maupassant_NN1 ,_, 24_MC )_) The_AT other_JJ way_NN1 they_PPHS2 elaborated_VVD throughout_II the_AT story_NN1 was_VBDZ 10_MC years_NNT2 later_RRR when_CS Mme._NNB Loisel_NP1 had_VHD worked_VVN to_TO pay_VVI all_DB the_AT money_NN1 back_NN1 for_IF the_AT necklace_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    5   27 They explained how she looked worn out and she had aged a lot .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    5   27 They_PPHS2 explained_VVD how_RRQ she_PPHS1 looked_VVD worn_VVN out_RP and_CC she_PPHS1 had_VHD aged_VVN a_AT1 lot_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    5   28 Mme. Forestier did not even recognize who she was .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    5   28 Mme._NNB Forestier_NP1 did_VDD not_XX even_RR recognize_VVI who_PNQS she_PPHS1 was_VBDZ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    5   29 Using these techniques to explain the story gives you a sense of what was really going on and how some of these things were a big deal and it really did have an impact on the characters lifes .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    5   29 Using_VVG these_DD2 techniques_NN2 to_TO explain_VVI the_AT story_NN1 gives_VVZ you_PPY a_AT1 sense_NN1 of_IO what_DDQ was_VBDZ really_RR going_VVG on_RP@ and_CC how_RRQ some_DD of_IO these_DD2 things_NN2 were_VBDR a_AT1 big_JJ deal_NN1 and_CC it_PPH1 really_RR did_VDD have_VHI an_AT1 impact_NN1 on_II the_AT characters_NN2 lifes_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    6   30 The overall goal of an author is to tell a story .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    6   30 The_AT overall_JJ goal_NN1 of_IO an_AT1 author_NN1 is_VBZ to_TO tell_VVI a_AT1 story_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    6   31 They always have some type of lesson or something that they want the reader to get out of this story .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    6   31 They_PPHS2 always_RR have_VH0 some_DD type_NN1 of_IO lesson_NN1 or_CC something_PN1 that_CST they_PPHS2 want_VV0 the_AT reader_NN1 to_TO get_VVI out_II21 of_II22 this_DD1 story_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    6   32 In this particular story they want the reader to get certain aspect out of it such as , if some people have nothing there are solutions to getting what they want , honesty is the best policy , and even if things are not extremely expensive they can still be nice .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    6   32 In_II this_DD1 particular_JJ story_NN1 they_PPHS2 want_VV0 the_AT reader_NN1 to_TO get_VVI certain_JJ aspect_NN1 out_II21 of_II22 it_PPH1 such_II21 as_II22 ,_, if_CS some_DD people_NN have_VH0 nothing_PN1 there_RL are_VBR solutions_NN2 to_II getting_VVG what_DDQ they_PPHS2 want_VV0 ,_, honesty_NN1 is_VBZ the_AT best_JJT policy_NN1 ,_, and_CC even_CS21 if_CS22 things_NN2 are_VBR not_XX extremely_RR expensive_JJ they_PPHS2 can_VM still_RR be_VBI nice_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    7   33 If a person has nothing there are solutions and even if things are not extremely expensive they can still be nice are two that go hand in hand .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    7   33 If_CS a_AT1 person_NN1 has_VHZ nothing_PN1 there_RL are_VBR solutions_NN2 and_CC even_CS21 if_CS22 things_NN2 are_VBR not_XX extremely_RR expensive_JJ they_PPHS2 can_VM still_RR be_VBI nice_JJ are_VBR two_MC that_CST go_VV0 hand_NN1 in_II hand_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    7   34 If you do not have a lot of cash to spend but still want something nice , there is a way .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    7   34 If_CS you_PPY do_VD0 not_XX have_VHI a_AT1 lot_NN1 of_IO cash_NN1 to_TO spend_VVI but_CCB still_RR want_VV0 something_PN1 nice_JJ ,_, there_EX is_VBZ a_AT1 way_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    7   35 Although it might not be real diamonds and the best quality , you can still find a way to get something nice .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    7   35 Although_CS it_PPH1 might_VM not_XX be_VBI real_JJ diamonds_NN2 and_CC the_AT best_JJT quality_NN1 ,_, you_PPY can_VM still_RR find_VVI a_AT1 way_NN1 to_TO get_VVI something_PN1 nice_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    7   36 Mme. Forestier had a necklace that Mme. Loisel thought was very expensive .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    7   36 Mme._NNB Forestier_NP1 had_VHD a_AT1 necklace_NN1 that_CST Mme._NNB Loisel_NP1 thought_NN1 was_VBDZ very_RG expensive_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    7   37 Although it was not , it still looked nice and it was possible to own something that looked very nice .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    7   37 Although_CS it_PPH1 was_VBDZ not_XX ,_, it_PPH1 still_RR looked_VVN nice_JJ and_CC it_PPH1 was_VBDZ possible_JJ to_TO own_VVI something_PN1 that_CST looked_VVD very_RG nice_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    8   38 The last one is honesty .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    8   38 The_AT last_MD one_PN1 is_VBZ honesty_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    8   39 Everyone always says honesty is the best policy and its true .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    8   39 Everyone_PN1 always_RR says_VVZ honesty_NN1 is_VBZ the_AT best_JJT policy_NN1 and_CC its_APPGE true_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    8   40 If Mme. Forestier had told Mme. Loisel that the necklace was a fake and cheaper version she would never have spent most of her life trying to pay back what she thought was a very expensive piece of jewelry .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    8   40 If_CS Mme._NNB Forestier_NP1 had_VHD told_VVN Mme._NNB Loisel_NP1 that_CST the_AT necklace_NN1 was_VBDZ a_AT1 fake_JJ and_CC cheaper_JJR version_NN1 she_PPHS1 would_VM never_RR have_VHI spent_VVN most_DAT of_IO her_APPGE life_NN1 trying_VVG to_TO pay_VVI back_RP what_DDQ she_PPHS1 thought_VVD was_VBDZ a_AT1 very_RG expensive_JJ piece_NN1 of_IO jewelry_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    8   41 Also is Mme. Loisel had told Mme. Forestier right away that she lost the necklace then she would have understood it was not a huge deal because it was not extremely expensive .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    8   41 Also_RR is_VBZ Mme._NNB Loisel_NP1 had_VHD told_VVN Mme._NNB Forestier_NP1 right_RR away_RL that_CST she_PPHS1 lost_VVD the_AT necklace_NN1 then_RT she_PPHS1 would_VM have_VHI understood_VVN it_PPH1 was_VBDZ not_XX a_AT1 huge_JJ deal_NN1 because_CS it_PPH1 was_VBDZ not_XX extremely_RR expensive_JJ ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    9   42 Close reading can be done in many different ways .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    9   42 Close_JJ reading_NN1 can_VM be_VBI done_VDN in_II many_DA2 different_JJ ways_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    9   43 It is challenging to pick out those ways but some of them are , to pick apart each line of the story , to understand what the authors meaning of the story is , and to be able to put the story together as a whole and understand what it is they are talking about .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    9   43 It_PPH1 is_VBZ challenging_VVG to_TO pick_VVI out_RP those_DD2 ways_NN2 but_CCB some_DD of_IO them_PPHO2 are_VBR ,_, to_TO pick_VVI apart_RL each_DD1 line_NN1 of_IO the_AT story_NN1 ,_, to_TO understand_VVI what_DDQ the_AT authors_NN2 meaning_NN1 of_IO the_AT story_NN1 is_VBZ ,_, and_CC to_TO be_VBI able_JK to_TO put_VVI the_AT story_NN1 together_RL as_II a_AT1 whole_NN1 and_CC understand_VV0 what_DDQ it_PPH1 is_VBZ they_PPHS2 are_VBR talking_VVG about_II ._.
+SENTPOS 2014_4_101_500_515_1 DRAFT A    9   43  In order to really understand a story and be able to explain it to someone else , you should really be able to explain what it is about and give examples .
+SENTPOS 2014_4_101_500_515_1 DRAFT B    9   43  In_II order_NN1 to_TO really_RR understand_VVI a_AT1 story_NN1 and_CC be_VBI able_JK to_TO explain_VVI it_PPH1 to_II someone_PN1 else_RR ,_, you_PPY should_VM really_RR be_VBI able_JK to_TO explain_VVI what_DDQ it_PPH1 is_VBZ about_RP@ and_CC give_VVI examples_NN2 ._.

@@ -1,0 +1,246 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    0 JAMES NEAL HAS BEEN TRYING cases for nearly five decades .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    0 JAMES_NP1 NEAL_NP1 HAS_VHZ BEEN_VBN TRYING_VVG cases_NN2 for_IF nearly_RR five_MC decades_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    1 He 's gotten a lot of advice over the years from judges , lawyers and law professors about what it takes to be successful in court .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    1 He_PPHS1 's_VBZ_VHZ@ gotten_VVN a_AT1 lot_NN1 of_IO advice_NN1 over_II the_AT years_NNT2 from_II judges_NN2 ,_Y lawyers_NN2 and_CC law_NN1 professors_NN2 about_II what_DDQ it_PPH1 takes_VVZ to_TO be_VBI successful_JJ in_II court_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    2 But the best counsel came from his college football coach at the University of Wyoming , where Neal was a running back in 1951 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    2 But_CCB the_AT best_JJT counsel_NN1 came_VVD from_II his_APPGE college_NN1 football_NN1 coach_NN1_VV0 at_II the_AT University_NN1 of_IO Wyoming_NP1 ,_Y where_CS_RRQ Neal_NP1 was_VBDZ a_AT1 running_JJ_NN1 back_NN1_RP in_II 1951_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    3 " The coach used to say , ' The team with the fewest mistakes during the game will win , ' " says Neal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    3 "_Y The_AT coach_NN1 used_VMK to_TO say_VVI ,_Y '_GE_"@ The_AT team_NN1 with_IW the_AT fewest_DAT mistakes_NN2 during_II the_AT game_NN1 will_VM win_VVI ,_Y '_"@_GE "_Y says_VVZ Neal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    4 " It was true in football and it is true in the courtroom .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    4 "_Y It_PPH1 was_VBDZ true_JJ in_II football_NN1 and_CC it_PPH1 is_VBZ true_JJ in_II the_AT courtroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    5 " <p> The axiom has served him -- and his clients -- well .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    5 "_Y <p>_Y The_AT axiom_NN1 has_VHZ served_VVN him_PPHO1 --_ZZ and_CC his_APPGE clients_NN2 --_ZZ well_NN1@_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    6 Despite scores and scores of trials under his belt , Neal can count on one hand the number .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    6 Despite_II scores_NN2 and_CC scores_NN2 of_IO trials_NN2 under_II his_APPGE belt_NN1 ,_Y Neal_NP1 can_VM count_VVI on_II one_MC1 hand_NN1 the_AT number_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    7 of times a jury has ruled against his client .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    7 of_IO times_NNT2 a_AT1 jury_NN1 has_VHZ ruled_VVN against_II his_APPGE client_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    8 <p> That 's not a bad record , considering that Neal , who turns 80 this September , has handled some of the toughest cases ever .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    8 <p>_Y That_DD1 's_VBZ not_XX a_AT1 bad_JJ record_NN1 ,_Y considering_CS21 that_CS22 Neal_NP1 ,_Y who_PNQS turns_VVZ 80_MC this_DD1 September_NPM1 ,_Y has_VHZ handled_VVN some_DD of_IO the_AT toughest_JJT cases_NN2 ever_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0    9 He prosecuted Jimmy Hoffa and the central figures in the Watergate scandal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0    9 He_PPHS1 prosecuted_VVD Jimmy_NP1 Hoffa_NP1 and_CC the_AT central_JJ figures_NN2 in_II the_AT Watergate_NP1 scandal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   10 He 's defended movie director John Landis and the Ford Motor Co .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   10 He_PPHS1 's_VBZ_VHZ@ defended_VVN movie_NN1 director_NN1 John_NP1 Landis_NP1 and_CC the_AT Ford_NP1_NN1@ Motor_NN1 Co_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   11 In each case , colleagues and .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   11 In_II each_DD1 case_NN1 ,_Y colleagues_NN2 and_CC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   12 judges told Neal that he had no chance of winning .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   12 judges_NN2 told_VVD_VVN Neal_NP1 that_CST he_PPHS1 had_VHD no_AT chance_NN1 of_IO winning_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   13 <p> " But they did n't understand how much I hate losing , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   13 <p>_Y "_Y But_CCB they_PPHS2 did_VDD n't_XX understand_VVI how_RGQ@ much_DA1 I_PPIS1 hate_VV0 losing_VVG_NN1@_JJ@ ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   14 " Yeah , I love winning .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   14 "_Y Yeah_UH ,_Y I_PPIS1 love_VV0 winning_VVG_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   15 But I hate losing even more .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   15 But_CCB I_PPIS1 hate_VV0 losing_VVG even_RR more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   16 Just the thought of losing makes my body shrink from 5 ' 8 " to 5 ' 6 " .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   16 Just_RR the_AT thought_NN1 of_IO losing_NN1@_VVG makes_VVZ my_APPGE body_NN1 shrink_NN1_VV0 from_II 5_MC '_GE 8_MC "_Y to_II 5_MC '_GE 6_MC "_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   17 " <p> Neal had no early dreams about being a great trial lawyer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   17 "_Y <p>_Y Neal_NP1 had_VHD no_AT early_JJ dreams_NN2 about_II being_VBG a_AT1 great_JJ trial_NN1 lawyer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   18 He was n't much of a student in college .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   18 He_PPHS1 was_VBDZ n't_XX much_DA1 of_IO a_AT1 student_NN1 in_II college_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   19 " I scheduled all my classes in the morning so that when I woke up at noon , I would already be done for the day , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   19 "_Y I_PPIS1 scheduled_VVD@ all_DB my_APPGE classes_NN2 in_II the_AT morning_NNT1 so_CS21 that_CS22 when_CS I_PPIS1 woke_VVD up_RP at_II noon_NNT1 ,_Y I_PPIS1 would_VM already_RR be_VBI done_VDN for_IF the_AT day_NNT1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   20 <p> In law school at Vanderbilt University in Nashville , he decided he wanted to be a tax lawyer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   20 <p>_Y In_II law_NN1 school_NN1 at_II Vanderbilt_NP1_NN1 University_NN1 in_II Nashville_NP1 ,_Y he_PPHS1 decided_VVD he_PPHS1 wanted_VVD to_TO be_VBI a_AT1 tax_NN1 lawyer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   21 His dream was to lead the tax division of the U.S. Department of Justice .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   21 His_APPGE dream_NN1 was_VBDZ to_TO lead_VVI the_AT tax_NN1 division_NN1 of_IO the_AT U.S._NP1 Department_NN1 of_IO Justice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   22 <p> So Neal took night classes at Georgetown University Law Center to get an advanced degree in tax law .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   22 <p>_Y So_RR Neal_NP1 took_VVD night_NNT1 classes_NN2 at_II Georgetown_NP1 University_NN1 Law_NN1 Center_NN1 to_TO get_VVI an_AT1 advanced_JJ degree_NN1 in_II tax_NN1 law_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   23 <p> In Robert F. Kennedy was looking for a handful of bright young lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   23 <p>_Y In_II Robert_NP1 F._NP1 Kennedy_NP1 was_VBDZ looking_VVG for_IF a_AT1 handful_NN1 of_IO bright_JJ young_JJ lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   24 Their mutual friend , newspaper editor John Seigenthaler , set up a meeting .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   24 Their_APPGE mutual_JJ friend_NN1 ,_Y newspaper_NN1 editor_NN1 John_NP1 Seigenthaler_NP1 ,_Y set_VVD_VV0_VVN up_RP a_AT1 meeting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   25 <p> A week later , Kennedy called Neal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   25 <p>_Y A_AT1 week_NNT1 later_RRR ,_Y Kennedy_NP1 called_VVD@ Neal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   26 " Bobby told me that I should do what he needed me to do instead of what I wanted to do , " says Neal , who was asked to lead the prosecutions against corrupt labor union leaders .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   26 "_Y Bobby_NP1 told_VVD me_PPIO1 that_CST I_PPIS1 should_VM do_VDI what_DDQ he_PPHS1 needed_VVD me_PPIO1 to_TO do_VDI instead_II21 of_II22 what_DDQ I_PPIS1 wanted_VVD to_TO do_VDI ,_Y "_Y says_VVZ Neal_NP1 ,_Y who_PNQS was_VBDZ asked_VVN@ to_TO lead_VVI the_AT prosecutions_NN2 against_II corrupt_JJ labor_NN1 union_NN1 leaders_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   27 " I told him I did n't have any trial experience .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   27 "_Y I_PPIS1 told_VVD him_PPHO1 I_PPIS1 did_VDD n't_XX have_VHI any_DD trial_NN1 experience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   28 He told me , ' That 's OK because I do n't have any experience being attorney general either .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   28 He_PPHS1 told_VVD me_PPIO1 ,_Y '_"@_GE That_DD1 's_VBZ OK_JJ because_CS I_PPIS1 do_VD0 n't_XX have_VHI any_DD experience_NN1 being_VBG attorney_NN1 general_JJ either_RR_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   29 ' " <p> L : JAMES VS .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   29 '_"@_GE "_Y <p>_Y L_ZZ1_NP1@ :_Y JAMES_NP1 VS_II ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   30 JIMMY OF ALL THE FAMOUS CASES HE 'S HANdled , Neal says he 's asked to speak most often about his prosecution of Teamsters President Jimmy Hoffa .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   30 JIMMY_NP1 OF_IO ALL_DB THE_AT FAMOUS_JJ CASES_NN2 HE_PPHS1 'S_VBZ_VHZ@ HANdled_VVN ,_Y Neal_NP1 says_VVZ he_PPHS1 's_VBZ_VHZ@ asked_VVN@ to_TO speak_VVI most_RGT often_RR about_II his_APPGE prosecution_NN1 of_IO Teamsters_NP1_NN2 President_NNB Jimmy_NP1 Hoffa_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   31 <p> " Hoffa was the toughest old bird I ever met , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   31 <p>_Y "_Y Hoffa_NP1 was_VBDZ the_AT toughest_JJT old_JJ bird_NN1 I_PPIS1 ever_RR met_VVN_VVD ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   32 " Every morning , I would sit down at the prosecution table , look over at the defense , and Hoffa would shoot me a secret finger message under the table .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   32 "_Y Every_AT1 morning_NNT1 ,_Y I_PPIS1 would_VM sit_VVI down_RP at_II the_AT prosecution_NN1 table_NN1 ,_Y look_VV0 over_RP at_II the_AT defense_NN1 ,_Y and_CC Hoffa_NP1_NN1@ would_VM shoot_VVI me_PPIO1 a_AT1 secret_JJ finger_NN1 message_NN1 under_II the_AT table_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   33 Hoffa would walk over to me , stick his chest out and tell me that we should go down to the gym , put on the gloves , so that we could settle this like men , " Neal says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   33 Hoffa_NP1 would_VM walk_VVI over_RP to_II me_PPIO1 ,_Y stick_VV0 his_APPGE chest_NN1 out_RP and_CC tell_VV0 me_PPIO1 that_CST we_PPIS2 should_VM go_VVI down_RP to_II the_AT gym_NN1 ,_Y put_VVN_VVD_VV0 on_II the_AT gloves_NN2 ,_Y so_CS21 that_CS22 we_PPIS2 could_VM settle_VVI this_DD1 like_JJ@_II men_NN2 ,_Y "_Y Neal_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   34 <p> Then there was the morning of Dec. 5 , 1962 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   34 <p>_Y Then_RT there_EX was_VBDZ the_AT morning_NNT1 of_IO Dec._NP 5_MC ,_Y 1962_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   35 The trial against Hoffa -- on charges that he used a trucking company to launder union money -- was entering its second month in federal court in Nashville .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   35 The_AT trial_NN1 against_II Hoffa_NP1 --_NN1_JJ on_II charges_NN2 that_CST he_PPHS1 used_VVD a_AT1 trucking_JJ@_NN1@ company_NN1 to_TO launder_VVI union_NN1 money_NN1 --_NN1 was_VBDZ entering_VVG its_Z' second_MD month_NNT1 in_II federal_JJ court_NN1 in_II Nashville_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   36 The eighth-floor courtroom was nearly empty when Neal noticed a young man wearing a long , tan trench coat pushing his way past the waist-high swinging doors of the bar .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   36 The_AT eighth-floor_JJ_NN1 courtroom_NN1 was_VBDZ nearly_RR empty_JJ_VV0@ when_CS_RRQ Neal_NP1 noticed_VVD a_AT1 young_JJ man_NN1 wearing_VVG a_AT1 long_JJ_RR ,_Y tan_JJ_NN1 trench_NN1 coat_NN1 pushing_VVG his_APPGE way_NN1 past_II the_AT waist-high_JJ swinging_JJ doors_NN2 of_IO the_AT bar_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   37 <p> " All of a sudden , this man pulls out from under his coat the biggest gun I had ever seen in my life , " Neal says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   37 <p>_Y "_Y All_RR41 of_RR42 a_RR43 sudden_RR44 ,_Y this_DD1 man_NN1 pulls_VVZ out_RP from_II under_II his_APPGE coat_NN1 the_AT biggest_JJT gun_NN1 I_PPIS1 had_VHD ever_RR seen_VVN in_II my_APPGE life_NN1 ,_Y "_Y Neal_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   38 " He first pointed the gun at me and then at Hoffa , and he started shooting .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   38 "_Y He_PPHS1 first_MD pointed_VVD_VVN the_AT gun_NN1 at_II me_PPIO1 and_CC then_RT at_II Hoffa_NP1 ,_Y and_CC he_PPHS1 started_VVD shooting_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   39 <p> The man , Warren Swanson , was a 28-year-old former mental patient who later told Neal that he had been driving across the country when God told him that Swanson started shooting , I hit the floor and ducked for cover , as did everyone else , " says Neal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   39 <p>_Y The_AT man_NN1 ,_Y Warren_NP1 Swanson_NP1 ,_Y was_VBDZ a_AT1 28-year-old_JJ former_DA mental_JJ patient_NN1 who_PNQS later_RRR told_VVD_VVN Neal_NP1 that_CST he_PPHS1 had_VHD been_VBN driving_VVG across_II the_AT country_NN1 when_CS_RRQ God_NP1 told_VVD him_PPHO1 that_CST Swanson_NP1 started_VVD shooting_NN1_VVG ,_Y I_PPIS1 hit_VVD the_AT floor_NN1 and_CC ducked_VVD for_IF cover_NN1 ,_Y as_CSA did_VDD everyone_PN1 else_RR ,_Y "_Y says_VVZ Neal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   40 <p> " Everyone except Hoffa .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   40 <p>_Y "_Y Everyone_PN1 except_II_CS Hoffa_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   41 Not only did Hoffa not seek cover ; Hoffa started charging toward Swanson and punched Swanson right in the face .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   41 Not_XX only_RR did_VDD Hoffa_NP1 not_XX seek_VVI cover_NN1 ;_Y Hoffa_NP1 started_VVD charging_VVG_NN1_JJ toward_II Swanson_NP1 and_CC punched_VVD Swanson_NP1 right_NN1_RR in_II the_AT face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   42 " .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   42 "_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   43 <p> " Hoffa was even a tough old bird on the witness stand , " Neal says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   43 <p>_Y "_Y Hoffa_NP1 was_VBDZ even_RR a_AT1 tough_JJ old_JJ bird_NN1 on_II the_AT witness_NN1 stand_NN1_VV0 ,_Y "_Y Neal_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   44 " He had the same answer to every question I asked : ' To the best of my recollection , I do not recollect .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   44 "_Y He_PPHS1 had_VHD the_AT same_DA answer_NN1 to_II every_AT1 question_NN1 I_PPIS1 asked_VVD :_Y '_GE_"@ To_II the_AT best_JJT_RRT of_IO my_APPGE recollection_NN1 ,_Y I_PPIS1 do_VD0 not_XX recollect_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   45 ' " <p> While that trial against Hoffa eventually ended in a mistrial , Neal got his revenge two years later when he convinced a jury that Hoffa was guilty of attempting to bribe jurors in his previous trials .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   45 '_"@_GE "_Y <p>_Y While_CS that_DD1 trial_NN1 against_II Hoffa_NP1 eventually_RR ended_VVN_VVD in_II a_AT1 mistrial_NN1 ,_Y Neal_NP1 got_VVD his_APPGE revenge_NN1 two_MC years_NNT2 later_RRR when_CS he_PPHS1 convinced_VVD@ a_AT1 jury_NN1 that_CST Hoffa_NP1 was_VBDZ guilty_JJ of_IO attempting_VVG to_TO bribe_VVI jurors_NN2 in_II his_APPGE previous_JJ trials_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   46 <p> L : UPWARD SPIRAL IN 1964 , PRESIDENT LYNDON B. Johnson appointed Neal as U.S. attorney in Nashville .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   46 <p>_Y L_ZZ1_NP1@ :_Y UPWARD_JJ SPIRAL_NN1 IN_II 1964_MC ,_Y PRESIDENT_NN1 LYNDON_NP1_NN1 B._NP1 Johnson_NP1 appointed_VVD@ Neal_NP1 as_CSA_II@ U.S._NP1 attorney_NN1 in_II Nashville_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   47 Then , in 1966 , he started his own firm , which eventually became Neal Harwell -- a partnership that has lasted for 38 years .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   47 Then_RT ,_Y in_II 1966_MC ,_Y he_PPHS1 started_VVD his_APPGE own_DA firm_NN1 ,_Y which_DDQ eventually_RR became_VVD Neal_NP1 Harwell_NP1 --_NN1_JJ a_AT1 partnership_NN1 that_CST_DD1 has_VHZ lasted_VVN for_IF 38_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   48 The firm focuses on high-profile criminal cases and civil litigation Wayne Wallace in the nation 's first-ever air piracy case to go to trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   48 The_AT firm_NN1 focuses_VVZ on_II high-profile_JJ criminal_JJ_NN1 cases_NN2 and_CC civil_JJ litigation_NN1 Wayne_NP1 Wallace_NP1 in_II the_AT nation_NN1 's_GE first-ever_JJ air_NN1 piracy_NN1 case_NN1 to_TO go_VVI to_II trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   49 The FBI charged that Wallace and his good friend George Gibbs kidnapped Gibbs ' estranged wife , who happened to be Miss Tennessee .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   49 The_AT FBI_NP1 charged_VVD that_CST Wallace_NP1 and_CC his_APPGE good_JJ friend_NN1 George_NP1 Gibbs_NP1 kidnapped_VVD Gibbs_NP1 '_GE estranged_JJ wife_NN1 ,_Y who_PNQS happened_VVD to_TO be_VBI Miss_NNB Tennessee_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   50 The two former football players at Middle Tennessee State University then hijacked a private aircraft to fly to Florida .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   50 The_AT two_MC former_DA football_NN1 players_NN2 at_II Middle_JJ_NN1 Tennessee_NP1 State_NN1 University_NN1 then_RT hijacked_VVD a_AT1 private_JJ aircraft_NN to_TO fly_VVI to_II Florida_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   51 <p> The plane landed in Jacksonville for refueling .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   51 <p>_Y The_AT plane_NN1 landed_VVN_VVD in_II Jacksonville_NP1 for_IF refueling_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   52 After the pilot triggered the notification to authorities that he had been hijacked , the FBI quickly surrounded the plane .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   52 After_CS_II the_AT pilot_NN1 triggered_VVD the_AT notification_NN1 to_II authorities_NN2 that_CST he_PPHS1 had_VHD been_VBN hijacked_VVN@ ,_Y the_AT FBI_NP1 quickly_RR surrounded_VVD_VVN the_AT plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   53 When the FBI refused Gibbs ' request for fuel and a bottle of champagne , Gibbs killed the pilot , his wife and then himself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   53 When_CS the_AT FBI_NP1 refused_VVD Gibbs_NP1 '_GE request_NN1 for_IF fuel_NN1 and_CC a_AT1 bottle_NN1 of_IO champagne_NN1 ,_Y Gibbs_NP1 killed_VVD the_AT pilot_NN1 ,_Y his_APPGE wife_NN1 and_CC then_RT_JJ% himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   54 <p> Neal argued that Wallace had been afraid of Gibbs , his former friend and teammate , and that Gibbs ' reaction to the FBI showed he had good reason .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   54 <p>_Y Neal_NP1 argued_VVD that_CST Wallace_NP1 had_VHD been_VBN afraid_JJ of_IO Gibbs_NP1 ,_Y his_APPGE former_DA friend_NN1 and_CC teammate_NN1 ,_Y and_CC that_CST Gibbs_NP1 '_GE reaction_NN1 to_II the_AT FBI_NP1 showed_VVD he_PPHS1 had_VHD good_JJ reason_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   55 <p> " I told prosecutors at the beginning that my client would plead guilty to intimidating the pilot and accept 10 years in prison , but they turned me down , " says Neal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   55 <p>_Y "_Y I_PPIS1 told_VVD prosecutors_NN2 at_II the_AT beginning_NN1 that_CST my_APPGE client_NN1 would_VM plead_VVI guilty_JJ to_II intimidating_VVG@ the_AT pilot_NN1 and_CC accept_VV0 10_MC years_NNT2 in_II prison_NN1 ,_Y but_CCB they_PPHS2 turned_VVD me_PPIO1 down_RP ,_Y "_Y says_VVZ Neal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   56 " After closing arguments , the federal judge called me great job , but too bad I was going to lose .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   56 "_Y After_CS_II closing_JJ_VVG arguments_NN2 ,_Y the_AT federal_JJ judge_NN1 called_VVD@_VVN me_PPIO1 great_JJ job_NN1 ,_Y but_CCB too_RG bad_JJ_RR% I_PPIS1 was_VBDZ going_VVGK to_TO lose_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   57 " <p> A few minutes later , there was a knock at the judge 's door .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   57 "_Y <p>_Y A_AT1 few_DA2 minutes_NNT2 later_RRR ,_Y there_EX was_VBDZ a_AT1 knock_NN1 at_II the_AT judge_NN1 's_GE door_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   58 The jury acquitted Wallace on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   58 The_AT jury_NN1 acquitted_VVD Wallace_NP1 on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   59 <p> L : TRICKY BUSINESS THE NEXT YEAR , 1973 , NEAL LEARNED HIS PROSECUTION days were not quite over .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   59 <p>_Y L_ZZ1_NP1@ :_Y TRICKY_JJ BUSINESS_NN1 THE_AT NEXT_MD YEAR_NNT1 ,_Y 1973_MC ,_Y NEAL_NP1 LEARNED_VVD HIS_APPGE PROSECUTION_NN1 days_NNT2 were_VBDR not_XX quite_RR@_RG over_RP_JJ% ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   60 Watergate special prosecutor Archibald Cox asked Neal to be chief trial counsel in the cases against John Ehrlichman , H.R. Haldeman and John Mitchell .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   60 Watergate_NP1 special_JJ prosecutor_NN1 Archibald_NP1 Cox_NP1 asked_VVD Neal_NP1 to_TO be_VBI chief_JJ trial_NN1 counsel_NN1_VV0 in_II the_AT cases_NN2 against_II John_NP1 Ehrlichman_NP1 ,_Y H.R._NNU Haldeman_NN1_NP1 and_CC John_NP1 Mitchell_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   61 <p> " It was by far the most important case in which I have ever been involved , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   61 <p>_Y "_Y It_PPH1 was_VBDZ by_RR21 far_RR22 the_AT most_RGT important_JJ case_NN1 in_II which_DDQ I_PPIS1 have_VH0 ever_RR been_VBN involved_VVN ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   62 " I was basically trying to prove that these defendants were involved in a conspiracy with the president of the United States .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   62 "_Y I_PPIS1 was_VBDZ basically_RR trying_VVG to_TO prove_VVI that_CST these_DD2 defendants_NN2 were_VBDR involved_JJ in_II a_AT1 conspiracy_NN1 with_IW the_AT president_NN1 of_IO the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   63 It gets no bigger than that .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   63 It_PPH1 gets_VVZ no_AT bigger_JJR than_CSN that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   64 " <p> Neal says the keys to the case were the audiotapes of the men in the Oval Office with President Richard Nixon .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   64 "_Y <p>_Y Neal_NP1 says_VVZ the_AT keys_NN2 to_II the_AT case_NN1 were_VBDR the_AT audiotapes_NN2 of_IO the_AT men_NN2 in_II the_AT Oval_JJ_NN1 Office_NN1 with_IW President_NNB Richard_NP1 Nixon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   65 Every time the defendants proclaimed their innocence , Neal played the tapes of their voices plotting inside the White House .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   65 Every_AT1 time_NNT1 the_AT defendants_NN2 proclaimed_VVN_VVD@ their_APPGE innocence_NN1 ,_Y Neal_NP1 played_VVD the_AT tapes_NN2 of_IO their_APPGE voices_NN2 plotting_VVG inside_II the_AT White_NP1 House_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   66 When the defendants claimed that the money was really for charity the questionable cash .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   66 When_CS the_AT defendants_NN2 claimed_VVD_VVN that_CST the_AT money_NN1 was_VBDZ really_RR for_IF charity_NN1 the_AT questionable_JJ cash_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   67 <p> On Jan. 1 , 1975 , the trio was found guilty of charges stemming from the break-in and subsequent cover-up .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   67 <p>_Y On_II Jan._NPM1 1_MC1 ,_Y 1975_MC ,_Y the_AT trio_NN1 was_VBDZ found_VVN guilty_JJ of_IO charges_NN2 stemming_VVG from_II the_AT break-in_NN1 and_CC subsequent_JJ cover-up_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   68 <p> " It is the only time that I have been sad after winning a case , " Neal says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   68 <p>_Y "_Y It_PPH1 is_VBZ the_AT only_JJ time_NNT1 that_CST I_PPIS1 have_VH0 been_VBN sad_JJ after_II winning_VVG a_AT1 case_NN1 ,_Y "_Y Neal_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   69 " But it was the greatest example that our criminal justice system , thanks to an independent judiciary , works -- even when dealing with those in the highest positions of government .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   69 "_Y But_CCB it_PPH1 was_VBDZ the_AT greatest_JJT example_NN1 that_CST our_APPGE criminal_JJ_NN1 justice_NN1 system_NN1 ,_Y thanks_NN2 to_II an_AT1 independent_JJ judiciary_NN1 ,_Y works_VVZ_NN --_ZZ even_CS21 when_CS22 dealing_VVG with_IW those_DD2 in_II the_AT highest_JJT positions_NN2 of_IO government_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   70 " <p> Haldeman 's lawyer , John Wilson , in an interview with Time magazine , described Neal as " the greatest lawyer I ever saw in a courtroom .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   70 "_Y <p>_Y Haldeman_NP1@_NN1 's_GE lawyer_NN1 ,_Y John_NP1 Wilson_NP1 ,_Y in_II an_AT1 interview_NN1 with_IW Time_NNT1 magazine_NN1 ,_Y described_VVD_VVN Neal_NP1 as_II "_Y the_AT greatest_JJT lawyer_NN1 I_PPIS1 ever_RR saw_VVD in_II_RP@ a_AT1 courtroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   71 " <p> As important and exhilarating as Watergate was , Neal always found his way back home to Tennessee .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   71 "_Y <p>_Y As_CSA_RG@ important_JJ and_CC exhilarating_JJ as_CSA Watergate_NP1 was_VBDZ ,_Y Neal_NP1 always_RR found_VVD_VVN his_APPGE way_NN1 back_RP_NN1 home_RL_NN1 to_II Tennessee_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   72 And in 1980 , he found himself in the lead role in the biggest trial in Tennessee history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   72 And_CC in_II 1980_MC ,_Y he_PPHS1 found_VVD himself_PPX1 in_II the_AT lead_NN1 role_NN1 in_II the_AT biggest_JJT trial_NN1 in_II Tennessee_NP1 history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   73 <p> L : FOR THE LOVE OF ELVIS DR .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   73 <p>_Y L_ZZ1_NP1@ :_Y FOR_IF THE_AT LOVE_NN1 OF_IO ELVIS_NP1 DR_NNB ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   74 GEORGE NICHOPOULOS WAS CHARGED BY MEMPHIS authorities with overprescribing drugs to Elvis Presley , Jerry Lee Lewis and nine others .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   74 GEORGE_NP1 NICHOPOULOS_NP2 WAS_VBDZ CHARGED_VVN BY_II MEMPHIS_NP1 authorities_NN2 with_IW overprescribing_VVG_JJ@ drugs_NN2 to_II Elvis_NP1 Presley_NP1 ,_Y Jerry_NP1 Lee_NP1 Lewis_NP1 and_CC nine_MC others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   75 While Dr. Nick , as he was known , was not was those prescription drugs that caused the singer 's death in 1977 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   75 While_CS Dr._NNB Nick_NP1 ,_Y as_CSA he_PPHS1 was_VBDZ known_VVN ,_Y was_VBDZ not_XX was_VBDZ those_DD2 prescription_NN1 drugs_NN2 that_CST caused_VVD the_AT singer_NN1 's_GE death_NN1 in_II 1977_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   76 <p> Neal 's own investigation found that Presley was getting illegal prescription drugs from several others when he could n't get them from Dr. Nick .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   76 <p>_Y Neal_NP1 's_GE own_DA investigation_NN1 found_VVD_VVN that_CST Presley_NP1 was_VBDZ getting_VVG illegal_JJ prescription_NN1 drugs_NN2 from_II several_DA2 others_NN2 when_RRQ_CS he_PPHS1 could_VM n't_XX get_VVI them_PPHO2 from_II Dr._NNB Nick_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   77 He also learned that the doctor was switching many of Presley 's prescription meds with placebos in an effort to wean him from the addictive drugs .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   77 He_PPHS1 also_RR learned_VVD that_CST the_AT doctor_NN1 was_VBDZ switching_VVG many_DA2 of_IO Presley_NP1 's_GE prescription_NN1 meds_VVZ_NN2 with_IW placebos_NN2 in_II an_AT1 effort_NN1 to_TO wean_VVI him_PPHO1 from_II the_AT addictive_JJ drugs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   78 <p> " I discovered that if it were not for Dr. Nichopoulos , Elvis would have been dead years earlier , " says Neal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   78 <p>_Y "_Y I_PPIS1 discovered_VVD that_CST if_CS it_PPH1 were_VBDR not_XX for_IF Dr._NNB Nichopoulos_NP1 ,_Y Elvis_NP1 would_VM have_VHI been_VBN dead_JJ years_NNT2 earlier_RRR ,_Y "_Y says_VVZ Neal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   79 " The evidence showed that Dr. Nick was actually slowly reducing the amount of medicines he was giving to Elvis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   79 "_Y The_AT evidence_NN1 showed_VVD that_CST Dr._NNB Nick_NP1 was_VBDZ actually_RR slowly_RR reducing_VVG the_AT amount_NN1 of_IO medicines_NN2 he_PPHS1 was_VBDZ giving_VVG to_II Elvis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   80 He was the only person who truly cared for Elvis -- a true Good Samaritan .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   80 He_PPHS1 was_VBDZ the_AT only_JJ person_NN1 who_PNQS truly_RR cared_VVN_VVD for_IF Elvis_NP1 --_NN1_JJ a_AT1 true_JJ Good_JJ Samaritan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   81 " <p> While Neal had found his defense argument , he also recognized that the people of Memphis adored Presley .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   81 "_Y <p>_Y While_CS Neal_NP1 had_VHD found_VVN his_APPGE defense_NN1 argument_NN1 ,_Y he_PPHS1 also_RR recognized_VVN_VVD that_CST the_AT people_NN of_IO Memphis_NP1 adored_VVD Presley_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   82 He was n't sure his client could get a fair trial due to juror prejudice .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   82 He_PPHS1 was_VBDZ n't_XX sure_JJ his_APPGE client_NN1 could_VM get_VVI a_AT1 fair_JJ trial_NN1 due_II21 to_II22 juror_NN1 prejudice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   83 But to prove that the jury pool had been tainted , Neal hired a jury consultant to survey local citizens .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   83 But_CCB to_TO prove_VVI that_CST the_AT jury_NN1 pool_NN1 had_VHD been_VBN tainted_VVN ,_Y Neal_NP1 hired_VVD a_AT1 jury_NN1 consultant_NN1 to_TO survey_VVI local_JJ citizens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   84 <p> The results proved shocking drug overdose , while only one in five thought his doctor was responsible .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   84 <p>_Y The_AT results_NN2 proved_VVD_VVN shocking_JJ drug_NN1 overdose_NN1_VV0 ,_Y while_CS only_RR one_MC1_PN1 in_II five_MC thought_VVD his_APPGE doctor_NN1 was_VBDZ responsible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   85 Even more interesting to Neal was that only 12 percent of those polled believed that Presley 's physician should have refused to treat him and should have turned the singer in to police .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   85 Even_RR more_RGR interesting_JJ to_II Neal_NP1 was_VBDZ that_RG%_CST_DD1 only_RR 12_MC percent_NNU of_IO those_DD2 polled_VVN_VVD believed_VVD_VVN that_CST Presley_NP1 's_GE physician_NN1 should_VM have_VHI refused_VVN to_TO treat_VVI him_PPHO1 and_CC should_VM have_VHI turned_VVN the_AT singer_NN1 in_RP@_II to_II police_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   86 However , 70 percent believed that the doctor should have continued treating Presley in an effort to reduce his drug dependence .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   86 However_RR ,_Y 70_MC percent_NNU believed_VVD_VVN that_CST the_AT doctor_NN1 should_VM have_VHI continued_VVN treating_VVG Presley_NP1_NN1@ in_II an_AT1 effort_NN1 to_TO reduce_VVI his_APPGE drug_NN1 dependence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   87 <p> Needless to say , Neal decided to keep the trial in Memphis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   87 <p>_Y Needless_JJ to_TO say_VVI ,_Y Neal_NP1 decided_VVD to_TO keep_VVI the_AT trial_NN1 in_II Memphis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   88 <p> In the Dr. Nick case , as in all of his court victories , Neal waited to pounce on any prosecution mistake .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   88 <p>_Y In_II the_AT Dr._NNB Nick_NP1 case_NN1 ,_Y as_CSA in_II all_DB of_IO his_APPGE court_NN1 victories_NN2 ,_Y Neal_NP1 waited_VVD to_TO pounce_VVI on_II_RP@ any_DD prosecution_NN1 mistake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   89 The opportunity presented itself with the state 's key expert medical witness , who was called to criticize Nichopoulos ' method of treatment .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   89 The_AT opportunity_NN1 presented_VVD_VVN itself_PPX1 with_IW the_AT state_NN1 's_GE key_JJ expert_NN1_JJ@ medical_JJ witness_NN1 ,_Y who_PNQS was_VBDZ called_VVN to_TO criticize_VVI Nichopoulos_NP2 '_GE method_NN1 of_IO treatment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   90 On direct examination by prosecutors , the doctor testified that he had written many scholarly articles on this exact subject .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   90 On_II direct_JJ examination_NN1 by_II prosecutors_NN2 ,_Y the_AT doctor_NN1 testified_VVD that_CST he_PPHS1 had_VHD written_VVN many_DA2 scholarly_JJ articles_NN2 on_II this_DD1 exact_JJ subject_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   91 <p> " We knew this guy was going to testify , so we checked him out at the Vanderbilt medical school library and could not find a single article he had published in any medical journal , " state 's expert to name the journals in which he claimed to be published .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   91 <p>_Y "_Y We_PPIS2 knew_VVD this_DD1 guy_NN1 was_VBDZ going_VVGK to_TO testify_VVI ,_Y so_CS@_RR we_PPIS2 checked_VVD him_PPHO1 out_RP at_II the_AT Vanderbilt_NN1_NP1 medical_JJ school_NN1 library_NN1 and_CC could_VM not_XX find_VVI a_AT1 single_JJ article_NN1 he_PPHS1 had_VHD published_VVN in_II any_DD medical_JJ journal_NN1 ,_Y "_Y state_NN1 's_GE expert_NN1_JJ@ to_TO name_VVI the_AT journals_NN2 in_II which_DDQ he_PPHS1 claimed_VVD to_TO be_VBI published_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   92 When the witness could n't , Neal began naming prominent medical journals , forcing the doctor to answer no to each .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   92 When_CS the_AT witness_NN1 could_VM n't_XX ,_Y Neal_NP1 began_VVD naming_VVG prominent_JJ medical_JJ journals_NN2 ,_Y forcing_VVG the_AT doctor_NN1 to_TO answer_VVI no_UH_RR% to_II each_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   93 He even asked the state 's witness to make phone calls during a court break to get the names of the journals .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   93 He_PPHS1 even_RR asked_VVD the_AT state_NN1 's_GE witness_NN1 to_TO make_VVI phone_NN1 calls_NN2 during_II a_AT1 court_NN1 break_NN1_VV0 to_TO get_VVI the_AT names_NN2 of_IO the_AT journals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   94 But even after the break , the expert testified he could n't remember the names .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   94 But_CCB even_RR after_II_CS the_AT break_NN1 ,_Y the_AT expert_NN1 testified_VVD he_PPHS1 could_VM n't_XX remember_VVI the_AT names_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   95 <p> " His entire testimony was discredited by that mistake , " Neal says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   95 <p>_Y "_Y His_APPGE entire_JJ testimony_NN1 was_VBDZ discredited_VVN by_II that_DD1 mistake_NN1 ,_Y "_Y Neal_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   96 <p> The state 's expert never recovered and neither did the prosecution 's case .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   96 <p>_Y The_AT state_NN1 's_GE expert_NN1 never_RR recovered_VVN_VVD and_CC neither_RR_DD1 did_VDD the_AT prosecution_NN1 's_GE case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   97 The five-week trial ended on Nov. 5 , 1981 , when the jury composed of six men and six women took only three hours to find Nichopoulos not guilty on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   97 The_AT five-week_JJ_NNT1 trial_NN1 ended_VVN_VVD on_II Nov._NPM1 5_MC ,_Y 1981_MC ,_Y when_CS_RRQ the_AT jury_NN1 composed_VVN_VVD of_IO six_MC men_NN2 and_CC six_MC women_NN2 took_VVD only_RR three_MC hours_NNT2 to_TO find_VVI Nichopoulos_NN2@ not_XX guilty_JJ on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   98 <p> Neal admits he 's slowing down a bit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   98 <p>_Y Neal_NP1 admits_VVZ he_PPHS1 's_VBZ slowing_VVG down_RP a_RR21_AT1 bit_RR22_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0   99 He wants to refocus his practice on helping the younger lawyers at his firm to become better trial lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0   99 He_PPHS1 wants_VVZ to_TO refocus_NN1 his_APPGE practice_NN1 on_II helping_VVG the_AT younger_JJR lawyers_NN2 at_II his_APPGE firm_NN1_JJ to_TO become_VVI better_JJR trial_NN1 lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  100 Asked why he thinks he 's had the privilege of trying so many high-profile and fascinating cases , Neal pauses , and damn luck .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  100 Asked_VVN why_RRQ he_PPHS1 thinks_VVZ he_PPHS1 's_VHZ had_VHN the_AT privilege_NN1 of_IO trying_VVG so_RG many_DA2 high-profile_JJ and_CC fascinating_JJ cases_NN2 ,_Y Neal_NP1 pauses_VVZ_NN2 ,_Y and_CC damn_JJ_VV0 luck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  101 That 's all it has been .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  101 That_DD1 's_VBZ all_DB it_PPH1 has_VHZ been_VBN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  102 " <p> Case U.S. v. Hoffa .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  102 "_Y <p>_Y Case_NN1_VV0% U.S._NP1 v._II Hoffa_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  103 <p> Date Jan. 22 , 1964 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  103 <p>_Y Date_VV0@_NN1 Jan._NPM1 22_MC ,_Y 1964_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  104 <p> Location Federal courthouse in Chattanooga , Tenn .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  104 <p>_Y Location_NN1 Federal_JJ courthouse_NN1 in_II Chattanooga_NP1 ,_Y Tenn_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  105 <p> Who James Neal ( far right ) , Justice Department prosecutor ; Nashville TV reporter Bill Jay ( holding microphone ) ; Teamsters President Jimmy Hoffa , ( second from left ) , accompanied by his lawyer , Frank Ragano .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  105 <p>_Y Who_NP1% James_NP1 Neal_NP1 (_Y far_JJ_RR right_NN1_RR_JJ )_Y ,_Y Justice_NN1_NP1@ Department_NN1 prosecutor_NN1 ;_Y Nashville_NP1 TV_NN1 reporter_NN1 Bill_NP1_NN1 Jay_NP1 (_Y holding_VVG_JJ@ microphone_NN1 )_Y ;_Y Teamsters_NP1_NN2 President_NNB Jimmy_NP1 Hoffa_NP1 ,_Y (_Y second_MD_NNT1 from_II left_JJ_NN1@ )_Y ,_Y accompanied_VVN by_II his_APPGE lawyer_NN1 ,_Y Frank_NP1 Ragano_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  106 At center is Chicago mobster Allen Dorfman , head of the Teamsters Central States Pension Fund .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  106 At_II center_NN1 is_VBZ Chicago_NP1 mobster_NN1 Allen_NP1 Dorfman_NP1 ,_Y head_NN1 of_IO the_AT Teamsters_NN2_NP1 Central_JJ States_NP1_NN2@ Pension_NN1 Fund_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  107 <p> What After his first trial ended in a hung jury , Hoffa was reindicted on charges that he tried to bribe a federal grand juror .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  107 <p>_Y What_DDQ After_II_CS his_APPGE first_MD trial_NN1 ended_VVN_VVD in_II_RP@ a_AT1 hung_JJ@ jury_NN1 ,_Y Hoffa_NP1 was_VBDZ reindicted_VVN@ on_II charges_NN2 that_CST he_PPHS1 tried_VVD to_TO bribe_VVI a_AT1 federal_JJ grand_JJ juror_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  108 In this photo , Neal is being interviewed by a Nashville TV crew as the trial opened .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  108 In_II this_DD1 photo_NN1 ,_Y Neal_NP1 is_VBZ being_VBG interviewed_VVN by_II a_AT1 Nashville_NP1 TV_NN1 crew_NN1 as_II_CSA the_AT trial_NN1 opened_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  109 As Hoffa strides by , he bellows : " Yeah !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  109 As_CSA_II@ Hoffa_NP1 strides_VVZ by_RP%_II ,_Y he_PPHS1 bellows_NN2 :_Y "_Y Yeah_UH !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  110 The Marines are here !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  110 The_AT Marines_NN2 are_VBR here_RL !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  111 " ( in reference to Neal 's service record ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  111 "_Y (_Y in_II reference_NN1 to_II Neal_NP1 's_GE service_NN1 record_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  112 <p> Note Hoffa was later convicted and sentenced to 15 years in prison .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  112 <p>_Y Note_VV0 Hoffa_NP1_NN1@ was_VBDZ later_RRR convicted_VVN_JJ and_CC sentenced_VVN to_II 15_MC years_NNT2 in_II prison_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  113 His sentence was commuted in 1971 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  113 His_APPGE sentence_NN1 was_VBDZ commuted_VVN@ in_II 1971_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  114 He disappeared in 1975 after a Teamsters pension fund until he was convicted of racketeering .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  114 He_PPHS1 disappeared_VVD in_II 1975_MC after_II_CS a_AT1 Teamsters_NP1_NN2 pension_NN1 fund_NN1 until_CS he_PPHS1 was_VBDZ convicted_VVN_JJ of_IO racketeering_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  115 He was murdered at a hotel just north of Chicago in 1983 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  115 He_PPHS1 was_VBDZ murdered_VVN at_II a_AT1 hotel_NN1 just_RR north_ND1 of_IO Chicago_NP1 in_II 1983_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  116 <p> Case People v. Landis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  116 <p>_Y Case_NN1 People_NN v._II Landis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  117 <p> Date 1987 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  117 <p>_Y Date_NN1_VV0@ 1987_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  118 <p> Location Los Angeles .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  118 <p>_Y Location_NN1 Los_NP1 Angeles_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  119 <p> Who Attorney James Neal , movie director John Landis and his wife , Deborah .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  119 <p>_Y Who_NP1% Attorney_NN1 James_NP1 Neal_NP1 ,_Y movie_NN1 director_NN1 John_NP1 Landis_NP1 and_CC his_APPGE wife_NN1 ,_Y Deborah_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  120 <p> What Landis was on trial in the deaths of three actors killed by a helicopter during filming for Twilight Zone : The Movie .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  120 <p>_Y What_DDQ Landis_NP1 was_VBDZ on_II trial_NN1 in_II the_AT deaths_NN2 of_IO three_MC actors_NN2 killed_VVN by_II a_AT1 helicopter_NN1 during_II filming_VVG for_IF Twilight_NN1 Zone_NN1 :_Y The_AT Movie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  121 <p> Note It took the jury nine days to decide to acquit Landis and four associates after a trial that lasted 10 months .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  121 <p>_Y Note_VV0 It_PPH1 took_VVD the_AT jury_NN1 nine_MC days_NNT2 to_TO decide_VVI to_II acquit_NN1 Landis_NP1 and_CC four_MC associates_NN2 after_II_CS a_AT1 trial_NN1 that_CST lasted_VVD 10_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  A    0  122 <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p> PHOTO ( BLACK WHITE ) <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071551 COCA  B    0  122 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y

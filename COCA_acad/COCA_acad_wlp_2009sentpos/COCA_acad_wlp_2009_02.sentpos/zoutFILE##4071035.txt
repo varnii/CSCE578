@@ -1,0 +1,138 @@
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    0 In the last column , the differences between the two most popularly used rendering intents were described ; relative colorimetric and perceptual .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    0 In_II the_AT last_MD column_NN1 ,_Y the_AT differences_NN2 between_II the_AT two_MC most_RGT popularly_RR used_JJ_VVN_VVD rendering_NN1_VVG intents_NN2 were_VBDR described_VVN ;_Y relative_JJ colorimetric_JJ and_CC perceptual_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    1 Also demonstrated was the procedure , which allows you to proof your image : to view it as the printer sees it and not as it appears on the monitor .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    1 Also_RR demonstrated_VVN_VVD was_VBDZ the_AT procedure_NN1 ,_Y which_DDQ allows_VVZ you_PPY to_II proof_NN1 your_APPGE image_NN1 :_Y to_TO view_VVI it_PPH1 as_II_CSA the_AT printer_NN1 sees_VVZ it_PPH1 and_CC not_XX as_CSA it_PPH1 appears_VVZ on_II the_AT monitor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    2 Now it finally is time to print the image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    2 Now_RT it_PPH1 finally_RR is_VBZ time_NNT1 to_TO print_VVI the_AT image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    3 Because there are significant differences between printing in the two most popular operating systems , this issue will describe printing with Windows .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    3 Because_CS there_EX are_VBR significant_JJ differences_NN2 between_II printing_VVG_NN1 in_II the_AT two_MC most_RGT popular_JJ operating_NN1 systems_NN2 ,_Y this_DD1 issue_NN1 will_VM describe_VVI printing_VVG_NN1 with_IW Windows_NN2_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    4 In the next issue , the process will be repeated for the Mac operating system .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    4 In_II the_AT next_MD issue_NN1 ,_Y the_AT process_NN1 will_VM be_VBI repeated_VVN for_IF the_AT Mac_NP1_NN1@ operating_NN1 system_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    5 <p> The preliminaries are finally complete and it 's time to make a print .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    5 <p>_Y The_AT preliminaries_NN2 are_VBR finally_RR complete_JJ_VV0 and_CC it_PPH1 's_VBZ time_NNT1 to_TO make_VVI a_AT1 print_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    6 The color corrected RGB image has been resized for the desired print , and has been sharpened ( Figure 1 ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    6 The_AT color_NN1 corrected_VVD RGB_NP1 image_NN1 has_VHZ been_VBN resized_VVN@ for_IF the_AT desired_JJ@ print_NN1 ,_Y and_CC has_VHZ been_VBN sharpened_VVN (_Y Figure_NN1 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    7 In addition , it has been proofed to the planned paper/ink/ printer that will be used , and a rendering intent selected .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    7 In_RR21 addition_RR22 ,_Y it_PPH1 has_VHZ been_VBN proofed_VVN to_II the_AT planned_JJ@ paper/ink/_NN1 printer_NN1 that_CST_DD1 will_VM be_VBI used_VVN ,_Y and_CC a_AT1 rendering_NN1 intent_NN1 selected_VVN_VVD@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    8 <p> One caveat before we go any further ... the screen captures in this column are for Epson printers .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    8 <p>_Y One_MC1 caveat_NN1 before_CS we_PPIS2 go_VV0 any_DD further_JJR@ ..._... the_AT screen_NN1 captures_VVZ_NN2 in_II this_DD1 column_NN1 are_VBR for_IF Epson_NP1 printers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0    9 Accordingly , they will differ much the same functionality exists on those systems , but it will probably be necessary to do a little hunting to find the relevant " switches .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0    9 Accordingly_RR ,_Y they_PPHS2 will_VM differ_VVI much_RR_DA1 the_AT same_DA functionality_NN1 exists_VVZ on_II those_DD2 systems_NN2 ,_Y but_CCB it_PPH1 will_VM probably_RR be_VBI necessary_JJ to_TO do_VDI a_AT1 little_JJ hunting_NN1 to_TO find_VVI the_AT relevant_JJ "_Y switches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   10 " <p> Start the process in Photoshop with the command File>Print ( Figure 2 ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   10 "_Y <p>_Y Start_VV0 the_AT process_NN1 in_II Photoshop_NN1_NP1 with_IW the_AT command_NN1 File>Print_FO (_Y Figure_NN1 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   11 Begin by checking the drop down box at the top center of this large dialog to see that the correct printer has been selected .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   11 Begin_VV0 by_II checking_VVG the_AT drop_NN1 down_II@_RP box_NN1 at_II the_AT top_JJ_NN1 center_NN1 of_IO this_DD1 large_JJ dialog_NN1 to_TO see_VVI that_CST the_AT correct_JJ printer_NN1 has_VHZ been_VBN selected_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   12 Next go to is the large Color Management box on the right hand side of the dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   12 Next_MD go_VV0 to_TO is_VBZ the_AT large_JJ Color_NN1 Management_NN1 box_NN1 on_II the_AT right_JJ hand_NN1 side_NN1 of_IO the_AT dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   13 Recall , there are two ways to print : one can let Photoshop manage the printing process OR one can let the Printer driver do that job .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   13 Recall_VV0 ,_Y there_EX are_VBR two_MC ways_NN2 to_TO print_VVI :_Y one_PN1 can_VM let_VVI Photoshop_NP1_NN1 manage_VVI the_AT printing_NN1 process_NN1 OR_CC one_PN1 can_VM let_VVI the_AT Printer_NN1 driver_NN1 do_VD0 that_DD1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   14 This means that one method must be turned ON .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   14 This_DD1 means_VVZ that_CST one_MC1 method_NN1 must_VM be_VBI turned_VVN ON_RP@_II ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   15 It also means the other must be turned OFF .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   15 It_PPH1 also_RR means_VVZ the_AT other_NN1@_JJ must_VM be_VBI turned_VVN OFF_RP ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   16 Failing to turn the other system OFF , results in BOTH trying to manage the process and invariably produces a terrible result ( print ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   16 Failing_VVG to_TO turn_VVI the_AT other_JJ system_NN1 OFF_RP ,_Y results_NN2_VVZ@ in_II BOTH_DB2 trying_VVG to_TO manage_VVI the_AT process_NN1 and_CC invariably_RR produces_VVZ a_AT1 terrible_JJ result_NN1 (_Y print_NN1_VV0 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   17 This is the most common problem users have with the printing process !
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   17 This_DD1 is_VBZ the_AT most_RGT common_JJ problem_NN1 users_NN2 have_VH0 with_IW the_AT printing_NN1 process_NN1_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   18 <p> Most recommend using Photoshop to manage the process , and that option has been selected in Figure , on one of the printer driver screens .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   18 <p>_Y Most_DAT recommend_VV0 using_VVG Photoshop_NN1_NP1 to_TO manage_VVI the_AT process_NN1 ,_Y and_CC that_DD1 option_NN1 has_VHZ been_VBN selected_VVN in_II Figure_NN1 ,_Y on_II one_MC1 of_IO the_AT printer_NN1 driver_NN1 screens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   19 With Photoshop managing the process , one must also select the appropriate profile to be used .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   19 With_IW Photoshop_NN1_NP1 managing_VVG the_AT process_NN1 ,_Y one_PN1 must_VM also_RR select_VVI the_AT appropriate_JJ profile_NN1 to_TO be_VBI used_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   20 Here an Epson supplied profile has been selected for their Premium Luster paper .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   20 Here_RL an_AT1 Epson_NP1 supplied_VVD profile_NN1 has_VHZ been_VBN selected_VVN for_IF their_APPGE Premium_JJ_NN1 Luster_NP1 paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   21 Relative Colorimetric Rendering Intent has been selected because there are few out-of-gamut colors .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   21 Relative_JJ Colorimetric_JJ Rendering_NN1 Intent_NN1 has_VHZ been_VBN selected_VVN because_CS there_EX are_VBR few_DA2 out-of-gamut_JJ colors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   22 Black Point Compensation has been turned ON .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   22 Black_JJ Point_NN1 Compensation_NN1 has_VHZ been_VBN turned_VVN ON_RP@_II ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   23 <p> In the center of Figure 2 there are two large boxes , one titled Position , and the other Scaled Print Size .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   23 <p>_Y In_II the_AT center_NN1 of_IO Figure_NN1 2_MC there_EX are_VBR two_MC large_JJ boxes_NN2 ,_Y one_MC1 titled_VVN_JJ% Position_NN1_VV0 ,_Y and_CC the_AT other_JJ_NN1@ Scaled_JJ@ Print_NN1 Size_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   24 Position allows one to place the image at any desired location on the paper .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   24 Position_NN1 allows_VVZ one_PN1 to_TO place_VVI the_AT image_NN1 at_II any_DD desired_JJ@ location_NN1 on_II the_AT paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   25 With Center Image unchecked , drag the image to the desired location .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   25 With_IW Center_NN1 Image_NN1 unchecked_JJ ,_Y drag_VV0 the_AT image_NN1 to_II the_AT desired_JJ@ location_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   26 In Figure 2 , Center Image has been checked , which positions the image at the center of the sheet .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   26 In_II Figure_NN1 2_MC ,_Y Center_NN1 Image_NN1 has_VHZ been_VBN checked_VVN ,_Y which_DDQ positions_VVZ@ the_AT image_NN1 at_II the_AT center_NN1 of_IO the_AT sheet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   27 The preferred procedure is to resize the image to the desired print size in Photoshop : however the Scaled Print Size section of this dialog is another option .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   27 The_AT preferred_JJ procedure_NN1 is_VBZ to_TO resize_VVI the_AT image_NN1 to_II the_AT desired_JJ@ print_NN1 size_NN1 in_II Photoshop_NP1 :_Y however_RRQV the_AT Scaled_JJ@ Print_NN1 Size_NN1 section_NN1 of_IO this_DD1 dialog_NN1 is_VBZ another_DD1 option_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   28 In particular , selecting the Scale to Fit Media is a good choice when the objective is a preliminary test print .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   28 In_RR21 particular_RR22 ,_Y selecting_VVG the_AT Scale_NN1 to_II Fit_JJ Media_NN is_VBZ a_AT1 good_JJ choice_NN1 when_CS_RRQ the_AT objective_NN1 is_VBZ a_AT1 preliminary_JJ test_NN1 print_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   29 <p> The next step is this opens the printer dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   29 <p>_Y The_AT next_MD step_NN1 is_VBZ this_DD1 opens_VVZ the_AT printer_NN1 dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   30 Figure 3 shows the result for an Epson 7600 ; other Epson printers have slightly different dialog , but the information content of these screens is similar .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   30 Figure_NN1 3_MC shows_VVZ the_AT result_NN1 for_IF an_AT1 Epson_NP1 7600_MC ;_Y other_JJ Epson_NP1 printers_NN2 have_VH0 slightly_RR different_JJ dialog_NN1 ,_Y but_CCB the_AT information_NN1 content_NN1 of_IO these_DD2 screens_NN2 is_VBZ similar_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   31 Figure 3 shows the Epson 7600 printer dialog has 4 tabs along the top of the dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   31 Figure_NN1 3_MC shows_VVZ the_AT Epson_NP1 7600_MC printer_NN1 dialog_NN1 has_VHZ 4_MC tabs_NN2 along_II the_AT top_NN1 of_IO the_AT dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   32 Figure 3 is the Paper tab , where one selects the Paper Source , Paper Size and Orientation .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   32 Figure_NN1 3_MC is_VBZ the_AT Paper_NN1 tab_NN1_VV0 ,_Y where_CS_RRQ one_PN1 selects_VVZ the_AT Paper_NN1 Source_NN1 ,_Y Paper_NN1 Size_NN1 and_CC Orientation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   33 Centering the image on the sheet is another available option .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   33 Centering_VVG the_AT image_NN1 on_II the_AT sheet_NN1 is_VBZ another_DD1 available_JJ option_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   34 Notice that some of these choices are redundant to what 's included in Figure 2 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   34 Notice_VV0 that_CST some_DD of_IO these_DD2 choices_NN2 are_VBR redundant_JJ to_II what_DDQ 's_VBZ_VHZ@ included_VVN in_II Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   35 This is because one is created specifically for the printer ( in this case , by Epson ) and the other is created for Photoshop by Adobe .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   35 This_DD1 is_VBZ because_CS one_PN1 is_VBZ created_VVN specifically_RR for_IF the_AT printer_NN1 (_Y in_II this_DD1 case_NN1 ,_Y by_II Epson_NP1 )_Y and_CC the_AT other_NN1@_JJ is_VBZ created_VVN for_IF Photoshop_NN1_NP1 by_II Adobe_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   36 The redundancy is a consequence of the very large number of makes and models of printers used with Photoshop .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   36 The_AT redundancy_NN1 is_VBZ a_AT1 consequence_NN1 of_IO the_AT very_RG large_JJ number_NN1 of_IO makes_NN2% and_CC models_NN2 of_IO printers_NN2 used_VVN_VVD with_IW Photoshop_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   37 <p> Now select the Main tab at the top right of Figure 3 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   37 <p>_Y Now_RT select_VV0 the_AT Main_JJ tab_NN1 at_II the_AT top_JJ_NN1 right_NN1 of_IO Figure_NN1 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   38 Figure 4 shows that portion of the printer dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   38 Figure_NN1 4_MC shows_VVZ_NN2 that_DD1_CST portion_NN1 of_IO the_AT printer_NN1 dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   39 Here one selects the appropriate paper type ( Premium Luster ) , and chooses Ink ; normally Color and not Black Custom box , and then choose Advanced , which opens Figure 5 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   39 Here_RL one_PN1_MC1 selects_VVZ the_AT appropriate_JJ paper_NN1 type_NN1 (_Y Premium_JJ_NN1 Luster_NP1 )_Y ,_Y and_CC chooses_VVZ Ink_NN1 ;_Y normally_RR Color_VV0@_NN1 and_CC not_XX Black_JJ Custom_NN1 box_NN1 ,_Y and_CC then_RT choose_VV0 Advanced_JJ_VVN ,_Y which_DDQ opens_VVZ Figure_NN1 5_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   40 <p> It is here that one turns off printer color management .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   40 <p>_Y It_PPH1 is_VBZ here_RL that_CST_DD1 one_PN1 turns_VVZ off_II_RP printer_NN1 color_NN1 management_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   41 The box says " Off ( No Color Management ) , " but this is a Printer screen , so what it really means is no color management from the printer driver .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   41 The_AT box_NN1 says_VVZ "_Y Off_RP_II (_Y No_XX Color_NN1 Management_NN1 )_Y ,_Y "_Y but_CCB this_DD1 is_VBZ a_AT1 Printer_NN1 screen_NN1 ,_Y so_RR what_DDQ it_PPH1 really_RR means_VVZ_NN is_VBZ no_AT color_NN1 management_NN1 from_II the_AT printer_NN1 driver_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   42 Having chosen OFF here , and having previously turned Photoshop Manages Colors ON ( see Figure 2 ) , accomplishes the " one ON other OFF " requirement we mentioned in the third paragraph of this column .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   42 Having_VHG chosen_VVN OFF_RP_II here_RL ,_Y and_CC having_VHG previously_RR turned_VVN Photoshop_NP1_NN1 Manages_VVZ Colors_NN2 ON_II (_Y see_VV0 Figure_NN1 2_MC )_Y ,_Y accomplishes_VVZ the_AT "_Y one_PN1_MC1 ON_II other_JJ_NN1@ OFF_II "_Y requirement_NN1 we_PPIS2 mentioned_VVD in_II the_AT third_MD paragraph_NN1 of_IO this_DD1 column_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   43 <p> The left hand side of the Figure 5 controls how the printer will lay down ink .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   43 <p>_Y The_AT left_JJ hand_NN1 side_NN1 of_IO the_AT Figure_NN1 5_MC controls_NN2_VVZ how_RRQ the_AT printer_NN1 will_VM lay_VVI down_RP_II@ ink_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   44 The 1440 dpi ( Superfine ) setting does an excellent job while the 2880 setting does no better but uses more ink .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   44 The_AT 1440_MC dpi_NN2 (_Y Superfine_NP1 )_Y setting_NN1 does_VDZ an_AT1 excellent_JJ job_NN1 while_CS the_AT 2880_MC setting_NN1 does_VDZ no_AT better_JJR but_CCB uses_VVZ more_DAR ink_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   45 Here both Super Microweave and Finest Detail have been selected .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   45 Here_RL both_RR Super_JJ Microweave_NN1 and_CC Finest_JJT Detail_NN1 have_VH0 been_VBN selected_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   46 High Speed has been unchecked , which means the printer prints only in one ( not both ) directions ; this slows the printing but improves the ink drying .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   46 High_JJ Speed_NN1 has_VHZ been_VBN unchecked_JJ ,_Y which_DDQ means_VVZ the_AT printer_NN1 prints_NN2 only_RR in_II one_MC1 (_Y not_XX both_RR )_Y directions_NN2 ;_Y this_DD1 slows_VVZ the_AT printing_NN1 but_CCB improves_VVZ the_AT ink_NN1 drying_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   47 Note : all of these settings affect the print to some degree and profile .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   47 Note_VV0_NN1 :_Y all_DB of_IO these_DD2 settings_NN2 affect_VV0 the_AT print_NN1 to_II some_DD degree_NN1 and_CC profile_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   48 <p> The settings are now complete .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   48 <p>_Y The_AT settings_NN2 are_VBR now_RT complete_VV0_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   49 To initiate printing , choose OK on Figure 5 and OK on Figure 4 , to go back to Figure 2 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   49 To_TO initiate_VVI printing_NN1_VVG ,_Y choose_VV0 OK_RR on_II Figure_NN1 5_MC and_CC OK_RR on_II Figure_NN1 4_MC ,_Y to_TO go_VVI back_RP to_II Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   50 Here is one last chance to check settings and confirm that the paper orientation is correct .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   50 Here_RL is_VBZ one_MC1_PN1 last_MD chance_NN1 to_TO check_VVI settings_NN2 and_CC confirm_VVI that_CST the_AT paper_NN1 orientation_NN1 is_VBZ correct_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   51 Clicking Print sends the image to the printer and actually begins the printing .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   51 Clicking_VVG_JJ@ Print_NN1 sends_VVZ the_AT image_NN1 to_II the_AT printer_NN1 and_CC actually_RR begins_VVZ the_AT printing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   52 <p> While this entire process may seem unduly complicated , keep in mind that it involves an interaction between software ( Photoshop and the printer driver ) and hardware ( the printer itself ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   52 <p>_Y While_CS this_DD1 entire_JJ process_NN1 may_VM seem_VVI unduly_RR complicated_JJ_VVN@_VVD@ ,_Y keep_VV0 in_II_RP@ mind_NN1 that_CST it_PPH1 involves_VVZ an_AT1 interaction_NN1 between_II software_NN1 (_Y Photoshop_NP1_NN1 and_CC the_AT printer_NN1 driver_NN1 )_Y and_CC hardware_NN1 (_Y the_AT printer_NN1 itself_PPX1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   53 Furthermore there are a very large number of printers that could be involved , only some of which are inkjet type .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   53 Furthermore_RR there_EX are_VBR a_AT1 very_RG large_JJ number_NN1 of_IO printers_NN2 that_CST_DD1 could_VM be_VBI involved_VVN ,_Y only_RR some_DD of_IO which_DDQ are_VBR inkjet_NN1_VV0 type_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   54 Like most such processes , you learn by doing and with a little experience this process too will become both better understood and intuitive .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   54 Like_II_VV0@ most_DAT such_DA processes_NN2 ,_Y you_PPY learn_VV0 by_II doing_VDG and_CC with_IW a_AT1 little_JJ experience_NN1 this_DD1 process_NN1 too_RR@ will_VM become_VVI both_RR better_RRR understood_VVN_VVD and_CC intuitive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   55 <p> Next month the actual printing process for the Mac operating system will be covered .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   55 <p>_Y Next_MD month_NNT1 the_AT actual_JJ printing_NN1 process_NN1_VV0 for_IF the_AT Mac_NP1_NN1@ operating_NN1 system_NN1 will_VM be_VBI covered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   56 <p> Any mention of products or services in this article or anywhere else in the PSA Journal does not constitute an endorsement or approval of those items .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   56 <p>_Y Any_DD mention_NN1 of_IO products_NN2 or_CC services_NN2 in_II this_DD1 article_NN1 or_CC anywhere_RL else_RR in_II the_AT PSA_NP1 Journal_NN1 does_VDZ not_XX constitute_VVI an_AT1 endorsement_NN1 or_CC approval_NN1 of_IO those_DD2 items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   57 <p> PHOTO ( the image to be printed It has been resized to print on 13x19 ?
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   57 <p>_Y PHOTO_NN1 (_Y the_AT image_NN1 to_TO be_VBI printed_VVN It_PPH1 has_VHZ been_VBN resized_VVN@ to_TO print_VVI on_II 13x19_FO ?_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   58 paper .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   58 paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   59 <p> PHOTO ( BLACK WHITE ) : Figure 2--this is the File>Print screen for the PC .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   59 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Figure_NN1_VV0% 2--this_DD1 is_VBZ the_AT File>Print_FO screen_NN1_VV0@ for_IF the_AT PC_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   60 The circled boxes are of special importance and the recommended settings are described in the text .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   60 The_AT circled_JJ@ boxes_NN2 are_VBR of_IO special_JJ importance_NN1 and_CC the_AT recommended_JJ@ settings_NN2 are_VBR described_VVN in_II the_AT text_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   61 <p> PHOTO ( BLACK WHITE ) : Figure 3 is the Printer dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   61 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Figure_NN1 3_MC is_VBZ the_AT Printer_NN1 dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   62 Notice the 4 tabs which constitute the entire dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   62 Notice_VV0 the_AT 4_MC tabs_NN2 which_DDQ constitute_VV0 the_AT entire_JJ dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   63 This is the Paper tab .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   63 This_DD1 is_VBZ the_AT Paper_NN1 tab_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   64 <p> PHOTO ( BLACK WHITE ) : Figure 4 shows the Main tab of the printer dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   64 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Figure_NN1 4_MC shows_VVZ the_AT Main_JJ tab_NN1 of_IO the_AT printer_NN1 dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   65 <p> PHOTO ( BLACK WHITE ) : Figure 5 is the advanced tab of the printer dialog .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   65 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Figure_NN1 5_MC is_VBZ the_AT advanced_JJ tab_NN1 of_IO the_AT printer_NN1 dialog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   66 This i5 where one turns OFF printer color management on the PC .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   66 This_DD1 i5_FO where_RRQ_CS one_PN1 turns_VVZ OFF_II_RP printer_NN1 color_NN1 management_NN1 on_II the_AT PC_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   67 It is also the screen where one selects other printing parameters , which should be the same as those used in the creation of the profile .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   67 It_PPH1 is_VBZ also_RR the_AT screen_NN1 where_CS_RRQ one_PN1 selects_VVZ other_JJ printing_NN1 parameters_NN2 ,_Y which_DDQ should_VM be_VBI the_AT same_DA as_CSA those_DD2 used_VVN in_II the_AT creation_NN1 of_IO the_AT profile_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  A    0   68 <p> By Fred Drury , Wheaton , IL <p>
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071035 COCA  B    0   68 <p>_Y By_II Fred_NP1 Drury_NP1 ,_Y Wheaton_NP1 ,_Y IL_FW <p>_Y

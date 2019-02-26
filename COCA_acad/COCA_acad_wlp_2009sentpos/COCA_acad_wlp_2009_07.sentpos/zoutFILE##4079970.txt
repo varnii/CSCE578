@@ -1,0 +1,330 @@
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    0 The following is adapted from Neil deGrasse Tyson 's June 5 , 2009 , speech in acceptance of the American Humanist Association 's Isaac Asimov Science Award , presented to him at its annual conference in Tempe , Arizona .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    0 The_AT following_JJ is_VBZ adapted_VVN from_II Neil_NP1 deGrasse_NN1 Tyson_NP1_NN1@ 's_GE_VBZ June_NPM1 5_MC ,_Y 2009_MC ,_Y speech_NN1 in_II acceptance_NN1 of_IO the_AT American_JJ Humanist_JJ_NN1 Association_NN1 's_GE_VBZ Isaac_NP1 Asimov_NP1 Science_NN1 Award_NN1 ,_Y presented_VVN_VVD to_II him_PPHO1 at_II its_Z' annual_JJ conference_NN1 in_II Tempe_NP1 ,_Y Arizona_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    1 WHEN I WAS INVITED to come to the 2009 Annual Conference of the American Humanist Association , I was told I would be receiving the Isaac Asimov Science Award , and I noticed that this one award does not have the word " humanist " in it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    1 WHEN_CS_RRQ I_PPIS1 WAS_VBDZ INVITED_VVN to_TO come_VVI to_II the_AT 2009_MC Annual_JJ Conference_NN1 of_IO the_AT American_JJ Humanist_JJ_NN1 Association_NN1 ,_Y I_PPIS1 was_VBDZ told_VVN I_PPIS1 would_VM be_VBI receiving_VVG the_AT Isaac_NP1 Asimov_NP1 Science_NN1 Award_NN1 ,_Y and_CC I_PPIS1 noticed_VVD that_CST this_DD1 one_MC1 award_NN1 does_VDZ not_XX have_VHI the_AT word_NN1 "_Y humanist_NN1 "_Y in_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    2 All the other awards given out by the AHA do -- the Humanist Pioneer Award , the Humanist Heroine Award , and , of course , the Humanist of the Year Award .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    2 All_DB the_AT other_JJ awards_NN2 given_VVN out_RP by_II the_AT AHA_UH do_VD0 --_ZZ the_AT Humanist_JJ_NN1 Pioneer_NN1 Award_NN1 ,_Y the_AT Humanist_JJ_NN1 Heroine_NN1 Award_NN1 ,_Y and_CC ,_Y of_RR21 course_RR22 ,_Y the_AT Humanist_NN1 of_IO the_AT Year_NNT1 Award_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    3 And I 'm good with that because I never really wanted to be an " -ist " ( or an " -ism " for that matter ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    3 And_CC I_PPIS1 'm_VBM good_JJ with_IW that_DD1 because_CS I_PPIS1 never_RR really_RR wanted_VVN_VVD to_TO be_VBI an_AT1 "_Y -ist_FW "_Y (_Y or_CC an_AT1 "_Y -ism_FU "_Y for_IF that_DD1 matter_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    4 I am a scientist -- more specifically an astrophysicist , so those are the only -ists I 'll take .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    4 I_PPIS1 am_VBM a_AT1 scientist_NN1 --_NN1 more_RGR_RRR specifically_RR an_AT1 astrophysicist_NN1 ,_Y so_RR_CS@ those_DD2 are_VBR the_AT only_JJ -ists_NN2 I_PPIS1 'll_VM take_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    5 Because what worries me is the moment one is announced as an -ist -- the moment that comes up conversing establishes an entire philosophical worldview for you before any more words are exchanged .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    5 Because_CS what_DDQ worries_VVZ@ me_PPIO1 is_VBZ the_AT moment_NN1 one_PN1_MC1 is_VBZ announced_VVN as_II an_AT1 -ist_FW --_NN1_JJ the_AT moment_NN1 that_CST_DD1 comes_VVZ up_RP conversing_VVG establishes_VVZ an_AT1 entire_JJ philosophical_JJ worldview_NN1 for_IF you_PPY before_CS_II any_DD more_DAR words_NN2 are_VBR exchanged_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    6 Now , if they are opposed to that -ism , you 're already in a hole in the conversation that you have to dig out of .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    6 Now_RT ,_Y if_CS they_PPHS2 are_VBR opposed_VVN to_II that_DD1 -ism_FU ,_Y you_PPY 're_VBR already_RR in_II a_AT1 hole_NN1 in_II the_AT conversation_NN1 that_CST you_PPY have_VH0 to_TO dig_VVI out_II21 of_II22 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    7 The remarkable thing , of course , is that humanism is perhaps the most diverse -ism out there .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    7 The_AT remarkable_JJ thing_NN1 ,_Y of_RR21 course_RR22 ,_Y is_VBZ that_DD1 humanism_NN1 is_VBZ perhaps_RR the_AT most_RGT diverse_JJ -ism_FU out_II%_RP there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    8 For example , you have theologians who are part of this movement .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    8 For_REX21 example_REX22 ,_Y you_PPY have_VH0 theologians_NN2 who_PNQS are_VBR part_NN1 of_IO this_DD1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0    9 That 's kind of interesting .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0    9 That_DD1 's_VBZ kind_RR21%_NN1 of_RR22_IO interesting_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   10 Yet you do n't have atheists who are part of the fundamentalist religious movement .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   10 Yet_RR you_PPY do_VD0 n't_XX have_VHI atheists_NN2 who_PNQS are_VBR part_NN1 of_IO the_AT fundamentalist_JJ_NN1 religious_JJ movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   11 It just does n't work .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   11 It_PPH1 just_RR does_VDZ n't_XX work_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   12 I prefer to enter a conversation with a fresh start .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   12 I_PPIS1 prefer_VV0 to_TO enter_VVI a_AT1 conversation_NN1 with_IW a_AT1 fresh_JJ start_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   13 When the beginning is pure , seeds get planted ; plants germinate and grow .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   13 When_CS the_AT beginning_NN1 is_VBZ pure_JJ ,_Y seeds_NN2 get_VV0 planted_VVN ;_Y plants_NN2 germinate_VV0 and_CC grow_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   14 But here .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   14 But_CCB here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   15 is what 's interesting .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   15 is_VBZ what_DDQ 's_VBZ interesting_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   16 Out of everything I 've written in my life , only two essays at all address God or spirituality ; everything else is just simply about the universe .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   16 Out_II21 of_II22 everything_PN1 I_PPIS1 've_VH0 written_VVN in_II my_APPGE life_NN1 ,_Y only_RR two_MC essays_NN2 at_II all_DB address_NN1_VV0@ God_NP1_NN1@ or_CC spirituality_NN1 ;_Y everything_PN1 else_RR is_VBZ just_RR simply_RR about_II the_AT universe_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   17 But those two essays get remembered most .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   17 But_CCB those_DD2 two_MC essays_NN2 get_VV0 remembered_VVN most_DAT_RRT@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   18 One of them sharply criticizes the intelligent design movement , not by saying it should be banned but by .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   18 One_MC1 of_IO them_PPHO2 sharply_RR criticizes_VVZ the_AT intelligent_JJ design_NN1 movement_NN1 ,_Y not_XX by_II saying_VVG it_PPH1 should_VM be_VBI banned_VVN_JJ but_CCB by_II ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   19 This sentiment became associated with the atheist movement .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   19 This_DD1 sentiment_NN1 became_VVD associated_VVN_JJ with_IW the_AT atheist_JJ_NN1 movement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   20 Some time later I stumbled upon my Wikipedia page , and what 's spooky is that my wiki page is more up-to-date than my personal home page .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   20 Some_DD time_NNT1 later_RRR I_PPIS1 stumbled_VVD upon_II my_APPGE Wikipedia_NN1@_NP1 page_NN1 ,_Y and_CC what_DDQ 's_VBZ spooky_JJ is_VBZ that_CST my_APPGE wiki_NN2 page_NN1 is_VBZ more_RGR up-to-date_JJ than_CSN my_APPGE personal_JJ home_NN1 page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   21 For example , two days after I appeared on the Daily Show with Jon Stewart I thought , let me add that to my wiki page .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   21 For_REX21 example_REX22 ,_Y two_MC days_NNT2 after_CS I_PPIS1 appeared_VVD on_II the_AT Daily_JJ@_NP1_NN1@ Show_NN1_VV0 with_IW Jon_NP1 Stewart_NP1 I_PPIS1 thought_VVD ,_Y let_VV0 me_PPIO1 add_VVI that_CST_DD1 to_II my_APPGE wiki_NN2 page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   22 I went there , and the link was already up .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   22 I_PPIS1 went_VVD there_RL ,_Y and_CC the_AT link_NN1 was_VBDZ already_RR up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   23 ( The days of anonymity are long gone .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   23 (_Y The_AT days_NNT2 of_IO anonymity_NN1 are_VBR long_RR gone_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   24 ) So I 'm looking at the page and it says , " Neil deGrasse Tyson , a long-time atheist ... " and I thought , where did that come from ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   24 )_Y So_RR I_PPIS1 'm_VBM looking_VVG at_II the_AT page_NN1 and_CC it_PPH1 says_VVZ ,_Y "_Y Neil_NP1 deGrasse_NN1 Tyson_NP1_NN1@ ,_Y a_AT1 long-time_JJ_NN1 atheist_NN1_JJ ..._... "_Y and_CC I_PPIS1 thought_VVD ,_Y where_RRQ did_VDD that_DD1 come_VVI from_II ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   25 I never said that .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   25 I_PPIS1 never_RR said_VVD that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   26 So I removed it and I put in " agnostic " because I think , based on all the folks who are agnostic historically , I come closer to the behavior of an agnostic than the behavior of an atheist .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   26 So_RR I_PPIS1 removed_VVD it_PPH1 and_CC I_PPIS1 put_VV0_VVD in_II_RP@ "_Y agnostic_NN1_JJ "_Y because_CS I_PPIS1 think_VV0 ,_Y based_VVN on_II all_DB the_AT folks_NN2 who_PNQS are_VBR agnostic_JJ historically_RR ,_Y I_PPIS1 come_VV0 closer_RRR_JJR to_II the_AT behavior_NN1 of_IO an_AT1 agnostic_JJ_NN1 than_CSN the_AT behavior_NN1 of_IO an_AT1 atheist_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   27 Three days later it was back to atheist .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   27 Three_MC days_NNT2 later_RRR it_PPH1 was_VBDZ back_RP to_II atheist_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   28 Then I learned that there are people who want to equate agnosticism with atheism .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   28 Then_RT I_PPIS1 learned_VVD that_CST there_EX are_VBR people_NN who_PNQS want_VV0 to_TO equate_VVI agnosticism_NN1 with_IW atheism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   29 So I went back , and I changed the phrase to : " widely claimed by atheists , he is actually an agnostic .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   29 So_RR I_PPIS1 went_VVD back_RP ,_Y and_CC I_PPIS1 changed_VVD the_AT phrase_NN1 to_II :_Y "_Y widely_RR claimed_VVN by_II atheists_NN2 ,_Y he_PPHS1 is_VBZ actually_RR an_AT1 agnostic_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   30 " Another related incident happened recently , this time on my Facebook page .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   30 "_Y Another_DD1 related_JJ incident_NN1 happened_VVD recently_RR ,_Y this_DD1 time_NNT1 on_II my_APPGE Facebook_NN1 page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   31 I put in a note about what I was doing at the time , to let everybody know all my business .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   31 I_PPIS1 put_VV0_VVD in_II_RP@ a_AT1 note_NN1 about_II what_DDQ I_PPIS1 was_VBDZ doing_VDG at_II the_AT time_NNT1 ,_Y to_TO let_VVI everybody_PN1 know_VVI all_DB my_APPGE business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   32 ( Was it not just five years ago you did n't tell anybody anything about your life , and now everybody knows everything ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   32 (_Y Was_VBDZ it_PPH1 not_XX just_RR five_MC years_NNT2 ago_RA you_PPY did_VDD n't_XX tell_VVI anybody_PN1 anything_PN1 about_II your_APPGE life_NN1 ,_Y and_CC now_RT everybody_PN1 knows_VVZ everything_PN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   33 When did that happen ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   33 When_RRQ did_VDD that_DD1 happen_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   34 Did I miss that memo ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   34 Did_VDD I_PPIS1 miss_VVI that_DD1 memo_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   35 ) I was in Florida at Cape Canaveral watching the shuttle launch to service the Hubble Telescope ; beautiful launch , beautiful weather , beautiful fix-it mission , and everybody came back safe .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   35 )_Y I_PPIS1 was_VBDZ in_II Florida_NP1 at_II Cape_NP1 Canaveral_NP1 watching_VVG the_AT shuttle_NN1 launch_VVI to_TO service_VVI the_AT Hubble_NP1_NN1@ Telescope_NN1 ;_Y beautiful_JJ launch_NN1 ,_Y beautiful_JJ weather_NN1 ,_Y beautiful_JJ fix-it_PPH1 mission_NN1 ,_Y and_CC everybody_PN1 came_VVD back_RP safe_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   36 So after liftoff , I wrote " Godspeed shuttle astronauts .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   36 So_RR after_II_CS liftoff_NN1 ,_Y I_PPIS1 wrote_VVD "_Y Godspeed_NP1 shuttle_NN1 astronauts_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   37 " Now , let 's give this some context .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   37 "_Y Now_RT ,_Y let_VM21 's_VM22 give_VVI this_DD1 some_DD context_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   38 In 1962 John Glenn went into orbit and returned to the banner headline on the New York Daily News , " Godspeed , John Glenn " That phrase is cultural within the aerospace community .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   38 In_II 1962_MC John_NP1 Glenn_NP1 went_VVD into_II orbit_NN1 and_CC returned_VVN_VVD to_II the_AT banner_NN1 headline_NN1_VV0 on_II the_AT New_NP1 York_NP1 Daily_NP1 News_NN1 ,_Y "_Y Godspeed_NP1 ,_Y John_NP1 Glenn_NP1 "_Y That_DD1_CST phrase_NN1 is_VBZ cultural_JJ within_II the_AT aerospace_NN1 community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   39 You say it like you are saying hello ; someone Godspeed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   39 You_PPY say_VV0 it_PPH1 like_II_CS% you_PPY are_VBR saying_VVG hello_UH ;_Y someone_PN1 Godspeed_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   40 You 're doing something at the edge of our technology -- Godspeed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   40 You_PPY 're_VBR doing_VDG something_PN1 at_II the_AT edge_NN1 of_IO our_APPGE technology_NN1 --_NN1_JJ Godspeed_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   41 You even say it for test pilots .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   41 You_PPY even_RR say_VV0 it_PPH1 for_IF test_NN1 pilots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   42 So I entered it onto Facebook and within minutes one person commented , " Godspeed ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   42 So_RR I_PPIS1 entered_VVD it_PPH1 onto_II Facebook_NP1_NN1 and_CC within_RL@_II minutes_VVZ%_NNT2 one_MC1 person_NN1 commented_VVD_VVN ,_Y "_Y Godspeed_NP1_VV0@ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   43 I thought he was an atheist .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   43 I_PPIS1 thought_VVD he_PPHS1 was_VBDZ an_AT1 atheist_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   44 " Then I had the defender : " No , he 's clearly an agnostic .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   44 "_Y Then_RT I_PPIS1 had_VHD the_AT defender_NN1 :_Y "_Y No_UH ,_Y he_PPHS1 's_VBZ clearly_RR an_AT1 agnostic_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   45 It says it over here on the profile page " I had to jump back in , and I said , " If you 're religious , this word means something religious to you .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   45 It_PPH1 says_VVZ it_PPH1 over_RL21 here_RL22 on_II the_AT profile_NN1 page_NN1 "_Y I_PPIS1 had_VHD to_TO jump_VVI back_RP in_II_RP@ ,_Y and_CC I_PPIS1 said_VVD ,_Y "_Y If_CS you_PPY 're_VBR religious_JJ ,_Y this_DD1 word_NN1 means_VVZ something_PN1 religious_JJ to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   46 If you are n't , it simply means successful mission , come back safe .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   46 If_CS you_PPY are_VBR n't_XX ,_Y it_PPH1 simply_RR means_VVZ successful_JJ mission_NN1 ,_Y come_VV0 back_RP safe_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   47 " So I will not deny myself access to vocabulary because some people see it as religious .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   47 "_Y So_RR I_PPIS1 will_VM not_XX deny_VVI myself_PPX1 access_VV0@ to_II vocabulary_NN1 because_CS some_DD people_NN see_VV0 it_PPH1 as_RG@_CSA religious_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   48 Surely there are atheists in the world who have used the word goodbye , which means " God be with you .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   48 Surely_RR there_EX are_VBR atheists_NN2 in_II the_AT world_NN1 who_PNQS have_VH0 used_VVN the_AT word_NN1 goodbye_UH_NN1@ ,_Y which_DDQ means_VVZ "_Y God_NP1_NN1@ be_VBI with_IW you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   49 " I 'm honored when those among us see my work and analogize me to Carl Sagan , who put science literacy on the map and started a national dialogue about what we know and do n't know of and compassion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   49 "_Y I_PPIS1 'm_VBM honored_VVN@_JJ@ when_CS_RRQ those_DD2 among_II us_PPIO2 see_VV0 my_APPGE work_NN1 and_CC analogize_VV0 me_PPIO1 to_II Carl_NP1 Sagan_NP1 ,_Y who_PNQS put_VV0_VVD science_NN1 literacy_NN1 on_II the_AT map_NN1 and_CC started_VVD a_AT1 national_JJ dialogue_NN1 about_II what_DDQ we_PPIS2 know_VV0 and_CC do_VD0 n't_XX know_VVI of_IO and_CC compassion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   50 There is a difference , though , between Carl Sagan and me .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   50 There_EX is_VBZ a_AT1 difference_NN1 ,_Y though_CS_RR@ ,_Y between_II Carl_NP1 Sagan_NP1 and_CC me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   51 That difference -- and I 'm embarrassed to say this -- is that I do not have the energy to debate people whose brains are tangled messes of irrational thoughts .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   51 That_DD1 difference_NN1 --_NN1 and_CC I_PPIS1 'm_VBM embarrassed_JJ to_TO say_VVI this_DD1 --_NN1 is_VBZ that_CST I_PPIS1 do_VD0 not_XX have_VHI the_AT energy_NN1 to_TO debate_VVI people_NN whose_DDQGE brains_NN2 are_VBR tangled_JJ messes_NN2 of_IO irrational_JJ thoughts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   52 So you have never seen me debating a UFO person , a religious fundamentalist , or a crop circle person .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   52 So_RR you_PPY have_VH0 never_RR seen_VVN me_PPIO1 debating_VVG a_AT1 UFO_NN1 person_NN1 ,_Y a_AT1 religious_JJ fundamentalist_NN1_JJ ,_Y or_CC a_AT1 crop_NN1 circle_NN1 person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   53 In fact , a year ago I spoke at TAM 6 ( The Amazing Meeting ) in Las Vegas .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   53 In_II fact_NN1 ,_Y a_AT1 year_NNT1 ago_RA I_PPIS1 spoke_VVD at_II TAM_NP1 6_MC (_Y The_AT Amazing_JJ Meeting_NN1 )_Y in_II Las_NP1 Vegas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   54 I was honored to have been invited but that was my first time ever speaking to a skeptic community .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   54 I_PPIS1 was_VBDZ honored_VVN@ to_TO have_VHI been_VBN invited_VVN but_CCB that_DD1 was_VBDZ my_APPGE first_MD time_NNT1 ever_RR speaking_VVG to_II a_AT1 skeptic_NN1 community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   55 This does n't mean I do n't relate .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   55 This_DD1 does_VDZ n't_XX mean_VVI I_PPIS1 do_VD0 n't_XX relate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   56 I was practically a charter subscriber to the Skeptical Inquirer and have even contributed to it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   56 I_PPIS1 was_VBDZ practically_RR a_AT1 charter_NN1 subscriber_NN1 to_II the_AT Skeptical_JJ_NP1 Inquirer_NN1_NP1 and_CC have_VH0 even_RR contributed_VVN to_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   57 But my energy to enlighten is principally directed at trying to get people to think straight in the first place rather than to undo the tangled mental pathway later on .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   57 But_CCB my_APPGE energy_NN1 to_TO enlighten_VVI is_VBZ principally_RR directed_VVN_VVD at_II trying_VVG to_TO get_VVI people_NN to_TO think_VVI straight_RR_JJ in_II the_AT first_MD place_NN1_VV0 rather_II21_CS21@ than_II22_CS22@ to_TO_II undo_VVI the_AT tangled_JJ mental_JJ pathway_NN1 later_RRR on_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   58 So here is my pact with you .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   58 So_RR here_RL is_VBZ my_APPGE pact_NN1 with_IW you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   59 I will do my damndest to get them thinking straight up front but if I fail , I for this award and thank you for your warm reception .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   59 I_PPIS1 will_VM do_VDI my_APPGE damndest_JJT to_TO get_VVI them_PPHO2 thinking_VVG straight_RR up_RP_II@ front_JJ_NN1 but_CCB if_CS I_PPIS1 fail_VV0 ,_Y I_PPIS1 for_IF this_DD1 award_NN1 and_CC thank_VV0 you_PPY for_IF your_APPGE warm_JJ reception_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   60 Now , I just want to have a conversation about life , the universe , and everything else .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   60 Now_RT ,_Y I_PPIS1 just_RR want_VV0 to_TO have_VHI a_AT1 conversation_NN1 about_II life_NN1 ,_Y the_AT universe_NN1 ,_Y and_CC everything_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   61 The following are responses to questions ( briefly summarized here ) that were posed by conference attendees .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   61 The_AT following_JJ are_VBR responses_NN2 to_II questions_NN2 (_Y briefly_RR summarized_VVN_VVD here_RL )_Y that_CST were_VBDR posed_VVN by_II conference_NN1 attendees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   62 Neil deGrasse Tyson on the Grand Canyon and creationist books that give it a non-evolutionary explanation : Where I work in New York at the Rose Center for Earth and Space at the American Museum of Natural History , there is a huge exhibit on the Big Bang .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   62 Neil_NP1 deGrasse_NN1 Tyson_NN1@_NP1 on_II the_AT Grand_JJ_NP1@ Canyon_NP1_NN1@ and_CC creationist_NN1 books_NN2_VVZ% that_CST give_VV0 it_PPH1 a_AT1 non-evolutionary_JJ explanation_NN1 :_Y Where_RRQ_CS I_PPIS1 work_VV0 in_II New_NP1 York_NP1 at_II the_AT Rose_NN1_JJ@_NP1 Center_NN1 for_IF Earth_NN1 and_CC Space_NN1_VV0@ at_II the_AT American_JJ Museum_NN1 of_IO Natural_JJ History_NN1 ,_Y there_EX is_VBZ a_AT1 huge_JJ exhibit_NN1 on_II the_AT Big_JJ Bang_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   63 Occasionally , someone walks up and says , " You make no mention of God in there , why not ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   63 Occasionally_RR ,_Y someone_PN1 walks_VVZ up_RP and_CC says_VVZ ,_Y "_Y You_PPY make_VV0 no_AT mention_NN1 of_IO God_NP1_NN1@ in_II there_RL ,_Y why_RRQ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   64 " I respond by suggesting , " Why do n't you go to the exhibit on human origins first and then come back to us .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   64 "_Y I_PPIS1 respond_VV0 by_II suggesting_VVG ,_Y "_Y Why_RRQ do_VD0 n't_XX you_PPY go_VVI to_II the_AT exhibit_NN1 on_II human_JJ_NN1 origins_NN2 first_MD and_CC then_RT come_VV0 back_RP to_II us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   65 " And then they never make it back because they have skeletons of monkeys holding hands with people over at the human evolution exhibit hall .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   65 "_Y And_CC then_RT they_PPHS2 never_RR make_VV0 it_PPH1 back_RP because_CS they_PPHS2 have_VH0 skeletons_NN2 of_IO monkeys_NN2 holding_VVG hands_NN2 with_IW people_NN over_RP at_II the_AT human_JJ_NN1 evolution_NN1 exhibit_NN1_VV0 hall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   66 It 's clear that biological issues are of much greater significance to the religious community and an affront to their belief it back .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   66 It_PPH1 's_VBZ clear_JJ that_CST_DD1 biological_JJ issues_NN2 are_VBR of_IO much_DA1_RR greater_JJR significance_NN1 to_II the_AT religious_JJ community_NN1 and_CC an_AT1 affront_NN1 to_II their_APPGE belief_NN1 it_PPH1 back_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   67 If I were going to visit the Grand Canyon I 'd make a detour and visit Meteor Crater because however long you think it took to make the Grand Canyon , it took a tenth of a second ( or less ) to make Meteor Crater .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   67 If_CS I_PPIS1 were_VBDR going_VVGK to_TO visit_VVI the_AT Grand_JJ Canyon_NN1@_NP1 I_PPIS1 'd_VM make_VVI a_AT1 detour_NN1 and_CC visit_VVI Meteor_NN1 Crater_NN1@_NP1 because_CS however_RR long_VV0@_RR_JJ you_PPY think_VV0 it_PPH1 took_VVD to_TO make_VVI the_AT Grand_JJ_NP1@ Canyon_NP1_NN1@ ,_Y it_PPH1 took_VVD a_AT1 tenth_MD of_IO a_AT1 second_NNT1_MD (_Y or_CC less_RRR_DAR )_Y to_TO make_VVI Meteor_NN1 Crater_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   68 An asteroid the size of our planetarium slammed into earth going ten miles per second and left a hole in the ground sixty stories deep and practically a mile across .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   68 An_AT1 asteroid_NN1 the_AT size_NN1 of_IO our_APPGE planetarium_NN1 slammed_VVD_VVN@ into_II earth_NN1 going_VVG ten_MC miles_NNU2 per_II second_NNT1 and_CC left_VVD_VVN a_AT1 hole_NN1 in_II the_AT ground_NN1 sixty_MC stories_NN2 deep_JJ and_CC practically_RR a_AT1 mile_NNU1 across_RL@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   69 In a tenth of a second .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   69 In_II a_AT1 tenth_MD of_IO a_AT1 second_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   70 Falling from the sky .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   70 Falling_VVG from_II the_AT sky_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   71 When I was fourteen years old , I made my first trip to both .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   71 When_CS_RRQ I_PPIS1 was_VBDZ fourteen_MC years_NNT2 old_JJ ,_Y I_PPIS1 made_VVD my_APPGE first_MD trip_NN1 to_II both_DB2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   72 I looked at Grand Canyon ; okay , it 's kind of nice .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   72 I_PPIS1 looked_VVD at_II Grand_NP1@_JJ Canyon_NP1_NN1@ ;_Y okay_RR ,_Y it_PPH1 's_VBZ kind_RR21%_NN1 of_RR22_IO nice_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   73 I went to Meteor Crater and could not speak just realizing how quickly that hole got made and how susceptible we are as little squishy human beings walking on the earth 's surface .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   73 I_PPIS1 went_VVD to_II Meteor_NN1 Crater_NP1_NN1@ and_CC could_VM not_XX speak_VVI just_RR realizing_VVG how_RGQ@_RRQ quickly_RR that_DD1 hole_NN1 got_VVD_VVN made_VVN and_CC how_RGQ@_RRQ susceptible_JJ we_PPIS2 are_VBR as_RG@ little_DA1_RR squishy_JJ human_JJ beings_NN2 walking_VVG on_II the_AT earth_NN1 's_GE surface_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   74 So people will say what they want or believe what they want ; I will just simply say keep nonscience out of the science classroom , and that is all .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   74 So_RR people_NN will_VM say_VVI what_DDQ they_PPHS2 want_VV0 or_CC believe_VV0 what_DDQ they_PPHS2 want_VV0 ;_Y I_PPIS1 will_VM just_RR simply_RR say_VVI keep_VV0_NN1% nonscience_NN1 out_II21 of_II22 the_AT science_NN1 classroom_NN1 ,_Y and_CC that_DD1_CST is_VBZ all_DB_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   75 My book Death by really about how science works and it is the full expression of everything I know about how the frontier of science moves forward , including occasions that interfere with it and that propel it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   75 My_APPGE book_NN1 Death_NN1 by_II really_RR about_II how_RRQ science_NN1 works_NN_VVZ and_CC it_PPH1 is_VBZ the_AT full_JJ expression_NN1 of_IO everything_PN1 I_PPIS1 know_VV0 about_II how_RRQ the_AT frontier_NN1 of_IO science_NN1 moves_VVZ_NN2 forward_RL ,_Y including_II_VVG@ occasions_NN2 that_CST interfere_VV0 with_IW it_PPH1 and_CC that_CST propel_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   76 It 's a very candid assessment if you need some ways to think about science and its relationship to our understanding of the cosmos .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   76 It_PPH1 's_VBZ a_AT1 very_RG candid_JJ assessment_NN1 if_CS you_PPY need_VV0 some_DD ways_NN2 to_TO think_VVI about_II science_NN1 and_CC its_Z' relationship_NN1 to_II our_APPGE understanding_NN1 of_IO the_AT cosmos_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   77 ... on the absence of Pluto in Gustav Hoist 's seven-movement orchestral suite , The Planets : Holst ascribed a movement to each of the classical post-Copernican planets : Mercury , Venus , Mars , Jupiter , Saturn , Uranus , and Neptune .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   77 ..._... on_II the_AT absence_NN1 of_IO Pluto_NP1 in_II Gustav_NP1 Hoist_NN1 's_GE_VBZ seven-movement_JJ orchestral_JJ suite_NN1 ,_Y The_AT Planets_NN2 :_Y Holst_NP1_NN1_VV0 ascribed_VVD@_VVN a_AT1 movement_NN1 to_II each_DD1 of_IO the_AT classical_JJ post-Copernican_JJ planets_NN2 :_Y Mercury_NP1 ,_Y Venus_NP1 ,_Y Mars_NP1 ,_Y Jupiter_NP1 ,_Y Saturn_NP1 ,_Y Uranus_NP1 ,_Y and_CC Neptune_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   78 He wrote it in the 1910s , and excluded Pluto because it had n't been discovered yet .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   78 He_PPHS1 wrote_VVD it_PPH1 in_II the_AT 1910s_MC2 ,_Y and_CC excluded_VVD Pluto_NP1 because_CS it_PPH1 had_VHD n't_XX been_VBN discovered_VVN@ yet_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   79 That would have been a clairvoyant movement if he had .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   79 That_DD1 would_VM have_VHI been_VBN a_AT1 clairvoyant_JJ_NN1 movement_NN1 if_CS he_PPHS1 had_VHD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   80 Once Pluto was discovered he was invited to write a movement on Pluto .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   80 Once_CS@_RR Pluto_NP1 was_VBDZ discovered_VVN@ he_PPHS1 was_VBDZ invited_VVN to_TO write_VVI a_AT1 movement_NN1 on_II Pluto_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   81 He actually began it but then came down with pneumonia and chose not to finish .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   81 He_PPHS1 actually_RR began_VVD it_PPH1 but_CCB then_RT came_VVD down_RP with_IW pneumonia_NN1 and_CC chose_VVD not_XX to_TO finish_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   82 In the 1990s a Holst scholar composed a movement for Pluto in the style of the other movements .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   82 In_II the_AT 1990s_MC2 a_AT1 Holst_NN1 scholar_NN1 composed_VVD_VVN a_AT1 movement_NN1 for_IF Pluto_NP1 in_II the_AT style_NN1 of_IO the_AT other_JJ movements_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   83 But now Pluto is n't a planet , so that changed when Pluto was reclassified as a dwarf planet in 2006 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   83 But_CCB now_RT Pluto_NP1 is_VBZ n't_XX a_AT1 planet_NN1 ,_Y so_CS@_RR that_DD1 changed_VVN_VVD when_CS_RRQ Pluto_NP1 was_VBDZ reclassified_VVN@ as_II a_AT1 dwarf_NN1 planet_NN1 in_II 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   84 The Adler Planetarium in Chicago was founded in 1930 about a month before Pluto was discovered .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   84 The_AT Adler_NN1_NP1 Planetarium_NN1_NP1 in_II Chicago_NP1 was_VBDZ founded_VVN in_II 1930_MC about_II a_AT1 month_NNT1 before_II_CS Pluto_NP1 was_VBDZ discovered_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   85 The foyer features relief plaques , each one representing one of the eight planets in the solar system .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   85 The_AT foyer_NN1 features_NN2_VVZ@ relief_NN1 plaques_NN2 ,_Y each_DD1 one_PN1 representing_VVG one_MC1 of_IO the_AT eight_MC planets_NN2 in_II the_AT solar_JJ system_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   86 Then Pluto was discovered and they were stuck because it did n't fit .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   86 Then_RT Pluto_NP1 was_VBDZ discovered_VVN@ and_CC they_PPHS2 were_VBDR stuck_VVN because_CS it_PPH1 did_VDD n't_XX fit_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   87 Now that Pluto 's not a planet it 's right back in style .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   87 Now_CS21 that_CS22 Pluto_NP1 's_VBZ not_XX a_AT1 planet_NN1 it_PPH1 's_VBZ right_RR_JJ back_RP_NN1 in_II style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   88 ... on the theory that the universe is expanding and what dark matter and the Big Bang have to do with it : The only evidence we 've ever had on what the universe is doing has told us that we are expanding .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   88 ..._... on_II the_AT theory_NN1 that_CST the_AT universe_NN1 is_VBZ expanding_JJ_VVG and_CC what_DDQ dark_JJ_NN1 matter_NN1 and_CC the_AT Big_JJ Bang_NN1 have_VH0 to_TO do_VDI with_IW it_PPH1 :_Y The_AT only_JJ evidence_NN1 we_PPIS2 've_VH0 ever_RR had_VHN on_II what_DDQ the_AT universe_NN1 is_VBZ doing_VDG has_VHZ told_VVN us_PPIO2 that_CST we_PPIS2 are_VBR expanding_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   89 What we discovered in 1998 was this mysterious pressure in the vacuum of the cosmos that is operating against the natural efforts of gravity and is accelerating the expansion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   89 What_DDQ we_PPIS2 discovered_VVD in_II 1998_MC was_VBDZ this_DD1_RG% mysterious_JJ pressure_NN1 in_II the_AT vacuum_NN1 of_IO the_AT cosmos_NN1 that_CST_DD1 is_VBZ operating_VVG against_II the_AT natural_JJ efforts_NN2 of_IO gravity_NN1 and_CC is_VBZ accelerating_VVG the_AT expansion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   90 So we are not only expanding , we 're accelerating in our expansion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   90 So_RR we_PPIS2 are_VBR not_XX only_RR expanding_JJ_VVG ,_Y we_PPIS2 're_VBR accelerating_VVG in_II_RP@ our_APPGE expansion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   91 We blame that on dark energy .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   91 We_PPIS2 blame_VV0 that_CST_DD1 on_II dark_JJ_NN1 energy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   92 Now , we have no clue what dark energy is but we measure its existence , and that is We call it dark energy but we could just as easily have called it Fred .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   92 Now_RT ,_Y we_PPIS2 have_VH0 no_AT clue_NN1 what_DDQ dark_JJ_NN1 energy_NN1 is_VBZ but_CCB we_PPIS2 measure_VV0 its_Z' existence_NN1 ,_Y and_CC that_DD1_CST is_VBZ We_PPIS2 call_VV0 it_PPH1 dark_JJ energy_NN1 but_CCB we_PPIS2 could_VM just_RR as_RG easily_RR have_VHI called_VVN it_PPH1 Fred_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   93 The same is true of dark matter ; 85 percent of all the gravity we measure in the universe is traceable to a substance about which we know nothing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   93 The_AT same_DA is_VBZ true_JJ of_IO dark_JJ_NN1 matter_NN1 ;_Y 85_MC percent_NNU of_IO all_DB the_AT gravity_NN1 we_PPIS2 measure_VV0 in_II_RP@ the_AT universe_NN1 is_VBZ traceable_JJ to_II a_AT1 substance_NN1 about_II which_DDQ we_PPIS2 know_VV0 nothing_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   94 We can call that Wilma , right ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   94 We_PPIS2 can_VM call_VVI that_CST_DD1 Wilma_NP1_NN1@ ,_Y right_RR_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   95 So one day we 'll know what Fred and Wilma are but right now we measure the distance and those are the placeholder terms we give them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   95 So_RR one_MC1 day_NNT1 we_PPIS2 'll_VM know_VVI what_DDQ Fred_NP1 and_CC Wilma_NP1 are_VBR but_CCB right_RR now_RT we_PPIS2 measure_VV0 the_AT distance_NN1 and_CC those_DD2 are_VBR the_AT placeholder_NN1 terms_NN2 we_PPIS2 give_VV0 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   96 People ask if the Big Bang was perhaps not just a single moment , but a continuous process that 's pushing the universe apart .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   96 People_NN ask_VV0 if_CSW@_CS the_AT Big_JJ Bang_NN1 was_VBDZ perhaps_RR not_XX just_RR a_AT1 single_JJ moment_NN1 ,_Y but_CCB a_AT1 continuous_JJ process_NN1 that_CST_DD1 's_VBZ pushing_VVG the_AT universe_NN1 apart_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   97 But the signature of the Big Bang is quite singular .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   97 But_CCB the_AT signature_NN1 of_IO the_AT Big_JJ Bang_NN1 is_VBZ quite_RG singular_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   98 We know what a Big Bang looks like ; it 's very hot and matter and energy form a soup of a condition wholly unfamiliar with anything we would see in everyday life .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   98 We_PPIS2 know_VV0 what_DDQ a_AT1 Big_JJ Bang_NN1 looks_VVZ like_II ;_Y it_PPH1 's_VBZ very_RG hot_JJ and_CC matter_NN1_VV0 and_CC energy_NN1 form_VV0_NN1 a_AT1 soup_NN1 of_IO a_AT1 condition_NN1 wholly_RR unfamiliar_JJ with_IW anything_PN1 we_PPIS2 would_VM see_VVI in_II_RP@ everyday_JJ life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0   99 And we do n't see that happening continuously ; we only see that happening fourteen billion years ago .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0   99 And_CC we_PPIS2 do_VD0 n't_XX see_VVI that_DD1_CST happening_NN1_VVG continuously_RR ;_Y we_PPIS2 only_RR see_VV0 that_DD1_CST happening_NN1_VVG fourteen_MC billion_M1 years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  100 As we look out in space we see things not as they are but as they were , given the I do n't see you in the front row as you are , I see you as you were twelve nanoseconds ago -- twelve billionths of a second ago -- the time it takes light to reach me .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  100 As_CSA we_PPIS2 look_VV0 out_RP in_II space_NN1 we_PPIS2 see_VV0 things_NN2 not_XX as_CSA they_PPHS2 are_VBR but_CCB as_CSA they_PPHS2 were_VBDR ,_Y given_VVN the_AT I_PPIS1 do_VD0 n't_XX see_VVI you_PPY in_II the_AT front_JJ_NN1 row_NN1 as_CSA you_PPY are_VBR ,_Y I_PPIS1 see_VV0 you_PPY as_CSA you_PPY were_VBDR twelve_MC nanoseconds_NN2 ago_RA --_NN1_JJ twelve_MC billionths_NN2 of_IO a_AT1 second_NNT1 ago_RA --_NN1_JJ the_AT time_NNT1 it_PPH1 takes_VVZ light_JJ_NN1 to_TO reach_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  101 So if I put you out halfway across the universe , you 're not even born yet .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  101 So_RR if_CS I_PPIS1 put_VV0 you_PPY out_RP halfway_RR across_II the_AT universe_NN1 ,_Y you_PPY 're_VBR not_XX even_RR born_VVN yet_RR ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  102 ... on the danger to a person standing on a planet , looking out at another planet that 's been swallowed by a black hole ( as happens in the latest Star Trek movie ) : It 's definitely dangerous for people on the swallowed planet .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  102 ..._... on_II the_AT danger_NN1 to_II a_AT1 person_NN1 standing_VVG_NN1 on_II a_AT1 planet_NN1 ,_Y looking_VVG out_RP at_II another_DD1 planet_NN1 that_CST_DD1 's_VHZ been_VBN swallowed_VVN by_II a_AT1 black_JJ hole_NN1 (_Y as_CSA happens_VVZ in_II the_AT latest_JJT Star_NN1_JJ@ Trek_NP1_NN1@ movie_NN1 )_Y :_Y It_PPH1 's_VBZ definitely_RR dangerous_JJ for_IF people_NN on_II the_AT swallowed_JJ planet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  103 Let 's establish that fact up front .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  103 Let_VM21 's_VM22 establish_VVI that_DD1_CST fact_NN1 up_RL21 front_RL22 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  104 Now , black holes have very high surface gravity but their total gravity is unchanged , so if the sun were to become a black hole we would still orbit it in a year and nothing would change for us .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  104 Now_RT ,_Y black_JJ holes_NN2 have_VH0 very_RG high_JJ surface_NN1 gravity_NN1 but_CCB their_APPGE total_JJ_NN1 gravity_NN1 is_VBZ unchanged_JJ ,_Y so_RR_CS@ if_CS the_AT sun_NN1 were_VBDR to_TO become_VVI a_AT1 black_JJ hole_NN1 we_PPIS2 would_VM still_RR orbit_VVI it_PPH1 in_II_RP@ a_AT1 year_NNT1 and_CC nothing_PN1 would_VM change_VVI for_IF us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  105 The sun 's mass would not increase .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  105 The_AT sun_NN1 's_GE mass_NN1 would_VM not_XX increase_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  106 In Newton 's Law of Gravity all that matters is how far away you are from the center of that object and what the mass is of you and that turns into a black hole , it has the same mass .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  106 In_II Newton_NP1 's_GE Law_NN1 of_IO Gravity_NN1 all_DB that_CST_DD1 matters_NN2_VVZ@ is_VBZ how_RRQ_RGQ@ far_RR_JJ away_RL you_PPY are_VBR from_II the_AT center_NN1 of_IO that_DD1 object_NN1 and_CC what_DDQ the_AT mass_NN1 is_VBZ of_IO you_PPY and_CC that_DD1 turns_VVZ into_II a_AT1 black_JJ hole_NN1 ,_Y it_PPH1 has_VHZ the_AT same_DA mass_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  107 It 's just really , really small and so it has really high gravity .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  107 It_PPH1 's_VBZ just_RR really_RR ,_Y really_RR small_JJ and_CC so_RR_CS@ it_PPH1 has_VHZ really_RR high_JJ gravity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  108 It would be a spectacular sight , but bad for the residents of the black hole itself .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  108 It_PPH1 would_VM be_VBI a_AT1 spectacular_JJ sight_NN1 ,_Y but_CCB bad_JJ for_IF the_AT residents_NN2 of_IO the_AT black_JJ hole_NN1 itself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  109 ... in response to an audience 's member 's question , " What 's the edge of the universe like ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  109 ..._... in_II31 response_II32 to_II33 an_AT1 audience_NN1 's_GE member_NN1 's_GE question_NN1 ,_Y "_Y What_DDQ 's_VBZ the_AT edge_NN1 of_IO the_AT universe_NN1 like_II_VV0@ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  110 " : You ask me as though I 've been there !
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  110 "_Y :_Y You_PPY ask_VV0 me_PPIO1 as_CS21 though_CS22 I_PPIS1 've_VH0 been_VBN there_RL !_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  111 Where the actual edge of the universe is , if there is an edge at all , is unknown to us .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  111 Where_CS the_AT actual_JJ edge_NN1 of_IO the_AT universe_NN1 is_VBZ ,_Y if_CS there_EX is_VBZ an_AT1 edge_NN1 at_RR21_II all_RR22_DB ,_Y is_VBZ unknown_JJ to_II us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  112 The horizon is just a limit to where light has been travelling over the lifetime of the universe itself , fourteen billion light years ' distance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  112 The_AT horizon_NN1 is_VBZ just_RR a_AT1 limit_NN1 to_II where_RRQ light_NN1 has_VHZ been_VBN travelling_VVG over_II_RP the_AT lifetime_NNT1 of_IO the_AT universe_NN1 itself_PPX1 ,_Y fourteen_MC billion_M1 light_JJ years_NNT2 '_GE distance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  113 Anything fifteen billion light years away is n't old enough for us to even see the light that has emerged from it , so it remains invisible to us until a billion years go by .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  113 Anything_PN1 fifteen_MC billion_M1 light_JJ years_NNT2 away_RL is_VBZ n't_XX old_JJ enough_RR for_IF us_PPIO2 to_TO even_RR see_VVI the_AT light_NN1_JJ that_CST has_VHZ emerged_VVN from_II it_PPH1 ,_Y so_CS@_RR it_PPH1 remains_VVZ invisible_JJ to_II us_PPIO2 until_CS_II@ a_AT1 billion_M1 years_NNT2 go_VV0 by_RP%_II ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  114 We are at the center of our own horizon just as a ship at sea is in the center of its own horizon .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  114 We_PPIS2 are_VBR at_II the_AT center_NN1 of_IO our_APPGE own_DA horizon_NN1 just_RR as_II_CSA a_AT1 ship_NN1 at_II sea_NN1 is_VBZ in_II the_AT center_NN1 of_IO its_Z' own_DA horizon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  115 If there is an people assume the universe is infinite .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  115 If_CS there_EX is_VBZ an_AT1 people_NN assume_VV0 the_AT universe_NN1 is_VBZ infinite_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  116 But it 's an assumption , not a requirement .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  116 But_CCB it_PPH1 's_VBZ an_AT1 assumption_NN1 ,_Y not_XX a_AT1 requirement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  117 ... on the opinion ( that runs contrary to the position of the Planetary Society ) that Mars missions should be robotic only because it 's too impractical and dangerous to send humans .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  117 ..._... on_II the_AT opinion_NN1 (_Y that_DD1_CST runs_VVZ contrary_II21 to_II22 the_AT position_NN1 of_IO the_AT Planetary_JJ Society_NN1 )_Y that_CST Mars_NP1 missions_NN2 should_VM be_VBI robotic_JJ only_JJ_RR because_CS it_PPH1 's_VBZ too_RG impractical_JJ and_CC dangerous_JJ to_TO send_VVI humans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  118 In my advancing years , I have become rather pragmatic .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  118 In_II my_APPGE advancing_JJ years_NNT2 ,_Y I_PPIS1 have_VH0 become_VVN@ rather_RG pragmatic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  119 I have come to recognize some fundamental truths about human behavior .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  119 I_PPIS1 have_VH0 come_VVN to_TO recognize_VVI some_DD fundamental_JJ truths_NN2 about_II human_JJ_NN1 behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  120 I wish it were different but it 's how it is .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  120 I_PPIS1 wish_VV0 it_PPH1 were_VBDR different_JJ but_CCB it_PPH1 's_VBZ how_RRQ it_PPH1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  121 And how it is , is that nobody names schools after robots .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  121 And_CC how_RRQ it_PPH1 is_VBZ ,_Y is_VBZ that_DD1 nobody_PN1 names_VVZ@ schools_NN2 after_II_CS robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  122 Nobody has ticker-tape parades for robots .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  122 Nobody_PN1 has_VHZ ticker-tape_JJ parades_NN2 for_IF robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  123 It just does n't happen .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  123 It_PPH1 just_RR does_VDZ n't_XX happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  124 There were robots in the 1960s .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  124 There_EX were_VBDR robots_NN2 in_II the_AT 1960s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  125 There was a rover on the moon .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  125 There_EX was_VBDZ a_AT1 rover_NN1 on_II the_AT moon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  126 Nobody cared because astronauts were on their way .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  126 Nobody_PN1 cared_VVD_VVN because_CS astronauts_NN2 were_VBDR on_II their_APPGE way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  127 The moment a human being advances a space frontier , everybody talks about it because that person risked his or her life .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  127 The_AT moment_NN1 a_AT1 human_JJ being_NN1 advances_VVZ a_AT1 space_NN1 frontier_NN1 ,_Y everybody_PN1 talks_VVZ@ about_II it_PPH1 because_CS that_DD1 person_NN1 risked_VVD his_APPGE or_CC her_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  128 ( We are not risking their life ; they are risking their life .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  128 (_Y We_PPIS2 are_VBR not_XX risking_VVG their_APPGE life_NN1 ;_Y they_PPHS2 are_VBR risking_VVG their_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  129 ) And the history of human culture , for whatever reason , values the efforts of those who them ; they get remembered forever .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  129 )_Y And_CC the_AT history_NN1 of_IO human_JJ_NN1 culture_NN1 ,_Y for_IF whatever_DDQV reason_NN1 ,_Y values_VVZ@_NN2 the_AT efforts_NN2 of_IO those_DD2 who_PNQS them_PPHO2 ;_Y they_PPHS2 get_VV0 remembered_VVN forever_RT ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  130 And so there is an aspect of space exploration that goes beyond scientific discovery and captures the essence of exploration that has driven human beings in the history of our culture beyond the limits previously set by others .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  130 And_CC so_RR_CS@ there_EX is_VBZ an_AT1 aspect_NN1 of_IO space_NN1 exploration_NN1 that_CST_DD1 goes_VVZ beyond_II scientific_JJ discovery_NN1 and_CC captures_VVZ the_AT essence_NN1 of_IO exploration_NN1 that_CST_DD1 has_VHZ driven_VVN human_JJ beings_NN2 in_II the_AT history_NN1 of_IO our_APPGE culture_NN1 beyond_II the_AT limits_NN2 previously_RR set_VVN by_II others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  131 And that enterprise is what the nation buys into .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  131 And_CC that_DD1 enterprise_NN1 is_VBZ what_DDQ the_AT nation_NN1 buys_VVZ_NN2 into_II ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  132 That enterprise is what stimulates the interest and the urge to move a frontier out .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  132 That_DD1 enterprise_NN1 is_VBZ what_DDQ stimulates_VVZ the_AT interest_NN1 and_CC the_AT urge_NN1 to_TO move_VVI a_AT1 frontier_NN1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  133 And so I can tell you that my fellow astrophysicists sincerely believe that NASA is their private science funding agency .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  133 And_CC so_RR_CS@ I_PPIS1 can_VM tell_VVI you_PPY that_CST my_APPGE fellow_JJ_NN1 astrophysicists_NN2 sincerely_RR believe_VV0 that_CST NASA_NP1 is_VBZ their_APPGE private_JJ science_NN1 funding_NN1 agency_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  134 When NASA decides to spend money on a manned program , they will cry foul .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  134 When_CS NASA_NP1 decides_VVZ to_TO spend_VVI money_NN1 on_II a_AT1 manned_JJ program_NN1 ,_Y they_PPHS2 will_VM cry_VVI foul_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  135 But ask yourself , why was NASA founded ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  135 But_CCB ask_VV0 yourself_PPX1 ,_Y why_RRQ was_VBDZ NASA_NP1 founded_VVD ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  136 It was founded in response to Sputnik and a geopolitical war we felt we were losing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  136 It_PPH1 was_VBDZ founded_VVN in_II31 response_II32 to_II33 Sputnik_NP1 and_CC a_AT1 geopolitical_JJ war_NN1 we_PPIS2 felt_VVD we_PPIS2 were_VBDR losing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  137 Not only that , over the past fifty years only about 23 percent of the total budget for NASA has gone to science .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  137 Not_XX only_RR that_DD1_CST ,_Y over_II the_AT past_JJ fifty_MC years_NNT2 only_RR about_RG 23_MC percent_NNU of_IO the_AT total_JJ_NN1 budget_NN1 for_IF NASA_NP1 has_VHZ gone_VVN to_II science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  138 The rest has gone to the space station , the shuttle -- all the manned programs .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  138 The_AT rest_NN1 has_VHZ gone_VVN to_II the_AT space_NN1 station_NN1 ,_Y the_AT shuttle_NN1 --_NN1 all_DB the_AT manned_JJ programs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  139 In fact , scientific discovery is the tail of a much larger dog .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  139 In_II fact_NN1 ,_Y scientific_JJ discovery_NN1 is_VBZ the_AT tail_NN1 of_IO a_AT1 much_RR larger_JJR dog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  140 Darwin go to the Galapagos , let me hire one " No , the boat had another agenda and he piggybacked along .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  140 Darwin_NP1 go_VVI to_II the_AT Galapagos_NN2_NP1 ,_Y let_VV0 me_PPIO1 hire_NN1 one_MC1_PN1 "_Y No_UH ,_Y the_AT boat_NN1 had_VHD another_DD1 agenda_NN1 and_CC he_PPHS1 piggybacked_VVD along_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  141 Somebody else wrote that check .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  141 Somebody_PN1 else_RR wrote_VVD that_DD1 check_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  142 Captain Cook goes to the South Pacific .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  142 Captain_NNB Cook_NP1 goes_VVZ to_II the_AT South_ND1 Pacific_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  143 Why is. he going ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  143 Why_RRQ is._NNU he_PPHS1 going_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  144 As we read it , he wants to measure the transit of Venus across the surface of the sun .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  144 As_CSA we_PPIS2 read_VV0_VVD it_PPH1 ,_Y he_PPHS1 wants_VVZ to_TO measure_VVI the_AT transit_NN1 of_IO Venus_NP1 across_II the_AT surface_NN1 of_IO the_AT sun_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  145 It only happens every few hundred years and if measured accurately , you get the scale of measurement in the solar system .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  145 It_PPH1 only_RR happens_VVZ every_AT1 few_DA2 hundred_M1 years_NNT2 and_CC if_CS measured_VVN accurately_RR ,_Y you_PPY get_VV0 the_AT scale_NN1 of_IO measurement_NN1 in_II the_AT solar_JJ system_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  146 We did n't know the distance from the earth to the sun until that expedition .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  146 We_PPIS2 did_VDD n't_XX know_VVI the_AT distance_NN1 from_II the_AT earth_NN1 to_II the_AT sun_NN1 until_CS_II@ that_DD1 expedition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  147 But wait , who wrote that check ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  147 But_CCB wait_VV0 ,_Y who_PNQS wrote_VVD that_CST_DD1 check_VV0_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  148 England wrote that check .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  148 England_NP1 wrote_VVD that_DD1 check_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  149 Did they really care about how far the earth was from the sun ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  149 Did_VDD they_PPHS2 really_RR care_VVI about_II how_RGQ@_RRQ far_RR the_AT earth_NN1 was_VBDZ from_II the_AT sun_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  150 Consider what happens a few years after Captain Cook comes back -- England takes control of the South Pacific .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  150 Consider_VV0 what_DDQ happens_VVZ a_AT1 few_DA2 years_NNT2 after_CS_II Captain_NNB Cook_NP1 comes_VVZ back_RP --_ZZ England_NP1 takes_VVZ control_NN1 of_IO the_AT South_ND1 Pacific_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  151 England takes control of Australia .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  151 England_NP1 takes_VVZ control_NN1 of_IO Australia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  152 England rules that entire quadrant of the world .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  152 England_NP1 rules_VVZ@_NN2 that_CST_DD1 entire_JJ quadrant_NN1 of_IO the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  153 That is who wrote that check .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  153 That_DD1 is_VBZ who_PNQS wrote_VVN that_DD1 check_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  154 So let 's be honest with ourselves about what enables science .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  154 So_RR let_VM21 's_VM22 be_VBI honest_JJ with_IW ourselves_PPX2 about_II what_DDQ enables_VVZ science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  155 It has never been science .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  155 It_PPH1 has_VHZ never_RR been_VBN science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  156 It has been politics .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  156 It_PPH1 has_VHZ been_VBN politics_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  157 And I have come to recognize that fact .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  157 And_CC I_PPIS1 have_VH0 come_VVN to_TO recognize_VVI that_DD1 fact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  158 And so I could say let 's just do the science with the robots .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  158 And_CC so_RR_CS@ I_PPIS1 could_VM say_VVI let_VM21 's_VM22 just_RR do_VDI the_AT science_NN1 with_IW the_AT robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  159 But we will lose the budget because the budget is driven by the manned program and the science , for better or worse , must piggyback that .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  159 But_CCB we_PPIS2 will_VM lose_VVI the_AT budget_NN1 because_CS the_AT budget_NN1 is_VBZ driven_VVN by_II the_AT manned_JJ program_NN1 and_CC the_AT science_NN1 ,_Y for_IF better_JJR_RRR or_CC worse_JJR_RRR@ ,_Y must_VM piggyback_NN1 that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  160 PHOTO ( BLACK WHITE ) : Meteor Crater was created some 50,000 years ago as a result of a meteor hitting the earth in what 's now the Arizona desert .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  160 PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Meteor_NN1 Crater_NP1_NN1@ was_VBDZ created_VVN some_DD 50,000_MC years_NNT2 ago_RA as_II a_AT1 result_NN1 of_IO a_AT1 meteor_NN1 hitting_VVG the_AT earth_NN1 in_II what_DDQ 's_VBZ now_RT the_AT Arizona_NP1 desert_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  161 PHOTO ( BLACK WHITE ) : A view of Meteor Crater from space .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  161 PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y A_AT1@_ZZ1 view_NN1 of_IO Meteor_NN1 Crater_NN1@_NP1 from_II space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  162 ( Photo : NASA/JPL-Caltech PHOTO ( BLACK WHITE ) : An artist 's depiction of a supermassive black hole at the center of a galaxy .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  162 (_Y Photo_NN1 :_Y NASA/JPL-Caltech_NP1 PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y An_AT1 artist_NN1 's_GE depiction_NN1 of_IO a_AT1 supermassive_JJ black_JJ hole_NN1 at_II the_AT center_NN1 of_IO a_AT1 galaxy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  163 By Neil deGrasse Tyson Neil deGrasse Tyson is the Frederick P. Rose Director of the Hayden Planetarium at the American Museum of Natural History in New York , and host of PBS 's NOVA science NOW .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  163 By_II Neil_NP1 deGrasse_NN1 Tyson_NP1 Neil_NP1 deGrasse_NN1 Tyson_NP1_NN1@ is_VBZ the_AT Frederick_NP1 P._NP1 Rose_NP1_VVD_NN1 Director_NN1 of_IO the_AT Hayden_NP1 Planetarium_NP1_NN1 at_II the_AT American_JJ Museum_NN1 of_IO Natural_JJ History_NN1 in_II New_NP1 York_NP1 ,_Y and_CC host_NN1 of_IO PBS_NP1 's_GE NOVA_NP1_FW science_NN1 NOW_RT ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  A    0  164 
+SENTPOS COCA_acad_wlp_2009_07_FILE##4079970 COCA  B    0  164 

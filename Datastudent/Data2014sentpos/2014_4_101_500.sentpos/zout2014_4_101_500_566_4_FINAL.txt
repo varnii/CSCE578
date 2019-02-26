@@ -1,0 +1,62 @@
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    0 The Panopticon is a system to analyze and supervise all the people in the community , and in order to rule those people better , there are several rules which people have to follow .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    0 The_AT Panopticon_NN1 is_VBZ a_AT1 system_NN1 to_TO analyze_VVI and_CC supervise_VVI all_DB the_AT people_NN in_II the_AT community_NN1 ,_, and_CC in_BCL21 order_BCL22 to_TO rule_VVI those_DD2 people_NN better_VV0% ,_, there_EX are_VBR several_DA2 rules_NN2 which_DDQ people_NN have_VH0 to_TO follow_VVI ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    1 The concept they put all people in specific spots and watch them to work should be tested .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    1 The_AT concept_NN1 they_PPHS2 put_VV0 all_DB people_NN in_II specific_JJ spots_NN2 and_CC watch_VV0 them_PPHO2 to_II work_NN1 should_VM be_VBI tested_VVN ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    2 All the people are put in a specific place that they know nothing about what they have been doing or what they are going to do .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    2 All_DB the_AT people_NN are_VBR put_VVN in_II a_AT1 specific_JJ place_NN1 that_CST they_PPHS2 know_VV0 nothing_PN1 about_II what_DDQ they_PPHS2 have_VH0 been_VBN doing_VDG or_CC what_DDQ they_PPHS2 are_VBR going_VVGK to_TO do_VDI ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    3 It obviously violates the basic rights of human .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    3 It_PPH1 obviously_RR violates_VVZ the_AT basic_JJ rights_NN2 of_IO human_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    4 Those people are living without freedom and privacy , they are exposed to others .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    4 Those_DD2 people_NN are_VBR living_VVG without_IW freedom_NN1 and_CC privacy_NN1 ,_, they_PPHS2 are_VBR exposed_VVN to_II others_NN2 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    5 People in the Panopticon is more like part of a huge machines , they are not allowed to express their ideas , all they have to do is to work like a machine .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    5 People_NN in_II the_AT Panopticon_NN1 is_VBZ more_RGR like_JJ@ part_NN1 of_IO a_AT1 huge_JJ machines_NN2 ,_, they_PPHS2 are_VBR not_XX allowed_VVN to_TO express_VVI their_APPGE ideas_NN2 ,_, all_DB they_PPHS2 have_VH0 to_TO do_VDI is_VBZ to_TO@ work_VVI like_II a_AT1 machine_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    6 Foucault talked about this concept in the article that Panopticon will spread the world eventually , and this system would develop the economy , spread education and improve the public morality .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    6 Foucault_NP1@ talked_VVD about_II this_DD1 concept_NN1 in_II the_AT article_NN1 that_CST Panopticon_NP1 will_VM spread_VVI the_AT world_NN1 eventually_RR ,_, and_CC this_DD1 system_NN1 would_VM develop_VVI the_AT economy_NN1 ,_, spread_VV0 education_NN1 and_CC improve_VV0 the_AT public_JJ morality_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    7 He believes that discipline would be dispersed throughout the entire society , then the power would be more economic and efficient .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    7 He_PPHS1 believes_VVZ that_DD1 discipline_NN1 would_VM be_VBI dispersed_VVN throughout_II the_AT entire_JJ society_NN1 ,_, then_RT the_AT power_NN1 would_VM be_VBI more_RGR economic_JJ and_CC efficient_JJ ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    8 The Panopticon should be talked about more than others is this system is more like punish than discipline .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    8 The_AT Panopticon_NN1 should_VM be_VBI talked_VVN about_II more_DAR than_CSN others_NN2 is_VBZ this_DD1 system_NN1 is_VBZ more_RGR like_RR% punish_VV0 than_CSN discipline_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0    9 Others are only working in the emergency situation , and the goals of these system are so different .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0    9 Others_NN2 are_VBR only_RR working_VVG in_II the_AT emergency_NN1 situation_NN1 ,_, and_CC the_AT goals_NN2 of_IO these_DD2 system_NN1 are_VBR so_RG different_JJ ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    0   10 The Panopticon commands people to do what might not like to do , the Panopticon makes people emotionless and ruthless .
+SENTPOS 2014_4_101_500_566_4 FINAL B    0   10 The_AT Panopticon_NN1 commands_VVZ people_NN to_TO do_VDI what_DDQ might_VM not_XX like_VVI to_TO do_VDI ,_, the_AT Panopticon_NN1 makes_VVZ people_NN emotionless_JJ and_CC ruthless_JJ ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   11 Then , the system is to make the community runs smoothly and healthy , does it really work ?
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   11 Then_RT ,_, the_AT system_NN1 is_VBZ to_TO make_VVI the_AT community_NN1 runs_VVZ smoothly_RR and_CC healthy_JJ ,_, does_VDZ it_PPH1 really_RR work_VVI ?_?
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   12 It 's uncertain .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   12 It_PPH1 's_VBZ uncertain_JJ ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   13 But the certain thing is that people who live in the system are lacking of creativity , and also always under the certain threatening .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   13 But_CCB the_AT certain_JJ thing_NN1 is_VBZ that_CST people_NN who_PNQS live_VV0 in_II the_AT system_NN1 are_VBR lacking_VVG of_IO creativity_NN1 ,_, and_CC also_RR always_RR under_II the_AT certain_JJ threatening_JJ@ ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   14 These system is more like a communism , the government has huge power that can decide people 's life .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   14 These_DD2 system_NN1 is_VBZ more_RRR like_II a_AT1 communism_NN1 ,_, the_AT government_NN1 has_VHZ huge_JJ power_NN1 that_CST can_VM decide_VVI people_NN 's_GE life_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   15 I think the generation of my grandparents know how that feels , which that people can not decide their life .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   15 I_PPIS1 think_VV0 the_AT generation_NN1 of_IO my_APPGE grandparents_NN2 know_VV0 how_RRQ that_DD1 feels_VVZ ,_, which_DDQ that_CST people_NN can_VM not_XX decide_VVI their_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   16 They did everything for the community , not for themselves , that 's why people would n't work so hard , because may be they work so hard for just nothing .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   16 They_PPHS2 did_VDD everything_PN1 for_IF the_AT community_NN1 ,_, not_XX for_IF themselves_PPX2 ,_, that_DD1 's_VBZ why_RRQ people_NN would_VM n't_XX work_VVI so_RG hard_RR ,_, because_CS may_VM be_VBI they_PPHS2 work_VV0 so_RG hard_RR for_IF just_RR nothing_PN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   17 There are real example happened before , USSR used to be one of the biggest power in the world , how this big country disintegrated ?
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   17 There_EX are_VBR real_JJ example_NN1 happened_VVD before_RT ,_, USSR_NP1 used_VMK to_TO be_VBI one_MC1 of_IO the_AT biggest_JJT power_NN1 in_II the_AT world_NN1 ,_, how_RRQ this_DD1 big_JJ country_NN1 disintegrated_VVN ?_?
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   18 That 's how panopticon ruins a country .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   18 That_DD1 's_VBZ how_RRQ panopticon_NN1 ruins_VVZ@ a_AT1 country_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   19 In the late USSR , the country was just like panopticon , people were restrict to do what they want to do , and also there always were people watching you .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   19 In_II the_AT late_JJ USSR_NP1 ,_, the_AT country_NN1 was_VBDZ just_RR like_II panopticon_NN1 ,_, people_NN were_VBDR restrict_VV0 to_TO do_VDI what_DDQ they_PPHS2 want_VV0 to_TO do_VDI ,_, and_CC also_RR there_RL always_RR were_VBDR people_NN watching_VVG you_PPY ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   20 In the end , people in the country suffered from poverty and hunger .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   20 In_II the_AT end_NN1 ,_, people_NN in_II the_AT country_NN1 suffered_VVN from_II poverty_NN1 and_CC hunger_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   21 This system is separated from the outside world , people in the Panopticon do n't know the outside world .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   21 This_DD1 system_NN1 is_VBZ separated_VVN from_II the_AT outside_JJ world_NN1 ,_, people_NN in_II the_AT Panopticon_NN1 do_VD0 n't_XX know_VVI the_AT outside_JJ world_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   22 The Panopticon is making the world going the opposite way of what people think the world should be .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   22 The_AT Panopticon_NN1 is_VBZ making_VVG the_AT world_NN1 going_VVG the_AT opposite_JJ way_NN1 of_IO what_DDQ people_NN think_VV0 the_AT world_NN1 should_VM be_VBI ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   23 The world should be more democratic and free , but the Panopticon completely drove away from that .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   23 The_AT world_NN1 should_VM be_VBI more_RGR democratic_JJ and_CC free_JJ ,_, but_CCB the_AT Panopticon_NN1 completely_RR drove_VVD away_II21 from_II22 that_DD1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   24 The Panopticon would also bring the negative effect to the people who live in there , people would think that is their life and it would never change , then they lose the most important thing in the world , hope .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   24 The_AT Panopticon_NN1 would_VM also_RR bring_VVI the_AT negative_JJ effect_NN1 to_II the_AT people_NN who_PNQS live_VV0 in_II there_RL ,_, people_NN would_VM think_VVI that_DD1 is_VBZ their_APPGE life_NN1 and_CC it_PPH1 would_VM never_RR change_VVI ,_, then_RT they_PPHS2 lose_VV0 the_AT most_RGT important_JJ thing_NN1 in_II the_AT world_NN1 ,_, hope_VV0 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    1   25 The hope of having better life motivates people to work harder , but once everyone getting the same thing from what they do , they will start to lose the hope .
+SENTPOS 2014_4_101_500_566_4 FINAL B    1   25 The_AT hope_NN1 of_IO having_VHG better_JJR life_NN1 motivates_VVZ people_NN to_TO@ work_VVI harder_RRR ,_, but_CCB once_RR everyone_PN1 getting_VVG the_AT same_DA thing_NN1 from_II what_DDQ they_PPHS2 do_VD0 ,_, they_PPHS2 will_VM start_VVI to_TO lose_VVI the_AT hope_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    2   26 As the text says : Now , it should be noted that although this police supervision was entirely 'in the hands of the king , ' it did not function in a single direction ( Text , 255 ) .
+SENTPOS 2014_4_101_500_566_4 FINAL B    2   26 As_II the_AT text_NN1 says_VVZ :_: Now_RT ,_, it_PPH1 should_VM be_VBI noted_VVN that_CST although_CS this_DD1 police_VVZ supervision_NN1 was_VBDZ entirely_RR 'in_NN1 the_AT hands_NN2 of_IO the_AT king_NN1 ,_, '_"@ it_PPH1 did_VDD not_XX function_VVI in_II a_AT1 single_JJ direction_NN1 (_( Text_NN1 ,_, 255_MC )_) ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    2   27 Even the supervision is almighty , the world would n't go to the only way .
+SENTPOS 2014_4_101_500_566_4 FINAL B    2   27 Even_RR the_AT supervision_NN1 is_VBZ almighty_JJ ,_, the_AT world_NN1 would_VM n't_XX go_VVI to_II the_AT only_JJ way_NN1 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    2   28 In prevent of this system taking over our world becomes a ruthless one , we should be always fighting for what we want .
+SENTPOS 2014_4_101_500_566_4 FINAL B    2   28 In_II prevent_VV0 of_IO this_DD1 system_NN1 taking_VVG over_RP our_APPGE world_NN1 becomes_VVZ a_AT1 ruthless_JJ one_PN1 ,_, we_PPIS2 should_VM be_VBI always_RR fighting_VVG for_IF what_DDQ we_PPIS2 want_VV0 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    2   29 We are supposed to take some risks , because that would make the amazing things happen .
+SENTPOS 2014_4_101_500_566_4 FINAL B    2   29 We_PPIS2 are_VBR supposed_JJ to_TO take_VVI some_DD risks_NN2 ,_, because_CS that_DD1 would_VM make_VVI the_AT amazing_JJ things_NN2 happen_VV0 ._.
+SENTPOS 2014_4_101_500_566_4 FINAL A    2   29  That 's the beauty of creativity and freedom .
+SENTPOS 2014_4_101_500_566_4 FINAL B    2   29  That_DD1 's_VBZ the_AT beauty_NN1 of_IO creativity_NN1 and_CC freedom_NN1 ._.

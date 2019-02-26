@@ -1,0 +1,104 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    0 The postauricular island flap is also known as the flip-flop flap .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    0 The_AT postauricular_JJ island_NN1 flap_NN1 is_VBZ also_RR known_VVN as_II the_AT flip-flop_NN1 flap_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    1 This flap is not based on a specific artery ; instead , it relies on highly vascular underlying tissues , principally the posterior auricular muscle. n1 The rich blood supply to this muscle and to the auricle is largely derived from perforating branches of the posterior auricular artery , which is a branch of the external carotid artery. n2 The use of this flap as a method of reconstructing concha-helix defects was first described by Masson in 1972. n3 Stucker and Sanders later reported their experience in using this flap to close auricular bowl defects after the harvesting of perichondrial cutaneous grafts. n4 We present our 7-step approach to performing this procedure , which is a valuable technique in the armamentarium of any surgeon who performs basic facial reconstruction : Step 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    1 This_DD1 flap_NN1 is_VBZ not_XX based_VVN on_II a_AT1 specific_JJ artery_NN1 ;_Y instead_RR ,_Y it_PPH1 relies_VVZ on_II highly_RR vascular_JJ underlying_JJ tissues_NN2 ,_Y principally_RR the_AT posterior_JJ_NN1 auricular_JJ muscle._NNU n1_FO The_AT rich_JJ blood_NN1 supply_NN1_VV0 to_II this_DD1 muscle_NN1 and_CC to_II the_AT auricle_NN1 is_VBZ largely_RR derived_VVN from_II perforating_VVG_JJ@ branches_NN2 of_IO the_AT posterior_JJ_NN1 auricular_JJ artery_NN1 ,_Y which_DDQ is_VBZ a_AT1 branch_NN1 of_IO the_AT external_JJ carotid_NN1_JJ artery._NNU n2_FO The_AT use_NN1 of_IO this_DD1 flap_NN1 as_II_CSA a_AT1 method_NN1 of_IO reconstructing_VVG_JJ@ concha-helix_JJ_NN1 defects_NN2 was_VBDZ first_MD described_VVN by_II Masson_NP1 in_II 1972._MC n3_FO Stucker_NP1 and_CC Sanders_NP1 later_RRR reported_VVD_VVN their_APPGE experience_NN1 in_II using_VVG this_DD1 flap_NN1 to_TO close_VVI auricular_JJ bowl_NN1 defects_NN2 after_II_CS the_AT harvesting_NN1@ of_IO perichondrial_JJ cutaneous_JJ grafts._NNU n4_FO We_PPIS2 present_VV0@ our_APPGE 7-step_JJ_NN1 approach_NN1 to_II performing_VVG this_DD1 procedure_NN1 ,_Y which_DDQ is_VBZ a_AT1 valuable_JJ technique_NN1 in_II the_AT armamentarium_NN1 of_IO any_DD surgeon_NN1 who_PNQS performs_VVZ basic_JJ facial_JJ reconstruction_NN1 :_Y Step_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    2 Assess the lesion in a well-lighted environment to determine its size and the depth of invasion .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    2 Assess_VV0 the_AT lesion_NN1 in_II a_AT1 well-lighted_JJ_NN1 environment_NN1 to_TO determine_VVI its_Z' size_NN1 and_CC the_AT depth_NN1 of_IO invasion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    3 Because of the shape of the auricle , examination of the lesion under the microscope is recommended .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    3 Because_II21 of_II22 the_AT shape_NN1 of_IO the_AT auricle_NN1 ,_Y examination_NN1 of_IO the_AT lesion_NN1 under_II the_AT microscope_NN1 is_VBZ recommended_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    4 Mark the limit of the excision to leave 1 , A ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    4 Mark_VV0 the_AT limit_NN1 of_IO the_AT excision_NN1 to_TO leave_VVI 1_MC1 ,_Y A_ZZ1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    5 Figure 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    5 Figure_VV0@_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    6 A : The lesion is seen in the middle of the marked area .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    6 A_ZZ1 :_Y The_AT lesion_NN1 is_VBZ seen_VVN in_II the_AT middle_NN1 of_IO the_AT marked_JJ area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    7 B : The lesion is excised together with the underlying cartilage .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    7 B_ZZ1_NP1@ :_Y The_AT lesion_NN1 is_VBZ excised_VVN together_RL with_IW the_AT underlying_JJ cartilage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    8 C : The size of the flap required to close the conchal defect is outlined .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    8 C_NP1_ZZ1 :_Y The_AT size_NN1 of_IO the_AT flap_NN1 required_VVN to_TO close_VVI the_AT conchal_JJ defect_NN1 is_VBZ outlined_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0    9 D : Close-up photograph shows the postauricular flap based over the sulcus .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0    9 D_ZZ1_NP1@ :_Y Close-up_JJ photograph_NN1 shows_VVZ the_AT postauricular_JJ flap_NN1 based_VVN_VVD@ over_II_RP the_AT sulcus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   10 Step 2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   10 Step_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   11 Administer local anesthesia .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   11 Administer_VV0 local_JJ anesthesia_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   12 We use a combination of 1:80,000 epinephrine and 2% lidocaine in prefilled vials mounted on a dental syringe holder .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   12 We_PPIS2 use_VV0 a_AT1 combination_NN1 of_IO 1:80,000_MC epinephrine_JJ_NN1 and_CC 2%_NNU lidocaine_NN1_VV0 in_II prefilled_JJ@ vials_NN2 mounted_VVN_VVD on_II a_AT1 dental_JJ syringe_NN1 holder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   13 Inject the solution slowly to achieve hydrodissection in a manner similar to that used when performing septal surgery .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   13 Inject_VV0 the_AT solution_NN1 slowly_RR to_TO achieve_VVI hydrodissection_NN1 in_II a_AT1 manner_NN1 similar_JJ to_II that_DD1 used_JJ_VVD_VVN when_CS performing_VVG septal_JJ surgery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   14 The anesthetic effect should ideally extend to the edges of the conchal bowl .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   14 The_AT anesthetic_JJ effect_NN1 should_VM ideally_RR extend_VVI to_II the_AT edges_NN2 of_IO the_AT conchal_JJ bowl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   15 Step 3 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   15 Step_NN1 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   16 After the lesion and underlying cartilage have been excised ( figure 1 , B ) and labeled for orientation , trace the outline of the defect onto a piece of paper .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   16 After_CS_II the_AT lesion_NN1 and_CC underlying_JJ_VVG cartilage_NN1 have_VH0 been_VBN excised_VVN (_Y figure_NN1_VV0@ 1_MC1 ,_Y B_ZZ1 )_Y and_CC labeled_VVD for_IF orientation_NN1 ,_Y trace_VV0 the_AT outline_NN1 of_IO the_AT defect_NN1 onto_II a_AT1 piece_NN1 of_IO paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   17 Cut out the shape and transfer it onto the postauricular skin ( figure 1 , C ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   17 Cut_VV0 out_RP the_AT shape_NN1 and_CC transfer_VV0 it_PPH1 onto_II the_AT postauricular_JJ skin_NN1 (_Y figure_NN1_VV0@ 1_MC1 ,_Y C_ZZ1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   18 The flap should be based slightly over the sulcus to limit the distance of flap size the intended flap slightly larger than the defect because there is invariably some shrinkage of the flap during the healing process .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   18 The_AT flap_NN1 should_VM be_VBI based_VVN slightly_RR over_II_RP the_AT sulcus_NN1 to_TO limit_VVI the_AT distance_NN1 of_IO flap_NN1 size_NN1 the_AT intended_JJ@ flap_NN1 slightly_RR larger_JJR than_CSN the_AT defect_NN1 because_CS there_EX is_VBZ invariably_RR some_DD shrinkage_NN1 of_IO the_AT flap_NN1 during_II the_AT healing_NN1 process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   19 Step 4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   19 Step_NN1 4_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   20 Make sure the flap is pedicled to underlying tissue , such as muscle and fascia .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   20 Make_VV0 sure_JJ the_AT flap_NN1 is_VBZ pedicled_VVN@ to_II underlying_JJ_VVG tissue_NN1 ,_Y such_II21 as_II22 muscle_NN1 and_CC fascia_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   21 The wound edges need to be undermined sufficiently in order to close the donor site primarily .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   21 The_AT wound_NN1 edges_NN2 need_VV0 to_TO be_VBI undermined_VVN sufficiently_RR in_BCL21 order_BCL22 to_TO close_VVI the_AT donor_NN1 site_NN1 primarily_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   22 Step 5 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   22 Step_NN1 5_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   23 Incise the subcutaneous layer close to and parallel to the sulcus to create a window .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   23 Incise_VV0 the_AT subcutaneous_JJ layer_NN1 close_RR_JJ to_II and_CC parallel_RR_NN1_JJ to_II the_AT sulcus_NN1 to_TO create_VVI a_AT1 window_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   24 The length of this incision should be sufficient to fit the flap .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   24 The_AT length_NN1 of_IO this_DD1 incision_NN1 should_VM be_VBI sufficient_JJ to_TO fit_VVI the_AT flap_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   25 Then rotate the flap though the window on its long axis 180 so that the postauricular skin covers the anterolateral defect of the conchal bowl .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   25 Then_RT rotate_VV0 the_AT flap_NN1 though_CS the_AT window_NN1 on_II its_Z' long_JJ axis_NN1 180_MC so_CS21 that_CS22 the_AT postauricular_JJ skin_NN1 covers_VVZ the_AT anterolateral_JJ_NN1 defect_NN1 of_IO the_AT conchal_JJ bowl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   26 Further blunt dissection around the pedicle may be required to improve mobilization ( figure 2 , A and B ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   26 Further_RRR_JJR blunt_JJ dissection_NN1 around_II the_AT pedicle_NN1 may_VM be_VBI required_VVN to_TO improve_VVI mobilization_NN1 (_Y figure_NN1 2_MC ,_Y A_ZZ1 and_CC B_ZZ1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   27 Figure 2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   27 Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   28 A : The window is formed by incising the subcutaneous tissue of the sulcus .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   28 A_ZZ1 :_Y The_AT window_NN1 is_VBZ formed_VVN by_II incising_VVG the_AT subcutaneous_JJ tissue_NN1 of_IO the_AT sulcus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   29 The rotation is achieved by gentle mobilization of the flap through the window in the direction shown .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   29 The_AT rotation_NN1 is_VBZ achieved_VVN by_II gentle_JJ mobilization_NN1 of_IO the_AT flap_NN1 through_II the_AT window_NN1 in_II the_AT direction_NN1 shown_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   30 B : Close-up shows the flap entering the window .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   30 B_ZZ1_NP1@ :_Y Close-up_NN1_JJ shows_VVZ_NN2 the_AT flap_NN1 entering_VVG the_AT window_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   31 Once the entire flap is through , should be closed primarily .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   31 Once_CS@_RR the_AT entire_JJ flap_NN1 is_VBZ through_RP@_JJ%_II ,_Y should_VM be_VBI closed_VVN primarily_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   32 C : Close-up shows the sutured postauricular wound .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   32 C_NP1_ZZ1 :_Y Close-up_NN1_JJ shows_VVZ_NN2 the_AT sutured_JJ@ postauricular_JJ wound_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   33 D : The postauricular flap is rotated through the window to cover the conchal bowl defect .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   33 D_ZZ1_NP1@ :_Y The_AT postauricular_JJ flap_NN1 is_VBZ rotated_VVN through_II the_AT window_NN1 to_TO cover_VVI the_AT conchal_JJ bowl_NN1 defect_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   34 Step 6 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   34 Step_NN1 6_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   35 Secure the flap with mattress sutures , and close the donor site primarily ( figure 2 , C and D ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   35 Secure_VV0 the_AT flap_NN1 with_IW mattress_NN1 sutures_NN2 ,_Y and_CC close_VV0 the_AT donor_NN1 site_NN1 primarily_RR (_Y figure_NN1 2_MC ,_Y C_ZZ1_NP1 and_CC D_ZZ1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   36 Step 7 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   36 Step_NN1 7_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   37 Cover the wound with a light pressure dressing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   37 Cover_VV0 the_AT wound_NN1 with_IW a_AT1 light_JJ_NN1 pressure_NN1 dressing_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   38 References ( n1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   38 References_NN2 (_Y n1_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   39 ) McKinnon BJ , Wall MP , Karakla DW .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   39 )_Y McKinnon_NP1 BJ_NP1 ,_Y Wall_NN1_NP1@ MP_NN1 ,_Y Karakla_NP1 DW_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   40 The vascular anatomy and angiosome of the posterior auricular artery .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   40 The_AT vascular_JJ anatomy_NN1 and_CC angiosome_JJ of_IO the_AT posterior_JJ_NN1 auricular_JJ artery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   41 A cadaver study .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   41 A_AT1_ZZ1 cadaver_NN1 study_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   42 Arch Facial Plast Surg 1999 ; 1(2):101-4. ( n2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   42 Arch_JJ Facial_JJ_NN1@ Plast_NN1_NP1 Surg_NN1_NP1_VV0 1999_MC ;_Y 1(2):101-4._FO (_Y n2_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   43 ) Pinar YA , Ikiz ZA , Bilge O. Arterial anatomy of the auricle : Its importance for reconstructive surgery .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   43 )_Y Pinar_NN1_JJ YA_UH_PPY ,_Y Ikiz_NP1 ZA_NP1 ,_Y Bilge_NP1 O._NP1 Arterial_NP1_JJ anatomy_NN1 of_IO the_AT auricle_NN1 :_Y Its_Z' importance_NN1 for_IF reconstructive_JJ surgery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   44 Surg Radiol Anat 2003 ; 25(34):175-9. ( n3 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   44 Surg_VV0_NP1@ Radiol_NP1_NN1 Anat_NP1_NN1 2003_MC ;_Y 25(34):175-9._FO (_Y n3_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   45 ) Masson JK .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   45 )_Y Masson_NP1@ JK_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   46 A simple island flap for reconstruction of conchahelix defects .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   46 A_AT1_ZZ1 simple_JJ island_NN1 flap_NN1_VV0 for_IF reconstruction_NN1 of_IO conchahelix_NN1 defects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   47 Br J Plast Surg 1972 ; 25(4):399-403. ( n4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   47 Br_NP1@_JJ J_NP1@_ZZ1 Plast_NP1 Surg_NP1_NN1 1972_MC ;_Y 25(4):399-403._FO (_Y n4_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   48 ) Stucker FJ , Sanders KW .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   48 )_Y Stucker_NP1 FJ_NP1 ,_Y Sanders_NP1 KW_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   49 A method to repair auricular defects after perichondrial cutaneous grafting .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   49 A_AT1 method_NN1 to_TO repair_VVI auricular_JJ defects_NN2 after_II_CS perichondrial_JJ cutaneous_JJ grafting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   50 Laryngoscope 2002 ; 112 ( 8 Pt 1 ) : 1384-6 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   50 Laryngoscope_NN1_NP1@ 2002_MC ;_Y 112_VV0_NN1_JJ (_Y 8_VV0_NN1 Pt_FO 1_MC1 )_Y :_Y 1384-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  A    0   51 of Otolaryngology , Warrington General Hospital , Warrington , U.K. ; Petros D. Karkos , AFRCSI , MPhil , Department of Otolaryngology , Warrington General Hospital , Warrington , U.K. and Sucha Hampal , FRCS(ORL) , Department of Otolaryngology , Warrington General Hospital , Warrington , U.K.
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080451 COCA  B    0   51 of_IO Otolaryngology_NP1_NN1 ,_Y Warrington_NP1 General_JJ_NN1 Hospital_NN1 ,_Y Warrington_NP1 ,_Y U.K._NP1 ;_Y Petros_NP1 D._NP1 Karkos_NP1 ,_Y AFRCSI_NP1_NN2_NN1 ,_Y MPhil_NN1 ,_Y Department_NN1 of_IO Otolaryngology_NP1_NN1 ,_Y Warrington_NP1 General_JJ_NN1 Hospital_NN1 ,_Y Warrington_NP1 ,_Y U.K._NP1 and_CC Sucha_NP1 Hampal_NP1 ,_Y FRCS(ORL)_NP1_VV0_NN1 ,_Y Department_NN1 of_IO Otolaryngology_NP1_NN1 ,_Y Warrington_NP1 General_JJ_NN1 Hospital_NN1 ,_Y Warrington_NP1 ,_Y U.K._NP1

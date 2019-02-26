@@ -1,0 +1,106 @@
+SENTPOS 2014_4_101_500_520_1 DRAFT A    0    0 The Necklace is a story that can be interpreted in many ways .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    0    0 The_AT Necklace_NN1 is_VBZ a_AT1 story_NN1 that_CST can_VM be_VBI interpreted_VVN in_II many_DA2 ways_NN2 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    0    1 Maupassant brought a masterpiece , and it is our job to see what lies inside of it .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    0    1 Maupassant_NP1@ brought_VVD a_AT1 masterpiece_NN1 ,_, and_CC it_PPH1 is_VBZ our_APPGE job_NN1 to_TO see_VVI what_DDQ lies_VVZ inside_RL of_IO it_PPH1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    0    2 The story and the characters can reflect Maupassant own childhood .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    0    2 The_AT story_NN1 and_CC the_AT characters_NN2 can_VM reflect_VVI Maupassant_JJ own_DA childhood_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    0    3 In addition , it can show how cruel and hard life was in the nineteenth century .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    0    3 In_RR21 addition_RR22 ,_, it_PPH1 can_VM show_VVI how_RGQ@ cruel_JJ and_CC hard_JJ life_NN1 was_VBDZ in_II the_AT nineteenth_MD century_NNT1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    1    4 Mme. Loisel , the main character , has characteristics that show less sympathy toward her .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    1    4 Mme._NNB Loisel_NP1 ,_, the_AT main_JJ character_NN1 ,_, has_VHZ characteristics_NN2 that_CST show_VV0 less_DAR sympathy_NN1 toward_II her_PPHO1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    1    5 She is a pessimistic woman .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    1    5 She_PPHS1 is_VBZ a_AT1 pessimistic_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    1    6 She sees herself on higher level in the hierarchy staircase .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    1    6 She_PPHS1 sees_VVZ herself_PPX1 on_II higher_JJR level_NN1 in_II the_AT hierarchy_NN1 staircase_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    1    7 She does not speak up on what is in her mind -- which , ironically , made her not to tell her friend about the lost necklace and ruined ten years of her life .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    1    7 She_PPHS1 does_VDZ not_XX speak_VVI up_RP on_II what_DDQ is_VBZ in_II her_APPGE mind_NN1 --_NN1 which_DDQ ,_, ironically_RR ,_, made_VVD her_PPHO1 not_XX to_TO tell_VVI her_APPGE friend_NN1 about_II the_AT lost_JJ@ necklace_NN1 and_CC ruined_VVD ten_MC years_NNT2 of_IO her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    1    8 She might not deserve what happened to her , but she never appreciated what she possesses unlike her husband .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    1    8 She_PPHS1 might_VM not_XX deserve_VVI what_DDQ happened_VVD to_II@ her_PPHO1 ,_, but_CCB she_PPHS1 never_RR appreciated_VVN what_DDQ she_PPHS1 possesses_VVZ unlike_II@ her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    1    9 He is a down-to-earth person that he puts his wife 's priority before his and is satisfied with what he owns .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    1    9 He_PPHS1 is_VBZ a_AT1 down-to-earth_JJ person_NN1 that_CST he_PPHS1 puts_VVZ his_APPGE wife_NN1 's_GE priority_NN1 before_II his_PPGE@ and_CC is_VBZ satisfied_VVN@ with_IW what_DDQ he_PPHS1 owns_VVZ ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    2   10 Mathlide thought that happiness came through money .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    2   10 Mathlide_NP1@ thought_VVD that_DD1 happiness_NN1 came_VVD through_II money_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    2   11 In fact , she thought that not having a luxurious life is a disgrace .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    2   11 In_II fact_NN1 ,_, she_PPHS1 thought_VVD that_CST not_XX having_VHG a_AT1 luxurious_JJ life_NN1 is_VBZ a_AT1 disgrace_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    2   12 When she had the necklace and the dress that empowered her with happiness , she thought she had reached the rank that she always fantasized .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    2   12 When_CS she_PPHS1 had_VHD the_AT necklace_NN1 and_CC the_AT dress_NN1 that_CST empowered_VVD her_PPHO1 with_IW happiness_NN1 ,_, she_PPHS1 thought_VVD she_PPHS1 had_VHD reached_VVN the_AT rank_NN1 that_CST she_PPHS1 always_RR fantasized_VVD ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    2   13 However , when she lost the necklace and worked to repay it , she started to appreciate what little she had , the food , a home , and a loving husband , was worth a lot more than how she saw it .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    2   13 However_RR ,_, when_CS she_PPHS1 lost_VVD the_AT necklace_NN1 and_CC worked_VVD to_TO repay_VVI it_PPH1 ,_, she_PPHS1 started_VVD to_TO appreciate_VVI what_DDQ little_RR she_PPHS1 had_VHD ,_, the_AT food_NN1 ,_, a_AT1 home_NN1 ,_, and_CC a_AT1 loving_JJ husband_NN1 ,_, was_VBDZ worth_II a_AT1 lot_NN1 more_RRR than_CSN how_RRQ she_PPHS1 saw_VVD it_PPH1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    2   14 This contradicts her friend , Mme. Forestier .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    2   14 This_DD1 contradicts_VVZ her_APPGE friend_NN1 ,_, Mme._NNB Forestier_NP1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    3   15 Maupassant 's story has many key elements to what his life was .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    3   15 Maupassant_NP1@ 's_GE story_NN1 has_VHZ many_DA2 key_JJ elements_NN2 to_II what_DDQ his_APPGE life_NN1 was_VBDZ ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    3   16 Maupassant lived in poverty .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    3   16 Maupassant_NP1@ lived_VVD in_II poverty_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    3   17 These word choices and the description of " every poor girl 's dream " are what Maupassant dreamt regardless of the content .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    3   17 These_DD2 word_NN1 choices_NN2 and_CC the_AT description_NN1 of_IO "_" every_AT1 poor_JJ girl_NN1 's_GE dream_NN1 "_" are_VBR what_DDQ Maupassant_NP1 dreamt_VVD regardless_RR of_IO the_AT content_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    3   18 The narrator shares his childhood story but in a form of a female .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    3   18 The_AT narrator_NN1 shares_VVZ@ his_APPGE childhood_NN1 story_NN1 but_CCB in_II a_AT1 form_NN1 of_IO a_AT1 female_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    3   19 This gives a more emotional tone and reaches to the heart instantly .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    3   19 This_DD1 gives_VVZ a_AT1 more_RGR emotional_JJ tone_NN1 and_CC reaches_VVZ to_II the_AT heart_NN1 instantly_RR ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    4   20 He prepares the reader to anticipate a twist but hides where it will be .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    4   20 He_PPHS1 prepares_VVZ the_AT reader_NN1 to_TO anticipate_VVI a_AT1 twist_NN1 but_CCB hides_VVZ where_RRQ it_PPH1 will_VM be_VBI ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    4   21 When he mentions Mme. Loisel 's friend in the beginning " She had a friend , a former schoolmate at the convent , who was rich , and whom she did not like to go and see any more ... " ; he does not continue talking about her friend .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    4   21 When_CS he_PPHS1 mentions_VVZ Mme._NNB Loisel_NP1 's_GE friend_NN1 in_II the_AT beginning_NN1 "_" She_PPHS1 had_VHD a_AT1 friend_NN1 ,_, a_AT1 former_DA schoolmate_NN1 at_II the_AT convent_NN1 ,_, who_PNQS was_VBDZ rich_JJ ,_, and_CC whom_PNQO she_PPHS1 did_VDD not_XX like_VVI to_TO go_VVI and_CC see_VVI any_DD more_DAR ..._... "_" ;_; he_PPHS1 does_VDZ not_XX continue_VVI talking_VVG about_II her_APPGE friend_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    4   22 Maupassant describes Mme. Loisel 's imagination that there is a particular touch in the story from the author 's personal life " She thought of the long salons fatted up with ancient silk ... "
+SENTPOS 2014_4_101_500_520_1 DRAFT B    4   22 Maupassant_NN1 describes_VVZ Mme._NNB Loisel_NP1 's_GE imagination_NN1 that_CST there_EX is_VBZ a_AT1 particular_JJ touch_NN1 in_II the_AT story_NN1 from_II the_AT author_NN1 's_GE personal_JJ life_NN1 "_" She_PPHS1 thought_VVD of_IO the_AT long_JJ salons_NN2 fatted_VVD up_RP with_IW ancient_JJ silk_NN1 ..._... "_"
+SENTPOS 2014_4_101_500_520_1 DRAFT A    4   23 . Another interpretation that might urge at the time the story published , since it was in the nineteenth century , women did not work for success in their own .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    4   23 ._. Another_DD1 interpretation_NN1 that_CST might_VM urge_VVI at_II the_AT time_NNT1 the_AT story_NN1 published_VVD ,_, since_CS it_PPH1 was_VBDZ in_II the_AT nineteenth_MD century_NNT1 ,_, women_NN2 did_VDD not_XX work_VVI for_IF success_NN1 in_II their_APPGE own_DA ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    4   24 The majority of the women 's lifestyle depends on their husband .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    4   24 The_AT majority_NN1 of_IO the_AT women_NN2 's_GE lifestyle_NN1 depends_VVZ on_II their_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    4   25 Therefore , we see that Mathlide fantasy did not translate to reality and could not do but fantasize .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    4   25 Therefore_RR ,_, we_PPIS2 see_VV0 that_CST Mathlide_VV0 fantasy_NN1 did_VDD not_XX translate_VVI to_II reality_NN1 and_CC could_VM not_XX do_VDI but_CCB fantasize_VV0 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    5   26 Maupassant 's writing is direct .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    5   26 Maupassant_NP1@ 's_GE writing_NN1 is_VBZ direct_JJ ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    5   27 That is why he wrote the story in a third-person view .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    5   27 That_DD1 is_VBZ why_RRQ he_PPHS1 wrote_VVD the_AT story_NN1 in_II a_AT1 third-person_JJ view_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    5   28 This obligates the wider view and shows facts not opinions " She would so have liked to please , to be envied , to be charming , to be sought after . "
+SENTPOS 2014_4_101_500_520_1 DRAFT B    5   28 This_DD1 obligates_VVZ the_AT wider_JJR view_NN1 and_CC shows_VVZ facts_NN2 not_XX opinions_NN2 "_" She_PPHS1 would_VM so_RR have_VHI liked_VVN to_TO please_VVI ,_, to_TO be_VBI envied_VVN@ ,_, to_TO be_VBI charming_JJ ,_, to_TO be_VBI sought_VVN after_II ._. "_"
+SENTPOS 2014_4_101_500_520_1 DRAFT A    5   29 . Furthermore , verbs that he uses are in the past tense often to express the compilation of what happened because of the action that happened before it " She thought pf the silent antechambers hung with oriental tapestry ... "
+SENTPOS 2014_4_101_500_520_1 DRAFT B    5   29 ._. Furthermore_RR ,_, verbs_NN2 that_CST he_PPHS1 uses_VVZ are_VBR in_II the_AT past_NN1 tense_VV0 often_RR to_TO express_VVI the_AT compilation_NN1 of_IO what_DDQ happened_VVD because_II21 of_II22 the_AT action_NN1 that_CST happened_VVD before_CS it_PPH1 "_" She_PPHS1 thought_VVD pf_NNU the_AT silent_JJ antechambers_NN2 hung_VVN with_IW oriental_JJ tapestry_NN1 ..._... "_"
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   30 . The setup of the story and word choice makes a great influence to the story .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   30 ._. The_AT setup_NN1 of_IO the_AT story_NN1 and_CC word_NN1 choice_NN1 makes_VVZ a_AT1 great_JJ influence_NN1 to_II the_AT story_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   31 Maupassant uses repetition of words to prominence .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   31 Maupassant_NN1 uses_VVZ repetition_NN1 of_IO words_NN2 to_II prominence_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   32 " She thought of the silent antechambers hung with oriental tapestry ...
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   32 "_" She_PPHS1 thought_VVD of_IO the_AT silent_JJ antechambers_NN2 hung_VVN with_IW oriental_JJ tapestry_NN1 ..._...
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   33 She thought of the long salons fatted up with ancient silk ... " .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   33 She_PPHS1 thought_VVD of_IO the_AT long_JJ salons_NN2 fatted_VVD up_RP with_IW ancient_JJ silk_NN1 ..._... "_" ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   34 The writer uses the word " thought " to emphasize how deep Mathlide 's imagination goes .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   34 The_AT writer_NN1 uses_VVZ the_AT word_NN1 "_" thought_VVD "_" to_TO emphasize_VVI how_RGQ@ deep_JJ Mathlide_NN1 's_GE imagination_NN1 goes_VVZ ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   35 Another example is the word " she , " Maupassant uses it as an initial word in the first few paragraphs to show that the story revolves around Mme. Loisel .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   35 Another_DD1 example_NN1 is_VBZ the_AT word_NN1 "_" she_PPHS1 ,_, "_" Maupassant_NP1 uses_VVZ it_PPH1 as_II an_AT1 initial_JJ word_NN1 in_II the_AT first_MD few_DA2 paragraphs_NN2 to_TO show_VVI that_CST the_AT story_NN1 revolves_VVZ around_II Mme._NNB Loisel_NP1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   36 The plot of the story moves on a very fast timeline , which requires the story to be in a passive voice as Maupassant did .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   36 The_AT plot_NN1 of_IO the_AT story_NN1 moves_VVZ on_II a_AT1 very_RG fast_JJ timeline_NN1 ,_, which_DDQ requires_VVZ the_AT story_NN1 to_TO be_VBI in_II a_AT1 passive_JJ voice_NN1 as_CSA Maupassant_NP1 did_VDD ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   37 Having an active passive tense keeps the reader involved in the story as time passes quickly from an evening to ten years .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   37 Having_VHG an_AT1 active_JJ passive_JJ tense_NN1@ keeps_VVZ the_AT reader_NN1 involved_JJ in_II the_AT story_NN1 as_CSA time_NNT1 passes_VVZ quickly_RR from_II an_AT1 evening_NNT1 to_II ten_MC years_NNT2 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   38 The tone of the story is set on pessimism " She suffered from the poverty of her dwelling , from the wretched look of the walls , from the worn-out chairs , from the ugliness of the curtains " .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   38 The_AT tone_NN1 of_IO the_AT story_NN1 is_VBZ set_VVN on_II pessimism_NN1 "_" She_PPHS1 suffered_VVD from_II the_AT poverty_NN1 of_IO her_APPGE dwelling_NN1 ,_, from_II the_AT wretched_JJ look_NN1 of_IO the_AT walls_NN2 ,_, from_II the_AT worn-out_JJ chairs_NN2 ,_, from_II the_AT ugliness_NN1 of_IO the_AT curtains_NN2 "_" ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   39 He uses words like " poverty " and " ugliness " to highlight how the character ( Mathlide ) has no satisfaction to what she has .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   39 He_PPHS1 uses_VVZ words_NN2 like_II "_" poverty_NN1 "_" and_CC "_" ugliness_NN1 "_" to_TO highlight_VVI how_RRQ the_AT character_NN1 (_( Mathlide_NP1 )_) has_VHZ no_AT satisfaction_NN1 to_II what_DDQ she_PPHS1 has_VHZ ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   40 On the contrast , inside Mathlide imagination , the tone lightened up " she thought of dainty dinner , of shining silverware ... " .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   40 On_II the_AT contrast_NN1 ,_, inside_II Mathlide_NP1 imagination_NN1 ,_, the_AT tone_NN1 lightened_VVD up_RP "_" she_PPHS1 thought_VVD of_IO dainty_JJ dinner_NN1 ,_, of_IO shining_JJ silverware_NN1 ..._... "_" ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    6   41 The use of details shows how high valued is money to Mathlide and the appreciation to herself .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    6   41 The_AT use_NN1 of_IO details_NN2 shows_VVZ how_RGQ high_JJ valued_JJ@ is_VBZ money_NN1 to_II Mathlide_NP1 and_CC the_AT appreciation_NN1 to_II herself_PPX1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   42 The necklace symbolizes wealth that Mathlide had for one night .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   42 The_AT necklace_NN1 symbolizes_VVZ wealth_NN1 that_CST Mathlide_NP1 had_VHD for_IF one_MC1 night_NNT1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   43 Her definition of wealth was all demolished when she learns that the necklace is fake .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   43 Her_APPGE definition_NN1 of_IO wealth_NN1 was_VBDZ all_RR@ demolished_VVN when_CS she_PPHS1 learns_VVZ that_CST the_AT necklace_NN1 is_VBZ fake_JJ ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   44 The necklace reflected her dream of wealth .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   44 The_AT necklace_NN1 reflected_VVD her_APPGE dream_NN1 of_IO wealth_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   45 Having wealth is not worth the trouble , any more than the false necklace , which cost ten years of poverty .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   45 Having_VHG wealth_NN1 is_VBZ not_XX worth_II the_AT trouble_NN1 ,_, any_DD more_DAR than_CSN the_AT false_JJ necklace_NN1 ,_, which_DDQ cost_VV0 ten_MC years_NNT2 of_IO poverty_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   46 The necklace gave Mathlide what she always dreamed for one night .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   46 The_AT necklace_NN1 gave_VVD Mathlide_NP1 what_DDQ she_PPHS1 always_RR dreamed_VVN for_IF one_MC1 night_NNT1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   47 Her dream came at a price that she never anticipated .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   47 Her_APPGE dream_NN1 came_VVD at_II a_AT1 price_NN1 that_CST she_PPHS1 never_RR anticipated_VVN ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   48 On the other hand , the fact that the jewelry is fake shows the same analogy to Mathlide .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   48 On_II the_AT other_JJ hand_NN1 ,_, the_AT fact_NN1 that_CST the_AT jewelry_NN1 is_VBZ fake_JJ shows_NN2 the_AT same_DA analogy_NN1 to_II Mathlide_NP1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    7   49 She pretended to be wealthy for one night and prestigious while she is , in fact , a clerk 's wife with borrowed jewelry .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    7   49 She_PPHS1 pretended_VVD to_TO be_VBI wealthy_JJ for_IF one_MC1 night_NNT1 and_CC prestigious_JJ while_CS she_PPHS1 is_VBZ ,_, in_II fact_NN1 ,_, a_AT1 clerk_NN1 's_GE wife_NN1 with_IW borrowed_JJ@ jewelry_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    8   50 What is interesting about The Necklace is that Maupassant does not give the moral of the story .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    8   50 What_DDQ is_VBZ interesting_JJ about_II The_AT Necklace_NN1 is_VBZ that_DD1 Maupassant_NN1 does_VDZ not_XX give_VVI the_AT moral_NN1@ of_IO the_AT story_NN1 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    8   51 He gives the reader the freedom to interpret it in different perspectives .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    8   51 He_PPHS1 gives_VVZ the_AT reader_NN1 the_AT freedom_NN1 to_TO interpret_VVI it_PPH1 in_II different_JJ perspectives_NN2 ._.
+SENTPOS 2014_4_101_500_520_1 DRAFT A    8   51  There is no complexity in the story or paradoxes which makes this story stands out from many similar plot stories .
+SENTPOS 2014_4_101_500_520_1 DRAFT B    8   51  There_EX is_VBZ no_AT complexity_NN1 in_II the_AT story_NN1 or_CC paradoxes_NN2 which_DDQ makes_VVZ this_DD1 story_NN1 stands_VVZ out_RP from_II many_DA2 similar_JJ plot_NN1 stories_NN2 ._.

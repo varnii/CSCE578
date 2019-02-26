@@ -1,0 +1,174 @@
+SENTPOS 2014_4_101_500_546_3 DRAFT A    0    0 Historical background and cultural context are important elements which use to shape the article and story .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    0    0 Historical_JJ background_NN1 and_CC cultural_JJ context_NN1 are_VBR important_JJ elements_NN2 which_DDQ use_VV0 to_TO shape_VVI the_AT article_NN1 and_CC story_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    0    1 Authors have different experience about their life because they live in various age .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    0    1 Authors_NN2 have_VH0 different_JJ experience_NN1 about_II their_APPGE life_NN1 because_CS they_PPHS2 live_VV0 in_II various_JJ age_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    0    2 This will shape their article and make these articles have different meaning .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    0    2 This_DD1 will_VM shape_VVI their_APPGE article_NN1 and_CC make_VVI these_DD2 articles_NN2 have_VHI different_JJ meaning_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    0    3 " A Rose for Emily " which was written by William Faulkner can be a example .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    0    3 "_" A_AT1 Rose_NN1 for_IF Emily_NP1 "_" which_DDQ was_VBDZ written_VVN by_II William_NP1 Faulkner_NP1 can_VM be_VBI a_AT1 example_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1    4 This story was published in 1930 , and the setting of the story was between 1890 and 1900 .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1    4 This_DD1 story_NN1 was_VBDZ published_VVN in_II 1930_MC ,_, and_CC the_AT setting_NN1 of_IO the_AT story_NN1 was_VBDZ between_II 1890_MC and_CC 1900_MC ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1    5 The south lost the Civil War about forty years ago .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1    5 The_AT south_ND1 lost_VVD the_AT Civil_JJ War_NN1 about_RG forty_MC years_NNT2 ago_RA ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1    6 The Civil War placed the north and south in opposite side .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1    6 The_AT Civil_JJ War_NN1 placed_VVN the_AT north_ND1 and_CC south_ND1 in_II opposite_JJ side_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1    7 Their society is different at that time .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1    7 Their_APPGE society_NN1 is_VBZ different_JJ at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1    8 The north is more industrialize than the south .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1    8 The_AT north_ND1 is_VBZ more_RRR industrialize_VV0 than_CSN the_AT south_ND1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1    9 The north demanded for free labor and a greater number of consumers .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1    9 The_AT north_ND1 demanded_VVN for_IF free_JJ labor_NN1 and_CC a_AT1 greater_JJR number_NN1 of_IO consumers_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   10 The south is still agrarian society in that time period .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   10 The_AT south_ND1 is_VBZ still_RR agrarian_JJ society_NN1 in_II that_DD1 time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   11 Plantation is the main resource for the south .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   11 Plantation_NN1 is_VBZ the_AT main_JJ resource_NN1 for_IF the_AT south_ND1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   12 Their economic development is still depend on large mass of slave .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   12 Their_APPGE economic_JJ development_NN1 is_VBZ still_RR depend_VV0 on_II large_JJ mass_NN1 of_IO slave_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   13 The defeat of south causes the economic change in south .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   13 The_AT defeat_NN1 of_IO south_ND1 causes_VVZ the_AT economic_JJ change_NN1 in_II south_ND1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   14 " The economic change were radical , but a more subtle change was taking place in the southern society----that of their value .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   14 "_" The_AT economic_JJ change_NN1 were_VBDR radical_JJ ,_, but_CCB a_AT1 more_RGR subtle_JJ change_NN1 was_VBDZ taking_VVG place_NN1 in_II the_AT southern_JJ society----that_DD1 of_IO their_APPGE value_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   15 After the Civil War , the empowered north started to spread its industry and commerce which required a great extension of railroads .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   15 After_CS the_AT Civil_JJ War_NN1 ,_, the_AT empowered_JJ@ north_ND1 started_VVD to_TO spread_VVI its_APPGE industry_NN1 and_CC commerce_NN1 which_DDQ required_VVD@ a_AT1 great_JJ extension_NN1 of_IO railroads_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   16 This 'invasion' caused great impact in the south that resented it as well as attempted to resist showing a great attachment to their 'old' values .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   16 This_DD1 'invasion'_NN1 caused_VVD great_JJ impact_NN1 in_II the_AT south_ND1 that_CST resented_VVD it_PPH1 as_RG well_RR as_CSA attempted_VVN to_TO resist_VVI showing_VVG a_AT1 great_JJ attachment_NN1 to_II their_APPGE 'old'_JJ values_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   17 ( Edicao ) " The town where Miss Emily live is connected with this background .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   17 (_( Edicao_NP1@ )_) "_" The_AT town_NN1 where_CS Miss_NNB Emily_NP1 live_VV0 is_VBZ connected_VVN with_IW this_DD1 background_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   18 " It was a big , squarish frame house had once been white , decorated with cupolas and spires and scrolled balconies in the heavily light some style of the seventies , set on what had once been our most select street .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   18 "_" It_PPH1 was_VBDZ a_AT1 big_JJ ,_, squarish_JJ frame_NN1 house_NN1 had_VHD once_RR been_VBN white_JJ ,_, decorated_VVN with_IW cupolas_NN2 and_CC spires_NN2 and_CC scrolled_VVN balconies_NN2 in_II the_AT heavily_RR light_VV0@ some_DD style_NN1 of_IO the_AT seventies_MC2 ,_, set_VVN on_II what_DDQ had_VHD once_RR been_VBN our_APPGE most_RGT select_JJ street_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   19 But garages and cotton gins had encroached and obliterated even the august names of that neighborhood ; only Miss Emily 's house was left , lifting its stubborn and coquettish decay above the cotton wagons and the gasoline pumps---- an eyesore among eyesores .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   19 But_CCB garages_NN2 and_CC cotton_NN1 gins_NN2 had_VHD encroached_VVN and_CC obliterated_VVN even_RR the_AT august_JJ names_NN2 of_IO that_DD1 neighborhood_NN1 ;_; only_RR Miss_NNB Emily_NP1 's_GE house_NN1 was_VBDZ left_VVN ,_, lifting_VVG its_APPGE stubborn_JJ and_CC coquettish_JJ decay_NN1 above_II the_AT cotton_NN1 wagons_NN2 and_CC the_AT gasoline_NN1 pumps----_NN2 an_AT1 eyesore_NN1 among_II eyesores_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   20 ( ) " This showed the change is happening in the south .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   20 (_( )_) "_" This_DD1 showed_VVD the_AT change_NN1 is_VBZ happening_VVG in_II the_AT south_ND1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   21 Their building style revealed that their value about life is changing , and this situation is matching with the background .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   21 Their_APPGE building_NN1 style_NN1 revealed_VVD that_CST their_APPGE value_NN1 about_II life_NN1 is_VBZ changing_VVG ,_, and_CC this_DD1 situation_NN1 is_VBZ matching_VVG with_IW the_AT background_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    1   22 South people 's value start become close with north people 's value .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    1   22 South_ND1 people_NN 's_GE value_NN1 start_NN1 become_VV0 close_JJ with_IW north_ND1 people_NN 's_GE value_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   23 This background shapes how lonely Miss Emily is at that time .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   23 This_DD1 background_NN1 shapes_NN2 how_RRQ lonely_JJ Miss_NNB Emily_NP1 is_VBZ at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   24 Miss Emily lost her father and her friendship in the Civil War .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   24 Miss_NNB Emily_NP1 lost_VVD her_APPGE father_NN1 and_CC her_APPGE friendship_NN1 in_II the_AT Civil_JJ War_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   25 She can not pass the the death of her father for a long time .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   25 She_PPHS1 can_VM not_XX pass_VVI the_AT the_AT death_NN1 of_IO her_APPGE father_NN1 for_IF a_AT1 long_JJ time_NNT1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   26 Her fiance leaves her because of the war .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   26 Her_APPGE fiance_NN1 leaves_VVZ her_PPHO1 because_II21 of_II22 the_AT war_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   27 She can not accept the horrible news of her father .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   27 She_PPHS1 can_VM not_XX accept_VVI the_AT horrible_JJ news_NN1 of_IO her_APPGE father_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   28 " The day after his death all the ladies prepared to call at the house and offer condolence and aid , as is our custom Miss Emily met them at the door , dressed as usual and with no trace of grief on her face .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   28 "_" The_AT day_NNT1 after_II his_APPGE death_NN1 all_DB the_AT ladies_NN2 prepared_VVN to_TO call_VVI at_II the_AT house_NN1 and_CC offer_VVI condolence_NN1 and_CC aid_NN1 ,_, as_CSA is_VBZ our_APPGE custom_NN1 Miss_NNB Emily_NP1 met_VVD them_PPHO2 at_II the_AT door_NN1 ,_, dressed_VVN as_RR21 usual_RR22 and_CC with_IW no_AT trace_NN1 of_IO grief_NN1 on_II her_APPGE face_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   29 She told them that her father was not dead .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   29 She_PPHS1 told_VVD them_PPHO2 that_CST her_APPGE father_NN1 was_VBDZ not_XX dead_JJ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   30 She did that for three days , with the ministers calling on her , and the doctors , trying to persuade her to let them dispose of the body .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   30 She_PPHS1 did_VDD that_DD1 for_IF three_MC days_NNT2 ,_, with_IW the_AT ministers_NN2 calling_VVG on_II her_PPHO1 ,_, and_CC the_AT doctors_NN2 ,_, trying_VVG to_TO persuade_VVI her_PPHO1 to_TO let_VVI them_PPHO2 dispose_VVI of_IO the_AT body_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   31 ( Faulkner p175 ) " She imagines that her father is still alive and remain in the world .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   31 (_( Faulkner_NP1 p175_FO )_) "_" She_PPHS1 imagines_VVZ that_CST her_APPGE father_NN1 is_VBZ still_RR alive_JJ and_CC remain_VV0 in_II the_AT world_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   32 She still feels that her father is close like these people who she missed in the war .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   32 She_PPHS1 still_RR feels_VVZ that_CST her_APPGE father_NN1 is_VBZ close_JJ like_II these_DD2 people_NN who_PNQS she_PPHS1 missed_VVD in_II the_AT war_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   33 The sadness which caused by the Civil War shape the unique character Miss Emily .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   33 The_AT sadness_NN1 which_DDQ caused_VVD by_II the_AT Civil_JJ War_NN1 shape_NN1 the_AT unique_JJ character_NN1 Miss_NNB Emily_NP1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   34 She tries to stand the south value when all the people start turning to the north thinking style .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   34 She_PPHS1 tries_VVZ to_TO stand_VVI the_AT south_ND1 value_NN1 when_CS all_DB the_AT people_NN start_VV0 turning_VVG to_II the_AT north_ND1 thinking_NN1 style_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   35 The house can be the example to express , because her house is the only one still keep in south style purely .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   35 The_AT house_NN1 can_VM be_VBI the_AT example_NN1 to_TO express_VVI ,_, because_CS her_APPGE house_NN1 is_VBZ the_AT only_JJ one_PN1 still_RR keep_VV0 in_II south_ND1 style_NN1 purely_RR ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    2   36 It reveals the different value between Miss Emily and other people who live in same town .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    2   36 It_PPH1 reveals_VVZ the_AT different_JJ value_NN1 between_II Miss_NNB Emily_NP1 and_CC other_JJ people_NN who_PNQS live_VV0 in_II same_DA town_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   37 ( Edicao ) The decay of the south can not make all the south people to understand the north idea .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   37 (_( Edicao_NP1@ )_) The_AT decay_NN1 of_IO the_AT south_ND1 can_VM not_XX make_VVI all_DB the_AT south_ND1 people_NN to_TO understand_VVI the_AT north_ND1 idea_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   38 Some people resist the management of the north government .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   38 Some_DD people_NN resist_VV0 the_AT management_NN1 of_IO the_AT north_ND1 government_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   39 Miss Emily is a typical example of this kind of people .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   39 Miss_NNB Emily_NP1 is_VBZ a_AT1 typical_JJ example_NN1 of_IO this_DD1 kind_NN1 of_IO people_NN ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   40 The property problem between she and these gentlemen is a great one to show this .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   40 The_AT property_NN1 problem_NN1 between_II she_PPHS1 and_CC these_DD2 gentlemen_NN2 is_VBZ a_AT1 great_JJ one_PN1 to_TO show_VVI this_DD1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   41 She resists the taxes which are made by these politicians .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   41 She_PPHS1 resists_VVZ the_AT taxes_NN2 which_DDQ are_VBR made_VVN by_II these_DD2 politicians_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   42 She asked them to see " Colonel Sartoris " who died almost ten years at that time .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   42 She_PPHS1 asked_VVD them_PPHO2 to_TO see_VVI "_" Colonel_NNB Sartoris_NP1 "_" who_PNQS died_VVD almost_RR ten_MC years_NNT2 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   43 She is isolated because others can not accept her south value .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   43 She_PPHS1 is_VBZ isolated_VVN because_CS others_NN2 can_VM not_XX accept_VVI her_PPHO1 south_ND1 value_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   44 She is lonely and no one can communicate with her .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   44 She_PPHS1 is_VBZ lonely_JJ and_CC no_PN121 one_PN122 can_VM communicate_VVI with_IW her_PPHO1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   45 No one try to understand how hard her life is .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   45 No_RR one_MC1 try_VV0 to_TO understand_VVI how_RGQ@ hard_RR her_APPGE life_NN1 is_VBZ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   46 This shapes her unseen crazy .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   46 This_DD1 shapes_VVZ her_APPGE unseen_JJ crazy_JJ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   47 She revealed this crazy when she wanted to poison the man , Homer Barron .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   47 She_PPHS1 revealed_VVD this_DD1 crazy_JJ when_CS she_PPHS1 wanted_VVD to_TO poison_VVI the_AT man_NN1 ,_, Homer_NP1 Barron_NP1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   48 Her active showed that she is planing something .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   48 Her_APPGE active_JJ showed_VVD that_CST she_PPHS1 is_VBZ planing_VVG something_PN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   49 When the man who sell poison wanted to know where the poison would be used , her action is a kind of creepy .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   49 When_CS the_AT man_NN1 who_PNQS sell_VV0 poison_NN1 wanted_VVD to_TO know_VVI where_RRQ the_AT poison_NN1 would_VM be_VBI used_VVN ,_, her_APPGE action_NN1 is_VBZ a_AT1 kind_NN1 of_IO creepy_JJ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   50 " Miss Emily just stared at him , her head tilted back in order to look him eye for eye , until he looked away and went and got the arsenic and wrapped it up .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   50 "_" Miss_NNB Emily_NP1 just_RR stared_VVD at_II him_PPHO1 ,_, her_APPGE head_NN1 tilted_VVD back_RP in_BCL21 order_BCL22 to_TO look_VVI him_PPHO1 eye_NN1 for_IF eye_NN1 ,_, until_CS he_PPHS1 looked_VVD away_RL and_CC went_VVD and_CC got_VVD the_AT arsenic_NN1 and_CC wrapped_VVD it_PPH1 up_RP ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   51 ( Faulkner p176 ) " There is " for rats " on the box when she open that package , and it is a kind of irony in the story .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   51 (_( Faulkner_NP1 p176_FO )_) "_" There_EX is_VBZ "_" for_IF rats_NN2 "_" on_II the_AT box_NN1 when_CS she_PPHS1 open_RR@ that_DD1 package_NN1 ,_, and_CC it_PPH1 is_VBZ a_AT1 kind_NN1 of_IO irony_NN1 in_II the_AT story_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   52 She poison the man after she plan the murder carefully .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   52 She_PPHS1 poison_VV0@ the_AT man_NN1 after_CS she_PPHS1 plan_VV0 the_AT murder_NN1 carefully_RR ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   53 She becomes totally crazy because she knows that Homer Barron love man .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   53 She_PPHS1 becomes_VVZ totally_RR crazy_JJ because_CS she_PPHS1 knows_VVZ that_CST Homer_NP1 Barron_NP1 love_NN1 man_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   54 She tries to maintain a distance from the townspeople due to her position in that society .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   54 She_PPHS1 tries_VVZ to_TO maintain_VVI a_AT1 distance_NN1 from_II the_AT townspeople_NN due_II21 to_II22 her_APPGE position_NN1 in_II that_DD1 society_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   55 She wants to find a place for her to stay , but no people give her chance .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   55 She_PPHS1 wants_VVZ to_TO find_VVI a_AT1 place_NN1 for_IF her_PPHO1 to_TO stay_VVI ,_, but_CCB no_AT people_NN give_VV0 her_APPGE chance_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   56 She wants to build a family , so she chooses this northerner , Homer Barron .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   56 She_PPHS1 wants_VVZ to_TO build_VVI a_AT1 family_NN1 ,_, so_CS@ she_PPHS1 chooses_VVZ this_DD1 northerner_NN1 ,_, Homer_NP1 Barron_NP1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   57 She can not afford the betray or lose from anybody who is close to her .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   57 She_PPHS1 can_VM not_XX afford_VVI the_AT betray_VV0 or_CC lose_VV0 from_II anybody_PN1 who_PNQS is_VBZ close_JJ to_II her_PPHO1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   58 Homer Barron loves man means that he will leave her .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   58 Homer_NP1 Barron_NP1 loves_VVZ man_NN1 means_VVZ that_CST he_PPHS1 will_VM leave_VVI her_PPHO1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   59 Miss Emily feels that the northerner is a traitor for her .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   59 Miss_NNB Emily_NP1 feels_VVZ that_CST the_AT northerner_NN1 is_VBZ a_AT1 traitor_NN1 for_IF her_PPHO1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   60 Snaring him forever is what she wants to do .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   60 Snaring_VVG him_PPHO1 forever_RT is_VBZ what_DDQ she_PPHS1 wants_VVZ to_TO do_VDI ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    3   61 She poisoned him and lock his body in a room which only she can go in .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    3   61 She_PPHS1 poisoned_VVD him_PPHO1 and_CC lock_VV0@ his_APPGE body_NN1 in_II a_AT1 room_NN1 which_DDQ only_RR she_PPHS1 can_VM go_VVI in_RP@ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   62 Her family background is the reason which stimulate her become crazy .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   62 Her_APPGE family_NN1 background_NN1 is_VBZ the_AT reason_NN1 which_DDQ stimulate_VV0 her_PPHO1 become_VV0 crazy_JJ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   63 Her family is wealthy in the small town , but it all depends on her father .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   63 Her_APPGE family_NN1 is_VBZ wealthy_JJ in_II the_AT small_JJ town_NN1 ,_, but_CCB it_PPH1 all_DB depends_VVZ on_II her_APPGE father_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   64 " Her father , charged with transmitting these traditions and values to Miss Emily , was rigid in reinforcing these expectations , and in the words of the narrator , the father was a man who had 'thwarted her woman 's life so many times ' ( Faulkner ) .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   64 "_" Her_APPGE father_NN1 ,_, charged_VVN with_IW transmitting_VVG these_DD2 traditions_NN2 and_CC values_NN2 to_II Miss_NNB Emily_NP1 ,_, was_VBDZ rigid_JJ in_II reinforcing_VVG these_DD2 expectations_NN2 ,_, and_CC in_II the_AT words_NN2 of_IO the_AT narrator_NN1 ,_, the_AT father_NN1 was_VBDZ a_AT1 man_NN1 who_PNQS had_VHD 'thwarted_VVN her_APPGE woman_NN1 's_GE life_NN1 so_RG many_DA2 times_NNT2 '_GE (_( Faulkner_NP1 )_) ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   65 ( Edicao ) " This is match with their south value which man is more powerful in the family , and the father is the teacher for his children .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   65 (_( Edicao_NP1@ )_) "_" This_DD1 is_VBZ match_NN1 with_IW their_APPGE south_ND1 value_NN1 which_DDQ man_NN1 is_VBZ more_RGR powerful_JJ in_II the_AT family_NN1 ,_, and_CC the_AT father_NN1 is_VBZ the_AT teacher_NN1 for_IF his_APPGE children_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   66 Her father is the biggest support in her mind , but this support has fallen .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   66 Her_APPGE father_NN1 is_VBZ the_AT biggest_JJT support_NN1 in_II her_APPGE mind_NN1 ,_, but_CCB this_DD1 support_NN1 has_VHZ fallen_VVN ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   67 His death makes Miss Emily feel the despair to life and her own future .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   67 His_APPGE death_NN1 makes_VVZ Miss_NNB Emily_NP1 feel_VVI the_AT despair_NN1 to_II life_NN1 and_CC her_APPGE own_DA future_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   68 " The role of male figures in aristocratic families is essential to the understanding of Emily 's actions .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   68 "_" The_AT role_NN1 of_IO male_JJ figures_NN2 in_II aristocratic_JJ families_NN2 is_VBZ essential_JJ to_II the_AT understanding_NN1 of_IO Emily_NP1 's_GE actions_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   69 Aristocracy is , as demonstrated in the novel , highly dependent on the men that belonged to this nucleus .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   69 Aristocracy_NN1 is_VBZ ,_, as_CSA demonstrated_VVN in_II the_AT novel_NN1 ,_, highly_RR dependent_JJ on_II the_AT men_NN2 that_CST belonged_VVD to_II this_DD1 nucleus_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   70 In the case of Emily , the dependence of men is visible through the importance her father has had in her life and , later on , the importance ( the lack of ) a husband seems to have too .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   70 In_II the_AT case_NN1 of_IO Emily_NP1 ,_, the_AT dependence_NN1 of_IO men_NN2 is_VBZ visible_JJ through_II the_AT importance_NN1 her_APPGE father_NN1 has_VHZ had_VHN in_II her_APPGE life_NN1 and_CC ,_, later_RRR on_RP ,_, the_AT importance_NN1 (_( the_AT lack_NN1 of_IO )_) a_AT1 husband_NN1 seems_VVZ to_TO have_VHI too_RR@ ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   71 Miss Emily 's responsibility is to keep the family 's tradition and wealth .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   71 Miss_NNB Emily_NP1 's_GE responsibility_NN1 is_VBZ to_TO keep_VVI the_AT family_NN1 's_GE tradition_NN1 and_CC wealth_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   72 In order to do so , she , as a woman in a patriarchal society , is supposed to marry a wealthy man that would take care of her and of her 'virtue' .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   72 In_BCL21 order_BCL22 to_TO do_VDI so_RR ,_, she_PPHS1 ,_, as_CSA a_AT1 woman_NN1 in_II a_AT1 patriarchal_JJ society_NN1 ,_, is_VBZ supposed_JJ to_TO marry_VVI a_AT1 wealthy_JJ man_NN1 that_CST would_VM take_VVI care_NN1 of_IO her_PPHO1 and_CC of_IO her_APPGE 'virtue'_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    4   73 This never takes place and we observe that this 'lack' is one of the main problems in Emily 's life for she is never able to meet this tradition in an expected way .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    4   73 This_DD1 never_RR takes_VVZ place_NN1 and_CC we_PPIS2 observe_VV0 that_CST this_DD1 'lack'_NN1 is_VBZ one_MC1 of_IO the_AT main_JJ problems_NN2 in_II Emily_NP1 's_GE life_NN1 for_CS she_PPHS1 is_VBZ never_RR able_JK to_TO meet_VVI this_DD1 tradition_NN1 in_II an_AT1 expected_JJ way_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   74 That is , she only comes to 'have a man' through her desperate act of killing and maintaining her lover 's body by her side. ( psychological ) " Miss Emily 's existence means the tradition value , the south value .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   74 That_REX21 is_REX22 ,_, she_PPHS1 only_RR comes_VVZ to_TO 'have_VVI a_AT1 man'_NN1 through_II her_APPGE desperate_JJ act_NN1 of_IO killing_NN1 and_CC maintaining_VVG her_APPGE lover_NN1 's_GE body_NN1 by_II her_APPGE side._NNU (_( psychological_JJ )_) "_" Miss_NNB Emily_NP1 's_GE existence_NN1 means_VVZ the_AT tradition_NN1 value_NN1 ,_, the_AT south_ND1 value_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   75 She is a tradition in the town .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   75 She_PPHS1 is_VBZ a_AT1 tradition_NN1 in_II the_AT town_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   76 When the new generation come , her value is not as same as before .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   76 When_CS the_AT new_JJ generation_NN1 come_VV0 ,_, her_APPGE value_NN1 is_VBZ not_XX as_RG@ same_DA as_CSA before_RT ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   77 " When the next generation , with it 's more modern ideas , became mayors and alderman , this arrangement created some little dissatisfaction .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   77 "_" When_CS the_AT next_MD generation_NN1 ,_, with_IW it_PPH1 's_VBZ more_RGR modern_JJ ideas_NN2 ,_, became_VVD mayors_NN2 and_CC alderman_NN1 ,_, this_DD1 arrangement_NN1 created_VVD some_DD little_JJ dissatisfaction_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   78 ( Faulkner p173 ) " " This divergence shows that , as time went by , the values that Emily and her aristocratic family represented for the townspeople has changed .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   78 (_( Faulkner_NP1 p173_FO )_) "_" "_" This_DD1 divergence_NN1 shows_VVZ that_CST ,_, as_CSA time_NNT1 went_VVD by_RP% ,_, the_AT values_NN2 that_CST Emily_NP1 and_CC her_APPGE aristocratic_JJ family_NN1 represented_VVN for_IF the_AT townspeople_NN has_VHZ changed_VVN ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   79 In the view of the new generation , she is not a 'property of the town' anymore and does not deserve the special treatment once granted to her .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   79 In_II the_AT view_NN1 of_IO the_AT new_JJ generation_NN1 ,_, she_PPHS1 is_VBZ not_XX a_AT1 'property_NN1 of_IO the_AT town'_NN1 anymore_RR and_CC does_VDZ not_XX deserve_VVI the_AT special_JJ treatment_NN1 once_RR granted_VVN to_II her_PPHO1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   80 ( Edicao ) " Her death is connected with the disappearance of the south value .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   80 (_( Edicao_NP1@ )_) "_" Her_APPGE death_NN1 is_VBZ connected_VVN with_IW the_AT disappearance_NN1 of_IO the_AT south_ND1 value_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    5   81 As the new generation come , the old value has to be replaced by modern value .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    5   81 As_II the_AT new_JJ generation_NN1 come_VV0 ,_, the_AT old_JJ value_NN1 has_VHZ to_TO be_VBI replaced_VVN by_II modern_JJ value_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    6   82 In conclusion , the historic background and culture is very important in shaping the story .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    6   82 In_II conclusion_NN1 ,_, the_AT historic_JJ background_NN1 and_CC culture_NN1 is_VBZ very_RG important_JJ in_II shaping_VVG the_AT story_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    6   83 It shapes these unique characters , their own relationship , and their own lives .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    6   83 It_PPH1 shapes_VVZ% these_DD2 unique_JJ characters_NN2 ,_, their_APPGE own_DA relationship_NN1 ,_, and_CC their_APPGE own_DA lives_NN2 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    7   84 Edicao .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    7   84 Edicao_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    7   85 Aceito Para Publicacao Em Novembro De 2012 EMILY AND THE SOUTH : THE POST CIVIL WAR PERIOD AND THE DISSOLUTION OF TRADITION Marcia Cristine Agustini ( UFSC ) 1 ( n.d. ) : n. pag .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    7   85 Aceito_NN1 Para_NN1 Publicacao_NP1 Em_NP1@ Novembro_NP1 De_NP1 2012_MC EMILY_NP1 AND_CC THE_AT SOUTH_ND1 :_: THE_AT POST_NN1 CIVIL_JJ WAR_NN1 PERIOD_NN1 AND_CC THE_AT DISSOLUTION_NN1 OF_IO TRADITION_NN1 Marcia_NP1 Cristine_NP1 Agustini_NP1 (_( UFSC_NP1 )_) 1_MC1 (_( n.d._NNU )_) :_: n._NNU pag_NN1 ._.
+SENTPOS 2014_4_101_500_546_3 DRAFT A    7   85  Web .
+SENTPOS 2014_4_101_500_546_3 DRAFT B    7   85  Web_NN1 ._.

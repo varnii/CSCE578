@@ -1,0 +1,124 @@
+SENTPOS 2014_4_101_000_002_3 DRAFT A    0    0 A Scottish teacher and historian , Thomas Carlyle once said , " A man willing to work , and unable to find work , is perhaps the saddest sight that fortune 's inequality exhibits under this sun " ( Carlyle ) .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    0    0 A_AT1 Scottish_JJ teacher_NN1 and_CC historian_NN1 ,_, Thomas_NP1 Carlyle_NP1 once_RR said_VVD ,_, "_" A_ZZ1 man_NN1 willing_JJ to_TO@ work_VVI ,_, and_CC unable_JK to_TO find_VVI work_NN1 ,_, is_VBZ perhaps_RR the_AT saddest_JJT sight_NN1 that_CST fortune_NN1 's_GE inequality_NN1 exhibits_VVZ under_II this_DD1 sun_NN1 "_" (_( Carlyle_NP1 )_) ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    0    1 While Thomas Carlyle was referring to a need for social reform in the United Kingdom , in Harry Potter and the Goblet of Fire , house elves Dobby and Winky demonstrate this quote to be very true .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    0    1 While_CS Thomas_NP1 Carlyle_NP1 was_VBDZ referring_VVG to_II a_AT1 need_NN1 for_IF social_JJ reform_NN1 in_II the_AT United_NP1 Kingdom_NP1 ,_, in_II Harry_NP1 Potter_NP1 and_CC the_AT Goblet_NN1 of_IO Fire_NN1 ,_, house_NN1 elves_NN2 Dobby_NP1 and_CC Winky_NP1 demonstrate_VV0 this_DD1 quote_NN1 to_TO be_VBI very_RG true_JJ ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    0    2 Reactions to unemployment are as varied as the people unemployment effects .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    0    2 Reactions_NN2 to_II unemployment_NN1 are_VBR as_RG varied_JJ as_CSA the_AT people_NN unemployment_NN1 effects_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    0    3 By looking at the different reactions to house elf liberation shown by Winky and Dobby , readers are able to see that unemployment shows the true character of the person it effects , which most people do not see ; this is important because while most people can pick themselves up after they fall , some are unable to and will ultimately give up hope .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    0    3 By_II looking_VVG at_II the_AT different_JJ reactions_NN2 to_TO house_VVI elf_NN1 liberation_NN1 shown_VVN by_II Winky_NP1 and_CC Dobby_NP1 ,_, readers_NN2 are_VBR able_JK to_TO see_VVI that_DD1 unemployment_NN1 shows_VVZ the_AT true_JJ character_NN1 of_IO the_AT person_NN1 it_PPH1 effects_VVZ% ,_, which_DDQ most_DAT people_NN do_VD0 not_XX see_VVI ;_; this_DD1 is_VBZ important_JJ because_CS while_CS most_DAT people_NN can_VM pick_VVI themselves_PPX2 up_RP after_CS they_PPHS2 fall_VV0 ,_, some_DD are_VBR unable_JK to_TO and_CC will_VM ultimately_RR give_VVI up_RP hope_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1    4 Winky and Dobby are not typical house elves , but for different reasons .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1    4 Winky_JJ and_CC Dobby_NP1 are_VBR not_XX typical_JJ house_NN1 elves_NN2 ,_, but_CCB for_IF different_JJ reasons_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1    5 Dobby , is almost the anti-house elf .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1    5 Dobby_NP1 ,_, is_VBZ almost_RR the_AT anti-house_JJ elf_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1    6 After being freed , he set out for work with intention of being paid and benefits .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1    6 After_II being_VBG freed_VVN ,_, he_PPHS1 set_VVD out_RP for_IF work_NN1 with_IW intention_NN1 of_IO being_VBG paid_VVN and_CC benefits_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1    7 It was after two years of searching he found work at Hogwarts with Professor Dumbledore as his new master .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1    7 It_PPH1 was_VBDZ after_II two_MC years_NNT2 of_IO searching_VVG he_PPHS1 found_VVD work_NN1 at_II Hogwarts_NN2 with_IW Professor_NNB Dumbledore_NP1 as_CSA his_APPGE new_JJ master_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1    8 Winky , on the other hand , was set free after a misunderstanding between government officials and her master .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1    8 Winky_NP1@ ,_, on_II the_AT other_JJ hand_NN1 ,_, was_VBDZ set_VVN free_JJ after_II a_AT1 misunderstanding_NN1 between_II government_NN1 officials_NN2 and_CC her_APPGE master_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1    9 She did not react as well as Dobby and her new found freedom .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1    9 She_PPHS1 did_VDD not_XX react_VVI as_II31 well_II32 as_II33 Dobby_NP1 and_CC her_PPHO1 new_RR found_VVN freedom_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1   10 She became depressed and even an alcoholic , going through six bottles of butter beer a day .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1   10 She_PPHS1 became_VVD depressed_JJ and_CC even_RR an_AT1 alcoholic_NN1 ,_, going_VVG through_II six_MC bottles_NN2 of_IO butter_NN1 beer_NN1 a_AT1 day_NNT1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1   11 The other house elves at Hogwarts treat her as something to be shameful of because she is always drunk , crying , a sloppy mess , or passed out .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1   11 The_AT other_JJ house_NN1 elves_NN2 at_II Hogwarts_NN2 treat_VV0 her_PPHO1 as_CSA something_PN1 to_TO be_VBI shameful_JJ of_IO because_CS she_PPHS1 is_VBZ always_RR drunk_JJ ,_, crying_VVG ,_, a_AT1 sloppy_JJ mess_NN1 ,_, or_CC passed_VVD out_RP ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1   12 These two house elves show the two opposite sides of the spectrum of unemployment .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1   12 These_DD2 two_MC house_NN1 elves_NN2 show_VV0 the_AT two_MC opposite_JJ sides_NN2 of_IO the_AT spectrum_NN1 of_IO unemployment_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    1   13 Dobby , the thriving go getter , and Winky , the depressed mess who can not figure out what to do without a job or family to take care of .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    1   13 Dobby_NP1 ,_, the_AT thriving_JJ go_NN1 getter_NN1 ,_, and_CC Winky_NP1 ,_, the_AT depressed_JJ mess_NN1 who_PNQS can_VM not_XX figure_VVI out_RP what_DDQ to_TO do_VDI without_IW a_AT1 job_NN1 or_CC family_NN1 to_TO take_VVI care_NN1 of_IO ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   14 The Great Depression happened over a period of ten years in the United States and some places in Europe .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   14 The_AT Great_JJ Depression_NN1 happened_VVD over_RP a_AT1 period_NN1 of_IO ten_MC years_NNT2 in_II the_AT United_NP1 States_NP1 and_CC some_DD places_NN2 in_II Europe_NP1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   15 Many things led to this period of time the United States History .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   15 Many_DA2 things_NN2 led_VVN to_II this_DD1 period_NN1 of_IO time_NNT1 the_AT United_NP1 States_NP1 History_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   16 With the conclusion of World War I , a hands-off government , the people of the United States discovering credit and doubting the stock market , no one really understood how bad things could get .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   16 With_IW the_AT conclusion_NN1 of_IO World_NN1 War_NN1 I_ZZ1% ,_, a_AT1 hands-off_JJ government_NN1 ,_, the_AT people_NN of_IO the_AT United_NP1 States_NP1 discovering_VVG credit_NN1 and_CC doubting_VVG the_AT stock_NN1 market_NN1 ,_, no_PN121 one_PN122 really_RR understood_VVN how_RGQ@ bad_JJ things_NN2 could_VM get_VVI ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   17 The collapse of the Stock Market in October of 1929 set the United States marked the beginning of The Great Depression .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   17 The_AT collapse_NN1 of_IO the_AT Stock_NN1 Market_NN1 in_II October_NPM1 of_IO 1929_MC set_VV0 the_AT United_NP1 States_NP1 marked_VVD@ the_AT beginning_NN1 of_IO The_AT Great_JJ Depression_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   18 Banks failing , along with many small businesses left many people unemployed .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   18 Banks_NN2 failing_VVG ,_, along_II21 with_II22 many_DA2 small_JJ businesses_NN2 left_VVD many_DA2 people_NN unemployed_JJ ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   19 Most struggled with finding new work and began to rely on the government once Franklin D. Roosevelt came into office .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   19 Most_DAT struggled_VVD with_IW finding_VVG new_JJ work_NN1 and_CC began_VVD to_TO rely_VVI on_II the_AT government_NN1 once_CS@ Franklin_NP1 D._NP1 Roosevelt_NP1 came_VVD into_II office_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   20 President Roosevelt was completely opposite of President Hoover 's method of public welfare .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   20 President_NNB Roosevelt_NP1 was_VBDZ completely_RR opposite_JJ of_IO President_NNB Hoover_NP1 's_GE method_NN1 of_IO public_JJ welfare_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   21 Hoover 's hands-off approach left most distrusting the government and Roosevelt 's involvement in the personal welfare of the people of the United States made him an immediate favorite .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   21 Hoover_NP1@ 's_GE hands-off_JJ approach_NN1 left_VVD most_RRT@ distrusting_VVG the_AT government_NN1 and_CC Roosevelt_NP1 's_GE involvement_NN1 in_II the_AT personal_JJ welfare_NN1 of_IO the_AT people_NN of_IO the_AT United_NP1 States_NP1 made_VVD him_PPHO1 an_AT1 immediate_JJ favorite_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   22 He set up The New Deal , which helped those struggling by providing them with the help they needed .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   22 He_PPHS1 set_VVD up_RP The_AT New_JJ Deal_NN1 ,_, which_DDQ helped_VVD those_DD2 struggling_VVG by_II providing_VVG them_PPHO2 with_IW the_AT help_NN1 they_PPHS2 needed_VVD ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    2   23 Like Dumbledore accepting Dobby and Winky into his work force , President Roosevelt created jobs by employing the unemployed .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    2   23 Like_II Dumbledore_NP1 accepting_VVG Dobby_NP1 and_CC Winky_NP1 into_II his_APPGE work_NN1 force_NN1 ,_, President_NNB Roosevelt_NP1 created_VVD jobs_NN2 by_II employing_VVG the_AT unemployed_JJ ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   24 In the more recent recession , reactions to unemployment have been extremely varied .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   24 In_II the_AT more_RGR recent_JJ recession_NN1 ,_, reactions_NN2 to_II unemployment_NN1 have_VH0 been_VBN extremely_RR varied_VVN ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   25 The real estate industry crashed almost five years ago and has yet to be fully fixed .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   25 The_AT real_JJ estate_NN1 industry_NN1 crashed_VVD almost_RR five_MC years_NNT2 ago_RA and_CC has_VHZ yet_RR to_TO be_VBI fully_RR fixed_VVN ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   26 Agents that were once making five figure deals are now sitting at home wondering when the real estate business will pick back up .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   26 Agents_NN2 that_CST were_VBDR once_RR making_VVG five_MC figure_NN1 deals_NN2 are_VBR now_RT sitting_VVG at_II home_NN1 wondering_VVG when_RRQ the_AT real_JJ estate_NN1 business_NN1 will_VM pick_VVI back_RP up_RP ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   27 College students all over the country were changing majors from things that used to be lucrative to things that were now safe bets , like business or medical school .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   27 College_NN1 students_NN2 all_RR over_II the_AT country_NN1 were_VBDR changing_VVG majors_NN2 from_II things_NN2 that_CST used_VMK to_TO be_VBI lucrative_JJ to_II things_NN2 that_CST were_VBDR now_RT safe_JJ bets_NN2 ,_, like_II business_NN1 or_CC medical_JJ school_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   28 The questions went from what can I make money in to what is a steady job ?
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   28 The_AT questions_NN2 went_VVD from_II what_DDQ can_VM I_PPIS1 make_VVI money_NN1 in_RP@ to_II what_DDQ is_VBZ a_AT1 steady_JJ job_NN1 ?_?
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   29 Budget cuts had forced many people out of the job as well .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   29 Budget_NN1 cuts_NN2 had_VHD forced_VVN many_DA2 people_NN out_II21 of_II22 the_AT job_NN1 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    3   30 How do the unemployed deal with the sudden change ?
+SENTPOS 2014_4_101_000_002_3 DRAFT B    3   30 How_RRQ do_VD0 the_AT unemployed_JJ deal_NN1 with_IW the_AT sudden_JJ change_NN1 ?_?
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   31 Depression , confusion , and alcoholism are things that can happen to the recently unemployed .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   31 Depression_NN1 ,_, confusion_NN1 ,_, and_CC alcoholism_NN1 are_VBR things_NN2 that_CST can_VM happen_VVI to_II@ the_AT recently_RR unemployed_JJ ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   32 Winky demonstrates all of these in her conversations with Harry and his friends while in the Hogwarts kitchens .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   32 Winky_NP1@ demonstrates_VVZ all_DB of_IO these_DD2 in_II her_APPGE conversations_NN2 with_IW Harry_NP1 and_CC his_APPGE friends_NN2 while_CS in_II the_AT Hogwarts_NP1 kitchens_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   33 She has n't moved for days , which is prevalent in her stained dress and somber attitude .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   33 She_PPHS1 has_VHZ n't_XX moved_VVN for_IF days_NNT2 ,_, which_DDQ is_VBZ prevalent_JJ in_II her_APPGE stained_JJ dress_NN1 and_CC somber_JJ attitude_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   34 She is confused as to who is her master .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   34 She_PPHS1 is_VBZ confused_VVN as_II21 to_II22 who_PNQS is_VBZ her_APPGE master_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   35 By refusing to reveal any of Mr. Crouch 's secrets and denying pay from her new master , Dumbledore , Winky shows her confusion in who she can trust and who she should obey .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   35 By_II refusing_VVG to_TO reveal_VVI any_DD of_IO Mr._NNB Crouch_NP1 's_GE secrets_NN2 and_CC denying_VVG pay_NN1 from_II her_APPGE new_JJ master_NN1 ,_, Dumbledore_NP1 ,_, Winky_NP1 shows_VVZ her_APPGE confusion_NN1 in_II who_PNQS she_PPHS1 can_VM trust_VVI and_CC who_PNQS she_PPHS1 should_VM obey_VVI ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   36 Alcoholism is reveled through her drunken weeping when Harry , Ron and Hermione come to visit a second time .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   36 Alcoholism_NN1 is_VBZ reveled_VVN@ through_II her_APPGE drunken_JJ weeping_NN1 when_CS Harry_NP1 ,_, Ron_NP1 and_CC Hermione_NP1 come_VV0 to_TO visit_VVI a_AT1 second_MD time_NNT1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   37 While butter beer may have very little alcohol in it , almost like a wine cooler , a house elf 's stature makes it easy to get drunk from a few bottles .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   37 While_CS butter_NN1 beer_NN1 may_VM have_VHI very_RG little_DA1 alcohol_NN1 in_II it_PPH1 ,_, almost_RR like_II a_AT1 wine_NN1 cooler_NN1 ,_, a_AT1 house_NN1 elf_NN1 's_GE stature_NN1 makes_VVZ it_PPH1 easy_JJ to_TO get_VVI drunk_JJ from_II a_AT1 few_DA2 bottles_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    4   38 These three responses to recent unemployment are negative effects of what unemployment can do to people who are not mentally prepared for the sudden change in life .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    4   38 These_DD2 three_MC responses_NN2 to_II recent_JJ unemployment_NN1 are_VBR negative_JJ effects_NN2 of_IO what_DDQ unemployment_NN1 can_VM do_VDI to_II people_NN who_PNQS are_VBR not_XX mentally_RR prepared_VVN for_IF the_AT sudden_JJ change_NN1 in_II life_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   39 Empowerment , enlightenment , and creativity are some positive outcomes of unemployment .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   39 Empowerment_NN1 ,_, enlightenment_NN1 ,_, and_CC creativity_NN1 are_VBR some_DD positive_JJ outcomes_NN2 of_IO unemployment_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   40 Demonstrated to the fullest by Dobby , these occur to those who have mentally prepared themselves for what is to come and have planned accordingly .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   40 Demonstrated_VVN to_II the_AT fullest_JJT by_II Dobby_NP1 ,_, these_DD2 occur_VV0 to_II those_DD2 who_PNQS have_VH0 mentally_RR prepared_VVN themselves_PPX2 for_IF what_DDQ is_VBZ to_TO come_VVI and_CC have_VHI planned_VVN accordingly_RR ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   41 Dobby is empowered by his freedom .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   41 Dobby_NP1 is_VBZ empowered_VVN by_II his_APPGE freedom_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   42 He immediately goes out and looks for a job that will pay him .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   42 He_PPHS1 immediately_RR goes_VVZ out_RP and_CC looks_VVZ for_IF a_AT1 job_NN1 that_CST will_VM pay_VVI him_PPHO1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   43 This is unheard of for a house elf !
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   43 This_DD1 is_VBZ unheard_JJ of_IO for_IF a_AT1 house_NN1 elf_NN1 !_!
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   44 Which is why it take hime two years to find someone open minded enough to be willing to pay enthusiastic workers .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   44 Which_DDQ is_VBZ why_RRQ it_PPH1 take_VV0 hime_NN1 two_MC years_NNT2 to_TO find_VVI someone_PN1 open_RR@ minded_VVN enough_RR to_TO be_VBI willing_JJ to_TO pay_VVI enthusiastic_JJ workers_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   45 Dumbledore empowered Dobby by letting him set the rules of their contract .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   45 Dumbledore_NP1@ empowered_VVD Dobby_NP1 by_II letting_VVG him_PPHO1 set_VVD the_AT rules_NN2 of_IO their_APPGE contract_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   46 When Dumbledore offered Dobby too much pay and too much time off , Dobby took charge and made it clear that he was n't asking for too much , just a steady job .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   46 When_CS Dumbledore_NP1 offered_VVD Dobby_NP1 too_RG much_DA1 pay_NN1 and_CC too_RG much_DA1 time_NNT1 off_RP ,_, Dobby_NP1 took_VVD charge_NN1 and_CC made_VVD it_PPH1 clear_JJ that_CST he_PPHS1 was_VBDZ n't_XX asking_VVG for_IF too_RG much_DA1 ,_, just_RR a_AT1 steady_JJ job_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   47 Enlightenment is something Dobby must have been born with .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   47 Enlightenment_NN1 is_VBZ something_PN1 Dobby_NP1 must_VM have_VHI been_VBN born_VVN with_IW ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   48 He understood that he got the raw end of the deal being born into slavery .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   48 He_PPHS1 understood_VVD that_CST he_PPHS1 got_VVD the_AT raw_JJ end_NN1 of_IO the_AT deal_NN1 being_VBG born_VVN into_II slavery_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   49 It is with his help that Hermione wishes to enlighten the rest of the house elves into joining S.P.E.W and asking for wages , benefits , and vacation time .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   49 It_PPH1 is_VBZ with_IW his_APPGE help_NN1 that_CST Hermione_NP1 wishes_VVZ to_TO enlighten_VVI the_AT rest_NN1 of_IO the_AT house_NN1 elves_NN2 into_II joining_VVG S.P.E.W_NP1 and_CC asking_VVG for_IF wages_NN2 ,_, benefits_NN2 ,_, and_CC vacation_NN1 time_NNT1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   50 While Dobby has unusual sense in style and overall attitude , no one can deny he is n't creative .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   50 While_CS Dobby_NP1 has_VHZ unusual_JJ sense_NN1 in_II style_NN1 and_CC overall_JJ attitude_NN1 ,_, no_PN121 one_PN122 can_VM deny_VVI he_PPHS1 is_VBZ n't_XX creative_JJ ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   51 He is smart and resourceful and is not afraid to get what he wants .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   51 He_PPHS1 is_VBZ smart_JJ and_CC resourceful_JJ and_CC is_VBZ not_XX afraid_JJ to_TO get_VVI what_DDQ he_PPHS1 wants_VVZ ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   52 The unemployed should have these qualities if they do not want to stay unemployed forever .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   52 The_AT unemployed_JJ should_VM have_VHI these_DD2 qualities_NN2 if_CS they_PPHS2 do_VD0 not_XX want_VVI to_TO stay_VVI unemployed_JJ forever_RT ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    5   53 By becoming like Dobby , a empowered go -getter , the unemployed can make their own futures as bright as they want to .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    5   53 By_II becoming_VVG like_II Dobby_NP1 ,_, a_AT1 empowered_JJ@ go_NN1 -getter_NN1 ,_, the_AT unemployed_JJ can_VM make_VVI their_APPGE own_DA futures_NN2 as_RG bright_JJ as_CSA they_PPHS2 want_VV0 to_TO ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   54 Unemployment is something that effects everyone .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   54 Unemployment_NN1 is_VBZ something_PN1 that_CST effects_NN2 everyone_PN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   55 Dobby and Winky are prime examples of how one can rise to the occasion or fall under the pressure .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   55 Dobby_NP1 and_CC Winky_NP1 are_VBR prime_JJ examples_NN2 of_IO how_RRQ one_PN1 can_VM rise_VVI to_II the_AT occasion_NN1 or_CC fall_VV0 under_II the_AT pressure_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   56 While not human , J.K. Rowling is using them as examples of how to react to drastic change in one 's life .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   56 While_CS not_XX human_JJ ,_, J.K._NP1 Rowling_NP1 is_VBZ using_VVG them_PPHO2 as_CSA examples_NN2 of_IO how_RRQ to_TO react_VVI to_II drastic_JJ change_NN1 in_II one_PN1 's_GE life_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   57 She , herself , had financial problems before penning the Harry Potter series .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   57 She_PPHS1 ,_, herself_PPX1 ,_, had_VHD financial_JJ problems_NN2 before_II penning_VVG the_AT Harry_NP1 Potter_NP1 series_NN ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   58 She could be showing a bit of herself in each of these characters .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   58 She_PPHS1 could_VM be_VBI showing_VVG a_AT1 bit_NN1 of_IO herself_PPX1 in_II each_DD1 of_IO these_DD2 characters_NN2 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   59 Beaten down by society , she rose to the top and is now richer than the Queen of England .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   59 Beaten_VVN down_RP by_II society_NN1 ,_, she_PPHS1 rose_VVD to_II the_AT top_NN1 and_CC is_VBZ now_RT richer_JJR than_CSN the_AT Queen_NN1 of_IO England_NP1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   60 By taking a page out of these house elves books , everyone can learn that tough times build character .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   60 By_II taking_VVG a_AT1 page_NN1 out_II21 of_II22 these_DD2 house_NN1 elves_NN2 books_NN2 ,_, everyone_PN1 can_VM learn_VVI that_DD1 tough_JJ times_NNT2 build_VV0 character_NN1 ._.
+SENTPOS 2014_4_101_000_002_3 DRAFT A    6   60  It is not what happens to people that defines them , rather how they react to what happens to them that defines them .
+SENTPOS 2014_4_101_000_002_3 DRAFT B    6   60  It_PPH1 is_VBZ not_XX what_DDQ happens_VVZ to_II@ people_NN that_CST defines_VVZ them_PPHO2 ,_, rather_RR@ how_RRQ they_PPHS2 react_VV0 to_II what_DDQ happens_VVZ to_II@ them_PPHO2 that_DD1 defines_VVZ them_PPHO2 ._.

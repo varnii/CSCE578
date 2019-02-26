@@ -1,0 +1,108 @@
+SENTPOS 2014_4_101_300_315_1 DRAFT A    0    0 A metaphor is a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    0    0 A_AT1 metaphor_NN1 is_VBZ a_AT1 figure_NN1 of_IO speech_NN1 in_II which_DDQ a_AT1 word_NN1 or_CC phrase_NN1 is_VBZ applied_VVN to_II an_AT1 object_NN1 or_CC action_NN1 to_II which_DDQ it_PPH1 is_VBZ not_XX literally_RR applicable_JJ ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    0    1 Contradictory to social norms of 1959 , Sylvia Plath expresses a concern for her unavoidable role as a mother through her use of punctuation and metaphors .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    0    1 Contradictory_JJ to_II social_JJ norms_NN2 of_IO 1959_MC ,_, Sylvia_NP1 Plath_NP1 expresses_VVZ a_AT1 concern_NN1 for_IF her_APPGE unavoidable_JJ role_NN1 as_II a_AT1 mother_NN1 through_II her_APPGE use_NN1 of_IO punctuation_NN1 and_CC metaphors_NN2 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    0    2 The nine syllables and the nine lines implies the nine months of pregnancy .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    0    2 The_AT nine_MC syllables_NN2 and_CC the_AT nine_MC lines_NN2 implies_VVZ the_AT nine_MC months_NNT2 of_IO pregnancy_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    0    3 Each line showing her feelings throughout each month of her confinement .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    0    3 Each_DD1 line_NN1 showing_VVG her_APPGE feelings_NN2 throughout_II each_DD1 month_NNT1 of_IO her_APPGE confinement_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1    4 Sylvia Plath uses familiar objects so the reader can picture the hidden messages in her poem .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1    4 Sylvia_NP1@ Plath_NP1 uses_VVZ familiar_JJ objects_NN2 so_RR the_AT reader_NN1 can_VM picture_VVI the_AT hidden_JJ@ messages_NN2 in_II her_APPGE poem_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1    5 Familiar being the word because becoming a mother , one would expect to be learning many new things along this journey .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1    5 Familiar_JJ being_VBG the_AT word_NN1 because_CS becoming_VVG a_AT1 mother_NN1 ,_, one_PN1 would_VM expect_VVI to_TO be_VBI learning_VVG many_DA2 new_JJ things_NN2 along_II this_DD1 journey_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1    6 Sticking to these familiar words that a pregnant woman would come across while preparing for the newborn 's arrival .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1    6 Sticking_VVG to_II these_DD2 familiar_JJ words_NN2 that_CST a_AT1 pregnant_JJ woman_NN1 would_VM come_VVI across_RL@ while_CS preparing_VVG for_IF the_AT newborn_JJ 's_GE arrival_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1    7 In the second line " An elephant , a ponderous house . "
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1    7 In_II the_AT second_MD line_NN1 "_" An_AT1 elephant_NN1 ,_, a_AT1 ponderous_JJ house_NN1 ._. "_"
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1    8 ( Plath 48 ) the woman is expressing the thoughts of her body .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1    8 (_( Plath_NN1 48_MC )_) the_AT woman_NN1 is_VBZ expressing_VVG the_AT thoughts_NN2 of_IO her_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1    9 A new image when Plath uses the words melon and tendrils to put an emphasis on the sarcastic tone of what the pregnant woman dislikes about her body .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1    9 A_AT1 new_JJ image_NN1 when_CS Plath_NP1 uses_VVZ the_AT words_NN2 melon_NN1 and_CC tendrils_NN2 to_TO put_VVI an_AT1 emphasis_NN1 on_II the_AT sarcastic_JJ tone_NN1 of_IO what_DDQ the_AT pregnant_JJ woman_NN1 dislikes_VVZ about_II her_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   10 That her pregnant body is large and looks abnormal to her usual and comfortable body weight and shape .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   10 That_CST her_APPGE pregnant_JJ body_NN1 is_VBZ large_JJ and_CC looks_VVZ abnormal_JJ to_II her_APPGE usual_JJ and_CC comfortable_JJ body_NN1 weight_NN1 and_CC shape_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   11 The fifth line is describing the baby growing inside the woman like bread in an oven .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   11 The_AT fifth_MD line_NN1 is_VBZ describing_VVG the_AT baby_NN1 growing_VVG inside_II the_AT woman_NN1 like_II bread_NN1 in_II an_AT1 oven_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   12 The yeast baking until the timer say its done and grows inside of her with time because she is the baker in of this metaphor .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   12 The_AT yeast_NN1 baking_NN1 until_CS the_AT timer_NN1 say_VV0 its_APPGE done_VDN and_CC grows_VVZ inside_RL of_IO her_PPHO1 with_IW time_NNT1 because_CS she_PPHS1 is_VBZ the_AT baker_NN1 in_RP@ of_IO this_DD1 metaphor_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   13 " Money 's new , minted in this fat purse . "
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   13 "_" Money_NN1 's_GE new_JJ ,_, minted_VVD in_II this_DD1 fat_JJ purse_NN1 ._. "_"
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   14 ( Plath 48 ) in the sixth line it relates to around the sixth month of pregnancy .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   14 (_( Plath_NN1 48_MC )_) in_II the_AT sixth_MD line_NN1 it_PPH1 relates_VVZ to_II around_II the_AT sixth_MD month_NNT1 of_IO pregnancy_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   15 More than half way through the nine months and the bills are adding up with this new child approaching .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   15 More_DAR than_CSN half_RR21 way_RR22 through_II the_AT nine_MC months_NNT2 and_CC the_AT bills_NN2 are_VBR adding_VVG up_RP with_IW this_DD1 new_JJ child_NN1 approaching_VVG ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   16 The woman is scared of the big chunk of money coming out of her own account .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   16 The_AT woman_NN1 is_VBZ scared_JJ of_IO the_AT big_JJ chunk_NN1 of_IO money_NN1 coming_VVG out_II21 of_II22 her_APPGE own_DA account_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   17 Money being a huge value but described in a purse relates to the baby being a big deal as well .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   17 Money_NN1 being_VBG a_AT1 huge_JJ value_NN1 but_CCB described_VVN in_II a_AT1 purse_NN1 relates_VVZ to_II the_AT baby_NN1 being_VBG a_AT1 big_JJ deal_NN1 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   18 In the seventh line , " I 'm a means , a stage , a cow in calf " says that a play and calf are celebrated not the stage or cow .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   18 In_II the_AT seventh_MD line_NN1 ,_, "_" I_PPIS1 'm_VBM a_AT1 means_NN ,_, a_AT1 stage_NN1 ,_, a_AT1 cow_NN1 in_II calf_NN1 "_" says_VVZ that_CST a_AT1 play_NN1 and_CC calf_NN1 are_VBR celebrated_VVN not_XX the_AT stage_NN1 or_CC cow_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   19 Sylvia Plath is explaining how the pregnant woman is now responsible for not only she but now a child and the child will be the main focus of her new life as a mother .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   19 Sylvia_NP1@ Plath_NP1 is_VBZ explaining_VVG how_RRQ the_AT pregnant_JJ woman_NN1 is_VBZ now_RT responsible_JJ for_IF not_XX only_RR she_PPHS1 but_CCB now_RT a_AT1 child_NN1 and_CC the_AT child_NN1 will_VM be_VBI the_AT main_JJ focus_NN1 of_IO her_APPGE new_JJ life_NN1 as_II a_AT1 mother_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   20 A mother who will be needed in multiple ways because it is of her own flesh .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   20 A_AT1 mother_NN1 who_PNQS will_VM be_VBI needed_VVN in_II multiple_JJ ways_NN2 because_CS it_PPH1 is_VBZ of_IO her_APPGE own_DA flesh_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   21 All of these bearings that come with being a mother , the woman is not exactly happy about having a baby .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   21 All_DB of_IO these_DD2 bearings_NN2 that_CST come_VV0 with_IW being_VBG a_AT1 mother_NN1 ,_, the_AT woman_NN1 is_VBZ not_XX exactly_RR happy_JJ about_II having_VHG a_AT1 baby_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    1   22 Plath rather is making the pregnant woman seem to be just accepting the consequences to a possible mistake she made months ago .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    1   22 Plath_NN1 rather_RR@ is_VBZ making_VVG the_AT pregnant_JJ woman_NN1 seem_VV0 to_TO be_VBI just_RR accepting_VVG the_AT consequences_NN2 to_II a_AT1 possible_JJ mistake_NN1 she_PPHS1 made_VVD months_NNT2 ago_RA ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   23 The punctuation in the poem gives a true hint of what the woman is really feeling .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   23 The_AT punctuation_NN1 in_II the_AT poem_NN1 gives_VVZ a_AT1 true_JJ hint_NN1 of_IO what_DDQ the_AT woman_NN1 is_VBZ really_RR feeling_VVG ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   24 Plath ends most lines with periods or a comma to tell her true feelings .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   24 Plath_NN1 ends_VVZ most_DAT lines_NN2 with_IW periods_NN2 or_CC a_AT1 comma_NN1 to_TO tell_VVI her_APPGE true_JJ feelings_NN2 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   25 Feelings that she is not ready for this baby to come , and she might never be ready .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   25 Feelings_NN2 that_CST she_PPHS1 is_VBZ not_XX ready_JJ for_IF this_DD1 baby_NN1 to_TO come_VVI ,_, and_CC she_PPHS1 might_VM never_RR be_VBI ready_JJ ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   26 When using an exclamation mark in the fourth line Sylvia Plath insinuates sarcasm .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   26 When_CS using_VVG an_AT1 exclamation_NN1 mark_NN1 in_II the_AT fourth_MD line_NN1 Sylvia_NP1 Plath_NP1 insinuates_VVZ sarcasm_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   27 The line says " O red fruit , ivory , fine timbers ! "
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   27 The_AT line_NN1 says_VVZ "_" O_ZZ1 red_JJ fruit_NN ,_, ivory_NN1 ,_, fine_JJ timbers_NN2 !_! "_"
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   28 ( Plath 48 ) , meaning the pregnant woman should be thinking this baby is the greatest thing on earth .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   28 (_( Plath_NN1 48_MC )_) ,_, meaning_VVG the_AT pregnant_JJ woman_NN1 should_VM be_VBI thinking_VVG this_DD1 baby_NN1 is_VBZ the_AT greatest_JJT thing_NN1 on_II earth_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   29 In a farmers world red fruit is the indicator that tells the farmer the fruit is ready .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   29 In_II a_AT1 farmers_NN2 world_NN1 red_JJ fruit_NN is_VBZ the_AT indicator_NN1 that_CST tells_VVZ the_AT farmer_NN1 the_AT fruit_NN is_VBZ ready_JJ ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   30 The word red in this line though , gives the impression that the woman is ready and happy for this baby to come into her life .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   30 The_AT word_NN1 red_NN1 in_II this_DD1 line_NN1 though_CS ,_, gives_VVZ the_AT impression_NN1 that_CST the_AT woman_NN1 is_VBZ ready_JJ and_CC happy_JJ for_IF this_DD1 baby_NN1 to_TO come_VVI into_II her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   31 In reality , the woman is not happy but afraid and unsure of how she will handle having a baby that was so unexpected in this time of her life .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   31 In_II reality_NN1 ,_, the_AT woman_NN1 is_VBZ not_XX happy_JJ but_CCB afraid_JJ and_CC unsure_JJ of_IO how_RRQ she_PPHS1 will_VM handle_VVI having_VHG a_AT1 baby_NN1 that_CST was_VBDZ so_RG unexpected_JJ in_II this_DD1 time_NNT1 of_IO her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   32 Ivory is usually referred to as white , pure , or to the hard tusk used for carving fine art and jewelry .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   32 Ivory_NN1 is_VBZ usually_RR referred_VVN to_II as_RG@ white_JJ ,_, pure_JJ ,_, or_CC to_II the_AT hard_JJ tusk_NN1 used_VVN for_IF carving_VVG fine_JJ art_NN1 and_CC jewelry_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   33 In line four , that is supposedly how the pregnant woman should feeling about the baby growing inside of her .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   33 In_II line_NN1 four_MC ,_, that_DD1 is_VBZ supposedly_RR how_RRQ the_AT pregnant_JJ woman_NN1 should_VM feeling_NN1 about_II the_AT baby_NN1 growing_VVG inside_RL of_IO her_PPHO1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    2   34 That the word ivory is supposed to be describing how valuable the baby is supposed to be to her but Plath gives it a sarcastic tone by using that exclamation mark at the end of the line than the periods .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    2   34 That_CST the_AT word_NN1 ivory_NN1 is_VBZ supposed_JJ to_TO be_VBI describing_VVG how_RGQ@ valuable_JJ the_AT baby_NN1 is_VBZ supposed_JJ to_TO be_VBI to_II her_PPHO1 but_CCB Plath_NP1 gives_VVZ it_PPH1 a_AT1 sarcastic_JJ tone_NN1 by_II using_VVG that_DD1 exclamation_NN1 mark_NN1 at_II the_AT end_NN1 of_IO the_AT line_NN1 than_CSN the_AT periods_NN2 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   35 The irony of this poem is that the pregnant woman is supposed to be all excited and happy as would a lady in 1959 would be but really is scared and overwhelmed .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   35 The_AT irony_NN1 of_IO this_DD1 poem_NN1 is_VBZ that_CST the_AT pregnant_JJ woman_NN1 is_VBZ supposed_JJ to_TO be_VBI all_RR@ excited_JJ and_CC happy_JJ as_CSA would_VM a_AT1 lady_NN1 in_II 1959_MC would_VM be_VBI but_CCB really_RR is_VBZ scared_JJ and_CC overwhelmed_JJ ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   36 In reality the birth of a child is supposed to be planned but there are indicators that tell the readers that this woman is not prepared for motherhood .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   36 In_II reality_NN1 the_AT birth_NN1 of_IO a_AT1 child_NN1 is_VBZ supposed_JJ to_TO be_VBI planned_VVN but_CCB there_EX are_VBR indicators_NN2 that_CST tell_VV0 the_AT readers_NN2 that_CST this_DD1 woman_NN1 is_VBZ not_XX prepared_VVN for_IF motherhood_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   37 Which contradicts the theme of being pregnant .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   37 Which_DDQ contradicts_VVZ the_AT theme_NN1 of_IO being_VBG pregnant_JJ ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   38 A mother should put her child before herself but this whole poem is solemnly about the struggle for this reluctant woman .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   38 A_AT1 mother_NN1 should_VM put_VVI her_APPGE child_NN1 before_II herself_PPX1 but_CCB this_DD1 whole_JJ poem_NN1 is_VBZ solemnly_RR about_II the_AT struggle_NN1 for_IF this_DD1 reluctant_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   39 Plath shows the resisted concept of the mother to become a means to an end .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   39 Plath_NN1 shows_VVZ the_AT resisted_VVN concept_NN1 of_IO the_AT mother_NN1 to_TO become_VVI a_AT1 means_NN to_II an_AT1 end_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   40 In line eight it tells the readers that as time is getting closer to end of this delay the more the idea of being a mother alarms the pregnant woman .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   40 In_II line_NN1 eight_MC it_PPH1 tells_VVZ the_AT readers_NN2 that_CST as_CSA time_NNT1 is_VBZ getting_VVG closer_JJR to_TO end_VVI of_IO this_DD1 delay_NN1 the_AT more_RRR the_AT idea_NN1 of_IO being_VBG a_AT1 mother_NN1 alarms_NN2 the_AT pregnant_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   41 Plath says " I 've eaten a bag of green apples . "
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   41 Plath_NN1 says_VVZ "_" I_PPIS1 've_VH0 eaten_VVN a_AT1 bag_NN1 of_IO green_JJ apples_NN2 ._. "_"
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   42 ( Plath 48 ) meaning that the woman is not even close to being ready to have this child .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   42 (_( Plath_NN1 48_MC )_) meaning_VVG that_CST the_AT woman_NN1 is_VBZ not_XX even_RR close_JJ to_II being_VBG ready_JJ to_TO have_VHI this_DD1 child_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   43 All of the necessities a mother is supposed to have prepared ahead of time is still not ripe .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   43 All_DB of_IO the_AT necessities_NN2 a_AT1 mother_NN1 is_VBZ supposed_JJ to_TO have_VHI prepared_VVN ahead_II21 of_II22 time_NNT1 is_VBZ still_RR not_XX ripe_JJ ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   44 The last line " Boarded the train there 's no getting off . "
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   44 The_AT last_MD line_NN1 "_" Boarded_VVD the_AT train_NN1 there_EX 's_VBZ no_AT getting_VVG off_RP ._. "_"
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   45 ( Plath 48 ) states that it is too late to turn back now .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   45 (_( Plath_NN1 48_MC )_) states_VVZ that_CST it_PPH1 is_VBZ too_RG late_JJ to_TO turn_VVI back_RP now_RT ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   46 A pregnant woman making it to her ninth month of pregnancy , there is nowhere to run now that she has gone this far .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   46 A_AT1 pregnant_JJ woman_NN1 making_VVG it_PPH1 to_II her_APPGE ninth_MD month_NNT1 of_IO pregnancy_NN1 ,_, there_EX is_VBZ nowhere_RL to_TO run_VVI now_CS21 that_CS22 she_PPHS1 has_VHZ gone_VVN this_RG far_RR ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   47 Stepping on a train and when the doors close the moving train will not stop just because one person wants it to .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   47 Stepping_VVG on_II a_AT1 train_NN1 and_CC when_CS the_AT doors_NN2 close_VV0 the_AT moving_JJ@ train_NN1 will_VM not_XX stop_VVI just_RR because_CS one_MC1 person_NN1 wants_VVZ it_PPH1 to_II ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   48 No the train will keep moving until it has arrived at its final destination which in this metaphor is birth .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   48 No_UH the_AT train_NN1 will_VM keep_VVI moving_VVG until_CS it_PPH1 has_VHZ arrived_VVN at_II its_APPGE final_JJ destination_NN1 which_DDQ in_II this_DD1 metaphor_NN1 is_VBZ birth_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    3   49 Still not happy as pregnant woman should be but excepting the fact that she will be having this baby and she is responsible for her and her baby 's lives .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    3   49 Still_RR not_XX happy_JJ as_CSA pregnant_JJ woman_NN1 should_VM be_VBI but_CCB excepting_II the_AT fact_NN1 that_CST she_PPHS1 will_VM be_VBI having_VHG this_DD1 baby_NN1 and_CC she_PPHS1 is_VBZ responsible_JJ for_IF her_PPHO1 and_CC her_APPGE baby_NN1 's_GE lives_NN2 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    4   50 This riddle first has the reader 's minds spinning on the idea of a pregnant woman .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    4   50 This_DD1 riddle_NN1 first_MD has_VHZ the_AT reader_NN1 's_GE minds_NN2 spinning_VVG on_II the_AT idea_NN1 of_IO a_AT1 pregnant_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    4   51 The hidden message in the nine lines is that the pregnant female is concerned about being the role of a mother .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    4   51 The_AT hidden_JJ@ message_NN1 in_II the_AT nine_MC lines_NN2 is_VBZ that_CST the_AT pregnant_JJ female_NN1 is_VBZ concerned_JJ about_II being_VBG the_AT role_NN1 of_IO a_AT1 mother_NN1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    4   52 Throughout the nine lines or one could say months the pregnant woman is pondering over a new concern instead of being excited to bring a child into her life and wanting to share her values with it .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    4   52 Throughout_II the_AT nine_MC lines_NN2 or_CC one_MC1 could_VM say_VVI months_NNT2 the_AT pregnant_JJ woman_NN1 is_VBZ pondering_VVG over_RP a_AT1 new_JJ concern_NN1 instead_II21 of_II22 being_VBG excited_VVN@ to_TO bring_VVI a_AT1 child_NN1 into_II her_APPGE life_NN1 and_CC wanting_VVG to_TO share_VVI her_APPGE values_NN2 with_IW it_PPH1 ._.
+SENTPOS 2014_4_101_300_315_1 DRAFT A    4   52  The matter of being pregnant is thought of being cute and joyful for this new era in someone 's life , but the poem contradicts its theme by the mother 's worry of the inescapable role of a caretaker by Sylvia Plath 's use of punctuation and metaphors .
+SENTPOS 2014_4_101_300_315_1 DRAFT B    4   52  The_AT matter_NN1 of_IO being_VBG pregnant_JJ is_VBZ thought_VVN of_IO being_VBG cute_JJ and_CC joyful_JJ for_IF this_DD1 new_JJ era_NN1 in_II someone_PN1 's_GE life_NN1 ,_, but_CCB the_AT poem_NN1 contradicts_VVZ its_APPGE theme_NN1 by_II the_AT mother_NN1 's_GE worry_NN1@ of_IO the_AT inescapable_JJ role_NN1 of_IO a_AT1 caretaker_NN1 by_II Sylvia_NP1 Plath_NP1 's_GE use_NN1 of_IO punctuation_NN1 and_CC metaphors_NN2 ._.

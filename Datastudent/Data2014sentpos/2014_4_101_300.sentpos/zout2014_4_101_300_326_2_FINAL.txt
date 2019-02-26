@@ -1,0 +1,92 @@
+SENTPOS 2014_4_101_300_326_2 FINAL A    0    0 The oil painting , Paris Street ; Rainy Day ( Calliebotte ) , can be analyzed in three different perspectives .
+SENTPOS 2014_4_101_300_326_2 FINAL B    0    0 The_AT oil_NN1 painting_NN1 ,_, Paris_NP1 Street_NNL1 ;_; Rainy_JJ Day_NNT1 (_( Calliebotte_NP1 )_) ,_, can_VM be_VBI analyzed_VVN@ in_II three_MC different_JJ perspectives_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    0    1 First perspective is observing the colors that artist used in this picture to find out the meaning of these dark color usage .
+SENTPOS 2014_4_101_300_326_2 FINAL B    0    1 First_MD perspective_NN1 is_VBZ observing_VVG the_AT colors_NN2 that_CST artist_NN1 used_VVN in_II this_DD1 picture_NN1 to_TO find_VVI out_RP the_AT meaning_NN1 of_IO these_DD2 dark_JJ color_NN1 usage_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    0    2 Second perspective is observing the meanings of objects .
+SENTPOS 2014_4_101_300_326_2 FINAL B    0    2 Second_MD perspective_NN1 is_VBZ observing_VVG the_AT meanings_NN2 of_IO objects_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    0    3 Last perspective is observing mood of the scene by people 's posture and eyes focus .
+SENTPOS 2014_4_101_300_326_2 FINAL B    0    3 Last_MD perspective_NN1 is_VBZ observing_VVG mood_NN1 of_IO the_AT scene_NN1 by_II people_NN 's_GE posture_NN1 and_CC eyes_NN2 focus_VV0 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    0    4 By examining these three perspectives , we can see that the artist tries to show the gloomy Paris Street to interpret people 's lethargic attitude .
+SENTPOS 2014_4_101_300_326_2 FINAL B    0    4 By_II examining_VVG these_DD2 three_MC perspectives_NN2 ,_, we_PPIS2 can_VM see_VVI that_CST the_AT artist_NN1 tries_VVZ to_TO show_VVI the_AT gloomy_JJ Paris_NP1 Street_NNL1 to_TO interpret_VVI people_NN 's_GE lethargic_JJ attitude_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    1    5 This is important because gloomy air of the Paris Street is contrary to the image of Paris as a central commercial area Artist uses the gray color to show the gloomy air of Paris Street .
+SENTPOS 2014_4_101_300_326_2 FINAL B    1    5 This_DD1 is_VBZ important_JJ because_CS gloomy_JJ air_NN1 of_IO the_AT Paris_NP1 Street_NNL1 is_VBZ contrary_II21 to_II22 the_AT image_NN1 of_IO Paris_NP1 as_II a_AT1 central_JJ commercial_JJ area_NN1 Artist_NN1 uses_VVZ the_AT gray_JJ color_NN1 to_TO show_VVI the_AT gloomy_JJ air_NN1 of_IO Paris_NP1 Street_NNL1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    1    6 The color of the umbrella and clothes of the people in the street are the example of gray color .
+SENTPOS 2014_4_101_300_326_2 FINAL B    1    6 The_AT color_NN1 of_IO the_AT umbrella_NN1 and_CC clothes_NN2 of_IO the_AT people_NN in_II the_AT street_NN1 are_VBR the_AT example_NN1 of_IO gray_JJ color_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    1    7 These two things are located at many points so that these help to create dark tone of the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    1    7 These_DD2 two_MC things_NN2 are_VBR located_VVN at_II many_DA2 points_NN2 so_CS21 that_CS22 these_DD2 help_VV0 to_TO create_VVI dark_JJ tone_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2    8 Also he uses primary colors like yellow and red to paint the buildings Red and yellow are very vivid and light colors .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2    8 Also_RR he_PPHS1 uses_VVZ primary_JJ colors_NN2 like_II yellow_JJ and_CC red_JJ to_TO paint_VVI the_AT buildings_NN2 Red_JJ and_CC yellow_JJ are_VBR very_RG vivid_JJ and_CC light_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2    9 However , by changing the intensity of color to lower level , primary colors can also create dull and smoky mood .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2    9 However_RR ,_, by_II changing_VVG the_AT intensity_NN1 of_IO color_NN1 to_TO lower_VVI level_NN1 ,_, primary_JJ colors_NN2 can_VM also_RR create_VVI dull_JJ and_CC smoky_JJ mood_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2   10 The artist also uses different chroma to describe a fog-shrouded street .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2   10 The_AT artist_NN1 also_RR uses_VVZ different_JJ chroma_NN1 to_TO describe_VVI a_AT1 fog-shrouded_JJ street_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2   11 ky is painted with unsaturated colors .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2   11 ky_JJ is_VBZ painted_VVN with_IW unsaturated_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2   12 By painting large portion of the painting with low chroma , artist can successfully create a grim mood .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2   12 By_II painting_VVG@ large_JJ portion_NN1 of_IO the_AT painting_NN1 with_IW low_JJ chroma_NN1 ,_, artist_NN1 can_VM successfully_RR create_VVI a_AT1 grim_JJ mood_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2   13 Also highly saturated colors used to paint the couple in front of the painting grab viewers ' attention on the couple 's faces .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2   13 Also_RR highly_RR saturated_JJ colors_NN2 used_VMK to_TO paint_VVI the_AT couple_NN1 in_II31 front_II32 of_II33 the_AT painting_NN1 grab_NN1 viewers_NN2 '_GE attention_NN1 on_II the_AT couple_NN1 's_GE faces_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    2   14 They have lethargic and sad faces which makes the mood of street gloomyIf the artist intended to drawlively Paris Street , he would use colors with high chroma and fully saturated colors to paint a street .
+SENTPOS 2014_4_101_300_326_2 FINAL B    2   14 They_PPHS2 have_VH0 lethargic_JJ and_CC sad_JJ faces_NN2 which_DDQ makes_VVZ the_AT mood_NN1 of_IO street_NN1 gloomyIf_NN1 the_AT artist_NN1 intended_VVN to_II drawlively_RR Paris_NP1 Street_NNL1 ,_, he_PPHS1 would_VM use_VVI colors_NN2 with_IW high_JJ chroma_NN1 and_CC fully_RR saturated_JJ colors_NN2 to_TO paint_VVI a_AT1 street_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   15 Objects that are included in this painting help to create the depressing and bad climate of treet which make a gloomy atmosphere .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   15 Objects_NN2 that_CST are_VBR included_VVN in_II this_DD1 painting_NN1 help_NN1 to_TO create_VVI the_AT depressing_JJ and_CC bad_JJ climate_NN1 of_IO treet_NN1 which_DDQ make_VV0 a_AT1 gloomy_JJ atmosphere_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   16 Most of the people hold umbrella ; it is raining in Paris Street even if it is difficult to see the raindrop itself .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   16 Most_DAT of_IO the_AT people_NN hold_VV0 umbrella_NN1 ;_; it_PPH1 is_VBZ raining_VVG in_II Paris_NP1 Street_NNL1 even_CS21 if_CS22 it_PPH1 is_VBZ difficult_JJ to_TO see_VVI the_AT raindrop_NN1 itself_PPX1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   17 Also by looking at the shaky and uneven shade under the streetlamp make rainy day .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   17 Also_RR by_II looking_VVG at_II the_AT shaky_JJ and_CC uneven_JJ shade_NN1 under_II the_AT streetlamp_NN1 make_VV0 rainy_JJ day_NNT1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   18 Also the streetlamp itself is turned off which makes the area around dark .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   18 Also_RR the_AT streetlamp_NN1 itself_PPX1 is_VBZ turned_VVN off_II which_DDQ makes_VVZ the_AT area_NN1 around_II dark_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   19 ong coats that people wear are another example to describe climate of street .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   19 ong_VV0 coats_NN2 that_CST people_NN wear_VV0 are_VBR another_DD1 example_NN1 to_TO describe_VVI climate_NN1 of_IO street_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   20 eft end of this picture , there is a four-wheeled carriage .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   20 eft_VV0 end_NN1 of_IO this_DD1 picture_NN1 ,_, there_EX is_VBZ a_AT1 four-wheeled_JJ carriage_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   21 Two men on the carriages are only people who do not put up umbrellas .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   21 Two_MC men_NN2 on_II the_AT carriages_NN2 are_VBR only_JJ people_NN who_PNQS do_VD0 not_XX put_VVI up_RP umbrellas_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   22 Therefore shows a dark mood by creating a miserable situation of the men who have to drive carriages in spite of the rain .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   22 Therefore_RR shows_VVZ a_AT1 dark_JJ mood_NN1 by_II creating_VVG a_AT1 miserable_JJ situation_NN1 of_IO the_AT men_NN2 who_PNQS have_VH0 to_TO drive_VVI carriages_NN2 in_II31 spite_II32 of_II33 the_AT rain_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   23 Magnificent buildings which are painted very poorly due to the depressing climate also create a grim mood of the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   23 Magnificent_JJ buildings_NN2 which_DDQ are_VBR painted_VVN very_RG poorly_RR due_II21 to_II22 the_AT depressing_JJ climate_NN1 also_RR create_VV0 a_AT1 grim_JJ mood_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    3   24 If the artist tried to paint energetic Paris Street , he would draw more carriages and draw lighted streetlamps .
+SENTPOS 2014_4_101_300_326_2 FINAL B    3   24 If_CS the_AT artist_NN1 tried_VVD to_TO paint_VVI energetic_JJ Paris_NP1 Street_NNL1 ,_, he_PPHS1 would_VM draw_VVI more_DAR carriages_NN2 and_CC draw_VVI lighted_JJ streetlamps_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   25 Gloomy atmosphere can be expressed by the spot which people 's eyes are bound .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   25 Gloomy_JJ atmosphere_NN1 can_VM be_VBI expressed_VVN by_II the_AT spot_NN1 which_DDQ people_NN 's_GE eyes_NN2 are_VBR bound_VVN ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   26 Everyone except the couple in the foreground of the painting is not facing the viewers .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   26 Everyone_PN1 except_II the_AT couple_NN1 in_II the_AT foreground_NN1 of_IO the_AT painting_NN1 is_VBZ not_XX facing_VVG the_AT viewers_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   27 A couple is the only people who have clearly painted faces .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   27 A_AT1 couple_NN1 is_VBZ the_AT only_JJ people_NN who_PNQS have_VH0 clearly_RR painted_VVN faces_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   28 This makes viewer 's focus to be fixed on the facial expression of a couple .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   28 This_DD1 makes_VVZ viewer_NN1 's_GE focus_NN1 to_TO be_VBI fixed_VVN on_II the_AT facial_JJ expression_NN1 of_IO a_AT1 couple_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   29 They have no focus on the eyes and are in a state of impassivity .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   29 They_PPHS2 have_VH0 no_AT focus_NN1 on_II the_AT eyes_NN2 and_CC are_VBR in_II a_AT1 state_NN1 of_IO impassivity_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   30 Their faces add the depressive mood of the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   30 Their_APPGE faces_NN2 add_VV0 the_AT depressive_NN1 mood_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   31 The person next to the streetlamp sets his face toward ground , but nothing is on the ground .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   31 The_AT person_NN1 next_II21 to_II22 the_AT streetlamp_NN1 sets_VVZ his_APPGE face_NN1 toward_II ground_NN1 ,_, but_CCB nothing_PN1 is_VBZ on_II the_AT ground_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   32 Generally , walking a street by lowering one 's head shows lethargic condition .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   32 Generally_RR ,_, walking_VVG a_AT1 street_NN1 by_II lowering_VVG one_PN1 's_GE head_NN1 shows_VVZ lethargic_JJ condition_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   33 People are in clear focus and see front when they have happy and exciting feelings .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   33 People_NN are_VBR in_II clear_JJ focus_NN1 and_CC see_VV0 front_JJ when_CS they_PPHS2 have_VH0 happy_JJ and_CC exciting_JJ feelings_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   34 Comparing location of people 's eyes when they are in good mood , it is easy to figure out that focus of people in the painting help to uplift dark atmosphere of the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   34 Comparing_VVG location_NN1 of_IO people_NN 's_GE eyes_NN2 when_CS they_PPHS2 are_VBR in_II good_JJ mood_NN1 ,_, it_PPH1 is_VBZ easy_JJ to_TO figure_VVI out_RP that_DD1 focus_NN1 of_IO people_NN in_II the_AT painting_NN1 help_NN1 to_II uplift_NN1 dark_NN1 atmosphere_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   35 The eye line of the people is one of the easy traits to miss .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   35 The_AT eye_NN1 line_NN1 of_IO the_AT people_NN is_VBZ one_MC1 of_IO the_AT easy_JJ traits_NN2 to_TO miss_VVI ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    4   36 Even if it is a trivial change , the eye line contains indirect meaning which is important enough to create a mood of the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    4   36 Even_CS21 if_CS22 it_PPH1 is_VBZ a_AT1 trivial_JJ change_NN1 ,_, the_AT eye_NN1 line_NN1 contains_VVZ indirect_JJ meaning_NN1 which_DDQ is_VBZ important_JJ enough_RR to_TO create_VVI a_AT1 mood_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   37 Paris is the capital city of France which is one of the most populous city in the world .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   37 Paris_NP1 is_VBZ the_AT capital_NN1 city_NN1 of_IO France_NP1 which_DDQ is_VBZ one_MC1 of_IO the_AT most_RGT populous_JJ city_NN1 in_II the_AT world_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   38 Especially , around the metropolitan area there are many busy commercial streets .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   38 Especially_RR ,_, around_II the_AT metropolitan_JJ area_NN1 there_EX are_VBR many_DA2 busy_JJ commercial_JJ streets_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   39 These streets are very live and energetic .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   39 These_DD2 streets_NN2 are_VBR very_RG live_JJ and_CC energetic_JJ ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   40 On the other hand , the artist described Paris Street as very gloomy street by using three different perspectives : colors , objects , and people 's eye line .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   40 On_II the_AT other_JJ hand_NN1 ,_, the_AT artist_NN1 described_VVD Paris_NP1 Street_NN1 as_CSA very_RG gloomy_JJ street_NN1 by_II using_VVG three_MC different_JJ perspectives_NN2 :_: colors_NN2 ,_, objects_NN2 ,_, and_CC people_NN 's_GE eye_NN1 line_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   41 Even if viewer 's knowledge of work is on the side on nonexistence , viewers can catch the gloomy atmosphere and people 's feeling in Paris Street by observing the work in detail since Paris Street ; Rainy day ( Calliebotte ) is painted in direct way of expression .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   41 Even_CS21 if_CS22 viewer_NN1 's_GE knowledge_NN1 of_IO work_NN1 is_VBZ on_II the_AT side_NN1 on_II nonexistence_NN1 ,_, viewers_NN2 can_VM catch_VVI the_AT gloomy_JJ atmosphere_NN1 and_CC people_NN 's_GE feeling_NN1 in_II Paris_NP1 Street_NNL1 by_II observing_VVG the_AT work_NN1 in_II detail_NN1 since_CS Paris_NP1 Street_NNL1 ;_; Rainy_JJ day_NNT1 (_( Calliebotte_NP1 )_) is_VBZ painted_VVN in_II direct_JJ way_NN1 of_IO expression_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   42 The main idea that we have to draw from observing different factors of the painting is the contrasting image between general Paris Street in people 's mind and gloomy mood of street and people that artist shows in the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   42 The_AT main_JJ idea_NN1 that_CST we_PPIS2 have_VH0 to_TO draw_VVI from_II observing_VVG different_JJ factors_NN2 of_IO the_AT painting_NN1 is_VBZ the_AT contrasting_JJ image_NN1 between_II general_JJ Paris_NP1 Street_NNL1 in_II people_NN 's_GE mind_NN1 and_CC gloomy_JJ mood_NN1 of_IO street_NN1 and_CC people_NN that_CST artist_NN1 shows_VVZ in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   43 People can focus more on Paris Street ; Rainy Day ( Calliebotte ) because the artist 's different point of seeing Paris Street which is against the bias of people .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   43 People_NN can_VM focus_VVI more_RRR on_II Paris_NP1 Street_NNL1 ;_; Rainy_JJ Day_NNT1 (_( Calliebotte_NP1 )_) because_CS the_AT artist_NN1 's_GE different_JJ point_NN1 of_IO seeing_VVG Paris_NP1 Street_NNL1 which_DDQ is_VBZ against_II the_AT bias_NN1 of_IO people_NN ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   44 For this reason , viewers will think one more time about the purpose that artist intended in the painting .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   44 For_IF this_DD1 reason_NN1 ,_, viewers_NN2 will_VM think_VVI one_MC1 more_DAR time_NNT1 about_II the_AT purpose_NN1 that_CST artist_NN1 intended_VVN in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 FINAL A    5   44  If the painting was no different from any other energetic landscape painting of Paris Street , it would not be as famous as it is today .
+SENTPOS 2014_4_101_300_326_2 FINAL B    5   44  If_CS the_AT painting_NN1 was_VBDZ no_AT different_JJ from_II any_DD other_JJ energetic_JJ landscape_NN1 painting_NN1 of_IO Paris_NP1 Street_NNL1 ,_, it_PPH1 would_VM not_XX be_VBI as_RG famous_JJ as_CSA it_PPH1 is_VBZ today_RT ._.

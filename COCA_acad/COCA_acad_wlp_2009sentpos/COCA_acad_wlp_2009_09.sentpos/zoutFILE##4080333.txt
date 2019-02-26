@@ -1,0 +1,148 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    0 THIS MORNING 'S mail brought a letter from a lady in Ireland .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    0 THIS_DD1 MORNING_NNT1 'S_GE mail_NN1 brought_VVD_VVN a_AT1 letter_NN1 from_II a_AT1 lady_NN1 in_II Ireland_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    1 It said , " Please sir , advice sic me as to some good children 's publisher ( who would do the drawings ) , and I could send some of my stories that I hope they would be re turned , as you can see yourself I am really in the dark about anything to do with publishers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    1 It_PPH1 said_VVD ,_Y "_Y Please_RR_VV0@ sir_NN1 ,_Y advice_NN1 sic_RR me_PPIO1 as_II21 to_II22 some_DD good_JJ children_NN2 's_GE publisher_NN1 (_Y who_PNQS would_VM do_VDI the_AT drawings_NN2 )_Y ,_Y and_CC I_PPIS1 could_VM send_VVI some_DD of_IO my_APPGE stories_NN2 that_CST I_PPIS1 hope_VV0 they_PPHS2 would_VM be_VBI re_II turned_JJ%_VVD ,_Y as_CSA you_PPY can_VM see_VVI yourself_PPX1 I_PPIS1 am_VBM really_RR in_II the_AT dark_NN1_JJ about_II anything_PN1 to_TO do_VDI with_IW publishers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    2 " Why , I wonder , do quite a lot of people think that writing for children is some sort of an amateur lark ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    2 "_Y Why_RRQ ,_Y I_PPIS1 wonder_VV0 ,_Y do_VD0 quite_RR@ a_AT1 lot_NN1 of_IO people_NN think_VV0 that_DD1_CST writing_NN1_VVG for_IF children_NN2 is_VBZ some_DD sort_NN1 of_IO an_AT1 amateur_JJ_NN1 lark_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    3 That letter from Ireland was not invented .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    3 That_DD1 letter_NN1 from_II Ireland_NP1 was_VBDZ not_XX invented_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    4 I have it before me now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    4 I_PPIS1 have_VH0 it_PPH1 before_II me_PPIO1 now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    5 And from time to time I get others that are equally illiterate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    5 And_CC from_RR41 time_RR42 to_RR43 time_RR44 I_PPIS1 get_VV0 others_NN2 that_CST are_VBR equally_RR illiterate_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    6 I also get manuscripts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    6 I_PPIS1 also_RR get_VV0 manuscripts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    7 ( " I enclose a children 's story I have written .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    7 (_Y "_Y I_PPIS1_ZZ1@ enclose_VV0 a_AT1 children_NN2 's_GE story_NN1 I_PPIS1 have_VH0 written_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    8 Please tell me how I can get it published .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    8 Please_RR tell_VV0 me_PPIO1 how_RRQ I_PPIS1 can_VM get_VVI it_PPH1 published_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0    9 My husband thinks it is very good indeed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0    9 My_APPGE husband_NN1 thinks_VVZ it_PPH1 is_VBZ very_RG good_JJ indeed_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   10 " ) Writing for children requires just as much professionalism and skill as writing for adults .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   10 "_Y )_Y Writing_VVG_NN1 for_IF children_NN2 requires_VVZ just_RR as_RG much_DA1 professionalism_NN1 and_CC skill_NN1 as_CSA writing_VVG_NN1 for_IF adults_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   11 This is a subtle and a recondite truth , .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   11 This_DD1 is_VBZ a_AT1 subtle_JJ and_CC a_AT1 recondite_JJ truth_NN1 ,_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   12 It seems to me quite possible that the writing of a really fine novel for children is a more difficult undertaking than writing a comparably fine novel for adults .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   12 It_PPH1 seems_VVZ to_II me_PPIO1 quite_RG possible_JJ that_CST the_AT writing_NN1 of_IO a_AT1 really_RR fine_JJ novel_NN1_JJ for_IF children_NN2 is_VBZ a_AT1 more_RGR difficult_JJ undertaking_NN1 than_CSN writing_VVG a_AT1 comparably_RR fine_JJ novel_NN1_JJ for_IF adults_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   13 History would certainly seem to bear this out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   13 History_NN1 would_VM certainly_RR seem_VVI to_TO bear_VVI this_DD1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   14 Through the 19th and 20th centuries , celebrated adult novels must surely have outnumbered celebrated children 's novels by at least a hundred to one .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   14 Through_II the_AT 19th_MD and_CC 20th_MD centuries_NNT2 ,_Y celebrated_JJ_VVD adult_NN1_JJ@ novels_NN2 must_VM surely_RR have_VHI outnumbered_VVN celebrated_JJ children_NN2 's_GE novels_NN2 by_II at_RR21 least_RR22 a_AT1 hundred_M1 to_II one_PN1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   15 And even today , when every writer knows how lucrative a successful children 's book can be , there are still far fewer out standing children 's books published each year than there are adult novels .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   15 And_CC even_RR today_RT ,_Y when_CS_RRQ every_AT1 writer_NN1 knows_VVZ how_RRQ_RGQ@ lucrative_JJ a_AT1 successful_JJ children_NN2 's_GE book_NN1 can_VM be_VBI ,_Y there_EX are_VBR still_RR far_RR fewer_DAR out_II% standing_VVG_NN1_JJ@ children_NN2 's_GE books_NN2 published_VVD_VVN each_DD1 year_NNT1 than_CSN there_EX are_VBR adult_JJ@ novels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   16 A lot of writers , you will argue , do n't even try to write a children 's book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   16 A_AT1 lot_NN1 of_IO writers_NN2 ,_Y you_PPY will_VM argue_VVI ,_Y do_VD0 n't_XX even_RR try_VVI to_TO write_VVI a_AT1 children_NN2 's_GE book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   17 You are right ; they do n't .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   17 You_PPY are_VBR right_JJ ;_Y they_PPHS2 do_VD0 n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   18 But why do n't they ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   18 But_CCB why_RRQ do_VD0 n't_XX they_PPHS2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   19 Some , of course , simply do n't want to , but most of the ones I have talked to answer quite honestly that they do n't think they could bring it off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   19 Some_DD ,_Y of_RR21 course_RR22 ,_Y simply_RR do_VD0 n't_XX want_VVI to_TO ,_Y but_CCB most_DAT of_IO the_AT ones_Z' I_PPIS1 have_VH0 talked_VVN to_TO answer_VVI quite_RG honestly_RR that_CST they_PPHS2 do_VD0 n't_XX think_VVI they_PPHS2 could_VM bring_VVI it_PPH1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   20 They could well be right .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   20 They_PPHS2 could_VM well_RR be_VBI right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   21 Some years ago , a big New York publisher had the idea of asking the English language each to write a short children 's book , and a large enough advance was offered to tempt most of the candidates into having a go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   21 Some_DD years_NNT2 ago_RA ,_Y a_AT1 big_JJ New_NP1 York_NP1 publisher_NN1 had_VHD the_AT idea_NN1 of_IO asking_VVG the_AT English_JJ_NN1 language_NN1 each_DD1 to_TO write_VVI a_AT1 short_JJ children_NN2 's_GE book_NN1 ,_Y and_CC a_AT1 large_JJ enough_DD_RR advance_NN1_VV0 was_VBDZ offered_VVN to_TO tempt_VVI most_DAT of_IO the_AT candidates_NN2 into_II having_VHG a_AT1 go_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   22 The results , many of which I saw , were disastrous .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   22 The_AT results_NN2 ,_Y many_DA2 of_IO which_DDQ I_PPIS1 saw_VVD ,_Y were_VBDR disastrous_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   23 The publisher lost a packet , and the project was abandoned .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   23 The_AT publisher_NN1 lost_VVD_VVN a_AT1 packet_NN1 ,_Y and_CC the_AT project_NN1 was_VBDZ abandoned_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   24 This does seem to demonstrate , to some degree , at any rate , that a writer for children requires a certain quality of mind that is not necessarily possessed by a writer for adults .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   24 This_DD1 does_VDZ seem_VVI to_TO demonstrate_VVI ,_Y to_II some_DD degree_NN1 ,_Y at_II any_DD rate_NN1 ,_Y that_CST a_AT1 writer_NN1 for_IF children_NN2 requires_VVZ a_AT1 certain_JJ quality_NN1 of_IO mind_NN1 that_CST_DD1 is_VBZ not_XX necessarily_RR possessed_VVN by_II a_AT1 writer_NN1 for_IF adults_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   25 And , of course , vice versa .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   25 And_CC ,_Y of_RR21 course_RR22 ,_Y vice_RR21 versa_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   26 Some of the best-known of all children 's books were written by people who never wrote for adults at all -- Lewis Carroll , Kenneth Grahame , Beatrix Potter , A.A. Milne , Captain Frederick Marryat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   26 Some_DD of_IO the_AT best-known_JJ of_IO all_DB children_NN2 's_GE books_NN2 were_VBDR written_VVN by_II people_NN who_PNQS never_RR wrote_VVD for_IF adults_NN2 at_II all_DB --_ZZ Lewis_NP1 Carroll_NP1 ,_Y Kenneth_NP1 Grahame_NP1 ,_Y Beatrix_NP1 Potter_NP1 ,_Y A.A._NP1 Milne_NP1 ,_Y Captain_NNB Frederick_NP1 Marryat_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   27 Rather fewer writers , it would seem , are able to do both adult and children 's books equally well -- Robert Louis Stevenson , James Barrie , E.B. White .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   27 Rather_RG_RR@ fewer_DAR writers_NN2 ,_Y it_PPH1 would_VM seem_VVI ,_Y are_VBR able_JK to_TO do_VDI both_RR adult_JJ@_NN1 and_CC children_NN2 's_GE books_NN2 equally_RR well_RR_JJ@ --_ZZ Robert_NP1 Louis_NP1 Stevenson_NP1 ,_Y James_NP1 Barrie_NP1 ,_Y E.B._NP1 White_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   28 So what are the qualities a children 's writer must possess as distinct from an adult 's writer ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   28 So_RR what_DDQ are_VBR the_AT qualities_NN2 a_AT1 children_NN2 's_GE writer_NN1 must_VM possess_VVI as_RG@_CSA distinct_JJ from_II an_AT1 adult_NN1 's_GE writer_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   29 I must admit , I do do believe most sincerely that in order to write a good children 's book , the writer must have a genuine and powerful wish not only to entertain children , but to teach them the habit of reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   29 I_PPIS1 must_VM admit_VVI ,_Y I_PPIS1 do_VD0 do_VD0 believe_VVI most_RGT sincerely_RR that_DD1_CST in_BCL21 order_BCL22 to_TO write_VVI a_AT1 good_JJ children_NN2 's_GE book_NN1 ,_Y the_AT writer_NN1 must_VM have_VHI a_AT1 genuine_JJ and_CC powerful_JJ wish_NN1_VV0 not_XX only_RR to_TO_II entertain_VVI children_NN2 ,_Y but_CCB to_TO teach_VVI them_PPHO2 the_AT habit_NN1 of_IO reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   30 Here is an extract from a little pamphlet I wrote recently for my publisher : Childhood is the time when good habits are acquired , and bad ones too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   30 Here_RL is_VBZ an_AT1 extract_NN1 from_II a_AT1 little_JJ pamphlet_NN1 I_PPIS1 wrote_VVD recently_RR for_IF my_APPGE publisher_NN1 :_Y Childhood_NN1 is_VBZ the_AT time_NNT1 when_RRQ good_JJ habits_NN2 are_VBR acquired_VVN ,_Y and_CC bad_JJ ones_Z' too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   31 If a person can learn to love books during childhood , then that habit will probably endure through the rest of life and will give immeasurable pleasure and solace .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   31 If_CS a_AT1 person_NN1 can_VM learn_VVI to_TO love_VVI books_NN2 during_II childhood_NN1 ,_Y then_RT that_DD1_CST habit_NN1 will_VM probably_RR endure_VVI through_II the_AT rest_NN1 of_IO life_NN1 and_CC will_VM give_VVI immeasurable_JJ pleasure_NN1 and_CC solace_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   32 The adult non-reader of novels is at a massive disadvantage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   32 The_AT adult_NN1_JJ@ non-reader_NN1 of_IO novels_NN2 is_VBZ at_II a_AT1 massive_JJ disadvantage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   33 Loneliness , boredom , illness , unhappiness and many other conditions that we must all suffer sooner or later are made infinitely more bearable when the victim is an educated reader .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   33 Loneliness_NN1 ,_Y boredom_NN1 ,_Y illness_NN1 ,_Y unhappiness_NN1 and_CC many_DA2 other_JJ conditions_NN2 that_CST we_PPIS2 must_VM all_DB_RR@ suffer_VVI sooner_RRR or_CC later_RRR_JJR are_VBR made_VVN infinitely_RR more_RGR bearable_JJ when_CS the_AT victim_NN1 is_VBZ an_AT1 educated_JJ reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   34 The prime function , therefore , of the children 's book writer is to write a book that is so absorbing , exciting , funny , fast and beautiful that the child will fall in love with it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   34 The_AT prime_JJ function_NN1 ,_Y therefore_RR ,_Y of_IO the_AT children_NN2 's_GE book_NN1 writer_NN1 is_VBZ to_TO write_VVI a_AT1 book_NN1 that_CST_DD1 is_VBZ so_RG_RR absorbing_JJ_VVG ,_Y exciting_JJ ,_Y funny_JJ ,_Y fast_RR_JJ and_CC beautiful_JJ that_CST the_AT child_NN1 will_VM fall_VVI in_II_RP@ love_NN1 with_IW it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   35 And that first love affair between the young child and other books and when this happens the battle is probably won .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   35 And_CC that_DD1 first_MD love_NN1 affair_NN1 between_II the_AT young_JJ child_NN1 and_CC other_JJ books_NN2 and_CC when_CS_RRQ this_DD1 happens_VVZ the_AT battle_NN1 is_VBZ probably_RR won_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   36 The child will have found a crock of gold .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   36 The_AT child_NN1 will_VM have_VHI found_VVN a_AT1 crock_NN1 of_IO gold_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   37 He will also have gained something that will help to carry him most marvelously through the tangles of his later years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   37 He_PPHS1 will_VM also_RR have_VHI gained_VVN something_PN1 that_CST will_VM help_VVI to_TO carry_VVI him_PPHO1 most_RGT marvelously_RR through_II the_AT tangles_NN2 of_IO his_APPGE later_JJR years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   38 I believe that the writer for children must be a jokey sort of a fellow , if you see what I mean by that .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   38 I_PPIS1 believe_VV0 that_CST the_AT writer_NN1 for_IF children_NN2 must_VM be_VBI a_AT1 jokey_JJ sort_NN1 of_IO a_AT1 fellow_NN1_JJ ,_Y if_CS you_PPY see_VV0 what_DDQ I_PPIS1 mean_VV0 by_II that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   39 He must like simple tricks and jokes and riddles and other childish things .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   39 He_PPHS1 must_VM like_VVI simple_JJ tricks_NN2 and_CC jokes_NN2 and_CC riddles_NN2 and_CC other_JJ childish_JJ things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   40 He must be unconventional and inventive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   40 He_PPHS1 must_VM be_VBI unconventional_JJ and_CC inventive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   41 He must have a really first-class plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   41 He_PPHS1 must_VM have_VHI a_AT1 really_RR first-class_JJ plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   42 He must know what enthralls children and what bores them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   42 He_PPHS1 must_VM know_VVI what_DDQ enthralls_VVZ children_NN2 and_CC what_DDQ bores_VVZ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   43 They love being spooked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   43 They_PPHS2 love_VV0 being_VBG spooked_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   44 They love suspense .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   44 They_PPHS2 love_VV0 suspense_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   45 They love action .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   45 They_PPHS2 love_VV0 action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   46 They love ghosts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   46 They_PPHS2 love_VV0 ghosts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   47 They love the finding of treasure .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   47 They_PPHS2 love_VV0 the_AT finding_NN1 of_IO treasure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   48 They love chocolates and toys and money .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   48 They_PPHS2 love_VV0 chocolates_NN2 and_CC toys_NN2 and_CC money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   49 They love magic .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   49 They_PPHS2 love_VV0 magic_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   50 They love being made to giggle .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   50 They_PPHS2 love_VV0 being_VBG made_VVN to_TO giggle_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   51 They love seeing the villain meet a grisly death .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   51 They_PPHS2 love_VV0 seeing_VVG the_AT villain_NN1 meet_VVI a_AT1 grisly_JJ death_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   52 They love a hero and they love the hero to be a winner .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   52 They_PPHS2 love_VV0 a_AT1 hero_NN1 and_CC they_PPHS2 love_VV0 the_AT hero_NN1 to_TO be_VBI a_AT1 winner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   53 But they hate descriptive passages and flowery prose .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   53 But_CCB they_PPHS2 hate_VV0 descriptive_JJ passages_NN2 and_CC flowery_JJ prose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   54 They hate long descriptions of any and can spot a clumsy sentence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   54 They_PPHS2 hate_VV0 long_JJ descriptions_NN2 of_IO any_DD and_CC can_VM spot_VVI a_AT1 clumsy_JJ sentence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   55 They like stories that contain a threat .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   55 They_PPHS2 like_VV0 stories_NN2 that_CST contain_VV0 a_AT1 threat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   56 " D' you know what I feel like ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   56 "_Y D'_VD0 you_PPY know_VVI what_DDQ I_PPIS1 feel_VV0 like_II_JJ@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   57 " said the big crocodile to the smaller one .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   57 "_Y said_VVD the_AT big_JJ crocodile_NN1 to_II the_AT smaller_JJR one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   58 " I feel like having myself a nice plump juicy child for my lunch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   58 "_Y I_PPIS1 feel_VV0 like_II having_VHG myself_PPX1 a_AT1 nice_JJ plump_JJ juicy_JJ child_NN1 for_IF my_APPGE lunch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   59 " They love that sort of thing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   59 "_Y They_PPHS2 love_VV0 that_DD1 sort_NN1 of_IO thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   60 What else do they love ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   60 What_DDQ else_RR do_VD0 they_PPHS2 love_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   61 New inventions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   61 New_JJ inventions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   62 Unorthodox methods .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   62 Unorthodox_JJ methods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   63 Eccentricity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   63 Eccentricity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   64 Secret information .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   64 Secret_JJ_NN1 information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   65 The list is long .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   65 The_AT list_NN1 is_VBZ long_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   66 But above all , when you write a story for them , bear in mind that they do not possess the same power of concentration as an adult , and they become very easily bored or diverted .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   66 But_CCB above_II all_DB ,_Y when_CS_RRQ you_PPY write_VV0 a_AT1 story_NN1 for_IF them_PPHO2 ,_Y bear_VV0 in_II mind_NN1 that_CST they_PPHS2 do_VD0 not_XX possess_VVI the_AT same_DA power_NN1 of_IO concentration_NN1 as_CSA an_AT1 adult_NN1 ,_Y and_CC they_PPHS2 become_VV0 very_RG easily_RR bored_JJ_VVN@ or_CC diverted_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   67 Your story , therefore , must tantalize and titillate them on every page , and all the time that you are writing you must be saying to yourself , " Is this too slow ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   67 Your_APPGE story_NN1 ,_Y therefore_RR ,_Y must_VM tantalize_VVI and_CC titillate_VVI them_PPHO2 on_II_RP@ every_AT1 page_NN1 ,_Y and_CC all_DB the_AT time_NNT1 that_CST you_PPY are_VBR writing_VVG you_PPY must_VM be_VBI saying_VVG to_II yourself_PPX1 ,_Y "_Y Is_VBZ this_DD1_RG% too_RG slow_JJ_RR@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   68 Is it too dull ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   68 Is_VBZ it_PPH1 too_RG dull_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   69 Will they stop reading ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   69 Will_VM they_PPHS2 stop_VVI reading_NN1_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   70 " To those questions , you must answer yes more often than you answer no .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   70 "_Y To_II those_DD2 questions_NN2 ,_Y you_PPY must_VM answer_VVI yes_UH more_RGR often_RR than_CSN you_PPY answer_VV0 no_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   71 Cross it out and start again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   71 Cross_VV0 it_PPH1 out_RP and_CC start_VV0_NN1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   72 PHOTO ( COLOR ) : First 1916-1990 ) was the author of the children 's books James and the Giant Peach , Charlie and the Chocolate Factory , The Witches and Matilda .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   72 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y First_MD 1916-1990_MCMC )_Y was_VBDZ the_AT author_NN1 of_IO the_AT children_NN2 's_GE books_NN2 James_NP1 and_CC the_AT Giant_JJ_NN1 Peach_NN1 ,_Y Charlie_NP1 and_CC the_AT Chocolate_NN1 Factory_NN1 ,_Y The_AT Witches_NN2 and_CC Matilda_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  A    0   73 Web : www.roalddahl.com.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080333 COCA  B    0   73 Web_NN1 :_Y www.roalddahl.com._ZZ_NN

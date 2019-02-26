@@ -1,0 +1,140 @@
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    0 Travel around the world or just across the street ?
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    0 Travel_VV0_NN1 around_RP_II the_AT world_NN1 or_CC just_RR across_II the_AT street_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    1 To a dedicated sightseer , a covered bridge freak , a lover of festivals , fairs and carnivals , are backpacking , traveling by snowshoe , dog sled , train , or car preferred ?
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    1 To_II a_AT1 dedicated_JJ sightseer_NN1 ,_Y a_AT1 covered_JJ@ bridge_NN1 freak_NN1 ,_Y a_AT1 lover_NN1 of_IO festivals_NN2 ,_Y fairs_NN2_VVZ and_CC carnivals_NN2 ,_Y are_VBR backpacking_VVG ,_Y traveling_VVG by_II snowshoe_NN1 ,_Y dog_NN1 sled_VVD ,_Y train_VV0_NN1 ,_Y or_CC car_NN1 preferred_VVN_VVD_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    2 is sleeping in a tent or a fancy hotel selected ?
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    2 is_VBZ sleeping_VVG_JJ in_II_RP@ a_AT1 tent_NN1 or_CC a_AT1 fancy_JJ_NN1 hotel_NN1 selected_VVN_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    3 No matter how or where one travels , photography allows bringing home memories and moments that can be looked back on with pleasure .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    3 No_XX matter_RGQV32_RRQV32 how_RGQV33_RRQV33 or_CC where_CS_RRQ one_PN1 travels_VVZ ,_Y photography_NN1 allows_VVZ bringing_VVG home_NN1_RL memories_NN2 and_CC moments_NN2 that_CST_DD1 can_VM be_VBI looked_VVN back_RP on_RP@_II with_IW pleasure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    4 <p> In general , a travel photo needs to be identified with a place , a culture , a land and a people , in its natural state .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    4 <p>_Y In_RR21 general_RR22 ,_Y a_AT1 travel_NN1 photo_NN1 needs_VVZ_NN2 to_TO be_VBI identified_VVN with_IW a_AT1 place_NN1 ,_Y a_AT1 culture_NN1 ,_Y a_AT1 land_NN1 and_CC a_AT1 people_NN ,_Y in_II its_Z' natural_JJ state_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    5 A good image should make the feet itch ; the viewer should want to leave immediately for the area or at least learn more about the subject .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    5 A_AT1_ZZ1 good_JJ image_NN1 should_VM make_VVI the_AT feet_NN2 itch_VVI ;_Y the_AT viewer_NN1 should_VM want_VVI to_TO leave_VVI immediately_RR for_IF the_AT area_NN1 or_CC at_RR21 least_RR22 learn_VV0 more_RRR_DAR about_II the_AT subject_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    6 Show the viewer or judge images that convey ; this is an interesting place to visit .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    6 Show_VV0 the_AT viewer_NN1 or_CC judge_VV0_NN1 images_NN2 that_CST convey_VV0 ;_Y this_DD1 is_VBZ an_AT1 interesting_JJ place_NN1 to_TO visit_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    7 <p> Travel is much more than landscapes , architecture , churches and museums .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    7 <p>_Y Travel_NN1_VV0 is_VBZ much_DA1 more_DAR than_CSN landscapes_NN2 ,_Y architecture_NN1 ,_Y churches_NN2 and_CC museums_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    8 Present something of interest about a place or country : its history , culture , people and the way of framing the scene .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    8 Present_VV0@_JJ something_PN1 of_IO interest_NN1 about_II a_AT1 place_NN1 or_CC country_NN1 :_Y its_Z' history_NN1 ,_Y culture_NN1 ,_Y people_NN and_CC the_AT way_NN1 of_IO framing_VVG the_AT scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0    9 <p> For exhibitions , it is the judge 's responsibility to select the best of the works submitted .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0    9 <p>_Y For_IF exhibitions_NN2 ,_Y it_PPH1 is_VBZ the_AT judge_NN1 's_GE responsibility_NN1 to_TO select_VVI the_AT best_JJT_RRT of_IO the_AT works_NN submitted_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   10 To do this , the judge must recognize that the photo is a form of communication and evaluate that it presents its message clearly and effectively .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   10 To_TO do_VDI this_DD1 ,_Y the_AT judge_NN1 must_VM recognize_VVI that_CST the_AT photo_NN1 is_VBZ a_AT1 form_NN1 of_IO communication_NN1 and_CC evaluate_VV0 that_CST it_PPH1 presents_VVZ its_Z' message_NN1 clearly_RR and_CC effectively_RR ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   11 The photographer must make the intent of the photo very clear .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   11 The_AT photographer_NN1 must_VM make_VVI the_AT intent_NN1 of_IO the_AT photo_NN1 very_RG clear_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   12 Zero in on the subject and capture detail .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   12 Zero_VV0@ in_RP@ on_II the_AT subject_NN1 and_CC capture_VV0_NN1 detail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   13 Choose a subject that leaves no doubt as to what the photographic intentions are .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   13 Choose_VV0 a_AT1 subject_NN1 that_CST_DD1 leaves_VVZ no_AT doubt_NN1 as_CSA to_II what_DDQ the_AT photographic_JJ intentions_NN2 are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   14 Keep it simple , and show one idea at a time .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   14 Keep_VV0 it_PPH1 simple_JJ ,_Y and_CC show_VV0_NN1 one_MC1 idea_NN1 at_II a_AT1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   15 Get up close and look at the beautiful details .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   15 Get_VV0 up_RP close_JJ_RR@ and_CC look_VV0_NN1 at_II the_AT beautiful_JJ details_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   16 Close-ups may have more impact than the entire building .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   16 Close-ups_NN2 may_VM have_VHI more_DAR impact_NN1 than_CSN the_AT entire_JJ building_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   17 Do n't be glued to the spot , simply move those feet and always walk around the subject : take it from all angles and different distances so the viewer or judge wo n't say , " I 've seen that a million times .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   17 Do_VD0 n't_XX be_VBI glued_VVN to_II the_AT spot_NN1 ,_Y simply_RR move_VV0 those_DD2 feet_NN2 and_CC always_RR walk_VV0 around_RP_II the_AT subject_NN1 :_Y take_VV0 it_PPH1 from_II all_DB angles_NN2 and_CC different_JJ distances_NN2 so_RR_CS@ the_AT viewer_NN1 or_CC judge_NN1_VV0 wo_VM n't_XX say_VVI ,_Y "_Y I_PPIS1 've_VH0 seen_VVN that_CST a_AT1 million_M times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   18 " The judge wo n't know or care that a better angle may have caused an accident .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   18 "_Y The_AT judge_NN1 wo_VM n't_XX know_VVI or_CC care_VVI that_CST a_AT1 better_JJR angle_NN1 may_VM have_VHI caused_VVN an_AT1 accident_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   19 Be alert for the one that is n't the obvious looking in .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   19 Be_VB0 alert_JJ for_IF the_AT one_PN1 that_CST is_VBZ n't_XX the_AT obvious_JJ looking_VVG in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   20 Go up--and shoot down , go down--and shoot up .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   20 Go_VV0 up--and_CC shoot_VV0 down_RP ,_Y go_VV0 down--and_CC shoot_VV0 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   21 <p> Travel affords great opportunities to meet fascinating people and people bring the story to life .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   21 <p>_Y Travel_NN1 affords_VVZ great_JJ opportunities_NN2 to_TO meet_VVI fascinating_JJ people_NN and_CC people_NN bring_VV0 the_AT story_NN1 to_II life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   22 Do n't be afraid to ask if a photograph may be taken .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   22 Do_VD0 n't_XX be_VBI afraid_JJ to_TO ask_VVI if_CSW@_CS a_AT1 photograph_NN1 may_VM be_VBI taken_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   23 Most will beam with pleasure .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   23 Most_DAT will_VM beam_VVI with_IW pleasure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   24 For some it will be a thrill to be singled out and be the center of attention for a brief moment .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   24 For_IF some_DD it_PPH1 will_VM be_VBI a_AT1 thrill_NN1 to_TO be_VBI singled_VVN out_RP and_CC be_VBI the_AT center_NN1 of_IO attention_NN1 for_IF a_AT1 brief_JJ moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   25 One form of communication that is understood by every culture and every country is a smile .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   25 One_MC1 form_NN1 of_IO communication_NN1 that_CST_DD1 is_VBZ understood_VVN by_II every_AT1 culture_NN1 and_CC every_AT1 country_NN1 is_VBZ a_AT1 smile_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   26 It will get you further than anything else .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   26 It_PPH1 will_VM get_VVI you_PPY further_RRR than_CSN anything_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   27 <p> When taking photos of children , flowers , mushrooms , etc. get down to eye level .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   27 <p>_Y When_CS taking_VVG photos_NN2 of_IO children_NN2 ,_Y flowers_NN2 ,_Y mushrooms_NN2 ,_Y etc._RA get_VV0 down_RP to_II eye_NN1 level_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   28 You will get a better picture and it 's good exercise .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   28 You_PPY will_VM get_VVI a_AT1 better_JJR picture_NN1 and_CC it_PPH1 's_VBZ good_JJ exercise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   29 Do n't look down on a child .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   29 Do_VD0 n't_XX look_VVI down_RP on_II a_AT1 child_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   30 Be alert and ready for that once in a lifetime image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   30 Be_VB0 alert_JJ and_CC ready_JJ for_IF that_DD1 once_RR in_II a_AT1 lifetime_NNT1 image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   31 The great one can be gone in the blink of an eye .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   31 The_AT great_JJ one_PN1 can_VM be_VBI gone_VVN in_II the_AT blink_NN1 of_IO an_AT1 eye_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   32 Look for the unexpected and the surprise , be ready , and keep those eyes open .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   32 Look_VV0 for_IF the_AT unexpected_JJ and_CC the_AT surprise_NN1 ,_Y be_VBI ready_JJ_RR@ ,_Y and_CC keep_VV0 those_DD2 eyes_NN2 open_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   33 Fumble for a moment and that gem will be lost .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   33 Fumble_VV0_NN1 for_IF a_AT1 moment_NN1 and_CC that_DD1 gem_NN1 will_VM be_VBI lost_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   34 <p> Market places their lives , in colorful costumes and reveal how individuals work and play .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   34 <p>_Y Market_VV0_NN1 places_NN2_VVZ@ their_APPGE lives_NN2 ,_Y in_II colorful_JJ costumes_NN2 and_CC reveal_VV0 how_RRQ individuals_NN2 work_VV0_NN1 and_CC play_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   35 To be less conspicuous , use a longer lens .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   35 To_TO be_VBI less_RGR conspicuous_JJ ,_Y use_VV0 a_AT1 longer_JJR lens_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   36 Show what is made , the dress , the food and the transportation used to get to market .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   36 Show_VV0_NN1 what_DDQ is_VBZ made_VVN ,_Y the_AT dress_NN1 ,_Y the_AT food_NN1 and_CC the_AT transportation_NN1 used_VMK to_TO get_VVI to_TO market_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   37 Get people doing activities , working with animals or fishing , be alert for ceremonial and sporting events .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   37 Get_VV0 people_NN doing_VDG activities_NN2 ,_Y working_VVG with_IW animals_NN2 or_CC fishing_NN1 ,_Y be_VBI alert_JJ for_IF ceremonial_NN1_JJ and_CC sporting_J events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   38 Look for quiet moments and the unusual .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   38 Look_VV0 for_IF quiet_JJ moments_NN2 and_CC the_AT unusual_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   39 Include people to show scale of what you are shooting .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   39 Include_VV0 people_NN to_TO show_VVI scale_NN1 of_IO what_DDQ you_PPY are_VBR shooting_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   40 Try to avoid pictures that contain friends with cameras , Most tourists will not serve the purpose , and neither will someone who is obviously posed .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   40 Try_VV0 to_TO avoid_VVI pictures_NN2 that_CST contain_VV0 friends_NN2 with_IW cameras_NN2 ,_Y Most_DAT tourists_NN2 will_VM not_XX serve_VVI the_AT purpose_NN1 ,_Y and_CC neither_DD1_RR will_VM someone_PN1 who_PNQS is_VBZ obviously_RR posed_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   41 Wait for someone in appropriate dress to walk into the area .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   41 Wait_VV0 for_IF someone_PN1 in_II appropriate_JJ dress_NN1 to_TO walk_VVI into_II the_AT area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   42 Anything standing vertical ( people , flowers , trees , etc. ) should probably be taken that way .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   42 Anything_PN1 standing_VVG_JJ@ vertical_JJ_NN1@ (_Y people_NN ,_Y flowers_NN2 ,_Y trees_NN2 ,_Y etc._RA )_Y should_VM probably_RR be_VBI taken_VVN that_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   43 <p> A scene must not be too busy .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   43 <p>_Y A_AT1 scene_NN1 must_VM not_XX be_VBI too_RG busy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   44 More pictures are lost to clutter than any other flaw .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   44 More_DAR pictures_NN2 are_VBR lost_VVN to_TO clutter_VVI than_CSN any_DD other_JJ flaw_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   45 Chip away at anything that does not belong till you get that work of art .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   45 Chip_NN1_VV0% away_RL at_II anything_PN1 that_CST does_VDZ not_XX belong_VVI till_CS you_PPY get_VV0 that_DD1 work_NN1 of_IO art_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   46 Always check the backgrounds .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   46 Always_RR check_VV0 the_AT backgrounds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   47 <p> A traveler must take the weather and lighting as it best that was taken .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   47 <p>_Y A_AT1 traveler_NN1 must_VM take_VVI the_AT weather_NN1 and_CC lighting_NN1 as_CSA it_PPH1 best_RRT that_DD1 was_VBDZ taken_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   48 Acquire plenty of pictures : there may never be this chance again .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   48 Acquire_VV0 plenty_PN of_IO pictures_NN2 :_Y there_EX may_VM never_RR be_VBI this_DD1 chance_NN1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   49 Nothing can give more added impact than proper and dramatic lighting .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   49 Nothing_PN1 can_VM give_VVI more_RGR_DAR added_JJ impact_NN1 than_CSN proper_JJ and_CC dramatic_JJ lighting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   50 Lighting is everything and great lighting makes great pictures .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   50 Lighting_NN1 is_VBZ everything_PN1 and_CC great_JJ lighting_NN1 makes_VVZ great_JJ pictures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   51 Side lighting gives texture and modeling .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   51 Side_NN1 lighting_NN1 gives_VVZ texture_NN1 and_CC modeling_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   52 Shoot in the morning or evening and in the middle of the day go shopping .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   52 Shoot_VV0 in_II_RP@ the_AT morning_NNT1 or_CC evening_NNT1 and_CC in_II the_AT middle_NN1 of_IO the_AT day_NNT1 go_VV0 shopping_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   53 A nice curve helps lead the eye into the composition .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   53 A_AT1_ZZ1 nice_JJ curve_NN1 helps_NN2@_VVZ lead_VVI the_AT eye_NN1 into_II the_AT composition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   54 Photography is a waiting game .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   54 Photography_NN1 is_VBZ a_AT1 waiting_JJ@_NN1@ game_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   55 Learn to wait for someone to get out of the way , the sun to come out or the subject to move into the correct position .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   55 Learn_VV0 to_TO wait_VVI for_IF someone_PN1 to_TO get_VVI out_II21 of_II22 the_AT way_NN1 ,_Y the_AT sun_NN1 to_TO come_VVI out_RP or_CC the_AT subject_NN1@_II21_JJ@ to_II@_II22 move_NN1 into_II the_AT correct_JJ position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   56 Digitally speaking , the image should be a faithful representation and the truth should not he altered .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   56 Digitally_RR speaking_VVG_JJ@ ,_Y the_AT image_NN1 should_VM be_VBI a_AT1 faithful_JJ representation_NN1 and_CC the_AT truth_NN1 should_VM not_XX he_PPHS1 altered_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   57 No element should be removed or added .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   57 No_XX element_NN1 should_VM be_VBI removed_VVN or_CC added_VVD_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   58 Cropping and sharpening is allowed and the cloning tool may be used to remove dust or scratches , only .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   58 Cropping_NN1 and_CC sharpening_VVG_NN1@ is_VBZ allowed_VVN and_CC the_AT cloning_NN1 tool_NN1 may_VM be_VBI used_VVN to_TO remove_VVI dust_NN1 or_CC scratches_NN2 ,_Y only_RR ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   59 <p> If possible travel with other photographers , as commercially conducted tours are not planned for photographers .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   59 <p>_Y If_CS possible_JJ travel_NN1 with_IW other_JJ photographers_NN2 ,_Y as_CSA_RG@ commercially_RR conducted_VVN_VVD tours_NN2 are_VBR not_XX planned_VVN for_IF photographers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   60 PSA has volunteers all over the globe who are willing to assist with photographic travel plans .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   60 PSA_NP1 has_VHZ volunteers_NN2 all_RR over_II the_AT globe_NN1 who_PNQS are_VBR willing_JJ to_TO assist_VVI with_IW photographic_JJ travel_NN1 plans_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   61 These members provide photograph in the planned areas .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   61 These_DD2 members_NN2 provide_VV0 photograph_VVI in_II the_AT planned_JJ@ areas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   62 Contact the Travel Aide Director , Ellie Webster , FPSA , and give the destination that 's planned .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   62 Contact_VV0 the_AT Travel_NN1 Aide_NN1 Director_NN1 ,_Y Ellie_NP1 Webster_NP1 ,_Y FPSA_NP1_NN1 ,_Y and_CC give_VV0 the_AT destination_NN1 that_CST_DD1 's_VBZ_VHZ@ planned_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   63 Ellie will provide the names , addresses , phone numbers and E-mail addresses of the volunteers for these areas .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   63 Ellie_NP1 will_VM provide_VVI the_AT names_NN2 ,_Y addresses_NN2_VVZ ,_Y phone_NN1_VV0@ numbers_NN2 and_CC E-mail_NN1_VV0@ addresses_NN2_VVZ of_IO the_AT volunteers_NN2 for_IF these_DD2 areas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   64 <p> Another idea would be to join a group of PSA travelers .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   64 <p>_Y Another_DD1 idea_NN1 would_VM be_VBI to_TO join_VVI a_AT1 group_NN1 of_IO PSA_NP1 travelers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   65 Travel and have fun !
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   65 Travel_VV0_NN1 and_CC have_VH0 fun_JJ_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   66 <p> In closing please consider entering local , national and international competitions .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   66 <p>_Y In_II closing_VVG please_RR consider_VV0 entering_VVG local_JJ ,_Y national_JJ and_CC international_JJ competitions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   67 Then evaluate the judge 's comments , and scores--listen and learn .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   67 Then_RT evaluate_VV0 the_AT judge_NN1 's_GE comments_NN2 ,_Y and_CC scores--listen_NN2 and_CC learn_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   68 <p> PHOTO ( COLOR ) : Mennonite boy <p> PHOTO ( COLOR ) : Moroccan mat maker <p> PHOTO ( COLOR ) : Fire starter <p> PHOTO ( COLOR ) : Fancy feet <p> PHOTO ( COLOR ) : Nepal water girls <p> PHOTO ( COLOR ) : Moroccan jug seller <p> PHOTO ( COLOR ) : Julia Belle <p> PHOTO ( COLOR ) : Morning chill <p> PHOTO ( COLOR ) : Old friends <p> PHOTO ( COLOR ) : Photos Lorette Burke , APSA <p> PHOTO ( COLOR ) : Any mention of products or services in this article or anywhere or approval of those items .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   68 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Mennonite_JJ boy_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Moroccan_JJ mat_NN1_JJ@ maker_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Fire_NN1_VV0@ starter_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Fancy_JJ_VV0 feet_NN2 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Nepal_NP1 water_NN1 girls_NN2 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Moroccan_JJ jug_NN1 seller_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Julia_NP1 Belle_NP1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Morning_NNT1 chill_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Old_JJ friends_NN2 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Photos_NN2 Lorette_NP1 Burke_NP1 ,_Y APSA_NP1_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Any_DD mention_NN1 of_IO products_NN2 or_CC services_NN2 in_II this_DD1 article_NN1 or_CC anywhere_RL or_CC approval_NN1 of_IO those_DD2 items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  A    0   69 <p> By Lorette Burke , APSA Collinsville , IL <p>
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071038 COCA  B    0   69 <p>_Y By_II Lorette_NP1 Burke_NP1 ,_Y APSA_NP1 Collinsville_NP1 ,_Y IL_FW <p>_Y

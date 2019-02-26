@@ -1,0 +1,104 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    0 In 1987 our local authority had a poetry competition .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    0 In_II 1987_MC our_APPGE local_JJ authority_NN1 had_VHD a_AT1 poetry_NN1 competition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    1 A linen porter in London , I handwrote two entries on A4 refill pad .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    1 A_AT1 linen_NN1 porter_NN1 in_II London_NP1 ,_Y I_PPIS1 handwrote_VV0 two_MC entries_NN2 on_II A4_FO refill_NN1_VV0 pad_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    2 One got second prize .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    2 One_PN1 got_VVD_VVN second_MD prize_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    3 The night of the ceremony the judge was locked in the administrator 's office with a quarter bottle of whiskey until a final decision was reached .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    3 The_AT night_NNT1 of_IO the_AT ceremony_NN1 the_AT judge_NN1 was_VBDZ locked_VVN in_II the_AT administrator_NN1 's_GE office_NN1 with_IW a_AT1 quarter_NN1 bottle_NN1 of_IO whiskey_NN1 until_CS_II@ a_AT1 final_JJ decision_NN1 was_VBDZ reached_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    4 A disgruntled also-ran snored theatrically in the front row and stopped only when the judge -- a sparrow-like man with the mother of all comb-overs -- informed him that he was a black belt in karate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    4 A_AT1_ZZ1 disgruntled_JJ also-ran_NN1 snored_VVD theatrically_RR in_II the_AT front_JJ_NN1 row_NN1 and_CC stopped_VVD_VVN only_RR when_CS_RRQ the_AT judge_NN1 --_NN1 a_AT1 sparrow-like_JJ man_NN1 with_IW the_AT mother_NN1 of_IO all_DB comb-overs_NN2 --_NN1 informed_VVD_VVN him_PPHO1 that_CST he_PPHS1 was_VBDZ a_AT1 black_JJ belt_NN1 in_II karate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    5 In the pub , the judge cashed a bad check for 50 , attempted to woo an ex-nun , and sang to my mother when that had n't worked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    5 In_II the_AT pub_NN1 ,_Y the_AT judge_NN1 cashed_VVD a_AT1 bad_JJ check_NN1 for_IF 50_MC ,_Y attempted_VVD_VVN to_TO woo_VVI an_AT1 ex-nun_NN1_JJ ,_Y and_CC sang_VVD to_II my_APPGE mother_NN1 when_CS_RRQ that_DD1 had_VHD n't_XX worked_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    6 He ended the night holding my hand and assuring me it was nothing homosexual .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    6 He_PPHS1 ended_VVD the_AT night_NNT1 holding_VVG my_APPGE hand_NN1 and_CC assuring_VVG me_PPIO1 it_PPH1 was_VBDZ nothing_PN1 homosexual_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    7 Michael Hartnett was born in West Limerick in 1941 and reared in part by a grandmother who was a native Gaelic speaker .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    7 Michael_NP1 Hartnett_NP1 was_VBDZ born_VVN in_II West_ND1 Limerick_NP1_NN1@ in_II 1941_MC and_CC reared_VVD_VVN in_RR21 part_RR22 by_II a_AT1 grandmother_NN1 who_PNQS was_VBDZ a_AT1 native_JJ Gaelic_JJ speaker_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    8 He had no academic background .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    8 He_PPHS1 had_VHD no_AT academic_JJ background_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0    9 He was a tea boy , a telephonist , and a security guard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0    9 He_PPHS1 was_VBDZ a_AT1 tea_NN1 boy_NN1 ,_Y a_AT1 telephonist_NN1 ,_Y and_CC a_AT1 security_NN1 guard_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   10 He published a few acclaimed books solely in Gaelic with the beautiful collection A Farewell to English .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   10 He_PPHS1 published_VVD a_AT1 few_DA2 acclaimed_JJ books_NN2 solely_RR in_II Gaelic_JJ_NN1@ with_IW the_AT beautiful_JJ collection_NN1 A_ZZ1_AT1@ Farewell_NN1 to_II English_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   11 His resolve lasted ten years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   11 His_APPGE resolve_NN1@ lasted_VVD ten_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   12 He returned to Dublin and the " language to sell pigs in , " dying a minor celebrity in 1999 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   12 He_PPHS1 returned_VVD to_II Dublin_NP1 and_CC the_AT "_Y language_NN1 to_TO sell_VVI pigs_NN2 in_RP@_II ,_Y "_Y dying_VVG a_AT1 minor_JJ celebrity_NN1 in_II 1999_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   13 Every poet , to continue being one , has to work with the delusion that s/he is a one-off , an autonomous sui generis maverick undermining the hypocrisies of society from its lawless fringes etc .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   13 Every_AT1 poet_NN1 ,_Y to_TO continue_VVI being_VBG one_PN1_MC1 ,_Y has_VHZ to_TO work_VVI with_IW the_AT delusion_NN1 that_CST s/he_PPHS1 is_VBZ a_AT1 one-off_NN1_JJ ,_Y an_AT1 autonomous_JJ sui_JJ21 generis_JJ22 maverick_NN1 undermining_VVG the_AT hypocrisies_NN2 of_IO society_NN1 from_II its_Z' lawless_JJ fringes_NN2 etc_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   14 I know I do , and I 'm not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   14 I_PPIS1 know_VV0 I_PPIS1 do_VD0 ,_Y and_CC I_PPIS1 'm_VBM not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   15 You 're not either .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   15 You_PPY 're_VBR not_XX either_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   16 And by " you " I mean you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   16 And_CC by_II "_Y you_PPY "_Y I_PPIS1 mean_VV0 you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   17 Yes , you ... you 're not the outlaw you think you are .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   17 Yes_UH ,_Y you_PPY ..._... you_PPY 're_VBR not_XX the_AT outlaw_NN1 you_PPY think_VV0 you_PPY are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   18 Sure , you make the occasional eccentric life-choice that serves only to flatter your sense of otherness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   18 Sure_RR ,_Y you_PPY make_VV0 the_AT occasional_JJ eccentric_JJ life-choice_NN1 that_CST_DD1 serves_VVZ only_RR to_TO_II flatter_VVI your_APPGE sense_NN1 of_IO otherness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   19 But when the dust settles I bet you go back , as we all do , to your patio furniture and your pension plan and your DVD collection .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   19 But_CCB when_CS the_AT dust_NN1 settles_VVZ I_PPIS1 bet_VV0 you_PPY go_VV0 back_RP ,_Y as_CSA we_PPIS2 all_DB_RR@ do_VD0 ,_Y to_II your_APPGE patio_NN1 furniture_NN1 and_CC your_APPGE pension_NN1 plan_NN1 and_CC your_APPGE DVD_NP1 collection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   20 Hartnett lived the dream , or the nightmare it increasingly looked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   20 Hartnett_NP1 lived_VVD the_AT dream_NN1 ,_Y or_CC the_AT nightmare_NN1 it_PPH1 increasingly_RR looked_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   21 Neither wholly admirable nor wholly laughable , he could be glimpsed in a hostelry , comb-over askew , in Humphrey 's of Ranelagh , where pretenders had their latest drafts dismissed for a round of drinks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   21 Neither_RR wholly_RR admirable_JJ nor_CC wholly_RR laughable_JJ ,_Y he_PPHS1 could_VM be_VBI glimpsed_VVN in_II a_AT1 hostelry_NN1 ,_Y comb-over_JJ askew_JJ ,_Y in_II Humphrey_NP1 's_VBZ_GE of_IO Ranelagh_NP1_NN1 ,_Y where_CS_RRQ pretenders_NN2 had_VHD their_APPGE latest_JJT drafts_NN2 dismissed_VVN_VVD for_IF a_AT1 round_NN1@_JJ of_IO drinks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   22 He did that thing we all fantasize but never do : he famously stopped a reading that was too long and too boring .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   22 He_PPHS1 did_VDD that_DD1 thing_NN1 we_PPIS2 all_DB fantasize_VV0_JJ@ but_CCB never_RR do_VD0 :_Y he_PPHS1 famously_RR stopped_VVN_VVD a_AT1 reading_NN1 that_CST_DD1 was_VBDZ too_RG long_JJ and_CC too_RG boring_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   23 A three-hander in Sardinia or Majorca or another oddly exotic location to where the local burghers sometimes invite Irish poets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   23 A_AT1_ZZ1 three-hander_NN1_JJ in_II Sardinia_NP1 or_CC Majorca_NP1 or_CC another_DD1 oddly_RR exotic_JJ location_NN1 to_II where_RRQ the_AT local_JJ burghers_NN2 sometimes_RT invite_VV0 Irish_JJ poets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   24 First up was a provincial modernist who read for an hour and ten until Hartnett stomped down the center aisle like Moses in the Red Sea , halting proceedings on the grounds that it was all one big fiasco .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   24 First_MD up_RP was_VBDZ a_AT1 provincial_JJ modernist_NN1@ who_PNQS read_VV0_VVD for_IF an_AT1 hour_NNT1 and_CC ten_MC until_CS_II@ Hartnett_NP1 stomped_VVD down_RP the_AT center_NN1 aisle_NN1 like_II Moses_NP1 in_II the_AT Red_NP1 Sea_NNL1 ,_Y halting_VVG_JJ proceedings_NN2 on_II the_AT grounds_NN2 that_CST it_PPH1 was_VBDZ all_RR@_DB one_MC1 big_JJ fiasco_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   25 Amen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   25 Amen_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   26 Favorite Hartnett yarn ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   26 Favorite_JJ_NN1 Hartnett_NP1 yarn_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   27 Sometime in the nineties an Irish Studies conference was hosted by the University of Limerick .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   27 Sometime_RT_JJ in_II the_AT nineties_MC2 an_AT1 Irish_JJ Studies_NN2 conference_NN1 was_VBDZ hosted_VVN by_II the_AT University_NN1 of_IO Limerick_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   28 The local laureate gave a plenary reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   28 The_AT local_JJ laureate_NN1 gave_VVD a_AT1 plenary_JJ reading_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   29 The speaker immediately preceding had used an old-fashioned overhead projector that Hartnett , not big on technology , mistook for his lectern and microphone .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   29 The_AT speaker_NN1 immediately_RR_CS@ preceding_VVG_JJ had_VHD used_VVN an_AT1 old-fashioned_JJ overhead_JJ_NN1 projector_NN1 that_CST Hartnett_NP1 ,_Y not_XX big_JJ_RR% on_II technology_NN1 ,_Y mistook_VVD for_IF his_APPGE lectern_NN1 and_CC microphone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   30 He laid his pages on the magnifying glass panel and spoke his poems into the projector 's lamp .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   30 He_PPHS1 laid_VVD his_APPGE pages_NN2 on_II the_AT magnifying_JJ@_NN1@ glass_NN1 panel_NN1 and_CC spoke_VVD his_APPGE poems_NN2 into_II the_AT projector_NN1 's_GE lamp_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   31 A combination of its bulk and his diminutive stature meant that not only was invisible as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   31 A_AT1 combination_NN1 of_IO its_Z' bulk_NN1 and_CC his_APPGE diminutive_JJ_NN1 stature_NN1 meant_VVD_VVN that_CST_DD1 not_XX only_RR was_VBDZ invisible_JJ as_RR21_CSA well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   32 Whenever it came to lines of importance or of particular emotional intensity , he would lean into the projector 's bulb and whisper .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   32 Whenever_RRQV it_PPH1 came_VVD to_II lines_NN2 of_IO importance_NN1 or_CC of_IO particular_JJ emotional_JJ intensity_NN1 ,_Y he_PPHS1 would_VM lean_VVI into_II the_AT projector_NN1 's_GE bulb_NN1 and_CC whisper_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   33 A collective giggle began murmuring around the audience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   33 A_AT1_ZZ1 collective_JJ_NN1 giggle_NN1 began_VVD murmuring_VVG around_II_RP the_AT audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   34 Eventually Hartnett peered from behind the apparatus and asked rhetorically of the darkened auditorium , " What the fuck are you laughing at ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   34 Eventually_RR Hartnett_NP1 peered_VVD from_II behind_II_RL@ the_AT apparatus_NN1 and_CC asked_VVD rhetorically_RR of_IO the_AT darkened_JJ auditorium_NN1 ,_Y "_Y What_DDQ the_AT fuck_NN1 are_VBR you_PPY laughing_VVG at_II ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   35 " I last saw him read in the Abbey Theatre in 1995 , a gala reading hosted by Seamus Heaney only months off the Nobel Prize .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   35 "_Y I_PPIS1_MC1@ last_MD saw_VVD him_PPHO1 read_VVI in_II the_AT Abbey_NN1 Theatre_NN1 in_II 1995_MC ,_Y a_AT1 gala_NN1 reading_NN1 hosted_VVN by_II Seamus_NP1 Heaney_NP1 only_JJ months_NNT2 off_II the_AT Nobel_NP1 Prize_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   36 Our president was guest of honor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   36 Our_APPGE president_NN1 was_VBDZ guest_NN1 of_IO honor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   37 Hartnett made several barbed asides towards the MC and poets masquerading as diplomats , intent on making it a heavyweight contest .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   37 Hartnett_NP1 made_VVD several_DA2 barbed_JJ asides_NN2 towards_II the_AT MC_NN1 and_CC poets_NN2 masquerading_VVG as_CSA_II@ diplomats_NN2 ,_Y intent_NN1_JJ on_II making_VVG it_PPH1 a_AT1 heavyweight_NN1 contest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   38 Heaney correctly pointed out his glaring historical inaccuracies and the Irish Times poked fun at Hartnett 's expense the following morning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   38 Heaney_NN1_NP1@ correctly_RR pointed_VVN_VVD out_RP his_APPGE glaring_JJ historical_JJ inaccuracies_NN2 and_CC the_AT Irish_JJ Times_NNT2 poked_JJ@_VVD fun_NN1_JJ at_II Hartnett_NP1 's_GE expense_NN1 the_AT following_JJ morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   39 It was kamikaze , a David-and-Goliath mismatch in which David had n't a prayer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   39 It_PPH1 was_VBDZ kamikaze_NN1 ,_Y a_AT1 David-and-Goliath_NP1 mismatch_NN1 in_II which_DDQ David_NP1 had_VHD n't_XX a_AT1 prayer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   40 But you had to warm to him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   40 But_CCB you_PPY had_VHD to_TO warm_VVI to_II him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   41 Nobody else would have had the balls .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   41 Nobody_PN1 else_RR would_VM have_VHI had_VHN@ the_AT balls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   42 When he died , the scribblers of Ireland tripped over one another to elegize him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   42 When_CS_RRQ he_PPHS1 died_VVD ,_Y the_AT scribblers_NN2 of_IO Ireland_NP1 tripped_VVD over_II one_PPX121 another_PPX122 to_TO elegize_VVI him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   43 Two anthologies of poems and -- love lyrics , Bardic translations , scurrilous satires -- got prattled up into a major body of work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   43 Two_MC anthologies_NN2 of_IO poems_NN2 and_CC --_ZZ love_NN1 lyrics_NN2 ,_Y Bardic_JJ_NP1 translations_NN2 ,_Y scurrilous_JJ satires_NN2 --_NN1 got_VVD_VVN prattled_VVN up_RP into_II a_AT1 major_JJ body_NN1 of_IO work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   44 Someone once told me that he boasted of having discovered me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   44 Someone_PN1 once_RR told_VVD_VVN me_PPIO1 that_CST he_PPHS1 boasted_VVD of_IO having_VHG discovered_VVN me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   45 He had , but there are innumerable greater boasts and Hartnett could have laid claim to a few .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   45 He_PPHS1 had_VHD ,_Y but_CCB there_EX are_VBR innumerable_JJ greater_JJR boasts_NN2 and_CC Hartnett_NP1 could_VM have_VHI laid_VVN claim_NN1_VV0 to_II a_AT1 few_DA2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   46 Someone else said that he died of cirrhosis of the liver , the condition all poets kid one another about but never develop .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   46 Someone_PN1 else_RR said_VVD_VVN@ that_CST he_PPHS1 died_VVD of_IO cirrhosis_NN1 of_IO the_AT liver_NN1 ,_Y the_AT condition_NN1 all_DB poets_NN2 kid_VV0@_NN1 one_PPX121 another_PPX122 about_RP@_II but_CCB never_RR develop_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   47 I thought of checking that out , and then thought again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   47 I_PPIS1_MC1@ thought_VVD of_IO checking_VVG that_DD1 out_RP ,_Y and_CC then_RT thought_VVD_VVN again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   48 It seemed too apt , too poetic , to research into error .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   48 It_PPH1 seemed_VVD too_RG apt_JJ ,_Y too_RG poetic_JJ ,_Y to_TO research_VVI into_II error_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   49 So let 's just say that and leave it there .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   49 So_RR let_VM21 's_VM22 just_RR say_VVI that_DD1 and_CC leave_VVI it_PPH1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   50 Let 's say he died of cirrhosis of the liver , and that if he did n't he certainly should have done .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   50 Let_VM21 's_VM22 say_VVI he_PPHS1 died_VVD of_IO cirrhosis_NN1 of_IO the_AT liver_NN1 ,_Y and_CC that_CST_DD1 if_CS he_PPHS1 did_VDD n't_XX he_PPHS1 certainly_RR should_VM have_VHI done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  A    0   51 By Conor O'Callaghan
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080210 COCA  B    0   51 By_II Conor_NP1 O'Callaghan_NP1

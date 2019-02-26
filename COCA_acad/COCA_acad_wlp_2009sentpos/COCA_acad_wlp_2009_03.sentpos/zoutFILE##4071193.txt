@@ -1,0 +1,212 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    0 I 'M ADDICTED TO agent blogs--Pub Rants , The Rejecter , Agent in the Middle , Ask Daphne !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    0 I_PPIS1 'M_VBM ADDICTED_VVN TO_II agent_NN1 blogs--Pub_NN2 Rants_NN2_NP1 ,_Y The_AT Rejecter_NN1_NP1 ,_Y Agent_NN1 in_II the_AT Middle_NN1_JJ ,_Y Ask_VV0 Daphne_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    1 When Miss Snark shut down , I cried .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    1 When_CS_RRQ Miss_NNB Snark_NP1 shut_VVD down_RP ,_Y I_PPIS1 cried_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    2 Prospecting for trends like a dowser with a divining rod , I feed daily on Publishers Lunch .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    2 Prospecting_VVG for_IF trends_NN2 like_II a_AT1 dowser_NN1 with_IW a_AT1 divining_JJ@_NN1@ rod_NN1 ,_Y I_PPIS1 feed_VV0 daily_RR_JJ on_II Publishers_NN2 Lunch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    3 Writing don'ts are right up there with the Ten Commandments .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    3 Writing_VVG_NN1 don'ts_NN2 are_VBR right_JJ up_RP_II@ there_RL with_IW the_AT Ten_M Commandments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    4 Thou shalt not brag .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    4 Thou_PPY shalt_VM not_XX brag_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    5 Or beg .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    5 Or_CC beg_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    6 <p> I have written three manuscripts in three years , each one building on what I 've learned .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    6 <p>_Y I_PPIS1 have_VH0 written_VVN three_MC manuscripts_NN2 in_II three_MC years_NNT2 ,_Y each_DD1 one_MC1 building_VVG@ on_II what_DDQ I_PPIS1 've_VH0 learned_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    7 As the rejections moved from forms to personal comments to revision requests , but still kept coming , I studied with increasing fervor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    7 As_II_CSA the_AT rejections_NN2 moved_VVN_VVD from_II forms_NN2 to_II personal_JJ comments_NN2 to_II revision_NN1 requests_NN2 ,_Y but_CCB still_RR kept_VVN_VVD coming_VVG_JJ@ ,_Y I_PPIS1 studied_VVD with_IW increasing_JJ fervor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    8 I reread Bird by Bird .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    8 I_PPIS1 reread_VV0_VVD Bird_NN1_NP1 by_II Bird_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0    9 I called on the spirit of Miss Snark while drinking gin and wearing stilettos .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0    9 I_PPIS1 called_VVD on_II the_AT spirit_NN1 of_IO Miss_NNB Snark_NP1 while_CS drinking_VVG_NN1 gin_NN1 and_CC wearing_VVG stilettos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   10 Nothing helped .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   10 Nothing_PN1 helped_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   11 <p> " You know too much , " one of my critique partners finally said .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   11 <p>_Y "_Y You_PPY know_VV0 too_RG much_DA1_RR ,_Y "_Y one_MC1 of_IO my_APPGE critique_NN1 partners_NN2 finally_RR said_VVD_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   12 " You 've stopped following your gut : ' Clich , my mind pinged , always on auto-edit .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   12 "_Y You_PPY 've_VH0 stopped_VVN following_II@_VVG your_APPGE gut_NN1 :_Y '_GE Clich_NN1_NP1 ,_Y my_APPGE mind_NN1 pinged_VVD ,_Y always_RR on_II auto-edit_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   13 I wanted to argue , but I knew she was right .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   13 I_PPIS1 wanted_VVD to_TO argue_VVI ,_Y but_CCB I_PPIS1 knew_VVD she_PPHS1 was_VBDZ right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   14 Maybe this happens to all of us who have .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   14 Maybe_RR this_DD1 happens_VVZ to_II@ all_DB of_IO us_PPIO2 who_PNQS have_VH0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   15 We adjust to the ever-changing market .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   15 We_PPIS2 adjust_VV0 to_II the_AT ever-changing_JJ market_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   16 We revise for all the wrong reasons .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   16 We_PPIS2 revise_VV0 for_IF all_DB the_AT wrong_JJ reasons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   17 I knew it was time for something drastic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   17 I_PPIS1 knew_VVD it_PPH1 was_VBDZ time_NNT1 for_IF something_PN1 drastic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   18 Give up blogs , stop writing for the masses , and start taking chances .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   18 Give_VV0 up_RP blogs_NN2_VVZ ,_Y stop_VV0_NN1 writing_VVG_NN1 for_IF the_AT masses_NN2 ,_Y and_CC start_VV0_NN1 taking_VVG chances_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   19 <p> Risk-taking is n't my strength , I buy clothes in color-coordinated ensembles , print out Google maps to every location , and always buy movie tickets in advance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   19 <p>_Y Risk-taking_NN1 is_VBZ n't_XX my_APPGE strength_NN1 ,_Y I_PPIS1 buy_VV0 clothes_NN2 in_II color-coordinated_JJ_NN1 ensembles_NN2 ,_Y print_VV0 out_RP Google_NN1_NP1_VV0 maps_NN2 to_II every_AT1 location_NN1 ,_Y and_CC always_RR buy_VV0 movie_NN1 tickets_NN2 in_II advance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   20 When a more adventurous ( and published ) friend told me that skydiving was the pinnacle of fear-busting , my level of panic told me it was just the thing to do .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   20 When_CS a_AT1 more_RGR adventurous_JJ (_Y and_CC published_VVN_VVD_JJ@ )_Y friend_NN1 told_VVD me_PPIO1 that_DD1_CST skydiving_NN1@ was_VBDZ the_AT pinnacle_NN1 of_IO fear-busting_NN1_JJ ,_Y my_APPGE level_NN1 of_IO panic_NN1 told_VVD me_PPIO1 it_PPH1 was_VBDZ just_RR the_AT thing_NN1 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   21 So I booked my appointment at Skydive Spaceland in the Houston area .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   21 So_RR I_PPIS1 booked_VVD my_APPGE appointment_NN1 at_II Skydive_NP1 Spaceland_NP1 in_II the_AT Houston_NP1 area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   22 Certainly the jump would jog something inside , turn loose some inner genius who could guide me past my careful middle-river steering and into something more meaningful and real .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   22 Certainly_RR the_AT jump_NN1 would_VM jog_VVI something_PN1 inside_RL ,_Y turn_VV0_NN1 loose_RR@_VV0@ some_DD inner_JJ genius_NN1 who_PNQS could_VM guide_VVI me_PPIO1 past_II_RL my_APPGE careful_JJ middle-river_JJ_NN1 steering_NN1_VVG and_CC into_II something_PN1 more_RGR_DAR meaningful_JJ and_CC real_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   23 <p> I blame the hotel 's light-blocking curtains for my waking late the morning of the big day .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   23 <p>_Y I_PPIS1 blame_VV0 the_AT hotel_NN1 's_GE light-blocking_JJ_NN1 curtains_NN2 for_IF my_APPGE waking_NN1_VVG late_RR the_AT morning_NNT1 of_IO the_AT big_JJ day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   24 Emily Dickinson ran through my head as I dashed madly into the shower .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   24 Emily_NP1 Dickinson_NP1 ran_VVD through_II_RP@ my_APPGE head_NN1 as_CSA I_PPIS1 dashed_VVD madly_RR into_II the_AT shower_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   25 Because I could not stop for Death-- / He kindly stopped for parachute entangled in my klutzoid legs , the lines slicing into me as I fell like a stone .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   25 Because_CS I_PPIS1 could_VM not_XX stop_VVI for_IF Death--_NN1_JJ /_FO He_PPHS1 kindly_RR stopped_VVN_VVD for_IF parachute_NN1 entangled_VVN in_II my_APPGE klutzoid_JJ_NN1 legs_NN2 ,_Y the_AT lines_NN2 slicing_VVG into_II me_PPIO1 as_CSA I_PPIS1 fell_VVD like_II a_AT1 stone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   26 Soap ran in my eye .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   26 Soap_NN1 ran_VVD in_II_RP@ my_APPGE eye_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   27 My last shampoo , I thought , then realized with a jolt that my legs felt kind of prickly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   27 My_APPGE last_MD shampoo_NN1 ,_Y I_PPIS1 thought_VVD ,_Y then_RT realized_VVN_VVD with_IW a_AT1 jolt_NN1 that_CST my_APPGE legs_NN2 felt_VVD_VVN kind_NN1_RR21% of_IO_RR22 prickly_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   28 <p> " Time to go !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   28 <p>_Y "_Y Time_NNT1 to_TO go_VVI !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   29 " The friend I enlisted to aid and abet was hollering from the room .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   29 "_Y The_AT friend_NN1 I_PPIS1 enlisted_VVD to_TO aid_VVI and_CC abet_NN1 was_VBDZ hollering_VVG from_II the_AT room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   30 My friend banged on the bathroom door .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   30 My_APPGE friend_NN1 banged_VVN_VVD on_II the_AT bathroom_NN1 door_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   31 " Deanna !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   31 "_Y Deanna_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   32 " Too late .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   32 "_Y Too_RG late_JJ_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   33 I shut off the water and rapidly dried and dressed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   33 I_PPIS1 shut_VV0_VVD off_RP_II the_AT water_NN1 and_CC rapidly_RR dried_VVN_JJ_VVD and_CC dressed_VVN_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   34 I would not be able to shave my legs before dying .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   34 I_PPIS1 would_VM not_XX be_VBI able_JK to_TO shave_VVI my_APPGE legs_NN2 before_II dying_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   35 <p> We ran down the halls of the hotel , and I realized that this is how every adventure should begin--in a big rush with loose ends waving in every direction .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   35 <p>_Y We_PPIS2 ran_VVD down_RP the_AT halls_NN2 of_IO the_AT hotel_NN1 ,_Y and_CC I_PPIS1 realized_VVD that_CST this_DD1 is_VBZ how_RRQ every_AT1 adventure_NN1 should_VM begin--in_NN1 a_AT1 big_JJ rush_NN1 with_IW loose_JJ ends_NN2 waving_VVG in_II_RP@ every_AT1 direction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   36 Planning too hard and thinking too much were deadly to taking risks .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   36 Planning_VVG_NN1 too_RG hard_JJ_RR and_CC thinking_VVG too_RG much_RR were_VBDR deadly_JJ to_II taking_VVG risks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   37 I should have skipped Writing to Sell and stuck to the hero 's journey .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   37 I_PPIS1 should_VM have_VHI skipped_VVN@ Writing_VVG_NN1 to_TO_II Sell_VV0 and_CC stuck_VVN_VVD to_II the_AT hero_NN1 's_GE journey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   38 After all , art imitates life , not commercials .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   38 After_II all_DB ,_Y art_NN1 imitates_VVZ life_NN1 ,_Y not_XX commercials_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   39 <p> As we approached the hangar , colored parachutes dotted the sky .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   39 <p>_Y As_CSA we_PPIS2 approached_VVD the_AT hangar_NN1 ,_Y colored_VVD_JJ@ parachutes_NN2 dotted_VVD_VVN the_AT sky_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   40 I filled out my training video .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   40 I_PPIS1 filled_VVD out_RP my_APPGE training_NN1 video_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   41 We learned how to arch our backs , read our altimeters , and interpret hand signals .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   41 We_PPIS2 learned_VVD how_RRQ_RGQ@ to_II_TO arch_NN1_JJ our_APPGE backs_NN2 ,_Y read_VVD_VV0 our_APPGE altimeters_NN2 ,_Y and_CC interpret_VV0 hand_NN1 signals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   42 Then the smiling narrator filled me with doom : I was expected to pull my own rip cord .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   42 Then_RT the_AT smiling_JJ narrator_NN1 filled_VVD me_PPIO1 with_IW doom_NN1 :_Y I_PPIS1 was_VBDZ expected_VVN to_TO pull_VVI my_APPGE own_DA rip_NN1 cord_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   43 I nearly fainted .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   43 I_PPIS1 nearly_RR fainted_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   44 This was supposed to be a joyride .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   44 This_DD1 was_VBDZ supposed_JJ to_TO be_VBI a_AT1 joyride_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   45 I 'd get strapped to an experienced jumper , smile for the camera , and sail down on someone else 's very competent skill set .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   45 I_PPIS1 'd_VM get_VVI strapped_VVN to_II an_AT1 experienced_JJ jumper_NN1 ,_Y smile_VV0_NN1 for_IF the_AT camera_NN1 ,_Y and_CC sail_VV0 down_RP on_II someone_PN1 else_RR 's_VBZ very_RG competent_JJ skill_NN1 set_NN1_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   46 I did n't want to be responsible for saving myself .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   46 I_PPIS1 did_VDD n't_XX want_VVI to_TO be_VBI responsible_JJ for_IF saving_VVG myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   47 " Do n't forget why you 're doing this " my friend whispered .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   47 "_Y Do_VD0 n't_XX forget_VVI why_RRQ you_PPY 're_VBR doing_VDG this_DD1 "_Y my_APPGE friend_NN1 whispered_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   48 Right , I thought .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   48 Right_RR_NN1 ,_Y I_PPIS1 thought_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   49 I needed to trust myself .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   49 I_PPIS1 needed_VVD to_TO trust_VVI myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   50 This was a first step toward personal and literary independence .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   50 This_DD1 was_VBDZ a_AT1 first_MD step_NN1_VV0 toward_II personal_JJ and_CC literary_JJ independence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   51 <p> Matt , my tandem instructor , introduced himself and handed me a skydiving suit .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   51 <p>_Y Matt_NP1 ,_Y my_APPGE tandem_NN1 instructor_NN1 ,_Y introduced_VVD_VVN himself_PPX1 and_CC handed_VVD me_PPIO1 a_AT1 skydiving_JJ@_NN1@ suit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   52 " Here 's what you need to remember , " he said .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   52 "_Y Here_RL 's_VBZ what_DDQ you_PPY need_VV0 to_TO remember_VVI ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   53 " Look , wave and throw " He strapped an altimeter to my wrist .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   53 "_Y Look_VV0 ,_Y wave_NN1 and_CC throw_VV0_NN1 "_Y He_PPHS1 strapped_VVD an_AT1 altimeter_NN1_JJR to_II my_APPGE wrist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   54 " This is where you look .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   54 "_Y This_DD1 is_VBZ where_RRQ_CS you_PPY look_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   55 When it says 6,000 , you wave , then reach behind me to throw the chute feel the golf-ball-shaped release on his thigh .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   55 When_CS_RRQ it_PPH1 says_VVZ 6,000_MC ,_Y you_PPY wave_VV0@ ,_Y then_RT reach_VV0 behind_II me_PPIO1 to_TO throw_VVI the_AT chute_NN1 feel_VVI the_AT golf-ball-shaped_JJ_NN1 release_NN1 on_II his_APPGE thigh_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   56 " Nothing to it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   56 "_Y Nothing_PN1 to_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   57 " <p> I had already forgotten everything he said .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   57 "_Y <p>_Y I_PPIS1 had_VHD already_RR forgotten_VVN everything_PN1 he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   58 He buckled a harness on me and led me over to the plane .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   58 He_PPHS1 buckled_VVD a_AT1 harness_NN1 on_II me_PPIO1 and_CC led_VVD me_PPIO1 over_RP to_II the_AT plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   59 Wait !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   59 Wait_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   60 I thought .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   60 I_PPIS1 thought_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   61 What was the altitude ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   61 What_DDQ was_VBDZ the_AT altitude_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   62 Is the wave important ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   62 Is_VBZ the_AT wave_NN1 important_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   63 Should n't we go over it again ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   63 Should_VM n't_XX we_PPIS2 go_VVI over_II_RP it_PPH1 again_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   64 Like maybe 40 times ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   64 Like_VV0@_II maybe_RR 40_MC times_NNT2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   65 <p> The engine roared and we took off , a dozen skydivers lined up on two narrow benches .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   65 <p>_Y The_AT engine_NN1 roared_VVD_VVN@ and_CC we_PPIS2 took_VVD off_RP ,_Y a_AT1 dozen_M skydivers_NN2 lined_VVN_VVD@ up_RP on_II two_MC narrow_JJ benches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   66 Matt told nonstop jokes to keep me calm .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   66 Matt_NP1 told_VVD nonstop_JJ_RR jokes_NN2_VVZ@ to_TO keep_VVI me_PPIO1 calm_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   67 I became quite sure I did n't need to do this after all .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   67 I_PPIS1 became_VVD quite_RG sure_JJ_RR% I_PPIS1 did_VDD n't_XX need_VVI to_TO do_VDI this_DD1 after_II all_DB ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   68 Symbolism .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   68 Symbolism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   69 This could simply be a gesture--a literary device .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   69 This_DD1 could_VM simply_RR be_VBI a_AT1 gesture--a_NN1 literary_JJ device_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   70 I did n't actually have to jump any more than J.K. Rowling needed to fly on a broom .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   70 I_PPIS1 did_VDD n't_XX actually_RR have_VHI to_TO jump_VVI any_DD more_DAR than_CSN J.K._NP1 Rowling_NP1 needed_VVD to_TO fly_VVI on_II_RP@ a_AT1 broom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   71 I tried to stand , to turn to my instructor and say , " Never mind : ' But we were already hooked together .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   71 I_PPIS1 tried_VVD to_TO stand_VVI ,_Y to_TO turn_VVI to_II my_APPGE instructor_NN1 and_CC say_VVI ,_Y "_Y Never_RR mind_VV0 :_Y '_GE_"@ But_CCB we_PPIS2 were_VBDR already_RR hooked_VVN together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   72 We could only move in tandem .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   72 We_PPIS2 could_VM only_RR move_VVI in_II tandem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   73 Ahead of us , solo jumpers disappeared from the front of the plane like synchronized swimmers diving into a pool .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   73 Ahead_II21 of_II22 us_PPIO2 ,_Y solo_NN1_JJ@_RR jumpers_NN2 disappeared_VVD_VVN@ from_II the_AT front_NN1 of_IO the_AT plane_NN1 like_II synchronized_JJ@ swimmers_NN2 diving_VVG into_II a_AT1 pool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   74 Suddenly woes really were over .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   74 Suddenly_RR woes_NN2 really_RR were_VBDR over_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   75 But I had n't shaved my legs .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   75 But_CCB I_PPIS1 had_VHD n't_XX shaved_VVN my_APPGE legs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   76 <p> We hobbled toward the door , turned sideways , and then--as simple as falling out of a chair--we were belly-down in the air , arms outstretched , hurtling in a way that felt more like a windstorm than a free fall .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   76 <p>_Y We_PPIS2 hobbled_VVD toward_II the_AT door_NN1 ,_Y turned_VVD_VVN sideways_RL ,_Y and_CC then--as_RG@_CSA simple_JJ as_CSA falling_VVG out_II21 of_II22 a_AT1 chair--we_PPIS2 were_VBDR belly-down_JJ_NN1 in_II the_AT air_NN1 ,_Y arms_NN2_VVZ% outstretched_JJ ,_Y hurtling_VVG in_II_RP@ a_AT1 way_NN1 that_CST felt_VVD more_RRR_DAR like_II a_AT1 windstorm_NN1 than_CSN a_AT1 free_JJ fall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   77 My brain had been erased .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   77 My_APPGE brain_NN1 had_VHD been_VBN erased_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   78 Matt kept pushing me one way or the other , trying to get me to angle with him .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   78 Matt_NP1 kept_VVD pushing_VVG me_PPIO1 one_MC1 way_NN1 or_CC the_AT other_JJ_NN1@ ,_Y trying_VVG to_TO get_VVI me_PPIO1 to_TO angle_VVI with_IW him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   79 The wind blasted my goggles against my cheeks , and I had no sensation of plummeting toward the earth , only rushing air .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   79 The_AT wind_NN1 blasted_VVD my_APPGE goggles_NN2 against_II my_APPGE cheeks_NN2 ,_Y and_CC I_PPIS1 had_VHD no_AT sensation_NN1 of_IO plummeting_VVG_JJ toward_II the_AT earth_NN1 ,_Y only_RR rushing_VVG_JJ@ air_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   80 I was n't sure how to breathe .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   80 I_PPIS1 was_VBDZ n't_XX sure_JJ_RR% how_RRQ to_TO breathe_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   81 Nothing worked anymore--my eyes , my mouth , my arms .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   81 Nothing_PN1 worked_VVD anymore--my_APPGE eyes_NN2 ,_Y my_APPGE mouth_NN1 ,_Y my_APPGE arms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   82 I had no idea which way was up or down .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   82 I_PPIS1 had_VHD no_AT idea_NN1 which_DDQ way_NN1 was_VBDZ up_RP or_CC down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   83 <p> Matt forced me to bring the altimeter to my face .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   83 <p>_Y Matt_NP1 forced_VVD me_PPIO1 to_TO bring_VVI the_AT altimeter_NN1_JJR to_II my_APPGE face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   84 It read 6,000 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   84 It_PPH1 read_VVD 6,000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   85 Something was supposed to happen then , but the instructional video was cons ago and by the time I could summon the " throw " part of my training , Matt , having a vested interest in the chute opening myself for this , because everything had slowed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   85 Something_PN1 was_VBDZ supposed_JJ to_TO happen_VVI then_RT ,_Y but_CCB the_AT instructional_JJ video_NN1 was_VBDZ cons_NN2 ago_RA and_CC by_II the_AT time_NNT1 I_PPIS1 could_VM summon_VVI the_AT "_Y throw_NN1 "_Y part_NN1 of_IO my_APPGE training_NN1 ,_Y Matt_NP1 ,_Y having_VHG a_AT1 vested_JJ interest_NN1 in_II the_AT chute_NN1 opening_NN1_VVG myself_PPX1 for_IF this_DD1 ,_Y because_CS everything_PN1 had_VHD slowed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   86 I was flying--literally flying--and it was impossible to do anything but stare at the sun-blazed world .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   86 I_PPIS1 was_VBDZ flying--literally_RR flying--and_CC it_PPH1 was_VBDZ impossible_JJ to_TO do_VDI anything_RR21 but_RR22 stare_VVI at_II the_AT sun-blazed_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   87 The air slipped from chilly to warm as we passed through a cloud .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   87 The_AT air_NN1 slipped_VVD_VVN@ from_II chilly_JJ to_TO warm_VVI as_CSA we_PPIS2 passed_VVD through_II_RP@ a_AT1 cloud_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   88 Matt showed me how to control the handles of the chute and do 360s and , by God , I could do them !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   88 Matt_NP1 showed_VVD me_PPIO1 how_RRQ to_TO control_VVI the_AT handles_NN2 of_IO the_AT chute_NN1 and_CC do_VD0 360s_MC2 and_CC ,_Y by_II God_NP1 ,_Y I_PPIS1 could_VM do_VDI them_PPHO2 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   89 I realized that the hurtling fall was supposed to lead to this moment , the abandon shifting into control .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   89 I_PPIS1 realized_VVD that_CST the_AT hurtling_JJ@_NN1@ fall_NN1 was_VBDZ supposed_JJ to_TO lead_VVI to_II this_DD1 moment_NN1 ,_Y the_AT abandon_NN1@ shifting_VVG_NN1 into_II control_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   90 <p> The ground came closer , and Matt reminded me how to land .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   90 <p>_Y The_AT ground_NN1 came_VVD closer_RRR_JJR ,_Y and_CC Matt_NP1 reminded_VVD me_PPIO1 how_RRQ to_TO land_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   91 We rehearsed the sequence so that as we approached , I easily lifted my legs , pulled the cords to slow the descent , and set my feet down .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   91 We_PPIS2 rehearsed_VVD the_AT sequence_NN1 so_CS21 that_CS22 as_CSA we_PPIS2 approached_VVD ,_Y I_PPIS1 easily_RR lifted_VVD my_APPGE legs_NN2 ,_Y pulled_VVD_VVN the_AT cords_NN2 to_TO slow_VVI the_AT descent_NN1 ,_Y and_CC set_VVD_VV0 my_APPGE feet_NN2 down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   92 I made it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   92 I_PPIS1 made_VVD it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   93 I had forgotten everything I was told , managed to miss every cue , and yet , I stood in the grass under a fierce blue sky , alive and well and ready to do it again .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   93 I_PPIS1 had_VHD forgotten_VVN everything_PN1 I_PPIS1 was_VBDZ told_VVN ,_Y managed_VVD_VVN to_TO miss_VVI every_AT1 cue_NN1 ,_Y and_CC yet_RR ,_Y I_PPIS1 stood_VVD in_II the_AT grass_NN1 under_II a_AT1 fierce_JJ blue_JJ sky_NN1 ,_Y alive_JJ and_CC well_JJ and_CC ready_JJ to_TO do_VDI it_PPH1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   94 <p> As I walked across the field back to the hangar , I realized that I did n't have to know into writing something beautiful and true , exactly the story I was meant to tell .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   94 <p>_Y As_CSA I_PPIS1 walked_VVD across_II the_AT field_NN1 back_RP_NN1 to_II the_AT hangar_NN1 ,_Y I_PPIS1 realized_VVD that_CST I_PPIS1 did_VDD n't_XX have_VHI to_TO know_VVI into_II writing_VVG something_PN1 beautiful_JJ and_CC true_JJ ,_Y exactly_RR the_AT story_NN1 I_PPIS1 was_VBDZ meant_VVN to_TO tell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   95 I had to trust that I had absorbed the lessons from the books and blogs , and focus on the writing , not the publishing journey and what agents or editors might say .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   95 I_PPIS1 had_VHD to_TO trust_VVI that_CST I_PPIS1 had_VHD absorbed_VVN the_AT lessons_NN2 from_II the_AT books_NN2 and_CC blogs_NN2_VVZ ,_Y and_CC focus_VV0_NN1 on_II the_AT writing_NN1 ,_Y not_XX the_AT publishing_NN1 journey_NN1 and_CC what_DDQ agents_NN2 or_CC editors_NN2 might_VM say_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   96 That 's why most people do n't skydive--they are unable to get beyond the thought of splattering at the end .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   96 That_DD1 's_VBZ why_RRQ most_DAT people_NN do_VD0 n't_XX skydive--they_PPHS2 are_VBR unable_JK to_TO get_VVI beyond_II the_AT thought_NN1 of_IO splattering_VVG at_II the_AT end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   97 I was n't going to kill the unique elements of my work by worrying about how or why it would get rejected .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   97 I_PPIS1 was_VBDZ n't_XX going_VVGK to_TO kill_VVI the_AT unique_JJ elements_NN2 of_IO my_APPGE work_NN1 by_II worrying_VVG@_JJ about_II how_RRQ or_CC why_RRQ it_PPH1 would_VM get_VVI rejected_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   98 <p> On the ride home , I finally thought to check if my prickly legs had been too obvious .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   98 <p>_Y On_II the_AT ride_NN1 home_RL_NN1 ,_Y I_PPIS1 finally_RR thought_VVD to_TO check_VVI if_CSW@_CS my_APPGE prickly_JJ legs_NN2 had_VHD been_VBN too_RG obvious_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0   99 My friend pointed out that if we had smashed to the ground , no one would have found any stubble among the carnage .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0   99 My_APPGE friend_NN1 pointed_VVD_VVN out_RP that_CST_DD1 if_CS we_PPIS2 had_VHD smashed_VVN to_II the_AT ground_NN1 ,_Y no_PN121 one_PN122 would_VM have_VHI found_VVN any_DD stubble_NN1 among_II the_AT carnage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0  100 And , besides , I had been wearing pants the whole time .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0  100 And_CC ,_Y besides_RR ,_Y I_PPIS1 had_VHD been_VBN wearing_VVG pants_NN2 the_AT whole_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0  101 <p> PHOTO ( COLOR ) : A writer friend advised Deanna Roy , pictured with an instructor , to try skydiving .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0  101 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y A_AT1@_ZZ1 writer_NN1 friend_NN1 advised_VVD Deanna_NP1 Roy_NP1 ,_Y pictured_VVN_VVD with_IW an_AT1 instructor_NN1 ,_Y to_TO try_VVI skydiving_VVG_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0  102 " My level of panic told me it was just the thing to do , " she says stories have appeared in 34th Parallel and The First Line .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0  102 "_Y My_APPGE level_NN1 of_IO panic_NN1 told_VVD me_PPIO1 it_PPH1 was_VBDZ just_RR the_AT thing_NN1 to_TO do_VDI ,_Y "_Y she_PPHS1 says_VVZ stories_NN2 have_VH0 appeared_VVN in_II 34th_MD Parallel_NN1_JJ and_CC The_AT First_MD Line_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0  103 A writer and photographer in Austin , Texas , she is at work on her fourth unpublished novel and Follows the philosophy that if at first you do n't succeed , try , try to make fun of yourself instead .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0  103 A_AT1 writer_NN1 and_CC photographer_NN1 in_II Austin_NP1 ,_Y Texas_NP1 ,_Y she_PPHS1 is_VBZ at_II work_NN1 on_II her_APPGE fourth_MD unpublished_JJ novel_NN1_JJ and_CC Follows_VVZ the_AT philosophy_NN1 that_CST if_CS at_RR21 first_RR22 you_PPY do_VD0 n't_XX succeed_VVI ,_Y try_VV0 ,_Y try_VV0 to_TO make_VVI fun_NN1 of_IO yourself_PPX1 instead_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0  104 Web : www.deannaroy.com .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0  104 Web_NN1 :_Y www.deannaroy.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  A    0  105 <p> @@24360 I '
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071193 COCA  B    0  105 <p>_Y @@24360_FO I_ZZ1%_MC1% '_GE

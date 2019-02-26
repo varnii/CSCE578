@@ -1,0 +1,124 @@
+SENTPOS 2014_4_101_300_333_2 DRAFT A    0    0 When you look at art , do you look at the picture it is showing or do you interpret the story or message it is telling .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    0    0 When_CS you_PPY look_VV0 at_II art_NN1 ,_, do_VD0 you_PPY look_VVI at_II the_AT picture_NN1 it_PPH1 is_VBZ showing_VVG or_CC do_VD0 you_PPY interpret_VVI the_AT story_NN1 or_CC message_NN1 it_PPH1 is_VBZ telling_VVG ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    0    1 Scholes , Comley , and Ulmer state that " the technique of art is to make things 'unfamiliar , ' " this is a confusing statement , because usually when art is looked upon , the viewer has quite a clear idea of what the object of the piece is ( 58 ) .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    0    1 Scholes_NP1 ,_, Comley_NP1 ,_, and_CC Ulmer_NP1 state_VV0 that_CST "_" the_AT technique_NN1 of_IO art_NN1 is_VBZ to_TO make_VVI things_NN2 'unfamiliar_VVI ,_, '_"@ "_" this_DD1 is_VBZ a_AT1 confusing_JJ statement_NN1 ,_, because_CS usually_RR when_CS art_NN1 is_VBZ looked_VVN upon_II ,_, the_AT viewer_NN1 has_VHZ quite_RG a_AT1 clear_JJ idea_NN1 of_IO what_DDQ the_AT object_NN1 of_IO the_AT piece_NN1 is_VBZ (_( 58_MC )_) ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    0    2 This statement would make one wonder if art is really being viewed the way that it should be or if art is being analyzed and pondered on .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    0    2 This_DD1 statement_NN1 would_VM make_VVI one_MC1 wonder_NN1 if_CS art_NN1 is_VBZ really_RR being_VBG viewed_VVN the_AT way_NN1 that_CST it_PPH1 should_VM be_VBI or_CC if_CS art_NN1 is_VBZ being_VBG analyzed_VVN@ and_CC pondered_VVN on_RP@ ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    0    3 Anyhow , there is a story behind every piece of art and what is thought to be is not what it appears to be .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    0    3 Anyhow_RR ,_, there_EX is_VBZ a_AT1 story_NN1 behind_II every_AT1 piece_NN1 of_IO art_NN1 and_CC what_DDQ is_VBZ thought_VVN to_TO be_VBI is_VBZ not_XX what_DDQ it_PPH1 appears_VVZ to_TO be_VBI ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    0    4 For example , Artemisia Gentileschi 's Judith and Her Maidservant may just seem to be two women who appear to be disoriented , but there is so much to extract from this simple painting .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    0    4 For_REX21 example_REX22 ,_, Artemisia_NP1 Gentileschi_NP1 's_GE Judith_NP1 and_CC Her_APPGE Maidservant_NN1 may_VM just_RR seem_VVI to_TO be_VBI two_MC women_NN2 who_PNQS appear_VV0 to_TO be_VBI disoriented_JJ ,_, but_CCB there_EX is_VBZ so_RG much_DA1 to_TO extract_VVI from_II this_DD1 simple_JJ painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    0    5 With the use of symbolism and contrast , the artist grants the viewer a story of a heroine and a powerful , influential message .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    0    5 With_IW the_AT use_NN1 of_IO symbolism_NN1 and_CC contrast_NN1 ,_, the_AT artist_NN1 grants_VVZ the_AT viewer_NN1 a_AT1 story_NN1 of_IO a_AT1 heroine_NN1 and_CC a_AT1 powerful_JJ ,_, influential_JJ message_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1    6 With most paintings , the author usually has a connection with their work .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1    6 With_IW most_DAT paintings_NN2 ,_, the_AT author_NN1 usually_RR has_VHZ a_AT1 connection_NN1 with_IW their_APPGE work_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1    7 Gentileschi , for instance , is a reflection of her works of art .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1    7 Gentileschi_NN2 ,_, for_REX21 instance_REX22 ,_, is_VBZ a_AT1 reflection_NN1 of_IO her_APPGE works_NN of_IO art_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1    8 At a young age , Gentileschi suffered a horrid molestation , leaving her in a distressing state .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1    8 At_II a_AT1 young_JJ age_NN1 ,_, Gentileschi_NP1 suffered_VVD a_AT1 horrid_JJ molestation_NN1 ,_, leaving_VVG her_PPHO1 in_II a_AT1 distressing_JJ state_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1    9 This is very well demonstrated with a look through some of her other work , such as Susanna and the Elders , a painting that illustrates pain and suffering of the female figure from the two male characters .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1    9 This_DD1 is_VBZ very_RG well_RR demonstrated_VVN with_IW a_AT1 look_NN1 through_II some_DD of_IO her_APPGE other_JJ work_NN1 ,_, such_II21 as_II22 Susanna_NP1 and_CC the_AT Elders_NN2 ,_, a_AT1 painting_NN1 that_CST illustrates_VVZ pain_NN1 and_CC suffering_NN1 of_IO the_AT female_JJ figure_NN1 from_II the_AT two_MC male_JJ characters_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1   10 In addition , Gentileschi is " credited to be one of the greatest female painters in the Baroque period , " an artistic period dominated by men ( " Artemisia Gentileschi " ) .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1   10 In_RR21 addition_RR22 ,_, Gentileschi_NP1 is_VBZ "_" credited_VVN to_TO be_VBI one_MC1 of_IO the_AT greatest_JJT female_JJ painters_NN2 in_II the_AT Baroque_NN1 period_NN1 ,_, "_" an_AT1 artistic_JJ period_NN1 dominated_VVN by_II men_NN2 (_( "_" Artemisia_NP1 Gentileschi_NP1 "_" )_) ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1   11 With a title such as that , prejudice and discrimination followed ; however , Gentileschi overcame that through her art .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1   11 With_IW a_AT1 title_NN1 such_II21 as_II22 that_DD1 ,_, prejudice_NN1 and_CC discrimination_NN1 followed_VVD ;_; however_RR ,_, Gentileschi_NP1 overcame_VVD that_CST through_II her_APPGE art_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    1   12 When one deeply analyzes Judith and Her Maidservant , it is clear to see that it was fashioned by someone who favors the idea of women .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    1   12 When_CS one_PN1 deeply_RR analyzes_VVZ Judith_NP1 and_CC Her_APPGE Maidservant_NN1 ,_, it_PPH1 is_VBZ clear_JJ to_TO see_VVI that_CST it_PPH1 was_VBDZ fashioned_VVN by_II someone_PN1 who_PNQS favors_VVZ the_AT idea_NN1 of_IO women_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   13 Judith from the painting is actually a character in a story in the Bible , the Book of Judith to be more specific .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   13 Judith_NP1 from_II the_AT painting_NN1 is_VBZ actually_RR a_AT1 character_NN1 in_II a_AT1 story_NN1 in_II the_AT Bible_NN1 ,_, the_AT Book_NN1 of_IO Judith_NP1 to_TO be_VBI more_RGR specific_JJ ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   14 Judith , a rich widow , lived in an Assyrian village named Bethulia besieged by its general , Holofernes .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   14 Judith_NP1 ,_, a_AT1 rich_JJ widow_NN1 ,_, lived_VVD in_II an_AT1 Assyrian_JJ village_NN1 named_VVD Bethulia_NP1 besieged_VVD by_II its_APPGE general_NN1 ,_, Holofernes_NP2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   15 Later , the inhabitants began to plead for surrender .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   15 Later_RRR ,_, the_AT inhabitants_NN2 began_VVD to_TO plead_VVI for_IF surrender_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   16 Nevertheless , Judith developed a plan to free the people .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   16 Nevertheless_RR ,_, Judith_NP1 developed_VVD a_AT1 plan_NN1 to_TO free_VVI the_AT people_NN ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   17 One night , she allowed herself to get peculiarly close to the general .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   17 One_MC1 night_NNT1 ,_, she_PPHS1 allowed_VVD herself_PPX1 to_TO get_VVI peculiarly_RR close_RR to_II the_AT general_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   18 Next , she seduced the general and lured him into intoxication .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   18 Next_MD ,_, she_PPHS1 seduced_VVD the_AT general_NN1 and_CC lured_VVD him_PPHO1 into_II intoxication_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    2   19 Finally , when the general was comfortable , Judith , with the assistance of her maidservant , beheaded the drunken leader .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    2   19 Finally_RR ,_, when_CS the_AT general_NN1 was_VBDZ comfortable_JJ ,_, Judith_NP1 ,_, with_IW the_AT assistance_NN1 of_IO her_APPGE maidservant_NN1 ,_, beheaded_VVD the_AT drunken_JJ leader_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   20 At first glance , the viewer could possibly be in bewilderment , wondering what Judith and her servant may be looking at .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   20 At_II first_MD glance_NN1 ,_, the_AT viewer_NN1 could_VM possibly_RR be_VBI in_II bewilderment_NN1 ,_, wondering_VVG what_DDQ Judith_NP1 and_CC her_APPGE servant_NN1 may_VM be_VBI looking_VVG at_II ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   21 Alternately , the viewer may be asking what they are looking for or where they may be going .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   21 Alternately_RR ,_, the_AT viewer_NN1 may_VM be_VBI asking_VVG what_DDQ they_PPHS2 are_VBR looking_VVG for_IF or_CC where_CS they_PPHS2 may_VM be_VBI going_VVG ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   22 The viewer could also have little to no understanding of the painting as a whole .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   22 The_AT viewer_NN1 could_VM also_RR have_VHI little_DA1 to_II no_AT understanding_NN1 of_IO the_AT painting_NN1 as_II a_AT1 whole_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   23 However , the spectator could look more into the painting and see Judith carrying a sword and a lifeless head in the basket that the servant is clutching .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   23 However_RR ,_, the_AT spectator_NN1 could_VM look_VVI more_RRR into_II the_AT painting_NN1 and_CC see_VVI Judith_NP1 carrying_VVG a_AT1 sword_NN1 and_CC a_AT1 lifeless_JJ head_NN1 in_II the_AT basket_NN1 that_CST the_AT servant_NN1 is_VBZ clutching_VVG ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   24 This gives the audience more of a clue of what the artist is trying to display .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   24 This_DD1 gives_VVZ the_AT audience_NN1 more_DAR of_IO a_AT1 clue_NN1 of_IO what_DDQ the_AT artist_NN1 is_VBZ trying_VVG to_TO display_VVI ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   25 This could also help resolve the previous uncertainties .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   25 This_DD1 could_VM also_RR help_VVI resolve_VVI the_AT previous_JJ uncertainties_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    3   26 These simple details could unfold plenty of possible scenarios .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    3   26 These_DD2 simple_JJ details_NN2 could_VM unfold_VVI plenty_PN of_IO possible_JJ scenarios_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    4   27 Surely , there is meaning behind Gentileschi 's obscure symbols .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    4   27 Surely_RR ,_, there_EX is_VBZ meaning_VVG behind_II Gentileschi_NP1 's_GE obscure_JJ symbols_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    4   28 Colors may be used to make the picture look pleasing , but they also serve another purpose and that is symbolism .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    4   28 Colors_NN2 may_VM be_VBI used_VVN to_TO make_VVI the_AT picture_NN1 look_VVI pleasing_JJ ,_, but_CCB they_PPHS2 also_RR serve_VV0 another_DD1 purpose_NN1 and_CC that_DD1 is_VBZ symbolism_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    4   29 See how white the maidservant 's headdress is as well as her dress .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    4   29 See_VV0 how_RGQ@ white_JJ the_AT maidservant_NN1 's_GE headdress_NN1 is_VBZ as_RG@ well_JJ as_CSA her_APPGE dress_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    4   30 The color white can be used to signify purity .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    4   30 The_AT color_NN1 white_NN1@ can_VM be_VBI used_VVN to_TO signify_VVI purity_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    4   31 The artist illustrated the servant in white to let the viewer know that what these two women did was for a good purpose ; then again , there are bloodstains from the head reminding the audience that for whatever purpose , the act is still a sin .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    4   31 The_AT artist_NN1 illustrated_VVD the_AT servant_NN1 in_II white_JJ to_TO let_VVI the_AT viewer_NN1 know_VVI that_CST what_DDQ these_DD2 two_MC women_NN2 did_VDD was_VBDZ for_IF a_AT1 good_JJ purpose_NN1 ;_; then_RT again_RT ,_, there_EX are_VBR bloodstains_NN2 from_II the_AT head_NN1 reminding_VVG the_AT audience_NN1 that_CST for_IF whatever_DDQV purpose_NN1 ,_, the_AT act_NN1 is_VBZ still_RR a_AT1 sin_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   32 There are two more symbols in this painting that are used conjointly , one can be spotted without any struggle , and another that may take a little more effort .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   32 There_EX are_VBR two_MC more_DAR symbols_NN2 in_II this_DD1 painting_NN1 that_CST are_VBR used_VVN conjointly_RR ,_, one_PN1 can_VM be_VBI spotted_VVN without_IW any_DD struggle_NN1 ,_, and_CC another_DD1 that_CST may_VM take_VVI a_RR21 little_RR22 more_DAR effort_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   33 Anyone can see that Judith is carrying a sword but it may take a little time to see the human-like figure in Judith 's hairpin .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   33 Anyone_PN1 can_VM see_VVI that_CST Judith_NP1 is_VBZ carrying_VVG a_AT1 sword_NN1 but_CCB it_PPH1 may_VM take_VVI a_AT1 little_JJ time_NNT1 to_TO see_VVI the_AT human-like_JJ figure_NN1 in_II Judith_NP1 's_GE hairpin_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   34 By chance , the viewer could be oblivious to who or what this " figure " could be .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   34 By_II chance_NN1 ,_, the_AT viewer_NN1 could_VM be_VBI oblivious_JJ to_II who_PNQS or_CC what_DDQ this_DD1 "_" figure_NN1 "_" could_VM be_VBI ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   35 This is where the sword comes in .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   35 This_DD1 is_VBZ where_RRQ the_AT sword_NN1 comes_VVZ in_RP@ ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   36 Yet , the viewer would have a better understanding of this detail if they were aware of the historical background of the painting .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   36 Yet_RR ,_, the_AT viewer_NN1 would_VM have_VHI a_AT1 better_JJR understanding_NN1 of_IO this_DD1 detail_NN1 if_CS they_PPHS2 were_VBDR aware_JJ of_IO the_AT historical_JJ background_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   37 When you consider the history , you can compare Judith 's story to another well-known story .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   37 When_CS you_PPY consider_VV0 the_AT history_NN1 ,_, you_PPY can_VM compare_VVI Judith_NP1 's_GE story_NN1 to_II another_DD1 well-known_JJ story_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   38 Reflect on what Judith did for Bethulia .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   38 Reflect_VV0 on_II what_DDQ Judith_NP1 did_VDD for_IF Bethulia_NP1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   39 She risked her own life to save an entire village , similar to what another character did in the Bible .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   39 She_PPHS1 risked_VVD her_APPGE own_DA life_NN1 to_TO save_VVI an_AT1 entire_JJ village_NN1 ,_, similar_JJ to_II what_DDQ another_DD1 character_NN1 did_VDD in_II the_AT Bible_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   40 Does n't Judith remind you of David ?
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   40 Does_VDZ n't_XX Judith_NP1 remind_VVI you_PPY of_IO David_NP1 ?_?
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   41 Is that who may be in her hairpin ?
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   41 Is_VBZ that_DD1 who_PNQS may_VM be_VBI in_II her_APPGE hairpin_NN1 ?_?
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   42 It would only make sense .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   42 It_PPH1 would_VM only_RR make_VVI sense_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   43 Gentileschi 's purpose is to heighten the idea of women and bring attention to them , so why not compare Judith to one of the most prominent men in the Bible .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   43 Gentileschi_NP1@ 's_GE purpose_NN1 is_VBZ to_TO heighten_VVI the_AT idea_NN1 of_IO women_NN2 and_CC bring_VVI attention_NN1 to_II them_PPHO2 ,_, so_RR why_RRQ not_XX compare_VVI Judith_NP1 to_II one_MC1 of_IO the_AT most_RGT prominent_JJ men_NN2 in_II the_AT Bible_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   44 This would surely bring interest to women .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   44 This_DD1 would_VM surely_RR bring_VVI interest_NN1 to_II women_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   45 The artist wants her audience to know that women are more powerful than they appear .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   45 The_AT artist_NN1 wants_VVZ her_APPGE audience_NN1 to_TO know_VVI that_CST women_NN2 are_VBR more_RGR powerful_JJ than_CSN they_PPHS2 appear_VV0 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   46 She is also portraying that anyone can be a hero , even a woman .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   46 She_PPHS1 is_VBZ also_RR portraying_VVG that_CST anyone_PN1 can_VM be_VBI a_AT1 hero_NN1 ,_, even_RR a_AT1 woman_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    5   47 Because she was discriminated and judged , she depicts women in similar positions as her own to prevent the very social stereotypes that were put on her .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    5   47 Because_CS she_PPHS1 was_VBDZ discriminated_VVN and_CC judged_VVN ,_, she_PPHS1 depicts_VVZ women_NN2 in_II similar_JJ positions_NN2 as_CSA her_APPGE own_DA to_TO prevent_VVI the_AT very_RG social_JJ stereotypes_NN2 that_CST were_VBDR put_VVN on_II her_PPHO1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    6   48 Gentileschi puts Judith on a high pedestal , as if the story does not do it enough , and makes her an icon for women in her work and she does it in the simplest ways .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    6   48 Gentileschi_NP1@ puts_VVZ Judith_NP1 on_II a_AT1 high_JJ pedestal_NN1 ,_, as_CS21 if_CS22 the_AT story_NN1 does_VDZ not_XX do_VDI it_PPH1 enough_RR ,_, and_CC makes_VVZ her_PPHO1 an_AT1 icon_NN1 for_IF women_NN2 in_II her_APPGE work_NN1 and_CC she_PPHS1 does_VDZ it_PPH1 in_II the_AT simplest_JJT ways_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    6   49 Look at the way she uses contrast , for example .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    6   49 Look_VV0 at_II the_AT way_NN1 she_PPHS1 uses_VVZ contrast_NN1 ,_, for_REX21 example_REX22 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    6   50 Judith and her maidservant are illuminated so brightly , making them the subject of the painting .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    6   50 Judith_NP1 and_CC her_APPGE maidservant_NN1 are_VBR illuminated_VVN so_RG brightly_RR ,_, making_VVG them_PPHO2 the_AT subject_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    6   51 On the other hand , Holofernes ' head is shadowy and placed in the bottom corner .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    6   51 On_II the_AT other_JJ hand_NN1 ,_, Holofernes_NP2 '_GE head_NN1 is_VBZ shadowy_JJ and_CC placed_VVN in_II the_AT bottom_JJ corner_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    6   52 It is almost hard to notice .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    6   52 It_PPH1 is_VBZ almost_RR hard_JJ to_TO notice_VVI ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    6   53 Comparing both the well-lit women and the gloomy head of the general , one can infer that the artist intended to give Judith and her maidservant superiority .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    6   53 Comparing_VVG both_DB2 the_AT well-lit_JJ women_NN2 and_CC the_AT gloomy_JJ head_NN1 of_IO the_AT general_NN1 ,_, one_PN1 can_VM infer_VVI that_CST the_AT artist_NN1 intended_VVD to_TO give_VVI Judith_NP1 and_CC her_APPGE maidservant_NN1 superiority_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   54 When you see Judith and Her Maidservant , what do you see ?
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   54 When_CS you_PPY see_VV0 Judith_NP1 and_CC Her_APPGE Maidservant_NN1 ,_, what_DDQ do_VD0 you_PPY see_VVI ?_?
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   55 Do you see two women trying to flee from a dirty crime or two heroes saving a village from an over-controlling leader ?
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   55 Do_VD0 you_PPY see_VVI two_MC women_NN2 trying_VVG to_TO flee_VVI from_II a_AT1 dirty_JJ crime_NN1 or_CC two_MC heroes_NN2 saving_VVG a_AT1 village_NN1 from_II an_AT1 over-controlling_JJ@ leader_NN1 ?_?
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   56 Is the artist 's goal accomplished ; can you see how much she has highlighted and strengthened the impression of women ?
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   56 Is_VBZ the_AT artist_NN1 's_GE goal_NN1 accomplished_VVD ;_; can_VM you_PPY see_VVI how_RGQ@ much_DA1 she_PPHS1 has_VHZ highlighted_VVN and_CC strengthened_VVN the_AT impression_NN1 of_IO women_NN2 ?_?
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   57 Judith and her servant transforms from suspicious and guilty to brave and selfless when the contrast between them and the lifeless head and the various symbols are taken into account .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   57 Judith_NP1 and_CC her_APPGE servant_NN1 transforms_VVZ from_II suspicious_JJ and_CC guilty_JJ to_TO brave_VVI and_CC selfless_JJ when_CS the_AT contrast_NN1 between_II them_PPHO2 and_CC the_AT lifeless_JJ head_NN1 and_CC the_AT various_JJ symbols_NN2 are_VBR taken_VVN into_II account_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   58 After witnessing Gentileschi 's tactics , the idea of women is stimulated .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   58 After_II witnessing_VVG Gentileschi_NP1 's_GE tactics_NN2 ,_, the_AT idea_NN1 of_IO women_NN2 is_VBZ stimulated_VVN ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   59 When carefully analyzed , the painting is more than what it appears .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   59 When_CS carefully_RR analyzed_VVD ,_, the_AT painting_NN1 is_VBZ more_DAR than_CSN what_DDQ it_PPH1 appears_VVZ ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   60 However , when a work of art , such as Judith and Her Maidservant , is based on a story , the story needs to be understood to help the viewer comprehend a painting .
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   60 However_RR ,_, when_CS a_AT1 work_NN1 of_IO art_NN1 ,_, such_II21 as_II22 Judith_NP1 and_CC Her_APPGE Maidservant_NN1 ,_, is_VBZ based_VVN on_II a_AT1 story_NN1 ,_, the_AT story_NN1 needs_VVZ to_TO be_VBI understood_VVN to_TO help_VVI the_AT viewer_NN1 comprehend_VV0 a_AT1 painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 DRAFT A    7   60  Nevertheless , a painting can be much more than what it seems when it is " looked into " rather than just being " looked at . "
+SENTPOS 2014_4_101_300_333_2 DRAFT B    7   60  Nevertheless_RR ,_, a_AT1 painting_NN1 can_VM be_VBI much_DA1 more_DAR than_CSN what_DDQ it_PPH1 seems_VVZ when_RRQ it_PPH1 is_VBZ "_" looked_VVN into_II "_" rather_II21 than_II22 just_RR being_VBG "_" looked_VVN at_II ._. "_"

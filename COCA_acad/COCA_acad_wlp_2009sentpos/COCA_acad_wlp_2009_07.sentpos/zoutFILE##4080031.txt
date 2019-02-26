@@ -1,0 +1,222 @@
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    0 The Matilda and Karl Pfeiffer Museum and Study Center was the dream of Matilda Pfeiffer .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    0 The_AT Matilda_NP1 and_CC Karl_NP1 Pfeiffer_NP1_NN1 Museum_NN1 and_CC Study_NN1_VV0@ Center_NN1 was_VBDZ the_AT dream_NN1 of_IO Matilda_NP1 Pfeiffer_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    1 Matilda Schmitt was born in Newark , New Jersey .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    1 Matilda_NP1 Schmitt_NP1 was_VBDZ born_VVN in_II Newark_NP1 ,_Y New_NP1 Jersey_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    2 At the age of eighteen she was employed at a local drug store .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    2 At_II the_AT age_NN1 of_IO eighteen_MC she_PPHS1 was_VBDZ employed_VVN at_II a_AT1 local_JJ drug_NN1 store_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    3 Karl Pfeiffer , her husband to be , was working for his Uncle Gus Pfeiffer selling a line of cosmetics and the drug store was one of his accounts .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    3 Karl_NP1 Pfeiffer_NP1 ,_Y her_APPGE husband_NN1 to_TO be_VBI ,_Y was_VBDZ working_VVG for_IF his_APPGE Uncle_NNB Gus_NP1 Pfeiffer_NP1_NN1_VV0 selling_VVG a_AT1 line_NN1 of_IO cosmetics_NN2 and_CC the_AT drug_NN1 store_NN1 was_VBDZ one_MC1 of_IO his_APPGE accounts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    4 After completing his business with the owner , he would stop at the soda fountain and have a chocolate ice cream soda .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    4 After_II completing_VVG his_APPGE business_NN1 with_IW the_AT owner_NN1 ,_Y he_PPHS1 would_VM stop_VVI at_II the_AT soda_NN1 fountain_NN1 and_CC have_VH0 a_AT1 chocolate_NN1 ice_NN1 cream_NN1 soda_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    5 The young lady who waited on him was Matilda .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    5 The_AT young_JJ lady_NN1 who_PNQS waited_VVD on_II him_PPHO1 was_VBDZ Matilda_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    6 One thing led to another and they were married December 9 , 1922 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    6 One_MC1 thing_NN1 led_VVN_VVD to_II another_DD1 and_CC they_PPHS2 were_VBDR married_JJ December_NPM1 9_MC ,_Y 1922_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    7 They resided in Orange , New Jersey about ten years .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    7 They_PPHS2 resided_VVD in_II_RP@ Orange_NN1_JJ ,_Y New_NP1 Jersey_NP1 about_RG ten_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    8 Three children were born there .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    8 Three_MC children_NN2 were_VBDR born_VVN there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0    9 Their first , Mary , died at age four .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0    9 Their_APPGE first_MD ,_Y Mary_NP1 ,_Y died_VVD_VVN@ at_II age_NN1 four_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   10 Their second , Barbara , grew up , married , and had four daughters .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   10 Their_APPGE second_MD_NNT1 ,_Y Barbara_NP1 ,_Y grew_VVD up_RP ,_Y married_JJ_VVD@ ,_Y and_CC had_VHD_VHN@ four_MC daughters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   11 She died of cancer at age 38 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   11 She_PPHS1 died_VVD of_IO cancer_NN1 at_II age_NN1 38_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   12 Their third child , Paul , grew up , did not marry , suffered from poor health and died at age to Piggott so Karl could help his father manage the approximately 64,000 acres he owned .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   12 Their_APPGE third_MD child_NN1 ,_Y Paul_NP1 ,_Y grew_VVD up_RP ,_Y did_VDD not_XX marry_VVI ,_Y suffered_VVN_VVD from_II poor_JJ health_NN1 and_CC died_VVN at_II age_NN1 to_II Piggott_NP1 so_RR_CS@ Karl_NP1 could_VM help_VVI his_APPGE father_NN1 manage_VV0 the_AT approximately_RR 64,000_MC acres_NNU2 he_PPHS1 owned_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   13 They were given ten acres across the street from his parents ' home .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   13 They_PPHS2 were_VBDR given_VVN ten_MC acres_NNU2 across_II the_AT street_NN1 from_II his_APPGE parents_NN2 '_GE home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   14 They built a Tudor Revival style house in the middle of the ten acres .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   14 They_PPHS2 built_VVD a_AT1 Tudor_NP1 Revival_NN1 style_NN1 house_NN1 in_II the_AT middle_NN1 of_IO the_AT ten_MC acres_NNU2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   15 It has four bedrooms , four bathrooms , a large sunroom and features a great room with a two story vaulted , ceiling , exposed wood support beams , and a wide plank floor .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   15 It_PPH1 has_VHZ four_MC bedrooms_NN2 ,_Y four_MC bathrooms_NN2 ,_Y a_AT1 large_JJ sunroom_NN1 and_CC features_VVZ@_NN2 a_AT1 great_JJ room_NN1 with_IW a_AT1 two_MC story_NN1 vaulted_VVD_VVN ,_Y ceiling_NN1 ,_Y exposed_JJ_VVD wood_NN1 support_NN1_VV0 beams_NN2 ,_Y and_CC a_AT1 wide_JJ plank_NN1 floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   16 They moved into the house in 1933 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   16 They_PPHS2 moved_VVD into_II the_AT house_NN1 in_II 1933_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   17 The land was an open field on Crowley 's Ridge .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   17 The_AT land_NN1 was_VBDZ an_AT1 open_JJ field_NN1 on_II Crowley_NP1 's_GE Ridge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   18 For Matilda this was a dream come true .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   18 For_IF Matilda_NP1 this_DD1 was_VBDZ a_AT1 dream_NN1 come_VV0_VVN@ true_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   19 The development of the property became a life long project .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   19 The_AT development_NN1 of_IO the_AT property_NN1 became_VVD a_AT1 life_NN1 long_JJ project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   20 She kept a lawn with flower beds around their home , but left the rest of the land around the perimeter of the property alone , allowing the flora native to Crowley 's Ridge to grow back in its natural state .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   20 She_PPHS1 kept_VVD a_AT1 lawn_NN1 with_IW flower_NN1 beds_NN2 around_II_RP their_APPGE home_NN1 ,_Y but_CCB left_VVD the_AT rest_NN1 of_IO the_AT land_NN1 around_II the_AT perimeter_NN1 of_IO the_AT property_NN1 alone_RR_JJ ,_Y allowing_VVG the_AT flora_NN native_JJ_NN1@ to_II Crowley_NP1 's_GE Ridge_NN1 to_TO grow_VVI back_RP in_II its_Z' natural_JJ state_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   21 Throughout the free growing part of her property she maintained paths that she called " fire trails " that allow people to walk along and observe nature in its natural to see what God would do with this land .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   21 Throughout_II the_AT free_JJ growing_JJ part_NN1 of_IO her_APPGE property_NN1 she_PPHS1 maintained_VVD paths_NN2 that_CST she_PPHS1 called_VVD@ "_Y fire_NN1 trails_VVZ "_Y that_CST allow_VV0 people_NN to_TO walk_VVI along_RP and_CC observe_VVI nature_NN1 in_II its_Z' natural_JJ to_TO see_VVI what_DDQ God_NP1_NN1@ would_VM do_VDI with_IW this_DD1 land_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   22 " There are three outbuildings .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   22 "_Y There_EX are_VBR three_MC outbuildings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   23 One is a general storage building .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   23 One_MC1 is_VBZ a_AT1 general_JJ_NN1 storage_NN1 building_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   24 It was originally used as a stable for Matilda 's horses .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   24 It_PPH1 was_VBDZ originally_RR used_VVN_VVD as_II a_AT1 stable_JJ_NN1@ for_IF Matilda_NP1 's_GE horses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   25 One is a dovecote , built by Karl to house his pigeons .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   25 One_PN1_MC1 is_VBZ a_AT1 dovecote_NN1 ,_Y built_VVN by_II Karl_NP1 to_TO house_VVI his_APPGE pigeons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   26 The last one is called " the dynamite shack .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   26 The_AT last_MD one_PN1 is_VBZ called_VVN "_Y the_AT dynamite_NN1 shack_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   27 " Karl 's father , Paul Pfeiffer , used dynamite to remove tree stumps from the land he was clearing for farm land .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   27 "_Y Karl_NP1 's_GE father_NN1 ,_Y Paul_NP1 Pfeiffer_NP1 ,_Y used_JJ_VVD dynamite_NN1 to_TO remove_VVI tree_NN1 stumps_NN2 from_II the_AT land_NN1 he_PPHS1 was_VBDZ clearing_VVG for_IF farm_NN1 land_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   28 The dynamite was stored in this building .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   28 The_AT dynamite_NN1 was_VBDZ stored_VVN in_II this_DD1 building_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   29 Karl was an avid tennis player .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   29 Karl_NP1 was_VBDZ an_AT1 avid_JJ tennis_NN1 player_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   30 Soon after their home was completed he had a clay court built .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   30 Soon_RR after_II_CS their_APPGE home_NN1 was_VBDZ completed_VVN he_PPHS1 had_VHD a_AT1 clay_NN1 court_NN1 built_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   31 He quit playing tennis when he was in his middle forties and had a swimming pool built where the court had been .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   31 He_PPHS1 quit_VVD playing_VVG tennis_NN1 when_CS_RRQ he_PPHS1 was_VBDZ in_II his_APPGE middle_JJ forties_MC2 and_CC had_VHD_VHN@ a_AT1 swimming_NN1 pool_NN1 built_VVN_VVD where_CS_RRQ the_AT court_NN1 had_VHD been_VBN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   32 The pool was 25 feet by 50 feet .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   32 The_AT pool_NN1 was_VBDZ 25_MC feet_NN2 by_II 50_MC feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   33 A well , 1,200 feet deep , was drilled to provide the water .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   33 A_AT1 well_NN1 ,_Y 1,200_MC feet_NN2 deep_JJ ,_Y was_VBDZ drilled_VVN to_TO provide_VVI the_AT water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   34 After his death , Matilda closed the pool , had the concrete apron that surrounded the pool pushed into the pool , and turned it into a pond for wild life .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   34 After_CS_II his_APPGE death_NN1 ,_Y Matilda_NP1 closed_VVD the_AT pool_NN1 ,_Y had_VHD the_AT concrete_JJ_NN1 apron_NN1 that_CST surrounded_VVD the_AT pool_NN1 pushed_VVN_VVD into_II the_AT pool_NN1 ,_Y and_CC turned_VVN it_PPH1 into_II a_AT1 pond_NN1 for_IF wild_JJ life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   35 Behind the house storage of tools and equipment for the house and grounds .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   35 Behind_II the_AT house_NN1 storage_NN1 of_IO tools_NN2 and_CC equipment_NN1 for_IF the_AT house_NN1 and_CC grounds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   36 Near the garage , Matilda established a large vegetable and herb garden surrounded by a five foot high fence .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   36 Near_II the_AT garage_NN1 ,_Y Matilda_NP1 established_VVD a_AT1 large_JJ vegetable_NN1 and_CC herb_NN1 garden_NN1 surrounded_VVN by_II a_AT1 five_MC foot_NN1 high_JJ fence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   37 Mrs. Pfeiffer was an avid reader : Her curiosity was wide ranging and for the next sixty years she accumulated a library of some 1,600 books and magazines covering a multitude of subjects such as history , philosophy , religion , fiction , biographies , science and nature .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   37 Mrs._NNB Pfeiffer_NP1 was_VBDZ an_AT1 avid_JJ reader_NN1 :_Y Her_APPGE curiosity_NN1 was_VBDZ wide_RR ranging_JJ@_VVG and_CC for_IF the_AT next_MD sixty_MC years_NNT2 she_PPHS1 accumulated_VVD a_AT1 library_NN1 of_IO some_DD 1,600_MC books_NN2 and_CC magazines_NN2 covering_VVG a_AT1 multitude_NN1 of_IO subjects_NN2 such_II21 as_II22 history_NN1 ,_Y philosophy_NN1 ,_Y religion_NN1 ,_Y fiction_NN1 ,_Y biographies_NN2 ,_Y science_NN1 and_CC nature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   38 She acquired a Native American artifact collection under unusual circumstances .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   38 She_PPHS1 acquired_VVD a_AT1 Native_JJ American_JJ artifact_NN1 collection_NN1 under_II_RG@ unusual_JJ circumstances_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   39 The collection had been accumulated over a number of years by Laws Cargill , co-owner of a local furniture store .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   39 The_AT collection_NN1 had_VHD been_VBN accumulated_VVN over_II_RP a_AT1 number_NN1 of_IO years_NNT2 by_II Laws_NN2 Cargill_VV0@_NP1 ,_Y co-owner_NN1 of_IO a_AT1 local_JJ furniture_NN1 store_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   40 He did his collecting locally , walking the hills and flat lands of northeast Arkansas .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   40 He_PPHS1 did_VDD his_APPGE collecting_VVG_NN1@ locally_RR ,_Y walking_VVG the_AT hills_NN2 and_CC flat_JJ lands_NN2 of_IO northeast_ND1 Arkansas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   41 Hearing that Laws was about to sell his collection to a dealer in St. Louis , Missouri , Mrs. Pfeiffer went to see Laws and bought the collection to keep it from leaving Piggott .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   41 Hearing_VVG_NN1 that_CST Laws_NN2 was_VBDZ about_RPK to_TO sell_VVI his_APPGE collection_NN1 to_II a_AT1 dealer_NN1 in_II St._NP1 Louis_NP1 ,_Y Missouri_NP1 ,_Y Mrs._NNB Pfeiffer_NP1 went_VVD to_TO see_VVI Laws_NN2 and_CC bought_VVD the_AT collection_NN1 to_TO keep_VVI it_PPH1 from_II leaving_VVG Piggott_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   42 She stored it upstairs in a closet .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   42 She_PPHS1 stored_VVD it_PPH1 upstairs_RL in_II a_AT1 closet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   43 In the early 1960 's , Matilda became interested in minerals .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   43 In_II the_AT early_JJ 1960_MC221% 's_MC222% ,_Y Matilda_NP1 became_VVD interested_JJ in_II minerals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   44 She answered an ad in a trade magazine dealer , Steven Sinotte .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   44 She_PPHS1 answered_VVD an_AT1 ad_NN1 in_II a_AT1 trade_NN1 magazine_NN1 dealer_NN1 ,_Y Steven_NP1 Sinotte_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   45 Over the next 25 years she bought many of the specimens in her collection from Steve .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   45 Over_II the_AT next_MD 25_MC years_NNT2 she_PPHS1 bought_VVD many_DA2 of_IO the_AT specimens_NN2 in_II her_APPGE collection_NN1 from_II Steve_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   46 Steve served as her advisor and introduced her to other dealers .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   46 Steve_NP1 served_VVD as_CSA_II@ her_APPGE advisor_NN1 and_CC introduced_VVD_VVN her_PPHO1 to_II other_JJ dealers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   47 At the time of her death , she had over 1,400 specimens in her collection .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   47 At_II the_AT time_NNT1 of_IO her_APPGE death_NN1 ,_Y she_PPHS1 had_VHD over_II 1,400_MC specimens_NN2 in_II her_APPGE collection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   48 They were scattered all over the house , in closets and drawers and under beds .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   48 They_PPHS2 were_VBDR scattered_VVN all_RR over_II the_AT house_NN1 ,_Y in_II closets_NN2 and_CC drawers_NN2 and_CC under_II beds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   49 Matilda Pfeiffer died at her home January 29 , 2002 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   49 Matilda_NP1 Pfeiffer_NP1 died_VVD at_II her_APPGE home_NN1 January_NPM1 29_MC ,_Y 2002_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   50 She was 97 years old .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   50 She_PPHS1 was_VBDZ 97_MC years_NNT2 old_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   51 Her husband , Karl , preceded her in death December 11 , 1981 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   51 Her_APPGE husband_NN1 ,_Y Karl_NP1 ,_Y preceded_VVD_VVN her_PPHO1 in_II death_NN1 December_NPM1 11_MC ,_Y 1981_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   52 Her will left her home , its contents and ten acres of land in a perpetual trust for public and charitable purposes to be administered by three trustees .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   52 Her_APPGE will_NN1@ left_VVD_VVN her_PPHO1_APPGE home_RL_NN1 ,_Y its_Z' contents_NN2 and_CC ten_MC acres_NNU2 of_IO land_NN1 in_II a_AT1 perpetual_JJ trust_NN1 for_IF public_NN1_JJ and_CC charitable_JJ purposes_NN2 to_TO be_VBI administered_VVN by_II three_MC trustees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   53 They were directed to convert her home into a natural history/environmental museum and the surrounding grounds into an environmental park and wildlife sanctuary for the benefit of the general public .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   53 They_PPHS2 were_VBDR directed_VVN to_TO convert_VVI her_PPHO1_APPGE home_RL_NN1 into_II a_AT1 natural_JJ history/environmental_FU museum_NN1 and_CC the_AT surrounding_JJ grounds_NN2 into_II an_AT1 environmental_JJ park_NN1 and_CC wildlife_NN1 sanctuary_NN1 for_IF the_AT benefit_NN1 of_IO the_AT general_JJ_NN1 public_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   54 The trust was endowed with a portion of her investments which provide the funds to operate the museum .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   54 The_AT trust_NN1 was_VBDZ endowed_VVN with_IW a_AT1 portion_NN1 of_IO her_APPGE investments_NN2 which_DDQ provide_VV0 the_AT funds_NN2 to_TO operate_VVI the_AT museum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   55 After the estate was settled , the trustees went to work complying with the terms were Jim Richardson , Don Roeder and Rosemary Janes .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   55 After_CS_II the_AT estate_NN1 was_VBDZ settled_VVN ,_Y the_AT trustees_NN2 went_VVD to_II work_NN1 complying_VVG with_IW the_AT terms_NN2 were_VBDR Jim_NP1 Richardson_NP1 ,_Y Don_NP1_VV0@ Roeder_NP1@_JJR and_CC Rosemary_NP1 Janes_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   56 Rosemary resigned her position in 2005 and was replaced by Peggy Heaton .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   56 Rosemary_NP1 resigned_VVD her_APPGE position_NN1 in_II 2005_MC and_CC was_VBDZ replaced_VVN by_II Peggy_NP1 Heaton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   57 Jim , with the aid of a botany professor from the University of Arkansas at Fayet-teville , identified the different species of trees , shrubs and flowers on the grounds with their common and botanical names .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   57 Jim_NP1 ,_Y with_IW the_AT aid_NN1 of_IO a_AT1 botany_NN1 professor_NN1 from_II the_AT University_NN1 of_IO Arkansas_NP1 at_II Fayet-teville_NN1_JJ ,_Y identified_VVN_VVD@ the_AT different_JJ species_NN of_IO trees_NN2 ,_Y shrubs_NN2 and_CC flowers_NN2_VVZ@ on_II the_AT grounds_NN2 with_IW their_APPGE common_JJ and_CC botanical_JJ names_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   58 Identification markers have been placed by representative species for the convenience of visitors .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   58 Identification_NN1 markers_NN2 have_VH0 been_VBN placed_VVN by_II representative_JJ_NN1 species_NN for_IF the_AT convenience_NN1 of_IO visitors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   59 Over a period of several years , Jim has converted the vegetable and herb garden into a wild flower garden with identification makers .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   59 Over_II a_AT1 period_NN1 of_IO several_DA2 years_NNT2 ,_Y Jim_NP1 has_VHZ converted_VVN the_AT vegetable_NN1 and_CC herb_NN1 garden_NN1 into_II a_AT1 wild_JJ flower_NN1 garden_NN1 with_IW identification_NN1 makers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   60 The trustees had two fine wood cabinets built and placed in the great room to display the best pieces from the Native American artifact collection .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   60 The_AT trustees_NN2 had_VHD two_MC fine_JJ wood_NN1 cabinets_NN2 built_VVN_VVD and_CC placed_VVN_VVD@ in_II the_AT great_JJ room_NN1 to_TO display_VVI the_AT best_JJT pieces_NN2 from_II the_AT Native_JJ American_JJ artifact_NN1 collection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   61 Some of these are a banner stone , slate gorget , plummets , axe heads , mortars and an assortment of points : Clovis , Hardin , Snyder , Adena Gary , Etly , Dalton and Turkey Tail , to name a few .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   61 Some_DD of_IO these_DD2 are_VBR a_AT1 banner_NN1 stone_NN1 ,_Y slate_NN1 gorget_NN1_VV0 ,_Y plummets_VVZ ,_Y axe_VV0_NN1 heads_NN2 ,_Y mortars_NN2 and_CC an_AT1 assortment_NN1 of_IO points_NN2 :_Y Clovis_NP1 ,_Y Hardin_NP1_NN1 ,_Y Snyder_NP1_VV0_NN1 ,_Y Adena_NP1 Gary_NP1 ,_Y Etly_NP1_RR ,_Y Dalton_NP1 and_CC Turkey_NP1 Tail_NN1 ,_Y to_TO name_VVI a_AT1 few_DA2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   62 Matilda 's books were cataloged by Jim 's wife , Roma Richardson .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   62 Matilda_NP1 's_GE books_NN2 were_VBDR cataloged_VVN by_II Jim_NP1 's_GE wife_NN1 ,_Y Roma_NP1 Richardson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   63 Now , one can search through the 1,600 volumes by allowed to be checked out .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   63 Now_RT ,_Y one_PN1 can_VM search_VVI through_II the_AT 1,600_MC volumes_NN2 by_II allowed_VVN to_TO be_VBI checked_VVN out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   64 Preparing Mrs. Pfeiffer 's mineral collection for public exhibition was a complicated but interesting project .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   64 Preparing_VVG Mrs._NNB Pfeiffer_NP1 's_GE mineral_NN1 collection_NN1 for_IF public_JJ_NN1 exhibition_NN1 was_VBDZ a_AT1 complicated_JJ but_CCB interesting_JJ project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   65 The appraisal of the collection for the estate settlement accomplished several things .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   65 The_AT appraisal_NN1 of_IO the_AT collection_NN1 for_IF the_AT estate_NN1 settlement_NN1 accomplished_VVD_VVN several_DA2 things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   66 The appraiser , in addition to determining a current value for each mineral , compiled a list of the minerals , photographed and placed a number on each one , corrected spelling errors , misidentification of minerals and their places of origin .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   66 The_AT appraiser_NN1 ,_Y in_II31 addition_II32 to_II33 determining_VVG a_AT1 current_JJ value_NN1 for_IF each_DD1 mineral_NN1 ,_Y compiled_VVD_VVN a_AT1 list_NN1 of_IO the_AT minerals_NN2 ,_Y photographed_VVN_VVD and_CC placed_VVN_VVD@ a_AT1 number_NN1 on_II each_DD1 one_PN1 ,_Y corrected_VVD_VVN_JJ@ spelling_VVG_NN1 errors_NN2 ,_Y misidentification_NN1 of_IO minerals_NN2 and_CC their_APPGE places_NN2 of_IO origin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   67 After the estate was settled two more appraisals were done .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   67 After_CS_II the_AT estate_NN1 was_VBDZ settled_VVN two_MC more_DAR appraisals_NN2 were_VBDR done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   68 Using the three appraisals , an average value was set for each mineral .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   68 Using_VVG the_AT three_MC appraisals_NN2 ,_Y an_AT1 average_JJ_NN1 value_NN1 was_VBDZ set_VVN for_IF each_DD1 mineral_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   69 One of the appraisals was done by John W. White , retired curator of the Smithsonian 's mineral collection in Washington D.C. Next , the trustees contracted with a firm in West Virginia to build cabinets to display and store the minerals .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   69 One_MC1 of_IO the_AT appraisals_NN2 was_VBDZ done_VDN by_II John_NP1 W._NP1 White_NP1 ,_Y retired_JJ_VVD curator_NN1 of_IO the_AT Smithsonian_NP1 's_GE mineral_NN1 collection_NN1 in_II Washington_NP1 D.C._NP1 Next_MD ,_Y the_AT trustees_NN2 contracted_VVN_VVD with_IW a_AT1 firm_NN1_JJ in_II West_NP1 Virginia_NP1 to_TO build_VVI cabinets_NN2 to_TO display_VVI and_CC store_VVI the_AT minerals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   70 The initial purchase was for six lighted cabinets for display and one for storage .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   70 The_AT initial_JJ_NN1 purchase_NN1 was_VBDZ for_IF six_MC lighted_JJ cabinets_NN2 for_IF display_NN1 and_CC one_PN1_MC1 for_IF storage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   71 One of the cabinets is fitted with ultraviolet light to show our fluorescent minerals .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   71 One_MC1 of_IO the_AT cabinets_NN2 is_VBZ fitted_VVN with_IW ultraviolet_JJ light_NN1_JJ to_TO show_VVI our_APPGE fluorescent_JJ minerals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   72 Also , the company took four small cabinets Mrs. Pfeiffer had and retrofitted them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   72 Also_RR ,_Y the_AT company_NN1 took_VVD four_MC small_JJ cabinets_NN2 Mrs._NNB Pfeiffer_NP1 had_VHD and_CC retrofitted_VVD them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   73 later another lighted cabinet was added for the display of " thumbnail " size minerals .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   73 later_RRR another_DD1 lighted_JJ cabinet_NN1 was_VBDZ added_VVN for_IF the_AT display_NN1 of_IO "_Y thumbnail_NN1 "_Y size_NN1 minerals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   74 From the beginning the trustees decided to continue to add to the collection .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   74 From_II the_AT beginning_NN1_VVG the_AT trustees_NN2 decided_VVD_VVN to_TO continue_VVI to_TO add_VVI to_II the_AT collection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   75 Seventy minerals specimens have been acquired in the last six years .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   75 Seventy_MC minerals_NN2 specimens_NN2 have_VH0 been_VBN acquired_VVN in_II the_AT last_MD six_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   76 The criteria used for these additions are mineral species not now in the collection , minerals from famous collecting sites not represented in the collection and upgrades of specimens we already have in the collection .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   76 The_AT criteria_NN2 used_VVN_VVD for_IF these_DD2 additions_NN2 are_VBR mineral_NN1 species_NN not_XX now_RT in_II the_AT collection_NN1 ,_Y minerals_NN2 from_II famous_JJ collecting_NN1@_VVG sites_NN2 not_XX represented_VVN in_II the_AT collection_NN1 and_CC upgrades_NN2 of_IO specimens_NN2 we_PPIS2 already_RR have_VH0 in_II the_AT collection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   77 Most of the acquisitions were purchased at the Tucson Gem and Mineral Show in Tucson , Arizona , which is held annually in February .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   77 Most_DAT of_IO the_AT acquisitions_NN2 were_VBDR purchased_VVN at_II the_AT Tucson_NP1 Gem_NN1 and_CC Mineral_NN1 Show_NN1_VV0 in_II Tucson_NP1 ,_Y Arizona_NP1 ,_Y which_DDQ is_VBZ held_VVN annually_RR in_II February_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   78 It is the largest show of its kind in the world .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   78 It_PPH1 is_VBZ the_AT largest_JJT show_NN1 of_IO its_Z' kind_NN1 in_II the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   79 The trustees are met there by Mrs. Pfeiffer 's former advisor , Steve Sinotte and his wife Rebecca .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   79 The_AT trustees_NN2 are_VBR met_VVN there_RL by_II Mrs._NNB Pfeiffer_NP1 's_GE former_DA advisor_NN1 ,_Y Steve_NP1 Sinotte_NP1_NN1 and_CC his_APPGE wife_NN1 Rebecca_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   80 Most of our acquisitions have his stamp of approval .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   80 Most_DAT of_IO our_APPGE acquisitions_NN2 have_VH0 his_APPGE stamp_NN1 of_IO approval_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   81 Highlights of the mineral exhibit include specimens from 53 countries and 36 states , with 224 from Arkansas .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   81 Highlights_NN2 of_IO the_AT mineral_NN1 exhibit_NN1_VV0 include_VV0 specimens_NN2 from_II 53_MC countries_NN2 and_CC 36_MC states_NN2 ,_Y with_IW 224_MC from_II Arkansas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   82 Several shelves feature specimens from Arkansas and Missouri .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   82 Several_DA2 shelves_NN2 feature_VV0@_NN1 specimens_NN2 from_II Arkansas_NP1 and_CC Missouri_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   83 Acquisitions by the trustees include several minerals from China ( Mrs. Pfeiffer had no minerals from China as the ) , an amber colored topaz from Pakistan , a " wire " silver specimen from Norway , a ruby from Myanmar ( formerly Burma ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   83 Acquisitions_NN2 by_II the_AT trustees_NN2 include_VV0 several_DA2 minerals_NN2 from_II China_NP1 (_Y Mrs._NNB Pfeiffer_NP1 had_VHD no_AT minerals_NN2 from_II China_NP1 as_II_CSA the_AT )_Y ,_Y an_AT1 amber_JJ_NN1 colored_JJ@_VVD topaz_NN1 from_II Pakistan_NP1 ,_Y a_AT1 "_Y wire_NN1 "_Y silver_NN1 specimen_NN1 from_II Norway_NP1 ,_Y a_AT1 ruby_NN1 from_II Myanmar_NP1 (_Y formerly_RR Burma_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   84 Never has the adage " being in the right place at the right time " been more true than the trustees ' acquisition of ten uncut diamonds from the diamond mine near Murfreesboro , Arkansas .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   84 Never_RR has_VHZ the_AT adage_NN1 "_Y being_VBG in_II the_AT right_JJ_NN1 place_NN1 at_II the_AT right_JJ_NN1 time_NNT1 "_Y been_VBN more_RGR true_JJ than_CSN the_AT trustees_NN2 '_GE acquisition_NN1 of_IO ten_MC uncut_JJ diamonds_NN2 from_II the_AT diamond_NN1 mine_NN1 near_II Murfreesboro_NP1 ,_Y Arkansas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   85 They had been in the Academy of Natural Sciences Museum in Philadelphia , Pennsylvania since 1933 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   85 They_PPHS2 had_VHD been_VBN in_II the_AT Academy_NN1 of_IO Natural_JJ Sciences_NN2 Museum_NN1 in_II Philadelphia_NP1 ,_Y Pennsylvania_NP1 since_II 1933_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   86 The museum was deaccessioning its mineral collection and had placed it with several reputable dealers to sell .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   86 The_AT museum_NN1 was_VBDZ deaccessioning_VVG its_Z' mineral_NN1 collection_NN1 and_CC had_VHD placed_VVN it_PPH1 with_IW several_DA2 reputable_JJ dealers_NN2 to_TO sell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   87 The trustees had completed the purchase of a mineral from one of these dealers .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   87 The_AT trustees_NN2 had_VHD completed_VVN the_AT purchase_NN1 of_IO a_AT1 mineral_NN1 from_II one_MC1 of_IO these_DD2 dealers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   88 Upon looking at our business card and seeing that we were located in Arkansas , he showed us the diamonds and we purchased them , a total of 22.91 carats .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   88 Upon_II looking_VVG at_II our_APPGE business_NN1 card_NN1 and_CC seeing_CS21 that_CS22 we_PPIS2 were_VBDR located_VVN in_II Arkansas_NP1 ,_Y he_PPHS1 showed_VVD us_PPIO2 the_AT diamonds_NN2 and_CC we_PPIS2 purchased_VVD them_PPHO2 ,_Y a_AT1 total_NN1_JJ of_IO 22.91_MC carats_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   89 The star of the suite is a flawless canary yellow diamond weighing 3.40 carats .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   89 The_AT star_NN1 of_IO the_AT suite_NN1 is_VBZ a_AT1 flawless_JJ canary_JJ_NN1 yellow_JJ diamond_NN1 weighing_NN1_VVG 3.40_MC carats_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   90 The Trustees have named it " The Matilda .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   90 The_AT Trustees_NN2 have_VH0 named_VVN it_PPH1 "_Y The_AT Matilda_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   91 " Matilda and Karl Pfeiffer 's home was opened to the public May 9 , 2004 as the Matilda and Karl Pfeiffer Museum have turned the home and grounds into a showcase of Matilda 's interests .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   91 "_Y Matilda_NP1 and_CC Karl_NP1 Pfeiffer_NP1 's_GE home_NN1@_RL was_VBDZ opened_VVN to_II the_AT public_JJ_NN1 May_NPM1 9_MC ,_Y 2004_MC as_II_CSA the_AT Matilda_NP1 and_CC Karl_NP1 Pfeiffer_NP1_NN1 Museum_NN1 have_VH0 turned_VVN the_AT home_NN1 and_CC grounds_NN2 into_II a_AT1 showcase_NN1 of_IO Matilda_NP1 's_GE interests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   92 Visitors can walk around the grounds and see the wide variety of vegetation , the wildflower garden and the pond .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   92 Visitors_NN2 can_VM walk_VVI around_II_RP the_AT grounds_NN2 and_CC see_VVI the_AT wide_JJ variety_NN1 of_IO vegetation_NN1 ,_Y the_AT wildflower_NN1 garden_NN1 and_CC the_AT pond_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   93 The home is vintage 1933 and very little has been changed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   93 The_AT home_NN1 is_VBZ vintage_NN1_JJ@ 1933_MC and_CC very_RG little_DA1 has_VHZ been_VBN changed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   94 Her interests are on display : the library , the Native American artifacts , and the mineral collection .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   94 Her_APPGE interests_NN2 are_VBR on_II display_NN1 :_Y the_AT library_NN1 ,_Y the_AT Native_JJ American_JJ artifacts_NN2 ,_Y and_CC the_AT mineral_NN1 collection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   95 Visitors to the museum come from all over the United States and several foreign countries .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   95 Visitors_NN2 to_II the_AT museum_NN1 come_VVN@_VV0 from_II all_RR over_II the_AT United_NP1 States_NP1 and_CC several_DA2 foreign_JJ countries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   96 We receive scheduled visits from many groups : schools , churches , red hat ladies , mineral clubs , and home demonstration clubs , to list a few .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   96 We_PPIS2 receive_VV0 scheduled_JJ visits_NN2 from_II many_DA2 groups_NN2 :_Y schools_NN2 ,_Y churches_NN2 ,_Y red_JJ hat_NN1 ladies_NN2 ,_Y mineral_NN1 clubs_NN2 ,_Y and_CC home_NN1 demonstration_NN1 clubs_NN2 ,_Y to_TO list_VVI a_AT1 few_DA2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   97 For the scheduled visits we offer an hour long presentation about the museum .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   97 For_IF the_AT scheduled_JJ visits_NN2 we_PPIS2 offer_VV0 an_AT1 hour_NNT1 long_JJ presentation_NN1 about_II the_AT museum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   98 A highlight of our year is our Native American Day in September .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   98 A_AT1 highlight_NN1 of_IO our_APPGE year_NNT1 is_VBZ our_APPGE Native_JJ American_JJ Day_NNT1_NP1 in_II September_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0   99 Boy Scouts from a troop in Cape Girardeau , Missouri , set up an authentic camp site and perform Native American dances in full regalia .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0   99 Boy_NN1 Scouts_NN2_VVZ@ from_II a_AT1 troop_NN1 in_II Cape_NP1 Girardeau_NP1 ,_Y Missouri_NP1 ,_Y set_VVD_VV0_VVN up_RP an_AT1 authentic_JJ camp_NN1 site_NN1 and_CC perform_VV0 Native_JJ American_JJ dances_NN2 in_II_RR21 full_JJ_RR22 regalia_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  100 Knappers are on hand making arrow heads , and an authority on Native American artifacts , R. W. " Dub " Lyerly , is on hand to a crowd of about 400 people .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  100 Knappers_NN2 are_VBR on_II hand_NN1 making_VVG_NN1@ arrow_NN1 heads_NN2 ,_Y and_CC an_AT1 authority_NN1 on_II Native_JJ American_JJ artifacts_NN2 ,_Y R._NP1 W._NP1 "_Y Dub_NP1 "_Y Lyerly_NP1 ,_Y is_VBZ on_II hand_NN1 to_TO a_AT1 crowd_NN1 of_IO about_RG 400_MC people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  101 The museum is open Tuesday through Friday 9:00 am to 4:00 pm and Saturday 11:00 am to 4:00 pm .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  101 The_AT museum_NN1 is_VBZ open_JJ_RR@ Tuesday_NPD1 through_II Friday_NPD1 9:00_MC am_RA@ to_II 4:00_MC pm_RA and_CC Saturday_NPD1 11:00_MC am_RA@ to_II 4:00_MC pm_RA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  102 Admission is free .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  102 Admission_NN1 is_VBZ free_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  103 You can visit our website at **26;6264;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  103 You_PPY can_VM visit_VVI our_APPGE website_NN1 at_II **26;6264;TOOLONG_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  104 Our telephone number is 870-598-3228 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  104 Our_APPGE telephone_NN1 number_NN1 is_VBZ 870-598-3228_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  105 The Executive Director is Teresa Taylor and the Assistant Director is Ella Jean Mack .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  105 The_AT Executive_NN1_JJ@ Director_NN1 is_VBZ Teresa_NP1 Taylor_NP1 and_CC the_AT Assistant_JJ_NN1 Director_NN1 is_VBZ Ella_NP1 Jean_NP1 Mack_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  106 PHOTO ( BLACK WHITE ) : Figure 4 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  106 PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Figure_NN1 4_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  107 Karl Matilda Pfeiffer PHOTO ( COLOR ) : Figure 1 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  107 Karl_NP1 Matilda_NP1 Pfeiffer_NP1_NN1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Figure_NN1_VV0% 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  108 Pfeiffer House , Piggott , Arkansas PHOTO ( COLOR ) : Figure 2 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  108 Pfeiffer_VV0_NN1 House_NN1 ,_Y Piggott_NP1 ,_Y Arkansas_NP1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  109 Heliodor specimen PHOTO ( COLOR ) : Figure 3 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  109 Heliodor_NN1_NP1@ specimen_NN1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Figure_NN1 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  A    0  110 " Wire " Silver specimen
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080031 COCA  B    0  110 "_Y Wire_VV0@_NN1 "_Y Silver_NP1_NN1@ specimen_NN1

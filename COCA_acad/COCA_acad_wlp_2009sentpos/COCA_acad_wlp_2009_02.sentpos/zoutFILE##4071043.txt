@@ -1,0 +1,246 @@
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    0 Yellowstone National Park was established by Ulysses S. Grant in 1872 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    0 Yellowstone_NP1 National_JJ Park_NN1 was_VBDZ established_VVN by_II Ulysses_NP1 S._NP1 Grant_NP1 in_II 1872_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    1 Its geysers , animals , and beautiful scenery are just a few of the things that attract people from all over the world : more than 3 million people visit the Park each year .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    1 Its_Z' geysers_NN2 ,_Y animals_NN2 ,_Y and_CC beautiful_JJ scenery_NN1 are_VBR just_RR a_AT1 few_DA2 of_IO the_AT things_NN2 that_CST attract_VV0 people_NN from_II all_RR over_II the_AT world_NN1 :_Y more_DAR than_CSN 3_MC million_M people_NN visit_VV0 the_AT Park_NN1_NP1 each_DD1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    2 Yellowstone covers more than 3300 square miles in area and is mostly located in the upper northwest corner of Wyoming .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    2 Yellowstone_NP1 covers_VVZ more_DAR than_CSN 3300_MC square_JJ miles_NNU2 in_II area_NN1 and_CC is_VBZ mostly_RR located_VVN_VVD in_II the_AT upper_JJ northwest_ND1 corner_NN1 of_IO Wyoming_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    3 Its geysers , hot springs , waterfalls , and wildlife are priceless .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    3 Its_Z' geysers_NN2 ,_Y hot_JJ springs_NN2 ,_Y waterfalls_NN2 ,_Y and_CC wildlife_NN1 are_VBR priceless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    4 We are reminded of the vision that those early park supporters had to preserve Yellowstone 's natural resources not for its economic value , but for its natural beauty .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    4 We_PPIS2 are_VBR reminded_VVN of_IO the_AT vision_NN1 that_CST those_DD2 early_JJ park_NN1 supporters_NN2 had_VHD to_TO preserve_VVI Yellowstone_NP1 's_GE natural_JJ resources_NN2 not_XX for_IF its_Z' economic_JJ value_NN1 ,_Y but_II21_CCB for_II22_IF its_Z' natural_JJ beauty_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    5 We are the beneficiaries of efforts to have this special place set aside for the enjoyment of the people .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    5 We_PPIS2 are_VBR the_AT beneficiaries_NN2 of_IO efforts_NN2 to_TO have_VHI this_DD1 special_JJ place_NN1 set_VVD_VVN_VV0 aside_RL for_IF the_AT enjoyment_NN1 of_IO the_AT people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    6 <p> Historians say the Yellowstone name originated from the yellowish sandstone bluffs that border the Yellowstone River for over 100 miles .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    6 <p>_Y Historians_NN2 say_VV0 the_AT Yellowstone_NP1 name_NN1 originated_VVN_VVD from_II the_AT yellowish_JJ sandstone_NN1 bluffs_VVZ that_CST border_VV0@_NN1 the_AT Yellowstone_NP1 River_NNL1 for_IF over_RG 100_MC miles_NNU2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    7 The river flows through Yellowstone Lake .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    7 The_AT river_NN1 flows_VVZ_NN2 through_II Yellowstone_NP1 Lake_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    8 Yellowstone Lake is over 300 feet deep in some places and averages 140 feet in depth .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    8 Yellowstone_NP1 Lake_NNL1 is_VBZ over_RG 300_MC feet_NN2 deep_JJ in_II some_DD places_NN2 and_CC averages_NN2 140_MC feet_NN2 in_II depth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0    9 It is 20 miles long and 14 miles wide and is elevation in the United States .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0    9 It_PPH1 is_VBZ 20_MC miles_NNU2 long_JJ and_CC 14_MC miles_NNU2 wide_JJ and_CC is_VBZ elevation_NN1 in_II the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   10 The lake is located in the southeastern section of the park .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   10 The_AT lake_NN1 is_VBZ located_VVN in_II the_AT southeastern_JJ section_NN1 of_IO the_AT park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   11 <p> Yellowstone River , which starts just south of the park , is 671 miles long and flows into the Missouri River .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   11 <p>_Y Yellowstone_NP1 River_NNL1 ,_Y which_DDQ starts_VVZ just_RR south_ND1 of_IO the_AT park_NN1 ,_Y is_VBZ 671_MC miles_NNU2 long_JJ and_CC flows_VVZ_NN2 into_II the_AT Missouri_NP1 River_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   12 After the river leaves Yellowstone Lake it flows through several canyons on its way to the Missouri River : one of these is the Grand Canyon of Yellowstone where we find the Upper and Lower Falls .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   12 After_CS_II the_AT river_NN1 leaves_VVZ Yellowstone_NP1 Lake_NNL1 it_PPH1 flows_VVZ through_II_RP@ several_DA2 canyons_NN2 on_II its_Z' way_NN1 to_II the_AT Missouri_NP1 River_NNL1 :_Y one_MC1 of_IO these_DD2 is_VBZ the_AT Grand_JJ Canyon_NPX of_IO Yellowstone_NP1 where_CS_RRQ we_PPIS2 find_VV0 the_AT Upper_JJ and_CC Lower_JJR Falls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   13 <p> These two falls are found near Canyon Village and can be photographed from several lookout points .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   13 <p>_Y These_DD2 two_MC falls_NN2 are_VBR found_VVN near_II Canyon_NP1 Village_NP1_NN1 and_CC can_VM be_VBI photographed_VVN from_II several_DA2 lookout_VV0_NN1 points_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   14 Upper Falls is 109 feet in height and Lower Falls , which is the most spectacular , has a height of 308 feet .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   14 Upper_JJ Falls_NN2 is_VBZ 109_MC feet_NN2 in_II height_NN1 and_CC Lower_JJR Falls_NN2 ,_Y which_DDQ is_VBZ the_AT most_RGT spectacular_JJ ,_Y has_VHZ a_AT1 height_NN1 of_IO 308_MC feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   15 Lower Falls shown hem with snow on the ground was taken during May .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   15 Lower_JJR Falls_NN2 shown_VVN hem_NN1 with_IW snow_NN1 on_II the_AT ground_NN1 was_VBDZ taken_VVN during_II May_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   16 <p> L : The 1988 Fires of Yellowstone Most every year there are fires caused by lightning .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   16 <p>_Y L_ZZ1_NP1@ :_Y The_AT 1988_MC Fires_NN2 of_IO Yellowstone_NP1 Most_RRT@_DAT every_AT1 year_NNT1 there_EX are_VBR fires_NN2 caused_VVN by_II lightning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   17 which burn out by themselves with some help from rain .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   17 which_DDQ burn_VV0 out_RP by_II themselves_PPX2 with_IW some_DD help_NN1_VV0 from_II rain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   18 In July and August the season was very dry and the 1988 fires were fueled by strong winds anti were out of control .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   18 In_II July_NPM1 and_CC August_NPM1 the_AT season_NNT1 was_VBDZ very_RG dry_JJ and_CC the_AT 1988_MC fires_NN2 were_VBDR fueled_VVN by_II strong_JJ winds_NN2_VVZ anti_JJ were_VBDR out_II21 of_II22 control_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   19 During the month of called to the scene .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   19 During_II the_AT month_NNT1 of_IO called_VVN to_II the_AT scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   20 The fire covered 793,000 acres , about 36% of the total of 2,221,800 acres in Yellowstone Park .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   20 The_AT fire_NN1 covered_VVD_VVN 793,000_MC acres_NNU2 ,_Y about_RG 36%_NNU of_IO the_AT total_NN1 of_IO 2,221,800_MC acres_NNU2 in_II Yellowstone_NP1 Park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   21 There were over 300 animals found dead and most of them were elk .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   21 There_EX were_VBDR over_RG 300_MC animals_NN2 found_VVD_VVN dead_JJ and_CC most_DAT of_IO them_PPHO2 were_VBDR elk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   22 By mid-September early snows helped to put out the fires : however , the smoldering flames were not extinguished until November .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   22 By_II mid-September_NPM1 early_JJ_RR snows_NN2 helped_VVD_VVN to_TO put_VVI out_RP the_AT fires_NN2 :_Y however_RR ,_Y the_AT smoldering_JJ@_NN1@ flames_NN2 were_VBDR not_XX extinguished_VVN until_II@_CS November_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   23 The photo here were taken in 1993 on my first visit to Yellowstone .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   23 The_AT photo_NN1 here_RL were_VBDR taken_VVN in_II 1993_MC on_II my_APPGE first_MD visit_NN1_VV0 to_II Yellowstone_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   24 After a live year period some of the vegetation had started to grow back .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   24 After_CS_II a_AT1 live_JJ year_NNT1 period_NN1 some_DD of_IO the_AT vegetation_NN1 had_VHD started_VVN to_TO grow_VVI back_RP ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   25 <p> L : GEYSERS OF YELLOWSTONE Old Faithful is the most famous geyser in Yellowstone because it is somewhat predictable .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   25 <p>_Y L_ZZ1_NP1@ :_Y GEYSERS_NN2 OF_IO YELLOWSTONE_NP1 Old_JJ Faithful_JJ is_VBZ the_AT most_RGT famous_JJ geyser_NN1 in_II Yellowstone_NP1 because_CS it_PPH1 is_VBZ somewhat_RR predictable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   26 however , it does have a fairly wide range .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   26 however_RR ,_Y it_PPH1 does_VDZ have_VHI a_AT1 fairly_RR wide_JJ range_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   27 Old Faithful can erupt in intervals anywhere from 60 to 100 minutes , and at times has been know to go outside of this range .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   27 Old_JJ Faithful_JJ can_VM erupt_VVI in_II_RP@ intervals_NN2 anywhere_RL from_II 60_MC to_II 100_MC minutes_NNT2 ,_Y and_CC at_II times_NNT2 has_VHZ been_VBN know_VV0 to_TO go_VVI outside_II21 of_II22 this_DD1 range_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   28 The average height of an eruption is 145 feet with 185 feet being the highest recorded .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   28 The_AT average_JJ_NN1 height_NN1 of_IO an_AT1 eruption_NN1 is_VBZ 145_MC feet_NN2 with_IW 185_MC feet_NN2 being_VBG the_AT highest_RRT@_JJT recorded_VVN_VVD_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   29 Studies have shown that the longer the eruption , the longer the next time interval may be .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   29 Studies_NN2 have_VH0 shown_VVN that_CST the_AT longer_JJR_RRR the_AT eruption_NN1 ,_Y the_AT longer_JJR_RRR the_AT next_MD time_NNT1 interval_NN1 may_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   30 Scientists have chosen 2.5 minutes as the median eruption time .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   30 Scientists_NN2 have_VH0 chosen_VVN 2.5_MC minutes_NNT2 as_II_CSA the_AT median_JJ_NN1 eruption_NN1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   31 intervals closer to 100 minutes and close to 60 minutes if the eruption time is less than 2.5 minutes .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   31 intervals_NN2 closer_RRR to_II 100_MC minutes_NNT2 and_CC close_RR_JJ to_II 60_MC minutes_NNT2 if_CS the_AT eruption_NN1 time_NNT1 is_VBZ less_DAR than_CSN 2.5_MC minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   32 In this manner , they have been able to predict the time intervals within 10 minutes .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   32 In_II this_DD1 manner_NN1 ,_Y they_PPHS2 have_VH0 been_VBN able_JK to_TO predict_VVI the_AT time_NNT1 intervals_NN2 within_II 10_MC minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   33 Data shows that the time interval has increased over the years .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   33 Data_NN shows_VVZ_NN2 that_CST the_AT time_NNT1 interval_NN1 has_VHZ increased_VVN over_II_RP the_AT years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   34 <p> L : BEEHIVE GEYSER Beehive Geyser is also a popular geyser and is located in the Upper Geyser Basin trod is within walking distance from Old Faithful .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   34 <p>_Y L_ZZ1_NP1@ :_Y BEEHIVE_NN1 GEYSER_NN1 Beehive_NN1 Geyser_NN1 is_VBZ also_RR a_AT1 popular_JJ geyser_NN1 and_CC is_VBZ located_VVN in_II the_AT Upper_JJ Geyser_NN1 Basin_NN1 trod_VVN@_VVD is_VBZ within_II walking_VVG_NN1_JJ@ distance_NN1 from_II Old_JJ Faithful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   35 Beehive is unique because it has an indicator which almost always erupts about 20-30 minutes before Beehive .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   35 Beehive_NN1 is_VBZ unique_JJ because_CS it_PPH1 has_VHZ an_AT1 indicator_NN1 which_DDQ almost_RR always_RR erupts_VVZ about_II_RP@ 20-30_MCMC minutes_NNT2 before_II_CS Beehive_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   36 The indicator is located only a few yards from Beehive .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   36 The_AT indicator_NN1 is_VBZ located_VVN only_RR a_AT1 few_DA2 yards_NN2 from_II Beehive_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   37 <p> Beehive is somewhat predictable .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   37 <p>_Y Beehive_NN1 is_VBZ somewhat_RR predictable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   38 It erupts about every .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   38 It_PPH1 erupts_VVZ about_II_RP@ every_AT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   39 15 hours .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   39 15_MC hours_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   40 Its narrow cone acts like a nozzle and projects the water to a height of up to 180 feet .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   40 Its_Z' narrow_JJ cone_NN1 acts_VVZ_NN2 like_II a_AT1 nozzle_NN1 and_CC projects_VVZ@_NN2 the_AT water_NN1 to_II a_AT1 height_NN1 of_IO up_RG21 to_RG22 180_MC feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   41 Beehive eruptions last from 4 to 5 minutes and you will get wet if you are standing downwind .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   41 Beehive_NN1 eruptions_NN2 last_VV0@_MD from_II 4_MC to_II 5_MC minutes_NNT2 and_CC you_PPY will_VM get_VVI wet_JJ if_CS_CSW@ you_PPY are_VBR standing_VVG downwind_RL ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   42 It is beautiful to watch because of its tall column of water .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   42 It_PPH1 is_VBZ beautiful_JJ to_TO watch_VVI because_II21 of_II22 its_Z' tall_JJ column_NN1 of_IO water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   43 <p> While Dome Geyser is one of many favorite geysers .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   43 <p>_Y While_CS Dome_NN1 Geyser_NN1 is_VBZ one_MC1 of_IO many_DA2 favorite_JJ geysers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   44 It is located in the Lower Geyser Old Faithful .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   44 It_PPH1 is_VBZ located_VVN in_II the_AT Lower_JJR Geyser_NN1 Old_JJ Faithful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   45 White Dome Geyser 's unique structure is a 12 foot tall sinter cone .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   45 White_JJ Dome_NN1 Geyser_NN1 's_GE unique_JJ structure_NN1 is_VBZ a_AT1 12_MC foot_NN1 tall_JJ sinter_NN1 cone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   46 Its eruptions reach a height of 30 feet and last for about 2 minutes .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   46 Its_Z' eruptions_NN2 reach_VV0 a_AT1 height_NN1 of_IO 30_MC feet_NN2 and_CC last_VV0@_MD for_IF about_RG 2_MC minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   47 It erupts many times a day : however , it is not very predictable since times can vary between 15 and 150 minutes .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   47 It_PPH1 erupts_VVZ many_DA2 times_NNT2 a_AT1 day_NNT1 :_Y however_RR ,_Y it_PPH1 is_VBZ not_XX very_RG predictable_JJ since_CS_II@ times_NNT2 can_VM vary_VVI between_II 15_MC and_CC 150_MC minutes_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   48 <p> L : Yellowstone 's Wildlife : YELLOWSTONE 'S BISON Some estimate that there were over 50 million bison roaming in North America in 1800 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   48 <p>_Y L_ZZ1_NP1@ :_Y Yellowstone_NP1 's_GE Wildlife_NN1 :_Y YELLOWSTONE_NP1 'S_GE BISON_NN Some_DD estimate_VV0_NN1 that_CST there_EX were_VBDR over_RG 50_MC million_M bison_NN roaming_VVG in_II North_ND1 America_NP1 in_II 1800_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   49 During the 1800 's up until 1890 , hunters and poachers all but eliminated the bison from North America .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   49 During_II the_AT 1800_MC221% 's_MC222% up_II21 until_II22 1890_MC ,_Y hunters_NN2 and_CC poachers_NN2 all_RR21 but_RR22 eliminated_VVD_VVN the_AT bison_NN from_II North_ND1 America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   50 By 1890 fewer than 1000 bison remained .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   50 By_II 1890_MC fewer_DAR than_CSN 1000_MC bison_NN remained_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   51 In 1894 Congress passed the Lacey Act , which imposed a $1000 fine on anyone convicted of shooting bison .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   51 In_II 1894_MC Congress_NN1 passed_VVD_VVN the_AT Lacey_JJ@_NP1 Act_NN1 ,_Y which_DDQ imposed_VVD a_AT1 $1000_NNU fine_JJ on_II anyone_PN1 convicted_VVN_JJ of_IO shooting_VVG_NN1_JJ@ bison_NN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   52 However .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   52 However_RR_RRQV ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   53 by 1902 there were less than 25 bison in some of the herds , Bison from private ranches in Texas and Montana were brought into Yellowstone and managed like cattle .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   53 by_II 1902_MC there_EX were_VBDR less_DAR than_CSN 25_MC bison_NN in_II some_DD of_IO the_AT herds_NN2 ,_Y Bison_NN from_II private_JJ ranches_NN2 in_II Texas_NP1 and_CC Montana_NP1 were_VBDR brought_VVN into_II Yellowstone_NP1 and_CC managed_VVN_VVD like_II cattle_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   54 The bison were managed intensively until 1936 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   54 The_AT bison_NN were_VBDR managed_VVN intensively_RR until_II 1936_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   55 These bison were then trucked to the Firehole and Hayden valleys where they were allowed to range freely and mix from hunting and poaching , the bison herds grew to a population of over 1400 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   55 These_DD2 bison_NN were_VBDR then_RT trucked_VVN to_II the_AT Firehole_NN1_NP1 and_CC Hayden_NP1 valleys_NN2 where_CS_RRQ they_PPHS2 were_VBDR allowed_VVN to_TO range_VVI freely_RR and_CC mix_VVI from_II hunting_NN1 and_CC poaching_VVG_NN1@_JJ@ ,_Y the_AT bison_NN herds_NN2 grew_VVD to_II a_AT1 population_NN1 of_IO over_RG 1400_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   56 During the next few decades , the bison population was allowed to increase or decrease in response to environmental conditions .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   56 During_II the_AT next_MD few_DA2 decades_NNT2 ,_Y the_AT bison_NN population_NN1 was_VBDZ allowed_VVN to_TO increase_VVI or_CC decrease_VVI in_II31 response_II32 to_II33 environmental_JJ conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   57 The population would increase during mild winters and decrease during severe weather conditions .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   57 The_AT population_NN1 would_VM increase_VVI during_II mild_JJ winters_NNT2 and_CC decrease_VVI during_II severe_JJ weather_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   58 By 1997 , the population had grown to over 3500 and this is about where it stands at the present time .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   58 By_II 1997_MC ,_Y the_AT population_NN1 had_VHD grown_VVN to_II over_RG 3500_MC and_CC this_DD1 is_VBZ about_II_RP@ where_RRQ_CS it_PPH1 stands_VVZ at_II the_AT present_JJ_NN1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   59 Bison are a very large animal and can be 6 feet tall to the shoulders and weigh up to 1800 lbs .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   59 Bison_NN are_VBR a_AT1 very_RG large_JJ animal_NN1 and_CC can_VM be_VBI 6_MC feet_NN2 tall_JJ to_II the_AT shoulders_NN2 and_CC weigh_VV0 up_RG21 to_RG22 1800_MC lbs_NNU2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   60 Bison mate in July and August and you can usually see battles between rival bulls in the Hayden Valley herds .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   60 Bison_NN mate_NN1_VV0@ in_II July_NPM1 and_CC August_NPM1 and_CC you_PPY can_VM usually_RR see_VVI battles_NN2 between_II rival_JJ_NN1 bulls_NN2 in_II the_AT Hayden_NP1 Valley_NN1_NP1@ herds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   61 Although the adults are dark brown with long shaggy hair , the calves are reddish brown with short hair .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   61 Although_CS the_AT adults_NN2 are_VBR dark_JJ brown_JJ_NN1@ with_IW long_JJ_RR shaggy_JJ hair_NN1 ,_Y the_AT calves_NN2 are_VBR reddish_JJ brown_JJ_NN1@ with_IW short_JJ hair_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   62 The calves are born in April and May .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   62 The_AT calves_NN2 are_VBR born_VVN in_II April_NPM1 and_CC May_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   63 The Bison Bull photo was taken during the month of September .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   63 The_AT Bison_NN Bull_NP1_NN1@ photo_NN1 was_VBDZ taken_VVN during_II the_AT month_NNT1 of_IO September_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   64 <p> L : YELLOWSTONE BEAR Although Yellowstone was originally designated a national park to protect the scenic wonders , bears quickly became one of the park 's attractions .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   64 <p>_Y L_ZZ1_NP1@ :_Y YELLOWSTONE_NP1 BEAR_NN1_VV0 Although_CS Yellowstone_NP1 was_VBDZ originally_RR designated_VVN_VVD a_AT1 national_JJ park_NN1 to_TO protect_VVI the_AT scenic_JJ wonders_NN2 ,_Y bears_NN2_VVZ@ quickly_RR became_VVD one_MC1 of_IO the_AT park_NN1 's_GE attractions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   65 For hundreds of years , , insects , pine nuts , and ground squirrels .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   65 For_IF hundreds_M of_IO years_NNT2 ,_Y ,_Y insects_NN2 ,_Y pine_NN1_VV0@ nuts_NN2 ,_Y and_CC ground_NN1_JJ@ squirrels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   66 They also fed on fish and the carcasses of winterkilled bison and elk .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   66 They_PPHS2 also_RR fed_VVD on_II fish_NN and_CC the_AT carcasses_NN2 of_IO winterkilled_JJ@ bison_NN and_CC elk_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   67 Then humans arrived .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   67 Then_RT_JJ% humans_NN2 arrived_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   68 As early as the 1930s , the bears in search of food became very troublesome at campgrounds and other places in Yellowstone where garbage could be found .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   68 As_RG early_RR_JJ as_CSA the_AT 1930s_MC2 ,_Y the_AT bears_NN2 in_II31 search_II32 of_II33 food_NN1 became_VVD very_RG troublesome_JJ at_II campgrounds_NN2 and_CC other_JJ places_NN2 in_II Yellowstone_NP1 where_RRQ garbage_NN1 could_VM be_VBI found_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   69 By the 1960s it was getting out of hand .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   69 By_II the_AT 1960s_MC2 it_PPH1 was_VBDZ getting_VVG out_II21 of_II22 hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   70 It was a common sight to see bears , coming tip to cars stopped on the road , begging for food .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   70 It_PPH1 was_VBDZ a_AT1 common_JJ sight_NN1 to_TO see_VVI bears_NN2 ,_Y coming_VVG tip_NN1_VV0 to_II cars_NN2 stopped_VVN_VVD on_II the_AT road_NN1 ,_Y begging_VVG for_IF food_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   71 <p> In the 1970s .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   71 <p>_Y In_II the_AT 1970s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   72 Yellowstone initiated an intensive bear management program to restore the grizzly and black bear subsistence on natural foods .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   72 Yellowstone_NP1 initiated_VVD an_AT1 intensive_JJ bear_NN1 management_NN1 program_NN1 to_TO restore_VVI the_AT grizzly_NN1_JJ and_CC black_JJ bear_NN1 subsistence_NN1 on_II natural_JJ foods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   73 An part of the program , regulations that prohibited the feeding of bears were strictly enforced , all garbage cans throughout the park were made bear-proof , and all garbage dumps within the park were closed .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   73 An_AT1 part_NN1 of_IO the_AT program_NN1 ,_Y regulations_NN2 that_CST prohibited_VVD the_AT feeding_NN1@ of_IO bears_NN2 were_VBDR strictly_RR enforced_VVN_VVD_JJ ,_Y all_DB garbage_NN1 cans_NN2_VVZ@ throughout_II the_AT park_NN1 were_VBDR made_VVN bear-proof_JJ ,_Y and_CC all_DB garbage_NN1 dumps_NN2 within_II the_AT park_NN1 were_VBDR closed_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   74 The grizzly bear population in the Yellowstone ecosystem is now very close to meeting all the population requirements set by the U.S. Fish and Wildlife Service .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   74 The_AT grizzly_JJ_NN1 bear_NN1 population_NN1 in_II the_AT Yellowstone_NP1 ecosystem_NN1 is_VBZ now_RT very_RG close_JJ to_II meeting_VVG all_DB the_AT population_NN1 requirements_NN2 set_VVN by_II the_AT U.S._NP1 Fish_NP1@_NN and_CC Wildlife_NN1 Service_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   75 While it in exciting to nee a bear in the park , for many it this nation where wild , tree roaming animals live as they did before our advanced technology displaced them from their original home ranges , and if you are lucky , you may even get a photograph of one .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   75 While_CS it_PPH1 in_II_RP@ exciting_JJ to_II_TO nee_FW a_AT1 bear_NN1 in_II the_AT park_NN1 ,_Y for_IF many_DA2 it_PPH1 this_DD1 nation_NN1 where_CS_RRQ wild_JJ_RR@ ,_Y tree_NN1 roaming_VVG animals_NN2 live_VV0 as_CSA they_PPHS2 did_VDD before_CS_II our_APPGE advanced_JJ technology_NN1 displaced_VVD_VVN them_PPHO2 from_II their_APPGE original_JJ home_NN1 ranges_NN2_VVZ ,_Y and_CC if_CS_CSW@ you_PPY are_VBR lucky_JJ ,_Y you_PPY may_VM even_RR get_VVI a_AT1 photograph_NN1 of_IO one_PN1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   76 I have been to Yellowstone 5 times in the past 15 years and was only able to photograph a grizzly bear on one morning There are more opportunities to shoot black bear , since there are more black bears in the park .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   76 I_PPIS1 have_VH0 been_VBN to_II Yellowstone_NP1 5_MC times_NNT2 in_II the_AT past_JJ 15_MC years_NNT2 and_CC was_VBDZ only_RR able_JK to_TO photograph_VVI a_AT1 grizzly_JJ_NN1 bear_NN1 on_II one_MC1 morning_NNT1 There_EX are_VBR more_DAR opportunities_NN2 to_TO shoot_VVI black_JJ bear_NN1 ,_Y since_CS there_EX are_VBR more_RGR black_JJ bears_NN2 in_II the_AT park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   77 For all bear photographs , I used a long lens and stayed close to the vehicle .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   77 For_IF all_DB bear_VV0_NN1 photographs_NN2 ,_Y I_PPIS1 used_VVD a_AT1 long_JJ lens_NN1 and_CC stayed_VVD_VVN close_RR_JJ to_II the_AT vehicle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   78 The grizzly bear was photographed just north of the Norris Basin .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   78 The_AT grizzly_JJ_NN1 bear_NN1 was_VBDZ photographed_VVN just_RR north_ND1 of_IO the_AT Norris_NP1 Basin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   79 It was snowing and sleeting at the time and the temperature was in the upper thirties during late May .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   79 It_PPH1 was_VBDZ snowing_VVG and_CC sleeting_VVG at_II the_AT time_NNT1 and_CC the_AT temperature_NN1 was_VBDZ in_II the_AT upper_JJ thirties_MC2 during_II late_JJ May_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   80 The black bear can show up almost anywhere in the park .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   80 The_AT black_JJ bear_NN1 can_VM show_VVI up_RP almost_RR anywhere_RL in_II the_AT park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   81 The black bear shown here was photographed in the southeast section of the park .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   81 The_AT black_JJ bear_NN1 shown_VVN here_RL was_VBDZ photographed_VVN in_II the_AT southeast_ND1 section_NN1 of_IO the_AT park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   82 <p> ELK are the most abundant large mammals found in Yellowstone .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   82 <p>_Y ELK_NP1_VV0_NN1 are_VBR the_AT most_RGT abundant_JJ large_JJ mammals_NN2 found_VVN_VVD in_II Yellowstone_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   83 There were over 20,000 elk in the park when it was established in 1872 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   83 There_EX were_VBDR over_RG 20,000_MC elk_VV0_NN1 in_II the_AT park_NN1 when_CS_RRQ it_PPH1 was_VBDZ established_VVN in_II 1872_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   84 Hunting and poaching kept the elk .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   84 Hunting_NN1 and_CC poaching_NN1@_VVG kept_VVD_VVN the_AT elk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   85 With the protection law in effect , at the end of the 20th century , there were more than 30,000 elk in the park in as many as 8 different herds .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   85 With_IW the_AT protection_NN1 law_NN1 in_II effect_NN1 ,_Y at_II the_AT end_NN1 of_IO the_AT 20th_MD century_NNT1 ,_Y there_EX were_VBDR more_DAR than_CSN 30,000_MC elk_VV0_NN1 in_II the_AT park_NN1 in_II as_RG many_DA2 as_CSA 8_MC different_JJ herds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   86 Elk are a member of the deer family and are the 2nd largest , as moose are larger .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   86 Elk_VV0_NN1_NP1@ are_VBR a_AT1 member_NN1 of_IO the_AT deer_NN family_NN1 and_CC are_VBR the_AT 2nd_MD largest_JJT ,_Y as_CSA moose_NN are_VBR larger_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   87 Bull elk can weigh up to 700 pounds .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   87 Bull_NP1_NN1 elk_NN1 can_VM weigh_VVI up_RG21 to_RG22 700_MC pounds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   88 Bulls grow antlers annually from a very young age .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   88 Bulls_NN2 grow_VV0 antlers_NN2 annually_RR from_II a_AT1 very_RG young_JJ age_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   89 A bull elk 's rack may have 7 to 8 points on each side .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   89 A_AT1 bull_NN1 elk_NN1 's_GE rack_NN1 may_VM have_VHI 7_MC to_II 8_MC points_NN2_VVZ on_II each_DD1 side_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   90 The antlers are shed in early spring and new ones are grown in May .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   90 The_AT antlers_NN2 are_VBR shed_Z' in_II early_JJ spring_NN1 and_CC new_JJ ones_Z' are_VBR grown_VVN in_II May_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   91 The new antlers are covered with velvet like texture and keep growing until about late August .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   91 The_AT new_JJ antlers_NN2 are_VBR covered_VVN with_IW velvet_NN1 like_II texture_NN1 and_CC keep_VV0 growing_JJ_VVG until_CS about_II_RG% late_JJ August_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   92 The elk scrape the velvet off by rubbing against trees and prepare for the fall mating season .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   92 The_AT elk_NN1 scrape_VV0_NN1 the_AT velvet_NN1 off_RP by_II rubbing_VVG against_II trees_NN2 and_CC prepare_VV0 for_IF the_AT fall_NN1 mating_JJ_NN1_VVG season_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   93 A Bull will gather 20-30 elk cows into his harem during the mating rut season .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   93 A_AT1_ZZ1 Bull_NN1@_NP1 will_VM gather_VVI 20-30_MCMC elk_NN1_VV0 cows_NN2 into_II his_APPGE harem_NN1 during_II the_AT mating_JJ_NN1 rut_NN1 season_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   94 During this period , you can usually hear the bull make his bugling sound to keep his harem in line and let other bulls in the area know that he is the dominant bull .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   94 During_II this_DD1 period_NN1 ,_Y you_PPY can_VM usually_RR hear_VVI the_AT bull_NN1 make_VV0 his_APPGE bugling_JJ@_NN1@ sound_NN1 to_TO keep_VVI his_APPGE harem_NN1 in_II line_NN1 and_CC let_VVI other_JJ bulls_NN2 in_II the_AT area_NN1 know_VV0 that_CST he_PPHS1 is_VBZ the_AT dominant_JJ bull_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   95 A good place to Road on the west side of the park in the late afternoon hours .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   95 A_AT1_ZZ1 good_JJ place_NN1 to_TO Road_NNL1 on_II the_AT west_ND1 side_NN1 of_IO the_AT park_NN1 in_II the_AT late_JJ afternoon_NNT1 hours_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   96 Park officials call this the Madison-Firehole Herd .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   96 Park_NN1_VV0@_NP1@ officials_NN2 call_VV0 this_DD1 the_AT Madison-Firehole_NP1 Herd_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   97 <p> MOOSE are the largest member of the deer family .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   97 <p>_Y MOOSE_NN are_VBR the_AT largest_JJT member_NN1 of_IO the_AT deer_NN family_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   98 Females weigh up to 800 pounds and a bull moose can weigh Lip to 1300 pounds , Moose mate in the Fall and their calves are born in late spring .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   98 Females_NN2 weigh_VV0 up_RG21 to_RG22 800_MC pounds_NN2 and_CC a_AT1 bull_NN1 moose_NN can_VM weigh_VVI Lip_NN1 to_II 1300_MC pounds_NN2 ,_Y Moose_NN mate_NN1_VV0@ in_II the_AT Fall_NN1 and_CC their_APPGE calves_NN2 are_VBR born_VVN in_II late_JJ spring_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0   99 Bull moose are very tail , being about 7 feet to the shoulder .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0   99 Bull_NP1_NN1 moose_NN are_VBR very_JJ@ tail_NN1 ,_Y being_VBG about_RG 7_MC feet_NN2 to_II the_AT shoulder_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  100 Just like the elk , moose grow new antlers in late spring .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  100 Just_RR like_II the_AT elk_NN1 ,_Y moose_NN grow_VV0 new_JJ antlers_NN2 in_II late_JJ spring_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  101 Their antlers are also covered with velvet fur .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  101 Their_APPGE antlers_NN2 are_VBR also_RR covered_VVN_VVD with_IW velvet_NN1 fur_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  102 Moose are commonly seen in the Yellowstone Lake area and also the Willow Park area between Mammoth and Norris .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  102 Moose_NN are_VBR commonly_RR seen_VVN in_II the_AT Yellowstone_NP1 Lake_NNL1 area_NN1 and_CC also_RR the_AT Willow_NN1 Park_NN1 area_NN1 between_II Mammoth_NN1_JJ and_CC Norris_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  103 Most of the moose that I have seen and photographed were just north of Norris .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  103 Most_DAT of_IO the_AT moose_NN that_CST I_PPIS1 have_VH0 seen_VVN and_CC photographed_VVN were_VBDR just_RR north_ND1 of_IO Norris_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  104 Since moose rely heavily on Douglas-fir for foraging , the population declined after the 1988 fires in Yellowstone .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  104 Since_CS moose_NN rely_VV0 heavily_RR on_II Douglas-fir_NN1_JJ for_IF foraging_VVG ,_Y the_AT population_NN1 declined_VVN_VVD after_II_CS the_AT 1988_MC fires_NN2 in_II Yellowstone_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  105 The predation of moose by grizzly bears has also caused a decrease in population .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  105 The_AT predation_NN1 of_IO moose_NN by_II grizzly_JJ_NN1 bears_NN2 has_VHZ also_RR caused_VVN a_AT1 decrease_NN1 in_II population_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  106 In my most recent visits to Yellowstone , I have had less and less sightings of moose .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  106 In_II my_APPGE most_RGT recent_JJ visits_NN2 to_II Yellowstone_NP1 ,_Y I_PPIS1 have_VH0 had_VHN less_DAR and_CC less_DAR sightings_NN2 of_IO moose_NN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  107 <p> COYOTES in , with the adults averaging about 30 pounds .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  107 <p>_Y COYOTES_NN2 in_II ,_Y with_IW the_AT adults_NN2 averaging_VVG about_RG 30_MC pounds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  108 The coyote is a member of the dog family and stands less than 2 feet tall .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  108 The_AT coyote_NN1 is_VBZ a_AT1 member_NN1 of_IO the_AT dog_NN1 family_NN1 and_CC stands_VVZ less_DAR than_CSN 2_MC feet_NN2 tall_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  109 It is usually a tan color with sometimes a reddish coat , They live an average of about 6 years and can travel alone or in packs .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  109 It_PPH1 is_VBZ usually_RR a_AT1 tan_JJ_NN1 color_NN1 with_IW sometimes_RT a_AT1 reddish_JJ coat_NN1 ,_Y They_PPHS2 live_VV0 an_AT1 average_NN1 of_IO about_RG 6_MC years_NNT2 and_CC can_VM travel_VVI alone_JJ_RR or_CC in_II packs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  110 The coyote will usually hunt for small mammals : but call kill large prey if they travel in packs .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  110 The_AT coyote_NN1 will_VM usually_RR hunt_VVI for_IF small_JJ mammals_NN2 :_Y but_CCB call_VV0_NN1 kill_VV0 large_JJ prey_NN1 if_CS they_PPHS2 travel_VV0 in_II_RP@ packs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  111 <p> YELLOWSTONE PRONGHORN are the fastest North American land animal , reaching speeds of over 50 miles per hour .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  111 <p>_Y YELLOWSTONE_NP1 PRONGHORN_NP1 are_VBR the_AT fastest_JJT North_NP1 American_JJ land_NN1 animal_NN1 ,_Y reaching_VVG speeds_NN2 of_IO over_RG 50_MC miles_NNU2 per_II hour_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  112 The Pronghorn 's speed is its main defense against predators .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  112 The_AT Pronghorn_NP1_NN1 's_GE speed_NN1 is_VBZ its_Z' main_JJ defense_NN1 against_II predators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  113 Their newborn is often vulnerable to coyotes .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  113 Their_APPGE newborn_JJ is_VBZ often_RR vulnerable_JJ to_II coyotes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  114 They can usually be found north of Mammoth and also in the Lamar Valley area .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  114 They_PPHS2 can_VM usually_RR be_VBI found_VVN north_ND1 of_IO Mammoth_NN1_JJ and_CC also_RR in_II the_AT Lamar_NP1 Valley_NN1_NP1@ area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  115 Be prepared to use a long lens as it is not easy to get close to the Pronghorn and they may take off running at any time .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  115 Be_VB0 prepared_VVN to_TO use_VVI a_AT1 long_JJ lens_NN1 as_CSA it_PPH1 is_VBZ not_XX easy_JJ to_TO get_VVI close_RR_JJ to_II the_AT Pronghorn_NN1_NP1 and_CC they_PPHS2 may_VM take_VVI off_RP_II running_VVG at_II any_DD time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  116 <p> SUMMARY : Yellowstone is a special place to go to and I hope that everyone , at least once , will visit this wonderful location .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  116 <p>_Y SUMMARY_NN1 :_Y Yellowstone_NP1 is_VBZ a_AT1 special_JJ place_NN1 to_TO go_VVI to_II and_CC I_PPIS1 hope_VV0 that_CST_DD1 everyone_PN1 ,_Y at_RR21 least_RR22 once_RR ,_Y will_VM visit_VVI this_DD1 wonderful_JJ location_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  117 While you are there , please do you found it so that others that follow can also enjoy the park .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  117 While_CS you_PPY are_VBR there_RL ,_Y please_RR do_VD0 you_PPY found_VVD_VV0% it_PPH1 so_CS21 that_CS22 others_NN2 that_CST follow_VV0 can_VM also_RR enjoy_VVI the_AT park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  118 Keep your distance from animals and give them their space as this is their home .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  118 Keep_VV0 your_APPGE distance_NN1 from_II animals_NN2 and_CC give_VV0 them_PPHO2 their_APPGE space_NN1 as_CSA_II@ this_DD1 is_VBZ their_APPGE home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  119 Photographers , bring your long and short lenses as there are many beautiful things to photograph .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  119 Photographers_NN2 ,_Y bring_VV0 your_APPGE long_JJ and_CC short_JJ lenses_NN2 as_CSA there_EX are_VBR many_DA2 beautiful_JJ things_NN2 to_TO photograph_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  120 Allow 4 to 5 days for your visit and enjoy the scenery .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  120 Allow_VV0 4_MC to_II 5_MC days_NNT2 for_IF your_APPGE visit_NN1 and_CC enjoy_VV0 the_AT scenery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  121 <p> Any mention of products or services in this article or anywhere else in the PSA Journal does not constitute an endorsement or approval of those items .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  121 <p>_Y Any_DD mention_NN1 of_IO products_NN2 or_CC services_NN2 in_II this_DD1 article_NN1 or_CC anywhere_RL else_RR in_II the_AT PSA_NP1 Journal_NN1 does_VDZ not_XX constitute_VVI an_AT1 endorsement_NN1 or_CC approval_NN1 of_IO those_DD2 items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  A    0  122 <p> PHOTO ( BLACK WHITE ) : Bison bull <p> PHOTO ( BLACK WHITE ) : Lower Falls <p> PHOTO ( BLACK WHITE ) : Old Faithful <p> PHOTO ( BLACK WHITE ) : Burn in forest <p> PHOTO ( BLACK WHITE ) : Elk in velvet Photos Nick Muskovac , APSA , EPSA <p> PHOTO ( BLACK WHITE ) : Elk bulging <p> PHOTO ( BLACK WHITE ) : Coyote <p> PHOTO ( BLACK WHITE ) : Black bear <p> PHOTO ( BLACK WHITE ) : Grizzly bear <p> L : References : Nick Muskovac , APSA , EPSA , Palm Harbor , FL <p>
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071043 COCA  B    0  122 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Bison_NN bull_NN1 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Lower_JJR Falls_NN2 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Old_JJ Faithful_JJ <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Burn_VV0_NN1 in_II forest_NN1 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Elk_VV0_NP1_NN1 in_II velvet_NN1 Photos_NN2 Nick_NP1 Muskovac_NP1 ,_Y APSA_NP1_NN1 ,_Y EPSA_NP1_NN1 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Elk_VV0_NP1 bulging_VVG <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Coyote_NN1 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Black_JJ bear_NN1 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y Grizzly_JJ bear_NN1 <p>_Y L_ZZ1_NP1@ :_Y References_NN2 :_Y Nick_NP1 Muskovac_NP1 ,_Y APSA_NP1_NN1 ,_Y EPSA_NP1_NN1 ,_Y Palm_NN1 Harbor_NN1 ,_Y FL_NNU_FW@ <p>_Y

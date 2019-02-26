@@ -1,0 +1,624 @@
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    0 Even back in the boom years , environmental health faced existential threats : financial and political dilemmas , dilemmas of identity , relevance , and visibility .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    0 Even_RR back_RP in_II the_AT boom_NN1 years_NNT2 ,_Y environmental_JJ health_NN1 faced_VVD_VVN existential_JJ threats_NN2 :_Y financial_JJ and_CC political_JJ dilemmas_NN2 ,_Y dilemmas_NN2 of_IO identity_NN1 ,_Y relevance_NN1 ,_Y and_CC visibility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    1 Environmental health professionals have for years battled the notion that their effectiveness can be measured in numbers of inspections conducted or numbers of permits issued .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    1 Environmental_JJ health_NN1 professionals_NN2 have_VH0 for_IF years_NNT2 battled_VVD the_AT notion_NN1 that_CST their_APPGE effectiveness_NN1 can_VM be_VBI measured_VVN in_II numbers_NN2 of_IO inspections_NN2 conducted_VVN_VVD or_CC numbers_NN2 of_IO permits_NN2 issued_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    2 They 've argued for outcomes-based evaluations .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    2 They_PPHS2 've_VH0 argued_VVN for_IF outcomes-based_JJ_NN1 evaluations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    3 They 've argued for community health assessments and population-based work .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    3 They_PPHS2 've_VH0 argued_VVN for_IF community_NN1 health_NN1 assessments_NN2 and_CC population-based_JJ_NN1 work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    4 They 've argued that the profession needs to engage emerging public health issues if it is not to slide into decreasing relevance , decreasing visibility , and decreasing funding .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    4 They_PPHS2 've_VH0 argued_VVN that_CST the_AT profession_NN1 needs_VVZ_NN2 to_TO engage_VVI emerging_JJ_VVG public_JJ_NN1 health_NN1 issues_NN2_VVZ@ if_CS_CSW@ it_PPH1 is_VBZ not_XX to_TO slide_VVI into_II decreasing_JJ_VVG relevance_NN1 ,_Y decreasing_JJ_VVG visibility_NN1 ,_Y and_CC decreasing_JJ_VVG funding_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    5 The Centers for Disease Control and Prevention 's ( CDC 's ) National Center for Environmental Health ( NCEH ) famously developed a list of 10 essential environmental public health services that includes items such as " monitor environmental and health status to identify and solve community environmental health problems " ; " inform , educate , and empower people about environmental health issues " ; and " mobilize community partnerships and actions to identify and solve environmental health problems .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    5 The_AT Centers_NN2 for_IF Disease_NN1 Control_NN1 and_CC Prevention_NN1 's_GE (_Y CDC_NP1 's_GE )_Y National_JJ Center_NN1 for_IF Environmental_JJ Health_NN1 (_Y NCEH_NP1 )_Y famously_RR developed_VVN_VVD a_AT1 list_NN1 of_IO 10_MC essential_JJ environmental_JJ public_JJ_NN1 health_NN1 services_NN2_VVZ% that_CST_DD1 includes_VVZ items_NN2 such_II21 as_II22 "_Y monitor_NN1 environmental_JJ and_CC health_NN1 status_NN1 to_TO identify_VVI and_CC solve_VVI community_NN1 environmental_JJ health_NN1 problems_NN2 "_Y ;_Y "_Y inform_VV0 ,_Y educate_VV0 ,_Y and_CC empower_VV0_NN1 people_NN about_II environmental_JJ health_NN1 issues_NN2 "_Y ;_Y and_CC "_Y mobilize_VV0 community_NN1 partnerships_NN2 and_CC actions_NN2_VVZ@ to_TO identify_VVI and_CC solve_VVI environmental_JJ health_NN1 problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    6 " And in 1995 , in Officials ( NACCHO ) , CDC began promoting a methodology that NACCHO had developed , called Protocol for Assessing Community Excellence in Environmental Health ( PACE EH , or PACE for short ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    6 "_Y And_CC in_II 1995_MC ,_Y in_II Officials_NN2 (_Y NACCHO_NP1 )_Y ,_Y CDC_NP1 began_VVD promoting_VVG a_AT1 methodology_NN1 that_CST NACCHO_NP1_NN1 had_VHD developed_VVN ,_Y called_VVN_VVD@_JJ% Protocol_NN1 for_IF Assessing_VVG Community_NN1 Excellence_NN1 in_II Environmental_JJ Health_NN1 (_Y PACE_NN1_VV0@ EH_UH ,_Y or_CC PACE_NN1_VV0@ for_IF short_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    7 PACE emphasizes working with local communities to define the public health issues they consider most important in their lives and then collaborating with them to solve problems .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    7 PACE_NN1 emphasizes_VVZ working_VVG with_IW local_JJ communities_NN2 to_TO define_VVI the_AT public_JJ_NN1 health_NN1 issues_NN2_VVZ@ they_PPHS2 consider_VV0 most_RGT_DAT important_JJ in_II their_APPGE lives_NN2 and_CC then_RT collaborating_VVG with_IW them_PPHO2 to_TO solve_VVI problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    8 This article will take an in-depth look at how PACE has worked in Florida , where the state Department of Health has been encouraging implementation at the local level .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    8 This_DD1 article_NN1 will_VM take_VVI an_AT1 in-depth_JJ look_NN1 at_II how_RRQ PACE_NN1 has_VHZ worked_VVN in_II Florida_NP1 ,_Y where_RRQ the_AT state_NN1 Department_NN1 of_IO Health_NN1 has_VHZ been_VBN encouraging_JJ implementation_NN1 at_II the_AT local_JJ level_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0    9 Bur first : What about the economy ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0    9 Bur_FU first_MD :_Y What_DDQ about_II the_AT economy_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   10 Is something like PACE even feasible in the current climate ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   10 Is_VBZ something_PN1 like_II PACE_NN1 even_RR feasible_JJ in_II the_AT current_JJ climate_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   11 Maybe environmental health departments would do better to put their heads down -- maybe emphasize fee-generating services -- and hope to weather the storm ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   11 Maybe_RR environmental_JJ health_NN1 departments_NN2 would_VM do_VDI better_RRR to_TO put_VVI their_APPGE heads_NN2 down_II@_RP --_NN1_JJ maybe_RR emphasize_VV0 fee-generating_JJ_NN1 services_NN2 --_NN1_JJ and_CC hope_VV0_NN1 to_TO weather_VVI the_AT storm_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   12 Which raises another question : Would it then be possible , in the aftermath , to pick up where we left off ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   12 Which_DDQ raises_VVZ another_DD1 question_NN1 :_Y Would_VM it_PPH1 then_RT be_VBI possible_JJ ,_Y in_II the_AT aftermath_NN1 ,_Y to_TO pick_VVI up_RP where_CS_RRQ we_PPIS2 left_VVD off_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   13 Just how much momentum are we in danger of losing ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   13 Just_RR how_RGQ@ much_DA1 momentum_NN1 are_VBR we_PPIS2 in_II danger_NN1 of_IO losing_VVG_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   14 " You know , " said Daniel Parker , assistant division director for environmental health in the Florida State Department of we pushed PACE because we think it 's the right thing to do .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   14 "_Y You_PPY know_VV0 ,_Y "_Y said_VVD Daniel_NP1 Parker_NP1 ,_Y assistant_JJ_NN1 division_NN1 director_NN1 for_IF environmental_JJ health_NN1 in_II the_AT Florida_NP1 State_NN1 Department_NN1 of_IO we_PPIS2 pushed_VVD PACE_NN1 because_CS we_PPIS2 think_VV0 it_PPH1 's_VBZ the_AT right_JJ_NN1 thing_NN1 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   15 It 's not part of our job description .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   15 It_PPH1 's_VBZ not_XX part_NN1 of_IO our_APPGE job_NN1 description_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   16 We still have no dedicated program , no dedicated funding .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   16 We_PPIS2 still_RR have_VH0 no_AT dedicated_JJ program_NN1 ,_Y no_AT dedicated_JJ funding_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   17 But we have great environmental health staff who have recognized the need and tried to meet it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   17 But_CCB we_PPIS2 have_VH0 great_JJ_RR% environmental_JJ health_NN1 staff_NN who_PNQS have_VH0 recognized_VVN the_AT need_NN1 and_CC tried_VVN to_TO meet_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   18 " Granted , Parker sometimes dubs himself " Division Operations and Management Idealist .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   18 "_Y Granted_VVN_VVD ,_Y Parker_NP1 sometimes_RT dubs_VVZ himself_PPX1 "_Y Division_NN1 Operations_NN2 and_CC Management_NN1 Idealist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   19 " But perhaps the words " Operations " and " Management " are as important as the word " Idealist " in that moniker .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   19 "_Y But_CCB perhaps_RR the_AT words_NN2 "_Y Operations_NN2 "_Y and_CC "_Y Management_NN1 "_Y are_VBR as_RG important_JJ as_CSA the_AT word_NN1 "_Y Idealist_NN1 "_Y in_II that_DD1 moniker_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   20 PACE is a way to do good in the world , yes -- to solve real public health problems and to build up social capital in communities .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   20 PACE_NN1 is_VBZ a_AT1 way_NN1 to_TO do_VDI good_JJ_RR% in_II the_AT world_NN1 ,_Y yes_UH --_NN1_JJ to_TO solve_VVI real_JJ public_JJ_NN1 health_NN1 problems_NN2 and_CC to_TO build_VVI up_RP social_JJ capital_NN1 in_II communities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   21 But it is also an institution-building tool .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   21 But_CCB it_PPH1 is_VBZ also_RR an_AT1 institution-building_JJ_NN1 tool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   22 In Florida , it has fostered leadership skills among environmental health staff and enabled environmental health departments to organically and effectively engage with emerging sustainability and land use issues .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   22 In_II Florida_NP1 ,_Y it_PPH1 has_VHZ fostered_VVN leadership_NN1 skills_NN2 among_II environmental_JJ health_NN1 staff_NN and_CC enabled_VVD_VVN environmental_JJ health_NN1 departments_NN2 to_II_TO organically_RR and_CC effectively_RR engage_VV0 with_IW emerging_JJ_VVG sustainability_NN1 and_CC land_NN1 use_NN1 issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   23 The protocol comprises 13 steps .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   23 The_AT protocol_NN1 comprises_VVZ 13_MC steps_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   24 One of the first steps is to ask residents what they think the most pressing concerns are in their neighborhoods .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   24 One_MC1 of_IO the_AT first_MD steps_NN2 is_VBZ to_TO ask_VVI residents_NN2 what_DDQ they_PPHS2 think_VV0 the_AT most_RGT pressing_JJ concerns_NN2 are_VBR in_II their_APPGE neighborhoods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   25 Then the local PACE coordinator helps establish as facilitator , information source , and liaison to the many governmental and nongovernmental parties that may be involved in solving the problems .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   25 Then_RT the_AT local_JJ PACE_NN1 coordinator_NN1 helps_NN2@_VVZ establish_VVI as_II@_CSA facilitator_NN1 ,_Y information_NN1 source_NN1 ,_Y and_CC liaison_NN1 to_II the_AT many_DA2 governmental_JJ and_CC nongovernmental_JJ parties_NN2 that_CST_DD1 may_VM be_VBI involved_JJ in_II solving_VVG the_AT problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   26 ( For a list of all 13 steps , see the sidebar on page 11 ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   26 (_Y For_IF a_AT1 list_NN1 of_IO all_DB 13_MC steps_NN2 ,_Y see_VV0 the_AT sidebar_NN1 on_II page_NN1 11_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   27 The Origins of PACE in Florida : A Short History The state department began looking at PACE about eight years ago as a way of capturing issues that regular environmental health programs were not addressing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   27 The_AT Origins_NN2 of_IO PACE_NN1 in_II Florida_NP1 :_Y A_ZZ1_AT1@ Short_JJ@_NP1 History_NN1 The_AT state_NN1 department_NN1 began_VVD looking_VVG at_II PACE_NN1 about_RG eight_MC years_NNT2 ago_RA as_II_CSA a_AT1 way_NN1 of_IO capturing_VVG issues_NN2 that_CST_DD1 regular_JJ environmental_JJ health_NN1 programs_NN2 were_VBDR not_XX addressing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   28 Funding presented the biggest challenge .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   28 Funding_NN1 presented_VVD_VVN the_AT biggest_JJT challenge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   29 The work would have to be done on the local level .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   29 The_AT work_NN1 would_VM have_VHI to_TO be_VBI done_VDN on_II the_AT local_JJ level_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   30 But without financial support from the state , no local departments could be persuaded to start up a program on their own .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   30 But_CCB without_IW financial_JJ support_NN1 from_II the_AT state_NN1 ,_Y no_AT local_JJ departments_NN2 could_VM be_VBI persuaded_VVN to_TO start_VVI up_RP a_AT1 program_NN1 on_II their_APPGE own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   31 And no one wanted to propose anything that smelled of an unfunded mandate .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   31 And_CC no_PN121 one_PN122 wanted_VVD_VVN to_TO propose_VVI anything_PN1 that_CST smelled_VVD of_IO an_AT1 unfunded_JJ mandate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   32 At the time , the Florida Department of Health was sending leftover funds to the county health departments to replace equipment such as thermometers .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   32 At_II the_AT time_NNT1 ,_Y the_AT Florida_NP1 Department_NN1 of_IO Health_NN1 was_VBDZ sending_VVG leftover_JJ funds_NN2 to_II the_AT county_NN1 health_NN1 departments_NN2 to_TO replace_VVI equipment_NN1 such_II21 as_II22 thermometers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   33 So , drawing on these funds , it made some seed money available for PACE projects .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   33 So_RR ,_Y drawing_VVG on_II these_DD2 funds_NN2 ,_Y it_PPH1 made_VVD some_DD seed_NN1 money_NN1 available_JJ for_IF PACE_NN1 projects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   34 The amounts were not enough to fully fund a local program , but they provided a sufficient 15 counties participated , receiving grants of $10,000 to $30,000 each .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   34 The_AT amounts_NN2 were_VBDR not_XX enough_RR to_TO fully_RR fund_VVI a_AT1 local_JJ program_NN1 ,_Y but_CCB they_PPHS2 provided_VVD a_AT1 sufficient_JJ 15_MC counties_NN2 participated_VVD ,_Y receiving_VVG grants_NN2 of_IO $10,000_NNU to_II $30,000_NNU each_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   35 The state supports counties ' PACE programs in two other low-cost ways .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   35 The_AT state_NN1 supports_VVZ counties_NN2 '_GE PACE_NN1 programs_NN2 in_II two_MC other_JJ low-cost_JJ ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   36 First , it convenes monthly conference calls in which environmental health staff from across the state can give and solicit advice , and share triumphs and challenges .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   36 First_MD ,_Y it_PPH1 convenes_VVZ monthly_JJ conference_NN1 calls_VVZ_NN2 in_II which_DDQ environmental_JJ health_NN1 staff_NN from_II across_II_RL@ the_AT state_NN1 can_VM give_VVI and_CC solicit_VVI advice_NN1 ,_Y and_CC share_NN1_VV0 triumphs_NN2_VVZ and_CC challenges_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   37 Second , the state pays a half-time salary for a statewide PACE coordinator .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   37 Second_MD ,_Y the_AT state_NN1 pays_VVZ a_AT1 half-time_NN1 salary_NN1 for_IF a_AT1 statewide_JJ PACE_NN1 coordinator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   38 The coordinator is on the staff of the environmental health department in Indian River County , where the other half of her time is split between work on her own PACE projects and regular septic inspections .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   38 The_AT coordinator_NN1 is_VBZ on_II the_AT staff_NN of_IO the_AT environmental_JJ health_NN1 department_NN1 in_II Indian_NP1 River_NNL1 County_NN1 ,_Y where_CS_RRQ the_AT other_JJ half_NN1@_DB of_IO her_APPGE time_NNT1 is_VBZ split_VVN between_II work_NN1 on_II her_APPGE own_DA PACE_NN1 projects_NN2 and_CC regular_JJ septic_JJ inspections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   39 The local coordinators , too , tend to be part time , filling out their schedules with other environmental health duties .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   39 The_AT local_JJ coordinators_NN2 ,_Y too_RR@_RG ,_Y tend_VV0 to_TO be_VBI part_NN1_RR% time_NNT1 ,_Y filling_VVG out_RP their_APPGE schedules_NN2 with_IW other_JJ environmental_JJ health_NN1 duties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   40 In the current economic climate , Florida no longer has " leftover " funds to dispense as seed money .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   40 In_II the_AT current_JJ economic_JJ climate_NN1 ,_Y Florida_NP1 no_RR21 longer_RR22 has_VHZ "_Y leftover_JJ "_Y funds_NN2 to_TO dispense_VVI as_II@_CSA seed_NN1 money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   41 But the example has been set .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   41 But_CCB the_AT example_NN1 has_VHZ been_VBN set_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   42 Parker told JEH that this year two counties have started programs on their own , with no funding from the state .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   42 Parker_NP1 told_VVD JEH_NN1_NP1 that_CST this_DD1 year_NNT1 two_MC counties_NN2 have_VH0 started_VVN programs_NN2 on_II their_APPGE own_DA ,_Y with_IW no_AT funding_NN1 from_II the_AT state_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   43 A Profile in Passion : Florida 's Statewide PACE Coordinator JEH asked Julianne Price , the " I fell into it , " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   43 A_AT1 Profile_NN1 in_II Passion_NN1 :_Y Florida_NP1 's_GE Statewide_JJ PACE_NN1 Coordinator_NN1 JEH_NN1_NP1 asked_VVD Julianne_NP1 Price_NP1 ,_Y the_AT "_Y I_PPIS1 fell_VVD into_II it_PPH1 ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   44 She 'd worked as a park ranger assistant .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   44 She_PPHS1 'd_VHD worked_VVN as_II a_AT1 park_NN1 ranger_NN1_VV0 assistant_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   45 Later , she 'd lived in Germany .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   45 Later_RRR_JJR ,_Y she_PPHS1 'd_VHD lived_VVN in_II Germany_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   46 When she returned , she applied for an environmental specialist position in Indian River County -- and did n't get it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   46 When_CS_RRQ she_PPHS1 returned_VVD ,_Y she_PPHS1 applied_VVD for_IF an_AT1 environmental_JJ specialist_NN1_JJ@ position_NN1 in_II Indian_NP1 River_NNL1 County_NN1 --_NN1 and_CC did_VDD n't_XX get_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   47 But then the department called and asked if she 'd be interested in PACE .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   47 But_CCB then_RT the_AT department_NN1 called_VVN and_CC asked_VVN if_CS_CSW@ she_PPHS1 'd_VM be_VBI interested_JJ in_II PACE_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   48 She 'd never heard of it before .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   48 She_PPHS1 'd_VHD never_RR heard_VVN of_IO it_PPH1 before_RT ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   49 " On my first day , " she said , " my boss said : Go check out this community .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   49 "_Y On_II my_APPGE first_MD day_NNT1 ,_Y "_Y she_PPHS1 said_VVD ,_Y "_Y my_APPGE boss_NN1 said_VVD :_Y Go_VV0 check_VV0_NN1 out_RP this_DD1 community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   50 Okay , so I go down off the main road and meet this man who 's been living in his car for two and a half years , next to a house he 'd built himself .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   50 Okay_RR ,_Y so_CS@_RR I_PPIS1 go_VV0 down_RP off_II the_AT main_JJ road_NN1 and_CC meet_VV0 this_DD1 man_NN1 who_PNQS 's_VHZ been_VBN living_VVG in_II_RP@ his_APPGE car_NN1 for_IF two_MC and_CC a_AT1 half_DB years_NNT2 ,_Y next_II21 to_II22 a_AT1 house_NN1 he_PPHS1 'd_VHD built_VVN himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   51 It did n't have a bathroom , it did n't have power .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   51 It_PPH1 did_VDD n't_XX have_VHI a_AT1 bathroom_NN1 ,_Y it_PPH1 did_VDD n't_XX have_VHI power_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   52 It was literally a plywood shack .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   52 It_PPH1 was_VBDZ literally_RR a_AT1 plywood_NN1 shack_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   53 And I 'm like : Are you serious ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   53 And_CC I_PPIS1 'm_VBM like_II :_Y Are_VBR you_PPY serious_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   54 There are people in our country living like this ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   54 There_EX are_VBR people_NN in_II our_APPGE country_NN1 living_VVG_NN1 like_II this_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   55 He was living in his car because he 'd gotten pneumonia -- there were holes in the floor of his house .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   55 He_PPHS1 was_VBDZ living_VVG in_II_RP@ his_APPGE car_NN1 because_CS he_PPHS1 'd_VHD gotten_VVN pneumonia_NN1 --_NN1 there_EX were_VBDR holes_NN2 in_II the_AT floor_NN1 of_IO his_APPGE house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   56 grove all his life .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   56 grove_NN1 all_DB his_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   57 " Through PACE , Price eventually brought $1.5 million in improvements to the community .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   57 "_Y Through_II PACE_NN1 ,_Y Price_NP1_VV0@_NN1 eventually_RR brought_VVD_VVN $1.5_NNU million_M1 in_II improvements_NN2 to_II the_AT community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   58 The money came from block grants and from state grants for sewer and plumbing projects .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   58 The_AT money_NN1 came_VVD from_II block_NN1 grants_NN2_VVZ and_CC from_II state_NN1 grants_VVZ_NN2 for_IF sewer_NN1 and_CC plumbing_NN1_VVG@ projects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   59 It came from private money donated for the demolition of crack houses .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   59 It_PPH1 came_VVD from_II private_JJ money_NN1 donated_VVN_VVD for_IF the_AT demolition_NN1 of_IO crack_NN1_JJ@ houses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   60 It came by way of contractors who were willing to donate services for a good cause or do the work at a reduced price .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   60 It_PPH1 came_VVD by_II31 way_II32 of_II33 contractors_NN2 who_PNQS were_VBDR willing_JJ to_TO donate_VVI services_NN2 for_IF a_AT1 good_JJ cause_NN1 or_CC do_VD0 the_AT work_NN1 at_II a_AT1 reduced_JJ@ price_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   61 The county waived landfill fees .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   61 The_AT county_NN1 waived_VVD_JJ@ landfill_NN1 fees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   62 A PACE coordinator learns to be creative in the search for resources .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   62 A_AT1 PACE_NN1 coordinator_NN1 learns_VVZ to_TO be_VBI creative_JJ in_II the_AT search_NN1 for_IF resources_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   63 He or she also negotiates bureaucracies , communicates with a range of experts , and coordinates the work of contractors and government agencies .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   63 He_PPHS1 or_CC she_PPHS1 also_RR negotiates_VVZ bureaucracies_NN2 ,_Y communicates_VVZ with_IW a_AT1 range_NN1 of_IO experts_NN2 ,_Y and_CC coordinates_NN2 the_AT work_NN1 of_IO contractors_NN2 and_CC government_NN1 agencies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   64 But an equally crucial requirement of the job is the ability to communicate with residents .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   64 But_CCB an_AT1 equally_RR crucial_JJ requirement_NN1 of_IO the_AT job_NN1 is_VBZ the_AT ability_NN1 to_TO communicate_VVI with_IW residents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   65 Often the coordinator must earn the trust of neighborhoods that have suffered decades of neglect or that have heard many promises that have never come to fruition .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   65 Often_RR the_AT coordinator_NN1 must_VM earn_VVI the_AT trust_NN1 of_IO neighborhoods_NN2 that_CST have_VH0 suffered_VVN decades_NNT2 of_IO neglect_NN1 or_CC that_CST have_VH0 heard_VVN many_DA2 promises_NN2 that_CST have_VH0 never_RR come_VVN to_II fruition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   66 In the projects described later in this article , a cultural divide sometimes separated the PACE coordinator and the residents .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   66 In_II the_AT projects_NN2 described_VVN_VVD later_RRR in_II this_DD1 article_NN1 ,_Y a_AT1 cultural_JJ divide_NN1 sometimes_RT separated_VVN_VVD@ the_AT PACE_NN1 coordinator_NN1 and_CC the_AT residents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   67 A PACE coordinator , in other words , becomes described a fairly tough initial reception in a neighborhood where she 's starting a new PACE project : pre-formatted table Often the initial assessment , in which the PACE coordinator learns about residents ' concerns , involves going door to door .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   67 A_AT1 PACE_NN1 coordinator_NN1 ,_Y in_II other_JJ words_NN2 ,_Y becomes_VVZ described_VVD a_AT1 fairly_RR tough_JJ initial_JJ_NN1 reception_NN1 in_II a_AT1 neighborhood_NN1 where_RRQ she_PPHS1 's_VBZ starting_VVG a_AT1 new_JJ PACE_NN1 project_NN1 :_Y pre-formatted_ZZ table_NN1 Often_RR the_AT initial_JJ_NN1 assessment_NN1 ,_Y in_II which_DDQ the_AT PACE_NN1 coordinator_NN1 learns_VVZ about_II_RP@ residents_NN2 '_GE concerns_NN2 ,_Y involves_VVZ going_VVG door_NN1 to_II door_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   68 " Spending face time with people , " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   68 "_Y Spending_VVG_NN1_JJ@ face_NN1_VV0 time_NNT1 with_IW people_NN ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   69 " You know , you have to explain about the PACE project and kind of sell it : This is different , this is government asking you what you think .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   69 "_Y You_PPY know_VV0 ,_Y you_PPY have_VH0 to_TO explain_VVI about_II the_AT PACE_NN1 project_NN1 and_CC kind_RR21% of_RR22 sell_VV0 it_PPH1 :_Y This_DD1 is_VBZ different_JJ ,_Y this_DD1 is_VBZ government_NN1 asking_VVG you_PPY what_DDQ you_PPY think_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   70 And then we 're going to work with you to bring about a solution .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   70 And_CC then_RT we_PPIS2 're_VBR going_VVG to_II work_NN1 with_IW you_PPY to_TO bring_VVI about_RP a_AT1 solution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   71 " As statewide coordinator , she provides advice and support to the local coordinators .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   71 "_Y As_CSA_RG@ statewide_JJ coordinator_NN1 ,_Y she_PPHS1 provides_VVZ advice_NN1 and_CC support_VV0_NN1 to_II the_AT local_JJ coordinators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   72 She helps locate financial resources .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   72 She_PPHS1 helps_VVZ locate_VVI financial_JJ resources_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   73 If a project runs into difficulties , she may sit in on a community meeting .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   73 If_CS a_AT1 project_NN1 runs_VVZ_NN2 into_II difficulties_NN2 ,_Y she_PPHS1 may_VM sit_VVI in_RP@ on_II a_AT1 community_NN1 meeting_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   74 " Because you do hit brick walls sometimes , " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   74 "_Y Because_CS you_PPY do_VD0 hit_VVI brick_NN1 walls_NN2 sometimes_RT ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   75 PACE demands passion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   75 PACE_NN1_VV0@ demands_NN2_VVZ@ passion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   76 Price 's conviction that the work is important and the method effective translates into an energy and enthusiasm that are a major factor in the successes the program has had in Florida .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   76 Price_NP1@_NN1 's_GE conviction_NN1 that_CST the_AT work_NN1 is_VBZ important_JJ and_CC the_AT method_NN1 effective_JJ translates_VVZ into_II an_AT1 energy_NN1 and_CC enthusiasm_NN1 that_CST are_VBR a_AT1 major_JJ factor_NN1 in_II the_AT successes_NN2 the_AT program_NN1 has_VHZ had_VHN in_II Florida_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   77 Challenges and Triumphs : Three three years ago with a complaint from a resident of the Kupfrian Park neighborhood .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   77 Challenges_NN2 and_CC Triumphs_VVZ_NN2 :_Y Three_MC three_MC years_NNT2 ago_RA with_IW a_AT1 complaint_NN1 from_II a_AT1 resident_NN1 of_IO the_AT Kupfrian_JJ Park_NN1 neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   78 Located right in the city of Pensacola , this neighborhood was still on septic systems .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   78 Located_VVN_JJ@_VVD right_RR_NN1 in_II the_AT city_NN1 of_IO Pensacola_NP1 ,_Y this_DD1 neighborhood_NN1 was_VBDZ still_RR on_II septic_JJ systems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   79 And the septic systems were failing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   79 And_CC the_AT septic_JJ systems_NN2 were_VBDR failing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   80 Some dated back to initial construction of the homes , as many as 50 years ago .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   80 Some_DD dated_JJ back_NN1_RP to_II initial_JJ_NN1 construction_NN1 of_IO the_AT homes_NN2 ,_Y as_RG many_DA2 as_CSA 50_MC years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   81 More to the point : Why was this low-income community , just a mile and a half from downtown , not on public sewer service ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   81 More_RRR_DAR to_II the_AT point_NN1 :_Y Why_RRQ was_VBDZ this_DD1_RG% low-income_JJ_NN1 community_NN1 ,_Y just_RR a_AT1 mile_NNU1 and_CC a_AT1 half_NN1@_DB_RR@ from_II downtown_RL_JJ ,_Y not_XX on_II public_JJ_NN1 sewer_NN1 service_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   82 Why did sewer lines come right up to the edge of the neighborhood and stop ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   82 Why_RRQ did_VDD sewer_NN1 lines_NN2 come_VV0 right_RR_NN1_JJ up_II21 to_II22 the_AT edge_NN1 of_IO the_AT neighborhood_NN1 and_CC stop_VV0_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   83 One answer was that residents were hesitant to report septic failures to the health department because they could not afford repairs or replacements .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   83 One_MC1 answer_NN1 was_VBDZ that_CST residents_NN2 were_VBDR hesitant_JJ to_TO report_VVI septic_JJ failures_NN2 to_II the_AT health_NN1 department_NN1 because_CS they_PPHS2 could_VM not_XX afford_VVI repairs_NN2 or_CC replacements_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   84 And without documentation of a sewage problem , the utility authority had not prioritized the area for sewer construction .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   84 And_CC without_IW documentation_NN1 of_IO a_AT1 sewage_NN1 problem_NN1 ,_Y the_AT utility_NN1 authority_NN1 had_VHD not_XX prioritized_VVN the_AT area_NN1 for_IF sewer_NN1 construction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   85 The complaint initially was addressed to the Emerald Coast Utility Authority ( ECUA ) and the Community Redevelopment Agency ( CRA ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   85 The_AT complaint_NN1 initially_RR was_VBDZ addressed_VVN to_II the_AT Emerald_NN1 Coast_NN1 Utility_NN1 Authority_NN1 (_Y ECUA_NP1 )_Y and_CC the_AT Community_NN1 Redevelopment_NN1 Agency_NN1 (_Y CRA_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   86 Soon the Escambia County Health Department received a call from CRA : Could the health department conduct septic inspections in the area to determine the extent of so happened , " said Mary Beverly , who was running the septic program at the time , " that PACE was going on in the state and our department director wanted us to look into trying to get a grant .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   86 Soon_RR the_AT Escambia_NP1_NN1@ County_NN1 Health_NN1 Department_NN1 received_VVD_VVN a_AT1 call_NN1 from_II CRA_NP1 :_Y Could_VM the_AT health_NN1 department_NN1 conduct_VV0_NN1 septic_JJ inspections_NN2 in_II the_AT area_NN1 to_TO determine_VVI the_AT extent_NN1 of_IO so_RR happened_VVD_VVN@ ,_Y "_Y said_VVD Mary_NP1 Beverly_NP1 ,_Y who_PNQS was_VBDZ running_VVG the_AT septic_JJ program_NN1 at_II the_AT time_NNT1 ,_Y "_Y that_DD1 PACE_NN1 was_VBDZ going_VVG on_RP@ in_II the_AT state_NN1 and_CC our_APPGE department_NN1 director_NN1 wanted_VVD us_PPIO2 to_TO look_VVI into_II trying_VVG to_TO get_VVI a_AT1 grant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   87 " Escambia County Environmental Health did not have the staff to conduct inspections throughout the neighborhood .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   87 "_Y Escambia_NN1_NP1@ County_NN1 Environmental_JJ Health_NN1 did_VDD not_XX have_VHI the_AT staff_NN to_TO conduct_VVI inspections_NN2 throughout_II the_AT neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   88 But Beverly 's supervisor thought it might be possible to help out through PACE .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   88 But_CCB Beverly_NP1 's_GE supervisor_NN1 thought_VVD_VVN it_PPH1 might_VM be_VBI possible_JJ to_TO help_VVI out_RP through_II PACE_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   89 So Beverly met with county engineers and representatives of ECUA .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   89 So_RR Beverly_NP1 met_VVD with_IW county_NN1 engineers_NN2 and_CC representatives_NN2 of_IO ECUA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   90 And she met with Rosa Stallworth , the resident who had complained .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   90 And_CC she_PPHS1 met_VVD with_IW Rosa_NP1 Stallworth_NP1 ,_Y the_AT resident_NN1 who_PNQS had_VHD complained_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   91 The residents , it turned out , had been trying for years to obtain sewer and drainage systems for the area .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   91 The_AT residents_NN2 ,_Y it_PPH1 turned_VVD out_RP ,_Y had_VHD been_VBN trying_VVG for_IF years_NNT2 to_TO obtain_VVI sewer_NN1 and_CC drainage_NN1 systems_NN2 for_IF the_AT area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   92 Nothing had happened , and the community had grown distrustful of promises made by government representatives .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   92 Nothing_PN1 had_VHD happened_VVN ,_Y and_CC the_AT community_NN1 had_VHD grown_VVN distrustful_JJ of_IO promises_NN2 made_VVN by_II government_NN1 representatives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   93 Beverly also dug into the history of the neighborhood , which proved to be colorful .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   93 Beverly_NP1 also_RR dug_VVD into_II the_AT history_NN1 of_IO the_AT neighborhood_NN1 ,_Y which_DDQ proved_VVD to_TO be_VBI colorful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   94 Once known as " Kupfrian 's Park , " the land had been purchased in 1878 by Konrad Kupfrian , an entrepreneurial German immigrant .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   94 Once_RR known_VVN as_II "_Y Kupfrian_JJ_NN1@ 's_GE_VBZ Park_NN1_NP1 ,_Y "_Y the_AT land_NN1 had_VHD been_VBN purchased_VVN in_II 1878_MC by_II Konrad_NP1 Kupfrian_JJ_NN1@ ,_Y an_AT1 entrepreneurial_JJ German_JJ_NN1 immigrant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   95 He built one of the earliest electric trolleys in the country , connecting to attend horse-drawn-carriage racing , dog fighting , cock fighting , and overnight camping .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   95 He_PPHS1 built_VVD one_MC1 of_IO the_AT earliest_JJT electric_JJ trolleys_NN2 in_II the_AT country_NN1 ,_Y connecting_VVG to_TO attend_VVI horse-drawn-carriage_JJ_NN1 racing_NN1@_VVG ,_Y dog_NN1 fighting_NN1_VVG ,_Y cock_NN1_VV0@ fighting_NN1_VVG ,_Y and_CC overnight_JJ camping_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   96 A stormwater pond currently located on the grounds of a retirement village was once the dog-racing track .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   96 A_AT1 stormwater_JJR_NN1 pond_NN1 currently_RR located_VVN_VVD on_II the_AT grounds_NN2 of_IO a_AT1 retirement_NN1 village_NN1 was_VBDZ once_RR the_AT dog-racing_JJ_NN1 track_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   97 Knowing this story helped break the ice , Beverly said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   97 Knowing_VVG this_DD1 story_NN1 helped_VVN_VVD break_VVI the_AT ice_NN1 ,_Y Beverly_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   98 When she convened a community meeting in the retirement village , she was able to point to the pond and talk about the history , then talk about how the community has in recent years , she said , " been a little underserved .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   98 When_CS_RRQ she_PPHS1 convened_VVD a_AT1 community_NN1 meeting_VVG_NN1 in_II the_AT retirement_NN1 village_NN1 ,_Y she_PPHS1 was_VBDZ able_JK to_TO point_VVI to_II the_AT pond_NN1 and_CC talk_VVI about_II the_AT history_NN1 ,_Y then_RT talk_VV0 about_II how_RRQ the_AT community_NN1 has_VHZ in_II recent_JJ years_NNT2 ,_Y she_PPHS1 said_VVD ,_Y "_Y been_VBN a_RR21 little_RR22 underserved_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0   99 " In accordance with the PACE method , she conducted a survey , going door to door in the neighborhood .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0   99 "_Y In_II31 accordance_II32 with_II33 the_AT PACE_NN1 method_NN1 ,_Y she_PPHS1 conducted_VVD a_AT1 survey_NN1 ,_Y going_VVG door_NN1 to_II door_NN1 in_II the_AT neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  100 To encourage even more people to take the survey , she helped put together an outdoor festival .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  100 To_TO encourage_VVI even_RR more_DAR people_NN to_TO take_VVI the_AT survey_NN1 ,_Y she_PPHS1 helped_VVD put_VVN_VV0_VVD together_RL an_AT1 outdoor_JJ festival_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  101 The Kupfrian Park Extravaganza was held on a vacant lot owned by a hospital .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  101 The_AT Kupfrian_JJ Park_NN1 Extravaganza_NP1_NN1@ was_VBDZ held_VVN on_II a_AT1 vacant_JJ lot_NN1 owned_VVN by_II a_AT1 hospital_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  102 It featured food , music , a big tent , a " jumpy thing " for the children , and Beverly sitting at a table .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  102 It_PPH1 featured_VVD food_NN1 ,_Y music_NN1 ,_Y a_AT1 big_JJ tent_NN1 ,_Y a_AT1 "_Y jumpy_JJ thing_NN1 "_Y for_IF the_AT children_NN2 ,_Y and_CC Beverly_NP1 sitting_VVG at_II a_AT1 table_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  103 " The residents pretty much organized the whole thing , " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  103 "_Y The_AT residents_NN2 pretty_RG much_RR_DA1 organized_VVD_VVN the_AT whole_JJ thing_NN1 ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  104 " All I had to do was show Threat Survey respondents described flooding after heavy rains , lack of street lighting , and lack of sidewalks , including on a major street running through the neighborhood .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  104 "_Y All_DB I_PPIS1 had_VHD to_TO do_VDI was_VBDZ show_NN1 Threat_NN1 Survey_NN1 respondents_NN2 described_VVN_VVD flooding_NN1_VVG@ after_II_CS heavy_JJ rains_NN2@ ,_Y lack_NN1 of_IO street_NN1 lighting_NN1 ,_Y and_CC lack_NN1 of_IO sidewalks_NN2 ,_Y including_VVG@ on_II_RP@ a_AT1 major_JJ street_NN1 running_VVG_NN1 through_II the_AT neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  105 Elderly residents of the retirement village had to walk or ride their electric wheelchairs in the middle of the road .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  105 Elderly_JJ residents_NN2 of_IO the_AT retirement_NN1 village_NN1 had_VHD to_TO walk_VVI or_CC ride_VVI their_APPGE electric_JJ wheelchairs_NN2 in_II the_AT middle_NN1 of_IO the_AT road_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  106 But failing septic tanks were the number-one concern .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  106 But_CCB failing_VVG_JJ@ septic_JJ tanks_NN2 were_VBDR the_AT number-one_MC concern_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  107 This assessment was borne out when Beverly did some spot checks .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  107 This_DD1 assessment_NN1 was_VBDZ borne_VVN out_RP when_CS_RRQ Beverly_NP1 did_VDD some_DD spot_VVI checks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  108 She found home-made brick or block tanks .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  108 She_PPHS1 found_VVD home-made_JJ brick_NN1 or_CC block_NN1_VV0@ tanks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  109 One tank had no bottom .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  109 One_MC1 tank_NN1 had_VHD no_AT bottom_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  110 One was obstructed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  110 One_PN1_MC1 was_VBDZ obstructed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  111 One was root bound ( see photo at left ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  111 One_PN1_MC1 was_VBDZ root_NN1 bound_VVN_NN1@_VVD (_Y see_VV0 photo_NN1 at_II left_JJ_NN1@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  112 She found old cradle drains and terra cotta pipes .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  112 She_PPHS1 found_VVD old_JJ cradle_NN1 drains_NN2 and_CC terra_NN1 cotta_NN1 pipes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  113 Over the years , she suspects , some residents have made bootleg repairs .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  113 Over_II the_AT years_NNT2 ,_Y she_PPHS1 suspects_VVZ ,_Y some_DD residents_NN2 have_VH0 made_VVN bootleg_NN1_VV0 repairs_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  114 She also suspects that outright failures have occurred , although no one has admitted to having sewage on the ground or backing up into the house .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  114 She_PPHS1 also_RR suspects_VVZ that_CST_DD1 outright_JJ failures_NN2 have_VH0 occurred_VVN ,_Y although_CS no_PN121 one_PN122 has_VHZ admitted_VVN to_II having_VHG sewage_NN1 on_II the_AT ground_NN1 or_CC backing_VVG up_RP into_II the_AT house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  115 She represents the health department , after all .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  115 She_PPHS1 represents_VVZ the_AT health_NN1 department_NN1 ,_Y after_II all_DB ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  116 " Because it 's a low-income community , they 're probably not going to go through the usual channels , " she said , " and we 're not here to to do to get by " She put the cost of a typical new system at a minimum of $2500 to $3000 plus the cost of the permit .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  116 "_Y Because_CS it_PPH1 's_VBZ a_AT1 low-income_JJ_NN1 community_NN1 ,_Y they_PPHS2 're_VBR probably_RR not_XX going_VVGK to_TO go_VVI through_II the_AT usual_JJ channels_NN2 ,_Y "_Y she_PPHS1 said_VVD ,_Y "_Y and_CC we_PPIS2 're_VBR not_XX here_RL to_TO to_TO do_VDI to_TO get_VVI by_RP%_II "_Y She_PPHS1 put_VVD the_AT cost_NN1 of_IO a_AT1 typical_JJ new_JJ system_NN1 at_II a_AT1 minimum_NN1 of_IO $2500_NNU to_II $3000_NNU plus_II the_AT cost_NN1 of_IO the_AT permit_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  117 Even if community members had the financial wherewithal to replace the old tanks , onsite systems would not be appropriate for the area .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  117 Even_CS21 if_CS22 community_NN1 members_NN2 had_VHD the_AT financial_JJ wherewithal_NN1 to_TO replace_VVI the_AT old_JJ tanks_NN2 ,_Y onsite_NN1 systems_NN2 would_VM not_XX be_VBI appropriate_JJ for_IF the_AT area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  118 The lot sizes are small .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  118 The_AT lot_NN1 sizes_NN2 are_VBR small_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  119 Some may not meet the minimum size now required for a septic system .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  119 Some_DD may_VM not_XX meet_VVI the_AT minimum_JJ_NN1 size_NN1 now_RT required_VVN for_IF a_AT1 septic_JJ system_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  120 " And then it 's a physical thing , " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  120 "_Y And_CC then_RT it_PPH1 's_VBZ a_AT1 physical_JJ thing_NN1 ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  121 " I look at some of these places , and I think , ' Where would you get a backhoe in ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  121 "_Y I_PPIS1 look_VV0 at_II some_DD of_IO these_DD2 places_NN2 ,_Y and_CC I_PPIS1 think_VV0 ,_Y '_"@ Where_RRQ would_VM you_PPY get_VVI a_AT1 backhoe_NN1 in_II_RP@ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  122 ' " Doing the Big Impossible Thing -- And Some Other Things , Too For three years , Beverly has been facilitating monthly community meetings .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  122 '_"@_GE "_Y Doing_VDG the_AT Big_JJ Impossible_JJ Thing_NN1 --_NN1 And_CC Some_DD Other_JJ Things_NN2 ,_Y Too_RR@ For_IF three_MC years_NNT2 ,_Y Beverly_NP1 has_VHZ been_VBN facilitating_VVG monthly_JJ community_NN1 meetings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  123 " I try not to make them ' governmental meetings , ' " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  123 "_Y I_PPIS1 try_VV0 not_XX to_TO make_VVI them_PPHO2 '_GE governmental_JJ meetings_NN2 ,_Y '_"@ "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  124 " It 's more a roundtable discussion , and government people come in .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  124 "_Y It_PPH1 's_VBZ more_RRR a_AT1 roundtable_JJ discussion_NN1 ,_Y and_CC government_NN1 people_NN come_VV0 in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  125 I bring cookies and coffee .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  125 I_PPIS1 bring_VV0 cookies_NN2 and_CC coffee_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  126 I do stick to an agenda , but it 's less formal .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  126 I_PPIS1 do_VD0 stick_VVI to_II an_AT1 agenda_NN1 ,_Y but_CCB it_PPH1 's_VBZ less_RGR formal_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  127 People are shaking hands , asking about the a good feel to it .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  127 People_NN are_VBR shaking_VVG hands_NN2 ,_Y asking_VVG about_II the_AT a_AT1 good_JJ feel_VV0_NN1% to_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  128 " A core group of five to seven residents usually attends , as well as local politicians , county engineers , representatives from CRA , or representatives from ECUA -- whoever needs to be involved in solving a problem .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  128 "_Y A_AT1 core_NN1 group_NN1 of_IO five_MC to_II seven_MC residents_NN2 usually_RR attends_VVZ ,_Y as_II31_RG well_II32_RR as_II33_CSA local_JJ politicians_NN2 ,_Y county_NN1 engineers_NN2 ,_Y representatives_NN2 from_II CRA_NP1_NN1 ,_Y or_CC representatives_NN2 from_II ECUA_NP1_NN1 --_NN1_JJ whoever_PNQV needs_VVZ to_TO be_VBI involved_JJ in_II solving_VVG a_AT1 problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  129 When residents started talking about crime as a major concern , Beverly got the sheriff 's office to come talk about incorporating a neighborhood watch .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  129 When_RRQ_CS residents_NN2 started_VVD talking_VVG about_II crime_NN1 as_II_CSA a_AT1 major_JJ concern_NN1 ,_Y Beverly_NP1 got_VVD the_AT sheriff_NN1 's_GE office_NN1 to_TO come_VVI talk_NN1_VV0 about_II incorporating_VVG a_AT1 neighborhood_NN1 watch_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  130 " And they incorporated themselves in two days , " she said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  130 "_Y And_CC they_PPHS2 incorporated_VVD@ themselves_PPX2 in_II two_MC days_NNT2 ,_Y "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  131 " They were serious .... They drive through the neighborhood and look for suspicious activity , with a sign on their cars that says ' Kupfrian Neighborhood Watch .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  131 "_Y They_PPHS2 were_VBDR serious_JJ ...._... They_PPHS2 drive_VV0 through_II_RP@ the_AT neighborhood_NN1 and_CC look_VV0_NN1 for_IF suspicious_JJ activity_NN1 ,_Y with_IW a_AT1 sign_NN1 on_II their_APPGE cars_NN2 that_CST_DD1 says_VVZ '_GE Kupfrian_JJ Neighborhood_NN1 Watch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  132 ' " But the main work has been the infrastructure project : a sewer system , a drainage system for the streets , and installation of sidewalks and streetlights .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  132 '_"@_GE "_Y But_CCB the_AT main_JJ work_NN1 has_VHZ been_VBN the_AT infrastructure_NN1 project_NN1 :_Y a_AT1 sewer_NN1 system_NN1 ,_Y a_AT1 drainage_NN1 system_NN1 for_IF the_AT streets_NN2 ,_Y and_CC installation_NN1 of_IO sidewalks_NN2 and_CC streetlights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  133 Beverly emphasizes that she is just the facilitator .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  133 Beverly_NP1 emphasizes_VVZ that_CST she_PPHS1 is_VBZ just_RR the_AT facilitator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  134 The goal is to build community and help residents access resources so that they can solve problems themselves .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  134 The_AT goal_NN1 is_VBZ to_TO build_VVI community_NN1 and_CC help_VVI residents_NN2 access_VV0@_NN1 resources_NN2 so_CS21 that_CS22 they_PPHS2 can_VM solve_VVI problems_NN2 themselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  135 But perhaps the term " facilitator " does not capture the full dimension of the skills and effort involved , Beverly investigates solutions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  135 But_CCB perhaps_RR the_AT term_NN1 "_Y facilitator_NN1 "_Y does_VDZ not_XX capture_VVI the_AT full_JJ dimension_NN1 of_IO the_AT skills_NN2 and_CC effort_NN1 involved_VVD_VVN ,_Y Beverly_NP1 investigates_VVZ solutions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  136 She also draws on her environmental health expertise , especially her expertise in septic inspections .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  136 She_PPHS1 also_RR draws_VVZ on_II_RP@ her_APPGE environmental_JJ health_NN1 expertise_NN1 ,_Y especially_RR her_APPGE expertise_NN1 in_II septic_JJ inspections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  137 For residents whose septic systems are in immediate failure -- who can not wait for completion of the sewer project -- she finds individually tailored solutions .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  137 For_IF residents_NN2 whose_DDQGE septic_JJ systems_NN2 are_VBR in_II immediate_JJ failure_NN1 --_NN1 who_PNQS can_VM not_XX wait_VVI for_IF completion_NN1 of_IO the_AT sewer_NN1 project_NN1 --_NN1 she_PPHS1 finds_VVZ individually_RR tailored_JJ_VVN solutions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  138 She finds contractors who will install systems for a lower price because they are doing multiple projects for the county .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  138 She_PPHS1 finds_VVZ contractors_NN2 who_PNQS will_VM install_VVI systems_NN2 for_IF a_AT1 lower_JJR price_NN1 because_CS they_PPHS2 are_VBR doing_VDG multiple_JJ_NN1 projects_NN2 for_IF the_AT county_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  139 She connects residents to financial aid .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  139 She_PPHS1 connects_VVZ residents_NN2 to_II financial_JJ aid_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  140 When a system caved near the border of the area in which she is working , she discovered that the homeowner had two parcels and one of the parcels actually backed up to a street that did have sewer -- and so she was able to solve this individual 's problem .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  140 When_CS a_AT1 system_NN1 caved_VVN_VVD near_II the_AT border_NN1 of_IO the_AT area_NN1 in_II which_DDQ she_PPHS1 is_VBZ working_VVG ,_Y she_PPHS1 discovered_VVD that_CST the_AT homeowner_NN1 had_VHD two_MC parcels_NN2 and_CC one_MC1 of_IO the_AT parcels_NN2 actually_RR backed_VVN_VVD up_II21 to_II22 a_AT1 street_NN1 that_CST_DD1 did_VDD have_VHI sewer_NN1 --_NN1 and_CC so_RR_CS@ she_PPHS1 was_VBDZ able_JK to_TO solve_VVI this_DD1 individual_NN1 's_GE problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  141 " She was ecstatic , " Beverly noted .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  141 "_Y She_PPHS1 was_VBDZ ecstatic_JJ ,_Y "_Y Beverly_NP1 noted_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  142 Setbacks and Lessons Despite substantive accomplishments , Beverly 's mood , when she spoke with JEH in March , was far from triumphant .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  142 Setbacks_NN2 and_CC Lessons_NN2 Despite_II substantive_JJ accomplishments_NN2 ,_Y Beverly_NP1 's_GE mood_NN1 ,_Y when_CS_RRQ she_PPHS1 spoke_VVD with_IW JEH_NN1_NP1 in_II March_NPM1 ,_Y was_VBDZ far_RG21 from_RG22 triumphant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  143 " Sometimes I get so encouraged , and I think , ' Wow , it 's really going to happen .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  143 "_Y Sometimes_RT I_PPIS1 get_VV0 so_RR encouraged_VVN_VVD ,_Y and_CC I_PPIS1 think_VV0 ,_Y '_"@ Wow_UH ,_Y it_PPH1 's_VBZ really_RR going_VVGK to_TO happen_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  144 ' And then we 'll have setbacks .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  144 '_"@_GE And_CC then_RT we_PPIS2 'll_VM have_VHI setbacks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  145 And I going to explain this one to the residents ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  145 And_CC I_PPIS1 going_VVGK to_TO explain_VVI this_DD1 one_PN1 to_II the_AT residents_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  146 " At the beginning of the sewage/drainage project , the county allocated $ 1 million for design of the drainage project .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  146 "_Y At_II the_AT beginning_NN1 of_IO the_AT sewage/drainage_NN1 project_NN1 ,_Y the_AT county_NN1 allocated_JJ_VVN $_NN 1_MC1 million_M1 for_IF design_NN1 of_IO the_AT drainage_NN1 project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  147 ECUA would then contribute $700,000 for the sewer .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  147 ECUA_NP1_NN1 would_VM then_RT contribute_VVI $700,000_NNU for_IF the_AT sewer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  148 That second number was predicated on ECUA being able to piggyback its installation of sewers onto the digging that the county would already be doing for the drainage .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  148 That_DD1 second_NNT1_MD number_NN1 was_VBDZ predicated_VVN on_II ECUA_NP1_NN1 being_VBG able_JK to_TO piggyback_NN1 its_Z' installation_NN1 of_IO sewers_NN2 onto_II the_AT digging_NN1_JJ that_CST the_AT county_NN1 would_VM already_RR be_VBI doing_VDG for_IF the_AT drainage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  149 For three years , residents had been told the entire project would be completed in 2009 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  149 For_IF three_MC years_NNT2 ,_Y residents_NN2 had_VHD been_VBN told_VVN the_AT entire_JJ project_NN1 would_VM be_VBI completed_VVN in_II 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  150 Now it was 2009 , and it turned out that design of the drainage project would cost more -- $1.4 million .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  150 Now_RT it_PPH1 was_VBDZ 2009_MC ,_Y and_CC it_PPH1 turned_VVD out_RP that_DD1_CST design_NN1 of_IO the_AT drainage_NN1 project_NN1 would_VM cost_VVI more_RGR_DAR --_ZZ $1.4_NNU million_M1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  151 The county also needed to purchase land parcels for stormwater retention .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  151 The_AT county_NN1 also_RR needed_VVN_VVD to_TO purchase_VVI land_NN1 parcels_NN2 for_IF stormwater_JJR retention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  152 Beverly did n't think the project itself was in jeopardy , but she feared a delay while funding was located .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  152 Beverly_NP1 did_VDD n't_XX think_VVI the_AT project_NN1 itself_PPX1 was_VBDZ in_II jeopardy_NN1 ,_Y but_CCB she_PPHS1 feared_VVD a_AT1 delay_NN1 while_CS funding_NN1 was_VBDZ located_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  153 The laying of ECUA pipes would then face a corresponding delay that residents who have been nursing their fragile septic systems from month to month can ill afford .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  153 The_AT laying_NN1@ of_IO ECUA_NN1_NP1 pipes_NN2 would_VM then_RT face_VVI a_AT1 corresponding_JJ delay_NN1 that_CST residents_NN2 who_PNQS have_VH0 been_VBN nursing_VVG their_APPGE fragile_JJ septic_JJ systems_NN2 from_II month_NNT1 to_II month_NNT1 can_VM ill_Z' afford_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  154 And so she was considering approaching ECUA about separating the sewer project from the county drainage project .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  154 And_CC so_RR_CS@ she_PPHS1 was_VBDZ considering_VVG_II_CS_RR@ approaching_JJ@_VVG ECUA_NN1_NP1 about_II separating_VVG the_AT sewer_NN1 project_NN1 from_II the_AT county_NN1 drainage_NN1 project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  155 Could ECUA and bring in the rest of the lines later when the drainage ditches were dug ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  155 Could_VM ECUA_NP1_NN1 and_CC bring_VV0 in_RP the_AT rest_NN1 of_IO the_AT lines_NN2 later_RRR_JJR when_CS the_AT drainage_NN1 ditches_NN2 were_VBDR dug_VVN@ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  156 If not , she said , she would cast around for other options .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  156 If_CS not_XX ,_Y she_PPHS1 said_VVD ,_Y she_PPHS1 would_VM cast_VVI around_RP for_IF other_JJ options_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  157 New septic tanks for those most in need ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  157 New_JJ septic_JJ tanks_NN2 for_IF those_DD2 most_RRT@ in_II need_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  158 Grinder pumps to connect them to sewer down the street ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  158 Grinder_NN1 pumps_NN2 to_TO connect_VVI them_PPHO2 to_II sewer_NN1 down_II the_AT street_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  159 And yet her role , she told JEH , is not to direct the project .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  159 And_CC yet_RR her_APPGE role_NN1 ,_Y she_PPHS1 told_VVD JEH_NP1_NN1 ,_Y is_VBZ not_XX to_TO direct_VVI the_AT project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  160 It 's to set things in motion .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  160 It_PPH1 's_VBZ to_TO set_VVI things_NN2 in_II motion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  161 To facilitate communication .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  161 To_TO facilitate_VVI communication_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  162 To empower the community to identify and address problems themselves .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  162 To_TO empower_VVI the_AT community_NN1 to_TO identify_VVI and_CC address_NN1_VV0@ problems_NN2 themselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  163 Part of the challenge is to walk that delicate line between providing counsel to the residents and respecting their autonomy .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  163 Part_NN1 of_IO the_AT challenge_NN1 is_VBZ to_TO walk_VVI that_DD1_CST delicate_JJ line_NN1 between_II providing_VVG counsel_NN1_VV0 to_II the_AT residents_NN2 and_CC respecting_II_VVG@ their_APPGE autonomy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  164 She also urged JEH not to paint a picture of unwarranted rosiness .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  164 She_PPHS1 also_RR urged_VVD JEH_NP1_NN1 not_XX to_TO paint_VVI a_AT1 picture_NN1 of_IO unwarranted_JJ rosiness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  165 With projects that involve construction , she said , it is important to ask very specific questions about the technical side of things .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  165 With_IW projects_NN2 that_CST involve_VV0 construction_NN1 ,_Y she_PPHS1 said_VVD ,_Y it_PPH1 is_VBZ important_JJ to_TO ask_VVI very_RG specific_JJ questions_NN2 about_II the_AT technical_JJ side_NN1 of_IO things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  166 The engineering information that the community group received at early meetings was vague .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  166 The_AT engineering_NN1 information_NN1 that_CST the_AT community_NN1 group_NN1 received_VVN_VVD at_II early_JJ meetings_NN2 was_VBDZ vague_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  167 An elected official attended the meetings and made promises , then stopped attending when it looked as if the project was running into trouble .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  167 An_AT1 elected_JJ@ official_NN1 attended_VVD_VVN the_AT meetings_NN2 and_CC made_VVD_VVN promises_NN2 ,_Y then_RT stopped_VVD_VVN attending_VVG when_RRQ_CS it_PPH1 looked_VVD as_CS21 if_CS22 the_AT project_NN1 was_VBDZ running_VVG into_II trouble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  168 Part of the problem , what questions lay people might have .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  168 Part_NN1 of_IO the_AT problem_NN1 ,_Y what_DDQ questions_NN2 lay_VV0_VVD_JJ@ people_NN might_VM have_VHI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  169 And lay people do n't know what questions to ask .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  169 And_CC lay_VV0_VVD_JJ@ people_NN do_VD0 n't_XX know_VVI what_DDQ questions_VVZ%_NN2 to_TO ask_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  170 If she could do things over , she told JEH , " I would have done some homework on the engineering .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  170 If_CS she_PPHS1 could_VM do_VDI things_NN2 over_RP ,_Y she_PPHS1 told_VVD JEH_NP1_NN1 ,_Y "_Y I_PPIS1 would_VM have_VHI done_VDN some_DD homework_NN1 on_II the_AT engineering_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  171 I might have solicited an engineer who works here for us and said , ' Hey , in your experience , how much time does this take ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  171 I_PPIS1 might_VM have_VHI solicited_VVN an_AT1 engineer_NN1 who_PNQS works_VVZ here_RL for_IF us_PPIO2 and_CC said_VVD ,_Y '_"@ Hey_UH ,_Y in_II your_APPGE experience_NN1 ,_Y how_RGQ@_RRQ much_DA1 time_NNT1 does_VDZ this_DD1 take_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  172 How much money ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  172 How_RGQ@ much_DA1 money_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  173 " And , she said , " Get it in writing from the county .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  173 "_Y And_CC ,_Y she_PPHS1 said_VVD ,_Y "_Y Get_VV0 it_PPH1 in_II_RP@ writing_VVG_NN1 from_II the_AT county_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  174 Make them put it down on paper .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  174 Make_VV0 them_PPHO2 put_VVI it_PPH1 down_RP on_II paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  175 " Epilogue At a community meeting in late April , ECUA announced that it had obtained additional funding , making it possible to bring sewer to the neighborhood in advance of the drainage project .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  175 "_Y Epilogue_NN1_NP1@ At_II a_AT1 community_NN1 meeting_VVG_NN1 in_II late_JJ April_NPM1 ,_Y ECUA_NP1 announced_VVD that_CST it_PPH1 had_VHD obtained_VVN additional_JJ funding_NN1 ,_Y making_VVG it_PPH1 possible_JJ to_TO bring_VVI sewer_NN1 to_II the_AT neighborhood_NN1 in_II advance_NN1 of_IO the_AT drainage_NN1 project_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  176 Laying of pipes will begin this fall ; construction is expected to take six to eight months .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  176 Laying_NN1@_VVG of_IO pipes_NN2 will_VM begin_VVI this_DD1 fall_NN1 ;_Y construction_NN1 is_VBZ expected_VVN_JJ to_TO take_VVI six_MC to_II eight_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  177 Work on the drainage part of the project is expected to begin in 2010 and take another 8 to 12 months .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  177 Work_VV0_NN1 on_II the_AT drainage_NN1 part_NN1 of_IO the_AT project_NN1 is_VBZ expected_VVN_JJ to_TO begin_VVI in_II 2010_MC and_CC take_VVI another_DD1 8_MC to_II 12_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  178 Sidewalks and street lighting will come with the drainage pipes .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  178 Sidewalks_NN2 and_CC street_NN1 lighting_NN1 will_VM come_VVI with_IW the_AT drainage_NN1 pipes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  179 2 .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  179 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  180 PACE in Palm Beach County How does one Mike McGinnis , who has been working on not one but five separate PACE projects , consults with the Palm Beach County Office of Community Revitalization ( OCR ) , as well as the county sewage and sanitation departments .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  180 PACE_NN1_VV0@ in_II Palm_NN1 Beach_NN1 County_NN1 How_RRQ does_VDZ one_PN1 Mike_NP1 McGinnis_NP1 ,_Y who_PNQS has_VHZ been_VBN working_VVG on_II_RP@ not_XX one_PN1_MC1 but_CCB five_MC separate_JJ PACE_NN1 projects_NN2 ,_Y consults_VVZ with_IW the_AT Palm_NN1 Beach_NN1 County_NN1 Office_NN1 of_IO Community_NN1 Revitalization_NN1 (_Y OCR_NN1 )_Y ,_Y as_II31 well_II32 as_II33 the_AT county_NN1 sewage_NN1 and_CC sanitation_NN1 departments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  181 Another resource is other environmental health staff , since they know when a neighborhood is generating a lot of nuisance complaints .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  181 Another_DD1 resource_NN1 is_VBZ other_JJ environmental_JJ health_NN1 staff_NN ,_Y since_CS they_PPHS2 know_VV0 when_RRQ a_AT1 neighborhood_NN1 is_VBZ generating_VVG a_AT1 lot_NN1 of_IO nuisance_NN1 complaints_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  182 In one case , a resident had heard about the PACE program and specifically approached the OCR to request that the program come to her neighborhood .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  182 In_II one_MC1 case_NN1 ,_Y a_AT1 resident_NN1 had_VHD heard_VVN about_II the_AT PACE_NN1 program_NN1 and_CC specifically_RR approached_VVD_VVN the_AT OCR_NN1 to_TO request_VVI that_CST the_AT program_NN1 come_VVN@_VV0 to_II her_APPGE neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  183 Usually , though , the first , the largest , and the most ongoing challenge is to earn the trust of residents -- to obtain their attendance at meetings .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  183 Usually_RR ,_Y though_CS_RR@ ,_Y the_AT first_MD ,_Y the_AT largest_JJT ,_Y and_CC the_AT most_RGT ongoing_JJ challenge_NN1 is_VBZ to_TO earn_VVI the_AT trust_NN1 of_IO residents_NN2 --_ZZ to_TO obtain_VVI their_APPGE attendance_NN1 at_II meetings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  184 " It 's just one-on-one , talking to people , " McGinnis said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  184 "_Y It_PPH1 's_VBZ just_RR one-on-one_MC ,_Y talking_VVG to_II people_NN ,_Y "_Y McGinnis_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  185 " I 've just walked up to people .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  185 "_Y I_PPIS1 've_VH0 just_RR walked_VVN up_II21 to_II22 people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  186 In our first community , I walked up to a woman and said : What kind of issues do you have ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  186 In_II our_APPGE first_MD community_NN1 ,_Y I_PPIS1 walked_VVD up_II21 to_II22 a_AT1 woman_NN1 and_CC said_VVD :_Y What_DDQ kind_NN1 of_IO issues_NN2 do_VD0 you_PPY have_VHI ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  187 I 'm doing a survey .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  187 I_PPIS1 'm_VBM doing_VDG a_AT1 survey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  188 " Often people are reluctant to share their concerns with a representative of a government agency .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  188 "_Y Often_RR people_NN are_VBR reluctant_JJ to_TO share_VVI their_APPGE concerns_NN2 with_IW a_AT1 representative_NN1 of_IO a_AT1 government_NN1 agency_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  189 An acquired sense of for PACE often have been trying for years to get movement on basic issues .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  189 An_AT1 acquired_JJ@ sense_NN1 of_IO for_IF PACE_NN1 often_RR have_VH0 been_VBN trying_VVG for_IF years_NNT2 to_TO get_VVI movement_NN1 on_II basic_JJ issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  190 It can be hard to convince them that this time it will be worth their while to invest time and emotional energy .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  190 It_PPH1 can_VM be_VBI hard_JJ to_TO convince_VVI them_PPHO2 that_CST this_DD1 time_NNT1 it_PPH1 will_VM be_VBI worth_II their_APPGE while_NNT1@ to_TO invest_VVI time_NNT1 and_CC emotional_JJ energy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  191 " But you keep talking , " McGinnis said , " and before you leave , you 've got the front and back filled out with all sorts of stuff .... And if we can show them something getting done , then they start listening to you .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  191 "_Y But_CCB you_PPY keep_VV0 talking_VVG_NN1@ ,_Y "_Y McGinnis_NP1 said_VVD ,_Y "_Y and_CC before_CS you_PPY leave_VV0 ,_Y you_PPY 've_VH0 got_VVN the_AT front_NN1_JJ and_CC back_NN1 filled_VVD_VVN out_RP with_IW all_DB sorts_NN2 of_IO stuff_NN1 ...._... And_CC if_CS we_PPIS2 can_VM show_VVI them_PPHO2 something_PN1 getting_VVG done_VDN ,_Y then_RT they_PPHS2 start_VV0 listening_VVG_NN1_JJ to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  192 " For Example : Westgate The community of Westgate still has dirt roads , although it is surrounded by business and located near an airport .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  192 "_Y For_REX21 Example_REX22 :_Y Westgate_VV0@_NP1 The_AT community_NN1 of_IO Westgate_NP1 still_RR has_VHZ dirt_NN1 roads_NN2 ,_Y although_CS it_PPH1 is_VBZ surrounded_VVN by_II business_NN1 and_CC located_VVN_VVD near_II an_AT1 airport_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  193 It has no drainage system , no sidewalks , and no streetlights .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  193 It_PPH1 has_VHZ no_AT drainage_NN1 system_NN1 ,_Y no_AT sidewalks_NN2 ,_Y and_CC no_AT streetlights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  194 The residences are all on septic tanks .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  194 The_AT residences_NN2 are_VBR all_DB_RR@ on_II septic_JJ tanks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  195 When the area floods , the septic tanks run over .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  195 When_CS the_AT area_NN1 floods_NN2_VVZ ,_Y the_AT septic_JJ tanks_NN2 run_VV0_VVN over_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  196 " It gets mixed in with the water , " McGinnis added .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  196 "_Y It_PPH1 gets_VVZ mixed_VVN in_RP@ with_IW the_AT water_NN1 ,_Y "_Y McGinnis_NP1 added_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  197 " It floods right out into the street " ( see photos at left ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  197 "_Y It_PPH1 floods_VVZ right_RR_NN1 out_RP into_II the_AT street_NN1 "_Y (_Y see_VV0 photos_NN2 at_II left_JJ_NN1@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  198 As in Escambia County , the goal is to install sewage and drainage systems , provide streetlights and that this aspect of the project is on track .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  198 As_CSA in_II Escambia_NP1 County_NN1 ,_Y the_AT goal_NN1 is_VBZ to_TO install_VVI sewage_NN1 and_CC drainage_NN1 systems_NN2 ,_Y provide_VVI streetlights_NN2 and_CC that_CST this_DD1 aspect_NN1 of_IO the_AT project_NN1 is_VBZ on_II track_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  199 In the meantime , he and the community have been working on other problems .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  199 In_II the_AT meantime_NNT1 ,_Y he_PPHS1 and_CC the_AT community_NN1 have_VH0 been_VBN working_VVG on_II_RP@ other_JJ problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  200 Because of the lack of streetlights , the area attracts illegal dumping .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  200 Because_II21 of_II22 the_AT lack_NN1 of_IO streetlights_NN2 ,_Y the_AT area_NN1 attracts_VVZ illegal_JJ dumping_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  201 Tires get dumped on vacant lots -- sometimes in large quantities -- and they trap water in which mosquitoes can breed .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  201 Tires_VVZ get_VV0 dumped_VVN on_II vacant_JJ lots_PN --_NN1_JJ sometimes_RT in_II large_JJ quantities_NN2 --_NN1_JJ and_CC they_PPHS2 trap_VV0 water_NN1 in_II which_DDQ mosquitoes_NN2 can_VM breed_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  202 Every once in a while , the community collaborates with the sheriff 's department on a cleanup ( see photo above ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  202 Every_AT1 once_RR in_II a_AT1 while_NNT1@ ,_Y the_AT community_NN1 collaborates_VVZ with_IW the_AT sheriff_NN1 's_GE department_NN1 on_II a_AT1 cleanup_NN1 (_Y see_VV0 photo_NN1 above_RL )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  203 A Knotty Social and Legal Problem The community 's crime problem has been exacerbated by the presence of a church that has been sheltering homeless people .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  203 A_AT1_ZZ1 Knotty_JJ Social_JJ and_CC Legal_JJ Problem_NN1 The_AT community_NN1 's_GE crime_NN1 problem_NN1 has_VHZ been_VBN exacerbated_VVN by_II the_AT presence_NN1 of_IO a_AT1 church_NN1 that_CST_DD1 has_VHZ been_VBN sheltering_VVG homeless_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  204 Women and children are housed inside the church proper , and the church has set up a large revival tent for men .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  204 Women_NN2 and_CC children_NN2 are_VBR housed_VVN inside_II the_AT church_NN1 proper_JJ ,_Y and_CC the_AT church_NN1 has_VHZ set_VVN up_RP a_AT1 large_JJ revival_NN1 tent_NN1 for_IF men_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  205 The facilities are inadequate to the numbers of people being sheltered , and they violate health and fire codes .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  205 The_AT facilities_NN2 are_VBR inadequate_JJ to_II the_AT numbers_NN2 of_IO people_NN being_VBG sheltered_VVN@_JJ ,_Y and_CC they_PPHS2 violate_VV0 health_NN1 and_CC fire_NN1_VV0@ codes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  206 " There have been cases of people with staph infections , " McGinnis said .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  206 "_Y There_EX have_VH0 been_VBN cases_NN2 of_IO people_NN with_IW staph_NN1 infections_NN2 ,_Y "_Y McGinnis_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  207 " And you catch people out there at night , urinating in the middle of the street .... They get inside some of dealing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  207 "_Y And_CC you_PPY catch_VV0 people_NN out_RP there_RL at_II night_NNT1 ,_Y urinating_VVG in_II the_AT middle_NN1 of_IO the_AT street_NN1 ...._... They_PPHS2 get_VV0 inside_II_RL some_DD of_IO dealing_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  208 Unfortunately , some of these houses get set on fire , too .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  208 Unfortunately_RR ,_Y some_DD of_IO these_DD2 houses_NN2 get_VV0 set_NN1_VVN_VV0 on_II fire_NN1 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  209 " McGinnis and the community have spoken with the church directors .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  209 "_Y McGinnis_NP1 and_CC the_AT community_NN1 have_VH0 spoken_VVN with_IW the_AT church_NN1 directors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  210 The county has levied fines .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  210 The_AT county_NN1 has_VHZ levied_VVN fines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  211 " They usually end up appealing , " McGinnis said , " and it 's just something that 's been strung out .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  211 "_Y They_PPHS2 usually_RR end_VV0 up_RP appealing_VVG_JJ ,_Y "_Y McGinnis_NP1 said_VVD ,_Y "_Y and_CC it_PPH1 's_VBZ just_RR something_PN1 that_CST 's_VHZ been_VBN strung_VVN out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  212 " There has been talk by county commissioners of opening a competing facility under county auspices to solve the problem by attracting the church 's clientele elsewhere .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  212 "_Y There_EX has_VHZ been_VBN talk_NN1 by_II county_NN1 commissioners_NN2 of_IO opening_VVG a_AT1 competing_JJ facility_NN1 under_II county_NN1 auspices_NN2 to_TO solve_VVI the_AT problem_NN1 by_II attracting_VVG the_AT church_NN1 's_GE clientele_NN1 elsewhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  213 But would the clientele choose a county-run facility that would have to enforce the kinds of rules that the church facility currently does not ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  213 But_CCB would_VM the_AT clientele_NN1 choose_VVI a_AT1 county-run_JJ_NN1 facility_NN1 that_CST_DD1 would_VM have_VHI to_TO enforce_VVI the_AT kinds_NN2 of_IO rules_NN2 that_CST the_AT church_NN1 facility_NN1 currently_RR does_VDZ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  214 The situation is a vexed one , not least because it places the county and the neighbors in conflict with an entity doing charitable work .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  214 The_AT situation_NN1 is_VBZ a_AT1 vexed_JJ one_PN1 ,_Y not_XX least_RRT because_CS it_PPH1 places_VVZ@ the_AT county_NN1 and_CC the_AT neighbors_NN2 in_II conflict_NN1 with_IW an_AT1 entity_NN1 doing_VDG charitable_JJ work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  215 The church has received some sympathetic accounts in the media .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  215 The_AT church_NN1 has_VHZ received_VVN some_DD sympathetic_JJ accounts_NN2 in_II the_AT media_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  216 JEH asked McGinnis if nearby residents were growing impatient with the process .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  216 JEH_NP1 asked_VVD McGinnis_NP1 if_CS nearby_JJ residents_NN2 were_VBDR growing_VVG_JJ impatient_JJ with_IW the_AT process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  217 " They 're probably past that , " he commented .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  217 "_Y They_PPHS2 're_VBR probably_RR past_II that_DD1 ,_Y "_Y he_PPHS1 commented_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  218 " They 've been trying for years and years , and there 's no light at the end of the tunnel than 10 years .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  218 "_Y They_PPHS2 've_VH0 been_VBN trying_VVG for_IF years_NNT2 and_CC years_NNT2 ,_Y and_CC there_EX 's_VBZ no_AT light_NN1_JJ at_II the_AT end_NN1 of_IO the_AT tunnel_NN1 than_CSN 10_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  219 By contrast , the problem of abandoned houses is relatively simple .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  219 By_II contrast_NN1 ,_Y the_AT problem_NN1 of_IO abandoned_JJ@ houses_NN2 is_VBZ relatively_RR simple_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  220 Sometimes , it 's just a matter of focusing attention on a problem property .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  220 Sometimes_RT ,_Y it_PPH1 's_VBZ just_RR a_AT1 matter_NN1 of_IO focusing_VVG attention_NN1 on_II a_AT1 problem_NN1 property_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  221 " If we find people living in these houses , " he said , " we go find out who the homeowner is .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  221 "_Y If_CS we_PPIS2 find_VV0 people_NN living_VVG_NN1 in_II these_DD2 houses_NN2 ,_Y "_Y he_PPHS1 said_VVD ,_Y "_Y we_PPIS2 go_VV0 find_VV0 out_RP who_PNQS the_AT homeowner_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  222 We have a law that says if people are going to live in a house , they have to have drinking water .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  222 We_PPIS2 have_VH0 a_AT1 law_NN1 that_CST_DD1 says_VVZ if_CS_CSW@ people_NN are_VBR going_VVGK to_TO live_VVI in_II_RP@ a_AT1 house_NN1 ,_Y they_PPHS2 have_VH0 to_TO have_VHI drinking_NN1_JJ% water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  223 So we put pressure on the owners : If you 're going to let people live there , you have to give them water .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  223 So_RR we_PPIS2 put_VV0_VVD pressure_NN1 on_II the_AT owners_NN2 :_Y If_CS you_PPY 're_VBR going_VVGK to_TO let_VVI people_NN live_VV0 there_RL ,_Y you_PPY have_VH0 to_TO give_VVI them_PPHO2 water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  224 If not , you need to board it up , or you need to tear it down .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  224 If_CS not_XX ,_Y you_PPY need_VV0 to_TO board_VVI it_PPH1 up_RP ,_Y or_CC you_PPY need_VV0 to_TO tear_VVI it_PPH1 down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  225 " That intervention usually speeds up a demolition that was already being contemplated .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  225 "_Y That_DD1 intervention_NN1 usually_RR speeds_VVZ up_RP a_AT1 demolition_NN1 that_CST_DD1 was_VBDZ already_RR being_VBG contemplated_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  226 Late-Breaking In late May , a federal appeals court ruled that the county was not violating the religious freedom of church leaders by requiring that the church have a permit to shelter homeless people .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  226 Late-Breaking_JJ In_II late_JJ May_NPM1 ,_Y a_AT1 federal_JJ appeals_NN2 court_NN1 ruled_VVD_VVN that_CST the_AT county_NN1 was_VBDZ not_XX violating_VVG the_AT religious_JJ freedom_NN1 of_IO church_NN1 leaders_NN2 by_II requiring_VVG that_CST the_AT church_NN1 have_VH0 a_AT1 permit_NN1@_VV0 to_TO shelter_VVI homeless_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  227 The ruling acknowledged that it may not be possible for the church to obtain a permit since it does not have of people being sheltered .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  227 The_AT ruling_NN1_JJ acknowledged_VVD_VVN_JJ that_CST it_PPH1 may_VM not_XX be_VBI possible_JJ for_IF the_AT church_NN1 to_TO obtain_VVI a_AT1 permit_NN1@ since_CS it_PPH1 does_VDZ not_XX have_VHI of_IO people_NN being_VBG sheltered_VVN@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  228 The implication is that in order to legally continue its activities , the church would have to move .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  228 The_AT implication_NN1 is_VBZ that_CST_DD1 in_II order_NN1 to_TO legally_RR continue_VVI its_Z' activities_NN2 ,_Y the_AT church_NN1 would_VM have_VHI to_TO move_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  229 PACE in Marion County This story , set in a low-income , majority-minority neighborhood in the northwest of the city of Ocala , goes back to 1982 , when a charcoal manufacturer took over the Ocala Cleat Company .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  229 PACE_NN1_VV0@ in_II Marion_NP1 County_NN1 This_DD1 story_NN1 ,_Y set_VVN_VVD_VV0 in_II_RP@ a_AT1 low-income_NN1_JJ ,_Y majority-minority_JJ_NN1 neighborhood_NN1 in_II the_AT northwest_ND1 of_IO the_AT city_NN1 of_IO Ocala_NP1 ,_Y goes_VVZ back_RP to_II 1982_MC ,_Y when_CS_RRQ a_AT1 charcoal_NN1 manufacturer_NN1 took_VVD over_II_RP the_AT Ocala_NP1_NN1@ Cleat_NN1 Company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  230 The facility had opened in 1970 and had until 1982 manufactured wooden pallets and a little charcoal on the side .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  230 The_AT facility_NN1 had_VHD opened_VVN in_II 1970_MC and_CC had_VHD_VHN@ until_II@_CS 1982_MC manufactured_JJ wooden_JJ pallets_NN2 and_CC a_AT1 little_JJ charcoal_NN1 on_II the_AT side_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  231 The new owner began producing charcoal full time .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  231 The_AT new_JJ owner_NN1 began_VVD producing_VVG charcoal_NN1 full_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  232 Almost immediately , life changed for nearby residents .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  232 Almost_RR immediately_RR ,_Y life_NN1 changed_VVN_VVD for_IF nearby_JJ residents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  233 Smoke billowed from two giant smokestacks 24 hours a day , seven days a week .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  233 Smoke_NN1_VV0 billowed_VVD_VVN@ from_II two_MC giant_JJ_NN1 smokestacks_NN2_VVZ 24_MC hours_NNT2 a_AT1 day_NNT1 ,_Y seven_MC days_NNT2 a_AT1 week_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  234 Residents complained -- for more than 20 years they complained , gradually growing more organized .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  234 Residents_NN2 complained_VVD --_ZZ for_IF more_DAR than_CSN 20_MC years_NNT2 they_PPHS2 complained_VVD ,_Y gradually_RR growing_VVG more_RRR_DAR_RGR organized_VVN_VVD_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  235 By the time PACE came to the county in 2004 , they had formed the Neighborhood Citizens of Northwest Ocala , a community group led by a retired schoolteacher .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  235 By_II the_AT time_NNT1 PACE_NN1 came_VVD to_II the_AT county_NN1 in_II 2004_MC ,_Y they_PPHS2 had_VHD formed_VVN the_AT Neighborhood_NN1 Citizens_NN2 of_IO Northwest_ND1 Ocala_NP1 ,_Y a_AT1 community_NN1 group_NN1 led_VVN by_II a_AT1 retired_JJ schoolteacher_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  236 " I think the world of Mrs. Reed , " said Herman Hale , who currently runs the PACE program .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  236 "_Y I_PPIS1 think_VV0 the_AT world_NN1 of_IO Mrs._NNB Reed_NP1 ,_Y "_Y said_VVD Herman_NP1 Hale_NP1 ,_Y who_PNQS currently_RR runs_VVZ the_AT PACE_NN1 program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  237 " There should be more people oriented , very people oriented , and when she gets hold of something , she 's not going to let it rest until it comes to an end .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  237 "_Y There_EX should_VM be_VBI more_DAR people_NN oriented_VVD ,_Y very_JJ@ people_NN oriented_VVN ,_Y and_CC when_RRQ_CS she_PPHS1 gets_VVZ hold_NN1 of_IO something_PN1 ,_Y she_PPHS1 's_VBZ not_XX going_VVGK to_TO let_VVI it_PPH1 rest_NN1_VV0 until_CS it_PPH1 comes_VVZ to_II an_AT1 end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  238 " When a community is already organized , it makes sense to build on that strength , so Hale 's predecessor contacted the group and began working with them to find ways PACE could serve the community .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  238 "_Y When_CS a_AT1 community_NN1 is_VBZ already_RR organized_VVN_VVD ,_Y it_PPH1 makes_VVZ sense_NN1 to_TO build_VVI on_II_RP@ that_DD1 strength_NN1 ,_Y so_CS@_RR Hale_NP1 's_GE predecessor_NN1 contacted_VVD_VVN the_AT group_NN1 and_CC began_VVD working_VVG with_IW them_PPHO2 to_TO find_VVI ways_NN2 PACE_NN1_VV0@ could_VM serve_VVI the_AT community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  239 Not surprisingly , the PACE survey found that residents ' number one concern was emissions from the charcoal plant .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  239 Not_XX surprisingly_RR ,_Y the_AT PACE_NN1 survey_NN1 found_VVD_VVN that_CST residents_NN2 '_GE number_NN1 one_MC1 concern_NN1 was_VBDZ emissions_NN2 from_II the_AT charcoal_NN1 plant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  240 Other concerns were unkempt properties and lack of streetlights and sidewalks .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  240 Other_JJ concerns_NN2 were_VBDR unkempt_JJ properties_NN2 and_CC lack_NN1 of_IO streetlights_NN2 and_CC sidewalks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  241 Leadership by and for the Community It 's worth noting that the department had no formal data on health impacts from the charcoal plant .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  241 Leadership_NN1 by_II and_CC for_IF the_AT Community_NN1 It_PPH1 's_VBZ worth_II noting_VVG that_CST the_AT department_NN1 had_VHD no_AT formal_JJ data_NN on_II health_NN1 impacts_NN2 from_II the_AT charcoal_NN1 plant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  242 Hale , who took over the project after the plant was closed , did offer JEH the following health-related statistic : Among African-Americans in the two zip codes affected by the charcoal plant , rates of mortality from respiratory causes were higher than among African-Americans living in other zip codes .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  242 Hale_NN1_NP1@ ,_Y who_PNQS took_VVD over_II_RP the_AT project_NN1 after_II_CS the_AT plant_NN1 was_VBDZ closed_VVN_JJ ,_Y did_VDD offer_VVI JEH_NP1_NN1 the_AT following_JJ health-related_JJ_NN1 statistic_NN1 :_Y Among_II African-Americans_NN2 in_II the_AT two_MC zip_NN1_VV0 codes_NN2 affected_VVN by_II the_AT charcoal_NN1 plant_NN1 ,_Y rates_NN2 of_IO mortality_NN1 from_II respiratory_JJ causes_NN2 were_VBDR higher_JJR_RRR@ than_CSN among_II African-Americans_NN2 living_VVG in_II_RP@ other_JJ zip_NN1 codes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  243 The rate for the affected zip codes was 1.8 per 1,000 population , compared with 0.0-0.8 be that the difference had to do with the charcoal plant ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  243 The_AT rate_NN1 for_IF the_AT affected_JJ@ zip_NN1 codes_NN2 was_VBDZ 1.8_MC per_II 1,000_MC population_NN1 ,_Y compared_VVN with_IW 0.0-0.8_MCMC be_VBI that_CST the_AT difference_NN1 had_VHD to_TO do_VDI with_IW the_AT charcoal_NN1 plant_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  244 " I 'm making no inferences .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  244 "_Y I_PPIS1 'm_VBM making_VVG no_AT inferences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  245 " Hale paused .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  245 "_Y Hale_NP1@_NN1 paused_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  246 " But I could understand how someone would feel that way .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  246 "_Y But_CCB I_PPIS1 could_VM understand_VVI how_RRQ someone_PN1 would_VM feel_VVI that_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  247 " The distinction is worth dwelling on .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  247 "_Y The_AT distinction_NN1 is_VBZ worth_II dwelling_VVG@_NN1 on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  248 How does a health department justify closing a business without strong scientific evidence that emissions are adversely affecting its neighbors ' health ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  248 How_RRQ does_VDZ a_AT1 health_NN1 department_NN1 justify_VV0 closing_VVG a_AT1 business_NN1 without_IW strong_JJ scientific_JJ evidence_NN1 that_CST emissions_NN2 are_VBR adversely_RR affecting_VVG its_Z' neighbors_NN2 '_GE health_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  249 At the same time , how can one justify continuing to subject a neighborhood to a rain of soot , given how hard it is and how long it can take to pinpoint cause and effect through epidemiological studies ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  249 At_II the_AT same_DA time_NNT1 ,_Y how_RRQ can_VM one_PN1 justify_VVI continuing_VVG_JJ to_II subject_NN1 a_AT1 neighborhood_NN1 to_II a_AT1 rain_NN1 of_IO soot_NN1 ,_Y given_VVN how_RGQ@_RRQ hard_RR it_PPH1 is_VBZ and_CC how_RGQ@_RRQ long_RR it_PPH1 can_VM take_VVI to_TO pinpoint_VVI cause_NN1 and_CC effect_NN1_VV0@ through_II epidemiological_JJ studies_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  250 How does one thread one 's way through these unsatisfactory alternatives ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  250 How_RRQ does_VDZ one_PN1 thread_VVI one_PN1 's_GE way_NN1 through_II these_DD2 unsatisfactory_JJ alternatives_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  251 It 's a classic environmental health dilemma .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  251 It_PPH1 's_VBZ a_AT1 classic_JJ environmental_JJ health_NN1 dilemma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  252 Answer in this case : The health department did n't close anything .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  252 Answer_VV0_NN1 in_II_RP@ this_DD1 case_NN1 :_Y The_AT health_NN1 department_NN1 did_VDD n't_XX close_VVI anything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  253 Neither did " nothing " happen .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  253 Neither_DD1_RR did_VDD "_Y nothing_PN1 "_Y happen_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  254 As citizens ' groups grew increasingly organized , their political skills and their ability to be heard by people in power increased .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  254 As_CSA citizens_NN2 '_GE groups_NN2 grew_VVD increasingly_RR organized_VVN_VVD ,_Y their_APPGE political_JJ skills_NN2 and_CC their_APPGE ability_NN1 to_TO be_VBI heard_VVN by_II people_NN in_II power_NN1 increased_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  255 They also got some media attention .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  255 They_PPHS2 also_RR got_VVD some_DD media_NN attention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  256 Eventually city officials intervened , the Florida Department of Environmental Protection got involved and discovered operate .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  256 Eventually_RR city_NN1 officials_NN2 intervened_VVD_VVN ,_Y the_AT Florida_NP1 Department_NN1 of_IO Environmental_JJ Protection_NN1 got_VVD_VVN involved_VVN and_CC discovered_VVD operate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  257 " Let me just give you a visual , " Statewide Coordinator Julianne Price commented .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  257 "_Y Let_VV0 me_PPIO1 just_RR give_VVI you_PPY a_AT1 visual_JJ ,_Y "_Y Statewide_JJ Coordinator_NN1 Julianne_NP1 Price_NP1 commented_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  258 " When the people who lived there hung clothes outside on a clothesline , a white shirt would turn black from the charcoal .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  258 "_Y When_CS the_AT people_NN who_PNQS lived_VVD there_RL_EX hung_VVD_JJ@_VVN clothes_NN2 outside_RL on_II a_AT1 clothesline_NN1 ,_Y a_AT1 white_JJ shirt_NN1 would_VM turn_VVI black_JJ_NN1@ from_II the_AT charcoal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  259 " Residents produced other visuals , including a photograph in which Mrs. Reed presses a hand to the inside of a window to demonstrate the extent to which soot was accumulating on the glass ( see photo 5 at left ) .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  259 "_Y Residents_NN2 produced_VVD_VVN other_JJ visuals_NN2 ,_Y including_II_VVG@ a_AT1 photograph_NN1 in_II which_DDQ Mrs._NNB Reed_NP1 presses_VVZ@ a_AT1 hand_NN1 to_II the_AT inside_NN1@ of_IO a_AT1 window_NN1 to_TO demonstrate_VVI the_AT extent_NN1 to_II which_DDQ soot_NN1 was_VBDZ accumulating_VVG on_II the_AT glass_NN1 (_Y see_VV0 photo_NN1 5_MC at_II left_JJ_NN1@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  260 PACE helped bring people together .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  260 PACE_NN1 helped_VVN_VVD bring_VVI people_NN together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  261 It helped , for instance , obtain attendance by city officials at the community meetings where they saw items of soot-blackened clothing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  261 It_PPH1 helped_VVD ,_Y for_REX21 instance_REX22 ,_Y obtain_VV0 attendance_NN1 by_II city_NN1 officials_NN2 at_II the_AT community_NN1 meetings_NN2 where_CS_RRQ they_PPHS2 saw_VVD items_NN2 of_IO soot-blackened_JJ_NN1 clothing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  262 Building Trust In the aftermath of the plant 's closing , Hale is working with Neighborhood Citizens of Northwest Ocala on cleanup .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  262 Building_NN1 Trust_NN1_VV0 In_II the_AT aftermath_NN1 of_IO the_AT plant_NN1 's_GE closing_NN1_JJ_VVG ,_Y Hale_NP1 is_VBZ working_VVG with_IW Neighborhood_NN1 Citizens_NN2 of_IO Northwest_ND1 Ocala_NP1_NN1@ on_II cleanup_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  263 The group has learned to collect samples and test the soil .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  263 The_AT group_NN1 has_VHZ learned_VVN to_TO collect_VVI samples_NN2 and_CC test_VVI the_AT soil_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  264 The soil is showing elevated levels of polycyclic aromatic hydrocarbons ( PAHs ) , which have carcinogenic properties .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  264 The_AT soil_NN1 is_VBZ showing_VVG elevated_JJ levels_NN2 of_IO polycyclic_JJ aromatic_JJ hydrocarbons_NN2 (_Y PAHs_NP2_NN2 )_Y ,_Y which_DDQ have_VH0 carcinogenic_JJ properties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  265 Now , PAHs can occur naturally , and Hale has been told by the state DEP that the levels found do not exceed safety to find a practical and inexpensive remediation method , and consulting with experts around the state .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  265 Now_RT ,_Y PAHs_NN2_NP2 can_VM occur_VVI naturally_RR ,_Y and_CC Hale_NP1 has_VHZ been_VBN told_VVN by_II the_AT state_NN1 DEP_VV0_NN1 that_CST the_AT levels_NN2 found_VVD_VVN do_VD0 not_XX exceed_VVI safety_NN1 to_TO find_VVI a_AT1 practical_JJ and_CC inexpensive_JJ remediation_NN1 method_NN1 ,_Y and_CC consulting_VVG_NN1_JJ with_IW experts_NN2 around_II the_AT state_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  266 One solution might be the use of plants to metabolize PAHs out of the soil .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  266 One_MC1 solution_NN1 might_VM be_VBI the_AT use_NN1 of_IO plants_NN2 to_TO metabolize_VVI PAHs_NN2_NP2 out_II21 of_II22 the_AT soil_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  267 The group would set up five test sites .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  267 The_AT group_NN1 would_VM set_VVI up_RP five_MC test_NN1_VV0 sites_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  268 Environmental health would do baseline testing .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  268 Environmental_JJ health_NN1 would_VM do_VDI baseline_NN1 testing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  269 Then residents would plant a variety of species at the sites , and environmental health would test the soil again after six months .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  269 Then_RT_JJ% residents_NN2 would_VM plant_VVI a_AT1 variety_NN1 of_IO species_NN at_II the_AT sites_NN2 ,_Y and_CC environmental_JJ health_NN1 would_VM test_VVI the_AT soil_NN1 again_RT after_II_CS six_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  270 Once a viable plant is found , the residents could take cuttings , plant them in their own yards , and pass them on to neighbors .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  270 Once_RR_CS@ a_AT1 viable_JJ plant_NN1 is_VBZ found_VVN ,_Y the_AT residents_NN2 could_VM take_VVI cuttings_NN2 ,_Y plant_VV0@ them_PPHO2 in_II_RP@ their_APPGE own_DA yards_NN2 ,_Y and_CC pass_VV0 them_PPHO2 on_II21_RP to_II22_II neighbors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  271 The residents like this approach ; it puts agency in their hands .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  271 The_AT residents_NN2 like_II this_DD1 approach_NN1 ;_Y it_PPH1 puts_VVZ agency_NN1 in_II their_APPGE hands_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  272 Hale explained his philosophy : " As a nurse , I understand the correlation between someone 's environment and someone 's health .... So it 's what the people in that community feel is important that matters .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  272 Hale_NP1@_NN1 explained_VVD his_APPGE philosophy_NN1 :_Y "_Y As_II_CSA a_AT1 nurse_NN1 ,_Y I_PPIS1 understand_VV0 the_AT correlation_NN1 between_II someone_PN1 's_GE environment_NN1 and_CC someone_PN1 's_GE health_NN1 ...._... So_RR it_PPH1 's_VBZ what_DDQ the_AT people_NN in_II that_DD1 community_NN1 feel_VV0_NN1% is_VBZ important_JJ that_CST matters_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  273 " This basic respect for people 's lived experiences may ultimately be as good for health departments as it is for the communities the PACE program serves .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  273 "_Y This_DD1 basic_JJ respect_NN1 for_IF people_NN 's_VBZ_VHZ@ lived_VVN experiences_NN2 may_VM ultimately_RR be_VBI as_RG good_JJ for_IF health_NN1 departments_NN2 as_CSA it_PPH1 is_VBZ for_IF the_AT communities_NN2 the_AT PACE_NN1 program_NN1 serves_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  274 Hale added : pre-formatted table How did he win their trust ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  274 Hale_NP1@_NN1 added_VVD :_Y pre-formatted_ZZ table_NN1 How_RRQ did_VDD he_PPHS1 win_VVI their_APPGE trust_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  275 : Eyeing the Light at the End of the Tunnel PACE started as something of an extra that departments might or might not feel able to take on .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  275 :_Y Eyeing_VVG the_AT Light_NN1_JJ at_II the_AT End_NN1 of_IO the_AT Tunnel_NN1 PACE_NN1 started_VVD_VVN@ as_CSA_II@ something_PN1 of_IO an_AT1 extra_JJ that_CST departments_NN2 might_VM or_CC might_VM not_XX feel_VVI able_JK to_TO take_VVI on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  276 But Florida has now written the program into the self-evaluation exercise that every county is required to complete .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  276 But_CCB Florida_NP1 has_VHZ now_RT written_VVN the_AT program_NN1 into_II the_AT self-evaluation_NN1 exercise_VV0_NN1 that_CST every_AT1 county_NN1 is_VBZ required_VVN to_TO complete_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  277 This policy is on a three-year pilot basis .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  277 This_DD1 policy_NN1 is_VBZ on_II a_AT1 three-year_JJ pilot_NN1 basis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  278 Given the recession -- and the need to avoid unfunded mandates -- the existence of a local PACE program does n't actually " count " in a department 's overall score .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  278 Given_VVN the_AT recession_NN1 --_NN1 and_CC the_AT need_NN1 to_TO avoid_VVI unfunded_JJ mandates_NN2 --_NN1_JJ the_AT existence_NN1 of_IO a_AT1 local_JJ PACE_NN1 program_NN1 does_VDZ n't_XX actually_RR "_Y count_VV0 "_Y in_II_RP@ a_AT1 department_NN1 's_GE overall_JJ_RR_NN1 score_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  279 The presence of the item on the form merely serves as a " heads-up , " as Parker put it , to program directors , empowering them to prioritize this program along with more traditional items like septic inspections .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  279 The_AT presence_NN1 of_IO the_AT item_NN1 on_II the_AT form_NN1 merely_RR serves_VVZ as_II a_AT1 "_Y heads-up_NN2 ,_Y "_Y as_CSA Parker_NP1 put_VVD_VV0 it_PPH1 ,_Y to_TO program_VVI directors_NN2 ,_Y empowering_VVG them_PPHO2 to_TO prioritize_VVI this_DD1 program_NN1 along_II21 with_II22 more_RGR traditional_JJ items_NN2 like_II septic_JJ inspections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  280 He hopes that by the third year the economy will have rebounded and the state can once again offer assistance .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  280 He_PPHS1 hopes_VVZ that_CST by_II the_AT third_MD year_NNT1 the_AT economy_NN1 will_VM have_VHI rebounded_VVN@ and_CC the_AT state_NN1 can_VM once_RR21 again_RR22 offer_VVI assistance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  281 " I feel like the tool has proved its worth , " he added , " far and above what we expected .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  281 "_Y I_PPIS1 feel_VV0 like_II the_AT tool_NN1 has_VHZ proved_VVN its_Z' worth_NN1@ ,_Y "_Y he_PPHS1 added_VVD ,_Y "_Y far_JJ_RR and_CC above_II_RL what_DDQ we_PPIS2 expected_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  282 It has not only discovered land use issues that have a connection to environmental health issues , it -- stuff that we do have programs for .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  282 It_PPH1 has_VHZ not_XX only_RR discovered_VVN land_NN1 use_NN1 issues_NN2_VVZ@ that_CST have_VH0 a_AT1 connection_NN1 to_II environmental_JJ health_NN1 issues_NN2 ,_Y it_PPH1 --_NN1_JJ stuff_NN1 that_CST we_PPIS2 do_VD0 have_VHI programs_NN2 for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  283 We can either ignore these issues , deny them , or address them .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  283 We_PPIS2 can_VM either_RR ignore_VVI these_DD2 issues_NN2 ,_Y deny_VV0 them_PPHO2 ,_Y or_CC address_VV0@ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  284 And if public health is n't going to get in there and address them , who is ?
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  284 And_CC if_CS_CSW@ public_JJ health_NN1 is_VBZ n't_XX going_VVGK to_TO get_VVI in_II_RP% there_RL and_CC address_VV0@ them_PPHO2 ,_Y who_PNQS is_VBZ ?_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  285 " He hopes that PACE will become a routine part of environmental health business .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  285 "_Y He_PPHS1 hopes_VVZ that_DD1_CST PACE_NN1 will_VM become_VVI a_AT1 routine_NN1_JJ@ part_NN1 of_IO environmental_JJ health_NN1 business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  286 He hopes that that departments will be expected to go out and work with neighborhoods and help them address their issues .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  286 He_PPHS1 hopes_VVZ that_CST that_DD1 departments_NN2 will_VM be_VBI expected_VVN to_TO go_VVI out_RP and_CC work_VVI with_IW neighborhoods_NN2 and_CC help_VV0 them_PPHO2 address_VVI their_APPGE issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  287 " It 's hard work , " he acknowledged .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  287 "_Y It_PPH1 's_VBZ hard_JJ_RR work_NN1_VV0 ,_Y "_Y he_PPHS1 acknowledged_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  288 " It 's hard work !
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  288 "_Y It_PPH1 's_VBZ hard_RR_JJ work_VV0_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  289 " But that 's an advantage .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  289 "_Y But_CCB that_DD1 's_VBZ an_AT1 advantage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  290 The hard work that PACE involves is the kind that environmental health professionals , by virtue of the fact that they already go into communities to do inspections , are well placed to undertake .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  290 The_AT hard_JJ work_NN1_VV0 that_CST_DD1 PACE_NN1 involves_VVZ is_VBZ the_AT kind_NN1 that_CST_DD1 environmental_JJ health_NN1 professionals_NN2 ,_Y by_II virtue_NN1 of_IO the_AT fact_NN1 that_CST they_PPHS2 already_RR go_VV0 into_II communities_NN2 to_TO do_VDI inspections_NN2 ,_Y are_VBR well_RR placed_VVN to_TO undertake_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  291 It stretches staff , requiring them to draw on their whole selves to do the job .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  291 It_PPH1 stretches_VVZ staff_NN ,_Y requiring_VVG them_PPHO2 to_TO draw_VVI on_II_RP@ their_APPGE whole_JJ selves_NN2 to_TO do_VDI the_AT job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  292 Last but not least , it encourages environmental health to think of itself as the agency that can initiate movement on community health issues .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  292 Last_MD_VV0@ but_CCB not_XX least_RRT ,_Y it_PPH1 encourages_VVZ environmental_JJ health_NN1 to_TO think_VVI of_IO itself_PPX1 as_II_CSA the_AT agency_NN1 that_CST_DD1 can_VM initiate_VVI movement_NN1 on_II community_NN1 health_NN1 issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  293 The 13 Tasks of PACE EH * Determine community capacity .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  293 The_AT 13_MC Tasks_NN2 of_IO PACE_NN1 EH_UH *_FU Determine_VV0 community_NN1 capacity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  294 * Define/characterize .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  294 *_FU Define/characterize_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  295 * Define goals , objectives , and scope .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  295 *_FU Define_VV0 goals_NN2 ,_Y objectives_NN2 ,_Y and_CC scope_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  296 * Generate a list of environmental health issues .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  296 *_FU Generate_VV0 a_AT1 list_NN1 of_IO environmental_JJ health_NN1 issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  297 * Analyze issues with a systems framework .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  297 *_FU Analyze_VV0 issues_NN2 with_IW a_AT1 systems_NN2 framework_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  298 * Develop indicators. * Select standards .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  298 *_FU Develop_VV0 indicators._NNU *_FU Select_JJ standards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  299 * Create issue profiles. * Rank issues .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  299 *_FU Create_VV0 issue_VV0_NN1 profiles._NNU *_FU Rank_NN1_JJ@ issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  300 * Set priorities for action .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  300 *_FU Set_NN1_JJ@ priorities_NN2 for_IF action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  301 * Develop action plan(s). * Evaluate progress and plan for the future .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  301 *_FU Develop_VV0 action_NN1 plan(s)._NNU *_FU Evaluate_VV0 progress_NN1 and_CC plan_VV0_NN1 for_IF the_AT future_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  302 Source : **64;27710;TOOLONG whatis/index.cfm .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  302 Source_NN1 :_Y **64;27710;TOOLONG_FU whatis/index.cfm_FU ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  303 PHOTO ( COLOR ) : Root-bound septic tank in Kupfrian Park .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  303 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Root-bound_JJ septic_JJ tank_NN1 in_II Kupfrian_JJ Park_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  304 PHOTO ( COLOR ) : Flooding in Palm Beach County .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  304 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Flooding_NN1_VVG@ in_II Palm_NN1 Beach_NN1 County_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  305 According to McGinnis , flood waters sometimes carried sewage from failed septic tanks into the streets .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  305 According_II21 to_II22 McGinnis_NP1 ,_Y flood_NN1_VV0 waters_VVZ_NN2 sometimes_RT carried_VVD_VVN sewage_NN1 from_II failed_JJ@ septic_JJ tanks_NN2 into_II the_AT streets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  306 PHOTO ( COLOR ) : More flooding in Palm Beach County .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  306 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y More_DAR flooding_NN1 in_II Palm_NN1 Beach_NN1 County_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  307 PHOTO ( COLOR ) : Tire cleanup on a vacant lot in Palm Beach County .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  307 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Tire_VV0 cleanup_NN1_VV0 on_II a_AT1 vacant_JJ lot_NN1 in_II Palm_NN1 Beach_NN1 County_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  308 PHOTO ( COLOR ) : Mrs. Reed demonstrates smudges on her windows by holding a hand to the glass from the inside .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  308 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Mrs._NNB Reed_NP1 demonstrates_VVZ smudges_NN2_VVZ on_II her_APPGE windows_NN2 by_II holding_VVG a_AT1 hand_NN1 to_II the_AT glass_NN1 from_II the_AT inside_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  309 This photograph , taken by her husband , helped publicize the extent to which soot was being deposited in the neighborhood .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  309 This_DD1 photograph_NN1 ,_Y taken_VVN by_II her_APPGE husband_NN1 ,_Y helped_VVN_VVD publicize_VVI the_AT extent_NN1 to_II which_DDQ soot_NN1 was_VBDZ being_VBG deposited_VVN in_II the_AT neighborhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  310 By Rebecca Berg , Ph.D .
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  310 By_II Rebecca_NP1 Berg_NP1 ,_Y Ph.D_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  A    0  311 
+SENTPOS COCA_acad_wlp_2009_07_FILE##4080013 COCA  B    0  311 

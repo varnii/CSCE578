@@ -1,0 +1,922 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    0 Castello , Gaetano .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    0 Castello_NP1 ,_Y Gaetano_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    1 Le Sacre Scritture di Israele per ebrei , cristiani , e musulmani .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    1 Le_NP1 Sacre_NP1 Scritture_NP1 di_NP1 Israele_NP1 per_II ebrei_NN2 ,_Y cristiani_NN2 ,_Y e_ZZ1 musulmani_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    2 Letture teologiche napoletane , n.s. 3 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    2 Letture_VV0_NN1 teologiche_NN1 napoletane_NN1 ,_Y n.s._NNU 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    3 Naples , Italy : Editoriale comunicazioni sociali , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    3 Naples_NP1 ,_Y Italy_NP1 :_Y Editoriale_NP1 comunicazioni_NN2 sociali_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    4 Pp. ix + 433. $59.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    4 Pp._NNU2 ix_MC +_FO 433._MC $59.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    5 Clabeaux , John .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    5 Clabeaux_NN2_NP1@ ,_Y John_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    6 NT Greek : A Systems Approach .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    6 NT_NP1_NN1 Greek_NN1 :_Y A_ZZ1 Systems_NN2 Approach_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    7 With CD-ROM .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    7 With_IW CD-ROM_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    8 Scranton , Pa. : University of Scranton , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    8 Scranton_NN1_NP1@ ,_Y Pa._NP1 :_Y University_NN1 of_IO Scranton_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0    9 Pp. viii + 369. $50 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0    9 Pp._NNU2 viii_MC +_FO 369._MC $50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   10 Cragg , Kenneth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   10 Cragg_VV0_NN1_NP1@ ,_Y Kenneth_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   11 The Iron in the Soul : Joseph and the Undoing of Violence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   11 The_AT Iron_NN1 in_II the_AT Soul_NN1 :_Y Joseph_NP1 and_CC the_AT Undoing_NN1 of_IO Violence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   12 London : Melisende , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   12 London_NP1 :_Y Melisende_NP1_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   13 Pp. vi + 243. 15 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   13 Pp._NNU2 vi_MC +_FO 243._MC 15_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   14 Du Preez , Ronald .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   14 Du_FW Preez_NP1 ,_Y Ronald_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   15 Judging the Sabbath : Discovering What Ca n't Be Found in Colossians 2:16 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   15 Judging_VVG the_AT Sabbath_NN1 :_Y Discovering_VVG What_DDQ Ca_VM n't_XX Be_VBI Found_VVN in_II Colossians_NN2 2:16_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   16 Berrien Springs , Mich. : Andrews University , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   16 Berrien_NP1 Springs_NN2 ,_Y Mich._NP1 :_Y Andrews_NP1 University_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   17 Pp. xvi + 190. $19.99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   17 Pp._NNU2 xvi_MC +_FO 190._MC $19.99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   18 Firth , David G. , and Jamie A. Grant , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   18 Firth_NN1 ,_Y David_NP1 G._NP1 ,_Y and_CC Jamie_NP1 A._ZZ Grant_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   19 Words and the Word : Explorations in Biblical Interpretation and Literary Theory .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   19 Words_NN2 and_CC the_AT Word_NN1 :_Y Explorations_NN2 in_II Biblical_JJ Interpretation_NN1 and_CC Literary_JJ Theory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   20 Downers Grove , Ill. : InterVarsity Academic , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   20 Downers_NP1 Grove_NN1 ,_Y Ill._Z' :_Y InterVarsity_NP1_NN1 Academic_JJ_NN1@ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   21 Pp. 317. $32 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   21 Pp._NNU2 317._MC $32_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   22 Gilbert , Christopher .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   22 Gilbert_NP1 ,_Y Christopher_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   23 A Complete Introduction to the Bible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   23 A_AT1_ZZ1 Complete_JJ Introduction_NN1 to_II the_AT Bible_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   24 New York : Paulist , Roelf .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   24 New_NP1 York_NP1 :_Y Paulist_JJ_NN1 ,_Y Roelf_NP1_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   25 The Economics of Honor : Biblical Reflections on Money and Property .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   25 The_AT Economics_NN1 of_IO Honor_NN1 :_Y Biblical_JJ Reflections_NN2 on_II Money_NN1 and_CC Property_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   26 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   26 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   27 Bert Hielema .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   27 Bert_NP1 Hielema_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   28 Rev. and enl. ed. of English translation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   28 Rev._ZZ and_CC enl._NNU ed._NN1 of_IO English_JJ_NN1 translation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   29 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   29 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   30 Pp. xii + 136. $15 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   30 Pp._NNU2 xii_MC +_FO 136._MC $15_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   31 Hartin , Patrick J. Apollos : Paul 's Partner or Rival ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   31 Hartin_NN1_NP1@ ,_Y Patrick_NP1 J._NP1 Apollos_NP2 :_Y Paul_NP1 's_GE Partner_NN1 or_CC Rival_VV0_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   32 Paul 's Social Network : Brothers and Sisters in Faith .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   32 Paul_NP1 's_GE Social_JJ Network_NN1 :_Y Brothers_NN2 and_CC Sisters_NN2 in_II Faith_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   33 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   33 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   34 Pp. xvi + 136. $11.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   34 Pp._NNU2 xvi_MC +_FO 136._MC $11.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   35 ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   35 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   36 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   36 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   37 James .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   37 James_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   38 Sacra Pagina 14 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   38 Sacra_NP1@_NN1 Pagina_NP1 14_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   39 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   39 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   40 Pp. xx + 324. $49.95 ; $39.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   40 Pp._NNU2 xx_MC +_FO 324._MC $49.95_NNU ;_Y $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   41 Hewett , James Allen , C. Michael Robbins , and Steven R. Johnson .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   41 Hewett_VV0_NN1_NP1@ ,_Y James_NP1 Allen_NP1 ,_Y C._NP1 Michael_NP1 Robbins_NP1 ,_Y and_CC Steven_NP1 R._NP1 Johnson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   42 New Testament Greek : A Beginning and Intermediate Grammar .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   42 New_JJ Testament_NN1 Greek_NN1 :_Y A_AT1@_ZZ1 Beginning_NN1_VVG and_CC Intermediate_JJ Grammar_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   43 With CD-ROM .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   43 With_IW CD-ROM_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   44 Rev. and exp. ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   44 Rev._ZZ and_CC exp._JJ ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   45 Peabody , Mass. : Hendrickson , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   45 Peabody_NP1 ,_Y Mass._NP1 :_Y Hendrickson_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   46 Pp. xxiii + 327. $32.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   46 Pp._NNU2 xxiii_MC +_FO 327._MC $32.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   47 Hbenthal , Sandra .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   47 Hbenthal_NP1@_JJ ,_Y Sandra_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   48 Transformation und Aktualisierung zur Rezeption von Sach 9-14 im Neuen Testament .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   48 Transformation_NN1 und_NP1_FW Aktualisierung_NP1_VVD zur_FW Rezeption_NP1 von_NP1 Sach_NP1 9-14_MCMC im_Z' Neuen_JJ_NN1 Testament_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   49 Stuttgarter biblische Beitrge 57 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   49 Stuttgarter_NP1 biblische_NN1 Beitrge_NN1_NP1_VV0 57_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   50 Stuttgart : Katholisches Bibelwerk , 2006 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   50 Stuttgart_NP1 :_Y Katholisches_NP1 Bibelwerk_NP1 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   51 Pp. 403. 49.90 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   51 Pp._NNU2 403._MC 49.90_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   52 Meier , John P. A Marginal Jew : Rethinking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   52 Meier_NN1_NP1@ ,_Y John_NP1 P._NP1 A_ZZ1 Marginal_JJ Jew_NN1 :_Y Rethinking_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   53 New Haven , Conn. : Yale University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   53 New_NP1 Haven_NP1 ,_Y Conn._NP1 :_Y Yale_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   54 Pp. xiii + 735. $55 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   54 Pp._NNU2 xiii_MC +_FO 735._MC $55_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   55 Searle , Alison .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   55 Searle_NP1 ,_Y Alison_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   56 The Eyes of Your Heart .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   56 The_AT Eyes_NN2 of_IO Your_APPGE Heart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   57 " Literary and Theological Trajectories of Imagining Biblically .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   57 "_Y Literary_JJ and_CC Theological_JJ Trajectories_NN2 of_IO Imagining_VVG Biblically_RR_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   58 Colorado Springs : Paternoster , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   58 Colorado_NP1 Springs_NP :_Y Paternoster_NP1_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   59 Pp. xiv + 231. $33.99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   59 Pp._NNU2 xiv_MC +_FO 231._MC $33.99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   60 Thurston , Bonnie B. , and Judith M. Ryan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   60 Thurston_NN1_NP1@ ,_Y Bonnie_NP1 B._NP1 ,_Y and_CC Judith_NP1 M._NN1 Ryan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   61 Philippians and Philemon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   61 Philippians_NN2_NP1@ and_CC Philemon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   62 Sacra Pagina 10 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   62 Sacra_NP1@_NN1 Pagina_NP1 10_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   63 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   63 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   64 Pp. xiv + 294. $49.95 ; $39.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   64 Pp._NNU2 xiv_MC +_FO 294._MC $49.95_NNU ;_Y $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   65 Travis , Stephen H. Christ and the Judgement of God : The Limits of Divine Retribution in New Testament Thought .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   65 Travis_NP1 ,_Y Stephen_NP1 H._NP1 Christ_NP1 and_CC the_AT Judgement_NN1 of_IO God_NP1 :_Y The_AT Limits_NN2 of_IO Divine_JJ Retribution_NN1 in_II New_JJ Testament_NN1 Thought_NN1_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   66 2nd ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   66 2nd_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   67 Peabody , Mass. : Hendrickson , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   67 Peabody_NP1 ,_Y Mass._NP1 :_Y Hendrickson_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   68 Pp. xiv + 383. $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   68 Pp._NNU2 xiv_MC +_FO 383._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   69 Zornberg , Avivah Gottlieb .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   69 Zornberg_NP1 ,_Y Avivah_NP1 Gottlieb_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   70 The Murmuring Deep : Reflections on the Biblical Unconscious .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   70 The_AT Murmuring_NP1_JJ@_NN1@ Deep_RR_NN1@_JJ :_Y Reflections_NN2 on_II the_AT Biblical_JJ Unconscious_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   71 New York : Schocken , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   71 New_NP1 York_NP1 :_Y Schocken_NP1_JJ_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   72 Pp. xxxi + 441. $27.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   72 Pp._NNU2 xxxi_MC +_FO 441._MC $27.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   73 HISTORICAL Alexander , Paul .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   73 HISTORICAL_JJ Alexander_NP1 ,_Y Paul_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   74 Signs and Wonders : Why Pentecostalism Is the World 's Fastest-Growing Faith .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   74 Signs_NN2 and_CC Wonders_VVZ_NN2 :_Y Why_RRQ Pentecostalism_NN1 Is_VBZ the_AT World_NN1 's_GE Fastest-Growing_JJT Faith_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   75 San Francisco : Jossey-Bass , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   75 San_NP1 Francisco_NP1 :_Y Jossey-Bass_JJ_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   76 Pp. xiv + 175. $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   76 Pp._NNU2 xiv_MC +_FO 175._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   77 Arzubialde , Santiago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   77 Arzubialde_NN1_NP1@ ,_Y Santiago_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   78 Ejercicios espirituales de S. lgnacio : Historia Spain : Mensajero , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   78 Ejercicios_NP1@_NN2 espirituales_NN2 de_NP1 S._ZZ lgnacio_NN1 :_Y Historia_FW Spain_NP1 :_Y Mensajero_NP1_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   79 Pp. 1078. 45 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   79 Pp._NNU2 1078._MC 45_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   80 Ascenso , Adelino .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   80 Ascenso_NN1_NP1@ ,_Y Adelino_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   81 Transcultural Theodicy in the Fiction of Shusaku Endo .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   81 Transcultural_JJ_NP1@_NN1 Theodicy_NN1_NP1 in_II the_AT Fiction_NN1 of_IO Shusaku_NP1_NN1 Endo_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   82 Tesi Gregoriana 170 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   82 Tesi_NP1@ Gregoriana_NP1 170_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   83 Rome : Gregorian University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   83 Rome_NP1 :_Y Gregorian_JJ University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   84 Pp. 350. 25 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   84 Pp._NNU2 350._MC 25_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   85 Augustine , Saint , Bishop of Hippo .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   85 Augustine_NP1 ,_Y Saint_NP1 ,_NP1 Bishop_NN1 of_IO Hippo_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   86 Homilies on the Gospel of John 1-40 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   86 Homilies_NN2 on_II the_AT Gospel_NN1 of_IO John_NP1 1-40_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   87 Ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   87 Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   88 Allan D. Fitzgerald .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   88 Allan_NP1 D._NP1 Fitzgerald_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   89 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   89 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   90 Edmund Hill .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   90 Edmund_NP1 Hill_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   91 The Works of Saint Augustine : A Translation for the 21st Century , Pt. 3 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   91 The_AT Works_NN of_IO Saint_NP1 Augustine_NP1 :_Y A_AT1@_ZZ1 Translation_NN1 for_IF the_AT 21st_MD Century_NNT1 ,_Y Pt._FO 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   92 Homilies 12 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   92 Homilies_NN2 12_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   93 Hyde Park , N.Y. : New City , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   93 Hyde_NP1 Park_NN1 ,_Y N.Y._NP1 :_Y New_JJ City_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   94 Pp. 604. $59 ; $39.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   94 Pp._NNU2 604._MC $59_NNU ;_Y $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   95 Batlogg , Andreas R. , and Melvin E. Michalski , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   95 Batlogg_VV0_NN1_NP1@ ,_Y Andreas_NP1 R._NP1 ,_Y and_CC Melvin_NP1 E._NP1 Michalski_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   96 Encounters with Karl Rahner : Remembrances of Rahner by Those Who Knew Him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   96 Encounters_NN2_VVZ with_IW Karl_NP1 Rahner_NP1 :_Y Remembrances_NN2 of_IO Rahner_NP1 by_II Those_DD2 Who_PNQS Knew_VVD Him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   97 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   97 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   98 Melvin E. Michalski and Andreas R. Batlogg .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   98 Melvin_NP1 E._NP1 Michalski_NP1_NN1 and_CC Andreas_NP1 R._NP1 Batlogg_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0   99 Translation ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0   99 Translation_NN1 ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  100 Barbara Turner .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  100 Barbara_NP1 Turner_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  101 Milwaukee , Wis. : Marquette University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  101 Milwaukee_NP1 ,_Y Wis._NP1 :_Y Marquette_NP1_NN1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  102 Pp. 384. $39 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  102 Pp._NNU2 384._MC $39_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  103 Berg , Herbert .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  103 Berg_NP1 ,_Y Herbert_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  104 Elijah Muhammad and Islam .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  104 Elijah_NP1 Muhammad_NP1 and_CC Islam_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  105 New York : New York University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  105 New_NP1 York_NP1 :_Y New_NP1 York_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  106 Pp. x + 190. $39 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  106 Pp._NNU2 x_II@_MC@ +_FO 190._MC $39_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  107 Capitani , Diane N. Truthful Pictures : Slavery Ordained by God in , Md. : Lexington , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  107 Capitani_NN2_NP1@ ,_Y Diane_NP1 N._NP1 Truthful_JJ Pictures_NN2 :_Y Slavery_NN1 Ordained_VVN by_II God_NP1 in_II ,_Y Md._NNA :_Y Lexington_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  108 Pp. 147. $55 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  108 Pp._NNU2 147._MC $55_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  109 Clarke , Peter , and Tony Claydon , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  109 Clarke_NP1 ,_Y Peter_NP1 ,_Y and_CC Tony_NP1 Claydon_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  110 The Church , the Afterlife , and the Fate of the Soul : Papers Read at the 2007 Summer Meeting and the 2008 Winter Meeting of the Ecclesiastical History Society .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  110 The_AT Church_NN1 ,_Y the_AT Afterlife_NN1 ,_Y and_CC the_AT Fate_NN1 of_IO the_AT Soul_NN1 :_Y Papers_NN2 Read_VVN_VV0_VVD at_II the_AT 2007_MC Summer_NNT1 Meeting_NN1 and_CC the_AT 2008_MC Winter_NNT1 Meeting_NN1 of_IO the_AT Ecclesiastical_JJ History_NN1 Society_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  111 Studies in Church History 45 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  111 Studies_NN2 in_II Church_NN1 History_NN1 45_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  112 Rochester , N.Y. : Ecclesiastical History Society .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  112 Rochester_NP1 ,_Y N.Y._NP1 :_Y Ecclesiastical_JJ History_NN1 Society_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  113 Pp. xxiv + 430. $90 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  113 Pp._NNU2 xxiv_MC +_FO 430._MC $90_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  114 Clifford , Catherine E. , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  114 Clifford_NP1 ,_Y Catherine_NP1 E._NP1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  115 A Century of Prayer for Christian Unity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  115 A_AT1 Century_NNT1 of_IO Prayer_NN1 for_IF Christian_JJ Unity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  116 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  116 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  117 Pp. 143. $26 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  117 Pp._NNU2 143._MC $26_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  118 Coffey , John , and Paul C. H. Lim , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  118 Coffey_NP1 ,_Y John_NP1 ,_Y and_CC Paul_NP1 C._NP1 H._NP1 Lim_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  119 The Cambridge Companion to Puritanism .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  119 The_AT Cambridge_NP1 Companion_NN1 to_II Puritanism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  120 New York : Cambridge University , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  120 New_NP1 York_NP1 :_Y Cambridge_NP1 University_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  121 Pp. xi + 395. $90 ; $29.99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  121 Pp._NN1 xi_NN1 +_FO 395._MC $90_NNU ;_Y $29.99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  122 Cohon , Baruch J. , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  122 Cohon_NN1_NP1@ ,_Y Baruch_NP1 J._NP1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  123 Faithfully Yours : Selected Rabbinical Correspondence of Rabbi Samuel S. Cohon during the Years 1917-1957 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  123 Faithfully_RR Yours_PPGE :_Y Selected_JJ Rabbinical_JJ Correspondence_NN1 of_IO Rabbi_NNB Samuel_NP1 S._ZZ Cohon_NP1_NN1 during_II the_AT Years_NNT2 1917-1957_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  124 Jersey City , N.J. : KTAV , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  124 Jersey_NP1_NN1 City_NN1 ,_Y N.J._NP1 :_Y KTAV_NP1_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  125 Pp. xvii + 407. $29.50 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  125 Pp._NNU2 xvii_MC +_FO 407._MC $29.50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  126 Cyril .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  126 Cyril_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  127 St. Cyril of Alexandria : Festal Letters 1-12 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  127 St._NP1 Cyril_NP1 of_IO Alexandria_NP1 :_Y Festal_JJ Letters_NN2 1-12_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  128 Ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  128 Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  129 John J. O'Keefe .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  129 John_NP1 J._NP1 O'Keefe_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  130 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  130 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  131 A New Translation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  131 A_ZZ1_AT1@ New_JJ Translation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  132 Washington : Catholic University of America , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  132 Washington_NP1 :_Y Catholic_JJ University_NN1 of_IO America_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  133 Pp. xii + 248. $39.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  133 Pp._NNU2 xii_MC +_FO 248._MC $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  134 Dunn , James D. G. Beginning from Jerusalem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  134 Dunn_NP1 ,_Y James_NP1 D._NP1 G._NP1 Beginning_NN1_VVG from_II Jerusalem_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  135 Vol. 2 of Christianity in the Making .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  135 Vol._NN1 2_MC of_IO Christianity_NN1 in_II the_AT Making_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  136 Grand Rapids , Mich. : Eerdmans , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  136 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  137 Pp. xv + 1348. $80 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  137 Pp._NNU2 xv_MC +_FO 1348._MC $80_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  138 Engel , Katherine Cart .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  138 Engel_VV0_NN1_NP1@ ,_Y Katherine_NP1 Cart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  139 Religion and Profit : Moravians in Early America .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  139 Religion_NN1 and_CC Profit_NN1_VV0@ :_Y Moravians_NN2 in_II Early_JJ_RR America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  140 Philadelphia : University of Pennsylvania , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  140 Philadelphia_NP1 :_Y University_NN1 of_IO Pennsylvania_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  141 Pp. viii + 313. $39.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  141 Pp._NNU2 viii_MC +_FO 313._MC $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  142 Ferguson , Everett .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  142 Ferguson_NP1 ,_Y Everett_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  143 Baptism in the Early Church : History , Theology , and Liturgy in the First Five Centuries .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  143 Baptism_NN1 in_II the_AT Early_JJ Church_NN1 :_Y History_NN1 ,_Y Theology_NN1 ,_Y and_CC Liturgy_NN1_NP1 in_II the_AT First_MD Five_MC Centuries_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  144 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  144 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  145 Pp. xxii + 954. $60 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  145 Pp._NNU2 xxii_MC +_FO 954._MC $60_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  146 Ferngren , Gary B. Medicine and Health Care in Early Christianity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  146 Ferngren_NN1_NP1@ ,_Y Gary_NP1 B._NP1 Medicine_NN1 and_CC Health_NN1 Care_NN1_VV0 in_II Early_JJ Christianity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  147 Baltimore : Johns Hopkins University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  147 Baltimore_NP1 :_Y Johns_NP1 Hopkins_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  148 Pp. xii + 246. $35 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  148 Pp._NNU2 xii_MC +_FO 246._MC $35_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  149 Gilbert , Maurice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  149 Gilbert_NP1 ,_Y Maurice_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  150 The Pontifical Biblical Institute : A Century of History ( 1909-2009 ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  150 The_AT Pontifical_JJ Biblical_JJ Institute_NN1 :_Y A_AT1@_ZZ1 Century_NNT1 of_IO History_NN1 (_Y 1909-2009_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  151 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  151 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  152 Leo Arnold .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  152 Leo_NP1 Arnold_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  153 Rome : Gregorian University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  153 Rome_NP1 :_Y Gregorian_JJ University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  154 Pp. 520. 30 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  154 Pp._NNU2 520._MC 30_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  155 Gregory the Great .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  155 Gregory_NP1 the_AT Great_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  156 The Life of Saint Benedict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  156 The_AT Life_NN1 of_IO Saint_NP1 Benedict_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  157 Trans. and commentary Terrence Kardong .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  157 Trans._NP1 and_CC commentary_NN1 Terrence_NP1_NN1@ Kardong_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  158 + 160. $16.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  158 +_FO 160._MC $16.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  159 Hayes , Michael A. , and Gerald O'Collins , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  159 Hayes_NP1 ,_Y Michael_NP1 A._ZZ ,_Y and_CC Gerald_NP1 O'Collins_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  160 The Legacy of John Paul II .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  160 The_AT Legacy_NN1 of_IO John_NP1 Paul_NP1 II_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  161 New York : Burns Oates , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  161 New_NP1 York_NP1 :_Y Burns_NP1 Oates_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  162 Pp. xx + 274. $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  162 Pp._NNU2 xx_MC +_FO 274._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  163 Jessop , Flora , and Paul T. Brown .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  163 Jessop_VV0_NN1_NP1@ ,_Y Flora_NP1_NN ,_Y and_CC Paul_NP1 T._NP1 Brown_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  164 Church of Lies .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  164 Church_NN1 of_IO Lies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  165 San Francisco : Jossey-Bass , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  165 San_NP1 Francisco_NP1 :_Y Jossey-Bass_JJ_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  166 Pp. xv + 296. $25.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  166 Pp._NNU2 xv_MC +_FO 296._MC $25.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  167 Johnston , Derek .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  167 Johnston_NP1 ,_Y Derek_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  168 A Brief History of Theology : From the New Testament to Feminist Theology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  168 A_AT1_ZZ1 Brief_JJ_NN1 History_NN1 of_IO Theology_NN1 :_Y From_II the_AT New_JJ Testament_NN1 to_II Feminist_JJ Theology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  169 New York : Continuum , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  169 New_NP1 York_NP1 :_Y Continuum_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  170 Pp. 290. $120 ; $16.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  170 Pp._NNU2 290._MC $120_NNU ;_Y $16.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  171 Kearney , Milo , and James V. Zeitz .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  171 Kearney_NN1_NP1@ ,_Y Milo_NP1 ,_Y and_CC James_NP1 V._II Zeitz_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  172 World Saviors and Messiahs of the Roman Empire : 28 BCE-135 CE : The Soterial Age .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  172 World_NN1 Saviors_NN2_NP1 and_CC Messiahs_NN2 of_IO the_AT Roman_JJ_NN1 Empire_NN1 :_Y 28_MC BCE-135_MC CE_NP1 :_Y The_AT Soterial_JJ Age_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  173 Lewiston , N.Y. : Edwin Mellen , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  173 Lewiston_NN1_NP1@ ,_Y N.Y._NP1 :_Y Edwin_NP1 Mellen_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  174 Pp. iv + 414. $129.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  174 Pp._NNU2 iv_MC +_FO 414._MC $129.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  175 Kolb , Robert .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  175 Kolb_VV0_NN1_NP1@ ,_Y Robert_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  176 Martin Luther : Confessor of the Faith .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  176 Martin_NP1 Luther_NP1 :_Y Confessor_NN1 of_IO the_AT Faith_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  177 Christian Theology in Context .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  177 Christian_JJ Theology_NN1 in_II Context_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  178 New York : Oxford University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  178 New_NP1 York_NP1 :_Y Oxford_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  179 Pp. vi + 216. $99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  179 Pp._NNU2 vi_MC +_FO 216._MC $99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  180 Langlois , Claude .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  180 Langlois_NN1_NP1@ ,_Y Claude_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  181 Thrse de Lisieux et Marie-Madeleine : La rivalit amoureuse .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  181 Thrse_VV0_NP1@ de_NP1 Lisieux_NP1 et_NP1 Marie-Madeleine_NP1 :_Y La_FU rivalit_JJ amoureuse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  182 Golgotha .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  182 Golgotha_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  183 Grenoble , France : Jerome Millon , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  183 Grenoble_NP1 ,_Y France_NP1 :_Y Jerome_NP1 Millon_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  184 Weight of Salvation : The Soteriology of Ignacio Ellacura .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  184 Weight_NN1 of_IO Salvation_NN1 :_Y The_AT Soteriology_NN1 of_IO Ignacio_NP1 Ellacura_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  185 New York : Crossroad , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  185 New_NP1 York_NP1 :_Y Crossroad_NP1_VV0_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  186 Pp. xv + 237. $34.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  186 Pp._NNU2 xv_MC +_FO 237._MC $34.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  187 Louzeau , Frdric .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  187 Louzeau_NN1_NP1@ ,_Y Frdric_NP1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  188 L'Anthroplogie sociale du Pre Gaston Fessard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  188 L'Anthroplogie_NP1 sociale_NN1 du_FW Pre_II Gaston_NP1 Fessard_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  189 Paris : Presses Universitaires de France , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  189 Paris_NP1 :_Y Presses_NN2_VVZ@ Universitaires_NP1 de_NP1 France_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  190 Pp. xi + 841. 40 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  190 Pp._NN1 xi_NN1 +_FO 841._MC 40_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  191 Manning , Russell Re , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  191 Manning_NP1_NN1 ,_Y Russell_NP1 Re_NP1@ ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  192 The Cambridge Companion to Paul Tillich .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  192 The_AT Cambridge_NP1 Companion_NN1 to_II Paul_NP1 Tillich_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  193 New York : Cambridge University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  193 New_NP1 York_NP1 :_Y Cambridge_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  194 Pp. xxv + 322. $90 ; $29.99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  194 Pp._NNU2 xxv_MC +_FO 322._MC $90_NNU ;_Y $29.99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  195 Merkle , John C. Approaching God : The Way of Abraham Joshua Heschel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  195 Merkle_VV0_NN1_NP1@ ,_Y John_NP1 C._NP1 Approaching_VVG God_NP1 :_Y The_AT Way_NN1 of_IO Abraham_NP1 Joshua_NP1 Heschel_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  196 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  196 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  197 Pp. xiv + 121. $19.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  197 Pp._NNU2 xiv_MC +_FO 121._MC $19.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  198 Miller , Patricia Cox .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  198 Miller_NP1_NN1 ,_Y Patricia_NP1 Cox_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  199 The Corporeal Imagination : Signifying the Holy in Late Ancient Christianity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  199 The_AT Corporeal_JJ Imagination_NN1 :_Y Signifying_VVG the_AT Holy_JJ in_II Late_JJ Ancient_JJ Christianity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  200 Philadelphia : University of Pennsylvania , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  200 Philadelphia_NP1 :_Y University_NN1 of_IO Pennsylvania_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  201 Pp. 264. $49.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  201 Pp._NNU2 264._MC $49.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  202 Neuhaus , Richard John .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  202 Neuhaus_FW_NN2_NP1@ ,_Y Richard_NP1 John_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  203 American Babylon : Notes of a Christian Exile .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  203 American_JJ Babylon_NN1_NP1 :_Y Notes_NN2 of_IO a_AT1 Christian_JJ Exile_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  204 New York : Basic , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  204 New_NP1 York_NP1 :_Y Basic_JJ_NP1@ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  205 Pp. vii + 270. $26.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  205 Pp._NNU2 vii_MC +_FO 270._MC $26.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  206 Paharik , James G. The Long Journey : In Search of Justice and Peace in Jerusalem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  206 Paharik_NP1 ,_Y James_NP1 G._NP1 The_AT Long_JJ Journey_NN1 :_Y In_II31 Search_II32 of_II33 Justice_NN1_NP1@ and_CC Peace_NN1 in_II Jerusalem_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  207 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  207 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  208 Pp. xvii + Nature and Faith in the Life of Holmes Rolston III .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  208 Pp._NNU2 xvii_MC +_FO Nature_NN1 and_CC Faith_NN1 in_II the_AT Life_NN1 of_IO Holmes_NP1 Rolston_NP1 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  209 San Antonio , Tex. : Trinity University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  209 San_NP1 Antonio_NP1 ,_Y Tex._NP1 :_Y Trinity_NP1_NN1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  210 Pp. viii + 243. $25.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  210 Pp._NNU2 viii_MC +_FO 243._MC $25.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  211 Rausch , S.J. , Thomas P. Pope Benedict XVI : An Introduction to His Theological Vision .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  211 Rausch_NN1_NP1@ ,_Y S.J._NP1 ,_Y Thomas_NP1 P._NP1 Pope_NNB Benedict_NP1 XVI_MC :_Y An_AT1 Introduction_NN1 to_II His_APPGE Theological_JJ Vision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  212 New York : Paulist , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  212 New_NP1 York_NP1 :_Y Paulist_JJ_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  213 Pp. viii + 196. $22.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  213 Pp._NNU2 viii_MC +_FO 196._MC $22.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  214 Rorem , Paul .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  214 Rorem_VV0_NN1_NP1@ ,_Y Paul_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  215 Hugh of Saint Victor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  215 Hugh_NP1 of_IO Saint_NP1 Victor_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  216 Great Medieval Thinkers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  216 Great_JJ Medieval_JJ Thinkers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  217 New York : Oxford University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  217 New_NP1 York_NP1 :_Y Oxford_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  218 Pp. xiii + 235. $99 ; $27.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  218 Pp._NNU2 xiii_MC +_FO 235._MC $99_NNU ;_Y $27.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  219 Russo , Adolfo , and Edoardo Scognamiglio .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  219 Russo_NN1_NP1@ ,_Y Adolfo_NP1 ,_Y and_CC Edoardo_NP1 Scognamiglio_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  220 Vivere insieme nella Nuova Europa : Il ruolo delle religioni .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  220 Vivere_JJ_NN1 insieme_NN1 nella_NN1 Nuova_NP1 Europa_NP1 :_Y Il_FW ruolo_NN1 delle_FW religioni_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  221 Letture teologiche napoletane , n.s. 1 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  221 Letture_VV0_NN1 teologiche_NN1 napoletane_NN1 ,_Y n.s._NNU 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  222 Naples , Italy : Editoriale comunicazioni sociali , 2006 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  222 Naples_NP1 ,_Y Italy_NP1 :_Y Editoriale_NP1 comunicazioni_NN2 sociali_NN2 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  223 Pp. 208. 15 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  223 Pp._NNU2 208._MC 15_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  224 Schultenover , S.J. , David G. , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  224 Schultenover_VV0_NN1_NP1@ ,_Y S.J._NP1 ,_Y David_NP1 G._NP1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  225 The Reception of Pragmatism in France and the Rise of Roman Catholic Modernism , 1890-1914 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  225 The_AT Reception_NN1 of_IO Pragmatism_NN1 in_II France_NP1 and_CC the_AT Rise_NN1 of_IO Roman_JJ_NN1 Catholic_JJ_NN1 Modernism_NN1 ,_Y 1890-1914_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  226 Washington : Catholic University of America , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  226 Washington_NP1 :_Y Catholic_JJ University_NN1 of_IO America_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  227 Pp. xi + 247. $69.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  227 Pp._NN1 xi_NN1 +_FO 247._MC $69.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  228 Shortt , Rupert .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  228 Shortt_VV0_NN1_NP1@ ,_Y Rupert_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  229 Rowan 's Rule : The Biography of the Archbishop of Canterbury .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  229 Rowan_NP1 's_GE Rule_NN1 :_Y The_AT Biography_NN1 of_IO the_AT Archbishop_NN1 of_IO Canterbury_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  230 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  230 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  231 Violence and Belief in Late Antiquity : Militant Devotion in Christianity and Islam .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  231 Violence_NN1 and_CC Belief_NN1 in_II Late_JJ Antiquity_NN1 :_Y Militant_JJ Devotion_NN1 in_II Christianity_NN1 and_CC Islam_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  232 Divinations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  232 Divinations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  233 Philadelphia : University of Pennsylvania , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  233 Philadelphia_NP1 :_Y University_NN1 of_IO Pennsylvania_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  234 Pp. viii + 398. $55 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  234 Pp._NNU2 viii_MC +_FO 398._MC $55_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  235 Tabbernee , William .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  235 Tabbernee_NN1_NP1@ ,_Y William_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  236 Prophets and Gravestones : An Imaginative History of Montanists and Other Early Christians .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  236 Prophets_NN2 and_CC Gravestones_NN2 :_Y An_AT1 Imaginative_JJ History_NN1 of_IO Montanists_NN2 and_CC Other_JJ Early_JJ Christians_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  237 Peabody , Mass. : Hendrickson , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  237 Peabody_NP1 ,_Y Mass._NP1 :_Y Hendrickson_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  238 Pp. xxx + 338. $29.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  238 Pp._NNU2 xxx_MC +_FO 338._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  239 Udoh , Fabian E. , et al. , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  239 Udoh_NN1_NP1@ ,_Y Fabian_NP1 E._NP1 ,_Y et_RA21 al._RA22 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  240 Redefining First-Century Jewish and Christian Identities : Essays in Honor of Ed Parish Sanders .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  240 Redefining_VVG_JJ@ First-Century_JJ Jewish_JJ and_CC Christian_JJ Identities_NN2 :_Y Essays_NN2 in_II Honor_NN1 of_IO Ed_NP1 Parish_NP1@ Sanders_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  241 Christianity and Judaism in Antiquity 16 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  241 Christianity_NN1 and_CC Judaism_NN1 in_II Antiquity_NN1 16_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  242 Notre Dame , Ind. : University of Notre Dame , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  242 Notre_NP1 Dame_NP1 ,_Y Ind._NP1 :_Y University_NN1 of_IO Notre_NP1 Dame_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  243 Pp. xxiv + 418. $60 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  243 Pp._NNU2 xxiv_MC +_FO 418._MC $60_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  244 Van Engen , John .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  244 Van_NP1 Engen_NP1 ,_Y John_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  245 Sisters and Brothers of the Common Life : The Devotio Moderna and the Worm of the Later Middle Ages .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  245 Sisters_NN2 and_CC Brothers_NN2 of_IO the_AT Common_JJ Life_NN1 :_Y The_AT Devotio_NP1 Moderna_NP1 and_CC the_AT Worm_NN1 of_IO the_AT Later_JJR Middle_NN1_JJ Ages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  246 The Middle Ages .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  246 The_AT Middle_JJ_NN1 Ages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  247 Philadelphia : University of Pennsylvania , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  247 Philadelphia_NP1 :_Y University_NN1 of_IO Pennsylvania_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  248 Pp. ix + 433. $59.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  248 Pp._NNU2 ix_MC +_FO 433._MC $59.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  249 Walsh , Michael J. The Westminster Cardinals : The Past and the Future .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  249 Walsh_NP1 ,_Y Michael_NP1 J._NP1 The_AT Westminster_NP1 Cardinals_NN2 :_Y The_AT Past_NN1_JJ and_CC the_AT Future_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  250 New York : Burns Oates , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  250 New_NP1 York_NP1 :_Y Burns_NP1 Oates_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  251 Pp. viii + 256. $34.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  251 Pp._NNU2 viii_MC +_FO 256._MC $34.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  252 Walsh , Sylvia .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  252 Walsh_NP1 ,_Y Sylvia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  253 Kierkegaard : Thinking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  253 Kierkegaard_NP1@_NN1 :_Y Thinking_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  254 New York : Oxford University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  254 New_NP1 York_NP1 :_Y Oxford_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  255 Pp. xi + 232. $35 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  255 Pp._NN1 xi_NN1 +_FO 232._MC $35_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  256 Wuthnow , Robert .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  256 Wuthnow_VV0_NN1_NP1@ ,_Y Robert_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  257 Boundless Faith : The Global Outreach of American Churches .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  257 Boundless_JJ Faith_NN1 :_Y The_AT Global_JJ Outreach_NN1 of_IO American_JJ Churches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  258 Berkeley : University of California , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  258 Berkeley_NP1 :_Y University_NN1 of_IO California_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  259 Pp. xii + 146. $26.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  259 Pp._NNU2 xii_MC +_FO 146._MC $26.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  260 SYSTEMATI Bulgakov , Sergius .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  260 SYSTEMATI_NP1 Bulgakov_NP1 ,_Y Sergius_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  261 The Burning Bush : On the Orthodox Veneration of the Mother of God .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  261 The_AT Burning_JJ Bush_NP1_NN1@ :_Y On_II the_AT Orthodox_JJ Veneration_NN1 of_IO the_AT Mother_NN1 of_IO God_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  262 Ed. and trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  262 Ed._NN1 and_CC trans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  263 Thomas Allan Smith .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  263 Thomas_NP1 Allan_NP1 Smith_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  264 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  264 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  265 Pp. xxiv + 191. $28 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  265 Pp._NNU2 xxiv_MC +_FO 191._MC $28_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  266 Collins , Paul M. The Trinity : A Guide for the Perplexed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  266 Collins_NP1 ,_Y Paul_NP1 M._NN1 The_AT Trinity_NP1_NN1 :_Y A_ZZ1_AT1@ Guide_VV0_NN1 for_IF the_AT Perplexed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  267 Guides for the Perplexed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  267 Guides_NN2 for_IF the_AT Perplexed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  268 New York : Continuum , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  268 New_NP1 York_NP1 :_Y Continuum_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  269 Pp. x + 194. $110 ; $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  269 Pp._NNU2 x_II@_MC@ +_FO 194._MC $110_NNU ;_Y $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  270 Cragg , Kenneth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  270 Cragg_VV0_NN1_NP1@ ,_Y Kenneth_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  271 A Christian-Muslim InterText Now : From Anathema to Theme .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  271 A_AT1_ZZ1 Christian-Muslim_JJ InterText_NN1_NP1 Now_RT :_Y From_II Anathema_NN1 to_II Theme_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  272 London : Melisende , 2007 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  272 London_NP1 :_Y Melisende_NP1_NN1 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  273 Pp. vi + 242. 16 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  273 Pp._NNU2 vi_MC +_FO 242._MC 16_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  274 ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  274 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  275 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  275 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  276 Mosque Sermons : A Listener for the Preacher .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  276 Mosque_NN1 Sermons_NN2 :_Y A_AT1@_ZZ1 Listener_NN1 for_IF the_AT Preacher_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  277 London : Melisende , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  277 London_NP1 :_Y Melisende_NP1_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  278 Pp. xxii + 240. 15 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  278 Pp._NNU2 xxii_MC +_FO 240._MC 15_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  279 Creamer , Deborah Beth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  279 Creamer_NP1 ,_Y Deborah_NP1 Beth_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  280 Disability and Christian Theology : Embodied Limits and Constructive Possibilities .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  280 Disability_NN1 and_CC Christian_JJ Theology_NN1 :_Y Embodied_VVN_VVD Limits_NN2 and_CC Constructive_JJ Possibilities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  281 AAR Academy Series .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  281 AAR_NP1_VV0_NN1 Academy_NN1 Series_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  282 New York : Oxford D'Costa , Gavin .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  282 New_NP1 York_NP1 :_Y Oxford_NP1 D'Costa_NP1 ,_Y Gavin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  283 Christianity and World Religions : Disputed Questions in the Theology of Religions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  283 Christianity_NN1 and_CC World_NN1 Religions_NN2 :_Y Disputed_JJ Questions_NN2 in_II the_AT Theology_NN1 of_IO Religions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  284 Malden , Mass. : Wiley-Blackwell , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  284 Malden_NN1_NP1@ ,_Y Mass._NP1 :_Y Wiley-Blackwell_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  285 Pp. xiv + 234. $30 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  285 Pp._NNU2 xiv_MC +_FO 234._MC $30_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  286 Espn , Orlando O. , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  286 Espn_VV0_NN1_NP1@ ,_Y Orlando_NP1 O._NP1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  287 Building Bridges , Doing Justice : Constructing a Latino/a Ecumenical Theology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  287 Building_NN1_VVG@ Bridges_NP1_NN2@ ,_Y Doing_VDG Justice_NN1 :_Y Constructing_VVG a_AT1 Latino/a_FU Ecumenical_JJ Theology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  288 Maryknoll , N.Y. : Orbis , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  288 Maryknoll_VV0_NN1_NP1@ ,_Y N.Y._NP1 :_Y Orbis_NP1_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  289 Pp. xi + 204. $28 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  289 Pp._NN1 xi_NN1 +_FO 204._MC $28_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  290 Farisco , Michele .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  290 Farisco_NN1_NP1@ ,_Y Michele_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  291 Gli scritti reggini di Gennaro Portanova : Con la ristampa Anastatica di un'introduzione a Portanova di Pasquale Orlando .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  291 Gli_FW scritti_NN2 reggini_NN2 di_NP1 Gennaro_NP1 Portanova_NP1 :_Y Con_VV0 la_FU ristampa_NN1 Anastatica_NP1_NN1@ di_FW un'introduzione_VV0 a_AT1 Portanova_NP1 di_NP1 Pasquale_NP1 Orlando_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  292 Naples , Italy : Editoriale comunicazioni sociali , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  292 Naples_NP1 ,_Y Italy_NP1 :_Y Editoriale_NP1 comunicazioni_NN2 sociali_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  293 Pp. 76. 10 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  293 Pp._NNU2 76._MC 10_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  294 Forte , Bruno .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  294 Forte_RR_NN1 ,_Y Bruno_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  295 The Portal of Beauty : Towards a Theology of Aesthetics .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  295 The_AT Portal_NN1 of_IO Beauty_NN1 :_Y Towards_II a_AT1 Theology_NN1 of_IO Aesthetics_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  296 Grand Rapids , Mich. : Eerdmans , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  296 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  297 Pp. xiii + 121. $30 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  297 Pp._NNU2 xiii_MC +_FO 121._MC $30_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  298 Gorman , Michael J. Inhabiting the Cruciform God .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  298 Gorman_NN1_NP1@ ,_Y Michael_NP1 J._NP1 Inhabiting_VVG_NP1 the_AT Cruciform_NP1_JJ God_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  299 " Kenosis , Justification , and Theosis in Paul 's Narrative Soteriology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  299 "_Y Kenosis_NN1_NP1@ ,_Y Justification_NN1 ,_Y and_CC Theosis_NN1_NP1 in_II Paul_NP1 's_GE Narrative_JJ_NN1 Soteriology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  300 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  300 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  301 Pp. xii + 194. $24 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  301 Pp._NNU2 xii_MC +_FO 194._MC $24_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  302 Gunton , Colin E. Revelation and Reason : Prolegomena to Systematic Theology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  302 Gunton_NN1_NP1@ ,_Y Colin_NP1 E._NP1 Revelation_NN1 and_CC Reason_NN1_VV0@ :_Y Prolegomena_NP1 to_II Systematic_JJ Theology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  303 Ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  303 Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  304 Paul Brazier .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  304 Paul_NP1 Brazier_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  305 New York : T. .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  305 New_NP1 York_NP1 :_Y T._NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  306 Martens , Peter W. In the Shadow of the Incarnation : Essays on Jesus Christ in the Early Church in Honor of Brian E. Daley , S.J. Notre Dame , Ind. : University of Notre Dame , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  306 Martens_NN2 ,_Y Peter_NP1 W._NP1 In_II the_AT Shadow_NN1 of_IO the_AT Incarnation_NN1 :_Y Essays_NN2 on_II Jesus_NP1 Christ_NP1 in_II the_AT Early_JJ Church_NN1 in_II Honor_NN1 of_IO Brian_NP1 E._NP1 Daley_NP1 ,_Y S.J._NP1 Notre_NP1 Dame_NP1 ,_Y Ind._NP1 :_Y University_NN1 of_IO Notre_NP1 Dame_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  307 Pp. xii + 289. $48 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  307 Pp._NNU2 xii_MC +_FO 289._MC $48_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  308 Moran , Gabriel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  308 Moran_NP1 ,_Y Gabriel_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  309 Believing in a Revealing God : The Basis of the Christian Life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  309 Believing_VVG in_II_RP@ a_AT1 Revealing_JJ God_NP1_NN1@ :_Y The_AT Basis_NN1 of_IO the_AT Christian_JJ Life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  310 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  310 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  311 Pp. 194. $29.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  311 Pp._NNU2 194._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  312 Morse , Christopher .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  312 Morse_NP1_NN1 ,_Y Christopher_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  313 Not Every Spirit : A Dogmatics of Christian Disbelief .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  313 Not_XX Every_AT1 Spirit_NN1 :_Y A_AT1@_ZZ1 Dogmatics_NN1_NN2 of_IO Christian_JJ Disbelief_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  314 2nd ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  314 2nd_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  315 New York : Continuum , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  315 New_NP1 York_NP1 :_Y Continuum_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  316 Pp. xxii + 422. $29.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  316 Pp._NNU2 xxii_MC +_FO 422._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  317 Norris , Thomas J. The Trinity : Life of God , Hope for Humanity : Towards a Theology of Communion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  317 Norris_NP1 ,_Y Thomas_NP1 J._NP1 The_AT Trinity_NP1_NN1 :_Y Life_NN1 of_IO God_NP1 ,_Y Hope_VV0_NN1_NP1 for_IF Humanity_NN1 :_Y Towards_II a_AT1 Theology_NN1 of_IO Communion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  318 Hyde Park , N.Y. : New City , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  318 Hyde_NP1 Park_NN1 ,_Y N.Y._NP1 :_Y New_JJ City_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  319 Pp. 174. $17.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  319 Pp._NNU2 174._MC $17.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  320 Powell , Mark E. Papal Infallibility : A Protestant Evaluation of an Ecumenical Issue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  320 Powell_NP1 ,_Y Mark_NP1 E._NP1 Papal_JJ Infallibility_NN1_NP1 :_Y A_ZZ1_AT1@ Protestant_JJ Evaluation_NN1 of_IO an_AT1 Ecumenical_JJ Issue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  321 Grand Rapids , Mich. : Eerdmans , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  321 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  322 Pp. xii + 226. $40 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  322 Pp._NNU2 xii_MC +_FO 226._MC $40_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  323 Rush , Ormond .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  323 Rush_NP1_VV0 ,_Y Ormond_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  324 The Eyes of Faith : The Sense of the Faithful and the Church 's Reception of Revelation Pp. xi + 330. $79.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  324 The_AT Eyes_NN2 of_IO Faith_NN1 :_Y The_AT Sense_NN1 of_IO the_AT Faithful_JJ and_CC the_AT Church_NN1 's_GE Reception_NN1 of_IO Revelation_NN1 Pp._NN1 xi_NN1 +_FO 330._MC $79.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  325 Spence , Alan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  325 Spence_NP1 ,_Y Alan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  326 Christology : A Guide for the Perplexed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  326 Christology_NP1@_NN1 :_Y A_ZZ1_AT1@ Guide_VV0_NN1 for_IF the_AT Perplexed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  327 Guides for the Perplexed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  327 Guides_NN2 for_IF the_AT Perplexed_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  328 New York : T. T. Clark , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  328 New_NP1 York_NP1 :_Y T._NP1 T._NP1 Clark_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  329 Pp. x + 174. $110 ; $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  329 Pp._NNU2 x_II@_MC@ +_FO 174._MC $110_NNU ;_Y $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  330 Uribarri , Gabino .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  330 Uribarri_NN2_NP1@ ,_Y Gabino_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  331 La singular humanidad de Jesucristo : El tema mayor de la cristologa contempornea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  331 La_FU singular_JJ_NN1 humanidad_NN1 de_NP1_FW Jesucristo_NP1 :_Y El_NP1 tema_NN1 mayor_NN1 de_FW la_FW cristologa_NN1 contempornea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  332 Teologa comillas 9 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  332 Teologa_NN1_NP1@ comillas_NN2 9_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  333 Madrid : San Pablo , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  333 Madrid_NP1 :_Y San_NP1 Pablo_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  334 Pp. 411. 21 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  334 Pp._NNU2 411._MC 21_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  335 Waldenfels , Hans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  335 Waldenfels_NN2_NP1@ ,_Y Hans_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  336 Jesus Christ and the Religions : An Essay in Theology of Religions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  336 Jesus_NP1 Christ_NP1 and_CC the_AT Religions_NN2 :_Y An_AT1 Essay_NN1 in_II Theology_NN1 of_IO Religions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  337 Milwaukee , Wis. : Marquette University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  337 Milwaukee_NP1 ,_Y Wis._NP1 :_Y Marquette_NP1_NN1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  338 Pp. 145. $20 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  338 Pp._NNU2 145._MC $20_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  339 Wood , Susan K. One Baptism : Ecumenical Dimensions of the Doctrine of Baptism .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  339 Wood_NP1_NN1 ,_Y Susan_NP1 K._NP1 One_MC1 Baptism_NN1 :_Y Ecumenical_JJ Dimensions_NN2 of_IO the_AT Doctrine_NN1 of_IO Baptism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  340 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  340 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  341 Pp. xiv + 218. $29.95. iek , Slavoj , and John Milbank .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  341 Pp._NNU2 xiv_MC +_FO 218._MC $29.95._NNU iek_NN1_VV0 ,_Y Slavoj_NP1 ,_Y and_CC John_NP1 Milbank_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  342 The Monstrosity of Christ .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  342 The_AT Monstrosity_NN1 of_IO Christ_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  343 " Paradox or Dialectic ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  343 "_Y Paradox_NN1 or_CC Dialectic_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  344 Ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  344 Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  345 Creston Davis .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  345 Creston_NP1@ Davis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  346 Short Circuits .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  346 Short_JJ_NP1 Circuits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  347 Cambridge , Mass. : MIT , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  347 Cambridge_NP1 ,_Y Mass._NP1 :_Y MIT_NP1_VV0_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  348 Pp. viii + 312. $27.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  348 Pp._NNU2 viii_MC +_FO 312._MC $27.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  349 MORALITY AND LAW Cicovacki , Predrag , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  349 MORALITY_NN1 AND_CC LAW_NN1 Cicovacki_NN1_NP1_NN2@ ,_Y Predrag_NP1_VV0_NN1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  350 Albert Schweitzer 's Ethical Vision : A Sourcebook .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  350 Albert_NP1 Schweitzer_NP1 's_GE Ethical_JJ Vision_NN1 :_Y A_AT1@_ZZ1 Sourcebook_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  351 New 254. $99 ; $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  351 New_NP1 254._MC $99_NNU ;_Y $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  352 Curran , Charles E. , and Julie Hanlon Rubio , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  352 Curran_NP1 ,_Y Charles_NP1 E._NP1 ,_Y and_CC Julie_NP1 Hanlon_NP1 Rubio_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  353 Marriage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  353 Marriage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  354 Readings in Moral Theology 15 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  354 Readings_NN2 in_II Moral_JJ Theology_NN1 15_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  355 New York : Paulist , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  355 New_NP1 York_NP1 :_Y Paulist_JJ_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  356 Pp. xviii + 459. $34.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  356 Pp._NNU2 xviii_MC +_FO 459._MC $34.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  357 Kampowski , Stephan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  357 Kampowski_NN2_NP1@ ,_Y Stephan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  358 Arendt , Augustine , and the New Beginning : The Action Theory and Moral Thought of Hannah Arendt in the Light of Her Dissertation on St. Augustine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  358 Arendt_NN1_NP1@ ,_Y Augustine_NP1 ,_Y and_CC the_AT New_JJ Beginning_NN1 :_Y The_AT Action_NN1 Theory_NN1 and_CC Moral_JJ Thought_NN1 of_IO Hannah_NP1 Arendt_NP1 in_II41 the_II42 Light_II43 of_II44 Her_APPGE Dissertation_NN1 on_II St._NP1 Augustine_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  359 Grand Rapids , Mich. : Eerdmans , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  359 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Eerdmans_NP2_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  360 Pp. xx + 364. $50 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  360 Pp._NNU2 xx_MC +_FO 364._MC $50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  361 McCarthy , David Matzko , ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  361 McCarthy_NP1 ,_Y David_NP1 Matzko_NP1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  362 The Heart of Catholic Social Teaching : Its Origins and Contemporary Significance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  362 The_AT Heart_NN1 of_IO Catholic_JJ Social_JJ Teaching_NN1@ :_Y Its_Z' Origins_NN2 and_CC Contemporary_JJ Significance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  363 Grand Rapids , Mich. : Brazos , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  363 Grand_NP1@_JJ Rapids_NP1_NN2@ ,_Y Mich._NP1 :_Y Brazos_NP1_NN2 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  364 Pp. 213. $24.99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  364 Pp._NNU2 213._MC $24.99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  365 Russo , Raffaele .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  365 Russo_NN1_NP1@ ,_Y Raffaele_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  366 Le Beatitudini : Riflessione antropologica e morale .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  366 Le_NP1 Beatitudini_NP1 :_Y Riflessione_VV0_NP1_NN1 antropologica_NN1 e_ZZ1 morale_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  367 Letture teologiche napoletane , n.s. 2 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  367 Letture_VV0_NN1 teologiche_NN1 napoletane_NN1 ,_Y n.s._NNU 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  368 Naples , Italy : Editoriale comunicazioni sociali , 2007 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  368 Naples_NP1 ,_Y Italy_NP1 :_Y Editoriale_NP1 comunicazioni_NN2 sociali_NN2 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  369 Pp. 84. 7.50 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  369 Pp._NNU2 84._MC 7.50_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  370 Sanz Gimnez-Rico , .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  370 Sanz_VV0_NP1@ Gimnez-Rico_NP1 ,_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  371 Enrique .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  371 Enrique_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  372 Ya en el principio : Fundamentos veterotestamentarios de la moral cristiana .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  372 Ya_UH_PPY en_FW el_NN1_VV0 principio_NN1 :_Y Fundamentos_NP1 veterotestamentarios_NN2 de_FW la_FW moral_JJ cristiana_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  373 Teologa comillas 7 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  373 Teologa_NN1_NP1@ comillas_NN2 7_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  374 Madrid : San Pablo , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  374 Madrid_NP1 :_Y San_NP1 Pablo_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  375 Pp. 198. 15 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  375 Pp._NNU2 198._MC 15_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  376 PASTORAL , SPIRITUAL , AND LITURGICAL Barry Companion to the Spiritual Exercises of St. Ignatius .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  376 PASTORAL_JJ ,_Y SPIRITUAL_JJ ,_Y AND_CC LITURGICAL_NP1 Barry_NP1 Companion_NN1 to_II the_AT Spiritual_JJ Exercises_NN2 of_IO St._NP1 Ignatius_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  377 Notre Dame , Ind. : Ave Maria , 1991 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  377 Notre_NP1 Dame_NP1 ,_Y Ind._NP1 :_Y Ave_NP1 Maria_NP1 ,_Y 1991_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  378 Pp. 140. $12.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  378 Pp._NNU2 140._MC $12.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  379 Bckmann , Aquinata .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  379 Bckmann_VV0_NN1_NP1@ ,_Y Aquinata_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  380 Around the Monastic Table -- RB 31-42 : Growing in Mutual Service and Love .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  380 Around_II the_AT Monastic_JJ Table_NN1 --_NN1_JJ RB_NP1 31-42_MCMC :_Y Growing_VVG_JJ in_II Mutual_JJ Service_NN1 and_CC Love_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  381 Ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  381 Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  382 Marianne Burkhard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  382 Marianne_NP1 Burkhard_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  383 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  383 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  384 Matilda Handl and Marianne Burkhard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  384 Matilda_NP1 Handl_NP1_NN1 and_CC Marianne_NP1 Burkhard_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  385 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  385 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  386 Pp. xviii + 296. $29.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  386 Pp._NNU2 xviii_MC +_FO 296._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  387 De Waal , Esther .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  387 De_NP1 Waal_NP1 ,_Y Esther_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  388 Seeking Life : The Baptismal Invitation of the Rule of St. Benedict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  388 Seeking_VVG Life_NN1 :_Y The_AT Baptismal_JJ Invitation_NN1 of_IO the_AT Rule_NN1 of_IO St._NP1 Benedict_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  389 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  389 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  390 Pp. xii + 148. $19.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  390 Pp._NNU2 xii_MC +_FO 148._MC $19.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  391 Derkse , Wil .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  391 Derkse_VV0_NN1_NP1@ ,_Y Wil_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  392 A Blessed Life : Benedictine Guidelines for Those Who Long for Good Days .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  392 A_AT1_ZZ1 Blessed_JJ Life_NN1 :_Y Benedictine_JJ Guidelines_NN2 for_IF Those_DD2 Who_PNQS Long_VV0@_RR for_IF Good_JJ Days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  393 Trans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  393 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  394 Martin Kessler .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  394 Martin_NP1 Kessler_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  395 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  395 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  396 Pp. xiv + 95. $11.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  396 Pp._NNU2 xiv_MC +_FO 95._MC $11.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  397 Glenstal Benedictines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  397 Glenstal_JJ Benedictines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  398 The Glenstal Book of Daily Prayer : A Benedictine Prayer Book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  398 The_AT Glenstal_JJ Book_NN1 of_IO Daily_NP1_JJ@ Prayer_NN1 :_Y A_ZZ1_AT1@ Benedictine_JJ Prayer_NN1 Book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  399 Collegeville , Minn. : Liturgical , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  399 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  400 Pp. 244. $17.95. ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  400 Pp._NNU2 244._MC $17.95._NNU ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  401 , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  401 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  402 The Glenstal Book of Readings for the Seasons .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  402 The_AT Glenstal_JJ Book_NN1 of_IO Readings_NN2 for_IF the_AT Seasons_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  403 North American ed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  403 North_NP1 American_JJ ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  404 Collegeville , Minn. : Liturgical , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  404 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  405 Pp. 318. Abbot : Musings from the Monastery .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  405 Pp._NNU2 318._MC Abbot_NP1 :_Y Musings_NP1_NN2 from_II the_AT Monastery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  406 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  406 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  407 Pp. viii + 94. $11.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  407 Pp._NNU2 viii_MC +_FO 94._MC $11.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  408 Ostovich , Steven T. The Courage of Faith : Some Philosophical Reflections .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  408 Ostovich_NP1 ,_Y Steven_NP1 T._NP1 The_AT Courage_NN1@_NP1 of_IO Faith_NN1 :_Y Some_DD Philosophical_JJ Reflections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  409 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  409 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  410 Pp. xviii + 151. $15.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  410 Pp._NNU2 xviii_MC +_FO 151._MC $15.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  411 Silf , Margaret .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  411 Silf_VV0_NN1_NP1@ ,_Y Margaret_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  412 Wayfaring : A Gospel Journey in Everyday Life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  412 Wayfaring_NP1@_VVG :_Y A_AT1@_ZZ1 Gospel_NN1 Journey_NN1 in_II Everyday_JJ Life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  413 Notre Dame , Ind. : Ave Maria , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  413 Notre_NP1 Dame_NP1 ,_Y Ind._NP1 :_Y Ave_NP1 Maria_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  414 Pp. 248. $16.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  414 Pp._NNU2 248._MC $16.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  415 Strand , Clark .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  415 Strand_NP1_NN1 ,_Y Clark_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  416 How to Believe in God .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  416 How_RRQ to_TO Believe_VV0 in_II God_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  417 " Whether You Believe in Religion or Not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  417 "_Y Whether_CSW You_PPY Believe_VV0 in_II_RP@ Religion_NN1 or_CC Not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  418 New York : Doubleday , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  418 New_NP1 York_NP1 :_Y Doubleday_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  419 Pp. xviii + 238. $24.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  419 Pp._NNU2 xviii_MC +_FO 238._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  420 Van Breemen , Peter G. The God of Our Deepest Longings : Seven Biblical Meditations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  420 Van_NP1 Breemen_NP1 ,_Y Peter_NP1 G._NP1 The_AT God_NN1@_NP1 of_IO Our_APPGE Deepest_JJT Longings_NN2 :_Y Seven_MC Biblical_JJ Meditations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  421 Notre Dame , Ind. : Ave Maria , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  421 Notre_NP1 Dame_NP1 ,_Y Ind._NP1 :_Y Ave_NP1 Maria_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  422 Pp. viii + 118. $11.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  422 Pp._NNU2 viii_MC +_FO 118._MC $11.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  423 PHILOSOPHY AND OTHER DISCIPLINES Birnbaum , David .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  423 PHILOSOPHY_NN1 AND_CC OTHER_JJ DISCIPLINES_NN2 Birnbaum_NP1 ,_Y David_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  424 Summa Metaphysica I : God and Evil and Summa Metaphysica 11 : God and Good .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  424 Summa_NP1@_NN1 Metaphysica_NP1 I_ZZ1%_MC1% :_Y God_NP1 and_CC Evil_JJ_NN1 and_CC Summa_NP1 Metaphysica_NP1 11_MC :_Y God_NP1 and_CC Good_JJ_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  425 New York : J. Levine/Millennium , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  425 New_NP1 York_NP1 :_Y J._NP1 Levine/Millennium_FU ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  426 Pp. xx + 266 ; vi + 367. $50/2-vol. set .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  426 Pp._NNU2 xx_MC +_FO 266_MC ;_Y vi_MC +_FO 367._MC $50/2-vol._NNU set_NN1_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  427 Bracken , S.J. , Joseph A. Subjectivity , Objectivity Science .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  427 Bracken_NN1 ,_Y S.J._NP1 ,_Y Joseph_NP1 A._ZZ Subjectivity_NN1 ,_Y Objectivity_NN1 Science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  428 Philadelphia , Pa. : Templeton Foundation , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  428 Philadelphia_NP1 ,_Y Pa._NP1 :_Y Templeton_NP1 Foundation_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  429 Pp. xiv + 234. $27.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  429 Pp._NNU2 xiv_MC +_FO 234._MC $27.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  430 Crisp , Oliver D. , and Michael C. Rea , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  430 Crisp_NN1_JJ_VV0@ ,_Y Oliver_NP1 D._NP1 ,_Y and_CC Michael_NP1 C._NP1 Rea_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  431 Analytic Theology : New Essays in the Philosophy of Theology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  431 Analytic_JJ Theology_NN1 :_Y New_JJ Essays_NN2 in_II the_AT Philosophy_NN1 of_IO Theology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  432 New York : Oxford University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  432 New_NP1 York_NP1 :_Y Oxford_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  433 Pp. x + 316. $99 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  433 Pp._NNU2 x_II@_MC@ +_FO 316._MC $99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  434 Dombrowski , Daniel A. Contemporary Athletics and Ancient Greek Ideals .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  434 Dombrowski_NN2_NP1@ ,_Y Daniel_NP1 A._ZZ Contemporary_JJ Athletics_NN1 and_CC Ancient_JJ Greek_JJ_NN1 Ideals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  435 Chicago : University of Chicago , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  435 Chicago_NP1 :_Y University_NN1 of_IO Chicago_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  436 Pp. 168. $35 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  436 Pp._NNU2 168._MC $35_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  437 Egan , Philip A. Philosophy and Catholic Theology : A Primer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  437 Egan_NP1 ,_Y Philip_NP1 A._ZZ Philosophy_NN1 and_CC Catholic_JJ_NN1 Theology_NN1 :_Y A_AT1@_ZZ1 Primer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  438 Collegeville , Minn. : Liturgical , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  438 Collegeville_NP1 ,_Y Minn._NP1 :_Y Liturgical_NP1_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  439 Pp. ix + 181. $21.95 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  439 Pp._NNU2 ix_MC +_FO 181._MC $21.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  440 Flint , Thomas P. , and Michael C. Rea , eds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  440 Flint_NP1_NN1 ,_Y Thomas_NP1 P._NP1 ,_Y and_CC Michael_NP1 C._NP1 Rea_NP1 ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  441 The Oxford Handbook of Philosophical Theology .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  441 The_AT Oxford_NP1 Handbook_NN1 of_IO Philosophical_JJ Theology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  442 New York : Oxford University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  442 New_NP1 York_NP1 :_Y Oxford_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  443 Pp. xii + 610. $150 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  443 Pp._NNU2 xii_MC +_FO 610._MC $150_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  444 Gibson , James William .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  444 Gibson_NP1 ,_Y James_NP1 William_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  445 A Reenchanted World : The Quest for a New Kinship with Nature .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  445 A_AT1_ZZ1 Reenchanted_JJ World_NN1 :_Y The_AT Quest_NN1 for_IF a_AT1 New_JJ Kinship_NN1 with_IW Nature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  446 New York : Metropolitan , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  446 New_NP1 York_NP1 :_Y Metropolitan_JJ ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  447 Pp. x + 306. $27 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  447 Pp._NNU2 x_II@_MC@ +_FO 306._MC $27_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  448 Goetz , Stewart .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  448 Goetz_NP1 ,_Y Stewart_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  449 Freedom , Teleology , and Evil .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  449 Freedom_NN1 ,_Y Teleology_NP1_NN1 ,_Y and_CC Evil_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  450 Continuum Studies in Philosophy of Religion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  450 Continuum_NN1 Studies_NN2 in_II Philosophy_NN1 of_IO Religion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  451 New York : Continuum , 2008 Patterns in Twentieth-Century Fiction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  451 New_NP1 York_NP1 :_Y Continuum_NN1 ,_Y 2008_MC Patterns_NN2 in_II Twentieth-Century_JJ Fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  452 Notre Dame , Ind. : University of Notre Dame , 2008 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  452 Notre_NP1 Dame_NP1 ,_Y Ind._NP1 :_Y University_NN1 of_IO Notre_NP1 Dame_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  453 Pp. xvi + 256. $28 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  453 Pp._NNU2 xvi_MC +_FO 256._MC $28_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  454 Pyysinen , Ilkka .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  454 Pyysinen_NN1_NP1@_JJ ,_Y Ilkka_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  455 Supernatural Agents : Why We Believe in Souls , Gods , and Buddhas .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  455 Supernatural_JJ Agents_NN2 :_Y Why_RRQ We_PPIS2 Believe_VV0 in_II_RP@ Souls_NN2 ,_Y Gods_NN2 ,_Y and_CC Buddhas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  456 New York : Oxford University , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  456 New_NP1 York_NP1 :_Y Oxford_NP1 University_NN1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  457 Pp. xiv + 285. $65 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  457 Pp._NNU2 xiv_MC +_FO 285._MC $65_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  458 Ranieri , John J. Disturbing Revelation : Leo Strauss , Eric Voegelin , and the Bible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  458 Ranieri_NN2_NP1@ ,_Y John_NP1 J._NP1 Disturbing_JJ Revelation_NN1 :_Y Leo_NP1 Strauss_NP1 ,_Y Eric_NP1 Voegelin_NP1 ,_Y and_CC the_AT Bible_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  459 Columbia : University of Missouri , 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  459 Columbia_NP1 :_Y University_NN1 of_IO Missouri_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  A    0  460 Pp. x + 272. $47.50.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080292 COCA  B    0  460 Pp._NNU2 x_II@_MC@ +_FO 272._MC $47.50._NNU

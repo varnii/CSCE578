@@ -1,0 +1,6036 @@
+##4071591
+RESOURCE	resource	vv0_nn1
+LINKS	link	nn2_vvz
+,	,	y
+THE	the	at
+REVIEW	review	nn1
+JOURNAL	journal	nn1
+CONNECTING	connect	vvg_jj
+CLASSROOMS	classroom	nn2
+,	,	y
+LIBRARIES	library	nn2
+,	,	y
+AND	and	cc
+CANADIAN	canadian	jj_nn1
+LEARNING	learning	nn1
+MATERIALS	material	nn2
+(	(	y
+WWW.RESOURCELINKS.CA		np1
+)	)	y
+,	,	y
+RECOMMENDS	recommend	vvz
+THE	the	at
+BEST	best	jjt
+RESOURCES	resource	nn2
+OF	of	io
+2008	2008	mc
+FOR	for	if
+ALL	all	db
+LIBRARIES	library	nn2
+.	.	y
+THIS	this	dd1
+COMPILATION	compilation	nn1
+OF	of	io
+THE	the	at
+YEAR	year	nnt1
+'S	's	ge
+BEST	best	jjt
+2008	2008	mc
+IS	be	vbz
+REPRINTED	reprint	vvn
+WITH	with	iw
+PERMISSION	permission	nn1
+FROM	from	ii
+RESOURCE	resource	nn1
+LINKS	link	nn2_vvz
+,	,	y
+14(2)	14(2)	fo
+,	,	y
+DECEMBER	december	npm1
+2008	2008	mc
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+PICTURE	picture	nn1_vv0@
+BOOKS	book	nn2
+A	a	zz1_at1@
+pocket	pocket	nn1
+can	can	vm
+have	have	vhi
+a	a	at1
+treasure	treasure	nn1
+in	in	ii
+it	it	pph1
+.	.	y
+Kathy	kathy	np1
+Stinson	stinson	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Deirdre	deirdre	np1
+Betteride		np1_nn1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-125-9		mcmc
+.	.	y
+<p>	<p>	y
+Art	art	nn1_np1%
+'s	's	ge
+supplies	supply	nn2
+.	.	y
+Chris	chris	np1
+Tougas	tougas	np2
+.	.	y
+Orca.	orca	np1
+978-1-55143-920-4		mcmc
+.	.	y
+<p>	<p>	y
+Big	big	jj
+and	and	cc
+small	small	jj
+room	room	nn1
+for	for	if
+all	all	db
+.	.	y
+Jo	jo	np1
+Ellen	ellen	np1
+Bogart	bogart	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Gillian	gillian	np1
+Newland	newland	np1
+.	.	y
+Tundra	tundra	nn1
+Book	book	nn1
+.	.	y
+978-0-88776-891-0		mcmc
+.	.	y
+<p>	<p>	y
+Buttercup	buttercup	nn1
+'s	's	ge_vbz
+lovely	lovely	jj
+day	day	nnt1
+.	.	y
+Carolyn	carolyn	np1
+Beck	beck	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Andrea	andrea	np1
+Beck	beck	np1
+.	.	y
+Orca.	orca	np1
+978-1-55469-122-7		mcmc
+.	.	y
+<p>	<p>	y
+Chester	chester	np1
+'s	's	ge
+back	back	nn1
+.	.	y
+Melanie	melanie	np1
+Watt	watt	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-287-2		mcmc
+.	.	y
+<p>	<p>	y
+Chicken	chicken	nn1_vv0@
+,	,	y
+pig	pig	nn1
+,	,	y
+cow	cow	nn1
+.	.	y
+Ruth	ruth	np1
+Ohi	ohi	np1_nn1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-156-3		mcmc
+.	.	y
+<p>	<p>	y
+Colors	color	nn2
+(	(	y
+Gymboree	gymboree	np1_nn1
+Series	series	nn
+)	)	y
+.	.	y
+Ill	ill	z'
+.	.	y
+Christine	christine	np1
+Coirault		np1_nn1
+.	.	y
+Key	key	jj_vv0@_nn1
+Porter	porter	np1_nn1@
+Books/	books/	fu
+Weldon	weldon	np1
+Owen	owen	np1
+.	.	y
+978-1-55470-039-4		mcmc
+.	.	y
+<p>	<p>	y
+Colors	color	nn2
+!	!	y
+Colors	color	nn2
+!	!	y
+Jorge	jorge	np1
+Lujan	lujan	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Pier	pier	nn1
+Grobler	grobler	nn1_np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Maxine	maxine	np1
+Trottier	trottier	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nancy	nancy	np1
+Keating	keating	np1
+.	.	y
+Tuckamore	tuckamore	nn1_np1@
+Books	book	nn2
+.	.	y
+978-1-897174-24-1		mcmc
+.	.	y
+<p>	<p>	y
+Freddy	freddy	np1
+'s	's	ge
+day	day	nnt1
+at	at	ii
+the	the	at
+races	race	nn2
+.	.	y
+Susan	susan	np1
+Chalker	chalker	np1
+Browne	browne	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Hilda	hilda	np1
+Rose	rose	np1_vvd_nn1
+.	.	y
+Tuckamore	tuckamore	nn1_np1@
+Books	book	nn2
+.	.	y
+978-1-897174-36-4		mcmc
+.	.	y
+<p>	<p>	y
+Hip	hip	nn1_jj@
+hippos	hippo	nn2
+(	(	y
+Alligator	alligator	nn1
+Tales	tale	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Jane	jane	np1
+Yolen	yolen	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Vlasta	vlasta	np1
+Van	van	np1
+Kampen	kampen	np1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Kids	kid	nn2
+.	.	y
+978-1-55470-009-7		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+dog	dog	nn1
+became	become	vvd
+a	a	at1
+friend	friend	nn1
+.	.	y
+Paul	paul	np1
+O'Neill	o'neill	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Cynthia	cynthia	np1@_nn1
+Colosimo	colosimo	np1_nn1
+.	.	y
+Pennywell	pennywell	vv0_nn1
+Books	book	nn2
+.	.	y
+978-1-894463-93-5		mcmc
+.	.	y
+<p>	<p>	y
+Kisses	kiss	nn2
+,	,	y
+kisses	kiss	nn2_vvz@
+baby-o	baby-o	nn1
+!	!	y
+Sheree	sheree	np1@_nn1
+Fitch	fitch	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Hilda	hilda	np1
+Rose	rose	np1_vvd_nn1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-1-55109-646-9		mcmc
+.	.	y
+<p>	<p>	y
+La	la	np1
+Primera	primera	np1
+:	:	y
+The	the	at
+story	story	nn1
+of	of	io
+wild	wild	jj
+mustangs	mustang	nn2
+.	.	y
+Ian	ian	np1
+Tyson	tyson	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Adeline	adeline	vv0_np1@
+Halvorson	halvorson	np1_nn1@
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-863-7		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+lime	lime	nn1
+green	green	jj_nn1
+secret	secret	nn1_jj
+.	.	y
+Georgia	georgia	np1
+Graham	graham	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-841-5		mcmc
+.	.	y
+<p>	<p>	y
+This	this	dd1
+little	little	jj_da1
+puppy	puppy	nn1
+(	(	y
+Alligator	alligator	nn1
+Tales	tale	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Dennis	dennis	np1
+Lee	lee	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nora	nora	np1
+Hilb	hilb	np1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Books	book	nn2
+.	.	y
+978-1-55470-010-3		mcmc
+.	.	y
+<p>	<p>	y
+Looking	look	vvg
+at	at	ii
+bears	bear	nn2
+(	(	y
+Kids	kid	nn2
+Can	can	vm
+Read	read	vv0_vvd
+Series	series	nn
+)	)	y
+.	.	y
+Deborah	deborah	np1
+Hodge	hodge	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-250-6		mcmc
+.	.	y
+<p>	<p>	y
+Lord	lord	nn1_np1
+of	of	io
+the	the	at
+sky	sky	nn1
+.	.	y
+Linda	linda	np1
+Zeman-Spaleny	zeman-spaleny	nn1_jj
+.	.	y
+Ill	ill	z'
+.	.	y
+Ludmila	ludmila	np1@_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Montgomery	montgomery	np1
+(	(	y
+Kids	kid	nn2
+Can	can	vm
+Read	read	vv0_vvd
+Series	series	nn
+)	)	y
+.	.	y
+Elizabeth	elizabeth	np1
+MacLeod	macleod	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55074-489-7		mcmc
+.	.	y
+<p>	<p>	y
+Mama	mama	nn1
+robot	robot	nn1
+.	.	y
+Davide	davide	vv0_np1@_nn1
+Cali	cali	nn1_np1_jj
+.	.	y
+Ill	ill	z'
+.	.	y
+Annalaura		np1@_nn1
+Cantone	cantone	np1_nn1
+.	.	y
+Trans	trans	np2
+Marcel	marcel	np1_vv0@
+Danesi	danesi	np1_nn1_jj
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+,	,	y
+978-0-88776-873-6		mcmc
+.	.	y
+<p>	<p>	y
+Mary	mary	np1
+'s	's	ge
+Atlas	atlas	nn1
+:	:	y
+Mary	mary	np1
+meets	meet	vvz
+Manitoba	manitoba	np1
+.	.	y
+Gwen	gwen	np1
+Staid	staid	jj
+.	.	y
+Ill	ill	z'
+.	.	y
+Sonia	sonia	np1@_nn1
+Nadeau	nadeau	np1_nn1
+.	.	y
+Peanut	peanut	nn1
+Butter	butter	nn1
+Press	press	nn1
+.	.	y
+978-0-9735579-3-0		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+master	master	nn1
+'s	's	ge
+apprentice	apprentice	nn1
+.	.	y
+Rick	rick	np1
+Jacobson	jacobson	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Laura	laura	np1
+Fernandez	fernandez	np1
+and	and	cc
+Rick	rick	np1
+Jacobson	jacobson	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-783-8		mcmc
+.	.	y
+<p>	<p>	y
+Moogie	moogie	nn1_np1@
+Moose	moose	nn
+&;		null
+friends	friend	nn2
+explore	explore	vv0
+Newfoundland	newfoundland	np1
+&;		null
+Labrador	labrador	nn1
+.	.	y
+Melanie	melanie	np1
+Maher	maher	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Sherri	sherri	np1@
+Winsor	winsor	np1
+.	.	y
+Figgy	figgy	jj
+Ruff	ruff	nn1
+Publishing	publishing	nn1
+.	.	y
+978-0-9784255-0-0		mcmc
+.	.	y
+<p>	<p>	y
+Mrs.	mrs	nnb
+Marlowe	marlowe	np1
+'s	's	ge
+mice	mouse	nn2
+.	.	y
+Frank	frank	np1_jj
+Asch	asch	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Devin	devin	np1@_nn1
+Asch	asch	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-022-9		mcmc
+.	.	y
+<p>	<p>	y
+My	my	appge
+Friend	friend	nn1_np1
+Jamal	jamal	np1
+(	(	y
+My	my	appge
+Friend	friend	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Anna	anna	np1
+Mcquinn	mcquinn	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Ben	ben	np1
+Frey	frey	np1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-122-8		mcmc
+.	.	y
+<p>	<p>	y
+Naomi	naomi	np1
+'s	's	ge
+tree	tree	nn1
+.	.	y
+Joy	joy	np1
+Kogawa	kogawa	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Ruth	ruth	np1
+Ohi	ohi	np1_nn1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-1-55455-055-5		mcmc
+.	.	y
+<p>	<p>	y
+Ned	ned	np1
+:	:	y
+The	the	at
+story	story	nn1
+of	of	io
+bear	bear	nn1
+six	six	mc
+nine	nine	mc
+three	three	mc
+.	.	y
+Joe	joe	np1
+Pavelka	pavelka	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Lynne	lynne	np1
+Huras		np2
+.	.	y
+Rocky	rocky	np1
+Mountain	mountain	nnl1
+Books	book	nn2
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Margarita	margarita	np1@_nn1
+Sada	sada	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-795-1		mcmc
+.	.	y
+<p>	<p>	y
+One	one	mc1
+hen	hen	nn1
+.	.	y
+Katie	katie	np1
+Smith	smith	np1
+Milway		np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Eugenie	eugenie	np1@_nn1
+Fernandes	fernandes	np1_nn2
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-028-1		mcmc
+.	.	y
+<p>	<p>	y
+One	one	mc1
+hippo	hippo	nn1
+hops	hop	nn2
+(	(	y
+Alligator	alligator	nn1
+Tales	tale	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Jane	jane	np1
+Yolen	yolen	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Vlasta	vlasta	np1
+Van	van	np1
+Kampen	kampen	np1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Kids	kid	nn2
+.	.	y
+978-1-55470-007-3		mcmc
+.	.	y
+<p>	<p>	y
+One	one	mc1
+hundred	hundred	m
+shining	shining	jj
+candles	candle	nn2
+.	.	y
+Janet	janet	np1
+Lunn	lunn	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Lindsay	lindsay	np1
+Grater	grater	np1_nn1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-889-7		mcmc
+.	.	y
+<p>	<p>	y
+One	one	mc1
+watermelon	watermelon	nn1
+seed	seed	nn1
+!	!	y
+Celia	celia	np1@
+Barker	barker	np1
+Lotteridge		np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Karen	karen	np1
+Patkau	patkau	np1_nn1
+.	.	y
+Fitzhenry	fitzhenry	np1
+Whiteside.	whiteside	np1
+978-1-55455-034-0		mcmc
+.	.	y
+<p>	<p>	y
+Out	out	ii21
+of	of	ii22
+the	the	at
+deeps	deep	nn2
+.	.	y
+Anne	anne	np1
+Laurel	laurel	np1
+Carter	carter	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nicolas	nicolas	np1
+Debon	debon	np1_nn1
+.	.	y
+Orca.	orca	np1
+978-1-55143-559-6		mcmc
+.	.	y
+<p>	<p>	y
+Pink	pink	jj_nn1@
+.	.	y
+Nan	nan	nn1
+Gregory	gregory	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Luc	luc	np1@_nn1
+Melanson	melanson	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-781-4		mcmc
+.	.	y
+<p>	<p>	y
+Pumpkin	pumpkin	nn1
+people	people	nn
+.	.	y
+Sandra	sandra	np1
+and	and	cc
+Ron	ron	np1
+Lightburn	lightburn	np1_nn1
+.	.	y
+Nimbus	nimbus	np1_nn1
+Publishing	publishing	nn1
+.	.	y
+978-1-55109-681-0		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+rocking	rocking	jj@
+chair	chair	nn1
+(	(	y
+Alligator	alligator	nn1
+Tales	tale	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Dennis	dennis	np1
+Lee	lee	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nora	nora	np1
+Hilb	hilb	np1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Books	book	nn2
+.	.	y
+978-		nn1_jj
+1-55470-011-0		mcmc
+.	.	y
+<p>	<p>	y
+Rosie	rosie	np1
+and	and	cc
+Buttercup	buttercup	nn1
+.	.	y
+Chieri	chieri	np1@_jj@_nn2
+Uegaki	uegaki	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Stphane	stphane	np1@_nn1
+Jorisch	jorisch	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55337-997-3		mcmc
+.	.	y
+<p>	<p>	y
+Ruby	ruby	np1
+Riding	riding	np1
+Hood	hood	np1
+(	(	y
+Max	maximum	np1
+&;		null
+Ruby	ruby	np1
+Series	series	nn
+)	)	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+<p>	<p>	y
+Sad	sad	jj
+,	,	y
+mad	mad	jj
+,	,	y
+glad	glad	jj
+Hippos	hippo	nn2_np1
+(	(	y
+Alligator	alligator	nn1
+Tales	tale	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Jane	jane	np1
+Yolen	yolen	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Vlasta	vlasta	np1
+Van	van	np1
+Kampen	kampen	np1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Kids	kid	nn2
+.	.	y
+978-1-55470-008-0		mcmc
+.	.	y
+<p>	<p>	y
+Saffy	saffy	nn1_jj_np1@
+.	.	y
+Paola	paola	nn1_np1@
+Opal	opal	nn1
+.	.	y
+Simply	simply	rr
+Read	read	vv0_vvn_vvd
+Books	book	nn2
+.	.	y
+978-		nn1_jj
+1-897476-02-4		mcmc
+.	.	y
+<p>	<p>	y
+Scaredy	scaredy	jj_nn1
+Squirrel	squirrel	nn1
+at	at	ii
+the	the	at
+beach	beach	nn1
+.	.	y
+Mlanie	mlanie	np1@
+Watt	watt	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-225-4		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+secret	secret	jj_nn1
+legacy	legacy	nn1
+.	.	y
+Rigoberta	rigoberta	np1@_nn1
+Mench	mench	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Domi	domi	nn2_np1@
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-896-5		mcmc
+.	.	y
+<p>	<p>	y
+Stanley	stanley	np1
+at	at	ii
+sea	sea	nn1
+.	.	y
+Linda	linda	np1
+Bailey	bailey	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Bill	bill	np1
+Slavin	slavin	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-193-6		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+terrible	terrible	jj
+horrible	horrible	jj
+smelly	smelly	jj
+pirate	pirate	nn1
+.	.	y
+Carrie	carrie	np1
+Muller	muller	np1
+and	and	cc
+Jacqueline	jacqueline	np1
+Halsey	halsey	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Eric	eric	np1
+Orchard	orchard	nn1
+.	.	y
+Nimbus	nimbus	np1_nn1
+Publishing	publishing	nn1
+.	.	y
+978-1-55109-655-1		mcmc
+.	.	y
+<p>	<p>	y
+Thing-Thing	thing-thing	nn1_jj
+.	.	y
+Cary	cary	np1
+Fagan	fagan	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nicolas	nicolas	np1
+Debon	debon	np1_nn1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-839-2		mcmc
+.	.	y
+<p>	<p>	y
+Which	which	ddq
+way	way	nn1
+should	should	vm
+I	i	ppis1
+go	go	vvi
+?	?	y
+Sylvia	sylvia	np1@_nn1
+Olsen	olsen	np1_nn1@
+with	with	iw
+Ron	ron	np1
+Martin	martin	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Kasia	kasia	np1@_nn1
+Charko	charko	np1_nn1
+.	.	y
+Sono	sono	fw
+Nis	nis	np1
+Press	press	nn1_vv0
+.	.	y
+978-1-55039-161-9		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+woman	woman	nn1
+who	who	pnqs
+married	marry	vvd@
+a	a	at1
+bear	bear	nn1
+.	.	y
+Elizabeth	elizabeth	np1
+James	james	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Atanas	atanas	np1@_nn2
+Matsoureff	matsoureff	np1_vv0_nn1
+.	.	y
+Simply	simply	rr
+Read	read	vv0_vvn_vvd
+Books	book	nn2
+.	.	y
+978-1-894965-49-1		mcmc
+.	.	y
+<p>	<p>	y
+You	you	ppy
+crack	crack	vv0
+me	me	ppio1
+up	up	rp
+(	(	y
+Chick	chick	np1_nn1_vv0
+and	and	cc
+Dees	dees	np1
+Big	big	jj
+Book	book	nn1
+of	of	io
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+and	and	cc
+Steve	steve	np1
+Manale	manale	np1
+.	.	y
+Bayard	bayard	np1@
+Canada	canada	np1
+Books/Owl		fu
+Kids	kid	nn2
+.	.	y
+978-2-89579-191-1		mcmc
+.	.	y
+<p>	<p>	y
+Yum	yum	uh
+!	!	y
+Yum	yum	uh
+!	!	y
+!	!	y
+Delicious	delicious	jj
+nursery	nursery	nn1
+rhymes	rhyme	nn2_vvz
+.	.	y
+Joanne	joanne	np1
+Fitzgerald	fitzgerald	np1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-1-55041-888-0		mcmc
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+FICTION	fiction	nn1
+GRADES	grade	nn2
+3-6	3-6	mcmc
+A	a	zz1
+perfect	perfect	jj
+gentle	gentle	jj
+knight	knight	nn1
+.	.	y
+Kit	kit	nn1_vv0%
+Pearson	pearson	np1
+.	.	y
+Puffin	puffin	np1
+Canada	canada	np1
+.	.	y
+978-0-670-06682-7		mcmc
+.	.	y
+<p>	<p>	y
+Addison	addison	np1
+Addley		np1
+and	and	cc
+the	the	at
+things	thing	nn2
+that	that	cst
+are	be	vbr
+n't	n't	xx
+there	there	rl
+(	(	y
+Orca	orca	np1
+Young	young	np1_jj
+Readers	reader	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Melody	melody	nn1
+Defields		np2_nn2@
+Mcmillan	mcmillan	np1
+.	.	y
+Orca	orca	np1@_nn1
+Young	young	np1_jj
+Readers	reader	nn2
+.	.	y
+978-		nn1_jj
+1-55143-949-5		mcmc
+.	.	y
+<p>	<p>	y
+Alex	alex	np1
+and	and	cc
+the	the	at
+ironic	ironic	jj
+gentleman	gentleman	nn1
+.	.	y
+Adrienne	adrienne	np1
+Kress	kress	np1_nn1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-545-99042-4		mcmc
+.	.	y
+<p>	<p>	y
+Chantel	chantel	np1@_nn1
+'s	's	ge
+quest	quest	nn1
+for	for	if
+the	the	at
+golden	golden	jj
+sword	sword	nn1
+.	.	y
+Oliver	oliver	np1
+Neubert	neubert	np1
+.	.	y
+Simply	simply	rr
+Read	read	vv0_vvn_vvd
+Books	book	nn2
+.	.	y
+978-1-894965-81-1		mcmc
+.	.	y
+<p>	<p>	y
+Days	day	nnt2
+of	of	io
+toil	toil	nn1
+and	and	cc
+tears	tear	nn2_vvz@
+:	:	y
+The	the	at
+child	child	nn1
+labour	labor	nn1
+diary	diary	nn1
+of	of	io
+Flora	flora	np1
+Rutherford	rutherford	np1
+(	(	y
+Dear	dear	jj
+Canada	canada	np1
+Series	series	nn
+)	)	y
+.	.	y
+Sarah	sarah	np1
+Ellis	ellis	np1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-439-95594-2		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+diary	diary	nn1
+of	of	io
+Laura	laura	np1
+'s	's	ge
+twin	twin	nn1
+.	.	y
+Kathy	kathy	np1
+Kacer	kacer	np1_nn1
+.	.	y
+Second	second	md
+Story	story	nn1
+Press	press	nn1
+.	.	y
+978-I-897187-39-5	978-i-897187-39-5	mc
+.	.	y
+<p>	<p>	y
+Ellen	ellen	np1
+'s	's	ge
+book	book	nn1
+of	of	io
+life	life	nn1
+.	.	y
+Joan	joan	np1
+Givner	givner	np1_nn1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/House		fu
+of	of	io
+Anansi	anansi	jj_np1_nn1
+Press	press	nn1
+.	.	y
+978-0-88899-853-8		mcmc
+.	.	y
+T	t	np1@
+he	he	pphs1
+goatnappers		nn2
+.	.	y
+Rosa	rosa	np1
+Jordan	jordan	np1
+.	.	y
+Fitzhenry	fitzhenry	np1
+Whiteside	whiteside	np1_nn1
+.	.	y
+Peachtree	peachtree	nn1_np1@
+Publishers	publisher	nn2
+.	.	y
+978-1-56145-400-6		mcmc
+.	.	y
+<p>	<p>	y
+Grim	grim	jj
+Hill	hill	nn1_np1
+:	:	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+978-1-897073-97-1		mcmc
+.	.	y
+<p>	<p>	y
+I	i	ppis1_zz1@_mc1@
+,	,	y
+Bruno	bruno	np1
+(	(	y
+Orca	orca	np1
+Echoes	echo	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Caroline	caroline	np1
+Adderson	adderson	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Helen	helen	np1
+Flook	flook	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-501-5		mcmc
+.	.	y
+<p>	<p>	y
+Impossible	impossible	jj
+things	thing	nn2
+.	.	y
+Robin	robin	np1
+Stevenson	stevenson	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-736-1		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+island	island	nn1
+of	of	io
+mad	mad	jj
+scientists	scientist	nn2
+.	.	y
+Howard	howard	np1
+Whitehouse	whitehouse	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Bill	bill	np1
+Slavin	slavin	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-237-7		mcmc
+.	.	y
+<p>	<p>	y
+Jack	jack	np1
+Pine	pine	nn1
+.	.	y
+Christopher	christopher	np1
+Patton	patton	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Cybele	cybele	np1@_nn1
+Young	young	np1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/House		fu
+of	of	io
+Anansi	anansi	jj_np1_nn1
+Press	press	nn1
+.	.	y
+978-0-88899-780-7		mcmc
+.	.	y
+<p>	<p>	y
+JB	jb	np1
+Andrew	andrew	np1
+:	:	y
+Mustang	mustang	vv0_np1_nn1
+magic	magic	nn1_jj
+.	.	y
+Judy	judy	np1
+Andrekson		np1
+.	.	y
+Ill	ill	z'
+.	.	y
+David	david	np1
+Parkins	parkins	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-837-8		mcmc
+.	.	y
+<p>	<p>	y
+Jellaby	jellaby	nn1_np1@
+.	.	y
+Kean	kean	jj_np1@_nn1
+Soo	soo	nn1_np1
+.	.	y
+Hyperion.	hyperion	np1
+978-1-4231-0303-5		mcmc
+.	.	y
+<p>	<p>	y
+Libertad	libertad	nn1_np1@
+.	.	y
+Alma	alma	np1@_nn1
+Fullerton	fullerton	np1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-1-55455-106-4		mcmc
+.	.	y
+<p>	<p>	y
+Longhorns	longhorn	nn2_np1@
+and	and	cc
+Outlaws	outlaw	nn2
+.	.	y
+Linda	linda	np1
+Aksomitis		np1_nn1
+.	.	y
+Coteau	coteau	nn1_np1@
+Books	book	nn2
+.	.	y
+978-1-55050-378-4		mcmc
+.	.	y
+<p>	<p>	y
+Martin	martin	np1
+Bridge	bridge	nn1
+:	:	y
+The	the	at
+sky	sky	nn1
+'s	be	vbz
+the	the	at
+limit	limit	nn1
+.	.	y
+Jessica	jessica	np1
+Scott	scott	np1
+Kerrin	kerrin	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Joseph	joseph	np1
+Kelly	kelly	np1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-1-55453-159-2		mcmc
+.	.	y
+<p>	<p>	y
+Meeting	meeting	nn1_vvg
+Miss	miss	vv0_nn1@
+405	405	mc
+(	(	y
+Orca	orca	np1
+Young	young	np1_jj
+Readers	reader	nn2
+)	)	y
+.	.	y
+Lois	loi	np1
+Peterson	peterson	np1
+.	.	y
+Orca	orca	nn1_np1@
+Book	book	nn1
+.	.	y
+978-1-55469-015-2		mcmc
+.	.	y
+<p>	<p>	y
+Moocher	moocher	nn1_np1@
+in	in	ii
+the	the	at
+Lun	lun	np1_nn1
+:	:	y
+A	a	zz1
+Newfoundland	newfoundland	np1
+and	and	cc
+Labrador	labrador	nn1
+folk	folk	nn
+alphabet	alphabet	nn1
+.	.	y
+Tom	tom	np1
+Dawe	dawe	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+C.	c	np1
+Anne	anne	np1
+Macleod	macleod	np1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+'s	's	ge
+last	last	md
+glass	glass	nn1
+.	.	y
+Gary	gary	np1
+Fagan	fagan	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Selcuk	selcuk	vv0_np1@
+Demeril		np1_nn1@
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-790-6		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+nine	nine	mc
+lives	life	nn2
+of	of	io
+Travis	travis	np1
+Keating	keating	np1
+.	.	y
+Jill	jill	np1
+Mclean	mclean	np1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-1-55455-104-0		mcmc
+.	.	y
+<p>	<p>	y
+On	on	ii
+the	the	at
+road	road	nn1
+again	again	rt
+:	:	y
+More	more	dar_rrr
+travels	travel	nn2_vvz
+with	with	iw
+my	my	appge
+family	family	nn1
+.	.	y
+Marie-Louise	marie-louise	np1
+Gay	gay	np1
+and	and	cc
+David	david	np1
+Homel	homel	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-846-0		mcmc
+.	.	y
+<p>	<p>	y
+Other	other	jj
+goose	goose	nn1
+:	:	y
+Recycled	recycled	jj
+rhymes	rhyme	nn2
+for	for	if
+our	our	appge
+fragile	fragile	jj
+times	time	nnt2
+.	.	y
+Barbara	barbara	np1
+Wyn	wyn	np1
+Klunder	klunder	np1_nn1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/House		fu
+of	of	io
+Anansi	anansi	jj_np1_nn1
+Press	press	nn1
+.	.	y
+978-0-88899-829-3		mcmc
+.	.	y
+<p>	<p>	y
+Out	out	rp
+on	on	ii
+a	a	at1
+Limb	limb	nn1
+.	.	y
+Gail	gail	np1
+Banning	ban	vvg_nn1@
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Books	book	nn2
+.	.	y
+978-1-55470-012-7		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+Owl	owl	nn1
+and	and	cc
+the	the	at
+pussycat	pussycat	nn1
+(	(	y
+Visions	vision	nn2
+In	in	ii
+Poetry	poetry	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Edward	edward	np1
+Lear	lear	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Stphane	stphane	np1@_nn1
+Jorisch	jorisch	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55337-828-0		mcmc
+.	.	y
+<p>	<p>	y
+Peril	peril	nn1
+at	at	ii
+pier	pier	nn1
+nine	nine	mc
+(	(	y
+Disaster	disaster	nn1
+Strikes	strike	vvz
+Series	series	nn
+)	)	y
+.	.	y
+Penny	penny	np1
+Draper	draper	np1
+.	.	y
+Coteau	coteau	nn1_np1@
+Books	book	nn2
+.	.	y
+978-1-55050-376-0		mcmc
+.	.	y
+<p>	<p>	y
+Poachers	poacher	nn2
+in	in	ii
+the	the	at
+Pingos		np1_nn2
+(	(	y
+Orca	orca	np1
+Young	young	np1_jj
+Readers	reader	nn2
+)	)	y
+.	.	y
+Anita	anita	np1
+Daher	daher	np1_nn1
+.	.	y
+Orca.	orca	np1
+978-1-55469-011-4		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+proof	proof	nn1
+that	that	cst
+ghosts	ghost	nn2
+exist	exist	vv0
+(	(	y
+The	the	at
+Ghosthunters		np1_nn2
+:	:	y
+Book	book	nn1
+1	1	mc1
+)	)	y
+.	.	y
+Carol	carol	np1
+Matas	matas	np2
+and	and	cc
+Perry	perry	np1
+Nodelman	nodelman	np1_nn1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Books	book	nn2
+.	.	y
+978-1-55470-014-1		mcmc
+.	.	y
+<p>	<p>	y
+Ramp	ramp	nn1
+rats	rat	nn2
+:	:	y
+A	a	zz1_at1@
+graphic	graphic	jj
+guide	guide	nn1
+adventure	adventure	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Book	book	nn1
+.	.	y
+978-1-55143-880-1		mcmc
+.	.	y
+<p>	<p>	y
+Rex	rex	np1_fw
+Zero	zero	m
+:	:	y
+King	king	nn1
+of	of	io
+nothing	nothing	pn1
+.	.	y
+Tim	tim	np1
+Wynne-Jones	wynne-jones	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-374-36259-1		mcmc
+.	.	y
+<p>	<p>	y
+Submarine	submarine	nn1
+outlaw	outlaw	nn1
+.	.	y
+Philip	philip	np1
+Roy	roy	np1
+.	.	y
+Ronsdale		np1
+Press	press	nn1_vv0
+.	.	y
+978-1-55380-058-3		mcmc
+.	.	y
+<p>	<p>	y
+Swindle	swindle	nn1
+.	.	y
+Gordon	gordon	np1
+Korman	korman	np1_nn1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-545-05591-8		mcmc
+.	.	y
+<p>	<p>	y
+Ten	ten	m
+thumb	thumb	nn1
+Sam	sam	np1
+(	(	y
+Orca	orca	np1
+Young	young	np1_jj
+Readers	reader	nn2
+)	)	y
+.	.	y
+Rachel	rachel	np1
+Dunstan	dunstan	np1
+Muller	muller	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-699-9		mcmc
+.	.	y
+<p>	<p>	y
+Time	time	nnt1
+twister	twister	nn1
+:	:	y
+Journal	journal	nn1
+#3		nnu
+of	of	io
+a	a	at1
+cardboard	cardboard	jj_nn1
+genius	genius	nn1
+.	.	y
+Frank	frank	np1_jj
+Asch	asch	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-231-5		mcmc
+.	.	y
+<p>	<p>	y
+Tuk	tuk	vv0_nn1_np1@
+and	and	cc
+the	the	at
+whale	whale	nn1
+.	.	y
+Raquel	raquel	np1
+Rivera	rivera	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Mary	mary	np1
+Jane	jane	np1
+Gerber	gerber	np1_nn1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/	books/	fu
+House	house	nn1
+of	of	io
+Anansi	anansi	jj_np1_nn1
+Press	press	nn1
+.	.	y
+978-0-88899-689-3		mcmc
+.	.	y
+<p>	<p>	y
+Where	where	cs
+the	the	at
+river	river	nn1
+takes	take	vvz
+me	me	ppio1
+:	:	y
+The	the	at
+Hudson	hudson	np1
+'s	's	ge
+Bay	bay	nn1_jj@
+Company	company	nn1
+diary	diary	nn1
+of	of	io
+Jenna	jenna	np1
+Sinclair	sinclair	np1
+(	(	y
+Dear	dear	jj
+Canada	canada	np1
+Series	series	nn
+)	)	y
+.	.	y
+Julie	julie	np1
+Lawson	lawson	np1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-545-95620-8		mcmc
+.	.	y
+<p>	<p>	y
+Word	word	nn1
+herd	herd	nn1
+.	.	y
+Susin	susin	np1@_nn1
+Nielsen	nielsen	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-875-0		mcmc
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+NON-FICTION	nonfiction	nn1
+GRADES	grade	nn2
+K-6	k-6	fo
+*	*	fu
+2-3	2-3	mcmc
+I	i	ppis1
+can	can	vm
+draw	draw	vvi
+!	!	y
+Irene	irene	np1
+Luxbacher	luxbacher	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-039-7.		mcmc
+*	*	fu
+2-3	2-3	mcmc
+I	i	ppis1
+can	can	vm
+make	make	vvi
+prints	print	nn2
+!	!	y
+Irene	irene	np1
+Luxbacher	luxbacher	np1
+,	,	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-040-3		mcmc
+.	.	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+animals	animal	nn2
+(	(	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+the	the	at
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+<p>	<p>	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+habitats	habitat	nn2
+(	(	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+the	the	at
+Natural	natural	jj
+World	world	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3411-6		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+oceans	ocean	nn2
+(	(	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+the	the	at
+Natural	natural	jj
+World	world	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3412-3		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+plants	plant	nn2
+(	(	y
+The	the	at
+ABCs	abc	np2_nn2@
+of	of	io
+the	the	at
+Natural	natural	jj
+World	world	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3413-0		mcmc
+.	.	y
+<p>	<p>	y
+Animals	animal	nn2
+at	at	ii
+the	the	at
+edge	edge	nn1
+:	:	y
+Saving	save	vvg_ii@
+the	the	at
+world	world	nn1
+'s	's	ge
+rarest	rare	jjt
+creatures	creature	nn2
+.	.	y
+Jonathan	jonathan	np1
+Baillie	baillie	np1
+and	and	cc
+Marilyn	marilyn	np1
+Baillie	baillie	np1
+.	.	y
+Maple	maple	nn1
+Tree	tree	nn1
+Press	press	nn1
+.	.	y
+978-1-897349-33-5		mcmc
+.	.	y
+<p>	<p>	y
+Armstrong	armstrong	np1
+'s	's	ge
+moonrock	moonrock	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3706-3		mcmc
+.	.	y
+<p>	<p>	y
+Baby	baby	nn1
+apes	ape	nn2
+(	(	y
+It	it	pph1
+'s	be	vbz
+Fun	fun	jj
+to	to	to_ii
+Learn	learn	vv0
+About	about	ii_rp@
+Baby	baby	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3948-7		mcmc
+.	.	y
+<p>	<p>	y
+Baby	baby	nn1
+bears	bear	nn2
+(	(	y
+It	it	pph1
+'s	be	vbz
+Fun	fun	jj
+To	to	to_ii
+Learn	learn	vv0
+About	about	ii_rp@
+Baby	baby	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+Bobble	bobble	np1_vv0_nn1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0778739494		mcmc
+.	.	y
+<p>	<p>	y
+Baby	baby	nn1
+birds	bird	nn2
+(	(	y
+It	it	pph1
+'s	be	vbz
+Fun	fun	jj
+to	to	to_ii
+Learn	learn	vv0
+About	about	ii_rp@
+Baby	baby	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3950-0		mcmc
+.	.	y
+<p>	<p>	y
+Baby	baby	nn1
+cats	cat	nn2
+(	(	y
+It	it	pph1
+'s	be	vbz
+Fun	fun	jj
+to	to	to_ii
+Learn	learn	vv0
+About	about	ii_rp@
+Baby	baby	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+<p>	<p>	y
+Baby	baby	nn1
+deer	deer	nn
+(	(	y
+It	it	pph1
+'s	be	vbz
+Fun	fun	jj
+to	to	to_ii
+Learn	learn	vv0
+About	about	ii_rp@
+Baby	baby	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3952-4		mcmc
+.	.	y
+<p>	<p>	y
+Baby	baby	nn1
+horses	horse	nn2
+(	(	y
+It	it	pph1
+'s	be	vbz
+Fun	fun	jj
+to	to	to_ii
+Learn	learn	vv0
+About	about	ii_rp@
+Baby	baby	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3953-1		mcmc
+.	.	y
+<p>	<p>	y
+Ballplayers	ballplayer	nn2_np1@
+and	and	cc
+bonesetters		vvz_nn2
+:	:	y
+One	one	mc1
+hundred	hundred	m
+Ancient	ancient	jj
+Aztec	aztec	nn1_jj
+and	and	cc
+Maya	maya	np1_nn1@
+jobs	job	nn2
+you	you	ppy
+might	might	vm
+have	have	vhi
+adored	adore	vvn
+or	or	cc
+abhorred	abhor	vvd
+.	.	y
+Laurie	laurie	np1
+Coulter	coulter	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Martha	martha	np1
+Newbigging		np1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-140-2		mcmc
+.	.	y
+<p>	<p>	y
+Bees	bee	nn2
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Sally	sally	np1
+Morgan	morgan	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4049-0		mcmc
+.	.	y
+<p>	<p>	y
+Brave	brave	jj
+deeds	deed	nn2
+:	:	y
+How	how	rrq
+one	one	mc1
+family	family	nn1
+saved	save	vvd_vvn
+many	many	da2
+from	from	ii
+the	the	at
+Nazis	nazi	nn2
+.	.	y
+Ann	ann	np1
+Alma	alma	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-791-3		mcmc
+.	.	y
+<p>	<p>	y
+Breakout	breakout	nn1
+dinosaurs	dinosaur	nn2
+:	:	y
+Canada	canada	np1
+'s	's	ge
+coolest	cool	jjt
+and	and	cc
+scariest	scary	jjt
+ancient	ancient	jj
+creatures	creature	nn2
+return	return	vv0
+!	!	y
+Hugh	hugh	np1
+Brewster	brewster	np1_nn1
+and	and	cc
+the	the	at
+curators	curator	nn2
+of	of	io
+the	the	at
+Royal	royal	jj
+Ontario	ontario	np1
+Museum	museum	nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Alan	alan	np1
+Barnard	barnard	np1
+.	.	y
+Whitfield	whitfield	np1
+Editions	edition	nn2
+.	.	y
+978-0-88854-462-9		mcmc
+.	.	y
+<p>	<p>	y
+Canada	canada	np1
+in	in	ii
+colours	color	nn2
+.	.	y
+Per-Henrik		np1
+Grth	grth	np1
+and	and	cc
+Yvette	yvette	np1_nn1
+Ghione		np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-240-7		mcmc
+.	.	y
+<p>	<p>	y
+Canada	canada	np1
+'s	's	ge
+coastal	coastal	jj
+animals	animal	nn2
+(	(	y
+Canada	canada	np1
+Close	close	nnl1
+Up	up	ii@
+Series	series	nn
+)	)	y
+.	.	y
+Chelsea	chelsea	np1
+Donaldson	donaldson	np1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-545-99736-2		mcmc
+.	.	y
+<p>	<p>	y
+Canada	canada	np1
+'s	's	ge
+mountain	mountain	nn1
+animals	animal	nn2
+.	.	y
+Chelsea	chelsea	np1
+Donaldson	donaldson	np1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+with	with	iw
+Materials	material	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Chris	chris	np1
+Oxlade	oxlade	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3638-7		mcmc
+.	.	y
+<p>	<p>	y
+Chickens	chicken	nn2
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Hannah	hannah	np1
+Ray	ray	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4050-6		mcmc
+.	.	y
+<p>	<p>	y
+Cleopatra	cleopatra	np1
+'s	's	ge
+coin	coin	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3707-0		mcmc
+.	.	y
+<p>	<p>	y
+Columbus	columbus	np1
+'s	's	ge
+chart	chart	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree	crabtree	nn1_np1@
+,	,	y
+2008.	2008	mc
+978-0-7787-3686-8		mcmc
+.	.	y
+<p>	<p>	y
+Cows	cow	nn2
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Hannah	hannah	np1
+Ray	ray	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4051-3		mcmc
+.	.	y
+<p>	<p>	y
+Creatures	creature	nn2
+yesterday	yesterday	rt
+and	and	cc
+today	today	rt
+.	.	y
+Karen	karen	np1
+Patkau	patkau	np1_nn1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-833-0		mcmc
+.	.	y
+<p>	<p>	y
+Cree	cree	np1@_nn1
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Erinn	erinn	vv0_np1@
+Banting	banting	np1_vvg
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-339-5		mcmc
+.	.	y
+<p>	<p>	y
+Deer	deer	nn
+(	(	y
+Backyard	backyard	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Christine	christine	np1
+Webster	webster	np1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-59036-675-2		mcmc
+.	.	y
+<p>	<p>	y
+Denesuline		np1@_vv0_nn1
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Carol	carol	np1_nn1
+Koopmans	koopman	np2_nn2
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-335-7		mcmc
+.	.	y
+<p>	<p>	y
+Dino-Why		rrq
+?	?	y
+The	the	at
+dinosaur	dinosaur	nn1
+question	question	nn1
+and	and	cc
+answer	answer	vv0_nn1
+book	book	nn1
+.	.	y
+Sylvia	sylvia	np1@_nn1
+Funston	funston	np1
+.	.	y
+Maple	maple	nn1
+Tree	tree	nn1
+Press	press	nn1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+Ill	ill	z'
+.	.	y
+Martha	martha	np1
+Newbigging		np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-101-1		mcmc
+.	.	y
+<p>	<p>	y
+Ducks	duck	nn2
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Sally	sally	np1
+Morgan	morgan	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4052-0		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+earth	earth	nn1
+:	:	y
+Our	our	appge
+home	home	nn1
+planet	planet	nn1
+(	(	y
+Exploring	explore	vvg
+Our	our	appge
+Solar	solar	jj_nn1
+System	system	nn1
+Series	series	nn
+)	)	y
+.	.	y
+David	david	np1
+Jefferis	jefferis	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3730-8		mcmc
+.	.	y
+<p>	<p>	y
+Everything	everything	pn1
+but	but	ii_ccb
+the	the	at
+kitchen	kitchen	nn1
+sink	sink	nn1_vv0
+:	:	y
+Weird	weird	jj
+stuff	stuff	nn1
+you	you	ppy
+did	do	vdd
+n't	n't	xx
+know	know	vvi
+about	about	ii
+food	food	nn1
+.	.	y
+Frieda	frieda	np1
+Wishinsky	wishinsky	np1
+and	and	cc
+Elizabeth	elizabeth	np1
+Macleod	macleod	np1
+.	.	y
+Scholastic	scholastic	jj
+Canada978-1-4352-7450-1		np1
+.	.	y
+<p>	<p>	y
+Everywear	everywear	vv0_nn1_np1@
+.	.	y
+Ellen	ellen	np1
+Warwick	warwick	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Bernice	bernice	np1
+Lure	lure	nn1_vv0
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55337-799-3		mcmc
+.	.	y
+<p>	<p>	y
+Farming	farming	nn1
+(	(	y
+Linking	link	vvg_nn1
+Canadian	canadian	jj_nn1
+Communities	community	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Tatiana	tatiana	nn1_np1@
+Tomlijanovic	tomlijanovic	nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Cheryl	cheryl	np1
+Ruckle		np1_nn1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-377-7		mcmc
+.	.	y
+<p>	<p>	y
+Fish	fish	nn
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Sally	sally	np1
+Morgan	morgan	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-1-84538-689-4		mcmc
+.	.	y
+<p>	<p>	y
+Forestry	forestry	nn1
+(	(	y
+Linking	link	vvg_nn1
+Canadian	canadian	jj_nn1
+Communities	community	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Tatiana	tatiana	nn1_np1@
+Tomlijanovic	tomlijanovic	nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Cheryl	cheryl	np1
+Ruckle		np1_nn1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-373-9		mcmc
+.	.	y
+<p>	<p>	y
+Goats	goat	nn2
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Sally	sally	np1
+Morgan	morgan	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-1-84538-690-0		mcmc
+.	.	y
+<p>	<p>	y
+Haida	haida	np1@_nn1
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+.	.	y
+Jennifer	jennifer	np1
+Nault	nault	np1_nn1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-329-6		mcmc
+.	.	y
+<p>	<p>	y
+Haunted	haunted	jj_vvd_vvn
+Canada	canada	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-439-93777-1		mcmc
+.	.	y
+<p>	<p>	y
+Hear	hear	vv0
+this	this	dd1
+!	!	y
+(	(	y
+Let	let	vm21
+'s	be	vm22
+Start	start	nn1
+!	!	y
+Science	science	nn1
+Series	series	nn
+.	.	y
+Sally	sally	np1
+Hewitt	hewitt	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4058-2		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+does	do	vdz
+it	it	pph1
+feel	feel	vvi
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3334-8		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+Does	do	vdz
+It	it	pph1
+Look	look	vv0_nn1
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3315-7		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+to	to	to
+improve	improve	vvi
+at	at	ii
+basketball	basketball	nn1
+How	how	rrq
+To	to	to
+Improve	improve	vv0
+at	at	ii
+.	.	y
+...	...	...
+Series	series	nn
+)	)	y
+.	.	y
+Jim	jim	np1
+Drewett	drewett	np1
+,	,	y
+Crabtree.	crabtree	np1
+978-0-7787-3566-3		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+to	to	to
+improve	improve	vvi
+at	at	ii
+golf	golf	nn1
+(	(	y
+How	how	rrq
+To	to	to
+Improve	improve	vv0
+at	at	ii
+.	.	y
+...	...	...
+Series	series	nn
+)	)	y
+.	.	y
+Jim	jim	np1
+Drewett	drewett	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3567-0		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+to	to	to
+improve	improve	vvi
+at	at	ii
+karate	karate	nn1
+(	(	y
+How	how	rrq
+To	to	to
+Improve	improve	vv0
+at	at	ii
+.	.	y
+...	...	...
+Series	series	nn
+)	)	y
+.	.	y
+Jim	jim	np1
+Drewett	drewett	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3568-7		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+to	to	to
+improve	improve	vvi
+at	at	ii
+soccer	soccer	nn1
+(	(	y
+How	how	rrq
+To	to	to
+Improve	improve	vv0
+at	at	ii
+.	.	y
+...	...	...
+Series	series	nn
+)	)	y
+.	.	y
+Jim	jim	np1
+Drewett	drewett	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3569-4		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+to	to	to
+improve	improve	vvi
+at	at	ii
+swimming	swimming	nn1_vvg
+(	(	y
+How	how	rrq
+To	to	to
+Improve	improve	vv0
+at	at	ii
+.	.	y
+...	...	...
+Series	series	nn
+)	)	y
+.	.	y
+Jim	jim	np1
+Drewett	drewett	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3570-0		mcmc
+.	.	y
+<p>	<p>	y
+How	how	rrq
+to	to	to
+improve	improve	vvi
+at	at	ii
+tennis	tennis	nn1
+(	(	y
+How	how	rrq
+To	to	to
+Improve	improve	vv0
+at	at	ii
+.	.	y
+...	...	...
+Series	series	nn
+)	)	y
+.	.	y
+Jim	jim	np1
+Drewett	drewett	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3571-7		mcmc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+978-1-55455-080-7		mcmc
+.	.	y
+<p>	<p>	y
+Image	image	nn1
+:	:	y
+Deal	deal	vv0_nn1
+with	with	iw
+it	it	pph1
+from	from	ii
+the	the	at
+inside	inside	jj21_rl21
+out	out	jj22_rl22
+(	(	y
+Deal	deal	vv0_nn1
+With	with	iw
+it	it	pph1
+Series	series	nn
+)	)	y
+.	.	y
+Kat	kat	vv0_np1@
+Mototsune		np1_nn1@
+.	.	y
+Ill	ill	z'
+.	.	y
+Ben	ben	np1
+Shannon	shannon	np1
+.	.	y
+James	james	np1
+Lorimer.	lorimer	np1
+978-1-55028-994-7		mcmc
+.	.	y
+<p>	<p>	y
+Inside	inside	ii_jj@
+hockey	hockey	nn1
+:	:	y
+The	the	at
+legends	legend	nn2
+,	,	y
+facts	fact	nn2
+,	,	y
+and	and	cc
+feats	feat	nn2
+that	that	cst
+made	make	vvd
+the	the	at
+game	game	nn1
+.	.	y
+Keltie	keltie	np1@
+Thomas	thomas	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+John	john	np1
+Kicksee		np1_nn1
+.	.	y
+Maple	maple	nn1
+Tree	tree	nn1
+Press	press	nn1
+.	.	y
+978-1-897349-28-1		mcmc
+.	.	y
+<p>	<p>	y
+Inuit	inuit	nn1_jj
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Erinn	erinn	vv0_np1@
+Banting	banting	np1_vvg
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-325-8		mcmc
+.	.	y
+<p>	<p>	y
+Iroquois	iroquois	np1@_nn1
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Michelle	michelle	np1
+Lomberg	lomberg	np1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-343-2		mcmc
+.	.	y
+<p>	<p>	y
+Is	be	vbz
+it	it	pph1
+big	big	jj
+or	or	cc
+small	small	jj
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3316-4		mcmc
+.	.	y
+<p>	<p>	y
+Is	be	vbz
+it	it	pph1
+the	the	at
+same	same	da
+or	or	cc
+different	different	jj
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3317-1		mcmc
+.	.	y
+<p>	<p>	y
+Joining	join	vvg
+materials	material	nn2
+(	(	y
+Working	work	vvg
+with	with	iw
+Materials	material	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Chris	chris	np1
+Oxlade	oxlade	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3639-4		mcmc
+.	.	y
+<p>	<p>	y
+Leonardo	leonardo	np1
+'s	's	ge
+palette	palette	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-1-4178-0890-8		mcmc
+.	.	y
+<p>	<p>	y
+Little	little	jj
+lions	lion	nn2
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+breeds	breed	nn2
+.	.	y
+Jeff	jeff	np1
+Crosby	crosby	np1
+and	and	cc
+Shelley	shelley	np1
+Ann	ann	np1
+Jackson	jackson	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-815-6		mcmc
+.	.	y
+<p>	<p>	y
+Look	look	vv0
+here	here	rl
+!	!	y
+(	(	y
+Let	let	vm21
+'s	be	vm22
+Start	start	nn1
+!	!	y
+Science	science	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Sally	sally	np1
+Hewitt	hewitt	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4059-9		mcmc
+.	.	y
+<p>	<p>	y
+Looking	look	vvg
+at	at	ii
+wild	wild	jj
+cats	cat	nn2
+.	.	y
+(	(	y
+Kids	kid	nn2
+Can	can	vm
+Read	read	vv0_vvd
+Series	series	nn
+,	,	y
+Level	level	nn1_vv0@_jj
+1	1	mc1
+)	)	y
+.	.	y
+Deborah	deborah	np1
+Hodge	hodge	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nancy	nancy	np1
+Gray	gray	np1
+Ogle	ogle	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-284-1		mcmc
+.	.	y
+<p>	<p>	y
+Looking	look	vvg
+closely	closely	rr
+across	across	ii
+the	the	at
+desert	desert	nn1
+.	.	y
+Frank	frank	np1_jj
+Serafini	serafini	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-211-7		mcmc
+.	.	y
+<p>	<p>	y
+Looking	look	vvg
+closely	closely	rr
+inside	inside	ii
+the	the	at
+garden	garden	nn1
+.	.	y
+Frank	frank	np1_jj
+Serafini	serafini	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-210-0		mcmc
+.	.	y
+<p>	<p>	y
+Marco	marco	nn1_np1@
+Polo	polo	nn1
+'s	's	ge
+silk	silk	nn1
+purse	purse	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3710-0		mcmc
+.	.	y
+<p>	<p>	y
+Mars	mars	np1
+:	:	y
+Distant	distant	jj
+red	red	jj_nn1
+planet	planet	nn1
+(	(	y
+Exploring	explore	vvg
+Our	our	appge
+Solar	solar	jj_nn1
+System	system	nn1
+Series	series	nn
+)	)	y
+.	.	y
+David	david	np1
+Jefferis	jefferis	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3732-2		mcmc
+.	.	y
+<p>	<p>	y
+Martin	martin	np1
+Luther	luther	np1
+King	king	np1
+,	,	y
+Jr	jr	nna
+'s	's	ge
+microphone	microphone	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3711-7		mcmc
+.	.	y
+<p>	<p>	y
+Metis	metis	fw
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+.	.	y
+Jennifer	jennifer	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+And	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Christine	christine	np1
+Webster	webster	np1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-341-8		mcmc
+.	.	y
+<p>	<p>	y
+Mixing	mixing	nn1_vvg
+and	and	cc
+Separating	separating	jj
+(	(	y
+Working	work	vvg
+with	with	iw
+Materials	material	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Chris	chris	np1
+Oxlade	oxlade	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3640-0		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+moon	moon	nn1
+:	:	y
+Earth	earth	nn1
+'s	's	ge
+neighbor	neighbor	nn1
+(	(	y
+Exploring	explore	vvg
+Our	our	appge
+Solar	solar	jj_nn1
+System	system	nn1
+Series	series	nn
+)	)	y
+.	.	y
+David	david	np1
+Jefferis	jefferis	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3731-5		mcmc
+.	.	y
+<p>	<p>	y
+Mother	mother	nnb
+Teresa	teresa	np1
+'s	's	ge
+alms	alms	nn2
+bowl	bowl	nn1_vv0@
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Anita	anita	np1
+Ganeri	ganeri	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3690-5		mcmc
+.	.	y
+<p>	<p>	y
+Naturally	naturally	rr
+wild	wild	jj
+musicians	musician	nn2
+:	:	y
+The	the	at
+wondrous	wondrous	jj
+world	world	nn1
+of	of	io
+animal	animal	nn1
+song	song	nn1
+.	.	y
+Peter	peter	np1
+Christie	christie	np1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-097-9		mcmc
+.	.	y
+<p>	<p>	y
+Ojibwa	ojibwa	np1@_nn1
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Michelle	michelle	np1
+Lomberg	lomberg	np1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-327-2		mcmc
+.	.	y
+<p>	<p>	y
+Pier	pier	nn1
+21	21	mc
+:	:	y
+Stories	story	nn2
+from	from	ii
+near	near	rl
+and	and	cc
+far	far	jj_rr
+(	(	y
+Canadian	canadian	jj_nn1
+Immigration	immigration	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Anne	anne	np1
+Renard	renard	np1
+.	.	y
+Lobster	lobster	nn1
+Press	press	nn1
+.	.	y
+978-1-897073-70-4		mcmc
+.	.	y
+<p>	<p>	y
+Pigs	pig	nn2
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Hannah	hannah	np1
+Ray	ray	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4055-1		mcmc
+.	.	y
+<p>	<p>	y
+Polar	polar	jj
+Worlds	world	nn2
+:	:	y
+Life	life	nn1
+at	at	ii
+the	the	at
+ends	end	nn2
+of	of	io
+the	the	at
+earth	earth	nn1
+.	.	y
+Robert	robert	np1
+Bateman	bateman	np1
+.	.	y
+Scholastic/Madison		fu
+Press	press	nn1
+.	.	y
+978-0-545-99725-6		mcmc
+.	.	y
+<p>	<p>	y
+Rabbits	rabbit	nn2
+(	(	y
+Backyard	backyard	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+:	:	y
+From	from	ii
+everyday	everyday	jj
+to	to	ii
+out	out	ii21
+of	of	ii22
+this	this	dd1
+world	world	nn1
+.	.	y
+Editors	editor	nn2
+of	of	io
+Yes	yes	uh
+Magazine	magazine	nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-203-2		mcmc
+.	.	y
+<p>	<p>	y
+Salish	salish	np1@_vv0_jj
+(	(	y
+Canadian	canadian	jj_nn1
+Aboriginal	aboriginal	jj
+Art	art	nn1
+and	and	cc
+Culture	culture	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Christine	christine	np1
+Webster	webster	np1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-55388-333-3		mcmc
+.	.	y
+<p>	<p>	y
+Samuel	samuel	np1
+De	de	np1
+Champlain	champlain	nn1_jj
+(	(	y
+Kids	kid	nn2
+Can	can	vm
+Read	read	vv0_vvd
+Level	level	nn1_jj
+3	3	mc
+)	)	y
+.	.	y
+Elizabeth	elizabeth	np1
+Macleod	macleod	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+John	john	np1
+Mantha	mantha	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-049-6		mcmc
+.	.	y
+<p>	<p>	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+book	book	nn1
+of	of	io
+hockey	hockey	nn1
+lists	list	nn2_vvz
+.	.	y
+Paul	paul	np1
+Romanuk	romanuk	np1_nn1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-439-93562-3		mcmc
+.	.	y
+<p>	<p>	y
+Shakespeare	shakespeare	np1
+'s	's	ge
+Quill	quill	np1_nn1@
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3713-1		mcmc
+.	.	y
+<p>	<p>	y
+Shaping	shaping	jj_vvg_nn1
+materials	material	nn2
+(	(	y
+Working	work	vvg
+with	with	iw
+Materials	material	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Chris	chris	np1
+Oxlade	oxlade	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3641-7		mcmc
+.	.	y
+<p>	<p>	y
+Sheep	sheep	nn
+(	(	y
+Down	down	np1@_rp
+on	on	ii
+the	the	at
+Farm	farm	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Hannah	hannah	np1
+Ray	ray	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4056-8		mcmc
+.	.	y
+<p>	<p>	y
+Sitting	sit	vvg
+Bull	bull	np1
+'s	's	ge
+tomahawk	tomahawk	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3714-8		mcmc
+.	.	y
+<p>	<p>	y
+Skunks	skunk	nn2
+(	(	y
+Backyard	backyard	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Annalise	annalise	vv0_np1@
+Bekkering	bekkering	np1_vvg
+.	.	y
+Weigl	weigl	vv0_nn1
+Publishers	publisher	nn2
+.	.	y
+978-1-59036-685-1		mcmc
+.	.	y
+<p>	<p>	y
+Smell	smell	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+Sally	sally	np1
+Hewitt	hewitt	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4060-5		mcmc
+.	.	y
+<p>	<p>	y
+Sparrows	sparrow	np2
+(	(	y
+Backyard	backyard	nn1
+Animals	animal	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Christine	christine	np1
+Webster	webster	np1
+.	.	y
+Weigl	weigl	vv0
+Educational	educational	jj
+Publishers	publisher	nn2
+.	.	y
+978-1-59036-681-3		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+Australia	australia	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3453-6		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+Canada	canada	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3450-5		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+China	china	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3454-3		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+India	india	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3455-0		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+Mexico	mexico	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+and	and	cc
+Niki	niki	np1_jj
+Walker	walker	np1_nn1@
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3451-2		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+Peru	peru	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3456-7		mcmc
+.	.	y
+<p>	<p>	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+the	the	at
+United	united	np1
+States	state	np1
+of	of	io
+America	america	np1
+(	(	y
+Spotlight	spotlight	nn1_vv0@
+on	on	ii
+my	my	appge
+Country	country	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+and	and	cc
+Niki	niki	np1_jj
+Walker	walker	np1_nn1@
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3452-9		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+sun	sun	nn1
+:	:	y
+Our	our	appge
+local	local	jj
+star	star	nn1
+(	(	y
+Exploring	explore	vvg
+Our	our	appge
+Solar	solar	jj_nn1
+System	system	nn1
+Series	series	nn
+)	)	y
+.	.	y
+David	david	np1
+Jefferis	jefferis	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3733-9		mcmc
+.	.	y
+<p>	<p>	y
+Tastes	taste	nn2_vvz@
+good	good	jj
+!	!	y
+(	(	y
+Let	let	vm21
+'s	be	vm22
+Start	start	nn1
+!	!	y
+Science	science	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Thomas	thomas	np1
+Edison	edison	np1
+(	(	y
+Kids	kid	nn2
+Can	can	vm
+Read	read	vv0_vvd
+Level	level	nn1_jj
+3	3	mc
+)	)	y
+.	.	y
+Elizabeth	elizabeth	np1
+Macleod	macleod	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Andrej	andrej	np1_jj_vv0
+Krystoforski		np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-057-1		mcmc
+.	.	y
+<p>	<p>	y
+Time	time	nnt1
+is	be	vbz
+when	when	rrq
+.	.	y
+Beth	beth	np1
+Gleick	gleick	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Marthe	marthe	vv0_np1@
+Jocelyn	jocelyn	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-870-5		mcmc
+.	.	y
+<p>	<p>	y
+Touch	touch	vv0
+that	that	dd1
+!	!	y
+(	(	y
+Let	let	vm21
+'s	be	vm22
+Start	start	nn1
+!	!	y
+Science	science	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Sally	sally	np1
+Hewitt	hewitt	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-4062-9		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+color	color	nn1
+is	be	vbz
+it	it	pph1
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3318-8		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+comes	come	vvz
+next	next	md
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3319-5		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+is	be	vbz
+a	a	at1
+carnivore	carnivore	nn1
+?	?	y
+(	(	y
+Big	big	jj
+Science	science	nn1
+Ideas	idea	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3274-7		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+is	be	vbz
+a	a	at1
+herbivore	herbivore	nn1
+?	?	y
+(	(	y
+Big	big	jj
+Science	science	nn1
+Ideas	idea	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3275-4		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+is	be	vbz
+a	a	at1
+vertebrate	vertebrate	jj_nn1@
+?	?	y
+(	(	y
+Big	big	jj
+Science	science	nn1
+Ideas	idea	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3277-8		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+is	be	vbz
+an	a	at1
+omnivore	omnivore	nn1
+?	?	y
+(	(	y
+Big	big	jj
+Science	science	nn1
+Ideas	idea	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Bobbie	bobbie	np1
+Kalman	kalman	np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3276-1		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+shape	shape	nn1
+is	be	vbz
+it	it	pph1
+?	?	y
+(	(	y
+Looking	look	vvg
+at	at	ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Nature	nature	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Bobble	bobble	vv0_np1@_nn1
+Kalman	kalman	nn1_np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3321-8		mcmc
+.	.	y
+<p>	<p>	y
+Who	who	pnqs
+discovered	discover	vvd
+America	america	np1
+?	?	y
+Valerie	valerie	np1
+Wyatt	wyatt	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-128-8		mcmc
+.	.	y
+<p>	<p>	y
+Who	who	pnqs
+lives	live	vvz
+here	here	rl
+?	?	y
+Desert	desert	vv0_nn1
+animals	animal	nn2
+(	(	y
+Who	who	pnqs
+Lives	live	vvz
+Here	here	rl
+?	?	y
+Series	series	nn
+)	)	y
+.	.	y
+Deborah	deborah	np1
+Hodge	hodge	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Pat	pat	np1
+Stephens	stephens	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-048-9		mcmc
+.	.	y
+<p>	<p>	y
+Who	who	pnqs
+lives	live	vvz
+here	here	rl
+?	?	y
+Wetland	wetland	nn1_np1@
+animals	animal	nn2
+(	(	y
+Who	who	pnqs
+Lives	live	vvz
+Here	here	rl
+?	?	y
+Series	series	nn
+)	)	y
+.	.	y
+Deborah	deborah	np1
+Hodge	hodge	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Pat	pat	np1
+Stephens	stephens	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-045-8		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+Wright	wright	np1
+Brothers	brother	nn2
+glider	glider	nn1
+(	(	y
+Stories	story	nn2
+of	of	io
+Great	great	jj
+People	people	nn
+Series	series	nn
+)	)	y
+.	.	y
+Gerry	gerry	np1
+Bailey	bailey	np1
+and	and	cc
+Karen	karen	np1
+Foster	foster	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Leighton	leighton	np1
+Noyles		np2
+and	and	cc
+Karen	karen	np1
+Radford	radford	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3714-8		mcmc
+.	.	y
+<p>	<p>	y
+Yum	yum	uh
+:	:	y
+Your	your	appge
+ultimate	ultimate	jj
+manual	manual	nn1_jj
+for	for	if
+good	good	jj
+nutrition	nutrition	nn1
+.	.	y
+Daina	daina	np1@_nn1
+Kalnins	kalnins	np1_nn2
+.	.	y
+Ill	ill	z'
+.	.	y
+Paula	paula	np1
+Becker	becker	np1
+.	.	y
+Lobster	lobster	nn1
+Press	press	nn1
+.	.	y
+978-1-897073-72-8		mcmc
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+FICTION	fiction	nn1
+GRADES	grade	nn2
+7-12	7-12	mcmc
+A	a	at1
+thousand	thousand	m
+Shades	shade	nn2
+of	of	io
+blue	blue	jj_nn1@
+.	.	y
+Robin	robin	np1
+Stevenson	stevenson	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-921-1		mcmc
+.	.	y
+<p>	<p>	y
+Afrika	afrika	nn1_np1@
+.	.	y
+Colleen	colleen	np1
+Craig	craig	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-807-1		mcmc
+.	.	y
+<p>	<p>	y
+Alexandria	alexandria	np1
+of	of	io
+Africa	africa	np1
+.	.	y
+Eric	eric	np1
+Walters	walters	np
+.	.	y
+Doubleday	doubleday	np1
+Canada	canada	np1
+.	.	y
+978-0-385-66639-8		mcmc
+.	.	y
+<p>	<p>	y
+Apart	apart	rl
+.	.	y
+R.	xx_r	np1
+P.	xx_p	np1
+MacIntyre	macintyre	np1
+and	and	cc
+Wendy	wendy	np1
+MacIntyre	macintyre	np1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/House		fu
+of	of	io
+Anansi	anansi	jj_np1_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+A	a	at1@_zz1
+story	story	nn1
+of	of	io
+medieval	medieval	jj
+Spain	spain	np1
+.	.	y
+Melanie	melanie	np1
+Little	little	np1@_rr_jj
+.	.	y
+Annick.	annick	np1
+978-1-55451-117-4		mcmc
+.	.	y
+<p>	<p>	y
+Before	before	cs_ii
+green	green	jj
+gables	gable	nn2
+.	.	y
+Budge	budge	vv0
+Wilson	wilson	np1
+.	.	y
+Penguin	penguin	np1
+Canada	canada	np1
+.	.	y
+978-0-670-06721-3		mcmc
+.	.	y
+<p>	<p>	y
+Belinda	belinda	np1
+'s	's	ge
+obsession	obsession	nn1
+(	(	y
+Not	not	xx
+Just	just	rr_jj@
+Proms	prom	nn2
+and	and	cc
+Parties	party	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Patricia	patricia	np1
+Penny	penny	np1
+.	.	y
+Lobster	lobster	nn1
+Press	press	nn1
+.	.	y
+978-1-897073-62-9		mcmc
+.	.	y
+<p>	<p>	y
+Big	big	jj
+big	big	jj
+sky	sky	nn1
+.	.	y
+Kristyn	kristyn	np1
+Dunnion		np1_nn1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-0-88995-404-5		mcmc
+.	.	y
+<p>	<p>	y
+Bonechiller	bonechiller	nn1_np1@
+.	.	y
+Graham	graham	np1
+McNamee	mcnamee	np1
+.	.	y
+Wendy	wendy	np1
+Lamb	lamb	np1
+Books/Random	books/random	fu
+House	house	nn1
+.	.	y
+978-0-385-74658-8		mcmc
+.	.	y
+<p>	<p>	y
+Cleavage	cleavage	nn1
+:	:	y
+Breakaway	breakaway	jj
+fiction	fiction	nn1
+for	for	if
+real	real	jj
+gifts	gift	nn2
+.	.	y
+Deb	deb	np1@_nn1
+Loughead	loughead	np1
+and	and	cc
+Jocelyn	jocelyn	np1
+Shipley	shipley	np1
+(	(	y
+Eds	ed	nn2
+.	.	y
+)	)	y
+.	.	y
+Sumach	sumach	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-894549-76-9		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+corps	corps	nn
+of	of	io
+the	the	at
+bare-boned	bare-boned	jj
+plane	plane	nn1
+.	.	y
+Polly	polly	np1
+Horvath	horvath	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-374-31553-5		mcmc
+.	.	y
+<p>	<p>	y
+Crossover	crossover	vv0_nn1
+(	(	y
+Orca	orca	np1
+Sports	sport	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Jeff	jeff	np1
+Rud	rud	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-981-5		mcmc
+.	.	y
+<p>	<p>	y
+Daughter	daughter	nn1
+of	of	io
+war	war	nn1
+.	.	y
+Marsha	marsha	np1@_nn1
+Forchuk		np1_nn1
+Skrypuch	skrypuch	np1_nn1
+.	.	y
+Fitzhenry	fitzhenry	np1
+&;		null
+Whiteside.	whiteside	np1
+978-1-55455-044-9		mcmc
+.	.	y
+<p>	<p>	y
+Death	death	nn1
+in	in	ii
+the	the	at
+air	air	nn1
+:	:	y
+The	the	at
+boy	boy	nn1
+Sherlock	sherlock	np1
+Holmes	holmes	np1
+,	,	y
+his	his	appge
+second	second	md
+case	case	nn1
+.	.	y
+Shane	shane	np1
+Peacock	peacock	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-851-4		mcmc
+.	.	y
+<p>	<p>	y
+Feral	feral	nn1_jj_np1@
+.	.	y
+Bev	bev	np1
+Cooke	cooke	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-747-7		mcmc
+.	.	y
+<p>	<p>	y
+Fouling	foul	vvg
+out	out	rp
+.	.	y
+Gregory	gregory	np1
+Waiters	waiter	nn2
+.	.	y
+Orca.	orca	np1
+978-1-55143-714-9		mcmc
+.	.	y
+<p>	<p>	y
+Germania	germania	np1
+.	.	y
+John	john	np1
+Wilson	wilson	np1
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Books	book	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+Trans	trans	np2
+.	.	y
+Shelley	shelley	np1
+Tanaka	tanaka	np1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/House		fu
+of	of	io
+Ananis	ananis	np1_nn1
+Press	press	nn1_vv0
+.	.	y
+978-0-88899-724		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+girl	girl	nn1
+in	in	ii
+the	the	at
+backseat	backseat	nn1
+.	.	y
+Norma	norma	np1@
+Charles	charles	np1
+.	.	y
+Ronsadale		np1
+Press	press	nn1_vv0
+.	.	y
+978-1-55380-056-9		mcmc
+.	.	y
+<p>	<p>	y
+Gotcha	gotcha	fu
+!	!	y
+Shelley	shelley	np1
+Hrdlitschka	hrdlitschka	np1
+.	.	y
+Orca	orca	nn1_np1@
+Book	book	nn1
+.	.	y
+978-1-55143-737-8		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+green	green	jj_nn1
+gables	gable	nn2
+collection-100th	collection-100th	md
+anniversary	anniversary	nn1
+edition	edition	nn1
+.	.	y
+Lucy	lucy	np1
+Maud	maud	np1
+Montgomery	montgomery	np1
+.	.	y
+Doubleday	doubleday	np1
+Canada	canada	np1
+.	.	y
+978-0-385-66599-5		mcmc
+.	.	y
+<p>	<p>	y
+Hitmen	hitmen	np1@_nn2
+triumph	triumph	nn1_vv0@
+(	(	y
+Orca	orca	np1
+Sports	sport	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Sigmund	sigmund	np1
+Brouwer	brouwer	np1_nn1
+.	.	y
+Orca.	orca	np1
+978-1-55143-873-3		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+juvie	juvie	nn1
+three	three	mc
+.	.	y
+Gordon	gordon	np1
+Korman	korman	np1_nn1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-545-99628-0		mcmc
+.	.	y
+<p>	<p>	y
+Kidnapped	kidnap	vvn_vvd
+.	.	y
+Robert	robert	np1
+Louis	louis	np1
+Stevenson	stevenson	np1
+.	.	y
+Retold	retell	vvd_vvn_jj@
+Alan	alan	np1
+Grant	grant	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Cam	cam	np1
+Kennedy	kennedy	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-486-41026-5		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+kingdom	kingdom	nn1
+of	of	io
+strange	strange	jj
+.	.	y
+Shula	shula	np1@_jj
+Klinger	klinger	np1_nn1@
+.	.	y
+Marshall	marshall	np1
+Cavendish	cavendish	np1
+.	.	y
+978-0-7614-5395-6		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+landing	landing	nn1
+.	.	y
+John	john	np1
+Ibbitson	ibbitson	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-234-6		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+law	law	nn1
+of	of	io
+three	three	mc
+:	:	y
+A	a	zz1
+Sarah	sarah	np1
+Martin	martin	np1
+mystery	mystery	nn1
+.	.	y
+Caroline	caroline	np1
+Rennie	rennie	np1
+Pattison	pattison	np1
+.	.	y
+Dundurn	dundurn	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55002-733-4		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+lit	lit	nn1
+report	report	nn1
+.	.	y
+Sarah	sarah	np1
+N.	xx_n	np1
+Harvey	harvey	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-905-1		mcmc
+.	.	y
+<p>	<p>	y
+Little	little	rr_jj_np1%
+(	(	y
+Grrl	grrl	np1
+)	)	y
+lost	lose	vvd_vvn
+.	.	y
+Charles	charles	np1
+De	de	np1
+Lint	lint	np1_nn1
+.	.	y
+Viking	viking	nn1
+.	.	y
+978-0-670-06144-0		mcmc
+.	.	y
+<p>	<p>	y
+Lunch	lunch	nn1
+with	with	iw
+Lenin	lenin	np1
+and	and	cc
+other	other	jj
+stories	story	nn2
+.	.	y
+Deborah	deborah	np1
+Ellis	ellis	np1
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Series	series	nn
+)	)	y
+.	.	y
+Norah	norah	np1
+McClintock	mcclintock	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-992-1		mcmc
+.	.	y
+<p>	<p>	y
+Middle	middle	jj_nn1
+row	row	nn1
+(	(	y
+Orca	orca	np1
+Soundings	sounding	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Sylvia	sylvia	np1@_nn1
+Olsen	olsen	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-901-3		mcmc
+.	.	y
+<p>	<p>	y
+Mountain	mountain	nn1
+girl	girl	nn1
+,	,	y
+river	river	nn1
+girl	girl	nn1
+.	.	y
+Ting-Xing	ting-xing	nn1_jj
+Ye	ye	ppy
+.	.	y
+Puffin	puffin	np1
+Canada	canada	np1
+.	.	y
+978-0-14-316812-6		mcmc
+.	.	y
+<p>	<p>	y
+My	my	appge
+mother	mother	nn1
+is	be	vbz
+a	a	at1
+french	french	jj
+fry	fry	nn
+and	and	cc
+further	far	jjr@_rrr
+proof	proof	nn1
+of	of	io
+my	my	appge
+fuzzed-up	fuzzed-up	jj
+life	life	nn1
+.	.	y
+Colleen	colleen	np1
+Sydor	sydor	np1_nn1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-183-7		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+pact	pact	nn1
+of	of	io
+the	the	at
+wolves	wolf	nn2
+.	.	y
+Nina	nina	np1
+Blazon	blazon	nn1_vv0
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-124-2		mcmc
+.	.	y
+<p>	<p>	y
+Possession	possession	nn1
+(	(	y
+Runestone		np1
+Saga	saga	nn1
+)	)	y
+.	.	y
+Chris	chris	np1
+Humphreys	humphreys	np1
+.	.	y
+Alfred	alfred	np1
+A.	a	zz
+Knopf.	knopf	np1
+978-0-375-83294-9		mcmc
+.	.	y
+<p>	<p>	y
+Red	red	jj_nn1
+rage	rage	nn1
+.	.	y
+Brigitte	brigitte	np1
+Blobel	blobel	np1
+.	.	y
+Trans	trans	np2
+.	.	y
+Rachel	rachel	np1
+Ward	ward	np1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-101-3		mcmc
+.	.	y
+<p>	<p>	y
+Res	res	jj
+Judicata	judicata	nn1@_np1
+.	.	y
+Vicki	vicki	np1
+Grant	grant	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-940-2		mcmc
+.	.	y
+<p>	<p>	y
+Responsible	responsible	jj
+(	(	y
+Orca	orca	np1
+Soundings	sounding	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Darlene	darlene	np1@
+Ryan	ryan	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-685-2		mcmc
+.	.	y
+<p>	<p>	y
+Robert	robert	np1
+Louis	louis	np1
+Stevenson	stevenson	np1
+'s	's	ge
+strange	strange	jj
+case	case	nn1
+of	of	io
+Dr.	dr	nnb
+Jekyll	jekyll	np1
+and	and	cc
+Mr.	mr	nnb
+Hyde	hyde	np1
+.	.	y
+Robert	robert	np1
+Louis	louis	np1
+Stevenson	stevenson	np1
+.	.	y
+Adapted	adapt	vvd_vvn_jj@
+Alan	alan	np1
+Grant	grant	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Cam	cam	np1
+Kennedy	kennedy	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-1-4342-0754-8		mcmc
+.	.	y
+<p>	<p>	y
+Run	run	vv0_vvn_nn1
+like	like	ii
+Jager	jager	np1_nn1
+.	.	y
+Karen	karen	np1
+Bass	bass	np1_nn1
+.	.	y
+Coteau	coteau	nn1_np1@
+Books	book	nn2
+.	.	y
+978-1-55050-377-7		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+saver	saver	nn1
+.	.	y
+Ravel	ravel	vv0_nn1_np1@
+,	,	y
+Edeet		np1_vv0_nn1
+.	.	y
+Groundwood	groundwood	np1@_nn1
+Books/House		fu
+of	of	io
+Anansi	anansi	jj_np1_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Robyn	robyn	np1
+Hunter	hunter	np1
+Mystery	mystery	nn1
+)	)	y
+.	.	y
+Norah	norah	np1
+McClintock	mcclintock	np1
+.	.	y
+Scholastic	scholastic	jj
+Canada	canada	np1
+.	.	y
+978-0-545-99729-4		mcmc
+.	.	y
+<p>	<p>	y
+Sister	sister	nn1
+wife	wife	nn1
+.	.	y
+Shelley	shelley	np1
+Hrdlitschka	hrdlitschka	np1
+.	.	y
+Orca	orca	nn1_np1@
+,	,	y
+978-1-55143-927-3		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+spell	spell	nn1
+book	book	nn1
+of	of	io
+Listen	listen	vv0
+Taylor	taylor	np1
+.	.	y
+Jaclyn	jaclyn	np1
+Moriarty	moriarty	np1_nn1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-330-44636-5		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+summoning	summoning	nn1%_vvg
+(	(	y
+Darkest	dark	jjt
+Powers	power	nn2_np1
+Series	series	nn
+#1		nnu
+)	)	y
+.	.	y
+Kelley	kelley	np1@
+Armstrong	armstrong	np1
+.	.	y
+Doubleday	doubleday	np1
+Canada	canada	np1
+.	.	y
+978-0-385-66534-6		mcmc
+.	.	y
+<p>	<p>	y
+Swahili	swahili	nn1_jj
+for	for	if
+beginners	beginner	nn2
+.	.	y
+Lisa	lisa	np1
+Joyal	joyal	np1
+.	.	y
+Sumach	sumach	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-894549-69-1		mcmc
+.	.	y
+<p>	<p>	y
+Taking	take	vvg
+the	the	at
+lead	lead	nn1
+(	(	y
+Bayview	bayview	vv0_np1
+High	high	jj
+Series	series	nn
+)	)	y
+.	.	y
+A.	a	zz
+D.	d	np1
+Fast	fast	rr_jj_nn1@
+.	.	y
+Tea	tea	nn1
+Leaf	leaf	nn1_vv0@
+Press/Scholastic.		fu
+978-0-7791-7535-2		mcmc
+.	.	y
+<p>	<p>	y
+They	they	pphs2
+called	call	vvd
+me	me	ppio1
+red	red	jj_nn1
+.	.	y
+Christina	christina	np1@_nn1
+Kilbourne	kilbourne	np1
+.	.	y
+Lobster	lobster	nn1
+Press	press	nn1
+.	.	y
+978-1-897073-88-9		mcmc
+.	.	y
+<p>	<p>	y
+To	to	to
+be	be	vbi
+my	my	appge
+father	father	nn1
+'s	's	ge
+daughter	daughter	nn1
+.	.	y
+Carmelita	carmelita	np1@
+McGrath	mcgrath	np1
+,	,	y
+Sharon	sharon	np1
+Halfyard		np1
+,	,	y
+Marion	marion	np1
+Cheeks	cheek	nn2
+.	.	y
+Educational	educational	jj
+Resource	resource	nn1
+Development	development	nn1
+Co-Operative	cooperative	nn1@_jj
+(	(	y
+ERDC		np1
+)	)	y
+.	.	y
+978-0-9688806-2-3		mcmc
+.	.	y
+<p>	<p>	y
+Treason	treason	nn1
+in	in	ii
+Eswy		np1
+(	(	y
+The	the	at
+Warlocks	warlocks	np2_nn2@
+of	of	io
+Talverdin		np1_nn1
+Trilogy	trilogy	np1_nn1
+,	,	y
+Book	book	nn1
+II	ii	mc
+)	)	y
+.	.	y
+K.	k	np1
+V.	xx_v	ii
+Johansen	johansen	np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-888-7		mcmc
+.	.	y
+<p>	<p>	y
+Tweaked	tweak	vvn_vvd
+.	.	y
+Katherine	katherine	np1
+Holubitsky		np1
+.	.	y
+Orca.	orca	np1
+978-1-55143-851-1		mcmc
+.	.	y
+<p>	<p>	y
+What	what	ddq
+world	world	nn1
+is	be	vbz
+left	leave	vvn_jj
+.	.	y
+Monique	monique	np1@_jj
+Polak	polak	np1_nn1@
+.	.	y
+Orca.	orca	np1
+978-1-55143-847-4		mcmc
+.	.	y
+<p>	<p>	y
+Wings	wing	nn2
+of	of	io
+a	a	at1
+bee	bee	nn1
+:	:	y
+A	a	zz1_at1@
+young	young	jj
+adult	adult	nn1_jj@
+novel	novel	nn1
+.	.	y
+Julie	julie	np1
+Roorda	roorda	np1
+.	.	y
+Sumach	sumach	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Canada	canada	np1
+.	.	y
+978-0-439-93646-0		mcmc
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+NON-FICTION	nonfiction	nn1
+GRADES	grade	nn2
+7-12	7-12	mcmc
+American	american	nn1@_jj
+.	.	y
+MX	mx	mc
+(	(	y
+MXplosion	mxplosion	nn1_np1@
+Series	series	nn
+)	)	y
+.	.	y
+J.	xx_j	np1
+Perritano		np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3986-9		mcmc
+.	.	y
+<p>	<p>	y
+Atlantic	atlantic	np1
+Canada	canada	np1
+quiz	quiz	nn1
+:	:	y
+How	how	rgq@
+much	much	da1
+do	do	vd0
+you	you	ppy
+know	know	vvi
+about	about	ii
+Atlantic	atlantic	np1
+Canada	canada	np1
+?	?	y
+Calvin	calvin	nn1_np1@
+Coish	coish	nn1
+.	.	y
+Nimbus	nimbus	np1_nn1
+Publishing	publishing	nn1
+.	.	y
+978-1-55109-647-6		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+beginner	beginner	nn1
+'s	's	ge
+guide	guide	nn1
+to	to	ii
+Canadian	canadian	jj_nn1
+honours	honor	nn2
+.	.	y
+Christopher	christopher	np1
+McCreery	mccreery	np1
+.	.	y
+Dundurn	dundurn	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55002-748-8		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+bite	bite	nn1
+of	of	io
+the	the	at
+mango	mango	nn1
+.	.	y
+Mariatu		np1@
+Kamara	kamara	np1
+with	with	iw
+Susan	susan	np1
+Mcclelland	mcclelland	np1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-159-4		mcmc
+.	.	y
+<p>	<p>	y
+Bone	bone	nn1
+detectives	detective	nn2
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+J.	xx_j	np1
+Townsend	townsend	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3806-0		mcmc
+.	.	y
+<p>	<p>	y
+Choice	choice	nn1
+of	of	io
+colours	color	nn2
+:	:	y
+How	how	rgq@_rrq
+African	african	jj
+American	american	jj
+quarterbacks	quarterback	nn2
+became	become	vvd
+Canadian	canadian	jj
+stars	star	nn2
+.	.	y
+John	john	np1
+Danakas		np2
+.	.	y
+James	james	np1
+Lorimer.	lorimer	np1
+978-1-55028-991-6		mcmc
+.	.	y
+<p>	<p>	y
+Crime	crime	nn1
+lab	lab	nn1
+technician	technician	nn1
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+J.	xx_j	np1
+Townsend	townsend	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3807-7		mcmc
+.	.	y
+<p>	<p>	y
+Cross-Canada	cross-canada	np1
+crosswords	crossword	nn2
+4:50	4:50	mc
+new	new	jj
+themed	themed	jj@
+puzzles	puzzle	nn2
+.	.	y
+Gwen	gwen	np1
+Sjogren	sjogren	np1_nn1
+.	.	y
+Harbour	harbour	nn1_vv0@
+Publishing	publishing	nn1
+.	.	y
+978-1-55017-429-8		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+day	day	nnt1
+of	of	io
+the	the	at
+flying	flying	jj_nn1
+fox	fox	nn1
+:	:	y
+The	the	at
+true	true	jj
+story	story	nn1
+of	of	io
+World	world	nn1
+War	war	nn1
+II	ii	mc
+pilot	pilot	nn1_vv0@
+Charley	charley	np1
+Fox	fox	np1
+.	.	y
+Steve	steve	np1
+Pitt	pitt	np1
+.	.	y
+Dundurn	dundurn	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55002-808-9		mcmc
+.	.	y
+<p>	<p>	y
+Double	double	rr@_nn1
+take	take	vv0
+:	:	y
+Karen	karen	np1
+Brain	brain	nn1
+'s	's	ge
+Olympic	olympic	jj
+journey	journey	nn1
+.	.	y
+Nikki	nikki	np1
+Tate	tate	np1
+.	.	y
+Sono	sono	fw
+Nis	nis	np1
+Press	press	nn1_vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+)	)	y
+.	.	y
+Bryan	bryan	np1
+Pezzi	pezzi	np1_nn1
+.	.	y
+Weigl	weigl	vv0_nn1
+Publishers	publisher	nn2
+.	.	y
+978-1-59036-719-3		mcmc
+.	.	y
+<p>	<p>	y
+Exceptional	exceptional	jj
+women	woman	nn2
+environmentalists	environmentalist	nn2
+(	(	y
+The	the	at
+Women	woman	nn2
+'s	's	ge
+Hall	hall	nn1
+of	of	io
+Fame	fame	nn1
+Series	series	nn
+)	)	y
+.	.	y
+Francis	francis	np1
+Rooney	rooney	np1
+.	.	y
+Second	second	md
+Story	story	nn1
+Press	press	nn1
+.	.	y
+978-1-4352-5604-0		mcmc
+.	.	y
+<p>	<p>	y
+Figure	figure	nn1_vv0@
+skating	skate	vvg_nn1@
+today	today	rt
+:	:	y
+The	the	at
+next	next	md
+wave	wave	nn1
+of	of	io
+stars	star	nn2
+.	.	y
+Steve	steve	np1
+Milton	milton	np1
+.	.	y
+Photographs	photograph	nn2_vvz@
+Grard	grard	np1
+Chtaigneau		np1_nn1
+.	.	y
+Firefly	firefly	nn1
+Books	book	nn2
+.	.	y
+978-1-55407-335-1		mcmc
+.	.	y
+<p>	<p>	y
+Firefly	firefly	nn1
+'s	's	ge
+world	world	nn1
+of	of	io
+facts	fact	nn2
+.	.	y
+Russell	russell	np1
+Ash	ash	np1
+.	.	y
+Firefly	firefly	nn1
+Books	book	nn2
+.	.	y
+978-1-55407-313-9		mcmc
+.	.	y
+<p>	<p>	y
+Forensic	forensic	jj
+evidence	evidence	nn1
+:	:	y
+Hairs	hair	nn2
+and	and	cc
+fibers	fiber	nn2
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+D.	d	np1
+Stiller	stiller	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3808-4		mcmc
+.	.	y
+<p>	<p>	y
+Forensic	forensic	jj
+evidence	evidence	nn1
+:	:	y
+Print	print	nn1_vv0@
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+J.	xx_j	np1
+Townsend	townsend	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3811-4		mcmc
+.	.	y
+<p>	<p>	y
+Forever	forever	rt
+champions	champion	nn2
+:	:	y
+The	the	at
+enduring	enduring	jj
+legacy	legacy	nn1
+of	of	io
+the	the	at
+record-setting	record-setting	jj_nn1
+Edmonton	edmonton	np1
+grads	grad	nn2
+(	(	y
+Recordbooks		np1
+Series	series	nn
+)	)	y
+.	.	y
+Richard	richard	np1
+Brignall		np1
+.	.	y
+James	james	np1
+Lorimer.	lorimer	np1
+978-1-55028-976-3		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+good	good	jj
+food	food	nn1
+book	book	nn1
+for	for	if
+families	family	nn2
+.	.	y
+Brenda	brenda	np1
+Bradshaw	bradshaw	np1
+and	and	cc
+Cheryl	cheryl	np1
+Mutch	mutch	np1_nn1
+.	.	y
+Random	random	jj
+House	house	nn1
+Canada	canada	np1
+.	.	y
+978-0-307-35670-3		mcmc
+.	.	y
+<p>	<p>	y
+Great	great	jj
+Wall	wall	nn1
+of	of	io
+China	china	np1
+.	.	y
+(	(	y
+Structural	structural	jj
+Wonders	wonder	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Christine	christine	np1
+Webster	webster	np1
+.	.	y
+Weigl	weigl	vv0_nn1
+Publishers	publisher	nn2
+.	.	y
+978-1-59036-791-9		mcmc
+.	.	y
+<p>	<p>	y
+Kickstart	kickstart	vv0_nn1
+:	:	y
+How	how	rgq@_rrq
+successful	successful	jj
+Canadians	canadian	nn2
+got	get	vvn_vvd
+started	start	vvn
+.	.	y
+Alex	alex	np1
+Herman	herman	np1
+,	,	y
+Paul	paul	np1
+Matthews	matthews	np1
+,	,	y
+and	and	cc
+Andrew	andrew	np1
+Feindel		np1
+.	.	y
+Dundurn	dundurn	vv0_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+F.	f	np1
+Ridley	ridley	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3809-1		mcmc
+.	.	y
+<p>	<p>	y
+Love	love	vv0
+every	every	at1
+leaf	leaf	nn1
+:	:	y
+The	the	at
+life	life	nn1
+of	of	io
+landscape	landscape	nn1
+architect	architect	nn1
+Cornelia	cornelia	np1
+Hahn	hahn	np1
+Oberlander	oberlander	np1_nn1
+.	.	y
+Kathy	kathy	np1
+Stinson	stinson	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-804-0		mcmc
+.	.	y
+<p>	<p>	y
+Monster	monster	nn1_jj@
+crocs	croc	nn2
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+T.	t	np1
+Jackson	jackson	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3763-6		mcmc
+.	.	y
+<p>	<p>	y
+Motocross	motocross	np1@_vv0_nn1
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+B.	b	np1
+Johnson	johnson	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3786-5		mcmc
+.	.	y
+<p>	<p>	y
+Motocross	motocross	vv0_nn1
+history	history	nn1
+(	(	y
+MXplosion	mxplosion	nn1_np1@
+Series	series	nn
+)	)	y
+.	.	y
+B.	b	np1
+Woods	woods	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3987-6		mcmc
+.	.	y
+<p>	<p>	y
+MX	mx	mc
+Bikes	bike	nn2
+(	(	y
+MXplosion	mxplosion	nn1_np1@
+Series	series	nn
+)	)	y
+.	.	y
+J.	xx_j	np1
+Perritano		np1_nn1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3988-3		mcmc
+.	.	y
+<p>	<p>	y
+MX	mx	mc
+Champions	champion	nn2
+(	(	y
+MXplosion	mxplosion	nn1_np1@
+Series	series	nn
+)	)	y
+.	.	y
+S.	s	np1
+Timblin	timblin	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3989-0		mcmc
+.	.	y
+<p>	<p>	y
+My	my	appge
+name	name	nn1
+is	be	vbz
+number	number	nn1_jjr%
+4	4	mc
+:	:	y
+A	a	zz1_at1@
+true	true	jj
+story	story	nn1
+from	from	ii
+the	the	at
+Cultural	cultural	jj
+Revolution	revolution	nn1
+.	.	y
+Ting-Xing	ting-xing	nn1_jj
+Ye	ye	ppy
+.	.	y
+Random	random	jj
+House	house	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+978-0-312-37987-2		mcmc
+.	.	y
+<p>	<p>	y
+Nascar	nascar	nn1_np1@
+blast	blast	nn1
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+D.	d	np1
+Clayton	clayton	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3810-7		mcmc
+.	.	y
+<p>	<p>	y
+No	no	xx
+girls	girl	nn2
+allowed	allow	vvd_vvn
+:	:	y
+Tales	tale	nn2
+of	of	io
+daring	daring	jj_vvg
+women	woman	nn2
+dressed	dress	vvn
+as	as	csa_ii@
+men	man	nn2
+for	for	if
+love	love	nn1
+,	,	y
+freedom	freedom	nn1
+and	and	cc
+adventure	adventure	nn1
+.	.	y
+Susan	susan	np1
+Hughes	hughes	np1
+.	.	y
+Ill	ill	z'
+.	.	y
+Willow	willow	nn1
+Dawson	dawson	np1
+.	.	y
+Kids	kid	nn2
+Can	can	vm
+Press	press	nn1_vv0
+.	.	y
+978-1-55453-177-6		mcmc
+.	.	y
+<p>	<p>	y
+Passchendacle		np1@_nn1
+:	:	y
+Canada	canada	np1
+'s	's	ge
+triumph	triumph	nn1
+and	and	cc
+tragedy	tragedy	nn1
+on	on	ii
+the	the	at
+fields	field	nn2
+of	of	io
+Flanders	flanders	np1
+:	:	y
+An	a	at1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+<p>	<p>	y
+Passion	passion	nn1
+for	for	if
+fashion	fashion	nn1
+:	:	y
+Careers	career	nn2
+in	in	ii
+style	style	nn1
+.	.	y
+Jeanne	jeanne	np1
+Beker	beker	np1_nn1
+.	.	y
+Ill	ill	z'
+.	.	y
+Nathalie	nathalie	np1@
+Dion	dion	np1
+.	.	y
+Tundra	tundra	nn1
+Books	book	nn2
+.	.	y
+978-0-88776-800		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+Powerhouse	powerhouse	nn1
+MX	mx	mc
+nations	nation	nn2
+:	:	y
+USA	usa	np1
+,	,	y
+Belgium	belgium	np1
+,	,	y
+UK	uk	np1
+,	,	y
+Netherlands	netherlands	np1
+,	,	y
+France	france	np1
+,	,	y
+and	and	cc
+Germany	germany	np1
+.	.	y
+(	(	y
+MXplosion	mxplosion	nn1_np1@
+Series	series	nn
+)	)	y
+.	.	y
+B.	b	np1
+Stealey	stealey	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3990-6		mcmc
+.	.	y
+<p>	<p>	y
+Pyramids	pyramid	nn2
+of	of	io
+Giza	giza	np1
+(	(	y
+Structural	structural	jj
+Wonders	wonder	nn2
+Series	series	nn
+)	)	y
+.	.	y
+Sheelagh	sheelagh	vv0_np1@
+Matthews	matthews	np1
+.	.	y
+Weigl	weigl	vv0_nn1
+Publishers	publisher	nn2
+.	.	y
+978-1-59036-725-4		mcmc
+.	.	y
+<p>	<p>	y
+Royal	royal	jj
+murder	murder	nn1
+:	:	y
+The	the	at
+deadly	deadly	jj
+intrigue	intrigue	nn1
+of	of	io
+ten	ten	m
+sovereigns	sovereign	nn2
+.	.	y
+Elizabeth	elizabeth	np1
+Macleod	macleod	np1
+.	.	y
+Annick	annick	vv0_nn1
+Press	press	nn1_vv0
+.	.	y
+978-1-55451-127-3		mcmc
+.	.	y
+<p>	<p>	y
+Shark	shark	nn1
+attack	attack	nn1
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+T.	t	np1
+Jackson	jackson	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3765-0		mcmc
+.	.	y
+<p>	<p>	y
+Slavery	slavery	nn1
+today	today	rt
+(	(	y
+A	a	zz1
+Groundwork	groundwork	nn1
+Guide	guide	nn1
+)	)	y
+.	.	y
+Kevin	kevin	np1
+Bales	bale	nn2
+and	and	cc
+Becky	becky	np1
+Cornell	cornell	np1
+.	.	y
+Groundwood	groundwood	nn1_np1@
+Books	book	nn2
+.	.	y
+978-0-88899-772-2		mcmc
+.	.	y
+<p>	<p>	y
+Supercross	supercross	vv0_nn1_np1@
+and	and	cc
+arena	arena	nn1
+cross	cross	nn1_vv0
+:	:	y
+Taking	take	vvg
+MX	mx	mc
+indoors	indoors	rl
+.	.	y
+(	(	y
+MXplosion	mxplosion	nn1_np1@
+Series	series	nn
+)	)	y
+.	.	y
+D.	d	np1
+Sechrist	sechrist	nn1_jj
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3991-3		mcmc
+.	.	y
+<p>	<p>	y
+The	the	at
+unknown	unknown	jj
+soldier	soldier	nn1
+.	.	y
+Linda	linda	np1
+Granfield	granfield	np1
+.	.	y
+North	north	nd1
+Winds	wind	vvz_nn2
+Press/Scholastic		fu
+Canada	canada	np1
+.	.	y
+978-0-439-93558-6		mcmc
+.	.	y
+<p>	<p>	y
+Vampire	vampire	nn1
+castle	castle	nn1
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+A.	a	zz
+Rooney	rooney	np1
+.	.	y
+Crabtree.	crabtree	np1
+978-0-7787-3766-7		mcmc
+.	.	y
+<p>	<p>	y
+Zombies	zombie	nn2_np1@
+on	on	ii
+the	the	at
+loose	loose	jj_nn1@
+(	(	y
+Crabtree	crabtree	np1_nn1
+Contact	contact	nn1_vv0
+Series	series	nn
+)	)	y
+.	.	y
+A.	a	zz
+Rooney	rooney	np1
+.	.	y
+Crabtree.	crabtree	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+beginning	begin	vvg_nn1
+writers	writer	nn2
+.	.	y
+Betty	betty	np1
+Schultze	schultze	np1_nn1
+.	.	y
+Pembroke	pembroke	np1
+Publishers	publisher	nn2
+.	.	y
+978-1-55138-221-0		mcmc
+.	.	y
+<p>	<p>	y
+Guided	guided	jj
+listening	listening	nn1_jj
+.	.	y
+Lisa	lisa	np1
+Donohue	donohue	np1
+.	.	y
+Pembroke	pembroke	np1
+Publishers	publisher	nn2
+.	.	y
+978-1-55138-219-7		mcmc
+.	.	y
+<p>	<p>	y
+Gymboree	gymboree	nn1_np1@
+play	play	nn1_vv0
+and	and	cc
+learn	learn	vv0
+:	:	y
+1001	1001	mc
+fun	fun	jj
+activities	activity	nn2
+for	for	if
+your	your	appge
+baby	baby	nn1
+and	and	cc
+child	child	nn1
+.	.	y
+Susan	susan	np1
+Elisabeth	elisabeth	np1
+Davis	davis	np1
+,	,	y
+et	et	ra21
+al	al	ra22
+.	.	y
+Key	key	jj_nn1_vv0@
+Porter	porter	nn1@_np1
+Books	book	nn2
+.	.	y
+978-1554700332		mcmc
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+AUDIO-VISUAL	audio-visual	jj
+RESOURCES	resource	nn2
+Becoming	become	vvg
+thirteen	thirteen	mc
+.	.	y
+A.	a	zz
+Clarke	clarke	np1
+,	,	y
+V.	xx_v	ii_nnu
+King	king	nn1_np1@
+,	,	y
+and	and	cc
+O.	o	np1
+Sondhi	sondhi	np1
+(	(	y
+Eds	ed	nn2
+.	.	y
+)	)	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y
+Burried		vvd_np1@_vvn@
+at	at	ii
+sea	sea	nn1
+.	.	y
+Allen	allen	np1
+Abel	abel	np1
+.	.	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y
+Senorita	senorita	np1@
+Sarita	sarita	np1
+:	:	y
+Groovy	groovy	jj
+Latin	latin	jj_nn1
+tunes	tune	nn2_vvz
+for	for	if
+children	child	nn2
+.	.	y
+Sarita	sarita	np1@_nn1
+Baker	baker	np1
+.	.	y
+Third	third	md
+Beach	beach	nn1
+Publishing	publishing	nn1
+.	.	y
+<p>	<p>	y
+Sexy	sexy	jj
+,	,	y
+Inc.	inc	jj
+:	:	y
+Our	our	appge
+children	child	nn2
+under	under	ii
+influence	influence	nn1
+.	.	y
+Sophie	sophie	np1
+Bissonnette	bissonnette	np1_nn1
+.	.	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y
+Sing	sing	vv0
+,	,	y
+sing	sing	vv0
+,	,	y
+sing	sing	vv0
+.	.	y
+Brian	brian	np1
+Morcombe		np1
+.	.	y
+Music	music	nn1
+with	with	iw
+Brian	brian	np1
+.	.	y
+<p>	<p>	y
+Talespinners	talespinners	np1@_nn2
+:	:	y
+Collection	collection	nn1
+2	2	mc
+.	.	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y
+The	the	at
+refugees	refugee	nn2
+of	of	io
+the	the	at
+blue	blue	jj
+planet	planet	nn1
+.	.	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y
+Waban-Aki	waban-aki	nn1_jj
+:	:	y
+People	people	nn
+from	from	ii
+where	where	rrq
+the	the	at
+sun	sun	nn1
+rises	rise	nn2_vvz
+.	.	y
+Alanis	alanis	np1@_nn1
+Obomsawin	obomsawin	np1
+.	.	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y
+Wapos		nn2_np1@
+Bay	bay	vv0@_nn1_jj@
+Series	series	nn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+National	national	jj
+Film	film	nn1
+Board	board	nn1
+of	of	io
+Canada	canada	np1
+.	.	y
+<p>	<p>	y

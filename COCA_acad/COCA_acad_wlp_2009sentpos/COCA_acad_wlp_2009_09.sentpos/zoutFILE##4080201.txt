@@ -1,0 +1,188 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    0 The four hundredth anniversary last year of John Milton 's birth was marked , inside academe and beyond , by celebrations which sometimes seemed to devolve into complaints about Milton 's difficulty .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    0 The_AT four_MC hundredth_MD anniversary_NN1 last_MD year_NNT1 of_IO John_NP1 Milton_NP1 's_GE birth_NN1 was_VBDZ marked_VVN_JJ ,_Y inside_II_JJ@ academe_NN1 and_CC beyond_RL@ ,_Y by_II celebrations_NN2 which_DDQ sometimes_RT seemed_VVD to_TO devolve_VVI into_II complaints_NN2 about_II Milton_NP1 's_GE difficulty_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    1 " Virtually unreadable , " proclaimed Princeton scholar Sophie Gee in the New York Times .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    1 "_Y Virtually_RR unreadable_JJ ,_Y "_Y proclaimed_VVD@_VVN Princeton_NP1 scholar_NN1 Sophie_NP1 Gee_UH in_II the_AT New_NP1 York_NP1 Times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    2 " Quite recently I had a very bad experience of trying to teach some of my , in other respects , extremely good students about Paradise Lost , " said outgoing u K Poet Laureate Andrew Motion on BBC radio .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    2 "_Y Quite_RG recently_RR I_PPIS1 had_VHD a_AT1 very_RG bad_JJ experience_NN1 of_IO trying_VVG to_TO teach_VVI some_DD of_IO my_APPGE ,_Y in_II other_JJ respects_NN2 ,_Y extremely_RR good_JJ students_NN2 about_II Paradise_NN1 Lost_VVD_VVN ,_Y "_Y said_VVD outgoing_JJ u_ZZ1 K_ZZ1 Poet_NN1 Laureate_NP1_NN1 Andrew_NP1 Motion_NN1 on_II BBC_NP1 radio_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    3 As Harold Bloom , prominent scholar and professional viewer-with-alarm , has said , readers " now require mediation to read Paradise Lost ... that relatively few will make the attempt ... is a great sorrow , and true cultural loss .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    3 As_CSA_II@ Harold_NP1 Bloom_NP1 ,_Y prominent_JJ scholar_NN1 and_CC professional_JJ viewer-with-alarm_NN1_JJ ,_Y has_VHZ said_VVN ,_Y readers_NN2 "_Y now_RT require_VV0 mediation_NN1 to_TO read_VVI Paradise_NN1 Lost_VVD_VVN ..._... that_CST_DD1 relatively_RR few_DA2 will_VM make_VVI the_AT attempt_NN1 ..._... is_VBZ a_AT1 great_JJ sorrow_NN1 ,_Y and_CC true_JJ cultural_JJ loss_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    4 " And Dennis Danielson , author of many books and articles on Milton , published -- as a way to deal with the epic 's difficulty -- Paradise Lost : Parallel Prose Edition , a " translation " into easy English without the line-breaks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    4 "_Y And_CC Dennis_NP1 Danielson_NP1 ,_Y author_NN1 of_IO many_DA2 books_NN2 and_CC articles_NN2 on_II Milton_NP1 ,_Y published_VVD_JJ@_VVN --_NN1_JJ as_II_CSA a_AT1 way_NN1 to_TO deal_VVI with_IW the_AT epic_NN1 's_GE difficulty_NN1 --_NN1_JJ Paradise_NN1 Lost_VVD_VVN :_Y Parallel_JJ Prose_NN1 Edition_NN1 ,_Y a_AT1 "_Y translation_NN1 "_Y into_II easy_JJ English_NN1_JJ without_IW the_AT line-breaks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    5 His stated intention : " to free Milton 's story from linguistic today 's readers in their own language .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    5 His_APPGE stated_JJ@ intention_NN1 :_Y "_Y to_TO free_VVI Milton_NP1 's_GE story_NN1 from_II linguistic_JJ today_RT 's_GE readers_NN2 in_II their_APPGE own_DA language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    6 " Danielson 's edition prints the original on the left hand page .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    6 "_Y Danielson_NP1@_NN1 's_GE edition_NN1 prints_NN2_VVZ% the_AT original_JJ_NN1@ on_II the_AT left_JJ hand_NN1 page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    7 pre-formatted table To Danielson that means : Tell the story , Heavenly Muse : of humankind 's first trespass , of forbidden fruit whose lethal taste brought death and sorrow to our world , and drove us out of Eden -- until one greater human should redeem us and regain the happy place we lost .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    7 pre-formatted_ZZ table_NN1 To_II Danielson_NP1_NN1@ that_CST_DD1 means_VVZ :_Y Tell_VV0 the_AT story_NN1 ,_Y Heavenly_JJ Muse_NN1 :_Y of_IO humankind_NN1 's_GE first_MD trespass_NN1 ,_Y of_IO forbidden_JJ@ fruit_NN whose_DDQGE lethal_JJ taste_NN1 brought_VVD_VVN death_NN1 and_CC sorrow_NN1 to_II our_APPGE world_NN1 ,_Y and_CC drove_VVD us_PPIO2 out_II21 of_II22 Eden_NP1 --_NN1_JJ until_CS one_MC1 greater_JJR human_NN1 should_VM redeem_VVI us_PPIO2 and_CC regain_VVI the_AT happy_JJ place_NN1 we_PPIS2 lost_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    8 God-awful enough to tempt me to try my own prose version : pre-formatted table Worse than God-awful !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    8 God-awful_JJ enough_RR to_TO tempt_VVI me_PPIO1 to_TO try_VVI my_APPGE own_DA prose_NN1 version_NN1 :_Y pre-formatted_ZZ table_NN1 Worse_JJR_RRR@ than_CSN God-awful_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0    9 But trying to make Milton idiomatic forced me to discover how necessary his language -- syntactically Latinate , defiantly unidiomatic in his own time -- is to meaning and to feeling in Paradise Lost .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0    9 But_CCB trying_VVG to_TO make_VVI Milton_NP1 idiomatic_JJ forced_VVD_VVN me_PPIO1 to_TO discover_VVI how_RGQ@_RRQ necessary_JJ his_APPGE language_NN1 --_NN1 syntactically_RR Latinate_JJ ,_Y defiantly_RR unidiomatic_JJ in_II his_APPGE own_DA time_NNT1 --_NN1 is_VBZ to_II meaning_NN1_VVG and_CC to_II feeling_VVG_NN1 in_II Paradise_NN1 Lost_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   10 Look back at the opening passage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   10 Look_VV0 back_RP at_II the_AT opening_NN1_JJ@ passage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   11 The disorienting , and absolutely essential , thing about it is that Milton lays down five lines of phrase upon complex phrase , and delays the verb till the sixth line .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   11 The_AT disorienting_NN1@_JJ@ ,_Y and_CC absolutely_RR essential_JJ ,_Y thing_NN1 about_II it_PPH1 is_VBZ that_CST Milton_NP1 lays_VVZ down_RP_II@ five_MC lines_NN2 of_IO phrase_NN1 upon_II complex_JJ phrase_NN1 ,_Y and_CC delays_NN2_VVZ% the_AT verb_NN1 till_II_CS the_AT sixth_MD line_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   12 So " Sing " is like a release valve .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   12 So_RR "_Y Sing_VV0 "_Y is_VBZ like_II a_AT1 release_NN1 valve_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   13 That handsomely convoluted grammatical load makes the singing that finally bursts out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   13 That_DD1 handsomely_RR convoluted_VVD_JJ@_VVN@ grammatical_JJ load_NN1 makes_VVZ the_AT singing_NN1@_VVG that_CST_DD1 finally_RR bursts_VVZ out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   14 And " sing " becomes a surge of energy that propels you into the epic .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   14 And_CC "_Y sing_VV0 "_Y becomes_VVZ a_AT1 surge_NN1 of_IO energy_NN1 that_CST_DD1 propels_VVZ you_PPY into_II the_AT epic_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   15 Danielson conceives of his Parallel Prose Edition as a tool to help us get through the poem , but creates his own kind of stodgy slog ( far better than mine , obviously ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   15 Danielson_NN1_NP1@ conceives_VVZ of_IO his_APPGE Parallel_JJ_NN1 Prose_NN1 Edition_NN1 as_II_CSA a_AT1 tool_NN1 to_TO help_VVI us_PPIO2 get_VVI through_II_RP@ the_AT poem_NN1 ,_Y but_CCB creates_VVZ his_APPGE own_DA kind_NN1 of_IO stodgy_JJ slog_NN1 (_Y far_RG better_RRR_JJR than_CSN mine_PPGE ,_Y obviously_RR )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   16 Taking the Milton out of Milton emphasizes how much we need Milton 's language to create his effects .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   16 Taking_VVG the_AT Milton_NP1 out_II21 of_II22 Milton_NP1 emphasizes_VVZ how_RRQ_RGQ@ much_RR we_PPIS2 need_VV0 Milton_NP1 's_GE language_NN1 to_TO create_VVI his_APPGE effects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   17 No one ever told me Paradise Lost was difficult : I was never assigned it in a class .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   17 No_PN121 one_PN122 ever_RR told_VVD_VVN me_PPIO1 Paradise_NN1 Lost_VVD_VVN was_VBDZ difficult_JJ :_Y I_PPIS1 was_VBDZ never_RR assigned_VVN_VVD@ it_PPH1 in_II_RP@ a_AT1 class_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   18 When I finally got around to reading it on vacation in Paris , ten years after I graduated from college ( a Mentor paperback , $2.50 , used , with great footnotes by Edward Le Comte ) , I was wowed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   18 When_CS_RRQ I_PPIS1 finally_RR got_VVN_VVD around_RP to_II reading_VVG it_PPH1 on_II vacation_NN1 in_II Paris_NP1 ,_Y ten_MC years_NNT2 after_CS I_PPIS1 graduated_VVD from_II college_NN1 (_Y a_AT1 Mentor_NN1 paperback_NN1 ,_Y $2.50_NNU ,_Y used_VVD_VVN_JJ ,_Y with_IW great_JJ footnotes_NN2 by_II Edward_NP1 Le_NP1 Comte_NP1 )_Y ,_Y I_PPIS1 was_VBDZ wowed_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   19 It was like walking into a museum or gallery and seeing something you 've never seen before which astonishes you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   19 It_PPH1 was_VBDZ like_II_JJ@ walking_VVG_NN1 into_II a_AT1 museum_NN1 or_CC gallery_NN1 and_CC seeing_VVG_CS@ something_PN1 you_PPY 've_VH0 never_RR seen_VVN before_II which_DDQ astonishes_VVZ you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   20 You do n't know why it does .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   20 You_PPY do_VD0 n't_XX know_VVI why_RRQ it_PPH1 does_VDZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   21 You ca n't understand why everyone does n't have the same reaction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   21 You_PPY ca_VM n't_XX understand_VVI why_RRQ everyone_PN1 does_VDZ n't_XX have_VHI the_AT same_DA reaction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   22 Is it possible that teachers are preventing their students from seeing Milton as Milton , scaring them help they 'll need to understand him ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   22 Is_VBZ it_PPH1 possible_JJ that_CST teachers_NN2 are_VBR preventing_VVG their_APPGE students_NN2 from_II seeing_VVG Milton_NP1 as_CSA_II@ Milton_NP1 ,_Y scaring_VVG them_PPHO2 help_NN1 they_PPHS2 'll_VM need_VVI to_TO understand_VVI him_PPHO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   23 The Milton problem reminds me of pregnancy , and the Nipple Nazi of Northampton .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   23 The_AT Milton_NP1 problem_NN1 reminds_VVZ me_PPIO1 of_IO pregnancy_NN1 ,_Y and_CC the_AT Nipple_NN1_NP1 Nazi_NN1@_JJ of_IO Northampton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   24 It 's November 2006 , a Saturday , an overheated hospital conference room in Western Massachusetts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   24 It_PPH1 's_VBZ November_NPM1 2006_MC ,_Y a_AT1 Saturday_NPD1 ,_Y an_AT1 overheated_JJ hospital_NN1 conference_NN1 room_NN1 in_II Western_NP1 Massachusetts_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   25 My first and only child is due in two months .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   25 My_APPGE first_MD and_CC only_JJ child_NN1 is_VBZ due_JJ in_II two_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   26 pre-formatted table In other words , a dozen pregnant ladies and our partners , on metal folding chairs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   26 pre-formatted_ZZ table_NN1 In_II other_JJ words_NN2 ,_Y a_AT1 dozen_M1 pregnant_JJ ladies_NN2 and_CC our_APPGE partners_NN2 ,_Y on_II metal_NN1 folding_NN1_VVG_JJ chairs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   27 Childbirth 101 is a day-long class led by a doula with a fondness for making chalked lists on a portable blackboard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   27 Childbirth_NN1 101_MC is_VBZ a_AT1 day-long_JJ class_NN1 led_VVN by_II a_AT1 doula_NN1_JJ with_IW a_AT1 fondness_NN1 for_IF making_VVG chalked_JJ@ lists_NN2 on_II a_AT1 portable_JJ blackboard_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   28 ( A doula is a non-medical labor coach whose name derives from the Ancient Greek word for " slave " ; doulas are in fact well-paid .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   28 (_Y A_ZZ1_AT1 doula_NN1_JJ is_VBZ a_AT1 non-medical_JJ labor_NN1 coach_NN1 whose_DDQGE name_NN1 derives_VVZ from_II the_AT Ancient_JJ Greek_JJ_NN1 word_NN1 for_IF "_Y slave_NN1 "_Y ;_Y doulas_NN2 are_VBR in_II fact_NN1 well-paid_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   29 I would n't have one at my baby 's birth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   29 I_PPIS1 would_VM n't_XX have_VHI one_PN1_MC1 at_II my_APPGE baby_NN1 's_GE birth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   30 ) Mostly the doula leads us through icebreakers and Q sheets designed to tell our partners be supportive and reassure us that It 's okay to feel however you feel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   30 )_Y Mostly_RR the_AT doula_NN1 leads_VVZ us_PPIO2 through_II icebreakers_NN2 and_CC Q_ZZ1 sheets_NN2 designed_VVN_VVD to_TO tell_VVI our_APPGE partners_NN2 be_VBI supportive_JJ and_CC reassure_VVI us_PPIO2 that_CST It_PPH1 's_VBZ okay_JJ to_TO feel_VVI however_RRQV you_PPY feel_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   31 I begin to be very afraid .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   31 I_PPIS1 begin_VV0 to_TO be_VBI very_RG afraid_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   32 The worst is the unit on breastfeeding .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   32 The_AT worst_JJT is_VBZ the_AT unit_NN1 on_II breastfeeding_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   33 The doula lets us know that breastfeeding is painful , difficult -- and the She says there 's a right and wrong way to hold baby ; that our husbands ( or partners ) should stand over us and tell us what we 're doing wrong ; that our nipples will get chapped and stony and crack and it will hurt horribly but we should n't apply lotion to help ; that we should wake baby every two hours to feed it ; that giving baby a pacifier or substituting a bottle at an early feeding could ruin both our lives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   33 The_AT doula_NN1 lets_Z' us_PPIO2 know_VVI that_DD1_CST breastfeeding_NN1 is_VBZ painful_JJ ,_Y difficult_JJ --_NN1_JJ and_CC the_AT She_PPHS1 says_VVZ there_EX 's_VBZ a_AT1 right_NN1_JJ and_CC wrong_JJ way_NN1 to_TO hold_VVI baby_NN1 ;_Y that_CST our_APPGE husbands_NN2 (_Y or_CC partners_NN2 )_Y should_VM stand_VVI over_II us_PPIO2 and_CC tell_VVI us_PPIO2 what_DDQ we_PPIS2 're_VBR doing_VDG wrong_JJ_RR@ ;_Y that_CST our_APPGE nipples_NN2 will_VM get_VVI chapped_JJ@ and_CC stony_JJ and_CC crack_NN1_VV0 and_CC it_PPH1 will_VM hurt_VVI horribly_RR but_CCB we_PPIS2 should_VM n't_XX apply_VVI lotion_NN1 to_TO help_VVI ;_Y that_CST we_PPIS2 should_VM wake_VVI baby_NN1 every_AT1 two_MC hours_NNT2 to_TO feed_VVI it_PPH1 ;_Y that_DD1_CST giving_VVG baby_NN1 a_AT1 pacifier_NN1 or_CC substituting_VVG a_AT1 bottle_NN1 at_II an_AT1 early_JJ feeding_NN1@ could_VM ruin_VVI both_DB2_RR our_APPGE lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   34 One mistake and that could be that !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   34 One_MC1 mistake_NN1 and_CC that_DD1_CST could_VM be_VBI that_DD1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   35 " So remember , " she says , passing out plastic dolls for us to practice on , " relax .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   35 "_Y So_RR remember_VV0 ,_Y "_Y she_PPHS1 says_VVZ ,_Y passing_VVG out_RP plastic_NN1 dolls_NN2 for_IF us_PPIO2 to_II practice_NN1 on_RP@_II ,_Y "_Y relax_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   36 " The truth is , for most women who try breastfeeding , there 's a learning curve -- a short one for some , longer for others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   36 "_Y The_AT truth_NN1 is_VBZ ,_Y for_IF most_DAT women_NN2 who_PNQS try_VV0 breastfeeding_NN1 ,_Y there_EX 's_VBZ a_AT1 learning_NN1 curve_NN1 --_NN1 a_AT1 short_JJ one_PN1 for_IF some_DD ,_Y longer_JJR_RRR for_IF others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   37 The Nipple Nazi , as I came to call her once I recovered from her Red Alert tactics , was wrong about everything -- pacifiers , substitute bottles , sleeping babies , lotion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   37 The_AT Nipple_NN1_NP1 Nazi_NN1@_JJ ,_Y as_CSA I_PPIS1 came_VVD to_TO call_VVI her_PPHO1 once_RR_CS@ I_PPIS1 recovered_VVD from_II her_APPGE Red_JJ Alert_JJ tactics_NN2 ,_Y was_VBDZ wrong_JJ_RR@ about_II everything_PN1 --_ZZ pacifiers_NN2 ,_Y substitute_JJ_VV0 bottles_NN2 ,_Y sleeping_VVG_JJ babies_NN2 ,_Y lotion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   38 There 's discomfort -- call it pain if you want .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   38 There_EX 's_VBZ discomfort_NN1 --_NN1_JJ call_VV0_NN1 it_PPH1 pain_NN1 if_CS you_PPY want_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   39 Then And when you get sick of it , you can stop .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   39 Then_RT And_CC when_CS_RRQ you_PPY get_VV0 sick_JJ of_IO it_PPH1 ,_Y you_PPY can_VM stop_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   40 What do we read Paradise Lost for ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   40 What_DDQ do_VD0 we_PPIS2 read_VVI Paradise_NN1 Lost_VVN_VVD for_IF ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   41 Ideas ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   41 Ideas_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   42 Allegory ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   42 Allegory_NN1_NP1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   43 Poetry ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   43 Poetry_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   44 Plot ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   44 Plot_VV0_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   45 Why not plot ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   45 Why_RRQ not_XX plot_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   46 Why not character ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   46 Why_RRQ not_XX character_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   47 In Book ix Adam decides to eat the apple along with Eve .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   47 In_II Book_NN1 ix_MC Adam_NP1 decides_VVZ to_TO eat_VVI the_AT apple_NN1 along_II21 with_II22 Eve_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   48 Why ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   48 Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   49 He 's pre-formatted table In my Mentor edition , Edward Le Comte notes that " fondly " here means both " foolishly " and " affectionately .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   49 He_PPHS1 's_VBZ pre-formatted_ZZ table_NN1 In_II my_APPGE Mentor_NN1 edition_NN1 ,_Y Edward_NP1 Le_NP1 Comte_NP1 notes_VVZ that_CST "_Y fondly_RR "_Y here_RL means_VVZ both_RR "_Y foolishly_RR "_Y and_CC "_Y affectionately_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   50 " Stanley Fish writes , in a New York Times review of the Parallel Prose Edition , that Danielson 's translation of the line -- " an infatuated fool overcome by a woman 's charms " -- is n't quite right , because " ' infatuated ' ... redoubles the accusation in ' fool ' rather than softening it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   50 "_Y Stanley_NP1 Fish_NP1@_NN writes_VVZ ,_Y in_II a_AT1 New_NP1 York_NP1 Times_NNT2 review_NN1 of_IO the_AT Parallel_JJ_NN1 Prose_NN1 Edition_NN1 ,_Y that_CST_DD1 Danielson_NP1 's_GE translation_NN1 of_IO the_AT line_NN1 --_NN1 "_Y an_AT1 infatuated_JJ fool_NN1 overcome_VVN by_II a_AT1 woman_NN1 's_GE charms_NN2 "_Y --_NN1 is_VBZ n't_XX quite_RG right_JJ ,_Y because_CS "_Y '_GE infatuated_JJ '_GE ..._... redoubles_VVZ the_AT accusation_NN1 in_II '_GE fool_NN1 '_GE rather_II21 than_II22 softening_VVG it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   51 " The problem , says Fish , is that the unresolved ambiguity of the original is important to " the question of just how culpable Adam and Eve are for the fall .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   51 "_Y The_AT problem_NN1 ,_Y says_VVZ Fish_NN ,_Y is_VBZ that_DD1 the_AT unresolved_JJ ambiguity_NN1 of_IO the_AT original_NN1@_JJ is_VBZ important_JJ to_II "_Y the_AT question_NN1 of_IO just_RR how_RGQ@_RRQ culpable_JJ Adam_NP1 and_CC Eve_NP1 are_VBR for_IF the_AT fall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   52 " Reading Fish , I realize I do n't read Paradise Lost in terms of questions of theology and morality novel in verse .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   52 "_Y Reading_NP1_VVG Fish_NP1@_NN ,_Y I_PPIS1 realize_VV0 I_PPIS1 do_VD0 n't_XX read_VVI Paradise_NN1 Lost_VVN_VVD in_II31 terms_II32 of_II33 questions_NN2 of_IO theology_NN1 and_CC morality_NN1 novel_NN1_JJ in_II verse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   53 What does Satan want ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   53 What_DDQ does_VDZ Satan_NP1 want_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   54 How is he different from Adam ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   54 How_RRQ is_VBZ he_PPHS1 different_JJ from_II Adam_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   55 Who do we sympathize with ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   55 Who_PNQS do_VD0 we_PPIS2 sympathize_VVI with_IW ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   56 The question of the double meaning of " fondly " pertains to Adam 's motive , not just to cosmic guilt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   56 The_AT question_NN1 of_IO the_AT double_JJ meaning_NN1 of_IO "_Y fondly_RR "_Y pertains_VVZ to_II Adam_NP1 's_GE motive_NN1 ,_Y not_XX just_RR to_II cosmic_JJ guilt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   57 Mine is n't a particularly sophisticated way to read Milton -- motive also matters to detective fiction -- but surely things like plot and character are what most people read for , most of the time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   57 Mine_PPGE_NN1 is_VBZ n't_XX a_AT1 particularly_RR sophisticated_JJ way_NN1 to_TO read_VVI Milton_NP1 --_ZZ motive_NN1 also_RR matters_VVZ@_NN2 to_II detective_NN1 fiction_NN1 --_NN1_JJ but_CCB surely_RR things_NN2 like_II plot_NN1 and_CC character_NN1 are_VBR what_DDQ most_DAT people_NN read_VV0_VVN_VVD for_IF ,_Y most_DAT of_IO the_AT time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   58 pre-formatted table Danielson translates : " So lay the huge Arch-fiend , stretched out , enchained on the burning sea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   58 pre-formatted_ZZ table_NN1 Danielson_NP1_NN1@ translates_VVZ :_Y "_Y So_RR lay_VVD_VV0 the_AT huge_JJ Arch-fiend_NN1 ,_Y stretched_VVD_VVN out_RP ,_Y enchained_VVD_VVN@ on_II the_AT burning_JJ sea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   59 " Famous image , not difficult .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   59 "_Y Famous_JJ image_NN1 ,_Y not_XX difficult_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   60 Did Danielson want to get rid of redundancy by removing " in length " ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   60 Did_VDD Danielson_NP1 want_VVI to_TO get_VVI rid_VVN of_IO redundancy_NN1 by_II removing_VVG "_Y in_II length_NN1 "_Y ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   61 But the Arch-fiend is all the bigger by being stretched out and huge and in length and lying .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   61 But_CCB the_AT Arch-fiend_NN1 is_VBZ all_DB the_AT bigger_JJR by_II being_VBG stretched_VVN out_RP and_CC huge_JJ and_CC in_II length_NN1 and_CC lying_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   62 The addition of " en " to chained is a harmless , if senseless , bit of decoration on Danielson 's part , and the loss of two " l " -sounds from the couplet is minor musical unfortunateness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   62 The_AT addition_NN1 of_IO "_Y en_FW "_Y to_II chained_JJ@ is_VBZ a_AT1 harmless_JJ ,_Y if_CS senseless_JJ ,_Y bit_NN1 of_IO decoration_NN1 on_II Danielson_NP1 's_GE part_NN1 ,_Y and_CC the_AT loss_NN1 of_IO two_MC "_Y l_NNU@_ZZ1 "_Y -sounds_NN2 from_II the_AT couplet_NN1 is_VBZ minor_JJ musical_JJ unfortunateness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   63 But changing " lake " to " sea huge .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   63 But_CCB changing_JJ_VVG "_Y lake_NN1 "_Y to_II "_Y sea_NN1 huge_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   64 Danielson 's " sea " could almost quench them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   64 Danielson_NP1@_NN1 's_GE "_Y sea_NN1 "_Y could_VM almost_RR quench_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   65 Once again , I 'm grateful for the wrongheadedness of prose .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   65 Once_RR21 again_RR22 ,_Y I_PPIS1 'm_VBM grateful_JJ for_IF the_AT wrongheadedness_NN1 of_IO prose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   66 It reminds me how scale -- the relationships between sizes of characters and surroundings -- is one of the text 's abiding fascinations , and one of the ways it roils , disorients , then reorients .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   66 It_PPH1 reminds_VVZ me_PPIO1 how_RRQ scale_NN1 --_NN1 the_AT relationships_NN2 between_II sizes_NN2 of_IO characters_NN2 and_CC surroundings_NN2 --_NN1 is_VBZ one_MC1 of_IO the_AT text_NN1 's_GE abiding_JJ_VVG fascinations_NN2 ,_Y and_CC one_MC1 of_IO the_AT ways_NN2 it_PPH1 roils_VVZ ,_Y disorients_NN2 ,_Y then_RT_JJ% reorients_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   67 " Paradise Lost is one of the books which the reader admires and lays down , and forgets to take up again , " wrote Samuel Johnson .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   67 "_Y Paradise_NN1 Lost_VVN is_VBZ one_MC1 of_IO the_AT books_NN2 which_DDQ the_AT reader_NN1 admires_VVZ and_CC lays_VVZ down_RP ,_Y and_CC forgets_VVZ to_TO take_VVI up_RP again_RT ,_Y "_Y wrote_VVD Samuel_NP1 Johnson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   68 Mostly I use Paradise Lost as a touchstone , reading bits and pieces to solve writing quandaries of my own , looking for Milton 's muscle , his force , his sense of purpose , his beautiful , beautifully strange , blank verse lines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   68 Mostly_RR I_PPIS1 use_VV0 Paradise_NN1 Lost_VVN_VVD as_II a_AT1 touchstone_NN1 ,_Y reading_VVG_NN1 bits_NN2 and_CC pieces_NN2 to_TO solve_VVI writing_VVG_NN1 quandaries_NN2 of_IO my_APPGE own_DA ,_Y looking_VVG for_IF Milton_NP1 's_GE muscle_NN1 ,_Y his_APPGE force_NN1 ,_Y his_APPGE sense_NN1 of_IO purpose_NN1 ,_Y his_APPGE beautiful_JJ ,_Y beautifully_RR strange_JJ ,_Y blank_JJ verse_NN1 lines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   69 Indeed , I 've only read PL straight through twice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   69 Indeed_RR ,_Y I_PPIS1 've_VH0 only_RR read_VVN PL_NP1_NN1 straight_RR through_II_RP@ twice_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   70 The second time was just after my daughter was born in 2007 , when the midwife told me I had to sit for an hour three times a day in Epsom salt baths doing nothing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   70 The_AT second_MD time_NNT1 was_VBDZ just_RR after_II_CS my_APPGE daughter_NN1 was_VBDZ born_VVN in_II 2007_MC ,_Y when_RRQ the_AT midwife_NN1 told_VVD me_PPIO1 I_PPIS1 had_VHD to_TO sit_VVI for_IF an_AT1 hour_NNT1 three_MC times_NNT2 a_AT1 day_NNT1 in_II Epsom_NP1 salt_NN1 baths_NN2 doing_VDG nothing_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   71 Milton was my resource .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   71 Milton_NP1 was_VBDZ my_APPGE resource_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   72 This time I was n't pleasure ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   72 This_DD1 time_NNT1 I_PPIS1 was_VBDZ n't_XX pleasure_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   73 I was trying to remember , in those first weeks of motherhood , who I was .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   73 I_PPIS1 was_VBDZ trying_VVG to_TO remember_VVI ,_Y in_II those_DD2 first_MD weeks_NNT2 of_IO motherhood_NN1 ,_Y who_PNQS I_PPIS1 was_VBDZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   74 I needed to know if my brain still worked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   74 I_PPIS1 needed_VVD to_TO know_VVI if_CSW@_CS my_APPGE brain_NN1 still_RR worked_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   75 An easy-read novel , a little modern standard-syntax poetry , Milton in prose , could n't have given that to me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   75 An_AT1 easy-read_JJ novel_NN1_JJ ,_Y a_RR21 little_RR22 modern_JJ standard-syntax_JJ_NN1 poetry_NN1 ,_Y Milton_NP1 in_II prose_NN1 ,_Y could_VM n't_XX have_VHI given_VVN@ that_CST to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   76 I needed something to read that required real reading -- strange syntax , paradoxes that seem perfectly logical to the poetry mind : pre-formatted table I needed the way Milton disappears the narrative into elaborate metaphors and brings you back out again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   76 I_PPIS1 needed_VVD something_PN1 to_TO read_VVI that_DD1_CST required_JJ_VVD@ real_JJ reading_NN1 --_ZZ strange_JJ syntax_NN1 ,_Y paradoxes_NN2 that_CST seem_VV0 perfectly_RR logical_JJ to_II the_AT poetry_NN1 mind_NN1_VV0 :_Y pre-formatted_ZZ table_NN1 I_PPIS1 needed_VVD the_AT way_NN1 Milton_NP1 disappears_VVZ the_AT narrative_NN1_JJ into_II elaborate_JJ metaphors_NN2 and_CC brings_VVZ you_PPY back_RP out_RP again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   77 Here 's what it sounds like to Milton when demons cheer : pre-formatted table I needed Milton 's demons .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   77 Here_RL 's_VBZ what_DDQ it_PPH1 sounds_VVZ like_II_CS@ to_II Milton_NP1 when_RRQ_CS demons_NN2 cheer_VV0 :_Y pre-formatted_ZZ table_NN1 I_PPIS1 needed_VVD Milton_NP1 's_GE demons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   78 His virtuousness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   78 His_APPGE virtuousness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   79 His virtuosity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   79 His_APPGE virtuosity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   80 His ambiguity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   80 His_APPGE ambiguity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   81 His spine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   81 His_APPGE spine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   82 His stately pace and swooning images , seriousness and decoration , austerity and gorgeousness , thrust and return , moral purpose and love for the character of Satan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   82 His_APPGE stately_JJ pace_NN1 and_CC swooning_VVG_JJ@ images_NN2 ,_Y seriousness_NN1 and_CC decoration_NN1 ,_Y austerity_NN1 and_CC gorgeousness_NN1 ,_Y thrust_NN1_VV0_VVN_VVD and_CC return_NN1_VV0 ,_Y moral_JJ purpose_NN1 and_CC love_VV0_NN1 for_IF the_AT character_NN1 of_IO Satan_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   83 I needed the way his sentences finally get there over half a dozen or a dozen lines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   83 I_PPIS1 needed_VVD the_AT way_NN1 his_APPGE sentences_NN2 finally_RR get_VV0 there_RL over_RG half_DB a_AT1 dozen_M1 or_CC a_AT1 dozen_M1 lines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   84 Danielson 's Paradise Lost : Parallel Prose Edition is clearly a labor of love by someone who orient rather than disorient -- and that 's not Paradise Lost .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   84 Danielson_NP1@_NN1 's_GE Paradise_NN1 Lost_VVD_VVN :_Y Parallel_JJ Prose_NN1 Edition_NN1 is_VBZ clearly_RR a_AT1 labor_NN1 of_IO love_NN1 by_II someone_PN1 who_PNQS orient_VVI rather_II21 than_II22 disorient_JJ_NN1 --_NN1_JJ and_CC that_DD1_CST 's_VBZ not_XX Paradise_NN1 Lost_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   85 It 's not what poems do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   85 It_PPH1 's_VBZ not_XX what_DDQ poems_NN2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   86 Me miserable , I would read in the tub , myself am hell , not feeling all that miserable or hellish , not anymore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   86 Me_PPIO1 miserable_JJ ,_Y I_PPIS1 would_VM read_VVI in_II the_AT tub_NN1 ,_Y myself_PPX1 am_VBM hell_NN1 ,_Y not_XX feeling_VVG all_DB that_DD1_CST miserable_JJ or_CC hellish_VV0_JJ ,_Y not_XX anymore_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   87 Then Maisie would cry , and I would get out of the bath and feed her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   87 Then_RT Maisie_NP1 would_VM cry_VVI ,_Y and_CC I_PPIS1 would_VM get_VVI out_II21 of_II22 the_AT bath_NN1 and_CC feed_VV0 her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   88 It was lovely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   88 It_PPH1 was_VBDZ lovely_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   89 It did n't hurt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   89 It_PPH1 did_VDD n't_XX hurt_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   90 Neither did Milton .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   90 Neither_DD1_RR did_VDD Milton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   91 He was enacting my own disorientation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   91 He_PPHS1 was_VBDZ enacting_VVG my_APPGE own_DA disorientation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   92 He was mattering to my life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   92 He_PPHS1 was_VBDZ mattering_VVG to_II my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  A    0   93 By Daisy Fried
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080201 COCA  B    0   93 By_II Daisy_NP1 Fried_JJ_VVD@

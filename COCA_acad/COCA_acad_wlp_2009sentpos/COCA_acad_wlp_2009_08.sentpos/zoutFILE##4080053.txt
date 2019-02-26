@@ -1,0 +1,342 @@
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    0 Robots have overrun Hanover Fair .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    0 Robots_NN2 have_VH0 overrun_VVN Hanover_NP1 Fair_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    1 Exhibitors at this , the world 's largest industrial exposition , held each year in Germany , display hundreds of robotic arms , actuators , sensor systems , and feedback mechanisms .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    1 Exhibitors_NN2 at_II this_DD1 ,_Y the_AT world_NN1 's_GE largest_JJT industrial_JJ exposition_NN1 ,_Y held_VVD_VVN each_DD1 year_NNT1 in_II Germany_NP1 ,_Y display_VV0_NN1 hundreds_M of_IO robotic_JJ arms_NN2 ,_Y actuators_NN2 ,_Y sensor_NN1 systems_NN2 ,_Y and_CC feedback_NN1 mechanisms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    2 The fair even launched a " Robotation Academy " with Volkswagen Coaching , the automaker 's consulting arm , advising attendees on robotic manufacturing .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    2 The_AT fair_JJ even_RR launched_VVN_VVD a_AT1 "_Y Robotation_NN1 Academy_NN1 "_Y with_IW Volkswagen_NP1 Coaching_NN1_VVG ,_Y the_AT automaker_NN1 's_GE consulting_JJ_NN1 arm_NN1 ,_Y advising_VVG attendees_NN2 on_II robotic_JJ manufacturing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    3 More astonishing , though , are the autonomous robots .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    3 More_RGR_DAR astonishing_JJ ,_Y though_CS_RR@ ,_Y are_VBR the_AT autonomous_JJ robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    4 AirPenguins fly above the booth of German pneumatic automation supplier Festo .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    4 AirPenguins_NN2_NP1@ fly_VV0 above_II_RL the_AT booth_NN1 of_IO German_JJ pneumatic_JJ automation_NN1 supplier_NN1 Festo_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    5 The RoboCup German Open pits competing teams of autonomous robots against one another in a soccer tournament .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    5 The_AT RoboCup_NN1_NP1 German_JJ_NN1 Open_JJ pits_NN2 competing_VVG_JJ teams_NN2 of_IO autonomous_JJ robots_NN2 against_II one_PPX121 another_PPX122 in_II a_AT1 soccer_NN1 tournament_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    6 On the side of the playing field , mobile autonomous robots run in patterns and patrol the booths of a surprising number of companies .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    6 On_II the_AT side_NN1 of_IO the_AT playing_JJ%_VVG_NN1% field_NN1 ,_Y mobile_JJ autonomous_JJ robots_NN2 run_VVN_VV0 in_II_RP@ patterns_NN2 and_CC patrol_VV0 the_AT booths_NN2 of_IO a_AT1 surprising_JJ number_NN1 of_IO companies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    7 The growing presence of autonomous robots at Hanover echoes the interest seen worldwide .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    7 The_AT growing_JJ presence_NN1 of_IO autonomous_JJ robots_NN2 at_II Hanover_NP1 echoes_VVZ the_AT interest_NN1 seen_VVN worldwide_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    8 In the United States , for instance , autonomous robots range in sophistication from simple Roomba household vacuum cleaners to the complex vehicles that competed in Defense Advanced Research Projects Agency 's Urban Challenge .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    8 In_II the_AT United_NP1 States_NP1 ,_Y for_REX21 instance_REX22 ,_Y autonomous_JJ robots_NN2 range_VV0@_NN1 in_II sophistication_NN1 from_II simple_JJ Roomba_NN1@_NP1 household_NN1 vacuum_NN1 cleaners_NN2 to_II the_AT complex_JJ_NN1 vehicles_NN2 that_CST competed_VVD in_II Defense_NN1 Advanced_JJ_VVD_VVN Research_NN1 Projects_NN2_VVZ@ Agency_NN1 's_GE Urban_JJ Challenge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0    9 In Japan , consumer electronic firms see their programmable toy robots No one need worry about an independent-minded robot taking his job soon .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0    9 In_II Japan_NP1 ,_Y consumer_NN1 electronic_JJ firms_NN2 see_VV0 their_APPGE programmable_JJ toy_NN1_JJ@ robots_NN2 No_AT one_MC1 need_NN1 worry_VV0_NN1@ about_II_RP@ an_AT1 independent-minded_JJ robot_NN1 taking_VVG his_APPGE job_NN1 soon_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   10 In a preliminary RoboCup match , one team 's goalies fell down as soon as they tried to move .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   10 In_II a_AT1 preliminary_JJ RoboCup_NN1 match_NN1_VV0 ,_Y one_MC1 team_NN1 's_GE goalies_NN2 fell_VVD down_RP as_CS31 soon_CS32 as_CS33 they_PPHS2 tried_VVD to_TO move_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   11 Vent downdrafts occasionally push AirPenguins into Festo 's booth .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   11 Vent_NN1 downdrafts_VVZ_NN2 occasionally_RR push_VV0 AirPenguins_NN2_NP1 into_II Festo_NP1 's_GE booth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   12 During the Urban Challenge , plenty of vehicles plowed through gates or crashed into walls or other vehicles .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   12 During_II the_AT Urban_JJ Challenge_NN1 ,_Y plenty_PN of_IO vehicles_NN2 plowed_VVD_VVN@ through_II_RP@ gates_NN2 or_CC crashed_VVD into_II walls_NN2 or_CC other_JJ vehicles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   13 Progress is palpable even as developers wrestle with the most vexing of control questions : How do you create a robot intelligent enough to operate without direct guidance ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   13 Progress_NN1 is_VBZ palpable_JJ even_RR as_CSA developers_NN2 wrestle_VV0 with_IW the_AT most_RGT vexing_JJ of_IO control_NN1 questions_NN2 :_Y How_RRQ do_VD0 you_PPY create_VVI a_AT1 robot_NN1 intelligent_JJ enough_RR to_TO operate_VVI without_IW direct_JJ guidance_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   14 This is very different from programming an automated control system in a factory , where every piece of equipment and every possible interaction is understood ahead of time .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   14 This_DD1 is_VBZ very_RG different_JJ from_II programming_VVG an_AT1 automated_JJ control_NN1 system_NN1 in_II a_AT1 factory_NN1 ,_Y where_CS_RRQ every_AT1 piece_NN1 of_IO equipment_NN1 and_CC every_AT1 possible_JJ interaction_NN1 is_VBZ understood_VVN ahead_II21 of_II22 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   15 A truly autonomous robot must be able to interact with a constantly changing -- and therefore unknown -- environment .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   15 A_AT1_ZZ1 truly_RR autonomous_JJ robot_NN1 must_VM be_VBI able_JK to_TO interact_VVI with_IW a_AT1 constantly_RR changing_JJ_VVG --_NN1_JJ and_CC therefore_RR unknown_JJ --_ZZ environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   16 Individual ants have simple behaviors but perform complex tasks by working together .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   16 Individual_JJ_NN1 ants_NN2 have_VH0 simple_JJ behaviors_NN2 but_CCB perform_VV0 complex_JJ tasks_NN2 by_II working_VVG together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   17 Once , theorists thought autonomous robots needed artificial intelligence , the ability to assess the environment and make informed judgments before acting .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   17 Once_RR ,_Y theorists_NN2 thought_VVD_VVN autonomous_JJ robots_NN2 needed_VVD_VVN artificial_JJ intelligence_NN1 ,_Y the_AT ability_NN1 to_TO assess_VVI the_AT environment_NN1 and_CC make_VVI informed_JJ@ judgments_NN2 before_II acting_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   18 Today , developers are putting less emphasis on this type of " thinking , " Festo 's AirPenguins fly and interact as a flock .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   18 Today_RT ,_Y developers_NN2 are_VBR putting_VVG less_DAR emphasis_NN1 on_II this_DD1 type_NN1 of_IO "_Y thinking_NN1_VVG ,_Y "_Y Festo_NP1@_NN1 's_GE AirPenguins_NN2_NP1 fly_VV0_NN1 and_CC interact_VV0 as_II_CSA a_AT1 flock_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   19 These robots are featured in this month 's online exclusive at www.memagazine.org .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   19 These_DD2 robots_NN2 are_VBR featured_VVN in_II this_DD1 month_NNT1 's_GE_VBZ online_JJ_RR exclusive_JJ at_II www.memagazine.org_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   20 Instead , engineers are looking for clues in the behavior of social insects .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   20 Instead_RR ,_Y engineers_NN2 are_VBR looking_VVG for_IF clues_NN2 in_II the_AT behavior_NN1 of_IO social_JJ insects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   21 Ants have attracted the most interest : While an individual ant has only a limited range of simple behaviors , the way it interacts with other ants produces responses that make the nest appear intelligent .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   21 Ants_NN2 have_VH0 attracted_VVN the_AT most_DAT_RGT interest_NN1 :_Y While_CS an_AT1 individual_JJ ant_NN1 has_VHZ only_RR a_AT1 limited_JJ range_NN1 of_IO simple_JJ behaviors_NN2 ,_Y the_AT way_NN1 it_PPH1 interacts_VVZ with_IW other_JJ ants_NN2 produces_VVZ responses_NN2 that_CST make_VV0 the_AT nest_NN1 appear_VVI intelligent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   22 " When simple behaviors work together , they can create what appears to be complex behaviors to a naive observer , " noted Bryan Adams .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   22 "_Y When_CS_RRQ simple_JJ behaviors_NN2 work_VV0 together_RL ,_Y they_PPHS2 can_VM create_VVI what_DDQ appears_VVZ to_TO be_VBI complex_JJ behaviors_NN2 to_II a_AT1 naive_JJ observer_NN1 ,_Y "_Y noted_VVD_VVN Bryan_NP1 Adams_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   23 Adams is a principal investigator at iRobot , developer of the Roomba , the world 's most widely owned robot -- and one inspired by insect behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   23 Adams_NP1 is_VBZ a_AT1 principal_JJ_NN1 investigator_NN1 at_II iRobot_NN1 ,_Y developer_NN1 of_IO the_AT Roomba_NP1_NN1@ ,_Y the_AT world_NN1 's_GE_VBZ most_RGT widely_RR owned_VVN_JJ@_VVD robot_NN1 --_NN1 and_CC one_PN1 inspired_VVD_VVN by_II insect_NN1 behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   24 LEARNING FROM ANTS To understand what Adams means by " complex behaviors , " consider how some species of ants find the shortest route to food .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   24 LEARNING_VVG_NN1 FROM_II ANTS_NN2 To_TO understand_VVI what_DDQ Adams_NP1 means_VVZ by_II "_Y complex_JJ behaviors_NN2 ,_Y "_Y consider_VV0 how_RRQ some_DD species_NN of_IO ants_NN2 find_VV0 the_AT shortest_JJT route_NN1 to_II food_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   25 When a randomly foraging ant finds food , it grabs a piece and wanders back to the nest , leaving a trail of pheromones behind .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   25 When_CS a_AT1 randomly_RR foraging_VVG ant_NN1 finds_VVZ food_NN1 ,_Y it_PPH1 grabs_VVZ a_AT1 piece_NN1 and_CC wanders_VVZ back_RP to_II the_AT nest_NN1 ,_Y leaving_VVG a_AT1 trail_NN1 of_IO pheromones_NN2 behind_RL@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   26 Other ants set out from the nest , following that pheromone it readily because the scent is recent and strong .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   26 Other_JJ ants_NN2 set_VVN out_RP from_II the_AT nest_NN1 ,_Y following_VVG that_CST_DD1 pheromone_VV0_NN1 it_PPH1 readily_RR because_CS the_AT scent_NN1 is_VBZ recent_JJ and_CC strong_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   27 Further away , though , pheromones have begun to evaporate , and the ants begin to wander from the trail .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   27 Further_RRR_JJR away_RL ,_Y though_CS_RR@ ,_Y pheromones_NN2 have_VH0 begun_VVN to_TO evaporate_VVI ,_Y and_CC the_AT ants_NN2 begin_VV0 to_TO wander_VVI from_II the_AT trail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   28 The ants that find the most direct route to the food and back leave the strongest scent , and their trail is the easiest to follow .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   28 The_AT ants_NN2 that_CST find_VV0 the_AT most_RGT direct_JJ route_NN1 to_II the_AT food_NN1 and_CC back_NN1 leave_VV0 the_AT strongest_JJT scent_NN1 ,_Y and_CC their_APPGE trail_NN1 is_VBZ the_AT easiest_JJT to_TO follow_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   29 At the highest level , this looks like rational behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   29 At_II the_AT highest_JJT level_NN1_JJ ,_Y this_DD1 looks_VVZ like_II rational_JJ behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   30 Yet it derives from very simple instincts : walk randomly until you find food , bring the food back to the nest , follow the strongest scent back to food , and repeat .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   30 Yet_RR it_PPH1 derives_VVZ from_II very_RG simple_JJ instincts_NN2 :_Y walk_VV0 randomly_RR until_CS you_PPY find_VV0 food_NN1 ,_Y bring_VV0 the_AT food_NN1 back_RP to_II the_AT nest_NN1 ,_Y follow_VV0 the_AT strongest_JJT scent_NN1 back_RP_NN1 to_II food_NN1 ,_Y and_CC repeat_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   31 Those rudimentary instincts , combined ( or layered ) , produce complex , problem-solving behaviors .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   31 Those_DD2 rudimentary_JJ instincts_NN2 ,_Y combined_VVN_JJ_VVD (_Y or_CC layered_JJ )_Y ,_Y produce_VV0 complex_JJ_NN1 ,_Y problem-solving_NN1 behaviors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   32 Rodney Brooks , a researcher at the Massachusetts Institute of Technology and a co-founder of iRobot , based in Bedford , Mass. , paid close attention to biological systems as potential models for robot behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   32 Rodney_NP1 Brooks_NP1 ,_Y a_AT1 researcher_NN1 at_II the_AT Massachusetts_NP1 Institute_NN1 of_IO Technology_NN1 and_CC a_AT1 co-founder_NN1 of_IO iRobot_NN1 ,_Y based_VVN in_II Bedford_NP1 ,_Y Mass._NP1 ,_Y paid_VVD_VVN close_JJ attention_NN1 to_II biological_JJ systems_NN2 as_CSA_RG@_II@ potential_JJ models_NN2 for_IF robot_NN1 behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   33 " It was the launching point for his robots , " said Adams , who spent seven years in Brooks ' laboratory .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   33 "_Y It_PPH1 was_VBDZ the_AT launching_NN1 point_NN1 for_IF his_APPGE robots_NN2 ,_Y "_Y said_VVD Adams_NP1 ,_Y who_PNQS spent_VVD seven_MC years_NNT2 in_II Brooks_NP1 '_GE laboratory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   34 " Up until then , researchers thought robotic intelligence meant building complex models But if you look at animals , they 're not doing that type of modeling .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   34 "_Y Up_II21 until_II22 then_RT ,_Y researchers_NN2 thought_VVD_VVN robotic_JJ intelligence_NN1 meant_VVD_VVN building_VVG@_NN1 complex_JJ_NN1 models_NN2 But_CCB if_CS you_PPY look_VV0 at_II animals_NN2 ,_Y they_PPHS2 're_VBR not_XX doing_VDG that_DD1 type_NN1 of_IO modeling_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   35 " In 1989 , Brooks developed Genghis , a six-legged robot with compound eyes , to embody his layered approach .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   35 "_Y In_II 1989_MC ,_Y Brooks_NP1 developed_VVD Genghis_NP1 ,_Y a_AT1 six-legged_JJ robot_NN1 with_IW compound_NN1 eyes_NN2 ,_Y to_TO embody_VVI his_APPGE layered_JJ approach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   36 It was an immediate success and appeared on the cover of Popular Science .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   36 It_PPH1 was_VBDZ an_AT1 immediate_JJ success_NN1 and_CC appeared_VVD on_II the_AT cover_NN1 of_IO Popular_JJ Science_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   37 " The robot had a behavior that it engaged in by default , it walked , " Adams explained .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   37 "_Y The_AT robot_NN1 had_VHD a_AT1 behavior_NN1 that_CST it_PPH1 engaged_VVD in_II by_II default_NN1 ,_Y it_PPH1 walked_VVD ,_Y "_Y Adams_NP1 explained_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   38 " As it received inputs from the world , different behaviors took over from the default .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   38 "_Y As_CSA it_PPH1 received_VVD inputs_NN2 from_II the_AT world_NN1 ,_Y different_JJ behaviors_NN2 took_VVD over_RP from_II the_AT default_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   39 " Genghis could , in fact , engage in several behaviors , including chase , stand up , and avoid or walk over obstacles .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   39 "_Y Genghis_NP1 could_VM ,_Y in_II fact_NN1 ,_Y engage_VV0 in_II_RP@ several_DA2 behaviors_NN2 ,_Y including_II_VVG@ chase_NN1 ,_Y stand_VV0 up_RP ,_Y and_CC avoid_VV0 or_CC walk_VV0_NN1 over_RP_II obstacles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   40 Those behaviors were prompted by the environment , the same way ant behavior is cued by the scent of food or pheromones .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   40 Those_DD2 behaviors_NN2 were_VBDR prompted_VVN by_II the_AT environment_NN1 ,_Y the_AT same_DA way_NN1 ant_NN1 behavior_NN1 is_VBZ cued_VVN by_II the_AT scent_NN1 of_IO food_NN1 or_CC pheromones_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   41 The resulting interactions mimicked the behavior of insects .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   41 The_AT resulting_JJ interactions_NN2 mimicked_VVD the_AT behavior_NN1 of_IO insects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   42 Indeed , Brooks has described Genghis as having a " wasp-like " personality .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   42 Indeed_RR ,_Y Brooks_NP1 has_VHZ described_VVN Genghis_NP1 as_II having_VHG a_AT1 "_Y wasp-like_JJ "_Y personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   43 The same approach now guides the Roomba , a disk on wheels that scurries around furniture and backs away from walls while randomly vacuuming rooms .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   43 The_AT same_DA approach_NN1 now_RT guides_NN2 the_AT Roomba_NP1_NN1@ ,_Y a_AT1 disk_NN1 on_II wheels_NN2 that_CST_DD1 scurries_VVZ around_II_RP furniture_NN1 and_CC backs_VVZ_NN2 away_II21_RL from_II22_II walls_NN2 while_CS randomly_RR vacuuming_VVG_JJ@ rooms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   44 Roomba 's instruction set looks something upon hitting an object , back up or spiral when caught in a corner , and find the docking station to recharge when low on power .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   44 Roomba_NP1@_NN1 's_GE instruction_NN1 set_NN1 looks_VVZ something_PN1 upon_II hitting_VVG an_AT1 object_NN1 ,_Y back_VV0@_NN1 up_RP or_CC spiral_JJ_NN1 when_CS_RRQ caught_VVN in_II a_AT1 corner_NN1 ,_Y and_CC find_VV0 the_AT docking_NN1 station_NN1 to_TO recharge_VVI when_RRQ_CS low_JJ_RR@ on_II power_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   45 Roomba , a robot vacuum cleaner , solves complex problems by using a few simple rules .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   45 Roomba_NN1_NP1@ ,_Y a_AT1 robot_NN1 vacuum_NN1 cleaner_NN1 ,_Y solves_VVZ complex_JJ problems_NN2 by_II using_VVG a_AT1 few_DA2 simple_JJ rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   46 Is that all there is to a Roomba ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   46 Is_VBZ that_DD1 all_DB_RR@ there_EX is_VBZ to_II a_AT1 Roomba_NN1@_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   47 " We obviously do n't give out all the details of our algorithms , " Adams said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   47 "_Y We_PPIS2 obviously_RR do_VD0 n't_XX give_VVI out_RP all_DB the_AT details_NN2 of_IO our_APPGE algorithms_NN2 ,_Y "_Y Adams_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   48 He notes , however , that many of the principles behind Genghis also govern Roomba .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   48 He_PPHS1 notes_VVZ ,_Y however_RR ,_Y that_CST many_DA2 of_IO the_AT principles_NN2 behind_II Genghis_NP1 also_RR govern_VV0 Roomba_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   49 " You have a behavior that the robot engages in by default , " Adams said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   49 "_Y You_PPY have_VH0 a_AT1 behavior_NN1 that_CST the_AT robot_NN1 engages_VVZ in_RP@ by_II default_NN1 ,_Y "_Y Adams_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   50 " A default behavior might be to drive .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   50 "_Y A_AT1 default_NN1 behavior_NN1 might_VM be_VBI to_TO drive_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   51 If the input is that the front bumper is depressed , it might back up .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   51 If_CS the_AT input_NN1 is_VBZ that_CST the_AT front_JJ_NN1 bumper_NN1 is_VBZ depressed_JJ ,_Y it_PPH1 might_VM back_VVI up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   52 If you start layering those behaviors , you get complex behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   52 If_CS you_PPY start_VV0 layering_VVG@_NN1 those_DD2 behaviors_NN2 ,_Y you_PPY get_VV0 complex_JJ behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   53 " Brian Cusack , an adjunct professor of mechanical engineering at Cooper Union in New York City , makes a similar argument .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   53 "_Y Brian_NP1 Cusack_NP1 ,_Y an_AT1 adjunct_NN1 professor_NN1 of_IO mechanical_JJ engineering_NN1 at_II Cooper_NP1 Union_NP1_NN1 in_II New_NP1 York_NP1 City_NN1 ,_Y makes_VVZ a_AT1 similar_JJ argument_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   54 Cusack 's introductory robotics course ends with a wheeled robot sumo wresting competition .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   54 Cusack_NP1@_NN1_VV0 's_GE introductory_JJ robotics_NN1_NN2 course_NN1 ends_VVZ_NN2 with_IW a_AT1 wheeled_JJ@ robot_NN1 sumo_NN1 wresting_VVG_NN1@_JJ@ competition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   55 " There are only about 50 lines of code in a complicated sumo Do I see the edge of the ring ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   55 "_Y There_EX are_VBR only_RR about_RG 50_MC lines_NN2 of_IO code_NN1 in_II a_AT1 complicated_JJ sumo_NN1 Do_VD0 I_PPIS1 see_VVI the_AT edge_NN1 of_IO the_AT ring_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   56 If yes , turn away .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   56 If_CS yes_UH ,_Y turn_VV0 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   57 Am I touching the other robot ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   57 Am_VB0 I_PPIS1 touching_VVG the_AT other_JJ robot_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   58 If yes , push with all my might .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   58 If_CS yes_UH ,_Y push_VV0 with_IW all_DB my_APPGE might_NN1% ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   59 " We 've found that artificial intelligence is hard , " Cusack continued .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   59 "_Y We_PPIS2 've_VH0 found_VVN that_CST_DD1 artificial_JJ intelligence_NN1 is_VBZ hard_JJ ,_Y "_Y Cusack_NP1 continued_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   60 " Algorithms like those used to play chess are incredibly difficult to implement in a robot that needs to make decisions in real time .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   60 "_Y Algorithms_NN2 like_II those_DD2 used_VMK to_TO play_VVI chess_NN1 are_VBR incredibly_RR difficult_JJ to_TO implement_VVI in_II_RP@ a_AT1 robot_NN1 that_CST_DD1 needs_VVZ to_TO make_VVI decisions_NN2 in_II real_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   61 But intelligent-looking behavior , behavior that mimics intelligence , is not hard .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   61 But_CCB intelligent-looking_JJ behavior_NN1 ,_Y behavior_NN1 that_CST_DD1 mimics_VVZ intelligence_NN1 ,_Y is_VBZ not_XX hard_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   62 You do n't need a supercomputer , so you can do it for $200 rather than $200,000 .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   62 You_PPY do_VD0 n't_XX need_VVI a_AT1 supercomputer_NN1 ,_Y so_CS@_RR you_PPY can_VM do_VDI it_PPH1 for_IF $200_NNU rather_II21 than_II22 $200,000_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   63 " SURPRISING BEHAVIOR Watch a Roomba go about its chores and it becomes obvious that it makes many less than optimal ( or even stupid ) decisions .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   63 "_Y SURPRISING_JJ BEHAVIOR_NN1_NP1 Watch_VV0 a_AT1 Roomba_NN1@_NP1 go_VVI about_II_RP@ its_Z' chores_NN2 and_CC it_PPH1 becomes_VVZ obvious_JJ that_CST it_PPH1 makes_VVZ many_DA2 less_DAR than_CSN optimal_JJ (_Y or_CC even_RR stupid_JJ )_Y decisions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   64 Which raises the question , can robots learn to behave , pardon the expression , more intelligently ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   64 Which_DDQ raises_VVZ the_AT question_NN1 ,_Y can_VV0%_VM_NN1% robots_NN2 learn_VVI to_TO behave_VVI ,_Y pardon_VV0@ the_AT expression_NN1 ,_Y more_RGR intelligently_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   65 And can they do it with simple commands that enable them to function in the real world ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   65 And_CC can_VM they_PPHS2 do_VDI it_PPH1 with_IW simple_JJ commands_NN2 that_CST enable_VV0 them_PPHO2 to_TO function_VVI in_II the_AT real_JJ world_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   66 Stefan Wrobel thinks so .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   66 Stefan_NP1 Wrobel_NP1 thinks_VVZ so_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   67 Wrobel , director of the Fraunhofer Institute for Intelligent Analysis and Information Systems near Bonn , is active in RoboCup competitions of students put the finishing touches on their RoboCup contenders , " behaviors are the building blocks of a goal you want to achieve .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   67 Wrobel_VV0_NN1_NP1@ ,_Y director_NN1 of_IO the_AT Fraunhofer_NN1_NP1 Institute_NN1 for_IF Intelligent_JJ Analysis_NN1 and_CC Information_NN1 Systems_NN2 near_II Bonn_NP1 ,_Y is_VBZ active_JJ in_II RoboCup_NP1_NN1 competitions_NN2 of_IO students_NN2 put_VV0_VVD the_AT finishing_JJ touches_NN2 on_II their_APPGE RoboCup_NN1 contenders_NN2 ,_Y "_Y behaviors_NN2 are_VBR the_AT building_NN1 blocks_NN2 of_IO a_AT1 goal_NN1 you_PPY want_VV0 to_TO achieve_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   68 Robots that learn and adapt to the environment go beyond manifesting behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   68 Robots_NN2 that_CST learn_VV0 and_CC adapt_VV0 to_II the_AT environment_NN1 go_VV0 beyond_II manifesting_VVG_JJ@ behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   69 They learn while performing tasks .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   69 They_PPHS2 learn_VV0 while_CS performing_VVG_JJ@ tasks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   70 " At its least complicated level , a robot could use simple behaviors to confirm its model of the environment .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   70 "_Y At_II its_Z' least_RGT complicated_JJ level_NN1_JJ ,_Y a_AT1 robot_NN1 could_VM use_VVI simple_JJ behaviors_NN2 to_TO confirm_VVI its_Z' model_NN1 of_IO the_AT environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   71 " When searching for power , it would learn whether its world model is or is not correct .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   71 "_Y When_CS searching_VVG for_IF power_NN1 ,_Y it_PPH1 would_VM learn_VVI whether_CSW its_Z' world_NN1 model_NN1 is_VBZ or_CC is_VBZ not_XX correct_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   72 If there is no power source in the northwest corner , it could remember that , " Wrobel said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   72 If_CS there_EX is_VBZ no_AT power_NN1 source_NN1 in_II the_AT northwest_ND1 corner_NN1 ,_Y it_PPH1 could_VM remember_VVI that_DD1_CST ,_Y "_Y Wrobel_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   73 On a more sophisticated level , a robot could assign priorities to its own behaviors , such as when to move or what to grab .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   73 On_II a_AT1 more_RGR sophisticated_JJ level_NN1_JJ ,_Y a_AT1 robot_NN1 could_VM assign_VVI priorities_NN2 to_II its_Z' own_DA behaviors_NN2 ,_Y such_II21 as_II22 when_RRQ to_TO move_VVI or_CC what_DDQ to_TO grab_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   74 According to Wrobel , designers give robots goals , and when the robot does something right , it receives a " reward .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   74 According_II21 to_II22 Wrobel_NP1 ,_Y designers_NN2 give_VV0 robots_NN2 goals_NN2 ,_Y and_CC when_CS_RRQ the_AT robot_NN1 does_VDZ something_PN1 right_RR_JJ ,_Y it_PPH1 receives_VVZ a_AT1 "_Y reward_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   75 " This is exactly how animal trainers use food rewards , though robots respond better to a number in an algorithm than to a piece of kibble .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   75 "_Y This_DD1 is_VBZ exactly_RR how_RRQ_RGQ@ animal_NN1_JJ% trainers_NN2 use_VV0 food_NN1 rewards_NN2 ,_Y though_CS robots_NN2 respond_VV0 better_RRR_JJR to_II a_AT1 number_NN1 in_II an_AT1 algorithm_NN1 than_CSN to_II a_AT1 piece_NN1 of_IO kibble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   76 " The robot does n't know exactly what it did complex interactions .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   76 "_Y The_AT robot_NN1 does_VDZ n't_XX know_VVI exactly_RR what_DDQ it_PPH1 did_VDD complex_JJ interactions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   77 But the actions that get you the most credit at the end of the day are the ones the robot is most likely to repeat .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   77 But_CCB the_AT actions_NN2 that_CST get_VV0 you_PPY the_AT most_DAT_RRT@_RGT credit_NN1_VV0@ at_II the_AT end_NN1 of_IO the_AT day_NNT1 are_VBR the_AT ones_Z' the_AT robot_NN1 is_VBZ most_RGT likely_JJ to_TO repeat_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   78 " Unfortunately , actions do not take place in a vacuum .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   78 "_Y Unfortunately_RR ,_Y actions_NN2 do_VD0 not_XX take_VVI place_NN1 in_II a_AT1 vacuum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   79 They happen in specific states , or operating parameters , such as location , sensor input , and battery charge .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   79 They_PPHS2 happen_VV0 in_II_RP@ specific_JJ states_NN2 ,_Y or_CC operating_VVG_NN1 parameters_NN2 ,_Y such_II21 as_II22 location_NN1 ,_Y sensor_NN1 input_NN1 ,_Y and_CC battery_NN1 charge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   80 A single 8-bit sensor can record 2 8 or 256 different states , and a robot may have a dozen or more sensors .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   80 A_AT1_ZZ1 single_JJ 8-bit_NN1 sensor_NN1 can_VM record_VVI 2_MC 8_MC or_CC 256_MC different_JJ states_NN2 ,_Y and_CC a_AT1 robot_NN1 may_VM have_VHI a_AT1 dozen_M1 or_CC more_DAR sensors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   81 It takes a lot of computing power for the robot to decode what it did right .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   81 It_PPH1 takes_VVZ a_AT1 lot_NN1 of_IO computing_NN1_JJ@ power_NN1 for_IF the_AT robot_NN1 to_TO decode_VVI what_DDQ it_PPH1 did_VDD right_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   82 BlueBotics'Gilbert maps its environment using wheel encoders and uses sensors to avoid moving obstacles .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   82 BlueBotics'Gilbert_NP1 maps_VVZ%_NN2 its_Z' environment_NN1 using_VVG wheel_NN1 encoders_NN2_VVZ and_CC uses_VVZ_NN2 sensors_NN2 to_TO avoid_VVI moving_VVG_JJ@ obstacles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   83 One approach , and Wrobel 's latest line of research , is to attack the problem holistically .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   83 One_MC1 approach_NN1 ,_Y and_CC Wrobel_NP1 's_GE latest_JJT line_NN1 of_IO research_NN1 ,_Y is_VBZ to_TO attack_VVI the_AT problem_NN1 holistically_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   84 " When I think of a robot 's representation of the world , I think of measuring and storing information .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   84 "_Y When_CS_RRQ I_PPIS1 think_VV0 of_IO a_AT1 robot_NN1 's_GE representation_NN1 of_IO the_AT world_NN1 ,_Y I_PPIS1 think_VV0 of_IO measuring_VVG_JJ@ and_CC storing_VVG information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   85 But it 's obvious that 's not how the human brain works .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   85 But_CCB it_PPH1 's_VBZ obvious_JJ that_CST_DD1 's_VBZ not_XX how_RRQ the_AT human_JJ_NN1 brain_NN1 works_VVZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   86 The brain is n't digital .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   86 The_AT brain_NN1 is_VBZ n't_XX digital_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   87 A robot 's sampling rate completely loses the dynamicism of the world .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   87 A_AT1 robot_NN1 's_GE sampling_NN1_VVG rate_NN1 completely_RR loses_VVZ the_AT dynamicism_NN1 of_IO the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   88 It is is to see the wave .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   88 It_PPH1 is_VBZ is_VBZ to_TO see_VVI the_AT wave_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   89 So we 're looking at ways use analog chips to create complexity in different systems .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   89 So_RR we_PPIS2 're_VBR looking_VVG at_II ways_NN2 use_VV0 analog_NN1_VV0 chips_NN2 to_TO create_VVI complexity_NN1 in_II different_JJ systems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   90 " For all the work in getting robots to discover their environment , providing a little human guidance is still important .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   90 "_Y For_IF all_DB the_AT work_NN1 in_II getting_VVG robots_NN2 to_TO discover_VVI their_APPGE environment_NN1 ,_Y providing_VVG a_AT1 little_JJ human_JJ_NN1 guidance_NN1 is_VBZ still_RR important_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   91 ' That was exactly what Grgoire Terrien , an engineering manager at BlueBotics , headquartered in Lausanne , Switzerland , did with Gilbert .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   91 '_"@_GE That_DD1 was_VBDZ exactly_RR what_DDQ Grgoire_VV0_NP1 Terrien_NP1 ,_Y an_AT1 engineering_NN1 manager_NN1 at_II BlueBotics_NP1_NN2_NN1 ,_Y headquartered_VVD_VVN@ in_II Lausanne_NP1 ,_Y Switzerland_NP1 ,_Y did_VDD with_IW Gilbert_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   92 Gilbert is an autonomous robot that patrolled the perimeter of the BlueBotics booth at Hanover Fair , along the side of the RoboCup playing fields .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   92 Gilbert_NP1 is_VBZ an_AT1 autonomous_JJ robot_NN1 that_CST patrolled_VVD the_AT perimeter_NN1 of_IO the_AT BlueBotics_NN1_NP1 booth_NN1 at_II Hanover_NP1 Fair_JJ_NN1@ ,_Y along_II the_AT side_NN1 of_IO the_AT RoboCup_NN1_NP1 playing_VVG fields_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   93 Before the fair opened , Terrien walked Gilbert around the booth to help it map the space , a process known as localization .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   93 Before_CS_II the_AT fair_JJ_RR@ opened_VVD_VVN_JJ% ,_Y Terrien_NP1 walked_VVD Gilbert_NP1 around_II the_AT booth_NN1 to_TO help_VVI it_PPH1 map_VVI the_AT space_NN1 ,_Y a_AT1 process_NN1 known_VVN as_II localization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   94 There are many ways to localize a robot .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   94 There_EX are_VBR many_DA2 ways_NN2 to_TO localize_VVI a_AT1 robot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   95 Terrien tilted his head towards three robots running in a tight circle across the hall .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   95 Terrien_NP1 tilted_VVD his_APPGE head_NN1 towards_II three_MC robots_NN2 running_VVG in_II_RP@ a_AT1 tight_JJ circle_NN1 across_II the_AT hall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   96 " Some of those robots are using sensors to follow a line , but it 's not very flexible , " he said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   96 "_Y Some_DD of_IO those_DD2 robots_NN2 are_VBR using_VVG sensors_NN2 to_TO follow_VVI a_AT1 line_NN1 ,_Y but_CCB it_PPH1 's_VBZ not_XX very_RG flexible_JJ ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   97 Then he pointed to three towers with spinning beacons on top .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   97 Then_RT he_PPHS1 pointed_VVD to_II three_MC towers_NN2 with_IW spinning_VVG_JJ@ beacons_NN2 on_II top_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   98 " The other robots are triangulating their location from the beacons , home , those beacons could be blocked .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   98 "_Y The_AT other_JJ robots_NN2 are_VBR triangulating_VVG their_APPGE location_NN1 from_II the_AT beacons_NN2 ,_Y home_NN1 ,_Y those_DD2 beacons_NN2 could_VM be_VBI blocked_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0   99 To be truly autonomous , a robot has to adapt to the environment , not the other way around .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0   99 To_TO be_VBI truly_RR autonomous_JJ ,_Y a_AT1 robot_NN1 has_VHZ to_TO adapt_VVI to_II the_AT environment_NN1 ,_Y not_XX the_AT other_JJ way_NN1 around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  100 " To acclimate Gilbert to his environment ( a booth , since Hanover Fair does not allow robots to roam free ) Terrien walked the robot around , enabling Gilbert to map the booth 's walls .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  100 "_Y To_TO acclimate_VVI Gilbert_NP1 to_II his_APPGE environment_NN1 (_Y a_AT1 booth_NN1 ,_Y since_CS Hanover_NP1 Fair_JJ does_NN2 not_XX allow_VVI robots_NN2 to_TO roam_VVI free_JJ )_Y Terrien_NP1 walked_VVD the_AT robot_NN1 around_RP ,_Y enabling_VVG Gilbert_NP1 to_TO map_VVI the_AT booth_NN1 's_GE walls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  101 " Gilbert also recorded data from encoders on its wheels that are accurate within 1 centimeter , " Terrien said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  101 "_Y Gilbert_NP1 also_RR recorded_VVN_VVD_JJ@ data_NN from_II encoders_NN2 on_II its_Z' wheels_NN2 that_CST are_VBR accurate_JJ within_II 1_MC1 centimeter_NN1_JJR ,_Y "_Y Terrien_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  102 Employing both the map and encoder data , Gilbert can calculate its position .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  102 Employing_VVG both_DB2_RR the_AT map_NN1 and_CC encoder_VV0_NN1 data_NN ,_Y Gilbert_NP1 can_VM calculate_VVI its_Z' position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  103 It also uses a laser scanner to find objects it must avoid , such as chairs and people .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  103 It_PPH1 also_RR uses_VVZ a_AT1 laser_NN1 scanner_NN1 to_TO find_VVI objects_NN2 it_PPH1 must_VM avoid_VVI ,_Y such_II21 as_II22 chairs_NN2 and_CC people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  104 Does the robot really know where it is ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  104 Does_VDZ the_AT robot_NN1 really_RR know_VVI where_RRQ it_PPH1 is_VBZ ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  105 Robots are sometimes switched off , or picked up and moved somewhere else ( the so-called kidnapped robot problem .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  105 Robots_NN2 are_VBR sometimes_RT switched_VVN off_RP ,_Y or_CC picked_VVD_VVN up_RP and_CC moved_VVD_VVN somewhere_RL else_RR (_Y the_AT so-called_JJ kidnapped_JJ%_VVD_VVN robot_NN1 problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  106 ) Their sensors may make small errors that accumulate over time .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  106 )_Y Their_APPGE sensors_NN2 may_VM make_VVI small_JJ errors_NN2 that_CST accumulate_VV0 over_II_RP time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  107 A robot may think it knows its position , but it is sometimes mistaken .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  107 A_AT1 robot_NN1 may_VM think_VVI it_PPH1 knows_VVZ its_Z' position_NN1 ,_Y but_CCB it_PPH1 is_VBZ sometimes_RT mistaken_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  108 BlueBotics , like other autonomous robot designers , takes a probabilistic approach to localization .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  108 BlueBotics_NN2_NN1_NP1@ ,_Y like_II other_JJ autonomous_JJ robot_NN1 designers_NN2 ,_Y takes_VVZ a_AT1 probabilistic_JJ approach_NN1 to_II localization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  109 Terrien it is .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  109 Terrien_NP1 it_PPH1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  110 Most of the marks cluster within a small ellipse , but there are scattered markings everywhere else .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  110 Most_DAT of_IO the_AT marks_NN2 cluster_VV0 within_II a_AT1 small_JJ ellipse_NN1 ,_Y but_CCB there_EX are_VBR scattered_JJ_VVN markings_NN2 everywhere_RL else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  111 Gilbert constantly recalibrates that ellipse , which represents its location with a 95 percent probability .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  111 Gilbert_NP1 constantly_RR recalibrates_VVZ that_CST_DD1 ellipse_VV0_NN1 ,_Y which_DDQ represents_VVZ its_Z' location_NN1 with_IW a_AT1 95_MC percent_NNU probability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  112 But if it becomes lost and ca n't find a landmark to reorient itself , it will stop .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  112 But_CCB if_CS it_PPH1 becomes_VVZ lost_JJ@_VVN and_CC ca_VM n't_XX find_VVI a_AT1 landmark_NN1 to_II reorient_NN1_JJ itself_PPX1 ,_Y it_PPH1 will_VM stop_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  113 The approach looks impressive when applied to Nes-bot , a robot BlueBotics built for Nestl Nespresso , a coffee service provider .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  113 The_AT approach_NN1 looks_VVZ impressive_JJ when_CS applied_VVN to_II Nes-bot_NN1_JJ ,_Y a_AT1 robot_NN1 BlueBotics_NN2_NN1 built_VVN_VVD for_IF Nestl_NP1_NN1 Nespresso_NP1_NN1 ,_Y a_AT1 coffee_NN1 service_NN1 provider_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  114 Nesbot is essentially an autonomous coffee machine .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  114 Nesbot_NN1_VV0_NP1@ is_VBZ essentially_RR an_AT1 autonomous_JJ coffee_NN1 machine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  115 It takes orders from a detachable handheld PC or from the Internet , then navigates Nespresso 's offices to deliver the beverage to the employee 's desk .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  115 It_PPH1 takes_VVZ orders_NN2 from_II a_AT1 detachable_JJ handheld_JJ PC_NN1 or_CC from_II the_AT Internet_NN1_NP1 ,_Y then_RT navigates_VVZ Nespresso_NP1_NN1 's_GE offices_NN2 to_TO deliver_VVI the_AT beverage_NN1 to_II the_AT employee_NN1 's_GE desk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  116 Nesbot is an autonomous robot that delivers coffee to the desks of Nestle workers who place orders over the Internet .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  116 Nesbot_NN1_VV0_NP1@ is_VBZ an_AT1 autonomous_JJ robot_NN1 that_CST_DD1 delivers_VVZ coffee_NN1 to_II the_AT desks_NN2 of_IO Nestle_NP1 workers_NN2 who_PNQS place_VV0 orders_NN2 over_II the_AT Internet_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  117 TEAMWORK While Terrien was talking , RoboCup matches were under way .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  117 TEAMWORK_NN1 While_CS Terrien_NP1 was_VBDZ talking_VVG ,_Y RoboCup_VV0_NP1_NN1 matches_NN2 were_VBDR under_RR21 way_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  118 The long-term goal of the competition is to develop a team of robots capable of winning a match against human opponents by 2050 .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  118 The_AT long-term_JJ goal_NN1 of_IO the_AT competition_NN1 is_VBZ to_TO develop_VVI a_AT1 team_NN1 of_IO robots_NN2 capable_JJ of_IO winning_VVG a_AT1 match_NN1 against_II human_JJ_NN1 opponents_NN2 by_II 2050_MC ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  119 But if the play of the humanoid division is any indication , that timeline may be optimistic .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  119 But_CCB if_CS the_AT play_NN1 of_IO the_AT humanoid_JJ_NN1 division_NN1 is_VBZ any_DD indication_NN1 ,_Y that_DD1_CST timeline_NN1 may_VM be_VBI optimistic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  120 The University first-time RoboCup competitor .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  120 The_AT University_NN1 first-time_JJ RoboCup_NN1 competitor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  121 At the midline , two NimbRo robots march in place while the other team 's robots stand still .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  121 At_II the_AT midline_NN1 ,_Y two_MC NimbRo_NN1_NP1 robots_NN2 march_VV0 in_II_RP@ place_NN1 while_CS the_AT other_JJ team_NN1 's_GE robots_NN2 stand_VV0 still_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  122 As they stomp from foot to foot , the NimbRo bots look intimidating , like veterans trying to scare a squad of rookies .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  122 As_CSA they_PPHS2 stomp_VV0 from_II foot_NN1 to_II foot_NN1 ,_Y the_AT NimbRo_NN1_NP1 bots_NN2_VVZ look_VV0 intimidating_JJ ,_Y like_II_JJ@ veterans_NN2 trying_VVG to_TO scare_VVI a_AT1 squad_NN1 of_IO rookies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  123 Is that why they do it ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  123 Is_VBZ that_DD1 why_RRQ they_PPHS2 do_VD0 it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  124 " No , " said Sven Behnke , head of Bonn 's Autonomous Intelligent Systems Group and NimbRo 's team advisor .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  124 "_Y No_UH ,_Y "_Y said_VVD Sven_NP1 Behnke_NP1 ,_Y head_NN1 of_IO Bonn_NP1 's_GE_VBZ Autonomous_JJ Intelligent_JJ Systems_NN2 Group_NN1 and_CC NimbRo_NP1_NN1 's_GE team_NN1 advisor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  125 " We do it because it 's hard for humanoids to start and stop .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  125 "_Y We_PPIS2 do_VD0 it_PPH1 because_CS it_PPH1 's_VBZ hard_JJ for_IF humanoids_NN2 to_TO start_VVI and_CC stop_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  126 " The NimbRo robots soon prove Behnke 's point .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  126 "_Y The_AT NimbRo_NN1_NP1 robots_NN2 soon_RR prove_VV0 Behnke_NP1 's_GE point_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  127 As the referee blows the whistle , the NimbRo robots clomp off after the ball while two of their opponents immediately fall over .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  127 As_II_CSA the_AT referee_NN1 blows_VVZ the_AT whistle_NN1 ,_Y the_AT NimbRo_NN1_NP1 robots_NN2 clomp_VV0 off_RP after_II_CS the_AT ball_NN1 while_CS two_MC of_IO their_APPGE opponents_NN2 immediately_RR fall_VV0 over_RP ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  128 Humanoid robots show themselves to be limited in other ways .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  128 Humanoid_JJ_NN1 robots_NN2 show_VV0 themselves_PPX2 to_TO be_VBI limited_VVN in_II other_JJ ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  129 They must stop before kicking the ball .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  129 They_PPHS2 must_VM stop_VVI before_II kicking_VVG the_AT ball_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  130 They can not pass effectively .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  130 They_PPHS2 can_VM not_XX pass_VVI effectively_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  131 Few can lift themselves off the ground .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  131 Few_DA2 can_VM lift_VVI themselves_PPX2 off_II_RP the_AT ground_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  132 They are also painfully slow .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  132 They_PPHS2 are_VBR also_RR painfully_RR slow_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  133 Wheeled robots have more game , They speed around the field , pumping the ball to one another and then finally bouncing it towards the goal .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  133 Wheeled_JJ@_VVN robots_NN2 have_VH0 more_DAR game_NN1 ,_Y They_PPHS2 speed_VV0@ around_RP_II the_AT field_NN1 ,_Y pumping_VVG the_AT ball_NN1 to_II one_PPX121 another_PPX122 and_CC then_RT finally_RR bouncing_VVG it_PPH1 towards_II the_AT goal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  134 The reason the robots can work together and still make rapid decisions is because they are organized hierarchical ly .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  134 The_AT reason_NN1 the_AT robots_NN2 can_VM work_VVI together_RL and_CC still_RR make_VVI rapid_JJ decisions_NN2 is_VBZ because_CS they_PPHS2 are_VBR organized_VVN hierarchical_JJ ly_RR_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  135 " Robots have to react to different things as individual robots and as team players , " Behnke said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  135 "_Y Robots_NN2 have_VH0 to_TO react_VVI to_II different_JJ things_NN2 as_CSA_RG@ individual_JJ robots_NN2 and_CC as_CSA_II@ team_NN1 players_NN2 ,_Y "_Y Behnke_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  136 Each of Behnke 's robots have tour levels of control : the entire team , individual robot , isolated body parts , and single joints .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  136 Each_DD1 of_IO Behnke_NP1 's_GE robots_NN2 have_VH0 tour_NN1 levels_NN2 of_IO control_NN1 :_Y the_AT entire_JJ team_NN1 ,_Y individual_JJ robot_NN1 ,_Y isolated_JJ_VVD body_NN1 parts_NN2 ,_Y and_CC single_JJ joints_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  137 At the team level , the robots are focused on plans for the immediate future , while at the individual level , they react more to their environment .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  137 At_II the_AT team_NN1 level_NN1 ,_Y the_AT robots_NN2 are_VBR focused_VVN on_II plans_NN2 for_IF the_AT immediate_JJ future_NN1_JJ ,_Y while_CS at_II the_AT individual_JJ_NN1 level_NN1_JJ ,_Y they_PPHS2 react_VV0 more_RRR_DAR to_II their_APPGE environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  138 " The mechanisms are simple all around , but their interactions with the environment creates some complexity , " Behnke said .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  138 "_Y The_AT mechanisms_NN2 are_VBR simple_JJ all_DB_RR@ around_RP ,_Y but_CCB their_APPGE interactions_NN2 with_IW the_AT environment_NN1 creates_VVZ some_DD complexity_NN1 ,_Y "_Y Behnke_NP1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  139 For example , each of Behnke 's robots fixes its position by comparing a map of the green field with such visual cues as the white sidelines and goal .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  139 For_REX21 example_REX22 ,_Y each_DD1 of_IO Behnke_NP1 's_GE robots_NN2 fixes_VVZ its_Z' position_NN1 by_II comparing_VVG a_AT1 map_NN1 of_IO the_AT green_JJ_NN1 field_NN1 with_IW such_DA visual_JJ cues_NN2 as_CSA the_AT white_JJ sidelines_NN2 and_CC goal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  140 The robot moves toward the ball by default ; as it moves , it calculates the ball 's trajectory and plots a curved course that would place it behind the ball to position itself for the kick .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  140 The_AT robot_NN1 moves_VVZ_NN2 toward_II the_AT ball_NN1 by_II default_NN1 ;_Y as_CSA it_PPH1 moves_VVZ ,_Y it_PPH1 calculates_VVZ the_AT ball_NN1 's_GE trajectory_NN1 and_CC plots_NN2_VVZ% a_AT1 curved_JJ course_NN1 that_CST_DD1 would_VM place_VVI it_PPH1 behind_II the_AT ball_NN1 to_TO position_VVI itself_PPX1 for_IF the_AT kick_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  141 Once the robot makes these calculations 's arms and legs , which send even more detailed orders to the actuators in its joints .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  141 Once_CS@_RR the_AT robot_NN1 makes_VVZ these_DD2 calculations_NN2 's_GE arms_NN2 and_CC legs_NN2 ,_Y which_DDQ send_VV0 even_RR more_RGR detailed_JJ orders_NN2 to_II the_AT actuators_NN2 in_II its_Z' joints_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  142 " The robot would be helpless if it tried to control everything through one central controller , " said Behnke .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  142 "_Y The_AT robot_NN1 would_VM be_VBI helpless_JJ if_CS_CSW@ it_PPH1 tried_VVD to_TO control_VVI everything_PN1 through_II one_MC1 central_JJ controller_NN1 ,_Y "_Y said_VVD Behnke_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  143 " Humans are the same way .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  143 "_Y Humans_NN2 are_VBR the_AT same_DA way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  144 The brain decides on a plan and the spinal cord communicates it through local reflexes to the rest of the body .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  144 The_AT brain_NN1 decides_VVZ on_II_RP@ a_AT1 plan_NN1 and_CC the_AT spinal_JJ cord_NN1 communicates_VVZ it_PPH1 through_II_RP@ local_JJ reflexes_NN2 to_II the_AT rest_NN1 of_IO the_AT body_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  145 It 's simple and reactive .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  145 It_PPH1 's_VBZ simple_JJ and_CC reactive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  146 " Simple and reactive are good , but consistent is even better .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  146 "_Y Simple_JJ and_CC reactive_JJ are_VBR good_JJ ,_Y but_CCB consistent_JJ is_VBZ even_RR better_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  147 That begins with physical robustness .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  147 That_DD1 begins_VVZ with_IW physical_JJ robustness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  148 For every minute of RoboCup play by teams such as NimbRo , which went on to win the championship , there are untold hours of preparation and recalibration .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  148 For_IF every_AT1 minute_NNT1 of_IO RoboCup_NP1_NN1 play_NN1_VV0 by_II teams_NN2 such_II21 as_II22 NimbRo_NP1_NN1 ,_Y which_DDQ went_VVD on_RP to_TO win_VVI the_AT championship_NN1 ,_Y there_EX are_VBR untold_JJ hours_NNT2 of_IO preparation_NN1 and_CC recalibration_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  149 At tables around the playing field , scores of Students are repairing , upgrading , or salvaging robots .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  149 At_II tables_NN2 around_II the_AT playing_JJ%_VVG_NN1% field_NN1 ,_Y scores_NN2 of_IO Students_NN2 are_VBR repairing_VVG ,_Y upgrading_VVG ,_Y or_CC salvaging_VVG_JJ@ robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  150 Ericson Mar , who teaches robotics at Cooper Union , ends his class with robot tank battle .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  150 Ericson_NN1_NP1@ Mar_VV0_NPM1 ,_Y who_PNQS teaches_VVZ robotics_NN2_NN1 at_II Cooper_NP1 Union_NP1 ,_Y ends_VVZ his_APPGE class_NN1 with_IW robot_NN1 tank_NN1 battle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  151 Students outfit their robots with all kinds of sensors , from electronic compasses and wheel encoders to sonar and infrared range finders .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  151 Students_NN2 outfit_NN1 their_APPGE robots_NN2 with_IW all_DB kinds_NN2 of_IO sensors_NN2 ,_Y from_II electronic_JJ compasses_NN2 and_CC wheel_NN1 encoders_VVZ_NN2 to_II sonar_NN1 and_CC infrared_JJ range_NN1 finders_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  152 Even so , according to Mar , " Winning are the ones that can do the task over and over again .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  152 Even_RR21 so_RR22 ,_Y according_II21 to_II22 Mar_NPM1 ,_Y "_Y Winning_VVG are_VBR the_AT ones_Z' that_CST_DD1 can_VM do_VDI the_AT task_NN1 over_RP_II and_CC over_RP_II again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  153 " Yet the challenge of developing physically robust robots pales in comparison with the obstacles posed by achieving consistent behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  153 "_Y Yet_RR the_AT challenge_NN1 of_IO developing_VVG_JJ physically_RR robust_JJ robots_NN2 pales_VVZ in_II31 comparison_II32 with_II33 the_AT obstacles_NN2 posed_VVN by_II achieving_VVG consistent_JJ behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  154 Just like ants crying to follow a path of fading pheromones , autonomous robots learn from random behavior .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  154 Just_RR like_II_JJ@ ants_NN2 crying_VVG to_TO follow_VVI a_AT1 path_NN1 of_IO fading_VVG_JJ@ pheromones_NN2 ,_Y autonomous_JJ robots_NN2 learn_VV0 from_II random_JJ behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  155 As robots learn and adapt , they often show unpredictable behavior that no one expected .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  155 As_CSA robots_NN2 learn_VV0 and_CC adapt_VV0 ,_Y they_PPHS2 often_RR show_VV0 unpredictable_JJ behavior_NN1 that_CST no_PN121 one_PN122 expected_VVD_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  156 The RoboCup is a soccer competition for autonomous robots .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  156 The_AT RoboCup_NN1_NP1 is_VBZ a_AT1 soccer_NN1 competition_NN1 for_IF autonomous_JJ robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  157 To win , robots must play as both individuals and team members .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  157 To_TO win_VVI ,_Y robots_NN2 must_VM play_VVI as_RG@_CSA both_RR individuals_NN2 and_CC team_NN1 members_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  158 So goes the State of the art in autonomous robots .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  158 So_RR goes_VVZ the_AT State_NN1 of_IO the_AT art_NN1 in_II autonomous_JJ robots_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  159 Researchers have found a model -- layer simple behaviors to build complex interactions -- that enables them to enate robots that do useful and interesting things in real time .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  159 Researchers_NN2 have_VH0 found_VVN a_AT1 model_NN1 --_NN1_JJ layer_NN1 simple_JJ behaviors_NN2 to_TO build_VVI complex_JJ interactions_NN2 --_NN1_JJ that_CST_DD1 enables_VVZ them_PPHO2 to_TO enate_VVI robots_NN2 that_CST do_VD0 useful_JJ and_CC interesting_JJ things_NN2 in_II real_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  160 Only they ca n't do them consistently enough for most real-world applications .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  160 Only_RR_CS% they_PPHS2 ca_VM n't_XX do_VDI them_PPHO2 consistently_RR enough_RR_DD for_IF most_DAT real-world_JJ applications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  161 Many challenges remain .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  161 Many_DA2 challenges_NN2 remain_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  162 Autonomous robots need better localization and mapping .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  162 Autonomous_JJ robots_NN2 need_VV0 better_JJR localization_NN1 and_CC mapping_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  163 They must learn taster and more efficiently .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  163 They_PPHS2 must_VM learn_VVI taster_NN1 and_CC more_RGR efficiently_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  164 I hey should work together better as a team .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  164 I_PPIS1 hey_UH should_VM work_VVI together_RL better_VV0% as_II_CSA a_AT1 team_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  165 They need to be more robust .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  165 They_PPHS2 need_VV0 to_TO be_VBI more_RGR robust_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  166 Above all , they need to get smarter .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  166 Above_II all_DB ,_Y they_PPHS2 need_VV0 to_TO get_VVI smarter_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  167 It stumbles around until it creates the shortest path to food .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  167 It_PPH1 stumbles_VVZ around_RP until_CS it_PPH1 creates_VVZ the_AT shortest_JJT path_NN1 to_II food_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  168 Humans can see the whole picture and pick out that path immediately .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  168 Humans_NN2 can_VM see_VVI the_AT whole_JJ_NN1 picture_NN1 and_CC pick_VVI out_RP that_DD1_CST path_NN1 immediately_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  169 Now that engineers have developed robots to the level of ants , can they lift robotic sophistication to the next evolution ary step ?
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  169 Now_CS21 that_CS22 engineers_NN2 have_VH0 developed_VVN robots_NN2 to_II the_AT level_NN1 of_IO ants_NN2 ,_Y can_VM they_PPHS2 lift_VVI robotic_JJ sophistication_NN1 to_II the_AT next_MD evolution_NN1 ary_NN1_JJ step_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  A    0  170 By Alan S. Brown
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080053 COCA  B    0  170 By_II Alan_NP1 S._ZZ Brown_NP1

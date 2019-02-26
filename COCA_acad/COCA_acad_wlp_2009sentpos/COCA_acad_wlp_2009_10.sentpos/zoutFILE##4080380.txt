@@ -1,0 +1,228 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    0 Differential Item Functioning ( DIF ) is a widely used term in test development literature .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    0 Differential_JJ_NN1 Item_NN1 Functioning_VVG_NN1@ (_Y DIF_NP1 )_Y is_VBZ a_AT1 widely_RR used_JJ_VVN term_NN1 in_II test_NN1 development_NN1 literature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    1 It is very important to analyze test 's data for DIF because It is a serious threat to validity .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    1 It_PPH1 is_VBZ very_RG important_JJ to_TO analyze_VVI test_NN1 's_GE data_NN for_IF DIF_NP1 because_CS It_PPH1 is_VBZ a_AT1 serious_JJ threat_NN1 to_II validity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    2 If the same data matrix was transposed , similar analysis can be carried for Differential Person Functioning ( DPF ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    2 If_CS the_AT same_DA data_NN matrix_NN1 was_VBDZ transposed_VVN ,_Y similar_JJ analysis_NN1 can_VM be_VBI carried_VVN for_IF Differential_JJ_NN1 Person_NN1 Functioning_VVG_NN1@ (_Y DPF_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    3 The purpose of this paper is to introduce and encourage the use of DPF analysis in tests of emotional or cognitive intelligence as a diagnostic approach through two examples illustrating the presence of DPF .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    3 The_AT purpose_NN1 of_IO this_DD1 paper_NN1 is_VBZ to_TO introduce_VVI and_CC encourage_VVI the_AT use_NN1 of_IO DPF_NP1 analysis_NN1 in_II tests_NN2 of_IO emotional_JJ or_CC cognitive_JJ intelligence_NN1 as_II_CSA a_AT1 diagnostic_JJ approach_NN1 through_II two_MC examples_NN2 illustrating_VVG the_AT presence_NN1 of_IO DPF_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    4 Tests and testing play a major role in today 's society .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    4 Tests_NN2 and_CC testing_NN1_VVG play_VV0_NN1 a_AT1 major_JJ role_NN1 in_II_RP@ today_RT 's_GE society_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    5 Therefore , it is extremely important that test developers and users strive to insure the validity of their tests and instruments for the target population and purposes for which they were designed for .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    5 Therefore_RR ,_Y it_PPH1 is_VBZ extremely_RR important_JJ that_CST_DD1 test_VV0_NN1 developers_NN2 and_CC users_NN2 strive_VV0 to_TO insure_VVI the_AT validity_NN1 of_IO their_APPGE tests_NN2 and_CC instruments_NN2 for_IF the_AT target_NN1 population_NN1 and_CC purposes_NN2 for_IF which_DDQ they_PPHS2 were_VBDR designed_VVN for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    6 Therefore , many writers , investigators , and researchers have addressed the notion of test or item bias .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    6 Therefore_RR ,_Y many_DA2 writers_NN2 ,_Y investigators_NN2 ,_Y and_CC researchers_NN2 have_VH0 addressed_VVN the_AT notion_NN1 of_IO test_NN1 or_CC item_NN1 bias_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    7 Many definitions of item bias have been offered .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    7 Many_DA2 definitions_NN2 of_IO item_NN1 bias_NN1 have_VH0 been_VBN offered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    8 Runder ( 1978 ) suggested that a biased item is one that " behaves differently for members of two different culture groups that " statistically biased " means a tendency for an estimate to deviate in one direction or another from a true value .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    8 Runder_NP1@_VV0_NN1 (_Y 1978_MC )_Y suggested_VVD that_CST a_AT1 biased_JJ item_NN1 is_VBZ one_PN1 that_CST "_Y behaves_VVZ differently_RR for_IF members_NN2 of_IO two_MC different_JJ culture_NN1 groups_NN2 that_CST "_Y statistically_RR biased_JJ_VVN@ "_Y means_NN_VVZ a_AT1 tendency_NN1 for_IF an_AT1 estimate_NN1 to_TO deviate_VVI in_II_RP@ one_MC1 direction_NN1 or_CC another_DD1 from_II a_AT1 true_JJ value_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0    9 It means that , whenever systematically inaccurate estimation occurs , bias is there .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0    9 It_PPH1 means_VVZ that_CST_DD1 ,_Y whenever_RRQV systematically_RR inaccurate_JJ estimation_NN1 occurs_VVZ ,_Y bias_NN1 is_VBZ there_RL% ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   10 However , he believes that " there should be an educational and psychological rational for deciding that a statistically biased item is indeed biased " ( p.114 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   10 However_RR ,_Y he_PPHS1 believes_VVZ that_CST "_Y there_EX should_VM be_VBI an_AT1 educational_JJ and_CC psychological_JJ rational_JJ for_IF deciding_VVG that_CST a_AT1 statistically_RR biased_JJ item_NN1 is_VBZ indeed_RR biased_JJ_VVN@ "_Y (_Y p.114_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   11 O'Neal ( 1991 ) argues that empirical and statistical indices of bias do not necessarily indicate bias as equivalent to unfairness .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   11 O'Neal_NP1 (_Y 1991_MC )_Y argues_VVZ that_CST_DD1 empirical_JJ and_CC statistical_JJ indices_NN2 of_IO bias_NN1 do_VD0 not_XX necessarily_RR indicate_VVI bias_NN1 as_CSA_RG@_II@ equivalent_JJ to_II unfairness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   12 Unfair advantages of an item could arise in subpopulation ( e.g. , males females ) when compared to another subpopulation .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   12 Unfair_JJ advantages_NN2 of_IO an_AT1 item_NN1 could_VM arise_VVI in_II subpopulation_NN1 (_Y e.g._REX ,_Y males_NN2 females_NN2 )_Y when_CS_RRQ compared_VVN to_II another_DD1 subpopulation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   13 This unfair advantage will exist if within the subpopulations both have equal standing on the construct or trait being measured .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   13 This_DD1 unfair_JJ advantage_NN1 will_VM exist_VVI if_CS_CSW@ within_II the_AT subpopulations_NN2 both_RR_DB2 have_VH0 equal_JJ standing_NN1 on_II the_AT construct_NN1%_VV0 or_CC trait_NN1 being_VBG measured_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   14 This means that irrelevant sources of variation are not distributed similarly for both subpopulations ( Cromwell , 2002 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   14 This_DD1 means_VVZ that_CST_DD1 irrelevant_JJ sources_NN2 of_IO variation_NN1 are_VBR not_XX distributed_VVN similarly_RR for_IF both_DB2 subpopulations_NN2 (_Y Cromwell_NP1 ,_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   15 In other words , even when an item shows a significant statistical bias , it might be still judged as a fair item depending on the purpose of the test unless a criterion of overall measure is used to control To come over this argument , the term Differential item functioning ( DIF ) was introduced to mean that an item is functioning differentially ( i.e. , presents a real and clear bias ) if showed different statistical properties in different group settings provided that similar ability levels were controlled while comparing all groups .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   15 In_II other_JJ words_NN2 ,_Y even_CS21 when_CS22 an_AT1 item_NN1 shows_VVZ a_AT1 significant_JJ statistical_JJ bias_NN1 ,_Y it_PPH1 might_VM be_VBI still_RR judged_VVN_VVD as_II a_AT1 fair_JJ item_NN1 depending_II21 on_II22 the_AT purpose_NN1 of_IO the_AT test_NN1 unless_CS a_AT1 criterion_NN1 of_IO overall_JJ_NN1 measure_NN1 is_VBZ used_VVN to_TO control_VVI To_TO come_VVI over_RP_II this_DD1 argument_NN1 ,_Y the_AT term_NN1 Differential_NN1_JJ item_NN1 functioning_VVG_NN1@ (_Y DIF_NP1 )_Y was_VBDZ introduced_VVN to_TO mean_VVI that_CST an_AT1 item_NN1 is_VBZ functioning_VVG differentially_RR (_Y i.e._REX ,_Y presents_VVZ a_AT1 real_JJ and_CC clear_JJ bias_NN1 )_Y if_CS showed_VVD_VVN% different_JJ statistical_JJ properties_NN2 in_II different_JJ group_NN1 settings_NN2 provided_CS21 that_CS22 similar_JJ ability_NN1 levels_NN2 were_VBDR controlled_VVN while_CS comparing_VVG all_DB groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   16 In DIF analysis , a data matrix resulting usually from different assessment situations consists of many persons or cases ( i. e. , the column variable ) responding to many test items ( i.e. , the raw variable ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   16 In_II DIF_NP1 analysis_NN1 ,_Y a_AT1 data_NN matrix_NN1 resulting_VVG usually_RR from_II different_JJ assessment_NN1 situations_NN2 consists_VVZ of_IO many_DA2 persons_NN2 or_CC cases_NN2 (_Y i._MC e._ZZ1 ,_Y the_AT column_NN1 variable_NN1 )_Y responding_VVG to_II many_DA2 test_VV0_NN1 items_NN2 (_Y i.e._REX ,_Y the_AT raw_JJ variable_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   17 For a particular person , his score on each item is assumed to reflect hisher standing point on the scale of the trait measured by that item .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   17 For_IF a_AT1 particular_JJ person_NN1 ,_Y his_APPGE score_NN1 on_II each_DD1 item_NN1 is_VBZ assumed_VVN to_TO reflect_VVI hisher_JJR standing_NN1 point_NN1 on_II the_AT scale_NN1 of_IO the_AT trait_NN1 measured_VVN by_II that_DD1 item_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   18 In other words , persons ' abilities are being rated by items .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   18 In_II other_JJ words_NN2 ,_Y persons_NN2 '_GE abilities_NN2 are_VBR being_VBG rated_VVN by_II items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   19 But , is it possible to draw the same logic for the opposite case if the same typical data matrix was transposed ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   19 But_CCB ,_Y is_VBZ it_PPH1 possible_JJ to_TO draw_VVI the_AT same_DA logic_NN1 for_IF the_AT opposite_JJ case_NN1 if_CS the_AT same_DA typical_JJ data_NN matrix_NN1 was_VBDZ transposed_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   20 Can we think of items being rated ( agreed upon or persons ' proportion correct ) by persons .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   20 Can_VM_VV0% we_PPIS2 think_VVI of_IO items_NN2 being_VBG rated_VVN (_Y agreed_VVN upon_II or_CC persons_NN2 '_GE proportion_NN1 correct_JJ )_Y by_II persons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   21 In short , an item shows DIF when it functions differentially between matched , for example , functions differentially for two classes a b if the item is easier for one class than the other when comparing between subgroups of the same ability level ( i.e. , total test score ) from both classes .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   21 In_RR21 short_RR22 ,_Y an_AT1 item_NN1 shows_VVZ DIF_NP1 when_CS_RRQ it_PPH1 functions_VVZ@ differentially_RR between_II matched_JJ@ ,_Y for_REX21 example_REX22 ,_Y functions_NN2_VVZ@ differentially_RR for_IF two_MC classes_NN2_VVZ% a_AT1 b_ZZ1 if_CS the_AT item_NN1 is_VBZ easier_JJR for_IF one_MC1 class_NN1 than_CSN the_AT other_JJ_NN1@ when_CS comparing_VVG between_II subgroups_NN2 of_IO the_AT same_DA ability_NN1 level_NN1 (_Y i.e._REX ,_Y total_JJ test_NN1 score_NN1 )_Y from_II both_DB2 classes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   22 Such item functioning behavior is referred to as DIF .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   22 Such_DA item_NN1 functioning_VVG_NN1@_JJ@ behavior_NN1 is_VBZ referred_VVN to_II as_CSA DIF_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   23 Similarly , a person may function differently on two groups of items after controlling for an overall measure .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   23 Similarly_RR ,_Y a_AT1 person_NN1 may_VM function_VVI differently_RR on_II two_MC groups_NN2 of_IO items_NN2 after_II controlling_VVG for_IF an_AT1 overall_JJ_NN1 measure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   24 Such person functioning behavior is referred to as differential person functioning or DPF ( Johanson Alsmadi 2000 ; Alsmadi , 1998 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   24 Such_DA person_NN1 functioning_VVG_NN1@_JJ@ behavior_NN1 is_VBZ referred_VVN to_II as_CSA differential_JJ person_NN1 functioning_VVG_NN1@ or_CC DPF_NP1 (_Y Johanson_NP1 Alsmadi_NP1 2000_MC ;_Y Alsmadi_NP1 ,_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   25 In their study on DPF in Attitude assessment , Johanson Osborn ( 2000 ) presented an example of DPF with positively and negatively phrased item format .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   25 In_II their_APPGE study_NN1 on_II DPF_NP1 in_II Attitude_NN1 assessment_NN1 ,_Y Johanson_NP1 Osborn_NP1 (_Y 2000_MC )_Y presented_VVD an_AT1 example_NN1 of_IO DPF_NP1 with_IW positively_RR and_CC negatively_RR phrased_VVN item_NN1 format_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   26 They labeled this as acquiescence .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   26 They_PPHS2 labeled_VVD this_DD1 as_CSA_II@ acquiescence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   27 A search of the Educational Resources information Center ( ERIC ) and Psychology and Behavioral Sciences Collection electronic databases using a combination of words " differential person functioning " presented three entries only .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   27 A_AT1 search_NN1 of_IO the_AT Educational_JJ Resources_NN2 information_NN1 Center_NN1 (_Y ERIC_NP1 )_Y and_CC Psychology_NN1 and_CC Behavioral_JJ_NN1 Sciences_NN2 Collection_NN1 electronic_JJ databases_NN2 using_VVG a_AT1 combination_NN1 of_IO words_NN2 "_Y differential_JJ_NN1 person_NN1 functioning_NN1@_VVG "_Y presented_VVD_VVN_JJ@ three_MC entries_NN2 only_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   28 Nevertheless , when the term " emotional Intelligence " added to the combination , the search failed to turn up any entries .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   28 Nevertheless_RR ,_Y when_CS the_AT term_NN1 "_Y emotional_JJ Intelligence_NN1 "_Y added_VVN_VVD to_II the_AT combination_NN1 ,_Y the_AT search_NN1 failed_VVD_VVN to_TO turn_VVI up_RP any_DD entries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   29 Therefore , the purpose of DPF analysis in tests of emotional or cognitive intelligence as a diagnostic approach tests by illustrating the presence of DPF examples .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   29 Therefore_RR ,_Y the_AT purpose_NN1 of_IO DPF_NP1 analysis_NN1 in_II tests_NN2 of_IO emotional_JJ or_CC cognitive_JJ intelligence_NN1 as_II_CSA a_AT1 diagnostic_JJ approach_NN1 tests_NN2_VVZ@ by_II illustrating_VVG the_AT presence_NN1 of_IO DPF_NP1 examples_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   30 Method Instrument The Mayer , Salovey , Caruso Emotional Intelligence Test , 2002 ( MSCEIT ) was translated , judged , and applied in Jordan ( Mawajdeh , 2004 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   30 Method_NN1 Instrument_NN1 The_AT Mayer_NP1 ,_Y Salovey_NP1 ,_Y Caruso_NP1_NN1 Emotional_JJ Intelligence_NN1 Test_NN1_VV0 ,_Y 2002_MC (_Y MSCEIT_NP1 )_Y was_VBDZ translated_VVN ,_Y judged_VVD_VVN ,_Y and_CC applied_VVN_VVD in_II Jordan_NP1 (_Y Mawajdeh_NP1_NN1 ,_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   31 MSCEITwas administered as a part of a master thesis and the researcher himself allowed the permission for data analysis .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   31 MSCEITwas_NN2 administered_VVN as_II a_AT1 part_NN1 of_IO a_AT1 master_NN1 thesis_NN1 and_CC the_AT researcher_NN1 himself_PPX1 allowed_VVD_VVN the_AT permission_NN1 for_IF data_NN analysis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   32 MSCEIT is consisted of 141 multiple-choice items distributed over 8 different tasks .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   32 MSCEIT_NP1_NN1_VV0 is_VBZ consisted_VVN of_IO 141_MC multiple-choice_JJ@_NN1 items_NN2 distributed_VVN over_RG 8_MC different_JJ tasks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   33 ( Faces , pictures , facilitating , sensation , changes , blends , emotional management , and emotional relations ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   33 (_Y Faces_VVZ_NN2 ,_Y pictures_NN2 ,_Y facilitating_VVG ,_Y sensation_NN1 ,_Y changes_NN2 ,_Y blends_NN2_VVZ ,_Y emotional_JJ management_NN1 ,_Y and_CC emotional_JJ relations_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   34 Items of every two tasks are formulating one of four areas ( perceiving emotions , facilitating thought , understanding emotions , and managing emotions ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   34 Items_NN2 of_IO every_AT1 two_MC tasks_NN2 are_VBR formulating_VVG one_MC1 of_IO four_MC areas_NN2 (_Y perceiving_VVG_JJ@ emotions_NN2 ,_Y facilitating_VVG_JJ@ thought_NN1 ,_Y understanding_VVG_NN1 emotions_NN2 ,_Y and_CC managing_JJ_VVG_NN1 emotions_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   35 The test also measure two Mdomains : the experiential domain and the strategic domain .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   35 The_AT test_NN1 also_RR measure_VV0 two_MC Mdomains_NN2 :_Y the_AT experiential_JJ domain_NN1 and_CC the_AT strategic_JJ domain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   36 Each domain is consisted of the items of two areas .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   36 Each_DD1 domain_NN1 is_VBZ consisted_VVN of_IO the_AT items_NN2 of_IO two_MC areas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   37 Total scores computation is possible at the task , area , domain , and overall levels .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   37 Total_JJ_NN1 scores_NN2_VVZ@ computation_NN1 is_VBZ possible_JJ at_II the_AT task_NN1 ,_Y area_NN1 ,_Y domain_NN1 ,_Y and_CC overall_JJ_NN1 levels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   38 Mantel-Haenszel ( MH ) procedure For DPF analysis , in MH chi-square procedure groups as suggested by Sceenuman 's chi- square procedure since recommendations about number of groups are not widely available in the literature ( O'Neal , 1991 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   38 Mantel-Haenszel_NP1 (_Y MH_NP1 )_Y procedure_NN1 For_IF DPF_NP1 analysis_NN1 ,_Y in_II MH_NP1 chi-square_JJ_NN1 procedure_NN1 groups_NN2 as_CSA suggested_VVN by_II Sceenuman_NP1 's_GE_VBZ chi-_JJ_NN1 square_JJ_NN1 procedure_NN1 since_CS_II@ recommendations_NN2 about_II number_NN1 of_IO groups_NN2 are_VBR not_XX widely_RR available_JJ in_II the_AT literature_NN1 (_Y O'Neal_NP1 ,_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   39 The procedure requires a 2x2 contingency table to be created for each person at each level of the criterion groups .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   39 The_AT procedure_NN1 requires_VVZ a_AT1 2x2_FO contingency_NN1 table_NN1 to_TO be_VBI created_VVN for_IF each_DD1 person_NN1 at_II each_DD1 level_NN1 of_IO the_AT criterion_NN1 groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   40 Cell values within each table are the sum of person 's scores on items in each subgroup ( the focal and reference groups ) at each criterion level .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   40 Cell_NN1 values_NN2_VVZ@ within_II each_DD1 table_NN1 are_VBR the_AT sum_NN1 of_IO person_NN1 's_GE scores_NN2 on_II items_NN2 in_II each_DD1 subgroup_NN1 (_Y the_AT focal_JJ and_CC reference_NN1_VV0@ groups_NN2 )_Y at_II each_DD1 criterion_NN1 level_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   41 Nichols ( 1994 ) proposed a macro for SPSS that produces an estimator of the common odds ratio and MH chi-square test for the null hypothesis that the odds ratio is 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   41 Nichols_NP1 (_Y 1994_MC )_Y proposed_VVD a_AT1 macro_NN1_JJ for_IF SPSS_NP1 that_CST_DD1 produces_VVZ an_AT1 estimator_NN1 of_IO the_AT common_JJ odds_NN2 ratio_NN1 and_CC MH_NP1 chi-square_JJ_NN1 test_NN1_VV0 for_IF the_AT null_JJ hypothesis_NN1 that_CST the_AT odds_NN2 ratio_NN1 is_VBZ 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   42 It also produces the level of significance for the chi-square statistical test .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   42 It_PPH1 also_RR produces_VVZ the_AT level_NN1 of_IO significance_NN1 for_IF the_AT chi-square_JJ_NN1 statistical_JJ test_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   43 This macro was used in this study .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   43 This_DD1 macro_NN1 was_VBDZ used_VVN in_II this_DD1 study_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   44 Data Preparation 150 persons responded to the MSCEIT which has 141 items with 5 different possible responses .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   44 Data_NN Preparation_NN1 150_MC persons_NN2 responded_VVN_VVD to_II the_AT MSCEIT_NN1 which_DDQ has_VHZ 141_MC items_NN2 with_IW 5_MC different_JJ possible_JJ responses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   45 Each response was given a score based on the selection proportion .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   45 Each_DD1 response_NN1 was_VBDZ given_VVN a_AT1 score_NN1 based_VVN on_II the_AT selection_NN1 proportion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   46 The median of each item was used as a criterion to recode responses into a binary coding .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   46 The_AT median_NN1 of_IO each_DD1 item_NN1 was_VBDZ used_VVN as_II a_AT1 criterion_NN1 to_TO recode_VVI responses_NN2 into_II a_AT1 binary_JJ_NN1 coding_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   47 For DPF analysis , the data matrix was transposed so the items became the rows .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   47 For_IF DPF_NP1 analysis_NN1 ,_Y the_AT data_NN matrix_NN1 was_VBDZ transposed_VVN so_RR_CS@_RG the_AT items_NN2 became_VVD the_AT rows_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   48 Then , two variables were created : first , the variable " type " was created to represent both focal group ( all items of the experiential domain ) and reference group ( all items of the strategic domain ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   48 Then_RT ,_Y two_MC variables_NN2 were_VBDR created_VVN :_Y first_MD ,_Y the_AT variable_JJ_NN1 "_Y type_NN1 "_Y was_VBDZ created_VVN to_TO represent_VVI both_RR_DB2 focal_JJ group_NN1 (_Y all_DB items_NN2 of_IO the_AT experiential_JJ domain_NN1 )_Y and_CC reference_NN1_VV0@ group_NN1 (_Y all_DB items_NN2 of_IO the_AT strategic_JJ domain_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   49 Second , the variable " itemgrop " was created by recoding items ' overall score achieved by all persons into 5 interval groups .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   49 Second_MD ,_Y the_AT variable_JJ_NN1 "_Y itemgrop_NN1 "_Y was_VBDZ created_VVN by_II recoding_VVG_JJ@ items_NN2 '_GE overall_JJ_NN1 score_NN1 achieved_VVN by_II all_DB persons_NN2 into_II 5_MC interval_NN1 groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   50 Interval length was computed by dividing the range by 5 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   50 Interval_NN1 length_NN1 was_VBDZ computed_VVN by_II dividing_VVG the_AT range_NN1 by_II 5_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   51 Results The MH common odds ratio was calculated along with the MH chi-square statistic for each person .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   51 Results_NN2_VVZ@ The_AT MH_NP1 common_JJ odds_NN2 ratio_NN1 was_VBDZ calculated_VVN along_II21 with_II22 the_AT MH_NP1 chi-square_JJ_NN1 statistic_NN1 for_IF each_DD1 person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   52 The results showed significant DPF ( p&gt;0.05 ) for 20 persons ( I. e. , 13% , N=150 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   52 The_AT results_NN2 showed_VVD significant_JJ DPF_NP1 (_Y p&gt;0.05_FO )_Y for_IF 20_MC persons_NN2 (_Y I._NP1 e._ZZ1 ,_Y 13%_NNU ,_Y N=150_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   53 Out of these 20 cases , 13 persons ( i. e. , 65% ) were showing significant DPF favoring the experiential domain .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   53 Out_II21 of_II22 these_DD2 20_MC cases_NN2 ,_Y 13_MC persons_NN2 (_Y i._MC e._ZZ1 ,_Y 65%_NNU )_Y were_VBDR showing_VVG significant_JJ DPF_NP1 favoring_VVG the_AT experiential_JJ domain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   54 Whereas 7 persons ( i. e. , 35% ) were showing DPF in favor of the strategic domain .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   54 Whereas_CS 7_MC persons_NN2 (_Y i._MC e._ZZ1 ,_Y 35%_NNU )_Y were_VBDR showing_VVG DPF_NP1 in_II31 favor_II32 of_II33 the_AT strategic_JJ domain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   55 Example 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   55 Example_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   56 Person 139 , has a mean of 1.65 and 1.49 for experiential and strategic domains respectively , with an observable difference ( 0.16 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   56 Person_NN1 139_MC ,_Y has_VHZ a_AT1 mean_NN1@_JJ of_IO 1.65_MC and_CC 1.49_MC for_IF experiential_JJ and_CC strategic_JJ domains_NN2 respectively_RR ,_Y with_IW an_AT1 observable_JJ difference_NN1 (_Y 0.16_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   57 MH analysis .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   57 MH_NP1 analysis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   58 illustrates this person 's performance on the similar item proportion agreement categories of focal ( experiential ) and reference ( strategic ) groups of items .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   58 illustrates_VVZ this_DD1 person_NN1 's_GE performance_NN1 on_II the_AT similar_JJ item_NN1 proportion_NN1 agreement_NN1 categories_NN2 of_IO focal_JJ (_Y experiential_JJ )_Y and_CC reference_NN1 (_Y strategic_JJ )_Y groups_NN2 of_IO items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   59 For this person , the superiority of the experiential domain is clear .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   59 For_IF this_DD1 person_NN1 ,_Y the_AT superiority_NN1 of_IO the_AT experiential_JJ domain_NN1 is_VBZ clear_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   60 Example 2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   60 Example_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   61 On the other hand , person 144 , has a mean of 1.32 and 1.68 for strategic and experiential domains respectively , with an observable difference ( 0.36 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   61 On_II the_AT other_JJ hand_NN1 ,_Y person_NN1 144_MC ,_Y has_VHZ a_AT1 mean_NN1@_JJ of_IO 1.32_MC and_CC 1.68_MC for_IF strategic_JJ and_CC experiential_JJ domains_NN2 respectively_RR ,_Y with_IW an_AT1 observable_JJ difference_NN1 (_Y 0.36_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   62 MH analysis showed significant ( odds-ratio=4.1 ; p=0.0002 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   62 MH_NP1 analysis_NN1 showed_VVD significant_JJ (_Y odds-ratio=4.1_FO ;_Y p=0.0002_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   63 Figure 2. illustrates this person 's performance .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   63 Figure_NN1 2._MC illustrates_VVZ this_DD1 person_NN1 's_GE performance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   64 Unlike the previous case , the superiority of the strategic domain is clear .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   64 Unlike_II@ the_AT previous_JJ case_NN1 ,_Y the_AT superiority_NN1 of_IO the_AT strategic_JJ domain_NN1 is_VBZ clear_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   65 Example 3 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   65 Example_NN1 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   66 As mentioned earlier , simple observable difference might not be always an evidence of DPF existence and may rather considered impact .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   66 As_CSA mentioned_VVN earlier_RRR ,_Y simple_JJ observable_JJ difference_NN1 might_VM not_XX be_VBI always_RR an_AT1 evidence_NN1 of_IO DPF_NP1 existence_NN1 and_CC may_VM rather_RR@_RG considered_VVN_VVD_JJ% impact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   67 As illustrated in figure 3. , person 14 might be a good example showing impact .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   67 As_CSA illustrated_VVN in_II figure_NN1 3._MC ,_Y person_NN1 14_MC might_VM be_VBI a_AT1 good_JJ example_NN1 showing_VVG impact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   68 This Person has a mean of 1.60 and 1.67 for experiential and strategic domains respectively , with an observable difference ( 0.07 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   68 This_DD1 Person_NN1 has_VHZ a_AT1 mean_NN1@_JJ of_IO 1.60_MC and_CC 1.67_MC for_IF experiential_JJ and_CC strategic_JJ domains_NN2 respectively_RR ,_Y with_IW an_AT1 observable_JJ difference_NN1 (_Y 0.07_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   69 MH analysis showed significant ( odds-ratio=4.1 ; p=0.0002 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   69 MH_NP1 analysis_NN1 showed_VVD significant_JJ (_Y odds-ratio=4.1_FO ;_Y p=0.0002_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   70 Discussion As illustrated by examples , DPF is very likely to particular trait or ability .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   70 Discussion_NN1 As_CSA illustrated_VVN by_II examples_NN2 ,_Y DPF_NP1 is_VBZ very_RG likely_JJ to_TO particular_JJ trait_NN1 or_CC ability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   71 The practical implications of these findings seem clear .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   71 The_AT practical_JJ implications_NN2 of_IO these_DD2 findings_NN2 seem_VV0 clear_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   72 First , practitioners should be aware to differentiate between person impact and DPF .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   72 First_MD ,_Y practitioners_NN2 should_VM be_VBI aware_JJ to_TO differentiate_VVI between_II person_NN1 impact_NN1 and_CC DPF_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   73 Simple general observable difference in person 's performance on focal group items and reference group items if items were not matched is called impact .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   73 Simple_JJ general_JJ_NN1 observable_JJ difference_NN1 in_II person_NN1 's_GE performance_NN1 on_II focal_JJ group_NN1 items_NN2 and_CC reference_NN1_VV0@ group_NN1 items_NN2 if_CS items_NN2 were_VBDR not_XX matched_VVN is_VBZ called_VVN impact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   74 Impact is usually expected .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   74 Impact_NN1 is_VBZ usually_RR expected_VVN_VVD_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   75 However , when that difference stands over most of or all similar groups of items from both focal and reference groups , then this difference is an evidence of DPF .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   75 However_RR_RRQV ,_Y when_CS that_DD1 difference_NN1 stands_VVZ_NN2 over_II most_DAT of_IO or_CC all_DB_RR@ similar_JJ groups_NN2 of_IO items_NN2 from_II both_DB2_RR focal_JJ and_CC reference_NN1_VV0@ groups_NN2 ,_Y then_RT this_DD1 difference_NN1 is_VBZ an_AT1 evidence_NN1 of_IO DPF_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   76 Second , presented examples showed that whenever scale items are consisting different domains of the trait , DPF is possible .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   76 Second_MD ,_Y presented_VVD_JJ@_VVN examples_NN2 showed_VVD that_CST whenever_RRQV scale_NN1 items_NN2 are_VBR consisting_VVG different_JJ domains_NN2 of_IO the_AT trait_NN1 ,_Y DPF_NP1 is_VBZ possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   77 However , different instances of DPF might not be of similar diagnosis and should not be treated similarly .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   77 However_RR ,_Y different_JJ instances_NN2 of_IO DPF_NP1 might_VM not_XX be_VBI of_IO similar_JJ diagnosis_NN1 and_CC should_VM not_XX be_VBI treated_VVN similarly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   78 Finally , if DIF analysis is very important in test development because it is a serious threat to the validity , analyzing for DPF is very important procedure provides more precise information about person 's performance for diagnostic purposes .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   78 Finally_RR ,_Y if_CS DIF_NP1 analysis_NN1 is_VBZ very_RG important_JJ in_II test_NN1 development_NN1 because_CS it_PPH1 is_VBZ a_AT1 serious_JJ threat_NN1 to_II the_AT validity_NN1 ,_Y analyzing_VVG for_IF DPF_NP1 is_VBZ very_RG important_JJ procedure_NN1 provides_VVZ more_RGR_DAR precise_JJ information_NN1 about_II person_NN1 's_GE performance_NN1 for_IF diagnostic_JJ purposes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   79 GRAPH : Figure 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   79 GRAPH_NN1 :_Y Figure_NN1_VV0% 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   80 An Example of DPF Favoring Experiental Domain GRAPH : Figure 2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   80 An_AT1 Example_NN1 of_IO DPF_NP1 Favoring_NP1 Experiental_NP1_JJ Domain_NN1 GRAPH_NN1 :_Y Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   81 An Example of DPF Favoring Person Impact References Alsmadi , A. ( 1998 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   81 An_AT1 Example_NN1 of_IO DPF_NP1 Favoring_NP1_VVG Person_NN1 Impact_NN1 References_NN2_VVZ% Alsmadi_NP1 ,_Y A._ZZ (_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   82 Differential Person Functioning .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   82 Differential_JJ_NN1 Person_NN1 Functioning_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   83 ( Doctoral Dissertation , Ohio University , 1998 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   83 (_Y Doctoral_JJ Dissertation_NN1 ,_Y Ohio_NP1 University_NN1 ,_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   84 Angoff , W. H. ( 1993 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   84 Angoff_VV0_NN1_NP1@ ,_Y W._NP1 H._NP1 (_Y 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   85 Perspectives on differential item functioning methodology .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   85 Perspectives_NN2 on_II differential_JJ_NN1 item_NN1 functioning_VVG_NN1@_JJ@ methodology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   86 In P. W. Holland Winer ( EDs .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   86 In_II P._NP1 W._NP1 Holland_NP1 Winer_NP1 (_Y EDs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   87 ) ; Differential item functioning .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   87 )_Y ;_Y Differential_JJ_NN1 item_NN1 functioning_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   88 ( pp. 3-25 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   88 (_Y pp._NNU2 3-25_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   89 Hillsdale , NJ : Lawrence Erlbaum Associates .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   89 Hillsdale_NP1 ,_Y NJ_NP1 :_Y Lawrence_NP1 Erlbaum_NP1 Associates_NN2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   90 Cromwell , S. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   90 Cromwell_NP1 ,_Y S._ZZ (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   91 A prime on ways to explore item bias .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   91 A_AT1_ZZ1 prime_JJ on_II ways_NN2 to_TO explore_VVI item_NN1 bias_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   92 A paper presented at the annual meeting of the Southwest Educational Research Association in Austin , Tx .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   92 A_AT1 paper_NN1 presented_VVN_VVD at_II the_AT annual_JJ meeting_NN1 of_IO the_AT Southwest_ND1 Educational_JJ Research_NN1 Association_NN1 in_II Austin_NP1 ,_Y Tx_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   93 Johanson , G. A. Alsmadi , A. ( 1998 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   93 Johanson_NN1_NP1@ ,_Y G._NP1 A._ZZ Alsmadi_NP1 ,_Y A._ZZ (_Y 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   94 Differential Person Functioning .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   94 Differential_JJ_NN1 Person_NN1 Functioning_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   95 A paper presented at the annual meeting of the American Educational Research Association in San Diego , CA .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   95 A_AT1 paper_NN1 presented_VVN_VVD at_II the_AT annual_JJ meeting_NN1 of_IO the_AT American_JJ Educational_JJ Research_NN1 Association_NN1 in_II San_NP1 Diego_NP1 ,_Y CA_NP1@_VM ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   96 Johanson , G. A. Osborn , C. J. ( 2000 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   96 Johanson_NN1_NP1@ ,_Y G._NP1 A._ZZ Osborn_NP1 ,_Y C._NP1 J._NP1 (_Y 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   97 Acquiescence as Differential Person Functioning .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   97 Acquiescence_NN1_NP1@ as_CSA_RG@_II@ Differential_JJ Person_NN1 Functioning_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   98 A paper presented at the annual meeting of the American Educational Research Association in New Orleans , LA .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   98 A_AT1 paper_NN1 presented_VVN_VVD at_II the_AT annual_JJ meeting_NN1 of_IO the_AT American_JJ Educational_JJ Research_NN1 Association_NN1 in_II New_NP1 Orleans_NP1 ,_Y LA_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0   99 Mawajdeh , K. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0   99 Mawajdeh_NN1_NP1@ ,_Y K._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  100 Mayer , Salovey , Caruso Emotional Intelligence Test ( MSCTIT Mu'tah University .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  100 Mayer_NP1 ,_Y Salovey_NP1 ,_Y Caruso_NP1_NN1 Emotional_JJ Intelligence_NN1 Test_NN1 (_Y MSCTIT_NP1 Mu'tah_UH_NN1 University_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  101 Jordan .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  101 Jordan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  102 Nichols , D.P. ( 1994 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  102 Nichols_NP1 ,_Y D.P._NP1 (_Y 1994_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  103 The Mantel-Haenszel statistic for 2x2xk tables .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  103 The_AT Mantel-Haenszel_NP1 statistic_NN1 for_IF 2x2xk_FO tables_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  104 Keywords : Tips and news for statistical software users , 54 , 10-12 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  104 Keywords_NN2 :_Y Tips_NN2 and_CC news_NN1 for_IF statistical_JJ software_NN1 users_NN2 ,_Y 54_MC ,_Y 10-12_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  105 O'Neal , M. R. ( 1991 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  105 O'Neal_NP1 ,_Y M._NN1 R._NP1 (_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  106 Comparison of methods for detecting item bias .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  106 Comparison_NN1 of_IO methods_NN2 for_IF detecting_VVG item_NN1 bias_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  107 Lexington , KY : MD-South Educational Research Association .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  107 Lexington_NN1_NP1@ ,_Y KY_NP1 :_Y MD-South_ND1 Educational_JJ Research_NN1 Association_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  108 ( ERIC Document Reproduction Services No .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  108 (_Y ERIC_NP1 Document_NN1 Reproduction_NN1 Services_NN2 No_UH ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  109 ED 340 735 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  109 ED_NP1 340_MC 735_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  110 Rudner , L. M. ( 1978 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  110 Rudner_NN1_NP1@ ,_Y L._ZZ M._NNO@_NN1_NNU@ (_Y 1978_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  111 Using Standard tests with the hearing impaired : The problem of item bias .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  111 Using_VVG Standard_JJ_NN1 tests_NN2 with_IW the_AT hearing_NN1 impaired_VVD_VVN :_Y The_AT problem_NN1 of_IO item_NN1 bias_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  112 The Volta Review , 80 , 13-40 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  112 The_AT Volta_NP1_NN1@ Review_NP1@_NN1 ,_Y 80_MC ,_Y 13-40_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  A    0  113 By Yahia M. Alsmadi , Ph.d , University of Jordan and Abdalla A. Alsmadi , Ph.D. , Mu'tah University
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080380 COCA  B    0  113 By_II Yahia_NP1 M._NP1 Alsmadi_NP1 ,_Y Ph.d_NNA ,_Y University_NN1 of_IO Jordan_NP1 and_CC Abdalla_NP1 A._ZZ Alsmadi_NP1 ,_Y Ph.D._NNA ,_Y Mu'tah_NP1 University_NN1

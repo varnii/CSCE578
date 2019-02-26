@@ -1,0 +1,114 @@
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    0 Several years after my retirement from the University of MissouriSt .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    0 Several_DA2 years_NNT2 after_II_CS my_APPGE retirement_NN1 from_II the_AT University_NN1 of_IO MissouriSt_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    1 Louis , my wife , Hulda , and I settled on Virgin Gorda in the British Virgin Islands .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    1 Louis_NP1 ,_Y my_APPGE wife_NN1 ,_Y Hulda_NP1 ,_Y and_CC I_PPIS1 settled_VVD on_II_RP@ Virgin_NN1_JJ@ Gorda_NN1@_NP1 in_II the_AT British_JJ Virgin_NP1 Islands_NNL2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    2 As a biologist , I developed an interest in the native fauna .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    2 As_II_CSA a_AT1 biologist_NN1 ,_Y I_PPIS1 developed_VVD an_AT1 interest_NN1 in_II the_AT native_JJ fauna_NN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    3 In particular , I enjoyed the nearly ubiquitous lizard populations and decided to spend some time writing an educational pamphlet about them .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    3 In_RR21 particular_RR22 ,_Y I_PPIS1 enjoyed_VVD the_AT nearly_RR ubiquitous_JJ lizard_NN1 populations_NN2 and_CC decided_VVD_VVN to_TO spend_VVI some_DD time_NNT1 writing_VVG an_AT1 educational_JJ pamphlet_NN1 about_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    4 <p> Although acquainted with the scientific names , I did not know what the locals called their eight native lizard species .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    4 <p>_Y Although_CS acquainted_VVN with_IW the_AT scientific_JJ names_NN2 ,_Y I_PPIS1 did_VDD not_XX know_VVI what_DDQ the_AT locals_NN2 called_VVN_VVD@ their_APPGE eight_MC native_JJ lizard_NN1 species_NN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    5 To find out , I began to visit the Blue Haven at lunchtime--a tavern where a group of working men gathered to have a few beers , shoot pool , and eat .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    5 To_TO find_VVI out_RP ,_Y I_PPIS1 began_VVD to_TO visit_VVI the_AT Blue_JJ Haven_NN1 at_II lunchtime--a_NNT1 tavern_NN1 where_CS_RRQ a_AT1 group_NN1 of_IO working_VVG_JJ@ men_NN2 gathered_VVD_VVN to_TO have_VHI a_AT1 few_DA2 beers_NN2 ,_Y shoot_VV0 pool_NN1 ,_Y and_CC eat_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    6 One was an electrician , one a plumber , one a fisherman ; the professions of the others I did not happen to learn .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    6 One_PN1_MC1 was_VBDZ an_AT1 electrician_NN1 ,_Y one_PN1_MC1 a_AT1 plumber_NN1 ,_Y one_PN1_MC1 a_AT1 fisherman_NN1 ;_Y the_AT professions_NN2 of_IO the_AT others_NN2 I_PPIS1 did_VDD not_XX happen_VVI to_TO learn_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    7 <p> Several weeks later , I casually brought along a selection of nay lizard photographs to the Blue Haven .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    7 <p>_Y Several_DA2 weeks_NNT2 later_RRR ,_Y I_PPIS1 casually_RR brought_VVD along_II_RP a_AT1 selection_NN1 of_IO nay_NN1@ lizard_NN1 photographs_NN2_VVZ@ to_II the_AT Blue_JJ Haven_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    8 " That 's a cotton ginner , " said one of the men , when shown the first photo .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    8 "_Y That_DD1 's_VBZ a_AT1 cotton_NN1 ginner_NN1 ,_Y "_Y said_VVD one_MC1 of_IO the_AT men_NN2 ,_Y when_CS_RRQ shown_VVN the_AT first_MD photo_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0    9 The others man " lizard .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0    9 The_AT others_NN2 man_NN1 "_Y lizard_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   10 They concurred among themselves on the names for eight kinds of lizards .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   10 They_PPHS2 concurred_VVD among_II themselves_PPX2 on_II the_AT names_NN2 for_IF eight_MC kinds_NN2 of_IO lizards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   11 I thought that was remarkable .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   11 I_PPIS1 thought_VVD that_DD1 was_VBDZ remarkable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   12 These men , whose occupations did not provide opportunities for spending time in the fields or woods of Virgin Gorda , were nearly correct in identifying the eight lizards of the island .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   12 These_DD2 men_NN2 ,_Y whose_DDQGE occupations_NN2 did_VDD not_XX provide_VVI opportunities_NN2 for_IF spending_VVG_JJ@_NN1 time_NNT1 in_II the_AT fields_NN2 or_CC woods_NN2 of_IO Virgin_NN1_JJ@ Gorda_NP1_NN1@ ,_Y were_VBDR nearly_RR correct_JJ_VV0@ in_II identifying_VVG the_AT eight_MC lizards_NN2 of_IO the_AT island_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   13 ( They lumped two species that look almost identical under one name , whereas they bestowed two names on another species that is sexually dimorphic .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   13 (_Y They_PPHS2 lumped_VVD two_MC species_NN that_CST look_VV0 almost_RR identical_JJ under_RG one_MC1 name_NN1 ,_Y whereas_CS they_PPHS2 bestowed_VVD two_MC names_NN2 on_II another_DD1 species_NN that_CST is_VBZ sexually_RR dimorphic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   14 ) <p> Mission accomplished , I wrote the pamphlet , printed 4,000 copies at fifty-two cents apiece , and sold them at gift shops for fifty cents .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   14 )_Y <p>_Y Mission_NN1 accomplished_VVD_VVN ,_Y I_PPIS1 wrote_VVD the_AT pamphlet_NN1 ,_Y printed_VVN_JJ_VVD@ 4,000_MC copies_NN2 at_II fifty-two_MC cents_NNU2 apiece_RA ,_Y and_CC sold_VVD_VVN them_PPHO2 at_II gift_NN1 shops_NN2 for_IF fifty_MC cents_NNU2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   15 I also donated about 350 copies to local schools .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   15 I_PPIS1 also_RR donated_VVD about_II 350_MC copies_NN2 to_II local_JJ schools_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   16 Later I asked a teacher whether the youngsters were making any use of them .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   16 Later_RRR I_PPIS1 asked_VVD a_AT1 teacher_NN1 whether_CSW the_AT youngsters_NN2 were_VBDR making_VVG any_DD use_NN1 of_IO them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   17 <p> " Oh yes , " she replied .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   17 <p>_Y "_Y Oh_UH yes_UH ,_Y "_Y she_PPHS1 replied_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   18 " At recess they used to try to step on the lizards .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   18 "_Y At_II recess_NN1 they_PPHS2 used_VMK to_TO try_VVI to_TO step_VVI on_II the_AT lizards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   19 It was rather a game .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   19 It_PPH1 was_VBDZ rather_RG a_AT1 game_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   20 Now they run out to the yard , and I hear shouts , ' That 's a doctor lizard .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   20 Now_RT they_PPHS2 run_VV0 out_RP to_II the_AT yard_NN1 ,_Y and_CC I_PPIS1 hear_VV0 shouts_NN2 ,_Y '_"@_GE That_DD1_CST 's_VBZ a_AT1 doctor_NN1 lizard_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   21 ' ' No , ' that 's a 's a yellow-sided lizard .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   21 '_"@_GE '_"@ No_XX ,_Y '_"@_GE that_DD1_CST 's_VBZ a_AT1 's_VBZ a_AT1 yellow-sided_JJ_NN1 lizard_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   22 ' They no longer try to step on the lizards .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   22 '_"@_GE They_PPHS2 no_RR21 longer_RR22 try_VV0 to_TO step_VVI on_II the_AT lizards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   23 Any attempt to do so is frowned on by other classmates .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   23 Any_DD attempt_NN1_VV0 to_TO do_VDI so_RR is_VBZ frowned_VVN@ on_RP@ by_II other_JJ classmates_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   24 " <p> Friends of mine at the St. Louis Zoo , who knew of nay newfound interest , wanted some live specimens of the Sphaerodactylus parthenopion lizard , which is reputed to be the smallest lizard in the world .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   24 "_Y <p>_Y Friends_NN2 of_IO mine_PPGE at_II the_AT St._NP1 Louis_NP1 Zoo_NN1 ,_Y who_PNQS knew_VVD of_IO nay_NN1@ newfound_JJ interest_NN1 ,_Y wanted_VVD_VVN some_DD live_JJ specimens_NN2 of_IO the_AT Sphaerodactylus_NN1_NP1 parthenopion_NN1 lizard_NN1 ,_Y which_DDQ is_VBZ reputed_VVN to_TO be_VBI the_AT smallest_JJT lizard_NN1 in_II the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   25 The curators were anxious to see if they could successfully breed the creatures in their laboratory .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   25 The_AT curators_NN2 were_VBDR anxious_JJ to_TO see_VVI if_CSW@_CS they_PPHS2 could_VM successfully_RR breed_VVI the_AT creatures_NN2 in_II their_APPGE laboratory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   26 So I set out to transport that species and several others from Virgin Gorda to Missouri , by placing them in mayonnaise jars with perforated lids .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   26 So_RR I_PPIS1 set_VV0_VVD out_RP to_TO transport_VVI that_CST_DD1 species_NN and_CC several_DA2 others_NN2 from_II Virgin_NN1_JJ@ Gorda_NN1@_NP1 to_II Missouri_NP1 ,_Y by_II placing_VVG them_PPHO2 in_II mayonnaise_NN1 jars_NN2 with_IW perforated_JJ lids_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   27 <p> In all I made four trips to the zoo , and each encounter with United States customs at the San Juan airport was a surprise .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   27 <p>_Y In_II all_DB I_PPIS1 made_VVD four_MC trips_NN2_VVZ to_II the_AT zoo_NN1 ,_Y and_CC each_DD1 encounter_NN1 with_IW United_NP1 States_NP1 customs_NN2 at_II the_AT San_NP1 Juan_NP1 airport_NN1 was_VBDZ a_AT1 surprise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   28 The first time , the agent asked what kinds of lizards I had and if I had permission to export them .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   28 The_AT first_MD time_NNT1 ,_Y the_AT agent_NN1 asked_VVD what_DDQ kinds_NN2 of_IO lizards_NN2 I_PPIS1 had_VHD and_CC if_CS I_PPIS1 had_VHD permission_NN1 to_TO export_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   29 I handed him a letter from the British Virgin Islands minister of agriculture and a list of the species .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   29 I_PPIS1 handed_VVD him_PPHO1 a_AT1 letter_NN1 from_II the_AT British_JJ Virgin_NP1 Islands_NNL2 minister_NN1 of_IO agriculture_NN1 and_CC a_AT1 list_NN1 of_IO the_AT species_NN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   30 He asked me if I had any Varanus lizards .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   30 He_PPHS1 asked_VVD me_PPIO1 if_CS_CSW@ I_PPIS1 had_VHD any_DD Varanus_NN1 lizards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   31 looking at the list or inspecting my jars of lizards .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   31 looking_VVG at_II the_AT list_NN1 or_CC inspecting_VVG my_APPGE jars_NN2 of_IO lizards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   32 ) I responded by gently advising him that Varanus does not occur in Virgin Gorda and , in fact , does not occur in the Western Hemisphere .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   32 )_Y I_PPIS1 responded_VVD by_II_RP% gently_RR advising_VVG him_PPHO1 that_CST_DD1 Varanus_NP1_NN1 does_VDZ not_XX occur_VVI in_II Virgin_NN1_JJ@ Gorda_NP1_NN1@ and_CC ,_Y in_II fact_NN1 ,_Y does_VDZ not_XX occur_VVI in_II the_AT Western_JJ Hemisphere_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   33 With that , I cleared customs with nay lizards .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   33 With_IW that_DD1 ,_Y I_PPIS1 cleared_VVD customs_NN2 with_IW nay_NN1@ lizards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   34 <p> On my second trip the customs agent was a burly fellow .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   34 <p>_Y On_II my_APPGE second_MD trip_NN1 the_AT customs_NN2 agent_NN1 was_VBDZ a_AT1 burly_JJ fellow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   35 " You call those lizards , " he shouted derisively , when I showed him my jars .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   35 "_Y You_PPY call_VV0 those_DD2 lizards_NN2 ,_Y "_Y he_PPHS1 shouted_VVD derisively_RR ,_Y when_CS_RRQ I_PPIS1 showed_VVD him_PPHO1 my_APPGE jars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   36 " In Puerto Rico we have them this big !
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   36 "_Y In_II Puerto_NP1 Rico_NP1 we_PPIS2 have_VH0 them_PPHO2 this_DD1 big_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   37 " He extended his forearm to indicate the distance between his fingertips and his elbow .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   37 "_Y He_PPHS1 extended_VVD his_APPGE forearm_NN1 to_TO indicate_VVI the_AT distance_NN1 between_II his_APPGE fingertips_NN2 and_CC his_APPGE elbow_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   38 " Go on , " he said .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   38 "_Y Go_VV0 on_RP ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   39 <p> The agent on my third trip was a young woman .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   39 <p>_Y The_AT agent_NN1 on_II my_APPGE third_MD trip_NN1 was_VBDZ a_AT1 young_JJ woman_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   40 " I have some live lizards to declare , " I said and started to open nay briefcase .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   40 "_Y I_PPIS1 have_VH0 some_DD live_JJ lizards_NN2 to_TO declare_VVI ,_Y "_Y I_PPIS1 said_VVD and_CC started_VVD to_TO open_VVI nay_UH_NN1@ briefcase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   41 " Oh , " she protested , " do n't show them to me .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   41 "_Y Oh_UH ,_Y "_Y she_PPHS1 protested_VVD ,_Y "_Y do_VD0 n't_XX show_VVI them_PPHO2 to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   42 I hate those things .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   42 I_PPIS1 hate_VV0 those_DD2 things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   43 " And I was whisked through customs .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   43 "_Y And_CC I_PPIS1 was_VBDZ whisked_VVN through_II customs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   44 <p> On nay fourth trip , nay agent was a likeable man whose first language obviously was not lizards and asked , " Is insecta ?
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   44 <p>_Y On_II nay_NN1@ fourth_MD trip_NN1 ,_Y nay_UH agent_NN1 was_VBDZ a_AT1 likeable_JJ man_NN1 whose_DDQGE first_MD language_NN1 obviously_RR was_VBDZ not_XX lizards_NN2 and_CC asked_VVD ,_Y "_Y Is_VBZ insecta_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   45 " " No , " I replied , " animalia .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   45 "_Y "_Y No_XX ,_Y "_Y I_PPIS1 replied_VVD ,_Y "_Y animalia_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   46 " <p> " Okay , " he said and I cleared customs .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   46 "_Y <p>_Y "_Y Okay_RR ,_Y "_Y he_PPHS1 said_VVD and_CC I_PPIS1 cleared_VVD customs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   47 <p> I found those incidents amusing , but also troubling .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   47 <p>_Y I_PPIS1 found_VVD those_DD2 incidents_NN2 amusing_JJ_VVG@ ,_Y but_CCB also_RR troubling_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   48 One of the responsibilities of U.S. customs agents is to prevent the entrance of noxious animals into the country .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   48 One_MC1 of_IO the_AT responsibilities_NN2 of_IO U.S._NP1 customs_NN2 agents_NN2 is_VBZ to_TO prevent_VVI the_AT entrance_NN1 of_IO noxious_JJ animals_NN2 into_II the_AT country_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   49 None of the four I encountered knew whether the animals I was transporting were harmful or whether I intended o release them in southern Florida , where they could thrive .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   49 None_PN of_IO the_AT four_MC I_PPIS1 encountered_VVD@ knew_VVD whether_CSW the_AT animals_NN2 I_PPIS1 was_VBDZ transporting_VVG were_VBDR harmful_JJ or_CC whether_CSW I_PPIS1 intended_VVD o_UH_ZZ1 release_VV0 them_PPHO2 in_II southern_JJ Florida_NP1_FW@ ,_Y where_CS_RRQ they_PPHS2 could_VM thrive_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   50 Indeed , those agents seemed less interested in learning about lizards than my drinking buddies and the Virgin Gorda schoolchildren .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   50 Indeed_RR ,_Y those_DD2 agents_NN2 seemed_VVD less_RGR_DAR interested_JJ in_II learning_VVG_NN1 about_II_RP@ lizards_NN2 than_CSN my_APPGE drinking_NN1 buddies_NN2 and_CC the_AT Virgin_NN1_JJ@ Gorda_NP1_NN1@ schoolchildren_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   51 <p> Ground lizard ( Ameiva exsul ) <p> Doctor lizard ( Anolis stratulus ) <p> Man lizard ( Anolis cristatellus ) <p> By Arnold B. Grobman <p> ARNOLD B. GROBMAN , a biologist and educator , was born in Newark , New Jersey , in 1918 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   51 <p>_Y Ground_NN1_JJ@ lizard_NN1 (_Y Ameiva_NP1 exsul_NN1_VV0 )_Y <p>_Y Doctor_NN1 lizard_NN1 (_Y Anolis_NP1_NN1 stratulus_NN1 )_Y <p>_Y Man_NN1 lizard_NN1 (_Y Anolis_NP1_NN1 cristatellus_NN1_JJ )_Y <p>_Y By_II Arnold_NP1 B._NP1 Grobman_NP1_NN1 <p>_Y ARNOLD_NP1 B._NP1 GROBMAN_NP1 ,_Y a_AT1 biologist_NN1 and_CC educator_NN1 ,_Y was_VBDZ born_VVN in_II Newark_NP1 ,_Y New_NP1 Jersey_NP1 ,_Y in_II 1918_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   52 He received his Ph.D .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   52 He_PPHS1 received_VVD his_APPGE Ph.D_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   53 from the University of Rochester , and later served on the faculty there .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   53 from_II the_AT University_NN1 of_IO Rochester_NP1 ,_Y and_CC later_RRR served_VVN_VVD on_II the_AT faculty_NN1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   54 He has also worked at the University of Florida , and the University of Missouri-St .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   54 He_PPHS1 has_VHZ also_RR worked_VVN at_II the_AT University_NN1 of_IO Florida_NP1 ,_Y and_CC the_AT University_NN1 of_IO Missouri-St_NP1_JJ_NNU@ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   55 Louis .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   55 Louis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  A    0   56 <p>
+SENTPOS COCA_acad_wlp_2009_02_FILE##4070960 COCA  B    0   56 <p>_Y

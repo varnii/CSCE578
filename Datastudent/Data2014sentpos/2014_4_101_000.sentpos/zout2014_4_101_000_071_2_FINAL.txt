@@ -1,0 +1,104 @@
+SENTPOS 2014_4_101_000_071_2 FINAL A    0    0 With our world constantly changing , each generation is growing up differently than the one before it .
+SENTPOS 2014_4_101_000_071_2 FINAL B    0    0 With_IW our_APPGE world_NN1 constantly_RR changing_VVG ,_, each_DD1 generation_NN1 is_VBZ growing_VVG up_RP differently_RR than_CSN the_AT one_PN1 before_CS it_PPH1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    0    1 Some people think that our younger generations are being exposed to the media , social networking and different outlets that are corrupting them and influencing them in negative ways .
+SENTPOS 2014_4_101_000_071_2 FINAL B    0    1 Some_DD people_NN think_VV0 that_CST our_APPGE younger_JJR generations_NN2 are_VBR being_VBG exposed_VVN to_II the_AT media_NN ,_, social_JJ networking_NN1 and_CC different_JJ outlets_NN2 that_CST are_VBR corrupting_VVG them_PPHO2 and_CC influencing_VVG them_PPHO2 in_II negative_JJ ways_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    0    2 Sally Mann 's photo , " Candy Cigarette " has been one of the most iconic photographs of the 20th century .
+SENTPOS 2014_4_101_000_071_2 FINAL B    0    2 Sally_NP1 Mann_NP1 's_GE photo_NN1 ,_, "_" Candy_NN1 Cigarette_NN1 "_" has_VHZ been_VBN one_MC1 of_IO the_AT most_RGT iconic_JJ photographs_NN2 of_IO the_AT 20th_MD century_NNT1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    0    3 In the photograph , a young girl is photographed holding a cigarette and looking at the camera while two other children are in the background with their backs facing towards the camera .
+SENTPOS 2014_4_101_000_071_2 FINAL B    0    3 In_II the_AT photograph_NN1 ,_, a_AT1 young_JJ girl_NN1 is_VBZ photographed_VVN holding_VVG a_AT1 cigarette_NN1 and_CC looking_VVG at_II the_AT camera_NN1 while_CS two_MC other_JJ children_NN2 are_VBR in_II the_AT background_NN1 with_IW their_APPGE backs_NN2 facing_VVG towards_II the_AT camera_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    0    4 This photo depicts the corruption of youth and the urgency for them to grow up .
+SENTPOS 2014_4_101_000_071_2 FINAL B    0    4 This_DD1 photo_NN1 depicts_VVZ the_AT corruption_NN1 of_IO youth_NN1 and_CC the_AT urgency_NN1 for_IF them_PPHO2 to_TO grow_VVI up_RP ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    0    5 By analyzing the color , contrast , and positioning of the elements in this photograph , it can help determine the underlying message that this photograph is trying to display .
+SENTPOS 2014_4_101_000_071_2 FINAL B    0    5 By_II analyzing_VVG the_AT color_NN1 ,_, contrast_NN1 ,_, and_CC positioning_NN1 of_IO the_AT elements_NN2 in_II this_DD1 photograph_NN1 ,_, it_PPH1 can_VM help_VVI determine_VVI the_AT underlying_JJ message_NN1 that_CST this_DD1 photograph_NN1 is_VBZ trying_VVG to_TO display_VVI ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1    6 When looking at the photograph , the first thing the viewer is drawn to is the young girl in a white dress .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1    6 When_CS looking_VVG at_II the_AT photograph_NN1 ,_, the_AT first_MD thing_NN1 the_AT viewer_NN1 is_VBZ drawn_VVN to_TO is_VBZ the_AT young_JJ girl_NN1 in_II a_AT1 white_JJ dress_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1    7 The girl 's dress is a very bright white which makes her the main focus of the image .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1    7 The_AT girl_NN1 's_GE dress_NN1 is_VBZ a_AT1 very_RG bright_JJ white_NN1@ which_DDQ makes_VVZ her_PPHO1 the_AT main_JJ focus_NN1 of_IO the_AT image_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1    8 The cigarette she is holding is also white .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1    8 The_AT cigarette_NN1 she_PPHS1 is_VBZ holding_VVG is_VBZ also_RR white_JJ ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1    9 Both of these contrast with the darker background which highlights these particular aspects of the photo .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1    9 Both_DB2 of_IO these_DD2 contrast_NN1 with_IW the_AT darker_JJR background_NN1 which_DDQ highlights_VVZ these_DD2 particular_JJ aspects_NN2 of_IO the_AT photo_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   10 The color of her dress can also be seen as a contradiction with the cigarette .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   10 The_AT color_NN1 of_IO her_APPGE dress_NN1 can_VM also_RR be_VBI seen_VVN as_II a_AT1 contradiction_NN1 with_IW the_AT cigarette_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   11 White often symbolizes purity , and people often think of children as innocent and pure , but the cigarette suggests the opposite about the girl .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   11 White_JJ often_RR symbolizes_VVZ purity_NN1 ,_, and_CC people_NN often_RR think_VV0 of_IO children_NN2 as_CSA innocent_JJ and_CC pure_JJ ,_, but_CCB the_AT cigarette_NN1 suggests_VVZ the_AT opposite_JJ about_II the_AT girl_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   12 While she is clearly young , the image she is giving off is not that of a young child .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   12 While_CS she_PPHS1 is_VBZ clearly_RR young_JJ ,_, the_AT image_NN1 she_PPHS1 is_VBZ giving_VVG off_RP is_VBZ not_XX that_DD1 of_IO a_AT1 young_JJ child_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   13 Her stance is one of the main things that stands out .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   13 Her_APPGE stance_NN1 is_VBZ one_MC1 of_IO the_AT main_JJ things_NN2 that_CST stands_VVZ out_RP ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   14 The way she is standing with her arms crossed and holding the cigarette gives off a very unapproachable vibe .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   14 The_AT way_NN1 she_PPHS1 is_VBZ standing_VVG with_IW her_APPGE arms_NN2 crossed_VVN and_CC holding_VVG the_AT cigarette_NN1 gives_VVZ off_RP a_AT1 very_RG unapproachable_JJ vibe_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   15 Her facial expression , messy hair and the attitude she portrays is that of an adult or a rebellious teenager .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   15 Her_APPGE facial_JJ expression_NN1 ,_, messy_JJ hair_NN1 and_CC the_AT attitude_NN1 she_PPHS1 portrays_VVZ is_VBZ that_DD1 of_IO an_AT1 adult_NN1 or_CC a_AT1 rebellious_JJ teenager_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   16 These characteristics give off a sense of rebellion and an urgency to grow up .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   16 These_DD2 characteristics_NN2 give_VV0 off_RP a_AT1 sense_NN1 of_IO rebellion_NN1 and_CC an_AT1 urgency_NN1 to_TO grow_VVI up_RP ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    1   17 Her separation from the other two children in the photograph suggests that she does n't want to be associated with them .
+SENTPOS 2014_4_101_000_071_2 FINAL B    1   17 Her_APPGE separation_NN1 from_II the_AT other_JJ two_MC children_NN2 in_II the_AT photograph_NN1 suggests_VVZ that_CST she_PPHS1 does_VDZ n't_XX want_VVI to_TO be_VBI associated_VVN with_IW them_PPHO2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    2   18 To the right of the girl , we can see another little girl who has her back facing towards the camera .
+SENTPOS 2014_4_101_000_071_2 FINAL B    2   18 To_II the_AT right_NN1 of_IO the_AT girl_NN1 ,_, we_PPIS2 can_VM see_VVI another_DD1 little_JJ girl_NN1 who_PNQS has_VHZ her_APPGE back_NN1 facing_VVG towards_II the_AT camera_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    2   19 We can assume that she is also very young by her size , but she gives off a much more childish image with her ponytail , curly hair and sparkly dress .
+SENTPOS 2014_4_101_000_071_2 FINAL B    2   19 We_PPIS2 can_VM assume_VVI that_CST she_PPHS1 is_VBZ also_RR very_RG young_JJ by_II her_APPGE size_NN1 ,_, but_CCB she_PPHS1 gives_VVZ off_RP a_AT1 much_RR more_RGR childish_JJ image_NN1 with_IW her_APPGE ponytail_NN1 ,_, curly_JJ hair_NN1 and_CC sparkly_JJ dress_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    2   20 Her stance is also gives off much more of a youthful image .
+SENTPOS 2014_4_101_000_071_2 FINAL B    2   20 Her_APPGE stance_NN1 is_VBZ also_RR gives_VVZ off_II much_DA1 more_DAR of_IO a_AT1 youthful_JJ image_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    2   21 She is standing with her hands on her hips looking the opposite direction , as if maybe she 's waiting for something in the distance .
+SENTPOS 2014_4_101_000_071_2 FINAL B    2   21 She_PPHS1 is_VBZ standing_VVG with_IW her_APPGE hands_NN2 on_II her_APPGE hips_NN2 looking_VVG the_AT opposite_JJ direction_NN1 ,_, as_CS21 if_CS22 maybe_RR she_PPHS1 's_VBZ waiting_VVG for_IF something_PN1 in_II the_AT distance_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    2   22 Since the girls dress is dark , she blends into the background more and is n't a focal point in the picture , unlike the girl in the white dress .
+SENTPOS 2014_4_101_000_071_2 FINAL B    2   22 Since_CS the_AT girls_NN2 dress_VV0 is_VBZ dark_JJ ,_, she_PPHS1 blends_VVZ into_II the_AT background_NN1 more_RRR and_CC is_VBZ n't_XX a_AT1 focal_JJ point_NN1 in_II the_AT picture_NN1 ,_, unlike_II@ the_AT girl_NN1 in_II the_AT white_JJ dress_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    3   23 In the very back of the photograph to the left , we can see what appears to be a little boy playing with a pair of stilts .
+SENTPOS 2014_4_101_000_071_2 FINAL B    3   23 In_II the_AT very_JJ back_NN1 of_IO the_AT photograph_NN1 to_II the_AT left_JJ ,_, we_PPIS2 can_VM see_VVI what_DDQ appears_VVZ to_TO be_VBI a_AT1 little_JJ boy_NN1 playing_VVG with_IW a_AT1 pair_NN of_IO stilts_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    3   24 While the background of the picture is very out of focus , his shirt makes him stand out .
+SENTPOS 2014_4_101_000_071_2 FINAL B    3   24 While_CS the_AT background_NN1 of_IO the_AT picture_NN1 is_VBZ very_RG out_II21 of_II22 focus_NN1 ,_, his_APPGE shirt_NN1 makes_VVZ him_PPHO1 stand_VVI out_RP ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    3   25 His shirt is a very bright white , much like the girls dress , but he is not nearly as noticeable .
+SENTPOS 2014_4_101_000_071_2 FINAL B    3   25 His_APPGE shirt_NN1 is_VBZ a_AT1 very_RG bright_JJ white_JJ ,_, much_RR like_II the_AT girls_NN2 dress_VV0 ,_, but_CCB he_PPHS1 is_VBZ not_XX nearly_RR as_CSA noticeable_JJ ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    3   26 The fact that he 's playing with stilts gives him the characteristics of a child .
+SENTPOS 2014_4_101_000_071_2 FINAL B    3   26 The_AT fact_NN1 that_CST he_PPHS1 's_VBZ playing_VVG with_IW stilts_NN2 gives_VVZ him_PPHO1 the_AT characteristics_NN2 of_IO a_AT1 child_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    3   27 He is also facing the opposite direction as the girl , with his back facing the camera .
+SENTPOS 2014_4_101_000_071_2 FINAL B    3   27 He_PPHS1 is_VBZ also_RR facing_VVG the_AT opposite_JJ direction_NN1 as_II the_AT girl_NN1 ,_, with_IW his_APPGE back_NN1 facing_VVG the_AT camera_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    3   28 Although all three of the children in this photograph seem to be very close in age , the girl in the white dress gives off a completely different vibe than the two other children .
+SENTPOS 2014_4_101_000_071_2 FINAL B    3   28 Although_CS all_DB three_MC of_IO the_AT children_NN2 in_II this_DD1 photograph_NN1 seem_VV0 to_TO be_VBI very_RG close_JJ in_II age_NN1 ,_, the_AT girl_NN1 in_II the_AT white_JJ dress_NN1 gives_VVZ off_RP a_AT1 completely_RR different_JJ vibe_NN1 than_CSN the_AT two_MC other_JJ children_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   29 One detail that stands out is the positioning of the two other kids in comparison to the girl in the white dress .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   29 One_MC1 detail_NN1 that_CST stands_VVZ out_RP is_VBZ the_AT positioning_NN1 of_IO the_AT two_MC other_JJ kids_NN2 in_II comparison_NN1 to_II the_AT girl_NN1 in_II the_AT white_JJ dress_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   30 We can see that she is positioned in the middle of them while the other young girl is farther behind and the little boy is even farther in the background .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   30 We_PPIS2 can_VM see_VVI that_CST she_PPHS1 is_VBZ positioned_VVN in_II the_AT middle_NN1 of_IO them_PPHO2 while_CS the_AT other_JJ young_JJ girl_NN1 is_VBZ farther_JJR behind_RL@ and_CC the_AT little_JJ boy_NN1 is_VBZ even_RR farther_JJR in_II the_AT background_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   31 The girl in the white dress is looking towards us , while the other two are looking away .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   31 The_AT girl_NN1 in_II the_AT white_JJ dress_NN1 is_VBZ looking_VVG towards_II us_PPIO2 ,_, while_CS the_AT other_JJ two_MC are_VBR looking_VVG away_RL ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   32 This could be seen as a representation of the children taking two different paths .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   32 This_DD1 could_VM be_VBI seen_VVN as_II a_AT1 representation_NN1 of_IO the_AT children_NN2 taking_VVG two_MC different_JJ paths_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   33 The girl in the white dress is choosing to do something dangerous and something unusual for her young age , while the other two children seem to still contain their youthful spirits .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   33 The_AT girl_NN1 in_II the_AT white_JJ dress_NN1 is_VBZ choosing_VVG to_TO do_VDI something_PN1 dangerous_JJ and_CC something_PN1 unusual_JJ for_IF her_APPGE young_JJ age_NN1 ,_, while_CS the_AT other_JJ two_MC children_NN2 seem_VV0 to_TO still_RR contain_VVI their_APPGE youthful_JJ spirits_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   34 They appear to be going opposite ways on the path .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   34 They_PPHS2 appear_VV0 to_TO be_VBI going_VVG opposite_JJ ways_NN2 on_II the_AT path_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   35 It seems as if she 's walking down the wrong path characterized by bad decisions , while the other two children are walking down the right path that leads them to good decisions .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   35 It_PPH1 seems_VVZ as_CS21 if_CS22 she_PPHS1 's_VBZ walking_VVG down_II the_AT wrong_JJ path_NN1 characterized_VVN by_II bad_JJ decisions_NN2 ,_, while_CS the_AT other_JJ two_MC children_NN2 are_VBR walking_VVG down_II the_AT right_JJ path_NN1 that_CST leads_VVZ them_PPHO2 to_II good_JJ decisions_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   36 The fact that this photo is photographed in black and white also gives it a very intense and serious feeling .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   36 The_AT fact_NN1 that_CST this_DD1 photo_NN1 is_VBZ photographed_VVN in_II black_JJ and_CC white_JJ also_RR gives_VVZ it_PPH1 a_AT1 very_RG intense_JJ and_CC serious_JJ feeling_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    4   37 The contrast of the black and white allows for certain elements of the photograph to stand out more than others .
+SENTPOS 2014_4_101_000_071_2 FINAL B    4   37 The_AT contrast_NN1 of_IO the_AT black_JJ and_CC white_NN1@ allows_VVZ for_IF certain_JJ elements_NN2 of_IO the_AT photograph_NN1 to_TO stand_VVI out_RP more_DAR than_CSN others_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   38 A visual text has the power to convey a message that sometimes words ca n't .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   38 A_AT1 visual_JJ text_NN1 has_VHZ the_AT power_NN1 to_TO convey_VVI a_AT1 message_NN1 that_CST sometimes_RT words_NN2 ca_VM n't_XX ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   39 This photo can be seen in many different ways .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   39 This_DD1 photo_NN1 can_VM be_VBI seen_VVN in_II many_DA2 different_JJ ways_NN2 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   40 It gives viewers the power to analyze and interpret the picture in their own way .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   40 It_PPH1 gives_VVZ viewers_NN2 the_AT power_NN1 to_TO analyze_VVI and_CC interpret_VVI the_AT picture_NN1 in_II their_APPGE own_DA way_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   41 It can be seen as foreshadowing , corruption , or the maturity of youth .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   41 It_PPH1 can_VM be_VBI seen_VVN as_CSA foreshadowing_VVG ,_, corruption_NN1 ,_, or_CC the_AT maturity_NN1 of_IO youth_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   42 Maybe it is not that the young girl is making bad decisions now , but will in her future .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   42 Maybe_RR it_PPH1 is_VBZ not_XX that_CST the_AT young_JJ girl_NN1 is_VBZ making_VVG bad_JJ decisions_NN2 now_RT ,_, but_CCB will_VM in_II her_APPGE future_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   43 The other two children in the background looking down the path could also be seen as looking into their future , which appears to lead them in a different direction than the girl in the white dress .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   43 The_AT other_JJ two_MC children_NN2 in_II the_AT background_NN1 looking_VVG down_II the_AT path_NN1 could_VM also_RR be_VBI seen_VVN as_CSA looking_VVG into_II their_APPGE future_NN1 ,_, which_DDQ appears_VVZ to_TO lead_VVI them_PPHO2 in_II a_AT1 different_JJ direction_NN1 than_CSN the_AT girl_NN1 in_II the_AT white_JJ dress_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   44 Corruption can obviously be seen by the fact that she is a child and has a cigarette in her hand .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   44 Corruption_NN1 can_VM obviously_RR be_VBI seen_VVN by_II the_AT fact_NN1 that_CST she_PPHS1 is_VBZ a_AT1 child_NN1 and_CC has_VHZ a_AT1 cigarette_NN1 in_II her_APPGE hand_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   45 It can even be seen in a way that children are maturing and growing up too fast .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   45 It_PPH1 can_VM even_RR be_VBI seen_VVN in_II a_AT1 way_NN1 that_CST children_NN2 are_VBR maturing_VVG and_CC growing_VVG up_RP too_RG fast_RR ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   46 No matter how you look at this photo , there are many interpretations that can be taken away from it .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   46 No_RRQV31 matter_RRQV32 how_RRQV33 you_PPY look_VV0 at_II this_DD1 photo_NN1 ,_, there_EX are_VBR many_DA2 interpretations_NN2 that_CST can_VM be_VBI taken_VVN away_II21 from_II22 it_PPH1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   47 It invites viewers to look deeply at it and try to understand its meaning .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   47 It_PPH1 invites_VVZ viewers_NN2 to_TO look_VVI deeply_RR at_II it_PPH1 and_CC try_VVI to_TO understand_VVI its_APPGE meaning_NN1 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   48 From just looking at the photograph we can see that it is about children , but after analyzing it we can understand the deeper meaning portrayed .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   48 From_II just_RR looking_VVG at_II the_AT photograph_NN1 we_PPIS2 can_VM see_VVI that_CST it_PPH1 is_VBZ about_II children_NN2 ,_, but_CCB after_II analyzing_VVG it_PPH1 we_PPIS2 can_VM understand_VVI the_AT deeper_JJR meaning_NN1 portrayed_VVN ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   49 With access to the media , internet , and social networking , it 's easy for our youth to be influenced by the things they see .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   49 With_IW access_NN1 to_II the_AT media_NN ,_, internet_NN1 ,_, and_CC social_JJ networking_NN1 ,_, it_PPH1 's_VBZ easy_JJ for_IF our_APPGE youth_NN1 to_TO be_VBI influenced_VVN by_II the_AT things_NN2 they_PPHS2 see_VV0 ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   50 When children are exposed to those kinds of things , it gives them an urgency to grow up .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   50 When_RRQ children_NN2 are_VBR exposed_VVN to_II those_DD2 kinds_NN2 of_IO things_NN2 ,_, it_PPH1 gives_VVZ them_PPHO2 an_AT1 urgency_NN1 to_TO grow_VVI up_RP ._.
+SENTPOS 2014_4_101_000_071_2 FINAL A    5   50  It 's important that we make sure that our changing society is n't corrupting our youth and forcing them to grow up faster than they should .
+SENTPOS 2014_4_101_000_071_2 FINAL B    5   50  It_PPH1 's_VBZ important_JJ that_CST we_PPIS2 make_VV0 sure_JJ that_CST our_APPGE changing_JJ society_NN1 is_VBZ n't_XX corrupting_VVG our_APPGE youth_NN1 and_CC forcing_VVG them_PPHO2 to_TO grow_VVI up_RP faster_RRR than_CSN they_PPHS2 should_VM ._.

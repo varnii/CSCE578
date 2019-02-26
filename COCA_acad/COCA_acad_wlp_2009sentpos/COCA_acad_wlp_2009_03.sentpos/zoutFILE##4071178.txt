@@ -1,0 +1,212 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    0 ASK PEOPLE TO criticize your stories and they do--no matter their qualifications .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    0 ASK_VV0 PEOPLE_NN TO_TO criticize_VVI your_APPGE stories_NN2 and_CC they_PPHS2 do--no_JJ matter_NN1_VV0 their_APPGE qualifications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    1 Doctors , manicurists , computer programmers , clerks and gas-station attendants can suddenly become geniuses in story development and " I know if it sounds right grammar .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    1 Doctors_NN2 ,_Y manicurists_NN2 ,_Y computer_NN1 programmers_NN2 ,_Y clerks_NN2 and_CC gas-station_JJ_NN1 attendants_NN2 can_VM suddenly_RR become_VVI geniuses_NN2 in_II story_NN1 development_NN1 and_CC "_Y I_PPIS1 know_VV0 if_CSW@_CS it_PPH1 sounds_VVZ right_JJ grammar_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    2 <p> Does this phenomenon change for stories that have actually been sold ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    2 <p>_Y Does_VDZ this_DD1 phenomenon_NN1 change_VVI for_IF stories_NN2 that_CST have_VH0 actually_RR been_VBN sold_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    3 Theoretically , published stories should receive less criticism than rejected stories , right ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    3 Theoretically_RR ,_Y published_VVD_JJ@_VVN stories_NN2 should_VM receive_VVI less_DAR criticism_NN1 than_CSN rejected_JJ@_VVN stories_NN2 ,_Y right_RR_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    4 Wrong .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    4 Wrong_JJ_RR@_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    5 <p> As an experiment , I delivered original manuscripts of sold stories to my " experts " and asked for critiques to help me sell the tales .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    5 <p>_Y As_II_CSA an_AT1 experiment_NN1 ,_Y I_PPIS1 delivered_VVD original_JJ manuscripts_NN2 of_IO sold_JJ@ stories_NN2 to_II my_APPGE "_Y experts_NN2 "_Y and_CC asked_VVD for_IF critiques_NN2 to_TO help_VVI me_PPIO1 sell_VVI the_AT tales_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    6 Amazingly , my sold stories generated as much criticism as my unsold stories .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    6 Amazingly_RR ,_Y my_APPGE sold_JJ@ stories_NN2 generated_VVD_VVN as_RG much_DA1 criticism_NN1 as_CSA my_APPGE unsold_JJ stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    7 <p> My conclusions ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    7 <p>_Y My_APPGE conclusions_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    8 If you ask someone to criticize your work , they will .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    8 If_CS you_PPY ask_VV0 someone_PN1 to_TO criticize_VVI your_APPGE work_NN1 ,_Y they_PPHS2 will_VM_VV0% ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0    9 Period .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0    9 Period_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   10 But the criticism may not have anything to do with the story 's salability .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   10 But_CCB the_AT criticism_NN1 may_VM not_XX have_VHI anything_PN1 to_TO do_VDI with_IW the_AT story_NN1 's_GE salability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   11 <p> This is a big problem for thousands of writers , especially those seeking useful critiques in writers groups .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   11 <p>_Y This_DD1 is_VBZ a_AT1 big_JJ problem_NN1 for_IF thousands_M of_IO writers_NN2 ,_Y especially_RR those_DD2 seeking_VVG useful_JJ critiques_NN2 in_II writers_NN2 groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   12 Have your readers , for example , make weak comments about your story like : <p> " The characters are n't likable .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   12 Have_VH0 your_APPGE readers_NN2 ,_Y for_REX21 example_REX22 ,_Y make_VV0 weak_JJ comments_NN2 about_II your_APPGE story_NN1 like_II :_Y <p>_Y "_Y The_AT characters_NN2 are_VBR n't_XX likable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   13 " It 's kind of slow .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   13 "_Y It_PPH1 's_VBZ kind_RR21%_NN1 of_RR22_IO slow_JJ_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   14 Punch it up .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   14 Punch_VV0 it_PPH1 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   15 " <p> " What you should do is ... " ( Rewrite so that your story becomes the story the reader wishes he could write ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   15 "_Y <p>_Y "_Y What_DDQ you_PPY should_VM do_VDI is_VBZ ..._... "_Y (_Y Rewrite_VV0 so_CS21 that_CS22 your_APPGE story_NN1 becomes_VVZ the_AT story_NN1 the_AT reader_NN1 wishes_VVZ_NN2 he_PPHS1 could_VM write_VVI )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   16 <p> You ca n't make anyone provide better feedback , but you can at least provide an approach that can improve the odds .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   16 <p>_Y You_PPY ca_VM n't_XX make_VVI anyone_PN1 provide_VVI better_JJR feedback_NN1 ,_Y but_CCB you_PPY can_VM at_RR21 least_RR22 provide_VVI an_AT1 approach_NN1 that_CST_DD1 can_VM improve_VVI the_AT odds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   17 You can also use weak feedback to help discover problems and solutions your readers were unable to articulate .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   17 You_PPY can_VM also_RR use_VVI weak_JJ feedback_NN1 to_TO help_VVI discover_VVI problems_NN2 and_CC solutions_NN2 your_APPGE readers_NN2 were_VBDR unable_JK to_TO articulate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   18 Here are some steps to consider : <p> 1 First , understand what you 're really after .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   18 Here_RL are_VBR some_DD steps_NN2 to_TO consider_VVI :_Y <p>_Y 1_MC1 First_MD ,_Y understand_VV0 what_DDQ you_PPY 're_VBR really_RR after_II_RT%_JJ% ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   19 " Critique " and " criticize " are not synonyms .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   19 "_Y Critique_NN1 "_Y and_CC "_Y criticize_VV0 "_Y are_VBR not_XX synonyms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   20 To criticize means to list faults .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   20 To_TO criticize_VVI means_NN to_TO list_VVI faults_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   21 To critique means to analyze--to identify merits and flaws and offer executable techniques that create solutions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   21 To_II critique_NN1 means_VVZ_NN to_II analyze--to_NN1 identify_VV0 merits_NN2 and_CC flaws_NN2 and_CC offer_VV0 executable_JJ techniques_NN2 that_CST create_VV0 solutions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   22 <p> To avoid this semantic confusion , I use the word analyze .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   22 <p>_Y To_TO avoid_VVI this_DD1 semantic_JJ confusion_NN1 ,_Y I_PPIS1 use_VV0 the_AT word_NN1 analyze_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   23 Ask your readers to analyze your story and suggest techniques to help you improve and sell it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   23 Ask_VV0 your_APPGE readers_NN2 to_TO analyze_VVI your_APPGE story_NN1 and_CC suggest_VVI techniques_NN2 to_TO help_VVI you_PPY improve_VVI and_CC sell_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   24 <p> 2 Set clear goals for your story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   24 <p>_Y 2_MC Set_VV0_VVD_JJ@ clear_JJ goals_NN2 for_IF your_APPGE story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   25 Tell your analysts the effect you want to have on readers , as well as the story " In this short story , which I 've targeted to Polyphony 7 an eclectic quarterly anthology , I want the reader to experience a sense of hope as a result of loss " If you ask readers to analyze and make suggestions relative to your goals , they 're less likely to provide a laundry list of useless feedback .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   25 Tell_VV0 your_APPGE analysts_NN2 the_AT effect_NN1 you_PPY want_VV0 to_TO have_VHI on_II readers_NN2 ,_Y as_II31 well_II32 as_II33 the_AT story_NN1 "_Y In_II this_DD1 short_JJ story_NN1 ,_Y which_DDQ I_PPIS1 've_VH0 targeted_VVN to_II Polyphony_NP1_NN1 7_MC an_AT1 eclectic_JJ quarterly_JJ_NN1 anthology_NN1 ,_Y I_PPIS1 want_VV0 the_AT reader_NN1 to_TO experience_VVI a_AT1 sense_NN1 of_IO hope_NN1 as_II a_AT1 result_NN1 of_IO loss_NN1 "_Y If_CS you_PPY ask_VV0 readers_NN2 to_TO analyze_VVI and_CC make_VVI suggestions_NN2 relative_II21 to_II22 your_APPGE goals_NN2 ,_Y they_PPHS2 're_VBR less_RGR likely_JJ to_TO provide_VVI a_AT1 laundry_NN1 list_NN1 of_IO useless_JJ feedback_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   26 If they ignore your goals and only provide a list of things you did wrong with no hint of solutions , find new readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   26 If_CS they_PPHS2 ignore_VV0 your_APPGE goals_NN2 and_CC only_RR provide_VV0 a_AT1 list_NN1 of_IO things_NN2 you_PPY did_VDD wrong_RR@ with_IW no_AT hint_NN1 of_IO solutions_NN2 ,_Y find_VV0 new_JJ readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   27 <p> A reader-analyst should strive to understand authorial intent .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   27 <p>_Y A_AT1 reader-analyst_NN1 should_VM strive_VVI to_TO understand_VVI authorial_JJ intent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   28 If Kakfa had listened to the advice " The cockroach is n't likable , Mr. Kafka , " the world would be a poorer place .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   28 If_CS Kakfa_NP1 had_VHD listened_VVN to_II the_AT advice_NN1 "_Y The_AT cockroach_NN1 is_VBZ n't_XX likable_JJ ,_Y Mr._NNB Kafka_NP1 ,_Y "_Y the_AT world_NN1 would_VM be_VBI a_AT1 poorer_JJR place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   29 <p> 3 Train your readers to be specific .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   29 <p>_Y 3_MC Train_VV0 your_APPGE readers_NN2 to_TO be_VBI specific_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   30 It 's critical to know exactly where in the text the reader realized she was having trouble .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   30 It_PPH1 's_VBZ critical_JJ to_TO know_VVI exactly_RR where_CS_RRQ in_II the_AT text_NN1 the_AT reader_NN1 realized_VVD she_PPHS1 was_VBDZ having_VHG trouble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   31 An otherwise weak comment that includes a location where the reader recognized trouble can be decoded and used for revision .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   31 An_AT1 otherwise_RR weak_JJ comment_NN1 that_CST_DD1 includes_VVZ a_AT1 location_NN1 where_CS_RRQ the_AT reader_NN1 recognized_VVD_VVN_JJ@ trouble_NN1 can_VM be_VBI decoded_VVN@_JJ@ and_CC used_VVN_VVD_JJ for_IF revision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   32 Ask your readers to mark the exact spot of a problem .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   32 Ask_VV0 your_APPGE readers_NN2 to_TO mark_VVI the_AT exact_JJ spot_NN1 of_IO a_AT1 problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   33 Examples : <p> Page 3 , graf 4 : 5 , graf 2 : Slow .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   33 Examples_NN2 :_Y <p>_Y Page_NN1 3_MC ,_Y graf_VV0_NN1 4_MC :_Y 5_MC ,_Y graf_VV0_NN1 2_MC :_Y Slow_JJ_RR@_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   34 <p> Page 8 , graf 2 : I was n't sure how many people were " on stage .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   34 <p>_Y Page_NN1 8_MC ,_Y graf_VV0_NN1 2_MC :_Y I_PPIS1 was_VBDZ n't_XX sure_RR%_JJ how_RGQ@ many_DA2 people_NN were_VBDR "_Y on_II stage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   35 " <p> I also give my readers a packet of colored sticky tabs and ask them to place the tabs where they had problems .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   35 "_Y <p>_Y I_PPIS1 also_RR give_VV0 my_APPGE readers_NN2 a_AT1 packet_NN1 of_IO colored_JJ@ sticky_JJ tabs_NN2 and_CC ask_VV0 them_PPHO2 to_TO place_VVI the_AT tabs_NN2 where_CS_RRQ they_PPHS2 had_VHD problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   36 <p> * 4 Be ready to backtrack .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   36 <p>_Y *_FU 4_MC Be_VBI ready_JJ to_TO backtrack_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   37 You 'll find weak advice is often associated with the wrong problems and locations in the text .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   37 You_PPY 'll_VM find_VVI weak_JJ advice_NN1 is_VBZ often_RR associated_VVN with_IW the_AT wrong_JJ problems_NN2 and_CC locations_NN2 in_II the_AT text_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   38 Even if a reader 's response makes no sense to you , assume something triggered his comment .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   38 Even_CS21 if_CS22 a_AT1 reader_NN1 's_GE response_NN1 makes_VVZ no_AT sense_NN1 to_II you_PPY ,_Y assume_VV0 something_PN1 triggered_VVD his_APPGE comment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   39 Backtrack in the text .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   39 Backtrack_VV0_NN1 in_II the_AT text_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   40 When readers say the ending is weak , sometimes the problem 's in the beginning .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   40 When_RRQ_CS readers_NN2 say_VV0 the_AT ending_NN1 is_VBZ weak_JJ ,_Y sometimes_RT the_AT problem_NN1 's_VBZ in_II the_AT beginning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   41 When readers say they got confused on page 6 , paragraph 3 , because they were not sure who was speaking , you may have failed to provide adequate attribution five lines earlier .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   41 When_RRQ_CS readers_NN2 say_VV0 they_PPHS2 got_VVD confused_VVN on_II page_NN1 6_MC ,_Y paragraph_NN1 3_MC ,_Y because_CS they_PPHS2 were_VBDR not_XX sure_RR%_JJ who_PNQS was_VBDZ speaking_VVG ,_Y you_PPY may_VM have_VHI failed_VVN to_TO provide_VVI adequate_JJ attribution_NN1 five_MC lines_NN2 earlier_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   42 When they say it was slow on pages 6 and 7 , the problem may be on 5 , where scene goals for the characters could be made more explicit so the text on 6 and 7 has deeper significance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   42 When_CS_RRQ they_PPHS2 say_VV0 it_PPH1 was_VBDZ slow_JJ on_II pages_NN2 6_MC and_CC 7_MC ,_Y the_AT problem_NN1 may_VM be_VBI on_II 5_MC ,_Y where_CS_RRQ scene_NN1 goals_NN2 for_IF the_AT characters_NN2 could_VM be_VBI made_VVN more_RGR explicit_JJ so_CS@_RR the_AT text_NN1 on_II 6_MC and_CC 7_MC has_VHZ deeper_JJR significance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   43 everyone 's looking for a shortcut .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   43 everyone_PN1 's_VBZ looking_VVG for_IF a_AT1 shortcut_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   44 Just because your readers are writing weak or useless things on your manuscripts is no reason for you to do the same .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   44 Just_RR because_CS your_APPGE readers_NN2 are_VBR writing_VVG weak_JJ or_CC useless_JJ things_NN2 on_II your_APPGE manuscripts_NN2 is_VBZ no_AT reason_NN1 for_IF you_PPY to_TO do_VDI the_AT same_DA ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   45 You have to study and practice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   45 You_PPY have_VH0 to_TO study_VVI and_CC practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   46 Read how-to books and articles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   46 Read_VV0 how-to_RRQ books_NN2 and_CC articles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   47 Practice techniques to better understand them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   47 Practice_NN1 techniques_NN2 to_TO better_RRR understand_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   48 Create your own catalog of techniques .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   48 Create_VV0 your_APPGE own_DA catalog_NN1 of_IO techniques_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   49 As your writing vocabulary grows , you 'll replace your own lame analysis with better advice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   49 As_CSA_II@ your_APPGE writing_NN1 vocabulary_NN1 grows_VVZ ,_Y you_PPY 'll_VM replace_VVI your_APPGE own_DA lame_JJ analysis_NN1 with_IW better_JJR advice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   50 The following two write-ups came from veteran writers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   50 The_AT following_JJ two_MC write-ups_NN2 came_VVD from_II veteran_JJ_NN1 writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   51 Which one do you think has made a habit of study and practice ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   51 Which_DDQ one_PN1_MC1 do_VD0 you_PPY think_VVI has_VHZ made_VVN a_AT1 habit_NN1 of_IO study_NN1 and_CC practice_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   52 Which one sells his work ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   52 Which_DDQ one_PN1 sells_VVZ his_APPGE work_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   53 <p> -- On page 6 , the setting is weak .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   53 <p>_Y --_NN1_JJ On_II page_NN1 6_MC ,_Y the_AT setting_NN1 is_VBZ weak_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   54 <p> -- On page 6 , I felt urgency and confusion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   54 <p>_Y --_NN1_JJ On_II page_NN1 6_MC ,_Y I_PPIS1 felt_VVD urgency_NN1 and_CC confusion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   55 The urgency was good , but the confusion distracted me .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   55 The_AT urgency_NN1 was_VBDZ good_JJ ,_Y but_CCB the_AT confusion_NN1 distracted_VVD me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   56 ... The dialogue works--it 's in conflict , indirect , and revealing of both the primary agendas and the deeper emotional agendas of the characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   56 ..._... The_AT dialogue_NN1 works--it_PPH1 's_VBZ in_II conflict_NN1 ,_Y indirect_JJ ,_Y and_CC revealing_JJ_VVG of_IO both_DB2 the_AT primary_JJ_NN1 agendas_NN2 and_CC the_AT deeper_JJR emotional_JJ agendas_NN2 of_IO the_AT characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   57 So , I took a look at scene setup .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   57 So_RR ,_Y I_PPIS1 took_VVD a_AT1 look_NN1 at_II scene_NN1 setup_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   58 <p> The narrative develops setting through the character 's interpretation , which also worked .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   58 <p>_Y The_AT narrative_NN1 develops_VVZ setting_VVG_NN1 through_II the_AT character_NN1 's_GE interpretation_NN1 ,_Y which_DDQ also_RR worked_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   59 However , none ing " verbs that would program the reader to imagine the action of the setting continuing during the dialogue .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   59 However_RR ,_Y none_PN ing_JJ@_NN1@_VVG "_Y verbs_NN2 that_CST_DD1 would_VM program_VVI the_AT reader_NN1 to_TO imagine_VVI the_AT action_NN1 of_IO the_AT setting_NN1 continuing_VVG during_II the_AT dialogue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   60 Example : " Steam billowing from beneath the locomotives covered the platform , obscuring the milling travelers " <p> Consider the use of progressive verbs in the scene setup , then touch on them again lightly during the dialogue to remind the reader of the continuing background action .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   60 Example_NN1 :_Y "_Y Steam_NN1 billowing_VVG from_II beneath_II_RL@ the_AT locomotives_NN2 covered_VVD_VVN the_AT platform_NN1 ,_Y obscuring_VVG the_AT milling_NN1_JJ@ travelers_NN2 "_Y <p>_Y Consider_VV0 the_AT use_NN1 of_IO progressive_JJ verbs_NN2 in_II the_AT scene_NN1 setup_NN1 ,_Y then_RT touch_VV0 on_II them_PPHO2 again_RT lightly_RR during_II the_AT dialogue_NN1 to_TO remind_VVI the_AT reader_NN1 of_IO the_AT continuing_JJ background_NN1 action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   61 After the dialogue , state any changes that occur in those details so that the original , progressive images do n't continue inappropriately .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   61 After_CS_II the_AT dialogue_NN1 ,_Y state_VV0 any_DD changes_NN2 that_CST occur_VV0 in_II_RP@ those_DD2 details_NN2 so_CS21 that_CS22 the_AT original_JJ_NN1@ ,_Y progressive_JJ images_NN2 do_VD0 n't_XX continue_VVI inappropriately_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   62 ... <p> Note that the second note begins with the reader 's emotional experience and moves toward an analysis that includes what is working , what might be causing the problem , and how to fix it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   62 ..._... <p>_Y Note_VV0 that_CST the_AT second_MD note_NN1 begins_VVZ with_IW the_AT reader_NN1 's_GE emotional_JJ experience_NN1 and_CC moves_VVZ_NN2 toward_II an_AT1 analysis_NN1 that_CST_DD1 includes_VVZ what_DDQ is_VBZ working_VVG ,_Y what_DDQ might_VM be_VBI causing_VVG the_AT problem_NN1 ,_Y and_CC how_RRQ to_TO fix_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   63 <p> Here are some weak comments I received for a story titled " Mirages " that I sold to Polyphony 7 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   63 <p>_Y Here_RL are_VBR some_DD weak_JJ comments_NN2 I_PPIS1 received_VVD for_IF a_AT1 story_NN1 titled_VVN "_Y Mirages_VVZ@_NN2@ "_Y that_CST I_PPIS1 sold_VVD to_II Polyphony_NP1_NN1 7_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   64 The story explores a surreal , existential moment involving a man wandering in a desert .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   64 The_AT story_NN1 explores_VVZ a_AT1 surreal_JJ ,_Y existential_JJ moment_NN1 involving_VVG a_AT1 man_NN1 wandering_VVG in_II_RP@ a_AT1 desert_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   65 <p> " It did n't get started until page 2 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   65 <p>_Y "_Y It_PPH1 did_VDD n't_XX get_VVI started_VVN until_II@_CS page_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   66 " <p> " I could n't get into the character .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   66 "_Y <p>_Y "_Y I_PPIS1 could_VM n't_XX get_VVI into_II the_AT character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   67 <p> " The desert setting was just a desert .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   67 <p>_Y "_Y The_AT desert_NN1 setting_NN1 was_VBDZ just_RR a_AT1 desert_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   68 It did n't have any character to it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   68 It_PPH1 did_VDD n't_XX have_VHI any_DD character_NN1 to_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   69 " <p> " There was only one character .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   69 "_Y <p>_Y "_Y There_EX was_VBDZ only_RR one_MC1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   70 " <p> " The story is too passive .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   70 "_Y <p>_Y "_Y The_AT story_NN1 is_VBZ too_RG passive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   71 " <p> Now here are some more weak comments--plus how they might have been sharpened and made more helpful : <p> Vague criticism : It felt slow .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   71 "_Y <p>_Y Now_RT here_RL are_VBR some_DD more_DAR_RGR weak_JJ comments--plus_NN2 how_RRQ they_PPHS2 might_VM have_VHI been_VBN sharpened_VVN and_CC made_VVN more_RGR_DAR helpful_JJ :_Y <p>_Y Vague_JJ criticism_NN1 :_Y It_PPH1 felt_VVD slow_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   72 <p> Meaning #1 : Your characters ' agendas may be poorly defined , and there is an absence of conflict .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   72 <p>_Y Meaning_VVG_NN1 #1_NNU :_Y Your_APPGE characters_NN2 '_GE agendas_NN2 may_VM be_VBI poorly_RR defined_VVN_VVD ,_Y and_CC there_EX is_VBZ an_AT1 absence_NN1 of_IO conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   73 Possible solution : Examine the motivations of your characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   73 Possible_JJ solution_NN1 :_Y Examine_VV0 the_AT motivations_NN2 of_IO your_APPGE characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   74 Rewrite as needed so that all the characters are pursuing their agendas .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   74 Rewrite_VV0 as_CSA needed_VVN so_CS21 that_CS22 all_DB the_AT characters_NN2 are_VBR pursuing_VVG their_APPGE agendas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   75 <p> Meaning #2 : The exposition may be bald i.e. , a flat , intrusive narrator is lecturing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   75 <p>_Y Meaning_VVG_NN1 #2_NNU :_Y The_AT exposition_NN1 may_VM be_VBI bald_JJ i.e._REX ,_Y a_AT1 flat_NN1_JJ ,_Y intrusive_JJ narrator_NN1 is_VBZ lecturing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   76 Possible solution : Cut .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   76 Possible_JJ solution_NN1 :_Y Cut_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   77 Make sure you 're staying in the character 's perspective ; stop instructing the reader .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   77 Make_VV0 sure_JJ you_PPY 're_VBR staying_VVG in_II the_AT character_NN1 's_GE perspective_NN1 ;_Y stop_VV0 instructing_VVG the_AT reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   78 <p> Meaning #3 : There may be excessive narrative unrelated to character growth and dramatic development .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   78 <p>_Y Meaning_VVG_NN1 #3_NNU :_Y There_EX may_VM be_VBI excessive_JJ narrative_JJ_NN1 unrelated_JJ to_II character_NN1 growth_NN1 and_CC dramatic_JJ development_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   79 Possible solution : Cut .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   79 Possible_JJ solution_NN1 :_Y Cut_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   80 Stay in character .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   80 Stay_VV0 in_II_RP@ character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   81 <p> Vague criticism : The ending is weak .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   81 <p>_Y Vague_JJ criticism_NN1 :_Y The_AT ending_NN1 is_VBZ weak_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   82 <p> Meaning #1 : The readers ' have been left unresolved .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   82 <p>_Y Meaning_VVG_NN1 #1_NNU :_Y The_AT readers_NN2 '_GE have_VH0 been_VBN left_VVN_JJ unresolved_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   83 Possible solution : Review the emotional threads , dramatic questions and unresolved character goals , then revise the climax and resolution for a stronger sense of completion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   83 Possible_JJ solution_NN1 :_Y Review_VV0@ the_AT emotional_JJ threads_NN2 ,_Y dramatic_JJ questions_NN2 and_CC unresolved_JJ character_NN1 goals_NN2 ,_Y then_RT revise_VV0 the_AT climax_NN1 and_CC resolution_NN1 for_IF a_AT1 stronger_JJR sense_NN1 of_IO completion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   84 <p> Meaning #2 : The beginning of the story does n't relate to the ending .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   84 <p>_Y Meaning_VVG_NN1 #2_NNU :_Y The_AT beginning_NN1 of_IO the_AT story_NN1 does_VDZ n't_XX relate_VVI to_II the_AT ending_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   85 Possible solution : Read the beginning , climax and resolution .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   85 Possible_JJ solution_NN1 :_Y Read_VV0 the_AT beginning_NN1 ,_Y climax_NN1_VV0 and_CC resolution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   86 Compare the beliefs , ideals , attitudes , ethics and emotional states of the main character(s) at the beginning and at the end .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   86 Compare_VV0 the_AT beliefs_NN2 ,_Y ideals_NN2 ,_Y attitudes_NN2 ,_Y ethics_NN and_CC emotional_JJ states_NN2 of_IO the_AT main_JJ character(s)_NN2 at_II the_AT beginning_NN1 and_CC at_II the_AT end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   87 If no change is apparent , rewrite the beginning or ending , then track the changes through each scene and be sure they are developed through an unbroken chain of plausible , inevitable experiences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   87 If_CS no_AT change_NN1 is_VBZ apparent_JJ ,_Y rewrite_VV0 the_AT beginning_NN1 or_CC ending_NN1_VVG ,_Y then_RT track_VV0@ the_AT changes_NN2 through_II each_DD1 scene_NN1 and_CC be_VBI sure_JJ they_PPHS2 are_VBR developed_VVN through_II an_AT1 unbroken_JJ chain_NN1 of_IO plausible_JJ ,_Y inevitable_JJ experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   88 <p> 6 Catalog patterns of success and failure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   88 <p>_Y 6_MC Catalog_NN1 patterns_NN2 of_IO success_NN1 and_CC failure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   89 Once you see how text affects you emotionally , you can begin to see how the writer created his effects .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   89 Once_CS@_RR you_PPY see_VV0 how_RRQ text_NN1 affects_VVZ you_PPY emotionally_RR ,_Y you_PPY can_VM begin_VVI to_TO see_VVI how_RRQ the_AT writer_NN1 created_VVD_VVN his_APPGE effects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   90 You 'll begin to develop techniques that create desired results .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   90 You_PPY 'll_VM begin_VVI to_TO develop_VVI techniques_NN2 that_CST create_VV0 desired_JJ@ results_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   91 <p> Example : Once you see the value of conflict in good stories , you 'll want to study how it 's exploited .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   91 <p>_Y Example_NN1 :_Y Once_CS@_RR you_PPY see_VV0 the_AT value_NN1 of_IO conflict_NN1 in_II good_JJ stories_NN2 ,_Y you_PPY 'll_VM want_VVI to_TO study_VVI how_RRQ it_PPH1 's_VBZ exploited_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   92 Soon , you 'll see that conflict conflict in dialogue is usually indirect and psychologically charged ; that conflict can be internal , human or environmental ; and that it creates emotional changes that , in turn , create new conflicts .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   92 Soon_RR ,_Y you_PPY 'll_VM see_VVI that_DD1_CST conflict_NN1 conflict_NN1 in_II dialogue_NN1 is_VBZ usually_RR indirect_JJ and_CC psychologically_RR charged_VVN_VVD ;_Y that_DD1 conflict_NN1 can_VM be_VBI internal_JJ ,_Y human_JJ_NN1 or_CC environmental_JJ ;_Y and_CC that_CST it_PPH1 creates_VVZ emotional_JJ changes_NN2 that_CST_DD1 ,_Y in_II turn_NN1 ,_Y create_VV0 new_JJ conflicts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   93 Those are patterns of success in a story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   93 Those_DD2 are_VBR patterns_NN2 of_IO success_NN1 in_II a_AT1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   94 <p> The patterns of failure , on the other hand , include bald exposition , arbitrary monologue , informational dialogue and gratuitous combat .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   94 <p>_Y The_AT patterns_NN2 of_IO failure_NN1 ,_Y on_II the_AT other_JJ hand_NN1 ,_Y include_VV0 bald_JJ exposition_NN1 ,_Y arbitrary_JJ monologue_NN1 ,_Y informational_JJ dialogue_NN1 and_CC gratuitous_JJ combat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   95 <p> Once you as analyst see the relationship between patterns of success and failure , you can offer specific advice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   95 <p>_Y Once_CS@_RR you_PPY as_II@_CSA analyst_NN1 see_VV0 the_AT relationship_NN1 between_II patterns_NN2 of_IO success_NN1 and_CC failure_NN1 ,_Y you_PPY can_VM offer_VVI specific_JJ advice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   96 <p> L : WORKOUT TRY THIS exercise to develop and hone your analytic skills .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   96 <p>_Y L_ZZ1_NP1@ :_Y WORKOUT_NP1_VV0 TRY_VV0 THIS_DD1 exercise_NN1 to_TO develop_VVI and_CC hone_VVI your_APPGE analytic_JJ skills_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   97 It works best if you do it several times using different articles and published stories each time .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   97 It_PPH1 works_VVZ best_RRT if_CS you_PPY do_VD0 it_PPH1 several_DA2 times_NNT2 using_VVG different_JJ articles_NN2 and_CC published_VVD_JJ@_VVN stories_NN2 each_DD1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   98 <p> * Select a published story you love to read .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   98 <p>_Y *_FU Select_JJ a_AT1 published_JJ@ story_NN1 you_PPY love_VV0 to_TO read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0   99 Type the first three scenes into your computer ( do n't cut and paste ) and print them out .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0   99 Type_VV0%_NN1 the_AT first_MD three_MC scenes_NN2 into_II your_APPGE computer_NN1 (_Y do_VD0 n't_XX cut_VVI and_CC paste_NN1 )_Y and_CC print_VVI them_PPHO2 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0  100 * Select and read two or three how-to articles from The Writer 's back issues .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0  100 *_FU Select_JJ and_CC read_VVD_VV0_VVN two_MC or_CC three_MC how-to_RRQ articles_NN2 from_II The_AT Writer_NN1 's_GE back_NN1_JJ@ issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0  101 * Using a different highlighter color for each article , go through the story scenes and highlight the techniques described in the 's been critiqued and do the same highlighting .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0  101 *_FU Using_VVG a_AT1 different_JJ highlighter_NN1 color_NN1 for_IF each_DD1 article_NN1 ,_Y go_VV0 through_II_RP@ the_AT story_NN1 scenes_NN2 and_CC highlight_VV0 the_AT techniques_NN2 described_VVN_VVD in_II the_AT 's_VHZ been_VBN critiqued_VVN@ and_CC do_VD0 the_AT same_DA highlighting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0  102 * Finally , look at the critique you received and try to correlate the criticism with the techniques from the articles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0  102 *_FU Finally_RR ,_Y look_VV0_NN1 at_II the_AT critique_NN1 you_PPY received_VVD_VVN and_CC try_VV0 to_TO correlate_VVI the_AT criticism_NN1 with_IW the_AT techniques_NN2 from_II the_AT articles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0  103 --Eric Witchey By Eric Witchey <p> Eric Witchey has sold more than SO short stories and a novel to national and international markets .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0  103 --Eric_NP1 Witchey_NP1 By_II Eric_NP1 Witchey_NP1 <p>_Y Eric_NP1 Witchey_NP1 has_VHZ sold_VVN more_RRR_DAR than_CSN SO_RG_RR short_JJ stories_NN2 and_CC a_AT1 novel_NN1_JJ to_II national_JJ and_CC international_JJ markets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0  104 He presents at writers conferences and is the author of many writing articles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0  104 He_PPHS1 presents_VVZ at_II writers_NN2 conferences_NN2 and_CC is_VBZ the_AT author_NN1 of_IO many_DA2 writing_NN1_JJ%_VVG articles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  A    0  105 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071178 COCA  B    0  105 <p>_Y

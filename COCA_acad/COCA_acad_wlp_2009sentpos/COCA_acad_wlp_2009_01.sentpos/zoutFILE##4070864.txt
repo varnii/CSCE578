@@ -1,0 +1,214 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    0 The problem came to the attention of Lawrence Pong , principal environmental health inspector for the San Francisco Department of Public Health , in a roundabout way .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    0 The_AT problem_NN1 came_VVD to_II the_AT attention_NN1 of_IO Lawrence_NP1 Pong_NN1_VV0 ,_Y principal_JJ environmental_JJ health_NN1 inspector_NN1 for_IF the_AT San_NP1 Francisco_NP1 Department_NN1 of_IO Public_JJ_NN1 Health_NN1 ,_Y in_II a_AT1 roundabout_JJ_NN1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    1 <p> The public library-- " a world-class library , " Pong noted--had what he called " a political no-win situation .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    1 <p>_Y The_AT public_JJ_NN1 library--_NN1_JJ "_Y a_AT1 world-class_JJ library_NN1 ,_Y "_Y Pong_NN1 noted--had_VHD what_DDQ he_PPHS1 called_VVD@ "_Y a_AT1 political_JJ no-win_JJ situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    2 " On the one hand , it had a responsibility to the general public to keep the premises free of pests like cockroaches , bedbugs , and lice , and to respond effectively to patron complaints about odors and the trash occasionally left behind by homeless people who sometimes took shelter there .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    2 "_Y On_II the_AT one_MC1 hand_NN1 ,_Y it_PPH1 had_VHD a_AT1 responsibility_NN1 to_II the_AT general_JJ_NN1 public_NN1_JJ to_TO keep_VVI the_AT premises_NN2 free_JJ_VV0@ of_IO pests_NN2 like_II cockroaches_NN2 ,_Y bedbugs_NN2_VVZ ,_Y and_CC lice_NN2 ,_Y and_CC to_TO respond_VVI effectively_RR to_II patron_NN1 complaints_NN2 about_II odors_NN2 and_CC the_AT trash_NN1 occasionally_RR left_VVN_VVD behind_RL@_II by_II homeless_JJ people_NN who_PNQS sometimes_RT took_VVD shelter_NN1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    3 On the other hand , as a matter of government policy ( and perhaps , too , as a practical and moral matter ) , it could not deny entry to people simply because they appeared to be homeless .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    3 On_II the_AT other_JJ hand_NN1 ,_Y as_II a_AT1 matter_NN1 of_IO government_NN1 policy_NN1 (_Y and_CC perhaps_RR ,_Y too_RR@_RG ,_Y as_CSA_II a_AT1 practical_JJ and_CC moral_JJ matter_NN1 )_Y ,_Y it_PPH1 could_VM not_XX deny_VVI entry_NN1 to_II people_NN simply_RR because_CS they_PPHS2 appeared_VVD to_TO be_VBI homeless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    4 <p> Last June , lice showed up on the fifth floor , at a computer station in the Publications Room .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    4 <p>_Y Last_MD June_NPM1 ,_Y lice_NN2 showed_VVD up_RP on_II the_AT fifth_MD floor_NN1 ,_Y at_II a_AT1 computer_NN1 station_NN1 in_II the_AT Publications_NN2 Room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    5 The facilities director immediately brought in the custodial staff to clean up the affected tables and computers .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    5 The_AT facilities_NN2 director_NN1 immediately_RR brought_VVN_VVD in_II the_AT custodial_JJ staff_NN to_TO clean_VVI up_RP_II@ the_AT affected_JJ@ tables_NN2 and_CC computers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    6 They applied bleach and vacuumed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    6 They_PPHS2 applied_VVD bleach_NN1 and_CC vacuumed_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    7 They the area with caution tape .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    7 They_PPHS2 the_AT area_NN1 with_IW caution_NN1 tape_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    8 They seemed to have the problem under control--except that then a louse materialized on the fourth floor and was spotted by a librarian as it crawled across the help desk .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    8 They_PPHS2 seemed_VVD to_TO have_VHI the_AT problem_NN1 under_RP@_II control--except_II_CS that_DD1 then_RT a_AT1 louse_NN1 materialized_VVD_VVN@ on_II the_AT fourth_MD floor_NN1 and_CC was_VBDZ spotted_VVN by_II a_AT1 librarian_NN1 as_CSA it_PPH1 crawled_VVD across_II the_AT help_NN1 desk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0    9 <p> That night , the facilities director brought in the library 's pest control contractor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0    9 <p>_Y That_DD1 night_NNT1 ,_Y the_AT facilities_NN2 director_NN1 brought_VVN_VVD in_II the_AT library_NN1 's_GE pest_NN1 control_NN1 contractor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   10 This contractor kills lice with steam rather than pesticides .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   10 This_DD1 contractor_NN1 kills_VVZ lice_NN2 with_IW steam_NN1 rather_II21 than_II22 pesticides_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   11 " Very cool , " Pong observed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   11 "_Y Very_RG cool_JJ_RR@ ,_Y "_Y Pong_NN1_VV0 observed_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   12 " They use an inexpensive handheld steamer , the kind you can get at Target or Sears , to shoot steam into cracks and crevices .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   12 "_Y They_PPHS2 use_VV0 an_AT1 inexpensive_JJ handheld_JJ steamer_NN1 ,_Y the_AT kind_NN1 you_PPY can_VM get_VVI at_II Target_NN1 or_CC Sears_NP1 ,_Y to_TO shoot_VVI steam_NN1 into_II cracks_NN2 and_CC crevices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   13 They do this for bedbugs too .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   13 They_PPHS2 do_VD0 this_DD1 for_IF bedbugs_NN2 too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   14 The dead insects come out in pools of water .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   14 The_AT dead_JJ insects_NN2 come_VV0 out_RP in_II pools_NN2 of_IO water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   15 " <p> But a mystery remained : How did lice get from the fifth floor , where the main infestation had occurred , to the fourth floor ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   15 "_Y <p>_Y But_CCB a_AT1 mystery_NN1 remained_VVD :_Y How_RRQ did_VDD lice_NN2 get_VVI from_II the_AT fifth_MD floor_NN1 ,_Y where_CS_RRQ the_AT main_JJ infestation_NN1 had_VHD occurred_VVN ,_Y to_II the_AT fourth_MD floor_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   16 <p> The room on the fifth floor does not cover the entire footprint of the building .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   16 <p>_Y The_AT room_NN1 on_II the_AT fifth_MD floor_NN1 does_VDZ not_XX cover_VVI the_AT entire_JJ footprint_NN1 of_IO the_AT building_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   17 It is a kind of atrium , flanked by two glass walls , that extends into the center of the library .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   17 It_PPH1 is_VBZ a_AT1 kind_NN1 of_IO atrium_NN1 ,_Y flanked_VVN by_II two_MC glass_NN1 walls_NN2 ,_Y that_DD1_CST extends_VVZ into_II the_AT center_NN1 of_IO the_AT library_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   18 Pong likened it to a goldfish bowl .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   18 Pong_NN1_VV0 likened_VVD_VVN it_PPH1 to_II a_AT1 goldfish_NN bowl_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   19 Standing in see the librarian 's counter on the fourth floor below .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   19 Standing_VVG_NN1 in_II see_VVI the_AT librarian_NN1 's_GE counter_NN1 on_II the_AT fourth_MD floor_NN1 below_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   20 <p> The pest control contractor examined the electrical outlet boxes under the computer tables on the fifth floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   20 <p>_Y The_AT pest_NN1 control_NN1 contractor_NN1 examined_VVD_VVN the_AT electrical_JJ outlet_NN1 boxes_NN2_VVZ@ under_II the_AT computer_NN1 tables_NN2 on_II the_AT fifth_MD floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   21 Perhaps the lice had crawled into the openings and followed the wiring to the floor below ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   21 Perhaps_RR the_AT lice_NN2 had_VHD crawled_VVN into_II the_AT openings_NN2 and_CC followed_VVN the_AT wiring_NN1 to_II the_AT floor_NN1 below_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   22 But when the boxes were taken apart , they turned out to dead-end on the fifth floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   22 But_CCB when_CS the_AT boxes_NN2 were_VBDR taken_VVN apart_RL ,_Y they_PPHS2 turned_VVD out_RP to_II dead-end_NN1 on_II the_AT fifth_MD floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   23 <p> Another thought was suggested by the view from the librarian 's counter on the fourth floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   23 <p>_Y Another_DD1 thought_NN1 was_VBDZ suggested_VVN by_II the_AT view_NN1 from_II the_AT librarian_NN1 's_GE counter_NN1 on_II the_AT fourth_MD floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   24 Looking up , one could see a soffit located directly under the fifth-floor computer table .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   24 Looking_VVG up_RP ,_Y one_PN1 could_VM see_VVI a_AT1 soffit_NN1 located_VVD_VVN directly_RR under_II the_AT fifth-floor_JJ_NN1 computer_NN1 table_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   25 A long ventilation system snaked through the base of the soffit , providing warm air for the fourth floor ( see photo at left ) .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   25 A_AT1_ZZ1 long_JJ ventilation_NN1 system_NN1 snaked_VVD_VVN@ through_II the_AT base_NN1 of_IO the_AT soffit_NN1 ,_Y providing_VVG_CS@ warm_JJ air_NN1 for_IF the_AT fourth_MD floor_NN1 (_Y see_VV0 photo_NN1 at_II left_JJ_NN1@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   26 <p> The pest control contractor went up on a ladder and shot some steam into the vent .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   26 <p>_Y The_AT pest_NN1 control_NN1 contractor_NN1 went_VVD up_RP on_II a_AT1 ladder_NN1 and_CC shot_VVD_VVN some_DD steam_NN1 into_II the_AT vent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   27 " Lo and behold , " Pong said , " out dropped some lice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   27 "_Y Lo_UH31 and_UH32 behold_UH33 ,_Y "_Y Pong_NN1 said_VVD ,_Y "_Y out_RP dropped_VVD some_DD lice_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   28 " Unfortunately , the lice were desiccated .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   28 "_Y Unfortunately_RR ,_Y the_AT lice_NN2 were_VBDR desiccated_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   29 It was impossible to tell whether they were of recent provenance .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   29 It_PPH1 was_VBDZ impossible_JJ to_TO tell_VVI whether_CSW they_PPHS2 were_VBDR of_IO recent_JJ provenance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   30 <p> In the meantime , the director of facilities had e-mailed a colleague library 's policies on homeless people .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   30 <p>_Y In_II the_AT meantime_NNT1 ,_Y the_AT director_NN1 of_IO facilities_NN2 had_VHD e-mailed_JJ_NN1 a_AT1 colleague_NN1 library_NN1 's_GE policies_NN2 on_II homeless_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   31 " He was just venting , " Pong said .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   31 "_Y He_PPHS1 was_VBDZ just_RR_JJ@ venting_VVG_NN1 ,_Y "_Y Pong_NN1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   32 <p> But the colleague forwarded the e-mail to a long list of other city personnel .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   32 <p>_Y But_CCB the_AT colleague_NN1 forwarded_VVD_VVN the_AT e-mail_NN1 to_II a_AT1 long_JJ list_NN1 of_IO other_JJ city_NN1 personnel_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   33 <p> Among those who received it was the director of public health , who spoke with Pong 's boss , the director of Environmental Health and Occupational Safety .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   33 <p>_Y Among_II those_DD2 who_PNQS received_VVD it_PPH1 was_VBDZ the_AT director_NN1 of_IO public_JJ_NN1 health_NN1 ,_Y who_PNQS spoke_VVD with_IW Pong_NN1 's_GE boss_NN1 ,_Y the_AT director_NN1 of_IO Environmental_JJ Health_NN1 and_CC Occupational_JJ Safety_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   34 Was n't there something the Department of Public Health could do to help the library , a " sister " agency ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   34 Was_VBDZ n't_XX there_RL_EX something_PN1 the_AT Department_NN1 of_IO Public_JJ_NN1 Health_NN1 could_VM do_VDI to_TO help_VVI the_AT library_NN1 ,_Y a_AT1 "_Y sister_NN1 "_Y agency_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   35 <p> And so Pong was dispatched to investigate .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   35 <p>_Y And_CC so_RR_CS@ Pong_VV0_NN1 was_VBDZ dispatched_VVN to_TO investigate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   36 <p> When he arrived , the facilities director was distressed : Suddenly here was an inspector .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   36 <p>_Y When_CS_RRQ he_PPHS1 arrived_VVD ,_Y the_AT facilities_NN2 director_NN1 was_VBDZ distressed_VVN :_Y Suddenly_RR here_RL was_VBDZ an_AT1 inspector_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   37 <p> " And I said , " Pong told JEH , " Have no fear , I 'm not here to do anything punitive .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   37 <p>_Y "_Y And_CC I_PPIS1 said_VVD ,_Y "_Y Pong_NN1_VV0 told_VVD_VVN JEH_NP1_NN1 ,_Y "_Y Have_VH0 no_AT fear_NN1 ,_Y I_PPIS1 'm_VBM not_XX here_RL to_TO do_VDI anything_PN1 punitive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   38 I 'm not here to do enforcement .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   38 I_PPIS1 'm_VBM not_XX here_RL to_TO do_VDI enforcement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   39 In fact , my assignment is to see what I can do to help you .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   39 In_II fact_NN1 ,_Y my_APPGE assignment_NN1 is_VBZ to_TO see_VVI what_DDQ I_PPIS1 can_VM do_VDI to_TO help_VVI you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   40 ' " <p> The facilities director showed him the areas blocked off with caution tape .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   40 '_"@_GE "_Y <p>_Y The_AT facilities_NN2 director_NN1 showed_VVD him_PPHO1 the_AT areas_NN2 blocked_VVD_VVN off_RP with_IW caution_NN1 tape_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   41 The library had done a good , swift job on the cleanup , but had not how did lice get from the fifth floor to the fourth ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   41 The_AT library_NN1 had_VHD done_VDN a_AT1 good_JJ ,_Y swift_JJ job_NN1 on_II the_AT cleanup_NN1 ,_Y but_CCB had_VHD not_XX how_RRQ did_VDD lice_NN2 get_VVI from_II the_AT fifth_MD floor_NN1 to_II the_AT fourth_MD ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   42 Pong looked up from the countertop on the fourth floor , saw the warm air ducts , and saw that there was no other opening in the ceiling .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   42 Pong_NN1_VV0 looked_VVD_VVN up_RP from_II the_AT countertop_NN1 on_II the_AT fourth_MD floor_NN1 ,_Y saw_VVD the_AT warm_JJ air_NN1 ducts_NN2 ,_Y and_CC saw_VVD that_CST there_EX was_VBDZ no_AT other_JJ opening_NN1 in_II the_AT ceiling_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   43 He asked the library to remove some of the ceiling panels at night when the library was closed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   43 He_PPHS1 asked_VVD the_AT library_NN1 to_TO remove_VVI some_DD of_IO the_AT ceiling_NN1 panels_NN2 at_II night_NNT1 when_RRQ the_AT library_NN1 was_VBDZ closed_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   44 Then he came back to see where the warm-air ducts originated .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   44 Then_RT he_PPHS1 came_VVD back_RP to_TO see_VVI where_RRQ the_AT warm-air_JJ_NN1 ducts_NN2 originated_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   45 <p> Another dead end .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   45 <p>_Y Another_DD1 dead_JJ end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   46 The flue did not connect to the fifth floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   46 The_AT flue_NN1 did_VDD not_XX connect_VVI to_II the_AT fifth_MD floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   47 Between the ceiling of the fourth floor and the floor of the fifth there was a crawl space two feet high .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   47 Between_II the_AT ceiling_NN1 of_IO the_AT fourth_MD floor_NN1 and_CC the_AT floor_NN1 of_IO the_AT fifth_MD there_EX was_VBDZ a_AT1 crawl_NN1@ space_NN1 two_MC feet_NN2 high_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   48 Ah , but in this space he found some rodent droppings .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   48 Ah_UH ,_Y but_CCB in_II this_DD1 space_NN1 he_PPHS1 found_VVD some_DD rodent_NN1 droppings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   49 That suggested another line of investigation .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   49 That_DD1 suggested_VVD_VVN another_DD1 line_NN1 of_IO investigation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   50 The possibility of rats as carriers was one Pong felt he had to investigate , in part because the facilities director had mentioned the shocking size of the lice : He 'd never seen lice so large .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   50 The_AT possibility_NN1 of_IO rats_NN2 as_CSA_II@ carriers_NN2 was_VBDZ one_MC1 Pong_NN1 felt_VVD he_PPHS1 had_VHD to_TO investigate_VVI ,_Y in_RR21 part_RR22 because_CS the_AT facilities_NN2 director_NN1 had_VHD mentioned_VVN the_AT shocking_JJ size_NN1 of_IO the_AT lice_NN2 :_Y He_PPHS1 'd_VHD never_RR seen_VVN lice_NN2 so_RG_RR large_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   51 Pong wondered : Might animal lice be involved ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   51 Pong_NN1 wondered_VVD :_Y Might_VM animal_NN1 lice_NN2 be_VBI involved_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   52 <p> An adult head louse typically is about the size of a sesame seed ( see size of a grain of rice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   52 <p>_Y An_AT1 adult_NN1_JJ@ head_NN1 louse_NN1 typically_RR is_VBZ about_II the_AT size_NN1 of_IO a_AT1 sesame_NN1 seed_NN1 (_Y see_VV0 size_NN1 of_IO a_AT1 grain_NN1 of_IO rice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   53 Animal lice are also distinguishable by a reddish coloration on the abdomen .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   53 Animal_NN1 lice_NN2 are_VBR also_RR distinguishable_JJ by_II a_AT1 reddish_JJ coloration_NN1 on_II the_AT abdomen_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   54 So : Might rodents have carried animal lice into the space between floors ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   54 So_RR :_Y Might_VM rodents_NN2 have_VHI carried_VVN animal_NN1 lice_NN2 into_II the_AT space_NN1 between_II floors_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   55 Under this scenario the lice would have crawled around the outside surface of the flue , fallen in through a crack , and dropped to the floor below .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   55 Under_II this_DD1 scenario_NN1 the_AT lice_NN2 would_VM have_VHI crawled_VVN around_II_RP the_AT outside_JJ surface_NN1 of_IO the_AT flue_NN1 ,_Y fallen_VVN in_RP@ through_II a_AT1 crack_NN1 ,_Y and_CC dropped_VVN_VVD to_II the_AT floor_NN1 below_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   56 <p> Upon examination , the rodent droppings turned out to be old .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   56 <p>_Y Upon_II examination_NN1 ,_Y the_AT rodent_NN1 droppings_NN2 turned_VVD_VVN out_RP to_TO be_VBI old_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   57 The animals that had produced them could not have been the source of the problem .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   57 The_AT animals_NN2 that_CST had_VHD produced_VVN them_PPHO2 could_VM not_XX have_VHI been_VBN the_AT source_NN1 of_IO the_AT problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   58 <p> While he was on the subject of animal lice , though , Pong decided to rule out another scenario .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   58 <p>_Y While_CS he_PPHS1 was_VBDZ on_II the_AT subject_NN1 of_IO animal_NN1 lice_NN2 ,_Y though_CS_RR@ ,_Y Pong_NN1_VV0 decided_VVD_VVN to_TO rule_VVI out_RP another_DD1 scenario_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   59 Animals that climb in trees sometimes deposit lice there , and Pong 's department had encountered cases of people who picked up animal lice because , while hiking in the woods , they 'd sat down on trees to rest .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   59 Animals_NN2 that_CST climb_VV0_NN1 in_II_RP@ trees_NN2 sometimes_RT deposit_VV0 lice_NN2 there_RL ,_Y and_CC Pong_NN1 's_GE department_NN1 had_VHD encountered_VVN cases_NN2 of_IO people_NN who_PNQS picked_VVD up_RP animal_NN1 lice_NN2 because_CS ,_Y while_CS hiking_VVG in_II the_AT woods_NN2 ,_Y they_PPHS2 'd_VHD sat_VVN down_RP on_II trees_NN2 to_TO rest_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   60 Well , what about the ornamental trees growing outside of the building ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   60 Well_RR ,_Y what_DDQ about_II the_AT ornamental_JJ trees_NN2 growing_VVG outside_II21 of_II22 the_AT building_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   61 Homeless people often sat under these trees .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   61 Homeless_JJ people_NN often_RR sat_VVD_VVN@ under_II these_DD2 trees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   62 Could they have picked up animal lice in much the way hikers did and brought them building , looking in the trees for signs of rodent infestation--and did not find any .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   62 Could_VM they_PPHS2 have_VHI picked_VVN up_RP animal_NN1 lice_NN2 in_II_RP@ much_RR the_AT way_NN1 hikers_NN2 did_VDD and_CC brought_VVD them_PPHO2 building_NN1 ,_Y looking_VVG in_II the_AT trees_NN2 for_IF signs_NN2 of_IO rodent_NN1 infestation--and_CC did_VDD not_XX find_VVI any_DD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   63 <p> " But it 's my job to consider all these possibilities , " he said .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   63 <p>_Y "_Y But_CCB it_PPH1 's_VBZ my_APPGE job_NN1 to_TO consider_VVI all_DB these_DD2 possibilities_NN2 ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   64 " I would have been remiss if I had not .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   64 "_Y I_PPIS1 would_VM have_VHI been_VBN remiss_JJ if_CS_CSW@ I_PPIS1 had_VHD not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   65 " <p> In the meantime , the pest control contractor had put out glue boards in the affected areas ( see photo at left ) .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   65 "_Y <p>_Y In_II the_AT meantime_NNT1 ,_Y the_AT pest_NN1 control_NN1 contractor_NN1 had_VHD put_VVN out_RP glue_NN1_VV0 boards_NN2_VVZ@ in_II the_AT affected_JJ@ areas_NN2 (_Y see_VV0 photo_NN1 at_II left_JJ_NN1@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   66 The lice captured in this way proved to be classic head lice , Pong said , " but a little bigger than what we 're used to seeing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   66 The_AT lice_NN2 captured_VVN_VVD in_II this_DD1 way_NN1 proved_VVD_VVN to_TO be_VBI classic_JJ head_NN1_JJ@ lice_NN2 ,_Y Pong_NN1 said_VVD ,_Y "_Y but_CCB a_RR21 little_RR22 bigger_JJR than_CSN what_DDQ we_PPIS2 're_VBR used_JJ to_II seeing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   67 About half the size of a grain of rice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   67 About_RG half_DB the_AT size_NN1 of_IO a_AT1 grain_NN1 of_IO rice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   68 " <p> After a week , the contractor determined that the affected areas were free of lice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   68 "_Y <p>_Y After_CS_II a_AT1 week_NNT1 ,_Y the_AT contractor_NN1 determined_VVN_VVD@ that_CST the_AT affected_JJ@ areas_NN2 were_VBDR free_JJ of_IO lice_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   69 The library reopened those areas and put the computers back .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   69 The_AT library_NN1 reopened_VVD_VVN those_DD2 areas_NN2 and_CC put_VV0_VVD the_AT computers_NN2 back_RP_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   70 Soon , a couple of homeless men had returned to their usual spots on the fifth floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   70 Soon_RR ,_Y a_AT1 couple_NN1 of_IO homeless_JJ men_NN2 had_VHD returned_VVN to_II their_APPGE usual_JJ spots_NN2 on_II the_AT fifth_MD floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   71 <p> As Pong commented , " People are creatures of habit .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   71 <p>_Y As_CSA_II@ Pong_NN1 commented_VVD_VVN ,_Y "_Y People_NN are_VBR creatures_NN2 of_IO habit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   72 They always head toward the same section , the same chairs .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   72 They_PPHS2 always_RR head_VV0@_NN1_JJ@ toward_II the_AT same_DA section_NN1 ,_Y the_AT same_DA chairs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   73 " <p> Pong had also returned , along with a trainee .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   73 "_Y <p>_Y Pong_NN1 had_VHD also_RR returned_VVN ,_Y along_II21 with_II22 a_AT1 trainee_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   74 One of the men was sleeping ; he had several bags with him , and the bags were leaning against the atrium window .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   74 One_MC1 of_IO the_AT men_NN2 was_VBDZ sleeping_VVG_JJ ;_Y he_PPHS1 had_VHD several_DA2 bags_NN2 with_IW him_PPHO1 ,_Y and_CC the_AT bags_NN2 were_VBDR leaning_VVG against_II the_AT atrium_NN1 window_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   75 Might lice be crawling off his possessions and through some kind of crack or crevice to the floor below ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   75 Might_NN1%_VM lice_NN2 be_VBI crawling_VVG off_RP_II his_APPGE possessions_NN2 and_CC through_II some_DD kind_NN1 of_IO crack_NN1 or_CC crevice_NN1 to_II the_AT floor_NN1 below_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   76 The other man , wearing a 49ers cap and jacket , was just sitting , staring into space .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   76 The_AT other_JJ man_NN1 ,_Y wearing_VVG a_AT1 49ers_FO cap_NN1 and_CC jacket_NN1 ,_Y was_VBDZ just_RR sitting_VVG ,_Y staring_VVG into_II space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   77 Pong walked softly behind each of the men , then returned to the others and suggested they go take a look .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   77 Pong_NN1 walked_VVD softly_RR behind_II each_DD1 of_IO the_AT men_NN2 ,_Y then_RT returned_VVN_VVD to_II the_AT others_NN2 and_CC suggested_VVN they_PPHS2 go_VV0 take_VV0 a_AT1 look_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   78 <p> " They came back , " he said , " with their eyes wide open : Unhh .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   78 <p>_Y "_Y They_PPHS2 came_VVD back_RP ,_Y "_Y he_PPHS1 said_VVD ,_Y "_Y with_IW their_APPGE eyes_NN2 wide_RR open_JJ :_Y Unhh_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   79 " First mystery solved : The man in the 49ers cap was the culprit , his hair full of lice and nits .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   79 "_Y First_MD mystery_NN1 solved_VVN_VVD@ :_Y The_AT man_NN1 in_II the_AT 49ers_FO cap_NN1 was_VBDZ the_AT culprit_NN1 ,_Y his_APPGE hair_NN1 full_JJ of_IO lice_NN2 and_CC nits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   80 Pong added : " He was scratching his head and dropping lice all over the floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   80 Pong_NN1_VV0 added_VVD_JJ_VVN :_Y "_Y He_PPHS1 was_VBDZ scratching_VVG his_APPGE head_NN1 and_CC dropping_VVG lice_NN2 all_RR over_II the_AT floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   81 " <p> Security escorted the man out of the library and told him not to come back until he had been deloused .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   81 "_Y <p>_Y Security_NN1 escorted_VVD_VVN the_AT man_NN1 out_II21 of_II22 the_AT library_NN1 and_CC told_VVD him_PPHO1 not_XX to_TO come_VVI back_RP until_CS he_PPHS1 had_VHD been_VBN deloused_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   82 A janitorial crew cleaned up right away , and other patrons were cleared from the area because , Pong said , " lice meantime , Pong went down to the fourth floor to see if lice had showed up there .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   82 A_AT1_ZZ1 janitorial_JJ crew_NN1 cleaned_VVD_VVN up_RP right_RR away_RL ,_Y and_CC other_JJ patrons_NN2 were_VBDR cleared_VVN from_II the_AT area_NN1 because_CS ,_Y Pong_NN1 said_VVD ,_Y "_Y lice_NN2 meantime_NNT1 ,_Y Pong_NN1 went_VVD down_RP to_II the_AT fourth_MD floor_NN1 to_TO see_VVI if_CSW@_CS lice_NN2 had_VHD showed_VVN up_RP there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   83 This time he happened to stand in a different location , away from the librarian 's countertop .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   83 This_DD1 time_NNT1 he_PPHS1 happened_VVD to_TO stand_VVI in_II_RP@ a_AT1 different_JJ location_NN1 ,_Y away_II21 from_II22 the_AT librarian_NN1 's_GE countertop_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   84 And when he looked up at the vents , he could see light around the edges .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   84 And_CC when_RRQ_CS he_PPHS1 looked_VVD up_RP at_II the_AT vents_NN2 ,_Y he_PPHS1 could_VM see_VVI light_NN1_JJ around_II the_AT edges_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   85 He could actually see daylight from the sixth-floor skylights .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   85 He_PPHS1 could_VM actually_RR see_VVI daylight_NN1 from_II the_AT sixth-floor_JJ_NN1 skylights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   86 <p> In other words , the floor was n't sealed where it met the wall .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   86 <p>_Y In_II other_JJ words_NN2 ,_Y the_AT floor_NN1 was_VBDZ n't_XX sealed_VVN_JJ where_CS_RRQ it_PPH1 met_VVD the_AT wall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   87 <p> He went back to the fifth floor .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   87 <p>_Y He_PPHS1 went_VVD back_RP to_II the_AT fifth_MD floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   88 There he found that he could slide his pocketknife between the edge of the black linoleum adhesive tiles and the aluminum frame of the glass wall .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   88 There_RL he_PPHS1 found_VVD that_CST he_PPHS1 could_VM slide_VVI his_APPGE pocketknife_NN1 between_II the_AT edge_NN1 of_IO the_AT black_JJ linoleum_NN1 adhesive_NN1_JJ tiles_NN2 and_CC the_AT aluminum_NN1 frame_NN1 of_IO the_AT glass_NN1 wall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   89 He pulled back a square of the linoleum surface and found a half-inch gap between the frame and the floor ( see photo at left ) .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   89 He_PPHS1 pulled_VVD back_RP a_AT1 square_NN1 of_IO the_AT linoleum_NN1 surface_NN1 and_CC found_VVD_VVN a_AT1 half-inch_NNU1_JJ gap_NN1 between_II the_AT frame_NN1 and_CC the_AT floor_NN1 (_Y see_VV0 photo_NN1 at_II left_JJ_NN1@ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   90 <p> The second mystery was now solved : Lice had spread from the fifth floor by crawling into the crevice where the floor met the wall , falling onto the outside of the vent , crawling over the surface of the vent , and dropping to the fourth floor slab that the linoleum sat on was supposed to continue all the way to the window .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   90 <p>_Y The_AT second_MD mystery_NN1 was_VBDZ now_RT solved_VVN_VVD@ :_Y Lice_NN2 had_VHD spread_VVN from_II the_AT fifth_MD floor_NN1 by_II crawling_VVG into_II the_AT crevice_NN1 where_CS_RRQ the_AT floor_NN1 met_VVD_VVN the_AT wall_NN1 ,_Y falling_VVG onto_II the_AT outside_II21 of_II22 the_AT vent_NN1 ,_Y crawling_VVG over_II_RP the_AT surface_NN1 of_IO the_AT vent_NN1 ,_Y and_CC dropping_VVG to_II the_AT fourth_MD floor_NN1 slab_NN1 that_CST the_AT linoleum_NN1 sat_VVD on_RP@_II was_VBDZ supposed_JJ to_TO continue_VVI all_DB the_AT way_NN1 to_II the_AT window_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   91 It had never been completed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   91 It_PPH1 had_VHD never_RR been_VBN completed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   92 A gap 6 inches wide ran along the wall , covered only with plywood .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   92 A_AT1 gap_NN1 6_MC inches_NNU2 wide_JJ_RR@ ran_VVD along_II_RP the_AT wall_NN1 ,_Y covered_VVD_VVN only_RR with_IW plywood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   93 <p> The resulting air gap meant that the fifth floor , which was supposed to be fireproofed , was not .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   93 <p>_Y The_AT resulting_JJ air_NN1 gap_NN1 meant_VVD_VVN that_CST the_AT fifth_MD floor_NN1 ,_Y which_DDQ was_VBDZ supposed_JJ to_TO be_VBI fireproofed_VVN@ ,_Y was_VBDZ not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   94 <p> " They had to get that floor fixed and sealed in a hurry , " Pong observed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   94 <p>_Y "_Y They_PPHS2 had_VHD to_TO get_VVI that_DD1_CST floor_NN1 fixed_VVN and_CC sealed_VVN_VVD in_II_RP@ a_AT1 hurry_NN1@ ,_Y "_Y Pong_NN1_VV0 observed_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   95 " And I wo n't be expecting any more lice problems of this nature .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   95 "_Y And_CC I_PPIS1 wo_VM n't_XX be_VBI expecting_VVG any_DD more_DAR lice_NN2 problems_NN2 of_IO this_DD1 nature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   96 " <p> For some , the moral of this story may be : Watch what you say on e-mail .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   96 "_Y <p>_Y For_IF some_DD ,_Y the_AT moral_NN1@_JJ of_IO this_DD1 story_NN1 may_VM be_VBI :_Y Watch_VV0_NN1 what_DDQ you_PPY say_VV0 on_II_RP@ e-mail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   97 It can spread faster than lice--all the way to the health inspector !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   97 It_PPH1 can_VM spread_VVI faster_RRR_JJR than_CSN lice--all_NN2 the_AT way_NN1 to_II the_AT health_NN1 inspector_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   98 But maybe there 's a better moral to be drawn : Do n't be afraid of " the inspector .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   98 But_CCB maybe_RR there_EX 's_VBZ a_AT1 better_JJR moral_JJ_NN1@ to_TO be_VBI drawn_VVN :_Y Do_VD0 n't_XX be_VBI afraid_JJ of_IO "_Y the_AT inspector_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0   99 " He or she can help you find systemic solutions to recurring problems--and might just uncover serious threats to public safety before someone gets hurt .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0   99 "_Y He_PPHS1 or_CC she_PPHS1 can_VM help_VVI you_PPY find_VVI systemic_JJ solutions_NN2 to_II recurring_JJ_VVG problems--and_NN2 might_VM just_RR uncover_VVI serious_JJ threats_NN2 to_II public_JJ_NN1 safety_NN1 before_CS_II someone_PN1 gets_VVZ hurt_JJ_VVN_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  100 <p> PHOTO ( COLOR ) : View from the fourth floor : fifth-floor atrium , air duct vent at Lawrence Pong .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  100 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y View_NN1_VV0@ from_II the_AT fourth_MD floor_NN1 :_Y fifth-floor_JJ atrium_NN1 ,_Y air_NN1 duct_NN1_VV0 vent_NN1 at_II Lawrence_NP1 Pong_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  101 <p> PHOTO ( COLOR ) : Fourth-floor work stations with glue traps .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  101 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Fourth-floor_JJ work_NN1 stations_NN2 with_IW glue_NN1 traps_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  102 Photo by Lawrence Pong .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  102 Photo_NN1 by_II Lawrence_NP1 Pong_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  103 <p> PHOTO ( COLOR ) : Pong found an invisible gap between the linoleum floor and the aluminum frame of the atrium windows .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  103 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Pong_NN1_VV0 found_VVD_VVN an_AT1 invisible_JJ gap_NN1 between_II the_AT linoleum_NN1 floor_NN1 and_CC the_AT aluminum_NN1 frame_NN1 of_IO the_AT atrium_NN1 windows_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  104 Photo by Lawrence Pong .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  104 Photo_NN1 by_II Lawrence_NP1 Pong_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  105 <p> By Rebecca Berg , Ph.D .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  105 <p>_Y By_II Rebecca_NP1 Berg_NP1 ,_Y Ph.D_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  A    0  106 <p>
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070864 COCA  B    0  106 <p>_Y

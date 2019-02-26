@@ -1,0 +1,124 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    0 " When I was a lot younger , I had writer 's block , but not anymore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    0 "_Y When_RRQ_CS I_PPIS1 was_VBDZ a_RR21@ lot_RR22 younger_JJR ,_Y I_PPIS1 had_VHD writer_NN1 's_GE block_NN1 ,_Y but_CCB not_XX anymore_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    1 Now , before I begin any project , I spend weeks working on the plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    1 Now_RT ,_Y before_CS I_PPIS1 begin_VV0 any_DD project_NN1 ,_Y I_PPIS1 spend_VV0 weeks_NNT2 working_VVG on_II the_AT plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    2 I was taught that writers were geniuses and you did n't have to do any work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    2 I_PPIS1 was_VBDZ taught_VVN that_CST writers_NN2 were_VBDR geniuses_NN2 and_CC you_PPY did_VDD n't_XX have_VHI to_TO do_VDI any_DD work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    3 I 'm not a genius .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    3 I_PPIS1 'm_VBM not_XX a_AT1 genius_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    4 I have to work at it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    4 I_PPIS1 have_VH0 to_TO work_VVI at_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    5 I have to have a plan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    5 I_PPIS1 have_VH0 to_TO have_VHI a_AT1 plan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    6 If you were building a house , you would n't think about building it without a plan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    6 If_CS you_PPY were_VBDR building_VVG@ a_AT1 house_NN1 ,_Y you_PPY would_VM n't_XX think_VVI about_II building_VVG@_NN1 it_PPH1 without_IW a_AT1 plan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    7 As a basketball player in the NBA , you would n't start a game without a plan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    7 As_II_CSA a_AT1 basketball_NN1 player_NN1 in_II the_AT NBA_NN1_NP1 ,_Y you_PPY would_VM n't_XX start_VVI a_AT1 game_NN1 without_IW a_AT1 plan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    8 It 's the same with writing a novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    8 It_PPH1 's_VBZ the_AT same_DA with_IW writing_VVG a_AT1 novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0    9 " On His Writing Room " I have a tiny little room -- 6 ' by 8 ' -- and early in the morning I 'm in there working away .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0    9 "_Y On_II His_APPGE Writing_NN1 Room_NN1 "_Y I_PPIS1 have_VH0 a_AT1 tiny_JJ little_JJ room_NN1 --_NN1 6_MC '_GE by_II 8_MC '_GE --_NN1_JJ and_CC early_RR_JJ in_II the_AT morning_NNT1 I_PPIS1 'm_VBM in_II there_RL working_VVG away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   10 I have my computer and some graphics on the wall that pertain to the novel I 'm writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   10 I_PPIS1 have_VH0 my_APPGE computer_NN1 and_CC some_DD graphics_NN on_II the_AT wall_NN1 that_CST_DD1 pertain_VV0_NN1 to_II the_AT novel_NN1_JJ I_PPIS1 'm_VBM writing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   11 " On Finding Ideas " I do n't have that many ideas .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   11 "_Y On_II Finding_VVG_NN1_JJ@ Ideas_NN2 "_Y I_PPIS1 do_VD0 n't_XX have_VHI that_RG%_DD1 many_DA2 ideas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   12 I 've always been interested in the Civil War older , I mature and look at these issues differently .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   12 I_PPIS1 've_VH0 always_RR been_VBN interested_JJ in_II the_AT Civil_JJ War_NN1 older_JJR ,_Y I_PPIS1 mature_VV0 and_CC look_VV0_NN1 at_II these_DD2 issues_NN2 differently_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   13 With my new novel Riot , for example , I 'd always assumed that slavery was a Southern thing and the Civil War was a patriotic thing , but I began to see it was n't that clear .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   13 With_IW my_APPGE new_JJ novel_JJ_NN1 Riot_NN1 ,_Y for_REX21 example_REX22 ,_Y I_PPIS1 'd_VM_VHD always_RR assumed_VVN that_DD1_CST slavery_NN1 was_VBDZ a_AT1 Southern_JJ thing_NN1 and_CC the_AT Civil_JJ War_NN1 was_VBDZ a_AT1 patriotic_JJ thing_NN1 ,_Y but_CCB I_PPIS1 began_VVD to_TO see_VVI it_PPH1 was_VBDZ n't_XX that_RG clear_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   14 In 1863 , President Lincoln issued the Emancipation Proclamation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   14 In_II 1863_MC ,_Y President_NNB Lincoln_NP1 issued_VVD the_AT Emancipation_NN1 Proclamation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   15 It meant black people were free .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   15 It_PPH1 meant_VVD black_JJ people_NN were_VBDR free_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   16 It meant my great-great-grandparents were free .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   16 It_PPH1 meant_VVD my_APPGE great-great-grandparents_NN2 were_VBDR free_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   17 But for struggling immigrants in New York , it meant blacks were coming to compete for the same jobs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   17 But_II21_CCB for_II22_IF struggling_JJ_VVG immigrants_NN2 in_II New_NP1 York_NP1 ,_Y it_PPH1 meant_VVD blacks_NN2 were_VBDR coming_VVG to_TO compete_VVI for_IF the_AT same_DA jobs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   18 The draft meant immigrants had to go risk their lives for the people they were competing with .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   18 The_AT draft_NN1 meant_VVD_VVN immigrants_NN2 had_VHD to_TO go_VVI risk_VV0_NN1 their_APPGE lives_NN2 for_IF the_AT people_NN they_PPHS2 were_VBDR competing_VVG with_IW ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   19 So you have conflicts between blacks and whites , between the rich and the poor , and for jobs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   19 So_RR you_PPY have_VH0 conflicts_NN2 between_II blacks_NN2 and_CC whites_NN2 ,_Y between_II the_AT rich_JJ and_CC the_AT poor_JJ ,_Y and_CC for_IF jobs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   20 There were so many conflicts already in the story , it was easy to write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   20 There_EX were_VBDR so_RG many_DA2 conflicts_NN2 already_RR in_II the_AT story_NN1 ,_Y it_PPH1 was_VBDZ easy_JJ to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   21 By focusing on a girl who is biracial , who has white friends and black friends , it heightens the conflict .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   21 By_II focusing_VVG on_II_RP@ a_AT1 girl_NN1 who_PNQS is_VBZ biracial_JJ ,_Y who_PNQS has_VHZ white_JJ friends_NN2 and_CC black_JJ friends_NN2 ,_Y it_PPH1 heightens_VVZ the_AT conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   22 " On Characters " I spend time with my characters before I begin writing about them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   22 "_Y On_II Characters_NN2 "_Y I_PPIS1 spend_VV0 time_NNT1 with_IW my_APPGE characters_NN2 before_CS I_PPIS1 begin_VV0 writing_VVG about_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   23 I spent this morning the influences on this character 's life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   23 I_PPIS1 spent_VVD this_DD1 morning_NNT1 the_AT influences_NN2 on_II this_DD1 character_NN1 's_GE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   24 I used to go to employment offices and fill out applications for each character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   24 I_PPIS1 used_VMK to_TO go_VVI to_II employment_NN1 offices_NN2 and_CC fill_VV0 out_RP applications_NN2 for_IF each_DD1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   25 That way I knew what their backgrounds were .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   25 That_DD1 way_NN1 I_PPIS1 knew_VVD what_DDQ their_APPGE backgrounds_NN2 were_VBDR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   26 When I begin a book , I go through magazines and get photographs of all my characters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   26 When_CS_RRQ I_PPIS1 begin_VV0 a_AT1 book_NN1 ,_Y I_PPIS1 go_VV0 through_II_RP@ magazines_NN2 and_CC get_VV0 photographs_NN2 of_IO all_DB my_APPGE characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   27 I put them on a large piece of oak tag behind my computer , so I 'm looking at them while I 'm writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   27 I_PPIS1 put_VV0_VVD them_PPHO2 on_II_RP@ a_AT1 large_JJ piece_NN1 of_IO oak_NN1 tag_NN1_VV0 behind_II my_APPGE computer_NN1 ,_Y so_CS@_RR I_PPIS1 'm_VBM looking_VVG at_II them_PPHO2 while_CS I_PPIS1 'm_VBM writing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   28 After a while , they grow on you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   28 After_CS_II a_AT1 while_NNT1@ ,_Y they_PPHS2 grow_VV0 on_II_RP@ you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   29 You get to know them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   29 You_PPY get_VV0 to_TO know_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   30 You know what they 'd wear and how they 'd talk .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   30 You_PPY know_VV0 what_DDQ they_PPHS2 'd_VM wear_VVI and_CC how_RRQ they_PPHS2 'd_VM talk_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   31 I 'll say to my wife , ' Do you know what this character said today ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   31 I_PPIS1 'll_VM say_VVI to_II my_APPGE wife_NN1 ,_Y '_"@_GE Do_VD0 you_PPY know_VVI what_DDQ this_DD1 character_NN1 said_VVD today_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   32 ' And she 'll give me a look and say , ' No darling , what ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   32 '_"@_GE And_CC she_PPHS1 'll_VM give_VVI me_PPIO1 a_AT1 look_NN1 and_CC say_VVI ,_Y '_GE_"@ No_AT_UH darling_NN1 ,_Y what_DDQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   33 ' " On Notebooks " I have several .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   33 '_"@_GE "_Y On_II Notebooks_NN2 "_Y I_PPIS1 have_VH0 several_DA2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   34 I have one for a particular book and general ones I carry in case I have an idea or I hear something on the train .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   34 I_PPIS1 have_VH0 one_PN1_MC1 for_IF a_AT1 particular_JJ book_NN1 and_CC general_JJ_NN1 ones_Z' I_PPIS1 carry_VV0 in_CS21 case_CS22 I_PPIS1 have_VH0 an_AT1 idea_NN1 or_CC I_PPIS1 hear_VV0 something_PN1 on_II the_AT train_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   35 I 've come home from restaurants with scribblings on napkins of something I overheard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   35 I_PPIS1 've_VH0 come_VVN home_RL from_II restaurants_NN2 with_IW scribblings_NN2 on_II napkins_NN2 of_IO something_PN1 I_PPIS1 overheard_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   36 " On inspiration " If .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   36 "_Y On_II inspiration_NN1 "_Y If_CS ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   37 For example , bullying .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   37 For_REX21 example_REX22 ,_Y bullying_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   38 There is bullying in every school .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   38 There_EX is_VBZ bullying_VVG in_II_RP@ every_AT1 school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   39 What causes bullying ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   39 What_DDQ causes_VVZ bullying_NN1_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   40 What causes the tolerance of bullying ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   40 What_DDQ causes_VVZ the_AT tolerance_NN1 of_IO bullying_NN1_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   41 Answering those questions moves it from a surface story to something that has a readership .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   41 Answering_VVG those_DD2 questions_NN2 moves_VVZ it_PPH1 from_II a_AT1 surface_NN1 story_NN1 to_II something_PN1 that_CST has_VHZ a_AT1 readership_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   42 " WALTER DEAN MYERS BIRTHPLACE : Martinsburg , West Virginia RAISED : Harlem in New York City GREATEST HITS : Monster , Slam !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   42 "_Y WALTER_NP1 DEAN_NP1 MYERS_NP1 BIRTHPLACE_NN1 :_Y Martinsburg_NP1 ,_Y West_NP1 Virginia_NP1 RAISED_VVD :_Y Harlem_NP1 in_II New_NP1 York_NP1 City_NN1 GREATEST_JJT HITS_NN2 :_Y Monster_NN1 ,_Y Slam_UH@_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   43 , Bad Boy : A Memoir , Autobiography of My Dead Brother , Sunrise Over Fallujah ACCOLADES : Newbery Honor recipient , Coretta Scott King Award , Michael L. Printz Award for Excellence in Literature for Young Adults WEB SITE : www.walterdeanmyers.net What 's Your Big Idea ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   43 ,_Y Bad_JJ Boy_NN1 :_Y A_AT1@_ZZ1 Memoir_NN1 ,_Y Autobiography_NN1 of_IO My_APPGE Dead_JJ Brother_NN1 ,_Y Sunrise_NN1 Over_II Fallujah_NP1 ACCOLADES_NN2 :_Y Newbery_JJ_NP1 Honor_NN1 recipient_NN1 ,_Y Coretta_NP1 Scott_NP1 King_NNB Award_NP1 ,_Y Michael_NP1 L._ZZ Printz_NP1 Award_NN1 for_IF Excellence_NN1 in_II Literature_NN1 for_IF Young_JJ Adults_NN2 WEB_NN1 SITE_NN1 :_Y www.walterdeanmyers.net_NNU What_DDQ 's_VBZ Your_APPGE Big_JJ Idea_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   44 * Follow Walter 's advice to generate your own story ideas .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   44 *_FU Follow_VV0 Walter_NP1 's_GE advice_NN1 to_TO generate_VVI your_APPGE own_DA story_NN1 ideas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   45 * Pick a setting or an issue that interests you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   45 *_FU Pick_NP1_NN1@ a_AT1 setting_NN1 or_CC an_AT1 issue_NN1 that_CST_DD1 interests_VVZ@_NN2 you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   46 * Research the location , time period , and geographic landscape of your setting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   46 *_FU Research_NN1 the_AT location_NN1 ,_Y time_NNT1 period_NN1 ,_Y and_CC geographic_JJ landscape_NN1 of_IO your_APPGE setting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   47 * Train yourself to look deeper at the world around you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   47 *_FU Train_NN1 yourself_PPX1 to_TO look_VVI deeper_RRR_JJR at_II the_AT world_NN1 around_II_RP you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   48 * When you learn something new or hear something that does n't make sense , ask yourself , " Why ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   48 *_FU When_RRQ_CS you_PPY learn_VV0 something_PN1 new_JJ or_CC hear_VV0 something_PN1 that_CST does_VDZ n't_XX make_VVI sense_NN1 ,_Y ask_VV0 yourself_PPX1 ,_Y "_Y Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   49 " * Fill out an employment application for sense of what your character looks like .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   49 "_Y *_FU Fill_NN1@ out_RP an_AT1 employment_NN1 application_NN1 for_IF sense_NN1 of_IO what_DDQ your_APPGE character_NN1 looks_VVZ like_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   50 * Carry a notebook with you so you can jot down any Ideas that come to you spontaneously .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   50 *_FU Carry_VV0 a_AT1 notebook_NN1 with_IW you_PPY so_RR_CS@ you_PPY can_VM jot_VVI down_RP any_DD Ideas_NN2 that_CST come_VV0 to_II you_PPY spontaneously_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   51 Plan your plot before you begin writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   51 Plan_VV0 your_APPGE plot_NN1 before_CS you_PPY begin_VV0 writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   52 WRITE A SHORT STORY OF YOUR OWN !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   52 WRITE_VV0 A_ZZ1_AT1@ SHORT_JJ STORY_NN1 OF_IO YOUR_APPGE OWN_DA !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   53 Dig Deeper READING COMPREHENSION 1 Why does n't Myers got writer 's block ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   53 Dig_VV0 Deeper_JJR_RRR READING_NN1_VVG_NP1 COMPREHENSION_NN1 1_MC1 Why_RRQ does_VDZ n't_XX Myers_NP1 got_VVD writer_NN1 's_GE block_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   54 pre-formatted table Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   54 pre-formatted_ZZ table_NN1 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   55 In the article , Walter Dean Myers poses two questions about bullying : What causes bullying , and what causes the tolerance of bullying ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   55 In_II the_AT article_NN1 ,_Y Walter_NP1 Dean_NP1 Myers_NP1 poses_VVZ two_MC questions_NN2 about_II bullying_NN1_VVG :_Y What_DDQ causes_VVZ bullying_NN1_VVG ,_Y and_CC what_DDQ causes_VVZ the_AT tolerance_NN1 of_IO bullying_NN1_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   56 In a short essay , write a thorough answer to these questions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   56 In_II a_AT1 short_JJ essay_NN1 ,_Y write_VV0 a_AT1 thorough_JJ answer_NN1 to_II these_DD2 questions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   57 PHOTO ( COLOR ) : Walter Dean Myers ( left ) and his new novel ( below ) PHOTO ( COLOR ) : Choose a compelling conflict to write about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   57 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Walter_NP1 Dean_NP1 Myers_NP1 (_Y left_JJ_VVN_NN1@ )_Y and_CC his_APPGE new_JJ novel_NN1 (_Y below_RL )_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Choose_VV0 a_AT1 compelling_JJ conflict_NN1 to_TO write_VVI about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   58 Myers chose the 1863 draft riots in New York City , depicted in the 2002 film Gangs of New York ( above ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   58 Myers_NP1 chose_VVD the_AT 1863_MC draft_NN1_VV0 riots_NN2_VVZ@ in_II New_NP1 York_NP1 City_NN1 ,_Y depicted_VVN_VVD in_II the_AT 2002_MC film_NN1 Gangs_NN2 of_IO New_NP1 York_NP1 (_Y above_RL )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   59 PHOTO ( COLOR ) : This drawing depicts the riots Myers writes about in his new book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   59 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y This_DD1 drawing_NN1 depicts_VVZ the_AT riots_NN2 Myers_NP1 writes_VVZ about_II in_II his_APPGE new_JJ book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   60 A photo or drawing can help you visualize your story 's setting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   60 A_AT1 photo_NN1 or_CC drawing_NN1_VVG can_VM help_VVI you_PPY visualize_VVI your_APPGE story_NN1 's_GE setting_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  A    0   61 
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080221 COCA  B    0   61 

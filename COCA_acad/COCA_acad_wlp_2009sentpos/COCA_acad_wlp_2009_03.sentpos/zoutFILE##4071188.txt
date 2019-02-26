@@ -1,0 +1,214 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    0 IS THE PREVALENCE of young-adult novels-inverse in the last decade merely a trend ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    0 IS_VBZ THE_AT PREVALENCE_NN1 of_IO young-adult_NN1_JJ@ novels-inverse_NN1 in_II the_AT last_MD decade_NNT1 merely_RR a_AT1 trend_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    1 Maybe a kind of bandwagon prompted by the critical recognition and success of Out of the Dust ( Newbery Medal ) by Karen Hesse , True Believer ( National Book Award and Printz Honor ) by Virginia Euwer Wolff , and Keesha 's House ( Printz Honor ) by Helen Frost ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    1 Maybe_RR a_AT1 kind_NN1 of_IO bandwagon_NN1 prompted_VVN by_II the_AT critical_JJ recognition_NN1 and_CC success_NN1 of_IO Out_II21 of_II22 the_AT Dust_NN1 (_Y Newbery_NP1_JJ_NN1 Medal_NN1 )_Y by_II Karen_NP1 Hesse_NP1 ,_Y True_JJ Believer_NN1 (_Y National_JJ Book_NN1 Award_NN1 and_CC Printz_NP1 Honor_NN1_VV0 )_Y by_II Virginia_NP1 Euwer_NP1 Wolff_NP1 ,_Y and_CC Keesha_NP1 's_GE House_NN1 (_Y Printz_NP1 Honor_NN1_VV0 )_Y by_II Helen_NP1 Frost_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    2 <p> Or can the novel-in-verse do something traditional prose novels ca n't ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    2 <p>_Y Or_CC can_VV0%_VM the_AT novel-in-verse_NN1 do_VDI something_PN1 traditional_JJ prose_NN1 novels_NN2 ca_VM n't_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    3 Is it , in fact , peculiarly suited to the turbulent , but often secret , inner lives of teenagers ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    3 Is_VBZ it_PPH1 ,_Y in_II fact_NN1 ,_Y peculiarly_RR suited_VVN_VVD to_II the_AT turbulent_JJ ,_Y but_CCB often_RR secret_JJ ,_Y inner_JJ lives_NN2 of_IO teenagers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    4 Perhaps publishers , editors and readers have accepted this novel form because it 's an appropriate platform to showcase the inner drama of adolescence .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    4 Perhaps_RR publishers_NN2 ,_Y editors_NN2 and_CC readers_NN2 have_VH0 accepted_VVN this_DD1 novel_JJ_NN1 form_NN1 because_CS it_PPH1 's_VBZ an_AT1 appropriate_JJ platform_NN1 to_II showcase_NN1 the_AT inner_JJ drama_NN1 of_IO adolescence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    5 Indeed , as I was reading scores of novels-in-verse , it became clear to me that poetry can bring readers closer to the consciousness of teens--perhaps even closer than YA novels penned in traditional narrative prose .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    5 Indeed_RR ,_Y as_CSA I_PPIS1 was_VBDZ reading_VVG scores_NN2 of_IO novels-in-verse_NN2 ,_Y it_PPH1 became_VVD clear_JJ_RR@ to_II me_PPIO1 that_DD1_CST poetry_NN1 can_VM bring_VVI readers_NN2 closer_RRR to_II the_AT consciousness_NN1 of_IO teens--perhaps_NN2 even_RR closer_RRR_JJR than_CSN YA_PPY novels_NN2 penned_VVD_VVN@ in_II_RP@ traditional_JJ narrative_JJ_NN1 prose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    6 <p> To help you decide if you might want to give this form a try in your own writing , let 's take a closer look The Brimstone Journals by Ron Koertge and Who Killed Mr. Chippendale ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    6 <p>_Y To_TO help_VVI you_PPY decide_VVI if_CS_CSW@ you_PPY might_VM want_VVI to_TO give_VVI this_DD1 form_NN1_VV0 a_AT1 try_NN1@ in_II your_APPGE own_DA writing_NN1 ,_Y let_VM21 's_VM22 take_VVI a_AT1 closer_JJR look_NN1 The_AT Brimstone_NN1 Journals_NN2 by_II Ron_NP1 Koertge_NP1 and_CC Who_PNQS Killed_VVD Mr._NNB Chippendale_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    7 A Mystery in Poems by Mel Glenn .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    7 A_AT1 Mystery_NN1 in_II Poems_NN2 by_II Mel_NP1 Glenn_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    8 Both are comprised of journal entries , each by one of many individual characters , and are conversational in tone .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    8 Both_DB2 are_VBR comprised_VVN of_IO journal_NN1 entries_NN2 ,_Y each_DD1 by_II one_MC1 of_IO many_DA2 individual_JJ characters_NN2 ,_Y and_CC are_VBR conversational_JJ in_II tone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0    9 <p> L : The world of high school Brimstone is a series of first-person accounts written in short poetic monologues and dialogues .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0    9 <p>_Y L_ZZ1_NP1@ :_Y The_AT world_NN1 of_IO high_JJ school_NN1 Brimstone_NN1 is_VBZ a_AT1 series_NN of_IO first-person_JJ_NN1 accounts_NN2 written_VVN in_RR21 short_RR22 poetic_JJ monologues_NN2 and_CC dialogues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   10 The poems catapult readers into the world of contemporary high school students who are struggling with an array of highly charged emotional issues : violence , racism , sexual identity , eating disorders and family alcoholism .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   10 The_AT poems_NN2 catapult_NN1 readers_NN2 into_II the_AT world_NN1 of_IO contemporary_JJ high_JJ school_NN1 students_NN2 who_PNQS are_VBR struggling_VVG_JJ with_IW an_AT1 array_NN1 of_IO highly_RR charged_VVN_VVD emotional_JJ issues_NN2 :_Y violence_NN1 ,_Y racism_NN1 ,_Y sexual_JJ identity_NN1 ,_Y eating_VVG_NN1 disorders_NN2 and_CC family_NN1 alcoholism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   11 <p> The novel 's pivotal character is Boyd , an angry kid who develops a mental hit list of students and teachers who will be the targets of his revenge .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   11 <p>_Y The_AT novel_NN1 's_GE pivotal_JJ character_NN1 is_VBZ Boyd_NP1 ,_Y an_AT1 angry_JJ kid_NN1 who_PNQS develops_VVZ a_AT1 mental_JJ hit_NN1 list_NN1 of_IO students_NN2 and_CC teachers_NN2 who_PNQS will_VM be_VBI the_AT targets_NN2 of_IO his_APPGE revenge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   12 The threat of violence brews amid a clash of personalities that leads to a powerful ending .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   12 The_AT threat_NN1 of_IO violence_NN1 brews_VVZ_NN2 amid_II a_AT1 clash_NN1 of_IO personalities_NN2 that_CST_DD1 leads_VVZ to_II a_AT1 powerful_JJ ending_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   13 <p> Since Koertge writes both traditional narrative prose and novels-in-verse , I asked him about his choice of form .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   13 <p>_Y Since_CS Koertge_NP1 writes_VVZ both_RR traditional_JJ narrative_JJ_NN1 prose_NN1 and_CC novels-in-verse_NN2 ,_Y I_PPIS1 asked_VVD him_PPHO1 about_II_RP@ his_APPGE choice_NN1 of_IO form_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   14 " Brimstone kind of imposed itself on me , " he said , " and it was free verse right out of margin-to-margin prose .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   14 "_Y Brimstone_NN1 kind_RR21% of_RR22 imposed_VVD_VVN itself_PPX1 on_II me_PPIO1 ,_Y "_Y he_PPHS1 said_VVD ,_Y "_Y and_CC it_PPH1 was_VBDZ free_JJ verse_NN1 right_NN1_RR out_II21 of_II22 margin-to-margin_JJ_NN1 prose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   15 There was always something punchy and immediate about the poems .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   15 There_EX was_VBDZ always_RR something_PN1 punchy_JJ and_CC immediate_JJ about_II the_AT poems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   16 " <p> While most single-page poems have an abundance of " white space , " critics and book reviewers tend to focus on the text .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   16 "_Y <p>_Y While_CS most_DAT single-page_JJ poems_NN2 have_VH0 an_AT1 abundance_NN1 of_IO "_Y white_JJ space_NN1 ,_Y "_Y critics_NN2 and_CC book_NN1 reviewers_NN2 tend_VV0 to_TO focus_VVI on_II the_AT text_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   17 White space , however , can reflect the power of a thought or idea in a way that text in a novel can not .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   17 White_JJ space_NN1 ,_Y however_RR ,_Y can_VM reflect_VVI the_AT power_NN1 of_IO a_AT1 thought_NN1 or_CC idea_NN1 in_II a_AT1 way_NN1 that_CST_DD1 text_NN1 in_II a_AT1 novel_NN1 can_VM not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   18 White space is often compared to the negative space in a painting--space that makes an object in a picture more prominent .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   18 White_JJ space_NN1 is_VBZ often_RR compared_VVN to_II the_AT negative_JJ space_NN1 in_II a_AT1 painting--space_NN1_JJ that_CST_DD1 makes_VVZ an_AT1 object_NN1 in_II a_AT1 picture_NN1 more_RGR prominent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   19 The more negative space , the more the object stands out .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   19 The_AT more_RGR negative_JJ space_NN1 ,_Y the_AT more_RRR_DAR the_AT object_NN1 stands_VVZ out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   20 Is n't the same true of other art forms ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   20 Is_VBZ n't_XX the_AT same_DA true_JJ_NN1% of_IO other_JJ art_NN1 forms_NN2_VVZ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   21 Dance , for instance ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   21 Dance_VV0_NN1 ,_Y for_REX21 instance_REX22 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   22 The subtle movement between choreographed steps is where a ballerina creates her art .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   22 The_AT subtle_JJ movement_NN1 between_II choreographed_JJ% steps_NN2 is_VBZ where_RRQ_CS a_AT1 ballerina_NN1 creates_VVZ her_APPGE art_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   23 A dancer 's breath is her white space .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   23 A_AT1 dancer_NN1 's_GE breath_NN1 is_VBZ her_APPGE white_JJ space_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   24 <p> Koertge effectively uses this type of poetic communication to set off a poem within a poem , as shown in Boyd 's second journal entry : <p> School 's got a thousand rules .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   24 <p>_Y Koertge_VV0 effectively_RR uses_VVZ this_DD1 type_NN1 of_IO poetic_JJ communication_NN1 to_TO set_VVI off_RP a_AT1 poem_NN1 within_II a_AT1 poem_NN1 ,_Y as_CSA shown_VVN in_II Boyd_NP1 's_GE second_MD journal_NN1 entry_NN1 :_Y <p>_Y School_NN1 's_VHZ got_VVN a_AT1 thousand_M rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   25 I 've only got one -- <p> BREAK <p> ALL <p> RULES .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   25 I_PPIS1 've_VH0 only_RR got_VVN one_MC1 --_NN1_JJ <p>_Y BREAK_VV0_NN1 <p>_Y ALL_DB_RR@ <p>_Y RULES_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   26 <p> Do any of those ---damned space is used to emphasize Boyd 's defiance of authority .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   26 <p>_Y Do_VD0 any_DD of_IO those_DD2 ---damned_JJ space_NN1 is_VBZ used_VVN to_TO emphasize_VVI Boyd_NP1 's_GE defiance_NN1 of_IO authority_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   27 It underscores his unstable mental condition .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   27 It_PPH1 underscores_VVZ his_APPGE unstable_JJ mental_JJ condition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   28 He is so unstable , in fact , that he intends to murder teachers and classmates , " everybody who ever blew me off , flipped me off , or ticked me off .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   28 He_PPHS1 is_VBZ so_RG_RR unstable_JJ ,_Y in_II fact_NN1 ,_Y that_CST he_PPHS1 intends_VVZ to_TO murder_VVI teachers_NN2 and_CC classmates_NN2 ,_Y "_Y everybody_PN1 who_PNQS ever_RR blew_VVD me_PPIO1 off_RP ,_Y flipped_VVD me_PPIO1 off_RP ,_Y or_CC ticked_VVD me_PPIO1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   29 " <p> Since Brimstone is character-driven , the landscape of the mind is more important than physical setting .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   29 "_Y <p>_Y Since_CS Brimstone_NN1 is_VBZ character-driven_JJ_NN1 ,_Y the_AT landscape_NN1 of_IO the_AT mind_NN1 is_VBZ more_RGR important_JJ than_CSN physical_JJ setting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   30 Although the story takes place in a high school , Koertge does n't describe the campus .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   30 Although_CS the_AT story_NN1 takes_VVZ place_NN1 in_II a_AT1 high_JJ school_NN1 ,_Y Koertge_NP1 does_VDZ n't_XX describe_VVI the_AT campus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   31 We never see the inside of a classroom or teens crowded in corridors ; we do n't know the color of his characters ' eyes or hair , and only rarely what they wear--all things commonly described in prose novels .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   31 We_PPIS2 never_RR see_VV0 the_AT inside_NN1@ of_IO a_AT1 classroom_NN1 or_CC teens_NN2 crowded_VVD_VVN@ in_II_RP@ corridors_NN2 ;_Y we_PPIS2 do_VD0 n't_XX know_VVI the_AT color_NN1 of_IO his_APPGE characters_NN2 '_GE eyes_NN2 or_CC hair_NN1 ,_Y and_CC only_RR_JJ rarely_RR what_DDQ they_PPHS2 wear--all_DB things_NN2 commonly_RR described_VVN in_II prose_NN1 novels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   32 In verse , there is less need for physical description because what the characters think and feel carries more weight than their appearance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   32 In_II verse_NN1 ,_Y there_EX is_VBZ less_DAR_RRR_RGR need_NN1_VV0 for_IF physical_JJ description_NN1 because_CS what_DDQ the_AT characters_NN2 think_VV0 and_CC feel_VV0_NN1% carries_VVZ more_DAR weight_NN1 than_CSN their_APPGE appearance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   33 <p> In A Poetry Handbook , Mary Oliver points out that while free verse lacks an external pattern or formal metric design , the writer still must consider appropriate and effective language .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   33 <p>_Y In_II A_AT1@_ZZ1 Poetry_NN1 Handbook_NN1 ,_Y Mary_NP1 Oliver_NP1 points_VVZ out_RP that_CST_DD1 while_CS free_JJ verse_NN1 lacks_VVZ an_AT1 external_JJ pattern_NN1 or_CC formal_JJ metric_JJ design_NN1 ,_Y the_AT writer_NN1 still_RR must_VM consider_VVI appropriate_JJ and_CC effective_JJ language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   34 Ellen Hopkins , author of should use " startling imagery and elevated language , such as metaphor , alliteration , assonance , which appeal--often **29;16363;TOOLONG to the reader .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   34 Ellen_NP1 Hopkins_NP1 ,_Y author_NN1 of_IO should_VM use_VVI "_Y startling_JJ imagery_NN1 and_CC elevated_JJ language_NN1 ,_Y such_II21 as_II22 metaphor_NN1 ,_Y alliteration_NN1 ,_Y assonance_NN1 ,_Y which_DDQ appeal--often_RR **29;16363;TOOLONG_RR to_II the_AT reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   35 " Writing poetry , she adds , allows her to " climb more deeply inside a character 's head .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   35 "_Y Writing_VVG_NN1 poetry_NN1 ,_Y she_PPHS1 adds_VVZ ,_Y allows_VVZ her_PPHO1 to_TO "_Y climb_VVI more_RGR deeply_RR inside_II_RL a_AT1 character_NN1 's_GE head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   36 " <p> Koertge consistently chooses language that mimics the troubled , self-centered world of adolescence .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   36 "_Y <p>_Y Koertge_VV0 consistently_RR chooses_VVZ language_NN1 that_CST_DD1 mimics_VVZ the_AT troubled_JJ ,_Y self-centered_JJ world_NN1 of_IO adolescence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   37 A girl named Neesha speaks out against Boyd in class : <p> pre-formatted table The short , crisp rhyming sentences reverberate like a rap song .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   37 A_AT1 girl_NN1 named_VVN Neesha_NP1 speaks_VVZ out_RP against_II Boyd_NP1 in_II class_NN1 :_Y <p>_Y pre-formatted_ZZ table_NN1 The_AT short_JJ ,_Y crisp_JJ rhyming_JJ_NN1 sentences_NN2 reverberate_VV0 like_II a_AT1 rap_NN1 song_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   38 Phrases such as " you do n't have no clout " tell readers this character is angry .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   38 Phrases_NN2 such_II21 as_II22 "_Y you_PPY do_VD0 n't_XX have_VHI no_AT clout_NN1 "_Y tell_VV0 readers_NN2 this_DD1 character_NN1 is_VBZ angry_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   39 The detail of " purple Doc Martens " lets us know that Neesha detests the prototypical Nazi youth-type .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   39 The_AT detail_NN1 of_IO "_Y purple_JJ Doc_NN1 Martens_NN2 "_Y lets_Z' us_PPIO2 know_VVI that_CST Neesha_NP1 detests_VVZ the_AT prototypical_JJ Nazi_JJ youth-type_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   40 The poem takes readers to a new level of understanding of this character and her view of the world in a very tight place .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   40 The_AT poem_NN1 takes_VVZ readers_NN2 to_II a_AT1 new_JJ level_NN1 of_IO understanding_NN1 of_IO this_DD1 character_NN1 and_CC her_APPGE view_NN1 of_IO the_AT world_NN1 in_II a_AT1 very_RG tight_JJ_RR place_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   41 <p> L : 50 viewpoints Mel Glenn 's Who Killed Mr. Chippendale ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   41 <p>_Y L_ZZ1_NP1@ :_Y 50_MC viewpoints_NN2 Mel_NP1 Glenn_NP1 's_GE Who_PNQS Killed_VVD Mr._NNB Chippendale_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   42 A Mystery in Poems is structured much like The Brimstone Journals .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   42 A_AT1 Mystery_NN1 in_II Poems_NN2 is_VBZ structured_VVN much_RR_DA1 like_II The_AT Brimstone_NN1 Journals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   43 The novel is composed of free-verse poems that explore the aftermath of the murder of a high school of more than 50 characters , including students , school faculty , police detectives , reporters , drug dealers , neighbors and others .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   43 The_AT novel_NN1 is_VBZ composed_VVN of_IO free-verse_JJ_NN1 poems_NN2 that_CST explore_VV0 the_AT aftermath_NN1 of_IO the_AT murder_NN1 of_IO a_AT1 high_JJ school_NN1 of_IO more_DAR than_CSN 50_MC characters_NN2 ,_Y including_II_VVG@ students_NN2 ,_Y school_NN1 faculty_NN1 ,_Y police_NN2_VV0% detectives_NN2 ,_Y reporters_NN2 ,_Y drug_NN1 dealers_NN2 ,_Y neighbors_NN2 and_CC others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   44 Except for two journal entries , the points of view are either close third or first person .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   44 Except_II21 for_II22 two_MC journal_NN1 entries_NN2 ,_Y the_AT points_NN2 of_IO view_NN1 are_VBR either_RR close_VV0_JJ third_MD or_CC first_MD person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   45 <p> As in Brimstone Journals , each poem belongs to a single character ; each entry is in itself a portrait of consciousness .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   45 <p>_Y As_CSA in_II Brimstone_NN1 Journals_NN2 ,_Y each_DD1 poem_NN1 belongs_VVZ to_II a_AT1 single_JJ character_NN1 ;_Y each_DD1 entry_NN1 is_VBZ in_II itself_PPX1 a_AT1 portrait_NN1 of_IO consciousness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   46 The emotions of every character are important as they reveal attitudes about Chippendale being gunned down on campus by an unknown assailant .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   46 The_AT emotions_NN2 of_IO every_AT1 character_NN1 are_VBR important_JJ as_CSA they_PPHS2 reveal_VV0 attitudes_NN2 about_II Chippendale_NP1 being_VBG gunned_VVN down_RP on_II campus_NN1 by_II an_AT1 unknown_JJ assailant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   47 <p> Both Glenn and Koertge were high school teachers and understand the problems of violence on campus .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   47 <p>_Y Both_RR Glenn_NP1 and_CC Koertge_NP1 were_VBDR high_JJ school_NN1 teachers_NN2 and_CC understand_VV0 the_AT problems_NN2 of_IO violence_NN1 on_II campus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   48 In Glenn 's case , he recognized the problem long before the tragedy at Columbine High School .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   48 In_II Glenn_NP1 's_GE case_NN1 ,_Y he_PPHS1 recognized_VVD the_AT problem_NN1 long_RR before_II_CS the_AT tragedy_NN1 at_II Columbine_NP1 High_JJ School_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   49 Perhaps this is why discovering who killed Chippendale is n't as important as knowing how each character feels about the senseless act .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   49 Perhaps_RR this_DD1 is_VBZ why_RRQ discovering_VVG who_PNQS killed_VVD Chippendale_NP1 is_VBZ n't_XX as_RG important_JJ as_CSA knowing_VVG how_RRQ each_DD1 character_NN1 feels_VVZ about_II the_AT senseless_JJ act_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   50 <p> Like Koertge , Glenn uses rhythm and cadence to give each character a unique voice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   50 <p>_Y Like_II Koertge_NP1 ,_Y Glenn_NP1 uses_VVZ rhythm_NN1 and_CC cadence_NN1 to_TO give_VVI each_DD1 character_NN1 a_AT1 unique_JJ voice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   51 Phrases such as " glancing out a window to escape a math-induced stupor " tell us the character is bored with school .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   51 Phrases_NN2 such_II21 as_II22 "_Y glancing_VVG out_RP a_AT1 window_NN1 to_TO escape_VVI a_AT1 math-induced_JJ_NN1 stupor_NN1 "_Y tell_VV0 us_PPIO2 the_AT character_NN1 is_VBZ bored_JJ with_IW school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   52 A physical description <p> In another poem , a student lists her classes : <p> pre-formatted table Her list concludes , " Period 8 : genocide .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   52 A_AT1_ZZ1 physical_JJ description_NN1 <p>_Y In_II another_DD1 poem_NN1 ,_Y a_AT1 student_NN1 lists_VVZ her_APPGE classes_NN2 :_Y <p>_Y pre-formatted_ZZ table_NN1 Her_APPGE list_NN1 concludes_VVZ ,_Y "_Y Period_NN1 8_MC :_Y genocide_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   53 " We know that this student is frightened by violence on campus .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   53 "_Y We_PPIS2 know_VV0 that_CST this_DD1 student_NN1 is_VBZ frightened_VVN by_II violence_NN1 on_II campus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   54 We do n't need an action or a description of her facial expression to understand that she feels unsafe at school .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   54 We_PPIS2 do_VD0 n't_XX need_VVI an_AT1 action_NN1 or_CC a_AT1 description_NN1 of_IO her_APPGE facial_JJ expression_NN1 to_TO understand_VVI that_CST she_PPHS1 feels_VVZ unsafe_JJ at_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   55 <p> Glenn also uses condensed , metaphoric language .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   55 <p>_Y Glenn_NP1 also_RR uses_VVZ_NN2 condensed_JJ_VVN ,_Y metaphoric_JJ language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   56 This entry is from the viewpoint of school counselor Angela Falcone , Chippendale 's former lover : <p> pre-formatted table Angela is clearly mourning the loss of a colleague and dear friend .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   56 This_DD1 entry_NN1 is_VBZ from_II the_AT viewpoint_NN1 of_IO school_NN1 counselor_NN1 Angela_NP1 Falcone_NP1 ,_Y Chippendale_NP1 's_GE former_DA lover_NN1 :_Y <p>_Y pre-formatted_ZZ table_NN1 Angela_NP1 is_VBZ clearly_RR mourning_VVG the_AT loss_NN1 of_IO a_AT1 colleague_NN1 and_CC dear_JJ_NN1 friend_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   57 She 's also questioning their relationship .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   57 She_PPHS1 's_VBZ_VHZ@ also_RR questioning_VVG their_APPGE relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   58 Why did n't it last ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   58 Why_RRQ did_VDD n't_XX it_PPH1 last_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   59 In traditional narrative prose , Angela might have shared her feelings with a friend , perhaps over the phone or dinner .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   59 In_II traditional_JJ narrative_JJ_NN1 prose_NN1 ,_Y Angela_NP1 might_VM have_VHI shared_VVN her_APPGE feelings_NN2 with_IW a_AT1 friend_NN1 ,_Y perhaps_RR over_II_RP the_AT phone_NN1 or_CC dinner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   60 Such an approach would require everyday language , not the flowery descriptions presented here .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   60 Such_DA an_AT1 approach_NN1 would_VM require_VVI everyday_JJ language_NN1 ,_Y not_XX the_AT flowery_JJ descriptions_NN2 presented_VVN_VVD here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   61 If Angela had expressed herself in a more conversational tone , though , readers would lose the metaphor of people as separate islands drifting apart .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   61 If_CS Angela_NP1 had_VHD expressed_VVN herself_PPX1 in_II a_AT1 more_RGR conversational_JJ tone_NN1 ,_Y though_CS_RR@ ,_Y readers_NN2 would_VM lose_VVI the_AT metaphor_NN1 of_IO people_NN as_CSA_RG@ separate_JJ islands_NN2 drifting_VVG apart_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   62 <p> What people say to each other has already been edited .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   62 <p>_Y What_DDQ people_NN say_VV0 to_II each_PPX221 other_PPX222 has_VHZ already_RR been_VBN edited_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   63 Few of someone 's head is about as intimate as literature can get .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   63 Few_DA2 of_IO someone_PN1 's_GE head_NN1 is_VBZ about_II_RG%_RP@ as_RG intimate_JJ as_CSA literature_NN1 can_VM get_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   64 Any time readers are engaged , there is a heightened emotional connection with the characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   64 Any_DD time_NNT1 readers_NN2 are_VBR engaged_VVN_JJ ,_Y there_EX is_VBZ a_AT1 heightened_JJ emotional_JJ connection_NN1 with_IW the_AT characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   65 <p> Verse novels , Glenn told me , " get to the heart of a teenager with surgical skill .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   65 <p>_Y Verse_NN1_VV0@ novels_NN2 ,_Y Glenn_NP1 told_VVD me_PPIO1 ,_Y "_Y get_VV0 to_II the_AT heart_NN1 of_IO a_AT1 teenager_NN1 with_IW surgical_JJ skill_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   66 They mirror the cadence of actual teenspeak , and can provide a panoply of voices , real and truthful .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   66 They_PPHS2 mirror_VV0@ the_AT cadence_NN1 of_IO actual_JJ teenspeak_NN1 ,_Y and_CC can_VM provide_VVI a_AT1 panoply_NN1 of_IO voices_NN2 ,_Y real_JJ and_CC truthful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   67 Thoughts are fragmentary .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   67 Thoughts_NN2 are_VBR fragmentary_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   68 People rarely think in complete sentences--teenagers , less so .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   68 People_NN rarely_RR think_VV0 in_II_RP@ complete_JJ sentences--teenagers_NN2 ,_Y less_DAR so_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   69 " <p> In a prose novel , it 's possible to be inside the heads of multiple characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   69 "_Y <p>_Y In_II a_AT1 prose_NN1 novel_NN1 ,_Y it_PPH1 's_VBZ possible_JJ to_TO be_VBI inside_II_RL the_AT heads_NN2 of_IO multiple_JJ_NN1 characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   70 It 's rare , though , that readers are given such access to more than 50 characters , as in Chippendale .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   70 It_PPH1 's_VBZ rare_JJ ,_Y though_CS_RR@ ,_Y that_CST readers_NN2 are_VBR given_VVN such_DA access_NN1 to_II more_DAR than_CSN 50_MC characters_NN2 ,_Y as_CSA in_II Chippendale_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   71 Even with the omniscient point of view , it would be confusing if readers were bouncing in and out of so many minds .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   71 Even_RR with_IW the_AT omniscient_JJ point_NN1 of_IO view_NN1 ,_Y it_PPH1 would_VM be_VBI confusing_JJ_VVG@ if_CS_CSW@ readers_NN2 were_VBDR bouncing_VVG in_RP@_II and_CC out_II21 of_II22 so_RG many_DA2 minds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   72 In traditional narrative form , other elements could distract us from the emotional subtext .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   72 In_II traditional_JJ narrative_JJ_NN1 form_NN1 ,_Y other_JJ elements_NN2 could_VM distract_VVI us_PPIO2 from_II the_AT emotional_JJ subtext_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   73 Action , description , dialogue and rules of punctuation could dilute the story 's focus .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   73 Action_NN1 ,_Y description_NN1 ,_Y dialogue_NN1 and_CC rules_NN2 of_IO punctuation_NN1 could_VM dilute_VVI the_AT story_NN1 's_GE focus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   74 We simply would n't be as close to the characters and their mental language that are true to their characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   74 We_PPIS2 simply_RR would_VM n't_XX be_VBI as_RG@ close_JJ to_II the_AT characters_NN2 and_CC their_APPGE mental_JJ language_NN1 that_CST are_VBR true_JJ to_II their_APPGE characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   75 White space and metaphor create verbal pictures of consciousness .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   75 White_JJ space_NN1 and_CC metaphor_NN1 create_VV0 verbal_JJ pictures_NN2 of_IO consciousness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   76 Descriptions are restricted to those that open doors to the psyche .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   76 Descriptions_NN2 are_VBR restricted_VVN to_II those_DD2 that_CST open_JJ_VV0 doors_NN2 to_II the_AT psyche_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   77 <p> L : A dissenting voice In an article for The Horn Book Magazine , Peter D. Sieruta wrote , " Enough with the verse novels !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   77 <p>_Y L_ZZ1_NP1@ :_Y A_ZZ1_AT1@ dissenting_JJ@_VVG voice_NN1 In_II an_AT1 article_NN1 for_IF The_AT Horn_NN1 Book_NN1 Magazine_NN1 ,_Y Peter_NP1 D._NP1 Sieruta_NP1 wrote_VVD ,_Y "_Y Enough_RR with_IW the_AT verse_NN1 novels_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   78 " He added : <p> pre-formatted table Critiques often disagree about what constitutes compelling art , so it 's not surprising that some writers , like Sieruta , dislike verse as a novel form .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   78 "_Y He_PPHS1 added_VVD :_Y <p>_Y pre-formatted_ZZ table_NN1 Critiques_NN2 often_RR disagree_VV0 about_II_RP@ what_DDQ constitutes_VVZ compelling_JJ art_NN1 ,_Y so_CS@_RR it_PPH1 's_VBZ not_XX surprising_JJ that_CST some_DD writers_NN2 ,_Y like_II Sieruta_NP1 ,_Y dislike_VV0_NN1 verse_NN1 as_II_CSA a_AT1 novel_JJ_NN1 form_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   79 Koertge understands these objections .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   79 Koertge_NN1_NP1@ understands_VVZ these_DD2 objections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   80 " A lot of free-verse novels , " he says , " are basically prose-chopped-into-lines and not poetry at all in the sense of metaphor , rhythm , compression , etc .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   80 "_Y A_AT1 lot_NN1 of_IO free-verse_JJ_NN1 novels_NN2 ,_Y "_Y he_PPHS1 says_VVZ ,_Y "_Y are_VBR basically_RR prose-chopped-into-lines_NN2 and_CC not_XX poetry_NN1 at_II all_DB in_II the_AT sense_NN1 of_IO metaphor_NN1 ,_Y rhythm_NN1 ,_Y compression_NN1 ,_Y etc_RA ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   81 All the things one associates with poetry .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   81 All_DB the_AT things_NN2 one_PN1_MC1 associates_VVZ with_IW poetry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   82 " <p> The history of the novel is marked by an almost continual development of variations on old narrative forms .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   82 "_Y <p>_Y The_AT history_NN1 of_IO the_AT novel_NN1 is_VBZ marked_VVN by_II an_AT1 almost_RR continual_JJ development_NN1 of_IO variations_NN2 on_II old_JJ narrative_JJ_NN1 forms_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   83 It can be argued that a regularity of any form becomes monotonous when the structure is predictable .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   83 It_PPH1 can_VM be_VBI argued_VVN that_CST a_AT1 regularity_NN1 of_IO any_DD form_NN1 becomes_VVZ monotonous_JJ when_CS the_AT structure_NN1 is_VBZ predictable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   84 The YA novel-in-poems--a nontraditional story form--is an apt reflection of adolescence , of a time <p> Free verse is itself a type of breaking away , since the form broke free from traditional metrical poetry .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   84 The_AT YA_PPY_UH novel-in-poems--a_JJ_NN1 nontraditional_JJ story_NN1 form--is_VBZ an_AT1 apt_JJ reflection_NN1 of_IO adolescence_NN1 ,_Y of_IO a_AT1 time_NNT1 <p>_Y Free_JJ verse_NN1 is_VBZ itself_PPX1 a_AT1 type_NN1 of_IO breaking_VVG away_RL ,_Y since_CS the_AT form_NN1 broke_VVD free_JJ from_II traditional_JJ metrical_JJ poetry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   85 Likewise , novels-in-verse depart from traditional prose .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   85 Likewise_RR ,_Y novels-in-verse_NN2 depart_VV0 from_II traditional_JJ prose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   86 This relatively new form successfully expresses the pulse of adolescent life .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   86 This_DD1 relatively_RR new_JJ form_NN1 successfully_RR expresses_VVZ the_AT pulse_NN1 of_IO adolescent_JJ_NN1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   87 Teens are emotional and self-absorbed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   87 Teens_NN2 are_VBR emotional_JJ and_CC self-absorbed_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   88 Condensed , metaphoric language on a single page mirrors their dramatic , tightly packed world .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   88 Condensed_NP1@_JJ_VVN ,_Y metaphoric_JJ language_NN1 on_II a_AT1 single_JJ page_NN1 mirrors_NN2 their_APPGE dramatic_JJ ,_Y tightly_RR packed_JJ_VVN world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   89 <p> L : WORKOUT AS AN EXERCISE , select a paragraph of narration from your novel .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   89 <p>_Y L_ZZ1_NP1@ :_Y WORKOUT_VV0_NP1_NN1 AS_II_CSA AN_AT1 EXERCISE_NN1 ,_Y select_VV0 a_AT1 paragraph_NN1 of_IO narration_NN1 from_II your_APPGE novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   90 Then recast it using any poetic form you choose .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   90 Then_RT recast_VV0_VVD it_PPH1 using_VVG any_DD poetic_JJ form_NN1_VV0 you_PPY choose_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   91 Play with language and how the words appear on the page .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   91 Play_VV0_NN1 with_IW language_NN1 and_CC how_RRQ the_AT words_NN2 appear_VV0 on_II_RP@ the_AT page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   92 Can you come up with a more telling detail ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   92 Can_VM_VV0% you_PPY come_VVI up_RP with_IW a_AT1 more_RGR telling_JJ@ detail_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   93 A more interesting turn of phrase ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   93 A_AT1 more_RGR interesting_JJ turn_NN1 of_IO phrase_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   94 A more intimate voice ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   94 A_AT1 more_RGR intimate_JJ voice_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   95 Consider incorporating metaphor , alliteration , assonance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   95 Consider_VV0 incorporating_VVG metaphor_NN1 ,_Y alliteration_NN1 ,_Y assonance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   96 <p> Then ask yourself : Were you aware of every word ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   96 <p>_Y Then_RT ask_VV0 yourself_PPX1 :_Y Were_VBDR you_PPY aware_JJ of_IO every_AT1 word_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   97 Every comma ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   97 Every_AT1 comma_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   98 Line break ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   98 Line_NN1_VV0@ break_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0   99 Pause ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0   99 Pause_NN1_VV0@ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  100 What other elements became prominent when you were thinking like a poet ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  100 What_DDQ other_JJ elements_NN2 became_VVD prominent_JJ when_CS you_PPY were_VBDR thinking_VVG like_II a_AT1 poet_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  101 <p> All good writing should consider these elements .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  101 <p>_Y All_DB_RR@ good_JJ writing_NN1 should_VM consider_VVI these_DD2 elements_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  102 Most writers discover , however , that they 're more tuned into " voice sounds " and a poem .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  102 Most_DAT writers_NN2 discover_VV0 ,_Y however_RR ,_Y that_CST they_PPHS2 're_VBR more_RRR tuned_VVN_VVD into_II "_Y voice_NN1 sounds_NN2_VVZ "_Y and_CC a_AT1 poem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  103 <p> --S.S .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  103 <p>_Y --S.S_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  104 PHOTO ( COLOR ) <p> By Sherry Shahan <p> Sherry Shahan of Cayucos , Calif. , is the author of 30 books , including the young-adult adventure novel Death Mountain and the picture book Fiesta !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  104 PHOTO_NN1 (_Y COLOR_NN1 )_Y <p>_Y By_II Sherry_NN1 Shahan_NP1_NN1@ <p>_Y Sherry_NN1 Shahan_NN1@_NP1 of_IO Cayucos_NP2 ,_Y Calif._NP1 ,_Y is_VBZ the_AT author_NN1 of_IO 30_MC books_NN2 ,_Y including_II_VVG@ the_AT young-adult_NN1_JJ@ adventure_NN1 novel_NN1_JJ Death_NP1 Mountain_NNL1 and_CC the_AT picture_NN1 book_NN1 Fiesta_NP1_NN1@ !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  105 A Celebration of Latino Festivals .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  105 A_AT1 Celebration_NN1 of_IO Latino_NN1_NP1 Festivals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  A    0  106 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071188 COCA  B    0  106 <p>_Y

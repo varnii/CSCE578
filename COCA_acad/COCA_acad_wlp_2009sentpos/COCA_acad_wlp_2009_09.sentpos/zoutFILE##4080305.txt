@@ -1,0 +1,316 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    0 CALL IT A " recession , " " economic downturn " or , as one writer cheerfully remarked , " death spiral " the nationwide economic crisis has taken its toll on freelance writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    0 CALL_NN1_VV0 IT_NN1_PPH1@ A_ZZ1_AT1@ "_Y recession_NN1 ,_Y "_Y "_Y economic_JJ downturn_NN1 "_Y or_CC ,_Y as_CSA one_MC1 writer_NN1 cheerfully_RR remarked_VVN_VVD ,_Y "_Y death_NN1 spiral_NN1_VV0@ "_Y the_AT nationwide_JJ economic_JJ crisis_NN1 has_VHZ taken_VVN its_Z' toll_NN1 on_II freelance_NN1 writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    1 Marketing strategies that worked two years ago are no longer generating assignments .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    1 Marketing_NN1_VVG@ strategies_NN2 that_CST worked_VVD two_MC years_NNT2 ago_RA are_VBR no_RR21 longer_RR22 generating_JJ_VVG assignments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    2 Paychecks that used to arrive promptly now require diligent and persistent follow-up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    2 Paychecks_VVZ_NN2 that_CST used_VMK to_TO arrive_VVI promptly_RR now_RT require_VV0 diligent_JJ and_CC persistent_JJ follow-up_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    3 And every day seems to bring more bad news : editors facing layoffs , magazines folding , and newspapers eliminating sections and even entire print editions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    3 And_CC every_AT1 day_NNT1 seems_VVZ to_TO bring_VVI more_RGR_DAR bad_JJ news_NN1 :_Y editors_NN2 facing_VVG layoffs_NN2 ,_Y magazines_NN2 folding_VVG_NN1_JJ ,_Y and_CC newspapers_NN2 eliminating_VVG sections_NN2 and_CC even_RR entire_JJ print_NN1 editions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    4 The publishing marketplace has shifted dramatically .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    4 The_AT publishing_NN1 marketplace_NN1 has_VHZ shifted_VVN dramatically_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    5 But there is good news .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    5 But_CCB there_EX is_VBZ good_JJ news_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    6 As the following interviews show , writers who are willing and able to adapt to these changes , offer unique services and take charge of their careers can weather the current storm .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    6 As_II_CSA the_AT following_JJ interviews_NN2 show_VV0 ,_Y writers_NN2 who_PNQS are_VBR willing_JJ and_CC able_JK to_TO adapt_VVI to_II these_DD2 changes_NN2 ,_Y offer_VV0 unique_JJ services_NN2 and_CC take_VV0 charge_NN1 of_IO their_APPGE careers_NN2 can_VM weather_VVI the_AT current_JJ storm_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    7 In fact , follow their advice and you 'll improve your chances of surviving -- and , perhaps , even thriving -- no matter what the future might bring .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    7 In_II fact_NN1 ,_Y follow_VV0 their_APPGE advice_NN1 and_CC you_PPY 'll_VM improve_VVI your_APPGE chances_NN2 of_IO surviving_JJ_VVG --_NN1_JJ and_CC ,_Y perhaps_RR ,_Y even_RR thriving_JJ_VVG --_NN1 no_DDQV31 matter_DDQV32 what_DDQV33 the_AT future_NN1 might_VM bring_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    8 SPREAD YOUR WINGS Janene Mascarella , of Long Island , N.Y. , jumped headfirst into full-time freelancing just four years ago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    8 SPREAD_VV0 YOUR_APPGE WINGS_NN2 Janene_NP1 Mascarella_NP1 ,_Y of_IO Long_JJ Island_NNL1 ,_Y N.Y._NP1 ,_Y jumped_VVD headfirst_RR into_II full-time_JJ_RR@ freelancing_NN1@_VVG just_RR four_MC years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0    9 Since then as American Way , Self , Babytalk , Parents , Glamour and Woman 's Day -- even while parenting a newborn .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0    9 Since_II then_RT as_CSA American_JJ Way_NN1 ,_Y Self_NN1 ,_Y Babytalk_NP1_VV0_NN1 ,_Y Parents_NN2 ,_Y Glamour_NN1 and_CC Woman_NN1 's_GE Day_NNT1_NP1 --_NN1_JJ even_RR while_CS parenting_VVG@ a_AT1 newborn_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   10 " My specialty was being a women's-lifestyle writer -- covering women 's health , lifestyle , parenting and beauty -- until I decided to branch out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   10 "_Y My_APPGE specialty_NN1 was_VBDZ being_VBG a_AT1 women's-lifestyle_JJ_NN1 writer_NN1 --_NN1 covering_VVG_NN1@ women_NN2 's_GE health_NN1 ,_Y lifestyle_NN1 ,_Y parenting_NN1_VVG@ and_CC beauty_NN1 --_NN1 until_CS I_PPIS1 decided_VVD to_TO branch_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   11 " For a while , I was very comfortable in the women 's magazines , resting on my laurels and just getting assignments falling into my lap .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   11 "_Y For_IF a_AT1 while_NNT1@ ,_Y I_PPIS1 was_VBDZ very_RG comfortable_JJ in_II the_AT women_NN2 's_GE magazines_NN2 ,_Y resting_VVG on_II_RP@ my_APPGE laurels_NN2 and_CC just_RR getting_VVG assignments_NN2 falling_VVG into_II my_APPGE lap_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   12 Then last year I noticed the assignments were drying up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   12 Then_RT last_MD year_NNT1 I_PPIS1 noticed_VVD the_AT assignments_NN2 were_VBDR drying_VVG up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   13 It dawned on me that I was n't hearing back from editors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   13 It_PPH1 dawned_VVD on_II me_PPIO1 that_CST I_PPIS1 was_VBDZ n't_XX hearing_VVG back_RP from_II editors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   14 I realized I needed to branch out beyond ' Walk off the belly fat !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   14 I_PPIS1 realized_VVD I_PPIS1 needed_VVD to_TO branch_VVI out_RP beyond_RL@ '_GE Walk_NN1 off_II the_AT belly_NN1 fat_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   15 ' articles .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   15 '_GE articles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   16 " I was already on a lot of press-release mailing lists .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   16 "_Y I_PPIS1 was_VBDZ already_RR on_II a_AT1 lot_NN1 of_IO press-release_JJ_NN1 mailing_NN1 lists_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   17 Instead of complaining about all of the e-mails , I told the PR people to pitch me anything .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   17 Instead_II21 of_II22 complaining_VVG about_II_RP@ all_DB of_IO the_AT e-mails_NN2 ,_Y I_PPIS1 told_VVD the_AT PR_NP1_NN1@ people_NN to_TO pitch_VVI me_PPIO1 anything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   18 So someone pitched me a new book about courage in the workplace .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   18 So_RR someone_PN1 pitched_VVD me_PPIO1 a_AT1 new_JJ book_NN1 about_II courage_NN1 in_II the_AT workplace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   19 I sent a conversational pitch about the topic and the source to American Way 's business section .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   19 I_PPIS1 sent_VVD a_AT1 conversational_JJ pitch_NN1 about_II the_AT topic_NN1 and_CC the_AT source_NN1 to_II American_JJ Way_NN1 's_GE business_NN1 section_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   20 They said yes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   20 They_PPHS2 said_VVD yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   21 It was my first business-article sale interested in anything that 's newsy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   21 It_PPH1 was_VBDZ my_APPGE first_MD business-article_JJ_NN1 sale_NN1 interested_JJ in_II anything_PN1 that_CST 's_VBZ newsy_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   22 " I 've also started doing some personal-finance pieces , which also was new to me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   22 "_Y I_PPIS1 've_VH0 also_RR started_VVN doing_VDG some_DD personal-finance_JJ_NN1 pieces_NN2 ,_Y which_DDQ also_RR was_VBDZ new_JJ to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   23 A woman on Twitter -- she was a content provider for Forbes.com -- liked some of my posts and asked if I had any personal-finance clips .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   23 A_AT1 woman_NN1 on_II Twitter_NN1 --_NN1 she_PPHS1 was_VBDZ a_AT1 content_JJ_NN1 provider_NN1 for_IF Forbes.com_NP1 --_NN1 liked_VVD_VVN some_DD of_IO my_APPGE posts_NN2 and_CC asked_VVD if_CS_CSW@ I_PPIS1 had_VHD any_DD personal-finance_JJ_NN1 clips_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   24 I did n't .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   24 I_PPIS1 did_VDD n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   25 But I realized I have to be flexible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   25 But_CCB I_PPIS1 realized_VVD I_PPIS1 have_VH0 to_TO be_VBI flexible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   26 So I wrote up some queries and she gave me two assignments .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   26 So_RR I_PPIS1 wrote_VVD up_RP some_DD queries_NN2 and_CC she_PPHS1 gave_VVD me_PPIO1 two_MC assignments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   27 " It is tough , and the freelancing pool is getting crowded .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   27 "_Y It_PPH1 is_VBZ tough_JJ ,_Y and_CC the_AT freelancing_JJ@_NN1@ pool_NN1 is_VBZ getting_VVG crowded_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   28 I feel like I 'm surviving and thriving because I realize there 's no falling down .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   28 I_PPIS1 feel_VV0 like_CS%_VV0@_II_RR% I_PPIS1 'm_VBM surviving_VVG_JJ and_CC thriving_JJ_VVG because_CS I_PPIS1 realize_VV0 there_EX 's_VBZ no_AT falling_VVG down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   29 My mentality is to push harder instead of backing off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   29 My_APPGE mentality_NN1 is_VBZ to_TO push_VVI harder_RRR_JJR instead_II21 of_II22 backing_VVG off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   30 It 's all about adapting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   30 It_PPH1 's_VBZ all_DB_RR@ about_II adapting_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   31 And it 's working .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   31 And_CC it_PPH1 's_VBZ working_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   32 In the first quarter of 2009 , I 've been the busiest I 've ever been .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   32 In_II the_AT first_MD quarter_NN1 of_IO 2009_MC ,_Y I_PPIS1 've_VH0 been_VBN the_AT busiest_JJT I_PPIS1 've_VH0 ever_RR been_VBN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   33 " GET PROACTIVE Teri Cettina , of Portland , Ore. , has been a full-time freelance writer for 12 years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   33 "_Y GET_VV0 PROACTIVE_JJ Teri_NP1_NN1_JJ Cettina_NP1_NN1@ ,_Y of_IO Portland_NP1 ,_Y Ore._ZZ ,_Y has_VHZ been_VBN a_AT1 full-time_JJ freelance_NN1 writer_NN1 for_IF 12_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   34 Since 2002 , she has focused exclusively on magazines , writing for such publications as Parents , Parenting , Real Simple , Better Homes n't actually seen a downtick in my business yet , but I 'm being proactive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   34 Since_II 2002_MC ,_Y she_PPHS1 has_VHZ focused_VVN exclusively_RR on_II magazines_NN2 ,_Y writing_VVG for_IF such_DA publications_NN2 as_CSA Parents_NN2 ,_Y Parenting_NN1_VVG@ ,_Y Real_JJ Simple_JJ ,_Y Better_JJR Homes_NN2 n't_XX actually_RR seen_VVN a_AT1 downtick_NN1 in_II my_APPGE business_NN1 yet_RR ,_Y but_CCB I_PPIS1 'm_VBM being_VBG proactive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   35 " Freelancing is very ' You write an article , you get paid ' -- not unlike any other salaried job .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   35 "_Y Freelancing_VVG_NN1@ is_VBZ very_RG '_"@ You_PPY write_VV0 an_AT1 article_NN1 ,_Y you_PPY get_VV0 paid_JJ@ '_GE --_NN1_JJ not_XX unlike_II@ any_DD other_JJ salaried_JJ job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   36 I 'd rather be more creative .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   36 I_PPIS1 'd_VM rather_RR be_VBI more_RGR creative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   37 So , in addition to selling reprints for the first time ( $400 in one month , so far ) , I teamed up with two other writers to create an e-book aimed at parenting writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   37 So_RR ,_Y in_II31 addition_II32 to_II33 selling_VVG_NN1 reprints_NN2_VVZ for_IF the_AT first_MD time_NNT1 (_Y $400_NNU in_II one_MC1 month_NNT1 ,_Y so_RG far_RR )_Y ,_Y I_PPIS1 teamed_VVD up_RP with_IW two_MC other_JJ writers_NN2 to_TO create_VVI an_AT1 e-book_NN1 aimed_VVN_VVD at_II parenting_NN1_VVG@ writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   38 There are a lot of rooms , particularly , who would like to work part time and are considering writing for local , regional and parenting publications .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   38 There_EX are_VBR a_AT1 lot_NN1 of_IO rooms_NN2 ,_Y particularly_RR ,_Y who_PNQS would_VM like_VVI to_TO work_VVI part_NN1 time_NNT1 and_CC are_VBR considering_VVG_II_RR@ writing_NN1_VVG for_IF local_JJ ,_Y regional_JJ and_CC parenting_NN1_VVG@ publications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   39 The three of us gathered some of our most successful queries , along with a lot of tips , and are marketing an e-book online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   39 The_AT three_MC of_IO us_PPIO2 gathered_VVD_VVN some_DD of_IO our_APPGE most_RGT successful_JJ queries_NN2 ,_Y along_II21 with_II22 a_AT1 lot_NN1 of_IO tips_NN2 ,_Y and_CC are_VBR marketing_VVG@ an_AT1 e-book_JJ_NN1 online_JJ_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   40 " I 'm not as ruthless as a credit-card company , but I follow up on invoices , sending a reminder after 30 days , and I keep at it until I get paid .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   40 "_Y I_PPIS1 'm_VBM not_XX as_RG ruthless_JJ as_CSA a_AT1 credit-card_NN1 company_NN1 ,_Y but_CCB I_PPIS1 follow_VV0 up_RP on_II invoices_NN2 ,_Y sending_VVG a_AT1 reminder_NN1 after_II 30_MC days_NNT2 ,_Y and_CC I_PPIS1 keep_VV0 at_II it_PPH1 until_CS I_PPIS1 get_VV0 paid_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   41 I ca n't afford to be laid-back in this economic climate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   41 I_PPIS1 ca_VM n't_XX afford_VVI to_TO be_VBI laid-back_JJ in_II this_DD1 economic_JJ climate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   42 " In addition , I 'm watching my , and tucking away estimated tax money every time I deposit a check , so that I wo n't be caught short .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   42 "_Y In_RR21 addition_RR22 ,_Y I_PPIS1 'm_VBM watching_VVG my_APPGE ,_Y and_CC tucking_VVG away_RL estimated_VVD_JJ@_VVN tax_NN1 money_NN1 every_AT1 time_NNT1 I_PPIS1 deposit_VV0 a_AT1 check_NN1 ,_Y so_CS21 that_CS22 I_PPIS1 wo_VM n't_XX be_VBI caught_VVN short_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   43 " MAKE THE MOST OF A SPECIALTY Jill Adams , of Albany , N.Y. , a full-time freelancer since 2003 , is a regular contributor to the Los Angeles Times and the news sections of Science and Nature , where she covers biomedical research .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   43 "_Y MAKE_VV0 THE_AT MOST_DAT OF_IO A_ZZ1 SPECIALTY_NP1 Jill_NP1 Adams_NP1 ,_Y of_IO Albany_NP1 ,_Y N.Y._NP1 ,_Y a_AT1 full-time_JJ freelancer_NN1 since_II 2003_MC ,_Y is_VBZ a_AT1 regular_JJ contributor_NN1 to_II the_AT Los_NP1 Angeles_NP1 Times_NNT2 and_CC the_AT news_NN1 sections_NN2 of_IO Science_NN1 and_CC Nature_NN1 ,_Y where_CS_RRQ she_PPHS1 covers_VVZ biomedical_JJ research_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   44 She also reports on environmental science , physics , public policy and education for The Washington Post , Discover , Parenting and other publications .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   44 She_PPHS1 also_RR reports_VVZ on_II environmental_JJ science_NN1 ,_Y physics_NN1 ,_Y public_JJ_NN1 policy_NN1 and_CC education_NN1 for_IF The_AT Washington_NP1 Post_NN1 ,_Y Discover_VV0 ,_Y Parenting_NN1_VVG@ and_CC other_JJ publications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   45 " Two things have helped me stay on target to earn my income : finding regular work and specializing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   45 "_Y Two_MC things_NN2 have_VH0 helped_VVN me_PPIO1 stay_NN1@ on_II target_NN1 to_TO earn_VVI my_APPGE income_NN1 :_Y finding_VVG regular_JJ work_NN1 and_CC specializing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   46 " I write a column for the LA Times Health section every other week , and short Web pieces for a state university 's research arm twice a week .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   46 "_Y I_PPIS1 write_VV0 a_AT1 column_NN1 for_IF the_AT LA_NP1 Times_NNT2 Health_NN1 section_NN1 every_AT1 other_JJ week_NNT1 ,_Y and_CC short_JJ Web_NN1 pieces_NN2 for_IF a_AT1 state_NN1 university_NN1 's_GE research_NN1 arm_NN1 twice_RR a_AT1 week_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   47 Neither is the highest-paying work , but those checks add up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   47 Neither_DD1 is_VBZ the_AT highest-paying_JJT work_NN1 ,_Y but_CCB those_DD2 checks_NN2 add_VV0 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   48 " It helps that I 've been a science writer from the beginning , not in response to the recession .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   48 "_Y It_PPH1 helps_VVZ that_CST I_PPIS1 've_VH0 been_VBN a_AT1 science_NN1 writer_NN1 from_II the_AT beginning_NN1 ,_Y not_XX in_II31 response_II32 to_II33 the_AT recession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   49 It gives me both a niche to target and a brand to sell .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   49 It_PPH1 gives_VVZ me_PPIO1 both_RR a_AT1 niche_NN1 to_TO target_VVI and_CC a_AT1 brand_NN1 to_TO sell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   50 So not cut back , and the scientific enterprise in the United States is looking to do well with the new Obama administration .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   50 So_RG not_XX cut_VVN back_RP ,_Y and_CC the_AT scientific_JJ enterprise_NN1 in_II the_AT United_NP1 States_NP1 is_VBZ looking_VVG to_TO do_VDI well_RR with_IW the_AT new_JJ Obama_NN1@_NP1 administration_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   51 The places I get my usual work from have not diminished at all , and I 'm feeling fortunate that I have this specialty niche .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   51 The_AT places_NN2 I_PPIS1 get_VV0 my_APPGE usual_JJ work_NN1 from_II have_VH0 not_XX diminished_VVN at_RR21_II all_RR22_DB ,_Y and_CC I_PPIS1 'm_VBM feeling_VVG fortunate_JJ that_CST I_PPIS1 have_VH0 this_DD1 specialty_NN1 niche_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   52 " SEND OUT FOUR QUERIES A WEEK Charlotte Huff , of Fort Worth , Texas , has been a journalist for 15 years , freelancing full time since 2004 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   52 "_Y SEND_VV0 OUT_RP FOUR_MC QUERIES_NN2 A_ZZ1_AT1@ WEEK_NNT1 Charlotte_NP1 Huff_NP1 ,_Y of_IO Fort_NP1 Worth_NP1 ,_Y Texas_NP1 ,_Y has_VHZ been_VBN a_AT1 journalist_NN1 for_IF 15_MC years_NNT2 ,_Y freelancing_VVG full_JJ time_NNT1 since_II 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   53 She writes most frequently on medical and business issues but has covered a wide range of topics for in-flights , consumer health and parenting publications , business trades , and teen magazines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   53 She_PPHS1 writes_VVZ most_RGT frequently_RR on_II medical_JJ and_CC business_NN1 issues_NN2 but_CCB has_VHZ covered_VVN a_AT1 wide_JJ range_NN1 of_IO topics_NN2 for_IF in-flights_NN2 ,_Y consumer_NN1 health_NN1 and_CC parenting_NN1_VVG@ publications_NN2 ,_Y business_NN1 trades_NN2 ,_Y and_CC teen_NN1 magazines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   54 " I have to increase my income by 20 percent this year , as my husband took a newspaper buyout last fall and is back in school getting retraining .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   54 "_Y I_PPIS1 have_VH0 to_TO increase_VVI my_APPGE income_NN1 by_II 20_MC percent_NNU this_DD1 year_NNT1 ,_Y as_CSA my_APPGE husband_NN1 took_VVD a_AT1 newspaper_NN1 buyout_NN1 last_MD fall_NN1 and_CC is_VBZ back_RP_NN1 in_II school_NN1 getting_VVG retraining_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   55 My motivation is substantial : We need that 20 percent to pay the bills .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   55 My_APPGE motivation_NN1 is_VBZ substantial_JJ :_Y We_PPIS2 need_VV0 that_CST_DD1 20_MC percent_NNU to_TO pay_VVI the_AT bills_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   56 To date , I 've been reaching that 20-percent-higher bar , writing for a mix of consumer , trade and custom magazines ( both print and online ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   56 To_II date_NN1 ,_Y I_PPIS1 've_VH0 been_VBN reaching_VVG that_CST_DD1 20-percent-higher_JJR bar_NN1 ,_Y writing_VVG for_IF a_AT1 mix_NN1 of_IO consumer_NN1 ,_Y trade_NN1 and_CC custom_NN1 magazines_NN2 (_Y both_DB2_RR print_VV0_NN1 and_CC online_RR_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   57 " Writers need to work much more aggressive about networking with writers and editors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   57 "_Y Writers_NN2 need_VV0 to_TO@ work_VVI much_RR more_RGR aggressive_JJ about_II networking_VVG_NN1 with_IW writers_NN2 and_CC editors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   58 " I 'm more likely to write for less well-known magazines that have some sort of association tie , whether it 's AARP or the Arthritis Foundation or the American Hospital Association , than a brand-name magazine .... I 'm targeting markets that will survive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   58 "_Y I_PPIS1 'm_VBM more_RGR likely_JJ to_TO write_VVI for_IF less_RGR_DAR well-known_JJ magazines_NN2 that_CST have_VH0 some_DD sort_NN1 of_IO association_NN1 tie_NN1_VV0 ,_Y whether_CSW it_PPH1 's_VBZ AARP_NP1_NN1 or_CC the_AT Arthritis_NN1_NP1 Foundation_NN1 or_CC the_AT American_JJ Hospital_NN1 Association_NN1 ,_Y than_CSN a_AT1 brand-name_JJ_NN1 magazine_NN1 ...._... I_PPIS1 'm_VBM targeting_VVG markets_NN2 that_CST_DD1 will_VM survive_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   59 " Recently , I 've been less likely to query publications that might have a long editing process .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   59 "_Y Recently_RR ,_Y I_PPIS1 've_VH0 been_VBN less_RGR likely_JJ to_TO query_VVI publications_NN2 that_CST_DD1 might_VM have_VHI a_AT1 long_JJ editing_NN1 process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   60 I ca n't wait a year from assignment until ... the editing and payment process .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   60 I_PPIS1 ca_VM n't_XX wait_VVI a_AT1 year_NNT1 from_II assignment_NN1 until_CS ..._... the_AT editing_NN1 and_CC payment_NN1 process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   61 " In addition , I send out four queries a week , even if I 'm dying under my existing workload .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   61 "_Y In_RR21 addition_RR22 ,_Y I_PPIS1 send_VV0 out_RP four_MC queries_NN2 a_AT1 week_NNT1 ,_Y even_CS21 if_CS22 I_PPIS1 'm_VBM dying_VVG under_II_RP@ my_APPGE existing_JJ workload_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   62 Even if I have to work nights and weekends to get those four queries out , I 'm doing it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   62 Even_CS21 if_CS22 I_PPIS1 have_VH0 to_TO work_VVI nights_NNT2 and_CC weekends_NNT2 to_TO get_VVI those_DD2 four_MC queries_NN2 out_RP ,_Y I_PPIS1 'm_VBM doing_VDG it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   63 " CONSIDER A PART-TIME JOB Caitlin Kelly , of Tarrytown , N.Y. , has been a journalist for 30 years , freelancing since 1996 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   63 "_Y CONSIDER_VV0 A_ZZ1_AT1@ PART-TIME_JJ JOB_NN1 Caitlin_NP1 Kelly_NP1 ,_Y of_IO Tarrytown_NP1 ,_Y N.Y._NP1 ,_Y has_VHZ been_VBN a_AT1 journalist_NN1 for_IF 30_MC years_NNT2 ,_Y freelancing_VVG since_II 1996_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   64 In addition to being the author of Blown Away : American Women and Guns , she is a regular contributor to The New York Times and writes for a variety of other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   64 In_II31 addition_II32 to_II33 being_VBG the_AT author_NN1 of_IO Blown_JJ@_VVN Away_RL :_Y American_JJ Women_NN2 and_CC Guns_NN2 ,_Y she_PPHS1 is_VBZ a_AT1 regular_JJ contributor_NN1 to_II The_AT New_NP1 York_NP1 Times_NNT2 and_CC writes_VVZ for_IF a_AT1 variety_NN1 of_IO other_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   65 I realized I had to do something to hedge my bets against deadbeat publishers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   65 I_PPIS1 realized_VVD I_PPIS1 had_VHD to_TO do_VDI something_PN1 to_TO hedge_VVI my_APPGE bets_NN2 against_II deadbeat_NN1 publishers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   66 " One day I was reading the paper , and I saw that The North Face a retail chain that sells adventure gear and clothing was opening a store literally 10 minutes from my house .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   66 "_Y One_MC1 day_NNT1 I_PPIS1 was_VBDZ reading_VVG the_AT paper_NN1 ,_Y and_CC I_PPIS1 saw_VVD that_CST The_AT North_ND1 Face_NN1 a_AT1 retail_JJ chain_NN1 that_CST_DD1 sells_VVZ adventure_NN1 gear_NN1 and_CC clothing_NN1 was_VBDZ opening_VVG a_AT1 store_NN1 literally_RR 10_MC minutes_NNT2 from_II my_APPGE house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   67 And I thought , it 's a great product , it 's close by .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   67 And_CC I_PPIS1 thought_VVD ,_Y it_PPH1 's_VBZ a_AT1 great_JJ product_NN1 ,_Y it_PPH1 's_VBZ close_JJ by_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   68 The job fit my parameters for making some low-stress money .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   68 The_AT job_NN1 fit_VV0 my_APPGE parameters_NN2 for_IF making_VVG some_DD low-stress_JJ_NN1 money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   69 I went for the interview , and they hired me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   69 I_PPIS1 went_VVD for_IF the_AT interview_NN1 ,_Y and_CC they_PPHS2 hired_VVD me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   70 " When I work two shifts a week , I bring home $600 a month .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   70 "_Y When_CS_RRQ I_PPIS1 work_VV0 two_MC shifts_VVZ a_AT1 week_NNT1 ,_Y I_PPIS1 bring_VV0 home_RL $600_NNU a_AT1 month_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   71 Six hundred bucks in a month is not nothing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   71 Six_MC hundred_M1 bucks_NN2 in_II a_AT1 month_NNT1 is_VBZ not_XX nothing_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   72 And there 's a check every two weeks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   72 And_CC there_EX 's_VBZ a_AT1 check_NN1_VV0 every_AT1 two_MC weeks_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   73 I do n't have to negotiate for it ; I do n't have to arm-wrestle over a contract .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   73 I_PPIS1 do_VD0 n't_XX have_VHI to_TO negotiate_VVI for_IF it_PPH1 ;_Y I_PPIS1 do_VD0 n't_XX have_VHI to_TO arm-wrestle_JJ_NN1@ over_II a_AT1 contract_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   74 It 's ' no-drama ' income .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   74 It_PPH1 's_VBZ '_GE no-drama_NN1 '_GE income_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   75 At this point in my life , I 'll take that .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   75 At_II this_DD1 point_NN1 in_II my_APPGE life_NN1 ,_Y I_PPIS1 'll_VM take_VVI that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   76 " Working retail has hugely altered my ability to sell as a freelancer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   76 "_Y Working_VVG_JJ@ retail_JJ_NN1% has_VHZ hugely_RR altered_VVN my_APPGE ability_NN1 to_TO sell_VVI as_II a_AT1 freelancer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   77 I 'm much more assertive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   77 I_PPIS1 'm_VBM much_RR more_RGR assertive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   78 I think every writer should work retail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   78 I_PPIS1 think_VV0 every_AT1 writer_NN1 should_VM work_VVI retail_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   79 ... 'd do this , I 'd have said it 's absurd .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   79 ..._... 'd_VM do_VDI this_DD1 ,_Y I_PPIS1 'd_VM have_VHI said_VVN@ it_PPH1 's_VBZ absurd_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   80 These days , though , anybody who wants to freelance is nuts not to have a part-time job .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   80 These_DD2 days_NNT2 ,_Y though_CS_RR@ ,_Y anybody_PN1 who_PNQS wants_VVZ to_TO freelance_VVI is_VBZ nuts_JJ@_NN2 not_XX to_TO have_VHI a_AT1 part-time_JJ job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   81 " REACH OUT AND NETWORK Pamela Oldham , of Austin , Texas , has been a full-time freelance writer since 1998 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   81 "_Y REACH_VV0 OUT_RP AND_CC NETWORK_NN1 Pamela_NP1 Oldham_NP1 ,_Y of_IO Austin_NP1 ,_Y Texas_NP1 ,_Y has_VHZ been_VBN a_AT1 full-time_JJ freelance_NN1 writer_NN1 since_II 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   82 She is the author of The Complete Idiot 's Guide to the Legacy of Lincoln and writes for a variety of national and regional publications , including The Washington Post , Family Circle , Virginia Living and lan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   82 She_PPHS1 is_VBZ the_AT author_NN1 of_IO The_AT Complete_JJ Idiot_NN1 's_GE Guide_NN1 to_II the_AT Legacy_NN1 of_IO Lincoln_NP1 and_CC writes_VVZ for_IF a_AT1 variety_NN1 of_IO national_JJ and_CC regional_JJ publications_NN2 ,_Y including_II_VVG@ The_AT Washington_NP1 Post_NN1 ,_Y Family_NN1 Circle_NN1 ,_Y Virginia_NP1 Living_NN1_JJ_VVG and_CC lan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   83 " Diversification is key right now , so I 'm trying to grow my client base by networking and by distinguishing myself from other writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   83 "_Y Diversification_NN1 is_VBZ key_JJ right_NN1_RR_JJ now_RT ,_Y so_CS@_RR I_PPIS1 'm_VBM trying_VVG to_TO grow_VVI my_APPGE client_NN1 base_NN1 by_II networking_NN1_VVG and_CC by_II distinguishing_VVG myself_PPX1 from_II other_JJ writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   84 " As far as networking , I 'm active on LinkedIn online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   84 "_Y As_CS31 far_CS32 as_CS33 networking_VVG_NN1 ,_Y I_PPIS1 'm_VBM active_JJ on_II LinkedIn_NP1_NN1 online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   85 I 'm also involved in FreelanceSuccess.com and a number of other writers groups .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   85 I_PPIS1 'm_VBM also_RR involved_JJ in_II FreelanceSuccess.com_NP1 and_CC a_AT1 number_NN1 of_IO other_JJ writers_NN2 groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   86 I 'm in contact with a subset of about 20 writers on a daily basis , and we 're passing information around all the time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   86 I_PPIS1 'm_VBM in_II31 contact_II32 with_II33 a_AT1 subset_NN1 of_IO about_RG 20_MC writers_NN2 on_II a_AT1 daily_JJ basis_NN1 ,_Y and_CC we_PPIS2 're_VBR passing_JJ_VVG information_NN1 around_II_RP all_DB the_AT time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   87 From my network , I 've gotten a ghostwriting-article project for a trade magazine , a government-proposal project through a a custom-magazine publisher to do many articles over time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   87 From_II my_APPGE network_NN1 ,_Y I_PPIS1 've_VH0 gotten_VVN a_AT1 ghostwriting-article_JJ_NN1 project_NN1 for_IF a_AT1 trade_NN1 magazine_NN1 ,_Y a_AT1 government-proposal_JJ_NN1 project_NN1 through_II a_AT1 a_AT1 custom-magazine_JJ_NN1 publisher_NN1 to_TO do_VDI many_DA2 articles_NN2 over_II time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   88 All of these were clients with whom I had no prior relationship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   88 All_DB of_IO these_DD2 were_VBDR clients_NN2 with_IW whom_PNQO I_PPIS1 had_VHD no_AT prior_JJ relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   89 " I 'm also querying my head off , sending out LOIs , and keeping alert to anything that looks like a good opportunity -- if it 's not an obviously low-paying project or a company that 's not going to be around in six months .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   89 "_Y I_PPIS1 'm_VBM also_RR querying_VVG my_APPGE head_NN1 off_RP ,_Y sending_VVG out_RP LOIs_NP1 ,_Y and_CC keeping_VVG alert_JJ_VV0_NN1@ to_II anything_PN1 that_CST looks_VVZ like_II a_AT1 good_JJ opportunity_NN1 --_NN1_JJ if_CS it_PPH1 's_VBZ not_XX an_AT1 obviously_RR low-paying_JJ project_NN1 or_CC a_AT1 company_NN1 that_CST_DD1 's_VBZ not_XX going_VVGK to_TO be_VBI around_RP in_II six_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   90 An LOI is a letter of introduction , typically sent to trade-magazine and other specialty editors , which introduces a writer to an editor , explains her areas of interest and expertise , and provides samples of published work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   90 An_AT1 LOI_NN1 is_VBZ a_AT1 letter_NN1 of_IO introduction_NN1 ,_Y typically_RR sent_VVN_VVD to_II trade-magazine_NN1_JJ and_CC other_JJ specialty_NN1 editors_NN2 ,_Y which_DDQ introduces_VVZ a_AT1 writer_NN1 to_II an_AT1 editor_NN1 ,_Y explains_VVZ her_APPGE areas_NN2 of_IO interest_NN1 and_CC expertise_NN1 ,_Y and_CC provides_VVZ samples_NN2 of_IO published_JJ@ work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   91 It does not include a specific query .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   91 It_PPH1 does_VDZ not_XX include_VVI a_AT1 specific_JJ query_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   92 " If you have n't talked to an editor or a client for a long time , contact them now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   92 "_Y If_CS you_PPY have_VH0 n't_XX talked_VVN to_II an_AT1 editor_NN1 or_CC a_AT1 client_NN1 for_IF a_AT1 long_JJ time_NNT1 ,_Y contact_VV0 them_PPHO2 now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   93 I think they 're looking for writers with whom they 've had solid relationships .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   93 I_PPIS1 think_VV0 they_PPHS2 're_VBR looking_VVG for_IF writers_NN2 with_IW whom_PNQO they_PPHS2 've_VH0 had_VHN solid_JJ relationships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   94 Stay alert to the marketplace trends , then try to offer something different to distinguish your query and your service from others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   94 Stay_VV0 alert_JJ_VV0 to_II the_AT marketplace_NN1 trends_NN2 ,_Y then_RT try_VV0 to_TO offer_VVI something_PN1 different_JJ to_TO distinguish_VVI your_APPGE query_NN1 and_CC your_APPGE service_NN1 from_II others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   95 Figure out what makes you different .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   95 Figure_VV0@ out_RP what_DDQ makes_VVZ you_PPY different_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   96 That 's what 's going to sell , Pa. , has been freelancing full time for 12 years , covering business news and trends , particularly in the areas of financial advice , the Internet and technology , and career management .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   96 That_DD1 's_VBZ what_DDQ 's_VBZ going_VVGK to_TO sell_VVI ,_Y Pa._NP1 ,_Y has_VHZ been_VBN freelancing_VVG full_JJ time_NNT1 for_IF 12_MC years_NNT2 ,_Y covering_VVG business_NN1 news_NN1 and_CC trends_NN2 ,_Y particularly_RR in_II the_AT areas_NN2 of_IO financial_JJ advice_NN1 ,_Y the_AT Internet_NN1_NP1 and_CC technology_NN1 ,_Y and_CC career_NN1_VV0@ management_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   97 " Magazine work has been steadily decreasing , so I started getting out of that about five years ago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   97 "_Y Magazine_NN1 work_NN1 has_VHZ been_VBN steadily_RR decreasing_JJ_VVG ,_Y so_CS@_RR I_PPIS1 started_VVD getting_VVG out_II21 of_II22 that_DD1 about_RG five_MC years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   98 I do more work on the Web and had to learn things I did n't know five years ago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   98 I_PPIS1 do_VD0 more_RRR work_VVI on_II the_AT Web_NN1 and_CC had_VHD_VHN@ to_TO learn_VVI things_NN2 I_PPIS1 did_VDD n't_XX know_VVI five_MC years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0   99 It 's the price of admission these days .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0   99 It_PPH1 's_VBZ the_AT price_NN1 of_IO admission_NN1 these_DD2 days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  100 " There 's a good market now for common-sense financial advice , for going back to basics .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  100 "_Y There_EX 's_VBZ a_AT1 good_JJ market_NN1 now_RT for_IF common-sense_NN1 financial_JJ advice_NN1 ,_Y for_IF going_VVG back_RP to_II basics_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  101 Is your bank CD safe ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  101 Is_VBZ your_APPGE bank_NN1 CD_NN1 safe_NN1@_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  102 Can you get out of an annuity ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  102 Can_VM_VV0% you_PPY get_VVI out_II21 of_II22 an_AT1 annuity_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  103 What 's the value of investing in silver and other commodities ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  103 What_DDQ 's_VBZ the_AT value_NN1 of_IO investing_VVG_JJ in_II silver_NN1 and_CC other_JJ commodities_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  104 These are common-sense financial issues .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  104 These_DD2 are_VBR common-sense_NN1 financial_JJ issues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  105 People do n't trust Wall Street , but they do have a vested interest in their own financial futures .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  105 People_NN do_VD0 n't_XX trust_VVI Wall_NP1 Street_NNL1 ,_Y but_CCB they_PPHS2 do_VD0 have_VHI a_AT1 vested_JJ interest_NN1 in_II their_APPGE own_DA financial_JJ futures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  106 That market is worth chasing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  106 That_DD1 market_NN1 is_VBZ worth_II chasing_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  107 " Specializing has definitely helped me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  107 "_Y Specializing_VVG has_VHZ definitely_RR helped_VVN me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  108 I was a Wall Street bond trader back in the ' 80s and ' 90s , so I had an institutional knowledge of how trade magazines in the industry , and , over the last 15-20 years , I just kept getting better bylines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  108 I_PPIS1 was_VBDZ a_AT1 Wall_NP1 Street_NNL1 bond_NN1_VV0 trader_NN1 back_RP_NN1 in_II the_AT '_"@_GE 80s_MC2 and_CC '_"@_GE 90s_MC2 ,_Y so_CS@_RR I_PPIS1 had_VHD an_AT1 institutional_JJ knowledge_NN1 of_IO how_RRQ trade_NN1 magazines_NN2 in_II the_AT industry_NN1 ,_Y and_CC ,_Y over_II the_AT last_NN1%_MD 15-20_MCMC years_NNT2 ,_Y I_PPIS1 just_RR kept_VVD getting_VVG better_JJR bylines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  109 I built a foundation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  109 I_PPIS1 built_VVD a_AT1 foundation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  110 ( I 've been writing books along the way as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  110 (_Y I_PPIS1_ZZ1@ 've_VH0 been_VBN writing_VVG books_NN2 along_II the_AT way_NN1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  111 ) When a potential client comes along looking for a specialist , I have that going for me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  111 )_Y When_CS a_AT1 potential_JJ_NN1 client_NN1 comes_VVZ along_RP_II looking_VVG for_IF a_AT1 specialist_NN1 ,_Y I_PPIS1 have_VH0 that_DD1 going_VVG for_IF me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  112 In my experience , people are definitely looking for specialists these days .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  112 In_II my_APPGE experience_NN1 ,_Y people_NN are_VBR definitely_RR looking_VVG for_IF specialists_NN2 these_DD2 days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  113 " You 've also got to get online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  113 "_Y You_PPY 've_VH0 also_RR got_VVN to_TO get_VVI online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  114 If your field is finance or health care or human resources -- big areas right now -- research as many Web sites as you can and send them letters of introduction .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  114 If_CS your_APPGE field_NN1 is_VBZ finance_NN1 or_CC health_NN1 care_NN1 or_CC human_JJ_NN1 resources_NN2 --_ZZ big_JJ areas_NN2 right_RR now_RT --_ZZ research_NN1 as_CSA_RG@_II@ many_DA2 Web_NN1 sites_NN2 as_CSA you_PPY can_VM_VV0% and_CC send_VV0 them_PPHO2 letters_NN2 of_IO introduction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  115 I 'll even sometimes just pick up the phone to introduce myself to an editor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  115 I_PPIS1 'll_VM even_RR sometimes_RT just_RR pick_VVI up_RP_II@ the_AT phone_NN1 to_TO introduce_VVI myself_PPX1 to_II an_AT1 editor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  116 You have to be more aggressive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  116 You_PPY have_VH0 to_TO be_VBI more_RGR aggressive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  117 " You ca n't count on just writing anymore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  117 "_Y You_PPY ca_VM n't_XX count_VVI on_II just_RR_JJ@ writing_VVG_NN1 anymore_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  118 I 've also begun teaching business-writing classes to some regional companies .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  118 I_PPIS1 've_VH0 also_RR begun_VVN teaching_VVG business-writing_JJ_NN1 classes_NN2 to_II some_DD regional_JJ companies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  119 ... I got $2,000 for eight hours of teaching .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  119 ..._... I_PPIS1 got_VVD $2,000_NNU for_IF eight_MC hours_NNT2 of_IO teaching_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  120 " Remember : You 're in business as a writer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  120 "_Y Remember_VV0 :_Y You_PPY 're_VBR in_II business_NN1 as_II_CSA a_AT1 writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  121 Reading a good book on sales and marketing is just as important as a HIDDEN ' MARKETS Gary Wollenhaupt , of Russell , Ky. , has been freelancing full time since 2002 , writing primarily for magazines and newspapers -- as well as corporate clients , trade magazines and custom publishers -- that include The Indianapolis Star , Plane Pilot , Truck SUV , Indianapolis Monthly Home , Small Market Meetings and Auto Trim Restyling News .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  121 Reading_VVG a_AT1 good_JJ book_NN1 on_II sales_NN and_CC marketing_NN1 is_VBZ just_RR as_RG important_JJ as_CSA a_AT1 HIDDEN_NP1@ '_GE MARKETS_NN2 Gary_NP1 Wollenhaupt_NP1 ,_Y of_IO Russell_NP1 ,_Y Ky._NP1 ,_Y has_VHZ been_VBN freelancing_VVG full_JJ time_NNT1 since_II 2002_MC ,_Y writing_VVG primarily_RR for_IF magazines_NN2 and_CC newspapers_NN2 --_NN1_JJ as_II31 well_II32 as_II33 corporate_JJ clients_NN2 ,_Y trade_NN1_VV0@ magazines_NN2 and_CC custom_NN1 publishers_NN2 --_NN1_JJ that_CST include_VV0 The_AT Indianapolis_NP1 Star_NN1 ,_Y Plane_NN1 Pilot_NN1 ,_Y Truck_NN1 SUV_NN1_NP1 ,_Y Indianapolis_NP1 Monthly_JJ_NN1@_RR@ Home_NN1_RL ,_Y Small_NP1_JJ@ Market_NN1_VV0 Meetings_NN2 and_CC Auto_NN1 Trim_NN1_VV0_JJ Restyling_VVG_NP1_JJ@_NN1@ News_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  122 " The number of assignments I 'm getting is falling off , and some of the assignments I do get are shorter , or the editor might want fewer stories in a package than before .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  122 "_Y The_AT number_NN1 of_IO assignments_NN2 I_PPIS1 'm_VBM getting_VVG is_VBZ falling_VVG off_RP ,_Y and_CC some_DD of_IO the_AT assignments_NN2 I_PPIS1 do_VD0 get_VVI are_VBR shorter_JJR ,_Y or_CC the_AT editor_NN1 might_VM want_VVI fewer_DAR stories_NN2 in_II a_AT1 package_NN1 than_CSN before_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  123 In the past , I might have been assigned three or four articles , and now I 'm getting one or two .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  123 In_II the_AT past_NN1 ,_Y I_PPIS1 might_VM have_VHI been_VBN assigned_VVN three_MC or_CC four_MC articles_NN2 ,_Y and_CC now_RT I_PPIS1 'm_VBM getting_VVG one_MC1 or_CC two_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  124 And instead of 700 words , they 're 350 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  124 And_CC instead_II21 of_II22 700_MC words_NN2 ,_Y they_PPHS2 're_VBR 350_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  125 So the magazines are still going , but they 're cutting back , trying to reduce their budgets yet continue to publish .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  125 So_RR the_AT magazines_NN2 are_VBR still_RR going_VVG ,_Y but_CCB they_PPHS2 're_VBR cutting_VVG back_RP ,_Y trying_VVG to_TO reduce_VVI their_APPGE budgets_NN2 yet_RR continue_VV0 to_TO publish_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  126 " You ca n't stop looking for markets , making contacts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  126 "_Y You_PPY ca_VM n't_XX stop_VVI looking_VVG for_IF markets_NN2 ,_Y making_VVG contacts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  127 Even in the age of LinkedIn and Facebook , I do n't think there 's any substitute for meeting editors in really helps you -- and them -- cut through the clutter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  127 Even_RR in_II the_AT age_NN1 of_IO LinkedIn_NP1_NN1 and_CC Facebook_NP1_NN1 ,_Y I_PPIS1 do_VD0 n't_XX think_VVI there_EX 's_VBZ any_DD substitute_NN1_JJ_VV0 for_IF meeting_VVG_NN1 editors_NN2 in_II really_RR helps_VVZ you_PPY --_ZZ and_CC them_PPHO2 --_ZZ cut_NN1_VVN through_II the_AT clutter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  128 " We have to be entrepreneurial .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  128 "_Y We_PPIS2 have_VH0 to_TO be_VBI entrepreneurial_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  129 I received a newsletter from an auto dealer , found out who published it , wrote them a letter , and I 've been writing for them for over a year now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  129 I_PPIS1 received_VVD a_AT1 newsletter_NN1 from_II an_AT1 auto_NN1 dealer_NN1 ,_Y found_VVD_VVN out_RP who_PNQS published_VVD it_PPH1 ,_Y wrote_VVD them_PPHO2 a_AT1 letter_NN1 ,_Y and_CC I_PPIS1 've_VH0 been_VBN writing_VVG for_IF them_PPHO2 for_IF over_RG a_AT1 year_NNT1 now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  130 There 's such an undercurrent of custom magazines and trade magazines that you 'll never see at the big bookstores .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  130 There_EX 's_VBZ such_DA an_AT1 undercurrent_NN1 of_IO custom_NN1 magazines_NN2 and_CC trade_NN1_VV0@ magazines_NN2 that_CST you_PPY 'll_VM never_RR see_VVI at_II the_AT big_JJ bookstores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  131 There 's a huge universe that 's hidden from the general public .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  131 There_EX 's_VBZ a_AT1 huge_JJ universe_NN1 that_CST_DD1 's_VBZ_VHZ@ hidden_VVN from_II the_AT general_JJ_NN1 public_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  132 But that can be the most lucrative work there is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  132 But_CCB that_DD1 can_VM be_VBI the_AT most_RGT lucrative_JJ work_NN1 there_EX_RL is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  133 " Given the current economy , I 'm also looking at other forms of income .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  133 "_Y Given_VVN the_AT current_JJ economy_NN1 ,_Y I_PPIS1 'm_VBM also_RR looking_VVG at_II other_JJ forms_NN2 of_IO income_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  134 " I signed up to do some work for the U.S. Census Bureau .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  134 "_Y I_PPIS1 signed_VVD up_RP to_TO do_VDI some_DD work_NN1_VV0 for_IF the_AT U.S._NP1 Census_NN1 Bureau_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  135 Working on the census appealed to me because it would be part time -- in terms of daily work hours -- and it would have a finite end ; once the census is done in 2010 , you 're out of a job .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  135 Working_VVG on_II the_AT census_NN1 appealed_VVN_VVD to_II me_PPIO1 because_CS it_PPH1 would_VM be_VBI part_NN1_RR% time_NNT1 --_NN1 in_II31 terms_II32 of_II33 daily_JJ work_NN1 hours_NNT2 --_ZZ and_CC it_PPH1 would_VM have_VHI a_AT1 finite_JJ end_NN1 ;_Y once_RR_CS@ the_AT census_NN1 is_VBZ done_VDN in_II 2010_MC ,_Y you_PPY 're_VBR out_II21 of_II22 a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  136 That was more appealing than , say , getting a job in retail or something .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  136 That_DD1 was_VBDZ more_RGR appealing_JJ than_CSN ,_Y say_VV0 ,_Y getting_VVG a_AT1 job_NN1 in_II retail_JJ or_CC something_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  137 ... The thought of " MAKE YOUR PITCHES IRRESISTIBLE Kelly Bastone , of Steamboat Springs , Colo. , has been freelancing for five years , the last three full time , specializing in outdoor sports , fitness and travel for Backpacker , National Geographic Traveler , Runner 's World , Self , Skiing , Hemispheres and Budget Travel , among many others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  137 ..._... The_AT thought_NN1 of_IO "_Y MAKE_VV0 YOUR_APPGE PITCHES_NN2 IRRESISTIBLE_JJ Kelly_NP1 Bastone_NP1 ,_Y of_IO Steamboat_NN1_NP1 Springs_NN2 ,_Y Colo._NP1 ,_Y has_VHZ been_VBN freelancing_VVG for_IF five_MC years_NNT2 ,_Y the_AT last_MD three_MC full_JJ time_NNT1 ,_Y specializing_VVG in_II_RP@ outdoor_JJ sports_NN2 ,_Y fitness_NN1 and_CC travel_VV0_NN1 for_IF Backpacker_NP1_NN1 ,_Y National_JJ Geographic_JJ Traveler_NN1_NP1 ,_Y Runner_NN1 's_GE World_NN1 ,_Y Self_NN1 ,_Y Skiing_NN1_VVG@ ,_Y Hemispheres_NN2 and_CC Budget_NN1_VV0@ Travel_NN1_VV0 ,_Y among_II many_DA2 others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  138 " Most of the markets I 'm writing for are seeing slight-to-significant page losses .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  138 "_Y Most_DAT of_IO the_AT markets_NN2 I_PPIS1 'm_VBM writing_VVG for_IF are_VBR seeing_VVG slight-to-significant_JJ page_NN1 losses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  139 A lot of them are reporting a backlog of content , so they 're buying less .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  139 A_AT1 lot_NN1 of_IO them_PPHO2 are_VBR reporting_VVG a_AT1 backlog_NN1 of_IO content_NN1_JJ ,_Y so_CS@_RR they_PPHS2 're_VBR buying_VVG less_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  140 It 's been a crazy year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  140 It_PPH1 's_VHZ been_VBN a_AT1 crazy_JJ year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  141 " I 'm trying to make the pitches I send as absolutely irresistible as possible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  141 "_Y I_PPIS1 'm_VBM trying_VVG to_TO make_VVI the_AT pitches_NN2 I_PPIS1 send_VV0 as_RG absolutely_RR irresistible_JJ as_CSA possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  142 For instance , writers have long been advised to think in terms of ' packages ' : ' Give your article a great title and subhead , flesh out a sidebar .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  142 For_REX21 instance_REX22 ,_Y writers_NN2 have_VH0 long_RR been_VBN advised_VVN to_TO think_VVI in_II31 terms_II32 of_II33 '_GE packages_NN2 '_GE_" :_Y '_GE_"@ Give_VV0 your_APPGE article_NN1 a_AT1 great_JJ title_NN1 and_CC subhead_NN1 ,_Y flesh_NN1 out_RP a_AT1 sidebar_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  143 ' I 'm trying to expand that even more by proposing Web links , shooting my own photos , even shooting video , so I can offer an accompanying video clip online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  143 '_"@_GE I_PPIS1 'm_VBM trying_VVG to_TO expand_VVI that_CST_DD1 even_RR more_RRR_DAR by_II proposing_VVG_JJ@ Web_NN1 links_NN2_VVZ ,_Y shooting_VVG my_APPGE own_DA photos_NN2 ,_Y even_RR shooting_VVG_JJ@ video_NN1 ,_Y so_CS@_RR I_PPIS1 can_VM offer_VVI an_AT1 accompanying_JJ video_NN1 clip_NN1_VV0 online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  144 Those sorts of add-ons result in increased pay .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  144 Those_DD2 sorts_NN2 of_IO add-ons_NN2 result_VV0 in_II increased_JJ pay_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  145 But , just in editors ' eyes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  145 But_CCB ,_Y just_RR in_II editors_NN2 '_GE eyes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  146 " Pay attention to what editors are asking for .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  146 "_Y Pay_VV0_NN1 attention_NN1 to_II what_DDQ editors_NN2 are_VBR asking_VVG for_IF ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  147 If you see magazines including more call-outs to Web content in the print version , or asking for more Web-oriented brainstorming , ask yourself if you 're in a position to deliver that kind of content .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  147 If_CS you_PPY see_VV0 magazines_NN2 including_II_VVG@ more_DAR call-outs_NN2 to_II Web_NN1 content_NN1 in_II the_AT print_NN1 version_NN1 ,_Y or_CC asking_VVG for_IF more_RGR_DAR Web-oriented_JJ brainstorming_NN1 ,_Y ask_VV0 yourself_PPX1 if_CS you_PPY 're_VBR in_II a_AT1 position_NN1 to_TO deliver_VVI that_DD1_CST kind_NN1 of_IO content_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  148 I 'm still a writer , though , and publications are primarily looking for stories .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  148 I_PPIS1 'm_VBM still_RR a_AT1 writer_NN1 ,_Y though_CS_RR@ ,_Y and_CC publications_NN2 are_VBR primarily_RR looking_VVG for_IF stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  149 But if you can present those stories in a way that readers increasingly want to receive them , that makes you more competitive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  149 But_CCB if_CS you_PPY can_VM present_VVI those_DD2 stories_NN2 in_II a_AT1 way_NN1 that_CST readers_NN2 increasingly_RR want_VV0 to_TO receive_VVI them_PPHO2 ,_Y that_DD1_CST makes_VVZ you_PPY more_RGR_RRR competitive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  150 I remain sanguine about the value of text-based stories ; there 's an increasing interest in the add-ons .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  150 I_PPIS1 remain_VV0 sanguine_JJ about_II the_AT value_NN1 of_IO text-based_JJ_NN1 stories_NN2 ;_Y there_EX 's_VBZ an_AT1 increasing_JJ interest_NN1 in_II the_AT add-ons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  151 " I 'm not looking at the changes I 'm making as compromises .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  151 "_Y I_PPIS1 'm_VBM not_XX looking_VVG at_II the_AT changes_NN2 I_PPIS1 'm_VBM making_VVG as_CSA_II@ compromises_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  152 I 'm actually looking forward to learning some new skills .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  152 I_PPIS1 'm_VBM actually_RR looking_VVG forward_RL to_II learning_VVG some_DD new_JJ skills_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  153 It 's a way to become even better at what I do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  153 It_PPH1 's_VBZ a_AT1 way_NN1 to_TO become_VVI even_RR better_RRR_JJR at_II what_DDQ I_PPIS1 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  154 After all , sometimes it takes a little kick in the pants to wake you up to an opportunity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  154 After_II all_DB ,_Y sometimes_RT it_PPH1 takes_VVZ a_AT1 little_JJ kick_NN1 in_II the_AT pants_NN2 to_TO wake_VVI you_PPY up_II21 to_II22 an_AT1 opportunity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  155 " By Robert Bittner Robert Bittner is a full-time freelance writer based in Charlotte , Mich. , whose work has appeared in Chicago Tribune Magazine , Preservation and Family Circle .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  155 "_Y By_II Robert_NP1 Bittner_NP1 Robert_NP1 Bittner_NP1_NN1 is_VBZ a_AT1 full-time_JJ freelance_NN1 writer_NN1 based_VVN in_II Charlotte_NP1 ,_Y Mich._NP1 ,_Y whose_DDQGE work_NN1 has_VHZ appeared_VVN in_II Chicago_NP1 Tribune_NN1 Magazine_NN1 ,_Y Preservation_NN1 and_CC Family_NN1 Circle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  156 He is also the author of five nonfiction books , including Your Perfect Job ( Waterbrook/Random House ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  156 He_PPHS1 is_VBZ also_RR the_AT author_NN1 of_IO five_MC nonfiction_NN1 books_NN2 ,_Y including_II_VVG@ Your_APPGE Perfect_JJ Job_NN1 (_Y Waterbrook/Random_FU House_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  A    0  157 
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080305 COCA  B    0  157 

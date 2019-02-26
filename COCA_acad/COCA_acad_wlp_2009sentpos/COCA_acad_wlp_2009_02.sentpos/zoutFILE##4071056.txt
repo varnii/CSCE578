@@ -1,0 +1,100 @@
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    0 In the last column we took a look at past and future topics .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    0 In_II the_AT last_MD column_NN1 we_PPIS2 took_VVD a_AT1 look_NN1 at_II past_RL_NN1_JJ and_CC future_JJ_NN1 topics_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    1 This next group of columns will look primarily at methods for local ( as opposed to global ) image optimization techniques .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    1 This_DD1 next_MD group_NN1 of_IO columns_NN2 will_VM look_VVI primarily_RR at_II methods_NN2 for_IF local_JJ (_Y as_II31 opposed_II32 to_II33 global_JJ )_Y image_NN1 optimization_NN1 techniques_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    2 This column is an initial look at masks , a primary tool for this process .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    2 This_DD1 column_NN1 is_VBZ an_AT1 initial_JJ_NN1 look_NN1 at_II masks_NN2 ,_Y a_AT1 primary_JJ_NN1 tool_NN1 for_IF this_DD1 process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    3 <p> Thus far , most of our image-optimization steps have been designed to " globally " correct an image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    3 <p>_Y Thus_RR far_RR_JJ ,_Y most_DAT of_IO our_APPGE image-optimization_JJ_NN1 steps_NN2 have_VH0 been_VBN designed_VVN to_II_TO "_Y globally_RR "_Y correct_VV0@ an_AT1 image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    4 By " global " we mean that the change has been made throughout the entire image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    4 By_II "_Y global_JJ "_Y we_PPIS2 mean_VV0 that_CST the_AT change_NN1 has_VHZ been_VBN made_VVN throughout_II the_AT entire_JJ image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    5 This global approach made sense because most image problems are global , and not local .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    5 This_DD1 global_JJ approach_NN1 made_VVD_VVN sense_NN1 because_CS most_DAT image_NN1 problems_NN2 are_VBR global_JJ ,_Y and_CC not_XX local_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    6 Figure 1A is such an image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    6 Figure_NN1_VV0@ 1A_FO is_VBZ such_DA an_AT1 image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    7 Figure 1B is the accompanying Layers palette .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    7 Figure_NN1_VV0@ 1B_FO is_VBZ the_AT accompanying_JJ Layers_NN2 palette_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    8 Both the Curves layer and the Unsharp Mask layer above it are examples of global correction .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    8 Both_DB2_RR the_AT Curves_NN2 layer_NN1_VV0@ and_CC the_AT Unsharp_NN1_NP1 Mask_NN1 layer_NN1 above_II_RL it_PPH1 are_VBR examples_NN2 of_IO global_JJ correction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0    9 No portion of the image was unchanged by each of these two layers .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0    9 No_XX portion_NN1 of_IO the_AT image_NN1 was_VBDZ unchanged_JJ by_II each_DD1 of_IO these_DD2 two_MC layers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   10 Note that the top layer name has been changed to " USM 300,1.2,6 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   10 Note_VV0 that_CST the_AT top_JJ_NN1 layer_NN1 name_NN1 has_VHZ been_VBN changed_VVN to_II "_Y USM_NP1 300,1.2,6_MC ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   11 " This " name " incorporates the Unsharp Mask parameters used for the sharpening .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   11 "_Y This_DD1 "_Y name_NN1 "_Y incorporates_VVZ the_AT Unsharp_NN1_NP1 Mask_NN1 parameters_NN2 used_VVN_VVD for_IF the_AT sharpening_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   12 In the event a change is necessary , the change .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   12 In_II the_AT event_NN1 a_AT1 change_NN1 is_VBZ necessary_JJ ,_Y the_AT change_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   13 <p> On the other hand , there certainly are instances where it is beneficial to employ " ' local " optimization .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   13 <p>_Y On_II the_AT other_JJ hand_NN1 ,_Y there_RL_EX certainly_RR are_VBR instances_NN2 where_CS_RRQ it_PPH1 is_VBZ beneficial_JJ to_TO employ_VVI "_Y '_GE local_JJ "_Y optimization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   14 One obvious example is the Burning Dodging , Darken Edges technique you learned in Photoshop 1 .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   14 One_MC1 obvious_JJ example_NN1 is_VBZ the_AT Burning_JJ Dodging_NN1@ ,_Y Darken_VV0 Edges_NN2 technique_NN1 you_PPY learned_VVD_VVN in_II Photoshop_NP1_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   15 Those techniques , intended to draw the viewer 's attention to the primary subject of the image , affect only a portion of the image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   15 Those_DD2 techniques_NN2 ,_Y intended_VVD_VVN to_TO draw_VVI the_AT viewer_NN1 's_GE attention_NN1 to_II the_AT primary_JJ_NN1 subject_NN1 of_IO the_AT image_NN1 ,_Y affect_VV0 only_RR a_AT1 portion_NN1 of_IO the_AT image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   16 Clean-up , and Dust Scratch Removal are other examples .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   16 Clean-up_NN1 ,_Y and_CC Dust_NN1_VV0@ Scratch_NN1_VV0 Removal_NN1 are_VBR other_JJ examples_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   17 In all of those examples the tool ( some sort of brush ) is applied selectively .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   17 In_II all_DB of_IO those_DD2 examples_NN2 the_AT tool_NN1 (_Y some_DD sort_NN1 of_IO brush_NN1 )_Y is_VBZ applied_VVN selectively_RR ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   18 <p> Masks are the most popular way to accomplish local correction , and their application is different .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   18 <p>_Y Masks_NN2 are_VBR the_AT most_RGT popular_JJ way_NN1 to_TO accomplish_VVI local_JJ correction_NN1 ,_Y and_CC their_APPGE application_NN1 is_VBZ different_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   19 When one uses a mask , the normal practice is first to apply a correction globally on a layer and then to restrict the correction to the desired part of an image by adding a mask to that layer .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   19 When_CS_RRQ one_PN1 uses_VVZ a_AT1 mask_NN1 ,_Y the_AT normal_JJ practice_NN1 is_VBZ first_MD to_TO apply_VVI a_AT1 correction_NN1 globally_RR on_II a_AT1 layer_NN1 and_CC then_RT to_TO restrict_VVI the_AT correction_NN1 to_II the_AT desired_JJ@ part_NN1 of_IO an_AT1 image_NN1 by_II adding_VVG a_AT1 mask_NN1 to_II that_DD1 layer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   20 Figure 2 shows an example which uses both global and local adjustments .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   20 Figure_NN1 2_MC shows_VVZ an_AT1 example_NN1 which_DDQ uses_VVZ both_RR global_JJ and_CC local_JJ adjustments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   21 The Curves layer was applied globally to correct the colors in the image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   21 The_AT Curves_NN2 layer_NN1 was_VBDZ applied_VVN globally_RR to_TO correct_VVI the_AT colors_NN2 in_II the_AT image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   22 The Layer above ( Blur , GB 5.0 ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   22 The_AT Layer_NN1 above_RL_II (_Y Blur_VV0_NN1 ,_Y GB_NP1 5.0_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   23 On that upper layer , first a Gaussian blur ( value of 5.0 pixels ) was applied to the entire image , blurring both the background and the owl .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   23 On_II that_DD1 upper_JJ layer_NN1 ,_Y first_MD a_AT1 Gaussian_JJ blur_NN1 (_Y value_NN1 of_IO 5.0_MC pixels_NN2 )_Y was_VBDZ applied_VVN to_II the_AT entire_JJ image_NN1 ,_Y blurring_VVG both_DB2_RR the_AT background_NN1 and_CC the_AT owl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   24 Then a mask was added to eliminate the blur on the owl .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   24 Then_RT a_AT1 mask_NN1 was_VBDZ added_VVN to_TO eliminate_VVI the_AT blur_NN1 on_II the_AT owl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   25 <p> The Layers palette includes a second thumbnail on the right which shows the mask .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   25 <p>_Y The_AT Layers_NN2 palette_NN1 includes_VVZ a_AT1 second_MD_NNT1 thumbnail_NN1 on_II the_AT right_NN1 which_DDQ shows_VVZ the_AT mask_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   26 The mask is black and white : black for the owl and white in the background .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   26 The_AT mask_NN1 is_VBZ black_JJ and_CC white_JJ_NN1@ :_Y black_JJ for_IF the_AT owl_NN1 and_CC white_JJ_NN1@ in_II the_AT background_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   27 This is the essence of masking : " white reveals and black conceals .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   27 This_DD1 is_VBZ the_AT essence_NN1 of_IO masking_NN1 :_Y "_Y white_NN1@_JJ reveals_VVZ and_CC black_NN1@_JJ conceals_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   28 " The purpose of the layer is to blur .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   28 "_Y The_AT purpose_NN1 of_IO the_AT layer_NN1 is_VBZ to_TO blur_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   29 The purpose of the mask is to restrict the blur to the background .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   29 The_AT purpose_NN1 of_IO the_AT mask_NN1 is_VBZ to_TO restrict_VVI the_AT blur_NN1 to_II the_AT background_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   30 White reveals the blur , while black conceals the blur .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   30 White_NP1@_NN1@ reveals_VVZ the_AT blur_NN1 ,_Y while_CS black_NN1@_JJ conceals_VVZ the_AT blur_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   31 If the mask were 50% gray , then the mask would reveal 50% of the layer effect ( the blur ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   31 If_CS the_AT mask_NN1 were_VBDR 50%_NNU gray_JJ_NN1@ ,_Y then_RT the_AT mask_NN1 would_VM reveal_VVI 50%_NNU of_IO the_AT layer_NN1 effect_NN1 (_Y the_AT blur_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   32 <p> You can add a mask to any layer .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   32 <p>_Y You_PPY can_VM add_VVI a_AT1 mask_NN1 to_II any_DD layer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   33 Either click on the mask icon which is third from the left at the bottom of the Layers palette ( the gray rectangle containing the white circle ) , or use the command All " mask is all white while a " ' Hide All ' " ( conceals ) mask is all black , Look carefully at the mask icon in Figure 2B and you 'll see there 's a double line around the mask icon .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   33 Either_DD1_RR click_NN1_VV0 on_II the_AT mask_NN1 icon_NN1 which_DDQ is_VBZ third_MD from_II the_AT left_JJ_NN1@ at_II the_AT bottom_NN1 of_IO the_AT Layers_NN2 palette_NN1 (_Y the_AT gray_JJ rectangle_NN1 containing_VVG the_AT white_JJ circle_NN1 )_Y ,_Y or_CC use_VV0 the_AT command_NN1 All_DB "_Y mask_NN1 is_VBZ all_DB_RR@ white_JJ while_CS a_AT1 "_Y '_GE_"@ Hide_NN1@_VV0 All_RR@ '_GE "_Y (_Y conceals_VVZ )_Y mask_NN1 is_VBZ all_DB_RR@ black_JJ ,_Y Look_VV0 carefully_RR at_II the_AT mask_NN1 icon_NN1 in_II Figure_NN1 2B_FO and_CC you_PPY 'll_VM see_VVI there_EX 's_VBZ a_AT1 double_JJ line_NN1 around_II the_AT mask_NN1 icon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   34 This means that the mask is " active ; " this means that painting black on the image applies the paint to the mask , thereby concealing the layer effect at the location where the black paint is applied .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   34 This_DD1 means_VVZ that_CST the_AT mask_NN1 is_VBZ "_Y active_JJ ;_Y "_Y this_DD1 means_VVZ that_DD1_CST painting_NN1_VVG@ black_NN1@_JJ on_II the_AT image_NN1 applies_VVZ the_AT paint_NN1 to_II the_AT mask_NN1 ,_Y thereby_RR concealing_VVG the_AT layer_NN1 effect_NN1 at_II the_AT location_NN1 where_CS_RRQ the_AT black_JJ paint_NN1 is_VBZ applied_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   35 Single clicking on the image icon to the left of the mask icon ( in the Layers palette ) places the double line around the image , signifying the image is now " active .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   35 Single_JJ_NN1@ clicking_NN1@_VVG on_II the_AT image_NN1 icon_NN1 to_II the_AT left_NN1@_JJ of_IO the_AT mask_NN1 icon_NN1 (_Y in_II the_AT Layers_NN2 palette_NN1 )_Y places_VVZ@ the_AT double_JJ line_NN1 around_II the_AT image_NN1 ,_Y signifying_VVG the_AT image_NN1 is_VBZ now_RT "_Y active_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   36 " Painting black on the image when the images are active applies the paint to the image ( and not to the mask ) .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   36 "_Y Painting_NN1_VVG@ black_NN1@_JJ on_II the_AT image_NN1 when_CS_RRQ the_AT images_NN2 are_VBR active_JJ applies_VVZ the_AT paint_NN1 to_II the_AT image_NN1 (_Y and_CC not_XX to_II the_AT mask_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   37 Note that masks are automatically applied whenever you add any type of Adjustment Layer ; both Figure 1B and Figure 2B illustrate this behavior .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   37 Note_VV0 that_CST masks_NN2 are_VBR automatically_RR applied_VVN_JJ whenever_RRQV you_PPY add_VV0 any_DD type_NN1 of_IO Adjustment_NN1 Layer_NN1 ;_Y both_DB2_RR Figure_NN1_VV0% 1B_FO and_CC Figure_NN1 2B_FO illustrate_VV0 this_DD1 behavior_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   38 <p> Figure 3 is another example of mask use .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   38 <p>_Y Figure_NN1 3_MC is_VBZ another_DD1 example_NN1 of_IO mask_NN1 use_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   39 The subject of this image is the blooming rhododendrons in the the viewer 's attention to that important component of the image .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   39 The_AT subject_NN1 of_IO this_DD1 image_NN1 is_VBZ the_AT blooming_JJ rhododendrons_NN2 in_II the_AT the_AT viewer_NN1 's_GE attention_NN1 to_II that_DD1 important_JJ component_NN1 of_IO the_AT image_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   40 Applying the same sharpening to the entire image would have been less successful .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   40 Applying_VVG the_AT same_DA sharpening_NN1@_VVG_JJ@ to_II the_AT entire_JJ image_NN1 would_VM have_VHI been_VBN less_RGR successful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   41 <p> Any mention of products or services in this article or anywhere else in the PSA Journal does not constitute an endorsement or approval of those items .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   41 <p>_Y Any_DD mention_NN1 of_IO products_NN2 or_CC services_NN2 in_II this_DD1 article_NN1 or_CC anywhere_RL else_RR in_II the_AT PSA_NP1 Journal_NN1 does_VDZ not_XX constitute_VVI an_AT1 endorsement_NN1 or_CC approval_NN1 of_IO those_DD2 items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   42 <p> PHOTO ( COLOR ) : Figure 1A is a morning sunrise made in Voyageurs National Park in northern Minnesota .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   42 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Figure_NN1 1A_FO is_VBZ a_AT1 morning_NNT1 sunrise_NN1 made_VVN_VVD in_II Voyageurs_NP1_NN2 National_JJ Park_NN1 in_II northern_JJ Minnesota_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   43 Figure 1B shows the Layers palette in which a Curves and sharpening layer have been added .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   43 Figure_NN1_VV0@ 1B_FO shows_VVZ the_AT Layers_NN2 palette_NN1 in_II which_DDQ a_AT1 Curves_NN2 and_CC sharpening_VVG_JJ@ layer_NN1 have_VH0 been_VBN added_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   44 The sharpening parameters were 300 Amount , 1.2 Radius , and 6 Threshold .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   44 The_AT sharpening_JJ@_NN1@ parameters_NN2 were_VBDR 300_MC Amount_NN1 ,_Y 1.2_MC Radius_NN1 ,_Y and_CC 6_MC Threshold_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   45 <p> PHOTO ( COLOR ) : Figure 2A is a Barred Owl shot at the SOAR ( Save our American Raptors ) care facility near Chicago .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   45 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Figure_NN1 2A_FO is_VBZ a_AT1 Barred_VVN Owl_NN1 shot_VVN_VVD_NN1 at_II the_AT SOAR_VV0 (_Y Save_VV0 our_APPGE American_JJ Raptors_NN2_NP1 )_Y care_VV0_NN1 facility_NN1 near_II Chicago_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   46 Figure 2B shows an added Curves and Blur layers .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   46 Figure_NN1_VV0@ 2B_FO shows_VVZ an_AT1 added_JJ Curves_NN2 and_CC Blur_VV0_NN1 layers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   47 A mask has been added to the Blur layer which limits the application of the blur to the background , which draws the viewer 's attention to the owl .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   47 A_AT1 mask_NN1 has_VHZ been_VBN added_VVN to_II the_AT Blur_NN1 layer_NN1 which_DDQ limits_VVZ the_AT application_NN1 of_IO the_AT blur_NN1 to_II the_AT background_NN1 ,_Y which_DDQ draws_VVZ the_AT viewer_NN1 's_GE attention_NN1 to_II the_AT owl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   48 <p> PHOTO ( COLOR ) : Figure 3 : The Redwoods Parks in California , when the rhododendrons mask on the sharpening layer limits the sharpening to the blooms .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   48 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Figure_NN1 3_MC :_Y The_AT Redwoods_NP2 Parks_NN2 in_II California_NP1 ,_Y when_RRQ the_AT rhododendrons_NN2 mask_NN1 on_II the_AT sharpening_JJ@_NN1@ layer_NN1 limits_VVZ the_AT sharpening_NN1@_JJ@_VVG to_II the_AT blooms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  A    0   49 Sharpening all of the foliage would have been less effective <p> By Fred Drury , Wheaton , IL <p>
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071056 COCA  B    0   49 Sharpening_VVG all_DB of_IO the_AT foliage_NN1 would_VM have_VHI been_VBN less_RGR effective_JJ <p>_Y By_II Fred_NP1 Drury_NP1 ,_Y Wheaton_NP1 ,_Y IL_FW <p>_Y

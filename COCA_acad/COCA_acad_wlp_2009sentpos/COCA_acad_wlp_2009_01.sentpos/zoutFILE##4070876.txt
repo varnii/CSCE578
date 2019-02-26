@@ -1,0 +1,146 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    0 As I write this column , my term of office is half over , but as you read it , it will be three-fourths over .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    0 As_CSA I_PPIS1 write_VV0 this_DD1 column_NN1 ,_Y my_APPGE term_NN1 of_IO office_NN1 is_VBZ half_DB_RR@ over_RP ,_Y but_CCB as_CSA you_PPY read_VV0 it_PPH1 ,_Y it_PPH1 will_VM be_VBI three-fourths_MF over_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    1 In early December , I was at the NEHA office in Denver .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    1 In_II early_JJ December_NPM1 ,_Y I_PPIS1 was_VBDZ at_II the_AT NEHA_NN1_NP1 office_NN1 in_II Denver_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    2 Three things were going on .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    2 Three_MC things_NN2 were_VBDR going_VVG on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    3 President-elect Roberts and I did an evaluation of the executive director and NEHA ; two new board members had orientation ; and the board held a teleconference .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    3 President-elect_NNB Roberts_NP1 and_CC I_PPIS1 did_VDD an_AT1 evaluation_NN1 of_IO the_AT executive_NN1_JJ@ director_NN1 and_CC NEHA_NP1_NN1 ;_Y two_MC new_JJ board_NN1 members_NN2 had_VHD orientation_NN1 ;_Y and_CC the_AT board_NN1 held_VVD_VVN a_AT1 teleconference_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    4 <p> As we were talking about the state of NEHA , the comment was made that in these difficult times , NEHA is more important than ever .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    4 <p>_Y As_CSA we_PPIS2 were_VBDR talking_VVG about_II the_AT state_NN1 of_IO NEHA_NP1_NN1 ,_Y the_AT comment_NN1 was_VBDZ made_VVN that_CST in_II these_DD2 difficult_JJ times_NNT2 ,_Y NEHA_NP1_NN1 is_VBZ more_RGR important_JJ than_CSN ever_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    5 It offers job listings , for those who need or want to look for a new position .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    5 It_PPH1 offers_VVZ@ job_NN1 listings_NN2 ,_Y for_IF those_DD2 who_PNQS need_VV0 or_CC want_VV0 to_TO look_VVI for_IF a_AT1 new_JJ position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    6 It offers free online continuing education to keep credentials up-to-date , or just to improve your knowledge .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    6 It_PPH1 offers_VVZ@ free_JJ online_JJ_RR continuing_JJ education_NN1 to_TO keep_VVI credentials_NN2 up-to-date_JJ ,_Y or_CC just_RR_JJ@ to_TO improve_VVI your_APPGE knowledge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    7 Both of these are helpful in obtaining or keeping a job .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    7 Both_DB2 of_IO these_DD2 are_VBR helpful_JJ in_II obtaining_VVG or_CC keeping_VVG a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    8 NEHA also offers credentials .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    8 NEHA_NP1_NN1 also_RR offers_VVZ@ credentials_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0    9 Again , these are helpful for keeping or obtaining a job .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0    9 Again_RT ,_Y these_DD2 are_VBR helpful_JJ for_IF keeping_VVG or_CC obtaining_VVG a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   10 <p> NEHA is doing very well now .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   10 <p>_Y NEHA_NP1_NN1 is_VBZ doing_VDG very_RG well_RR now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   11 Those of you who have heard me speak at an affiliate conference or who about .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   11 Those_DD2 of_IO you_PPY who_PNQS have_VH0 heard_VVN me_PPIO1 speak_VVI at_II an_AT1 affiliate_NN1 conference_NN1 or_CC who_PNQS about_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   12 We are aware , however , that the current difficult times will undoubtedly affect NEHA to some extent , and we are prepared for that eventuality .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   12 We_PPIS2 are_VBR aware_JJ ,_Y however_RR ,_Y that_CST the_AT current_JJ difficult_JJ times_NNT2 will_VM undoubtedly_RR affect_VVI NEHA_NN1_NP1 to_II some_DD extent_NN1 ,_Y and_CC we_PPIS2 are_VBR prepared_VVN for_IF that_DD1 eventuality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   13 <p> In spite of the doom and gloom , NEHA is a bright spot on our horizon .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   13 <p>_Y In_II31 spite_II32 of_II33 the_AT doom_NN1 and_CC gloom_NN1 ,_Y NEHA_NP1_NN1 is_VBZ a_AT1 bright_JJ spot_NN1 on_II our_APPGE horizon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   14 <p> L : The Pitch Now we 're getting to the equilateral triangle .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   14 <p>_Y L_ZZ1_NP1@ :_Y The_AT Pitch_NN1 Now_RT we_PPIS2 're_VBR getting_VVG to_II the_AT equilateral_JJ_NN1 triangle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   15 This concept has always been rather intuitive to me , but it really came home during the visit to the NEHA office in Denver .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   15 This_DD1 concept_NN1 has_VHZ always_RR been_VBN rather_RG intuitive_JJ to_II me_PPIO1 ,_Y but_CCB it_PPH1 really_RR came_VVD home_RL during_II the_AT visit_NN1 to_II the_AT NEHA_NN1_NP1 office_NN1 in_II Denver_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   16 <p> An equilateral triangle has three equal sides .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   16 <p>_Y An_AT1 equilateral_JJ_NN1 triangle_NN1 has_VHZ three_MC equal_JJ sides_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   17 ( See , I did remember something from 10th grade plane geometry !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   17 (_Y See_VV0 ,_Y I_PPIS1 did_VDD remember_VVI something_PN1 from_II 10th_MD grade_NN1 plane_NN1 geometry_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   18 ) Three points determine a plane ; three legs make a stable chair or stool ; there are three separate , but equal , parts of the federal government , and for that matter , most local governments .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   18 )_Y Three_MC points_NN2 determine_VV0 a_AT1 plane_NN1 ;_Y three_MC legs_NN2 make_VV0 a_AT1 stable_JJ chair_NN1 or_CC stool_NN1 ;_Y there_EX are_VBR three_MC separate_JJ_VV0 ,_Y but_CCB equal_JJ ,_Y parts_NN2 of_IO the_AT federal_JJ government_NN1 ,_Y and_CC for_IF that_DD1 matter_NN1 ,_Y most_RGT_DAT local_JJ governments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   19 <p> Well , NEHA has three equal parts : the members , the staff , and the board of directors .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   19 <p>_Y Well_RR ,_Y NEHA_NP1_NN1 has_VHZ three_MC equal_JJ parts_NN2 :_Y the_AT members_NN2 ,_Y the_AT staff_NN ,_Y and_CC the_AT board_NN1 of_IO directors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   20 Each of these three parts contributes to the increasing greatness and influence of NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   20 Each_DD1 of_IO these_DD2 three_MC parts_NN2 contributes_VVZ to_II the_AT increasing_JJ greatness_NN1 and_CC influence_NN1 of_IO NEHA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   21 Let me illustrate with my week in Denver Denver , 1 had to make an appointment for a person to be a liaison with a federal agency .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   21 Let_VV0 me_PPIO1 illustrate_VVI with_IW my_APPGE week_NNT1 in_II Denver_NP1 Denver_NP1 ,_Y 1_MC1 had_VHN@_VHD to_TO make_VVI an_AT1 appointment_NN1 for_IF a_AT1 person_NN1 to_TO be_VBI a_AT1 liaison_NN1 with_IW a_AT1 federal_JJ agency_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   22 We put our heads together and quickly came up with a list of very qualified members .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   22 We_PPIS2 put_VV0_VVD our_APPGE heads_NN2 together_RL and_CC quickly_RR came_VVD up_RP with_IW a_AT1 list_NN1 of_IO very_RG qualified_JJ members_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   23 We narrowed this list down and asked one of our members to serve in this position .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   23 We_PPIS2 narrowed_VVD this_DD1 list_NN1 down_RP and_CC asked_VVD one_MC1 of_IO our_APPGE members_NN2 to_TO serve_VVI in_II_RP@ this_DD1 position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   24 Without hesitation and with pleasure at being able to represent an organization with the reputation of NEHA , he agreed to serve .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   24 Without_IW hesitation_NN1 and_CC with_IW pleasure_NN1 at_II being_VBG able_JK to_TO represent_VVI an_AT1 organization_NN1 with_IW the_AT reputation_NN1 of_IO NEHA_NP1_NN1 ,_Y he_PPHS1 agreed_VVD to_TO serve_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   25 In selecting section chairs and vice-chairs , the process was difficult because we have so many qualified people who want to serve but we have a limited number of positions to fill .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   25 In_II selecting_VVG section_NN1 chairs_NN2 and_CC vice-chairs_NN2 ,_Y the_AT process_NN1 was_VBDZ difficult_JJ because_CS we_PPIS2 have_VH0 so_RG many_DA2 qualified_JJ people_NN who_PNQS want_VV0 to_TO serve_VVI but_CCB we_PPIS2 have_VH0 a_AT1 limited_JJ number_NN1 of_IO positions_NN2 to_TO fill_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   26 All the members that I 've had the pleasure of appointing to one position or another have been excellent professionals and eager to represent NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   26 All_DB the_AT members_NN2 that_CST I_PPIS1 've_VH0 had_VHN the_AT pleasure_NN1 of_IO appointing_VVG to_II one_MC1 position_NN1 or_CC another_DD1 have_VH0 been_VBN excellent_JJ professionals_NN2 and_CC eager_JJ to_TO represent_VVI NEHA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   27 I can assure you that it is not my persuasive charm that convinces them to serve .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   27 I_PPIS1 can_VM assure_VVI you_PPY that_CST it_PPH1 is_VBZ not_XX my_APPGE persuasive_JJ charm_NN1 that_CST_DD1 convinces_VVZ them_PPHO2 to_TO serve_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   28 It is the opportunity to represent an association with the reputation and influence that NEHA has .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   28 It_PPH1 is_VBZ the_AT opportunity_NN1 to_TO represent_VVI an_AT1 association_NN1 with_IW the_AT reputation_NN1 and_CC influence_VV0 that_CST_DD1 NEHA_NP1_NN1 has_VHZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   29 It never ceases to amaze me how many members donate significant amounts of time to NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   29 It_PPH1 never_RR ceases_VVZ to_TO amaze_VVI me_PPIO1 how_RGQ@ many_DA2 members_NN2 donate_VV0 significant_JJ amounts_NN2 of_IO time_NNT1 to_II NEHA_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   30 They may be working serving as subject matter experts developing exam questions , serving on a committee , serving as a liaison , serving as a section chair or vice-chair , presenting at a conference , or helping in numerous other ways to serve NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   30 They_PPHS2 may_VM be_VBI working_VVG serving_VVG as_RG@_CSA_II@ subject_JJ@_NN1 matter_NN1 experts_NN2 developing_VVG_JJ exam_NN1 questions_NN2 ,_Y serving_VVG on_II_RP@ a_AT1 committee_NN1 ,_Y serving_VVG as_II a_AT1 liaison_NN1 ,_Y serving_VVG as_II a_AT1 section_NN1 chair_NN1 or_CC vice-chair_NN1 ,_Y presenting_VVG at_II a_AT1 conference_NN1 ,_Y or_CC helping_VVG_NN1 in_II numerous_JJ other_JJ ways_NN2 to_TO serve_VVI NEHA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   31 My thanks to all of you !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   31 My_APPGE thanks_NN2 to_II all_DB of_IO you_PPY !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   32 <p> The November 2008 journal of Environmental Health has a listing of the members who have belonged to NEHA for 25 years or more .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   32 <p>_Y The_AT November_NPM1 2008_MC journal_NN1 of_IO Environmental_JJ Health_NN1 has_VHZ a_AT1 listing_NN1 of_IO the_AT members_NN2 who_PNQS have_VH0 belonged_VVN to_II NEHA_NN1_NP1 for_IF 25_MC years_NNT2 or_CC more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   33 There are 503 of them !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   33 There_EX are_VBR 503_MC of_IO them_PPHO2 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   34 More than 10% of our members have belonged to NEHA for 25 years or more .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   34 More_DAR_RRR than_CSN 10%_NNU of_IO our_APPGE members_NN2 have_VH0 belonged_VVN to_II NEHA_NN1_NP1 for_IF 25_MC years_NNT2 or_CC more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   35 To me , that is just another example of the professional dedication of the members of NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   35 To_II me_PPIO1 ,_Y that_DD1_CST is_VBZ just_RR another_DD1 example_NN1 of_IO the_AT professional_JJ dedication_NN1 of_IO the_AT members_NN2 of_IO NEHA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   36 <p> L : The Staff As a part of NEHAs evaluation , we discuss the staff .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   36 <p>_Y L_ZZ1_NP1@ :_Y The_AT Staff_NN As_II_CSA a_AT1 part_NN1 of_IO NEHAs_NP2_NN2 evaluation_NN1 ,_Y we_PPIS2 discuss_VV0 the_AT staff_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   37 Also , as a part of the new board member orientation , many of the staff give presentations on their programs to the new board members , as well as to the presidentelect and the president .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   37 Also_RR ,_Y as_CSA_II a_AT1 part_NN1 of_IO the_AT new_JJ board_NN1 member_NN1 orientation_NN1 ,_Y many_DA2 of_IO the_AT staff_NN give_VV0 presentations_NN2 on_II their_APPGE programs_NN2 to_II the_AT new_JJ board_NN1 members_NN2 ,_Y as_RG_II31 well_RR_II32 as_CSA_II33 to_II the_AT presidentelect_NN1 and_CC the_AT president_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   38 The professionalism , enthusiasm , creativity , and energy of the staff are truly awesome .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   38 The_AT professionalism_NN1 ,_Y enthusiasm_NN1 ,_Y creativity_NN1 ,_Y and_CC energy_NN1 of_IO the_AT staff_NN are_VBR truly_RR awesome_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   39 One of the problems is that the in them , that we 're always running late because we want to interact with the staff on their programs .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   39 One_MC1 of_IO the_AT problems_NN2 is_VBZ that_CST the_AT in_II them_PPHO2 ,_Y that_CST we_PPIS2 're_VBR always_RR running_VVG_JJ late_RR_JJ because_CS we_PPIS2 want_VV0 to_TO interact_VVI with_IW the_AT staff_NN on_II their_APPGE programs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   40 <p> The staff is where the rubber meets the road .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   40 <p>_Y The_AT staff_NN is_VBZ where_RRQ_CS the_AT rubber_NN1 meets_VVZ the_AT road_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   41 No matter what the members do , or what the board of directors wants done , it only gets done , and done well , because of the dedication of the staff .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   41 No_XX matter_DDQV32 what_DDQV33 the_AT members_NN2 do_VD0 ,_Y or_CC what_DDQ the_AT board_NN1 of_IO directors_NN2 wants_VVZ done_VDN ,_Y it_PPH1 only_RR gets_VVZ done_VDN ,_Y and_CC done_VDN well_RR ,_Y because_II21 of_II22 the_AT dedication_NN1 of_IO the_AT staff_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   42 <p> As I speak to affiliates and do the other things that a NEHA president does , the staff is always ready to help out and make me look good , which is not the easiest thing to do !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   42 <p>_Y As_CSA I_PPIS1 speak_VV0 to_II affiliates_NN2 and_CC do_VD0 the_AT other_JJ things_NN2 that_CST a_AT1 NEHA_NN1 president_NN1 does_VDZ ,_Y the_AT staff_NN is_VBZ always_RR ready_JJ to_TO help_VVI out_RP and_CC make_VVI me_PPIO1 look_NN1 good_JJ_NN1% ,_Y which_DDQ is_VBZ not_XX the_AT easiest_JJT thing_NN1 to_TO do_VDI !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   43 1 personally appreciate that , but more importantly , it makes NEHA look good , or , more correctly , better .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   43 1_MC1 personally_RR appreciate_VV0 that_CST_DD1 ,_Y but_CCB more_RGR importantly_RR ,_Y it_PPH1 makes_VVZ NEHA_NP1_NN1 look_VVI good_JJ ,_Y or_CC ,_Y more_RGR correctly_RR ,_Y better_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   44 <p> For most of the members , very little interaction with the staff occurs , so members do n't realize what an important side of the triangle the staff is .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   44 <p>_Y For_IF most_DAT of_IO the_AT members_NN2 ,_Y very_RG little_DA1 interaction_NN1 with_IW the_AT staff_NN occurs_VVZ ,_Y so_CS@_RR members_NN2 do_VD0 n't_XX realize_VVI what_DDQ an_AT1 important_JJ side_NN1 of_IO the_AT triangle_NN1 the_AT staff_NN is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   45 Believe me , they are the best !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   45 Believe_VV0 me_PPIO1 ,_Y they_PPHS2 are_VBR the_AT best_JJT !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   46 <p> L : The Board of Directors I 've talked about the board of directors in previous columns , but I would be remiss not in Denver brought home the importance and the quality of the board .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   46 <p>_Y L_ZZ1_NP1@ :_Y The_AT Board_NN1 of_IO Directors_NN2 I_PPIS1 've_VH0 talked_VVN about_II the_AT board_NN1 of_IO directors_NN2 in_II previous_JJ columns_NN2 ,_Y but_CCB I_PPIS1 would_VM be_VBI remiss_JJ not_XX in_II Denver_NP1 brought_VVD home_RL the_AT importance_NN1 and_CC the_AT quality_NN1 of_IO the_AT board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   47 First , we had two new board members getting oriented for two full days .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   47 First_MD ,_Y we_PPIS2 had_VHD two_MC new_JJ board_NN1 members_NN2 getting_VVG oriented_JJ@_VVD_VVN@ for_IF two_MC full_JJ days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   48 You do n't realize what a complicated association NEHA is until you have one of these orientations .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   48 You_PPY do_VD0 n't_XX realize_VVI what_DDQ a_AT1 complicated_JJ association_NN1 NEHA_NN1_NP1 is_VBZ until_CS you_PPY have_VH0 one_MC1 of_IO these_DD2 orientations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   49 Things are changing rapidly at NEHA , so there is much to learn .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   49 Things_NN2 are_VBR changing_VVG rapidly_RR at_II NEHA_NP1_NN1 ,_Y so_CS@_RR there_EX is_VBZ much_DA1_RR to_TO learn_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   50 The new board members both were very attentive and had a lot of dialogue with the staff during these presentations .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   50 The_AT new_JJ board_NN1 members_NN2 both_DB2_RR were_VBDR very_RG attentive_JJ and_CC had_VHD_VHN@ a_AT1 lot_NN1 of_IO dialogue_NN1 with_IW the_AT staff_NN during_II these_DD2 presentations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   51 As the whole board met in a teleconference , I again appreciated the strength of this third side of the equilateral triangle .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   51 As_II_CSA the_AT whole_JJ board_NN1 met_VVN_VVD in_II_RP@ a_AT1 teleconference_NN1 ,_Y I_PPIS1 again_RT appreciated_VVD the_AT strength_NN1 of_IO this_DD1 third_MD side_NN1 of_IO the_AT equilateral_JJ_NN1 triangle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   52 We discussed and made decisions on many complicated items .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   52 We_PPIS2 discussed_VVD and_CC made_VVD_VVN decisions_NN2 on_II many_DA2 complicated_JJ items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   53 The board had read and understood the information that had been sent to them ahead of time .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   53 The_AT board_NN1 had_VHD read_VVN and_CC understood_VVN the_AT information_NN1 that_CST had_VHD been_VBN sent_VVN to_II them_PPHO2 ahead_II21 of_II22 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   54 Some of it had been sent out only a day or two before the meeting , too .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   54 Some_DD of_IO it_PPH1 had_VHD been_VBN sent_VVN out_RP only_RR a_AT1 day_NNT1 or_CC two_MC before_II_CS the_AT meeting_NN1 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   55 The agenda items were in a binder about one inch thick -- and this was one of the " minor " board meetings !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   55 The_AT agenda_NN1 items_NN2 were_VBDR in_II a_AT1 binder_NN1 about_II one_MC1 inch_NNU1 thick_JJ --_NN1_JJ and_CC this_DD1 was_VBDZ one_MC1 of_IO the_AT "_Y minor_JJ "_Y board_NN1 meetings_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   56 The board discussed each item clearly and concisely , with respect for each other 's positions , of NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   56 The_AT board_NN1 discussed_VVD_VVN each_DD1 item_NN1 clearly_RR and_CC concisely_RR ,_Y with_IW respect_NN1 for_IF each_PPX221 other_PPX222 's_GE positions_NN2 ,_Y of_IO NEHA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   57 <p> Being a board member entails a lot of e-mails and a lot of reading .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   57 <p>_Y Being_VBG a_AT1 board_NN1 member_NN1 entails_VVZ a_AT1 lot_NN1 of_IO e-mails_NN2 and_CC a_AT1 lot_NN1 of_IO reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   58 The board members are all busy people , and they dedicate themselves to this work for the good of the environmental health profession .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   58 The_AT board_NN1 members_NN2 are_VBR all_DB_RR@ busy_JJ people_NN ,_Y and_CC they_PPHS2 dedicate_VV0 themselves_PPX2 to_II this_DD1 work_NN1 for_IF the_AT good_JJ_NN1% of_IO the_AT environmental_JJ health_NN1 profession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   59 I 've been on the board for 17 years , and the discussions have always been polite and collegial .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   59 I_PPIS1 've_VH0 been_VBN on_II the_AT board_NN1 for_IF 17_MC years_NNT2 ,_Y and_CC the_AT discussions_NN2 have_VH0 always_RR been_VBN polite_JJ and_CC collegial_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   60 I 've never seen personal attacks or finger pointing or " I told you so " sorts of comments .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   60 I_PPIS1 've_VH0 never_RR seen_VVN personal_JJ attacks_NN2 or_CC finger_NN1 pointing_VVG or_CC "_Y I_PPIS1 told_VVD you_PPY so_RR_CS@ "_Y sorts_NN2_VVZ@ of_IO comments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   61 It would be nice if many of our elected officials could do their jobs as well as the NEHA board members do !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   61 It_PPH1 would_VM be_VBI nice_JJ_RR@ if_CS many_DA2 of_IO our_APPGE elected_JJ@ officials_NN2 could_VM do_VDI their_APPGE jobs_NN2 as_II31 well_II32 as_II33 the_AT NEHA_NN1_NP1 board_NN1 members_NN2 do_VD0 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   62 <p> The board members work on a lot of committees and projects .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   62 <p>_Y The_AT board_NN1 members_NN2 work_VV0 on_II_RP@ a_AT1 lot_NN1 of_IO committees_NN2 and_CC projects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   63 They are always willing to help with anything that needs to be done for NEHA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   63 They_PPHS2 are_VBR always_RR willing_JJ to_TO help_VVI with_IW anything_PN1 that_CST needs_VVZ to_TO be_VBI done_VDN for_IF NEHA_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   64 They are not a figurehead board ; they are a working board .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   64 They_PPHS2 are_VBR not_XX a_AT1 figurehead_NN1 board_NN1 ;_Y they_PPHS2 are_VBR a_AT1 working_JJ@ board_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   65 Each board member makes at least a three-year commitment .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   65 Each_DD1 board_NN1 member_NN1 makes_VVZ at_RR21 least_RR22 a_AT1 three-year_JJ commitment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   66 <p> Well , that concludes my lecture on equilateral triangles .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   66 <p>_Y Well_RR ,_Y that_DD1_CST concludes_VVZ my_APPGE lecture_NN1 on_II equilateral_JJ_NN1 triangles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   67 There will be no quiz .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   67 There_EX will_VM be_VBI no_AT quiz_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   68 You all work too hard for that .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   68 You_PPY all_DB_RR@ work_VV0 too_RG hard_RR_JJ for_IF that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   69 <p> L : A Final Note After you you have n't already made them , to attend NEHA 's 73rd Annual Educational Conference ( AEC ) Exhibition in Atlanta , Georgia , June 21-24 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   69 <p>_Y L_ZZ1_NP1@ :_Y A_ZZ1_AT1@ Final_JJ Note_NN1 After_CS you_PPY you_PPY have_VH0 n't_XX already_RR made_VVN them_PPHO2 ,_Y to_TO attend_VVI NEHA_NP1_NN1 's_GE 73rd_MD Annual_JJ Educational_JJ Conference_NN1 (_Y AEC_NP1 )_Y Exhibition_NN1 in_II Atlanta_NP1 ,_Y Georgia_NP1 ,_Y June_NPM1 21-24_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   70 It 's only three months away !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   70 It_PPH1 's_VBZ only_RR three_MC months_NNT2 away_RL !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   71 <p> ... the current difficult times will undoubtedly affect NEHA to some extent , and we are prepared for that eventuality .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   71 <p>_Y ..._... the_AT current_JJ difficult_JJ times_NNT2 will_VM undoubtedly_RR affect_VVI NEHA_NN1_NP1 to_II some_DD extent_NN1 ,_Y and_CC we_PPIS2 are_VBR prepared_VVN for_IF that_DD1 eventuality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  A    0   72 <p> By Dick Pantages , R.E.H.S. <p>
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070876 COCA  B    0   72 <p>_Y By_II Dick_NP1 Pantages_NP2 ,_Y R.E.H.S._NP1 <p>_Y

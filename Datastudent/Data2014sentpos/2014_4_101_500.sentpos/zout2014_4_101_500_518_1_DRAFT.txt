@@ -1,0 +1,130 @@
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    0 William Xu Dr. Meyer English 101 11/09/2014 The Catcher in the Rye " The catcher in the rye " , a famous book written by J.D. Salinger , has impacted several generations since 1950s .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    0 William_NP1 Xu_NP1 Dr._NNB Meyer_NP1 English_NN1 101_MC 11/09/2014_MF The_AT Catcher_NN1 in_II the_AT Rye_NP1 "_" The_AT catcher_NN1 in_II the_AT rye_NN1 "_" ,_, a_AT1 famous_JJ book_NN1 written_VVN by_II J.D._NP1 Salinger_NP1 ,_, has_VHZ impacted_VVN several_DA2 generations_NN2 since_II@ 1950s_MC2 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    1 The book shows the " artificial formula " of New York after America won the World War Two .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    1 The_AT book_NN1 shows_VVZ the_AT "_" artificial_JJ formula_NN1 "_" of_IO New_NP1 York_NP1 after_II America_NP1 won_VVD the_AT World_NN1 War_NN1 Two_MC ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    2 Most people were Utilitarianism in that time .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    2 Most_DAT people_NN were_VBDR Utilitarianism_NN1 in_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    3 The only thing that remained in their spirits is a vast wasteland , and no one even cared about others .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    3 The_AT only_JJ thing_NN1 that_CST remained_VVD in_II their_APPGE spirits_NN2 is_VBZ a_AT1 vast_JJ wasteland_NN1 ,_, and_CC no_PN121 one_PN122 even_RR cared_VVN about_II others_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    4 The most impacted part for most readers is when Holden told Phoebe what he wants to be .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    4 The_AT most_RGT impacted_JJ part_NN1 for_IF most_DAT readers_NN2 is_VBZ when_RRQ Holden_NP1 told_VVD Phoebe_NP1 what_DDQ he_PPHS1 wants_VVZ to_TO be_VBI ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    5 He wants to be a catcher in the rye without any adult , and just for the children .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    5 He_PPHS1 wants_VVZ to_TO be_VBI a_AT1 catcher_NN1 in_II the_AT rye_NN1 without_IW any_DD adult_NN1 ,_, and_CC just_RR for_IF the_AT children_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    6 What a moral reprobate society that can make a teenage be despaired to it .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    6 What_DDQ a_AT1 moral_JJ reprobate_JJ society_NN1 that_CST can_VM make_VVI a_AT1 teenage_JJ be_VBI despaired_VVN to_II it_PPH1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    7 Although Holden spoke dirty words a lot , contrast to the adults in society , the way he acts is much more innocent and pure .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    7 Although_CS Holden_NP1 spoke_VVD dirty_JJ words_NN2 a_RR21@ lot_RR22 ,_, contrast_NN1 to_II the_AT adults_NN2 in_II society_NN1 ,_, the_AT way_NN1 he_PPHS1 acts_VVZ is_VBZ much_RR more_RGR innocent_JJ and_CC pure_JJ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    8 There are 3 scenes that reflect the reprobate of the society .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    8 There_EX are_VBR 3_MC scenes_NN2 that_CST reflect_VV0 the_AT reprobate_NN1 of_IO the_AT society_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5    9 First , Holden found out the fake side of the teachers in the school .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5    9 First_MD ,_, Holden_NP1 found_VVD out_RP the_AT fake_JJ side_NN1 of_IO the_AT teachers_NN2 in_II the_AT school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   10 Second , Holden broke up with his girlfriend who is a sham girl .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   10 Second_MD ,_, Holden_NP1 broke_VVD up_RP with_IW his_APPGE girlfriend_NN1 who_PNQS is_VBZ a_AT1 sham_NN1 girl_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   11 Last scene is when he talks to Phoebe .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   11 Last_MD scene_NN1 is_VBZ when_RRQ he_PPHS1 talks_VVZ@ to_II Phoebe_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   12 First and foremost , in " The catcher in the rye " , Holden is written as a " bad " boy in school .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   12 First_MD and_CC foremost_JJT ,_, in_II "_" The_AT catcher_NN1 in_II the_AT rye_NN1 "_" ,_, Holden_NP1 is_VBZ written_VVN as_II a_AT1 "_" bad_JJ "_" boy_NN1 in_II school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   13 He speaks bad works a lot ; he got expelled four times ; he drinks , and he smokes .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   13 He_PPHS1 speaks_VVZ bad_JJ works_NN a_RR21@ lot_RR22 ;_; he_PPHS1 got_VVD expelled_VVN four_MC times_NNT2 ;_; he_PPHS1 drinks_VVZ@ ,_, and_CC he_PPHS1 smokes_VVZ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   14 He is an absolute terrible student or a teenage in everyone 's eyes , except his sister Phoebe .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   14 He_PPHS1 is_VBZ an_AT1 absolute_JJ terrible_JJ student_NN1 or_CC a_AT1 teenage_JJ in_II everyone_PN1 's_GE eyes_NN2 ,_, except_CS his_APPGE sister_NN1 Phoebe_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   15 As we can see from the story , the reason Holden is a complete 'bad' student in the school is he hates the teachers and principal of the school .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   15 As_CSA we_PPIS2 can_VM see_VVI from_II the_AT story_NN1 ,_, the_AT reason_NN1 Holden_NP1 is_VBZ a_AT1 complete_JJ 'bad'_JJ student_NN1 in_II the_AT school_NN1 is_VBZ he_PPHS1 hates_VVZ the_AT teachers_NN2 and_CC principal_NN1 of_IO the_AT school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   16 Many people may have the same experience .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   16 Many_DA2 people_NN may_VM have_VHI the_AT same_DA experience_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   17 Your grade would be very good if you liked the teacher of this subject .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   17 Your_APPGE grade_NN1 would_VM be_VBI very_RG good_JJ if_CS you_PPY liked_VVD the_AT teacher_NN1 of_IO this_DD1 subject_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   18 The environment around Holden influences his character be twisted .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   18 The_AT environment_NN1 around_II Holden_NP1 influences_VVZ@ his_APPGE character_NN1 be_VBI twisted_VVN ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   19 His teachers will only talk nicely to those parents who have a car .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   19 His_APPGE teachers_NN2 will_VM only_RR talk_VVI nicely_RR to_II those_DD2 parents_NN2 who_PNQS have_VH0 a_AT1 car_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   20 The principal even behaves more affectedly : preparing steaks for students only on Saturday when is the day before students ' parents pick them up .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   20 The_AT principal_NN1 even_RR behaves_VVZ more_RGR affectedly_RR :_: preparing_VVG steaks_NN2 for_IF students_NN2 only_RR on_II Saturday_NPD1 when_RRQ is_VBZ the_AT day_NNT1 before_CS students_NN2 '_GE parents_NN2 pick_VV0 them_PPHO2 up_RP ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   21 He disgusts the ethos in the school .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   21 He_PPHS1 disgusts_VVZ the_AT ethos_NN1 in_II the_AT school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   22 That is why Holden does not want to be in the school , and why he does not want to study in that environment .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   22 That_DD1 is_VBZ why_RRQ Holden_NP1 does_VDZ not_XX want_VVI to_TO be_VBI in_II the_AT school_NN1 ,_, and_CC why_RRQ he_PPHS1 does_VDZ not_XX want_VVI to_TO study_VVI in_II that_DD1 environment_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   23 The innocence of Holden is resisting the sham of the school .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   23 The_AT innocence_NN1 of_IO Holden_NP1 is_VBZ resisting_VVG the_AT sham_NN1 of_IO the_AT school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   24 He can not win to this big group , that is why he chose to 'escape' from the school .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   24 He_PPHS1 can_VM not_XX win_VVI to_II this_DD1 big_JJ group_NN1 ,_, that_DD1 is_VBZ why_RRQ he_PPHS1 chose_VVD to_TO 'escape'_VVI from_II the_AT school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   25 The scene in the school shows how fake the teachers in 1950s are , and how those teachers value are .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   25 The_AT scene_NN1 in_II the_AT school_NN1 shows_VVZ how_RRQ fake_VV0@ the_AT teachers_NN2 in_II 1950s_MC2 are_VBR ,_, and_CC how_RRQ those_DD2 teachers_NN2 value_NN1 are_VBR ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   26 Second , after Holden got expelled by Pencey Pre which is the last school he went according to the book , he went to see a play with his girlfriend Sally .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   26 Second_MD ,_, after_CS Holden_NP1 got_VVD expelled_VVN by_II Pencey_NP1 Pre_II which_DDQ is_VBZ the_AT last_MD school_NN1 he_PPHS1 went_VVD according_II21 to_II22 the_AT book_NN1 ,_, he_PPHS1 went_VVD to_TO see_VVI a_AT1 play_NN1 with_IW his_APPGE girlfriend_NN1 Sally_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   27 The reaction of Sally to the play made Holden feel disgusting .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   27 The_AT reaction_NN1 of_IO Sally_NP1 to_II the_AT play_NN1 made_VVD Holden_NP1 feel_VVI disgusting_JJ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   28 She praise how good is the play , but she was not even watching the play .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   28 She_PPHS1 praise_VV0 how_RGQ@ good_JJ is_VBZ the_AT play_NN1 ,_, but_CCB she_PPHS1 was_VBDZ not_XX even_RR watching_VVG the_AT play_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   29 She was looking around and pretending she is very attractive .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   29 She_PPHS1 was_VBDZ looking_VVG around_RP and_CC pretending_VVG she_PPHS1 is_VBZ very_RG attractive_JJ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   30 After watching the play , they went to ice skating .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   30 After_II watching_VVG the_AT play_NN1 ,_, they_PPHS2 went_VVD to_II ice_NN1 skating_VVG ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   31 The idea to ice skating is from Sally , but what she really wanted to do is wearing the super sexy dress from the ice skating place .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   31 The_AT idea_NN1 to_II ice_NN1 skating_NN1@ is_VBZ from_II Sally_NP1 ,_, but_CCB what_DDQ she_PPHS1 really_RR wanted_VVN to_TO do_VDI is_VBZ wearing_VVG the_AT super_JJ sexy_JJ dress_NN1 from_II the_AT ice_NN1 skating_VVG place_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   32 During all those process , Holden started disliking Sally .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   32 During_II all_DB those_DD2 process_VV0 ,_, Holden_NP1 started_VVD disliking_VVG Sally_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   33 He thinks she is an untruthful girl , and last , after he told what he wanted to do to another place .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   33 He_PPHS1 thinks_VVZ she_PPHS1 is_VBZ an_AT1 untruthful_JJ girl_NN1 ,_, and_CC last_MD ,_, after_CS he_PPHS1 told_VVD what_DDQ he_PPHS1 wanted_VVD to_TO do_VDI to_II another_DD1 place_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   34 Sally thinks that was stupid , and they had a big argument .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   34 Sally_NP1 thinks_VVZ that_CST was_VBDZ stupid_JJ ,_, and_CC they_PPHS2 had_VHD a_AT1 big_JJ argument_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   35 Finally , they broke up .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   35 Finally_RR ,_, they_PPHS2 broke_VVD up_RP ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   36 After all , we can see that Holden does not feel sad about breaking up with Sally .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   36 After_II all_DB ,_, we_PPIS2 can_VM see_VVI that_CST Holden_NP1 does_VDZ not_XX feel_VVI sad_JJ about_II breaking_VVG up_RP with_IW Sally_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   37 He even feels relaxed after broke up with her .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   37 He_PPHS1 even_RR feels_VVZ relaxed_JJ after_CS broke_VVD up_RP with_IW her_PPHO1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   38 Actually , from very beginning , Holden just disliked the way Sally talks and the untruth she behaves .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   38 Actually_RR ,_, from_II very_JJ@ beginning_NN1 ,_, Holden_NP1 just_RR disliked_VVD the_AT way_NN1 Sally_NP1 talks_NN2 and_CC the_AT untruth_NN1 she_PPHS1 behaves_VVZ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   39 They are not the same kind of people .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   39 They_PPHS2 are_VBR not_XX the_AT same_DA kind_NN1 of_IO people_NN ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   40 Sally is just like the hypocritical teachers , and Holden , is still trying to keep away from the corrupting like the adults in the society .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   40 Sally_NP1 is_VBZ just_RR like_II the_AT hypocritical_JJ teachers_NN2 ,_, and_CC Holden_NP1 ,_, is_VBZ still_RR trying_VVG to_TO keep_VVI away_II21 from_II22 the_AT corrupting_NN1@ like_II the_AT adults_NN2 in_II the_AT society_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   41 The scene that Holden broke up with his girlfriend expresses the fake relationship among people , and he tries to be an honest guy .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   41 The_AT scene_NN1 that_CST Holden_NP1 broke_VVD up_RP with_IW his_APPGE girlfriend_NN1 expresses_VVZ the_AT fake_JJ relationship_NN1 among_II people_NN ,_, and_CC he_PPHS1 tries_VVZ to_TO be_VBI an_AT1 honest_JJ guy_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   42 Last but not least , the most important scene which Holden talks to his innocent sister about his dream .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   42 Last_MD but_CCB not_XX least_RRT ,_, the_AT most_RGT important_JJ scene_NN1 which_DDQ Holden_NP1 talks_NN2 to_II his_APPGE innocent_JJ sister_NN1 about_II his_APPGE dream_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   43 " Anyway , I keep picturing all these little kids playing some game in this big field of rye and all .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   43 "_" Anyway_RR ,_, I_PPIS1 keep_VV0 picturing_VVG all_DB these_DD2 little_JJ kids_NN2 playing_VVG some_DD game_NN1 in_II this_DD1 big_JJ field_NN1 of_IO rye_NN1 and_CC all_DB ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   44 Thousands of little kids , and nobody 's around--nobody big , I mean--except me .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   44 Thousands_NNO2 of_IO little_JJ kids_NN2 ,_, and_CC nobody_PN1 's_VBZ around--nobody_PN1 big_JJ ,_, I_PPIS1 mean--except_VV0% me_PPIO1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   45 And I 'm standing on the edge of some crazy cliff .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   45 And_CC I_PPIS1 'm_VBM standing_VVG on_II the_AT edge_NN1 of_IO some_DD crazy_JJ cliff_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   46 What I have to do , I have to catch everybody if they start to go over the cliff--I mean if they 're running and they do n't look where they 're going I have to come out from somewhere and catch them .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   46 What_DDQ I_PPIS1 have_VH0 to_TO do_VDI ,_, I_PPIS1 have_VH0 to_TO catch_VVI everybody_PN1 if_CS they_PPHS2 start_VV0 to_TO go_VVI over_II the_AT cliff--I_NN1 mean_VV0 if_CSW@ they_PPHS2 're_VBR running_VVG and_CC they_PPHS2 do_VD0 n't_XX look_VVI where_RRQ they_PPHS2 're_VBR going_VVG I_PPIS1 have_VH0 to_TO come_VVI out_RP from_II somewhere_RL and_CC catch_VVI them_PPHO2 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   47 That 's all I 'd do all day .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   47 That_DD1 's_VBZ all_DB I_PPIS1 'd_VM do_VDI all_DB day_NNT1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   48 I 'd just be the catcher in the rye and all .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   48 I_PPIS1 'd_VM just_RR be_VBI the_AT catcher_NN1 in_II the_AT rye_NN1 and_CC all_DB ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   49 I know it 's crazy , but that 's the only thing I 'd really like to be .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   49 I_PPIS1 know_VV0 it_PPH1 's_VBZ crazy_JJ ,_, but_CCB that_DD1 's_VBZ the_AT only_JJ thing_NN1 I_PPIS1 'd_VM really_RR like_VVI to_TO be_VBI ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   50 I know it 's crazy . "
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   50 I_PPIS1 know_VV0 it_PPH1 's_VBZ crazy_JJ ._. "_"
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   51 ( charpt25 ) .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   51 (_( charpt25_FO )_) ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   52 A crazy idea even for him .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   52 A_AT1 crazy_JJ idea_NN1 even_RR for_IF him_PPHO1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   53 What makes him want to be a catcher in the rye ?
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   53 What_DDQ makes_VVZ him_PPHO1 want_VVI to_TO be_VBI a_AT1 catcher_NN1 in_II the_AT rye_NN1 ?_?
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   54 His hopelessness to the " fake formulas " society made him want to protect the spirit of those innocent children who are like Phoebe .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   54 His_APPGE hopelessness_NN1 to_II the_AT "_" fake_JJ formulas_NN2 "_" society_NN1 made_VVD him_PPHO1 want_VVI to_TO protect_VVI the_AT spirit_NN1 of_IO those_DD2 innocent_JJ children_NN2 who_PNQS are_VBR like_II Phoebe_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   55 Holden wants to save every child who is going to be polluted by this society ; he wants to keep the truthfulness and the innocence in every child 's heart .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   55 Holden_NP1 wants_VVZ to_TO save_VVI every_AT1 child_NN1 who_PNQS is_VBZ going_VVGK to_TO be_VBI polluted_VVN by_II this_DD1 society_NN1 ;_; he_PPHS1 wants_VVZ to_TO keep_VVI the_AT truthfulness_NN1 and_CC the_AT innocence_NN1 in_II every_AT1 child_NN1 's_GE heart_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   56 To be a catcher in the rye is to guard or we can seem he is to evade the problem he can not solve .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   56 To_TO be_VBI a_AT1 catcher_NN1 in_II the_AT rye_NN1 is_VBZ to_TO guard_VVI or_CC we_PPIS2 can_VM seem_VVI he_PPHS1 is_VBZ to_TO evade_VVI the_AT problem_NN1 he_PPHS1 can_VM not_XX solve_VVI ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   57 The conversation with Phoebe is perfect as the main scene in the book .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   57 The_AT conversation_NN1 with_IW Phoebe_NP1 is_VBZ perfect_JJ as_II the_AT main_JJ scene_NN1 in_II the_AT book_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   58 Though the whole story , Phoebe is different from everyone .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   58 Though_CS the_AT whole_JJ story_NN1 ,_, Phoebe_NP1 is_VBZ different_JJ from_II everyone_PN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   59 She is innocent ; she is n't assimilated by the society ; she is always supporting Holden even when Holden plans to go to the west .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   59 She_PPHS1 is_VBZ innocent_JJ ;_; she_PPHS1 is_VBZ n't_XX assimilated_VVN by_II the_AT society_NN1 ;_; she_PPHS1 is_VBZ always_RR supporting_VVG Holden_NP1 even_CS21 when_CS22 Holden_NP1 plans_VVZ to_TO go_VVI to_II the_AT west_ND1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   60 For Holden , she is the only sweet light in the darkness .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   60 For_IF Holden_NP1 ,_, she_PPHS1 is_VBZ the_AT only_JJ sweet_JJ light_NN1 in_II the_AT darkness_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   61 Therefore , Holden only tells his true thoughts to Phoebe .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   61 Therefore_RR ,_, Holden_NP1 only_RR tells_VVZ his_APPGE true_JJ thoughts_NN2 to_II Phoebe_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   62 All in all , the ending of the story is undetermined .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   62 All_DB in_II all_DB ,_, the_AT ending_NN1 of_IO the_AT story_NN1 is_VBZ undetermined_JJ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   63 Holden may be assimilated by the society , or he may insist to be a catcher in the rye but be alone .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   63 Holden_NP1 may_VM be_VBI assimilated_VVN by_II the_AT society_NN1 ,_, or_CC he_PPHS1 may_VM insist_VVI to_TO be_VBI a_AT1 catcher_NN1 in_II the_AT rye_NN1 but_CCB be_VBI alone_JJ ._.
+SENTPOS 2014_4_101_500_518_1 DRAFT A    5   63  A catcher in the rye can be a savior for the piece .
+SENTPOS 2014_4_101_500_518_1 DRAFT B    5   63  A_AT1 catcher_NN1 in_II the_AT rye_NN1 can_VM be_VBI a_AT1 savior_NN1 for_IF the_AT piece_NN1 ._.

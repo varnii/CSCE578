@@ -1,0 +1,122 @@
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    0 The story " The Lawyer and the Ghost " by Charles Dickens and " 20th Century Ghost " by Joe Hill are very similar .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    0 The_AT story_NN1 "_" The_AT Lawyer_NN1 and_CC the_AT Ghost_NN1 "_" by_II Charles_NP1 Dickens_NP1 and_CC "_" 20th_MD Century_NNT1 Ghost_NN1 "_" by_II Joe_NP1 Hill_NNL1 are_VBR very_RG similar_JJ ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    1 Dickens story talks about a lawyer who moves into an old inn and once there he finds a paper press .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    1 Dickens_NP1 story_NN1 talks_NN2 about_II a_AT1 lawyer_NN1 who_PNQS moves_VVZ into_II an_AT1 old_JJ inn_NN1 and_CC once_RR there_RL he_PPHS1 finds_VVZ a_AT1 paper_NN1 press_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    2 Once the lawyer is settled into the new place a ghost appears .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    2 Once_CS@ the_AT lawyer_NN1 is_VBZ settled_VVN into_II the_AT new_JJ place_NN1 a_AT1 ghost_NN1 appears_VVZ ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    3 The ghost says that he use to live and work here and that the lawyer must leave .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    3 The_AT ghost_NN1 says_VVZ that_CST he_PPHS1 use_VV0 to_TO live_VVI and_CC work_VVI here_RL and_CC that_CST the_AT lawyer_NN1 must_VM leave_VVI ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    4 The lawyer talks to the ghost and persuades him to leave .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    4 The_AT lawyer_NN1 talks_NN2 to_II the_AT ghost_NN1 and_CC persuades_VVZ him_PPHO1 to_TO leave_VVI ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    5 The lawyer never hears from the ghost again .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    5 The_AT lawyer_NN1 never_RR hears_VVZ from_II the_AT ghost_NN1 again_RT ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    6 Similar to Dickens story Hill 's story also talks about a ghost and a man .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    6 Similar_JJ to_II Dickens_NP1 story_NN1 Hill_NP1 's_GE story_NN1 also_RR talks_VVZ@ about_II a_AT1 ghost_NN1 and_CC a_AT1 man_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    7 The man is the owner of a movie theater .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    7 The_AT man_NN1 is_VBZ the_AT owner_NN1 of_IO a_AT1 movie_NN1 theater_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    8 The ghost is a woman who shows herself first to the main character when he was a young boy .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    8 The_AT ghost_NN1 is_VBZ a_AT1 woman_NN1 who_PNQS shows_VVZ herself_PPX1 first_MD to_II the_AT main_JJ character_NN1 when_CS he_PPHS1 was_VBDZ a_AT1 young_JJ boy_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0    9 He becomes attached to the ghost and eventually buys the theater .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0    9 He_PPHS1 becomes_VVZ attached_VVN to_II the_AT ghost_NN1 and_CC eventually_RR buys_VVZ the_AT theater_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0   10 Alec , the main character and owner of the theater , eventually becomes to old to run the theater and sells in to an old friend who is now a movie producer .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0   10 Alec_NP1 ,_, the_AT main_JJ character_NN1 and_CC owner_NN1 of_IO the_AT theater_NN1 ,_, eventually_RR becomes_VVZ to_II old_JJ to_TO run_VVI the_AT theater_NN1 and_CC sells_VVZ in_RP@ to_II an_AT1 old_JJ friend_NN1 who_PNQS is_VBZ now_RT a_AT1 movie_NN1 producer_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0   11 In the end of the story Alec is found dead in the theater after the reopening after a renovation of the theater .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0   11 In_II the_AT end_NN1 of_IO the_AT story_NN1 Alec_NP1 is_VBZ found_VVN dead_JJ in_II the_AT theater_NN1 after_II the_AT reopening_NN1 after_II a_AT1 renovation_NN1 of_IO the_AT theater_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0   12 When people find him a short clip of what happens in seen on a video camera .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0   12 When_RRQ people_NN find_VV0 him_PPHO1 a_AT1 short_JJ clip_NN1 of_IO what_DDQ happens_VVZ in_RP@ seen_VVN on_II a_AT1 video_NN1 camera_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0   13 The clip is of Alec and the ghost kissing .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0   13 The_AT clip_NN1 is_VBZ of_IO Alec_NP1 and_CC the_AT ghost_NN1 kissing_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    0   14 There are many similarities throughout both stories ; the main comparison between the two stories compare is that in the end both the ghost in Dickens story and Alec in Hill 's story are both set free from their suffering and oppression they are facing and go to somewhere that is better .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    0   14 There_EX are_VBR many_DA2 similarities_NN2 throughout_II both_DB2 stories_NN2 ;_; the_AT main_JJ comparison_NN1 between_II the_AT two_MC stories_NN2 compare_VV0 is_VBZ that_CST in_II the_AT end_NN1 both_RR the_AT ghost_NN1 in_II Dickens_NP1 story_NN1 and_CC Alec_NP1 in_II Hill_NP1 's_GE story_NN1 are_VBR both_RR set_VV0 free_JJ from_II their_APPGE suffering_NN1 and_CC oppression_NN1 they_PPHS2 are_VBR facing_VVG and_CC go_VV0 to_II somewhere_RL that_DD1 is_VBZ better_JJR ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   15 Many similarities between the two stories are seen throughout .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   15 Many_DA2 similarities_NN2 between_II the_AT two_MC stories_NN2 are_VBR seen_VVN throughout_RL@ ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   16 One main similarity is that the ghosts in both stories show themselves to humans .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   16 One_MC1 main_JJ similarity_NN1 is_VBZ that_CST the_AT ghosts_NN2 in_II both_DB2 stories_NN2 show_VV0 themselves_PPX2 to_II humans_NN2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   17 In " The Lawyer and the Ghost " the ghost only shows himself to one person while the ghost in " 20th Century Ghost " shows herself to many different people throughout the story .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   17 In_II "_" The_AT Lawyer_NN1 and_CC the_AT Ghost_NN1 "_" the_AT ghost_NN1 only_RR shows_VVZ himself_PPX1 to_II one_MC1 person_NN1 while_CS the_AT ghost_NN1 in_II "_" 20th_MD Century_NNT1 Ghost_NN1 "_" shows_VVZ herself_PPX1 to_II many_DA2 different_JJ people_NN throughout_II the_AT story_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   18 However in Dickens story the Lawyer convinces the ghost to leave , while in Hill 's story the ghost in a way makes Alec leave .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   18 However_RR in_II Dickens_NP1 story_NN1 the_AT Lawyer_NN1 convinces_VVZ the_AT ghost_NN1 to_TO leave_VVI ,_, while_CS in_II Hill_NP1 's_GE story_NN1 the_AT ghost_NN1 in_II a_AT1 way_NN1 makes_VVZ Alec_NP1 leave_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   19 This difference causes the stories to have two very different endings .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   19 This_DD1 difference_NN1 causes_VVZ the_AT stories_NN2 to_TO have_VHI two_MC very_RG different_JJ endings_NN2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   20 This difference also shows the power that the super natural can have on a human and also the power a human can have on the super natural .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   20 This_DD1 difference_NN1 also_RR shows_VVZ the_AT power_NN1 that_CST the_AT super_JJ natural_JJ can_VM have_VHI on_II a_AT1 human_NN1 and_CC also_RR the_AT power_NN1 a_AT1 human_NN1 can_VM have_VHI on_II the_AT super_JJ natural_JJ ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   21 Both stories have the usual image of ghost and how they are portrayed in today 's books and movies .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   21 Both_DB2 stories_NN2 have_VH0 the_AT usual_JJ image_NN1 of_IO ghost_NN1 and_CC how_RRQ they_PPHS2 are_VBR portrayed_VVN in_RP@ today_RT 's_GE books_NN2 and_CC movies_NN2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   22 In the " 20th Century Ghost , " the ghost is introduced by the description of , " one of the glass doors slowly opened , disclosed a pale and emaciated figure in soiled and worn apparel ... there was something about his skin , and gaunt and unearthly appearance ... which no being of this world was ever seen to wear " ( Dickens , 308 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   22 In_II the_AT "_" 20th_MD Century_NNT1 Ghost_NN1 ,_, "_" the_AT ghost_NN1 is_VBZ introduced_VVN by_II the_AT description_NN1 of_IO ,_, "_" one_MC1 of_IO the_AT glass_NN1 doors_NN2 slowly_RR opened_VVN ,_, disclosed_VVN a_AT1 pale_JJ and_CC emaciated_JJ@ figure_NN1 in_II soiled_JJ@ and_CC worn_JJ@ apparel_NN1 ..._... there_EX was_VBDZ something_PN1 about_II his_APPGE skin_NN1 ,_, and_CC gaunt_JJ and_CC unearthly_JJ appearance_NN1 ..._... which_DDQ no_AT being_NN1% of_IO this_DD1 world_NN1 was_VBDZ ever_RR seen_VVN to_TO wear_VVI "_" (_( Dickens_NP1 ,_, 308_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   23 This description creates that suspenseful and frightening atmosphere that usually accompanies ghosts .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   23 This_DD1 description_NN1 creates_VVZ that_CST suspenseful_JJ and_CC frightening_JJ atmosphere_NN1 that_CST usually_RR accompanies_VVZ ghosts_NN2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   24 Similar to the ghost in Dickens story , Imogene , the ghost in Hill 's story , is introduced by , " There was a fresh runner of blood leaking form her left nostril and blood on her lips ...
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   24 Similar_JJ to_II the_AT ghost_NN1 in_II Dickens_NP1 story_NN1 ,_, Imogene_NP1 ,_, the_AT ghost_NN1 in_II Hill_NP1 's_GE story_NN1 ,_, is_VBZ introduced_VVN by_II ,_, "_" There_EX was_VBDZ a_AT1 fresh_JJ runner_NN1 of_IO blood_NN1 leaking_VVG form_VV0 her_APPGE left_JJ nostril_NN1 and_CC blood_NN1 on_II her_APPGE lips_NN2 ..._...
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   25 A white moth had landed on her face .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   25 A_AT1 white_JJ moth_NN1 had_VHD landed_VVN on_II her_APPGE face_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   26 It was crawling up her cheek .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   26 It_PPH1 was_VBDZ crawling_VVG up_RP her_APPGE cheek_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   27 She did n't notice ...
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   27 She_PPHS1 did_VDD n't_XX notice_VVI ..._...
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   28 She glanced at him and smiled .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   28 She_PPHS1 glanced_VVD at_II him_PPHO1 and_CC smiled_VVD ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   29 She had blood staining her teeth , " this creates a sense of horror ( Hill , 317 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   29 She_PPHS1 had_VHD blood_NN1 staining_VVG her_APPGE teeth_NN2 ,_, "_" this_DD1 creates_VVZ a_AT1 sense_NN1 of_IO horror_NN1 (_( Hill_NP1 ,_, 317_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    1   30 The imagery received from both stories creates a chill that goes down the spine .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    1   30 The_AT imagery_NN1 received_VVN from_II both_DB2 stories_NN2 creates_VVZ a_AT1 chill_NN1 that_CST goes_VVZ down_RP the_AT spine_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   31 The time period that " The Lawyer and the Ghost " was written in has a large impact on the story itself .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   31 The_AT time_NNT1 period_NN1 that_CST "_" The_AT Lawyer_NN1 and_CC the_AT Ghost_NN1 "_" was_VBDZ written_VVN in_II has_VHZ a_AT1 large_JJ impact_NN1 on_II the_AT story_NN1 itself_PPX1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   32 Written between 1836 and 1837 England was over come by long lasting lawsuits and never ending court processes ( Chapter 4 , 307 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   32 Written_VVN between_II 1836_MC and_CC 1837_MC England_NP1 was_VBDZ over_RP come_VV0 by_II long_RR lasting_VVG lawsuits_NN2 and_CC never_RR ending_VVG court_NN1 processes_NN2 (_( Chapter_NN1 4_MC ,_, 307_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   33 The court process included having to go through a pretrial , a trial with a judge , possibly a trial with a jury and eventually the conclusion of the process ( Langbein ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   33 The_AT court_NN1 process_NN1 included_VVD having_VHG to_TO go_VVI through_II a_AT1 pretrial_JJ ,_, a_AT1 trial_NN1 with_IW a_AT1 judge_NN1 ,_, possibly_RR a_AT1 trial_NN1 with_IW a_AT1 jury_NN1 and_CC eventually_RR the_AT conclusion_NN1 of_IO the_AT process_NN1 (_( Langbein_NP1 )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   34 In the story the ghost goes through this menacing process , which eventually leads to his death .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   34 In_II the_AT story_NN1 the_AT ghost_NN1 goes_VVZ through_II this_DD1 menacing_JJ process_NN1 ,_, which_DDQ eventually_RR leads_VVZ to_II his_APPGE death_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   35 Dickens was fascinated with the courts of England and their overwhelming processes and this is shown throughout many of his stories ( Chapter 4 , 307 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   35 Dickens_NP1 was_VBDZ fascinated_VVN with_IW the_AT courts_NN2 of_IO England_NP1 and_CC their_APPGE overwhelming_JJ processes_NN2 and_CC this_DD1 is_VBZ shown_VVN throughout_II many_DA2 of_IO his_APPGE stories_NN2 (_( Chapter_NN1 4_MC ,_, 307_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   36 The theme of the court system is also seen with the lawyer in the story .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   36 The_AT theme_NN1 of_IO the_AT court_NN1 system_NN1 is_VBZ also_RR seen_VVN with_IW the_AT lawyer_NN1 in_II the_AT story_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   37 In today 's society lawyers are wealthy and well respected but in this time period lawyers were overworked and fairly poor .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   37 In_II today_RT 's_GE society_NN1 lawyers_NN2 are_VBR wealthy_JJ and_CC well_RR respected_VVN but_CCB in_II this_DD1 time_NNT1 period_NN1 lawyers_NN2 were_VBDR overworked_JJ and_CC fairly_RR poor_JJ ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   38 This can be seen in the story when the place the lawyer is staying in is described , " an old , damp , rotten set of chambers , in one of the most ancient Inns , " ( Dickens , 307 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   38 This_DD1 can_VM be_VBI seen_VVN in_II the_AT story_NN1 when_CS the_AT place_NN1 the_AT lawyer_NN1 is_VBZ staying_VVG in_RP@ is_VBZ described_VVN ,_, "_" an_AT1 old_JJ ,_, damp_JJ ,_, rotten_JJ set_NN1 of_IO chambers_NN2 ,_, in_II one_MC1 of_IO the_AT most_RGT ancient_JJ Inns_NN2 ,_, "_" (_( Dickens_NP1 ,_, 307_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   39 The difference between the ghost and the lawyer however is that the lawyer is not brought down by the struggles of the court system .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   39 The_AT difference_NN1 between_II the_AT ghost_NN1 and_CC the_AT lawyer_NN1 however_RR is_VBZ that_CST the_AT lawyer_NN1 is_VBZ not_XX brought_VVN down_RP by_II the_AT struggles_NN2 of_IO the_AT court_NN1 system_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   40 He has found a way to cope with the hard times .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   40 He_PPHS1 has_VHZ found_VVN a_AT1 way_NN1 to_TO cope_VVI with_IW the_AT hard_JJ times_NNT2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   41 The lawyer drank , " the first glass of two gallons of whiskey he had ordered , " the lawyer decides to deal with the struggles of the times with alcohol ( Dickens , 308 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   41 The_AT lawyer_NN1 drank_VVD ,_, "_" the_AT first_MD glass_NN1 of_IO two_MC gallons_NNU2 of_IO whiskey_NN1 he_PPHS1 had_VHD ordered_VVN ,_, "_" the_AT lawyer_NN1 decides_VVZ to_TO deal_VVI with_IW the_AT struggles_NN2 of_IO the_AT times_NNT2 with_IW alcohol_NN1 (_( Dickens_NP1 ,_, 308_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   42 He also helps the ghost get to a better place in his life by asking why he and many other ghosts like him return to the " places where you have been most miserable , " this makes the ghost realize that he does not have to be bound to this horrible place anymore and is free to go where he pleases ( Dickens , 309 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   42 He_PPHS1 also_RR helps_VVZ the_AT ghost_NN1 get_VVI to_II a_AT1 better_JJR place_NN1 in_II his_APPGE life_NN1 by_II asking_VVG why_RRQ he_PPHS1 and_CC many_DA2 other_JJ ghosts_NN2 like_II him_PPHO1 return_VV0 to_II the_AT "_" places_NN2 where_RRQ you_PPY have_VH0 been_VBN most_RGT miserable_JJ ,_, "_" this_DD1 makes_VVZ the_AT ghost_NN1 realize_VV0 that_CST he_PPHS1 does_VDZ not_XX have_VHI to_TO be_VBI bound_VVN to_II this_DD1 horrible_JJ place_NN1 anymore_RR and_CC is_VBZ free_JJ to_TO go_VVI where_CS he_PPHS1 pleases_VVZ (_( Dickens_NP1 ,_, 309_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    2   43 This somewhat compares to the story of " 20th Century Ghost " and what happens to Alec .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    2   43 This_DD1 somewhat_RR compares_VVZ to_II the_AT story_NN1 of_IO "_" 20th_MD Century_NNT1 Ghost_NN1 "_" and_CC what_DDQ happens_VVZ to_II@ Alec_NP1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   44 In " 20th Century Ghost " Alec loses his brother to World War II .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   44 In_II "_" 20th_MD Century_NNT1 Ghost_NN1 "_" Alec_NP1 loses_VVZ his_APPGE brother_NN1 to_II World_NN1 War_NN1 II_MC ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   45 This happened when Alec was only fifteen .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   45 This_DD1 happened_VVD when_RRQ Alec_NP1 was_VBDZ only_RR fifteen_MC ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   46 A few days later he goes to the movie theater and meets Imogene , the ghost of the theater .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   46 A_AT1 few_DA2 days_NNT2 later_RRR he_PPHS1 goes_VVZ to_II the_AT movie_NN1 theater_NN1 and_CC meets_VVZ Imogene_NP1 ,_, the_AT ghost_NN1 of_IO the_AT theater_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   47 After he meets Imogene he runs out of the theater because he is so scared and meets the owner , Harry .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   47 After_CS he_PPHS1 meets_VVZ Imogene_NP1 he_PPHS1 runs_VVZ out_II21 of_II22 the_AT theater_NN1 because_CS he_PPHS1 is_VBZ so_RG scared_JJ and_CC meets_VVZ the_AT owner_NN1 ,_, Harry_NP1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   48 Harry tells Alec what happened to Imogene and gives him the obituary .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   48 Harry_NP1 tells_VVZ Alec_NP1 what_DDQ happened_VVD to_II@ Imogene_NP1 and_CC gives_VVZ him_PPHO1 the_AT obituary_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   49 After hearing what happened Alec feels a kind of connection to Imogene because he just lost his brother in a similar fashion .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   49 After_II hearing_VVG what_DDQ happened_VVD Alec_NP1 feels_VVZ a_AT1 kind_NN1 of_IO connection_NN1 to_II Imogene_NP1 because_CS he_PPHS1 just_RR lost_VVD his_APPGE brother_NN1 in_II a_AT1 similar_JJ fashion_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   50 Both his brother and Imogene died at a young age with a full life ahead of them .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   50 Both_DB2 his_APPGE brother_NN1 and_CC Imogene_NP1 died_VVD at_II a_AT1 young_JJ age_NN1 with_IW a_AT1 full_JJ life_NN1 ahead_II21 of_II22 them_PPHO2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   51 Alec also feels this connection because his brother , Ray , took him to see movies at the theater , so this strengthens the tie between Alec and Imogene .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   51 Alec_NP1 also_RR feels_VVZ this_DD1 connection_NN1 because_CS his_APPGE brother_NN1 ,_, Ray_NP1 ,_, took_VVD him_PPHO1 to_TO see_VVI movies_NN2 at_II the_AT theater_NN1 ,_, so_CS@ this_DD1 strengthens_VVZ the_AT tie_NN1 between_II Alec_NP1 and_CC Imogene_NP1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   52 As a result of this connection he feels , Alec develops an attachment to her and later on in life buys the theater .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   52 As_II a_AT1 result_NN1 of_IO this_DD1 connection_NN1 he_PPHS1 feels_VVZ ,_, Alec_NP1 develops_VVZ an_AT1 attachment_NN1 to_II her_PPHO1 and_CC later_RRR on_RP in_II life_NN1 buys_VVZ the_AT theater_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   53 Alec does this because after the loss of his brother he is emotionally distraught and Imogene offers some sort of comfort to his distraught feelings .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   53 Alec_NP1 does_VDZ this_DD1 because_CS after_CS the_AT loss_NN1 of_IO his_APPGE brother_NN1 he_PPHS1 is_VBZ emotionally_RR distraught_JJ and_CC Imogene_NP1 offers_VVZ@ some_DD sort_NN1 of_IO comfort_NN1 to_II his_APPGE distraught_JJ feelings_NN2 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   54 In the story a strong visual of how upset Alec was can be seen Hill writes , " The stinging in his eyes was so intense he could n't stand it , and it hurt to breathe .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   54 In_II the_AT story_NN1 a_AT1 strong_JJ visual_JJ of_IO how_RGQ@ upset_JJ Alec_NP1 was_VBDZ can_VM be_VBI seen_VVN Hill_NP1 writes_VVZ ,_, "_" The_AT stinging_JJ in_II his_APPGE eyes_NN2 was_VBDZ so_RG intense_JJ he_PPHS1 could_VM n't_XX stand_VVI it_PPH1 ,_, and_CC it_PPH1 hurt_VVD to_TO breathe_VVI ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   55 He rubbed at his wet nose , and focused intently on crying as soundlessly as possible , " ( Hill , 320 ) .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   55 He_PPHS1 rubbed_VVD at_II his_APPGE wet_JJ nose_NN1 ,_, and_CC focused_VVD intently_RR on_II crying_VVG as_RG soundlessly_RR as_CSA possible_JJ ,_, "_" (_( Hill_NP1 ,_, 320_MC )_) ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    3   56 This sort of crutch that Imogene provides to Alec can be compared to the alcohol that the lawyer in Dickens story relies upon .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    3   56 This_DD1 sort_NN1 of_IO crutch_NN1 that_CST Imogene_NP1 provides_VVZ to_II Alec_NP1 can_VM be_VBI compared_VVN to_II the_AT alcohol_NN1 that_CST the_AT lawyer_NN1 in_II Dickens_NP1 story_NN1 relies_VVZ upon_II ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    4   57 Although the two stories have many differences the crutches that each character relies upon in the stories can be compared to each other .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    4   57 Although_CS the_AT two_MC stories_NN2 have_VH0 many_DA2 differences_NN2 the_AT crutches_NN2 that_CST each_DD1 character_NN1 relies_VVZ upon_II in_II the_AT stories_NN2 can_VM be_VBI compared_VVN to_II each_PPX221 other_PPX222 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    4   58 The alcohol and Imogene both provide a relaxing and comforting feeling to the lawyer and Alec .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    4   58 The_AT alcohol_NN1 and_CC Imogene_NP1 both_RR provide_VV0 a_AT1 relaxing_JJ and_CC comforting_JJ feeling_NN1 to_II the_AT lawyer_NN1 and_CC Alec_NP1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    4   59 As well as these crutches in the end Alec and the ghost in " The Lawyer and the Ghost " are both set free from their suffering .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    4   59 As_II31 well_II32 as_II33 these_DD2 crutches_NN2 in_II the_AT end_NN1 Alec_NP1 and_CC the_AT ghost_NN1 in_II "_" The_AT Lawyer_NN1 and_CC the_AT Ghost_NN1 "_" are_VBR both_RR set_VV0 free_JJ from_II their_APPGE suffering_NN1 ._.
+SENTPOS 2014_4_101_300_369_4 DRAFT A    4   59  Alec is set free from his old age and his worrying about the theater and the ghost is set free from his imprisonment from the old inn .
+SENTPOS 2014_4_101_300_369_4 DRAFT B    4   59  Alec_NP1 is_VBZ set_VVN free_JJ from_II his_APPGE old_JJ age_NN1 and_CC his_APPGE worrying_JJ about_II the_AT theater_NN1 and_CC the_AT ghost_NN1 is_VBZ set_VVN free_JJ from_II his_APPGE imprisonment_NN1 from_II the_AT old_JJ inn_NN1 ._.

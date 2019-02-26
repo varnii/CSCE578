@@ -1,0 +1,1199 @@
+##4080404
+Agbor-Baiyee		np1
+,	,	y
+W.	w	np1
+,	,	y
+Orienting	orient	vvg_np1
+students	student	nn2
+using	use	vvg
+a	a	at1
+case-based	case-based	jj
+instructional	instructional	jj
+approach	approach	nn1
+:	:	y
+A	a	at1@_zz1
+case	case	nn1
+study	study	nn1
+,	,	y
+36(1)		fo
+,	,	y
+20-28	20-28	mcmc
+.	.	y
+Akinoglu	akinoglu	nn1_np1@
+,	,	y
+O.	o	np1
+,	,	y
+Internet	internet	np1_nn1
+and	and	cc
+Internet	internet	np1_nn1
+use	use	nn1_vv0
+:	:	y
+Teacher	teacher	nn1
+trainees	trainee	nn2
+'	'	ge
+perspective	perspective	nn1
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+97-103	97-103	mcmc
+Alsmadi		np1
+,	,	y
+Y.	y	np1
+&;		null
+Alsmadi		np1
+,	,	y
+A.	a	zz
+,	,	y
+Detecting	detect	vvg
+differential	differential	nn1_jj
+functioning	function	vvg_nn1@
+in	in	ii
+emotional	emotional	jj
+intelligence	intelligence	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+284-288		mcmc
+.	.	y
+Amsel	amsel	vv0_nn1_np1@
+,	,	y
+E.	e	np1
+,	,	y
+Johnston	johnston	np1
+,	,	y
+A.	a	zz
+,	,	y
+Alvarado	alvarado	np1
+,	,	y
+E.	e	np1
+,	,	y
+Kettering	kettering	np1
+,	,	y
+J	xx_j	zz1
+,	,	y
+Rankin	rankin	np1
+,	,	y
+L.	l	zz
+&;		null
+Ward	ward	np1
+,	,	y
+M	m	zz1_nn1
+,	,	y
+The	the	at
+effect	effect	nn1
+of	of	io
+perspective	perspective	nn1
+on	on	ii
+misconceptions	misconception	nn2
+in	in	ii
+psychology	psychology	nn1
+:	:	y
+A	a	at1@_zz1
+test	test	nn1
+of	of	io
+conceptual	conceptual	jj
+change	change	nn1
+theory	theory	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+289-295		mcmc
+.	.	y
+Aydin	aydin	nn1_np1@
+,	,	y
+E.	e	np1
+,	,	y
+An	a	at1
+evaluation	evaluation	nn1
+of	of	io
+the	the	at
+aims	aim	nn2
+of	of	io
+the	the	at
+faculty	faculty	nn1
+school	school	nn1
+partnership	partnership	nn1
+scheme	scheme	nn1
+by	by	ii
+mathematic	mathematic	jj
+student	student	nn1
+teachers	teacher	nn2
+and	and	cc
+their	their	appge
+mentors.	mentors	nnu
+36(3)	36(3)	fo
+,	,	y
+273-281		mcmc
+.	.	y
+Bai	ba	nn2_np1@
+,	,	y
+H	h	zz1
+,	,	y
+.	.	y
+Wang	wang	np1
+,	,	y
+LS.	ls	np2
+,	,	y
+Pan	pan	np1
+,	,	y
+W.	w	np1
+&;		null
+Frey	frey	np1
+,	,	y
+M.	m	nn1
+Measuring	measure	vvg
+mathematical	mathematical	jj
+anxiety	anxiety	nn1
+:	:	y
+Psychometric	psychometric	jj_np1
+analysis	analysis	nn1
+of	of	io
+a	a	at1
+bidimentional	bidimentional	jj
+affective	affective	jj
+scale	scale	nn1
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+185-93		mcmc
+.	.	y
+Baloglu	baloglu	nn1_np1@
+,	,	y
+N.	xx_n	np1_nnu
+,	,	y
+Negative	negative	jj
+behavior	behavior	nn1
+of	of	io
+teachers	teacher	nn2
+without	without	iw
+regard	regard	nn1
+to	to	ii
+high	high	jj
+school	school	nn1
+students	student	nn2
+in	in	ii
+the	the	at
+classroom	classroom	nn1
+setting	setting	nn1_vvg
+..	...	...
+36(1)		fo
+,	,	y
+69-78	69-78	mcmc
+.	.	y
+Bolkan		np1@_jj
+S.	s	zz
+,	,	y
+&;		null
+Goodboy	goodboy	np1_nn1
+,	,	y
+A.	a	zz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+student	student	nn1
+participation	participation	nn1
+,	,	y
+and	and	cc
+teacher	teacher	nn1
+credibility	credibility	nn1
+,	,	y
+36(4)	36(4)	fo
+,	,	y
+296-306		mcmc
+.	.	y
+Bowman	bowman	nn1_np1@
+,	,	y
+L.L.	ll	np1
+,	,	y
+Does	do	vdz
+posting	posting	nn1
+PowerPoint	powerpoint	nn1_vv0
+presentations	presentation	nn2
+on	on	ii
+WebCT	webct	np1_nn1
+affect	affect	nn1_vv0
+class	class	nn1
+performance	performance	nn1
+or	or	cc
+attendance	attendance	nn1
+?	?	y
+36(2)	36(2)	fo
+,	,	y
+104-7	104-7	mcmc
+.	.	y
+Church	church	nn1
+,	,	y
+E.	e	np1
+,	,	y
+Facing	face	vvg_jj@
+reality	reality	nn1
+:	:	y
+What	what	ddq
+are	be	vbr
+doctoral	doctoral	jj
+students	student	nn2
+'	'	ge
+chances	chance	nn2
+for	for	if
+success	success	nn1
+?	?	y
+36(4)	36(4)	fo
+,	,	y
+307-316		mcmc
+.	.	y
+Desai	desai	nn2_np1@
+,	,	y
+M	m	zz1_nn1
+,	,	y
+Hart	hart	np1
+,	,	y
+J.	xx_j	np1
+,	,	y
+&;		null
+Richard	richard	np1
+,	,	y
+T.	t	np1
+,	,	y
+An	a	at1
+IT	it	nn1
+Manager	manager	nn1
+'s	's	ge
+view	view	nn1
+on	on	ii
+E-mail	e-mail	nn1
+and	and	cc
+Internet	internet	nn1_np1
+Policies	policy	nn2
+and	and	cc
+Procedures	procedure	nn2
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+317-322	317-322	mcmc
+.	.	y
+Ediger	ediger	vv0_nn1_np1@
+,	,	y
+M.	m	nn1
+,	,	y
+Rating	rating	nn1_vvg@
+teacher	teacher	nn1
+of	of	io
+social	social	jj
+studies	study	nn2
+instruction	instruction	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+323-325		mcmc
+.	.	y
+Egbochuku	egbochuku	nn1_np1@
+,	,	y
+E.O	eo	np1
+.	.	y
+&;		null
+Aihie	aihie	nn1_np1@
+,	,	y
+N.O.	n.o	uh
+,	,	y
+Peer	peer	vv0_nn1
+group	group	nn1
+counseling	counseling	nn1
+and	and	cc
+school	school	nn1
+influence	influence	nn1_vv0
+on	on	ii
+adolescents	adolescent	nn2
+'	'	ge
+self-concept.		jj_nnu
+36(1)		fo
+,	,	y
+3-12	3-12	mcmc
+.	.	y
+Emfinger	emfinger	np1_nn1
+,	,	y
+K.	k	np1
+,	,	y
+Numerical	numerical	jj
+conceptions	conception	nn2
+reflected	reflect	vvn_vvd
+during	during	ii
+multiage	multiage	nn1
+child-initiated	child-initiated	nn1_jj
+pretend	pretend	vv0_jj@
+play	play	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+326-334		mcmc
+.	.	y
+Firmin	firmin	nn1_np1@
+,	,	y
+M.W.	m.w	nnu
+,	,	y
+Johnson	johnson	np1
+,	,	y
+E.J.	e.j	np1
+,	,	y
+&;		null
+Walker	walker	np1
+,	,	y
+J.	xx_j	np1
+Professional	professional	jj
+human	human	jj_nn1
+services	service	nn2
+occupation	occupation	nn1
+biases	bias	nn2
+represented	represent	vvn_vvd
+in	in	ii_rr21
+General	general	jj_rr22
+Psychology	psychology	nn1
+textbooks	textbook	nn2
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+194-202		mcmc
+.	.	y
+Goodboy	goodboy	nn1_np1@
+,	,	y
+A.K.	ak	np1
+&;		null
+Myers	myers	np1
+,	,	y
+S.A.	sa	np1
+The	the	at
+relationship	relationship	nn1
+between	between	ii
+perceived	perceived	jj@
+instructor	instructor	nn1
+immediacy	immediacy	nn1
+and	and	cc
+student	student	nn1
+challenge	challenge	vv0_nn1
+behavior.	behavior	nnu
+36(2)	36(2)	fo
+,	,	y
+108-112	108-112	mcmc
+.	.	y
+Gu	gu	np1@
+W.	w	np1
+,	,	y
+&;		null
+Yawkey	yawkey	np1
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+home-based	home-based	jj_nn1
+family	family	nn1
+intervention	intervention	nn1
+models	model	nn2
+utilized	utilize	vvn
+by	by	ii
+public	public	jj_nn1
+school	school	nn1
+teachers	teacher	nn2
+in	in	ii
+the	the	at
+People	people	nn
+'s	's	ge
+Republic	republic	nn1
+of	of	io
+China	china	np1_nn1@
+.	.	y
+36(1)		fo
+,	,	y
+49-58	49-58	mcmc
+.	.	y
+Haeseler	haeseler	nn1_np1@
+,	,	y
+L.A.	la	np1
+,	,	y
+Biblio-therapeutic	biblio-therapeutic	jj
+book	book	nn1
+creations	creation	nn2
+by	by	ii
+pre-service	pre-service	jj_nn1
+student	student	nn1
+teachers	teacher	nn2
+:	:	y
+Helping	help	vvg
+elementary	elementary	jj
+school	school	nn1
+children	child	nn2
+cope	cope	vv0
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+113-6		mcmc
+.	.	y
+Hammermeister	hammermeister	np1_nn1
+,	,	y
+J.	xx_j	np1
+,	,	y
+Pickering	pickering	np1
+,	,	y
+M.A.	m.a	nna
+,	,	y
+&;		null
+Ohlson	ohlson	np1
+,	,	y
+C.J.	cj	np1
+,	,	y
+Teaching	teach	vvg
+mental	mental	jj
+skills	skill	nn2
+for	for	if
+self-esteem	self-esteem	nn1
+House	house	nn1
+,	,	y
+J.D.	jd	np1
+,	,	y
+Classroom	classroom	nn1
+instructional	instructional	jj
+strategies	strategy	nn2
+and	and	cc
+science	science	nn1
+career	career	nn1
+interest	interest	nn1
+for	for	if
+adolescent	adolescent	jj_nn1
+students	student	nn2
+in	in	ii
+Korea	korea	np1
+:	:	y
+Results	result	nn2
+from	from	ii
+the	the	at
+TIMSS	timss	np1_nn1
+Assessemt.		np1
+36(1)		fo
+,	,	y
+13-19	13-19	mcmc
+.	.	y
+Huang	huang	vv0_nn1_np1@
+,	,	y
+J.	xx_j	np1
+,	,	y
+What	what	ddq
+happens	happen	vvz
+when	when	rrq_cs
+two	two	mc
+cultures	culture	nn2
+meet	meet	vv0
+in	in	ii_rp@
+the	the	at
+classroom	classroom	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+335-342		mcmc
+.	.	y
+Hwang	hwang	vv0_nn1_np1@
+,	,	y
+Y.S.	y.s	np2
+,	,	y
+Fisher	fisher	np1
+,	,	y
+W.	w	np1
+,	,	y
+&;		null
+Vrongistinos		np1_nn2
+,	,	y
+K.	k	np1
+,	,	y
+Calibrating	calibrate	vvg
+a	a	at1
+measure	measure	nn1
+of	of	io
+gender	gender	nn1
+differences	difference	nn2
+in	in	ii
+motivation	motivation	nn1
+for	for	if
+learning	learn	vvg_nn1
+technology	technology	nn1
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+259-272		mcmc
+.	.	y
+Kayali		nn2_np1@
+,	,	y
+H.	h	np1
+,	,	y
+Effects	effect	nn2
+of	of	io
+near-to-far	near-to-far	jj
+principle	principle	nn1
+and	and	cc
+other	other	jj
+factors	factor	nn2
+on	on	ii
+learning	learning	nn1_vvg
+and	and	cc
+teaching	teach	vvg
+some	some	dd
+geography	geography	nn1
+subjects	subject	nn2
+in	in	ii
+the	the	at
+social	social	jj
+studies	study	nn2
+course	course	nn1
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+175-182		mcmc
+.	.	y
+Kelly	kelly	np1
+,	,	y
+K.E.	ke	np1
+&;		null
+Kneipp	kneipp	np1
+,	,	y
+N	xx_n	zz1
+..	...	...
+You	you	ppy
+do	do	vd0
+what	what	ddq
+you	you	ppy
+are	be	vbr
+:	:	y
+The	the	at
+relationship	relationship	nn1
+between	between	ii
+the	the	at
+Scale	scale	nn1
+of	of	io
+Creative	creative	jj
+Attributes	attribute	nn2
+and	and	cc
+behavior	behavior	nn1
+and	and	cc
+vocational	vocational	jj
+interests	interest	nn2
+.	.	y
+36(1)		fo
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+&;		null
+Bristol	bristol	np1
+,	,	y
+A.S.	as	np1
+,	,	y
+Predicting	predict	vvg
+students	student	nn2
+'	'	ge
+performance	performance	nn1
+in	in	ii
+Introductory	introductory	jj
+Psychology	psychology	nn1
+from	from	ii
+their	their	appge
+psychological	psychological	jj
+misconceptions	misconception	nn2
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+119-24	119-24	mcmc
+.	.	y
+Lee	lee	np1
+,	,	y
+L.	l	zz
+Boys	boy	nn2
+like	like	ii
+smart	smart	jj
+girls	girl	nn2
+more	more	rrr
+than	than	csn
+pretty	pretty	jj
+girls	girl	nn2
+:	:	y
+Young	young	jj_np1
+Korean	korean	jj
+immigrant	immigrant	jj_nn1
+girls	girl	nn2
+'	'	ge
+understanding	understanding	nn1
+of	of	io
+romantic	romantic	jj
+love	love	nn1
+in	in	ii
+popular	popular	jj
+American	american	jj
+culture	culture	nn1
+.	.	y
+36(1)		fo
+,	,	y
+87-94	87-94	mcmc
+.	.	y
+Lee	lee	np1
+,	,	y
+S.A.	sa	np1
+,	,	y
+Jones	jones	np1
+,	,	y
+W.P	w.p	np1
+..	...	...
+,	,	y
+Crank	crank	nn1_vv0@
+,	,	y
+J.N.	jn	np1
+,	,	y
+&;		null
+Krach	krach	np1_vv0_nn1
+,	,	y
+S.K		np1
+..	...	...
+,	,	y
+Using	use	vvg
+self-instruction	self-instruction	jj_nn1
+to	to	to
+teach	teach	vvi
+counseling	counseling	nn1
+skills	skill	nn2
+top	top	jj_nn1_vv0@
+School	school	nn1
+Psychology	psychology	nn1
+Students	student	nn2
+:	:	y
+An	a	at1
+efficacy	efficacy	nn1
+study	study	nn1
+.	.	y
+36(1)		fo
+,	,	y
+35-48	35-48	mcmc
+.	.	y
+Marrs		nn2_np1@
+,	,	y
+H.	h	np1
+,	,	y
+Sigler	sigler	np1_nn1
+,	,	y
+E.	e	np1
+,	,	y
+&;		null
+Hayes	hayes	np1
+,	,	y
+K.	k	np1
+Study	study	nn1
+strategy	strategy	nn1
+predictors	predictor	nn2
+of	of	io
+performance	performance	nn1
+in	in	ii
+introductory	introductory	jj
+psychology	psychology	nn1
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+125-33	125-33	mcmc
+.	.	y
+McGuire	mcguire	np1
+,	,	y
+M.J.	mj	np1
+&;		null
+McDonald	mcdonald	np1
+,	,	y
+P.M.	pm	ra_np1
+,	,	y
+Relation	relation	nn1
+of	of	io
+early	early	jj
+testing	testing	nn1
+and	and	cc
+incentive	incentive	nn1
+on	on	ii
+quiz	quiz	nn1
+performance	performance	nn1
+in	in	ii
+introductory	introductory	jj
+psychology	psychology	nn1
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+134-141		mcmc
+.	.	y
+McKee	mckee	np1
+,	,	y
+M.	m	nn1
+&;		null
+MacDonald	macdonald	np1
+,	,	y
+P.	xx_p	np1
+,	,	y
+Assessment	assessment	nn1
+of	of	io
+teenage	teenage	jj
+diaries	diary	nn2
+for	for	if
+teaching	teach	vvg_nn1
+concepts	concept	nn2
+in	in	ii
+adolescent	adolescent	jj_nn1
+psychology	psychology	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+343-346		mcmc
+.	.	y
+McMurray	mcmurray	np1
+,	,	y
+A.J.	aj	np1
+&;		null
+Sorrells	sorrells	np2
+,	,	y
+D.	d	np1
+Bridging	bridge	vvg
+the	the	at
+Gap	gap	nn1
+:	:	y
+Reaching	reach	vvg
+first-generation	first-generation	jj
+students	student	nn2
+in	in	ii
+the	the	at
+classroom	classroom	nn1
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+210-4	210-4	mcmc
+.	.	y
+McNamar		np1
+,	,	y
+M.M.	m.m	nnu
+,	,	y
+Using	use	vvg
+a	a	at1
+Real	real	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+142-147	142-147	mcmc
+.	.	y
+Nunn	nunn	np1
+,	,	y
+G.D.	g.d	np1
+,	,	y
+Jantz	jantz	np1
+,	,	y
+P.B.	p.b	fo
+,	,	y
+&;		null
+Butikofer		np1_vv0_nn1
+,	,	y
+C.	c	np1_zz1@
+,	,	y
+Concurrent	concurrent	jj
+validity	validity	nn1
+between	between	ii
+teacher	teacher	nn1
+efficacy	efficacy	nn1
+and	and	cc
+perceptions	perception	nn2
+of	of	io
+response	response	nn1
+to	to	ii
+intervention	intervention	nn1
+outcomes	outcome	nn2
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+215-8		mcmc
+.	.	y
+Okpala	okpala	nn1_np1@
+,	,	y
+C.O.	c.o	np1_fo
+,	,	y
+James	james	np1
+,	,	y
+I.	i	np1
+,	,	y
+&;		null
+Hopson	hopson	np1
+,	,	y
+L.	l	zz
+Effectiveness	effectiveness	nn1
+of	of	io
+National	national	jj
+Board	board	nn1
+Gifted	gifted	jj
+Teachers	teacher	nn2
+:	:	y
+Policy	policy	nn1
+implications	implication	nn2
+.	.	y
+36(1)		fo
+,	,	y
+29-34	29-34	mcmc
+.	.	y
+,	,	y
+Ozel	ozel	vv0_nn1_np1@
+,	,	y
+A.	a	zz
+,	,	y
+The	the	at
+practice	practice	nn1
+of	of	io
+information	information	nn1
+processing	processing	nn1
+model	model	nn1
+in	in	ii
+the	the	at
+teaching	teaching	nn1
+of	of	io
+cognitive	cognitive	jj
+strategies	strategy	nn2
+.	.	y
+36(1)		fo
+,	,	y
+59-68		mcmc
+.	.	y
+Piotrowsk	piotrowsk	vv0_nn1_np1@
+.	.	y
+C.	c	np1_zz1@
+&;		null
+Gallant	gallant	jj
+,	,	y
+N.	xx_n	np1_nnu
+,	,	y
+Research	research	nn1_vv0@
+use	use	nn1
+of	of	io
+clinical	clinical	jj
+measures	measure	nn2
+of	of	io
+anxiety	anxiety	nn1
+in	in	ii
+the	the	at
+recent	recent	jj
+psychological	psychological	jj
+literature	literature	nn1
+.	.	y
+36(1)		fo
+,	,	y
+84-6	84-6	mcmc
+.	.	y
+Radhakrishnan	radhakrishnan	np1_nn1
+,	,	y
+P.	xx_p	np1
+,	,	y
+Lam	lam	np1
+,	,	y
+D.	d	np1
+,	,	y
+&;		null
+Ho	ho	np1_uh@
+,	,	y
+G.	g	np1
+,	,	y
+Giving	give	vvg
+University	university	nn1
+students	student	nn2
+incentives	incentive	nn2
+to	to	to
+do	do	vdi
+homework	homework	nn1
+improves	improve	vvz
+their	their	appge
+performance	performance	nn1
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+219-24	219-24	mcmc
+.	.	y
+Ratanasiripong	ratanasiripong	vv0_nn1_np1@
+,	,	y
+P.	xx_p	np1
+,	,	y
+&;		null
+Ghafoori	ghafoori	np1_nn1
+,	,	y
+B.	b	np1
+,	,	y
+Setting	set	vvg
+up	up	rp_ii@
+the	the	at
+on-site	on-site	jj
+marriage	marriage	nn1
+and	and	cc
+family	family	nn1
+therapy	therapy	nn1
+clinical	clinical	jj
+training	training	nn1
+course	course	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+347-351		mcmc
+.	.	y
+Reig	reig	vv0_nn1_np1@
+,	,	y
+S.A.	sa	np1
+&;		null
+Paquette	paquette	np1
+,	,	y
+K.R.	kr	np1
+,	,	y
+Using	use	vvg
+drama	drama	nn1
+and	and	cc
+movement	movement	nn1
+to	to	to
+enhance	enhance	vvi
+English	english	jj_nn1
+language	language	nn1
+learners	learner	nn2
+'	'	ge
+literacy	literacy	nn1
+development	development	nn1
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+148-154		mcmc
+.	.	y
+Salinas	salinas	np1
+,	,	y
+M.F.	mf	np1
+&;		null
+Garr	garr	np1
+,	,	y
+J.	xx_j	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+minority	minority	nn1
+students	student	nn2
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+226-37		mcmc
+.	.	y
+Segrist	segrist	nn1_np1@
+,	,	y
+D.	d	np1
+&;		null
+Pawlow	pawlow	np1
+,	,	y
+L.	l	zz
+,	,	y
+Whom	whom	pnqo
+do	do	vd0
+you	you	ppy
+know	know	vvi
+?	?	y
+Demonstrating	demonstrate	vvg
+networking	networking	nn1_vvg
+in	in	ii
+careers	career	nn2
+in	in	ii
+psychology	psychology	nn1
+course	course	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+352-356		mcmc
+.	.	y
+Shen	shen	fw
+,	,	y
+Yi	yi	np1
+.	.	y
+&;		null
+Tsai	tsai	fw
+,	,	y
+HC.		np1
+,	,	y
+Design	design	nn1_vv0@
+principles	principle	nn2
+of	of	io
+work	work	nn1
+examples	example	nn2
+:	:	y
+A	a	at1@_zz1
+review	review	nn1
+of	of	io
+the	the	at
+imperial	imperial	jj
+studies	study	nn2
+.	.	y
+36(3)	36(3)	fo
+,	,	y
+238-44	238-44	mcmc
+.	.	y
+Shirvani	shirvani	nn2_np1@
+,	,	y
+H	h	zz1
+,	,	y
+Does	do	vdz
+your	your	appge
+elementary	elementary	jj
+mathematics	mathematics	nn1
+methodology	methodology	nn1
+class	class	nn1
+correspond	correspond	vv0
+to	to	ii
+constructivist	constructivist	nn1
+epistemology	epistemology	nn1
+?	?	y
+36(3)	36(3)	fo
+,	,	y
+245-258		mcmc
+.	.	y
+Simplicio	simplicio	nn1_np1@
+,	,	y
+J.	xx_j	np1
+,	,	y
+The	the	at
+Art	art	nn1
+of	of	io
+the	the	at
+Favor	favor	np1
+:	:	y
+The	the	at
+connection	connection	nn1
+between	between	ii
+networking	networking	nn1_vvg
+and	and	cc
+personal	personal	jj
+influence	influence	nn1
+within	within	ii
+a	a	at1
+college	college	nn1
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+155-7		mcmc
+.	.	y
+Supon	supon	nn1_np1@
+,	,	y
+V.	xx_v	nnu
+,	,	y
+Cursive	cursive	jj_np1
+Writing	writing	nn1
+:	:	y
+Are	be	vbr
+its	its	z'
+last	last	md
+days	day	nnt2
+approaching	approach	vvg
+?	?	y
+36(4)	36(4)	fo
+,	,	y
+357-359		mcmc
+.	.	y
+Sze	sze	vv0_nn1_np1@
+,	,	y
+S.	s	zz
+,	,	y
+Learning	learn	vvg_nn1
+and	and	cc
+the	the	at
+special	special	jj_nn1%
+needs	need	vvz
+child	child	nn1
+.	.	y
+36(4)	36(4)	fo
+,	,	y
+360-362		mcmc
+.	.	y
+Tareef	tareef	vv0_nn1_np1@
+,	,	y
+A.B.	a.b	np1
+,	,	y
+Scientific	scientific	jj
+research	research	nn1
+in	in	ii
+Jordanian	jordanian	jj
+higher	high	jjr
+education	education	nn1
+institutions	institution	nn2
+:	:	y
+Status	status	nn1
+and	and	cc
+obstacles	obstacle	nn2
+.	.	y
+36(2)	36(2)	fo
+,	,	y
+158-69	158-69	mcmc
+.	.	y
+Umar	umar	np1
+,	,	y
+F.M.	f.m	np1
+,	,	y
+Street	street	nn1
+Hawking	hawking	np1_vvg
+:	:	y
+Oppressing	oppress	vvg
+the	the	at
+girl	girl	nn1
+child	child	nn1
+or	or	cc
+family	family	nn1
+economic	economic	jj
+supplement	supplement	nn1
+?	?	y
+36(2)	36(2)	fo
+,	,	y
+169-74	169-74	mcmc
+.	.	y
+Ward	ward	np1_nn1
+,	,	y
+K.	k	np1
+&;		null
+Schwartzman	schwartzman	np1
+,	,	y
+R.	xx_r	np1
+,	,	y
+Building	build	vvg@_nn1
+interpersonal	interpersonal	jj
+relationships	relationship	nn2
+as	as	ii_csa
+a	a	at1
+key	key	nn1_jj
+to	to	ii
+Effective	effective	jj
+Speaking	speak	jj@_nn1@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii

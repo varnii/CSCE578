@@ -1,0 +1,114 @@
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    0 " The Yellow Wallpaper " by Charlotte Perkins is a very complex short story that keeps the reader intrigued and engaged .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    0 "_" The_AT Yellow_JJ Wallpaper_NN1 "_" by_II Charlotte_NP1 Perkins_NP1 is_VBZ a_AT1 very_RG complex_JJ short_JJ story_NN1 that_CST keeps_VVZ the_AT reader_NN1 intrigued_VVN and_CC engaged_VVN ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    1 According to Gilman , " women in the 19th century were consider second-class citizens , " ( Gilman 153 ) .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    1 According_II21 to_II22 Gilman_NP1 ,_, "_" women_NN2 in_II the_AT 19th_MD century_NNT1 were_VBDR consider_VV0 second-class_JJ citizens_NN2 ,_, "_" (_( Gilman_NP1 153_MC )_) ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    2 Second class citizens had to stay in their homes and denied most of their rights .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    2 Second_MD class_NN1 citizens_NN2 had_VHD to_TO stay_VVI in_II their_APPGE homes_NN2 and_CC denied_VVD most_DAT of_IO their_APPGE rights_NN2 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    3 The narrator is a prime example of this so called second class citizen .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    3 The_AT narrator_NN1 is_VBZ a_AT1 prime_JJ example_NN1 of_IO this_DD1 so_JJ21 called_JJ22 second_MD class_NN1 citizen_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    4 She is basically denied her right to do the hobbies that she loves to do because she needed to " rest " .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    4 She_PPHS1 is_VBZ basically_RR denied_VVN her_APPGE right_NN1 to_TO do_VDI the_AT hobbies_NN2 that_CST she_PPHS1 loves_VVZ to_TO do_VDI because_CS she_PPHS1 needed_VVD to_TO "_" rest_VVI "_" ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    5 Jane is watched by her husband like an hawk .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    5 Jane_NP1 is_VBZ watched_VVN by_II her_APPGE husband_NN1 like_II an_AT1 hawk_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    6 He is also her physician and constantly does not take her seriously .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    6 He_PPHS1 is_VBZ also_RR her_APPGE physician_NN1 and_CC constantly_RR does_VDZ not_XX take_VVI her_PPHO1 seriously_RR ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    7 He continuously laughs at her and the narrator states , " he has no patience , " ( Gilman 153 ) .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    7 He_PPHS1 continuously_RR laughs_VVZ at_II her_PPHO1 and_CC the_AT narrator_NN1 states_NN2 ,_, "_" he_PPHS1 has_VHZ no_AT patience_NN1 ,_, "_" (_( Gilman_NP1 153_MC )_) ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    8 John belittles her just as any other citizen would belittle a woman in the 19th century .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    8 John_NP1 belittles_VVZ her_PPHO1 just_RR as_CSA any_DD other_JJ citizen_NN1 would_VM belittle_VVI a_AT1 woman_NN1 in_II the_AT 19th_MD century_NNT1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0    9 The narrator is a very confusing woman who starts just fine , but later in the story , insanity takes over her body .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0    9 The_AT narrator_NN1 is_VBZ a_AT1 very_RG confusing_JJ woman_NN1 who_PNQS starts_VVZ just_RR fine_JJ ,_, but_CCB later_RRR in_II the_AT story_NN1 ,_, insanity_NN1 takes_VVZ over_RP her_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0   10 She shows great fear and portrays a sarcastic , angry , and desperate character .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0   10 She_PPHS1 shows_VVZ great_JJ fear_NN1 and_CC portrays_VVZ a_AT1 sarcastic_JJ ,_, angry_JJ ,_, and_CC desperate_JJ character_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0   11 Jane does not know what her name exactly is because she lost sight of the world .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0   11 Jane_NP1 does_VDZ not_XX know_VVI what_DDQ her_APPGE name_NN1 exactly_RR is_VBZ because_CS she_PPHS1 lost_VVD sight_NN1 of_IO the_AT world_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0   12 In order to find herself again she must lose track of her surroundings just to be able to see herself in a better manner .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0   12 In_BCL21 order_BCL22 to_TO find_VVI herself_PPX1 again_RT she_PPHS1 must_VM lose_VVI track_NN1 of_IO her_APPGE surroundings_NN2 just_RR to_TO be_VBI able_JK to_TO see_VVI herself_PPX1 in_II a_AT1 better_JJR manner_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    0   13 In order to illustrate this identity problem , in this essay I will argue how the wallpaper becomes the key to her identity .
+SENTPOS 2014_4_101_500_509_1 FINAL B    0   13 In_BCL21 order_BCL22 to_TO illustrate_VVI this_DD1 identity_NN1 problem_NN1 ,_, in_II this_DD1 essay_NN1 I_PPIS1 will_VM argue_VVI how_RRQ the_AT wallpaper_NN1 becomes_VVZ the_AT key_NN1 to_II her_APPGE identity_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   14 She comes into connection with the wallpaper in one of the rooms in her mansion .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   14 She_PPHS1 comes_VVZ into_II connection_NN1 with_IW the_AT wallpaper_NN1 in_II one_MC1 of_IO the_AT rooms_NN2 in_II her_APPGE mansion_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   15 The wallpaper symbolizes an undefined text , an undefined person , represents her family and life , and it is similar to a puzzle that appears unpleasant at first .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   15 The_AT wallpaper_NN1 symbolizes_VVZ an_AT1 undefined_JJ text_NN1 ,_, an_AT1 undefined_JJ person_NN1 ,_, represents_VVZ her_APPGE family_NN1 and_CC life_NN1 ,_, and_CC it_PPH1 is_VBZ similar_JJ to_II a_AT1 puzzle_NN1 that_CST appears_VVZ unpleasant_JJ at_RR21 first_RR22 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   16 The narrator states , " the paint and paper looks as if it was used in a boys school , it is stripped off in great patches all around the head of the bed ... worse paper in my life , " ( Gilman 155 ) .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   16 The_AT narrator_NN1 states_NN2 ,_, "_" the_AT paint_NN1 and_CC paper_NN1 looks_VVZ as_CS21 if_CS22 it_PPH1 was_VBDZ used_VVN in_II a_AT1 boys_NN2 school_NN1 ,_, it_PPH1 is_VBZ stripped_VVN off_RP in_II great_JJ patches_NN2 all_DB around_II the_AT head_NN1 of_IO the_AT bed_NN1 ..._... worse_JJR paper_NN1 in_II my_APPGE life_NN1 ,_, "_" (_( Gilman_NP1 155_MC )_) ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   17 This can be characterized as her thoughts of how she wants life to be and how she wants to be treated .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   17 This_DD1 can_VM be_VBI characterized_VVN as_CSA her_APPGE thoughts_NN2 of_IO how_RRQ she_PPHS1 wants_VVZ life_NN1 to_TO be_VBI and_CC how_RRQ she_PPHS1 wants_VVZ to_TO be_VBI treated_VVN ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   18 The wallpaper is a key symbol in the story .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   18 The_AT wallpaper_NN1 is_VBZ a_AT1 key_JJ symbol_NN1 in_II the_AT story_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   19 It resembles the narrator in how she can not find herself .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   19 It_PPH1 resembles_VVZ the_AT narrator_NN1 in_II how_RRQ she_PPHS1 can_VM not_XX find_VVI herself_PPX1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   20 As she tears the wallpaper , it reveals a certain piece to the puzzle .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   20 As_CSA she_PPHS1 tears_VVZ@ the_AT wallpaper_NN1 ,_, it_PPH1 reveals_VVZ a_AT1 certain_JJ piece_NN1 to_II the_AT puzzle_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   21 As the paper remains unpleasant and unclear she too remains unsolved which forces her to get more and more separated by day from her family and friends .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   21 As_II the_AT paper_NN1 remains_VVZ unpleasant_JJ and_CC unclear_JJ she_PPHS1 too_RR@ remains_VVZ unsolved_JJ which_DDQ forces_VVZ@ her_PPHO1 to_TO get_VVI more_DAR and_CC more_RRR separated_VVN by_II day_NNT1 from_II her_APPGE family_NN1 and_CC friends_NN2 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   22 She begins to see these women just like her creeping up on her .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   22 She_PPHS1 begins_VVZ to_TO see_VVI these_DD2 women_NN2 just_RR like_II her_PPHO1 creeping_VVG up_RP on_II her_PPHO1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   23 The reader would infer that those women were just her missing identities , " I wonder if they all come out of that wallpaper as I did ? " ,
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   23 The_AT reader_NN1 would_VM infer_VVI that_CST those_DD2 women_NN2 were_VBDR just_RR her_APPGE missing_JJ identities_NN2 ,_, "_" I_PPIS1 wonder_VV0 if_CSW@ they_PPHS2 all_DB come_VV0 out_II21 of_II22 that_DD1 wallpaper_NN1 as_CSA I_PPIS1 did_VDD ?_? "_" ,_,
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   24 ( Gilman 165 ) .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   24 (_( Gilman_NN1 165_MC )_) ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   25 Frustrated with herself , Jane becomes desperate enough to do something crazy , like jump out of a window .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   25 Frustrated_VVN with_IW herself_PPX1 ,_, Jane_NP1 becomes_VVZ desperate_JJ enough_RR to_TO do_VDI something_PN1 crazy_JJ ,_, like_II jump_NN1 out_II21 of_II22 a_AT1 window_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    1   26 She does not see the point of living if she does n't know who she is .
+SENTPOS 2014_4_101_500_509_1 FINAL B    1   26 She_PPHS1 does_VDZ not_XX see_VVI the_AT point_NN1 of_IO living_NN1 if_CS she_PPHS1 does_VDZ n't_XX know_VVI who_PNQS she_PPHS1 is_VBZ ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    2   27 Not being able to jump out the window , she then tears all of the wallpaper off , and she finally sees the person she truly is .
+SENTPOS 2014_4_101_500_509_1 FINAL B    2   27 Not_XX being_VBG able_JK to_TO jump_VVI out_RP the_AT window_NN1 ,_, she_PPHS1 then_RT tears_VVZ@ all_DB of_IO the_AT wallpaper_NN1 off_RP ,_, and_CC she_PPHS1 finally_RR sees_VVZ the_AT person_NN1 she_PPHS1 truly_RR is_VBZ ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    2   28 She then states , " no one can put me back inside the walls now , " ( Gilman 164 ) .
+SENTPOS 2014_4_101_500_509_1 FINAL B    2   28 She_PPHS1 then_RT states_VVZ ,_, "_" no_PN121 one_PN122 can_VM put_VVI me_PPIO1 back_RP inside_II the_AT walls_NN2 now_RT ,_, "_" (_( Gilman_NP1 164_MC )_) ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    2   29 Ending the uncertainty of her identity stating that no one can put her back in the walls is saying that she will not lose her identity anymore .
+SENTPOS 2014_4_101_500_509_1 FINAL B    2   29 Ending_VVG the_AT uncertainty_NN1 of_IO her_APPGE identity_NN1 stating_VVG that_CST no_PN121 one_PN122 can_VM put_VVI her_PPHO1 back_RP in_II the_AT walls_NN2 is_VBZ saying_VVG that_CST she_PPHS1 will_VM not_XX lose_VVI her_APPGE identity_NN1 anymore_RR ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    2   30 She is growing up along with societies view on women and believes that she is a stronger person now .
+SENTPOS 2014_4_101_500_509_1 FINAL B    2   30 She_PPHS1 is_VBZ growing_VVG up_RP along_II21 with_II22 societies_NN2 view_VV0@ on_II women_NN2 and_CC believes_VVZ that_CST she_PPHS1 is_VBZ a_AT1 stronger_JJR person_NN1 now_RT ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    2   31 She is becoming an improved person and knows who exactly she should be .
+SENTPOS 2014_4_101_500_509_1 FINAL B    2   31 She_PPHS1 is_VBZ becoming_VVG an_AT1 improved_JJ person_NN1 and_CC knows_VVZ who_PNQS exactly_RR she_PPHS1 should_VM be_VBI ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    2   32 After revealing the mystery of the wallpaper woman , Jane understands who she can truly be and refuses to be mistreated .
+SENTPOS 2014_4_101_500_509_1 FINAL B    2   32 After_II revealing_VVG the_AT mystery_NN1 of_IO the_AT wallpaper_NN1 woman_NN1 ,_, Jane_NP1 understands_VVZ who_PNQS she_PPHS1 can_VM truly_RR be_VBI and_CC refuses_VVZ to_TO be_VBI mistreated_VVN@ ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   33 The image she sees hiding behind the wallpaper is the missing identity she has been trying to find this whole time .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   33 The_AT image_NN1 she_PPHS1 sees_VVZ hiding_VVG behind_II the_AT wallpaper_NN1 is_VBZ the_AT missing_JJ identity_NN1 she_PPHS1 has_VHZ been_VBN trying_VVG to_TO find_VVI this_DD1 whole_JJ time_NNT1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   34 " The wallpaper has a kind of sub-pattern in a different shade , a particularly irritating one , for you can only see it in certain lights , and not clearly then , " ( Gilman 157 ) , says the narrator .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   34 "_" The_AT wallpaper_NN1 has_VHZ a_AT1 kind_NN1 of_IO sub-pattern_NN1 in_II a_AT1 different_JJ shade_NN1 ,_, a_AT1 particularly_RR irritating_JJ one_PN1 ,_, for_IF you_PPY can_VM only_RR see_VVI it_PPH1 in_II certain_JJ lights_NN2 ,_, and_CC not_XX clearly_RR then_RT ,_, "_" (_( Gilman_NP1 157_MC )_) ,_, says_VVZ the_AT narrator_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   35 The pattern can be sort of an the obstacles Jane has to go through and the changing of the pattern may compare to the growth she creates .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   35 The_AT pattern_NN1 can_VM be_VBI sort_RR21@ of_RR22 an_AT1 the_AT obstacles_NN2 Jane_NP1 has_VHZ to_TO go_VVI through_RP@ and_CC the_AT changing_NN1@ of_IO the_AT pattern_NN1 may_VM compare_VVI to_II the_AT growth_NN1 she_PPHS1 creates_VVZ ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   36 Jane looks at this pattern and she says it was faded .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   36 Jane_NP1 looks_VVZ at_II this_DD1 pattern_NN1 and_CC she_PPHS1 says_VVZ it_PPH1 was_VBDZ faded_VVN ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   37 This could compare to the fact that she believes no one sees her for what she truly is or treats her as important as she should be treated .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   37 This_DD1 could_VM compare_VVI to_II the_AT fact_NN1 that_CST she_PPHS1 believes_VVZ no_PN121 one_PN122 sees_VVZ her_PPHO1 for_IF what_DDQ she_PPHS1 truly_RR is_VBZ or_CC treats_VVZ her_PPHO1 as_RG important_JJ as_CSA she_PPHS1 should_VM be_VBI treated_VVN ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   38 No one really sees her .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   38 No_PN121 one_PN122 really_RR sees_VVZ her_PPHO1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   39 Apparently , she is still in hiding .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   39 Apparently_RR ,_, she_PPHS1 is_VBZ still_RR in_II hiding_VVG ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    3   40 The other people can see her but not so clearly .
+SENTPOS 2014_4_101_500_509_1 FINAL B    3   40 The_AT other_JJ people_NN can_VM see_VVI her_PPHO1 but_CCB not_XX so_RG clearly_RR ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   41 Unequal marriage implied that Jane was not as important as she thought she was because her husband treated her badly .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   41 Unequal_JJ marriage_NN1 implied_VVD that_CST Jane_NP1 was_VBDZ not_XX as_RG important_JJ as_CSA she_PPHS1 thought_VVD she_PPHS1 was_VBDZ because_CS her_APPGE husband_NN1 treated_VVN her_PPHO1 badly_RR ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   42 All she wants is freedom to cure her illness she does not like the fact that her husband makes fun of her saying she really is not sick .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   42 All_DB she_PPHS1 wants_VVZ is_VBZ freedom_NN1 to_TO cure_VVI her_APPGE illness_NN1 she_PPHS1 does_VDZ not_XX like_VVI the_AT fact_NN1 that_CST her_APPGE husband_NN1 makes_VVZ fun_NN1 of_IO her_APPGE saying_NN1@ she_PPHS1 really_RR is_VBZ not_XX sick_JJ ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   43 She is just sick of the fact that no one not even herself knows who she is .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   43 She_PPHS1 is_VBZ just_RR sick_JJ of_IO the_AT fact_NN1 that_CST no_PN121 one_PN122 not_XX even_RR herself_PPX1 knows_VVZ who_PNQS she_PPHS1 is_VBZ ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   44 Imagine how she feels without support in her quest for identification .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   44 Imagine_VV0 how_RRQ she_PPHS1 feels_VVZ without_IW support_NN1 in_II her_APPGE quest_NN1 for_IF identification_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   45 John tells her to stop writing and this may be a factor that forces her to go crazy and tear off the wallpaper .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   45 John_NP1 tells_VVZ her_PPHO1 to_TO stop_VVI writing_NN1 and_CC this_DD1 may_VM be_VBI a_AT1 factor_NN1 that_CST forces_VVZ@ her_PPHO1 to_TO go_VVI crazy_JJ and_CC tear_NN1 off_II the_AT wallpaper_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   46 Jane grows weary at the situation and she has had enough .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   46 Jane_NP1 grows_VVZ weary_JJ at_II the_AT situation_NN1 and_CC she_PPHS1 has_VHZ had_VHN enough_DD ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    4   47 Disobeying her husband 's orders , she reveals the mystery woman behind the image .
+SENTPOS 2014_4_101_500_509_1 FINAL B    4   47 Disobeying_VVG her_APPGE husband_NN1 's_GE orders_NN2 ,_, she_PPHS1 reveals_VVZ the_AT mystery_NN1 woman_NN1 behind_II the_AT image_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   48 The Yellow Wallpaper is a very interesting story there are many lessons to learn from in this particular text .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   48 The_AT Yellow_JJ Wallpaper_NN1 is_VBZ a_AT1 very_RG interesting_JJ story_NN1 there_EX are_VBR many_DA2 lessons_NN2 to_TO learn_VVI from_II in_II this_DD1 particular_JJ text_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   49 The wallpaper takes over the narrator 's imagination , which causes her to lose control of her body .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   49 The_AT wallpaper_NN1 takes_VVZ over_II the_AT narrator_NN1 's_GE imagination_NN1 ,_, which_DDQ causes_VVZ her_PPHO1 to_TO lose_VVI control_NN1 of_IO her_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   50 This connects with the imagery of the woman hiding behind the picture .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   50 This_DD1 connects_VVZ with_IW the_AT imagery_NN1 of_IO the_AT woman_NN1 hiding_VVG behind_II the_AT picture_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   51 It does this because she hides how she truly feels about the wallpaper .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   51 It_PPH1 does_VDZ this_DD1 because_CS she_PPHS1 hides_VVZ how_RRQ she_PPHS1 truly_RR feels_VVZ about_II the_AT wallpaper_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   52 Jane knows her husband will grow angry with her if she reveals the secret wallpaper .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   52 Jane_NP1 knows_VVZ her_APPGE husband_NN1 will_VM grow_VVI angry_JJ with_IW her_PPHO1 if_CS she_PPHS1 reveals_VVZ the_AT secret_JJ wallpaper_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   53 She states that she sees the woman shaking the bars in the middle of the night she is trying to get out when no one is around to see her .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   53 She_PPHS1 states_VVZ that_CST she_PPHS1 sees_VVZ the_AT woman_NN1 shaking_VVG the_AT bars_NN2 in_II the_AT middle_NN1 of_IO the_AT night_NNT1 she_PPHS1 is_VBZ trying_VVG to_TO get_VVI out_RP when_CS no_PN121 one_PN122 is_VBZ around_RP to_TO see_VVI her_PPHO1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   54 Jane is trying too secretly help this mystery woman because she feels she is identical to her and her situation .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   54 Jane_NP1 is_VBZ trying_VVG too_RG secretly_RR help_VV0 this_DD1 mystery_NN1 woman_NN1 because_CS she_PPHS1 feels_VVZ she_PPHS1 is_VBZ identical_JJ to_II her_PPHO1 and_CC her_APPGE situation_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   55 It was a very secretive story itself I felt like I was exactly like the woman trying to solve this puzzle .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   55 It_PPH1 was_VBDZ a_AT1 very_RG secretive_JJ story_NN1 itself_PPX1 I_PPIS1 felt_VVD like_CS% I_PPIS1 was_VBDZ exactly_RR like_II the_AT woman_NN1 trying_VVG to_TO solve_VVI this_DD1 puzzle_NN1 ._.
+SENTPOS 2014_4_101_500_509_1 FINAL A    5   55  It was a very hard story to understand , but close reading it has actually helped me to fully compare the narrator to a second class citizen in America .
+SENTPOS 2014_4_101_500_509_1 FINAL B    5   55  It_PPH1 was_VBDZ a_AT1 very_RG hard_JJ story_NN1 to_TO understand_VVI ,_, but_CCB close_VV0 reading_VVG it_PPH1 has_VHZ actually_RR helped_VVN me_PPIO1 to_TO fully_RR compare_VVI the_AT narrator_NN1 to_II a_AT1 second_MD class_NN1 citizen_NN1 in_II America_NP1 ._.

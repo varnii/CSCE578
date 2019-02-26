@@ -1,0 +1,144 @@
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    0 " I like you , Seneca .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    0 "_" I_PPIS1 like_VV0 you_PPY ,_, Seneca_NP1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    1 Be careful , ( Ross ) " spoken by President Snow , are some of the most ominous words in The Hunger Games film .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    1 Be_VB0 careful_JJ ,_, (_( Ross_NP1 )_) "_" spoken_VVN by_II President_NNB Snow_NP1 ,_, are_VBR some_DD of_IO the_AT most_RGT ominous_JJ words_NN2 in_II The_AT Hunger_NN1 Games_NN2 film_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    2 The dread of these words comes to life as Seneca Crane is taken to his execution .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    2 The_AT dread_NN1 of_IO these_DD2 words_NN2 comes_VVZ to_II life_NN1 as_CSA Seneca_NP1 Crane_NP1 is_VBZ taken_VVN to_II his_APPGE execution_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    3 He is locked in an ornate room with a bowl of toxic nightlock berries .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    3 He_PPHS1 is_VBZ locked_VVN in_II an_AT1 ornate_JJ room_NN1 with_IW a_AT1 bowl_NN1 of_IO toxic_JJ nightlock_NN1 berries_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    4 His only option is suicide .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    4 His_APPGE only_JJ option_NN1 is_VBZ suicide_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    5 Shortly after , the movie cuts to President Snow in the gameroom .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    5 Shortly_RR after_CS ,_, the_AT movie_NN1 cuts_VVZ to_II President_NNB Snow_NP1 in_II the_AT gameroom_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    0    6 By looking at these scenes we can see the beauty the Capitol portrays the Districts contrasted with its truly stark cruelty ; this is important because it reveals the deceivingly totalitarian nature of the Capitol .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    0    6 By_II looking_VVG at_II these_DD2 scenes_NN2 we_PPIS2 can_VM see_VVI the_AT beauty_NN1 the_AT Capitol_NP1 portrays_VVZ the_AT Districts_NN2 contrasted_VVD with_IW its_APPGE truly_RR stark_JJ cruelty_NN1 ;_; this_DD1 is_VBZ important_JJ because_CS it_PPH1 reveals_VVZ the_AT deceivingly_RR totalitarian_JJ nature_NN1 of_IO the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1    7 At first the room Seneca is left in seems to be a pleasant place .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1    7 At_RR21 first_RR22 the_AT room_NN1 Seneca_NP1 is_VBZ left_VVN in_RP@ seems_VVZ to_TO be_VBI a_AT1 pleasant_JJ place_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1    8 It is luxuriously decorated with wood paneled walls and marble floors .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1    8 It_PPH1 is_VBZ luxuriously_RR decorated_VVN with_IW wood_NN1 paneled_VVD walls_NN2 and_CC marble_NN1 floors_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1    9 The marble also forms columns up the walls .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1    9 The_AT marble_NN1 also_RR forms_VVZ columns_NN2 up_II the_AT walls_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   10 The space is adorned with golden sconces and an embossed table with legs carved from two golden eagles .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   10 The_AT space_NN1 is_VBZ adorned_VVN with_IW golden_JJ sconces_NN2 and_CC an_AT1 embossed_JJ table_NN1 with_IW legs_NN2 carved_VVN from_II two_MC golden_JJ eagles_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   11 An elegant chandelier hangs in the center of the room , and a cluster of white roses is off to one side .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   11 An_AT1 elegant_JJ chandelier_NN1 hangs_VVZ in_II the_AT center_NN1 of_IO the_AT room_NN1 ,_, and_CC a_AT1 cluster_NN1 of_IO white_JJ roses_NN2 is_VBZ off_RP to_II one_MC1 side_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   12 The Capitol seal is above the door .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   12 The_AT Capitol_NP1 seal_NN1 is_VBZ above_II the_AT door_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   13 Even the bowl filled with deadly berries is beautifully shaped .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   13 Even_RR the_AT bowl_NN1 filled_VVN with_IW deadly_JJ berries_NN2 is_VBZ beautifully_RR shaped_VVN ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   14 The overall appearance of the room is that of a manor from history , although there are modern touches .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   14 The_AT overall_JJ appearance_NN1 of_IO the_AT room_NN1 is_VBZ that_DD1 of_IO a_AT1 manor_NN1 from_II history_NN1 ,_, although_CS there_EX are_VBR modern_JJ touches_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   15 The door is made of a metal reminiscent of stainless steel and is covered by small rectangular slats .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   15 The_AT door_NN1 is_VBZ made_VVN of_IO a_AT1 metal_NN1 reminiscent_JJ of_IO stainless_JJ steel_NN1 and_CC is_VBZ covered_VVN by_II small_JJ rectangular_JJ slats_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   16 The music at this moment does not fit the setting .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   16 The_AT music_NN1 at_II this_DD1 moment_NN1 does_VDZ not_XX fit_VVI the_AT setting_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   17 It is futuristic and seems to building up or counting down to an event .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   17 It_PPH1 is_VBZ futuristic_JJ and_CC seems_VVZ to_II building_VVG@ up_RP or_CC counting_VVG down_RP to_II an_AT1 event_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   18 The window is shown briefly behind the berries , but it appears to have bars across it .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   18 The_AT window_NN1 is_VBZ shown_VVN briefly_RR behind_II the_AT berries_NN2 ,_, but_CCB it_PPH1 appears_VVZ to_TO have_VHI bars_NN2 across_II it_PPH1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   19 The doors are locked as well .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   19 The_AT doors_NN2 are_VBR locked_VVN as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    1   20 Even though this room is beautiful at first glance , it is definitely a prison .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    1   20 Even_CS21 though_CS22 this_DD1 room_NN1 is_VBZ beautiful_JJ at_II first_MD glance_NN1 ,_, it_PPH1 is_VBZ definitely_RR a_AT1 prison_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   21 On the other hand , the gameroom is very simple .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   21 On_II the_AT other_JJ hand_NN1 ,_, the_AT gameroom_NN1 is_VBZ very_RG simple_JJ ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   22 It seems to be underground and is illuminated only by artificial light .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   22 It_PPH1 seems_VVZ to_TO be_VBI underground_RL and_CC is_VBZ illuminated_VVN only_RR by_II artificial_JJ light_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   23 All the workers are dressed in white uniforms .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   23 All_DB the_AT workers_NN2 are_VBR dressed_VVN in_II white_JJ uniforms_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   24 It looks very polished and is free of clutter .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   24 It_PPH1 looks_VVZ very_RG polished_JJ and_CC is_VBZ free_JJ of_IO clutter_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   25 It is undecorated , with its ample technology as its only boast .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   25 It_PPH1 is_VBZ undecorated_JJ ,_, with_IW its_APPGE ample_JJ technology_NN1 as_CSA its_APPGE only_JJ boast_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   26 Although this room is very futuristic , it is also extremely plain when compared to the berry room .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   26 Although_CS this_DD1 room_NN1 is_VBZ very_RG futuristic_JJ ,_, it_PPH1 is_VBZ also_RR extremely_RR plain_JJ when_CS compared_VVN to_II the_AT berry_NN1 room_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   27 Its shape is also unique .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   27 Its_APPGE shape_NN1 is_VBZ also_RR unique_JJ ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   28 This scene begins from behind President Snow , providing an excellent view of its circular appearance .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   28 This_DD1 scene_NN1 begins_VVZ from_II behind_II President_NNB Snow_NP1 ,_, providing_VVG an_AT1 excellent_JJ view_NN1 of_IO its_APPGE circular_JJ appearance_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   29 Since all of the screens are on one side , this at first is not understandable .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   29 Since_CS all_DB of_IO the_AT screens_NN2 are_VBR on_II one_MC1 side_NN1 ,_, this_DD1 at_RR21 first_RR22 is_VBZ not_XX understandable_JJ ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   30 However , this room is actually an arena shape and all of the workers are beneath Snow .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   30 However_RR ,_, this_DD1 room_NN1 is_VBZ actually_RR an_AT1 arena_NN1 shape_NN1 and_CC all_DB of_IO the_AT workers_NN2 are_VBR beneath_II Snow_NP1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   31 The orientation is from his point of view , but the effect is the audience feels his dominion the way his subjects do .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   31 The_AT orientation_NN1 is_VBZ from_II his_APPGE point_NN1 of_IO view_NN1 ,_, but_CCB the_AT effect_NN1 is_VBZ the_AT audience_NN1 feels_VVZ his_APPGE dominion_NN1 the_AT way_NN1 his_APPGE subjects_NN2 do_VD0 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   32 Also , the same musical piece from the scene with Seneca Crane has continued up to this point .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   32 Also_RR ,_, the_AT same_DA musical_JJ piece_NN1 from_II the_AT scene_NN1 with_IW Seneca_NP1 Crane_NP1 has_VHZ continued_VVN up_II21 to_II22 this_DD1 point_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   33 As Snow begins to leave the room , however , it gains an eerie quality .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   33 As_CSA Snow_NP1 begins_VVZ to_TO leave_VVI the_AT room_NN1 ,_, however_RR ,_, it_PPH1 gains_VVZ@ an_AT1 eerie_JJ quality_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    2   34 It has also reached its climax , which lends itself to the idea that it has reached what it was building up to .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    2   34 It_PPH1 has_VHZ also_RR reached_VVN its_APPGE climax_NN1 ,_, which_DDQ lends_VVZ itself_PPX1 to_II the_AT idea_NN1 that_CST it_PPH1 has_VHZ reached_VVN what_DDQ it_PPH1 was_VBDZ building_VVG@ up_II21 to_II22 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   35 The primary significance of these scenes is that they highlight the defining characteristics of the Capitol .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   35 The_AT primary_JJ significance_NN1 of_IO these_DD2 scenes_NN2 is_VBZ that_CST they_PPHS2 highlight_VV0 the_AT defining_JJ@ characteristics_NN2 of_IO the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   36 The room with Seneca is very ornate , which shows the Capitols outside appearance .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   36 The_AT room_NN1 with_IW Seneca_NP1 is_VBZ very_RG ornate_JJ ,_, which_DDQ shows_VVZ the_AT Capitols_NP2 outside_II appearance_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   37 The Capitol 's disloyalty is displayed by its willingness to eliminate its own citizens .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   37 The_AT Capitol_NP1 's_GE disloyalty_NN1 is_VBZ displayed_VVN by_II its_APPGE willingness_NN1 to_TO eliminate_VVI its_APPGE own_DA citizens_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   38 This scene shows the Capitol also uses terror tactics on its people .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   38 This_DD1 scene_NN1 shows_VVZ the_AT Capitol_NP1 also_RR uses_VVZ terror_NN1 tactics_NN2 on_II its_APPGE people_NN ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   39 Seneca is made to kill himself using the method that Katniss and Peeta would have used to defy the Capitol .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   39 Seneca_NN1 is_VBZ made_VVN to_TO kill_VVI himself_PPX1 using_VVG the_AT method_NN1 that_CST Katniss_NP1 and_CC Peeta_NP1 would_VM have_VHI used_VVN to_TO defy_VVI the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   40 In his last moments he is being shown his mistake and ridiculed for it .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   40 In_II his_APPGE last_MD moments_NN2 he_PPHS1 is_VBZ being_VBG shown_VVN his_APPGE mistake_NN1 and_CC ridiculed_VVN for_IF it_PPH1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   41 At the same time , President Snow is seemingly gracious .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   41 At_II the_AT same_DA time_NNT1 ,_, President_NNB Snow_NP1 is_VBZ seemingly_RR gracious_JJ ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   42 Although this is Seneca 's execution , he is in a room made for a king .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   42 Although_CS this_DD1 is_VBZ Seneca_NP1 's_GE execution_NN1 ,_, he_PPHS1 is_VBZ in_II a_AT1 room_NN1 made_VVN for_IF a_AT1 king_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   43 The Nightlock berries presented to him act quickly .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   43 The_AT Nightlock_NP1 berries_NN2 presented_VVN to_II him_PPHO1 act_VV0 quickly_RR ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   44 He will not go through a long painful death .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   44 He_PPHS1 will_VM not_XX go_VVI through_II a_AT1 long_JJ painful_JJ death_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   45 This scene also plays on the minds of the audience .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   45 This_DD1 scene_NN1 also_RR plays_VVZ on_II the_AT minds_NN2 of_IO the_AT audience_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   46 At the time they see the berries , they are glad of the poetic justice of the scene .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   46 At_II the_AT time_NNT1 they_PPHS2 see_VV0 the_AT berries_NN2 ,_, they_PPHS2 are_VBR glad_JJ of_IO the_AT poetic_JJ justice_NN1 of_IO the_AT scene_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   47 Seneca Crane is getting what he deserves for causing Katniss and Peeta such a horrible ordeal .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   47 Seneca_NP1@ Crane_NP1 is_VBZ getting_VVG what_DDQ he_PPHS1 deserves_VVZ for_IF causing_VVG Katniss_NN1 and_CC Peeta_NP1 such_DA a_AT1 horrible_JJ ordeal_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   48 Although Snow 's symbol of white roses is proudly displayed in the room with the berries , it is not until they see him in the gameroom that the watchers realize the true evil has only begun to emerge .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   48 Although_CS Snow_NP1 's_GE symbol_NN1 of_IO white_JJ roses_NN2 is_VBZ proudly_RR displayed_VVN in_II the_AT room_NN1 with_IW the_AT berries_NN2 ,_, it_PPH1 is_VBZ not_XX until_CS they_PPHS2 see_VV0 him_PPHO1 in_II the_AT gameroom_NN1 that_CST the_AT watchers_NN2 realize_VV0 the_AT true_JJ evil_NN1 has_VHZ only_RR begun_VVN to_TO emerge_VVI ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    3   49 Seneca was just a puppet , and life in Panem is about to be much worse .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    3   49 Seneca_NN1 was_VBDZ just_RR a_AT1 puppet_NN1 ,_, and_CC life_NN1 in_II Panem_NP1 is_VBZ about_RPK to_TO be_VBI much_RR worse_JJR ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   50 In the gameroom , Snow has a look of arrogance and control .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   50 In_II the_AT gameroom_NN1 ,_, Snow_NP1 has_VHZ a_AT1 look_NN1 of_IO arrogance_NN1 and_CC control_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   51 He is barely perturbed and not even flustered .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   51 He_PPHS1 is_VBZ barely_RR perturbed_VVN and_CC not_XX even_RR flustered_VVD ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   52 He views the current situation as a minor setback that will easily be alleviated .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   52 He_PPHS1 views_VVZ@ the_AT current_JJ situation_NN1 as_II a_AT1 minor_JJ setback_NN1 that_CST will_VM easily_RR be_VBI alleviated_VVN ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   53 He is portrayed standing in the shadows even though the rest of the room is well lit .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   53 He_PPHS1 is_VBZ portrayed_VVN standing_VVG in_II the_AT shadows_NN2 even_CS21 though_CS22 the_AT rest_NN1 of_IO the_AT room_NN1 is_VBZ well_RR lit_VVN ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   54 When he turns his back on the gameroom , it shows his confidence that everything is in order , and the predicament will be resolved .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   54 When_CS he_PPHS1 turns_VVZ his_APPGE back_NN1 on_II the_AT gameroom_NN1 ,_, it_PPH1 shows_VVZ his_APPGE confidence_NN1 that_CST everything_PN1 is_VBZ in_II order_NN1 ,_, and_CC the_AT predicament_NN1 will_VM be_VBI resolved_VVN ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   55 It is also a strong statement that his back is to the audience as he leaves .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   55 It_PPH1 is_VBZ also_RR a_AT1 strong_JJ statement_NN1 that_CST his_APPGE back_NN1 is_VBZ to_II the_AT audience_NN1 as_CSA he_PPHS1 leaves_VVZ ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   56 Usually such a position lends itself to weakness or fear ; in Snow 's case , it only expands on his dominance .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   56 Usually_RR such_DA a_AT1 position_NN1 lends_VVZ itself_PPX1 to_II weakness_NN1 or_CC fear_NN1 ;_; in_II Snow_NP1 's_GE case_NN1 ,_, it_PPH1 only_RR expands_VVZ on_II his_APPGE dominance_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   57 He turns with the appearance of one about to act , not as though a task has been completed .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   57 He_PPHS1 turns_VVZ with_IW the_AT appearance_NN1 of_IO one_MC1 about_RPK to_TO act_VVI ,_, not_XX as_CS21 though_CS22 a_AT1 task_NN1 has_VHZ been_VBN completed_VVN ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   58 Although the conflict of the film seems to be ending , this simple action reveals that much worse is about to come for all the characters .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   58 Although_CS the_AT conflict_NN1 of_IO the_AT film_NN1 seems_VVZ to_TO be_VBI ending_VVG ,_, this_DD1 simple_JJ action_NN1 reveals_VVZ that_RG much_DA1 worse_JJR is_VBZ about_RPK to_TO come_VVI for_IF all_DB the_AT characters_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   59 Also the camera angle pans around Snow , showing every aspect of his figure .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   59 Also_RR the_AT camera_NN1 angle_NN1 pans_NN2 around_II Snow_NP1 ,_, showing_VVG every_AT1 aspect_NN1 of_IO his_APPGE figure_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   60 Although the gameroom is very familiar at this point in the movie , it is never the primary focus of the scene .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   60 Although_CS the_AT gameroom_NN1 is_VBZ very_RG familiar_JJ at_II this_DD1 point_NN1 in_II the_AT movie_NN1 ,_, it_PPH1 is_VBZ never_RR the_AT primary_JJ focus_NN1 of_IO the_AT scene_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    4   61 All of these minor details in the screenplay show those watching Snow 's character , and thereby the true identity of the Capitol .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    4   61 All_DB of_IO these_DD2 minor_JJ details_NN2 in_II the_AT screenplay_NN1 show_VV0 those_DD2 watching_VVG Snow_NP1 's_GE character_NN1 ,_, and_CC thereby_RR the_AT true_JJ identity_NN1 of_IO the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   62 The Capitol is as multifaceted as a diamond .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   62 The_AT Capitol_NP1 is_VBZ as_RG multifaceted_JJ@ as_CSA a_AT1 diamond_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   63 On one hand , it is full of lavishness and wealth .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   63 On_II one_MC1 hand_NN1 ,_, it_PPH1 is_VBZ full_JJ of_IO lavishness_NN1 and_CC wealth_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   64 On the other , it demonstrates clinical simplicity .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   64 On_II the_AT other_JJ ,_, it_PPH1 demonstrates_VVZ clinical_JJ simplicity_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   65 The Capitol citizens do not realize they are being used , while those in the Districts starve to feed them .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   65 The_AT Capitol_NP1 citizens_NN2 do_VD0 not_XX realize_VVI they_PPHS2 are_VBR being_VBG used_VVN ,_, while_CS those_DD2 in_II the_AT Districts_NN2 starve_VV0 to_TO feed_VVI them_PPHO2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   66 The Hunger Games are portrayed to all as a way of uniting Panem for a better future .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   66 The_AT Hunger_NN1 Games_NN2 are_VBR portrayed_VVN to_II all_DB as_II a_AT1 way_NN1 of_IO uniting_JJ Panem_NN1 for_IF a_AT1 better_JJR future_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   67 Under this guise , the Capitol executes its decisions with an unemotional logic .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   67 Under_II this_DD1 guise_NN1 ,_, the_AT Capitol_NP1 executes_VVZ its_APPGE decisions_NN2 with_IW an_AT1 unemotional_JJ logic_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   68 It is loyal only to its goals .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   68 It_PPH1 is_VBZ loyal_JJ only_RR to_II its_APPGE goals_NN2 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   69 The elimination of Seneca Crane immediately followed by a focused view of President Snow reveals him as the only person controlling this massive machine .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   69 The_AT elimination_NN1 of_IO Seneca_NP1 Crane_NP1 immediately_RR followed_VVN by_II a_AT1 focused_JJ@ view_NN1 of_IO President_NNB Snow_NP1 reveals_VVZ him_PPHO1 as_II the_AT only_JJ person_NN1 controlling_VVG this_DD1 massive_JJ machine_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   70 As Seneca planned the circumstances of the tributes , Snow plans the events of the entire nation .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   70 As_CSA Seneca_NP1 planned_VVD the_AT circumstances_NN2 of_IO the_AT tributes_NN2 ,_, Snow_NP1 plans_VVZ the_AT events_NN2 of_IO the_AT entire_JJ nation_NN1 ._.
+SENTPOS 2014_4_101_000_010_2 DRAFT A    5   70  Although he is not always the one in the spotlight , he has always been the Head Gamemaker .
+SENTPOS 2014_4_101_000_010_2 DRAFT B    5   70  Although_CS he_PPHS1 is_VBZ not_XX always_RR the_AT one_PN1 in_II the_AT spotlight_NN1 ,_, he_PPHS1 has_VHZ always_RR been_VBN the_AT Head_NN1 Gamemaker_NN1 ._.

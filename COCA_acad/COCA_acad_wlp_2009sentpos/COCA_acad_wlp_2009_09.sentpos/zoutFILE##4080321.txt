@@ -1,0 +1,192 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    0 SO YOU JOINED a local writing group or got accepted into an MFA program , and you 're jazzed to polish -- and sell -- your piece .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    0 SO_CS@ YOU_PPY JOINED_VVD a_AT1 local_JJ writing_NN1 group_NN1 or_CC got_VVD_VVN accepted_VVN into_II an_AT1 MFA_NN1 program_NN1 ,_Y and_CC you_PPY 're_VBR jazzed_VVN@ to_TO polish_VVI --_ZZ and_CC sell_VVI --_NN1_JJ your_APPGE piece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    1 Not so fast .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    1 Not_XX so_RG_RR fast_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    2 While feedback from other writers as focused as you can be both frustrating ( Can you use another metaphor to explain Professor Wiley 's mental breakdown in the special collections room ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    2 While_CS feedback_NN1 from_II other_JJ writers_NN2 as_RG focused_JJ@_VVN as_CSA you_PPY can_VM be_VBI both_RR frustrating_JJ (_Y Can_VM you_PPY use_VVI another_DD1 metaphor_NN1 to_TO explain_VVI Professor_NNB Wiley_NP1 's_GE mental_JJ breakdown_NN1 in_II the_AT special_JJ collections_NN2 room_NN1_VV0% ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    3 I 'm just not feeling yours. ) and exhilarating ( I love your simile here !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    3 I_PPIS1 'm_VBM just_RR not_XX feeling_VVG yours._NNU )_Y and_CC exhilarating_JJ (_Y I_PPIS1 love_VV0 your_APPGE simile_NN1 here_RL !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    4 ) , there 's a flip side to all of this attention to your work : You will have to return the favor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    4 )_Y ,_Y there_EX 's_VBZ a_AT1 flip_NN1 side_NN1 to_II all_DB of_IO this_DD1 attention_NN1 to_II your_APPGE work_NN1 :_Y You_PPY will_VM have_VHI to_TO return_VVI the_AT favor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    5 Just how do you do that ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    5 Just_RR how_RRQ do_VD0 you_PPY do_VDI that_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    6 Here are some guidelines for giving a valuable critique : 1 When in doubt : read , read , read , and then summarize .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    6 Here_RL are_VBR some_DD guidelines_NN2 for_IF giving_VVG a_AT1 valuable_JJ critique_NN1 :_Y 1_MC1 When_CS in_II doubt_NN1 :_Y read_VV0 ,_Y read_VVD_VV0_VVN ,_Y read_VVD_VV0_VVN ,_Y and_CC then_RT summarize_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    7 You 've read through the first chapter of Chad 's memoir about the neighbor with the nervous tick , and nothing comes to mind .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    7 You_PPY 've_VH0 read_VVN through_II the_AT first_MD chapter_NN1 of_IO Chad_NP1 's_GE memoir_NN1 about_II the_AT neighbor_NN1 with_IW the_AT nervous_JJ tick_NN1 ,_Y and_CC nothing_PN1 comes_VVZ to_TO mind_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    8 Now what ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    8 Now_RT what_DDQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0    9 Read it again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0    9 Read_VV0 it_PPH1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   10 And again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   10 And_CC again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   11 Reading through more than once helps you pick up on the patterns of a piece .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   11 Reading_VVG_NP1_NN1 through_II_RP@ more_DAR than_CSN once_RR helps_VVZ you_PPY pick_VVI up_RP on_II the_AT patterns_NN2 of_IO a_AT1 piece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   12 You oceanography that first time through , did you ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   12 You_PPY oceanography_NN1 that_DD1_CST first_MD time_NNT1 through_RP@_II ,_Y did_VDD you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   13 Following two or three solid reads , begin your critique with a summary of one to five sentences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   13 Following_VVG_II@ two_MC or_CC three_MC solid_JJ_NN1@ reads_NN2%_VVZ ,_Y begin_VV0 your_APPGE critique_NN1 with_IW a_AT1 summary_NN1 of_IO one_MC1 to_II five_MC sentences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   14 It 's helpful to begin with statements such as What I saw happening in this piece was ... or When I read your piece , the main character noticeably ... Do n't worry about including every last detail or literary device .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   14 It_PPH1 's_VBZ helpful_JJ to_TO begin_VVI with_IW statements_NN2 such_II21 as_II22 What_DDQ I_PPIS1 saw_VVD happening_VVG_NN1 in_II this_DD1 piece_NN1 was_VBDZ ..._... or_CC When_CS_RRQ I_PPIS1 read_VV0_VVD your_APPGE piece_NN1 ,_Y the_AT main_JJ character_NN1 noticeably_RR ..._... Do_VD0 n't_XX worry_VVI about_RP@_II including_II every_AT1 last_MD detail_NN1 or_CC literary_JJ device_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   15 You simply want to give the writer your impressions based on what they 've written .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   15 You_PPY simply_RR want_VV0 to_TO give_VVI the_AT writer_NN1 your_APPGE impressions_NN2 based_VVN on_II what_DDQ they_PPHS2 've_VH0 written_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   16 Because readers come to a story or poem or play with their own biases and experiences , your take on a work may very well be quite different from the student sitting across from you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   16 Because_CS readers_NN2 come_VV0_VVN@ to_II a_AT1 story_NN1 or_CC poem_NN1 or_CC play_VV0_NN1 with_IW their_APPGE own_DA biases_NN2 and_CC experiences_NN2 ,_Y your_APPGE take_VV0_NN1% on_RP a_AT1 work_NN1 may_VM very_RG well_RR be_VBI quite_RG different_JJ from_II the_AT student_NN1 sitting_VVG across_RL@_II from_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   17 All the better for the writer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   17 All_DB the_AT better_JJR for_IF the_AT writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   18 The writer needs to know what came across to you in the piece as well as what did n't .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   18 The_AT writer_NN1 needs_VVZ_NN2 to_TO know_VVI what_DDQ came_VVD across_RL@_II to_II you_PPY in_II the_AT piece_NN1 as_II31 well_II32 as_II33 what_DDQ did_VDD n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   19 Sometimes your interpretation of the author 's text will be off base or not at all what the writer meant -- this information will be helpful for the writer as she reads your critique and decides if and how to incorporate your Because its a natural human tendency to focus on criticism , it 's kind to couch yours in positive feedback .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   19 Sometimes_RT your_APPGE interpretation_NN1 of_IO the_AT author_NN1 's_GE text_NN1 will_VM be_VBI off_II_RP_JJ% base_NN1 or_CC not_XX at_RR21 all_RR22 what_DDQ the_AT writer_NN1 meant_VVD_VVN --_ZZ this_DD1 information_NN1 will_VM be_VBI helpful_JJ for_IF the_AT writer_NN1 as_CSA she_PPHS1 reads_VVZ your_APPGE critique_NN1 and_CC decides_VVZ if_CS and_CC how_RRQ to_TO incorporate_VVI your_APPGE Because_CS its_Z' a_AT1 natural_JJ human_JJ_NN1 tendency_NN1 to_TO focus_VVI on_II criticism_NN1 ,_Y it_PPH1 's_VBZ kind_NN1_JJ@ to_II couch_NN1 yours_PPGE in_II positive_JJ feedback_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   20 First , give feedback on what 's working in the piece : Great image -- shows the frustration of an English major substituting for a day as a gym teacher !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   20 First_MD ,_Y give_VV0 feedback_NN1 on_II what_DDQ 's_VBZ working_VVG in_II the_AT piece_NN1 :_Y Great_JJ image_NN1 --_NN1 shows_VVZ the_AT frustration_NN1 of_IO an_AT1 English_JJ_NN1 major_NN1@_JJ substituting_VVG for_IF a_AT1 day_NNT1 as_II_CSA a_AT1 gym_NN1 teacher_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   21 Then follow up with the inevitable suggestions : Perhaps cut out the third line ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   21 Then_RT follow_VV0 up_RP with_IW the_AT inevitable_JJ suggestions_NN2 :_Y Perhaps_RR cut_VVN_VV0 out_RP the_AT third_MD line_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   22 Is " piquant " the word you wanted here ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   22 Is_VBZ "_Y piquant_JJ_NN1 "_Y the_AT word_NN1 you_PPY wanted_VVD here_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   23 Consider its connotation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   23 Consider_VV0 its_Z' connotation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   24 Finally , finish on an up note : The plot 's developing at a reasonable pace , and your protagonist , Sara , is believable .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   24 Finally_RR ,_Y finish_VV0_NN1 on_II_RP@ an_AT1 up_II@_VV0%_RP note_NN1_VV0 :_Y The_AT plot_NN1 's_VBZ_GE developing_VVG_JJ at_II a_AT1 reasonable_JJ pace_NN1 ,_Y and_CC your_APPGE protagonist_NN1 ,_Y Sara_NP1 ,_Y is_VBZ believable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   25 Why this three-pronged approach ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   25 Why_RRQ this_DD1 three-pronged_JJ approach_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   26 Studies have shown that the mind remembers most vividly the first and last pieces of information presented in a series .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   26 Studies_NN2 have_VH0 shown_VVN that_CST the_AT mind_NN1 remembers_VVZ most_RGT vividly_RR the_AT first_MD and_CC last_MD_VV0@ pieces_NN2 of_IO information_NN1 presented_VVN_VVD in_II_RP@ a_AT1 series_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   27 While you certainly want to make several constructive suggestions for improving the piece , it 's also a good rule of thumb to provide equally supportive feedback on what 's working well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   27 While_CS you_PPY certainly_RR want_VV0 to_TO make_VVI several_DA2 constructive_JJ suggestions_NN2 for_IF improving_VVG the_AT piece_NN1 ,_Y it_PPH1 's_VBZ also_RR a_AT1 good_JJ rule_NN1 of_IO thumb_NN1 to_TO provide_VVI equally_RR supportive_JJ feedback_NN1 on_II what_DDQ 's_VBZ working_VVG well_RR_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   28 Look , it 's tough enough to sit in front of the blank computer screen with the little cursor flashing , and we all have after flaw spelled out for him -- deliver the goods , yes , but trust that it 's hard enough out there without piling on the criticism .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   28 Look_VV0 ,_Y it_PPH1 's_VBZ tough_JJ enough_RR to_TO sit_VVI in_II31 front_II32 of_II33 the_AT blank_JJ computer_NN1 screen_NN1 with_IW the_AT little_JJ cursor_NN1 flashing_VVG_NN1@ ,_Y and_CC we_PPIS2 all_DB have_VH0 after_II_CS flaw_NN1 spelled_VVD_VVN out_RP for_IF him_PPHO1 --_ZZ deliver_VV0 the_AT goods_NN2 ,_Y yes_UH ,_Y but_CCB trust_VV0 that_CST it_PPH1 's_VBZ hard_RR enough_RR out_RP there_RL without_IW piling_VVG on_II the_AT criticism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   29 No matter how undeveloped the piece , there will be some points of interest to draw in the reader .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   29 No_RGQV31 matter_RGQV32 how_RGQV33 undeveloped_JJ the_AT piece_NN1 ,_Y there_EX will_VM be_VBI some_DD points_NN2 of_IO interest_NN1 to_TO draw_VVI in_II the_AT reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   30 Perhaps the characters are strong , the dialogue is realistic , the word choice is melodic and in perfect iambic pentameter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   30 Perhaps_RR the_AT characters_NN2 are_VBR strong_JJ ,_Y the_AT dialogue_NN1 is_VBZ realistic_JJ ,_Y the_AT word_NN1 choice_NN1 is_VBZ melodic_JJ and_CC in_II perfect_JJ iambic_JJ pentameter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   31 There will be something .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   31 There_EX will_VM be_VBI something_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   32 Do your job , yes , but accentuate the positive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   32 Do_VD0 your_APPGE job_NN1 ,_Y yes_UH ,_Y but_CCB accentuate_VV0 the_AT positive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   33 Which brings us to ... 3 Avoid personal judgments .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   33 Which_DDQ brings_VVZ us_PPIO2 to_II ..._... 3_MC Avoid_VV0 personal_JJ judgments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   34 Bored by the 30th poem about Mrs. Merit 's precious Pekingese ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   34 Bored_JJ_VVN@ by_II the_AT 30th_MD poem_NN1 about_II Mrs._NNB Merit_NP1 's_GE precious_JJ Pekingese_NN_JJ_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   35 Too bad .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   35 Too_RG bad_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   36 You do n't get to choose her topics or themes for her .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   36 You_PPY do_VD0 n't_XX get_VVI to_TO choose_VVI her_APPGE topics_NN2 or_CC themes_NN2 for_IF her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   37 Your job is to study her work at the level of language and story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   37 Your_APPGE job_NN1 is_VBZ to_TO study_VVI her_APPGE work_NN1 at_II the_AT level_NN1 of_IO language_NN1 and_CC story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   38 Has she used words effectively ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   38 Has_VHZ she_PPHS1 used_VVN words_NN2 effectively_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   39 Has she considered their connotations ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   39 Has_VHZ she_PPHS1 considered_VVN their_APPGE connotations_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   40 Are there too many adjectives and adverbs ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   40 Are_VBR there_RL too_RG many_DA2 adjectives_NN2 and_CC adverbs_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   41 For example , Bon-Bon the Pekingese never just glides into the kitchen -- she glides gracefully and gleefully -- and she 's never just adorable -- but the lovely and sleepy-headed heir mixed metaphors ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   41 For_REX21 example_REX22 ,_Y Bon-Bon_NN1 the_AT Pekingese_NP2_NN never_RR just_RR_JJ@ glides_VVZ_NN2 into_II the_AT kitchen_NN1 --_NN1 she_PPHS1 glides_VVZ gracefully_RR and_CC gleefully_RR --_ZZ and_CC she_PPHS1 's_VBZ never_RR just_RR adorable_JJ --_NN1_JJ but_CCB the_AT lovely_JJ and_CC sleepy-headed_JJ_NN1 heir_NN1 mixed_VVN metaphors_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   42 Bon-Bon 's toenails tick on the floor like an impending football throw .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   42 Bon-Bon_NN1 's_GE toenails_NN2 tick_VV0 on_II_RP@ the_AT floor_NN1 like_II an_AT1 impending_JJ football_NN1 throw_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   43 No , clocks tick and bombs tick -- footballs never should .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   43 No_UH ,_Y clocks_NN2 tick_VV0_NN1 and_CC bombs_NN2 tick_VV0 --_ZZ footballs_NN2 never_RR should_VM ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   44 Are the structural elements -- point of view , narrative arc , paragraph or line -- all working together for the integrity of the whole ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   44 Are_VBR the_AT structural_JJ elements_NN2 --_ZZ point_NN1 of_IO view_NN1 ,_Y narrative_JJ_NN1 arc_NN1 ,_Y paragraph_NN1 or_CC line_NN1_VV0@ --_NN1_JJ all_RR@_DB working_VVG together_RL for_IF the_AT integrity_NN1 of_IO the_AT whole_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   45 There should be no " bait and switches " -- no details that just do n't fit or come out of nowhere to clutter or muddy the initial plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   45 There_EX should_VM be_VBI no_AT "_Y bait_NN1 and_CC switches_VVZ_NN2 "_Y --_NN1_JJ no_AT_NN1% details_NN2 that_CST just_RR do_VD0 n't_XX fit_VVI or_CC come_VVI out_II21 of_II22 nowhere_RL to_TO clutter_VVI or_CC muddy_JJ the_AT initial_JJ_NN1 plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   46 You should focus your critical comments on these elements -- not the repetitive subject matter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   46 You_PPY should_VM focus_VVI your_APPGE critical_JJ comments_NN2 on_II these_DD2 elements_NN2 --_NN1_JJ not_XX the_AT repetitive_JJ subject_NN1 matter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   47 Try to make this an even better Bon-Bon poem than the last and , indeed , the best Bon-Bon poem that this can be .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   47 Try_VV0 to_TO make_VVI this_DD1 an_AT1 even_RR better_JJR Bon-Bon_NN1 poem_NN1 than_CSN the_AT last_MD and_CC ,_Y indeed_RR ,_Y the_AT best_JJT Bon-Bon_NN1 poem_NN1 that_CST this_DD1 can_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   48 4 Phrase your criticism carefully .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   48 4_MC Phrase_VV0@_NN1 your_APPGE criticism_NN1 carefully_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   49 Ostensibly , you 've joined this MFA program or neighborhood writing circle because you want to improve your writing , and you assume that others ' motivations are similar .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   49 Ostensibly_RR ,_Y you_PPY 've_VH0 joined_VVN this_DD1 MFA_NN1 program_NN1 or_CC neighborhood_NN1 writing_NN1_VVG circle_NN1 because_CS you_PPY want_VV0 to_TO improve_VVI your_APPGE writing_NN1 ,_Y and_CC you_PPY assume_VV0 that_CST others_NN2 '_GE motivations_NN2 are_VBR similar_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   50 Surprise !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   50 Surprise_VV0@_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   51 While that may be the case , you may also find that those Within your group or class have received little , if any , critical review of .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   51 While_CS that_DD1 may_VM be_VBI the_AT case_NN1 ,_Y you_PPY may_VM also_RR find_VVI that_CST those_DD2 Within_II your_APPGE group_NN1 or_CC class_NN1 have_VH0 received_VVN little_RR_DA1 ,_Y if_CS any_DD ,_Y critical_JJ review_NN1 of_IO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   52 While you are not responsible for the tender feelings or unrealistic expectations of these virtual strangers , you 'd still do well to consider your own reaction to a teacher 's snippy comments in the margins of your manuscript or a particularly brutal comment during your first week in the coffee klatch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   52 While_CS you_PPY are_VBR not_XX responsible_JJ for_IF the_AT tender_JJ feelings_NN2 or_CC unrealistic_JJ expectations_NN2 of_IO these_DD2 virtual_JJ strangers_NN2 ,_Y you_PPY 'd_VM still_RR do_VDI well_RR to_TO consider_VVI your_APPGE own_DA reaction_NN1 to_II a_AT1 teacher_NN1 's_GE snippy_JJ comments_NN2 in_II the_AT margins_NN2 of_IO your_APPGE manuscript_NN1 or_CC a_AT1 particularly_RR brutal_JJ comment_NN1 during_II your_APPGE first_MD week_NNT1 in_II the_AT coffee_NN1 klatch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   53 While the manuscript may be far from a polished piece , you should never go into the critiquing process with the " scalpel and sew it up " approach to others ' work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   53 While_CS the_AT manuscript_NN1 may_VM be_VBI far_RR_JJ from_II a_AT1 polished_JJ piece_NN1 ,_Y you_PPY should_VM never_RR go_VVI into_II the_AT critiquing_JJ@_NN1@ process_NN1 with_IW the_AT "_Y scalpel_NN1 and_CC sew_VV0 it_PPH1 up_RP_II@ "_Y approach_NN1 to_II others_NN2 '_GE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   54 In other words , remember the Golden Rule ; if you 'd find it objectionable or hurtful applied to your work , then do n't dish it out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   54 In_II other_JJ words_NN2 ,_Y remember_VV0 the_AT Golden_JJ Rule_NN1 ;_Y if_CS you_PPY 'd_VM find_VVI it_PPH1 objectionable_JJ or_CC hurtful_JJ applied_JJ_VVN_VVD to_II your_APPGE work_NN1 ,_Y then_RT do_VD0 n't_XX dish_VVI it_PPH1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   55 Then should you pile praise on a rotten piece ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   55 Then_RT should_VM you_PPY pile_VVI praise_NN1_VV0 on_II a_AT1 rotten_JJ piece_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   56 Not at all ; in fact , that would do the writer a disservice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   56 Not_XX at_RR21 all_RR22 ;_Y in_II fact_NN1 ,_Y that_DD1_CST would_VM do_VDI the_AT writer_NN1 a_AT1 disservice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   57 There are several ways of pointing out potential problems in another 's manuscript .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   57 There_EX are_VBR several_DA2 ways_NN2 of_IO pointing_VVG out_RP potential_JJ problems_NN2 in_II another_DD1 's_VBZ_GE manuscript_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   58 For example , never underestimate the power of the interrogative .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   58 For_REX21 example_REX22 ,_Y never_RR underestimate_VV0 the_AT power_NN1 of_IO the_AT interrogative_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   59 Instead of Only an idiotic stepmother would forget Greg at a birthday party !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   59 Instead_CS21%_II21 of_CS22_II22 Only_RR an_AT1 idiotic_JJ stepmother_NN1 would_VM forget_VVI Greg_NP1 at_II a_AT1 birthday_NN1 party_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   60 you might try Would a stepmother forget Greg at a that you are the arbiter of literary style ( hello , Strunk White !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   60 you_PPY might_VM try_VVI Would_VM a_AT1 stepmother_NN1 forget_VVI Greg_NP1 at_II a_AT1 that_CST you_PPY are_VBR the_AT arbiter_NN1 of_IO literary_JJ style_NN1 (_Y hello_UH ,_Y Strunk_NP1_VV0 White_NP1_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   61 ) ; the second approach allows the writer to get your point and consider other possibilities for the narrative without feeling attacked .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   61 )_Y ;_Y the_AT second_MD approach_NN1 allows_VVZ the_AT writer_NN1 to_TO get_VVI your_APPGE point_NN1 and_CC consider_VVI other_JJ possibilities_NN2 for_IF the_AT narrative_NN1_JJ without_IW feeling_NN1_VVG attacked_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   62 Small difference in phrasing , large difference in approach .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   62 Small_JJ_NP1 difference_NN1 in_II phrasing_NN1 ,_Y large_JJ difference_NN1 in_II approach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   63 Humiliation and condescension disserve writers and critiquers alike .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   63 Humiliation_NN1 and_CC condescension_NN1 disserve_NN1_VV0 writers_NN2 and_CC critiquers_NN2 alike_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   64 Another powerful -- and polite -- technique is to use the word " perhaps " before a suggestion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   64 Another_DD1 powerful_JJ --_NN1_JJ and_CC polite_JJ --_ZZ technique_NN1 is_VBZ to_TO use_VVI the_AT word_NN1 "_Y perhaps_RR "_Y before_II_CS a_AT1 suggestion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   65 A writer reading your critique should always feel that you know he 's the one in charge of the piece .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   65 A_AT1 writer_NN1 reading_VVG your_APPGE critique_NN1 should_VM always_RR feel_VVI that_CST you_PPY know_VV0 he_PPHS1 's_VBZ the_AT one_PN1 in_II charge_NN1 of_IO the_AT piece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   66 Your goal is to suggest with the greatest honesty and tact , and then , in the words of the immortal Beatles , let it be .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   66 Your_APPGE goal_NN1 is_VBZ to_TO suggest_VVI with_IW the_AT greatest_JJT honesty_NN1 and_CC tact_NN1 ,_Y and_CC then_RT ,_Y in_II the_AT words_NN2 of_IO the_AT immortal_JJ Beatles_NP2 ,_Y let_VV0 it_PPH1 be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   67 5 Remember that the writer can accept -- or reject -- your suggestions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   67 5_MC Remember_VV0 that_CST the_AT writer_NN1 can_VM accept_VVI --_ZZ or_CC reject_VV0 --_NN1_JJ your_APPGE suggestions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   68 In the end , this is n't your piece -- these are n't your darlings to kill .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   68 In_II the_AT end_NN1 ,_Y this_DD1 is_VBZ n't_XX your_APPGE piece_NN1 --_NN1 these_DD2 are_VBR n't_XX your_APPGE darlings_NN2 to_TO kill_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   69 Yes , it can be frustrating to think you know the perfect fix that would make the piece more successful , but part of the workshopping process is learning to bow out gracefully when your advice , in its essence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   69 Yes_UH ,_Y it_PPH1 can_VM be_VBI frustrating_JJ to_TO think_VVI you_PPY know_VV0 the_AT perfect_JJ fix_NN1 that_CST_DD1 would_VM make_VVI the_AT piece_NN1 more_RGR successful_JJ ,_Y but_CCB part_NN1 of_IO the_AT workshopping_JJ@_NN1@ process_NN1 is_VBZ learning_VVG to_TO bow_VVI out_RP gracefully_RR when_CS_RRQ your_APPGE advice_NN1 ,_Y in_II its_Z' essence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   70 As a writer who is also receiving quite a bit of ( often conflicting ) suggestions , you too have probably experienced the impossibility of incorporating everyone 's vision into your work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   70 As_II_CSA a_AT1 writer_NN1 who_PNQS is_VBZ also_RR receiving_VVG quite_RG a_AT1 bit_NN1 of_IO (_Y often_RR conflicting_JJ_VVG@ )_Y suggestions_NN2 ,_Y you_PPY too_RR@ have_VH0 probably_RR experienced_VVN the_AT impossibility_NN1 of_IO incorporating_VVG everyone_PN1 's_GE vision_NN1 into_II your_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   71 And who would enjoy a piece constructed pell-mell and collage-like ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   71 And_CC who_PNQS would_VM enjoy_VVI a_AT1 piece_NN1 constructed_VVN_VVD@ pell-mell_RR and_CC collage-like_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   72 It 'd be just as unwelcome and unstable a creation as Dr. Frankenstein 's monster .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   72 It_PPH1 'd_VM be_VBI just_RR as_RG unwelcome_JJ and_CC unstable_JJ a_AT1 creation_NN1 as_CSA Dr._NNB Frankenstein_NP1 's_GE monster_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   73 In the end , a writer 's tone , style or theme may differ from your preferences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   73 In_II the_AT end_NN1 ,_Y a_AT1 writer_NN1 's_GE tone_NN1 ,_Y style_NN1 or_CC theme_NN1 may_VM differ_VVI from_II your_APPGE preferences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   74 Your job is to praise what works , offer suggestions to the best of your knowledge , and then get back to work -- your own work in progress .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   74 Your_APPGE job_NN1 is_VBZ to_TO praise_VVI what_DDQ works_VVZ_NN ,_Y offer_VV0_NN1 suggestions_NN2 to_II the_AT best_JJT_RRT of_IO your_APPGE knowledge_NN1 ,_Y and_CC then_RT get_VV0 back_RP to_TO@_II work_VVI_NN1 --_NN1_JJ your_APPGE own_DA work_NN1 in_II progress_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   75 Remember , one of the most rewarding parts of the critiquing process is that by combing through someone else 's writing so carefully , you invariably gain a new understanding of your own writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   75 Remember_VV0 ,_Y one_MC1 of_IO the_AT most_RGT rewarding_JJ parts_NN2 of_IO the_AT critiquing_JJ@_NN1@ process_NN1 is_VBZ that_CST_DD1 by_II combing_VVG through_II_RP@ someone_PN1 else_RR 's_VBZ writing_VVG so_RG carefully_RR ,_Y you_PPY invariably_RR gain_VV0 a_AT1 new_JJ understanding_NN1 of_IO your_APPGE own_DA writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   76 By Melanie Faith Melanie Faith holds an MFA in creative writing from Queens University of Charlotte .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   76 By_II Melanie_NP1 Faith_NN1 Melanie_NP1 Faith_NN1 holds_VVZ an_AT1 MFA_NN1 in_II creative_JJ writing_NN1 from_II Queens_NP1 University_NN1 of_IO Charlotte_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   77 Her chapbook , Bright , Burning Fuse , was a finalist in the 2008 Keyhole Poetry Chapbook contest and was published by Etched Press .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   77 Her_APPGE chapbook_NN1 ,_Y Bright_JJ_NP1@ ,_Y Burning_JJ_VVG Fuse_NN1 ,_Y was_VBDZ a_AT1 finalist_NN1 in_II the_AT 2008_MC Keyhole_NP1_NN1 Poetry_NN1 Chapbook_NN1_NP1 contest_NN1 and_CC was_VBDZ published_VVN by_II Etched_VVD_VVN Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   78 in writing in rural Pennsylvania .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   78 in_II writing_VVG_NN1 in_II rural_JJ Pennsylvania_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   79 Web : http : **30;73280;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   79 Web_NN1 :_Y http_NNU :_Y **30;73280;TOOLONG_FU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   80 The do 's and don'ts of critiquing DO read through the piece several times before beginning your assessment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   80 The_AT do_VD0 's_GE and_CC don'ts_NN2 of_IO critiquing_NN1@_JJ@ DO_VD0 read_VVI through_II the_AT piece_NN1 several_DA2 times_NNT2 before_II beginning_VVG your_APPGE assessment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   81 DO comment on strengths first .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   81 DO_VD0 comment_VVI on_II strengths_NN2 first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   82 What is working well in the draft ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   82 What_DDQ is_VBZ working_VVG well_RR in_II the_AT draft_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   83 Excellent metaphors ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   83 Excellent_JJ metaphors_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   84 Realistic dialogue between main characters ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   84 Realistic_JJ dialogue_NN1 between_II main_JJ characters_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   85 Briefly list the best literary techniques .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   85 Briefly_RR list_VV0@ the_AT best_JJT literary_JJ techniques_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   86 Follow the praise/suggestion/praise model ( see main article ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   86 Follow_VV0 the_AT praise/suggestion/praise_NN1 model_NN1 (_Y see_VV0 main_JJ article_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   87 DO focus on the level of language and story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   87 DO_VD0 focus_VVI on_II the_AT level_NN1 of_IO language_NN1 and_CC story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   88 Are the structural elements -- point of view , narrative arc , paragraph , line -- working together for the integrity of the whole ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   88 Are_VBR the_AT structural_JJ elements_NN2 --_ZZ point_NN1 of_IO view_NN1 ,_Y narrative_JJ_NN1 arc_NN1 ,_Y paragraph_NN1 ,_Y line_NN1_VV0@ --_NN1 working_VVG together_RL for_IF the_AT integrity_NN1 of_IO the_AT whole_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   89 DO temper suggestions with phrases such as , " If this were my work , I might ... " or " Perhaps try ... " DO N'T let personal judgments about subject matter or approach creep into your feedback .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   89 DO_VD0 temper_VVI suggestions_NN2 with_IW phrases_NN2 such_II21 as_II22 ,_Y "_Y If_CS_CSW@ this_DD1 were_VBDR my_APPGE work_NN1 ,_Y I_PPIS1 might_VM ..._... "_Y or_CC "_Y Perhaps_RR try_VV0 ..._... "_Y DO_VD0 N'T_XX let_VVI personal_JJ judgments_NN2 about_II subject_NN1_JJ@ matter_NN1 or_CC approach_NN1_VV0@ creep_NN1_VV0 into_II your_APPGE feedback_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   90 Work with the material according to the writer 's goals , not your preferences .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   90 Work_VV0_NN1 with_IW the_AT material_NN1 according_II21 to_II22 the_AT writer_NN1 's_GE goals_NN2 ,_Y not_XX your_APPGE preferences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   91 DO N'T become the grammar police .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   91 DO_VD0 N'T_XX become_VVI the_AT grammar_NN1 police_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   92 While grammar is important , content and context are vital .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   92 While_CS grammar_NN1 is_VBZ important_JJ ,_Y content_JJ_NN1 and_CC context_NN1 are_VBR vital_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   93 It 's OK to note a spelling error here and there , blunt criticism .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   93 It_PPH1 's_VBZ OK_JJ to_TO note_VVI a_AT1 spelling_NN1 error_NN1 here_RL and_CC there_RL ,_Y blunt_JJ criticism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   94 If you would n't appreciate such comments about your work , do n't deliver them to others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   94 If_CS you_PPY would_VM n't_XX appreciate_VVI such_DA comments_NN2 about_II your_APPGE work_NN1 ,_Y do_VD0 n't_XX deliver_VVI them_PPHO2 to_II others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  A    0   95 -- Melanie Faith
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080321 COCA  B    0   95 --_ZZ Melanie_NP1 Faith_NN1

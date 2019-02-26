@@ -1,0 +1,118 @@
+SENTPOS 2014_4_101_300_333_2 FINAL A    0    0 When looking at art , the actual picture usually stands out more than the message behind it .
+SENTPOS 2014_4_101_300_333_2 FINAL B    0    0 When_CS looking_VVG at_II art_NN1 ,_, the_AT actual_JJ picture_NN1 usually_RR stands_VVZ out_RP more_DAR than_CSN the_AT message_NN1 behind_II it_PPH1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    0    1 There is a story behind every piece of art and what is thought to be is not what it appears to be .
+SENTPOS 2014_4_101_300_333_2 FINAL B    0    1 There_EX is_VBZ a_AT1 story_NN1 behind_II every_AT1 piece_NN1 of_IO art_NN1 and_CC what_DDQ is_VBZ thought_VVN to_TO be_VBI is_VBZ not_XX what_DDQ it_PPH1 appears_VVZ to_TO be_VBI ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    0    2 For example , Artemisia Gentileschi 's Judith and Her Maidservant may just seem to be two women who appear to be disoriented , but there is so much to extract from this simple painting .
+SENTPOS 2014_4_101_300_333_2 FINAL B    0    2 For_REX21 example_REX22 ,_, Artemisia_NP1 Gentileschi_NP1 's_GE Judith_NP1 and_CC Her_APPGE Maidservant_NN1 may_VM just_RR seem_VVI to_TO be_VBI two_MC women_NN2 who_PNQS appear_VV0 to_TO be_VBI disoriented_JJ ,_, but_CCB there_EX is_VBZ so_RG much_DA1 to_TO extract_VVI from_II this_DD1 simple_JJ painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    0    3 With the use of color contrast , and symbolism the artist grants the viewer a story of a hero and a powerful , influential message that women are more powerful than what they are and that they can compare to that of a man .
+SENTPOS 2014_4_101_300_333_2 FINAL B    0    3 With_IW the_AT use_NN1 of_IO color_NN1 contrast_NN1 ,_, and_CC symbolism_NN1 the_AT artist_NN1 grants_VVZ the_AT viewer_NN1 a_AT1 story_NN1 of_IO a_AT1 hero_NN1 and_CC a_AT1 powerful_JJ ,_, influential_JJ message_NN1 that_CST women_NN2 are_VBR more_RGR powerful_JJ than_CSN what_DDQ they_PPHS2 are_VBR and_CC that_CST they_PPHS2 can_VM compare_VVI to_II that_DD1 of_IO a_AT1 man_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1    4 With most paintings , the artist usually has a connection with their work .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1    4 With_IW most_DAT paintings_NN2 ,_, the_AT artist_NN1 usually_RR has_VHZ a_AT1 connection_NN1 with_IW their_APPGE work_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1    5 Gentileschi , for instance , is a reflection of her works of art .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1    5 Gentileschi_NN2 ,_, for_REX21 instance_REX22 ,_, is_VBZ a_AT1 reflection_NN1 of_IO her_APPGE works_NN of_IO art_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1    6 At a young age , Gentileschi suffered a horrid molestation , leaving her in a distressing state .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1    6 At_II a_AT1 young_JJ age_NN1 ,_, Gentileschi_NP1 suffered_VVD a_AT1 horrid_JJ molestation_NN1 ,_, leaving_VVG her_PPHO1 in_II a_AT1 distressing_JJ state_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1    7 This is very well demonstrated with a look through some of her other work , such as Susanna and the Elders , a painting that illustrates pain and suffering of the female figure from the two male characters ( Gentileschi , Susanna ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1    7 This_DD1 is_VBZ very_RG well_RR demonstrated_VVN with_IW a_AT1 look_NN1 through_II some_DD of_IO her_APPGE other_JJ work_NN1 ,_, such_II21 as_II22 Susanna_NP1 and_CC the_AT Elders_NN2 ,_, a_AT1 painting_NN1 that_CST illustrates_VVZ pain_NN1 and_CC suffering_NN1 of_IO the_AT female_JJ figure_NN1 from_II the_AT two_MC male_JJ characters_NN2 (_( Gentileschi_NP1 ,_, Susanna_NP1 )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1    8 In addition , Gentileschi is " credited to be one of the greatest female painters in the Baroque period , " an artistic period dominated by men ( " Artemisia Gentileschi " ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1    8 In_RR21 addition_RR22 ,_, Gentileschi_NP1 is_VBZ "_" credited_VVN to_TO be_VBI one_MC1 of_IO the_AT greatest_JJT female_JJ painters_NN2 in_II the_AT Baroque_NN1 period_NN1 ,_, "_" an_AT1 artistic_JJ period_NN1 dominated_VVN by_II men_NN2 (_( "_" Artemisia_NP1 Gentileschi_NP1 "_" )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1    9 With a title such as that , prejudice and discrimination followed ; however , Gentileschi overcame that through her art .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1    9 With_IW a_AT1 title_NN1 such_II21 as_II22 that_DD1 ,_, prejudice_NN1 and_CC discrimination_NN1 followed_VVD ;_; however_RR ,_, Gentileschi_NP1 overcame_VVD that_CST through_II her_APPGE art_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    1   10 When one deeply analyzes Judith and Her Maidservant , it is clear to see that it was fashioned by someone who favors the idea of women ( Gentileschi ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    1   10 When_CS one_PN1 deeply_RR analyzes_VVZ Judith_NP1 and_CC Her_APPGE Maidservant_NN1 ,_, it_PPH1 is_VBZ clear_JJ to_TO see_VVI that_CST it_PPH1 was_VBDZ fashioned_VVN by_II someone_PN1 who_PNQS favors_VVZ the_AT idea_NN1 of_IO women_NN2 (_( Gentileschi_NP1 )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   11 At first glance , Judith 's face gets the attention of the viewer .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   11 At_II first_MD glance_NN1 ,_, Judith_NP1 's_GE face_NN1 gets_VVZ the_AT attention_NN1 of_IO the_AT viewer_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   12 It is the brightest face on the painting , aside from the white clothing on the maidservant , the second thing that catches the eye .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   12 It_PPH1 is_VBZ the_AT brightest_JJT face_NN1 on_II the_AT painting_NN1 ,_, aside_II21 from_II22 the_AT white_JJ clothing_NN1 on_II the_AT maidservant_NN1 ,_, the_AT second_MD thing_NN1 that_CST catches_VVZ the_AT eye_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   13 One more attraction in the painting is a lifeless , shadowy head in a basket in the bottom right corner .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   13 One_MC1 more_DAR attraction_NN1 in_II the_AT painting_NN1 is_VBZ a_AT1 lifeless_JJ ,_, shadowy_JJ head_NN1 in_II a_AT1 basket_NN1 in_II the_AT bottom_JJ right_JJ corner_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   14 Out of curiosity , one would search for the reason of the decapitated head and come to see that Judith is carrying a sword .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   14 Out_II21 of_II22 curiosity_NN1 ,_, one_PN1 would_VM search_VVI for_IF the_AT reason_NN1 of_IO the_AT decapitated_JJ head_NN1 and_CC come_VV0 to_TO see_VVI that_CST Judith_NP1 is_VBZ carrying_VVG a_AT1 sword_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   15 However , this detail sparks even more curiosity .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   15 However_RR ,_, this_DD1 detail_NN1 sparks_VVZ even_RR more_DAR curiosity_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   16 The adversity causing Judith to murder a man is a mystery .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   16 The_AT adversity_NN1 causing_VVG Judith_NP1 to_TO murder_VVI a_AT1 man_NN1 is_VBZ a_AT1 mystery_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   17 Furthermore , the women 's attention is directed to something unknown and the expression in Judith 's face shows caution .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   17 Furthermore_RR ,_, the_AT women_NN2 's_GE attention_NN1 is_VBZ directed_VVN to_II something_PN1 unknown_JJ and_CC the_AT expression_NN1 in_II Judith_NP1 's_GE face_NN1 shows_VVZ caution_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    2   18 Nonetheless , the women 's posture and Judith 's protective hand gesture on her maidservant 's shoulder represents their preparedness .
+SENTPOS 2014_4_101_300_333_2 FINAL B    2   18 Nonetheless_RR ,_, the_AT women_NN2 's_GE posture_NN1 and_CC Judith_NP1 's_GE protective_JJ hand_NN1 gesture_NN1 on_II her_APPGE maidservant_NN1 's_GE shoulder_NN1 represents_VVZ their_APPGE preparedness_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   19 Judith from the painting is a character in the Book of Judith from the Septuagint .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   19 Judith_NP1 from_II the_AT painting_NN1 is_VBZ a_AT1 character_NN1 in_II the_AT Book_NN1 of_IO Judith_NP1 from_II the_AT Septuagint_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   20 Judith , a rich widow , lived in an Assyrian village named Bethulia besieged by its general , Holofernes .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   20 Judith_NP1 ,_, a_AT1 rich_JJ widow_NN1 ,_, lived_VVD in_II an_AT1 Assyrian_JJ village_NN1 named_VVD Bethulia_NP1 besieged_VVD by_II its_APPGE general_NN1 ,_, Holofernes_NP2 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   21 Later , the inhabitants began to plead for surrender .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   21 Later_RRR ,_, the_AT inhabitants_NN2 began_VVD to_TO plead_VVI for_IF surrender_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   22 Nevertheless , Judith developed a plan to free the people .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   22 Nevertheless_RR ,_, Judith_NP1 developed_VVD a_AT1 plan_NN1 to_TO free_VVI the_AT people_NN ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   23 One night , she allowed herself to get peculiarly close to the general .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   23 One_MC1 night_NNT1 ,_, she_PPHS1 allowed_VVD herself_PPX1 to_TO get_VVI peculiarly_RR close_RR to_II the_AT general_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   24 Next , she seduced the general and lured him into intoxication .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   24 Next_MD ,_, she_PPHS1 seduced_VVD the_AT general_NN1 and_CC lured_VVD him_PPHO1 into_II intoxication_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    3   25 Finally , when the general was comfortable , Judith , with the assistance of her maidservant , beheaded the drunken leader ( The Septuagint with Apocrypha , Judith ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    3   25 Finally_RR ,_, when_CS the_AT general_NN1 was_VBDZ comfortable_JJ ,_, Judith_NP1 ,_, with_IW the_AT assistance_NN1 of_IO her_APPGE maidservant_NN1 ,_, beheaded_VVD the_AT drunken_JJ leader_NN1 (_( The_AT Septuagint_NN1 with_IW Apocrypha_NP1 ,_, Judith_NP1 )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   26 This painting has a limited amount of colors , but they portray many various things .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   26 This_DD1 painting_NN1 has_VHZ a_AT1 limited_JJ amount_NN1 of_IO colors_NN2 ,_, but_CCB they_PPHS2 portray_VV0 many_DA2 various_JJ things_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   27 Moreover , the contrasts between the different colors reveal a great deal of information on the contradicting act of Judith and her servant .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   27 Moreover_RR ,_, the_AT contrasts_NN2 between_II the_AT different_JJ colors_NN2 reveal_VV0 a_AT1 great_JJ deal_NN1 of_IO information_NN1 on_II the_AT contradicting_JJ@ act_NN1 of_IO Judith_NP1 and_CC her_APPGE servant_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   28 The brightest areas in the artwork are the women 's skin and the maidservant 's clothes ( Gentileschi ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   28 The_AT brightest_JJT areas_NN2 in_II the_AT artwork_NN1 are_VBR the_AT women_NN2 's_GE skin_NN1 and_CC the_AT maidservant_NN1 's_GE clothes_NN2 (_( Gentileschi_NP1 )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   29 These brighter colors attract attention to the main subjects of the painting .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   29 These_DD2 brighter_JJR colors_NN2 attract_VV0 attention_NN1 to_II the_AT main_JJ subjects_NN2 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   30 Likewise , they also put more emphasis on Judith and her maidservant , while the gloomy , deceased head is placed in a dark corner of the painting .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   30 Likewise_RR ,_, they_PPHS2 also_RR put_VV0 more_DAR emphasis_NN1 on_II Judith_NP1 and_CC her_APPGE maidservant_NN1 ,_, while_CS the_AT gloomy_JJ ,_, deceased_JJ head_NN1 is_VBZ placed_VVN in_II a_AT1 dark_JJ corner_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   31 Among these bright colors , white stands out the most .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   31 Among_II these_DD2 bright_JJ colors_NN2 ,_, white_JJ stands_NN2 out_RP the_AT most_RRT@ ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   32 The color white signifies purity and goodness , two characteristics rooted in the women 's actions .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   32 The_AT color_NN1 white_NN1@ signifies_VVZ purity_NN1 and_CC goodness_NN1 ,_, two_MC characteristics_NN2 rooted_VVN in_II the_AT women_NN2 's_GE actions_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   33 They are heroes of the Assyrian people ; however , the measures they have taken to save the village were too high .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   33 They_PPHS2 are_VBR heroes_NN2 of_IO the_AT Assyrian_JJ people_NN ;_; however_RR ,_, the_AT measures_NN2 they_PPHS2 have_VH0 taken_VVN to_TO save_VVI the_AT village_NN1 were_VBDR too_RG high_JJ ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   34 Murder is a crime , no matter who does it .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   34 Murder_NN1 is_VBZ a_AT1 crime_NN1 ,_, no_PNQS31 matter_PNQS32 who_PNQS33 does_VDZ it_PPH1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   35 Although these women are recognized for heroism , killing is the cause and that is displayed within the colors of this work .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   35 Although_CS these_DD2 women_NN2 are_VBR recognized_VVN for_IF heroism_NN1 ,_, killing_NN1 is_VBZ the_AT cause_NN1 and_CC that_DD1 is_VBZ displayed_VVN within_II the_AT colors_NN2 of_IO this_DD1 work_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   36 The background is black , giving the scene of the portrait a mysterious impression and the red bloodstains on the white cloths symbolize the danger in the deed ( Gentileschi ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   36 The_AT background_NN1 is_VBZ black_JJ ,_, giving_VVG the_AT scene_NN1 of_IO the_AT portrait_NN1 a_AT1 mysterious_JJ impression_NN1 and_CC the_AT red_JJ bloodstains_NN2 on_II the_AT white_JJ cloths_NN2 symbolize_VV0 the_AT danger_NN1 in_II the_AT deed_NN1 (_( Gentileschi_NP1 )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   37 Another contradicting factor the artist uses is the different ways the color red is presented .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   37 Another_DD1 contradicting_JJ@ factor_NN1 the_AT artist_NN1 uses_VVZ is_VBZ the_AT different_JJ ways_NN2 the_AT color_NN1 red_NN1 is_VBZ presented_VVN ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   38 Red is not only the color of the blood from Holofernes ' head but it is also the color of Judith 's dress ( Gentileschi ) .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   38 Red_NN1 is_VBZ not_XX only_RR the_AT color_NN1 of_IO the_AT blood_NN1 from_II Holofernes_NP2 '_GE head_NN1 but_CCB it_PPH1 is_VBZ also_RR the_AT color_NN1 of_IO Judith_NP1 's_GE dress_NN1 (_( Gentileschi_NP1 )_) ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    4   39 In this case , red indicates Judith 's power over Holofernes .
+SENTPOS 2014_4_101_300_333_2 FINAL B    4   39 In_II this_DD1 case_NN1 ,_, red_NN1 indicates_VVZ Judith_NP1 's_GE power_NN1 over_II Holofernes_NP2 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   40 Aside from the symbolizing colors in Judith and Her Maidservant , a couple details acting as symbols as well .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   40 Aside_II21 from_II22 the_AT symbolizing_JJ@ colors_NN2 in_II Judith_NP1 and_CC Her_APPGE Maidservant_NN1 ,_, a_AT1 couple_NN1 details_NN2 acting_VVG as_CSA symbols_NN2 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   41 These two symbols in this painting are used conjointly to represent Judith 's power and bravery .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   41 These_DD2 two_MC symbols_NN2 in_II this_DD1 painting_NN1 are_VBR used_VVN conjointly_RR to_TO represent_VVI Judith_NP1 's_GE power_NN1 and_CC bravery_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   42 Judith 's sword is in plain sight , but there is a smaller detail with the same importance as her sword and that is her hairpin .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   42 Judith_NP1 's_GE sword_NN1 is_VBZ in_II plain_JJ sight_NN1 ,_, but_CCB there_EX is_VBZ a_AT1 smaller_JJR detail_NN1 with_IW the_AT same_DA importance_NN1 as_CSA her_APPGE sword_NN1 and_CC that_DD1 is_VBZ her_APPGE hairpin_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   43 The sword symbolizes strength , protection , courage , and power .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   43 The_AT sword_NN1 symbolizes_VVZ strength_NN1 ,_, protection_NN1 ,_, courage_NN1 ,_, and_CC power_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   44 Judith 's hairpin , however , is a more intricate symbol .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   44 Judith_NP1 's_GE hairpin_NN1 ,_, however_RR ,_, is_VBZ a_AT1 more_RGR intricate_JJ symbol_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   45 Looking closely , the viewer can see a male figure within the hairpin .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   45 Looking_VVG closely_RR ,_, the_AT viewer_NN1 can_VM see_VVI a_AT1 male_JJ figure_NN1 within_II the_AT hairpin_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   46 The viewer would have a better understanding of this detail if they were aware of the historical background of the painting .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   46 The_AT viewer_NN1 would_VM have_VHI a_AT1 better_JJR understanding_NN1 of_IO this_DD1 detail_NN1 if_CS they_PPHS2 were_VBDR aware_JJ of_IO the_AT historical_JJ background_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   47 When considering the history , Judith 's story can compare to another well-known story .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   47 When_CS considering_VVG the_AT history_NN1 ,_, Judith_NP1 's_GE story_NN1 can_VM compare_VVI to_II another_DD1 well-known_JJ story_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   48 Reflect on what Judith did for Bethulia .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   48 Reflect_VV0 on_II what_DDQ Judith_NP1 did_VDD for_IF Bethulia_NP1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   49 She risked her own life to save an entire village , similar to what another character did in the Bible , David .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   49 She_PPHS1 risked_VVD her_APPGE own_DA life_NN1 to_TO save_VVI an_AT1 entire_JJ village_NN1 ,_, similar_JJ to_II what_DDQ another_DD1 character_NN1 did_VDD in_II the_AT Bible_NN1 ,_, David_NP1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   50 David is alleged to be the manlike figure on Judith 's hairpin .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   50 David_NP1 is_VBZ alleged_VVN to_TO be_VBI the_AT manlike_JJ figure_NN1 on_II Judith_NP1 's_GE hairpin_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   51 Gentileschi 's purpose is to heighten the idea of women and bring attention to them , so she compares Judith to one of the most prominent men in the Bible .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   51 Gentileschi_NP1@ 's_GE purpose_NN1 is_VBZ to_TO heighten_VVI the_AT idea_NN1 of_IO women_NN2 and_CC bring_VVI attention_NN1 to_II them_PPHO2 ,_, so_CS@ she_PPHS1 compares_VVZ Judith_NP1 to_II one_MC1 of_IO the_AT most_RGT prominent_JJ men_NN2 in_II the_AT Bible_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    5   52 The artist wants her audience to know that women are more powerful than they appear .
+SENTPOS 2014_4_101_300_333_2 FINAL B    5   52 The_AT artist_NN1 wants_VVZ her_APPGE audience_NN1 to_TO know_VVI that_CST women_NN2 are_VBR more_RGR powerful_JJ than_CSN they_PPHS2 appear_VV0 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    6   53 Gazing at Judith and Her Maidservant , the picture of two immoral women trying to escape a crime scene is seen .
+SENTPOS 2014_4_101_300_333_2 FINAL B    6   53 Gazing_VVG at_II Judith_NP1 and_CC Her_APPGE Maidservant_NN1 ,_, the_AT picture_NN1 of_IO two_MC immoral_JJ women_NN2 trying_VVG to_TO escape_VVI a_AT1 crime_NN1 scene_NN1 is_VBZ seen_VVN ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    6   54 The underlying message is not immediately present but then the colors catch the viewer 's attention and Judith 's heroic expression brightens the painting .
+SENTPOS 2014_4_101_300_333_2 FINAL B    6   54 The_AT underlying_JJ message_NN1 is_VBZ not_XX immediately_RR present_JJ but_CCB then_RT the_AT colors_NN2 catch_VV0 the_AT viewer_NN1 's_GE attention_NN1 and_CC Judith_NP1 's_GE heroic_JJ expression_NN1 brightens_VVZ the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    6   55 Then , the colors begin to contrast each other , the disconsolate , decapitated head creeps into the picture underneath the two illuminated women .
+SENTPOS 2014_4_101_300_333_2 FINAL B    6   55 Then_RT ,_, the_AT colors_NN2 begin_VV0 to_TO contrast_VVI each_PPX221 other_PPX222 ,_, the_AT disconsolate_NN1 ,_, decapitated_JJ head_NN1 creeps_VVZ into_II the_AT picture_NN1 underneath_II the_AT two_MC illuminated_JJ women_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    6   56 Judith 's sword is spotted , showing her strength and courage .
+SENTPOS 2014_4_101_300_333_2 FINAL B    6   56 Judith_NP1 's_GE sword_NN1 is_VBZ spotted_VVN ,_, showing_VVG her_APPGE strength_NN1 and_CC courage_NN1 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    6   57 The viewer can see how the artist portrays Judith and her accomplice as two brave and fearless heroines .
+SENTPOS 2014_4_101_300_333_2 FINAL B    6   57 The_AT viewer_NN1 can_VM see_VVI how_RRQ the_AT artist_NN1 portrays_VVZ Judith_NP1 and_CC her_APPGE accomplice_NN1 as_CSA two_MC brave_JJ and_CC fearless_JJ heroines_NN2 ._.
+SENTPOS 2014_4_101_300_333_2 FINAL A    6   57  Their powerful image is more than just a picture and Gentileschi 's message is made clear .
+SENTPOS 2014_4_101_300_333_2 FINAL B    6   57  Their_APPGE powerful_JJ image_NN1 is_VBZ more_DAR than_CSN just_RR a_AT1 picture_NN1 and_CC Gentileschi_NP1 's_GE message_NN1 is_VBZ made_VVN clear_JJ ._.

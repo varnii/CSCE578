@@ -1,0 +1,192 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    0 ONE OF MY favorite things to do as a writer is to make people cry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    0 ONE_MC1 OF_IO MY_APPGE favorite_JJ_NN1 things_NN2 to_TO do_VDI as_II_CSA a_AT1 writer_NN1 is_VBZ to_TO make_VVI people_NN cry_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    1 Before you recoil in horror at my insensitivity , think of it this way : When you are reading a novel , short story , poem or essay , what do you want most ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    1 Before_CS you_PPY recoil_VV0 in_II_RP@ horror_NN1 at_II my_APPGE insensitivity_NN1 ,_Y think_VV0_NN1% of_IO it_PPH1 this_DD1 way_NN1 :_Y When_RRQ_CS you_PPY are_VBR reading_VVG a_AT1 novel_NN1_JJ ,_Y short_JJ story_NN1 ,_Y poem_NN1 or_CC essay_NN1 ,_Y what_DDQ do_VD0 you_PPY want_VVI most_RRT@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    2 Do n't you want to be taken out of your world and transported to another ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    2 Do_VD0 n't_XX you_PPY want_VVI to_TO be_VBI taken_VVN out_II21 of_II22 your_APPGE world_NN1 and_CC transported_VVN_VVD to_II another_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    3 Do n't you want to be challenged , pierced with insight , made to laugh ... and cry ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    3 Do_VD0 n't_XX you_PPY want_VVI to_TO be_VBI challenged_VVN ,_Y pierced_VVN_VVD with_IW insight_NN1 ,_Y made_VVD_VVN to_TO laugh_VVI ..._... and_CC cry_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    4 Robert Frost said , " No tears in the writer , no tears in the reader .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    4 Robert_NP1 Frost_NP1 said_VVD ,_Y "_Y No_AT tears_NN2 in_II the_AT writer_NN1 ,_Y no_AT tears_NN2 in_II the_AT reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    5 " Good advice from someone who made a living , and a life , by plunging into the emotional depths of everyday experience and translating it into poetry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    5 "_Y Good_JJ advice_NN1 from_II someone_PN1 who_PNQS made_VVD a_AT1 living_NN1_JJ ,_Y and_CC a_AT1 life_NN1 ,_Y by_II plunging_VVG into_II the_AT emotional_JJ depths_NN2 of_IO everyday_JJ experience_NN1 and_CC translating_VVG it_PPH1 into_II poetry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    6 The first time I made myself cry when I was writing an essay , I chalked it up to a hormonal imbalance and lack of sleep .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    6 The_AT first_MD time_NNT1 I_PPIS1 made_VVD myself_PPX1 cry_VV0 when_RRQ_CS I_PPIS1 was_VBDZ writing_VVG an_AT1 essay_NN1 ,_Y I_PPIS1 chalked_VVD it_PPH1 up_II21 to_II22 a_AT1 hormonal_JJ imbalance_NN1 and_CC lack_NN1 of_IO sleep_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    7 When I submitted the piece to my editor , I asked him for his opinion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    7 When_CS_RRQ I_PPIS1 submitted_VVD the_AT piece_NN1 to_II my_APPGE editor_NN1 ,_Y I_PPIS1 asked_VVD him_PPHO1 for_IF his_APPGE opinion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    8 Had I made a fatal error and crossed that fine line that separates said , as his normally gruff voice cracked with emotion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    8 Had_VHD I_PPIS1_MC1% made_VVN a_AT1 fatal_JJ error_NN1 and_CC crossed_VVN that_CST_DD1 fine_JJ line_NN1 that_CST_DD1 separates_VVZ said_VVD ,_Y as_CSA his_PPGE@ normally_RR gruff_JJ voice_NN1 cracked_VVN_VVD with_IW emotion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0    9 I had nailed it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0    9 I_PPIS1 had_VHD nailed_VVN it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   10 I have published more than 300 essays during the past 20 years , mostly in newspaper op-ed pages , most of them humorous in tone .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   10 I_PPIS1 have_VH0 published_VVN more_DAR than_CSN 300_MC essays_NN2 during_II the_AT past_JJ 20_MC years_NNT2 ,_Y mostly_RR in_II newspaper_NN1 op-ed_NN1_JJ pages_NN2 ,_Y most_DAT of_IO them_PPHO2 humorous_JJ in_II tone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   11 My specialty is the witty ( I hope ) commentary on some real-life situation that just begs to be made fun of .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   11 My_APPGE specialty_NN1 is_VBZ the_AT witty_JJ (_Y I_PPIS1_MC1% hope_VV0_NN1 )_Y commentary_NN1 on_II some_DD real-life_JJ situation_NN1 that_CST just_RR begs_VVZ to_TO be_VBI made_VVN fun_NN1 of_IO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   12 Out of 18 personal essays I 've published in the Philadelphia Inquirer , 12 are humor pieces .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   12 Out_II21 of_II22 18_MC personal_JJ essays_NN2 I_PPIS1 've_VH0 published_VVN in_II the_AT Philadelphia_NP1 Inquirer_NP1 ,_Y 12_MC are_VBR humor_NN1 pieces_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   13 I have poked fun at things like the array of cable channels devoted to narrow passions ( think fishing channel ) , and also some of the odd quirks and traits I 've observed that are unique to Philadelphians .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   13 I_PPIS1 have_VH0 poked_VVN fun_NN1_JJ at_II things_NN2 like_II the_AT array_NN1 of_IO cable_NN1 channels_NN2 devoted_VVD@_JJ_VVN% to_II narrow_JJ passions_NN2 (_Y think_VV0 fishing_NN1 channel_NN1 )_Y ,_Y and_CC also_RR some_DD of_IO the_AT odd_JJ quirks_NN2 and_CC traits_NN2 I_PPIS1 've_VH0 observed_VVN that_CST are_VBR unique_JJ to_II Philadelphians_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   14 In a weekly column I wrote for a local newspaper last year , I never once ran out of topics that called for a humorous slant -- the Sports Illustrated swimsuit edition comes to mind , as well as the fashion trend of gigantic purses , " staycations , " and the gift that kept giving : the presidential campaign .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   14 In_II a_AT1 weekly_JJ column_NN1 I_PPIS1 wrote_VVD for_IF a_AT1 local_JJ newspaper_NN1 last_MD year_NNT1 ,_Y I_PPIS1 never_RR once_RR ran_VVD out_II21 of_II22 topics_NN2 that_CST_DD1 called_VVD@_VVN for_IF a_AT1 humorous_JJ slant_NN1 --_NN1 the_AT Sports_NN2 Illustrated_VVD_VVN swimsuit_NN1 edition_NN1 comes_VVZ to_TO mind_VVI ,_Y as_II31 well_II32 as_II33 the_AT fashion_NN1 trend_NN1 of_IO gigantic_JJ purses_NN2 ,_Y "_Y staycations_NN2 ,_Y "_Y and_CC the_AT gift_NN1 that_CST kept_VVD giving_VVG :_Y the_AT presidential_JJ campaign_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   15 It is a wonderful thing to be a writer , that will always translate into sales .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   15 It_PPH1 is_VBZ a_AT1 wonderful_JJ thing_NN1 to_TO be_VBI a_AT1 writer_NN1 ,_Y that_DD1_CST will_VM always_RR translate_VVI into_II sales_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   16 It 's my skewed way of seeing the world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   16 It_PPH1 's_VBZ my_APPGE skewed_JJ way_NN1 of_IO seeing_VVG the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   17 I can look at almost any situation , find humor in it , and do 750 words .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   17 I_PPIS1 can_VM look_VVI at_II almost_RR any_DD situation_NN1 ,_Y find_VV0 humor_NN1 in_II it_PPH1 ,_Y and_CC do_VD0 750_MC words_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   18 But not everything in life lends itself to humor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   18 But_CCB not_XX everything_PN1 in_II life_NN1 lends_VVZ itself_PPX1 to_TO humor_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   19 Some things just are n't funny , no matter how you look at them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   19 Some_DD things_NN2 just_RR are_VBR n't_XX funny_JJ ,_Y no_RRQV31 matter_RRQV32 how_RRQV33 you_PPY look_VV0 at_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   20 In fact , every day the news is full of things that are almost unbearably sad .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   20 In_II fact_NN1 ,_Y every_AT1 day_NNT1 the_AT news_NN1 is_VBZ full_JJ of_IO things_NN2 that_CST are_VBR almost_RR unbearably_RR sad_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   21 The essay that made my editor choke up , " The Boy in the Photograph , " was one I wrote about Ryan White , the young boy who died of complications from AIDS in 1990 , and who set an example for the rest of us on how to live and die with grace and meaning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   21 The_AT essay_NN1 that_CST made_VVD my_APPGE editor_NN1 choke_VVI up_RP ,_Y "_Y The_AT Boy_NN1 in_II the_AT Photograph_NN1 ,_Y "_Y was_VBDZ one_PN1 I_PPIS1 wrote_VVD about_II Ryan_NP1 White_NP1 ,_Y the_AT young_JJ boy_NN1 who_PNQS died_VVD of_IO complications_NN2 from_II AIDS_NN1_NN2@ in_II 1990_MC ,_Y and_CC who_PNQS set_VVD_VV0 an_AT1 example_NN1 for_IF the_AT rest_NN1 of_IO us_PPIO2 on_II_RP@ how_RRQ to_TO live_VVI and_CC die_VVI with_IW grace_NN1 and_CC meaning_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   22 I did n't set out to clobber the reader with platitudes about the injustice of Ryan 's situation ; rather , I wrote about how his story hits you where it hurts the most .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   22 I_PPIS1 did_VDD n't_XX set_VVI out_RP to_TO clobber_VVI the_AT reader_NN1 with_IW platitudes_NN2 about_II the_AT injustice_NN1 of_IO Ryan_NP1 's_GE situation_NN1 ;_Y rather_RR@_RG ,_Y I_PPIS1 wrote_VVD about_II how_RRQ his_APPGE story_NN1 hits_VVZ you_PPY where_CS_RRQ it_PPH1 hurts_VVZ the_AT most_RRT@_DAT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   23 Ryan did n't live his life as though he were in a nightmare .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   23 Ryan_NP1 did_VDD n't_XX live_VVI his_APPGE life_NN1 as_CS21 though_CS22 he_PPHS1 were_VBDR in_II a_AT1 nightmare_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   24 He simply lived his sports and rock music .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   24 He_PPHS1 simply_RR lived_VVD his_APPGE sports_NN2 and_CC rock_NN1_VV0@ music_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   25 He came face to face with the ugliest , and the most beautiful , of human emotions , and dealt with both gracefully .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   25 He_PPHS1 came_VVD face_NN1 to_II face_NN1 with_IW the_AT ugliest_JJT ,_Y and_CC the_AT most_RGT beautiful_JJ ,_Y of_IO human_JJ_NN1 emotions_NN2 ,_Y and_CC dealt_VVN_VVD with_IW both_DB2_RR gracefully_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   26 As writers we 're ultra-sensitive to the world around us .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   26 As_CSA writers_NN2 we_PPIS2 're_VBR ultra-sensitive_JJ to_II the_AT world_NN1 around_II us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   27 Or should be .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   27 Or_CC should_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   28 It is our job to take life in , the funny and the sad , and filter it to its essence in some meaningful way , using language as our tool .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   28 It_PPH1 is_VBZ our_APPGE job_NN1 to_TO take_VVI life_NN1 in_RP@_II ,_Y the_AT funny_JJ and_CC the_AT sad_JJ ,_Y and_CC filter_VV0@_NN1 it_PPH1 to_II its_Z' essence_NN1 in_II some_DD meaningful_JJ way_NN1 ,_Y using_VVG language_NN1 as_CSA_II@ our_APPGE tool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   29 I was recently the guest speaker at a luncheon for a Newcomers Club in Lake Forest , Ill. , where I had lived for 10 years before moving to the Philadelphia area .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   29 I_PPIS1 was_VBDZ recently_RR the_AT guest_NN1 speaker_NN1 at_II a_AT1 luncheon_NN1 for_IF a_AT1 Newcomers_NN2 Club_NN1 in_II Lake_NNL1 Forest_NP1 ,_Y Ill._Z' ,_Y where_CS_RRQ I_PPIS1 had_VHD lived_VVN for_IF 10_MC years_NNT2 before_II moving_VVG to_II the_AT Philadelphia_NP1 area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   30 At the luncheon were about 60 women who were veterans of moving their families and lives around the United States , and even the world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   30 At_II the_AT luncheon_NN1 were_VBDR about_RG 60_MC women_NN2 who_PNQS were_VBDR veterans_NN2 of_IO moving_VVG their_APPGE families_NN2 and_CC lives_NN2_VVZ around_II_RP the_AT United_NP1 States_NP1 ,_Y and_CC even_RR the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   31 The first essay I chose to read was one I had written about my dear friend Diane , whom I had met my first month in Lake Forest at a Newcomers coffee gathering , and what it had been like for me when she had moved after five years .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   31 The_AT first_MD essay_NN1 I_PPIS1 chose_VVD to_TO read_VVI was_VBDZ one_PN1 I_PPIS1 had_VHD written_VVN about_II my_APPGE dear_JJ_NN1 friend_NN1 Diane_NP1 ,_Y whom_PNQO I_PPIS1 had_VHD met_VVN my_APPGE first_MD month_NNT1 in_II Lake_NNL1 Forest_NP1 at_II a_AT1 Newcomers_NN2 coffee_NN1 gathering_NN1_VVG ,_Y and_CC what_DDQ it_PPH1 had_VHD been_VBN like_II for_IF me_PPIO1 when_RRQ_CS she_PPHS1 had_VHD moved_VVN after_II five_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   32 In the essay , I described were .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   32 In_II the_AT essay_NN1 ,_Y I_PPIS1 described_VVD were_VBDR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   33 Where I was high-strung , and it may even be said " hyper , " Diane was thoughtful and nearly sedate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   33 Where_CS_RRQ I_PPIS1 was_VBDZ high-strung_JJ ,_Y and_CC it_PPH1 may_VM even_RR be_VBI said_VVN@ "_Y hyper_RR_JJ ,_Y "_Y Diane_NP1 was_VBDZ thoughtful_JJ and_CC nearly_RR sedate_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   34 She loved British comedies on PBS ; I watched Melrose Place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   34 She_PPHS1 loved_VVD British_JJ comedies_NN2 on_II PBS_NP1 ;_Y I_PPIS1 watched_VVD Melrose_NP1 Place_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   35 She favored tweedy , classic clothing ; I have been known to wear spandex .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   35 She_PPHS1 favored_VVD tweedy_JJ ,_Y classic_JJ_NN1 clothing_NN1 ;_Y I_PPIS1 have_VH0 been_VBN known_VVN to_TO wear_VVI spandex_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   36 I have two children , she has cats .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   36 I_PPIS1 have_VH0 two_MC children_NN2 ,_Y she_PPHS1 has_VHZ cats_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   37 Much of the essay continues in this light tone , and the shared laughter in the room made me feel a connection with this group of women , most of whom I had never met .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   37 Much_DA1 of_IO the_AT essay_NN1 continues_VVZ in_II this_DD1 light_JJ_NN1 tone_NN1 ,_Y and_CC the_AT shared_JJ laughter_NN1 in_II the_AT room_NN1 made_VVD me_PPIO1 feel_VVI a_AT1 connection_NN1 with_IW this_DD1 group_NN1 of_IO women_NN2 ,_Y most_DAT of_IO whom_PNQO I_PPIS1 had_VHD never_RR met_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   38 Then I came to the part where I am driving past Diane 's house and seeing the " For Sale " sign in her yard for the first time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   38 Then_RT I_PPIS1 came_VVD to_II the_AT part_NN1 where_CS_RRQ I_PPIS1 am_VBM driving_VVG_JJ past_II Diane_NP1 's_GE house_NN1 and_CC seeing_VVG the_AT "_Y For_IF Sale_NN1_NP1 "_Y sign_NN1_VV0 in_II her_APPGE yard_NN1 for_IF the_AT first_MD time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   39 And when I paused in my reading to look out at the group ( make eye contact when speaking !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   39 And_CC when_CS_RRQ I_PPIS1 paused_VVD in_II_RP@ my_APPGE reading_NN1 to_TO look_VVI out_RP at_II the_AT group_NN1 (_Y make_VV0 eye_NN1 contact_NN1_VV0 when_CS speaking_VVG !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   40 ) , I noticed that several women were dabbing at their eyes with tissues .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   40 )_Y ,_Y I_PPIS1 noticed_VVD that_CST several_DA2 women_NN2 were_VBDR dabbing_VVG at_II their_APPGE eyes_NN2 with_IW tissues_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   41 One woman at a table near me had tears openly streaming down her face .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   41 One_MC1 woman_NN1 at_II a_AT1 table_NN1 near_II me_PPIO1 had_VHN@ tears_NN2 openly_RR streaming_VVG down_RP her_APPGE face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   42 When I saw this , something happened to me as well .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   42 When_CS_RRQ I_PPIS1 saw_VVD this_DD1 ,_Y something_PN1 happened_VVD to_II@ me_PPIO1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   43 My words were space on a page .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   43 My_APPGE words_NN2 were_VBDR space_NN1 on_II a_AT1 page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   44 They were entering people and changing their lives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   44 They_PPHS2 were_VBDR entering_VVG people_NN and_CC changing_VVG their_APPGE lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   45 They were making them think , and look at life in different ways .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   45 They_PPHS2 were_VBDR making_VVG them_PPHO2 think_VVI ,_Y and_CC look_VVI at_II life_NN1 in_II different_JJ ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   46 My words were making them laugh ... and cry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   46 My_APPGE words_NN2 were_VBDR making_VVG them_PPHO2 laugh_VVI ..._... and_CC cry_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   47 It was with some difficulty that I continued reading at this point .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   47 It_PPH1 was_VBDZ with_IW some_DD difficulty_NN1 that_CST I_PPIS1 continued_VVD reading_VVG_NN1 at_II this_DD1 point_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   48 I had to pause and mentally compose myself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   48 I_PPIS1 had_VHD to_TO pause_VVI and_CC mentally_RR compose_VVI myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   49 Of course , being the good corporate wife myself ( bloom where you 're planted !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   49 Of_RR21 course_RR22 ,_Y being_VBG the_AT good_JJ corporate_JJ wife_NN1 myself_PPX1 (_Y bloom_VV0_NN1 where_RRQ_CS you_PPY 're_VBR planted_VVN !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   50 ) , I dried my tears before I went into Diane 's house , where she was straightening up for the initial real estate showing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   50 )_Y ,_Y I_PPIS1 dried_VVD my_APPGE tears_NN2 before_CS I_PPIS1 went_VVD into_II Diane_NP1 's_GE house_NN1 ,_Y where_CS_RRQ she_PPHS1 was_VBDZ straightening_VVG up_RP for_IF the_AT initial_JJ_NN1 real_JJ estate_NN1 showing_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   51 She was in the first stage of withdrawal from the house she loved so much .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   51 She_PPHS1 was_VBDZ in_II the_AT first_MD stage_NN1 of_IO withdrawal_NN1 from_II the_AT house_NN1 she_PPHS1 loved_VVD so_RG much_DA1_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   52 The stage where you ca n't bear to think of strangers tromping through your house looking in cabinets and closets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   52 The_AT stage_NN1 where_CS_RRQ you_PPY ca_VM n't_XX bear_VVI to_TO think_VVI of_IO strangers_NN2 tromping_VVG through_II_RP@ your_APPGE house_NN1 looking_VVG in_II_RP@ cabinets_NN2 and_CC closets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   53 I took her away for a long lunch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   53 I_PPIS1 took_VVD her_PPHO1 away_RL for_IF a_AT1 long_JJ lunch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   54 Luckily , I had interjected a light , humorous line in the last paragraph , and everyone laughed again , myself included .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   54 Luckily_RR ,_Y I_PPIS1 had_VHD interjected_VVN a_AT1 light_NN1_JJ ,_Y humorous_JJ line_NN1 in_II the_AT last_MD paragraph_NN1 ,_Y and_CC everyone_PN1 laughed_VVD again_RT ,_Y myself_PPX1 included_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   55 And the next essay I shared with them was one of my signature pieces , a humor essay called " Shore with the beaches in southern California , which had been published in The New York Times .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   55 And_CC the_AT next_MD essay_NN1 I_PPIS1 shared_VVD with_IW them_PPHO2 was_VBDZ one_MC1 of_IO my_APPGE signature_NN1 pieces_NN2 ,_Y a_AT1 humor_NN1 essay_NN1 called_VVN_VVD@ "_Y Shore_NP1 with_IW the_AT beaches_NN2 in_II southern_JJ California_NP1 ,_Y which_DDQ had_VHD been_VBN published_VVN in_II The_AT New_NP1 York_NP1 Times_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   56 One of the best letters I got from a reader read , " Your story made me laugh and cry at the same time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   56 One_MC1 of_IO the_AT best_JJT letters_NN2 I_PPIS1 got_VVD from_II a_AT1 reader_NN1 read_VVD_VVN_VV0 ,_Y "_Y Your_APPGE story_NN1 made_VVD me_PPIO1 laugh_NN1@ and_CC cry_VV0_NN1 at_II the_AT same_DA time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   57 " I never set out on purpose to make that happen .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   57 "_Y I_PPIS1 never_RR set_VVD out_RP on_II purpose_NN1 to_TO make_VVI that_CST happen_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   58 To make it happen naturally , a writer needs to go deep .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   58 To_TO make_VVI it_PPH1 happen_VVI naturally_RR ,_Y a_AT1 writer_NN1 needs_VVZ_NN2 to_TO go_VVI deep_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   59 Deep into that place inside yourself where raw emotion resides .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   59 Deep_RR_JJ into_II that_DD1 place_NN1 inside_II yourself_PPX1 where_CS_RRQ raw_JJ emotion_NN1 resides_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   60 That 's not always easy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   60 That_DD1 's_VBZ not_XX always_RR easy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   61 To do that you might have to draw upon painful memories , or share private thoughts in order to illustrate a larger concept ; you might have to divulge family secrets .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   61 To_TO do_VDI that_DD1 you_PPY might_VM have_VHI to_TO draw_VVI upon_II painful_JJ memories_NN2 ,_Y or_CC share_VV0_NN1 private_JJ thoughts_NN2 in_BCL21 order_BCL22 to_TO illustrate_VVI a_AT1 larger_JJR concept_NN1 ;_Y you_PPY might_VM have_VHI to_TO divulge_VVI family_NN1 secrets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   62 The first step in this , as with most writing , is simply to be more aware of your surroundings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   62 The_AT first_MD step_NN1_VV0 in_II this_DD1 ,_Y as_CSA with_IW most_DAT writing_NN1 ,_Y is_VBZ simply_RR to_TO be_VBI more_RGR aware_JJ of_IO your_APPGE surroundings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   63 Instead of the protective thick skin that many of us develop over time to shield ourselves from life 's blows , a writer is better served by developing a thin skin , a skin that absorbs the world 's beauty and pain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   63 Instead_II21_CS21% of_II22_CS22 the_AT protective_JJ thick_JJ skin_NN1 that_CST many_DA2 of_IO us_PPIO2 develop_VV0 over_II_RP time_NNT1 to_TO shield_VVI ourselves_PPX2 from_II life_NN1 's_GE blows_NN2 ,_Y a_AT1 writer_NN1 is_VBZ better_RRR served_VVN by_II developing_VVG a_AT1 thin_JJ skin_NN1 ,_Y a_AT1 skin_NN1 that_CST_DD1 absorbs_VVZ the_AT world_NN1 's_GE beauty_NN1 and_CC pain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   64 Then , as a writer , your job is to The key here is to avoid sentimentality in your writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   64 Then_RT ,_Y as_CSA_II a_AT1 writer_NN1 ,_Y your_APPGE job_NN1 is_VBZ to_TO The_AT key_NN1_JJ here_RL is_VBZ to_TO avoid_VVI sentimentality_NN1 in_II your_APPGE writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   65 The reader does not want to feel manipulated into experiencing what you -- the writer -- felt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   65 The_AT reader_NN1 does_VDZ not_XX want_VVI to_TO feel_VVI manipulated_VVN into_II experiencing_VVG what_DDQ you_PPY --_ZZ the_AT writer_NN1 --_NN1 felt_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   66 Rather , any emotion on the reader 's part must come organically from the narrative itself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   66 Rather_RR@_RG ,_Y any_DD emotion_NN1 on_II the_AT reader_NN1 's_GE part_NN1 must_VM come_VVI organically_RR from_II the_AT narrative_NN1 itself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   67 The writer does n't sit down at her laptop and say to herself , " I 'm really going to get to people with this story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   67 The_AT writer_NN1 does_VDZ n't_XX sit_VVI down_RP at_II her_APPGE laptop_NN1 and_CC say_VVI to_II herself_PPX1 ,_Y "_Y I_PPIS1 'm_VBM really_RR going_VVGK to_TO get_VVI to_II people_NN with_IW this_DD1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   68 " Rather , the writer already has a deep connection to the narrative , and she must be as simple and direct as possible -- never consciously manipulative .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   68 "_Y Rather_RR@_RG ,_Y the_AT writer_NN1 already_RR has_VHZ a_AT1 deep_JJ connection_NN1 to_II the_AT narrative_NN1_JJ ,_Y and_CC she_PPHS1 must_VM be_VBI as_RG simple_JJ and_CC direct_JJ_RR@ as_CSA possible_JJ --_NN1_JJ never_RR consciously_RR manipulative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   69 Last November I published an essay reacting to the two-year anniversary of the unsolved brutal murders of four prostitutes in Atlantic City , N.J. , in 2006 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   69 Last_MD November_NPM1 I_PPIS1 published_VVD an_AT1 essay_NN1 reacting_VVG to_II the_AT two-year_JJ anniversary_NN1 of_IO the_AT unsolved_JJ brutal_JJ murders_NN2 of_IO four_MC prostitutes_NN2 in_II Atlantic_NP1 City_NN1 ,_Y N.J._NP1 ,_Y in_II 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   70 Their bodies were in a drainage ditch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   70 Their_APPGE bodies_NN2 were_VBDR in_II a_AT1 drainage_NN1 ditch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   71 It 's their smiles that haunt you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   71 It_PPH1 's_VBZ their_APPGE smiles_NN2 that_CST haunt_VV0 you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   72 Smiles frozen in time , in photographs from better days .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   72 Smiles_NN2_NP1 frozen_VVN in_II time_NNT1 ,_Y in_II photographs_NN2 from_II better_JJR days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   73 Days when what lay ahead was not yet known .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   73 Days_NNT2 when_RRQ what_DDQ lay_VV0_VVD ahead_RL was_VBDZ not_XX yet_RR known_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   74 Could not be known .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   74 Could_VM not_XX be_VBI known_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   75 To make my essay resonate with the sadness and anger I felt when I read about these women , and my feelings about women and abuse .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   75 To_TO make_VVI my_APPGE essay_NN1 resonate_NN1_VV0 with_IW the_AT sadness_NN1 and_CC anger_VV0 I_PPIS1 felt_VVD when_RRQ_CS I_PPIS1 read_VV0_VVD about_II_RP@ these_DD2 women_NN2 ,_Y and_CC my_APPGE feelings_NN2 about_II women_NN2 and_CC abuse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   76 They look like the girl who lives in our neighborhood , like someone we could know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   76 They_PPHS2 look_VV0 like_II the_AT girl_NN1 who_PNQS lives_VVZ in_II_RP@ our_APPGE neighborhood_NN1 ,_Y like_II_VV0@_CS% someone_PN1 we_PPIS2 could_VM know_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   77 Somehow their lives intersected , and they ended up forever connected in this gruesome way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   77 Somehow_RR their_APPGE lives_NN2 intersected_VVD ,_Y and_CC they_PPHS2 ended_VVD up_RP forever_RT connected_VVN in_II this_DD1 gruesome_JJ way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   78 But on the day those photos were taken , they were smiling .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   78 But_CCB on_II the_AT day_NNT1 those_DD2 photos_NN2 were_VBDR taken_VVN ,_Y they_PPHS2 were_VBDR smiling_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   79 I had to tell their story so that even if you , the reader , did n't see the photos of the four of them , smiling , in a better day , you would cry for them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   79 I_PPIS1 had_VHD to_TO tell_VVI their_APPGE story_NN1 so_CS21 that_CS22 even_RR if_CS you_PPY ,_Y the_AT reader_NN1 ,_Y did_VDD n't_XX see_VVI the_AT photos_NN2 of_IO the_AT four_MC of_IO them_PPHO2 ,_Y smiling_VVG_JJ ,_Y in_II a_AT1 better_JJR day_NNT1 ,_Y you_PPY would_VM cry_VVI for_IF them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   80 By Kathy Stevenson Kathy Stevenson 's short stories , feature articles and essays have appeared in such publications as The New York Times , Newsweek , Chicago Tribune , Los Angeles Times and Christian Science Monitor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   80 By_II Kathy_NP1 Stevenson_NP1 Kathy_NP1 Stevenson_NP1 's_GE short_JJ stories_NN2 ,_Y feature_NN1_VV0@ articles_NN2 and_CC essays_NN2 have_VH0 appeared_VVN in_II such_DA publications_NN2 as_CSA The_AT New_NP1 York_NP1 Times_NNT2 ,_Y Newsweek_NP1 ,_Y Chicago_NP1 Tribune_NN1 ,_Y Los_NP1 Angeles_NP1 Times_NNT2 and_CC Christian_JJ Science_NN1 Monitor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   81 She has also published a historical novel , The Lake Poet , and two essay collections .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   81 She_PPHS1 has_VHZ also_RR published_VVN a_AT1 historical_JJ novel_NN1_JJ ,_Y The_AT Lake_NNL1 Poet_NP1 ,_Y and_CC two_MC essay_NN1 collections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   82 Some points to keep in mind * Avoid sentimentality -- do n't manipulate the reader with emotion that rings false .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   82 Some_DD points_NN2 to_TO keep_VVI in_II_RP@ mind_NN1_VV0 *_FU Avoid_VV0 sentimentality_NN1 --_NN1 do_VD0 n't_XX manipulate_VVI the_AT reader_NN1 with_IW emotion_NN1 that_CST_DD1 rings_VVZ false_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   83 ( Douglas Bauer discusses this in The Stuff of Fiction : Advice on Craft. ) * Balance a sad story with some levity , for example , I pointed out that he was not defined by his illness : " He was the boy next door .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   83 (_Y Douglas_NP1 Bauer_NP1 discusses_VVZ this_DD1 in_II The_AT Stuff_NN1 of_IO Fiction_NN1 :_Y Advice_NN1 on_II Craft._NP1 )_Y *_FU Balance_NN1 a_AT1 sad_JJ story_NN1 with_IW some_DD levity_NN1 ,_Y for_REX21 example_REX22 ,_Y I_PPIS1 pointed_VVD out_RP that_CST he_PPHS1 was_VBDZ not_XX defined_VVN by_II his_APPGE illness_NN1 :_Y "_Y He_PPHS1 was_VBDZ the_AT boy_NN1 next_MD door_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   84 The sweet-faced boy you see in the church choir .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   84 The_AT sweet-faced_JJ_NN1 boy_NN1 you_PPY see_VV0 in_II_RP@ the_AT church_NN1 choir_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   85 The boy at home plate with a bat in his hand and a determined look in his eye .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   85 The_AT boy_NN1 at_II home_NN1 plate_NN1 with_IW a_AT1 bat_NN1 in_II his_APPGE hand_NN1 and_CC a_AT1 determined_JJ look_NN1 in_II his_APPGE eye_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   86 " * Do n't be afraid of emotion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   86 "_Y *_FU Do_VD0 n't_XX be_VBI afraid_JJ of_IO emotion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   87 If something has affected you deeply , chances are very good that it will affect others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   87 If_CS something_PN1 has_VHZ affected_VVN you_PPY deeply_RR ,_Y chances_NN2 are_VBR very_RG good_JJ that_CST it_PPH1 will_VM affect_VVI others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   88 * Your essay should tell a story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   88 *_FU Your_APPGE essay_NN1 should_VM tell_VVI a_AT1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   89 Using the same narrative skills you would use to tell any story will help keep you from lapsing into sentimentality .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   89 Using_VVG the_AT same_DA narrative_JJ_NN1 skills_NN2 you_PPY would_VM use_VVI to_TO tell_VVI any_DD story_NN1 will_VM help_VVI keep_VVI you_PPY from_II lapsing_VVG into_II sentimentality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   90 * Use muscular , direct language .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   90 *_FU Use_NN1 muscular_JJ ,_Y direct_JJ language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   91 Your pacing and tone will be different when telling a serious story than in a humor piece .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   91 Your_APPGE pacing_VVG and_CC tone_NN1 will_VM be_VBI different_JJ when_CS telling_VVG a_AT1 serious_JJ story_NN1 than_CSN in_II a_AT1 humor_NN1 piece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   92 Build carefully to your last sentence , which should leave an indelible impression .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   92 Build_VV0 carefully_RR to_II your_APPGE last_MD sentence_NN1 ,_Y which_DDQ should_VM leave_VVI an_AT1 indelible_JJ impression_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   93 * Not all serious stories are sad .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   93 *_FU Not_XX all_DB_RR@ serious_JJ stories_NN2 are_VBR sad_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   94 Yours may be more reflective or meditative .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   94 Yours_PPGE may_VM be_VBI more_RGR reflective_JJ or_CC meditative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  A    0   95 -- K.S.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080329 COCA  B    0   95 --_ZZ K.S._NP2

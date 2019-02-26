@@ -1,0 +1,112 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    0 STEVE BELL IS HIS LAW FIRM 'S CLOSER .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    0 STEVE_NP1 BELL_NP1_NN1 IS_VBZ HIS_APPGE LAW_NN1 FIRM_NN1 'S_VBZ_GE CLOSER_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    1 HE 'S NOT A LAWYER , but he 's using his 20 years of experience at firms such as Price Water house Coopers to close deals with potential clients of his employer , Womble Carlyle Sandridge Rice .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    1 HE_PPHS1 'S_VBZ NOT_XX A_AT1@ LAWYER_NN1 ,_Y but_CCB he_PPHS1 's_VBZ using_VVG his_APPGE 20_MC years_NNT2 of_IO experience_NN1 at_II firms_NN2 such_II21 as_II22 Price_NP1_NN1 Water_NN1 house_NN1 Coopers_NP1 to_TO close_VVI deals_NN2 with_IW potential_JJ clients_NN2 of_IO his_APPGE employer_NN1 ,_Y Womble_NP1 Carlyle_NP1 Sandridge_NP1 Rice_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    2 <p> Bell is n't the only nonlawyer selling legal services .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    2 <p>_Y Bell_NP1_NN1 is_VBZ n't_XX the_AT only_RR_JJ nonlawyer_JJR selling_NN1 legal_JJ services_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    3 So what sets this chief of client development and his team of sales directors apart from other business development chairs and marketing directors ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    3 So_RR what_DDQ sets_VVZ this_DD1 chief_NN1 of_IO client_NN1 development_NN1 and_CC his_APPGE team_NN1 of_IO sales_NN directors_NN2 apart_II21 from_II22 other_JJ business_NN1 development_NN1 chairs_NN2 and_CC marketing_NN1_VVG@ directors_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    4 They are making rain through their own contacts , getting out of the office and into meetings with chief financial officers and other high-level executives .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    4 They_PPHS2 are_VBR making_VVG rain_NN1 through_II their_APPGE own_DA contacts_NN2 ,_Y getting_VVG out_II21 of_II22 the_AT office_NN1 and_CC into_II meetings_NN2 with_IW chief_JJ financial_JJ officers_NN2 and_CC other_JJ high-level_JJ executives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    5 <p> " What this game is all about is the relationship business , " Bell says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    5 <p>_Y "_Y What_DDQ this_DD1 game_NN1 is_VBZ all_DB_RR@ about_RP@ is_VBZ the_AT relationship_NN1 business_NN1 ,_Y "_Y Bell_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    6 " The question at hand is how can one more quickly initiate a relationship and bring those relationships to fruition .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    6 "_Y The_AT question_NN1 at_II hand_NN1 is_VBZ how_RRQ can_VM one_PN1 more_RGR quickly_RR initiate_VVI a_AT1 relationship_NN1 and_CC bring_VVI those_DD2 relationships_NN2 to_II fruition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    7 " <p> Bell 's foray into the legal profession started in 2000 while he was doing product sales at accounting firm Grant Thornton .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    7 "_Y <p>_Y Bell_NP1 's_GE foray_NN1 into_II the_AT legal_JJ profession_NN1 started_VVD_VVN@ in_II 2000_MC while_CS he_PPHS1 was_VBDZ doing_VDG product_NN1 sales_NN at_II accounting_VVG_NN1 firm_JJ_NN1 Grant_NP1 Thornton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    8 Looking to market a tax-planning idea to clients at his firm , Bell found a lawyer in 's head of client communication at the time , Press Milien , had made a habit of borrowing successful business development ideas from other industries and tailoring them to fit his firm 's needs .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    8 Looking_VVG to_TO market_VVI a_AT1 tax-planning_JJ_NN1 idea_NN1 to_II clients_NN2 at_II his_APPGE firm_NN1_JJ ,_Y Bell_NP1 found_VVD a_AT1 lawyer_NN1 in_II 's_GE head_NN1 of_IO client_NN1 communication_NN1 at_II the_AT time_NNT1 ,_Y Press_VV0_NN1 Milien_NP1_NN1_JJ ,_Y had_VHD made_VVN a_AT1 habit_NN1 of_IO borrowing_VVG successful_JJ business_NN1 development_NN1 ideas_NN2 from_II other_JJ industries_NN2 and_CC tailoring_VVG them_PPHO2 to_TO fit_VVI his_APPGE firm_NN1 's_GE needs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0    9 Banking and accounting firms had sales directors , so why not a law firm ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0    9 Banking_NN1 and_CC accounting_VVG_NN1_JJ@ firms_NN2 had_VHD sales_NN directors_NN2 ,_Y so_RR why_RRQ not_XX a_AT1 law_NN1 firm_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   10 <p> Although Bell says he was never a shoo-in for the position , he admits , " When I saw the job description , I said , ' This was written for me .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   10 <p>_Y Although_CS Bell_NP1 says_VVZ he_PPHS1 was_VBDZ never_RR a_AT1 shoo-in_UH for_IF the_AT position_NN1 ,_Y he_PPHS1 admits_VVZ ,_Y "_Y When_CS_RRQ I_PPIS1 saw_VVD the_AT job_NN1 description_NN1 ,_Y I_PPIS1 said_VVD ,_Y '_"@_GE This_DD1 was_VBDZ written_VVN for_IF me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   11 ' It 's what I 'd been building toward my entire career .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   11 '_"@_GE It_PPH1 's_VBZ what_DDQ I_PPIS1 'd_VHD been_VBN building_VVG@ toward_II my_APPGE entire_JJ career_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   12 " <p> That career now is one of constant attention to opportunities .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   12 "_Y <p>_Y That_DD1 career_NN1 now_RT is_VBZ one_MC1 of_IO constant_JJ attention_NN1 to_II opportunities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   13 <p> " I 'm an e-mail freak , " Bell says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   13 <p>_Y "_Y I_PPIS1 'm_VBM an_AT1 e-mail_NN1 freak_NN1 ,_Y "_Y Bell_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   14 " I always have my Treo with me , all day and all night .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   14 "_Y I_PPIS1 always_RR have_VH0 my_APPGE Treo_NN1@_NP1 with_IW me_PPIO1 ,_Y all_DB day_NNT1 and_CC all_DB night_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   15 First thing in the morning I check for any sales emergencies .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   15 First_MD thing_NN1 in_II the_AT morning_NNT1 I_PPIS1 check_VV0 for_IF any_DD sales_NN emergencies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   16 " Bell pauses .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   16 "_Y Bell_NP1_NN1 pauses_VVZ_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   17 " I know what you 're thinking : ' There are sales emergencies ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   17 "_Y I_PPIS1 know_VV0 what_DDQ you_PPY 're_VBR thinking_VVG :_Y '_"@ There_EX are_VBR sales_NN emergencies_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   18 ' " Bell also has an office phone at his home in the event such an emergency arises .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   18 '_"@_GE "_Y Bell_NP1_NN1 also_RR has_VHZ an_AT1 office_NN1 phone_NN1 at_II his_APPGE home_NN1 in_II the_AT event_NN1 such_DA an_AT1 emergency_NN1 arises_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   19 <p> Typically , Bell 's 20 minutes reading e-mails and " getting a lay of the land " before dropping his kids off at school and heading , first , to his firm 's northern Virginia lo-cation , then on to its Washington , D.C. , offices later in the day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   19 <p>_Y Typically_RR ,_Y Bell_NP1 's_GE_VBZ 20_MC minutes_NNT2 reading_VVG_NN1 e-mails_NN2 and_CC "_Y getting_VVG a_AT1 lay_JJ@ of_IO the_AT land_NN1 "_Y before_II dropping_VVG his_APPGE kids_NN2 off_RP at_II school_NN1 and_CC heading_NN1_VVG ,_Y first_MD ,_Y to_II his_APPGE firm_NN1 's_GE_VBZ northern_JJ Virginia_NP1 lo-cation_NN1 ,_Y then_RT on_II21_RP to_II22_II its_Z' Washington_NP1 ,_Y D.C._NP1 ,_Y offices_NN2 later_RRR in_II the_AT day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   20 Waiting for him are requests for proposals to draft , company profiles to prepare and lawyers to be coached .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   20 Waiting_VVG for_IF him_PPHO1 are_VBR requests_NN2 for_IF proposals_NN2 to_TO draft_VVI ,_Y company_NN1 profiles_NN2_VVZ@ to_TO prepare_VVI and_CC lawyers_NN2 to_TO be_VBI coached_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   21 <p> " I walk the halls and talk to lawyers , " Bell says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   21 <p>_Y "_Y I_PPIS1 walk_VV0 the_AT halls_NN2 and_CC talk_VV0_NN1 to_II lawyers_NN2 ,_Y "_Y Bell_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   22 " I 'm always asking : Did they follow up with that letter , set that appointment ; what 's going on ; what are they trying to do ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   22 "_Y I_PPIS1 'm_VBM always_RR asking_VVG :_Y Did_VDD they_PPHS2 follow_VVI up_RP with_IW that_DD1 letter_NN1 ,_Y set_VV0_VVD that_DD1 appointment_NN1 ;_Y what_DDQ 's_VBZ going_VVG on_RP@ ;_Y what_DDQ are_VBR they_PPHS2 trying_VVG to_TO do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   23 A big part of the job is to figure out where are the opportunities .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   23 A_AT1_ZZ1 big_JJ part_NN1 of_IO the_AT job_NN1 is_VBZ to_TO figure_VVI out_RP where_RRQ are_VBR the_AT opportunities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   24 " <p> He also uses his accounting contacts to set up his own meetings , often being the first point of contact between the firm and a potential client .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   24 "_Y <p>_Y He_PPHS1 also_RR uses_VVZ his_APPGE accounting_NN1_JJ@ contacts_NN2 to_TO set_VVI up_RP his_APPGE own_DA meetings_NN2 ,_Y often_RR being_VBG the_AT first_MD point_NN1 of_IO contact_NN1 between_II the_AT firm_NN1_JJ and_CC a_AT1 potential_JJ_NN1 client_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   25 <p> L : ORCHESTRATING SUCCESS BELL IS QUICK TO NOTE " THERE IS NO NONLAWYER SELLING LEGAL SERVICES by him- or herself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   25 <p>_Y L_ZZ1_NP1@ :_Y ORCHESTRATING_NP1_VVG_JJ@ SUCCESS_NN1 BELL_NN1_NP1 IS_VBZ QUICK_JJ TO_TO NOTE_VVI "_Y THERE_EX_RL IS_VBZ NO_XX NONLAWYER_JJR SELLING_NN1 LEGAL_JJ SERVICES_NN2 by_II him-_NN1_JJ or_CC herself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   26 " Instead , Bell 's role is to initiate new relationships long enough to bear fruit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   26 "_Y Instead_RR ,_Y Bell_NP1 's_GE role_NN1 is_VBZ to_TO initiate_VVI new_JJ relationships_NN2 long_RR enough_RR_DD to_TO bear_VVI fruit_NN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   27 <p> Bell and Milien agree that clients have no problem with a closer in the room .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   27 <p>_Y Bell_NP1_NN1 and_CC Milien_NP1_NN1 agree_VV0 that_CST clients_NN2 have_VH0 no_AT problem_NN1 with_IW a_AT1 closer_JJR in_II the_AT room_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   28 " That 's one of the funny things , " Milien says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   28 "_Y That_DD1 's_VBZ one_MC1 of_IO the_AT funny_JJ things_NN2 ,_Y "_Y Milien_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   29 " Clients understood it typically much more readily than the lawyers did .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   29 "_Y Clients_NN2 understood_VVD_VVN it_PPH1 typically_RR much_RR more_RGR readily_RR than_CSN the_AT lawyers_NN2 did_VDD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   30 Other lawyers thought if you walked into a meeting and said , ' Hi , here is our sales director ' a trapdoor opens and you 're cast into a fiery furnace .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   30 Other_JJ lawyers_NN2 thought_VVN_VVD if_CS_CSW@ you_PPY walked_VVD into_II a_AT1 meeting_NN1 and_CC said_VVD ,_Y '_"@ Hi_UH ,_Y here_RL is_VBZ our_APPGE sales_NN director_NN1 '_GE a_AT1 trapdoor_NN1 opens_VVZ and_CC you_PPY 're_VBR cast_VVN into_II a_AT1 fiery_JJ furnace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   31 The clients we deal with all understand and recognize the importance of having one .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   31 The_AT clients_NN2 we_PPIS2 deal_VV0 with_IW all_DB understand_VV0 and_CC recognize_VV0 the_AT importance_NN1 of_IO having_VHG one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   32 " <p> Bell accompanies lawyers to their own client meetings .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   32 "_Y <p>_Y Bell_NP1_NN1 accompanies_VVZ lawyers_NN2 to_II their_APPGE own_DA client_NN1 meetings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   33 " I 'm a different set of eyes and ears .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   33 "_Y I_PPIS1 'm_VBM a_AT1 different_JJ set_NN1 of_IO eyes_NN2 and_CC ears_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   34 I 'm the one who insists the lawyers not spend so much time talking about their pedigrees , but listen and understand what clients need and want .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   34 I_PPIS1 'm_VBM the_AT one_PN1 who_PNQS insists_VVZ the_AT lawyers_NN2 not_XX spend_VV0 so_RG much_DA1 time_NNT1 talking_VVG about_II their_APPGE pedigrees_NN2 ,_Y but_CCB listen_VV0 and_CC understand_VV0 what_DDQ clients_NN2 need_VV0_NN1 and_CC want_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   35 " <p> One major difference for Bell between the accounting world and the legal profession is conflicts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   35 "_Y <p>_Y One_MC1 major_JJ difference_NN1 for_IF Bell_NP1_NN1@ between_II the_AT accounting_NN1_JJ@ world_NN1 and_CC the_AT legal_JJ profession_NN1 is_VBZ conflicts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   36 " You ca n't believe the heartaches I have had because of conflicts , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   36 "_Y You_PPY ca_VM n't_XX believe_VVI the_AT heartaches_NN2 I_PPIS1 have_VH0 had_VHN because_II21 of_II22 conflicts_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   37 " Going well down the pathway of pursuing piece of business , and then the lawyer reminds you to do a confidentiality check .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   37 "_Y Going_VVG well_RR down_RP_II@ the_AT pathway_NN1 of_IO pursuing_VVG piece_NN1 of_IO business_NN1 ,_Y and_CC then_RT the_AT lawyer_NN1 reminds_VVZ you_PPY to_TO do_VDI a_AT1 confidentiality_NN1 check_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   38 " Bell now works closely with the firm 's chief ethics officer and runs conflicts checks early on in a campaign .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   38 "_Y Bell_NP1_NN1 now_RT works_VVZ closely_RR with_IW the_AT firm_NN1 's_GE chief_JJ_NN1 ethics_NN officer_NN1 and_CC runs_VVZ_NN2 conflicts_NN2 checks_VVZ early_RR on_RP@_II in_II a_AT1 campaign_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   39 <p> A second adjustment was the switch from the winner-take-all battles among a handful of accounting firms to the case-by-case assignments typical of the legal profession .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   39 <p>_Y A_AT1 second_MD_NNT1 adjustment_NN1 was_VBDZ the_AT switch_NN1 from_II the_AT winner-take-all_J battles_NN2 among_II a_AT1 handful_NN1 of_IO accounting_VVG_NN1_JJ@ firms_NN2 to_II the_AT case-by-case_JJ_NN1 assignments_NN2 typical_JJ of_IO the_AT legal_JJ profession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   40 <p> " In auditing , one firm walks away with the business , " Bell says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   40 <p>_Y "_Y In_II auditing_NN1_VVG ,_Y one_MC1 firm_NN1_JJ walks_VVZ_NN2 away_RL with_IW the_AT business_NN1 ,_Y "_Y Bell_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   41 " You had a one-in-six chance of winning .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   41 "_Y You_PPY had_VHD a_AT1 one-in-six_MC chance_NN1 of_IO winning_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   42 What is very interesting about the legal environment is that legal budgets can be bifurcated , trifurcated .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   42 What_DDQ is_VBZ very_RG interesting_JJ about_II the_AT legal_JJ environment_NN1 is_VBZ that_DD1_CST_RG% legal_JJ budgets_NN2 can_VM be_VBI bifurcated_VVN@ ,_Y trifurcated_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   43 It 's possible for a GC to hire a single lawyer for a matter on a test basis and then expand on a case-by-case basis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   43 It_PPH1 's_VBZ possible_JJ for_IF a_AT1 GC_NP1 to_TO hire_VVI a_AT1 single_JJ lawyer_NN1 for_IF a_AT1 matter_NN1 on_II a_AT1 test_NN1 basis_NN1 and_CC then_RT expand_VV0 on_II_RP@ a_AT1 case-by-case_JJ_NN1 basis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   44 " <p> Bell and his team are paid a salary and get " a shot at an incentive pool .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   44 "_Y <p>_Y Bell_NP1_NN1 and_CC his_APPGE team_NN1 are_VBR paid_VVN a_AT1 salary_NN1 and_CC get_VV0 "_Y a_AT1 shot_NN1 at_II an_AT1 incentive_NN1 pool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   45 " Though they ca n't get commissions for each closing , which could be interpreted as fee-splitting , they are evaluated on the number of deals they develop and their level of participation .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   45 "_Y Though_CS they_PPHS2 ca_VM n't_XX get_VVI commissions_NN2 for_IF each_DD1 closing_NN1_JJ ,_Y which_DDQ could_VM be_VBI interpreted_VVN as_CSA_II@_RG@ fee-splitting_JJ_NN1 ,_Y they_PPHS2 are_VBR evaluated_VVN on_II the_AT number_NN1 of_IO deals_NN2 they_PPHS2 develop_VV0 and_CC their_APPGE level_NN1 of_IO participation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   46 <p> With dried up , " Bell says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   46 <p>_Y With_IW dried_VVN up_RP ,_Y "_Y Bell_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   47 As a result , his team , which expanded by one salesperson each year for the past five years , has reached a plateau .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   47 As_II a_AT1 result_NN1 ,_Y his_APPGE team_NN1 ,_Y which_DDQ expanded_VVD by_II one_MC1 salesperson_NN1 each_DD1 year_NNT1 for_IF the_AT past_JJ five_MC years_NNT2 ,_Y has_VHZ reached_VVN a_AT1 plateau_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   48 <p> But the legal profession 's first director of sales ca n't say he 's worried about the future .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   48 <p>_Y But_CCB the_AT legal_JJ profession_NN1 's_GE first_MD director_NN1 of_IO sales_NN ca_VM n't_XX say_VVI he_PPHS1 's_VBZ_VHZ@ worried_VVN@_JJ about_II the_AT future_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   49 " I do n't really think about the future much , " Bell says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   49 "_Y I_PPIS1 do_VD0 n't_XX really_RR think_VVI about_II the_AT future_NN1_JJ much_RR ,_Y "_Y Bell_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   50 " I come to work every day and I work as hard as I can .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   50 "_Y I_PPIS1 come_VV0 to_TO@ work_VVI every_AT1 day_NNT1 and_CC I_PPIS1 work_VV0 as_RG hard_RR_JJ as_CSA I_PPIS1 can_VM_VV0% ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   51 It 's a new ballgame every day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   51 It_PPH1 's_VBZ a_AT1 new_JJ ballgame_NN1_VV0 every_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   52 " <p> Lawyers " thought if you walked into a meeting and said , ' Hi , here is our sales director , ' a trapdoor opens and you 're cast into a fiery furnace .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   52 "_Y <p>_Y Lawyers_NN2 "_Y thought_VVN_VVD if_CS_CSW@ you_PPY walked_VVD into_II a_AT1 meeting_NN1 and_CC said_VVD ,_Y '_"@ Hi_UH ,_Y here_RL is_VBZ our_APPGE sales_NN director_NN1 ,_Y '_GE_"@ a_AT1 trapdoor_NN1 opens_VVZ and_CC you_PPY 're_VBR cast_VVN into_II a_AT1 fiery_JJ furnace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   53 The clients we deal with all understand .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   53 The_AT clients_NN2 we_PPIS2 deal_VV0 with_IW all_DB understand_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   54 " <p> --PRESS MILLEN <p> PHOTO ( COLOR ) : Steve Bell : " I walk the halls and talk to lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   54 "_Y <p>_Y --PRESS_JJ_NN1 MILLEN_NN1_NP1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Steve_NP1 Bell_NP1 :_Y "_Y I_PPIS1 walk_VV0 the_AT halls_NN2 and_CC talk_VV0_NN1 to_II lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  A    0   55 " <p> By Rachel M. Zahorsky <p> EDITED BY Reginald F. Davis <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071548 COCA  B    0   55 "_Y <p>_Y By_II Rachel_NP1 M._NN1 Zahorsky_NP1 <p>_Y EDITED_VVN BY_II Reginald_NP1 F._NP1 Davis_NP1 <p>_Y

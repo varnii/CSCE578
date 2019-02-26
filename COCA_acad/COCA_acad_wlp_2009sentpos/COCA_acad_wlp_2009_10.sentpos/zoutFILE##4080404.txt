@@ -1,0 +1,180 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    0 Agbor-Baiyee , W. , Orienting students using a case-based instructional approach : A case study , 36(1) , 20-28 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    0 Agbor-Baiyee_NP1 ,_Y W._NP1 ,_Y Orienting_VVG_NP1 students_NN2 using_VVG a_AT1 case-based_JJ instructional_JJ approach_NN1 :_Y A_AT1@_ZZ1 case_NN1 study_NN1 ,_Y 36(1)_FO ,_Y 20-28_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    1 Akinoglu , O. , Internet and Internet use : Teacher trainees ' perspective .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    1 Akinoglu_NN1_NP1@ ,_Y O._NP1 ,_Y Internet_NP1_NN1 and_CC Internet_NP1_NN1 use_NN1_VV0 :_Y Teacher_NN1 trainees_NN2 '_GE perspective_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    2 36(2) , 97-103 Alsmadi , Y. Alsmadi , A. , Detecting differential functioning in emotional intelligence .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    2 36(2)_FO ,_Y 97-103_MCMC Alsmadi_NP1 ,_Y Y._NP1 Alsmadi_NP1 ,_Y A._ZZ ,_Y Detecting_VVG differential_NN1_JJ functioning_VVG_NN1@ in_II emotional_JJ intelligence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    3 36(4) , 284-288 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    3 36(4)_FO ,_Y 284-288_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    4 Amsel , E. , Johnston , A. , Alvarado , E. , Kettering , J , Rankin , L. Ward , M , The effect of perspective on misconceptions in psychology : A test of conceptual change theory .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    4 Amsel_VV0_NN1_NP1@ ,_Y E._NP1 ,_Y Johnston_NP1 ,_Y A._ZZ ,_Y Alvarado_NP1 ,_Y E._NP1 ,_Y Kettering_NP1 ,_Y J_ZZ1 ,_Y Rankin_NP1 ,_Y L._ZZ Ward_NP1 ,_Y M_ZZ1_NN1 ,_Y The_AT effect_NN1 of_IO perspective_NN1 on_II misconceptions_NN2 in_II psychology_NN1 :_Y A_AT1@_ZZ1 test_NN1 of_IO conceptual_JJ change_NN1 theory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    5 36(4) , 289-295 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    5 36(4)_FO ,_Y 289-295_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    6 Aydin , E. , An evaluation of the aims of the faculty school partnership scheme by mathematic student teachers and their mentors. 36(3) , 273-281 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    6 Aydin_NN1_NP1@ ,_Y E._NP1 ,_Y An_AT1 evaluation_NN1 of_IO the_AT aims_NN2 of_IO the_AT faculty_NN1 school_NN1 partnership_NN1 scheme_NN1 by_II mathematic_JJ student_NN1 teachers_NN2 and_CC their_APPGE mentors._NNU 36(3)_FO ,_Y 273-281_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    7 Bai , H , .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    7 Bai_NN2_NP1@ ,_Y H_ZZ1 ,_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    8 Wang , LS. , Pan , W. Frey , M. Measuring mathematical anxiety : Psychometric analysis of a bidimentional affective scale .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    8 Wang_NP1 ,_Y LS._NP2 ,_Y Pan_NP1 ,_Y W._NP1 Frey_NP1 ,_Y M._NN1 Measuring_VVG mathematical_JJ anxiety_NN1 :_Y Psychometric_JJ_NP1 analysis_NN1 of_IO a_AT1 bidimentional_JJ affective_JJ scale_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0    9 36(3) , 185-93 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0    9 36(3)_FO ,_Y 185-93_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   10 Baloglu , N. , Negative behavior of teachers without regard to high school students in the classroom setting .. 36(1) , 69-78 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   10 Baloglu_NN1_NP1@ ,_Y N._NP1_NNU ,_Y Negative_JJ behavior_NN1 of_IO teachers_NN2 without_IW regard_NN1 to_II high_JJ school_NN1 students_NN2 in_II the_AT classroom_NN1 setting_NN1_VVG .._... 36(1)_FO ,_Y 69-78_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   11 Bolkan S. , Goodboy , A. , student participation , and teacher credibility , 36(4) , 296-306 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   11 Bolkan_NP1@_JJ S._ZZ ,_Y Goodboy_NP1_NN1 ,_Y A._ZZ ,_Y student_NN1 participation_NN1 ,_Y and_CC teacher_NN1 credibility_NN1 ,_Y 36(4)_FO ,_Y 296-306_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   12 Bowman , L.L. , Does posting PowerPoint presentations on WebCT affect class performance or attendance ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   12 Bowman_NN1_NP1@ ,_Y L.L._NP1 ,_Y Does_VDZ posting_NN1 PowerPoint_NN1_VV0 presentations_NN2 on_II WebCT_NP1_NN1 affect_NN1_VV0 class_NN1 performance_NN1 or_CC attendance_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   13 36(2) , 104-7 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   13 36(2)_FO ,_Y 104-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   14 Church , E. , Facing reality : What are doctoral students ' chances for success ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   14 Church_NN1 ,_Y E._NP1 ,_Y Facing_VVG_JJ@ reality_NN1 :_Y What_DDQ are_VBR doctoral_JJ students_NN2 '_GE chances_NN2 for_IF success_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   15 36(4) , 307-316 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   15 36(4)_FO ,_Y 307-316_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   16 Desai , M , Hart , J. , Richard , T. , An IT Manager 's view on E-mail and Internet Policies and Procedures .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   16 Desai_NN2_NP1@ ,_Y M_ZZ1_NN1 ,_Y Hart_NP1 ,_Y J._NP1 ,_Y Richard_NP1 ,_Y T._NP1 ,_Y An_AT1 IT_NN1 Manager_NN1 's_GE view_NN1 on_II E-mail_NN1 and_CC Internet_NN1_NP1 Policies_NN2 and_CC Procedures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   17 36(4) , 317-322 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   17 36(4)_FO ,_Y 317-322_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   18 Ediger , M. , Rating teacher of social studies instruction .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   18 Ediger_VV0_NN1_NP1@ ,_Y M._NN1 ,_Y Rating_NN1_VVG@ teacher_NN1 of_IO social_JJ studies_NN2 instruction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   19 36(4) , 323-325 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   19 36(4)_FO ,_Y 323-325_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   20 Egbochuku , E.O .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   20 Egbochuku_NN1_NP1@ ,_Y E.O_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   21 Aihie , N.O. , Peer group counseling and school influence on adolescents ' self-concept. 36(1) , 3-12 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   21 Aihie_NN1_NP1@ ,_Y N.O._UH ,_Y Peer_VV0_NN1 group_NN1 counseling_NN1 and_CC school_NN1 influence_NN1_VV0 on_II adolescents_NN2 '_GE self-concept._JJ_NNU 36(1)_FO ,_Y 3-12_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   22 Emfinger , K. , Numerical conceptions reflected during multiage child-initiated pretend play .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   22 Emfinger_NP1_NN1 ,_Y K._NP1 ,_Y Numerical_JJ conceptions_NN2 reflected_VVN_VVD during_II multiage_NN1 child-initiated_NN1_JJ pretend_VV0_JJ@ play_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   23 36(4) , 326-334 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   23 36(4)_FO ,_Y 326-334_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   24 Firmin , M.W. , Johnson , E.J. , Walker , J. Professional human services occupation biases represented in General Psychology textbooks .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   24 Firmin_NN1_NP1@ ,_Y M.W._NNU ,_Y Johnson_NP1 ,_Y E.J._NP1 ,_Y Walker_NP1 ,_Y J._NP1 Professional_JJ human_JJ_NN1 services_NN2 occupation_NN1 biases_NN2 represented_VVN_VVD in_II_RR21 General_JJ_RR22 Psychology_NN1 textbooks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   25 36(3) , 194-202 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   25 36(3)_FO ,_Y 194-202_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   26 Goodboy , A.K. Myers , S.A. The relationship between perceived instructor immediacy and student challenge behavior. 36(2) , 108-112 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   26 Goodboy_NN1_NP1@ ,_Y A.K._NP1 Myers_NP1 ,_Y S.A._NP1 The_AT relationship_NN1 between_II perceived_JJ@ instructor_NN1 immediacy_NN1 and_CC student_NN1 challenge_VV0_NN1 behavior._NNU 36(2)_FO ,_Y 108-112_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   27 Gu W. , Yawkey , home-based family intervention models utilized by public school teachers in the People 's Republic of China .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   27 Gu_NP1@ W._NP1 ,_Y Yawkey_NP1 ,_Y home-based_JJ_NN1 family_NN1 intervention_NN1 models_NN2 utilized_VVN by_II public_JJ_NN1 school_NN1 teachers_NN2 in_II the_AT People_NN 's_GE Republic_NN1 of_IO China_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   28 36(1) , 49-58 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   28 36(1)_FO ,_Y 49-58_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   29 Haeseler , L.A. , Biblio-therapeutic book creations by pre-service student teachers : Helping elementary school children cope .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   29 Haeseler_NN1_NP1@ ,_Y L.A._NP1 ,_Y Biblio-therapeutic_JJ book_NN1 creations_NN2 by_II pre-service_JJ_NN1 student_NN1 teachers_NN2 :_Y Helping_VVG elementary_JJ school_NN1 children_NN2 cope_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   30 36(2) , 113-6 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   30 36(2)_FO ,_Y 113-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   31 Hammermeister , J. , Pickering , M.A. , Ohlson , C.J. , Teaching mental skills for self-esteem House , J.D. , Classroom instructional strategies and science career interest for adolescent students in Korea : Results from the TIMSS Assessemt. 36(1) , 13-19 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   31 Hammermeister_NP1_NN1 ,_Y J._NP1 ,_Y Pickering_NP1 ,_Y M.A._NNA ,_Y Ohlson_NP1 ,_Y C.J._NP1 ,_Y Teaching_VVG mental_JJ skills_NN2 for_IF self-esteem_NN1 House_NN1 ,_Y J.D._NP1 ,_Y Classroom_NN1 instructional_JJ strategies_NN2 and_CC science_NN1 career_NN1 interest_NN1 for_IF adolescent_JJ_NN1 students_NN2 in_II Korea_NP1 :_Y Results_NN2 from_II the_AT TIMSS_NP1_NN1 Assessemt._NP1 36(1)_FO ,_Y 13-19_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   32 Huang , J. , What happens when two cultures meet in the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   32 Huang_VV0_NN1_NP1@ ,_Y J._NP1 ,_Y What_DDQ happens_VVZ when_RRQ_CS two_MC cultures_NN2 meet_VV0 in_II_RP@ the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   33 36(4) , 335-342 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   33 36(4)_FO ,_Y 335-342_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   34 Hwang , Y.S. , Fisher , W. , Vrongistinos , K. , Calibrating a measure of gender differences in motivation for learning technology .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   34 Hwang_VV0_NN1_NP1@ ,_Y Y.S._NP2 ,_Y Fisher_NP1 ,_Y W._NP1 ,_Y Vrongistinos_NP1_NN2 ,_Y K._NP1 ,_Y Calibrating_VVG a_AT1 measure_NN1 of_IO gender_NN1 differences_NN2 in_II motivation_NN1 for_IF learning_VVG_NN1 technology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   35 36(3) , 259-272 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   35 36(3)_FO ,_Y 259-272_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   36 Kayali , H. , Effects of near-to-far principle and other factors on learning and teaching some geography subjects in the social studies course .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   36 Kayali_NN2_NP1@ ,_Y H._NP1 ,_Y Effects_NN2 of_IO near-to-far_JJ principle_NN1 and_CC other_JJ factors_NN2 on_II learning_NN1_VVG and_CC teaching_VVG some_DD geography_NN1 subjects_NN2 in_II the_AT social_JJ studies_NN2 course_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   37 36(2) , 175-182 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   37 36(2)_FO ,_Y 175-182_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   38 Kelly , K.E. Kneipp , N .. You do what you are : The relationship between the Scale of Creative Attributes and behavior and vocational interests .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   38 Kelly_NP1 ,_Y K.E._NP1 Kneipp_NP1 ,_Y N_ZZ1 .._... You_PPY do_VD0 what_DDQ you_PPY are_VBR :_Y The_AT relationship_NN1 between_II the_AT Scale_NN1 of_IO Creative_JJ Attributes_NN2 and_CC behavior_NN1 and_CC vocational_JJ interests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   39 36(1) Bristol , A.S. , Predicting students ' performance in Introductory Psychology from their psychological misconceptions .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   39 36(1)_FO Bristol_NP1 ,_Y A.S._NP1 ,_Y Predicting_VVG students_NN2 '_GE performance_NN1 in_II Introductory_JJ Psychology_NN1 from_II their_APPGE psychological_JJ misconceptions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   40 36(2) , 119-24 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   40 36(2)_FO ,_Y 119-24_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   41 Lee , L. Boys like smart girls more than pretty girls : Young Korean immigrant girls ' understanding of romantic love in popular American culture .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   41 Lee_NP1 ,_Y L._ZZ Boys_NN2 like_II smart_JJ girls_NN2 more_RRR than_CSN pretty_JJ girls_NN2 :_Y Young_JJ_NP1 Korean_JJ immigrant_JJ_NN1 girls_NN2 '_GE understanding_NN1 of_IO romantic_JJ love_NN1 in_II popular_JJ American_JJ culture_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   42 36(1) , 87-94 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   42 36(1)_FO ,_Y 87-94_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   43 Lee , S.A. , Jones , W.P .. , Crank , J.N. , Krach , S.K .. , Using self-instruction to teach counseling skills top School Psychology Students : An efficacy study .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   43 Lee_NP1 ,_Y S.A._NP1 ,_Y Jones_NP1 ,_Y W.P_NP1 .._... ,_Y Crank_NN1_VV0@ ,_Y J.N._NP1 ,_Y Krach_NP1_VV0_NN1 ,_Y S.K_NP1 .._... ,_Y Using_VVG self-instruction_JJ_NN1 to_TO teach_VVI counseling_NN1 skills_NN2 top_JJ_NN1_VV0@ School_NN1 Psychology_NN1 Students_NN2 :_Y An_AT1 efficacy_NN1 study_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   44 36(1) , 35-48 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   44 36(1)_FO ,_Y 35-48_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   45 Marrs , H. , Sigler , E. , Hayes , K. Study strategy predictors of performance in introductory psychology .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   45 Marrs_NN2_NP1@ ,_Y H._NP1 ,_Y Sigler_NP1_NN1 ,_Y E._NP1 ,_Y Hayes_NP1 ,_Y K._NP1 Study_NN1 strategy_NN1 predictors_NN2 of_IO performance_NN1 in_II introductory_JJ psychology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   46 36(2) , 125-33 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   46 36(2)_FO ,_Y 125-33_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   47 McGuire , M.J. McDonald , P.M. , Relation of early testing and incentive on quiz performance in introductory psychology .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   47 McGuire_NP1 ,_Y M.J._NP1 McDonald_NP1 ,_Y P.M._RA_NP1 ,_Y Relation_NN1 of_IO early_JJ testing_NN1 and_CC incentive_NN1 on_II quiz_NN1 performance_NN1 in_II introductory_JJ psychology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   48 36(2) , 134-141 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   48 36(2)_FO ,_Y 134-141_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   49 McKee , M. MacDonald , P. , Assessment of teenage diaries for teaching concepts in adolescent psychology .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   49 McKee_NP1 ,_Y M._NN1 MacDonald_NP1 ,_Y P._NP1 ,_Y Assessment_NN1 of_IO teenage_JJ diaries_NN2 for_IF teaching_VVG_NN1 concepts_NN2 in_II adolescent_JJ_NN1 psychology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   50 36(4) , 343-346 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   50 36(4)_FO ,_Y 343-346_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   51 McMurray , A.J. Sorrells , D. Bridging the Gap : Reaching first-generation students in the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   51 McMurray_NP1 ,_Y A.J._NP1 Sorrells_NP2 ,_Y D._NP1 Bridging_VVG the_AT Gap_NN1 :_Y Reaching_VVG first-generation_JJ students_NN2 in_II the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   52 36(3) , 210-4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   52 36(3)_FO ,_Y 210-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   53 McNamar , M.M. , Using a Real , 142-147 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   53 McNamar_NP1 ,_Y M.M._NNU ,_Y Using_VVG a_AT1 Real_JJ ,_Y 142-147_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   54 Nunn , G.D. , Jantz , P.B. , Butikofer , C. , Concurrent validity between teacher efficacy and perceptions of response to intervention outcomes .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   54 Nunn_NP1 ,_Y G.D._NP1 ,_Y Jantz_NP1 ,_Y P.B._FO ,_Y Butikofer_NP1_VV0_NN1 ,_Y C._NP1_ZZ1@ ,_Y Concurrent_JJ validity_NN1 between_II teacher_NN1 efficacy_NN1 and_CC perceptions_NN2 of_IO response_NN1 to_II intervention_NN1 outcomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   55 36(3) , 215-8 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   55 36(3)_FO ,_Y 215-8_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   56 Okpala , C.O. , James , I. , Hopson , L. Effectiveness of National Board Gifted Teachers : Policy implications .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   56 Okpala_NN1_NP1@ ,_Y C.O._NP1_FO ,_Y James_NP1 ,_Y I._NP1 ,_Y Hopson_NP1 ,_Y L._ZZ Effectiveness_NN1 of_IO National_JJ Board_NN1 Gifted_JJ Teachers_NN2 :_Y Policy_NN1 implications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   57 36(1) , 29-34 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   57 36(1)_FO ,_Y 29-34_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   58 , Ozel , A. , The practice of information processing model in the teaching of cognitive strategies .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   58 ,_Y Ozel_VV0_NN1_NP1@ ,_Y A._ZZ ,_Y The_AT practice_NN1 of_IO information_NN1 processing_NN1 model_NN1 in_II the_AT teaching_NN1 of_IO cognitive_JJ strategies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   59 36(1) , 59-68 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   59 36(1)_FO ,_Y 59-68_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   60 Piotrowsk .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   60 Piotrowsk_VV0_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   61 C. Gallant , N. , Research use of clinical measures of anxiety in the recent psychological literature .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   61 C._NP1_ZZ1@ Gallant_JJ ,_Y N._NP1_NNU ,_Y Research_NN1_VV0@ use_NN1 of_IO clinical_JJ measures_NN2 of_IO anxiety_NN1 in_II the_AT recent_JJ psychological_JJ literature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   62 36(1) , 84-6 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   62 36(1)_FO ,_Y 84-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   63 Radhakrishnan , P. , Lam , D. , Ho , G. , Giving University students incentives to do homework improves their performance .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   63 Radhakrishnan_NP1_NN1 ,_Y P._NP1 ,_Y Lam_NP1 ,_Y D._NP1 ,_Y Ho_NP1_UH@ ,_Y G._NP1 ,_Y Giving_VVG University_NN1 students_NN2 incentives_NN2 to_TO do_VDI homework_NN1 improves_VVZ their_APPGE performance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   64 36(3) , 219-24 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   64 36(3)_FO ,_Y 219-24_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   65 Ratanasiripong , P. , Ghafoori , B. , Setting up the on-site marriage and family therapy clinical training course .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   65 Ratanasiripong_VV0_NN1_NP1@ ,_Y P._NP1 ,_Y Ghafoori_NP1_NN1 ,_Y B._NP1 ,_Y Setting_VVG up_RP_II@ the_AT on-site_JJ marriage_NN1 and_CC family_NN1 therapy_NN1 clinical_JJ training_NN1 course_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   66 36(4) , 347-351 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   66 36(4)_FO ,_Y 347-351_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   67 Reig , S.A. Paquette , K.R. , Using drama and movement to enhance English language learners ' literacy development .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   67 Reig_VV0_NN1_NP1@ ,_Y S.A._NP1 Paquette_NP1 ,_Y K.R._NP1 ,_Y Using_VVG drama_NN1 and_CC movement_NN1 to_TO enhance_VVI English_JJ_NN1 language_NN1 learners_NN2 '_GE literacy_NN1 development_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   68 36(2) , 148-154 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   68 36(2)_FO ,_Y 148-154_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   69 Salinas , M.F. Garr , J. minority students .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   69 Salinas_NP1 ,_Y M.F._NP1 Garr_NP1 ,_Y J._NP1 minority_NN1 students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   70 36(3) , 226-37 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   70 36(3)_FO ,_Y 226-37_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   71 Segrist , D. Pawlow , L. , Whom do you know ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   71 Segrist_NN1_NP1@ ,_Y D._NP1 Pawlow_NP1 ,_Y L._ZZ ,_Y Whom_PNQO do_VD0 you_PPY know_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   72 Demonstrating networking in careers in psychology course .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   72 Demonstrating_VVG networking_NN1_VVG in_II careers_NN2 in_II psychology_NN1 course_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   73 36(4) , 352-356 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   73 36(4)_FO ,_Y 352-356_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   74 Shen , Yi .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   74 Shen_FW ,_Y Yi_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   75 Tsai , HC. , Design principles of work examples : A review of the imperial studies .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   75 Tsai_FW ,_Y HC._NP1 ,_Y Design_NN1_VV0@ principles_NN2 of_IO work_NN1 examples_NN2 :_Y A_AT1@_ZZ1 review_NN1 of_IO the_AT imperial_JJ studies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   76 36(3) , 238-44 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   76 36(3)_FO ,_Y 238-44_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   77 Shirvani , H , Does your elementary mathematics methodology class correspond to constructivist epistemology ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   77 Shirvani_NN2_NP1@ ,_Y H_ZZ1 ,_Y Does_VDZ your_APPGE elementary_JJ mathematics_NN1 methodology_NN1 class_NN1 correspond_VV0 to_II constructivist_NN1 epistemology_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   78 36(3) , 245-258 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   78 36(3)_FO ,_Y 245-258_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   79 Simplicio , J. , The Art of the Favor : The connection between networking and personal influence within a college .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   79 Simplicio_NN1_NP1@ ,_Y J._NP1 ,_Y The_AT Art_NN1 of_IO the_AT Favor_NP1 :_Y The_AT connection_NN1 between_II networking_NN1_VVG and_CC personal_JJ influence_NN1 within_II a_AT1 college_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   80 36(2) , 155-7 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   80 36(2)_FO ,_Y 155-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   81 Supon , V. , Cursive Writing : Are its last days approaching ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   81 Supon_NN1_NP1@ ,_Y V._NNU ,_Y Cursive_JJ_NP1 Writing_NN1 :_Y Are_VBR its_Z' last_MD days_NNT2 approaching_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   82 36(4) , 357-359 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   82 36(4)_FO ,_Y 357-359_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   83 Sze , S. , Learning and the special needs child .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   83 Sze_VV0_NN1_NP1@ ,_Y S._ZZ ,_Y Learning_VVG_NN1 and_CC the_AT special_JJ_NN1% needs_VVZ child_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   84 36(4) , 360-362 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   84 36(4)_FO ,_Y 360-362_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   85 Tareef , A.B. , Scientific research in Jordanian higher education institutions : Status and obstacles .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   85 Tareef_VV0_NN1_NP1@ ,_Y A.B._NP1 ,_Y Scientific_JJ research_NN1 in_II Jordanian_JJ higher_JJR education_NN1 institutions_NN2 :_Y Status_NN1 and_CC obstacles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   86 36(2) , 158-69 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   86 36(2)_FO ,_Y 158-69_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   87 Umar , F.M. , Street Hawking : Oppressing the girl child or family economic supplement ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   87 Umar_NP1 ,_Y F.M._NP1 ,_Y Street_NN1 Hawking_NP1_VVG :_Y Oppressing_VVG the_AT girl_NN1 child_NN1 or_CC family_NN1 economic_JJ supplement_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   88 36(2) , 169-74 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   88 36(2)_FO ,_Y 169-74_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  A    0   89 Ward , K. Schwartzman , R. , Building interpersonal relationships as a key to Effective Speaking
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080404 COCA  B    0   89 Ward_NP1_NN1 ,_Y K._NP1 Schwartzman_NP1 ,_Y R._NP1 ,_Y Building_VVG@_NN1 interpersonal_JJ relationships_NN2 as_II_CSA a_AT1 key_NN1_JJ to_II Effective_JJ Speaking_JJ@_NN1@

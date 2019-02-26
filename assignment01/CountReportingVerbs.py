@@ -11,7 +11,7 @@ def main():
 
     punctuation = "-....,;:?/\\\"\'()<>!"
     
-    studentPath = "../Datastudent/Data2014sentpos/2014_4_101_400.sentpos/"
+    studentPath = "../Datastudent/Datastudentata2014sentpos/2014_4_101_400.sentpos/"
 
     studentFilesL = os.listdir(studentPath)
 

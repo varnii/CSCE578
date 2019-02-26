@@ -1,0 +1,256 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    0 WILLIAM WORDSWORTH wrote , " Fill your paper with the breathings of your heart .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    0 WILLIAM_NP1 WORDSWORTH_NP1 wrote_VVD ,_Y "_Y Fill_VV0 your_APPGE paper_NN1 with_IW the_AT breathings_NN2 of_IO your_APPGE heart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    1 " Wordsworth 's quote rings true for me as a parenting author .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    1 "_Y Wordsworth_NP1 's_GE quote_NN1 rings_VVZ_NN2 true_JJ for_IF me_PPIO1 as_II a_AT1 parenting_NN1 author_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    2 I splay my heart on the pages of my books , exploring my inadequacies , embracing little parenting triumphs .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    2 I_PPIS1 splay_VV0 my_APPGE heart_NN1 on_II the_AT pages_NN2 of_IO my_APPGE books_NN2 ,_Y exploring_VVG my_APPGE inadequacies_NN2 ,_Y embracing_VVG little_JJ_DA1 parenting_NN1 triumphs_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    3 It makes sense : The way to a nonfiction reader 's heart is an author 's vulnerability , her ability to reveal emotional depth .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    3 It_PPH1 makes_VVZ sense_NN1 :_Y The_AT way_NN1 to_II a_AT1 nonfiction_NN1 reader_NN1 's_GE heart_NN1 is_VBZ an_AT1 author_NN1 's_GE vulnerability_NN1 ,_Y her_APPGE ability_NN1 to_TO reveal_VVI emotional_JJ depth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    4 Can the same be said for fiction ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    4 Can_VV0%_VM the_AT same_DA be_VBI said_VVN@ for_IF fiction_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    5 <p> A resounding yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    5 <p>_Y A_ZZ1_AT1 resounding_VVG@_JJ yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    6 <p> Now that I 'm past that 40-year-old marker , I 've given myself permission to put down novels that do n't grab me by the throat--a liberating experience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    6 <p>_Y Now_CS21 that_CS22 I_PPIS1 'm_VBM past_II_RL_JJ that_DD1_CST 40-year-old_JJ marker_NN1 ,_Y I_PPIS1 've_VH0 given_VVN myself_PPX1 permission_NN1 to_TO put_VVI down_RP novels_NN2 that_CST do_VD0 n't_XX grab_VVI me_PPIO1 by_II the_AT throat--a_NN1 liberating_JJ experience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    7 What I 've found through putting books down and teaching " Inside-Out Fiction " sessions at writing conferences is that great novels have emotional depth ; mediocre novels do n't .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    7 What_DDQ I_PPIS1 've_VH0 found_VVN through_II putting_VVG books_NN2 down_RP and_CC teaching_VVG_NN1 "_Y Inside-Out_II Fiction_NN1 "_Y sessions_NNT2 at_II writing_VVG_NN1 conferences_NN2 is_VBZ that_DD1_CST_RG% great_JJ novels_NN2 have_VH0 emotional_JJ depth_NN1 ;_Y mediocre_JJ novels_NN2 do_VD0 n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    8 <p> How do you harness emotional depth ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    8 <p>_Y How_RRQ do_VD0 you_PPY harness_VVI emotional_JJ depth_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0    9 Is it possible to write stories that suck readers in , enamoring them of characters who resonate ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0    9 Is_VBZ it_PPH1 possible_JJ to_TO write_VVI stories_NN2 that_CST suck_VV0 readers_NN2 in_RP@_II ,_Y enamoring_VVG them_PPHO2 of_IO characters_NN2 who_PNQS resonate_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   10 Absolutely .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   10 Absolutely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   11 <p> 1 Write truth from the inside out .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   11 <p>_Y 1_MC1 Write_VV0 truth_NN1 from_II the_AT inside_JJ21_RL21 out_JJ22_RL22 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   12 A novelist relies on , the best tool is what he uniquely brings to a book--his heart .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   12 A_AT1 novelist_NN1 relies_VVZ on_II ,_Y the_AT best_JJT tool_NN1 is_VBZ what_DDQ he_PPHS1 uniquely_RR brings_VVZ to_II a_AT1 book--his_APPGE heart_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   13 It 's the place his characters form , his stories emerge , his plots thicken .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   13 It_PPH1 's_VBZ the_AT place_NN1_VV0 his_APPGE characters_NN2 form_VV0 ,_Y his_APPGE stories_NN2 emerge_VV0 ,_Y his_APPGE plots_NN2 thicken_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   14 I could give you 10 tips for superimposing emotional depth upon your novel , but if you 're not writing from the passions of your heart , what will it profit ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   14 I_PPIS1 could_VM give_VVI you_PPY 10_MC tips_NN2_VVZ for_IF superimposing_VVG emotional_JJ depth_NN1 upon_II your_APPGE novel_NN1_JJ ,_Y but_CCB if_CS you_PPY 're_VBR not_XX writing_VVG from_II the_AT passions_NN2 of_IO your_APPGE heart_NN1 ,_Y what_DDQ will_VM it_PPH1 profit_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   15 Writing prose that does not have your heart in it becomes mechanically correct but bereft of soul .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   15 Writing_VVG_NN1 prose_NN1 that_CST_DD1 does_VDZ not_XX have_VHI your_APPGE heart_NN1 in_II it_PPH1 becomes_VVZ mechanically_RR correct_JJ but_CCB bereft_JJ of_IO soul_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   16 It becomes outside-in writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   16 It_PPH1 becomes_VVZ outside-in_JJ_II writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   17 <p> How do you write from the inside out , from your heart ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   17 <p>_Y How_RRQ do_VD0 you_PPY write_VVI from_II the_AT inside_JJ21_RL21 out_JJ22_RL22 ,_Y from_II your_APPGE heart_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   18 <p> Start here : Reveal secrets on the page of a journal , daring to write the truth .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   18 <p>_Y Start_VV0 here_RL :_Y Reveal_VV0 secrets_NN2 on_II the_AT page_NN1 of_IO a_AT1 journal_NN1 ,_Y daring_VVG to_TO write_VVI the_AT truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   19 Write it to yourself , about yourself , about the world you live in .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   19 Write_VV0 it_PPH1 to_II yourself_PPX1 ,_Y about_II yourself_PPX1 ,_Y about_II the_AT world_NN1 you_PPY live_VV0 in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   20 In the safe haven of a blank notebook , explore your passions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   20 In_II the_AT safe_JJ haven_NN1 of_IO a_AT1 blank_JJ notebook_NN1 ,_Y explore_VV0 your_APPGE passions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   21 If a publisher permitted you only one book , what book would you write ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   21 If_CS a_AT1 publisher_NN1 permitted_VVD_VVN you_PPY only_RR one_MC1 book_NN1 ,_Y what_DDQ book_NN1 would_VM you_PPY write_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   22 Why ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   22 Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   23 And how would that one novel compare to your own journey ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   23 And_CC how_RRQ would_VM that_DD1_CST one_MC1 novel_NN1_JJ compare_VV0 to_II your_APPGE own_DA journey_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   24 Keep this journal for the next step .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   24 Keep_VV0 this_DD1 journal_NN1 for_IF the_AT next_MD step_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   25 <p> Anne Lamott , in her hilariously poignant being unliked .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   25 <p>_Y Anne_NP1 Lamott_NP1 ,_Y in_II her_PPHO1 hilariously_RR poignant_JJ being_VBG unliked_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   26 Tell the truth as you understand it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   26 Tell_VV0 the_AT truth_NN1 as_CSA you_PPY understand_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   27 If you 're a writer , you have a moral obligation to do this .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   27 If_CS you_PPY 're_VBR a_AT1 writer_NN1 ,_Y you_PPY have_VH0 a_AT1 moral_JJ obligation_NN1 to_TO do_VDI this_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   28 And it is a revolutionary act--truth is always subversive .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   28 And_CC it_PPH1 is_VBZ a_AT1 revolutionary_JJ act--truth_NN1 is_VBZ always_RR subversive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   29 " <p> I experienced this kind of subversive truth when I wrote my first novel , Watching the Tree Limbs , a story about a young orphan girl battling the worst kind of bully--someone who rapes her .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   29 "_Y <p>_Y I_PPIS1 experienced_VVD this_DD1 kind_NN1 of_IO subversive_JJ truth_NN1 when_CS_RRQ I_PPIS1 wrote_VVD my_APPGE first_MD novel_NN1_JJ ,_Y Watching_VVG the_AT Tree_NN1 Limbs_NN2 ,_Y a_AT1 story_NN1 about_II a_AT1 young_JJ orphan_NN1 girl_NN1 battling_VVG the_AT worst_JJT kind_NN1 of_IO bully--someone_PN1 who_PNQS rapes_VVZ@ her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   30 Though this was not my story , writing my character 's journey was an enlightening , yet painful , exercise .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   30 Though_CS this_DD1 was_VBDZ not_XX my_APPGE story_NN1 ,_Y writing_VVG my_APPGE character_NN1 's_GE journey_NN1 was_VBDZ an_AT1 enlightening_NN1@_JJ@ ,_Y yet_RR painful_JJ ,_Y exercise_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   31 As I wrote it , I remembered my own sexual abuse at age 5 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   31 As_CSA I_PPIS1 wrote_VVD it_PPH1 ,_Y I_PPIS1 remembered_VVD my_APPGE own_DA sexual_JJ abuse_NN1 at_II age_NN1 5_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   32 I saw the world through the eyes of my protagonist .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   32 I_PPIS1 saw_VVD the_AT world_NN1 through_II the_AT eyes_NN2 of_IO my_APPGE protagonist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   33 I wanted to shrink back , to not make her situation so stark .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   33 I_PPIS1 wanted_VVD to_TO shrink_VVI back_RP ,_Y to_TO not_XX make_VVI her_APPGE situation_NN1 so_RG_RR stark_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   34 <p> In the first draft of the story , I wrote safely .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   34 <p>_Y In_II the_AT first_MD draft_NN1 of_IO the_AT story_NN1 ,_Y I_PPIS1 wrote_VVD safely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   35 I kept my character detached in the aftermath of her abuse .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   35 I_PPIS1 kept_VVD my_APPGE character_NN1 detached_VVN in_II the_AT aftermath_NN1 of_IO her_APPGE abuse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   36 The substantial edit letter I received from my novel 's in-house editor detailed the problem : I was not telling the truth about my character 's reaction to the abuse .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   36 The_AT substantial_JJ edit_NN1@ letter_NN1 I_PPIS1 received_VVD from_II my_APPGE novel_NN1 's_GE in-house_JJ editor_NN1 detailed_VVD@_VVN@ the_AT problem_NN1 :_Y I_PPIS1 was_VBDZ not_XX telling_VVG the_AT truth_NN1 about_II my_APPGE character_NN1 's_GE reaction_NN1 to_II the_AT abuse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   37 was going back through that novel and assigning emotions to my character --the prickly feelings I had been afraid to confront .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   37 was_VBDZ going_VVG back_RP through_II that_DD1 novel_NN1_JJ and_CC assigning_VVG emotions_NN2 to_II my_APPGE character_NN1 --the_AT prickly_JJ feelings_NN2 I_PPIS1 had_VHD been_VBN afraid_JJ to_TO confront_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   38 <p> The payoff ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   38 <p>_Y The_AT payoff_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   39 I 've received a lot of feedback from readers saying they could relate to the protagonist .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   39 I_PPIS1 've_VH0 received_VVN a_AT1 lot_NN1 of_IO feedback_NN1 from_II readers_NN2 saying_VVG they_PPHS2 could_VM relate_VVI to_II the_AT protagonist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   40 " As I met Mara , " one reader wrote , " I could n't shake the feeling that I was looking in a mirror .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   40 "_Y As_CSA I_PPIS1 met_VVD Mara_NP1 ,_Y "_Y one_MC1 reader_NN1 wrote_VVD ,_Y "_Y I_PPIS1 could_VM n't_XX shake_VVI the_AT feeling_NN1 that_CST I_PPIS1 was_VBDZ looking_VVG in_II_RP@ a_AT1 mirror_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   41 I relived all of the emotions of having been through much of what she experienced .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   41 I_PPIS1 relived_VVD all_DB of_IO the_AT emotions_NN2 of_IO having_VHG been_VBN through_II much_DA1 of_IO what_DDQ she_PPHS1 experienced_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   42 " Had I not delved into my own emotions , I doubt the book would have resonated so deeply with readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   42 "_Y Had_VHD I_PPIS1_MC1% not_XX delved_VVN into_II my_APPGE own_DA emotions_NN2 ,_Y I_PPIS1 doubt_VV0 the_AT book_NN1 would_VM have_VHI resonated_VVN@ so_RG deeply_RR with_IW readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   43 <p> 2 Translate your emotional experiences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   43 <p>_Y 2_MC Translate_VV0 your_APPGE emotional_JJ experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   44 It 's one thing to explore your own interior ; it 's another to use your emotions to build a character .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   44 It_PPH1 's_VBZ one_MC1 thing_NN1 to_TO explore_VVI your_APPGE own_DA interior_NN1 ;_Y it_PPH1 's_VBZ another_DD1 to_TO use_VVI your_APPGE emotions_NN2 to_TO build_VVI a_AT1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   45 But it must be done .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   45 But_CCB it_PPH1 must_VM be_VBI done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   46 Pull out the journal where you 've bled some truth .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   46 Pull_VV0 out_RP the_AT journal_NN1 where_CS_RRQ you_PPY 've_VH0 bled_VVN some_DD truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   47 Then , find a character in your story that lacks depth or verve and begin to connect her flatness to the richness of your current struggle .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   47 Then_RT ,_Y find_VV0 a_AT1 character_NN1 in_II your_APPGE story_NN1 that_CST_DD1 lacks_VVZ depth_NN1 or_CC verve_NN1_VV0 and_CC begin_VV0 to_TO connect_VVI her_APPGE flatness_NN1 to_II the_AT richness_NN1 of_IO your_APPGE current_JJ struggle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   48 Free-write the character into a scene until you sense your own to my editor , I needed to humanize a person who had everything together--a prophet of sorts who lived an immaculately moral life , who always seemed to live unaffected by tragedy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   48 Free-write_VV0 the_AT character_NN1 into_II a_AT1 scene_NN1 until_CS you_PPY sense_VV0@ your_APPGE own_DA to_II my_APPGE editor_NN1 ,_Y I_PPIS1 needed_VVD to_TO humanize_VVI a_AT1 person_NN1 who_PNQS had_VHD everything_PN1 together--a_RL prophet_NN1 of_IO sorts_NN2 who_PNQS lived_VVD an_AT1 immaculately_RR moral_JJ life_NN1 ,_Y who_PNQS always_RR seemed_VVD_VVN@ to_TO live_VVI unaffected_JJ by_II tragedy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   49 Try as I might , he remained one-dimensional .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   49 Try_VV0 as_CSA I_PPIS1 might_VM ,_Y he_PPHS1 remained_VVD one-dimensional_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   50 <p> During that time , I happened to have a one-sided phone conversation that ended abruptly , leaving me feeling abandoned by someone I longed to be close to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   50 <p>_Y During_II that_DD1 time_NNT1 ,_Y I_PPIS1 happened_VVD to_TO have_VHI a_AT1 one-sided_JJ phone_NN1 conversation_NN1 that_CST ended_VVD abruptly_RR ,_Y leaving_VVG me_PPIO1 feeling_NN1_VVG abandoned_VVN by_II someone_PN1 I_PPIS1 longed_VVD to_TO be_VBI close_RR_JJ to_II ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   51 I asked the question , " What if my character had these same feelings ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   51 I_PPIS1 asked_VVD the_AT question_NN1 ,_Y "_Y What_DDQ if_CS my_APPGE character_NN1 had_VHD these_DD2 same_DA feelings_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   52 But toward another person ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   52 But_CCB toward_II another_DD1 person_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   53 " With all the raw energy my fragile emotions could muster , I scratched out a scene where my character ruminates on his mama .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   53 "_Y With_IW all_DB the_AT raw_JJ energy_NN1 my_APPGE fragile_JJ emotions_NN2 could_VM muster_VVI ,_Y I_PPIS1 scratched_VVD out_RP a_AT1 scene_NN1 where_CS_RRQ my_APPGE character_NN1 ruminates_VVZ on_II_RP@ his_APPGE mama_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   54 Here 's a snippet : <p> I 've tried to convince myself I never really needed a mama .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   54 Here_RL 's_VBZ a_AT1 snippet_NN1 :_Y <p>_Y I_PPIS1 've_VH0 tried_VVN to_TO convince_VVI myself_PPX1 I_PPIS1 never_RR really_RR needed_VVN_VVD a_AT1 mama_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   55 But you know what ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   55 But_CCB you_PPY know_VV0 what_DDQ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   56 I did .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   56 I_PPIS1 did_VDD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   57 I do .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   57 I_PPIS1 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   58 And I 'll never really get over that .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   58 And_CC I_PPIS1 'll_VM never_RR really_RR get_VVI over_II that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   59 It 's one thing to get over a daddy you 've never met .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   59 It_PPH1 's_VBZ one_MC1 thing_NN1 to_TO get_VVI over_RP_II a_AT1 daddy_NN1 you_PPY 've_VH0 never_RR met_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   60 But it 's quite another to get over a mama who never really loved you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   60 But_CCB it_PPH1 's_VBZ quite_RG_RR@ another_DD1 to_TO get_VVI over_RP_II a_AT1 mama_NN1 who_PNQS never_RR really_RR loved_VVD_VVN you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   61 <p> While it may be to have things tied up neatly with a velvet bow , life , in all its wild tumbles , wrestles the bow away , flinging the box wide open .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   61 <p>_Y While_CS it_PPH1 may_VM be_VBI to_TO have_VHI things_NN2 tied_VVN up_RP neatly_RR with_IW a_AT1 velvet_NN1 bow_NN1_VV0 ,_Y life_NN1 ,_Y in_II all_DB its_Z' wild_JJ tumbles_NN2 ,_Y wrestles_VVZ the_AT bow_NN1 away_RL ,_Y flinging_VVG the_AT box_NN1 wide_RR open_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   62 Stories are a lot like life in that way .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   62 Stories_NN2 are_VBR a_RR21@_AT1 lot_RR22_NN1 like_II_JJ@ life_NN1 in_II that_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   63 I 'm guilty of first drafts full of flat characters and plots that tie up neatly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   63 I_PPIS1 'm_VBM guilty_JJ of_IO first_MD drafts_VVZ_NN2 full_JJ of_IO flat_JJ_NN1 characters_NN2 and_CC plots_NN2 that_CST tie_VV0 up_RP neatly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   64 Which is why I 'm thankful for editors who point this out and ask me to revise .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   64 Which_DDQ is_VBZ why_RRQ I_PPIS1 'm_VBM thankful_JJ for_IF editors_NN2 who_PNQS point_VV0@ this_DD1 out_RP and_CC ask_VV0 me_PPIO1 to_TO revise_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   65 When I 'm stuck , I simply look at my angst-filled journal and draw upon its messiness .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   65 When_CS_RRQ I_PPIS1 'm_VBM stuck_VVN_JJ@ ,_Y I_PPIS1 simply_RR look_VV0 at_II my_APPGE angst-filled_JJ_NN1 journal_NN1 and_CC draw_VV0 upon_II its_Z' messiness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   66 <p> 3 Get out in the world .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   66 <p>_Y 3_MC Get_VV0 out_RP in_II the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   67 Writing is a solitary art .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   67 Writing_NN1_VVG is_VBZ a_AT1 solitary_JJ art_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   68 We seldom venture out to the land of people ( at least that 's how I am on deadline !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   68 We_PPIS2 seldom_RR venture_VV0 out_RP to_II the_AT land_NN1 of_IO people_NN (_Y at_RR21 least_RR22 that_DD1 's_VBZ how_RRQ I_PPIS1 am_VBM on_II deadline_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   69 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   69 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   70 But too much solitude makes our novels suffer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   70 But_CCB too_RG much_DA1 solitude_NN1 makes_VVZ our_APPGE novels_NN2 suffer_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   71 We need to put down our journal pen , abandon the blinking curser , and rub shoulders with people .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   71 We_PPIS2 need_VV0 to_TO put_VVI down_RP our_APPGE journal_NN1 pen_NN1 ,_Y abandon_VV0 the_AT blinking_JJ_NN1 curser_NN1 ,_Y and_CC rub_VV0 shoulders_NN2 with_IW people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   72 To hear bantering .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   72 To_TO hear_VVI bantering_VVG_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   73 To risk ourselves in relationships .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   73 To_TO risk_VVI ourselves_PPX2 in_II relationships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   74 To once again be reminded of the astounding beauty of humanity alongside its depravity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   74 To_TO once_RR21 again_RR22 be_VBI reminded_VVN of_IO the_AT astounding_JJ@_NN1@ beauty_NN1 of_IO humanity_NN1 alongside_II its_Z' depravity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   75 <p> One such encounter reminds me of a my new friend was a risk , since she tended to bristle when I tried to get to know her .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   75 <p>_Y One_MC1 such_DA encounter_NN1 reminds_VVZ me_PPIO1 of_IO a_AT1 my_APPGE new_JJ friend_NN1 was_VBDZ a_AT1 risk_NN1 ,_Y since_CS she_PPHS1 tended_VVD to_TO bristle_VVI when_RRQ_CS I_PPIS1 tried_VVD to_TO get_VVI to_TO know_VVI her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   76 Eventually , she turned on me .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   76 Eventually_RR ,_Y she_PPHS1 turned_VVD on_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   77 After enough distance had passed , I used the situation to bring depth to a character .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   77 After_CS_II enough_DD distance_NN1 had_VHD passed_VVN ,_Y I_PPIS1 used_VVD the_AT situation_NN1 to_TO bring_VVI depth_NN1 to_II a_AT1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   78 But I never would have had the emotional palate to paint that character with dimension had I not pursued my friend in the first place .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   78 But_CCB I_PPIS1 never_RR would_VM have_VHI had_VHN@ the_AT emotional_JJ palate_NN1 to_TO paint_VVI that_DD1_CST character_NN1 with_IW dimension_NN1 had_VHD I_PPIS1_MC1% not_XX pursued_VVN my_APPGE friend_NN1 in_II the_AT first_MD place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   79 <p> I 've found that safe living--hiding away , shrinking from risk in relationships--creates antiseptic writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   79 <p>_Y I_PPIS1 've_VH0 found_VVN that_CST_DD1 safe_JJ living--hiding_NN1 away_RL ,_Y shrinking_VVG from_II risk_NN1 in_II relationships--creates_NN2 antiseptic_JJ writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   80 But muddied living , when I 'm out in the crazy world hanging with messy folks ( and are n't we all messy ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   80 But_CCB muddied_VVD_JJ@ living_NN1_JJ_VVG ,_Y when_CS_RRQ I_PPIS1 'm_VBM out_RP in_II the_AT crazy_JJ world_NN1 hanging_VVG_NN1 with_IW messy_JJ folks_NN2 (_Y and_CC are_VBR n't_XX we_PPIS2 all_DB messy_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   81 ) , makes my writing empathetic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   81 )_Y ,_Y makes_VVZ my_APPGE writing_NN1 empathetic_NN1@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   82 It 's not easy to go outside the walls of your office .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   82 It_PPH1 's_VBZ not_XX easy_JJ to_TO go_VVI outside_II_RL the_AT walls_NN2 of_IO your_APPGE office_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   83 But how can you expect to mine the depths of human depravity and grace in your stories if you 're unwilling to mine them in yourself ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   83 But_CCB how_RRQ can_VM you_PPY expect_VVI to_TO mine_PPGE_VV0%_NN1 the_AT depths_NN2 of_IO human_JJ_NN1 depravity_NN1 and_CC grace_NN1 in_II your_APPGE stories_NN2 if_CS you_PPY 're_VBR unwilling_JJ to_TO_II mine_VVI them_PPHO2 in_II yourself_PPX1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   84 <p> You 've heard the mantra : Show , do n't tell .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   84 <p>_Y You_PPY 've_VH0 heard_VVN the_AT mantra_NN1 :_Y Show_VV0_NN1 ,_Y do_VD0 n't_XX tell_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   85 Perhaps the secret to showing is actually living our own stories well .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   85 Perhaps_RR the_AT secret_NN1_JJ to_II showing_VVG_NN1@ is_VBZ actually_RR living_VVG our_APPGE own_DA stories_NN2 well_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   86 About living beyond the confines of to write about .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   86 About_II living_VVG_NN1 beyond_II the_AT confines_NN2 of_IO to_TO write_VVI about_II ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   87 It 's in that diving into real life that we no longer settle for telling about a character 's journey ; we must show it because a simple recounting will deprive it of its vitality .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   87 It_PPH1 's_VBZ in_II that_DD1 diving_NN1_VVG_JJ into_II real_JJ life_NN1 that_CST we_PPIS2 no_RR21 longer_RR22 settle_VV0 for_IF telling_VVG about_II_RP@ a_AT1 character_NN1 's_GE journey_NN1 ;_Y we_PPIS2 must_VM show_VVI it_PPH1 because_CS a_AT1 simple_JJ recounting_VVG will_VM deprive_VVI it_PPH1 of_IO its_Z' vitality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   88 <p> As a book mentor , I want to inspire writers to deepen their stories beyond mechanical constructs , and to learn that stories with emotional depth grab you by the throat because of their terrible humanity , because readers feel the story is theirs somehow .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   88 <p>_Y As_II_CSA a_AT1 book_NN1 mentor_NN1 ,_Y I_PPIS1 want_VV0 to_TO inspire_VVI writers_NN2 to_TO deepen_VVI their_APPGE stories_NN2 beyond_II mechanical_JJ constructs_NN2 ,_Y and_CC to_TO learn_VVI that_CST stories_NN2 with_IW emotional_JJ depth_NN1 grab_VV0 you_PPY by_II the_AT throat_NN1 because_II21 of_II22 their_APPGE terrible_JJ humanity_NN1 ,_Y because_CS readers_NN2 feel_VV0 the_AT story_NN1 is_VBZ theirs_PPGE somehow_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   89 And that can only happen when we 're willing to live in the pain and joy of our own stories .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   89 And_CC that_DD1_CST can_VM only_RR happen_VVI when_RRQ_CS we_PPIS2 're_VBR willing_JJ to_TO live_VVI in_II the_AT pain_NN1 and_CC joy_NN1 of_IO our_APPGE own_DA stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   90 It 's my firm belief that great novels flow from the pen of self-aware writers , that no internal work is wasted on the page .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   90 It_PPH1 's_VBZ my_APPGE firm_JJ_NN1 belief_NN1 that_CST_DD1 great_JJ novels_NN2 flow_VV0@_NN1 from_II the_AT pen_NN1 of_IO self-aware_JJ writers_NN2 ,_Y that_CST no_AT internal_JJ work_NN1 is_VBZ wasted_VVN on_II the_AT page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   91 <p> L : WORKOUT THESE TWO assignments can spur you to write emotionally deep fiction : <p> 1 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   91 <p>_Y L_ZZ1_NP1@ :_Y WORKOUT_VV0 THESE_DD2 TWO_MC assignments_NN2 can_VM spur_VVI you_PPY to_TO write_VVI emotionally_RR deep_JJ fiction_NN1 :_Y <p>_Y 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   92 Permission : I hereby give you permission to write something from a place of emptiness , angst , bitterness , bewilderment or nakedness--or even surprising joy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   92 Permission_NN1 :_Y I_PPIS1 hereby_RR give_VV0 you_PPY permission_NN1 to_TO write_VVI something_PN1 from_II a_AT1 place_NN1 of_IO emptiness_NN1 ,_Y angst_NN1 ,_Y bitterness_NN1 ,_Y bewilderment_NN1 or_CC nakedness--or_CC even_RR surprising_JJ joy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   93 You know what I 'm referring to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   93 You_PPY know_VV0 what_DDQ I_PPIS1 'm_VBM referring_VVG to_II ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   94 Take some fresh them in the pages of a journal .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   94 Take_VV0 some_DD fresh_JJ them_PPHO2 in_II the_AT pages_NN2 of_IO a_AT1 journal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   95 <p> Then , take that emotional experience and shove it between the four walls of a story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   95 <p>_Y Then_RT ,_Y take_VV0 that_DD1 emotional_JJ experience_NN1 and_CC shove_VV0 it_PPH1 between_II the_AT four_MC walls_NN2 of_IO a_AT1 story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   96 It could be a new story never written or a scene in a novel you 're currently working on .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   96 It_PPH1 could_VM be_VBI a_AT1 new_JJ story_NN1 never_RR written_VVN or_CC a_AT1 scene_NN1 in_II a_AT1 novel_NN1_JJ you_PPY 're_VBR currently_RR working_VVG on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   97 Tell the truth .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   97 Tell_VV0 the_AT truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   98 Translate your emotional experience into the lives of your characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   98 Translate_VV0 your_APPGE emotional_JJ experience_NN1 into_II the_AT lives_NN2 of_IO your_APPGE characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0   99 Some questions to consider : <p> -- What is the underlying emotion you 're experiencing ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0   99 Some_DD questions_NN2 to_TO consider_VVI :_Y <p>_Y --_NN1_JJ What_DDQ is_VBZ the_AT underlying_JJ emotion_NN1 you_PPY 're_VBR experiencing_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  100 Often anger is primary , but as you peel the layers , underneath is something altogether different .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  100 Often_RR anger_VV0_NN1 is_VBZ primary_JJ_NN1 ,_Y but_CCB as_CSA you_PPY peel_VV0 the_AT layers_NN2 ,_Y underneath_RL_NN1@ is_VBZ something_PN1 altogether_RR different_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  101 Do you feel abandoned ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  101 Do_VD0 you_PPY feel_VVI abandoned_VVN_JJ@ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  102 Fearful ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  102 Fearful_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  103 Needy ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  103 Needy_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  104 Regretful ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  104 Regretful_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  105 Alone ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  105 Alone_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  106 <p> -- Once you 've peeled away the emotions , how can you layer the same kinds of complex emotions in your character or scene ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  106 <p>_Y --_NN1_JJ Once_CS@_RR you_PPY 've_VH0 peeled_VVN away_RL the_AT emotions_NN2 ,_Y how_RRQ can_VM you_PPY layer_VVI the_AT same_DA kinds_NN2 of_IO complex_JJ_NN1 emotions_NN2 in_II your_APPGE character_NN1 or_CC scene_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  107 A character might present himself as disinterested , then slowly unravel to show his insatiable yet unfulfilled need for relationship .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  107 A_AT1 character_NN1 might_VM present_VVI himself_PPX1 as_CSA disinterested_JJ ,_Y then_RT slowly_RR unravel_VV0 to_TO show_VVI his_APPGE insatiable_JJ yet_RR unfulfilled_JJ need_NN1 for_IF relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  108 <p> -- What hesitancies do you have in revealing the truth ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  108 <p>_Y --_NN1_JJ What_DDQ hesitancies_NN2 do_VD0 you_PPY have_VHI in_II revealing_VVG the_AT truth_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  109 Why is it hard to say it like it is ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  109 Why_RRQ is_VBZ it_PPH1 hard_RR_JJ to_TO say_VVI it_PPH1 like_II it_PPH1 is_VBZ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  110 Do you fear hurting someone ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  110 Do_VD0 you_PPY fear_VVI hurting_VVG someone_PN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  111 Does the truth frighten you ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  111 Does_VDZ the_AT truth_NN1 frighten_VVI you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  112 Will of your characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  112 Will_VM_VV0% of_IO your_APPGE characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  113 <p> 2 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  113 <p>_Y 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  114 Exterior/interior : Go to a public place and find an unusual person to " sketch .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  114 Exterior/interior_NN1_JJ :_Y Go_VV0 to_II a_AT1 public_JJ_NN1 place_NN1 and_CC find_VV0 an_AT1 unusual_JJ person_NN1 to_TO "_Y sketch_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  115 " Describe : <p> -- Physical attributes <p> -- Mannerisms <p> -- Clothing <p> -- Tone of voice <p> -- Anything you can see <p> Now pretend this person is coming to you for counseling .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  115 "_Y Describe_VV0 :_Y <p>_Y --_ZZ Physical_JJ attributes_NN2 <p>_Y --_ZZ Mannerisms_NN2 <p>_Y --_ZZ Clothing_NN1 <p>_Y --_ZZ Tone_NN1@ of_IO voice_NN1 <p>_Y --_ZZ Anything_PN1 you_PPY can_VM see_VVI <p>_Y Now_RT pretend_VV0 this_DD1 person_NN1 is_VBZ coming_VVG to_II you_PPY for_IF counseling_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  116 He drops his all-is-well facade and unfolds a harrowing , painful story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  116 He_PPHS1 drops_VVZ his_APPGE all-is-well_JJ_NN1 facade_NN1 and_CC unfolds_VVZ a_AT1 harrowing_NN1@_JJ@ ,_Y painful_JJ story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  117 Write down his exact words .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  117 Write_VV0 down_RP his_APPGE exact_JJ words_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  118 What emotions come out as he tells it ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  118 What_DDQ emotions_NN2 come_VV0 out_RP as_CSA he_PPHS1 tells_VVZ it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  119 What does he conceal even now ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  119 What_DDQ does_VDZ he_PPHS1 conceal_VVI even_RR now_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  120 Who does he blame ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  120 Who_PNQS does_VDZ he_PPHS1 blame_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  121 Does he feel cathartic when he spills his story ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  121 Does_VDZ he_PPHS1 feel_VVI cathartic_JJ_NN1@ when_CS_RRQ he_PPHS1 spills_VVZ his_APPGE story_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  122 Why or why not ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  122 Why_RRQ or_CC why_RRQ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  123 <p> --M.E.D .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  123 <p>_Y --M.E.D_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  124 By Mary E. DeMuth <p> Mary E. DeMuth writes parenting books and novels .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  124 By_II Mary_NP1 E._NP1 DeMuth_NP1_NN1 <p>_Y Mary_NP1 E._NP1 DeMuth_NP1 writes_VVZ parenting_NN1_VVG@ books_NN2 and_CC novels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  125 Her novel Daisy Chain is due out in March .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  125 Her_APPGE novel_JJ_NN1 Daisy_NN1@_NP1 Chain_NN1 is_VBZ due_JJ_RR% out_RP in_II March_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  126 Web : www.marydemuth.com and a book-mentoring site , www.thewritingspa.com .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  126 Web_NN1 :_Y www.marydemuth.com_ZZ_NN and_CC a_AT1 book-mentoring_JJ_NN1 site_NN1 ,_Y www.thewritingspa.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  A    0  127 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071186 COCA  B    0  127 <p>_Y

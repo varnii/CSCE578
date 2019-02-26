@@ -1,0 +1,198 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    0 GENERAL-INTEREST magazines are a gold mine for freelance writers , and one of the biggest , shiniest nuggets in that category is the in-flight market .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    0 GENERAL-INTEREST_JJ_NN1 magazines_NN2 are_VBR a_AT1 gold_NN1_JJ@ mine_NN1_PPGE for_IF freelance_NN1 writers_NN2 ,_Y and_CC one_MC1 of_IO the_AT biggest_JJT ,_Y shiniest_JJT nuggets_NN2 in_II that_DD1 category_NN1 is_VBZ the_AT in-flight_JJ_NN1 market_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    1 Airline magazines are read by millions of passengers each year , and most are just as stylish and professional as their counterparts at the newsstand .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    1 Airline_NN1 magazines_NN2 are_VBR read_VVN by_II millions_M of_IO passengers_NN2 each_DD1 year_NNT1 ,_Y and_CC most_DAT are_VBR just_RR as_RG stylish_JJ and_CC professional_JJ as_CSA_II@ their_APPGE counterparts_NN2 at_II the_AT newsstand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    2 Add the fact that airline magazines pay well and use a large number of freelance submissions , and it 's easy to see why so many potential contributors are lined up .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    2 Add_VV0 the_AT fact_NN1 that_CST_DD1 airline_NN1 magazines_NN2 pay_VV0 well_RR_JJ@_NN1@ and_CC use_VV0 a_AT1 large_JJ number_NN1 of_IO freelance_NN1 submissions_NN2 ,_Y and_CC it_PPH1 's_VBZ easy_JJ to_TO see_VVI why_RRQ so_RG many_DA2 potential_JJ contributors_NN2 are_VBR lined_VVN up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    3 <p> Like the airline industry itself , the in-flight market is constantly changing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    3 <p>_Y Like_II the_AT airline_NN1 industry_NN1 itself_PPX1 ,_Y the_AT in-flight_JJ_NN1 market_NN1 is_VBZ constantly_RR changing_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    4 Some magazines have recently added or dropped prominent sections , while others have been completely redesigned and now have a totally new look .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    4 Some_DD magazines_NN2 have_VH0 recently_RR added_VVN or_CC dropped_VVD_VVN prominent_JJ sections_NN2 ,_Y while_CS others_NN2 have_VH0 been_VBN completely_RR redesigned_VVN and_CC now_RT have_VH0 a_AT1 totally_RR new_JJ look_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    5 That means pitching to this market requires just as much planning and research as your annual family vacation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    5 That_DD1 means_VVZ_NN pitching_VVG to_II this_DD1 market_NN1 requires_VVZ just_RR as_RG much_DA1 planning_NN1 and_CC research_NN1_VV0@ as_CSA your_APPGE annual_JJ family_NN1 vacation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    6 <p> But there 's no reason to worry .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    6 <p>_Y But_CCB there_EX 's_VBZ no_AT reason_NN1 to_TO worry_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    7 Writers can break into the in-flight market by following a few simple rules .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    7 Writers_NN2 can_VM break_VVI into_II the_AT in-flight_JJ_NN1 market_NN1 by_II following_VVG a_AT1 few_DA2 simple_JJ rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    8 <p> L : Study the market Although airline magazines share many common traits , there are also vast differences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    8 <p>_Y L_ZZ1_NP1@ :_Y Study_VV0@ the_AT market_NN1 Although_CS airline_NN1 magazines_NN2 share_VV0 many_DA2 common_JJ traits_NN2 ,_Y there_EX are_VBR also_RR vast_JJ differences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0    9 Just like the cities .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0    9 Just_RR like_II the_AT cities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   10 One magazine may be as chic and elegant as Paris , while another echoes the fun , casual atmosphere of Miami .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   10 One_MC1 magazine_NN1 may_VM be_VBI as_RG@ chic_JJ and_CC elegant_JJ as_CSA Paris_NP1 ,_Y while_CS another_DD1 echoes_VVZ the_AT fun_NN1_JJ ,_Y casual_JJ atmosphere_NN1 of_IO Miami_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   11 Another might combine executive savvy with boatloads of culture , just like New York City .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   11 Another_DD1 might_VM combine_VVI executive_NN1_JJ@ savvy_NN1 with_IW boatloads_NN2 of_IO culture_NN1 ,_Y just_RR like_II New_NP1 York_NP1 City_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   12 In other words , just because most in-flights contain a similar mix of travel , business and general-interest features does n't mean they all present the material in the same fashion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   12 In_II other_JJ words_NN2 ,_Y just_RR because_CS most_DAT in-flights_NN2 contain_VV0 a_AT1 similar_JJ mix_NN1 of_IO travel_NN1 ,_Y business_NN1 and_CC general-interest_JJ_NN1 features_NN2 does_VDZ n't_XX mean_VVI they_PPHS2 all_DB_RR@ present_VV0@ the_AT material_NN1 in_II the_AT same_DA fashion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   13 <p> And just like a growing city , the scenery can look vastly different to those who have n't visited in a few years .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   13 <p>_Y And_CC just_RR like_II_VV0@ a_AT1 growing_JJ city_NN1 ,_Y the_AT scenery_NN1 can_VM look_VVI vastly_RR different_JJ to_II those_DD2 who_PNQS have_VH0 n't_XX visited_VVN in_II a_AT1 few_DA2 years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   14 Even if you think you 're familiar with a certain magazine , make sure you 've seen a recent copy before pitching .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   14 Even_CS21 if_CS22 you_PPY think_VV0 you_PPY 're_VBR familiar_JJ with_IW a_AT1 certain_JJ magazine_NN1 ,_Y make_VV0 sure_JJ you_PPY 've_VH0 seen_VVN a_AT1 recent_JJ copy_NN1 before_II pitching_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   15 Spirit Airlines , for example , made drastic changes to its in-flight magazine in 2008 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   15 Spirit_NN1 Airlines_NN2 ,_Y for_REX21 example_REX22 ,_Y made_VVD_VVN drastic_JJ changes_NN2 to_II its_Z' in-flight_JJ_NN1 magazine_NN1 in_II 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   16 Southwest Airlines and Midwest Airlines each redesigned theirs in 2007 , and US Airways gave its magazine both a face-lift and a new name in 2006 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   16 Southwest_ND1 Airlines_NN2 and_CC Midwest_NP1_NN1@ Airlines_NN2 each_DD1 redesigned_VVD theirs_PPGE in_II 2007_MC ,_Y and_CC US_NP1 Airways_NN2 gave_VVD its_Z' magazine_NN1 both_RR a_AT1 face-lift_NN1_JJ and_CC a_AT1 new_JJ name_NN1 in_II 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   17 <p> These changes are n't just flights of fancy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   17 <p>_Y These_DD2 changes_NN2 are_VBR n't_XX just_RR_JJ@ flights_NN2 of_IO fancy_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   18 " When we consider redesigns or changing formats , we take into account both popular magazine trends and the managing editor of Go , the inflight magazine of AirTran Airways .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   18 "_Y When_CS_RRQ we_PPIS2 consider_VV0 redesigns_NN2 or_CC changing_JJ_VVG formats_NN2 ,_Y we_PPIS2 take_VV0 into_II account_NN1 both_RR popular_JJ magazine_NN1 trends_NN2 and_CC the_AT managing_JJ_VVG editor_NN1 of_IO Go_VV0 ,_Y the_AT inflight_NN1 magazine_NN1 of_IO AirTran_NN1_NP1_JJ@ Airways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   19 <p> Following a recent magazine trend , many in-flights now contain a regular section devoted to " green " topics such as recycling and energy conservation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   19 <p>_Y Following_VVG_II@ a_AT1 recent_JJ magazine_NN1 trend_NN1 ,_Y many_DA2 in-flights_NN2 now_RT contain_VV0 a_AT1 regular_JJ section_NN1 devoted_VVD@_JJ_VVN% to_II "_Y green_JJ "_Y topics_NN2 such_II21 as_II22 recycling_NN1_VVG and_CC energy_NN1 conservation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   20 You can also count on coverage of the hottest movies and television shows , popular diets and exercise programs , and must have gizmos like the latest Apple iPhone or the Nintendo Wii .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   20 You_PPY can_VM also_RR count_VVI on_II coverage_NN1 of_IO the_AT hottest_JJT movies_NN2 and_CC television_NN1 shows_NN2_VVZ ,_Y popular_JJ diets_NN2 and_CC exercise_VV0_NN1 programs_NN2 ,_Y and_CC must_VM have_VHI gizmos_NN2 like_II the_AT latest_JJT Apple_NN1 iPhone_NN1 or_CC the_AT Nintendo_NP1 Wii_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   21 <p> L : Read the map It seems like an easy rule to follow , but it 's also one of the most common mistakes writers make when they pitch to the in-flight market : " If you 're pitching a travel feature , make sure the airline flies to that destination , " warns Callie Young , associate editor of US Airways magazine .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   21 <p>_Y L_ZZ1_NP1@ :_Y Read_VV0 the_AT map_NN1 It_PPH1 seems_VVZ like_II an_AT1 easy_JJ rule_NN1 to_TO follow_VVI ,_Y but_CCB it_PPH1 's_VBZ also_RR one_MC1 of_IO the_AT most_RGT common_JJ mistakes_NN2 writers_NN2 make_VV0 when_RRQ_CS they_PPHS2 pitch_VV0@ to_II the_AT in-flight_JJ_NN1 market_NN1 :_Y "_Y If_CS you_PPY 're_VBR pitching_VVG a_AT1 travel_NN1 feature_NN1 ,_Y make_VV0 sure_JJ the_AT airline_NN1 flies_VVZ_NN2 to_II that_DD1 destination_NN1 ,_Y "_Y warns_VVZ Callie_NP1 Young_NP1 ,_Y associate_JJ_VV0 editor_NN1 of_IO US_NP1 Airways_NN2 magazine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   22 " We reject a lot of travel stories because we offer no flights to the destination proposed " This applies not only to travelogues , but also to hotel and restaurant reviews and coverage of festivals , conventions and sporting events .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   22 "_Y We_PPIS2 reject_VV0 a_AT1 lot_NN1 of_IO travel_NN1 stories_NN2 because_CS we_PPIS2 offer_VV0 no_AT flights_NN2 to_II the_AT destination_NN1 proposed_VVD_VVN "_Y This_DD1 applies_VVZ not_XX only_RR to_II travelogues_NN2 ,_Y but_CCB also_RR to_II hotel_NN1 and_CC restaurant_NN1 reviews_NN2_VVZ and_CC coverage_NN1 of_IO festivals_NN2 ,_Y conventions_NN2 and_CC sporting_J events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   23 <p> The flight plans of some airlines are easy to predict Airlines primarily flies throughout Alaska and along the West Coast .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   23 <p>_Y The_AT flight_NN1 plans_NN2 of_IO some_DD airlines_NN2 are_VBR easy_JJ to_TO predict_VVI Airlines_NN2 primarily_RR flies_VVZ throughout_II Alaska_NP1 and_CC along_II_RP the_AT West_ND1 Coast_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   24 But without checking the route map , who would know off the top of his head that Delta Airlines flies to Dublin but not Belfast , or that Spirit Airlines flies to Los Angeles but not San Francisco ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   24 But_CCB without_IW checking_VVG the_AT route_NN1 map_NN1 ,_Y who_PNQS would_VM know_VVI off_II_RP the_AT top_NN1 of_IO his_APPGE head_NN1 that_CST_DD1 Delta_NN1 Airlines_NN2 flies_VVZ_NN2 to_II Dublin_NP1 but_CCB not_XX Belfast_NP1 ,_Y or_CC that_DD1 Spirit_NN1 Airlines_NN2 flies_VVZ_NN2 to_II Los_NP1 Angeles_NP1 but_CCB not_XX San_NP1 Francisco_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   25 <p> A persuasive writer with an irresistible story can sometimes bend the rules if her piece focuses on a place close to one of the airline 's destinations .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   25 <p>_Y A_AT1_ZZ1 persuasive_JJ writer_NN1 with_IW an_AT1 irresistible_JJ story_NN1 can_VM sometimes_RT bend_VVI the_AT rules_NN2 if_CS her_APPGE piece_NN1 focuses_VVZ on_II_RP@ a_AT1 place_NN1 close_RR_JJ to_II one_MC1 of_IO the_AT airline_NN1 's_GE destinations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   26 There 's a difference , though , between smooth-talking your way into an assignment and sending an inappropriate query .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   26 There_EX 's_VBZ a_AT1 difference_NN1 ,_Y though_CS_RR@ ,_Y between_II smooth-talking_JJ your_APPGE way_NN1 into_II an_AT1 assignment_NN1 and_CC sending_VVG an_AT1 inappropriate_JJ query_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   27 <p> A writer pitching an article about Tokyo nightlife to a regional U.S. airline is guaranteed a fast rejection and probably wo n't be taken seriously by that magazine again .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   27 <p>_Y A_AT1 writer_NN1 pitching_VVG an_AT1 article_NN1 about_II Tokyo_NP1 nightlife_NN1 to_II a_AT1 regional_JJ U.S._NP1 airline_NN1 is_VBZ guaranteed_VVN a_AT1 fast_JJ rejection_NN1 and_CC probably_RR wo_VM n't_XX be_VBI taken_VVN seriously_RR by_II that_DD1 magazine_NN1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   28 Double-checking the airline 's route map takes a few seconds and goes a long way toward making sales and keeping your credibility .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   28 Double-checking_NN1_JJ the_AT airline_NN1 's_GE route_NN1 map_NN1 takes_VVZ a_AT1 few_DA2 seconds_NNT2 and_CC goes_VVZ a_AT1 long_JJ way_NN1 toward_II making_VVG sales_NN and_CC keeping_VVG your_APPGE credibility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   29 <p> L : Break in through the front The good news is that many airline magazines rely on freelancers for 65 to 95 percent of their content , and once you 've got your foot in the door downside is that newcomers hoping to break in might find a mob of regular contributors already fulfilling editorial needs .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   29 <p>_Y L_ZZ1_NP1@ :_Y Break_VV0 in_RP@ through_II the_AT front_NN1_JJ The_AT good_JJ news_NN1 is_VBZ that_CST_RG% many_DA2 airline_NN1 magazines_NN2 rely_VV0 on_II_RP@ freelancers_NN2 for_IF 65_MC to_II 95_MC percent_NNU of_IO their_APPGE content_NN1_JJ ,_Y and_CC once_CS@_RR you_PPY 've_VH0 got_VVN your_APPGE foot_NN1 in_II the_AT door_NN1 downside_NN1 is_VBZ that_CST newcomers_NN2 hoping_VVG to_TO break_VVI in_RP@_II might_VM find_VVI a_AT1 mob_NN1 of_IO regular_JJ contributors_NN2 already_RR fulfilling_VVG_JJ@ editorial_JJ_NN1 needs_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   30 This is definitely the case at Sky , the inflight magazine of Delta .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   30 This_DD1 is_VBZ definitely_RR the_AT case_NN1 at_II Sky_NN1 ,_Y the_AT inflight_NN1 magazine_NN1 of_IO Delta_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   31 <p> " We 've been blessed with a core group of first-rate freelancers , " says managing editor Brian Cook .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   31 <p>_Y "_Y We_PPIS2 've_VH0 been_VBN blessed_VVN with_IW a_AT1 core_NN1 group_NN1 of_IO first-rate_JJ freelancers_NN2 ,_Y "_Y says_VVZ managing_JJ editor_NN1 Brian_NP1 Cook_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   32 " That means it 's generally very difficult for newcomers to break in , but it will happen on occasion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   32 "_Y That_DD1 means_VVZ it_PPH1 's_VBZ generally_RR very_RG difficult_JJ for_IF newcomers_NN2 to_TO break_VVI in_RP@ ,_Y but_CCB it_PPH1 will_VM happen_VVI on_II occasion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   33 " <p> One of the best ways to catch an editor 's eye is to pitch ideas for the magazine 's front-of-the-book ( FOB ) section .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   33 "_Y <p>_Y One_MC1 of_IO the_AT best_JJT ways_NN2 to_TO catch_VVI an_AT1 editor_NN1 's_GE eye_NN1 is_VBZ to_TO pitch_VVI ideas_NN2 for_IF the_AT magazine_NN1 's_GE front-of-the-book_NN1_JJ (_Y FOB_NP1 )_Y section_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   34 Most in-flights purchase dozens of short articles--from a paragraph to a page-for the FOB section .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   34 Most_DAT in-flights_NN2 purchase_VV0 dozens_M of_IO short_JJ articles--from_NN2 a_AT1 paragraph_NN1 to_II a_AT1 page-for_NN1 the_AT FOB_NN1_NP1 section_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   35 Themes for these articles include hotel and spa reviews , cultural events , travel news , health tips and other topics of general interest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   35 Themes_NN2 for_IF these_DD2 articles_NN2 include_VV0 hotel_NN1 and_CC spa_NN1 reviews_NN2_VVZ ,_Y cultural_JJ events_NN2 ,_Y travel_VV0_NN1 news_NN1 ,_Y health_NN1 tips_NN2_VVZ and_CC other_JJ topics_NN2 of_IO general_JJ_NN1 interest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   36 <p> Since editors need several shorts to fill FOB sections every issue , one sale can easily lead to several more .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   36 <p>_Y Since_CS editors_NN2 need_VV0 several_DA2 shorts_NN2 to_TO fill_VVI FOB_NP1_NN1 sections_VVZ%_NN2 every_AT1 issue_NN1 ,_Y one_MC1 sale_NN1 can_VM easily_RR lead_VVI to_II several_DA2 more_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   37 Once you 've established a relationship with the editor , it becomes much easier to pitch--and sell--a longer feature article .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   37 Once_CS@_RR you_PPY 've_VH0 established_VVN a_AT1 relationship_NN1 with_IW the_AT editor_NN1 ,_Y it_PPH1 becomes_VVZ much_RR_DA1 easier_RRR_JJR to_II pitch--and_CC sell--a_VV0 longer_JJR feature_NN1 article_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   38 <p> L : Know magazine is important ; knowing which topics not to pitch is crucial .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   38 <p>_Y L_ZZ1_NP1@ :_Y Know_VV0 magazine_NN1 is_VBZ important_JJ ;_Y knowing_VVG which_DDQ topics_NN2 not_XX to_TO pitch_VVI is_VBZ crucial_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   39 <p> Randy Johnson , editor of Hemispheres , the in-flight magazine of United Airlines , points out that airline magazines serve a distinct audience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   39 <p>_Y Randy_NP1 Johnson_NP1 ,_Y editor_NN1 of_IO Hemispheres_NN2 ,_Y the_AT in-flight_JJ_NN1 magazine_NN1 of_IO United_JJ Airlines_NN2 ,_Y points_VVZ out_RP that_DD1_CST airline_NN1 magazines_NN2 serve_VV0 a_AT1 distinct_JJ audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   40 Most readers peruse the magazine during their flight , and some may be nervous about their surroundings .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   40 Most_DAT readers_NN2 peruse_VV0 the_AT magazine_NN1 during_II their_APPGE flight_NN1 ,_Y and_CC some_DD may_VM be_VBI nervous_JJ about_II their_APPGE surroundings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   41 Therefore , avoid subjects such as terrorism , war , disease , natural disasters or any other topic that people might find unsettling .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   41 Therefore_RR ,_Y avoid_VV0 subjects_NN2 such_II21 as_II22 terrorism_NN1 ,_Y war_NN1 ,_Y disease_NN1 ,_Y natural_JJ disasters_NN2 or_CC any_DD other_JJ topic_NN1 that_CST people_NN might_VM find_VVI unsettling_VVG_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   42 <p> The biggest no-no of all , however , is to propose an article that reflects negatively on any aspect of the airline industry .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   42 <p>_Y The_AT biggest_JJT no-no_NN1 of_IO all_DB ,_Y however_RR ,_Y is_VBZ to_TO propose_VVI an_AT1 article_NN1 that_CST_DD1 reflects_VVZ negatively_RR on_II any_DD aspect_NN1 of_IO the_AT airline_NN1 industry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   43 Lost baggage , late departures and ruined vacations are all considered off-limits , although some writers submit queries which are far more grim .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   43 Lost_JJ@_VVN baggage_NN1 ,_Y late_JJ departures_NN2 and_CC ruined_JJ vacations_NN2 are_VBR all_DB_RR@ considered_VVN_VVD off-limits_JJ ,_Y although_CS some_DD writers_NN2 submit_VV0 queries_NN2 which_DDQ are_VBR far_RG more_RGR grim_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   44 <p> " We get pitches all the time on topics like where to sit on a plane in order to have the best chance of surviving a crash " Johnson says .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   44 <p>_Y "_Y We_PPIS2 get_VV0 pitches_NN2 all_DB the_AT time_NNT1 on_II topics_NN2 like_II_VV0@ where_RRQ to_TO sit_VVI on_II_RP@ a_AT1 plane_NN1 in_BCL21 order_BCL22 to_TO have_VHI the_AT best_JJT chance_NN1 of_IO surviving_VVG a_AT1 crash_NN1 "_Y Johnson_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   45 " An insensitive , clueless query like that sometimes does n't even get a response .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   45 "_Y An_AT1 insensitive_JJ ,_Y clueless_JJ query_NN1 like_II that_DD1 sometimes_RT does_VDZ n't_XX even_RR get_VVI a_AT1 response_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   46 " <p> Politics , religion and other weighty topics are gray areas handled differently caution when tackling any subject that could be considered controversial or divisive .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   46 "_Y <p>_Y Politics_NN1 ,_Y religion_NN1 and_CC other_JJ weighty_JJ topics_NN2 are_VBR gray_JJ areas_NN2 handled_VVD_VVN differently_RR caution_NN1 when_CS tackling_VVG any_DD subject_NN1 that_CST_DD1 could_VM be_VBI considered_VVN controversial_JJ or_CC divisive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   47 " There are ways to be insightful without being offensive .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   47 "_Y There_EX are_VBR ways_NN2 to_TO be_VBI insightful_JJ without_IW being_VBG offensive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   48 Our intent is to inform , enrich and entertain , not to enrage .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   48 Our_APPGE intent_NN1 is_VBZ to_TO inform_VVI ,_Y enrich_VV0 and_CC entertain_VVI ,_Y not_XX to_TO enrage_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   49 " <p> With these tips--and after a few sales--you might find that in-flights are a reliable market for your work .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   49 "_Y <p>_Y With_IW these_DD2 tips--and_NN2 after_II_CS a_AT1 few_DA2 sales--you_PPY might_VM find_VVI that_CST in-flights_NN2 are_VBR a_AT1 reliable_JJ market_NN1 for_IF your_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   50 <p> By Ty Treadwell <p> Award-winning writer Ty Treadwell has sold more than 100 articles to magazines , newspapers and Web sites , including many travel markets .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   50 <p>_Y By_II Ty_NN1 Treadwell_NP1_NN1@ <p>_Y Award-winning_JJ writer_NN1 Ty_NN1 Treadwell_NP1_NN1@ has_VHZ sold_VVN more_DAR than_CSN 100_MC articles_NN2 to_II magazines_NN2 ,_Y newspapers_NN2 and_CC Web_NN1 sites_NN2 ,_Y including_II_VVG@ many_DA2 travel_VV0_NN1 markets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   51 He teaches a freelance-writing course online .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   51 He_PPHS1 teaches_VVZ a_AT1 freelance-writing_JJ_NN1 course_NN1 online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   52 Web : www.tytreadwell.com .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   52 Web_NN1 :_Y www.tytreadwell.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   53 <p> <p> IN-FLIGHTS MOST AIRLINE magazines post writers guidelines on their Web sites .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   53 <p>_Y <p>_Y IN-FLIGHTS_NN2 MOST_DAT AIRLINE_NN1 magazines_NN2 post_II@_NN1 writers_NN2 guidelines_NN2 on_II their_APPGE Web_NN1 sites_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   54 Many also provide their current issue electronically , so you can familiarize yourself with the magazine without having to order a copy through the mail .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   54 Many_DA2 also_RR provide_VV0 their_APPGE current_JJ issue_NN1 electronically_RR ,_Y so_CS@_RR you_PPY can_VM familiarize_VVI yourself_PPX1 with_IW the_AT magazine_NN1 without_IW having_VHG to_TO order_VVI a_AT1 copy_NN1 through_II the_AT mail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   55 <p> ALASKA AIRLINES MAGAZINE In-flight magazine of Alaska Airlines .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   55 <p>_Y ALASKA_NP1 AIRLINES_NN2 MAGAZINE_NN1 In-flight_NN1_JJ magazine_NN1 of_IO Alaska_NP1 Airlines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   56 Tips : Focuses mainly on West Coast destinations .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   56 Tips_NN2_VVZ :_Y Focuses_VVZ mainly_RR on_II West_ND1 Coast_NN1 destinations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   57 Queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   57 Queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   58 E-queries : No .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   58 E-queries_NN2 :_Y No_XX ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   59 Submission formats : Hard copy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   59 Submission_NN1 formats_NN2 :_Y Hard_JJ_RR copy_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   60 Payment : $150-$700 ; within 30 days of publication .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   60 Payment_NN1 :_Y $150-$700_NNU ;_Y within_II 30_MC days_NNT2 of_IO publication_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   61 Contact : Paul Frichtl , editor , Alaska Airlines Magazine WA 98121. 206-441-5871. info@paradigmcq.com. **30;16653;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   61 Contact_VV0_NN1 :_Y Paul_NP1 Frichtl_NP1 ,_Y editor_NN1 ,_Y Alaska_NP1 Airlines_NN2 Magazine_NN1 WA_NP1_NN1 98121._MC 206-441-5871._MCMC info@paradigmcq.com._FO **30;16653;TOOLONG_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   62 <p> GO In-flight magazine of AirTran Airways .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   62 <p>_Y GO_VV0 In-flight_JJ_NN1 magazine_NN1 of_IO AirTran_NN1_NP1_JJ@ Airways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   63 Tips : Prefers articles written in third-person .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   63 Tips_NN2_VVZ :_Y Prefers_VVZ articles_NN2 written_VVN in_II third-person_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   64 Adheres to AP style .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   64 Adheres_VVZ to_II AP_NP1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   65 Queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   65 Queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   66 E-queries : Preferred .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   66 E-queries_NN2 :_Y Preferred_JJ_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   67 Submission formats : Electronic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   67 Submission_NN1 formats_NN2 :_Y Electronic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   68 Payment : 45 per word ; within 45 days of invoicing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   68 Payment_NN1 :_Y 45_MC per_II word_NN1 ;_Y within_II 45_MC days_NNT2 of_IO invoicing_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   69 Contact : Orion Ray-Jones , editor , Go , Ink Publishing , 68 Jay St. , Ste. 315 , Brooklyn , NY 11201. 917-2544865. orion@ink-publishing.com , www.airtranmagazine.com .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   69 Contact_VV0_NN1 :_Y Orion_NP1 Ray-Jones_NP1 ,_Y editor_NN1 ,_Y Go_VV0 ,_Y Ink_NN1 Publishing_NN1 ,_Y 68_MC Jay_NP1 St._NNL1 ,_Y Ste._NNB 315_MC ,_Y Brooklyn_NP1 ,_Y NY_NP1 11201._MC 917-2544865._MCMC orion@ink-publishing.com_FO ,_Y www.airtranmagazine.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   70 <p> HEMISPHERES In-flight magazine of United Airlines .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   70 <p>_Y HEMISPHERES_NN2 In-flight_JJ_NN1 magazine_NN1 of_IO United_JJ Airlines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   71 Tips : For travel pieces , prefers to use residents or natives of the featured city or country .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   71 Tips_NN2_VVZ :_Y For_IF travel_NN1 pieces_NN2 ,_Y prefers_VVZ to_TO use_VVI residents_NN2 or_CC natives_NN2 of_IO the_AT featured_JJ@ city_NN1 or_CC country_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   72 Queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   72 Queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   73 E-queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   73 E-queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   74 Submission formats : Electronic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   74 Submission_NN1 formats_NN2 :_Y Electronic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   75 Payment : Rates vary ; on acceptance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   75 Payment_NN1 :_Y Rates_NN2 vary_VV0 ;_Y on_II acceptance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   76 Contact : Senior editor , Hemispheres , Pace Communications , 1301 Carolina St. , Greensboro , NC 27401. 336-378-6065. **32;16685;TOOLONG **27;16719;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   76 Contact_VV0_NN1 :_Y Senior_JJ editor_NN1 ,_Y Hemispheres_NN2 ,_Y Pace_NN1_VV0@ Communications_NN2 ,_Y 1301_MC Carolina_NP1 St._NNL1 ,_Y Greensboro_NP1 ,_Y NC_NP1 27401._MC 336-378-6065._MCMC **32;16685;TOOLONG_FO **27;16719;TOOLONG_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   77 <p> SKYLIGHTS In-flight magazine of Spirit Airlines .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   77 <p>_Y SKYLIGHTS_NN2 In-flight_JJ_NN1 magazine_NN1 of_IO Spirit_NN1 Airlines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   78 Tips : Likes a hip , youthful voice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   78 Tips_NN2_VVZ :_Y Likes_VVZ a_AT1 hip_NN1 ,_Y youthful_JJ voice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   79 State availability of photos .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   79 State_VV0_NN1 availability_NN1 of_IO photos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   80 Queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   80 Queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   81 E-queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   81 E-queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   82 Submission formats : Electronic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   82 Submission_NN1 formats_NN2 :_Y Electronic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   83 Payment : .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   83 Payment_NN1 :_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   84 25 to 40 : Lisa Simundson , managing editor , Skylights Editorial Dept. , Worth International Media Group , 5979 NW 151 St. , Ste. 120 , Miami Lakes , FL 33014. 305-828-0123. lisa@worthit.com , **25;16748;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   84 25_MC to_II 40_MC :_Y Lisa_NP1 Simundson_NP1 ,_Y managing_JJ_VVG editor_NN1 ,_Y Skylights_NN2 Editorial_JJ_NN1 Dept._NN1 ,_Y Worth_II International_JJ Media_NN Group_NN1 ,_Y 5979_MC NW_ND1 151_MC St._NP1 ,_NP1 Ste._NNB 120_MC ,_Y Miami_NP1 Lakes_NN2 ,_Y FL_NNU_FW@ 33014._MC 305-828-0123._MCMC lisa@worthit.com_FO ,_Y **25;16748;TOOLONG_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   85 <p> US AIRWAYS In-flight magazine of US Airways .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   85 <p>_Y US_NP1 AIRWAYS_NN2 In-flight_JJ_NN1 magazine_NN1 of_IO US_NP1 Airways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   86 Tips : Likes light , breezy writing with plenty of humor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   86 Tips_NN2_VVZ :_Y Likes_VVZ_NN2 light_NN1_JJ_VV0@ ,_Y breezy_JJ writing_NN1 with_IW plenty_PN of_IO humor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   87 Queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   87 Queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   88 E-queries : Preferred .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   88 E-queries_NN2 :_Y Preferred_JJ_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   89 Submission formats : Electronic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   89 Submission_NN1 formats_NN2 :_Y Electronic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   90 Payment : Rates vary ; on acceptance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   90 Payment_NN1 :_Y Rates_NN2 vary_VV0 ;_Y on_II acceptance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   91 Contact : Editors , US Airways , Pace Communications , 1301 Carolina St. , Greensboro , NC 27401. 336-383-5701. edit@usairwaysmag.com , www.usairwaysmag.com .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   91 Contact_VV0_NN1 :_Y Editors_NN2 ,_Y US_NP1 Airways_NN2 ,_Y Pace_NN1_VV0@ Communications_NN2 ,_Y 1301_MC Carolina_NP1 St._NNL1 ,_Y Greensboro_NP1 ,_Y NC_NP1 27401._MC 336-383-5701._MCMC edit@usairwaysmag.com_FO ,_Y www.usairwaysmag.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   92 <p> WILD BLUE YONDER In-flight magazine of Frontier Airlines .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   92 <p>_Y WILD_JJ_RR@ BLUE_JJ_NN1@ YONDER_RR In-flight_JJ magazine_NN1 of_IO Frontier_NN1 Airlines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   93 Tips : Accepts e-queries , but will look at completed manuscripts on spec if submitted by standard mail .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   93 Tips_NN2_VVZ :_Y Accepts_VVZ e-queries_NN2 ,_Y but_CCB will_VM look_VVI at_II completed_JJ@ manuscripts_NN2 on_II spec_NN1 if_CS submitted_VVN by_II standard_JJ_NN1 mail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   94 Queries : Yes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   94 Queries_NN2 :_Y Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   95 E-queries : Preferred .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   95 E-queries_NN2 :_Y Preferred_JJ_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   96 Submission formats : Electronic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   96 Submission_NN1 formats_NN2 :_Y Electronic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   97 Payment : Rates vary ; within 30 days of publication .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   97 Payment_NN1 :_Y Rates_NN2 vary_VV0 ;_Y within_II 30_MC days_NNT2 of_IO publication_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  A    0   98 Contact : Jeff Swaim , executive producer , Wild Blue Yonder Network , 1099 18th St. , Ste. 500 , Denver , CO 80202. 303-296-0339 x224. **26;16775;TOOLONG , www.gowildblueyonder.com
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071182 COCA  B    0   98 Contact_VV0_NN1 :_Y Jeff_NP1 Swaim_NP1 ,_Y executive_NN1_JJ@ producer_NN1 ,_Y Wild_JJ_RR@ Blue_JJ_NN1@ Yonder_RR_DD@ Network_NN1 ,_Y 1099_MC 18th_MD St._NP1 ,_NP1 Ste._NNB 500_MC ,_Y Denver_NP1 ,_Y CO_FO_NP1 80202._MC 303-296-0339_MCMC x224._FO **26;16775;TOOLONG_FO ,_Y www.gowildblueyonder.com_ZZ_NN

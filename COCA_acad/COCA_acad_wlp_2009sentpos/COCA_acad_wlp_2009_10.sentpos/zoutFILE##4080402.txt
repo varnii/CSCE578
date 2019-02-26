@@ -1,0 +1,236 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    0 Indicators are that technological advances and state-mandated tests , in addition to other variables , are forcing cursive writing to become a casualty of the American educational landscape .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    0 Indicators_NN2 are_VBR that_RG%_DD1_CST technological_JJ advances_NN2 and_CC state-mandated_JJ_NN1 tests_NN2 ,_Y in_II31 addition_II32 to_II33 other_JJ variables_NN2 ,_Y are_VBR forcing_VVG cursive_JJ writing_NN1 to_TO become_VVI a_AT1 casualty_NN1 of_IO the_AT American_JJ educational_JJ landscape_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    1 It behooves us to examine the historical , practical , and essential aspects relative to cursive writing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    1 It_PPH1 behooves_VVZ us_PPIO2 to_TO examine_VVI the_AT historical_JJ ,_Y practical_JJ ,_Y and_CC essential_JJ aspects_NN2 relative_II21 to_II22 cursive_JJ writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    2 We no longer use hand cranks to turn down the windows in vehicles .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    2 We_PPIS2 no_RR21 longer_RR22 use_VV0 hand_NN1 cranks_NN2_VVZ@ to_TO turn_VVI down_RP_II@ the_AT windows_NN2 in_II vehicles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    3 All types of vehicles are now manufactured using electric windows .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    3 All_DB types_NN2 of_IO vehicles_NN2 are_VBR now_RT manufactured_VVN_VVD@ using_VVG electric_JJ windows_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    4 Then , ' why do we force our children to write in a systemized loopy script that is rather difficult to decipher and leaves many adults with knots the size of walnuts on their knuckles ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    4 Then_RT ,_Y '_"@ why_RRQ do_VD0 we_PPIS2 force_VVI our_APPGE children_NN2 to_TO write_VVI in_II_RP@ a_AT1 systemized_JJ@ loopy_JJ script_NN1 that_CST_DD1 is_VBZ rather_RG difficult_JJ to_TO decipher_VVI and_CC leaves_VVZ many_DA2 adults_NN2 with_IW knots_NN2 the_AT size_NN1 of_IO walnuts_NN2 on_II their_APPGE knuckles_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    5 ' ( Rufo , 2004 , p. 4 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    5 '_"@_GE (_Y Rufo_NN1_NP1@ ,_Y 2004_MC ,_Y p._NN1_NNU 4_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    6 The digital age of technology increasingly threatens cursive writing because of computers , instant text messaging , e-mails , faxing , and employment applications .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    6 The_AT digital_JJ age_NN1 of_IO technology_NN1 increasingly_RR threatens_VVZ cursive_JJ writing_NN1 because_II21 of_II22 computers_NN2 ,_Y instant_JJ text_NN1 messaging_NN1_VVG ,_Y e-mails_NN2 ,_Y faxing_VVG ,_Y and_CC employment_NN1 applications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    7 State-mandated tests and limited classroom time have also impacted cursive instruction and writing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    7 State-mandated_JJ_NN1 tests_NN2 and_CC limited_JJ classroom_NN1 time_NNT1 have_VH0 also_RR impacted_VVN cursive_JJ instruction_NN1 and_CC writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    8 In many states , cursive writing ' varies from district to district and school to school ' ( Nix , 2008 , p. 1 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    8 In_II many_DA2 states_NN2 ,_Y cursive_JJ writing_NN1 '_GE varies_VVZ from_II district_NN1 to_II district_NN1 and_CC school_NN1 to_II school_NN1 '_GE (_Y Nix_NP1_VV0_NN1 ,_Y 2008_MC ,_Y p._NN1 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0    9 It is time to explore examine the historical , practical , and essential aspects relative to cursive writing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0    9 It_PPH1 is_VBZ time_NNT1 to_TO explore_VVI examine_VVI the_AT historical_JJ ,_Y practical_JJ ,_Y and_CC essential_JJ aspects_NN2 relative_II21 to_II22 cursive_JJ writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   10 Historical Previous generations used cursive writing as an indicator of an educated individual .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   10 Historical_JJ Previous_JJ generations_NN2 used_VVD_VVN_JJ cursive_JJ writing_NN1 as_II_CSA an_AT1 indicator_NN1 of_IO an_AT1 educated_JJ individual_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   11 It was a form of communication .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   11 It_PPH1 was_VBDZ a_AT1 form_NN1 of_IO communication_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   12 According to Marge Rea , ' In 1904 , handwriting was considered the most important thing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   12 According_II21 to_II22 Marge_NP1 Rea_NP1 ,_Y '_GE_"@ In_II 1904_MC ,_Y handwriting_NN1 was_VBDZ considered_VVN the_AT most_RGT important_JJ thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   13 Before typewriters , everything was handwritten : land deeds , legal paperwork , orders and business records ' ( as cited in Yackley , 2008 , p. 1 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   13 Before_CS_II typewriters_NN2 ,_Y everything_PN1 was_VBDZ handwritten_VVN :_Y land_NN1_VV0@ deeds_NN2 ,_Y legal_JJ paperwork_NN1 ,_Y orders_NN2 and_CC business_NN1 records_NN2 '_GE (_Y as_CSA cited_VVN in_II Yackley_NP1 ,_Y 2008_MC ,_Y p._NN1 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   14 The cursive form was often used ornamentally for various types of certificates and diplomas .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   14 The_AT cursive_JJ form_NN1 was_VBDZ often_RR used_VVN_VVD ornamentally_RR for_IF various_JJ types_NN2 of_IO certificates_NN2 and_CC diplomas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   15 Further , Tamara Plakins Thornton in Handwriting in America : A Cultural History ( 1996 , p. 41 ) points out that during the colonial period cursive writing occurred as ' self-presentation but not self-expression .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   15 Further_RRR_JJR ,_Y Tamara_NP1 Plakins_NP1 Thornton_NP1 in_II Handwriting_NN1 in_II America_NP1 :_Y A_ZZ1_AT1@ Cultural_JJ History_NN1 (_Y 1996_MC ,_Y p._NN1_NNU 41_MC )_Y points_VVZ out_RP that_CST_DD1 during_II the_AT colonial_JJ period_NN1 cursive_JJ writing_NN1 occurred_VVD_VVN@ as_CSA_II@_RG@ '_GE self-presentation_NN1_JJ but_CCB not_XX self-expression_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   16 ' She also relates that male handwriting indicated a gentleman 's integrity while for women it was a form of artistry .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   16 '_"@_GE She_PPHS1 also_RR relates_VVZ that_CST_DD1 male_JJ_NN1 handwriting_NN1 indicated_VVD_VVN a_AT1 gentleman_NN1 's_GE integrity_NN1 while_CS_NNT1@ for_IF women_NN2 it_PPH1 was_VBDZ a_AT1 form_NN1 of_IO artistry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   17 Practical In the era of computers and standardized testing , how practical is cursive writing ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   17 Practical_JJ_NN1@ In_II the_AT era_NN1 of_IO computers_NN2 and_CC standardized_JJ_VVD testing_NN1 ,_Y how_RRQ_RGQ@ practical_JJ_NN1@ is_VBZ cursive_JJ writing_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   18 As Carpenter explains : The Palmer and Zaner-Bloser penmanship methods ruled the day for decades .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   18 As_CSA_II@ Carpenter_NP1 explains_VVZ :_Y The_AT Palmer_NP1 and_CC Zaner-Bloser_NP1 penmanship_NN1 methods_NN2 ruled_VVD_VVN the_AT day_NNT1 for_IF decades_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   19 Students spent 45 minutes on report cards .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   19 Students_NN2 spent_VVD_VVN 45_MC minutes_NNT2 on_II report_NN1 cards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   20 Today , handwriting instruction might get 10 or 15 minutes a few times a week .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   20 Today_RT ,_Y handwriting_NN1 instruction_NN1 might_VM get_VVI 10_MC or_CC 15_MC minutes_NNT2 a_AT1 few_DA2 times_NNT2 a_AT1 week_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   21 Key-boarding skills are taught much earlier , now .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   21 Key-boarding_JJ_NN1 skills_NN2 are_VBR taught_VVN much_RR_DA1 earlier_RRR_JJR ,_Y now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   22 ( 2007 , p. 3 ) With decreasing instruction time to teach students cursive writing , another practical aspect is legibility .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   22 (_Y 2007_MC ,_Y p._NN1_NNU 3_MC )_Y With_IW decreasing_JJ_VVG instruction_NN1 time_NNT1 to_TO teach_VVI students_NN2 cursive_JJ writing_NN1 ,_Y another_DD1 practical_JJ aspect_NN1 is_VBZ legibility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   23 Elementary students are taught cursive either in the latter part of second grade or in third grade .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   23 Elementary_JJ students_NN2 are_VBR taught_VVN cursive_JJ either_RR in_II the_AT latter_DA part_NN1 of_IO second_MD_NNT1 grade_NN1 or_CC in_II third_MD grade_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   24 Letter configurations change dramatically .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   24 Letter_NN1 configurations_NN2 change_VV0 dramatically_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   25 For example , the letter ' s ' in ( manuscript ) block print is one style ; in cursive it is another style .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   25 For_REX21 example_REX22 ,_Y the_AT letter_NN1 '_GE s_ZZ1 '_GE in_II_RP@ (_Y manuscript_NN1 )_Y block_NN1_VV0@ print_NN1 is_VBZ one_MC1 style_NN1 ;_Y in_II cursive_JJ it_PPH1 is_VBZ another_DD1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   26 Students have to learn a new set of alphabet letters ( both upper and lower case ) , connect those letters to make words , write sentences , develop paragraphs and execute essays .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   26 Students_NN2 have_VH0 to_TO learn_VVI a_AT1 new_JJ set_NN1 of_IO alphabet_NN1 letters_NN2 (_Y both_DB2_RR upper_JJ and_CC lower_JJR case_NN1 )_Y ,_Y connect_VV0 those_DD2 letters_NN2 to_TO make_VVI words_NN2 ,_Y write_VV0 sentences_NN2 ,_Y develop_VV0 paragraphs_NN2 and_CC execute_VV0 essays_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   27 Usually by fourth grade , there is no continuity in cursive instruction .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   27 Usually_RR by_II fourth_MD grade_NN1 ,_Y there_EX is_VBZ no_AT continuity_NN1 in_II cursive_JJ instruction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   28 What are we doing to our diverse classrooms of students ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   28 What_DDQ are_VBR we_PPIS2 doing_VDG to_II our_APPGE diverse_JJ classrooms_NN2 of_IO students_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   29 In reality and practicality , the results are mixed writing methods : difficulty in deciphering words , writing projects lacking logical writing/comprehension , and loss of instructional time .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   29 In_II reality_NN1 and_CC practicality_NN1 ,_Y the_AT results_NN2 are_VBR mixed_VVN_JJ@ writing_VVG_NN1 methods_NN2 :_Y difficulty_NN1 in_II deciphering_VVG_JJ@ words_NN2 ,_Y writing_VVG_NN1 projects_NN2 lacking_VVG logical_JJ writing/comprehension_NN1 ,_Y and_CC loss_NN1 of_IO instructional_JJ time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   30 Another practical concern is lefties be a nightmare for lefties .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   30 Another_DD1 practical_JJ concern_NN1 is_VBZ lefties_NN2 be_VBI a_AT1 nightmare_NN1 for_IF lefties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   31 The most common problem is the left wrist hooking around as the child writes , which can be uncomfortable and lead to poor penmanship ' states Hudson ( 1999 , p. 1 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   31 The_AT most_RGT common_JJ problem_NN1 is_VBZ the_AT left_JJ wrist_NN1 hooking_VVG around_RP as_II_CSA the_AT child_NN1 writes_VVZ ,_Y which_DDQ can_VM be_VBI uncomfortable_JJ and_CC lead_VV0_NN1 to_II poor_JJ penmanship_NN1 '_GE states_NN2 Hudson_NP1 (_Y 1999_MC ,_Y p._NN1 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   32 While lefties have greater challenges , other students may also have difficulty .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   32 While_CS lefties_NN2 have_VH0 greater_JJR challenges_NN2 ,_Y other_JJ students_NN2 may_VM also_RR have_VHI difficulty_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   33 With the inclusionary classroom composed of identified students , along with ESL ( English Second Language ) and ELL ( English Limited Language ) students , cursive writing instruction can be problematic .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   33 With_IW the_AT inclusionary_JJ classroom_NN1 composed_VVN_VVD of_IO identified_JJ% students_NN2 ,_Y along_II21 with_II22 ESL_NP1_NN1 (_Y English_NN1_JJ Second_MD_NNT1 Language_NN1 )_Y and_CC ELL_NP1_NN1 (_Y English_JJ_NN1 Limited_JJ Language_NN1 )_Y students_NN2 ,_Y cursive_JJ writing_NN1 instruction_NN1 can_VM be_VBI problematic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   34 Teachers have IEPs ( Individualized Education Programs ) to assist identified students , and content areas progress at varied levels and rates for all learners .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   34 Teachers_NN2 have_VH0 IEPs_NN2 (_Y Individualized_JJ Education_NN1 Programs_NN2 )_Y to_TO assist_VVI identified_JJ%_VVN students_NN2 ,_Y and_CC content_JJ_NN1 areas_NN2 progress_VV0@_NN1 at_II varied_JJ levels_NN2 and_CC rates_NN2 for_IF all_DB learners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   35 While students are included in the same classroom settings , teachers may have a student in the classroom who speaks that individual 's native tongue ; however , the student is not skilled to read or write in the native language .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   35 While_CS students_NN2 are_VBR included_VVN in_II the_AT same_DA classroom_NN1 settings_NN2 ,_Y teachers_NN2 may_VM have_VHI a_AT1 student_NN1 in_II the_AT classroom_NN1 who_PNQS speaks_VVZ that_DD1_CST individual_NN1 's_GE native_JJ tongue_NN1 ;_Y however_RR ,_Y the_AT student_NN1 is_VBZ not_XX skilled_JJ to_TO read_VVI or_CC write_VVI in_II_RP@ the_AT native_JJ language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   36 When placed in an American classroom , entry in another culture has countless ramifications .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   36 When_CS placed_VVN in_II an_AT1 American_JJ classroom_NN1 ,_Y entry_NN1 in_II another_DD1 culture_NN1 has_VHZ countless_JJ ramifications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   37 Teachers and literacy coaches must work to assist students to learn the concepts of the curriculum and work to have them somewhat overwhelming challenges .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   37 Teachers_NN2 and_CC literacy_NN1 coaches_NN2 must_VM work_VVI to_TO assist_VVI students_NN2 to_TO learn_VVI the_AT concepts_NN2 of_IO the_AT curriculum_NN1 and_CC work_VV0_NN1 to_TO have_VHI them_PPHO2 somewhat_RR overwhelming_JJ challenges_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   38 Teachers often resort to having students use only block print to enable translations , comprehension , and concept attainment for students .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   38 Teachers_NN2 often_RR resort_NN1_VV0% to_II having_VHG students_NN2 use_VVI only_JJ_RR block_NN1 print_NN1_VV0 to_TO enable_VVI translations_NN2 ,_Y comprehension_NN1 ,_Y and_CC concept_NN1 attainment_NN1 for_IF students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   39 The state mandated tests are in print ( block ) format .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   39 The_AT state_NN1 mandated_VVN_JJ@ tests_NN2 are_VBR in_II print_NN1 (_Y block_NN1 )_Y format_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   40 The aforementioned are practical aspects noting that we must re-conceptualize cursive writing 's importance in the curriculum as well as beyond while focusing on the quality of instructional time required to ensure that students are prepared for today 's digital age and the future workforce .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   40 The_AT aforementioned_JJ are_VBR practical_JJ aspects_NN2 noting_VVG that_CST we_PPIS2 must_VM re-conceptualize_VVI cursive_JJ writing_NN1 's_GE importance_NN1 in_II the_AT curriculum_NN1 as_II31 well_II32 as_II33 beyond_RL@ while_CS focusing_VVG on_II the_AT quality_NN1 of_IO instructional_JJ time_NNT1 required_VVN to_TO ensure_VVI that_CST students_NN2 are_VBR prepared_VVN for_IF today_RT 's_GE_VBZ digital_JJ age_NN1 and_CC the_AT future_JJ_NN1 workforce_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   41 Essential Schools are microcosms of our society .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   41 Essential_JJ Schools_NN2 are_VBR microcosms_NN2 of_IO our_APPGE society_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   42 We need literate individuals in our society .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   42 We_PPIS2 need_VV0 literate_JJ individuals_NN2 in_II our_APPGE society_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   43 There are essential aspects to consider .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   43 There_EX are_VBR essential_JJ aspects_NN2 to_TO consider_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   44 It begins by having students who are able to read , write , listen and communicate effectively .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   44 It_PPH1 begins_VVZ by_II having_VHG students_NN2 who_PNQS are_VBR able_JK to_TO read_VVI ,_Y write_VV0 ,_Y listen_VV0 and_CC communicate_VVI effectively_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   45 Manuscript ( block print ) and consecutive years of the same letter formations are essential for students to obtain skill acquisition in communicating .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   45 Manuscript_NN1 (_Y block_NN1_VV0@ print_NN1 )_Y and_CC consecutive_JJ years_NNT2 of_IO the_AT same_DA letter_NN1 formations_NN2 are_VBR essential_JJ for_IF students_NN2 to_TO obtain_VVI skill_NN1 acquisition_NN1 in_II communicating_NN1_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   46 When students are able to concentrate on their compositions and not handwriting , perhaps their compositions will indicate more logical thought processes and the mechanical components are more likely to be in place .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   46 When_RRQ_CS students_NN2 are_VBR able_JK to_TO concentrate_VVI on_II_RP@ their_APPGE compositions_NN2 and_CC not_XX handwriting_NN1 ,_Y perhaps_RR their_APPGE compositions_NN2 will_VM indicate_VVI more_RGR_DAR logical_JJ thought_NN1 processes_NN2 and_CC the_AT mechanical_JJ components_NN2 are_VBR more_RGR likely_JJ to_TO be_VBI in_II place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   47 It is essential that we teach students proper grammar cite the College Board data on the writing portion of the SATs that ' 15 percent of students who wrote their essay in cursive did slightly better than those who used some other type of handwriting ' ( Carpenter , 2007 , p. 2 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   47 It_PPH1 is_VBZ essential_JJ that_CST we_PPIS2 teach_VV0 students_NN2 proper_JJ grammar_NN1 cite_VV0 the_AT College_NN1 Board_NN1 data_NN on_II the_AT writing_NN1 portion_NN1 of_IO the_AT SATs_NN2 that_DD1 '_VBZ 15_MC percent_NNU of_IO students_NN2 who_PNQS wrote_VVD their_APPGE essay_NN1 in_II cursive_JJ did_VDD slightly_RR better_RRR_JJR than_CSN those_DD2 who_PNQS used_VVD some_DD other_JJ type_NN1 of_IO handwriting_NN1 '_GE (_Y Carpenter_NP1 ,_Y 2007_MC ,_Y p._NN1_NNU 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   48 In contrast , Karin Klein , a trained scorer for the SATs , emphatically states in ' How I Gamed the SAT , ' ' Length does n't always mean a better score , but I would advise any kid : Write at least a page and a quarter .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   48 In_II contrast_NN1 ,_Y Karin_NP1 Klein_NP1 ,_Y a_AT1 trained_JJ@ scorer_NN1 for_IF the_AT SATs_NP2_NN2 ,_Y emphatically_RR states_VVZ in_II_RP@ '_"@ How_RRQ I_PPIS1 Gamed_VVD@ the_AT SAT_VVD_VVN@ ,_Y '_"@ '_GE Length_NN1 does_VDZ n't_XX always_RR mean_VVI a_AT1 better_JJR score_NN1 ,_Y but_CCB I_PPIS1 would_VM advise_VVI any_DD kid_NN1 :_Y Write_VV0 at_RR21 least_RR22 a_AT1 page_NN1 and_CC a_AT1 quarter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   49 Nobody who got one of the top scores wrote one page or less ' ( Los Angeles Times , 2005 , p.1 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   49 Nobody_PN1 who_PNQS got_VVD one_MC1 of_IO the_AT top_JJ_NN1 scores_NN2 wrote_VVD one_MC1 page_NN1 or_CC less_DAR_RGR_RRR '_GE_" (_Y Los_NP1 Angeles_NP1 Times_NNT2 ,_Y 2005_MC ,_Y p.1_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   50 Hence , any student using manuscript ( block format ) may increase speed of writing and score higher on the SAT because of knowing this tip .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   50 Hence_RR ,_Y any_DD student_NN1 using_VVG manuscript_NN1 (_Y block_NN1_VV0@ format_NN1 )_Y may_VM increase_VVI speed_NN1 of_IO writing_NN1_VVG and_CC score_VVI higher_JJR_RRR@ on_II the_AT SAT_VVN@_VVD because_II21 of_II22 knowing_VVG this_DD1 tip_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   51 Another essential aspect is assessment .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   51 Another_DD1 essential_JJ aspect_NN1 is_VBZ assessment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   52 Teachers must do varied forms of measuring student progress .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   52 Teachers_NN2 must_VM do_VDI varied_JJ forms_NN2 of_IO measuring_VVG_JJ@ student_NN1 progress_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   53 It only makes sense for teachers to be able to read and score students ' work in a timely and accurate manner .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   53 It_PPH1 only_RR makes_VVZ sense_NN1 for_IF teachers_NN2 to_TO be_VBI able_JK to_TO read_VVI and_CC score_VVI students_NN2 '_GE work_NN1 in_II a_AT1 timely_JJ and_CC accurate_JJ manner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   54 Trying to decipher written words/paragraphs blank type questions requires extra time for teachers and may result in resubmits for students .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   54 Trying_VVG to_TO decipher_VVI written_JJ@ words/paragraphs_NN2 blank_JJ type_NN1 questions_NN2 requires_VVZ extra_JJ time_NNT1 for_IF teachers_NN2 and_CC may_VM result_VVI in_II resubmits_NN2 for_IF students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   55 Hence , this causes anxiety for students as legibility of their handwriting style is impacting their learning .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   55 Hence_RR ,_Y this_DD1 causes_VVZ anxiety_NN1 for_IF students_NN2 as_CSA_II@ legibility_NN1 of_IO their_APPGE handwriting_NN1 style_NN1 is_VBZ impacting_VVG their_APPGE learning_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   56 With the variation of different writing models ' Palmer , Zaner-Bloser and Writing Without Tears to name a few ' it is difficult for teacher-education programs to include any of these in their programming .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   56 With_IW the_AT variation_NN1 of_IO different_JJ writing_NN1 models_NN2 '_GE Palmer_NP1 ,_Y Zaner-Bloser_NP1 and_CC Writing_VVG_NN1 Without_IW Tears_NN2 to_TO name_VVI a_AT1 few_DA2 '_"@ it_PPH1 is_VBZ difficult_JJ for_IF teacher-education_JJ_NN1 programs_NN2 to_TO include_VVI any_DD of_IO these_DD2 in_II their_APPGE programming_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   57 As Troyer points out , ' minimal time is spent teaching cursive to future teachers ' ( 2009 , p. 2 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   57 As_CSA_II@ Troyer_NP1_NN1 points_VVZ out_RP ,_Y '_GE minimal_JJ time_NNT1 is_VBZ spent_VVN teaching_VVG cursive_JJ to_II future_JJ_NN1 teachers_NN2 '_GE (_Y 2009_MC ,_Y p._NN1_NNU 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   58 Teacher education programs now have the demands of courses for inclusion , technology , diversity , and ESL/ELL students , in addition to the content major .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   58 Teacher_NN1 education_NN1 programs_NN2 now_RT have_VH0 the_AT demands_NN2 of_IO courses_NN2 for_IF inclusion_NN1 ,_Y technology_NN1 ,_Y diversity_NN1 ,_Y and_CC ESL/ELL_VV0_NN1_NP1 students_NN2 ,_Y in_II31 addition_II32 to_II33 the_AT content_JJ_NN1 major_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   59 Hence , writing is often not required .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   59 Hence_RR ,_Y writing_NN1_VVG is_VBZ often_RR not_XX required_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   60 Graham , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   60 Graham_NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   61 ( 2008 , p. 66 ) notes that ' lack of either instructional knowledge or knowledge of handwriting development could weaken the quality of teachers ' handwriting instruction .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   61 (_Y 2008_MC ,_Y p._NN1_NNU 66_MC )_Y notes_VVZ that_DD1 '_VBZ lack_NN1 of_IO either_RR instructional_JJ knowledge_NN1 or_CC knowledge_NN1 of_IO handwriting_NN1 development_NN1 could_VM weaken_VVI the_AT quality_NN1 of_IO teachers_NN2 '_GE handwriting_NN1 instruction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   62 ' Educational institutions that have teacher training programs are concerned about accreditations and the needed programmatic changes required to meet its state and/or NCATE standards relative to the aforementioned .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   62 '_"@_GE Educational_JJ institutions_NN2 that_CST have_VH0 teacher_NN1 training_NN1 programs_NN2 are_VBR concerned_JJ about_II accreditations_NN2 and_CC the_AT needed_JJ@ programmatic_JJ changes_NN2 required_VVN to_TO meet_VVI its_Z' state_NN1 and/or_CC NCATE_VV0_NN1_NP1 standards_NN2 relative_II21 to_II22 the_AT aforementioned_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   63 difficulties of cursive writing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   63 difficulties_NN2 of_IO cursive_JJ writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   64 However , the historical , practical , and essential aspects call for a number of questions and the need for more educational research in this area .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   64 However_RR ,_Y the_AT historical_JJ ,_Y practical_JJ ,_Y and_CC essential_JJ aspects_NN2 call_VV0 for_IF a_AT1 number_NN1 of_IO questions_NN2 and_CC the_AT need_NN1 for_IF more_RGR_DAR educational_JJ research_NN1 in_II this_DD1 area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   65 Indicators are that technological advances and state-mandated tests , in addition to other variables , are forcing cursive writing to become a casualty of the American educational landscape .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   65 Indicators_NN2 are_VBR that_RG%_DD1_CST technological_JJ advances_NN2 and_CC state-mandated_JJ_NN1 tests_NN2 ,_Y in_II31 addition_II32 to_II33 other_JJ variables_NN2 ,_Y are_VBR forcing_VVG cursive_JJ writing_NN1 to_TO become_VVI a_AT1 casualty_NN1 of_IO the_AT American_JJ educational_JJ landscape_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   66 References Carpenter , C. ( 2007 , November 14 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   66 References_NN2_VVZ@ Carpenter_NP1_NN1@ ,_Y C._NP1_ZZ1@ (_Y 2007_MC ,_Y November_NPM1 14_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   67 Is this the end of cursive writing ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   67 Is_VBZ this_DD1 the_AT end_NN1 of_IO cursive_JJ writing_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   68 Christian Science Monitor , 99(244) , 13-15 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   68 Christian_JJ Science_NN1 Monitor_NN1_VV0 ,_Y 99(244)_FO ,_Y 13-15_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   69 Retrieved February 12 , 2009 , from Newspaper Source database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   69 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II Newspaper_NN1 Source_NN1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   70 Cravens , J. ( 2004 ) Is teaching cursive writing a waste of time ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   70 Cravens_NN2_NP1@ ,_Y J._NP1 (_Y 2004_MC )_Y Is_VBZ teaching_VVG cursive_JJ writing_NN1_VVG a_AT1 waste_NN1 of_IO time_NNT1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   71 It motivates students to learn .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   71 It_PPH1 motivates_VVZ students_NN2 to_TO learn_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   72 American Teacher , 88(6) , 4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   72 American_JJ Teacher_NN1 ,_Y 88(6)_FO ,_Y 4_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   73 Retrieved February 12 , 2009 , from Education Full Text database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   73 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II Education_NN1 Full_JJ Text_NN1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   74 Graham , S. , Harris , K. , Mason , L. , Fink-Chorzempa , B. , Moran , S. , Saddler , B. ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   74 Graham_NP1 ,_Y S._ZZ ,_Y Harris_NP1 ,_Y K._NP1 ,_Y Mason_NP1 ,_Y L._ZZ ,_Y Fink-Chorzempa_NP1 ,_Y B._NP1 ,_Y Moran_NP1 ,_Y S._ZZ ,_Y Saddler_NP1 ,_Y B._NP1 (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   75 How do primary grade teachers teach handwriting ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   75 How_RRQ do_VD0 primary_JJ grade_NN1 teachers_NN2 teach_VV0 handwriting_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   76 A national survey .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   76 A_AT1_ZZ1 national_JJ survey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   77 Reading and Writing , 21(1/2) , 49-69 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   77 Reading_NP1_NN1 and_CC Writing_NN1_VVG ,_Y 21(1/2)_VV0_NN1_JJ ,_Y 49-69_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   78 Retrieved February 12 , M. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   78 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y M._NNU@_NN1 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   79 Five ways to practice cursive .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   79 Five_MC ways_NN2 to_II practice_NN1 cursive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   80 Instructor ( New York , N.Y. : 1999 ) , 117(3) , 47 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   80 Instructor_NN1 (_Y New_NP1 York_NP1 ,_Y N.Y._NP1 :_Y 1999_MC )_Y ,_Y 117(3)_FO ,_Y 47_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   81 Retrieved February 12 , 2009 , from Education Full Text database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   81 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II Education_NN1 Full_JJ Text_NN1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   82 Martinez , C. ( 2006 , November 4 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   82 Martinez_NP1 ,_Y C._NP1_ZZ1@ (_Y 2006_MC ,_Y November_NPM1 4_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   83 Cursive ... A fading art ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   83 Cursive_JJ_NP1@ ..._... A_AT1_ZZ1 fading_JJ@ art_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   84 Valley Morning Star ( Harlingen , TX ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   84 Valley_NN1_NP1@ Morning_NNT1 Star_NN1 (_Y Harlingen_NP1_NN1 ,_Y TX_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   85 Retrieved February 12 , 2009 , from Newspaper Source database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   85 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II Newspaper_NN1 Source_NN1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   86 Medwell , J. , Wray , D. ( 2007 , April 1 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   86 Medwell_VV0_NN1_NP1@ ,_Y J._NP1 ,_Y Wray_NP1_VV0_NN1 ,_Y D._NP1 (_Y 2007_MC ,_Y April_NPM1 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   87 Handwriting : What do we know and what do we need to know ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   87 Handwriting_NN1 :_Y What_DDQ do_VD0 we_PPIS2 know_VVI and_CC what_DDQ do_VDI we_PPIS2 need_VVI to_TO know_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   88 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   88 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   89 Literacy , 41(1) , 10-15 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   89 Literacy_NN1 ,_Y 41(1)_FO ,_Y 10-15_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   90 Retrieved February 12 , 2009 , from ERIC database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   90 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II ERIC_NP1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   91 Medwell , J. , Wray , D. ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   91 Medwell_VV0_NN1_NP1@ ,_Y J._NP1 ,_Y Wray_NP1_VV0_NN1 ,_Y D._NP1 (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   92 Handwriting ' A forgotten skill .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   92 Handwriting_NN1 '_GE A_ZZ1_AT1@ forgotten_JJ@ skill_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   93 Language and Education , 22(1) , 34-47 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   93 Language_NN1 and_CC Education_NN1 ,_Y 22(1)_FO ,_Y 34-47_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   94 Retrieved February 12 , 2009 , from ERIC database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   94 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II ERIC_NP1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   95 Negley , E. ( 2007 , April 7 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   95 Negley_NN1_NP1@ ,_Y E._NP1 (_Y 2007_MC ,_Y April_NPM1 7_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   96 Has cursive been : Youngsters still learn penmanship , but in the computer age , schools and society do little to encourage them to use it .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   96 Has_VHZ cursive_JJ been_VBN :_Y Youngsters_NN2 still_RR learn_VV0 penmanship_NN1 ,_Y but_CCB in_II the_AT computer_NN1 age_NN1 ,_Y schools_NN2 and_CC society_NN1 do_VD0 little_RR_JJ to_TO encourage_VVI them_PPHO2 to_TO use_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   97 Retrieved February 12 , 2009 , from Newspaper Source database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   97 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II Newspaper_NN1 Source_NN1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   98 Nix , M. ( 2008 , December 30 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   98 Nix_VV0_NN1_NP1@ ,_Y M._NNU@_NN1 (_Y 2008_MC ,_Y December_NPM1 30_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0   99 Some schools refuse to write off cursive .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0   99 Some_DD schools_NN2 refuse_VV0 to_TO write_VVI off_RP cursive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  100 The Sacramento Bee , p. 1B .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  100 The_AT Sacramento_NP1 Bee_NN1 ,_Y p._NNU_NN1 1B_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  101 Retrieved February 12 , 2009 , from http : **27;30221;TOOLONG story/1505448.html Rufo , D. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  101 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II http_NNU :_Y **27;30221;TOOLONG_VV0_JJ story/1505448.html_FU Rufo_NN1_NP1 ,_Y D._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  102 Is teaching cursive writing a waste of time ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  102 Is_VBZ teaching_VVG cursive_JJ writing_NN1_VVG a_AT1 waste_NN1 of_IO time_NNT1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  103 It 's a ' loopy ' use of class time .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  103 It_PPH1 's_VBZ a_AT1 '_GE loopy_JJ_NN1% '_GE use_NN1 of_IO class_NN1_JJ% time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  104 American Teacher , 88(6) , 4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  104 American_JJ Teacher_NN1 ,_Y 88(6)_FO ,_Y 4_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  105 Retrieved February 12 , 2009 , from Education Full Text database .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  105 Retrieved_VVN_JJ@_VVD February_NPM1 12_MC ,_Y 2009_MC ,_Y from_II Education_NN1 Full_JJ Text_NN1 database_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  106 Thornton , T. P. ( 1996 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  106 Thornton_NP1 ,_Y T._NP1 P._NP1 (_Y 1996_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  107 Handwriting in America : A Cultural History .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  107 Handwriting_NN1 in_II America_NP1 :_Y A_ZZ1_AT1@ Cultural_JJ History_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  108 New Haven , Connecticut : Yale University Press .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  108 New_NP1 Haven_NP1 ,_Y Connecticut_NP1 :_Y Yale_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  109 Troyer , N. ( 2005 , January 18 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  109 Troyer_NN1_NP1@ ,_Y N._NNU_NP1 (_Y 2005_MC ,_Y January_NPM1 18_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  110 Lost art of penmanship ; Cursive writing a casualty of the technological age .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  110 Lost_JJ@_VVN art_NN1 of_IO penmanship_NN1 ;_Y Cursive_NP1 writing_VVG a_AT1 casualty_NN1 of_IO the_AT technological_JJ age_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  111 The Washington Times , p .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  111 The_AT Washington_NP1 Times_NNT2 ,_Y p_ZZ1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  112 A02 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  112 A02_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  113 Retrieved January 22 , 2009 , from Questia Online Library .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  113 Retrieved_VVN_JJ@_VVD January_NPM1 22_MC ,_Y 2009_MC ,_Y from_II Questia_NP1 Online_JJ Library_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  114 Yackley , R.B. ( 2006 , November 15 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  114 Yackley_NN1_NP1@ ,_Y R.B._NP1 (_Y 2006_MC ,_Y November_NPM1 15_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  115 ' P ' is for penmanship .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  115 '_GE_"@ P_NP1@_NN1@_ZZ1 '_GE is_VBZ for_IF penmanship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  116 Daily Herald , p. 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  116 Daily_NP1_JJ Herald_NP1_NN1 ,_Y p._NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  A    0  117 Retrieved January 22 , 2009 , this article should be addressed to Dr. Vi Supon at vsupon@bloomu.edu.
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080402 COCA  B    0  117 Retrieved_VVN_JJ@_VVD January_NPM1 22_MC ,_Y 2009_MC ,_Y this_DD1 article_NN1 should_VM be_VBI addressed_VVN to_II Dr._NNB Vi_NP1 Supon_NP1_NN1 at_II vsupon@bloomu.edu._FO

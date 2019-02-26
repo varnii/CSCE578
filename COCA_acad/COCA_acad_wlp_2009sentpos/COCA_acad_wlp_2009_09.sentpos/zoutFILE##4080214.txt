@@ -1,0 +1,514 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    0 N1 : Amelia Earhart was the most famous female pilot of her day .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    0 N1_FO :_Y Amelia_NP1 Earhart_NP1 was_VBDZ the_AT most_RGT famous_JJ female_JJ_NN1 pilot_NN1 of_IO her_APPGE day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    1 She paved the way for women in aviation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    1 She_PPHS1 paved_VVD the_AT way_NN1 for_IF women_NN2 in_II aviation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    2 Born in Kansas on July 24 , 1897 , Amelia graduated from high school in Chicago and attended Columbia University in New York City .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    2 Born_VVN in_II Kansas_NP1 on_II July_NPM1 24_MC ,_Y 1897_MC ,_Y Amelia_NP1 graduated_VVD from_II high_JJ school_NN1 in_II Chicago_NP1 and_CC attended_VVD Columbia_NP1 University_NN1 in_II New_NP1 York_NP1 City_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    3 In 1918 , she worked in a military hospital .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    3 In_II 1918_MC ,_Y she_PPHS1 worked_VVD in_II_RP@ a_AT1 military_JJ hospital_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    4 N2 : Amelia learned how to fly in California in 1921 and took up exhibition aviation as a hobby .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    4 N2_FO :_Y Amelia_NP1 learned_VVD how_RRQ to_TO fly_VVI in_II California_NP1 in_II 1921_MC and_CC took_VVD up_RP exhibition_NN1 aviation_NN1 as_II_CSA a_AT1 hobby_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    5 SCENE ONE N3 : It 's 1928 in New York City .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    5 SCENE_NN1 ONE_MC1 N3_FO :_Y It_PPH1 's_VBZ_VHZ@ 1928_MC in_II New_NP1 York_NP1 City_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    6 Amelia Earhart walks into the office of the book publisher George Putnam .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    6 Amelia_NP1 Earhart_NP1 walks_VVZ_NN2 into_II the_AT office_NN1 of_IO the_AT book_NN1 publisher_NN1 George_NP1 Putnam_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    7 He is a powerful man , but Amelia is n't intimidated .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    7 He_PPHS1 is_VBZ a_AT1 powerful_JJ man_NN1 ,_Y but_CCB Amelia_NP1 is_VBZ n't_XX intimidated_VVN@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    8 GEORGE : I 'm told you want to fly across the Atlantic Ocean .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    8 GEORGE_NP1 :_Y I_PPIS1 'm_VBM told_VVN you_PPY want_VV0 to_TO fly_VVI across_II the_AT Atlantic_NP1 Ocean_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0    9 Why is that ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0    9 Why_RRQ is_VBZ that_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   10 AMELIA : Why does a man ride a horse ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   10 AMELIA_NP1 :_Y Why_RRQ does_VDZ a_AT1 man_NN1 ride_VVI a_AT1 horse_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   11 GEORGE : Three women have died trying to fly across the Atlantic .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   11 GEORGE_NP1 :_Y Three_MC women_NN2 have_VH0 died_VVN trying_VVG to_TO fly_VVI across_II the_AT Atlantic_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   12 Two other women barely escaped with their lives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   12 Two_MC other_JJ women_NN2 barely_RR escaped_VVN_VVD with_IW their_APPGE lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   13 If you do make it , you 'd be the first woman to do so , which is the real attraction for both : It 's always nice to know what the real attraction is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   13 If_CS you_PPY do_VD0 make_VVI it_PPH1 ,_Y you_PPY 'd_VM be_VBI the_AT first_MD woman_NN1 to_TO do_VDI so_RR ,_Y which_DDQ is_VBZ the_AT real_JJ attraction_NN1 for_IF both_DB2 :_Y It_PPH1 's_VBZ always_RR nice_JJ to_TO know_VVI what_DDQ the_AT real_JJ attraction_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   14 GEORGE ( chuckling ) : Amy Guest , our benefactor , will supply the plane .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   14 GEORGE_NP1 (_Y chuckling_VVG_NN1@ )_Y :_Y Amy_NP1 Guest_NP1@_NN1 ,_Y our_APPGE benefactor_NN1 ,_Y will_VM supply_VVI the_AT plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   15 There will be a contract for the story with The New York Times as well as a book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   15 There_EX will_VM be_VBI a_AT1 contract_NN1 for_IF the_AT story_NN1 with_IW The_AT New_NP1 York_NP1 Times_NNT2 as_RG well_RR as_II_CSA a_AT1 book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   16 All the money will go to Mrs. Guest .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   16 All_DB the_AT money_NN1 will_VM go_VVI to_II Mrs._NNB Guest_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   17 AMELIA : Except for the money that goes to you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   17 AMELIA_NP1 :_Y Except_II21 for_II22 the_AT money_NN1 that_CST_DD1 goes_VVZ to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   18 GEORGE : Well , yes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   18 GEORGE_NP1 :_Y Well_RR ,_Y yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   19 You will fly from Newfoundland ( an island off the Atlantic coast of Canada ) to Ireland .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   19 You_PPY will_VM fly_VVI from_II Newfoundland_NP1 (_Y an_AT1 island_NN1 off_II the_AT Atlantic_NP1 coast_NN1 of_IO Canada_NP1 )_Y to_II Ireland_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   20 The pilot will be Bill Stultz and the navigator will be Slim Gordon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   20 The_AT pilot_NN1 will_VM be_VBI Bill_NP1 Stultz_NP1 and_CC the_AT navigator_NN1 will_VM be_VBI Slim_JJ Gordon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   21 You will be a passenger .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   21 You_PPY will_VM be_VBI a_AT1 passenger_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   22 AMELIA : A passenger ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   22 AMELIA_NP1 :_Y A_AT1@_ZZ1 passenger_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   23 !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   23 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   24 GEORGE : The hook is that we 're going to make you the commander .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   24 GEORGE_NP1 :_Y The_AT hook_NN1 is_VBZ that_CST we_PPIS2 're_VBR going_VVGK to_TO make_VVI you_PPY the_AT commander_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   25 The pilot will sign a contract that says he is under your direction and control .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   25 The_AT pilot_NN1 will_VM sign_VVI a_AT1 contract_NN1 that_CST_DD1 says_VVZ he_PPHS1 is_VBZ under_II your_APPGE direction_NN1 and_CC control_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   26 It will be your flight .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   26 It_PPH1 will_VM be_VBI your_APPGE flight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   27 AMELIA : My fraud , you mean .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   27 AMELIA_NP1 :_Y My_APPGE fraud_NN1 ,_Y you_PPY mean_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   28 GEORGE : A very distasteful word in book publishing , Miss Earhart !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   28 GEORGE_NP1 :_Y A_AT1@ very_RG distasteful_JJ word_NN1 in_II book_NN1 publishing_NN1 ,_Y Miss_NNB Earhart_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   29 AMELIA : My dream is to fly across the Atlantic , but not like this , you 'll be a star .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   29 AMELIA_NP1 :_Y My_APPGE dream_NN1 is_VBZ to_TO fly_VVI across_II the_AT Atlantic_NP1 ,_Y but_CCB not_XX like_II this_DD1 ,_Y you_PPY 'll_VM be_VBI a_AT1 star_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   30 N4 : Amelia decides to take the offer , even though she 'd rather be the one flying the plane .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   30 N4_FO :_Y Amelia_NP1 decides_VVZ to_TO take_VVI the_AT offer_NN1 ,_Y even_CS21 though_CS22 she_PPHS1 'd_VM rather_RR be_VBI the_AT one_PN1 flying_VVG the_AT plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   31 SCENE TWO N1 : Amelia , Bill , and Slim climb into their seaplane , named Friendship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   31 SCENE_NN1 TWO_MC N1_FO :_Y Amelia_NP1 ,_Y Bill_NP1_NN1 ,_Y and_CC Slim_JJ climb_NN1 into_II their_APPGE seaplane_NN1 ,_Y named_VVD_JJ@_VVN Friendship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   32 AMELIA : Read tomorrow 's papers , boys .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   32 AMELIA_NP1 :_Y Read_VV0 tomorrow_RT 's_GE papers_NN2 ,_Y boys_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   33 We 'll all be in them !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   33 We_PPIS2 'll_VM all_DB_RR@ be_VBI in_II them_PPHO2 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   34 N2 : The seaplane engine fires up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   34 N2_FO :_Y The_AT seaplane_NN1 engine_NN1 fires_VVZ@_NN2 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   35 As they lurch forward , sea spray flies past the windows like shrapnel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   35 As_CSA they_PPHS2 lurch_VV0 forward_RL ,_Y sea_NN1 spray_NN1 flies_VVZ_NN2 past_II the_AT windows_NN2 like_II shrapnel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   36 Bill pulls the throttle , and the seaplane lifts , struggles , and soars free .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   36 Bill_NP1_NN1 pulls_VVZ the_AT throttle_NN1 ,_Y and_CC the_AT seaplane_NN1 lifts_NN2_VVZ ,_Y struggles_NN2_VVZ ,_Y and_CC soars_VVZ free_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   37 AMELIA : We 're up !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   37 AMELIA_NP1 :_Y We_PPIS2 're_VBR up_RP !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   38 Good work !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   38 Good_JJ work_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   39 BILL : Well done , commander !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   39 BILL_NP1 :_Y Well_RR done_VDN ,_Y commander_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   40 N3 : A few hours later , Bill starts banging the radio .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   40 N3_FO :_Y A_AT1 few_DA2 hours_NNT2 later_RRR ,_Y Bill_NP1_NN1 starts_VVZ banging_VVG the_AT radio_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   41 It has stopped working .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   41 It_PPH1 has_VHZ stopped_VVN working_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   42 N4 : Suddenly , the plane drops 50 feet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   42 N4_FO :_Y Suddenly_RR ,_Y the_AT plane_NN1 drops_VVZ_NN2 50_MC feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   43 Amelia slams against the ceiling , then crashes to the floor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   43 Amelia_NP1 slams_VVZ against_II the_AT ceiling_NN1 ,_Y then_RT crashes_VVZ to_II the_AT floor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   44 Slim gets up to help her , but he stumbles against the hatch , which pops open .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   44 Slim_JJ_VV0@ gets_VVZ up_RP to_TO help_VVI her_PPHO1 ,_Y but_CCB he_PPHS1 stumbles_VVZ against_II the_AT hatch_NN1 ,_Y which_DDQ pops_VVZ open_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   45 AMELIA : Hang on , Slim !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   45 AMELIA_NP1 :_Y Hang_VV0 on_RP ,_Y Slim_JJ_VV0@ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   46 N1 : Slim is almost sucked out of the plane : Amelia pulls him back into the plane .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   46 N1_FO :_Y Slim_JJ_VV0@ is_VBZ almost_RR sucked_VVN_VVD out_II21 of_II22 the_AT plane_NN1 :_Y Amelia_NP1 pulls_VVZ him_PPHO1 back_RP into_II the_AT plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   47 She tries to get the hatch closed , but her fingers slip and she starts to fly out in the blasting wind .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   47 She_PPHS1 tries_VVZ to_TO get_VVI the_AT hatch_NN1 closed_VVN ,_Y but_CCB her_APPGE fingers_NN2 slip_VV0_NN1 and_CC she_PPHS1 starts_VVZ to_TO fly_VVI out_RP in_II the_AT blasting_JJ@ wind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   48 N3 : For an awful four seconds , it seems as if she 's not coming back , until Slim gets his arms fully around her waist and lunges backward .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   48 N3_FO :_Y For_IF an_AT1 awful_JJ_RG% four_MC seconds_NNT2 ,_Y it_PPH1 seems_VVZ as_CS21 if_CS22 she_PPHS1 's_VBZ_VHZ@ not_XX coming_VVG back_RP ,_Y until_CS Slim_JJ gets_VVZ his_APPGE arms_NN2 fully_RR around_II_RP her_APPGE waist_NN1 and_CC lunges_VVZ backward_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   49 The hatch slams shut .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   49 The_AT hatch_NN1 slams_VVZ shut_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   50 They are safe -- but barely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   50 They_PPHS2 are_VBR safe_JJ --_NN1_JJ but_CCB barely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   51 SLIM : We 've been flying for 19 hours .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   51 SLIM_VV0@_JJ :_Y We_PPIS2 've_VH0 been_VBN flying_VVG for_IF 19_MC hours_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   52 AMELIA : How far to land ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   52 AMELIA_NP1 :_Y How_RGQ@_RRQ far_RR_JJ to_TO land_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   53 BILL : With the radio out , there 's no way to compute wind speed and drift in the clouds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   53 BILL_NP1 :_Y With_IW the_AT radio_NN1 out_RP ,_Y there_EX 's_VBZ no_AT way_NN1 to_TO compute_VVI wind_NN1 speed_NN1 and_CC drift_VVI in_II the_AT clouds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   54 Who knows where Ireland is !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   54 Who_PNQS knows_VVZ where_RRQ Ireland_NP1 is_VBZ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   55 SLIM : We have an hour 's worth of gasoline left .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   55 SLIM_VV0@_JJ :_Y We_PPIS2 have_VH0 an_AT1 hour_NNT1 's_GE worth_NN1@ of_IO gasoline_NN1 left_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   56 BILL : If we land on water , we might have a rescue .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   56 BILL_NP1 :_Y If_CS we_PPIS2 land_VV0@ on_II_RP@ water_NN1 ,_Y we_PPIS2 might_VM have_VHI a_AT1 rescue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   57 AMELIA : Failure is n't an option .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   57 AMELIA_NP1 :_Y Failure_NN1 is_VBZ n't_XX an_AT1 option_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   58 SLIM ( pointing ) : Oh !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   58 SLIM_JJ_VV0@ (_Y pointing_VVG )_Y :_Y Oh_UH !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   59 Oh !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   59 Oh_UH !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   60 Look !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   60 Look_VV0 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   61 Land !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   61 Land_VV0@_NN1_NP1@ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   62 N4 : Bill takes the plane down , and they land off the coast .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   62 N4_FO :_Y Bill_NP1_NN1 takes_VVZ the_AT plane_NN1 down_RP ,_Y and_CC they_PPHS2 land_VV0@ off_RP_II the_AT coast_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   63 A crowd gathers on the shore and begins to applaud : A sheriff rows Bill , Slim , and Amelia to land , as the crowd sings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   63 A_AT1 crowd_NN1 gathers_VVZ on_II the_AT shore_NN1 and_CC begins_VVZ to_TO applaud_VVI :_Y A_AT1@_ZZ1 sheriff_NN1 rows_VVZ@_NN2 Bill_NP1_NN1 ,_Y Slim_JJ_VV0@ ,_Y and_CC Amelia_NP1 to_TO land_VVI ,_Y as_CSA_II the_AT crowd_NN1 sings_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   64 AMELIA : Is it an Irish tradition to greet newcomers with a song ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   64 AMELIA_NP1 :_Y Is_VBZ it_PPH1 an_AT1 Irish_JJ tradition_NN1 to_TO greet_VVI newcomers_NN2 with_IW a_AT1 song_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   65 SHERIFF : I could n't say .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   65 SHERIFF_NN1 :_Y I_PPIS1 could_VM n't_XX say_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   66 This is Wales !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   66 This_DD1 is_VBZ Wales_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   67 N2 : After refueling , they fly to Ireland , where they hold a press conference .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   67 N2_FO :_Y After_II refueling_VVG ,_Y they_PPHS2 fly_VV0 to_II Ireland_NP1 ,_Y where_CS_RRQ they_PPHS2 hold_VV0 a_AT1 press_NN1 conference_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   68 REPORTER 1 : Are you proud to be the first woman to fly across the Atlantic Ocean ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   68 REPORTER_NN1 1_MC1 :_Y Are_VBR you_PPY proud_JJ to_TO be_VBI the_AT first_MD woman_NN1 to_TO fly_VVI across_II the_AT Atlantic_NP1 Ocean_NNL1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   69 AMELIA : I was just a passenger on this journey .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   69 AMELIA_NP1 :_Y I_PPIS1 was_VBDZ just_RR a_AT1 passenger_NN1 on_II this_DD1 journey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   70 REPORTER 2 : But you can fly , ca n't you ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   70 REPORTER_NN1 2_MC :_Y But_CCB you_PPY can_VM fly_VVI ,_Y ca_VM n't_XX you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   71 AMELIA : This flight was solely due to Bill and Slim .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   71 AMELIA_NP1 :_Y This_DD1 flight_NN1 was_VBDZ solely_RR due_II21 to_II22 Bill_NP1_NN1 and_CC Slim_JJ_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   72 Women should know , however , that I have had 500 hours solo flying and certainly , one day a woman will do this .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   72 Women_NN2 should_VM know_VVI ,_Y however_RR ,_Y that_CST I_PPIS1 have_VH0 had_VHN 500_MC hours_NNT2 solo_RR_JJ@_NN1 flying_JJ_VVG_NN1 and_CC certainly_RR ,_Y one_MC1 day_NNT1 a_AT1 woman_NN1 will_VM do_VDI this_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   73 REPORTER 3 : What are your plans ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   73 REPORTER_NN1 3_MC :_Y What_DDQ are_VBR your_APPGE plans_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   74 AMELIA : I 'm a social worker who flies for sport .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   74 AMELIA_NP1 :_Y I_PPIS1 'm_VBM a_AT1 social_JJ worker_NN1 who_PNQS flies_VVZ for_IF sport_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   75 When all this fun is over , I 'll go back to work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   75 When_CS all_DB this_DD1 fun_NN1 is_VBZ over_RP ,_Y I_PPIS1 'll_VM go_VVI back_RP to_II_TO@ work_NN1_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   76 N3 : The publicity of Amelia 's Atlantic flight helps her galvanize support for female aviators .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   76 N3_FO :_Y The_AT publicity_NN1 of_IO Amelia_NP1 's_GE Atlantic_NP1 flight_NN1 helps_VVZ her_PPHO1 galvanize_VVI support_NN1_VV0 for_IF female_JJ_NN1 aviators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   77 She holds promote female pilots , called the 99s .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   77 She_PPHS1 holds_VVZ promote_VVI female_JJ_NN1 pilots_NN2 ,_Y called_VVN_VVD@ the_AT 99s_MC2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   78 SCENE THREE N4 : One night , Amelia and George have dinner .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   78 SCENE_NN1 THREE_MC N4_FO :_Y One_MC1 night_NNT1 ,_Y Amelia_NP1 and_CC George_NP1 have_VH0 dinner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   79 They 've become close .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   79 They_PPHS2 've_VH0 become_VVN@ close_JJ_RR@_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   80 GEORGE : Marry me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   80 GEORGE_NP1 :_Y Marry_VV0 me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   81 AMELIA : What ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   81 AMELIA_NP1 :_Y What_DDQ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   82 !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   82 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   83 GEORGE : Why not ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   83 GEORGE_NP1 :_Y Why_RRQ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   84 AMELIA : When I was a little girl , my father gave me a globe for my seventh birthday .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   84 AMELIA_NP1 :_Y When_RRQ_CS I_PPIS1 was_VBDZ a_AT1 little_JJ girl_NN1 ,_Y my_APPGE father_NN1 gave_VVD me_PPIO1 a_AT1 globe_NN1 for_IF my_APPGE seventh_MD birthday_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   85 I spent hours spinning it slowly , reading the names of all those faraway places-Morocco , Spain -- dreaming that someday I would go there , like a wayfarer , a traveler , a vagabond .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   85 I_PPIS1 spent_VVD hours_NNT2 spinning_VVG it_PPH1 slowly_RR ,_Y reading_VVG the_AT names_NN2 of_IO all_DB those_DD2 faraway_NN1 places-Morocco_NP1_JJ ,_Y Spain_NP1 --_NN1_JJ dreaming_VVG_NN1@ that_CST_DD1 someday_RT I_PPIS1 would_VM go_VVI there_RL ,_Y like_II a_AT1 wayfarer_NN1 ,_Y a_AT1 traveler_NN1 ,_Y a_AT1 vagabond_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   86 I want to be free , George , to be a vagabond of the air .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   86 I_PPIS1 want_VV0 to_TO be_VBI free_JJ ,_Y George_NP1 ,_Y to_TO be_VBI a_AT1 vagabond_NN1 of_IO the_AT air_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   87 GEORGE : You will be a vagabond of the air .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   87 GEORGE_NP1 :_Y You_PPY will_VM be_VBI a_AT1 vagabond_NN1 of_IO the_AT air_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   88 I promise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   88 I_PPIS1 promise_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   89 You will be the star , and I will be a particle of dust in your constellation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   89 You_PPY will_VM be_VBI the_AT star_NN1 ,_Y and_CC I_PPIS1 will_VM be_VBI a_AT1 particle_NN1 of_IO dust_NN1 in_II your_APPGE constellation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   90 AMELIA : I want to fly across the Atlantic again , but this time by myself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   90 AMELIA_NP1 :_Y I_PPIS1 want_VV0 to_TO fly_VVI across_II the_AT Atlantic_NP1 again_RT ,_Y but_CCB this_DD1 time_NNT1 by_II myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   91 GEORGE : Fourteen people died trying .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   91 GEORGE_NP1 :_Y Fourteen_MC people_NN died_VVD trying_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   92 What if you do n't make it ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   92 What_DDQ if_CS you_PPY do_VD0 n't_XX make_VVI it_PPH1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   93 AMELIA : I 'd rather face a watery grave than go on living as the wedding , she sets off in a Lockheed Vega plane from New Jersey in 1932 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   93 AMELIA_NP1 :_Y I_PPIS1 'd_VM rather_RR face_VVI a_AT1 watery_JJ grave_NN1_JJ than_CSN go_VV0 on_RP living_VVG_NN1 as_II the_AT wedding_NN1 ,_Y she_PPHS1 sets_VVZ off_RP in_II a_AT1 Lockheed_NP1 Vega_NP1 plane_NN1 from_II New_NP1 Jersey_NP1 in_II 1932_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   94 As she flies across the ocean , the darkness outside her windshield extends forever , full of brilliant stars , moonlight , and the cloud of the Milky Way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   94 As_CSA she_PPHS1 flies_VVZ across_II the_AT ocean_NN1 ,_Y the_AT darkness_NN1 outside_II her_APPGE windshield_NN1 extends_VVZ forever_RT ,_Y full_JJ of_IO brilliant_JJ stars_NN2 ,_Y moonlight_NN1_VV0@ ,_Y and_CC the_AT cloud_NN1 of_IO the_AT Milky_JJ Way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   95 She 's at home in the sky .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   95 She_PPHS1 's_VBZ at_II home_NN1 in_II the_AT sky_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   96 N2 : When Amelia lands in Londonderry , Ireland , she becomes the second human to fly across the Atlantic alone , and the first woman .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   96 N2_FO :_Y When_RRQ_CS Amelia_NP1 lands_NN2 in_II Londonderry_NP1 ,_Y Ireland_NP1 ,_Y she_PPHS1 becomes_VVZ the_AT second_MD human_NN1_JJ to_TO fly_VVI across_II the_AT Atlantic_NP1 alone_RR_JJ ,_Y and_CC the_AT first_MD woman_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   97 SCENE FOUR N3 : Amelia has become a celebrity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   97 SCENE_NN1 FOUR_MC N3_FO :_Y Amelia_NP1 has_VHZ become_VVN@ a_AT1 celebrity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   98 To pay for her flights , she endorses many products , like cameras and apparel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   98 To_TO pay_VVI for_IF her_APPGE flights_NN2 ,_Y she_PPHS1 endorses_VVZ many_DA2 products_NN2 ,_Y like_II_JJ@ cameras_NN2 and_CC apparel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0   99 She gives college lectures and goes on publicity tours .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0   99 She_PPHS1 gives_VVZ college_NN1 lectures_NN2 and_CC goes_VVZ on_II publicity_NN1 tours_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  100 N4 : After an autograph signing , Amelia faces a crowd of people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  100 N4_FO :_Y After_CS_II an_AT1 autograph_NN1 signing_NN1_VVG ,_Y Amelia_NP1 faces_VVZ a_AT1 crowd_NN1 of_IO people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  101 She is with her friend Gene -- a military flight instructor -- and Gene 's 8-year-old son , Gore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  101 She_PPHS1 is_VBZ with_IW her_APPGE friend_NN1 Gene_NN1_NP1 --_NN1 a_AT1 military_JJ flight_NN1 instructor_NN1 --_NN1 and_CC Gene_NP1_NN1 's_GE 8-year-old_JJ son_NN1 ,_Y Gore_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  102 FAN 1 : How do you keep your hair so curly ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  102 FAN_VV0 1_MC1 :_Y How_RRQ do_VD0 you_PPY keep_VVI your_APPGE hair_NN1 so_RG_RR curly_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  103 FAN 2 : Are you going to write another book ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  103 FAN_VV0_NN1 2_MC :_Y Are_VBR you_PPY going_VVGK to_TO write_VVI another_DD1 book_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  104 You are such an inspiration to girls everywhere !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  104 You_PPY are_VBR such_DA an_AT1 inspiration_NN1 to_II girls_NN2 everywhere_RL !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  105 FAN 3 : What kind of face : Do I have to wade through all these people ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  105 FAN_VV0_NN1 3_MC :_Y What_DDQ kind_NN1 of_IO face_NN1 :_Y Do_VD0 I_PPIS1 have_VHI to_TO wade_VVI through_II_RP@ all_DB these_DD2 people_NN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  106 GENE : C'm on Gore .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  106 GENE_NP1@_NN1 :_Y C'm_VV0 on_RP Gore_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  107 Let 's you and I lead Miss Earhart to safety .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  107 Let_VM21 's_VM22 you_PPY and_CC I_PPIS1 lead_VV0_VVD@ Miss_NNB Earhart_NP1 to_II safety_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  108 N1 : They push through the crowd and into a car .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  108 N1_FO :_Y They_PPHS2 push_VV0 through_II_RP@ the_AT crowd_NN1 and_CC into_II a_AT1 car_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  109 AMELIA : I wonder if anyone ever asked Charles Lindbergh what kind of face cream he uses .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  109 AMELIA_NP1 :_Y I_PPIS1 wonder_VV0 if_CSW@_CS anyone_PN1 ever_RR asked_VVD Charles_NP1 Lindbergh_NP1_NN1_VV0 what_DDQ kind_NN1 of_IO face_NN1 cream_NN1 he_PPHS1 uses_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  110 GORE : Who is Charles Lindbergh ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  110 GORE_NP1 :_Y Who_PNQS is_VBZ Charles_NP1 Lindbergh_NP1_NN1_VV0 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  111 GENE : Charles Lindbergh was the first person to fly across the Atlantic .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  111 GENE_NP1@_NN1 :_Y Charles_NP1 Lindbergh_NP1 was_VBDZ the_AT first_MD person_NN1 to_TO fly_VVI across_II the_AT Atlantic_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  112 AMELIA : It all seems silly , given what is happening in the world , with the Depression and so many people going hungry .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  112 AMELIA_NP1 :_Y It_PPH1 all_DB_RR@ seems_VVZ silly_JJ ,_Y given_VVN what_DDQ is_VBZ happening_VVG in_II the_AT world_NN1 ,_Y with_IW the_AT Depression_NN1 and_CC so_RG many_DA2 people_NN going_VVG hungry_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  113 GENE : Just hold on to yourself , and you 'll be fine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  113 GENE_NP1@_NN1 :_Y Just_RR hold_VV0 on_RP_II21 to_II_II22 yourself_PPX1 ,_Y and_CC you_PPY 'll_VM be_VBI fine_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  114 SCENE FIVE N2 : Amelia and the First Lady , Eleanor Roosevelt , sit at a table in a fancy banquet hall .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  114 SCENE_NN1 FIVE_MC N2_FO :_Y Amelia_NP1 and_CC the_AT First_MD Lady_NN1 ,_Y Eleanor_NP1 Roosevelt_NP1 ,_Y sit_VV0 at_II a_AT1 table_NN1 in_II a_AT1 fancy_JJ_NN1 banquet_NN1 hall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  115 Eleanor is a champion of women 's rights .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  115 Eleanor_NP1 is_VBZ a_AT1 champion_NN1 of_IO women_NN2 's_GE rights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  116 They are discussing the formation of a federal aviation department .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  116 They_PPHS2 are_VBR discussing_VVG the_AT formation_NN1 of_IO a_AT1 federal_JJ aviation_NN1 department_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  117 ELEANOR : I asked my husband about starting an Aeronautics Branch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  117 ELEANOR_NP1 :_Y I_PPIS1 asked_VVD my_APPGE husband_NN1 about_II starting_VVG an_AT1 Aeronautics_NN1 Branch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  118 It might be under the Bureau of Commerce .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  118 It_PPH1 might_VM be_VBI under_II the_AT Bureau_NN1 of_IO Commerce_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  119 AMELIA : I think the structure may be less : Do n't you mean man or woman ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  119 AMELIA_NP1 :_Y I_PPIS1 think_VV0 the_AT structure_NN1 may_VM be_VBI less_RGR :_Y Do_VD0 n't_XX you_PPY mean_VVI man_NN1 or_CC woman_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  120 AMELIA : This might be one of those rare occasions when the most accomplished candidate turns out to be male .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  120 AMELIA_NP1 :_Y This_DD1 might_VM be_VBI one_MC1 of_IO those_DD2 rare_JJ occasions_NN2 when_RRQ_CS the_AT most_RGT accomplished_JJ candidate_NN1 turns_VVZ out_RP to_TO be_VBI male_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  121 I might suggest Gene Vidal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  121 I_PPIS1 might_VM suggest_VVI Gene_NP1 Vidal_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  122 Hey , how do you feel about flying at night ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  122 Hey_UH ,_Y how_RRQ do_VD0 you_PPY feel_VVI about_II_RP@ flying_VVG_NN1 at_II night_NNT1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  123 N3 : At a nearby airfield , Amelia and Eleanor climb into a cockpit and take off -- still in their evening gowns .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  123 N3_FO :_Y At_II a_AT1 nearby_JJ airfield_NN1 ,_Y Amelia_NP1 and_CC Eleanor_NP1 climb_NN1_VV0 into_II a_AT1 cockpit_NN1 and_CC take_VV0 off_RP_II --_NN1_JJ still_RR in_II their_APPGE evening_NNT1 gowns_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  124 AMELIA : Put your hands on the wheel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  124 AMELIA_NP1 :_Y Put_VV0 your_APPGE hands_NN2 on_II the_AT wheel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  125 ELEANOR : Are you serious ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  125 ELEANOR_NP1 :_Y Are_VBR you_PPY serious_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  126 !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  126 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  127 N4 : Eleanor takes the controls .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  127 N4_FO :_Y Eleanor_NP1 takes_VVZ the_AT controls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  128 The plane purrs along through the night air .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  128 The_AT plane_NN1 purrs_VVZ along_RP through_II the_AT night_NNT1 air_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  129 Eleanor 's eyes show the thrill .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  129 Eleanor_NP1 's_GE eyes_NN2 show_VV0 the_AT thrill_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  130 She 's awestruck .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  130 She_PPHS1 's_VBZ awestruck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  131 SCENE SIX N1 : The President appoints Gene head of the new Aeronautics Branch .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  131 SCENE_NN1 SIX_MC N1_FO :_Y The_AT President_NN1 appoints_VVZ Gene_NN1_NP1 head_NN1 of_IO the_AT new_JJ Aeronautics_NN1 Branch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  132 Its goal is to have commercial flights that connect cities on the East Coast .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  132 Its_Z' goal_NN1 is_VBZ to_TO have_VHI commercial_JJ flights_NN2 that_CST connect_VV0 cities_NN2 on_II the_AT East_ND1 Coast_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  133 Amelia is hired as a consultant .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  133 Amelia_NP1 is_VBZ hired_VVN as_II a_AT1 consultant_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  134 Gene and Amelia have a meeting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  134 Gene_NN1_NP1@ and_CC Amelia_NP1 have_VH0 a_AT1 meeting_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  135 GENE : You could use some good press , Amelia .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  135 GENE_NP1@_NN1 :_Y You_PPY could_VM use_VVI some_DD good_JJ press_NN1 ,_Y Amelia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  136 AMELIA : What do you mean ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  136 AMELIA_NP1 :_Y What_DDQ do_VD0 you_PPY mean_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  137 GENE : Do n't you read the papers ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  137 GENE_NP1@_NN1 :_Y Do_VD0 n't_XX you_PPY read_VVI the_AT papers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  138 You 're being discredited .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  138 You_PPY 're_VBR being_VBG discredited_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  139 They than publicity -- meaning money .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  139 They_PPHS2 than_II22 publicity_NN1 --_NN1_JJ meaning_NN1_VVG money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  140 They also harp on all the products you endorse .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  140 They_PPHS2 also_RR harp_NN1 on_II all_DB the_AT products_NN2 you_PPY endorse_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  141 AMELIA : What 's wrong with earning an income ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  141 AMELIA_NP1 :_Y What_DDQ 's_VBZ wrong_JJ_RR@ with_IW earning_VVG an_AT1 income_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  142 Men are admired for succeeding , but women are just considered selfish and pushy ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  142 Men_NN2 are_VBR admired_VVN for_IF succeeding_VVG_JJ ,_Y but_CCB women_NN2 are_VBR just_RR considered_VVN_VVD selfish_JJ and_CC pushy_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  143 GENE : People need to see you as America 's Sweetheart of the Skies .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  143 GENE_NP1@_NN1 :_Y People_NN need_VV0 to_TO see_VVI you_PPY as_CSA_II@ America_NP1 's_GE Sweetheart_NN1 of_IO the_AT Skies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  144 AMELIA : Whatever I do , I do it so I can fly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  144 AMELIA_NP1 :_Y Whatever_DDQV I_PPIS1 do_VD0 ,_Y I_PPIS1 do_VD0 it_PPH1 so_RR_CS@ I_PPIS1 can_VM fly_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  145 I want to fly that beautiful bird as far as it will take me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  145 I_PPIS1 want_VV0 to_TO fly_VVI that_DD1_CST beautiful_JJ bird_NN1 as_CS31 far_CS32 as_CS33 it_PPH1 will_VM take_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  146 I 'm going to fly around the world , Gene .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  146 I_PPIS1 'm_VBM going_VVGK to_TO fly_VVI around_II_RP the_AT world_NN1 ,_Y Gene_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  147 GENE : It ca n't be done .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  147 GENE_NP1@_NN1 :_Y It_PPH1 ca_VM n't_XX be_VBI done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  148 AMELIA : Well , I 'm going to try .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  148 AMELIA_NP1 :_Y Well_RR ,_Y I_PPIS1 'm_VBM going_VVGK to_TO try_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  149 SCENE SEVEN N2 : George and Amelia walk down Fifth Avenue in New York City .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  149 SCENE_NN1 SEVEN_MC N2_FO :_Y George_NP1 and_CC Amelia_NP1 walk_VV0_NN1 down_RP_II@ Fifth_NP1 Avenue_NNL1 in_II New_NP1 York_NP1 City_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  150 GEORGE ( teasing ) : If you 're really serious about this flying-around-the-world nonsense , it might be handy to have a plane .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  150 GEORGE_NP1 (_Y teasing_NN1_VVG_JJ )_Y :_Y If_CS you_PPY 're_VBR really_RR serious_JJ about_II this_DD1 flying-around-the-world_JJ_NN1 nonsense_NN1 ,_Y it_PPH1 might_VM be_VBI handy_JJ to_TO have_VHI a_AT1 plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  151 AMELIA : I need an Electra .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  151 AMELIA_NP1 :_Y I_PPIS1 need_VV0 an_AT1 Electra_NN1@_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  152 GEORGE : That 's $36,000 , plus another $36,000 to get it modified and prepped .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  152 GEORGE_NP1 :_Y That_DD1 's_VBZ $36,000_NNU ,_Y plus_II another_DD1 $36,000_NNU to_TO get_VVI it_PPH1 modified_VVN and_CC prepped_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  153 AMELIA : Might as well be a billion .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  153 AMELIA_NP1 :_Y Might_VM as_RR21 well_RR22 be_VBI a_AT1 billion_M1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  154 GEORGE : Well , it an Amelia Earhart Fund for Aeronautical Research .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  154 GEORGE_NP1 :_Y Well_RR ,_Y it_PPH1 an_AT1 Amelia_NP1 Earhart_NP1 Fund_NN1 for_IF Aeronautical_JJ_NP1 Research_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  155 I suggested a budget amount of $80,000 for a suitable flying laboratory .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  155 I_PPIS1 suggested_VVD a_AT1 budget_NN1 amount_NN1 of_IO $80,000_NNU for_IF a_AT1 suitable_JJ flying_JJ_NN1 laboratory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  156 AMELIA ( shocked ) : The Electra ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  156 AMELIA_NP1 (_Y shocked_JJ )_Y :_Y The_AT Electra_NP1_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  157 GEORGE : It 's yours .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  157 GEORGE_NP1 :_Y It_PPH1 's_VBZ yours_PPGE ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  158 N3 : Amelia throws her arms around George 's neck .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  158 N3_FO :_Y Amelia_NP1 throws_VVZ her_APPGE arms_NN2 around_II George_NP1 's_GE neck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  159 He picks her up and swings her around .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  159 He_PPHS1 picks_VVZ her_PPHO1 up_RP and_CC swings_VVZ her_PPHO1 around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  160 It 's a dream come true .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  160 It_PPH1 's_VBZ a_AT1 dream_NN1 come_VV0_VVN@ true_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  161 N4 : George , Gene , and Amelia sit in an airplane hangar with the Electra .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  161 N4_FO :_Y George_NP1 ,_Y Gene_NP1_NN1 ,_Y and_CC Amelia_NP1 sit_VV0 in_II_RP@ an_AT1 airplane_NN1 hangar_NN1 with_IW the_AT Electra_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  162 Amelia is smudged with grease from getting the plane ready .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  162 Amelia_NP1 is_VBZ smudged_VVN with_IW grease_NN1 from_II getting_VVG the_AT plane_NN1 ready_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  163 GENE ( to George ) : No one 's tried the whole 27,000 miles around the Earth .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  163 GENE_NP1@_NN1 (_Y to_II George_NP1 )_Y :_Y No_PN121 one_PN122 's_VBZ_VHZ@_GE tried_VVN@_VVD the_AT whole_NN1_JJ 27,000_MC miles_NNU2 around_II the_AT Earth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  164 GEORGE : Ferdinand Magellan did -- 400 years ago .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  164 GEORGE_NP1 :_Y Ferdinand_NP1 Magellan_NP1 did_VDD --_NN1_JJ 400_MC years_NNT2 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  165 GENE : The closest land west of Hawaii is beyond the range of the Electra .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  165 GENE_NP1@_NN1 :_Y The_AT closest_JJT land_NN1_VV0@ west_ND1 of_IO Hawaii_NP1 is_VBZ beyond_II the_AT range_NN1 of_IO the_AT Electra_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  166 GEORGE : Amelia has taken bigger risks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  166 GEORGE_NP1 :_Y Amelia_NP1 has_VHZ taken_VVN bigger_JJR risks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  167 GENE : I 'm aware of that .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  167 GENE_NP1@_NN1 :_Y I_PPIS1 'm_VBM aware_JJ of_IO that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  168 Do n't be so proud of it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  168 Do_VD0 n't_XX be_VBI so_RG proud_JJ of_IO it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  169 AMELIA : Uh , fellas ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  169 AMELIA_NP1 :_Y Uh_UH ,_Y fellas_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  170 I understand the danger .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  170 I_PPIS1 understand_VV0 the_AT danger_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  171 I 've studied the route .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  171 I_PPIS1 've_VH0 studied_VVN the_AT route_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  172 GENE ( pulling out a map ) : Howland Island is halfway between Honolulu and New hardly anyone knows it even exists .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  172 GENE_NP1@_NN1 (_Y pulling_VVG out_RP a_AT1 map_NN1 )_Y :_Y Howland_NP1 Island_NNL1 is_VBZ halfway_RR_JJ between_II Honolulu_NP1 and_CC New_NP1 hardly_RR anyone_PN1 knows_VVZ it_PPH1 even_RR exists_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  173 It 's like a grain of sand in a thousand miles of nowhere .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  173 It_PPH1 's_VBZ like_II a_AT1 grain_NN1 of_IO sand_NN1 in_II a_AT1 thousand_M1 miles_NNU2 of_IO nowhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  174 If you miss this island , you 'll be out of fuel with 2,000 miles to go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  174 If_CS you_PPY miss_VV0 this_DD1 island_NN1 ,_Y you_PPY 'll_VM be_VBI out_II21 of_II22 fuel_NN1 with_IW 2,000_MC miles_NNU2 to_TO go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  175 AMELIA : Good thing I 'll have Fred Noonan , the best navigator around .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  175 AMELIA_NP1 :_Y Good_JJ thing_NN1 I_PPIS1 'll_VM have_VHI Fred_NP1 Noonan_NP1 ,_Y the_AT best_JJT navigator_NN1 around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  176 SCENE EIGHT N1 : It 's June 1 , 1937 , in Miami , Florida .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  176 SCENE_NN1 EIGHT_MC N1_FO :_Y It_PPH1 's_VBZ June_NPM1 1_MC1 ,_Y 1937_MC ,_Y in_II Miami_NP1 ,_Y Florida_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  177 Amelia and Fred have just completed the first and easiest leg of their journey .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  177 Amelia_NP1 and_CC Fred_NP1 have_VH0 just_RR completed_VVN the_AT first_MD and_CC easiest_JJT leg_NN1 of_IO their_APPGE journey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  178 They talk to reporters about their attempt to travel around the globe by plane -- something no one has ever done .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  178 They_PPHS2 talk_VV0 to_II reporters_NN2 about_II their_APPGE attempt_NN1 to_TO travel_VVI around_II_RP the_AT globe_NN1 by_II plane_NN1 --_ZZ something_PN1 no_PN121 one_PN122 has_VHZ ever_RR done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  179 REPORTER 1 : Have you considered that your enthusiasm as a pilot outweighs your abilities ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  179 REPORTER_NN1 1_MC1 :_Y Have_VH0 you_PPY considered_VVN that_CST your_APPGE enthusiasm_NN1 as_II_CSA a_AT1 pilot_NN1 outweighs_VVZ your_APPGE abilities_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  180 Is it reckless to put your life in danger ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  180 Is_VBZ it_PPH1 reckless_JJ to_TO put_VVI your_APPGE life_NN1 in_II danger_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  181 AMELIA : Enthusiastic ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  181 AMELIA_NP1 :_Y Enthusiastic_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  182 Yes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  182 Yes_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  183 Reckless ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  183 Reckless_JJ_NP1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  184 No .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  184 No_UH ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  185 I 'm a flyer pursuing my passion for the fun of it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  185 I_PPIS1 'm_VBM a_AT1 flyer_NN1 pursuing_VVG my_APPGE passion_NN1 for_IF the_AT fun_NN1 of_IO it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  186 I recommend it as a healthy motive for any woman ... ( winking ) ... maybe even for some men .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  186 I_PPIS1 recommend_VV0 it_PPH1 as_II_CSA a_AT1 healthy_JJ motive_NN1 for_IF any_DD woman_NN1 ..._... (_Y winking_VVG_NN1@ )_Y ..._... maybe_RR even_RR for_IF some_DD men_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  187 REPORTER 2 : Are you going to give up long-distance flying after this flight yet .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  187 REPORTER_NN1 2_MC :_Y Are_VBR you_PPY going_VVGK to_TO give_VVI up_RP long-distance_JJ flying_NN1_JJ after_II_CS this_DD1 flight_NN1 yet_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  188 REPORTER 3 : Are you afraid ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  188 REPORTER_NN1 3_MC :_Y Are_VBR you_PPY afraid_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  189 AMELIA : Fears are paper tigers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  189 AMELIA_NP1 :_Y Fears_NN2 are_VBR paper_NN1 tigers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  190 You can do anything you decide to do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  190 You_PPY can_VM do_VDI anything_PN1 you_PPY decide_VV0 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  191 The process , the journey , is its own reward .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  191 The_AT process_NN1 ,_Y the_AT journey_NN1 ,_Y is_VBZ its_Z' own_DA reward_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  192 N2 : Amelia and Fred take off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  192 N2_FO :_Y Amelia_NP1 and_CC Fred_NP1 take_VV0 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  193 successfully .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  193 successfully_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  194 They stop in Suriname , Venezuela , Brazil , and Sudan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  194 They_PPHS2 stop_VV0 in_II Suriname_NP1 ,_Y Venezuela_NP1 ,_Y Brazil_NP1 ,_Y and_CC Sudan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  195 They ride camels in the Gao Desert and spend nights under the stars .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  195 They_PPHS2 ride_VV0 camels_NN2 in_II the_AT Gao_NP1 Desert_NN1_VV0 and_CC spend_NN1@ nights_NNT2 under_II the_AT stars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  196 N3 : On their way to New Guinea , Amelia and Fred get caught in a storm over India .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  196 N3_FO :_Y On_II their_APPGE way_NN1 to_II New_NP1 Guinea_NP1 ,_Y Amelia_NP1 and_CC Fred_NP1 get_VV0 caught_VVN in_II a_AT1 storm_NN1 over_II India_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  197 In the cockpit , an exhausted Amelia battles through torrents of wind and rain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  197 In_II the_AT cockpit_NN1 ,_Y an_AT1 exhausted_JJ Amelia_NP1 battles_NN2 through_II torrents_NN2 of_IO wind_NN1 and_CC rain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  198 AMELIA ( yelling over the din ) : Think we should turn back ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  198 AMELIA_NP1 (_Y yelling_VVG over_II_RP the_AT din_NN1 )_Y :_Y Think_VV0 we_PPIS2 should_VM turn_VVI back_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  199 FRED : I think we should never have come .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  199 FRED_NP1 :_Y I_PPIS1 think_VV0 we_PPIS2 should_VM never_RR have_VHI come_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  200 AMELIA : Could you find our way back ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  200 AMELIA_NP1 :_Y Could_VM you_PPY find_VVI our_APPGE way_NN1 back_NN1_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  201 FRED : Since I forgot to drop bread crumbs , it 's unlikely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  201 FRED_NP1 :_Y Since_CS I_PPIS1 forgot_VVD to_TO drop_VVI bread_NN1 crumbs_NN2 ,_Y it_PPH1 's_VBZ unlikely_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  202 N4 : Luckily , Amelia manages to land in Lae , Papua New Guinea .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  202 N4_FO :_Y Luckily_RR ,_Y Amelia_NP1 manages_VVZ to_TO land_VVI in_II Lae_NP1 ,_Y Papua_NP1 New_NP1 Guinea_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  203 They wait out the storm in a hotel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  203 They_PPHS2 wait_VV0 out_RP the_AT storm_NN1 in_II a_AT1 hotel_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  204 They are both in bad shape .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  204 They_PPHS2 are_VBR both_RR_DB2 in_II bad_JJ shape_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  205 FRED : You look beat , tip-top .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  205 FRED_NP1 :_Y You_PPY look_VV0 beat_NN1_VV0 ,_Y tip-top_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  206 FRED : Why do n't you grab a few hours of sleep ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  206 FRED_NP1 :_Y Why_RRQ do_VD0 n't_XX you_PPY grab_VVI a_AT1 few_DA2 hours_NNT2 of_IO sleep_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  207 N1 : Amelia calls George .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  207 N1_FO :_Y Amelia_NP1 calls_VVZ George_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  208 GEORGE : You should be sleeping .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  208 GEORGE_NP1 :_Y You_PPY should_VM be_VBI sleeping_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  209 AMELIA : You should be working .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  209 AMELIA_NP1 :_Y You_PPY should_VM be_VBI working_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  210 GEORGE : I 'm a very important fellow you know .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  210 GEORGE_NP1 :_Y I_PPIS1 'm_VBM a_AT1 very_RG important_JJ fellow_NN1_JJ you_PPY know_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  211 AMELIA : You once told me I was the star , and you 're a particle of dust in my constellation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  211 AMELIA_NP1 :_Y You_PPY once_RR told_VVD_VVN me_PPIO1 I_PPIS1 was_VBDZ the_AT star_NN1 ,_Y and_CC you_PPY 're_VBR a_AT1 particle_NN1 of_IO dust_NN1 in_II my_APPGE constellation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  212 GEORGE : I thought I was joking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  212 GEORGE_NP1 :_Y I_PPIS1 thought_VVD I_PPIS1 was_VBDZ joking_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  213 Guess the joke 's on me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  213 Guess_VV0 the_AT joke_NN1 's_VBZ on_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  214 AMELIA : I 'll be in Honolulu on July 3rd , and with you in Oakland for the Fourth of July , OK ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  214 AMELIA_NP1 :_Y I_PPIS1 'll_VM be_VBI in_II Honolulu_NP1 on_II July_NPM1 3rd_MD ,_Y and_CC with_IW you_PPY in_II Oakland_NP1 for_IF the_AT Fourth_MD of_IO July_NPM1 ,_Y OK_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  215 GEORGE : Do n't keep me waiting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  215 GEORGE_NP1 :_Y Do_VD0 n't_XX keep_VVI me_PPIO1 waiting_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  216 AMELIA : I wo n't dare .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  216 AMELIA_NP1 :_Y I_PPIS1 wo_VM n't_XX dare_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  217 GEORGE : How 's Fred ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  217 GEORGE_NP1 :_Y How_RRQ 's_VBZ Fred_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  218 AMELIA : He 's calculating fuel versus headwind speed as we speak .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  218 AMELIA_NP1 :_Y He_PPHS1 's_VBZ calculating_VVG_JJ@ fuel_NN1 versus_II headwind_NN1 speed_NN1 as_CSA we_PPIS2 speak_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  219 GEORGE : After the Fourth , we 're going home .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  219 GEORGE_NP1 :_Y After_CS_II the_AT Fourth_MD ,_Y we_PPIS2 're_VBR going_VVG home_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  220 AMELIA : Where 's that ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  220 AMELIA_NP1 :_Y Where_RRQ 's_VBZ that_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  221 GEORGE : For me ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  221 GEORGE_NP1 :_Y For_IF me_PPIO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  222 Anywhere you are .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  222 Anywhere_RL you_PPY are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  223 AMELIA ( tearfully ) : I 'm going to like it there .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  223 AMELIA_NP1 (_Y tearfully_RR )_Y :_Y I_PPIS1 'm_VBM going_VVGK to_TO like_VVI it_PPH1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  224 I 'd better , because this is my last flight .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  224 I_PPIS1 'd_VHD_VM better_RRR ,_Y because_CS this_DD1 is_VBZ my_APPGE last_MD flight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  225 let you go now ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  225 let_VVI you_PPY go_VVI now_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  226 GEORGE : Never .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  226 GEORGE_NP1 :_Y Never_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  227 N2 : There is a sad silence for a moment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  227 N2_FO :_Y There_EX is_VBZ a_AT1 sad_JJ silence_NN1 for_IF a_AT1 moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  228 GEORGE : Amelia ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  228 GEORGE_NP1 :_Y Amelia_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  229 AMELIA : Yes ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  229 AMELIA_NP1 :_Y Yes_UH ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  230 GEORGE : Come back to me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  230 GEORGE_NP1 :_Y Come_VV0 back_RP to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  231 EPILOGUE N3 : Fred and Amelia never made it home .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  231 EPILOGUE_NP1_NN1 N3_FO :_Y Fred_NP1 and_CC Amelia_NP1 never_RR made_VVD_VVN it_PPH1 home_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  232 On July 2 , 1937 , they lost radio contact and disappeared over the Pacific Ocean .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  232 On_II July_NPM1 2_MC ,_Y 1937_MC ,_Y they_PPHS2 lost_VVD radio_NN1 contact_NN1 and_CC disappeared_VVD over_II_RP the_AT Pacific_NP1 Ocean_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  233 N4 : The U.S. government mounted one of the largest rescue missions in history , but no evidence of the Electra was found .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  233 N4_FO :_Y The_AT U.S._NP1 government_NN1 mounted_VVD_VVN one_MC1 of_IO the_AT largest_JJT rescue_NN1 missions_NN2 in_II history_NN1 ,_Y but_CCB no_AT evidence_NN1 of_IO the_AT Electra_NP1_NN1@ was_VBDZ found_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  234 After searching for a year , George officially declared Amelia deceased .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  234 After_II searching_VVG for_IF a_AT1 year_NNT1 ,_Y George_NP1 officially_RR declared_VVD_VVN Amelia_NP1 deceased_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  235 N1 : One evening , George stands on a beach in California , staring into the Pacific and thinking about Amelia .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  235 N1_FO :_Y One_MC1 evening_NNT1 ,_Y George_NP1 stands_VVZ_NN2 on_II_RP@ a_AT1 beach_NN1 in_II California_NP1 ,_Y staring_VVG into_II the_AT Pacific_NP1 and_CC thinking_VVG_NN1 about_II Amelia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  236 He speaks to himself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  236 He_PPHS1 speaks_VVZ to_II himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  237 GEORGE : If I tried to count the insane and reckless chances Amelia took from the first moment I met her , I would n't know where to begin .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  237 GEORGE_NP1 :_Y If_CS I_PPIS1 tried_VVD to_TO count_VVI the_AT insane_JJ and_CC reckless_JJ chances_NN2 Amelia_NP1 took_VVD from_II the_AT first_MD moment_NN1 I_PPIS1 met_VVD her_PPHO1 ,_Y I_PPIS1 would_VM n't_XX know_VVI where_RRQ to_TO begin_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  238 It was the most tragic of endings .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  238 It_PPH1 was_VBDZ the_AT most_RGT tragic_JJ of_IO endings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  239 The most cruel and senseless .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  239 The_AT most_RGT cruel_JJ and_CC senseless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  240 And yet , it 's hard to imagine any other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  240 And_CC yet_RR ,_Y it_PPH1 's_VBZ hard_JJ to_TO imagine_VVI any_DD other_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  241 Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  241 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  242 Imagine that you are a reporter assigned event from her life to write about , as if it were breaking news .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  242 Imagine_VV0 that_CST you_PPY are_VBR a_AT1 reporter_NN1 assigned_VVN event_NN1 from_II her_APPGE life_NN1 to_TO write_VVI about_II ,_Y as_CS21 if_CS22 it_PPH1 were_VBDR breaking_VVG news_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  243 Your job is to tell your readers the critical facts about this famous aviator .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  243 Your_APPGE job_NN1 is_VBZ to_TO tell_VVI your_APPGE readers_NN2 the_AT critical_JJ facts_NN2 about_II this_DD1 famous_JJ aviator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  244 Conduct pretend interviews with Amelia , George Putnam , and Gene Vidal , and include their quotes in your story .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  244 Conduct_VV0 pretend_JJ@_VV0 interviews_NN2 with_IW Amelia_NP1 ,_Y George_NP1 Putnam_NP1 ,_Y and_CC Gene_NP1 Vidal_NP1 ,_Y and_CC include_VV0 their_APPGE quotes_NN2 in_II your_APPGE story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  245 BASED ON THE SCREENPLAY BY RON BASS AND ANNA HAMILTON PHELAN .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  245 BASED_VVN ON_II THE_AT SCREENPLAY_NN1_NP1 BY_II RON_NP1 BASS_NN1_NP1@_JJ AND_CC ANNA_NP1 HAMILTON_NP1 PHELAN_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  246 ADAPTED FOR SCOPE BY KRISTIN LEWIS .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  246 ADAPTED_VVN_VVD FOR_IF SCOPE_NN1 BY_II KRISTIN_NP1 LEWIS_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  247 Characters Write your initials next to the character you 're going to read .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  247 Characters_NN2 Write_VV0 your_APPGE initials_NN2 next_II21 to_II22 the_AT character_NN1 you_PPY 're_VBR going_VVGK to_TO read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  248 *Starred characters are major roles .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  248 *Starred_FO characters_NN2 are_VBR major_JJ roles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  249 pre-formatted table PHOTO ( COLOR ) : Amelia ( Hilary Swank ) meets George Putnam ( Richard Gere ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  249 pre-formatted_ZZ table_NN1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amelia_NP1 (_Y Hilary_NP1 Swank_VV0_NN1@ )_Y meets_VVZ George_NP1 Putnam_NP1 (_Y Richard_NP1 Gere_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  250 PHOTO ( COLOR ) : Amelia , Bill ( Joe Anderson , right ) and Slim ( Aaron Abrams , left ) look to the shore after a harrowing flight across the Atlantic Ocean .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  250 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amelia_NP1 ,_Y Bill_NP1 (_Y Joe_NP1 Anderson_NP1 ,_Y right_RR_NN1_JJ )_Y and_CC Slim_JJ (_Y Aaron_NP1 Abrams_NP1_VVZ ,_Y left_JJ_VVN )_Y look_VV0_NN1 to_II the_AT shore_NN1 after_II_CS a_AT1 harrowing_JJ@_NN1@ flight_NN1 across_II the_AT Atlantic_NP1 Ocean_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  251 PHOTO ( COLOR ) : Amelia waves to fans from her famous Lockheed Vega plane .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  251 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amelia_NP1 waves_NN2_VVZ@ to_II fans_NN2 from_II her_APPGE famous_JJ Lockheed_NP1 Vega_NP1 plane_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  252 PHOTO ( COLOR ) : Amelia signs autographs for her many adoring fans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  252 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amelia_NP1 signs_VVZ@_NN2 autographs_NN2_VVZ for_IF her_APPGE many_DA2 adoring_JJ fans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  253 PHOTO ( COLOR ) : Amelia Earhart 's flight plan for her trip around the world Eleanor Roosevelt ( Cherry Jones ) take a plane ride .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  253 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amelia_NP1 Earhart_NP1 's_GE flight_NN1 plan_NN1_VV0 for_IF her_APPGE trip_NN1 around_II the_AT world_NN1 Eleanor_NP1 Roosevelt_NP1 (_Y Cherry_NP1 Jones_NP1 )_Y take_VV0 a_AT1 plane_NN1 ride_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  254 PHOTO ( COLOR ) : Gene ( Ewan McGregor ) expresses concern about Amelia 's plan to fly around the world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  254 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Gene_NP1 (_Y Ewan_NP1 McGregor_NP1 )_Y expresses_VVZ concern_NN1 about_II Amelia_NP1 's_GE plan_NN1 to_TO fly_VVI around_II_RP the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  255 PHOTO ( COLOR ) : Amelia and Fred Noonan ( Christopher Eccleston ) take a break during their around-the-world adventure .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  255 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amelia_NP1 and_CC Fred_NP1 Noonan_NP1 (_Y Christopher_NP1 Eccleston_NP1 )_Y take_VV0 a_AT1 break_NN1 during_II their_APPGE around-the-world_JJ_NN1 adventure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  A    0  256 
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080214 COCA  B    0  256 

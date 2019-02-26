@@ -1,0 +1,122 @@
+SENTPOS 2014_4_101_500_521_1 DRAFT A    0    0 What is close reading ?
+SENTPOS 2014_4_101_500_521_1 DRAFT B    0    0 What_DDQ is_VBZ close_JJ reading_NN1 ?_?
+SENTPOS 2014_4_101_500_521_1 DRAFT A    0    1 How close is close reading ?
+SENTPOS 2014_4_101_500_521_1 DRAFT B    0    1 How_RGQ@ close_JJ is_VBZ close_JJ reading_NN1 ?_?
+SENTPOS 2014_4_101_500_521_1 DRAFT A    0    2 Close reading has become a skill that students and job candidates are expected to know well .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    0    2 Close_JJ reading_NN1 has_VHZ become_VVN@ a_AT1 skill_NN1 that_CST students_NN2 and_CC job_NN1 candidates_NN2 are_VBR expected_VVN to_TO know_VVI well_RR ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    0    3 Jonathan Culler , an English professor at Cornell , presented The Closeness of Close Reading in 2009 .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    0    3 Jonathan_NP1 Culler_NP1 ,_, an_AT1 English_JJ professor_NN1 at_II Cornell_NP1 ,_, presented_VVD The_AT Closeness_NN1 of_IO Close_JJ Reading_NN1@ in_II 2009_MC ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    0    4 The effective organization , point of view of the passage , the audience , and the word choices are some of the elements in this passage that are worth look into .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    0    4 The_AT effective_JJ organization_NN1 ,_, point_NN1 of_IO view_NN1 of_IO the_AT passage_NN1 ,_, the_AT audience_NN1 ,_, and_CC the_AT word_NN1 choices_NN2 are_VBR some_DD of_IO the_AT elements_NN2 in_II this_DD1 passage_NN1 that_CST are_VBR worth_II look_NN1 into_II ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    0    5 Culler demonstrates what close reading really is by defining what close reading is not .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    0    5 Culler_NN1 demonstrates_VVZ what_DDQ close_VV0 reading_VVG really_RR is_VBZ by_II defining_VVG what_DDQ close_VV0 reading_NN1 is_VBZ not_XX ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1    6 Culler organized the passage effectively .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1    6 Culler_NP1@ organized_VVD the_AT passage_NN1 effectively_RR ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1    7 First , he gave a definition of close reading , " examining closely the language of a literary work or study , " ( 2 ) which gives us a general idea .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1    7 First_MD ,_, he_PPHS1 gave_VVD a_AT1 definition_NN1 of_IO close_JJ reading_NN1 ,_, "_" examining_VVG closely_RR the_AT language_NN1 of_IO a_AT1 literary_JJ work_NN1 or_CC study_NN1 ,_, "_" (_( 2_MC )_) which_DDQ gives_VVZ us_PPIO2 a_AT1 general_JJ idea_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1    8 Then , he identified himself as " a good Saussurian , " ( 2 ) who believes a term should be defined by the opposite of it .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1    8 Then_RT ,_, he_PPHS1 identified_VVD himself_PPX1 as_CSA "_" a_AT1 good_JJ Saussurian_JJ ,_, "_" (_( 2_MC )_) who_PNQS believes_VVZ a_AT1 term_NN1 should_VM be_VBI defined_VVN by_II the_AT opposite_NN1@ of_IO it_PPH1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1    9 Next , he is trying to define it by the opposite of it .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1    9 Next_MD ,_, he_PPHS1 is_VBZ trying_VVG to_TO define_VVI it_PPH1 by_II the_AT opposite_NN1@ of_IO it_PPH1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   10 However , there is not an antonym for close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   10 However_RR ,_, there_EX is_VBZ not_XX an_AT1 antonym_NN1 for_IF close_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   11 Therefore , he gave examples of other people 's thoughts about distant reading and then rejected them .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   11 Therefore_RR ,_, he_PPHS1 gave_VVD examples_NN2 of_IO other_JJ people_NN 's_GE thoughts_NN2 about_II distant_JJ reading_NN1 and_CC then_RT rejected_VVD them_PPHO2 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   12 He took Franco Moretti 's definition of distant reading as an example , " Large-scale trends , the publication of translations , the length of titles of novels , or marriage patterns , " ( 2 ) but he said it is rarely reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   12 He_PPHS1 took_VVD Franco_NP1 Moretti_NP1 's_GE definition_NN1 of_IO distant_JJ reading_NN1 as_II an_AT1 example_NN1 ,_, "_" Large-scale_JJ trends_NN2 ,_, the_AT publication_NN1 of_IO translations_NN2 ,_, the_AT length_NN1 of_IO titles_NN2 of_IO novels_NN2 ,_, or_CC marriage_NN1 patterns_NN2 ,_, "_" (_( 2_MC )_) but_CCB he_PPHS1 said_VVD it_PPH1 is_VBZ rarely_RR reading_VVG ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   13 In addition , Culler provided another example ; he thinks that the marriage pattern and the extreme valuable perspectives in Jane Austen 's novels are too different from regular literary analysis to be the contradiction of close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   13 In_RR21 addition_RR22 ,_, Culler_NP1 provided_VVD another_DD1 example_NN1 ;_; he_PPHS1 thinks_VVZ that_CST the_AT marriage_NN1 pattern_NN1 and_CC the_AT extreme_JJ valuable_JJ perspectives_NN2 in_II Jane_NP1 Austen_NP1 's_GE novels_NN2 are_VBR too_RG different_JJ from_II regular_JJ literary_JJ analysis_NN1 to_TO be_VBI the_AT contradiction_NN1 of_IO close_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   14 Later , he analyzes , " this distant reading would turn any sort of attention to an individual text into close reading . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   14 Later_RRR ,_, he_PPHS1 analyzes_VVZ ,_, "_" this_DD1 distant_JJ reading_NN1 would_VM turn_VVI any_DD sort_NN1 of_IO attention_NN1 to_II an_AT1 individual_JJ text_NN1 into_II close_JJ reading_NN1 ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   15 ( 3 ) Distant reading can help us pay more attention to close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   15 (_( 3_MC )_) Distant_JJ reading_NN1 can_VM help_VVI us_PPIO2 pay_VVI more_DAR attention_NN1 to_TO close_VVI reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   16 Since close reading does not have an exact antonym , it can not be defined only by the opposite of distant reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   16 Since_CS close_JJ reading_NN1 does_VDZ not_XX have_VHI an_AT1 exact_JJ antonym_NN1 ,_, it_PPH1 can_VM not_XX be_VBI defined_VVN only_RR by_II the_AT opposite_NN1@ of_IO distant_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   17 Culler mentioned that sloppy reading , casual reading , or literary history , etc. could be compared to close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   17 Culler_NP1@ mentioned_VVD that_CST sloppy_JJ reading_NN1 ,_, casual_JJ reading_NN1 ,_, or_CC literary_JJ history_NN1 ,_, etc._RA could_VM be_VBI compared_VVN to_II close_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   18 After all those comparison , he finally went back to close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   18 After_II all_DB those_DD2 comparison_NN1 ,_, he_PPHS1 finally_RR went_VVD back_RP to_TO close_VVI reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   19 He explained that the reason we have trouble finding what is the opposite of close reading is that close reading is more like a slogan than particular practice .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   19 He_PPHS1 explained_VVD that_CST the_AT reason_NN1 we_PPIS2 have_VH0 trouble_NN1 finding_NN1 what_DDQ is_VBZ the_AT opposite_NN1@ of_IO close_JJ reading_NN1 is_VBZ that_DD1 close_JJ reading_NN1 is_VBZ more_RRR like_II a_AT1 slogan_NN1 than_CSN particular_JJ practice_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   20 He gave another definition of close reading by Peter Middleton , " our contemporary term for a heterogeneous and largely unorganized set of practices and assumptions . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   20 He_PPHS1 gave_VVD another_DD1 definition_NN1 of_IO close_JJ reading_NN1 by_II Peter_NP1 Middleton_NP1 ,_, "_" our_APPGE contemporary_JJ term_NN1 for_IF a_AT1 heterogeneous_JJ and_CC largely_RR unorganized_JJ set_NN1 of_IO practices_NN2 and_CC assumptions_NN2 ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   21 ( 3 ) Culler introduced a problem of what is the definition of close reading in the beginning , and he compared and contrasted with other things that are not necessarily the opposite but different from close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   21 (_( 3_MC )_) Culler_NP1 introduced_VVD a_AT1 problem_NN1 of_IO what_DDQ is_VBZ the_AT definition_NN1 of_IO close_JJ reading_NN1 in_II the_AT beginning_NN1 ,_, and_CC he_PPHS1 compared_VVD and_CC contrasted_VVD with_IW other_JJ things_NN2 that_CST are_VBR not_XX necessarily_RR the_AT opposite_JJ but_CCB different_JJ from_II close_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    1   22 Lastly , he talked about close reading again at the end of passage .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    1   22 Lastly_RR ,_, he_PPHS1 talked_VVD about_II close_JJ reading_NN1 again_RT at_II the_AT end_NN1 of_IO passage_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   23 The audience of this passage is professors and teachers in English department , or even foreign language departments .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   23 The_AT audience_NN1 of_IO this_DD1 passage_NN1 is_VBZ professors_NN2 and_CC teachers_NN2 in_II English_JJ department_NN1 ,_, or_CC even_RR foreign_JJ language_NN1 departments_NN2 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   24 Culler is writing this article Culler used an English professor point of view in this article as he said , " close reading ... a skill that we expect our students to master . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   24 Culler_NN1 is_VBZ writing_VVG this_DD1 article_NN1 Culler_NN1 used_VVD an_AT1 English_JJ professor_NN1 point_NN1 of_IO view_NN1 in_II this_DD1 article_NN1 as_CSA he_PPHS1 said_VVD ,_, "_" close_JJ reading_NN1 ..._... a_AT1 skill_NN1 that_CST we_PPIS2 expect_VV0 our_APPGE students_NN2 to_TO master_VVI ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   25 ( 2 ) He assumed that students and job candidates know how to close read well .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   25 (_( 2_MC )_) He_PPHS1 assumed_VVD that_CST students_NN2 and_CC job_NN1 candidates_NN2 know_VV0 how_RRQ to_TO close_VVI read_VVN well_RR ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   26 He said that close reading the essential of literary study .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   26 He_PPHS1 said_VVD that_CST close_VV0 reading_VVG the_AT essential_JJ of_IO literary_JJ study_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   27 Again , he thinks he is a Saussurian , so he believes we should define terms by the opposite of it .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   27 Again_RT ,_, he_PPHS1 thinks_VVZ he_PPHS1 is_VBZ a_AT1 Saussurian_JJ ,_, so_CS@ he_PPHS1 believes_VVZ we_PPIS2 should_VM define_VVI terms_NN2 by_II the_AT opposite_NN1@ of_IO it_PPH1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   28 From his point of view , the way to define close reading is that define what is opposite of close reading and then see what close reading is not .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   28 From_II his_APPGE point_NN1 of_IO view_NN1 ,_, the_AT way_NN1 to_TO define_VVI close_JJ reading_NN1 is_VBZ that_CST define_VV0 what_DDQ is_VBZ opposite_JJ of_IO close_JJ reading_NN1 and_CC then_RT see_VV0 what_DDQ close_VV0 reading_NN1 is_VBZ not_XX ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   29 To see if a person is good , find some evil people and see if that person is opposite from the evil people is an analogy .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   29 To_TO see_VVI if_CSW@ a_AT1 person_NN1 is_VBZ good_JJ ,_, find_VV0 some_DD evil_JJ people_NN and_CC see_VV0 if_CSW@ that_DD1 person_NN1 is_VBZ opposite_JJ from_II the_AT evil_JJ people_NN is_VBZ an_AT1 analogy_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   30 In addition , Culler wrote , " What contrasts with close reading is ... something like sloppy reading , or casual reading ... " ( 3 ) He is comparing close reading to sloppy reading and casual reading together , which means close reading needs to be very careful and pay attention to details .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   30 In_RR21 addition_RR22 ,_, Culler_NP1 wrote_VVD ,_, "_" What_DDQ contrasts_VVZ with_IW close_JJ reading_NN1 is_VBZ ..._... something_PN1 like_II sloppy_JJ reading_NN1 ,_, or_CC casual_JJ reading_NN1 ..._... "_" (_( 3_MC )_) He_PPHS1 is_VBZ comparing_VVG close_JJ reading_NN1 to_II sloppy_JJ reading_NN1 and_CC casual_JJ reading_NN1 together_RL ,_, which_DDQ means_VVZ close_JJ reading_NN1 needs_VVZ to_TO be_VBI very_RG careful_JJ and_CC pay_VV0 attention_NN1 to_II details_NN2 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   31 Close reading is a slow-paced reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   31 Close_JJ reading_NN1 is_VBZ a_AT1 slow-paced_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    2   32 It emphasizes on the details more than the general plot and is usually high-quality reading whereas distant reading focusing on the fast speed and low quality .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    2   32 It_PPH1 emphasizes_VVZ on_II the_AT details_NN2 more_RRR than_CSN the_AT general_JJ plot_NN1 and_CC is_VBZ usually_RR high-quality_JJ reading_NN1 whereas_CS distant_JJ reading_NN1 focusing_VVG on_II the_AT fast_JJ speed_NN1 and_CC low_JJ quality_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   33 The word choices in the passage are interesting too .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   33 The_AT word_NN1 choices_NN2 in_II the_AT passage_NN1 are_VBR interesting_JJ too_RR@ ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   34 Culler chose words to emphasize the high status of close reading in literary field .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   34 Culler_NP1@ chose_VVD words_NN2 to_TO emphasize_VVI the_AT high_JJ status_NN1 of_IO close_JJ reading_NN1 in_II literary_JJ field_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   35 " As a sine qua non of literary study . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   35 "_" As_II a_AT1 sine_NN131 qua_NN132 non_NN133 of_IO literary_JJ study_NN1 ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   36 ( 2 ) Sine qua non comes from Latin .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   36 (_( 2_MC )_) Sine_NN131 qua_NN132 non_NN133 comes_VVZ from_II Latin_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   37 It literarily means to cause without , which leads to can not exist without .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   37 It_PPH1 literarily_RR means_VVZ to_TO cause_VVI without_IW ,_, which_DDQ leads_VVZ to_II can_VM not_XX exist_VVI without_RL% ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   38 Culler used sine qua non to show the importance of close reading in literary study .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   38 Culler_NP1@ used_JJ sine_NN131 qua_NN132 non_NN133 to_TO show_VVI the_AT importance_NN1 of_IO close_JJ reading_NN1 in_II literary_JJ study_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   39 What 's more , " whatever other sorts of critical activities they may flamboyantly display , " ( 2 ) Culler writes .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   39 What_DDQ 's_VBZ more_RRR ,_, "_" whatever_DDQV other_JJ sorts_NN2 of_IO critical_JJ activities_NN2 they_PPHS2 may_VM flamboyantly_RR display_VVI ,_, "_" (_( 2_MC )_) Culler_NP1 writes_VVZ ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   40 Flamboyant means fancy , colorful .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   40 Flamboyant_JJ means_NN fancy_VV0 ,_, colorful_JJ ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   41 It has the root flame in it , and it means shine beautifully like a flame .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   41 It_PPH1 has_VHZ the_AT root_NN1 flame_NN1 in_II it_PPH1 ,_, and_CC it_PPH1 means_VVZ shine_NN1 beautifully_RR like_II a_AT1 flame_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   42 He used the word flamboyantly to stress the importance of close reading again .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   42 He_PPHS1 used_VVD the_AT word_NN1 flamboyantly_RR to_TO stress_VVI the_AT importance_NN1 of_IO close_JJ reading_NN1 again_RT ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   43 No matter how flamboyant the job candidates perform other skills , close reading is still expected .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   43 No_RGQV31 matter_RGQV32 how_RGQV33 flamboyant_JJ the_AT job_NN1 candidates_NN2 perform_VV0 other_JJ skills_NN2 ,_, close_JJ reading_NN1 is_VBZ still_RR expected_VVN ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   44 Also , when Culler gave an example of Moretti , " Moretti 's fascinating analyses of ... " ( 2 ) he used fascinating to describe Moretti 's analyses of distant reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   44 Also_RR ,_, when_CS Culler_NP1 gave_VVD an_AT1 example_NN1 of_IO Moretti_NP1 ,_, "_" Moretti_NP1 's_GE fascinating_JJ analyses_NN2 of_IO ..._... "_" (_( 2_MC )_) he_PPHS1 used_VVD fascinating_JJ to_TO describe_VVI Moretti_NP1 's_GE analyses_NN2 of_IO distant_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   45 Although he said it was " scarcely reading at all , " ( 2 ) he still used fascinating to respect others and appreciate others ' work .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   45 Although_CS he_PPHS1 said_VVD it_PPH1 was_VBDZ "_" scarcely_RR reading_VVG at_RR21 all_RR22 ,_, "_" (_( 2_MC )_) he_PPHS1 still_RR used_JJ fascinating_JJ to_TO respect_VVI others_NN2 and_CC appreciate_VVI others_NN2 '_GE work_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   46 In addition , " Perhaps what contrasts with close reading is ... something like sloppy reading ... " ( 3 ) The word sloppy means careless and not causal .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   46 In_RR21 addition_RR22 ,_, "_" Perhaps_RR what_DDQ contrasts_VVZ with_IW close_JJ reading_NN1 is_VBZ ..._... something_PN1 like_II sloppy_JJ reading_NN1 ..._... "_" (_( 3_MC )_) The_AT word_NN1 sloppy_JJ means_NN careless_JJ and_CC not_XX causal_JJ ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   47 Because Culler put sloppy reading and close reading in contrast , he is thinking a part of close reading is reading careful .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   47 Because_CS Culler_NP1 put_VVD sloppy_JJ reading_NN1 and_CC close_JJ reading_NN1 in_II contrast_NN1 ,_, he_PPHS1 is_VBZ thinking_VVG a_AT1 part_NN1 of_IO close_JJ reading_NN1 is_VBZ reading_VVG careful_JJ ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   48 Furthermore , Culler explained , " The fact that we have difficulty saying what close reading is opposed to suggests that it has served as a slogan more than as a name for a particular definable practice . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   48 Furthermore_RR ,_, Culler_NP1 explained_VVD ,_, "_" The_AT fact_NN1 that_CST we_PPIS2 have_VH0 difficulty_NN1 saying_VVG what_DDQ close_VV0 reading_NN1 is_VBZ opposed_VVN to_II suggests_VVZ that_CST it_PPH1 has_VHZ served_VVN as_II a_AT1 slogan_NN1 more_RRR than_CSN as_II@ a_AT1 name_NN1 for_IF a_AT1 particular_JJ definable_JJ practice_NN1 ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   49 ( 3 ) Slogan means a short phrase , usually used in advertisements .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   49 (_( 3_MC )_) Slogan_NN1 means_VVZ a_AT1 short_JJ phrase_NN1 ,_, usually_RR used_VVN in_II advertisements_NN2 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   50 Culler said close reading served as a slogan , which indicates close reading has become more and more knowable .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   50 Culler_NP1@ said_VVD close_JJ reading_NN1 served_VVN as_II a_AT1 slogan_NN1 ,_, which_DDQ indicates_VVZ close_JJ reading_NN1 has_VHZ become_VVN@ more_RRR and_CC more_RGR knowable_JJ ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   51 It is used more and more often .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   51 It_PPH1 is_VBZ used_VVN more_RRR and_CC more_RGR often_RR ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   52 Close reading is getting more common in our daily lives that the professors and the employers want their students or employees to have the skill of close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   52 Close_JJ reading_NN1 is_VBZ getting_VVG more_RGR common_JJ in_II our_APPGE daily_JJ lives_NN2 that_CST the_AT professors_NN2 and_CC the_AT employers_NN2 want_VV0 their_APPGE students_NN2 or_CC employees_NN2 to_TO have_VHI the_AT skill_NN1 of_IO close_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   53 Lastly , Culler wrote , " but this is scarcely reading at all . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   53 Lastly_RR ,_, Culler_NP1 wrote_VVD ,_, "_" but_CCB this_DD1 is_VBZ scarcely_RR reading_VVG at_RR21 all_RR22 ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   54 ( 2 ) The word scarcely is used a lot during the 1850s and it means almost not .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   54 (_( 2_MC )_) The_AT word_NN1 scarcely_RR is_VBZ used_VVN a_RR21@ lot_RR22 during_II the_AT 1850s_MC2 and_CC it_PPH1 means_VVZ almost_RR not_XX ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   55 Culler used the word to express that distant reading is almost no reading at all .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   55 Culler_NP1@ used_VVD the_AT word_NN1 to_TO express_VVI that_DD1 distant_JJ reading_NN1 is_VBZ almost_RR no_AT reading_NN1 at_RR21 all_RR22 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    3   56 Culler made a lot of interesting word choices in this passage .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    3   56 Culler_NP1@ made_VVD a_AT1 lot_NN1 of_IO interesting_JJ word_NN1 choices_NN2 in_II this_DD1 passage_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    4   57 The passage of The Closeness of Close Reading has a practical structure , strong point of view , and excellent word choices .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    4   57 The_AT passage_NN1 of_IO The_AT Closeness_NN1 of_IO Close_JJ Reading_NP1 has_VHZ a_AT1 practical_JJ structure_NN1 ,_, strong_JJ point_NN1 of_IO view_NN1 ,_, and_CC excellent_JJ word_NN1 choices_NN2 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    4   58 Culler demonstrated close reading vividly by describing close reading and the opposite of close reading .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    4   58 Culler_NP1@ demonstrated_VVD close_JJ reading_NN1 vividly_RR by_II describing_VVG close_JJ reading_NN1 and_CC the_AT opposite_NN1@ of_IO close_JJ reading_NN1 ._.
+SENTPOS 2014_4_101_500_521_1 DRAFT A    4   59 Close reading is like what Peter Middleton said , " contemporary term for a heterogeneous and largely unorganized set of practices and assumptions . "
+SENTPOS 2014_4_101_500_521_1 DRAFT B    4   59 Close_JJ reading_NN1 is_VBZ like_II what_DDQ Peter_NP1 Middleton_NP1 said_VVD ,_, "_" contemporary_JJ term_NN1 for_IF a_AT1 heterogeneous_JJ and_CC largely_RR unorganized_JJ set_NN1 of_IO practices_NN2 and_CC assumptions_NN2 ._. "_"
+SENTPOS 2014_4_101_500_521_1 DRAFT A    4   59  ( 3 ) Close reading takes a lot of practice and varies all the time .
+SENTPOS 2014_4_101_500_521_1 DRAFT B    4   59  (_( 3_MC )_) Close_JJ reading_NN1 takes_VVZ a_AT1 lot_NN1 of_IO practice_NN1 and_CC varies_VVZ all_DB the_AT time_NNT1 ._.

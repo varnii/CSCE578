@@ -1,0 +1,92 @@
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    0 The usage of disciplinary system has been spread out our daily life .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    0 The_AT usage_NN1 of_IO disciplinary_JJ system_NN1 has_VHZ been_VBN spread_VVN out_RP our_APPGE daily_JJ life_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    1 There are many examples of disciplinary systems we are dealing with such schools universities and even companies .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    1 There_EX are_VBR many_DA2 examples_NN2 of_IO disciplinary_JJ systems_NN2 we_PPIS2 are_VBR dealing_VVG with_IW such_DA schools_NN2 universities_NN2 and_CC even_RR companies_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    2 Fault has discussed in his article " Panoptcism " how panoptic systems work .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    2 Fault_NN1 has_VHZ discussed_VVN in_II his_APPGE article_NN1 "_" Panoptcism_NN1 "_" how_RRQ panoptic_JJ systems_NN2 work_VV0 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    3 He showed that those systems are adapted by people in order to achieve such a goal .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    3 He_PPHS1 showed_VVD that_CST those_DD2 systems_NN2 are_VBR adapted_VVN by_II people_NN in_BCL21 order_BCL22 to_TO achieve_VVI such_DA a_AT1 goal_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    4 Additionally , sometimes we do not notice that we are a part of a disciplinary system .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    4 Additionally_RR ,_, sometimes_RT we_PPIS2 do_VD0 not_XX notice_VVI that_CST we_PPIS2 are_VBR a_AT1 part_NN1 of_IO a_AT1 disciplinary_JJ system_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    5 Indeed we have adapted with those systems .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    5 Indeed_RR we_PPIS2 have_VH0 adapted_VVN with_IW those_DD2 systems_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    6 Schools are a good example to observe and look closely at disciplinary system .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    6 Schools_NN2 are_VBR a_AT1 good_JJ example_NN1 to_TO observe_VVI and_CC look_VVI closely_RR at_II disciplinary_JJ system_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    7 As students in the University of South Carolina , we have been dealing with these systems .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    7 As_CSA students_NN2 in_II the_AT University_NN1 of_IO South_NP1 Carolina_NP1 ,_, we_PPIS2 have_VH0 been_VBN dealing_VVG with_IW these_DD2 systems_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    8 By relating the university as an example of disciplinary organization to panopticon perspective , we can see similarities between them .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    8 By_II relating_VVG the_AT university_NN1 as_II an_AT1 example_NN1 of_IO disciplinary_JJ organization_NN1 to_II panopticon_NN1 perspective_NN1 ,_, we_PPIS2 can_VM see_VVI similarities_NN2 between_II them_PPHO2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    0    9 Registration , attendance policy , and relationship between students and their teachers are disciplinary system which means , according to Foucault , a relationship and a way of organizing bodies in a space .
+SENTPOS 2014_4_101_500_573_4 FINAL B    0    9 Registration_NN1 ,_, attendance_NN1 policy_NN1 ,_, and_CC relationship_NN1 between_II students_NN2 and_CC their_APPGE teachers_NN2 are_VBR disciplinary_JJ system_NN1 which_DDQ means_VVZ ,_, according_II21 to_II22 Foucault_NP1 ,_, a_AT1 relationship_NN1 and_CC a_AT1 way_NN1 of_IO organizing_VVG bodies_NN2 in_II a_AT1 space_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   10 First of all , we have to get through a process called registration before being student in the university each term .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   10 First_MD of_IO all_DB ,_, we_PPIS2 have_VH0 to_TO get_VVI through_II a_AT1 process_NN1 called_VVN registration_NN1 before_II being_VBG student_NN1 in_II the_AT university_NN1 each_DD1 term_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   11 In addition , the university can get a record of number of students in each term , and based on that it can make a plan of what is needed .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   11 In_RR21 addition_RR22 ,_, the_AT university_NN1 can_VM get_VVI a_AT1 record_NN1 of_IO number_NN1 of_IO students_NN2 in_II each_DD1 term_NN1 ,_, and_CC based_VVN on_II that_DD1@ it_PPH1 can_VM make_VVI a_AT1 plan_NN1 of_IO what_DDQ is_VBZ needed_VVN ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   12 So , the students are being identified by the university .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   12 So_RR ,_, the_AT students_NN2 are_VBR being_VBG identified_VVN by_II the_AT university_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   13 Moreover , the students are required to give their personal information including address .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   13 Moreover_RR ,_, the_AT students_NN2 are_VBR required_VVN to_TO give_VVI their_APPGE personal_JJ information_NN1 including_II address_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   14 When we are discussing the registration system , we can look back to the " Panopticism " when Foucault says " The role of each of the inhabitants present in the town is laid down , one by one ; this document bears ' the name , age , sex of everyone , notwithstanding his condition ... "
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   14 When_CS we_PPIS2 are_VBR discussing_VVG the_AT registration_NN1 system_NN1 ,_, we_PPIS2 can_VM look_VVI back_RP to_II the_AT "_" Panopticism_NN1 "_" when_CS Foucault_NP1 says_VVZ "_" The_AT role_NN1 of_IO each_DD1 of_IO the_AT inhabitants_NN2 present_VV0@ in_II the_AT town_NN1 is_VBZ laid_VVN down_RP ,_, one_MC1 by_II one_MC1 ;_; this_DD1 document_NN1 bears_NN2 '_GE the_AT name_NN1 ,_, age_NN1 ,_, sex_NN1 of_IO everyone_PN1 ,_, notwithstanding_II his_APPGE condition_NN1 ..._... "_"
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   15 ( Foucault 241 ) .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   15 (_( Foucault_VV0 241_MC )_) ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   16 Foucault says that all people , including the lepers were required to be registered on the government 's records , so that they are being counted .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   16 Foucault_NN1 says_VVZ that_CST all_DB people_NN ,_, including_II the_AT lepers_NN2 were_VBDR required_VVN to_TO be_VBI registered_VVN on_II the_AT government_NN1 's_GE records_NN2 ,_, so_CS21 that_CS22 they_PPHS2 are_VBR being_VBG counted_VVN ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   17 In addition , the government has a record of each person that includes a background of that person and all the important information .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   17 In_RR21 addition_RR22 ,_, the_AT government_NN1 has_VHZ a_AT1 record_NN1 of_IO each_DD1 person_NN1 that_CST includes_VVZ a_AT1 background_NN1 of_IO that_DD1 person_NN1 and_CC all_DB the_AT important_JJ information_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   18 Everyone was actually known by the government based on the records that the government has .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   18 Everyone_PN1 was_VBDZ actually_RR known_VVN by_II the_AT government_NN1 based_VVN on_II the_AT records_NN2 that_CST the_AT government_NN1 has_VHZ ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    1   19 So , we can see registration system is the same as government registration system .
+SENTPOS 2014_4_101_500_573_4 FINAL B    1   19 So_RR ,_, we_PPIS2 can_VM see_VVI registration_NN1 system_NN1 is_VBZ the_AT same_DA as_CSA government_NN1 registration_NN1 system_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   20 Another characteristic we can notice from school as disciplinary institution is attendance policy .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   20 Another_DD1 characteristic_NN1 we_PPIS2 can_VM notice_VVI from_II school_NN1 as_CSA disciplinary_JJ institution_NN1 is_VBZ attendance_NN1 policy_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   21 Attendance is required for some classes , and teachers check attendance in different ways such as calling names or memorizing faces .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   21 Attendance_NN1 is_VBZ required_VVN for_IF some_DD classes_NN2 ,_, and_CC teachers_NN2 check_VV0 attendance_NN1 in_II different_JJ ways_NN2 such_II21 as_II22 calling_VVG names_NN2 or_CC memorizing_VVG faces_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   22 Missed students are recorded , and they have limit number of absences before they fail in such a class .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   22 Missed_JJ@ students_NN2 are_VBR recorded_VVN ,_, and_CC they_PPHS2 have_VH0 limit_NN1 number_NN1 of_IO absences_NN2 before_CS they_PPHS2 fail_VV0 in_II such_DA a_AT1 class_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   23 Some students have excuses for their absences but it still counted absences , according to some teachers .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   23 Some_DD students_NN2 have_VH0 excuses_NN2 for_IF their_APPGE absences_NN2 but_CCB it_PPH1 still_RR counted_VVN absences_NN2 ,_, according_II21 to_II22 some_DD teachers_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   24 Turing to " Panopticism " , we can notice that it 's just the same way how people are being checked and counted everyday by the syndics .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   24 Turing_VVG to_II "_" Panopticism_NN1 "_" ,_, we_PPIS2 can_VM notice_VVI that_CST it_PPH1 's_VBZ just_RR the_AT same_DA way_NN1 how_RRQ people_NN are_VBR being_VBG checked_VVN and_CC counted_VVN everyday_JJ by_II the_AT syndics_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   25 The syndics go every morning to check each house and make sure that everyone is there .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   25 The_AT syndics_NN2 go_VV0 every_AT1 morning_NNT1 to_TO check_VVI each_DD1 house_NN1 and_CC make_VVI sure_JJ that_CST everyone_PN1 is_VBZ there_RL ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   26 If not , they will have to record that and they will figure out what 's going on .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   26 If_CS not_XX ,_, they_PPHS2 will_VM have_VHI to_TO record_VVI that_DD1 and_CC they_PPHS2 will_VM figure_VVI out_RP what_DDQ 's_VBZ going_VVG on_RP@ ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    2   27 So , it is the same way as school system , the teachers are as the syndics and they check the students , who are the patients in the plague city , every day .
+SENTPOS 2014_4_101_500_573_4 FINAL B    2   27 So_RR ,_, it_PPH1 is_VBZ the_AT same_DA way_NN1 as_CSA school_NN1 system_NN1 ,_, the_AT teachers_NN2 are_VBR as_II the_AT syndics_NN1 and_CC they_PPHS2 check_VV0 the_AT students_NN2 ,_, who_PNQS are_VBR the_AT patients_NN2 in_II the_AT plague_NN1 city_NN1 ,_, every_AT1 day_NNT1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   28 Finally , Students ' records are visible by the university .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   28 Finally_RR ,_, Students_NN2 '_GE records_NN2 are_VBR visible_JJ by_II the_AT university_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   29 It can access to student 's transcripts to know his strengths and weaknesses .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   29 It_PPH1 can_VM access_VVI to_II student_NN1 's_GE transcripts_NN2 to_TO know_VVI his_APPGE strengths_NN2 and_CC weaknesses_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   30 In addition , the university is looking forward to improve education day by day .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   30 In_RR21 addition_RR22 ,_, the_AT university_NN1 is_VBZ looking_VVG forward_RL to_TO improve_VVI education_NN1 day_NNT1 by_II day_NNT1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   31 By looking and observing students ' needs the university can provide help in order to make the student work better and better .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   31 By_II looking_VVG and_CC observing_VVG students_NN2 '_GE needs_NN2 the_AT university_NN1 can_VM provide_VVI help_NN1 in_BCL21 order_BCL22 to_TO make_VVI the_AT student_NN1 work_NN1 better_RRR and_CC better_RRR ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   32 It also can access to students ' skills , and make plans to improve them in future .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   32 It_PPH1 also_RR can_VM access_VVI to_II students_NN2 '_GE skills_NN2 ,_, and_CC make_VV0 plans_NN2 to_TO improve_VVI them_PPHO2 in_II future_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   33 When we are looking back to " Panopticsim " Foucault says : " the surveillance is based on a system of permanent registration : reports from syndics to the intendants , from the intendants to the magistrate ... "
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   33 When_CS we_PPIS2 are_VBR looking_VVG back_RP to_II "_" Panopticsim_NP1 "_" Foucault_NP1 says_VVZ :_: "_" the_AT surveillance_NN1 is_VBZ based_VVN on_II a_AT1 system_NN1 of_IO permanent_JJ registration_NN1 :_: reports_NN2 from_II syndics_NN2 to_II the_AT intendants_NN2 ,_, from_II the_AT intendants_NN2 to_II the_AT magistrate_NN1 ..._... "_"
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   34 ( Foucault 241 ) .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   34 (_( Foucault_VV0 241_MC )_) ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   35 Foucault is explaining how the system of the plague city is working .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   35 Foucault_NN1 is_VBZ explaining_VVG how_RRQ the_AT system_NN1 of_IO the_AT plague_NN1 city_NN1 is_VBZ working_VVG ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   36 The syndics are responsible to give reports about each person in the city .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   36 The_AT syndics_NN2 are_VBR responsible_JJ to_TO give_VVI reports_NN2 about_II each_DD1 person_NN1 in_II the_AT city_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   37 By knowing all details about people in the city , they can change what the need and plan new things such as adding more syndics .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   37 By_II knowing_VVG all_DB details_NN2 about_II people_NN in_II the_AT city_NN1 ,_, they_PPHS2 can_VM change_VVI what_DDQ the_AT need_NN1 and_CC plan_VVI new_JJ things_NN2 such_II21 as_II22 adding_VVG more_DAR syndics_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   38 So , it is similar to what the university is doing for its students by planning new methods to improve student 's performance .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   38 So_RR ,_, it_PPH1 is_VBZ similar_JJ to_II what_DDQ the_AT university_NN1 is_VBZ doing_VDG for_IF its_APPGE students_NN2 by_II planning_VVG new_JJ methods_NN2 to_TO improve_VVI student_NN1 's_GE performance_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   39 For instance , we have many tutoring centers in different classes at the University of South Carolina .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   39 For_REX21 instance_REX22 ,_, we_PPIS2 have_VH0 many_DA2 tutoring_JJ centers_NN2 in_II different_JJ classes_NN2 at_II the_AT University_NN1 of_IO South_NP1 Carolina_NP1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   40 The main goal of these centers is to help student to do better job in their classes .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   40 The_AT main_JJ goal_NN1 of_IO these_DD2 centers_NN2 is_VBZ to_TO help_VVI student_NN1 to_TO do_VDI better_RRR job_NN1 in_II their_APPGE classes_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    3   41 Consequently , they show increasing in their performance .
+SENTPOS 2014_4_101_500_573_4 FINAL B    3   41 Consequently_RR ,_, they_PPHS2 show_VV0 increasing_VVG in_II their_APPGE performance_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    4   42 In conclusion , the usage of disciplinary system is in everywhere and people used to work according to them without noticing that there is even disciplinary organization .
+SENTPOS 2014_4_101_500_573_4 FINAL B    4   42 In_II conclusion_NN1 ,_, the_AT usage_NN1 of_IO disciplinary_JJ system_NN1 is_VBZ in_II everywhere_RL and_CC people_NN used_VVD to_TO@ work_VVI according_II21 to_II22 them_PPHO2 without_IW noticing_VVG that_CST there_EX is_VBZ even_RR disciplinary_JJ organization_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    4   43 By looking closely , we found that in institutions such as schools have disciplinary systems including registration and student records as well as personal information .
+SENTPOS 2014_4_101_500_573_4 FINAL B    4   43 By_II looking_VVG closely_RR ,_, we_PPIS2 found_VVD that_CST in_II institutions_NN2 such_II21 as_II22 schools_NN2 have_VH0 disciplinary_JJ systems_NN2 including_II registration_NN1 and_CC student_NN1 records_NN2 as_II31 well_II32 as_II33 personal_JJ information_NN1 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    4   44 Those systems built in order to help develop and improve a performance of even achieve goals .
+SENTPOS 2014_4_101_500_573_4 FINAL B    4   44 Those_DD2 systems_NN2 built_VVN in_BCL21 order_BCL22 to_TO help_VVI develop_VVI and_CC improve_VVI a_AT1 performance_NN1 of_IO even_RR achieve_VV0 goals_NN2 ._.
+SENTPOS 2014_4_101_500_573_4 FINAL A    4   44  So it is beneficial for people to adapt with disciplinary systems in their daily lives .
+SENTPOS 2014_4_101_500_573_4 FINAL B    4   44  So_RR it_PPH1 is_VBZ beneficial_JJ for_IF people_NN to_TO adapt_VVI with_IW disciplinary_JJ systems_NN2 in_II their_APPGE daily_JJ lives_NN2 ._.

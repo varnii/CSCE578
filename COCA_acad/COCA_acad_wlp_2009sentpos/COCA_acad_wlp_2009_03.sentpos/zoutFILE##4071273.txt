@@ -1,0 +1,296 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    0 Previous research has found relationships between measures of creativity and Vocational Interests , especially the artistic type .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    0 Previous_JJ research_NN1 has_VHZ found_VVN relationships_NN2 between_II measures_NN2 of_IO creativity_NN1 and_CC Vocational_JJ Interests_NN2 ,_Y especially_RR the_AT artistic_JJ type_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    1 To partially examine the validity of a new self-report measure of creativity , 115 college students were administered the Vocational Preference Inventory ( Form C ) ( VPI-C ; Holland , 1985 ; Lowman Schurman , 1982 ) and the Scale of Creative Attributes and Behavior ( SCAB ; Kelly , 2004 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    1 To_TO partially_RR examine_VVI the_AT validity_NN1 of_IO a_AT1 new_JJ self-report_JJ_NN1 measure_NN1 of_IO creativity_NN1 ,_Y 115_MC college_NN1 students_NN2 were_VBDR administered_VVN the_AT Vocational_JJ Preference_NN1 Inventory_NN1 (_Y Form_VV0_NN1 C_ZZ1 )_Y (_Y VPI-C_NP1 ;_Y Holland_NP1 ,_Y 1985_MC ;_Y Lowman_NP1 Schurman_NP1 ,_Y 1982_MC )_Y and_CC the_AT Scale_NN1 of_IO Creative_JJ Attributes_NN2 and_CC Behavior_NP1_NN1 (_Y SCAB_NN1 ;_Y Kelly_NP1 ,_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    2 Similar to findings using other creativity measures , artistic vocational interests were significantly , positively correlated with creativity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    2 Similar_JJ to_II findings_NN2 using_VVG other_JJ creativity_NN1 measures_NN2 ,_Y artistic_JJ vocational_JJ interests_NN2 were_VBDR significantly_RR ,_Y positively_RR correlated_VVN_VVD with_IW creativity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    3 The results and directions for future research are discussed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    3 The_AT results_NN2 and_CC directions_NN2 for_IF future_JJ_NN1 research_NN1 are_VBR discussed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    4 <p> Although creativity has no precise and universal definition ( Torrance , 1997 ) , there have been a number of attempts to measure this elusive concept over the past decades ( see Simonton , 1999 ; Tardif Sternberg 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    4 <p>_Y Although_CS creativity_NN1 has_VHZ no_AT precise_JJ and_CC universal_JJ definition_NN1 (_Y Torrance_NP1 ,_Y 1997_MC )_Y ,_Y there_EX have_VH0 been_VBN a_AT1 number_NN1 of_IO attempts_NN2 to_TO measure_VVI this_DD1 elusive_JJ concept_NN1 over_II the_AT past_JJ_NN1 decades_NNT2 (_Y see_VV0 Simonton_NP1 ,_Y 1999_MC ;_Y Tardif_NP1 Sternberg_NP1 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    5 Most of these measures of creativity have focused on divergent thinking ( Torrance , 1974 ) and creative personality ( Gough , 1979 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    5 Most_DAT of_IO these_DD2 measures_NN2 of_IO creativity_NN1 have_VH0 focused_VVN on_II divergent_JJ thinking_NN1 (_Y Torrance_NP1 ,_Y 1974_MC )_Y and_CC creative_JJ personality_NN1 (_Y Gough_NP1 ,_Y 1979_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    6 <p> It is also established that creativity is influenced by personality , motivation , individual style ( Gardner of absorption in and devotion to their creative activities .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    6 <p>_Y It_PPH1 is_VBZ also_RR established_VVN_VVD that_DD1_CST creativity_NN1 is_VBZ influenced_VVN by_II personality_NN1 ,_Y motivation_NN1 ,_Y individual_JJ style_NN1 (_Y Gardner_NP1 of_IO absorption_NN1 in_II_RP@ and_CC devotion_NN1 to_II their_APPGE creative_JJ activities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    7 These activities often lead to a high level of production , although outstanding ideas or products are rare ( Simonton , 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    7 These_DD2 activities_NN2 often_RR lead_VV0_VVN@ to_II a_AT1 high_JJ level_NN1 of_IO production_NN1 ,_Y although_CS outstanding_JJ ideas_NN2 or_CC products_NN2 are_VBR rare_JJ (_Y Simonton_NP1 ,_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    8 It seems that many individuals choose activities conducive to original thinking , although only a handful of those individuals are considered to have creative genius , such as Hemingway , Einstein , and Monet .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    8 It_PPH1 seems_VVZ that_CST many_DA2 individuals_NN2 choose_VV0 activities_NN2 conducive_JJ to_II original_JJ thinking_NN1 ,_Y although_CS only_RR a_AT1 handful_NN1 of_IO those_DD2 individuals_NN2 are_VBR considered_VVN to_TO have_VHI creative_JJ genius_NN1 ,_Y such_II21 as_II22 Hemingway_NP1 ,_Y Einstein_NP1 ,_Y and_CC Monet_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0    9 They were blessed with a personality style and abilities giving them persistence and productivity that led them to be revered as geniuses .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0    9 They_PPHS2 were_VBDR blessed_VVN with_IW a_AT1 personality_NN1 style_NN1 and_CC abilities_NN2 giving_VVG them_PPHO2 persistence_NN1 and_CC productivity_NN1 that_CST led_VVD them_PPHO2 to_TO be_VBI revered_VVN as_CSA_II@ geniuses_VVZ_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   10 <p> Such genius , however , is characteristic of few individuals .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   10 <p>_Y Such_DA genius_NN1 ,_Y however_RR ,_Y is_VBZ characteristic_JJ_NN1 of_IO few_DA2 individuals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   11 More common , are numerous other individuals who often participate in creative thinking and activities without achieving reverence or universal acclaim .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   11 More_RGR_DAR common_JJ ,_Y are_VBR numerous_JJ other_JJ individuals_NN2 who_PNQS often_RR participate_VV0 in_II_RP@ creative_JJ thinking_NN1 and_CC activities_NN2 without_IW achieving_VVG reverence_NN1 or_CC universal_JJ acclaim_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   12 Examples of such individuals might include a mother creating a holiday costume for her child , or homeowners who design their own living space in an attractive and unique way .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   12 Examples_NN2 of_IO such_DA individuals_NN2 might_VM include_VVI a_AT1 mother_NN1 creating_VVG a_AT1 holiday_NN1 costume_NN1 for_IF her_APPGE child_NN1 ,_Y or_CC homeowners_NN2 who_PNQS design_VV0@ their_APPGE own_DA living_JJ_NN1 space_NN1 in_II an_AT1 attractive_JJ and_CC unique_JJ way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   13 <p> Many individuals choose a career path that lends itself to creative expression in some form .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   13 <p>_Y Many_DA2 individuals_NN2 choose_VV0 a_AT1 career_NN1 path_NN1 that_CST_DD1 lends_VVZ itself_PPX1 to_II creative_JJ expression_NN1 in_II some_DD form_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   14 Indeed , Holland ( 1997 ) posits that individuals choose a career based on their personality .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   14 Indeed_RR ,_Y Holland_NP1 (_Y 1997_MC )_Y posits_VVZ that_CST individuals_NN2 choose_VV0 a_AT1 career_NN1 based_VVN on_II their_APPGE personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   15 between creativity among " normal " individuals and an established measure of vocational interest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   15 between_II creativity_NN1 among_II "_Y normal_JJ "_Y individuals_NN2 and_CC an_AT1 established_JJ@ measure_NN1 of_IO vocational_JJ interest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   16 It is well-established individuals in a career matching their personality not only have longer job tenure but are also healthier and happier ( Holland , 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   16 It_PPH1 is_VBZ well-established_JJ individuals_NN2 in_II a_AT1 career_NN1 matching_VVG their_APPGE personality_NN1 not_XX only_RR have_VH0 longer_JJR job_NN1 tenure_NN1 but_CCB are_VBR also_RR healthier_JJR and_CC happier_JJR (_Y Holland_NP1 ,_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   17 <p> Based on a literature review , Kelly ( 2004 ) developed a measure of creativity -- the Scale of Creative Attributes and Behavior ( SCAB ) , designed to be an easily administered , reliable , and valid self-report measure of creativity as a multidimensional phenomenon .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   17 <p>_Y Based_VVN on_II a_AT1 literature_NN1 review_NN1 ,_Y Kelly_NP1 (_Y 2004_MC )_Y developed_VVD_VVN a_AT1 measure_NN1 of_IO creativity_NN1 --_NN1 the_AT Scale_NN1 of_IO Creative_JJ Attributes_NN2 and_CC Behavior_NP1_NN1 (_Y SCAB_NN1 )_Y ,_Y designed_VVN_VVD to_TO be_VBI an_AT1 easily_RR administered_VVN ,_Y reliable_JJ ,_Y and_CC valid_JJ self-report_JJ_NN1 measure_NN1 of_IO creativity_NN1 as_II_CSA a_AT1 multidimensional_JJ phenomenon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   18 The scale was intended to measure self-perceived creativity and the creative personality ( e.g. , characteristics of individuals considered to be creative , regardless whether or not they have outstanding creative achievements .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   18 The_AT scale_NN1 was_VBDZ intended_VVN to_II measure_NN1 self-perceived_NN1_JJ creativity_NN1 and_CC the_AT creative_JJ personality_NN1 (_Y e.g._REX ,_Y characteristics_NN2 of_IO individuals_NN2 considered_VVN_VVD to_TO be_VBI creative_JJ ,_Y regardless_RR whether_CSW31 or_CSW32 not_CSW33 they_PPHS2 have_VH0 outstanding_JJ creative_JJ achievements_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   19 Specifically , the SCAB was designed to measure what seem to be five components of creativity : creative engagement , creative cognitive style , spontaneity , tolerance , and fantasy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   19 Specifically_RR ,_Y the_AT SCAB_NN1 was_VBDZ designed_VVN to_II measure_NN1 what_DDQ seem_VV0 to_TO be_VBI five_MC components_NN2 of_IO creativity_NN1 :_Y creative_JJ engagement_NN1 ,_Y creative_JJ cognitive_JJ style_NN1 ,_Y spontaneity_NN1 ,_Y tolerance_NN1 ,_Y and_CC fantasy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   20 <p> Kelly ( 2004 ) interpreted these five components as follows : creative engagement refers to a preference for creative activities and often spending time working on something creative .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   20 <p>_Y Kelly_NP1 (_Y 2004_MC )_Y interpreted_VVD these_DD2 five_MC components_NN2 as_CSA follows_VVZ :_Y creative_JJ engagement_NN1 refers_VVZ to_II a_AT1 preference_NN1 for_IF creative_JJ activities_NN2 and_CC often_RR spending_VVG_JJ@ time_NNT1 working_VVG on_II_RP@ something_PN1 creative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   21 Creative cognitive style refers to the .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   21 Creative_JJ cognitive_JJ style_NN1 refers_VVZ to_II the_AT ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   22 This is the classic definition which has often been linked with intelligence ( Gardner , 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   22 This_DD1 is_VBZ the_AT classic_JJ_NN1 definition_NN1 which_DDQ has_VHZ often_RR been_VBN linked_VVN with_IW intelligence_NN1 (_Y Gardner_NP1 ,_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   23 Spontaneity is a style characterized by impulsivity and novelty seeking .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   23 Spontaneity_NN1 is_VBZ a_AT1 style_NN1 characterized_VVN by_II impulsivity_NN1 and_CC novelty_NN1 seeking_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   24 Tolerance is the attitude of flexibility and openness to others ' ideas and experiences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   24 Tolerance_NN1 is_VBZ the_AT attitude_NN1 of_IO flexibility_NN1 and_CC openness_NN1 to_II others_NN2 '_GE ideas_NN2 and_CC experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   25 And finally , fantasy is a mental activity of creativity , usually in the form of daydreaming and imagination .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   25 And_CC finally_RR ,_Y fantasy_NN1 is_VBZ a_AT1 mental_JJ activity_NN1 of_IO creativity_NN1 ,_Y usually_RR in_II the_AT form_NN1 of_IO daydreaming_VVG_NN1@_JJ@ and_CC imagination_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   26 Based on a factor analytic analysis , Kelly concluded that the SCAB assessed these essential components ; thus demonstrating some degree of construct validity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   26 Based_VVN on_II a_AT1 factor_NN1 analytic_JJ analysis_NN1 ,_Y Kelly_NP1 concluded_VVD that_CST the_AT SCAB_NN1 assessed_VVN_VVD@ these_DD2 essential_JJ components_NN2 ;_Y thus_RR demonstrating_VVG some_DD degree_NN1 of_IO construct_VV0_NN1% validity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   27 The current study sought to further establish the validity of the SCAB by examining its relationship to an established paradigm in psychology found in previous research to relate to creativity : Holland 's ( 1997 ) model of vocational interests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   27 The_AT current_JJ study_NN1 sought_VVN_VVD to_TO further_RRR establish_VVI the_AT validity_NN1 of_IO the_AT SCAB_NN1 by_II examining_VVG its_Z' relationship_NN1 to_II an_AT1 established_JJ@ paradigm_NN1 in_II psychology_NN1 found_VVN_VVD in_II previous_JJ research_NN1 to_TO relate_VVI to_II creativity_NN1 :_Y Holland_NP1 's_GE (_Y 1997_MC )_Y model_NN1 of_IO vocational_JJ interests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   28 <p> Holland ( 1997 ) defined six vocational dimensions or interest types : realistic , investigative , artistic , social , enterprising , and conventional which have corresponding personality types : Realistic ( R : practical , enjoys working with mechanical devices and working outdoors ) , Investigative ( I : enjoys scientific pursuits , working with abstract ideas , aesthetics , enjoys using imagination and creativity ) , Social ( S : concern for human welfare , enjoys teaching , helping , and working with people ) , Enterprising ( E : enjoys directing , organizing , and leading ) , and Conventional ( C : prefers structured tasks , enjoys practical pursuits and clerical activities ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   28 <p>_Y Holland_NP1 (_Y 1997_MC )_Y defined_VVD six_MC vocational_JJ dimensions_NN2 or_CC interest_NN1 types_NN2 :_Y realistic_JJ ,_Y investigative_JJ ,_Y artistic_JJ ,_Y social_JJ ,_Y enterprising_JJ ,_Y and_CC conventional_JJ which_DDQ have_VH0 corresponding_JJ personality_NN1 types_NN2 :_Y Realistic_JJ (_Y R_ZZ1 :_Y practical_JJ ,_Y enjoys_VVZ working_VVG with_IW mechanical_JJ devices_NN2 and_CC working_VVG outdoors_RL )_Y ,_Y Investigative_JJ (_Y I_ZZ1%_MC1% :_Y enjoys_VVZ scientific_JJ pursuits_NN2 ,_Y working_VVG with_IW abstract_JJ ideas_NN2 ,_Y aesthetics_NN1 ,_Y enjoys_VVZ using_VVG imagination_NN1 and_CC creativity_NN1 )_Y ,_Y Social_JJ (_Y S_ZZ1 :_Y concern_NN1_VV0@ for_IF human_JJ_NN1 welfare_NN1 ,_Y enjoys_VVZ teaching_NN1_VVG ,_Y helping_VVG_NN1 ,_Y and_CC working_VVG with_IW people_NN )_Y ,_Y Enterprising_JJ (_Y E_ZZ1 :_Y enjoys_VVZ directing_VVG ,_Y organizing_VVG ,_Y and_CC leading_JJ_VVG )_Y ,_Y and_CC Conventional_JJ (_Y C_ZZ1_NP1 :_Y prefers_VVZ structured_JJ tasks_NN2 ,_Y enjoys_VVZ practical_JJ pursuits_NN2 and_CC clerical_JJ activities_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   29 Numerous research studies attest to the existence and validity of these six interest patterns and their relation to personality ( see Holland , 1985 for a review ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   29 Numerous_JJ research_NN1 studies_NN2 attest_VV0 to_II the_AT existence_NN1 and_CC validity_NN1 of_IO these_DD2 six_MC interest_NN1 patterns_NN2 and_CC their_APPGE relation_NN1 to_II personality_NN1 (_Y see_VV0 Holland_NP1 ,_Y 1985_MC for_IF a_AT1 review_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   30 <p> Of particular interest for the present study is Holland 's Artistic interest/personality type .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   30 <p>_Y Of_IO particular_JJ interest_NN1 for_IF the_AT present_JJ_NN1 study_NN1 is_VBZ Holland_NP1 's_GE Artistic_JJ interest/personality_NN1 type_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   31 Although previous research has found the Artistic type to be prevalent among artists ( Holland , 1985 ) , no research to date has examined Holland 's types in relation to an instrument designed to measure " everyday " self-reported creativity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   31 Although_CS previous_JJ research_NN1 has_VHZ found_VVN the_AT Artistic_JJ type_NN1 to_TO be_VBI prevalent_JJ among_II artists_NN2 (_Y Holland_NP1 ,_Y 1985_MC )_Y ,_Y no_AT research_NN1 to_II date_NN1 has_VHZ examined_VVN Holland_NP1 's_GE types_NN2 in_II31 relation_II32 to_II33 an_AT1 instrument_NN1 designed_VVN_VVD to_II measure_NN1 "_Y everyday_JJ "_Y self-reported_JJ_NN1 creativity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   32 However , empirical links do exist .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   32 However_RR ,_Y empirical_JJ links_NN2 do_VD0 exist_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   33 For example , the artistic type has been significantly correlated with the openness to experience domain of the Five-Factor Model of Personality ( Costa , McCrae , Holland , 1984 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   33 For_REX21 example_REX22 ,_Y the_AT artistic_JJ type_NN1 has_VHZ been_VBN significantly_RR correlated_VVN_VVD with_IW the_AT openness_NN1 to_TO experience_VVI domain_NN1 of_IO the_AT Five-Factor_NP1 Model_NN1 of_IO Personality_NN1 (_Y Costa_NP1 ,_Y McCrae_NP1 ,_Y Holland_NP1 ,_Y 1984_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   34 Moreover , Kelly ( 2006 ) the SCAB .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   34 Moreover_RR ,_Y Kelly_NP1 (_Y 2006_MC )_Y the_AT SCAB_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   35 It is reasonable , therefore , using Cronbach and Meehl 's ( 1955 ) nomological network approach , that the Artistic type would also correlate with scores on the SCAB .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   35 It_PPH1 is_VBZ reasonable_JJ_RR@ ,_Y therefore_RR ,_Y using_VVG Cronbach_NP1 and_CC Meehl_NP1 's_GE (_Y 1955_MC )_Y nomological_JJ network_NN1 approach_NN1 ,_Y that_CST the_AT Artistic_JJ type_NN1 would_VM also_RR correlate_VVI with_IW scores_NN2 on_II the_AT SCAB_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   36 As such , it was expected that the SCAB would significantly , positively correlate with Holland 's Artistic type of vocational interests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   36 As_II such_DA ,_Y it_PPH1 was_VBDZ expected_VVN that_CST the_AT SCAB_NN1 would_VM significantly_RR ,_Y positively_RR correlate_VV0 with_IW Holland_NP1 's_GE Artistic_JJ type_NN1 of_IO vocational_JJ interests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   37 No other hypotheses were formed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   37 No_XX other_JJ hypotheses_NN2 were_VBDR formed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   38 <p> L : Method Participants and Procedure After obtaining informed consent , 115 university students ( 87 females ) enrolled in undergraduate psychology courses completed the instruments described below .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   38 <p>_Y L_ZZ1_NP1@ :_Y Method_NN1 Participants_NN2 and_CC Procedure_NN1 After_II obtaining_VVG informed_JJ@ consent_NN1 ,_Y 115_MC university_NN1 students_NN2 (_Y 87_MC females_NN2 )_Y enrolled_VVD_VVN in_II undergraduate_NN1 psychology_NN1 courses_NN2 completed_VVD_VVN the_AT instruments_NN2 described_VVN below_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   39 The average age of the sample was 25.3 years ( SD = 5.7 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   39 The_AT average_JJ_NN1 age_NN1 of_IO the_AT sample_NN1 was_VBDZ 25.3_MC years_NNT2 (_Y SD_NP1 =_FO 5.7_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   40 The majority of the sample ( 83% ) identified themselves as White .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   40 The_AT majority_NN1 of_IO the_AT sample_NN1 (_Y 83%_NNU )_Y identified_VVD@_VVN themselves_PPX2 as_CSA_II@ White_NP1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   41 Thirteen percent identified their ethnicity as African American , 3% as " Other , " and 2% as Native American .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   41 Thirteen_MC percent_NNU identified_VVN_VVD@ their_APPGE ethnicity_NN1 as_CSA_RG@ African_JJ American_JJ_NN1@ ,_Y 3%_NNU as_II@_CSA "_Y Other_JJ_NN1@ ,_Y "_Y and_CC 2%_NNU as_II@_CSA Native_JJ American_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   42 <p> Materials Vocational Preference Inventory .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   42 <p>_Y Materials_NN2 Vocational_JJ Preference_NN1 Inventory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   43 Vocational interests were measured using the 30-item Vocational Preference Inventory , Form C ( VPI-C ; Holland , 1985 ; Lowman Schurman , 1982 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   43 Vocational_JJ interests_NN2 were_VBDR measured_VVN using_VVG the_AT 30-item_JJ_NN1 Vocational_JJ Preference_NN1 Inventory_NN1 ,_Y Form_VV0_NN1 C_ZZ1_NP1 (_Y VPI-C_NP1 ;_Y Holland_NP1 ,_Y 1985_MC ;_Y Lowman_NP1 Schurman_NP1 ,_Y 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   44 The VPI-C includes a list of 30 occupational titles , five for each of Holland 's , participants in this study responded to VPI-C items using a 7-point Likert scale ( 1 = " strongly disinterested , " 7 = " strongly interested " ) , rather than " true " or " false " as the original version of the instrument .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   44 The_AT VPI-C_NP1 includes_VVZ a_AT1 list_NN1 of_IO 30_MC occupational_JJ titles_NN2 ,_Y five_MC for_IF each_DD1 of_IO Holland_NP1 's_GE ,_Y participants_NN2 in_II this_DD1 study_NN1 responded_VVN_VVD to_II VPI-C_JJ_NP1 items_NN2 using_VVG a_AT1 7-point_JJ_NN1 Likert_NP1 scale_NN1 (_Y 1_MC1 =_FO "_Y strongly_RR disinterested_JJ ,_Y "_Y 7_MC =_FO "_Y strongly_RR interested_JJ "_Y )_Y ,_Y rather_II21_CS21@ than_II22_CS22@ "_Y true_JJ "_Y or_CC "_Y false_JJ_RR@ "_Y as_II_CSA the_AT original_JJ version_NN1 of_IO the_AT instrument_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   45 Higher scores indicated greater interest in occupational clusters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   45 Higher_JJR scores_NN2 indicated_VVD_VVN greater_JJR interest_NN1 in_II occupational_JJ clusters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   46 Internal consistencies have been reported between .65 and .84 ( Holland , 1985 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   46 Internal_JJ consistencies_NN2 have_VH0 been_VBN reported_VVN between_II .65_MC and_CC .84_MC (_Y Holland_NP1 ,_Y 1985_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   47 Lowman and Schurman ( 1982 ) report adequate validity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   47 Lowman_NN1_NP1@ and_CC Schurman_NP1_NN1 (_Y 1982_MC )_Y report_VV0@_NN1 adequate_JJ validity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   48 <p> Scale of Creative Attributes and Behavior ( SCAB ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   48 <p>_Y Scale_NN1 of_IO Creative_JJ Attributes_NN2 and_CC Behavior_NP1_NN1 (_Y SCAB_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   49 Creativity was measured using Kelly 's ( 2004 ) Scale of Creative Attributes and Behavior(SCAB).The SCAB is a 20-item scale designed to measure the five components of creativity noted above .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   49 Creativity_NN1 was_VBDZ measured_VVN using_VVG Kelly_NP1 's_GE (_Y 2004_MC )_Y Scale_NN1 of_IO Creative_JJ Attributes_NN2 and_CC Behavior(SCAB).The_NP1 SCAB_NN1 is_VBZ a_AT1 20-item_JJ_NN1 scale_NN1 designed_VVN_VVD to_II measure_NN1 the_AT five_MC components_NN2 of_IO creativity_NN1 noted_VVN_VVD above_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   50 Participants respond to each item using a 7-point Likert scale ranging from 1 = " Strongly Disagree " to 7 = " Strongly Agree .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   50 Participants_NN2 respond_VV0 to_II each_DD1 item_NN1 using_VVG a_AT1 7-point_JJ_NN1 Likert_NP1 scale_NN1 ranging_VVG from_II 1_MC1 =_FO "_Y Strongly_RR Disagree_VV0 "_Y to_II 7_MC =_FO "_Y Strongly_RR Agree_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   51 " Kelly reported the SCAB to possess adequate internal consistency ( a = .75 to .82 ) and test-retest reliability ( .80 , one month ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   51 "_Y Kelly_NP1 reported_VVD the_AT SCAB_NN1 to_TO possess_VVI adequate_JJ internal_JJ consistency_NN1 (_Y a_ZZ1 =_FO .75_MC to_II .82_MC )_Y and_CC test-retest_JJ_NN1 reliability_NN1 (_Y .80_MC ,_Y one_MC1 month_NNT1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   52 Kelly also reported factor analysis that supported measurement of the five hypothesized components of creativity noted single higher-order factor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   52 Kelly_NP1 also_RR reported_VVN_JJ@_VVD factor_NN1 analysis_NN1 that_CST supported_VVD_JJ@ measurement_NN1 of_IO the_AT five_MC hypothesized_JJ@_VVD components_NN2 of_IO creativity_NN1 noted_VVD_VVN single_JJ higher-order_JJ factor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   53 These findings suggest some degree of construct validity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   53 These_DD2 findings_NN2 suggest_VV0 some_DD degree_NN1 of_IO construct_VV0_NN1% validity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   54 Higher scores indicate more creativity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   54 Higher_JJR scores_NN2 indicate_VV0 more_DAR creativity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   55 <p> L : Results Means , standard deviations , and coefficient alphas of each scale are presented in Table 1 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   55 <p>_Y L_ZZ1_NP1@ :_Y Results_NN2_VVZ@ Means_VVZ_NN ,_Y standard_JJ_NN1 deviations_NN2 ,_Y and_CC coefficient_NN1 alphas_NN2 of_IO each_DD1 scale_NN1 are_VBR presented_VVN in_II Table_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   56 Overall , scales , with the possible exception of the SCAB Fantasy scale , appear to have adequate internal consistency based on the criteria described by Nunnally ( 1978 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   56 Overall_RR_NN1 ,_Y scales_NN2 ,_Y with_IW the_AT possible_JJ exception_NN1 of_IO the_AT SCAB_NN1 Fantasy_NN1 scale_NN1 ,_Y appear_VV0 to_TO have_VHI adequate_JJ internal_JJ consistency_NN1 based_VVN on_II the_AT criteria_NN2 described_VVN by_II Nunnally_NP1 (_Y 1978_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   57 <p> Table 2 presents correlations between SCAB total and factor scores and the six Holland code types ; all SCAB factors significantly , positively related to the VPI Artistic factor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   57 <p>_Y Table_NN1 2_MC presents_VVZ_NN2 correlations_NN2 between_II SCAB_NN1 total_NN1_JJ and_CC factor_NN1 scores_NN2 and_CC the_AT six_MC Holland_NP1 code_NN1 types_NN2 ;_Y all_DB SCAB_NN1 factors_NN2 significantly_RR ,_Y positively_RR related_VVN_VVD to_II the_AT VPI_JJ_NN1 Artistic_JJ factor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   58 The general pattern of scores suggests that Artistic is the factor most associated with SCAB scores .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   58 The_AT general_JJ_NN1 pattern_NN1 of_IO scores_NN2 suggests_VVZ that_CST_DD1 Artistic_JJ is_VBZ the_AT factor_NN1 most_RRT@ associated_VVN with_IW SCAB_NN1 scores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   59 Spontaneity , weakly , but significantly correlated with Realistic interest scores and Cognitive Style with Social interests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   59 Spontaneity_NN1 ,_Y weakly_RR ,_Y but_CCB significantly_RR correlated_VVN_VVD with_IW Realistic_JJ interest_NN1 scores_NN2 and_CC Cognitive_JJ Style_NN1 with_IW Social_JJ interests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   60 No other vocational code types significantly correlated with total SCAB scores .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   60 No_XX other_JJ vocational_JJ code_NN1 types_NN2 significantly_RR correlated_VVN_VVD with_IW total_JJ SCAB_NN1 scores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   61 <p> For exploratory purposes , after testing for multicollinearity , a hierarchical multiple regression was calculated to determine the unique variance of Artistic scores accounted for by the five SCAB factors .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   61 <p>_Y For_IF exploratory_JJ purposes_NN2 ,_Y after_II testing_VVG for_IF multicollinearity_NN1 ,_Y a_AT1 hierarchical_JJ multiple_JJ_NN1 regression_NN1 was_VBDZ calculated_VVN to_TO determine_VVI the_AT unique_JJ variance_NN1 of_IO Artistic_JJ scores_NN2 accounted_VVN for_IF by_II the_AT five_MC SCAB_NN1 factors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   62 Multicollinearity was not a problem as the tolerance and Variable , Tathum , Black , 1998 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   62 Multicollinearity_NN1_NP1@ was_VBDZ not_XX a_AT1 problem_NN1 as_II_CSA the_AT tolerance_NN1 and_CC Variable_JJ_NN1 ,_Y Tathum_NP1_NN1 ,_Y Black_JJ_NP1@ ,_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   63 For the regression , Artistic scores were used as the criterion and the five SCAB factors were entered simultaneously as predictors .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   63 For_IF the_AT regression_NN1 ,_Y Artistic_JJ scores_NN2 were_VBDR used_VVN as_II_CSA the_AT criterion_NN1 and_CC the_AT five_MC SCAB_NN1 factors_NN2 were_VBDR entered_VVN simultaneously_RR as_CSA predictors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   64 Overall , the results were significant , F ( 5,109 ) = 10.10 , p < .001 , with all five SCAB factors combined accounting for 29% ( adj.R2 ) of the variance in Artistic scores .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   64 Overall_RR_NN1 ,_Y the_AT results_NN2 were_VBDR significant_JJ ,_Y F_ZZ1 (_Y 5,109_MC )_Y =_FO 10.10_MC ,_Y p_ZZ1 <_FO .001_MC ,_Y with_IW all_DB five_MC SCAB_NN1 factors_NN2 combined_VVD_VVN_JJ accounting_VVG_NN1 for_IF 29%_NNU (_Y adj.R2_FO )_Y of_IO the_AT variance_NN1 in_II Artistic_JJ scores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   65 An inspection of the within-group predictors revealed that only the Cognitive Style , t = 4.09 , p < .001 , beta = .41 , and Fantasy , t = 3.05 , p < .01 , beta = .26 , factors accounted for unique variance in Artistic scores .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   65 An_AT1 inspection_NN1 of_IO the_AT within-group_JJ_NN1 predictors_NN2 revealed_VVD_VVN that_CST_DD1 only_RR the_AT Cognitive_JJ Style_NN1 ,_Y t_ZZ1 =_FO 4.09_MC ,_Y p_ZZ1 <_FO .001_MC ,_Y beta_NN1 =_FO .41_MC ,_Y and_CC Fantasy_NN1 ,_Y t_ZZ1 =_FO 3.05_MC ,_Y p_ZZ1 <_FO .01_MC ,_Y beta_NN1 =_FO .26_MC ,_Y factors_NN2 accounted_VVN_VVD for_IF unique_JJ variance_NN1 in_II Artistic_JJ scores_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   66 <p> L : Discussion The overall pattern of findings in this study suggests that individuals scoring higher on the SCAB enjoy activities reflecting artistic vocational interests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   66 <p>_Y L_ZZ1_NP1@ :_Y Discussion_NN1 The_AT overall_JJ_NN1 pattern_NN1 of_IO findings_NN2 in_II this_DD1 study_NN1 suggests_VVZ that_CST individuals_NN2 scoring_VVG higher_JJR_RRR@ on_II the_AT SCAB_NN1 enjoy_VV0 activities_NN2 reflecting_VVG artistic_JJ vocational_JJ interests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   67 These interests often involve using imagination and creativity ( Holland , 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   67 These_DD2 interests_NN2 often_RR involve_VV0 using_VVG imagination_NN1 and_CC creativity_NN1 (_Y Holland_NP1 ,_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   68 The results of this study are consistent with the hypothesis and with previous research suggesting that both artistic interests ( Costa et al. , 1984 ) and creativity are related to openness to .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   68 The_AT results_NN2 of_IO this_DD1 study_NN1 are_VBR consistent_JJ with_IW the_AT hypothesis_NN1 and_CC with_IW previous_JJ research_NN1 suggesting_VVG that_CST both_DB2_RR artistic_JJ interests_NN2 (_Y Costa_NP1 et_RA21 al._RA22 ,_Y 1984_MC )_Y and_CC creativity_NN1 are_VBR related_VVN to_II openness_NN1 to_TO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   69 Because the SCAB correlated with a hypothetically related construct , artistic vocational preferences , these findings further establish the construct validity of the SCAB as a measure of creativity ( Gregory , 2000 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   69 Because_CS the_AT SCAB_NN1 correlated_VVN_VVD with_IW a_AT1 hypothetically_RR related_VVN_JJ construct_VV0_NN1% ,_Y artistic_JJ vocational_JJ preferences_NN2 ,_Y these_DD2 findings_NN2 further_RRR establish_VV0 the_AT construct_NN1%_VV0 validity_NN1 of_IO the_AT SCAB_NN1 as_II a_AT1 measure_NN1 of_IO creativity_NN1 (_Y Gregory_NP1 ,_Y 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   70 <p> Overall , the current study supports the notion that college students , high in creativity are interested in vocations which reflect their creativity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   70 <p>_Y Overall_RR_NN1 ,_Y the_AT current_JJ study_NN1 supports_VVZ the_AT notion_NN1 that_CST_DD1 college_NN1 students_NN2 ,_Y high_JJ_RR@ in_II creativity_NN1 are_VBR interested_JJ in_II vocations_NN2 which_DDQ reflect_VV0 their_APPGE creativity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   71 This is consistent with the theory of Holland ( 1985,1997 ) and empirical research ( i.e. , Miller , Bass , Wallace , Cowger , 2004 ) indicating that individuals have vocational interests which are consistent with their personality .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   71 This_DD1 is_VBZ consistent_JJ with_IW the_AT theory_NN1 of_IO Holland_NP1 (_Y 1985,1997_MC )_Y and_CC empirical_JJ research_NN1 (_Y i.e._REX ,_Y Miller_NP1 ,_Y Bass_NP1_NN1 ,_Y Wallace_NP1 ,_Y Cowger_NP1_VV0_NN1 ,_Y 2004_MC )_Y indicating_VVG that_CST individuals_NN2 have_VH0 vocational_JJ interests_NN2 which_DDQ are_VBR consistent_JJ with_IW their_APPGE personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   72 Due to the nature of the study , however , these findings provide no evidence that creative students will eventually seek-out artistic vocations .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   72 Due_II21 to_II22 the_AT nature_NN1 of_IO the_AT study_NN1 ,_Y however_RR ,_Y these_DD2 findings_NN2 provide_VV0 no_AT evidence_NN1 that_CST_DD1 creative_JJ students_NN2 will_VM eventually_RR seek-out_JJ@ artistic_JJ vocations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   73 It is possible , and likely , that many creative students will choose vocations which are not considered necessarily artistic , but may allow them to express their creativity in different ways .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   73 It_PPH1 is_VBZ possible_JJ ,_Y and_CC likely_JJ_RR@ ,_Y that_CST many_DA2 creative_JJ students_NN2 will_VM choose_VVI vocations_NN2 which_DDQ are_VBR not_XX considered_VVN necessarily_RR artistic_JJ ,_Y but_CCB may_VM allow_VVI them_PPHO2 to_TO express_VVI their_APPGE creativity_NN1 in_II different_JJ ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   74 Future research is needed to test this possibility .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   74 Future_JJ_NN1 research_NN1 is_VBZ needed_VVN to_TO test_VVI this_DD1 possibility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   75 <p> The present study has a few limitations to consider before generalizing its results .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   75 <p>_Y The_AT present_JJ_NN1 study_NN1 has_VHZ a_AT1 few_DA2 limitations_NN2 to_TO consider_VVI before_II generalizing_VVG its_Z' results_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   76 First , the sample was relatively small and instruments .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   76 First_MD ,_Y the_AT sample_NN1 was_VBDZ relatively_RR small_JJ and_CC instruments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   77 Future studies should include larger , more diverse samples and use behavioral measures in addition to self-report instruments .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   77 Future_JJ_NN1 studies_NN2 should_VM include_VVI larger_JJR ,_Y more_RGR diverse_JJ samples_NN2 and_CC use_VV0_NN1 behavioral_JJ_NN1 measures_NN2 in_II31 addition_II32 to_II33 self-report_JJ_NN1 instruments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   78 Additional research continues to be needed to examine the validity of the SCAB .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   78 Additional_JJ research_NN1 continues_VVZ to_TO be_VBI needed_VVN to_TO examine_VVI the_AT validity_NN1 of_IO the_AT SCAB_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   79 Future research should examine the criterion validity of the instrument using behavioral methods in addition to further establishing the SCAB 'S construct validity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   79 Future_JJ_NN1 research_NN1 should_VM examine_VVI the_AT criterion_NN1 validity_NN1 of_IO the_AT instrument_NN1 using_VVG behavioral_JJ_NN1 methods_NN2 in_II31 addition_II32 to_II33 further_RRR establishing_VVG the_AT SCAB_NN1 'S_GE construct_VV0_NN1% validity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   80 <p> Correspondence concerning this article should be addressed to Kathryn Kelly at kellyk@nsula.edu .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   80 <p>_Y Correspondence_NN1 concerning_II_VVG this_DD1 article_NN1 should_VM be_VBI addressed_VVN to_II Kathryn_NP1 Kelly_NP1 at_II kellyk@nsula.edu_FO ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   81 <p> L : Table 1 Means , Standard Deviations , and Internal Consistencies of Scales pre-formatted table L : Table 2 Correlations Between SCAB Scores and Vocational Interest Scales pre-formatted table L : References -- Costa , P. T. , McCrae , R. R. , Holland , J. L. ( 1984 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   81 <p>_Y L_ZZ1_NP1@ :_Y Table_NN1 1_MC1 Means_NN_VVZ ,_Y Standard_JJ_NN1 Deviations_NN2 ,_Y and_CC Internal_JJ Consistencies_NN2 of_IO Scales_NN2 pre-formatted_ZZ table_NN1 L_ZZ1_NP1@ :_Y Table_NN1 2_MC Correlations_NN2 Between_II SCAB_NN1 Scores_NN2 and_CC Vocational_JJ Interest_NN1 Scales_NN2 pre-formatted_ZZ table_NN1 L_ZZ1_NP1@ :_Y References_NN2 --_ZZ Costa_NP1 ,_Y P._NP1 T._NP1 ,_Y McCrae_NP1 ,_Y R._NP1 R._NP1 ,_Y Holland_NP1 ,_Y J._NP1 L._NP1 (_Y 1984_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   82 Personality and vocational interests in an adult sample .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   82 Personality_NN1 and_CC vocational_JJ interests_NN2 in_II an_AT1 adult_NN1_JJ@ sample_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   83 Journal of Applied Psychology , 69 , 390-400 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   83 Journal_NN1 of_IO Applied_JJ Psychology_NN1 ,_Y 69_MC ,_Y 390-400_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   84 <p> -- Cronbach , L. J. , Meehl , P. E. ( 1955 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   84 <p>_Y --_ZZ Cronbach_NP1 ,_Y L._NP1 J._NP1 ,_Y Meehl_NP1 ,_Y P._NP1 E._NP1 (_Y 1955_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   85 Construct validity in psychological tests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   85 Construct_VV0 validity_NN1 in_II psychological_JJ tests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   86 Psychological Bulletin , 52,281-302 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   86 Psychological_JJ Bulletin_NN1 ,_Y 52,281-302_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   87 <p> -- Gardner , H. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   87 <p>_Y --_ZZ Gardner_NP1 ,_Y H._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   88 Creative lives and creative works : a synthetic scientific approach The nature of creativity ( pp. 298-321 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   88 Creative_JJ lives_NN2 and_CC creative_JJ works_NN :_Y a_AT1 synthetic_JJ scientific_JJ approach_NN1 The_AT nature_NN1 of_IO creativity_NN1 (_Y pp._NNU2 298-321_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   89 Cambridge , United Kingdom : Cambridge University Press .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   89 Cambridge_NP1 ,_Y United_NP1 Kingdom_NP1 :_Y Cambridge_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   90 <p> -- Gelade , G. A. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   90 <p>_Y --_ZZ Gelade_NP1_NN1@ ,_Y G._NP1 A._ZZ (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   91 Creative style , personality , and artistic endeavor .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   91 Creative_JJ style_NN1 ,_Y personality_NN1 ,_Y and_CC artistic_JJ endeavor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   92 Genetic , Social , and General Psychology Monographs , 128 , 213-234 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   92 Genetic_JJ ,_Y Social_JJ ,_Y and_CC General_JJ_NN1 Psychology_NN1 Monographs_NN2 ,_Y 128_MC ,_Y 213-234_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   93 <p> -- Gough , H. G. ( 1979 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   93 <p>_Y --_ZZ Gough_NP1 ,_Y H._NP1 G._NP1 (_Y 1979_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   94 A creative personality scale for the adjective check list .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   94 A_AT1_ZZ1 creative_JJ personality_NN1 scale_NN1 for_IF the_AT adjective_NN1 check_NN1_VV0 list_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   95 Journal of Personality and Social Psychology , 37 , 1398-1405 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   95 Journal_NN1 of_IO Personality_NN1 and_CC Social_JJ Psychology_NN1 ,_Y 37_MC ,_Y 1398-1405_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   96 <p> -- Gregory , R. J. ( 2000 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   96 <p>_Y --_ZZ Gregory_NP1 ,_Y R._NP1 J._NP1 (_Y 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   97 Psychological testing : History , principles , and applications ( 3rd Ed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   97 Psychological_JJ testing_NN1 :_Y History_NN1 ,_Y principles_NN2 ,_Y and_CC applications_NN2 (_Y 3rd_MD Ed_NP1_NN1% ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   98 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   98 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0   99 Boston : Allyn Bacon .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0   99 Boston_NP1 :_Y Allyn_NP1 Bacon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  100 <p> -- HairJ.F. , Anderson R.E. , Tathum R.L. , and Black W. C. ( 1998 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  100 <p>_Y --_ZZ HairJ.F._NP1 ,_Y Anderson_NP1 R.E._NP1 ,_Y Tathum_NP1 R.L._NP1 ,_Y and_CC Black_NP1@_JJ W._NP1 C._NP1 (_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  101 Multivariate data analysis ( 5th ed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  101 Multivariate_JJ data_NN analysis_NN1 (_Y 5th_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  102 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  102 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  103 Upper Saddle Hall , NJ : Prentice-Hall .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  103 Upper_JJ Saddle_NN1 Hall_NN1 ,_Y NJ_NP1 :_Y Prentice-Hall_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  104 <p> -- Holland , J. L. ( 1985 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  104 <p>_Y --_ZZ Holland_NP1 ,_Y J._NP1 L._NP1 (_Y 1985_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  105 Vocational Preference Inventory professional manual .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  105 Vocational_JJ Preference_NN1 Inventory_NN1 professional_JJ_NN1@ manual_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  106 Odessa , FL : Psychological Assessment Resources .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  106 Odessa_NP1 ,_Y FL_FW@_NNU :_Y Psychological_JJ Assessment_NN1 Resources_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  107 <p> -- Holland , J. L. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  107 <p>_Y --_ZZ Holland_NP1 ,_Y J._NP1 L._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  108 Making vocational choices : A theory of vocation-personalities and work Psychological Assessment Resources .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  108 Making_VVG vocational_JJ choices_NN2 :_Y A_AT1@_ZZ1 theory_NN1 of_IO vocation-personalities_NN2 and_CC work_VV0_NN1 Psychological_JJ Assessment_NN1 Resources_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  109 <p> -- Kelly , K. E. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  109 <p>_Y --_ZZ Kelly_NP1 ,_Y K._NP1 E._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  110 A brief measure of creativity among college students .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  110 A_AT1_ZZ1 brief_JJ measure_NN1 of_IO creativity_NN1 among_II college_NN1 students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  111 College Student Journal , 38 , 594-596 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  111 College_NN1 Student_NN1 Journal_NN1 ,_Y 38_MC ,_Y 594-596_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  112 <p> -- Kelly , K. E. ( 2006 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  112 <p>_Y --_ZZ Kelly_NP1 ,_Y K._NP1 E._NP1 (_Y 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  113 Relationship between the Five-Factor Model of Personality and the Scale of Creative Attributes and Behavior : A validational study .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  113 Relationship_NN1 between_II the_AT Five-Factor_NP1 Model_NN1 of_IO Personality_NN1 and_CC the_AT Scale_NN1 of_IO Creative_JJ Attributes_NN2 and_CC Behavior_NP1_NN1 :_Y A_ZZ1_AT1@ validational_JJ study_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  114 Individual Differences Research , 4,299-305 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  114 Individual_JJ_NN1 Differences_NN2 Research_VV0@_NN1 ,_Y 4,299-305_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  115 <p> -- Lowman , R.L. , Schurman , S. J. ( 1982 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  115 <p>_Y --_ZZ Lowman_NN1_NP1 ,_Y R.L._NP1 ,_Y Schurman_NP1_NN1 ,_Y S._NP1 J._NP1 (_Y 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  116 Psychometric characteristics of a Vocational Preference Inventory Short Form .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  116 Psychometric_JJ characteristics_NN2 of_IO a_AT1 Vocational_JJ Preference_NN1 Inventory_NN1 Short_NP1_JJ@ Form_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  117 Educational and Psychological Measurement , 42 , 601-613 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  117 Educational_JJ and_CC Psychological_JJ Measurement_NN1 ,_Y 42_MC ,_Y 601-613_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  118 <p> -- Miller , M. J. , Bass , C.B. , Wallace , J. , Cowger , E. L. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  118 <p>_Y --_ZZ Miller_NP1_NN1@ ,_Y M._NN1 J._NP1 ,_Y Bass_NP1_NN1 ,_Y C.B._NP1 ,_Y Wallace_NP1 ,_Y J._NP1 ,_Y Cowger_NP1_VV0_NN1 ,_Y E._NP1 L._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  119 Testing Holland 's congruency satisfaction hypothesis among non-professional workers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  119 Testing_NP1@_VVG Holland_NP1 's_GE congruency_NN1 satisfaction_NN1 hypothesis_NN1 among_II non-professional_JJ workers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  120 Counseling and Clinical Psychology Journal , 1 , 15-20 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  120 Counseling_NN1 and_CC Clinical_JJ Psychology_NN1 Journal_NN1 ,_Y 1_MC1 ,_Y 15-20_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  121 <p> -- Nunnally , J. C. ( 1978 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  121 <p>_Y --_ZZ Nunnally_NP1_RR ,_Y J._NP1 C._NP1 (_Y 1978_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  122 Psychometric theory ( 2nd ed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  122 Psychometric_JJ theory_NN1 (_Y 2nd_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  123 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  123 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  124 New York : McGraw Hill .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  124 New_NP1 York_NP1 :_Y McGraw_NP1 Hill_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  125 <p> -- Simonton , D. K. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  125 <p>_Y --_ZZ Simonton_NP1_NN1@ ,_Y D._NP1 K._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  126 Creativity , leadership , and chance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  126 Creativity_NN1 ,_Y leadership_NN1 ,_Y and_CC chance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  127 In R. J. Sternberg ( 386-426 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  127 In_II R._NP1 J._NP1 Sternberg_NP1 (_Y 386-426_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  128 Cambridge , United Kingdom : Cambridge University Press .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  128 Cambridge_NP1 ,_Y United_NP1 Kingdom_NP1 :_Y Cambridge_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  129 <p> -- Simonton , D. K. ( 1999 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  129 <p>_Y --_ZZ Simonton_NP1_NN1@ ,_Y D._NP1 K._NP1 (_Y 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  130 Creativity and genius .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  130 Creativity_NN1 and_CC genius_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  131 In L. A. Pervin O. P. John ( Eds ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  131 In_II L._NP1 A._ZZ Pervin_NP1 O._NP1 P._NP1 John_NP1 (_Y Eds_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  132 , Handbook of personality : Theory and research ( 2nd ed ) ( pp. 629-652 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  132 ,_Y Handbook_NN1 of_IO personality_NN1 :_Y Theory_NN1 and_CC research_NN1 (_Y 2nd_MD ed_NN1 )_Y (_Y pp._NNU2 629-652_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  133 New York : Guilford Press .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  133 New_NP1 York_NP1 :_Y Guilford_NP1 Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  134 <p> -- Tardif , T. Z. Sternberg , R. J. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  134 <p>_Y --_ZZ Tardif_NN1_NP1 ,_Y T._NP1 Z._NP1 Sternberg_NP1 ,_Y R._NP1 J._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  135 What do we know about creativity ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  135 What_DDQ do_VD0 we_PPIS2 know_VVI about_II creativity_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  136 In R. J. Sternberg ( Ed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  136 In_II R._NP1 J._NP1 Sternberg_NP1 (_Y Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  137 ) , The nature of creativity ( pp. 429-440 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  137 )_Y ,_Y The_AT nature_NN1 of_IO creativity_NN1 (_Y pp._NNU2 429-440_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  138 Cambridge , United Kingdom : Cambridge University Press .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  138 Cambridge_NP1 ,_Y United_NP1 Kingdom_NP1 :_Y Cambridge_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  139 <p> -- Torrance , E. P. ( 1974 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  139 <p>_Y --_ZZ Torrance_NP1 ,_Y E._NP1 P._NP1 (_Y 1974_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  140 Torrance Tests of Creative Thinking : Norms-technical manual .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  140 Torrance_NP1 Tests_NN2 of_IO Creative_JJ Thinking_NN1 :_Y Norms-technical_JJ manual_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  141 Princeton , NJ : Personnel Press/Ginn .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  141 Princeton_NN1_NP1@ ,_Y NJ_NP1 :_Y Personnel_NN2 Press/Ginn_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  142 <p> -- Torrance , E. P. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  142 <p>_Y --_ZZ Torrance_NP1 ,_Y E._NP1 P._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  143 The nature of creativity as manifest in its testing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  143 The_AT nature_NN1 of_IO creativity_NN1 as_CSA_RG@_II@ manifest_JJ in_II its_Z' testing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  144 In R. J. Sternberg ( Ed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  144 In_II R._NP1 J._NP1 Sternberg_NP1 (_Y Ed_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  145 ) , The nature of creativity ( pp. 43-75 ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  145 )_Y ,_Y The_AT nature_NN1 of_IO creativity_NN1 (_Y pp._NNU2 43-75_MCMC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  146 Cambridge , United Kingdom : Cambridge University Press .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  146 Cambridge_NP1 ,_Y United_NP1 Kingdom_NP1 :_Y Cambridge_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  A    0  147 <p> By Kathryn E. Kelly , North-western State University <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071273 COCA  B    0  147 <p>_Y By_II Kathryn_NP1 E._NP1 Kelly_NP1 ,_Y North-western_JJ State_NN1 University_NN1 <p>_Y

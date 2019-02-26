@@ -1,0 +1,120 @@
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    0 I love originality so much I keep copying it .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    0 I_MC1%_ZZ1% love_NN1_VV0 originality_NN1 so_RG much_DA1_RR I_PPIS1 keep_VV0 copying_VVG it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    1 <p> Immature poets borrow .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    1 <p>_Y Immature_JJ poets_NN2 borrow_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    2 Mature poets invest .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    2 Mature_JJ_VV0 poets_NN2 invest_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    3 <p> POETRY WANTS TO BE FREE .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    3 <p>_Y POETRY_NN1 WANTS_VVZ TO_TO BE_VBI FREE_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    4 ( Or , if not , available for long-term loan .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    4 (_Y Or_CC ,_Y if_CS not_XX ,_Y available_JJ for_IF long-term_JJ loan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    5 ) <p> I 'm the derivative product of an originality that spawns me as it spurns me .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    5 )_Y <p>_Y I_PPIS1 'm_VBM the_AT derivative_JJ_NN1 product_NN1 of_IO an_AT1 originality_NN1 that_CST_DD1 spawns_VVZ me_PPIO1 as_CSA it_PPH1 spurns_VVZ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    6 <p> The work of art " itself " does not exist , only incommensurable social contexts through which it emerges and into which it vanishes .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    6 <p>_Y The_AT work_NN1 of_IO art_NN1 "_Y itself_PPX1 "_Y does_VDZ not_XX exist_VVI ,_Y only_RR_JJ incommensurable_JJ social_JJ contexts_NN2 through_II which_DDQ it_PPH1 emerges_VVZ and_CC into_II which_DDQ it_PPH1 vanishes_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    7 <p> The author dies .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    7 <p>_Y The_AT author_NN1 dies_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    8 The author 's work is born .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    8 The_AT author_NN1 's_GE work_NN1 is_VBZ born_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0    9 <p> Poetry is a secret society hiding in plain sight , open to ear and mind 's eye .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0    9 <p>_Y Poetry_NN1 is_VBZ a_AT1 secret_JJ society_NN1 hiding_VVG in_II_RP@ plain_JJ_NN1 sight_NN1 ,_Y open_VV0_JJ_RR@ to_II ear_NN1 and_CC mind_NN1 's_GE eye_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   10 <p> The shock of the new for some , the invigorating tonic of the contemporary for others .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   10 <p>_Y The_AT shock_NN1 of_IO the_AT new_JJ for_IF some_DD ,_Y the_AT invigorating_JJ tonic_NN1 of_IO the_AT contemporary_JJ_NN1@ for_IF others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   11 <p> A work of art is the overlay of a set of incommensurable possibilities , linked together around an original vanishing point .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   11 <p>_Y A_AT1 work_NN1 of_IO art_NN1 is_VBZ the_AT overlay_NN1@ of_IO a_AT1 set_NN1 of_IO incommensurable_JJ possibilities_NN2 ,_Y linked_VVN_VVD@ together_RL around_II an_AT1 original_JJ vanishing_JJ point_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   12 <p> CONCEPTUAL POETRY IS POETRY PREGNANT WITH THOUGHT .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   12 <p>_Y CONCEPTUAL_JJ POETRY_NN1 IS_VBZ POETRY_NN1 PREGNANT_JJ WITH_IW THOUGHT_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   13 <p> ( The absence of conception had itself to be conceived .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   13 <p>_Y (_Y The_AT absence_NN1 of_IO conception_NN1 had_VHD itself_PPX1 to_TO be_VBI conceived_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   14 ) <p> THE POET IS A LIAR .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   14 )_Y <p>_Y THE_AT POET_NN1 IS_VBZ A_AT1@ LIAR_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   15 <p> THE POET IS A LYRE abhors a narrative .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   15 <p>_Y THE_AT POET_NN1 IS_VBZ A_AT1@ LYRE_NN1 abhors_VVZ a_AT1 narrative_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   16 ) <p> " I did not paint it to be understood , but I wished to show what such a scene was like .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   16 )_Y <p>_Y "_Y I_PPIS1 did_VDD not_XX paint_VVI it_PPH1 to_TO be_VBI understood_VVN ,_Y but_CCB I_PPIS1 wished_VVD to_TO show_VVI what_DDQ such_DA a_AT1 scene_NN1 was_VBDZ like_II ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   17 " <p> -- J.M.W. Turner ( 1842 ) <p> L=A=N=G=U=A=G=E P=O=E=T=R=Y : a loose affiliation of unlike individuals .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   17 "_Y <p>_Y --_ZZ J.M.W._NP1 Turner_NP1 (_Y 1842_MC )_Y <p>_Y L=A=N=G=U=A=G=E_FO P=O=E=T=R=Y_FO :_Y a_AT1 loose_JJ affiliation_NN1 of_IO unlike_JJ individuals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   18 <p> Which reminds me of the story of the man who reports a wife-beating to a neighbor .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   18 <p>_Y Which_DDQ reminds_VVZ me_PPIO1 of_IO the_AT story_NN1 of_IO the_AT man_NN1 who_PNQS reports_VVZ a_AT1 wife-beating_NN1_JJ to_II a_AT1 neighbor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   19 " Then stop beating her , " the neighbor replies .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   19 "_Y Then_RT stop_VV0 beating_VVG her_PPHO1 ,_Y "_Y the_AT neighbor_NN1 replies_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   20 " But it 's not my wife !
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   20 "_Y But_CCB it_PPH1 's_VBZ not_XX my_APPGE wife_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   21 " replies the good Samaritan , becoming agitated .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   21 "_Y replies_VVZ the_AT good_JJ Samaritan_NN1_NP1_JJ ,_Y becoming_VVG agitated_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   22 " That 's even worse !
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   22 "_Y That_DD1 's_VBZ even_RR worse_JJR !_Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   23 " says his neighbor .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   23 "_Y says_VVZ his_APPGE neighbor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   24 <p> No parodist goes unpunished because in these times the parodist is pilloried for the views he or she parodies .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   24 <p>_Y No_XX parodist_NN1 goes_VVZ unpunished_JJ because_CS in_II these_DD2 times_NNT2 the_AT parodist_NN1 is_VBZ pilloried_VVN for_IF the_AT views_NN2 he_PPHS1 or_CC she_PPHS1 parodies_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   25 In a world of moral discourse absent ethical engagement , only the self-righteous go unrebuked .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   25 In_II a_AT1 world_NN1 of_IO moral_JJ discourse_NN1 absent_JJ_VV0@ ethical_JJ engagement_NN1 ,_Y only_RR the_AT self-righteous_JJ go_NN1 unrebuked_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   26 <p> I was born yesterday ... and 'll die tomorrow .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   26 <p>_Y I_PPIS1 was_VBDZ born_VVN yesterday_RT ..._... and_CC 'll_VM die_VVI tomorrow_RT ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   27 <p> pre-formatted table CARPE DIEM : CARP AND DIE .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   27 <p>_Y pre-formatted_ZZ table_NN1 CARPE_UH21 DIEM_UH22 :_Y CARP_NN_VV0 AND_CC DIE_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   28 <p> I am not the man I was much less the one I will be nor imagine myself as , just the person I almost am .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   28 <p>_Y I_PPIS1 am_VBM not_XX the_AT man_NN1 I_PPIS1 was_VBDZ much_RR_DA1 less_RRR_DAR the_AT one_PN1 I_PPIS1 will_VM be_VBI nor_CC imagine_VV0 myself_PPX1 as_CSA ,_Y just_RR the_AT person_NN1 I_PPIS1 almost_RR am_RA@_VBM ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   29 <p> A My skin is burning but inside I am as cold as the North Pole .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   29 <p>_Y A_AT1 My_APPGE skin_NN1 is_VBZ burning_JJ_VVG but_CCB inside_RL I_PPIS1 am_VBM as_RG cold_JJ as_CSA the_AT North_ND1 Pole_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   30 My shivering is metaphysical , a kind of involuntary davening .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   30 My_APPGE shivering_NN1@ is_VBZ metaphysical_JJ ,_Y a_AT1 kind_NN1 of_IO involuntary_JJ davening_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   31 <p> Religion is giving religion a bad name .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   31 <p>_Y Religion_NN1 is_VBZ giving_VVG religion_NN1 a_AT1 bad_JJ name_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   32 <p> Nor am I an atheist .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   32 <p>_Y Nor_CC am_VBM I_PPIS1 an_AT1 atheist_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   33 I believe in the fallible gods of thought and in my resistance to these gods .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   33 I_PPIS1 believe_VV0 in_II_RP@ the_AT fallible_JJ gods_NN2 of_IO thought_NN1 and_CC in_II my_APPGE resistance_NN1 to_II these_DD2 gods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   34 I have faith in my aversion of faith .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   34 I_PPIS1 have_VH0 faith_NN1 in_II my_APPGE aversion_NN1 of_IO faith_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   35 <p> Take care not to define yourself against others ' belief systems .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   35 <p>_Y Take_VV0 care_NN1 not_XX to_TO define_VVI yourself_PPX1 against_II others_NN2 '_GE belief_NN1 systems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   36 Their God does not define the domain of my profane , their Devil does not wash away my sins .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   36 Their_APPGE God_NN1@_NP1 does_VDZ not_XX define_VVI the_AT domain_NN1 of_IO my_APPGE profane_JJ ,_Y their_APPGE Devil_NN1 does_VDZ not_XX wash_VVI away_RL my_APPGE sins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   37 <p> The water colors in watercolors .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   37 <p>_Y The_AT water_NN1 colors_NN2_VVZ@ in_II watercolors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   38 <p> I 'm an observant Jew .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   38 <p>_Y I_PPIS1 'm_VBM an_AT1 observant_JJ Jew_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   39 I look closely at the things around me , as if they were foreign .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   39 I_PPIS1 look_VV0 closely_RR at_II the_AT things_NN2 around_II me_PPIO1 ,_Y as_CS21 if_CS22 they_PPHS2 were_VBDR foreign_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   40 <p> Sandy as a sugar donut , salty as a red rose ... <p> You 're either awake or asleep or will be .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   40 <p>_Y Sandy_JJ_NP1@ as_II_CSA a_AT1 sugar_NN1 donut_NN1 ,_Y salty_JJ as_II_CSA a_AT1 red_JJ_NN1 rose_NN1 ..._... <p>_Y You_PPY 're_VBR either_RR awake_JJ or_CC asleep_JJ or_CC will_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   41 <p> I am not a secular man , but in moments of crisis I turn to agnosticism for the comfort it gives in freeing me from superstition .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   41 <p>_Y I_PPIS1 am_VBM not_XX a_AT1 secular_JJ man_NN1 ,_Y but_CCB in_II moments_NN2 of_IO crisis_NN1 I_PPIS1 turn_VV0 to_II agnosticism_NN1 for_IF the_AT comfort_NN1 it_PPH1 gives_VVZ in_II_RP@ freeing_VVG me_PPIO1 from_II superstition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   42 Once , when gravely ill and sure I would die with Nietzsche in hand , swore I would remain an agnostic even if I recovered .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   42 Once_RR ,_Y when_CS_RRQ gravely_RR ill_Z' and_CC sure_JJ_RR% I_PPIS1 would_VM die_VVI with_IW Nietzsche_NP1 in_II hand_NN1 ,_Y swore_VVD I_PPIS1 would_VM remain_VVI an_AT1 agnostic_NN1_JJ even_CS21 if_CS22 I_PPIS1 recovered_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   43 But once I did recover , I lapsed again into religious belief , feeling the danger was over and it was safe to return to my old ways .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   43 But_CCB once_RR_CS@ I_PPIS1 did_VDD recover_VVI ,_Y I_PPIS1 lapsed_VVD again_RT into_II religious_JJ belief_NN1 ,_Y feeling_VVG the_AT danger_NN1 was_VBDZ over_RP and_CC it_PPH1 was_VBDZ safe_JJ to_TO return_VVI to_II my_APPGE old_JJ ways_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   44 Still , the fear of dying under the veil of dogma still grips my soul late in the night and I yearn for the courage to embrace reality without prophylactics .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   44 Still_RR ,_Y the_AT fear_NN1 of_IO dying_VVG_JJ under_II the_AT veil_NN1 of_IO dogma_NN1 still_RR grips_VVZ my_APPGE soul_NN1 late_RR_JJ in_II the_AT night_NNT1 and_CC I_PPIS1 yearn_VV0 for_IF the_AT courage_NN1 to_TO embrace_VVI reality_NN1 without_IW prophylactics_NN2_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   45 <p> My mind is a labyrinth with well-lit exit signs ; as much as I try , I ca n't ignore them .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   45 <p>_Y My_APPGE mind_NN1 is_VBZ a_AT1 labyrinth_NN1 with_IW well-lit_JJ exit_NN1 signs_NN2 ;_Y as_RG much_DA1 as_CSA I_PPIS1 try_VV0 ,_Y I_PPIS1 ca_VM n't_XX ignore_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   46 When I take leave of my mind I put myself in the care of my brain .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   46 When_CS_RRQ I_PPIS1 take_VV0 leave_NN1 of_IO my_APPGE mind_NN1 I_PPIS1 put_VVD_VV0 myself_PPX1 in_II the_AT care_NN1 of_IO my_APPGE brain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   47 In this way , I become again the animal to which my mind is blind .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   47 In_II this_DD1 way_NN1 ,_Y I_PPIS1 become_VV0 again_RT the_AT animal_NN1 to_II which_DDQ my_APPGE mind_NN1 is_VBZ blind_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   48 <p> There 's no depth to the depth .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   48 <p>_Y There_EX 's_VBZ no_AT depth_NN1 to_II the_AT depth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   49 <p> In the world of the imagination , impossible just means the next opportunity to get real .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   49 <p>_Y In_II the_AT world_NN1 of_IO the_AT imagination_NN1 ,_Y impossible_JJ just_RR means_VVZ the_AT next_MD opportunity_NN1 to_TO get_VVI real_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   50 <p> The ceremony of sorrow is performed with a measured , defiant acknowledgement that makes words charms , talismans of the fallen world .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   50 <p>_Y The_AT ceremony_NN1 of_IO sorrow_NN1 is_VBZ performed_VVN with_IW a_AT1 measured_JJ@ ,_Y defiant_JJ acknowledgement_NN1 that_CST_DD1 makes_VVZ words_NN2 charms_NN2 ,_Y talismans_NN2 of_IO the_AT fallen_JJ% world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   51 Poetry is a holding space , a folded returning as radiant moments of memory 's forgiving home .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   51 Poetry_NN1 is_VBZ a_AT1 holding_JJ@_NN1@ space_NN1 ,_Y a_AT1 folded_JJ returning_VVG as_RG@_CSA_II@ radiant_JJ moments_NN2 of_IO memory_NN1 's_GE forgiving_JJ_VVG@ home_NN1_RL ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   52 for Akilah Oliver <p> Turner 's sheerness .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   52 for_IF Akilah_NP1 Oliver_NP1 <p>_Y Turner_NP1 's_GE sheerness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   53 <p> Existence needs essence the way a walking tour needs local color .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   53 <p>_Y Existence_NN1 needs_VVZ essence_NN1 the_AT way_NN1 a_AT1 walking_NN1_JJ@ tour_NN1 needs_VVZ local_JJ color_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   54 But a hole in an argument is not the same as a point of light .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   54 But_CCB a_AT1 hole_NN1 in_II an_AT1 argument_NN1 is_VBZ not_XX the_AT same_DA as_CSA a_AT1 point_NN1 of_IO light_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   55 <p> Rather than an expression of love , justice is a protection against our inability to love .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   55 <p>_Y Rather_II21_CS21@ than_II22_CS22@ an_AT1 expression_NN1 of_IO love_NN1 ,_Y justice_NN1 is_VBZ a_AT1 protection_NN1 against_II our_APPGE inability_NN1 to_TO love_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   56 <p> We are most familiar with our estrangement ; it is our home ground .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   56 <p>_Y We_PPIS2 are_VBR most_RGT familiar_JJ with_IW our_APPGE estrangement_NN1 ;_Y it_PPH1 is_VBZ our_APPGE home_NN1 ground_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   57 <p> The absence of an accent is also an accent .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   57 <p>_Y The_AT absence_NN1 of_IO an_AT1 accent_NN1 is_VBZ also_RR an_AT1 accent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   58 <p> Yet the Dark , untouched by light , injures it all the same .
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   58 <p>_Y Yet_RR the_AT Dark_NN1_JJ ,_Y untouched_JJ by_II light_NN1_JJ ,_Y injures_VVZ it_PPH1 all_RR31 the_RR32 same_RR33 ._Y
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  A    0   59 <p> By Charles Bernstein <p>
+SENTPOS COCA_acad_wlp_2009_02_FILE##4071071 COCA  B    0   59 <p>_Y By_II Charles_NP1 Bernstein_NP1 <p>_Y

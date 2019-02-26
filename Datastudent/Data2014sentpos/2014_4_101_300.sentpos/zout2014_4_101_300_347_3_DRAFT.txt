@@ -1,0 +1,122 @@
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    0 In William Faulkner 's story , " A Rose for Emily , " Faulkner tells the story of Emily Grierson .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    0 In_II William_NP1 Faulkner_NP1 's_GE story_NN1 ,_, "_" A_ZZ1 Rose_NN1 for_IF Emily_NP1 ,_, "_" Faulkner_NP1 tells_VVZ the_AT story_NN1 of_IO Emily_NP1 Grierson_NP1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    1 Emily , an upper class woman during the late nineteenth century and early twentieth century , lives a rather down falling life .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    1 Emily_NP1 ,_, an_AT1 upper_JJ class_NN1 woman_NN1 during_II the_AT late_JJ nineteenth_MD century_NNT1 and_CC early_JJ twentieth_MD century_NNT1 ,_, lives_VVZ a_AT1 rather_RG down_JJ% falling_JJ@ life_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    2 Emily lives in a time when many changes were occurring .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    2 Emily_NP1 lives_VVZ in_II a_AT1 time_NNT1 when_RRQ many_DA2 changes_NN2 were_VBDR occurring_VVG ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    3 Emily is a person from a powerful southern family .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    3 Emily_NP1 is_VBZ a_AT1 person_NN1 from_II a_AT1 powerful_JJ southern_JJ family_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    4 During Emily 's childhood her family and many other families like her had very much power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    4 During_II Emily_NP1 's_GE childhood_NN1 her_APPGE family_NN1 and_CC many_DA2 other_JJ families_NN2 like_II her_PPHO1 had_VHN@ very_RG much_DA1 power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    5 However , during the turn of the century these changes started to occur .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    5 However_RR ,_, during_II the_AT turn_NN1 of_IO the_AT century_NNT1 these_DD2 changes_NN2 started_VVD to_TO occur_VVI ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    6 The changes Emily faced were her father dying , her " sweetheart " leaving her and her meeting a man named Homer Barron .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    6 The_AT changes_NN2 Emily_NP1 faced_VVD were_VBDR her_APPGE father_NN1 dying_VVG ,_, her_APPGE "_" sweetheart_NN1 "_" leaving_VVG her_PPHO1 and_CC her_APPGE meeting_VVG a_AT1 man_NN1 named_VVN Homer_NP1 Barron_NP1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    7 All three of these incidents caused her downfall from southern power to eventually death .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    7 All_DB three_MC of_IO these_DD2 incidents_NN2 caused_VVD her_APPGE downfall_NN1 from_II southern_JJ power_NN1 to_II eventually_RR death_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    8 Emily 's decay from power to nothing can be compared to the immense power that all wealthy southern families during this time and then their gradual fall from power because of many reasons .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    8 Emily_NP1 's_GE decay_NN1 from_II power_NN1 to_II nothing_PN1 can_VM be_VBI compared_VVN to_II the_AT immense_JJ power_NN1 that_CST all_DB wealthy_JJ southern_JJ families_NN2 during_II this_DD1 time_NNT1 and_CC then_RT their_APPGE gradual_JJ fall_NN1 from_II power_NN1 because_II21 of_II22 many_DA2 reasons_NN2 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0    9 The story help to better understand the connection between outside forces and the power that these forces have on the rise and fall of certain people or groups of people .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0    9 The_AT story_NN1 help_NN1 to_TO better_RRR understand_VVI the_AT connection_NN1 between_II outside_JJ forces_NN2 and_CC the_AT power_NN1 that_CST these_DD2 forces_NN2 have_VH0 on_II the_AT rise_NN1 and_CC fall_NN1 of_IO certain_JJ people_NN or_CC groups_NN2 of_IO people_NN ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    0   10 " A Rose for Emily " shows the decay of Emily Grierson , her decline not only represents her own fall from power but the overall fall of power of many upper class families in the south during this time period due to the fall of the Confederacy and the increased rights for women during the twentieth century .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    0   10 "_" A_AT1 Rose_NN1 for_IF Emily_NP1 "_" shows_VVZ the_AT decay_NN1 of_IO Emily_NP1 Grierson_NP1 ,_, her_APPGE decline_NN1 not_XX only_RR represents_VVZ her_APPGE own_DA fall_NN1 from_II power_NN1 but_CCB the_AT overall_JJ fall_NN1 of_IO power_NN1 of_IO many_DA2 upper_JJ class_NN1 families_NN2 in_II the_AT south_ND1 during_II this_DD1 time_NNT1 period_NN1 due_II21 to_II22 the_AT fall_NN1 of_IO the_AT Confederacy_NN1 and_CC the_AT increased_JJ rights_NN2 for_IF women_NN2 during_II the_AT twentieth_MD century_NNT1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   11 As said before the changes Emily faced during her lifetime were her father dying , her " sweetheart " leaving her and her meeting a man named Homer Barron .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   11 As_CSA said_VVN@ before_II the_AT changes_NN2 Emily_NP1 faced_VVD during_II her_APPGE lifetime_NNT1 were_VBDR her_APPGE father_NN1 dying_VVG ,_, her_APPGE "_" sweetheart_NN1 "_" leaving_VVG her_PPHO1 and_CC her_APPGE meeting_VVG a_AT1 man_NN1 named_VVN Homer_NP1 Barron_NP1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   12 These three changes go along with the theme of decay in this story .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   12 These_DD2 three_MC changes_NN2 go_VV0 along_II21 with_II22 the_AT theme_NN1 of_IO decay_NN1 in_II this_DD1 story_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   13 Emily 's father like most southern men provided for his family and made them a great power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   13 Emily_NP1 's_GE father_NN1 like_II most_DAT southern_JJ men_NN2 provided_VVN for_IF his_APPGE family_NN1 and_CC made_VVN them_PPHO2 a_AT1 great_JJ power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   14 After he dies Emily is now on her own and must find a way to survive and keep her power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   14 After_CS he_PPHS1 dies_VVZ Emily_NP1 is_VBZ now_RT on_II her_APPGE own_DA and_CC must_VM find_VVI a_AT1 way_NN1 to_TO survive_VVI and_CC keep_VVI her_APPGE power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   15 During this time in the South many woman did not have much power or were not prepared for so much power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   15 During_II this_DD1 time_NNT1 in_II the_AT South_ND1 many_DA2 woman_NN1 did_VDD not_XX have_VHI much_DA1 power_NN1 or_CC were_VBDR not_XX prepared_VVN for_IF so_RG much_DA1 power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   16 Emily wants to keep this power and keep her family name important .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   16 Emily_NP1 wants_VVZ to_TO keep_VVI this_DD1 power_NN1 and_CC keep_VVI her_APPGE family_NN1 name_NN1 important_JJ ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   17 She somewhat does this in a way by meeting a man only know as Emily 's " sweetheart . "
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   17 She_PPHS1 somewhat_RR does_VDZ this_DD1 in_II a_AT1 way_NN1 by_II meeting_VVG a_AT1 man_NN1 only_RR know_VV0 as_CSA Emily_NP1 's_GE "_" sweetheart_NN1 ._. "_"
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   18 Eventually this man leaves Emily so she is back where she started when her father died .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   18 Eventually_RR this_DD1 man_NN1 leaves_VVZ Emily_NP1 so_CS@ she_PPHS1 is_VBZ back_RP where_CS she_PPHS1 started_VVD when_CS her_APPGE father_NN1 died_VVD ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   19 Now she is trying to survive on her own and with little experience still Emily starts to go into a downward spiral .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   19 Now_RT she_PPHS1 is_VBZ trying_VVG to_TO survive_VVI on_II her_APPGE own_DA and_CC with_IW little_DA1 experience_NN1 still_RR Emily_NP1 starts_VVZ to_TO go_VVI into_II a_AT1 downward_JJ spiral_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   20 These two events cause her to become a recluse .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   20 These_DD2 two_MC events_NN2 cause_VV0 her_PPHO1 to_TO become_VVI a_AT1 recluse_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   21 She never leaves her home and is very rarely seen standing in a window looking out .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   21 She_PPHS1 never_RR leaves_VVZ her_PPHO1 home_RL and_CC is_VBZ very_RG rarely_RR seen_VVN standing_VVG in_II a_AT1 window_NN1 looking_VVG out_RP ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   22 She use to give painting lessons from her home and everyone would bring their children to her to learn how to paint but after these two incidents the only one to come and go is her butler .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   22 She_PPHS1 use_VV0 to_TO give_VVI painting_NN1 lessons_NN2 from_II her_APPGE home_NN1 and_CC everyone_PN1 would_VM bring_VVI their_APPGE children_NN2 to_II her_PPHO1 to_TO learn_VVI how_RRQ to_TO paint_VVI but_CCB after_CS these_DD2 two_MC incidents_NN2 the_AT only_JJ one_MC1 to_TO come_VVI and_CC go_VVI is_VBZ her_APPGE butler_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   23 This butler is the only sign that see somewhat still has power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   23 This_DD1 butler_NN1 is_VBZ the_AT only_JJ sign_NN1 that_CST see_VV0 somewhat_RR still_RR has_VHZ power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   24 Even though this power is only over one man .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   24 Even_CS21 though_CS22 this_DD1 power_NN1 is_VBZ only_RR over_II one_MC1 man_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   25 Eventually a man shows up in Emily 's town .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   25 Eventually_RR a_AT1 man_NN1 shows_VVZ up_RP in_II Emily_NP1 's_GE town_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   26 His name is Homer Barron .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   26 His_APPGE name_NN1 is_VBZ Homer_NP1 Barron_NP1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   27 He is a northern here for a construction job .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   27 He_PPHS1 is_VBZ a_AT1 northern_JJ here_RL for_IF a_AT1 construction_NN1 job_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   28 Soon after Emily is seen with Homer in town .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   28 Soon_RR after_II Emily_NP1 is_VBZ seen_VVN with_IW Homer_NP1 in_II town_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   29 Emily is trying to obtain the power that she once had again .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   29 Emily_NP1 is_VBZ trying_VVG to_TO obtain_VVI the_AT power_NN1 that_CST she_PPHS1 once_RR had_VHD again_RT ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   30 After she is seen with this man the story reads that she visits a druggist .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   30 After_CS she_PPHS1 is_VBZ seen_VVN with_IW this_DD1 man_NN1 the_AT story_NN1 reads_VVZ that_CST she_PPHS1 visits_VVZ@ a_AT1 druggist_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   31 She then asks for Arsenic , a powerful poison , when the druggist asked what she needs the poison for she gives no reply .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   31 She_PPHS1 then_RT asks_VVZ for_IF Arsenic_NN1 ,_, a_AT1 powerful_JJ poison_NN1 ,_, when_CS the_AT druggist_NN1 asked_VVD what_DDQ she_PPHS1 needs_VVZ the_AT poison_NN1 for_CS she_PPHS1 gives_VVZ no_AT reply_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   32 Later on Homer Barron is no longer seen around town but no suspicions are aroused because all the construction he was doing had been finished .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   32 Later_RRR on_RP Homer_NP1 Barron_NP1 is_VBZ no_RR21 longer_RR22 seen_VVN around_II town_NN1 but_CCB no_AT suspicions_NN2 are_VBR aroused_VVN because_CS all_DB the_AT construction_NN1 he_PPHS1 was_VBDZ doing_VDG had_VHD been_VBN finished_VVN ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   33 After Emily dies her butler disappears and all of her power is no longer seen .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   33 After_CS Emily_NP1 dies_VVZ her_APPGE butler_NN1 disappears_VVZ and_CC all_DB of_IO her_APPGE power_NN1 is_VBZ no_RR21 longer_RR22 seen_VVN ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   34 The house is searched and the corpse of Homer Barron is found .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   34 The_AT house_NN1 is_VBZ searched_VVN and_CC the_AT corpse_NN1 of_IO Homer_NP1 Barron_NP1 is_VBZ found_VVN ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    1   35 Emily poisoned him in hopes that he would not leave her and she would feel her power is secured .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    1   35 Emily_NP1 poisoned_VVD him_PPHO1 in_II hopes_NN2 that_CST he_PPHS1 would_VM not_XX leave_VVI her_PPHO1 and_CC she_PPHS1 would_VM feel_VVI her_APPGE power_NN1 is_VBZ secured_VVN ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   36 Much like Emily 's fall from power many southern families during this time also lose much of their power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   36 Much_RR like_II Emily_NP1 's_GE fall_NN1 from_II power_NN1 many_DA2 southern_JJ families_NN2 during_II this_DD1 time_NNT1 also_RR lose_VV0 much_DA1 of_IO their_APPGE power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   37 This loss of power is not only in society but also for the men loss of power in their home .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   37 This_DD1 loss_NN1 of_IO power_NN1 is_VBZ not_XX only_RR in_II society_NN1 but_CCB also_RR for_IF the_AT men_NN2 loss_NN1 of_IO power_NN1 in_II their_APPGE home_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   38 The two main issues that caused southern families to fall out of power were the fall of the Confederacy and increased rights for women .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   38 The_AT two_MC main_JJ issues_NN2 that_CST caused_VVD southern_JJ families_NN2 to_TO fall_VVI out_II21 of_II22 power_NN1 were_VBDR the_AT fall_NN1 of_IO the_AT Confederacy_NN1 and_CC increased_JJ rights_NN2 for_IF women_NN2 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   39 After the loss of the civil war the south was in a state of disarray .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   39 After_CS the_AT loss_NN1 of_IO the_AT civil_JJ war_NN1 the_AT south_ND1 was_VBDZ in_II a_AT1 state_NN1 of_IO disarray_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   40 Many people were not ready to give up what they had been fighting on behalf of for such an extended amount of time .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   40 Many_DA2 people_NN were_VBDR not_XX ready_JJ to_TO give_VVI up_RP what_DDQ they_PPHS2 had_VHD been_VBN fighting_VVG on_II31 behalf_II32 of_II33 for_IF such_DA an_AT1 extended_JJ@ amount_NN1 of_IO time_NNT1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   41 The people that were most not ready to give up were southern estate owners and upper class families in the south .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   41 The_AT people_NN that_CST were_VBDR most_RGT not_XX ready_JJ to_TO give_VVI up_RP were_VBDR southern_JJ estate_NN1 owners_NN2 and_CC upper_JJ class_NN1 families_NN2 in_II the_AT south_ND1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   42 The main reason they were not ready to give up was because they knew if they had to give up their slaves they would no longer have a work force and would lose a large amount of money ( America 's Reconstruction ) .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   42 The_AT main_JJ reason_NN1 they_PPHS2 were_VBDR not_XX ready_JJ to_TO give_VVI up_RP was_VBDZ because_CS they_PPHS2 knew_VVD if_CS they_PPHS2 had_VHD to_TO give_VVI up_RP their_APPGE slaves_NN2 they_PPHS2 would_VM no_RR21 longer_RR22 have_VHI a_AT1 work_NN1 force_NN1 and_CC would_VM lose_VVI a_AT1 large_JJ amount_NN1 of_IO money_NN1 (_( America_NP1 's_GE Reconstruction_NN1 )_) ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   43 This loss of money and loss of a work force meant a loss of power for these previously very powerful families .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   43 This_DD1 loss_NN1 of_IO money_NN1 and_CC loss_NN1 of_IO a_AT1 work_NN1 force_NN1 meant_VVD a_AT1 loss_NN1 of_IO power_NN1 for_IF these_DD2 previously_RR very_RG powerful_JJ families_NN2 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   44 After the loss of their slaves upper class southern families and plantation owners often had to move from an agricultural field to a different field in hopes to still control their wealth and power ( America 's Reconstruction ) .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   44 After_CS the_AT loss_NN1 of_IO their_APPGE slaves_NN2 upper_JJ class_NN1 southern_JJ families_NN2 and_CC plantation_NN1 owners_NN2 often_RR had_VHN@ to_TO move_VVI from_II an_AT1 agricultural_JJ field_NN1 to_II a_AT1 different_JJ field_NN1 in_II hopes_NN2 to_TO still_RR control_VVI their_APPGE wealth_NN1 and_CC power_NN1 (_( America_NP1 's_GE Reconstruction_NN1 )_) ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   45 Soon after the loss of the Civil War women across the country felt that they needed some justice from the oppressions they were also facing .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   45 Soon_RR after_II the_AT loss_NN1 of_IO the_AT Civil_JJ War_NN1 women_NN2 across_II the_AT country_NN1 felt_VVD that_CST they_PPHS2 needed_VVD some_DD justice_NN1 from_II the_AT oppressions_NN2 they_PPHS2 were_VBDR also_RR facing_VVG ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   46 This uprising would also impact wealthy and powerful southern families .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   46 This_DD1 uprising_NN1 would_VM also_RR impact_VVI wealthy_JJ and_CC powerful_JJ southern_JJ families_NN2 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   47 Things such as suffrage and woman 's movement into the work force changed everything for upper class families in the south .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   47 Things_NN2 such_II21 as_II22 suffrage_NN1 and_CC woman_NN1 's_GE movement_NN1 into_II the_AT work_NN1 force_NN1 changed_VVD everything_PN1 for_IF upper_JJ class_NN1 families_NN2 in_II the_AT south_ND1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   48 Now not only did the men have power over the family the women did also ( The 19th Amendment ) .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   48 Now_RT not_XX only_RR did_VDD the_AT men_NN2 have_VHI power_NN1 over_II the_AT family_NN1 the_AT women_NN2 did_VDD also_RR (_( The_AT 19th_MD Amendment_NN1 )_) ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   49 This major shift made these powerful families not so powerful anymore .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   49 This_DD1 major_JJ shift_NN1@ made_VVD these_DD2 powerful_JJ families_NN2 not_XX so_RG powerful_JJ anymore_RR ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   50 Now that there were new ideas and new opportunities for almost everyone available people did not have to follow what the more powerful people said .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   50 Now_CS21 that_CS22 there_EX were_VBDR new_JJ ideas_NN2 and_CC new_JJ opportunities_NN2 for_IF almost_RR everyone_PN1 available_JJ people_NN did_VDD not_XX have_VHI to_TO follow_VVI what_DDQ the_AT more_RGR powerful_JJ people_NN said_VVD ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    2   51 Between society in the south during this time and in " A Rose for Emily " many comparisons can be seen .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    2   51 Between_II society_NN1 in_II the_AT south_ND1 during_II this_DD1 time_NNT1 and_CC in_II "_" A_AT1@ Rose_NN1 for_IF Emily_NP1 "_" many_DA2 comparisons_NN2 can_VM be_VBI seen_VVN ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   52 The fall off of Emily and her family can compare to upper class southern families in the late nineteenth century and early twentieth century almost identically .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   52 The_AT fall_NN1 off_II21 of_II22 Emily_NP1 and_CC her_APPGE family_NN1 can_VM compare_VVI to_II upper_JJ class_NN1 southern_JJ families_NN2 in_II the_AT late_JJ nineteenth_MD century_NNT1 and_CC early_JJ twentieth_MD century_NNT1 almost_RR identically_RR ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   53 All though they do not face the same hardships they both rose to power obtained the power and then slowly lost the power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   53 All_RR@ though_CS they_PPHS2 do_VD0 not_XX face_VVI the_AT same_DA hardships_NN2 they_PPHS2 both_DB2 rose_VVD to_II power_NN1 obtained_VVD the_AT power_NN1 and_CC then_RT slowly_RR lost_VVD the_AT power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   54 The loss of the men in Emily 's life can somewhat be compared to the plantation owners loss of their slaves .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   54 The_AT loss_NN1 of_IO the_AT men_NN2 in_II Emily_NP1 's_GE life_NN1 can_VM somewhat_RR be_VBI compared_VVN to_II the_AT plantation_NN1 owners_NN2 loss_NN1 of_IO their_APPGE slaves_NN2 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   55 The same that the slaves provided a work force and secured the wealth and power of the plantation and its owner Emily 's father and sweetheart also provided this same security of wealth and power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   55 The_AT same_DA that_CST the_AT slaves_NN2 provided_VVD a_AT1 work_NN1 force_NN1 and_CC secured_VVD the_AT wealth_NN1 and_CC power_NN1 of_IO the_AT plantation_NN1 and_CC its_APPGE owner_NN1 Emily_NP1 's_GE father_NN1 and_CC sweetheart_NN1 also_RR provided_CS this_DD1 same_DA security_NN1 of_IO wealth_NN1 and_CC power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   56 When these two things are lost both Emily and the plantation owners are seeking that same security again .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   56 When_CS these_DD2 two_MC things_NN2 are_VBR lost_VVN both_DB2 Emily_NP1 and_CC the_AT plantation_NN1 owners_NN2 are_VBR seeking_VVG that_CST same_DA security_NN1 again_RT ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   57 Unfortunately they both see a second wave of power loss , which eventually takes away most to all of their power .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   57 Unfortunately_RR they_PPHS2 both_DB2 see_VV0 a_AT1 second_MD wave_NN1 of_IO power_NN1 loss_NN1 ,_, which_DDQ eventually_RR takes_VVZ away_RL most_RRT@ to_II all_DB of_IO their_APPGE power_NN1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   58 For the plantation owners these losses were women 's rights and suffrage and for Emily it was Homer Barron .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   58 For_IF the_AT plantation_NN1 owners_NN2 these_DD2 losses_NN2 were_VBDR women_NN2 's_GE rights_NN2 and_CC suffrage_NN1 and_CC for_IF Emily_NP1 it_PPH1 was_VBDZ Homer_NP1 Barron_NP1 ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   59 Although this might not have been Faulkner 's main point he was trying to get across .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   59 Although_CS this_DD1 might_VM not_XX have_VHI been_VBN Faulkner_NP1 's_GE main_JJ point_NN1 he_PPHS1 was_VBDZ trying_VVG to_TO get_VVI across_RL@ ._.
+SENTPOS 2014_4_101_300_347_3 DRAFT A    3   59  After further investigation and research it is very easily seen that Emily and her life can be a metaphor for the loss of power and deterioration of the upper class and plantation owners in the south at the turn of the century .
+SENTPOS 2014_4_101_300_347_3 DRAFT B    3   59  After_CS further_JJR@ investigation_NN1 and_CC research_VV0@ it_PPH1 is_VBZ very_RG easily_RR seen_VVN that_CST Emily_NP1 and_CC her_APPGE life_NN1 can_VM be_VBI a_AT1 metaphor_NN1 for_IF the_AT loss_NN1 of_IO power_NN1 and_CC deterioration_NN1 of_IO the_AT upper_JJ class_NN1 and_CC plantation_NN1 owners_NN2 in_II the_AT south_ND1 at_II the_AT turn_NN1 of_IO the_AT century_NNT1 ._.

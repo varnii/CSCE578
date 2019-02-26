@@ -1,0 +1,88 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    0 Have you ever wondered what it would be like to see yourself on the cover of a magazine ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    0 Have_VH0 you_PPY ever_RR wondered_VVN what_DDQ it_PPH1 would_VM be_VBI like_JJ@ to_TO see_VVI yourself_PPX1 on_II the_AT cover_NN1 of_IO a_AT1 magazine_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    1 Early last summer , 16-year-old Bryce Harper found out .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    1 Early_RR_JJ last_MD summer_NNT1 ,_Y 16-year-old_JJ Bryce_NP1 Harper_NP1 found_VVD out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    2 His picture appeared on the cover of the June 8 issue of Sports Illustrated , alongside the cover line " Baseball 's Chosen One .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    2 His_APPGE picture_NN1 appeared_VVD_VVN@ on_II the_AT cover_NN1 of_IO the_AT June_NPM1 8_MC issue_NN1 of_IO Sports_NN2 Illustrated_VVD_VVN ,_Y alongside_II the_AT cover_NN1 line_NN1 "_Y Baseball_NN1 's_VBZ_VHZ@ Chosen_VVN One_PN1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    3 " Bryce 's extraordinary ability has caught the attention of Major League scouts , the media , and sports fans around the country .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    3 "_Y Bryce_NP1@_NN1_VV0 's_GE extraordinary_JJ ability_NN1 has_VHZ caught_VVN the_AT attention_NN1 of_IO Major_NNB League_NP1 scouts_NN2_VVZ@ ,_Y the_AT media_NN ,_Y and_CC sports_NN2 fans_NN2_VVZ@ around_II_RP the_AT country_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    4 He is widely expected to be the No. 1 Major League Baseball draft pick as soon as he is eligible to be drafted .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    4 He_PPHS1 is_VBZ widely_RR expected_VVN_VVD to_TO be_VBI the_AT No._ZZ 1_MC1 Major_NNB League_NP1 Baseball_NN1 draft_NN1_VV0 pick_VV0_NN1@ as_CS31 soon_CS32 as_CS33 he_PPHS1 is_VBZ eligible_JJ to_TO be_VBI drafted_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    5 Super Skills Last season , Bryce hit .626 , with 14 home runs and 55 RBIs ( runs batted in ) for the Wildcats , his baseball team at Las Vegas High School in Las Vegas , Nevada .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    5 Super_JJ Skills_NN2 Last_MD season_NNT1 ,_Y Bryce_NP1 hit_VVD .626_MC ,_Y with_IW 14_MC home_NN1_RL runs_NN2_VVZ and_CC 55_MC RBIs_NP1_NN1 (_Y runs_NN2 batted_VVD_VVN@ in_RP@_II )_Y for_IF the_AT Wildcats_NN2_NP1 ,_Y his_APPGE baseball_NN1 team_NN1 at_II Las_NP1 Vegas_NP1 High_JJ School_NN1 in_II Las_NP1 Vegas_NP1 ,_Y Nevada_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    6 Not up on baseball lingo ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    6 Not_XX up_RP on_II baseball_NN1 lingo_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    7 That means his batting average is up there with some of the top players in professional baseball !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    7 That_DD1 means_VVZ his_APPGE batting_NN1 average_NN1 is_VBZ up_RP there_RL with_IW some_DD of_IO the_AT top_JJ_NN1 players_NN2 in_II professional_JJ baseball_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    8 In addition to playing with the Wildcats , Bryce played with travel teams all over the country .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    8 In_II31 addition_II32 to_II33 playing_VVG with_IW the_AT Wildcats_NN2_NP1 ,_Y Bryce_NP1 played_VVD with_IW travel_NN1 teams_NN2 all_RR over_II the_AT country_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0    9 Bryce 's fastball has been a sophomore , he hit the longest home run in the history of Tropicana Field , in Florida .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0    9 Bryce_NP1@_NN1 's_GE fastball_NN1 has_VHZ been_VBN a_AT1 sophomore_NN1 ,_Y he_PPHS1 hit_VVD the_AT longest_JJT home_NN1 run_VVN_NN1 in_II the_AT history_NN1 of_IO Tropicana_NP1 Field_NP1 ,_Y in_II Florida_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   10 Giving His All What makes Bryce so good ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   10 Giving_VVG His_APPGE All_DB_RR@ What_DDQ makes_VVZ Bryce_NP1_NN1@ so_RG_RR good_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   11 To be sure , some of it is natural ability .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   11 To_TO be_VBI sure_JJ ,_Y some_DD of_IO it_PPH1 is_VBZ natural_JJ ability_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   12 After all , Bryce was already a standout at the age of 3 , when he was playing Tee Ball with 7-year-olds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   12 After_II all_DB ,_Y Bryce_NP1 was_VBDZ already_RR a_AT1 standout_NN1 at_II the_AT age_NN1 of_IO 3_MC ,_Y when_CS_RRQ he_PPHS1 was_VBDZ playing_VVG Tee_NN1 Ball_NN1 with_IW 7-year-olds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   13 Bryce 's physicality helps him too .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   13 Bryce_NP1@_NN1 's_GE physicality_NN1 helps_VVZ him_PPHO1 too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   14 At the end of his sophomore year , he was 6 ' 3 " and weighed 205 pounds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   14 At_II the_AT end_NN1 of_IO his_APPGE sophomore_NN1 year_NNT1 ,_Y he_PPHS1 was_VBDZ 6_MC '_GE 3_MC "_Y and_CC weighed_VVD_VVN 205_MC pounds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   15 Still , natural ability only goes so far .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   15 Still_RR ,_Y natural_JJ ability_NN1 only_RR goes_VVZ so_RG far_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   16 Beyond that , there is hard work and fierce determination -- and Bryce has those bases covered .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   16 Beyond_II that_DD1 ,_Y there_EX is_VBZ hard_JJ_RR work_NN1_VV0 and_CC fierce_JJ determination_NN1 --_NN1 and_CC Bryce_NP1 has_VHZ those_DD2 bases_NN2 covered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   17 Whether he is at bat or lifting weights at the gym , Bryce always gives 100 percent .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   17 Whether_CSW he_PPHS1 is_VBZ at_II bat_NN1 or_CC lifting_VVG_NN1_JJ@ weights_NN2 at_II the_AT gym_NN1 ,_Y Bryce_NP1_VV0@ always_RR gives_VVZ 100_MC percent_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   18 His standard reply to compliments is that he still has work to do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   18 His_APPGE standard_JJ_NN1 reply_NN1 to_II compliments_NN2 is_VBZ that_CST he_PPHS1 still_RR has_VHZ work_NN1 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   19 He adheres to the idea that , " You can always get better .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   19 He_PPHS1 adheres_VVZ to_II the_AT idea_NN1 that_CST_DD1 ,_Y "_Y You_PPY can_VM always_RR get_VVI better_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   20 " With his dad as his coach , Bryce has spent many hours working on his swing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   20 "_Y With_IW his_APPGE dad_NN1 as_CSA_II@ his_APPGE coach_NN1 ,_Y Bryce_NP1 has_VHZ spent_VVN many_DA2 hours_NNT2 working_VVG on_II_RP@ his_APPGE swing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   21 He has even practiced hitting small objects , such as dried red .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   21 He_PPHS1 has_VHZ even_RR practiced_VVN hitting_VVG small_JJ objects_NN2 ,_Y such_II21 as_II22 dried_JJ red_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   22 With all the hours he spends training and playing , it might be hard to believe that Bryce has time for much besides baseball .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   22 With_IW all_DB the_AT hours_NNT2 he_PPHS1 spends_VVZ training_NN1 and_CC playing_VVG ,_Y it_PPH1 might_VM be_VBI hard_JJ to_TO believe_VVI that_CST Bryce_NP1 has_VHZ time_NNT1 for_IF much_RR_DA1 besides_II_RR baseball_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   23 Yet , last year , he maintained a 3.5 GPA , did volunteer work , and attended religious education classes in the mornings , before school .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   23 Yet_RR ,_Y last_MD year_NNT1 ,_Y he_PPHS1 maintained_VVD a_AT1 3.5_MC GPA_NP1_NN1 ,_Y did_VDD volunteer_VVI work_NN1 ,_Y and_CC attended_VVD_VVN religious_JJ education_NN1 classes_NN2 in_II the_AT mornings_NNT2 ,_Y before_CS_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   24 Full Steam Ahead Bryce wants to be a Major League player as soon as possible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   24 Full_JJ Steam_NN1 Ahead_RL Bryce_NP1 wants_VVZ to_TO be_VBI a_AT1 Major_NNB League_NP1 player_NN1 as_RG soon_RR as_CSA possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   25 Instead of completing his final two years of high school , he earned his General Education Development certificate ( GED ) over the summer .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   25 Instead_II21 of_II22 completing_VVG his_APPGE final_NN1_JJ two_MC years_NNT2 of_IO high_JJ school_NN1 ,_Y he_PPHS1 earned_VVD his_APPGE General_JJ_NN1 Education_NN1 Development_NN1 certificate_NN1 (_Y GED_NP1 )_Y over_II the_AT summer_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   26 Although some people criticized his decision to leave high school , his father defended his choice in interviews .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   26 Although_CS some_DD people_NN criticized_VVD_VVN his_APPGE decision_NN1 to_TO leave_VVI high_JJ school_NN1 ,_Y his_APPGE father_NN1 defended_VVD_VVN his_APPGE choice_NN1 in_II interviews_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   27 Bryce enrolled in the College of Southern Nevada , where he is now a student and a player on the school 's baseball team , the Coyotes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   27 Bryce_NP1@_NN1_VV0 enrolled_VVD in_II the_AT College_NN1 of_IO Southern_JJ Nevada_NP1 ,_Y where_CS_RRQ he_PPHS1 is_VBZ now_RT a_AT1 student_NN1 and_CC a_AT1 player_NN1 on_II the_AT school_NN1 's_GE baseball_NN1 team_NN1 ,_Y the_AT Coyotes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   28 Why the rush ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   28 Why_RRQ the_AT rush_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   29 To be eligible for the Major League draft , a player must be at least 16 years old and have completed high school .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   29 To_TO be_VBI eligible_JJ for_IF the_AT Major_NNB League_NP1 draft_NN1_VV0 ,_Y a_AT1 player_NN1 must_VM be_VBI at_RR21 least_RR22 16_MC years_NNT2 old_JJ and_CC have_VH0 completed_VVN high_JJ school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   30 Bryce 's atypical journey to college makes him eligible for the draft sooner than if he had stayed at his high school 2010 or 2011 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   30 Bryce_NP1@_NN1_VV0 's_GE atypical_JJ journey_NN1 to_II college_NN1 makes_VVZ him_PPHO1 eligible_JJ for_IF the_AT draft_NN1 sooner_RRR than_CSN if_CS he_PPHS1 had_VHD stayed_VVN at_II his_APPGE high_JJ school_NN1 2010_MC or_CC 2011_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   31 Bryce has big goals for the future .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   31 Bryce_NN1_NP1@_VV0 has_VHZ big_JJ goals_NN2 for_IF the_AT future_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   32 He plans " to be in the Hall of Fame , definitely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   32 He_PPHS1 plans_VVZ "_Y to_TO be_VBI in_II the_AT Hall_NN1 of_IO Fame_NN1 ,_Y definitely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   33 Play in Yankee Stadium .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   33 Play_VV0_NN1 in_II Yankee_NN1 Stadium_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   34 Play in the pinstripes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   34 Play_VV0_NN1 in_II the_AT pinstripes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   35 Be considered the greatest baseball player who ever lived .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   35 Be_VB0 considered_VVN the_AT greatest_JJT baseball_NN1 player_NN1 who_PNQS ever_RR lived_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   36 I ca n't wait .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   36 I_PPIS1 ca_VM n't_XX wait_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   37 " Dig Deeper READING COMPREHENSION 1 Which adjectives BEST describe Bryce ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   37 "_Y Dig_VV0 Deeper_JJR_RRR READING_NN1_VVG_NP1 COMPREHENSION_NN1 1_MC1 Which_DDQ adjectives_NN2 BEST_RRT describe_VV0 Bryce_NP1_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   38 pre-formatted table Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   38 pre-formatted_ZZ table_NN1 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   39 Imagine that a magazine is doing a cover story on you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   39 Imagine_VV0 that_CST a_AT1 magazine_NN1 is_VBZ doing_VDG a_AT1 cover_NN1 story_NN1 on_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   40 State the name of the magazine , then write the article that appears inside it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   40 State_VV0 the_AT name_NN1 of_IO the_AT magazine_NN1 ,_Y then_RT write_VV0 the_AT article_NN1 that_CST_DD1 appears_VVZ inside_II_RL it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   41 Write in third person , and make sure to include a headline !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   41 Write_VV0 in_II_RP@ third_MD person_NN1 ,_Y and_CC make_VV0 sure_JJ to_TO include_VVI a_AT1 headline_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   42 PHOTO ( COLOR ) : Bryce Harper ( right ) landed on the cover of Sports Illustrated .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   42 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Bryce_NP1 Harper_NP1 (_Y right_RR_NN1_JJ )_Y landed_VVD_VVN on_II the_AT cover_NN1 of_IO Sports_NN2 Illustrated_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  A    0   43 By Jennifer Dignan
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080222 COCA  B    0   43 By_II Jennifer_NP1 Dignan_NP1

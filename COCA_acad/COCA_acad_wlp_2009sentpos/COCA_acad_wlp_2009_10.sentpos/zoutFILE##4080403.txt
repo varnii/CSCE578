@@ -1,0 +1,178 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    0 In order for a teacher to teach their students well they need to know their students and their learning styles .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    0 In_BCL21 order_BCL22 for_IF a_AT1 teacher_NN1 to_TO teach_VVI their_APPGE students_NN2 well_RR they_PPHS2 need_VV0 to_TO know_VVI their_APPGE students_NN2 and_CC their_APPGE learning_NN1 styles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    1 They need to know the best strategies of teaching in order to help them to become better learners .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    1 They_PPHS2 need_VV0 to_TO know_VVI the_AT best_JJT strategies_NN2 of_IO teaching_NN1 in_BCL21 order_BCL22 to_TO help_VVI them_PPHO2 to_TO become_VVI better_JJR learners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    2 When the teacher accommodates their teaching to those students helps to level the playing field in the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    2 When_CS the_AT teacher_NN1 accommodates_VVZ their_APPGE teaching_NN1 to_II those_DD2 students_NN2 helps_VVZ to_TO level_VVI the_AT playing_JJ%_VVG_NN1% field_NN1 in_II the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    3 Leveling the playing field gives special education students a better chance of being successful inside and outside the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    3 Leveling_VVG the_AT playing_JJ%_VVG_NN1% field_NN1 gives_VVZ special_JJ education_NN1 students_NN2 a_AT1 better_JJR chance_NN1 of_IO being_VBG successful_JJ inside_NN1@_RL_JJ@ and_CC outside_II the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    4 Students , especially younger students , do not know or recognize their learning styles and therefore it is the educator 's job to find those preferred styles and help accommodate their teaching to those styles ( VanKlaveren , K. , Buck-land , T. , Williamson , J. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    4 Students_NN2 ,_Y especially_RR younger_JJR students_NN2 ,_Y do_VD0 not_XX know_VVI or_CC recognize_VVI their_APPGE learning_NN1 styles_NN2 and_CC therefore_RR it_PPH1 is_VBZ the_AT educator_NN1 's_GE job_NN1 to_TO find_VVI those_DD2 preferred_JJ styles_NN2 and_CC help_VVI accommodate_VV0 their_APPGE teaching_NN1 to_II those_DD2 styles_NN2 (_Y VanKlaveren_NP1_NN1 ,_Y K._NP1 ,_Y Buck-land_NP1 ,_Y T._NP1 ,_Y Williamson_NP1 ,_Y J._NP1 (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    5 Once students realize their learning style and know how to make things fit their needs , they will become more proficient learners .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    5 Once_RR_CS@ students_NN2 realize_VV0 their_APPGE learning_NN1 style_NN1 and_CC know_VV0 how_RRQ to_TO make_VVI things_NN2 fit_VVI their_APPGE needs_NN2 ,_Y they_PPHS2 will_VM become_VVI more_RGR_DAR proficient_JJ learners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    6 People choose to discover new ideas and opinions through their own learning style .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    6 People_NN choose_VV0 to_TO discover_VVI new_JJ ideas_NN2 and_CC opinions_NN2 through_II their_APPGE own_DA learning_NN1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    7 A person 's learning style is developed through how a person feels that they learn best .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    7 A_AT1 person_NN1 's_GE learning_NN1_VVG style_NN1 is_VBZ developed_VVN through_II how_RRQ a_AT1 person_NN1 feels_VVZ that_CST they_PPHS2 learn_VV0 best_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    8 When dealing with developed that address the ideals of perception , intellect , and personality .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    8 When_CS dealing_VVG with_IW developed_VVN that_CST address_VV0@_NN1 the_AT ideals_NN2 of_IO perception_NN1 ,_Y intellect_NN1 ,_Y and_CC personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0    9 These ideals are discussed by Willing ( 2008 ) through the categories of field independent and field dependent learners .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0    9 These_DD2 ideals_NN2 are_VBR discussed_VVN by_II Willing_JJ (_Y 2008_MC )_Y through_II the_AT categories_NN2 of_IO field_NN1 independent_JJ_NN1@ and_CC field_NN1_VV0@ dependent_JJ learners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   10 Willing discovered that people differ from each other in the way they ' perceive both their environment and themselves ' ( Town , 1993 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   10 Willing_JJ_NN1% discovered_VVD that_CST people_NN differ_VV0 from_II each_PPX221 other_PPX222 in_II the_AT way_NN1 they_PPHS2 '_GE_"@ perceive_VV0 both_RR their_APPGE environment_NN1 and_CC themselves_PPX2 '_GE (_Y Town_NN1 ,_Y 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   11 People who are either field dependent or field independent differ in human relations , learning styles , and information processing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   11 People_NN who_PNQS are_VBR either_RR field_VV0@_NN1 dependent_JJ_NN1@ or_CC field_NN1_VV0@ independent_NN1@_JJ differ_VV0 in_II_RP@ human_JJ_NN1 relations_NN2 ,_Y learning_VVG_NN1 styles_NN2 ,_Y and_CC information_NN1 processing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   12 Students with disabilities may hide their personalities as well because they do n't want to come across as unintelligent to their peers .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   12 Students_NN2 with_IW disabilities_NN2 may_VM hide_VVI their_APPGE personalities_NN2 as_RR21_RG well_RR22_RR because_CS they_PPHS2 do_VD0 n't_XX want_VVI to_TO come_VVI across_II_RL@ as_RG@_CSA unintelligent_JJ to_II their_APPGE peers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   13 Students with disabilities may be as bright as their peers it just takes them more time to process information and get the correct answers out .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   13 Students_NN2 with_IW disabilities_NN2 may_VM be_VBI as_RG bright_JJ as_CSA their_APPGE peers_NN2 it_PPH1 just_RR takes_VVZ them_PPHO2 more_RRR_RGR_DAR time_VV0%_NNT1 to_TO process_VVI information_NN1 and_CC get_VVI the_AT correct_JJ answers_NN2_VVZ out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   14 Educators should develop strategies for students with disabilities that allow the students to interact with the rest of the class ( York , 2008 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   14 Educators_NN2_NP1@ should_VM develop_VVI strategies_NN2 for_IF students_NN2 with_IW disabilities_NN2 that_CST allow_VV0 the_AT students_NN2 to_TO interact_VVI with_IW the_AT rest_NN1 of_IO the_AT class_NN1 (_Y York_NP1 ,_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   15 Some strategies may be as simple as standing directly in front of the student when they are going to be called on or providing a clue word that informs the student that they are going to a better learning environment for students with disabilities , which allow them to express their personality in the learning choices they make .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   15 Some_DD strategies_NN2 may_VM be_VBI as_RG simple_JJ as_CSA standing_VVG directly_RR in_II31 front_II32 of_II33 the_AT student_NN1 when_CS_RRQ they_PPHS2 are_VBR going_VVGK to_TO be_VBI called_VVN on_RP@_II or_CC providing_VVG a_AT1 clue_NN1 word_NN1 that_CST_DD1 informs_VVZ the_AT student_NN1 that_CST they_PPHS2 are_VBR going_VVGK to_TO a_AT1 better_JJR learning_NN1 environment_NN1 for_IF students_NN2 with_IW disabilities_NN2 ,_Y which_DDQ allow_VV0 them_PPHO2 to_TO express_VVI their_APPGE personality_NN1 in_II the_AT learning_NN1 choices_NN2 they_PPHS2 make_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   16 Students with autism thrive in environments that provide structure .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   16 Students_NN2 with_IW autism_NN1 thrive_VV0 in_II_RP@ environments_NN2 that_CST provide_VV0 structure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   17 The language learning classroom may be structured a certain way , but the structure of language itself is ambiguous and may cause for difficulty in language learning for these students .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   17 The_AT language_NN1 learning_NN1_VVG classroom_NN1 may_VM be_VBI structured_VVN a_AT1 certain_JJ way_NN1 ,_Y but_CCB the_AT structure_NN1 of_IO language_NN1 itself_PPX1 is_VBZ ambiguous_JJ and_CC may_VM cause_VVI for_IF difficulty_NN1 in_II language_NN1 learning_VVG_NN1 for_IF these_DD2 students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   18 Teaching students with autism to communicate is often done through prompting , which involves the teacher saying a phrase and the student repeating the phrase .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   18 Teaching_VVG_NN1 students_NN2 with_IW autism_NN1 to_TO communicate_VVI is_VBZ often_RR done_VDN through_II prompting_VVG_NN1@ ,_Y which_DDQ involves_VVZ the_AT teacher_NN1 saying_VVG a_AT1 phrase_NN1 and_CC the_AT student_NN1 repeating_VVG the_AT phrase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   19 This type of structured learning may work well for beginning language/communication skills , but educators should strive to wean students off prompting and teach them to speak at their own will .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   19 This_DD1 type_NN1 of_IO structured_JJ learning_NN1 may_VM work_VVI well_RR for_IF beginning_VVG_NN1 language/communication_NN1 skills_NN2 ,_Y but_CCB educators_NN2 should_VM strive_VVI to_TO wean_VVI students_NN2 off_II prompting_VVG and_CC teach_VVI them_PPHO2 to_TO speak_VVI at_II their_APPGE own_DA will_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   20 Along with difficulty in communicating , students with autism also have problems with social activities and events .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   20 Along_II21 with_II22 difficulty_NN1 in_II communicating_NN1_VVG_JJ ,_Y students_NN2 with_IW autism_NN1 also_RR have_VH0 problems_NN2 with_IW social_JJ activities_NN2 and_CC events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   21 The ambiguity of language may pose more of a problem in social events because the students are unable to decipher how to act and response to the language of others .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   21 The_AT ambiguity_NN1 of_IO language_NN1 may_VM pose_VVI more_DAR of_IO a_AT1 problem_NN1 in_II social_JJ events_NN2 because_CS the_AT students_NN2 are_VBR unable_JK to_TO decipher_VVI how_RRQ to_TO act_VVI and_CC response_NN1 to_II the_AT language_NN1 of_IO others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   22 Providing these students with social stories is a strategy that allows the students to see a social event taking place react in that event .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   22 Providing_CS@_VVG these_DD2 students_NN2 with_IW social_JJ stories_NN2 is_VBZ a_AT1 strategy_NN1 that_CST_DD1 allows_VVZ the_AT students_NN2 to_TO see_VVI a_AT1 social_JJ event_NN1 taking_VVG place_NN1 react_VVI in_II that_DD1 event_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   23 Every student 's brain functions differently and processes information differently .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   23 Every_AT1 student_NN1 's_GE brain_NN1 functions_NN2_VVZ@ differently_RR and_CC processes_NN2_VVZ@ information_NN1 differently_RR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   24 Due to this , students have different types of learning style .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   24 Due_II21 to_II22 this_DD1 ,_Y students_NN2 have_VH0 different_JJ types_NN2 of_IO learning_VVG_NN1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   25 Once the teacher can understand the disability and the preferred learning styles of the student , they can better adapt to that student .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   25 Once_CS@_RR the_AT teacher_NN1 can_VM understand_VVI the_AT disability_NN1 and_CC the_AT preferred_JJ learning_NN1 styles_NN2 of_IO the_AT student_NN1 ,_Y they_PPHS2 can_VM better_RRR adapt_VVI to_II that_DD1 student_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   26 Teachers need to learn strategies to increase student achievement in order to help them function at the same level as their peers .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   26 Teachers_NN2 need_VV0 to_TO learn_VVI strategies_NN2 to_TO increase_VVI student_NN1 achievement_NN1 in_BCL21 order_BCL22 to_TO help_VVI them_PPHO2 function_NN1_VV0@ at_II the_AT same_DA level_NN1_JJ as_CSA their_APPGE peers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   27 When students know how to change things into the format that they learn best , students can fully take charge of their education .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   27 When_RRQ_CS students_NN2 know_VV0 how_RRQ to_TO change_VVI things_NN2 into_II the_AT format_NN1 that_CST they_PPHS2 learn_VV0 best_RRT ,_Y students_NN2 can_VM fully_RR take_VVI charge_NN1 of_IO their_APPGE education_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   28 If educators can teach students to be more reflective about their learning and actions , they can retain more information .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   28 If_CS educators_NN2 can_VM teach_VVI students_NN2 to_TO be_VBI more_RGR reflective_JJ about_II their_APPGE learning_NN1 and_CC actions_NN2 ,_Y they_PPHS2 can_VM retain_VVI more_DAR information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   29 When students are reflective about what they do in the classroom and how it affects other student then impulsive behaviors will diminish , which makes for a more conducive learning environment .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   29 When_RRQ_CS students_NN2 are_VBR reflective_JJ about_II what_DDQ they_PPHS2 do_VD0 in_II the_AT classroom_NN1 and_CC how_RRQ it_PPH1 affects_VVZ other_JJ student_NN1 then_RT impulsive_JJ behaviors_NN2 will_VM diminish_VVI ,_Y which_DDQ makes_VVZ for_IF a_AT1 more_RGR conducive_JJ learning_NN1 environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   30 The more flexible students are about the things that happen around them , the more focused they can be on the important information ( Ehrman and Leaver , 2003 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   30 The_AT more_RGR flexible_JJ students_NN2 are_VBR about_II the_AT things_NN2 that_CST happen_VV0 around_II them_PPHO2 ,_Y the_AT more_RRR_RGR_DAR focused_VVD_JJ@_VVN they_PPHS2 can_VM be_VBI on_II the_AT important_JJ information_NN1 (_Y Ehrman_NP1_NN1 and_CC Leaver_NN1 ,_Y 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   31 For example , if an autistic student needs then they might get thrown off by the upcoming change in their daily schedule and not be able to focus their attention on what is important in the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   31 For_REX21 example_REX22 ,_Y if_CS an_AT1 autistic_JJ student_NN1 needs_VVZ_NN2 then_RT they_PPHS2 might_VM get_VVI thrown_VVN off_RP by_II the_AT upcoming_JJ change_NN1 in_II their_APPGE daily_JJ schedule_NN1 and_CC not_XX be_VBI able_JK to_TO focus_VVI their_APPGE attention_NN1 on_II what_DDQ is_VBZ important_JJ in_II the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   32 Student 's whose learning styles are more versatile and utilize many different types of learning styles will be more proficient learners ( Zhao , 2007 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   32 Student_NN1 's_VBZ_GE whose_DDQGE learning_NN1 styles_NN2 are_VBR more_RGR versatile_JJ and_CC utilize_VV0 many_DA2 different_JJ types_NN2 of_IO learning_VVG_NN1 styles_NN2 will_VM be_VBI more_RGR proficient_JJ learners_NN2 (_Y Zhao_NP1 ,_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   33 If a student thinks they are just an auditory learner and believe that they can not learn any other way , then they are not going to .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   33 If_CS a_AT1 student_NN1 thinks_VVZ they_PPHS2 are_VBR just_RR an_AT1 auditory_JJ learner_NN1 and_CC believe_VV0 that_CST they_PPHS2 can_VM not_XX learn_VVI any_DD other_JJ way_NN1 ,_Y then_RT they_PPHS2 are_VBR not_XX going_VVG to_II_TO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   34 Student 's need to be open to new experiences and be willing to try learning and using different learning styles even if it is not their preferred one .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   34 Student_NN1 's_GE need_NN1 to_TO be_VBI open_JJ_RR@ to_II new_JJ experiences_NN2 and_CC be_VBI willing_JJ to_TO try_VVI learning_NN1_VVG and_CC using_VVG different_JJ learning_NN1 styles_NN2_VVZ@ even_CS21 if_CS22 it_PPH1 is_VBZ not_XX their_APPGE preferred_JJ one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   35 Considering the learning styles of English speakers of other languages ( ESOL ) is very important in the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   35 Considering_CS_II the_AT learning_NN1 styles_NN2 of_IO English_JJ_NN1 speakers_NN2 of_IO other_JJ languages_NN2 (_Y ESOL_NP1 )_Y is_VBZ very_RG important_JJ in_II the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   36 Since ESOL students do not know how to read or speak very well they are usually visual learners .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   36 Since_CS_RR@ ESOL_NP1_NN1_VV0 students_NN2 do_VD0 not_XX know_VVI how_RRQ to_TO read_VVI or_CC speak_VVI very_RG well_RR they_PPHS2 are_VBR usually_RR visual_JJ learners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   37 Showing them pictures of different things as they are learning English can help them to pick up the language faster .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   37 Showing_VVG them_PPHO2 pictures_NN2 of_IO different_JJ things_NN2 as_CSA they_PPHS2 are_VBR learning_VVG English_NN1 can_VM help_VVI them_PPHO2 to_TO pick_VVI up_RP_II@ the_AT language_NN1 faster_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   38 If the teacher thinks the student needs to use the bathroom they can show them a picture use the bathroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   38 If_CS the_AT teacher_NN1 thinks_VVZ the_AT student_NN1 needs_VVZ_NN2 to_TO use_VVI the_AT bathroom_NN1 they_PPHS2 can_VM show_VVI them_PPHO2 a_AT1 picture_NN1 use_VV0 the_AT bathroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   39 This will help them associate the words with the object or thing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   39 This_DD1 will_VM help_VVI them_PPHO2 associate_VVI the_AT words_NN2 with_IW the_AT object_NN1 or_CC thing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   40 Every person has different ways of processing and storing information .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   40 Every_AT1 person_NN1 has_VHZ different_JJ ways_NN2 of_IO processing_NN1_VVG and_CC storing_VVG information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   41 Students with disabilities often time have a disability because they do not learn the same way other students do .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   41 Students_NN2 with_IW disabilities_NN2 often_RR time_NNT1 have_VH0 a_AT1 disability_NN1 because_CS they_PPHS2 do_VD0 not_XX learn_VVI the_AT same_DA way_NN1 other_JJ_NN1@ students_NN2 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   42 When the teacher is knowledgeable about these different ways of processing they are able to show students patterns and different strategies to help them learn .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   42 When_CS the_AT teacher_NN1 is_VBZ knowledgeable_JJ about_II these_DD2 different_JJ ways_NN2 of_IO processing_NN1_VVG they_PPHS2 are_VBR able_JK to_TO show_VVI students_NN2 patterns_NN2 and_CC different_JJ strategies_NN2 to_TO help_VVI them_PPHO2 learn_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   43 This is not only helpful to student with disabilities but also regular education students .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   43 This_DD1 is_VBZ not_XX only_RR_JJ helpful_JJ to_II student_NN1 with_IW disabilities_NN2 but_CCB also_RR regular_JJ education_NN1 students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   44 Just because one student does not learn the same way as another student does not mean that they are any less intelligent .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   44 Just_RR because_CS one_MC1 student_NN1 does_VDZ not_XX learn_VVI the_AT same_DA way_NN1 as_CSA another_DD1 student_NN1 does_VDZ not_XX mean_VVI that_CST they_PPHS2 are_VBR any_DD less_DAR_RGR intelligent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   45 It is the teacher 's job to tap into that intelligence and find different ways for the students to express themselves .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   45 It_PPH1 is_VBZ the_AT teacher_NN1 's_GE job_NN1 to_TO tap_VVI into_II that_DD1 intelligence_NN1 and_CC find_VVI different_JJ ways_NN2 for_IF the_AT students_NN2 to_TO express_VVI themselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   46 According to Piaget , cognitive change takes place only when previous conceptions go through a process of disequilibration in the light of new information ( Gruber Vaneche , 1977 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   46 According_II21 to_II22 Piaget_NP1 ,_Y cognitive_JJ change_NN1 takes_VVZ place_NN1 only_RR when_CS_RRQ previous_JJ conceptions_NN2 go_VV0 through_II_RP@ a_AT1 process_NN1 of_IO disequilibration_NN1 in_II41 the_II42 light_II43 of_II44 new_JJ information_NN1 (_Y Gruber_NP1 Vaneche_NP1 ,_Y 1977_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   47 Learners make sense of the new information by attempting to assimilate it into existing knowledge .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   47 Learners_NN2 make_VV0 sense_NN1 of_IO the_AT new_JJ information_NN1 by_II attempting_VVG to_TO assimilate_VVI it_PPH1 into_II existing_JJ knowledge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   48 When determining what subject content to cover in the the student will need in future classes to determine its importance , as well as , to what previous material one can relate the lesson to create knowledge ( Sze Cowden , 2009 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   48 When_CS determining_VVG what_DDQ subject_NN1_JJ@_VV0% content_NN1_JJ to_TO cover_VVI in_II the_AT the_AT student_NN1 will_VM need_VVI in_II_RP@ future_JJ_NN1 classes_NN2 to_TO determine_VVI its_Z' importance_NN1 ,_Y as_II31_RG well_II32_RR as_II33_CSA ,_Y to_II what_DDQ previous_JJ material_NN1_JJ@ one_PN1_MC1 can_VM relate_VVI the_AT lesson_NN1 to_TO create_VVI knowledge_NN1 (_Y Sze_NP1 Cowden_NP1 ,_Y 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   49 If a learner is unsuccessful at assimilating the information , they will accommodate it by restructuring their present knowledge ( Slavin , 2007 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   49 If_CS a_AT1 learner_NN1 is_VBZ unsuccessful_JJ at_II assimilating_VVG the_AT information_NN1 ,_Y they_PPHS2 will_VM accommodate_VVI it_PPH1 by_II restructuring_VVG their_APPGE present_JJ_NN1 knowledge_NN1 (_Y Slavin_NP1 ,_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   50 Rather than having students memorize the lesson , learning needs to incorporate the students ' past experiences into the classroom .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   50 Rather_II21 than_II22 having_VHG students_NN2 memorize_VVI the_AT lesson_NN1 ,_Y learning_VVG_NN1 needs_NN2_VVZ to_TO incorporate_VVI the_AT students_NN2 '_GE past_JJ_NN1 experiences_NN2 into_II the_AT classroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   51 It is the learning which makes a child most happy in themselves that also makes them most likely to succeed ( Sze Cowden , 2009 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   51 It_PPH1 is_VBZ the_AT learning_NN1 which_DDQ makes_VVZ a_AT1 child_NN1 most_RGT_DAT happy_JJ in_II themselves_PPX2 that_CST_RG% also_RR makes_VVZ them_PPHO2 most_RGT_DAT likely_JJ to_TO succeed_VVI (_Y Sze_NP1 Cowden_NP1 ,_Y 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   52 For the learner , this concept remains relevant .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   52 For_IF the_AT learner_NN1 ,_Y this_DD1 concept_NN1 remains_VVZ relevant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   53 It is important to teach students how to make what we are learning fit to their learning style .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   53 It_PPH1 is_VBZ important_JJ to_TO teach_VVI students_NN2 how_RRQ to_TO make_VVI what_DDQ we_PPIS2 are_VBR learning_VVG fit_JJ_VV0_NN1@ to_II their_APPGE learning_NN1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   54 If a student is a visual learner , encourage them to draw a picture in order to help them solve a word problem .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   54 If_CS a_AT1 student_NN1 is_VBZ a_AT1 visual_JJ learner_NN1 ,_Y encourage_VV0 them_PPHO2 to_TO draw_VVI a_AT1 picture_NN1 in_BCL21 order_BCL22 to_TO help_VVI them_PPHO2 solve_VVI a_AT1 word_NN1 problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   55 If they are an auditory learner , they may want to read a question aloud to themselves in order to help them understand the problem .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   55 If_CS they_PPHS2 are_VBR an_AT1 auditory_JJ learner_NN1 ,_Y they_PPHS2 may_VM want_VVI to_TO read_VVI a_AT1 question_NN1 aloud_RR to_II themselves_PPX2 in_BCL21 order_BCL22 to_TO help_VVI them_PPHO2 understand_VVI the_AT problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   56 The first step them identify their learning style .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   56 The_AT first_MD step_NN1 them_PPHO2 identify_VV0 their_APPGE learning_NN1 style_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   57 Once they know their learning style they can start to learn ways to change what they are learning to accommodate them .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   57 Once_CS@_RR they_PPHS2 know_VV0 their_APPGE learning_NN1 style_NN1 they_PPHS2 can_VM start_VVI to_TO learn_VVI ways_NN2 to_TO change_VVI what_DDQ they_PPHS2 are_VBR learning_VVG to_TO accommodate_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   58 References Ehrman , Madeline Leaver , Betty .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   58 References_NN2_VVZ@ Ehrman_NN1_NP1 ,_Y Madeline_NP1 Leaver_NN1 ,_Y Betty_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   59 ( 2003 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   59 (_Y 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   60 cognitive styles in the service of language learning .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   60 cognitive_JJ styles_NN2 in_II the_AT service_NN1 of_IO language_NN1 learning_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   61 System , 31(3) , 393-416 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   61 System_NN1 ,_Y 31(3)_FO ,_Y 393-416_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   62 Gruber , H. Vaneche , J.J. ( 1977 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   62 Gruber_NP1 ,_Y H._NP1 Vaneche_NP1 ,_Y J.J._NP1 (_Y 1977_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   63 The Essential Piaget .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   63 The_AT Essential_JJ Piaget_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   64 New York : Basic Books .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   64 New_NP1 York_NP1 :_Y Basic_JJ Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   65 Slavin , R. ( 2006 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   65 Slavin_NN1_NP1@ ,_Y R._NP1 (_Y 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   66 Student-centered and constructivist approaches to instruction .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   66 Student-centered_JJ_NN1@ and_CC constructivist_NN1 approaches_VVZ_NN2 to_II instruction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   67 Educational Psychology Theory and Practice , 8 , 241-273 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   67 Educational_JJ Psychology_NN1 Theory_NN1 and_CC Practice_NN1 ,_Y 8_MC ,_Y 241-273_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   68 Sze , S , Cowden , P. ( 2009 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   68 Sze_VV0_NN1_NP1@ ,_Y S_ZZ1 ,_Y Cowden_NP1 ,_Y P._NP1_NNU@ (_Y 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   69 What About My Child ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   69 What_DDQ About_II My_APPGE Child_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   70 Trafford Publishing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   70 Trafford_NP1 Publishing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   71 Victoria : BC .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   71 Victoria_NP1 :_Y BC_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   72 Sze , S. Cowden , P. ( 2009 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   72 Sze_VV0_NN1_NP1@ ,_Y S._ZZ Cowden_NP1 ,_Y P._NP1_NNU@ (_Y 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   73 Educational Resources : 300 Inclusive Activities for Teachers .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   73 Educational_JJ Resources_NN2 :_Y 300_MC Inclusive_RA Activities_NN2 for_IF Teachers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   74 Pearson Merrill Publishing .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   74 Pearson_NP1 Merrill_NP1 Publishing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   75 Town , D. A. ( 1993 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   75 Town_NN1 ,_Y D._NP1 A._ZZ (_Y 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   76 Cognitive style and learning strategies .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   76 Cognitive_JJ style_NN1 and_CC learning_VVG_NN1 strategies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   77 Science Scope , 25(7). 24-29 VanKlaveren , K. , Buckland , T. , Williamson , J. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   77 Science_NN1 Scope_NN1 ,_Y 25(7)._FO 24-29_MCMC VanKlaveren_NN1_NP1 ,_Y K._NP1 ,_Y Buckland_NP1 ,_Y T._NP1 ,_Y Williamson_NP1 ,_Y J._NP1 (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   78 How do your students learn ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   78 How_RRQ do_VD0 your_APPGE students_NN2 learn_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   79 Willing are you ?
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   79 Willing_JJ are_VBR you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   80 RDH , 28(5) , 78-93 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   80 RDH_NP1 ,_Y 28(5)_FO ,_Y 78-93_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   81 York , S. ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   81 York_NP1 ,_Y S._ZZ (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   82 Culturally speaking : English language learners .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   82 Culturally_RR speaking_VVG :_Y English_JJ language_NN1 learners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   83 Library Media Connection , 26 ( 7 ) , 26-28 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   83 Library_NN1 Media_NN Connection_NN1 ,_Y 26_MC (_Y 7_MC )_Y ,_Y 26-28_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   84 Zhao L. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   84 Zhao_NP1@_NN1 L._ZZ (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   85 US-China .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   85 US-China_NP1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   86 Foreign Language , 5(7) , 35-40 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   86 Foreign_JJ Language_NN1 ,_Y 5(7)_FO ,_Y 35-40_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   87 By Susan Sze , Ph.D .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   87 By_II Susan_NP1 Sze_NP1 ,_Y Ph.D_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  A    0   88 Correspondence concerning this article should be addressed to Dr. Susan Sze at ssze@niagara.edu.
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080403 COCA  B    0   88 Correspondence_NN1 concerning_II_VVG this_DD1 article_NN1 should_VM be_VBI addressed_VVN to_II Dr._NNB Susan_NP1 Sze_NP1_NN1_VV0 at_II ssze@niagara.edu._FO

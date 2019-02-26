@@ -1,0 +1,29 @@
+COLUMN  = document
+ROW     = presence of key terms
+
+normalize each of the columns by their length
+
+SINGULAR VALUE DECOMPOSITION
+
+A = U*SIGMA*V^T
+
+U is m x m orthogonal matrix whose columns define the left singular vectors of A,
+V is the n x n orthognala matrix  of the right single
+SIGMA is the m x n 
+
+A           = U           *     SIGMA       *   v
+=                                               
+* * * * *     * * * * *         @ * * * *       * * * * * * *
+* * * * *     * * * * *         * @ * * *       * * * * * * *
+* * * * *   = * * * * *   *     * * @ * *   *   * * * * * * *
+* * * * *     * * * * *         * * * @ *       * * * * * * *
+* * * * *     * * * * *         * * * * @       * * * * * * *
+* * * * *                       * * * * *       * * * * * * *
+* * * * *                       * * * * *       * * * * * * *
+
+lots of linear algebra that i cannot fucking comprehend as of right now gdi
+
+theres a numpy/scipy/some common package that does a SVD of a vector for me
+-just use this okay?
+
+??? What is a singular vector ???

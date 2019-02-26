@@ -1,0 +1,92 @@
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    0 One of the leading causes of deaths in America are car accidents .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    0 One_MC1 of_IO the_AT leading_JJ causes_NN2 of_IO deaths_NN2 in_II America_NP1 are_VBR car_NN1 accidents_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    1 Within car accidents , drunk driving has the highest percentage rate out of all other influences .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    1 Within_II car_NN1 accidents_NN2 ,_, drunk_JJ driving_NN1@ has_VHZ the_AT highest_JJT percentage_NN1 rate_NN1 out_II21 of_II22 all_DB other_JJ influences_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    2 According to the NHTSA , " in 2012 , more than 10,000 people died in alcohol-impaired driving crashes .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    2 According_II21 to_II22 the_AT NHTSA_NN1 ,_, "_" in_II 2012_MC ,_, more_DAR than_CSN 10,000_MC people_NN died_VVD in_II alcohol-impaired_JJ driving_JJ crashes_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    3 -- one every 51 minutes . "
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    3 --_NN1 one_MC1 every_AT1 51_MC minutes_NNT2 ._. "_"
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    4 Many " drink responsibly " ads have been created when it was evident that death and accidents rates were increasing , especially by alcohol companies themselves .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    4 Many_DA2 "_" drink_VV0 responsibly_RR "_" ads_NN2 have_VH0 been_VBN created_VVN when_CS it_PPH1 was_VBDZ evident_JJ that_CST death_NN1 and_CC accidents_NN2 rates_NN2 were_VBDR increasing_VVG ,_, especially_RR by_II alcohol_NN1 companies_NN2 themselves_PPX2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    5 Heineken 's ad for drinking responsibly displays a message simple enough for us to understand : drinking and driving is an accident waiting to happen , but there is a deeper meaning you can get from the picture .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    5 Heineken_NP1 's_GE ad_NN1 for_IF drinking_VVG responsibly_RR displays_VVZ a_AT1 message_NN1 simple_JJ enough_RR for_IF us_PPIO2 to_TO understand_VVI :_: drinking_NN1 and_CC driving_VVG is_VBZ an_AT1 accident_NN1 waiting_VVG to_TO happen_VVI ,_, but_CCB there_EX is_VBZ a_AT1 deeper_JJR meaning_NN1 you_PPY can_VM get_VVI from_II the_AT picture_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    6 Life always seems to be taken for granted .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    6 Life_NN1 always_RR seems_VVZ to_TO be_VBI taken_VVN for_IF granted_VVN ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    7 It is full of opportunities and should not be stripped away by someone driving under the influence .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    7 It_PPH1 is_VBZ full_JJ of_IO opportunities_NN2 and_CC should_VM not_XX be_VBI stripped_VVN away_RL by_II someone_PN1 driving_VVG under_II the_AT influence_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    0    8 The ad effectively shows the message because of the use of parallelism , color , perception and symbolism .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    0    8 The_AT ad_NN1 effectively_RR shows_VVZ the_AT message_NN1 because_II21 of_II22 the_AT use_NN1 of_IO parallelism_NN1 ,_, color_NN1 ,_, perception_NN1 and_CC symbolism_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1    9 Heineken portrays the ad in a shadowy night-time environment .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1    9 Heineken_NP1 portrays_VVZ the_AT ad_NN1 in_II a_AT1 shadowy_JJ night-time_JJ environment_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   10 You can tell the picture was taken at night because the sky is pitch black and the streets are colored by the yellow toned streetlight lamps .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   10 You_PPY can_VM tell_VVI the_AT picture_NN1 was_VBDZ taken_VVN at_II night_NNT1 because_CS the_AT sky_NN1 is_VBZ pitch_NN1 black_NN1@ and_CC the_AT streets_NN2 are_VBR colored_VVN by_II the_AT yellow_JJ toned_JJ% streetlight_NN1 lamps_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   11 The grungy monotone color represents a cold unpleasant feeling .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   11 The_AT grungy_JJ monotone_NN1 color_NN1 represents_VVZ a_AT1 cold_JJ unpleasant_JJ feeling_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   12 The buildings are covered by shadows .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   12 The_AT buildings_NN2 are_VBR covered_VVN by_II shadows_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   13 Shadows signify a sense of evil and surprise around the corner , similar to car accidents .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   13 Shadows_NN2 signify_VV0 a_AT1 sense_NN1 of_IO evil_NN1 and_CC surprise_NN1 around_II the_AT corner_NN1 ,_, similar_JJ to_II car_NN1 accidents_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   14 The author 's decision to color the picture at night was the right choice because most drunk driving accidents occur more at night than day .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   14 The_AT author_NN1 's_GE decision_NN1 to_TO color_VVI the_AT picture_NN1 at_II night_NNT1 was_VBDZ the_AT right_JJ choice_NN1 because_CS most_DAT drunk_JJ driving_JJ accidents_NN2 occur_VV0 more_RRR at_II night_NNT1 than_CSN day_NNT1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   15 The NHTSA says that in 2011 , " fatal crashes in 2011 was 4.5 times higher at night than during the day . "
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   15 The_AT NHTSA_NN1 says_VVZ that_CST in_II 2011_MC ,_, "_" fatal_JJ crashes_NN2 in_II 2011_MC was_VBDZ 4.5_MC times_NNT2 higher_RRR@ at_II night_NNT1 than_CSN during_II the_AT day_NNT1 ._. "_"
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   16 It was reasonable to paint the picture in a night time scene because people who usually drink and drive , do so at night which means tragedy strikes more at night too as well .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   16 It_PPH1 was_VBDZ reasonable_JJ to_TO paint_VVI the_AT picture_NN1 in_II a_AT1 night_NNT1 time_NNT1 scene_NN1 because_CS people_NN who_PNQS usually_RR drink_VV0 and_CC drive_NN1 ,_, do_VD0 so_RR at_II night_NNT1 which_DDQ means_VVZ tragedy_NN1 strikes_VVZ more_RRR at_II night_NNT1 too_RG as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   17 The ad would n't be as effective if the creator made the image in the day time because accidents are less common when the sun is out .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   17 The_AT ad_NN1 would_VM n't_XX be_VBI as_RG@ effective_JJ if_CS the_AT creator_NN1 made_VVD the_AT image_NN1 in_II the_AT day_NNT1 time_NNT1 because_CS accidents_NN2 are_VBR less_RGR common_JJ when_CS the_AT sun_NN1 is_VBZ out_RP ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    1   18 It does n't give the image the gloomy mood either .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    1   18 It_PPH1 does_VDZ n't_XX give_VVI the_AT image_NN1 the_AT gloomy_JJ mood_NN1 either_RR ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   19 Perspective is the strongest aspect for the Heineken ad .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   19 Perspective_NN1 is_VBZ the_AT strongest_JJT aspect_NN1 for_IF the_AT Heineken_NP1 ad_RA ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   20 As for photographic perspective , it shot at high angle shot facing down towards the middle of a street intersection .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   20 As_II21 for_II22 photographic_JJ perspective_NN1 ,_, it_PPH1 shot_VVD at_II high_JJ angle_NN1 shot_VVD facing_VVG down_RP towards_II the_AT middle_NN1 of_IO a_AT1 street_NN1 intersection_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   21 Also with this perspective you can see this never ending road .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   21 Also_RR with_IW this_DD1 perspective_NN1 you_PPY can_VM see_VVI this_DD1 never_RR ending_VVG road_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   22 Symbolizing a path for endless possibilities in life .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   22 Symbolizing_VVG a_AT1 path_NN1 for_IF endless_JJ possibilities_NN2 in_II life_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   23 There are many things to do in life but can be ended with a decision to drive drunk .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   23 There_EX are_VBR many_DA2 things_NN2 to_TO do_VDI in_II life_NN1 but_CCB can_VM be_VBI ended_VVN with_IW a_AT1 decision_NN1 to_TO drive_VVI drunk_JJ ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   24 We can also see the drunk driver 's perspective .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   24 We_PPIS2 can_VM also_RR see_VVI the_AT drunk_JJ driver_NN1 's_GE perspective_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   25 We are able to understand effects of intoxication .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   25 We_PPIS2 are_VBR able_JK to_TO understand_VVI effects_NN2 of_IO intoxication_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   26 Instead of the white stop line placed adjacent to the stop sign , the stop line is in the middle of the intersection , a few yards up from the stop sign .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   26 Instead_II21 of_II22 the_AT white_JJ stop_NN1 line_NN1 placed_VVN adjacent_II21 to_II22 the_AT stop_NN1 sign_NN1 ,_, the_AT stop_NN1 line_NN1 is_VBZ in_II the_AT middle_NN1 of_IO the_AT intersection_NN1 ,_, a_AT1 few_DA2 yards_NN2 up_RP from_II the_AT stop_NN1 sign_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   27 It is in the perfect position for a car on the horizontal street to collide with the side of the car on the vertical street .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   27 It_PPH1 is_VBZ in_II the_AT perfect_JJ position_NN1 for_IF a_AT1 car_NN1 on_II the_AT horizontal_JJ street_NN1 to_TO collide_VVI with_IW the_AT side_NN1 of_IO the_AT car_NN1 on_II the_AT vertical_JJ street_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   28 This symbolizes a car accident ready to happen .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   28 This_DD1 symbolizes_VVZ a_AT1 car_NN1 accident_NN1 ready_JJ to_TO happen_VVI ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   29 Car accidents usually happen because of mistakes , and stopping not where you 're supposed to is definitely a mistake .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   29 Car_NN1 accidents_NN2 usually_RR happen_VV0 because_II21 of_II22 mistakes_NN2 ,_, and_CC stopping_VVG not_XX where_CS you_PPY 're_VBR supposed_JJ to_TO is_VBZ definitely_RR a_AT1 mistake_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   30 The small white text says at the bottom says " When you drink , your reaction time slows down . "
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   30 The_AT small_JJ white_JJ text_NN1 says_VVZ at_II the_AT bottom_NN1 says_VVZ "_" When_RRQ you_PPY drink_VV0 ,_, your_APPGE reaction_NN1 time_NNT1 slows_VVZ down_RP ._. "_"
+SENTPOS 2014_4_101_000_068_2 DRAFT A    2   31 Heineken tells the audience the risk of driving drunk , your perceptions are impaired and is blurring your vision to what is accurate .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    2   31 Heineken_NP1 tells_VVZ the_AT audience_NN1 the_AT risk_NN1 of_IO driving_VVG drunk_JJ ,_, your_APPGE perceptions_NN2 are_VBR impaired_VVN and_CC is_VBZ blurring_VVG your_APPGE vision_NN1 to_II what_DDQ is_VBZ accurate_JJ ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   32 There are a variety of causes of drunk driving , whether it 's an addiction , relieving stress , peer pressure or maybe it 's intentional as a form of suicide , but we can all agree that driving under the influence should be prevented at all cost .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   32 There_EX are_VBR a_AT1 variety_NN1 of_IO causes_NN2 of_IO drunk_JJ driving_JJ ,_, whether_CSW it_PPH1 's_VBZ an_AT1 addiction_NN1 ,_, relieving_JJ stress_NN1 ,_, peer_VV0 pressure_NN1 or_CC maybe_RR it_PPH1 's_VBZ intentional_JJ as_II a_AT1 form_NN1 of_IO suicide_NN1 ,_, but_CCB we_PPIS2 can_VM all_DB agree_VVI that_CST driving_VVG under_II the_AT influence_NN1 should_VM be_VBI prevented_VVN at_II all_DB cost_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   33 People should realize how valuable life is before they risk throwing at all away by driving drunk .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   33 People_NN should_VM realize_VVI how_RGQ@ valuable_JJ life_NN1 is_VBZ before_CS they_PPHS2 risk_VV0 throwing_VVG at_RR21 all_RR22 away_RL by_II driving_VVG drunk_JJ ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   34 Especially living a life with privileges .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   34 Especially_RR living_VVG a_AT1 life_NN1 with_IW privileges_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   35 Having a family and friends to care for you is a privilege .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   35 Having_VHG a_AT1 family_NN1 and_CC friends_NN2 to_TO care_VVI for_IF you_PPY is_VBZ a_AT1 privilege_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   36 So is being able to eat , hear , see and feel .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   36 So_RR is_VBZ being_VBG able_JK to_TO eat_VVI ,_, hear_VV0 ,_, see_VV0 and_CC feel_VVI ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   37 Driving is a big privilege , so is drinking legally , but you can throw it all away making mistakes to abuse these privileges .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   37 Driving_VVG is_VBZ a_AT1 big_JJ privilege_NN1 ,_, so_RR is_VBZ drinking_VVG legally_RR ,_, but_CCB you_PPY can_VM throw_VVI it_PPH1 all_DB away_RL making_VVG mistakes_NN2 to_TO abuse_VVI these_DD2 privileges_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   38 Some people believe the main goal in life is to experience everything you can before you die and stay optimistic while at it The risk of drinking and driving is not worth it .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   38 Some_DD people_NN believe_VV0 the_AT main_JJ goal_NN1 in_II life_NN1 is_VBZ to_TO experience_VVI everything_PN1 you_PPY can_VM before_RT@ you_PPY die_VV0 and_CC stay_VV0 optimistic_JJ while_NNT1@ at_II it_PPH1 The_AT risk_NN1 of_IO drinking_NN1 and_CC driving_VVG is_VBZ not_XX worth_II it_PPH1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    3   39 You 've come so far just to lose it , or to lose someone you care about .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    3   39 You_PPY 've_VH0 come_VVN so_RG far_RR just_RR to_TO lose_VVI it_PPH1 ,_, or_CC to_TO lose_VVI someone_PN1 you_PPY care_VV0 about_II ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    4   40 The most unfortunate case of life is the end of life .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    4   40 The_AT most_RGT unfortunate_JJ case_NN1 of_IO life_NN1 is_VBZ the_AT end_NN1 of_IO life_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    4   41 It 's pretty hypocritical for alcohol companies to create ads for drinking responsibly when they 're the cause drunk driving .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    4   41 It_PPH1 's_VBZ pretty_RG hypocritical_JJ for_IF alcohol_NN1 companies_NN2 to_TO create_VVI ads_NN2 for_IF drinking_VVG responsibly_RR when_CS they_PPHS2 're_VBR the_AT cause_NN1 drunk_JJ driving_NN1@ ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    4   42 I 'm sure it 's not their intention but alcohol will be abused no matter what .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    4   42 I_PPIS1 'm_VBM sure_JJ it_PPH1 's_VBZ not_XX their_APPGE intention_NN1 but_CCB alcohol_NN1 will_VM be_VBI abused_VVN no_DDQV31 matter_DDQV32 what_DDQV33 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    4   43 Alcohol abuse leads to death , and a form of the abuse is driving under the influence .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    4   43 Alcohol_NN1 abuse_NN1 leads_VVZ to_II death_NN1 ,_, and_CC a_AT1 form_NN1 of_IO the_AT abuse_NN1 is_VBZ driving_VVG under_II the_AT influence_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    4   44 Life is too meaningful just to be taken away by drunk driver .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    4   44 Life_NN1 is_VBZ too_RG meaningful_JJ just_RR to_TO be_VBI taken_VVN away_RL by_II drunk_JJ driver_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 DRAFT A    4   44  Heineken did a great job displaying the message with its compositional elements and symbolism .
+SENTPOS 2014_4_101_000_068_2 DRAFT B    4   44  Heineken_NP1 did_VDD a_AT1 great_JJ job_NN1 displaying_VVG the_AT message_NN1 with_IW its_APPGE compositional_JJ elements_NN2 and_CC symbolism_NN1 ._.

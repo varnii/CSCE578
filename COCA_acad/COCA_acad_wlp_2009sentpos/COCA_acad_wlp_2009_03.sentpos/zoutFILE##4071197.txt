@@ -1,0 +1,176 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    0 YOU NOTICE PERSONAL essays popping up in magazines , newspapers , e-zines and anthologies , offering glimpses into a person ' s life .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    0 YOU_PPY NOTICE_VV0 PERSONAL_JJ essays_NN2 popping_VVG up_RP in_II magazines_NN2 ,_Y newspapers_NN2 ,_Y e-zines_NN2 and_CC anthologies_NN2 ,_Y offering_VVG_NN1 glimpses_NN2 into_II a_AT1 person_NN1 '_GE s_ZZ1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    1 You would like to write one such piece , but aren ' t sure about where to look for ideas or , having found one , where to go from there .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    1 You_PPY would_VM like_VVI to_TO write_VVI one_MC1 such_DA piece_NN1 ,_Y but_CCB aren_NN1 '_GE t_ZZ1 sure_JJ about_II where_RRQ to_TO look_VVI for_IF ideas_NN2 or_CC ,_Y having_VHG found_VVN one_PN1_MC1 ,_Y where_RRQ to_TO go_VVI from_II there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    2 This article will help you get started .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    2 This_DD1 article_NN1 will_VM help_VVI you_PPY get_VVI started_VVN@_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    3 As you ' ll see , you have plenty of concepts , images and memories stored up inside you , waiting to be discovered and developed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    3 As_CSA you_PPY '_GE_"@ ll_NNU see_VV0 ,_Y you_PPY have_VH0 plenty_PN of_IO concepts_NN2 ,_Y images_NN2 and_CC memories_NN2 stored_VVD_VVN up_RP inside_RL_II you_PPY ,_Y waiting_VVG to_TO be_VBI discovered_VVN@ and_CC developed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    4 All you need are proper tools and a few hints and tips. -- What is a personal essay ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    4 All_DB you_PPY need_VV0 are_VBR proper_JJ tools_NN2 and_CC a_AT1 few_DA2 hints_NN2 and_CC tips._NNU --_NN1 What_DDQ is_VBZ a_AT1 personal_JJ essay_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    5 It ' s a nonfiction story , a true incident that has happened to you and left you with an unforgettable memory or a unique perspective on an everyday matter .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    5 It_NN1%_PPH1 '_VBZ s_ZZ1 a_AT1 nonfiction_NN1 story_NN1 ,_Y a_AT1 true_JJ incident_NN1 that_CST_DD1 has_VHZ happened_VVN to_II@_TO you_PPY and_CC left_VVN you_PPY with_IW an_AT1 unforgettable_JJ memory_NN1 or_CC a_AT1 unique_JJ perspective_NN1 on_II an_AT1 everyday_JJ matter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    6 You write it when you puzzle over an incident that took place a while back and affected you emotionally or intellectually .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    6 You_PPY write_VV0 it_PPH1 when_CS you_PPY puzzle_VV0@ over_RP_II an_AT1 incident_NN1 that_CST took_VVD place_NN1 a_AT1 while_NNT1@ back_RP_NN1 and_CC affected_VVD@_VVN you_PPY emotionally_RR or_CC intellectually_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    7 The questions that intrigue you are : Was there a hidden meaning in it , a lesson perhaps ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    7 The_AT questions_NN2 that_CST intrigue_VV0 you_PPY are_VBR :_Y Was_VBDZ there_RL_EX a_AT1 hidden_JJ@ meaning_NN1 in_II it_PPH1 ,_Y a_AT1 lesson_NN1 perhaps_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    8 Could it happen to give shape to the memory and come in closer touch with the underlying feelings .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    8 Could_VM it_PPH1 happen_VVI to_II@ give_VV0 shape_NN1 to_II the_AT memory_NN1 and_CC come_VV0_VVN@ in_II_RP@ closer_JJR touch_NN1 with_IW the_AT underlying_JJ feelings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0    9 With subsequent rewrites , you get to the heart of the matter .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0    9 With_IW subsequent_JJ rewrites_VVZ ,_Y you_PPY get_VV0 to_II the_AT heart_NN1 of_IO the_AT matter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   10 You ' re ready to share your insights with the readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   10 You_PPY '_GE_"@ re_II ready_JJ to_TO share_VVI your_APPGE insights_NN2 with_IW the_AT readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   11 Generally , you write such a narrative in the first person .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   11 Generally_RR ,_Y you_PPY write_VV0 such_DA a_AT1 narrative_NN1_JJ in_II the_AT first_MD person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   12 Although your topic can concern any experience you ' ve had , you must have a point to make .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   12 Although_CS your_APPGE topic_NN1 can_VM concern_VVI any_DD experience_VV0_NN1 you_PPY '_GE ve_NN1 had_VHD ,_Y you_PPY must_VM have_VHI a_AT1 point_NN1 to_TO make_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   13 A personal essay can also be an opinion piece , a commentary on a social or political situation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   13 A_AT1_ZZ1 personal_JJ essay_NN1 can_VM also_RR be_VBI an_AT1 opinion_NN1 piece_NN1 ,_Y a_AT1 commentary_NN1 on_II a_AT1 social_JJ or_CC political_JJ situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   14 For instance , if you have a gripe about the soaring cost of food and the ripple effect it has on your family budget , you can get it off your chest via a personal story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   14 For_REX21 instance_REX22 ,_Y if_CS you_PPY have_VH0 a_AT1 gripe_NN1 about_II the_AT soaring_JJ cost_NN1 of_IO food_NN1 and_CC the_AT ripple_NN1 effect_NN1_VV0@ it_PPH1 has_VHZ on_II your_APPGE family_NN1 budget_NN1 ,_Y you_PPY can_VM get_VVI it_PPH1 off_RP_II your_APPGE chest_NN1 via_II a_AT1 personal_JJ story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   15 An essayist , it has been said , is that lucky person who has found a way to discourse without being interrupted .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   15 An_AT1 essayist_NN1 ,_Y it_PPH1 has_VHZ been_VBN said_VVN@ ,_Y is_VBZ that_DD1 lucky_JJ person_NN1 who_PNQS has_VHZ found_VVN a_AT1 way_NN1 to_II discourse_NN1 without_IW being_VBG interrupted_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   16 Just make sure your opinion , solutions and conclusions matter to the audience in some way .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   16 Just_RR make_VV0 sure_JJ your_APPGE opinion_NN1 ,_Y solutions_NN2 and_CC conclusions_NN2 matter_VV0 to_II the_AT audience_NN1 in_II some_DD way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   17 One advantage of attempting a personal anecdote is that you don ' t need a great deal of expertise .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   17 One_MC1 advantage_NN1 of_IO attempting_VVG a_AT1 personal_JJ anecdote_NN1 is_VBZ that_CST you_PPY don_VD '_GE t_ZZ1 need_VV0 a_AT1 great_JJ deal_NN1 of_IO expertise_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   18 how best to present it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   18 how_RRQ best_RRT to_TO present_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   19 The audience would like to know you as a person : who you are , what concerns you , and , most important , how you interpret this particular situation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   19 The_AT audience_NN1 would_VM like_VVI to_TO know_VVI you_PPY as_II a_AT1 person_NN1 :_Y who_PNQS you_PPY are_VBR ,_Y what_DDQ concerns_VVZ you_PPY ,_Y and_CC ,_Y most_RGT_DAT important_JJ ,_Y how_RRQ you_PPY interpret_VV0 this_DD1 particular_JJ situation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   20 They want to hear your unique voice .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   20 They_PPHS2 want_VV0 to_TO hear_VVI your_APPGE unique_JJ voice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   21 Another advantage is that research is usually limited to one ' s own memories and impressions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   21 Another_DD1 advantage_NN1 is_VBZ that_DD1_CST research_NN1 is_VBZ usually_RR limited_VVN to_II one_PN1_MC1 '_GE s_ZZ1 own_VV0@ memories_NN2 and_CC impressions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   22 Here are some steps to help you generate ideas and organize information : 1 Select a topic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   22 Here_RL are_VBR some_DD steps_NN2 to_TO help_VVI you_PPY generate_VVI ideas_NN2 and_CC organize_VV0 information_NN1 :_Y 1_MC1 Select_VV0 a_AT1 topic_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   23 As I ' ve said , you probably already have enough ideas bubbling up within you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   23 As_CSA I_ZZ1% '_GE ve_NN1 said_VVD ,_Y you_PPY probably_RR already_RR have_VH0 enough_DD ideas_NN2 bubbling_VVG up_RP within_II_RL@ you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   24 To bring some of them to the surface , ponder this question : What are some turning points of your life ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   24 To_TO bring_VVI some_DD of_IO them_PPHO2 to_II the_AT surface_NN1 ,_Y ponder_VV0 this_DD1 question_NN1 :_Y What_DDQ are_VBR some_DD turning_NN1_JJ@ points_NN2 of_IO your_APPGE life_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   25 Look back to life-altering events or moments , their causes and effects .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   25 Look_VV0 back_RP to_II life-altering_JJ_NN1 events_NN2 or_CC moments_NN2 ,_Y their_APPGE causes_NN2 and_CC effects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   26 Take a piece of paper and jot down your answers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   26 Take_VV0 a_AT1 piece_NN1 of_IO paper_NN1 and_CC jot_VV0 down_RP your_APPGE answers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   27 Don ' t censor yourself .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   27 Don_NP1 '_GE t_ZZ1 censor_VV0_NN1 yourself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   28 The list might look like this : the trip to Vienna ; the taste of coffee ; a stranger you met ; the first article you got published and the thrill of seeing your byline ; the spa ve since adopted .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   28 The_AT list_NN1 might_VM look_VVI like_II_CS this_DD1 :_Y the_AT trip_NN1 to_II Vienna_NP1 ;_Y the_AT taste_NN1 of_IO coffee_NN1 ;_Y a_AT1 stranger_NN1 you_PPY met_VVD_VVN ;_Y the_AT first_MD article_NN1 you_PPY got_VVD published_VVN and_CC the_AT thrill_NN1 of_IO seeing_VVG your_APPGE byline_NN1 ;_Y the_AT spa_NN1 ve_NN1 since_CS_RR@ adopted_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   29 You can have as few as two or three items , but preferably fill the page .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   29 You_PPY can_VM have_VHI as_RG few_DA2 as_CSA two_MC or_CC three_MC items_NN2 ,_Y but_CCB preferably_RR fill_VV0 the_AT page_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   30 Which items on your final list make you feel happy , angry , frustrated or melancholy ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   30 Which_DDQ items_NN2 on_II your_APPGE final_JJ_NN1 list_NN1 make_VV0 you_PPY feel_VVI happy_JJ ,_Y angry_JJ ,_Y frustrated_JJ_VVN_VVD or_CC melancholy_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   31 Circle three that cause the strongest reactions , either positive or negative , then circle the most important one .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   31 Circle_NN1_VV0@ three_MC that_CST cause_VV0 the_AT strongest_JJT reactions_NN2 ,_Y either_RR positive_JJ or_CC negative_JJ_NN1@ ,_Y then_RT circle_VV0@ the_AT most_RGT important_JJ one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   32 You might want to work with this one .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   32 You_PPY might_VM want_VVI to_TO work_VVI with_IW this_DD1 one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   33 Instead of the " turning point " question , you can , of course , use other prompts such as : What are your current and past occupations ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   33 Instead_II21_CS21% of_II22_CS22 the_AT "_Y turning_NN1_JJ@ point_NN1 "_Y question_NN1 ,_Y you_PPY can_VM ,_Y of_RR21 course_RR22 ,_Y use_VVI other_JJ prompts_NN2 such_II21 as_II22 :_Y What_DDQ are_VBR your_APPGE current_JJ_NN1@ and_CC past_JJ_NN1 occupations_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   34 What hobbies do you indulge in ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   34 What_DDQ hobbies_NN2 do_VD0 you_PPY indulge_VVI in_RP@_II ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   35 Where have you traveled ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   35 Where_RRQ have_VH0 you_PPY traveled_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   36 If you could write a letter to an important person , who would that be and what subject would you choose ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   36 If_CS you_PPY could_VM write_VVI a_AT1 letter_NN1 to_II an_AT1 important_JJ person_NN1 ,_Y who_PNQS would_VM that_DD1 be_VBI and_CC what_DDQ subject_NN1 would_VM you_PPY choose_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   37 2 Fine-tune the topic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   37 2_MC Fine-tune_NN1_JJ the_AT topic_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   38 At this stage , your topic might still be too broad , but you needn ' t get stuck trying to break it down .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   38 At_II this_DD1 stage_NN1 ,_Y your_APPGE topic_NN1 might_VM still_RR be_VBI too_RG broad_JJ ,_Y but_CCB you_PPY needn_NN1_VV0 '_GE t_ZZ1 get_VV0 stuck_JJ trying_VVG to_TO break_VVI it_PPH1 down_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   39 There ' s a tool at your disposal , called a mind map , to facilitate the process .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   39 There_RL '_VBZ s_ZZ1 a_AT1 tool_NN1 at_II your_APPGE disposal_NN1 ,_Y called_VVN_VVD@ a_AT1 mind_NN1 map_NN1 ,_Y to_TO facilitate_VVI the_AT process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   40 What is a mind map ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   40 What_DDQ is_VBZ a_AT1 mind_NN1 map_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   41 It is thinking process , allows you to look at the whole picture , and points out the links between various parts .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   41 It_PPH1 is_VBZ thinking_NN1 process_NN1_VV0 ,_Y allows_VVZ you_PPY to_TO look_VVI at_II the_AT whole_JJ picture_NN1 ,_Y and_CC points_VVZ_NN2 out_RP the_AT links_NN2 between_II various_JJ parts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   42 The basic idea is simple .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   42 The_AT basic_JJ idea_NN1 is_VBZ simple_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   43 Take a large , unlined page of paper , draw a circle in the center , and print a heading for your theme or topic inside the circle .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   43 Take_VV0 a_AT1 large_JJ ,_Y unlined_JJ page_NN1 of_IO paper_NN1 ,_Y draw_VV0 a_AT1 circle_NN1 in_II the_AT center_NN1 ,_Y and_CC print_VV0 a_AT1 heading_NN1 for_IF your_APPGE theme_NN1 or_CC topic_NN1 inside_II the_AT circle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   44 For example , you might select " Spa visit " as your central issue .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   44 For_REX21 example_REX22 ,_Y you_PPY might_VM select_VVI "_Y Spa_NN1 visit_NN1_VV0 "_Y as_CSA_II@ your_APPGE central_JJ issue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   45 Now brainstorm the experience of that visit .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   45 Now_RT brainstorm_VV0 the_AT experience_NN1 of_IO that_DD1 visit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   46 As each thought or memory comes to mind , draw a line out from the circle , creating a branch and labeling a subtopic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   46 As_CSA each_DD1 thought_NN1 or_CC memory_NN1 comes_VVZ to_TO mind_VVI ,_Y draw_VV0 a_AT1 line_NN1 out_RP from_II the_AT circle_NN1 ,_Y creating_VVG a_AT1 branch_NN1 and_CC labeling_VVG a_AT1 subtopic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   47 Examples might be " Why go to a spa ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   47 Examples_NN2 might_VM be_VBI "_Y Why_RRQ go_VVI to_II a_AT1 spa_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   48 " " Healthy meals that are luscious " and " Daily exercises .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   48 "_Y "_Y Healthy_JJ meals_NN2 that_CST are_VBR luscious_JJ "_Y and_CC "_Y Daily_NP1_JJ@ exercises_VVZ_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   49 " Create as many branches as you like .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   49 "_Y Create_VV0 as_RG@_CSA many_DA2 branches_NN2 as_CSA you_PPY like_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   50 Suppose you wish to further break down " Daily exercises " You draw sub-branches , labeling each with keywords such as " Trail hikes " " Walking shoes " or " Group workouts vs. a solitary run .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   50 Suppose_VV0 you_PPY wish_VV0 to_TO further_RRR_JJR@ break_VVI down_RP_II@ "_Y Daily_NP1_RR@ exercises_VVZ "_Y You_PPY draw_VV0 sub-branches_NN2 ,_Y labeling_VVG each_DD1 with_IW keywords_NN2 such_II21 as_II22 "_Y Trail_NN1 hikes_NN2 "_Y "_Y Walking_VVG shoes_NN2 "_Y or_CC "_Y Group_NN1 workouts_NN2 vs._II a_AT1 solitary_JJ run_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   51 " You can further refine the " Trail hikes " sub-branch by drawing a twig .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   51 "_Y You_PPY can_VM further_RRR refine_VVI the_AT "_Y Trail_NN1 hikes_NN2 "_Y sub-branch_NN1_JJ by_II drawing_VVG a_AT1 twig_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   52 " In composing a mind map , you can use colored pencils if you wish .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   52 "_Y In_II composing_VVG a_AT1 mind_NN1 map_NN1 ,_Y you_PPY can_VM use_VVI colored_JJ@ pencils_NN2 if_CS you_PPY wish_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   53 You can also place one item in multiple branches , showing further associations .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   53 You_PPY can_VM also_RR place_VVI one_MC1 item_NN1 in_II multiple_JJ_NN1 branches_NN2 ,_Y showing_VVG further_JJR@_RRR associations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   54 Instead of words , you can use pictures , symbols , different fonts and icons .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   54 Instead_II21_CS21% of_II22_CS22 words_NN2 ,_Y you_PPY can_VM use_VVI pictures_NN2 ,_Y symbols_NN2 ,_Y different_JJ fonts_NN2 and_CC icons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   55 Popularized by British author Tony Buzan , mind maps have come a long way , and are now being used , for example , by businesses to speed deliveries. * 3 Flesh out the topic .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   55 Popularized_VVN by_II British_JJ author_NN1 Tony_NP1 Buzan_NP1 ,_Y mind_VV0_NN1 maps_NN2 have_VH0 come_VVN a_AT1 long_JJ way_NN1 ,_Y and_CC are_VBR now_RT being_VBG used_VVN ,_Y for_REX21 example_REX22 ,_Y by_II businesses_NN2 to_TO speed_VVI deliveries._NNU *_FU 3_MC Flesh_NN1 out_RP_II% the_AT topic_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   56 Now that you ' ve selected a subtopic , you can gather , evaluate , link and organize related bits of information .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   56 Now_CS21 that_CS22 you_PPY '_GE ve_NN1 selected_VVN_VVD@ a_AT1 subtopic_JJ ,_Y you_PPY can_VM gather_VVI ,_Y evaluate_VV0 ,_Y link_NN1_VV0 and_CC organize_VVI related_JJ bits_NN2 of_IO information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   57 For example , " Meeting a bear " can lead to even finer twigs : " Where did the bear come from ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   57 For_REX21 example_REX22 ,_Y "_Y Meeting_VVG@ a_AT1 bear_NN1 "_Y can_VM lead_VVI to_II_TO even_RR finer_JJR twigs_NN2 :_Y "_Y Where_RRQ did_VDD the_AT bear_NN1 come_VVI from_II ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   58 " " Does walking backward help ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   58 "_Y "_Y Does_VDZ walking_NN1_JJ@ backward_RL_JJ help_VV0_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   59 " and " My six bear rules " In the process , you might be able to isolate a single humorous incident , a vivid frightening scene , or a new insight that can urge you to start writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   59 "_Y and_CC "_Y My_APPGE six_MC bear_NN1_VV0 rules_NN2_VVZ@ "_Y In_II the_AT process_NN1 ,_Y you_PPY might_VM be_VBI able_JK to_TO isolate_VVI a_AT1 single_JJ humorous_JJ incident_NN1 ,_Y a_AT1 vivid_JJ frightening_JJ scene_NN1 ,_Y or_CC a_AT1 new_JJ insight_NN1 that_CST_DD1 can_VM urge_VVI you_PPY to_TO start_VVI writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   60 If the subtopic doesn ' t have enough meat , so to * 4 Amend your map , as necessary .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   60 If_CS the_AT subtopic_JJ doesn_NN1 '_GE t_ZZ1 have_VH0 enough_DD meat_NN1 ,_Y so_RR to_TO *_FU 4_MC Amend_VV0 your_APPGE map_NN1 ,_Y as_CSA necessary_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   61 Now that you ' ve created a mind map , you can also correct it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   61 Now_CS21 that_CS22 you_PPY '_GE ve_NN1 created_VVD_VVN a_AT1 mind_NN1 map_NN1 ,_Y you_PPY can_VM also_RR correct_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   62 You might do so when you come across a new category of information belonging to a branch or a sub-branch .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   62 You_PPY might_VM do_VDI so_RR when_CS_RRQ you_PPY come_VV0 across_II a_AT1 new_JJ category_NN1 of_IO information_NN1 belonging_VVG to_II a_AT1 branch_NN1 or_CC a_AT1 sub-branch_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   63 Simply draw additional lines and allot appropriate keywords to them. * 5 Do a prewriting exercise .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   63 Simply_RR draw_VV0 additional_JJ lines_NN2 and_CC allot_VV0 appropriate_JJ keywords_NN2 to_II them._ZZ *_FU 5_MC Do_VD0 a_AT1 prewriting_NN1@_JJ@ exercise_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   64 Before you begin to write , you may want to loosen up your mental muscles .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   64 Before_CS you_PPY begin_VV0 to_TO write_VVI ,_Y you_PPY may_VM want_VVI to_TO loosen_VVI up_RP your_APPGE mental_JJ muscles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   65 For this , we ' ll use another method , called free-writing or automatic writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   65 For_IF this_DD1 ,_Y we_PPIS2 '_GE_"@ ll_NNU use_VV0_NN1 another_DD1 method_NN1 ,_Y called_VVN_VVD@ free-writing_JJ or_CC automatic_JJ writing_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   66 It consists of timed , nonstop and nonjudgmental writing on a topic , with no regard for punctuation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   66 It_PPH1 consists_VVZ of_IO timed_JJ@ ,_Y nonstop_JJ_RR and_CC nonjudgmental_JJ writing_NN1 on_II a_AT1 topic_NN1 ,_Y with_IW no_AT regard_NN1 for_IF punctuation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   67 Case in point : " My six bear rules .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   67 Case_NN1 in_II point_NN1 :_Y "_Y My_APPGE six_MC bear_NN1_VV0 rules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   68 " For a set amount of time--five minutes , say--allow your mind to wander on this and jot down whatever enters your head .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   68 "_Y For_IF a_AT1 set_NN1_JJ@ amount_NN1 of_IO time--five_MC minutes_NNT2 ,_Y say--allow_VV0 your_APPGE mind_NN1 to_TO wander_VVI on_II_RP@ this_DD1 and_CC jot_VVI down_RP whatever_DDQV enters_VVZ your_APPGE head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   69 Keep writing steadily and don ' t let your inner critic sabotage you .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   69 Keep_VV0 writing_VVG_NN1 steadily_RR and_CC don_VD '_GE t_ZZ1 let_VV0 your_APPGE inner_JJ critic_NN1 sabotage_VVI you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   70 Don ' t cross out , reject or edit anything .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   70 Don_NP1 '_GE t_ZZ1 cross_VV0 out_RP ,_Y reject_VV0 or_CC edit_VV0 anything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   71 Afterward , read out loud .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   71 Afterward_RL_NP1@ ,_Y read_VVD_VV0_VVN out_RP loud_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   72 The idea might have become clearer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   72 The_AT idea_NN1 might_VM have_VHI become_VVN@ clearer_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   73 A useful point or able to salvage one or more phrases to be used later. -- Linear alternatives to a mind map .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   73 A_AT1_ZZ1 useful_JJ point_NN1 or_CC able_JK to_TO salvage_VVI one_MC1 or_CC more_DAR phrases_NN2 to_TO be_VBI used_VVN later._NNU --_ZZ Linear_JJ alternatives_NN2 to_II a_AT1 mind_NN1 map_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   74 You can , of course , substitute a list or an outline as an organizing tool .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   74 You_PPY can_VM ,_Y of_RR21 course_RR22 ,_Y substitute_VVI a_AT1 list_NN1 or_CC an_AT1 outline_NN1 as_II_CSA an_AT1 organizing_JJ@_NN1@ tool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   75 Both , however , can run multiple pages , and the linearity of this approach will ultimately prove cumbersome and less efficient. -- A real-life example .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   75 Both_RR_DB2 ,_Y however_RR ,_Y can_VM run_VVI multiple_JJ_NN1 pages_NN2 ,_Y and_CC the_AT linearity_NN1 of_IO this_DD1 approach_NN1 will_VM ultimately_RR prove_VVI cumbersome_JJ and_CC less_II% efficient._NNU --_NN1_JJ A_ZZ1 real-life_JJ example_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   76 The first personal essay I ever wrote was titled " Seattle : Life in lieu of a lifestyle " and published in the Puget Sound Women ' s Digest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   76 The_AT first_MD personal_JJ essay_NN1 I_PPIS1 ever_RR wrote_VVD was_VBDZ titled_VVN "_Y Seattle_NP1 :_Y Life_NN1 in_II31 lieu_II32 of_II33 a_AT1 lifestyle_NN1 "_Y and_CC published_VVN in_II the_AT Puget_NN1_NP1 Sound_NN1 Women_NN2 '_GE s_ZZ1 Digest_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   77 The essay had been prompted by my relocation from San Francisco to Seattle and compared the livability of the two cities from my viewpoint .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   77 The_AT essay_NN1 had_VHD been_VBN prompted_VVN by_II my_APPGE relocation_NN1 from_II San_NP1 Francisco_NP1 to_II Seattle_NP1 and_CC compared_VVD the_AT livability_NN1 of_IO the_AT two_MC cities_NN2 from_II my_APPGE viewpoint_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   78 Recently , in looking back at the essay , I easily visualized the mind map that could have aided its creation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   78 Recently_RR ,_Y in_II looking_VVG back_RP at_II the_AT essay_NN1 ,_Y I_PPIS1 easily_RR visualized_VVD the_AT mind_NN1 map_NN1_VV0@ that_CST_DD1 could_VM have_VHI aided_VVN its_Z' creation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   79 My theme was nestled in a central node headed " Why do I think Seattle is a better place to live ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   79 My_APPGE theme_NN1 was_VBDZ nestled_VVN@ in_II a_AT1 central_JJ node_NN1 headed_VVN_VVD@ "_Y Why_RRQ do_VD0 I_PPIS1 think_VVI Seattle_NP1 is_VBZ a_AT1 better_JJR place_NN1 to_TO live_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   80 " The branches I drew were " Physical environment , " " Laidback lifestyle " and " Other amenities .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   80 "_Y The_AT branches_NN2 I_PPIS1 drew_VVD were_VBDR "_Y Physical_JJ environment_NN1 ,_Y "_Y "_Y Laidback_NP1_NN1 lifestyle_NN1 "_Y and_CC "_Y Other_JJ amenities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   81 " The " Physical environment " Gardening " and " Rainfall .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   81 "_Y The_AT "_Y Physical_JJ environment_NN1 "_Y Gardening_NN1 "_Y and_CC "_Y Rainfall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   82 " The last sub-branch extended itself to the these twigs : " Cleaner air " " Lushness of vegetation , " " Time for reading " and " Time for writing " I didn ' t stop there .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   82 "_Y The_AT last_MD sub-branch_NN1 extended_VVD_VVN itself_PPX1 to_II the_AT these_DD2 twigs_NN2 :_Y "_Y Cleaner_JJR_NN1 air_NN1 "_Y "_Y Lushness_NN1 of_IO vegetation_NN1 ,_Y "_Y "_Y Time_NNT1 for_IF reading_VVG_NN1 "_Y and_CC "_Y Time_NNT1 for_IF writing_VVG_NN1 "_Y I_MC1% didn_NN1 '_GE t_ZZ1 stop_VV0 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   83 My attention was attracted to " Time for writing " which I broke down into : " Rain as sound barrier " and " A session at the caf .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   83 My_APPGE attention_NN1 was_VBDZ attracted_VVN to_II "_Y Time_NNT1 for_IF writing_VVG_NN1 "_Y which_DDQ I_PPIS1 broke_VVD down_RP into_II :_Y "_Y Rain_NN1_VV0@ as_CSA_RG@_II@ sound_JJ@_NN1 barrier_NN1 "_Y and_CC "_Y A_ZZ1_AT1@ session_NNT1 at_II the_AT caf_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   84 " I continued in this way , testing other branches and sub-branches for possible further refinements .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   84 "_Y I_PPIS1 continued_VVD in_II_RP@ this_DD1 way_NN1 ,_Y testing_VVG other_JJ branches_NN2 and_CC sub-branches_NN2 for_IF possible_JJ further_JJR@ refinements_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   85 Mind-mapping can be used for other purposes , too , such as organizing a nonfiction book or clarifying a dramatic scene in a novel .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   85 Mind-mapping_NN1 can_VM be_VBI used_VVN for_IF other_JJ purposes_NN2 ,_Y too_RR@_RG ,_Y such_II21 as_II22 organizing_VVG a_AT1 nonfiction_NN1 book_NN1 or_CC clarifying_VVG a_AT1 dramatic_JJ scene_NN1 in_II a_AT1 novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   86 All you need is a sheet of paper and a willingness to try .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   86 All_DB you_PPY need_VV0 is_VBZ a_AT1 sheet_NN1 of_IO paper_NN1 and_CC a_AT1 willingness_NN1 to_TO try_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  A    0   87 L : WORKOUT IF YOU ' D like more practice with free-writing , here ' s a good topic : The most amazing thing that has recently happened to me is Set the clock for five minutes and free-write as fast as you can. -- Bharti Kirchner By Bharti Kirchner Bharti Kirchner of Seattle is latest publication is a mystery short story in Seattle Noir , an anthology duo out in May.
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071197 COCA  B    0   87 L_ZZ1_NP1@ :_Y WORKOUT_VV0_NP1_NN1 IF_CS_CSW@ YOU_PPY '_"@_GE D_ZZ1_NP1@ like_II_VV0@ more_DAR practice_NN1 with_IW free-writing_JJ ,_Y here_RL '_GE s_ZZ1 a_AT1 good_JJ topic_NN1 :_Y The_AT most_RGT amazing_JJ thing_NN1 that_CST_DD1 has_VHZ recently_RR happened_VVN to_II@ me_PPIO1 is_VBZ Set_VVN the_AT clock_NN1 for_IF five_MC minutes_NNT2 and_CC free-write_VV0 as_RG fast_RR_JJ as_CSA you_PPY can._NNU --_ZZ Bharti_NP1 Kirchner_NP1 By_II Bharti_NP1 Kirchner_NP1 Bharti_NP1 Kirchner_NP1 of_IO Seattle_NP1 is_VBZ latest_JJT publication_NN1 is_VBZ a_AT1 mystery_NN1 short_JJ story_NN1 in_II Seattle_NP1 Noir_NP1 ,_Y an_AT1 anthology_NN1 duo_NN1 out_RP in_II May._NP1

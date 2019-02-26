@@ -1,0 +1,254 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    0 JOE JAMAIL SETTLED INTO HIS chair at home to map out his closing argument for the next morning .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    0 JOE_NP1 JAMAIL_NP1 SETTLED_VVD INTO_II HIS_APPGE chair_NN1 at_II home_NN1 to_TO map_VVI out_RP his_APPGE closing_JJ_NN1 argument_NN1 for_IF the_AT next_MD morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    1 The case was a highly complicated business dispute between two of the largest corporations in the world -- a multibillion-dollar merger gone awry .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    1 The_AT case_NN1 was_VBDZ a_AT1 highly_RR complicated_JJ business_NN1 dispute_NN1 between_II two_MC of_IO the_AT largest_JJT corporations_NN2 in_II the_AT world_NN1 --_NN1 a_AT1 multibillion-dollar_NNU1_JJ merger_NN1 gone_VVN awry_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    2 Just as Jamail picked up his pen , he heard a car horn blowing outside , Jamail 's buddies -- singer Willie Nelson and former University of Texas football coach Darrell Royal -- were in a white limo , begging him to go out for a drink or two .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    2 Just_RR as_CSA Jamail_NP1 picked_VVD up_RP his_APPGE pen_NN1 ,_Y he_PPHS1 heard_VVD a_AT1 car_NN1 horn_NN1 blowing_VVG outside_RL ,_Y Jamail_NP1 's_GE buddies_NN2 --_ZZ singer_NN1 Willie_NP1 Nelson_NP1 and_CC former_DA University_NN1 of_IO Texas_NP1 football_NN1 coach_NN1_VV0 Darrell_NP1 Royal_JJ --_NN1 were_VBDR in_II a_AT1 white_JJ limo_NN1 ,_Y begging_VVG him_PPHO1 to_TO go_VVI out_RP for_IF a_AT1 drink_NN1 or_CC two_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    3 <p> " I tried telling them that this was the biggest damn case of my life -- hell , of anybody 's life -- and that I needed to prepare , " says Jamail .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    3 <p>_Y "_Y I_PPIS1 tried_VVD telling_VVG them_PPHO2 that_CST this_DD1 was_VBDZ the_AT biggest_JJT damn_JJ case_NN1 of_IO my_APPGE life_NN1 --_NN1_JJ hell_NN1 ,_Y of_IO anybody_PN1 's_GE life_NN1 --_NN1 and_CC that_CST I_PPIS1 needed_VVD to_TO prepare_VVI ,_Y "_Y says_VVZ Jamail_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    4 " But they were n't having any part of it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    4 "_Y But_CCB they_PPHS2 were_VBDR n't_XX having_VHG any_DD part_NN1 of_IO it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    5 They kept me up all fucking night drinking .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    5 They_PPHS2 kept_VVD me_PPIO1 up_RP all_DB_RR@ fucking_JJ night_NNT1 drinking_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    6 I could barely see straight the next morning .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    6 I_PPIS1 could_VM barely_RR see_VVI straight_RR the_AT next_MD morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    7 " <p> Jamail did just fine .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    7 "_Y <p>_Y Jamail_NP1@_VV0_NN1 did_VDD just_RR fine_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    8 He kept his closing argument simple .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    8 He_PPHS1 kept_VVD his_APPGE closing_JJ_NN1 argument_NN1 simple_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0    9 The case was about people keeping their word and being honest -- or , in the case <p> The result : On Nov. 20 , 1985 , a Texas jury returned a $10.53 billion verdict for Jamail 's client , Pennzoil Co. , against Texaco Inc .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0    9 The_AT case_NN1 was_VBDZ about_II people_NN keeping_VVG their_APPGE word_NN1 and_CC being_VBG honest_JJ --_NN1_JJ or_CC ,_Y in_II the_AT case_NN1 <p>_Y The_AT result_NN1 :_Y On_II Nov._NPM1 20_MC ,_Y 1985_MC ,_Y a_AT1 Texas_NP1 jury_NN1 returned_VVD_VVN a_AT1 $10.53_NNU billion_M verdict_NN1 for_IF Jamail_NP1_NN1 's_GE client_NN1 ,_Y Pennzoil_NP1 Co._NP1 ,_Y against_II Texaco_NP1 Inc_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   10 It remains the largest verdict upheld on appeal in legal history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   10 It_PPH1 remains_VVZ the_AT largest_JJT verdict_NN1 upheld_VVN on_II appeal_NN1 in_II legal_JJ history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   11 The case later settled for $3.3 billion .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   11 The_AT case_NN1 later_RRR settled_VVN_VVD for_IF $3.3_NNU billion_M ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   12 Jamail 's personal take topped $400 million , according to reports .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   12 Jamail_NP1@_NN1_VV0 's_GE personal_JJ take_NN1% topped_VVD_VVN $400_NNU million_M ,_Y according_II21 to_II22 reports_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   13 <p> " We celebrated that night at my house by eating hamburgers and drinking beer , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   13 <p>_Y "_Y We_PPIS2 celebrated_VVD that_DD1 night_NNT1 at_II my_APPGE house_NN1 by_II eating_VVG_NN1 hamburgers_NN2 and_CC drinking_VVG_NN1 beer_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   14 " I 've still got the $3 billion deposit slip on my wall .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   14 "_Y I_PPIS1 've_VH0 still_RR got_VVN the_AT $3_NNU billion_M deposit_NN1 slip_NN1_VV0 on_II my_APPGE wall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   15 " <p> L : 83 AND COUNTING THE SON OF A GROCER , JOSEPH D. Jamail Jr .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   15 "_Y <p>_Y L_ZZ1_NP1@ :_Y 83_MC AND_CC COUNTING_VVG THE_AT SON_NN1 OF_IO A_AT1@_ZZ1 GROCER_NN1 ,_Y JOSEPH_NP1 D._NP1 Jamail_NP1 Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   16 is one of the most successful lawyers in history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   16 is_VBZ one_MC1 of_IO the_AT most_RGT successful_JJ lawyers_NN2 in_II history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   17 He has tried more than 500 jury and bench trials , which resulted in more than $13 billion in judgments for his clients -- not too shabby for a guy who failed torts in law school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   17 He_PPHS1 has_VHZ tried_VVN more_DAR than_CSN 500_MC jury_NN1 and_CC bench_NN1 trials_NN2 ,_Y which_DDQ resulted_VVD in_II more_DAR than_CSN $13_NNU billion_M in_II judgments_NN2 for_IF his_APPGE clients_NN2 --_NN1_JJ not_XX too_RG shabby_JJ for_IF a_AT1 guy_NN1 who_PNQS failed_VVD torts_NN2 in_II law_NN1 school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   18 Forbes magazine estimates Jamail is worth $1.5 billion , making him the 321st-richest person in the U.S. <p> Despite having more money than he ever dreamed of and being 83 cases for another decade or so , and then slow down a bit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   18 Forbes_NP1 magazine_NN1 estimates_VVZ_NN2 Jamail_NN1_NP1_VV0 is_VBZ worth_II $1.5_NNU billion_M ,_Y making_VVG him_PPHO1 the_AT 321st-richest_JJT person_NN1 in_II the_AT U.S._NP1 <p>_Y Despite_II having_VHG more_DAR money_NN1 than_CSN he_PPHS1 ever_RR dreamed_VVN_VVD of_IO and_CC being_VBG 83_MC cases_NN2 for_IF another_DD1 decade_NNT1 or_CC so_RR ,_Y and_CC then_RT slow_VV0@ down_RP a_RR21_AT1 bit_RR22_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   19 He 's been hired by three Fortune 200 companies in the past six months that are involved in betthe-farm lawsuits .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   19 He_PPHS1 's_VHZ been_VBN hired_VVN by_II three_MC Fortune_NN1 200_MC companies_NN2 in_II the_AT past_JJ six_MC months_NNT2 that_CST are_VBR involved_JJ in_II betthe-farm_JJ_NN1 lawsuits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   20 <p> " The corporate boardroom mentality and structure encourages companies and their executives to fuck each other , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   20 <p>_Y "_Y The_AT corporate_JJ boardroom_NN1 mentality_NN1 and_CC structure_NN1 encourages_VVZ companies_NN2 and_CC their_APPGE executives_NN2 to_TO fuck_VVI each_PPX221 other_PPX222 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   21 " So , there 's always going to be a need for good lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   21 "_Y So_RR ,_Y there_EX 's_VBZ always_RR going_VVGK to_TO be_VBI a_AT1 need_NN1 for_IF good_JJ lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   22 " <p> Jamail pauses to clarify .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   22 "_Y <p>_Y Jamail_NN1_NP1@_VV0 pauses_VVZ_NN2 to_TO clarify_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   23 " By good lawyers , I mean good trial lawyers , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   23 "_Y By_II good_JJ lawyers_NN2 ,_Y I_PPIS1 mean_VV0 good_JJ trial_NN1 lawyers_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   24 " They 've invented this new term , litigator .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   24 "_Y They_PPHS2 've_VH0 invented_VVN this_DD1_RG% new_JJ term_NN1 ,_Y litigator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   25 What the fuck is a litigator ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   25 What_DDQ the_AT fuck_NN1 is_VBZ a_AT1 litigator_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   26 I 'm a trial lawyer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   26 I_PPIS1 'm_VBM a_AT1 trial_NN1 lawyer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   27 I try cases .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   27 I_PPIS1 try_VV0 cases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   28 There are some lawyers who do nothing but this mediation bullshit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   28 There_EX are_VBR some_DD lawyers_NN2 who_PNQS do_VD0 nothing_PN1 but_II_CCB this_DD1 mediation_NN1 bullshit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   29 Do you know what the root of mediation is ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   29 Do_VD0 you_PPY know_VVI what_DDQ the_AT root_NN1 of_IO mediation_NN1 is_VBZ ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   30 Mediocrity !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   30 Mediocrity_NN1_NP1@ !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   31 " <p> The move to replace jury trials with mediation and arbitration , he says , is actually an effort by elitists in our society to control how disputes are decided .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   31 "_Y <p>_Y The_AT move_NN1 to_TO replace_VVI jury_NN1 trials_NN2 with_IW mediation_NN1 and_CC arbitration_NN1 ,_Y he_PPHS1 says_VVZ ,_Y is_VBZ actually_RR an_AT1 effort_NN1 by_II elitists_NN2 in_II our_APPGE society_NN1 to_TO control_VVI how_RRQ disputes_NN2 are_VBR decided_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   32 <p> " I do n't think the trial practice is dead , " says There are some days you could throw a hand grenade down the hall of the Harris County Courthouse and not hit anybody .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   32 <p>_Y "_Y I_PPIS1 do_VD0 n't_XX think_VVI the_AT trial_NN1 practice_NN1 is_VBZ dead_JJ ,_Y "_Y says_VVZ There_EX are_VBR some_DD days_NNT2 you_PPY could_VM throw_VVI a_AT1 hand_NN1 grenade_NN1 down_II@_RP the_AT hall_NN1 of_IO the_AT Harris_NP1 County_NN1 Courthouse_NN1 and_CC not_XX hit_VVN anybody_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   33 " <p> Jamail says young lawyers at big firms today do n't have the opportunity to cut their teeth on small cases , which would help develop their trial techniques .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   33 "_Y <p>_Y Jamail_NN1_NP1@ says_VVZ young_JJ lawyers_NN2 at_II big_JJ firms_NN2 today_RT do_VD0 n't_XX have_VHI the_AT opportunity_NN1 to_TO cut_VVI their_APPGE teeth_NN2 on_II small_JJ cases_NN2 ,_Y which_DDQ would_VM help_VVI develop_VVI their_APPGE trial_NN1 techniques_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   34 <p> " By not trying the small cases , the lawyers do n't get the courtroom experience , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   34 <p>_Y "_Y By_II not_XX trying_VVG the_AT small_JJ cases_NN2 ,_Y the_AT lawyers_NN2 do_VD0 n't_XX get_VVI the_AT courtroom_NN1 experience_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   35 " So when the huge , bet-the-company cases come along , there are only a handful of trial lawyers who can handle it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   35 "_Y So_RR when_CS_RRQ the_AT huge_JJ ,_Y bet-the-company_JJ_NN1 cases_NN2 come_VV0 along_RP ,_Y there_EX are_VBR only_RR a_AT1 handful_NN1 of_IO trial_NN1 lawyers_NN2 who_PNQS can_VM handle_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   36 That 's why these big corporations still call us old-timers every day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   36 That_DD1 's_VBZ why_RRQ these_DD2 big_JJ corporations_NN2 still_RR call_VV0 us_PPIO2 old-timers_NN2 every_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   37 " <p> L : A $100 WAGER IN A TELEVISION DEBATE OVER TORT reform with a physician , the medical doctor was slamming lawyers as a drain on society .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   37 "_Y <p>_Y L_ZZ1_NP1@ :_Y A_ZZ1 $100_NNU WAGER_NN1_VV0 IN_II A_AT1@_ZZ1 TELEVISION_NN1 DEBATE_NN1 OVER_II TORT_NP1_NN1 reform_NN1 with_IW a_AT1 physician_NN1 ,_Y the_AT medical_JJ doctor_NN1 was_VBDZ slamming_VVG lawyers_NN2 as_II_CSA a_AT1 drain_NN1 on_II society_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   38 " I would like to remind the doctor that while his professional ancestors were putting leeches on George Washington to bleed him , my ancestors were writing the Declaration of Independence and the United States Constitution , " Jamail responded .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   38 "_Y I_PPIS1 would_VM like_VVI to_TO remind_VVI the_AT doctor_NN1 that_CST while_CS his_APPGE professional_JJ ancestors_NN2 were_VBDR putting_VVG leeches_NN2 on_II George_NP1 Washington_NP1 to_TO bleed_VVI him_PPHO1 ,_Y my_APPGE ancestors_NN2 were_VBDR writing_VVG the_AT Declaration_NN1 of_IO Independence_NN1 and_CC the_AT United_NP1 States_NP1 Constitution_NN1 ,_Y "_Y Jamail_NP1 responded_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   39 <p> " I never heard any more want to be a lawyer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   39 <p>_Y "_Y I_PPIS1 never_RR heard_VVN_VVD any_DD more_DAR want_VVI to_TO be_VBI a_AT1 lawyer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   40 In fact , he initially enrolled at the University of Texas as a premed student .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   40 In_II fact_NN1 ,_Y he_PPHS1 initially_RR enrolled_VVN_VVD at_II the_AT University_NN1 of_IO Texas_NP1 as_II_CSA a_AT1 premed_JJ@ student_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   41 But the first semester in 1942 did n't go so well .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   41 But_CCB the_AT first_MD semester_NN1 in_II 1942_MC did_VDD n't_XX go_VVI so_RG well_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   42 He failed to show up for his final exams and received five F 's .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   42 He_PPHS1 failed_VVD to_TO show_VVI up_RP for_IF his_APPGE final_JJ_NN1 exams_NN2 and_CC received_VVD_VVN five_MC F_ZZ221 's_ZZ222 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   43 So he forged his father 's name on enlistment documents and joined the Marines .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   43 So_RR he_PPHS1 forged_VVD his_APPGE father_NN1 's_GE name_NN1 on_II enlistment_NN1 documents_NN2 and_CC joined_VVD the_AT Marines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   44 <p> Jamail returned home after the war and received his liberal arts degree from UT .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   44 <p>_Y Jamail_NP1@_NN1_VV0 returned_VVD home_RL after_II_CS the_AT war_NN1 and_CC received_VVD his_APPGE liberal_JJ arts_NN2 degree_NN1 from_II UT_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   45 Then he decided to go to law school , sort of .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   45 Then_RT he_PPHS1 decided_VVD to_TO go_VVI to_II law_NN1 school_NN1 ,_Y sort_RR21@ of_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   46 <p> " I was so damn naive that I did n't know that there was a test you had to take before you got into law school , so I just started showing up for classes without even enrolling , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   46 <p>_Y "_Y I_PPIS1 was_VBDZ so_RG_RR damn_JJ_RG@ naive_JJ that_CST I_PPIS1 did_VDD n't_XX know_VVI that_CST there_EX was_VBDZ a_AT1 test_NN1_VV0 you_PPY had_VHD to_TO take_VVI before_CS you_PPY got_VVD_VVN into_II law_NN1 school_NN1 ,_Y so_CS@_RR I_PPIS1 just_RR started_VVD_VVN@ showing_VVG up_RP for_IF classes_NN2 without_IW even_RR enrolling_VVG_JJ@ ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   47 <p> No one at the UT School of Law noticed Jamail was n't officially enrolled either , until the time came three years later for the law dean to sign his diploma .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   47 <p>_Y No_XX one_PN122 at_II the_AT UT_NN1_NP1 School_NN1 of_IO Law_NN1 noticed_VVD_VVN Jamail_NP1_NN1 was_VBDZ n't_XX officially_RR enrolled_VVN_VVD either_RR ,_Y until_CS the_AT time_NNT1 came_VVD three_MC years_NNT2 later_RRR_JJR for_IF the_AT law_NN1 dean_NN1 to_TO sign_VVI his_APPGE diploma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   48 <p> On a $100 bet from a classmate , he took the bar exam in 1952 , a year before he graduated .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   48 <p>_Y On_II a_AT1 $100_NNU bet_NN1_VV0 from_II a_AT1 classmate_NN1 ,_Y he_PPHS1 took_VVD the_AT bar_NN1 exam_NN1 in_II 1952_MC ,_Y a_AT1 year_NNT1 before_CS he_PPHS1 graduated_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   49 <p> " Shit , I 'm overeducated , " he told his friends .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   49 <p>_Y "_Y Shit_NN1 ,_Y I_PPIS1 'm_VBM overeducated_JJ@_VVN@ ,_Y "_Y he_PPHS1 told_VVD his_APPGE friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   50 " We used the $100 to buy a lot of beer and got drunk by the lake .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   50 "_Y We_PPIS2 used_VVD the_AT $100_NNU to_TO buy_VVI a_AT1 lot_NN1 of_IO beer_NN1 and_CC got_VVD_VVN drunk_JJ_VVN@ by_II the_AT lake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   51 " <p> Jamail remembers his first five trials .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   51 "_Y <p>_Y Jamail_NN1_NP1@ remembers_VVZ his_APPGE first_MD five_MC trials_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   52 " Mainly because I lost all of them , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   52 "_Y Mainly_RR because_CS I_PPIS1 lost_VVD all_DB of_IO them_PPHO2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   53 " They were what we call dogs .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   53 "_Y They_PPHS2 were_VBDR what_DDQ we_PPIS2 call_VV0 dogs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   54 " <p> His first win actually came while he was still in law school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   54 "_Y <p>_Y His_APPGE first_MD win_VV0_NN1@ actually_RR came_VVD while_CS he_PPHS1 was_VBDZ still_RR in_II law_NN1 school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   55 A waitress at one of his favorite bars had cut her hand trying to open a bottle of beer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   55 A_AT1_ZZ1 waitress_NN1_VV0 at_II one_MC1 of_IO his_APPGE favorite_JJ_NN1 bars_NN2 had_VHD cut_VVN her_APPGE hand_NN1 trying_VVG to_TO open_VVI a_AT1 bottle_NN1 of_IO beer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   56 So Jamail and his classmates sued the beer 's bottling company .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   56 So_RR Jamail_VV0_NP1 and_CC his_APPGE classmates_NN2 sued_VVD_VVN the_AT beer_NN1 's_GE bottling_NN1 company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   57 <p> " None of us knew what the hell we were doing , " says Jamail .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   57 <p>_Y "_Y None_PN of_IO us_PPIO2 knew_VVD what_DDQ the_AT hell_NN1 we_PPIS2 were_VBDR doing_VDG ,_Y "_Y says_VVZ Jamail_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   58 " The thing was , the other side and the judge also knew we did n't know what we were doing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   58 "_Y The_AT thing_NN1 was_VBDZ ,_Y the_AT other_JJ side_NN1 and_CC the_AT judge_NN1 also_RR knew_VVD we_PPIS2 did_VDD n't_XX know_VVI what_DDQ we_PPIS2 were_VBDR doing_VDG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   59 Fortunately , the beer company offered us $750 to settle the case .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   59 Fortunately_RR ,_Y the_AT beer_NN1 company_NN1 offered_VVD_VVN us_PPIO2 $750_NNU to_TO settle_VVI the_AT case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   60 We took it and ended up spending it all at the bar that night drinking .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   60 We_PPIS2 took_VVD it_PPH1 and_CC ended_VVD_VVN up_RP spending_VVG it_PPH1 all_DB_RR@ at_II the_AT bar_NN1 that_DD1 night_NNT1 drinking_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   61 " <p> L : BUCKING POPULAR OPINION THE CASE THAT BROUGHT JAMAIL into touch .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   61 "_Y <p>_Y L_ZZ1_NP1@ :_Y BUCKING_VVG_JJ@ POPULAR_JJ OPINION_NN1 THE_AT CASE_NN1 THAT_CST BROUGHT_VVD JAMAIL_NP1_NN1 into_II touch_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   62 The facts were bad .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   62 The_AT facts_NN2 were_VBDR bad_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   63 The plaintiff was unsympathetic .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   63 The_AT plaintiff_NN1 was_VBDZ unsympathetic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   64 And public opinion was not in his favor .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   64 And_CC public_NN1 opinion_NN1 was_VBDZ not_XX in_II his_APPGE favor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   65 <p> Jamail 's client had had a few shots of bourbon before jumping in his car to get some fried chicken for dinner .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   65 <p>_Y Jamail_NP1@_NN1 's_GE client_NN1 had_VHD had_VHN a_AT1 few_DA2 shots_NN2 of_IO bourbon_NN1 before_II jumping_VVG in_II_RP@ his_APPGE car_NN1 to_TO get_VVI some_DD fried_JJ chicken_NN1 for_IF dinner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   66 His car jumped the curb of the cement island in the middle of the street , knocked down a street sign and then struck a tree .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   66 His_APPGE car_NN1 jumped_VVD the_AT curb_NN1% of_IO the_AT cement_NN1 island_NN1 in_II the_AT middle_NN1 of_IO the_AT street_NN1 ,_Y knocked_VVN_VVD down_II a_AT1 street_NN1 sign_NN1 and_CC then_RT struck_VVD_VVN a_AT1 tree_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   67 The driver 's blood-alcohol level at the hospital tested at .22 , and he died from the injuries a few days later .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   67 The_AT driver_NN1 's_GE blood-alcohol_JJ_NN1 level_NN1 at_II the_AT hospital_NN1 tested_VVN_VVD at_II .22_MC ,_Y and_CC he_PPHS1 died_VVD from_II the_AT injuries_NN2 a_AT1 few_DA2 days_NNT2 later_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   68 When the man 's widow asked the city to pay the funeral cost , city officials laughed at her .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   68 When_CS the_AT man_NN1 's_GE widow_NN1 asked_VVD the_AT city_NN1 to_TO pay_VVI the_AT funeral_NN1 cost_NN1 ,_Y city_NN1 officials_NN2 laughed_VVD_VVN@ at_II her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   69 <p> " I went to the scene of the accident and I could n't believe my eyes , " Jamail says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   69 <p>_Y "_Y I_PPIS1 went_VVD to_II the_AT scene_NN1 of_IO the_AT accident_NN1 and_CC I_PPIS1 could_VM n't_XX believe_VVI my_APPGE eyes_NN2 ,_Y "_Y Jamail_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   70 " There was a tree growing in the middle of the damn street .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   70 "_Y There_EX was_VBDZ a_AT1 tree_NN1 growing_VVG in_II the_AT middle_NN1 of_IO the_AT damn_JJ street_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   71 A couple of them , in fact .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   71 A_AT1 couple_NN1 of_IO them_PPHO2 ,_Y in_II fact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   72 I thought , what the hell is a tree doing growing in the middle of the street .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   72 I_PPIS1 thought_VVD ,_Y what_DDQ the_AT hell_NN1 is_VBZ a_AT1 tree_NN1 doing_VDG growing_JJ_NN1@ in_II the_AT middle_NN1 of_IO the_AT street_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   73 A street sign , I could understand , but not a damn tree .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   73 A_AT1 street_NN1 sign_NN1 ,_Y I_PPIS1 could_VM understand_VVI ,_Y but_CCB not_XX a_AT1 damn_JJ tree_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   74 the trees were a public nuisance .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   74 the_AT trees_NN2 were_VBDR a_AT1 public_JJ_NN1 nuisance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   75 And he won at trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   75 And_CC he_PPHS1 won_VVD at_II trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   76 The city paid for the man 's funeral , plus $6,000 for pain and suffering .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   76 The_AT city_NN1 paid_VVN_VVD for_IF the_AT man_NN1 's_GE funeral_NN1 ,_Y plus_II $6,000_NNU for_IF pain_NN1 and_CC suffering_NN1_JJ_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   77 Plus the city had to cut down the trees .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   77 Plus_II the_AT city_NN1 had_VHD to_TO cut_VVI down_RP_II@ the_AT trees_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   78 " I got calls for the next two years from these tree-huggers cursing me for having the trees cut down , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   78 "_Y I_PPIS1 got_VVD calls_NN2 for_IF the_AT next_MD two_MC years_NNT2 from_II these_DD2 tree-huggers_NN2 cursing_VVG me_PPIO1 for_IF having_VHG the_AT trees_NN2 cut_VVN down_RP ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   79 <p> Jamail garnered headlines again in 1976 when he was representing Major League Baseball player Bob Aspromonte .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   79 <p>_Y Jamail_VV0_NP1@_NN1 garnered_JJ@_VVD headlines_NN2 again_RT in_II 1976_MC when_RRQ he_PPHS1 was_VBDZ representing_VVG Major_NNB League_NP1 Baseball_NN1 player_NN1 Bob_NP1 Aspromonte_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   80 The former Houston Astros infielder was jump-starting his car battery when the jumper cable he bought at Sears , Roebuck Co. flew off the car battery and struck his eye , causing him intense pain and blindness in that eye .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   80 The_AT former_DA Houston_NP1 Astros_NP1 infielder_NN1 was_VBDZ jump-starting_JJ_NN1 his_APPGE car_NN1 battery_NN1 when_CS_RRQ the_AT jumper_NN1 cable_NN1 he_PPHS1 bought_VVD at_II Sears_NP1 ,_Y Roebuck_NP1 Co._NP1 flew_VVD off_II_RP the_AT car_NN1 battery_NN1 and_CC struck_VVD his_APPGE eye_NN1 ,_Y causing_VVG him_PPHO1 intense_JJ pain_NN1 and_CC blindness_NN1 in_II that_DD1 eye_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   81 At trial , the jury awarded Aspromonte $875,000 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   81 At_II trial_NN1 ,_Y the_AT jury_NN1 awarded_VVN_VVD@ Aspromonte_NN1_NP1 $875,000_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   82 When defense counsel for Sears missed the deadline for filing an appeal , Jamail obtained a court order allowing him to collect the judgment .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   82 When_CS_RRQ defense_NN1 counsel_NN1_VV0 for_IF Sears_NP1 missed_VVD the_AT deadline_NN1 for_IF filing_VVG an_AT1 appeal_NN1 ,_Y Jamail_NP1 obtained_VVD a_AT1 court_NN1 order_NN1 allowing_VVG him_PPHO1 to_TO collect_VVI the_AT judgment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   83 <p> " I went to the largest Sears store in Houston , walked into the manager 's office and told him that I wanted the keys to the store , and I wanted out because we now owned that store , " Jamail says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   83 <p>_Y "_Y I_PPIS1 went_VVD to_II the_AT largest_JJT Sears_NP1 store_NN1 in_II Houston_NP1 ,_Y walked_VVD_VVN@ into_II the_AT manager_NN1 's_GE office_NN1 and_CC told_VVD him_PPHO1 that_CST I_PPIS1 wanted_VVD the_AT keys_NN2 to_II the_AT store_NN1 ,_Y and_CC I_PPIS1 wanted_VVD out_RP because_CS we_PPIS2 now_RT owned_VVD_VVN that_DD1_CST store_NN1 ,_Y "_Y Jamail_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   84 " The manager asked me what was going to happen , and I said that their competitor , Montgomery Ward , was about to have the biggest damn Memorial Day sale in history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   84 "_Y The_AT manager_NN1 asked_VVD me_PPIO1 what_DDQ was_VBDZ going_VVGK to_TO happen_VVI ,_Y and_CC I_PPIS1 said_VVD that_CST their_APPGE competitor_NN1 ,_Y Montgomery_NP1 Ward_NP1 ,_Y was_VBDZ about_RPK to_TO have_VHI the_AT biggest_JJT damn_JJ Memorial_NN1 Day_NP1_NNT1 sale_NN1 in_II history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   85 " <p> Within an hour , according to Jamail , the law firm representing Sears showed up with a check for the entire amount .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   85 "_Y <p>_Y Within_II an_AT1 hour_NNT1 ,_Y according_II21 to_II22 Jamail_NP1_NN1 ,_Y the_AT law_NN1 firm_NN1 representing_VVG Sears_NP1 showed_VVD up_RP with_IW a_AT1 check_NN1 for_IF the_AT entire_JJ amount_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   86 The newspapers and radio stations announced that Jamail had shut down Sears , which led to him getting a lot of angry phone calls .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   86 The_AT newspapers_NN2 and_CC radio_NN1 stations_NN2 announced_VVD_VVN that_CST_DD1 Jamail_NP1_NN1 had_VHD shut_VVN down_II@_RP Sears_NP1 ,_Y which_DDQ led_VVD to_II him_PPHO1 getting_VVG a_AT1 lot_NN1 of_IO angry_JJ phone_NN1 calls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   87 He remembers one in particular .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   87 He_PPHS1 remembers_VVZ one_PN1 in_RR21 particular_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   88 <p> " Joe , you son of a bitch , do n't you know it is un-American to close down Sears ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   88 <p>_Y "_Y Joe_NP1 ,_Y you_PPY son_NN1 of_IO a_AT1 bitch_NN1 ,_Y do_VD0 n't_XX you_PPY know_VVI it_PPH1 is_VBZ un-American_JJ to_TO close_VVI down_RP_II@ Sears_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   89 " The caller was Willie Nelson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   89 "_Y The_AT caller_NN1 was_VBDZ Willie_NP1 Nelson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   90 <p> L : ROLLING WITH IT IN THE EARLY 1980S , JAMAIL REPREsented his courtroom idol , Houston criminal defense attorney Percy Foreman , whose neck was injured when his car was rear-ended by a commercial truck .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   90 <p>_Y L_ZZ1_NP1@ :_Y ROLLING_VVG_JJ WITH_IW IT_NN1 IN_II THE_AT EARLY_JJ 1980S_MC2 ,_Y JAMAIL_NP1 REPREsented_VVD his_APPGE courtroom_NN1 idol_NN1 ,_Y Houston_NP1 criminal_JJ_NN1 defense_NN1 attorney_NN1 Percy_NP1 Foreman_NP1 ,_Y whose_DDQGE neck_NN1 was_VBDZ injured_VVN when_CS_RRQ his_APPGE car_NN1 was_VBDZ rear-ended_JJ_NN1 by_II a_AT1 commercial_JJ truck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   91 On direct examination , Foreman testified that he had not experienced any neck problems before the accident , and that he was .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   91 On_II direct_JJ examination_NN1 ,_Y Foreman_NP1 testified_VVD that_CST he_PPHS1 had_VHD not_XX experienced_VVN any_DD neck_NN1 problems_NN2 before_II_CS the_AT accident_NN1 ,_Y and_CC that_CST he_PPHS1 was_VBDZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   92 <p> But on cross-examination , the defense revealed that Foreman had been hospitalized nine times for neck problems prior to this accident .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   92 <p>_Y But_CCB on_II cross-examination_NN1_JJ ,_Y the_AT defense_NN1 revealed_VVD_VVN that_CST Foreman_NP1 had_VHD been_VBN hospitalized_VVN@ nine_MC times_NNT2 for_IF neck_NN1 problems_NN2 prior_II21 to_II22 this_DD1 accident_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   93 <p> " The jury looked at me , expecting me to give them an answer , " says Jamail .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   93 <p>_Y "_Y The_AT jury_NN1 looked_VVN_VVD at_II me_PPIO1 ,_Y expecting_VVG me_PPIO1 to_TO give_VVI them_PPHO2 an_AT1 answer_NN1 ,_Y "_Y says_VVZ Jamail_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   94 " So I told them that Percy had been a great lawyer throughout his life , but that he was now just an old man and was growing senile .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   94 "_Y So_CS@_RR I_PPIS1 told_VVD them_PPHO2 that_CST Percy_NP1 had_VHD been_VBN a_AT1 great_JJ lawyer_NN1 throughout_II his_APPGE life_NN1 ,_Y but_CCB that_CST@_DD1 he_PPHS1 was_VBDZ now_RT just_RR an_AT1 old_JJ man_NN1 and_CC was_VBDZ growing_VVG_JJ senile_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   95 " <p> At that moment , Foreman jumped up and yelled out across the courtroom , " You goddamned son of a bitch !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   95 "_Y <p>_Y At_II that_DD1 moment_NN1 ,_Y Foreman_NP1 jumped_VVD up_RP and_CC yelled_VVD out_RP across_II the_AT courtroom_NN1 ,_Y "_Y You_PPY goddamned_JJ son_NN1 of_IO a_AT1 bitch_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   96 " <p> " See what I mean , " Jamail immediately told jurors .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   96 "_Y <p>_Y "_Y See_VV0 what_DDQ I_PPIS1 mean_VV0 ,_Y "_Y Jamail_VV0_NP1 immediately_RR told_VVN_VVD jurors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   97 " He does n't even , know where he is right now .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   97 "_Y He_PPHS1 does_VDZ n't_XX even_RR ,_Y know_VV0 where_RRQ he_PPHS1 is_VBZ right_RR now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   98 " <p> The jury awarded Foreman the sum of $75,004 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   98 "_Y <p>_Y The_AT jury_NN1 awarded_VVD@_VVN Foreman_NP1 the_AT sum_NN1 of_IO $75,004_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0   99 Jamail says he never figured out why the extra $4 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0   99 Jamail_NN1_NP1@ says_VVZ he_PPHS1 never_RR figured_VVN_VVD out_RP why_RRQ the_AT extra_JJ $4_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  100 <p> " Today 's law schools teach students how not to get emotionally involved in their cases , ' " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  100 <p>_Y "_Y Today_RT 's_GE law_NN1 schools_NN2 teach_VV0 students_NN2 how_RRQ not_XX to_TO get_VVI emotionally_RR involved_JJ in_II their_APPGE cases_NN2 ,_Y '_"@ "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  101 " That 's bullshit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  101 "_Y That_DD1 's_VBZ bullshit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  102 If you are not emotionally involved , your client is not getting your best effort .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  102 If_CS you_PPY are_VBR not_XX emotionally_RR involved_VVN_VVD ,_Y your_APPGE client_NN1 is_VBZ not_XX getting_VVG your_APPGE best_JJT effort_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  103 and judges , it has also gotten him into trouble .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  103 and_CC judges_NN2_VVZ ,_Y it_PPH1 has_VHZ also_RR gotten_VVN him_PPHO1 into_II trouble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  104 In November 1993 , Jamail was defending his friend and client , Pennzoil Corp .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  104 In_II November_NPM1 1993_MC ,_Y Jamail_NP1_NN1 was_VBDZ defending_VVG his_APPGE friend_NN1 and_CC client_NN1 ,_Y Pennzoil_NP1 Corp_NPX ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  105 Chairman J. Hugh Liedtke , in a lawsuit regarding the takeover of Paramount Communications Inc. , of which Liedtke was an outside director .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  105 Chairman_NN1 J._NP1 Hugh_NP1 Liedtke_NP1 ,_Y in_II a_AT1 lawsuit_NN1 regarding_II_VVG the_AT takeover_NN1 of_IO Paramount_NP1_JJ@ Communications_NN2 Inc._JJ ,_Y of_IO which_DDQ Liedtke_NP1 was_VBDZ an_AT1 outside_JJ director_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  106 During the deposition , Jamail called a lawyer representing QVC Network Inc. an " asshole " and said his deposition skills could " gag a maggot off a meat wagon .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  106 During_II the_AT deposition_NN1 ,_Y Jamail_NP1_NN1 called_VVD@_VVN a_AT1 lawyer_NN1 representing_VVG QVC_NP1 Network_NN1 Inc._JJ an_AT1 "_Y asshole_NN1 "_Y and_CC said_VVD his_APPGE deposition_NN1 skills_NN2 could_VM "_Y gag_VV0@ a_AT1 maggot_NN1 off_II_RP a_AT1 meat_NN1 wagon_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  107 " <p> The Delaware Supreme Court reprimanded Jamail , calling his conduct " an astonishing lack of professionalism and civility .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  107 "_Y <p>_Y The_AT Delaware_NP1 Supreme_JJ Court_NN1 reprimanded_VVD_VVN Jamail_NP1_NN1 ,_Y calling_VVG his_APPGE conduct_NN1 "_Y an_AT1 astonishing_JJ lack_NN1 of_IO professionalism_NN1 and_CC civility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  108 " Jamail told Texas Lawyer reporter Brenda Sapino Jeffreys on the day the court issued its opinion , " I 'd rather have a nose on my ass than go back to Delaware for any reason .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  108 "_Y Jamail_NP1@_NN1 told_VVD Texas_NP1 Lawyer_NN1 reporter_NN1 Brenda_NP1 Sapino_NP1 Jeffreys_NP1 on_II the_AT day_NNT1 the_AT court_NN1 issued_VVD_VVN its_Z' opinion_NN1 ,_Y "_Y I_PPIS1 'd_VM rather_RR have_VHI a_AT1 nose_NN1 on_II my_APPGE ass_NN1 than_CSN go_VV0 back_RP to_II Delaware_NP1 for_IF any_DD reason_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  109 " <p> L : JOSEPH D. JAMAIL JR .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  109 "_Y <p>_Y L_ZZ1_NP1@ :_Y JOSEPH_NP1 D._NP1 JAMAIL_NP1_VV0 JR_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  110 Born 1925 in Houston .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  110 Born_VVN_JJ@ 1925_MC in_II Houston_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  111 <p> Firm Jamail Kolius in Houston .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  111 <p>_Y Firm_JJ_NN1 Jamail_NP1_NN1 Kolius_NP1_NN1@ in_II Houston_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  112 <p> Law school University of Texas .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  112 <p>_Y Law_NN1 school_NN1 University_NN1 of_IO Texas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  113 <p> L : Significant cases * 1962 -- Won a $580,000 judgment for Olin Robertson , who had both hands : and a This was the first tort-law verdict in the United States to surpass $500,000. * 1985 -- Won a $10.5 billion jury verdict for Pennzoil in a suit against Texaco for interfering with a merger with Getty Oil .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  113 <p>_Y L_ZZ1_NP1@ :_Y Significant_JJ cases_NN2 *_FU 1962_MC --_NN1_JJ Won_VVD_VVN a_AT1 $580,000_NNU judgment_NN1 for_IF Olin_NP1 Robertson_NP1 ,_Y who_PNQS had_VHD both_DB2 hands_NN2 :_Y and_CC a_AT1 This_DD1 was_VBDZ the_AT first_MD tort-law_NN1 verdict_NN1 in_II the_AT United_NP1 States_NP1 to_TO surpass_VVI $500,000._NNU *_FU 1985_MC --_NN1_JJ Won_VVD_VVN a_AT1 $10.5_NNU billion_M jury_NN1 verdict_NN1 for_IF Pennzoil_NP1_NN1@ in_II a_AT1 suit_NN1 against_II Texaco_NP1 for_IF interfering_VVG with_IW a_AT1 merger_NN1 with_IW Getty_NP1 Oil_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  114 * 1988 -- Won a $16.6 million verdict for Sonya Webster , who was 16 when she ' was rendered quadriplegic after the crash of a Honda all-terrain vehicle .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  114 *_FU 1988_MC --_NN1_JJ Won_VVD_VVN a_AT1 $16.6_NNU million_M verdict_NN1 for_IF Sonya_NP Webster_NP1 ,_Y who_PNQS was_VBDZ 16_MC when_RRQ_CS she_PPHS1 '_VBZ was_VBDZ rendered_VVN quadriplegic_JJ after_II_CS the_AT crash_NN1 of_IO a_AT1 Honda_NP1 all-terrain_JJ_NN1 vehicle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  115 It was the first-ever verdict against the ATV industry .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  115 It_PPH1 was_VBDZ the_AT first-ever_JJ verdict_NN1 against_II the_AT ATV_NN1_NP1 industry_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  116 * 1993 -- Represented Northwest Airlines in its losing antitrust claims against American Airlines .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  116 *_FU 1993_MC --_NN1_JJ Represented_VVD_VVN Northwest_ND1 Airlines_NN2 in_II its_Z' losing_JJ@_NN1@ antitrust_NN1 claims_VVZ_NN2 against_II American_JJ Airlines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  117 Other career highlights -- A swimming center , a law school pavilion and the football field at the University of Texas in Austin are named for Jamail , who is a hefty contributor .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  117 Other_JJ career_NN1 highlights_VVZ --_ZZ A_ZZ1 swimming_VVG_NN1 center_NN1 ,_Y a_AT1 law_NN1 school_NN1 pavilion_NN1 and_CC the_AT football_NN1 field_NN1 at_II the_AT University_NN1 of_IO Texas_NP1 in_II Austin_NP1 are_VBR named_VVN for_IF Jamail_NP1_NN1 ,_Y who_PNQS is_VBZ a_AT1 hefty_JJ contributor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  118 <p> " Today 's law schools , teach students how n.ot to get emotionally involved in their cases .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  118 <p>_Y "_Y Today_RT 's_GE law_NN1 schools_NN2 ,_Y teach_VV0 students_NN2 how_RRQ n.ot_NNU to_TO get_VVI emotionally_RR involved_JJ in_II their_APPGE cases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  119 That 's bullshit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  119 That_DD1 's_VBZ bullshit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  120 " <p> Date Jan. 1 , 2008 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  120 "_Y <p>_Y Date_VV0@_NN1 Jan._NPM1 1_MC1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  121 <p> Location Willie Nelson 's ranch house , outside of Austin , Texas .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  121 <p>_Y Location_NN1 Willie_NP1 Nelson_NP1 's_GE ranch_NN1 house_NN1 ,_Y outside_II21 of_II22 Austin_NP1 ,_Y Texas_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  122 <p> Who Joe Jamail ( right ) , Willie Nelson and his sister Bobbie Nelson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  122 <p>_Y Who_NP1% Joe_NP1 Jamail_NP1 (_Y right_RR_NN1_JJ )_Y ,_Y Willie_NP1 Nelson_NP1 and_CC his_APPGE sister_NN1 Bobbie_NP1 Nelson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  123 <p> What Jamail Nelson , accompanied on the piano by his sister , whose birthday was the occasion for the gathering .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  123 <p>_Y What_DDQ Jamail_NP1_NN1 Nelson_NP1 ,_Y accompanied_VVN_VVD on_II the_AT piano_NN1 by_II his_APPGE sister_NN1 ,_Y whose_DDQGE birthday_NN1 was_VBDZ the_AT occasion_NN1 for_IF the_AT gathering_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  124 <p> Note Many years earlier , Nelson had persuaded Jamail to loosen up the night before closing arguments in the landmark Pennzoil v. Texaco lawsuit with a night of drinking .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  124 <p>_Y Note_VV0 Many_DA2 years_NNT2 earlier_RRR ,_Y Nelson_NP1 had_VHD persuaded_VVN Jamail_VV0_NN1_NP1 to_TO loosen_VVI up_RP_II@ the_AT night_NNT1 before_II closing_JJ_VVG_NN1 arguments_NN2 in_II the_AT landmark_NN1 Pennzoil_NN1@_NP1_VV0@ v._II Texaco_NP1 lawsuit_NN1 with_IW a_AT1 night_NNT1 of_IO drinking_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  125 Jamail accepted the challenge and went on to win what would become the largest verdict ever upheld on appeal in U.S. legal history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  125 Jamail_NP1@_NN1 accepted_VVD the_AT challenge_NN1 and_CC went_VVD on_RP to_TO win_VVI what_DDQ would_VM become_VVI the_AT largest_JJT verdict_NN1 ever_RR upheld_VVN on_II appeal_NN1 in_II U.S._NP1 legal_JJ history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  A    0  126 <p> PHOTO ( BLACK WHITE ) <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071550 COCA  B    0  126 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y

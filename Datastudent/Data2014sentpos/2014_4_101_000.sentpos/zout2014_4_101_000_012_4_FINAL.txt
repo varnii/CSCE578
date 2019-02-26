@@ -1,0 +1,200 @@
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    0 Here is the recipe for literary success : Add segregation , tribulation , war , and romance ; subtract individuality , consciousness , and the accepted male role .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    0 Here_RL is_VBZ the_AT recipe_NN1 for_IF literary_JJ success_NN1 :_: Add_VV0 segregation_NN1 ,_, tribulation_NN1 ,_, war_NN1 ,_, and_CC romance_NN1 ;_; subtract_VV0 individuality_NN1 ,_, consciousness_NN1 ,_, and_CC the_AT accepted_JJ male_JJ role_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    1 Time the release for a date when the last " big thing " is beginning to fade .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    1 Time_NNT1 the_AT release_NN1 for_IF a_AT1 date_NN1 when_CS the_AT last_MD "_" big_JJ thing_NN1 "_" is_VBZ beginning_VVG to_TO fade_VVI ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    2 Let it sit through the initial criticism , and then you have the next New York Times bestseller .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    2 Let_VV0 it_PPH1 sit_VVI through_II the_AT initial_JJ criticism_NN1 ,_, and_CC then_RT you_PPY have_VH0 the_AT next_MD New_NP1 York_NP1 Times_NNT2 bestseller_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    3 Young adults today are fascinated by these trends in either current or futuristic dystopias .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    3 Young_JJ adults_NN2 today_RT are_VBR fascinated_VVN by_II these_DD2 trends_NN2 in_II either_RR current_JJ or_CC futuristic_JJ dystopias_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    4 In order to accommodate the sudden surge in this literary genre , authors have experimented over the past decade with various combinations of these ingredients .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    4 In_BCL21 order_BCL22 to_TO accommodate_VVI the_AT sudden_JJ surge_NN1 in_II this_DD1 literary_JJ genre_NN1 ,_, authors_NN2 have_VH0 experimented_VVN over_II the_AT past_JJ decade_NNT1 with_IW various_JJ combinations_NN2 of_IO these_DD2 ingredients_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    5 There were Harry Potter and Twilight .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    5 There_EX were_VBDR Harry_NP1 Potter_NP1 and_CC Twilight_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    6 Recently , the most significant has been Suzanne Collins ' The Hunger Games series .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    6 Recently_RR ,_, the_AT most_RGT significant_JJ has_VHZ been_VBN Suzanne_NP1 Collins_NP1 '_GE The_AT Hunger_NN1 Games_NN2 series_NN ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    7 However Divergent by Veronica Roth is closely following it .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    7 However_RGQV Divergent_JJ by_II Veronica_NP1 Roth_NP1 is_VBZ closely_RR following_VVG it_PPH1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    0    8 By comparing Katniss 's Hunger Games experience with Tris 's initiation process , we can see the progression and sophistication of the recipe in satisfying the current audience/readers ' appetites ; this is important because it reflects a better understanding of young adults ' mindset .
+SENTPOS 2014_4_101_000_012_4 FINAL B    0    8 By_II comparing_VVG Katniss_NP1 's_GE Hunger_NN1 Games_NN2 experience_VV0 with_IW Tris_NP2 's_GE initiation_NN1 process_NN1 ,_, we_PPIS2 can_VM see_VVI the_AT progression_NN1 and_CC sophistication_NN1 of_IO the_AT recipe_NN1 in_II satisfying_VVG@ the_AT current_JJ audience/readers_FU '_GE appetites_NN2 ;_; this_DD1 is_VBZ important_JJ because_CS it_PPH1 reflects_VVZ a_AT1 better_JJR understanding_NN1 of_IO young_JJ adults_NN2 '_GE mindset_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1    9 When Prim 's name was drawn during the reaping , Katniss stepped forward to take her place in the Seventy-fourth annual Hunger Games .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1    9 When_CS Prim_JJ 's_GE name_NN1 was_VBDZ drawn_VVN during_II the_AT reaping_NN1% ,_, Katniss_NP1 stepped_VVD forward_RL to_TO take_VVI her_APPGE place_NN1 in_II the_AT Seventy-fourth_MD annual_JJ Hunger_NN1 Games_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   10 She was given a minimal amount of time to train for the ordeal before she was thrown into the arena and forced to fight for her death .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   10 She_PPHS1 was_VBDZ given_VVN a_AT1 minimal_JJ amount_NN1 of_IO time_NNT1 to_TO train_VVI for_IF the_AT ordeal_NN1 before_CS she_PPHS1 was_VBDZ thrown_VVN into_II the_AT arena_NN1 and_CC forced_VVN to_TO fight_VVI for_IF her_APPGE death_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   11 Fortunately , she had many things going in her favor .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   11 Fortunately_RR ,_, she_PPHS1 had_VHD many_DA2 things_NN2 going_VVG in_II her_APPGE favor_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   12 She already knew how to trap and forage for food .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   12 She_PPHS1 already_RR knew_VVD how_RRQ to_TO trap_VVI and_CC forage_VVI for_IF food_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   13 She could climb trees to get out of the reach of other tributes .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   13 She_PPHS1 could_VM climb_VVI trees_NN2 to_TO get_VVI out_II21 of_II22 the_AT reach_NN1 of_IO other_JJ tributes_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   14 Most importantly , she had exceptional aim with a bow .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   14 Most_RGT importantly_RR ,_, she_PPHS1 had_VHD exceptional_JJ aim_NN1 with_IW a_AT1 bow_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   15 Except for the fact she did not want to kill anyone , she was an ideal competitor for the Hunger Games .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   15 Except_II21 for_II22 the_AT fact_NN1 she_PPHS1 did_VDD not_XX want_VVI to_TO kill_VVI anyone_PN1 ,_, she_PPHS1 was_VBDZ an_AT1 ideal_JJ competitor_NN1 for_IF the_AT Hunger_NN1 Games_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   16 There was only one thing she did not expect : she was pretending to be in love with Peeta Mellark .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   16 There_EX was_VBDZ only_RR one_MC1 thing_NN1 she_PPHS1 did_VDD not_XX expect_VVI :_: she_PPHS1 was_VBDZ pretending_VVG to_TO be_VBI in_II love_NN1 with_IW Peeta_NP1 Mellark_NP1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   17 This was initially a rouse to gain the attention of the Sponsors , but it grew into genuine affection by the end of the Games .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   17 This_DD1 was_VBDZ initially_RR a_AT1 rouse_VV0 to_TO gain_VVI the_AT attention_NN1 of_IO the_AT Sponsors_NN2 ,_, but_CCB it_PPH1 grew_VVD into_II genuine_JJ affection_NN1 by_II the_AT end_NN1 of_IO the_AT Games_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   18 At one point near the end , they share a kiss in a cave .
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   18 At_II one_MC1 point_NN1 near_II the_AT end_NN1 ,_, they_PPHS2 share_VV0 a_AT1 kiss_NN1 in_II a_AT1 cave_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    1   19 Katniss says , " This is the first kiss where I actually feel stirring inside my chest the first kiss that makes me want another . "
+SENTPOS 2014_4_101_000_012_4 FINAL B    1   19 Katniss_NN1 says_VVZ ,_, "_" This_DD1 is_VBZ the_AT first_MD kiss_NN1 where_CS I_PPIS1 actually_RR feel_VV0 stirring_VVG inside_II my_APPGE chest_NN1 the_AT first_MD kiss_NN1 that_CST makes_VVZ me_PPIO1 want_VVI another_DD1 ._. "_"
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   20 ( The Hunger Games 298 ) Tris 's situation was not as much of an extreme battle , but it was easily just as fatal and possibly as much of a psychological challenge .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   20 (_( The_AT Hunger_NN1 Games_NN2 298_MC )_) Tris_NP2 's_GE situation_NN1 was_VBDZ not_XX as_RG@ much_DA1 of_IO an_AT1 extreme_JJ battle_NN1 ,_, but_CCB it_PPH1 was_VBDZ easily_RR just_RR as_RG fatal_JJ and_CC possibly_RR as_RG@ much_DA1 of_IO a_AT1 psychological_JJ challenge_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   21 The city was divided into five factions , much as Panem was divided into twelve Districts .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   21 The_AT city_NN1 was_VBDZ divided_VVN into_II five_MC factions_NN2 ,_, much_DA1 as_CSA Panem_NP1 was_VBDZ divided_VVN into_II twelve_MC Districts_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   22 Instead of being divided by labor , however , they were divided by ideology .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   22 Instead_II21 of_II22 being_VBG divided_VVN by_II labor_NN1 ,_, however_RR ,_, they_PPHS2 were_VBDR divided_VVN by_II ideology_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   23 Her first challenge was an aptitude test to tell her which faction of the city she belonged in .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   23 Her_APPGE first_MD challenge_NN1 was_VBDZ an_AT1 aptitude_NN1 test_NN1 to_TO tell_VVI her_PPHO1 which_DDQ faction_NN1 of_IO the_AT city_NN1 she_PPHS1 belonged_VVD in_RP@ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   24 She was attached to a machine and presented with scenarios .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   24 She_PPHS1 was_VBDZ attached_VVN to_II a_AT1 machine_NN1 and_CC presented_VVN with_IW scenarios_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   25 Her results showed her as being Divergent , meaning she could adapt to more than one faction .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   25 Her_APPGE results_NN2 showed_VVD her_PPHO1 as_CSA being_VBG Divergent_JJ ,_, meaning_VVG she_PPHS1 could_VM adapt_VVI to_II more_DAR than_CSN one_MC1 faction_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   26 Unfortunately , it also meant people would be willing to murder her to remove the nonconformity ( Roth 257 ) .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   26 Unfortunately_RR ,_, it_PPH1 also_RR meant_VVD people_NN would_VM be_VBI willing_JJ to_TO murder_VVI her_PPHO1 to_TO remove_VVI the_AT nonconformity_NN1 (_( Roth_NP1 257_MC )_) ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   27 At the choosing ceremony , she picked Dauntless , which meant leaving her home of Abnegation and taking on a completely different personality .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   27 At_II the_AT choosing_NN1 ceremony_NN1 ,_, she_PPHS1 picked_VVD Dauntless_NP1 ,_, which_DDQ meant_VVD leaving_VVG her_APPGE home_NN1 of_IO Abnegation_NN1 and_CC taking_VVG on_RP a_AT1 completely_RR different_JJ personality_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   28 Her first test was to jump off a moving train to reach the Dauntless compound .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   28 Her_APPGE first_MD test_NN1 was_VBDZ to_TO jump_VVI off_RP a_AT1 moving_JJ@ train_NN1 to_TO reach_VVI the_AT Dauntless_JJ compound_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   29 Then she had to jump off the top of a building into a hole leading underground .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   29 Then_RT she_PPHS1 had_VHD to_TO jump_VVI off_II the_AT top_NN1 of_IO a_AT1 building_NN1 into_II a_AT1 hole_NN1 leading_VVG underground_RL ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   30 After this , the real training began .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   30 After_CS this_DD1 ,_, the_AT real_JJ training_NN1 began_VVD ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   31 It was divided into three stages .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   31 It_PPH1 was_VBDZ divided_VVN into_II three_MC stages_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   32 First was combat training .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   32 First_MD was_VBDZ combat_NN1 training_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   33 Not only did she fight the other initiates , she also learned to shoot a gun .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   33 Not_XX only_RR did_VDD she_PPHS1 fight_VVI the_AT other_NN1@ initiates_VVZ ,_, she_PPHS1 also_RR learned_VVN to_TO shoot_VVI a_AT1 gun_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   34 She states , " There is power in controlling something that can do so much damage -- in controlling something , period . "
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   34 She_PPHS1 states_VVZ ,_, "_" There_EX is_VBZ power_NN1 in_II controlling_VVG something_PN1 that_CST can_VM do_VDI so_RG much_DA1 damage_NN1 --_NN1 in_II controlling_VVG something_PN1 ,_, period_NN1 ._. "_"
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   35 ( Roth 79 ) The second stage was similar to the aptitude test .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   35 (_( Roth_NP1 79_MC )_) The_AT second_MD stage_NN1 was_VBDZ similar_JJ to_II the_AT aptitude_NN1 test_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   36 She was hooked back into the machine and forced to face her most horrible fears .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   36 She_PPHS1 was_VBDZ hooked_VVN back_RP into_II the_AT machine_NN1 and_CC forced_VVN to_TO face_VVI her_APPGE most_RGT horrible_JJ fears_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   37 This was to teach her to overcome panic .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   37 This_DD1 was_VBDZ to_TO teach_VVI her_PPHO1 to_TO overcome_VVI panic_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   38 Fortunately , being Divergent , she was able understand it was not real and overcome the simulation .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   38 Fortunately_RR ,_, being_VBG Divergent_JJ ,_, she_PPHS1 was_VBDZ able_JJ understand_VV0 it_PPH1 was_VBDZ not_XX real_JJ and_CC overcome_VV0 the_AT simulation_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   39 Finally she had to go through a fear landscape .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   39 Finally_RR she_PPHS1 had_VHD to_TO go_VVI through_II a_AT1 fear_NN1 landscape_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   40 It was a three dimensional simulation where she went through all of her fears .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   40 It_PPH1 was_VBDZ a_AT1 three_MC dimensional_JJ simulation_NN1 where_CS she_PPHS1 went_VVD through_II all_DB of_IO her_APPGE fears_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   41 This was overseen by a panel of the Dauntless leaders .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   41 This_DD1 was_VBDZ overseen_VVN by_II a_AT1 panel_NN1 of_IO the_AT Dauntless_JJ leaders_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   42 While these stages seem like training , there was more to it .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   42 While_CS these_DD2 stages_NN2 seem_VV0 like_II training_NN1 ,_, there_EX was_VBDZ more_RRR to_II it_PPH1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   43 At each stage a certain number of initiates where sent away .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   43 At_II each_DD1 stage_NN1 a_AT1 certain_JJ number_NN1 of_IO initiates_NN2% where_CS sent_VVN away_RL ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   44 The Dauntless would only take ten new initiates .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   44 The_AT Dauntless_NP1 would_VM only_RR take_VVI ten_MC new_JJ initiates_NN2% ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   45 ( Roth 71 ) Anyone else became factionless , the equivalent to impoverished .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   45 (_( Roth_NP1 71_MC )_) Anyone_PN1 else_RR became_VVD factionless_JJ ,_, the_AT equivalent_JJ to_II impoverished_JJ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   46 It was highly competitive , to the point a few initiates tried to kill their primary competition .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   46 It_PPH1 was_VBDZ highly_RR competitive_JJ ,_, to_II the_AT point_NN1 a_AT1 few_DA2 initiates_NN2% tried_VVD to_TO kill_VVI their_APPGE primary_JJ competition_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   47 One , Peter , even tried to have Tris thrown into the chasm running beneath the Dauntless compound .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   47 One_MC1 ,_, Peter_NP1 ,_, even_RR tried_VVD to_TO have_VHI Tris_NP2 thrown_VVN into_II the_AT chasm_NN1 running_VVG beneath_II the_AT Dauntless_JJ compound_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    2   48 Like the Hunger Games , it became a competition of survival .
+SENTPOS 2014_4_101_000_012_4 FINAL B    2   48 Like_II the_AT Hunger_NN1 Games_NN2 ,_, it_PPH1 became_VVD a_AT1 competition_NN1 of_IO survival_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   49 Upon first looking at these two young heroines , one may easily assume that Roth copied Collins ' idea for a strong female character .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   49 Upon_II first_MD looking_VVG at_II these_DD2 two_MC young_JJ heroines_NN2 ,_, one_MC1 may_VM easily_RR assume_VVI that_CST Roth_NP1 copied_VVD Collins_NP1 '_GE idea_NN1 for_IF a_AT1 strong_JJ female_JJ character_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   50 However , this is not the case so much as she extrapolated upon the qualities in Katniss .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   50 However_RR ,_, this_DD1 is_VBZ not_XX the_AT case_NN1 so_RR31 much_RR32 as_RR33 she_PPHS1 extrapolated_VVD upon_II the_AT qualities_NN2 in_II Katniss_NP1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   51 She removed a lot of the weaknesses , while building the strengths .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   51 She_PPHS1 removed_VVD a_AT1 lot_NN1 of_IO the_AT weaknesses_NN2 ,_, while_CS building_VVG@ the_AT strengths_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   52 When she was done she had created Tris .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   52 When_CS she_PPHS1 was_VBDZ done_VDN she_PPHS1 had_VHD created_VVN Tris_NP2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   53 Although a strong female character , she was still believable .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   53 Although_CS a_AT1 strong_JJ female_JJ character_NN1 ,_, she_PPHS1 was_VBDZ still_RR believable_JJ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   54 One way Roth improved upon the character was by giving her a stillness of mind .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   54 One_MC1 way_NN1 Roth_NP1 improved_VVD upon_II the_AT character_NN1 was_VBDZ by_II giving_VVG her_PPHO1 a_AT1 stillness_NN1 of_IO mind_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   55 Tris thinks through her situations in a more analytical way and controls her emotions .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   55 Tris_NP2 thinks_VVZ through_RP her_APPGE situations_NN2 in_II a_AT1 more_RGR analytical_JJ way_NN1 and_CC controls_VVZ her_APPGE emotions_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   56 In her second Hunger Games , Katniss has a breakdown when hearing the jabberjays scream like her family and friends ( Catching Fire 339-345 ) .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   56 In_II her_APPGE second_MD Hunger_NN1 Games_NN2 ,_, Katniss_NP1 has_VHZ a_AT1 breakdown_NN1 when_CS hearing_VVG the_AT jabberjays_NN2 scream_VVI like_II her_APPGE family_NN1 and_CC friends_NN2 (_( Catching_VVG Fire_NN1 339-345_MCMC )_) ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   57 Tris , on the other hand , is forced to face all of her fears at the same time in the fear landscapes .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   57 Tris_NP2 ,_, on_II the_AT other_JJ hand_NN1 ,_, is_VBZ forced_VVN to_TO face_VVI all_DB of_IO her_APPGE fears_NN2 at_II the_AT same_DA time_NNT1 in_II the_AT fear_NN1 landscapes_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   58 By using reasoning , she is able to overcome all of them .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   58 By_II using_VVG reasoning_NN1 ,_, she_PPHS1 is_VBZ able_JK to_TO overcome_VVI all_DB of_IO them_PPHO2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   59 Fortunately , one thing these young women have in common is they both protect their loved ones .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   59 Fortunately_RR ,_, one_MC1 thing_NN1 these_DD2 young_JJ women_NN2 have_VH0 in_RR21 common_RR22 is_VBZ they_PPHS2 both_DB2 protect_VV0 their_APPGE loved_JJ% ones_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   60 Katniss takes Prim 's place in the dreaded Games , whereas Tris turns and faces a bullet rather than shoot her family in the fear landscape .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   60 Katniss_NN1 takes_VVZ Prim_JJ 's_GE place_NN1 in_II the_AT dreaded_JJ Games_NN2 ,_, whereas_CS Tris_NP2 turns_VVZ and_CC faces_VVZ a_AT1 bullet_NN1 rather_CS21 than_CS22 shoot_VVI her_APPGE family_NN1 in_II the_AT fear_NN1 landscape_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   61 Their attitudes are also different .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   61 Their_APPGE attitudes_NN2 are_VBR also_RR different_JJ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   62 Katniss continually focuses on what she can not do and how things could go wrong .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   62 Katniss_VV0 continually_RR focuses_VVZ on_II what_DDQ she_PPHS1 can_VM not_XX do_VDI and_CC how_RRQ things_NN2 could_VM go_VVI wrong_RR ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   63 Tris acknowledges her weaknesses ; then she uses her skills to her advantage .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   63 Tris_NP2 acknowledges_VVZ her_APPGE weaknesses_NN2 ;_; then_RT she_PPHS1 uses_VVZ her_APPGE skills_NN2 to_II her_APPGE advantage_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   64 When the Erudite , another faction , and the Dauntless form an army to overthrow the existing government , she demonstrates this prowess .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   64 When_CS the_AT Erudite_JJ ,_, another_DD1 faction_NN1 ,_, and_CC the_AT Dauntless_NP1 form_VV0 an_AT1 army_NN1 to_TO overthrow_VVI the_AT existing_JJ government_NN1 ,_, she_PPHS1 demonstrates_VVZ this_DD1 prowess_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   65 She is forced to face her tormentor Peter , who is now a guard in for the revolutionaries .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   65 She_PPHS1 is_VBZ forced_VVN to_TO face_VVI her_APPGE tormentor_NN1 Peter_NP1 ,_, who_PNQS is_VBZ now_RT a_AT1 guard_NN1 in_RP@ for_IF the_AT revolutionaries_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   66 " I ca n't win a fight , but if I can move fast enough , I wo n't have to fight . "
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   66 "_" I_PPIS1 ca_VM n't_XX win_VVI a_AT1 fight_NN1 ,_, but_CCB if_CS I_PPIS1 can_VM move_VVI fast_RR enough_RR ,_, I_PPIS1 wo_VM n't_XX have_VHI to_TO fight_VVI ._. "_"
+SENTPOS 2014_4_101_000_012_4 FINAL A    3   67 ( Roth 462 ) With two strikes , she brought him to his knees and held his own gun to his head .
+SENTPOS 2014_4_101_000_012_4 FINAL B    3   67 (_( Roth_NP1 462_MC )_) With_IW two_MC strikes_NN2 ,_, she_PPHS1 brought_VVD him_PPHO1 to_II his_APPGE knees_NN2 and_CC held_VVD his_APPGE own_DA gun_NN1 to_II his_APPGE head_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   68 Both Divergent and The Hunger Games series are classified as young adult fiction .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   68 Both_RR Divergent_JJ and_CC The_AT Hunger_NN1 Games_NN2 series_NN are_VBR classified_VVN as_CSA young_JJ adult_NN1 fiction_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   69 The present fascination with dystopias is both a reflection of young adults ' current concerns combined with older adult 's worries for the future .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   69 The_AT present_JJ fascination_NN1 with_IW dystopias_NN2 is_VBZ both_RR a_AT1 reflection_NN1 of_IO young_JJ adults_NN2 '_GE current_JJ concerns_NN2 combined_VVN with_IW older_JJR adult_NN1 's_GE worries_NN2 for_IF the_AT future_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   70 Adult authors are realizing what young people yearn for in literature and working to meet that demand .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   70 Adult_NN1 authors_NN2 are_VBR realizing_VVG what_DDQ young_JJ people_NN yearn_VV0 for_IF in_II literature_NN1 and_CC working_VVG to_TO meet_VVI that_DD1 demand_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   71 Michael Pryor , another author of young adult fiction , speculates why dystopias are presently so popular .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   71 Michael_NP1 Pryor_NP1 ,_, another_DD1 author_NN1 of_IO young_JJ adult_NN1 fiction_NN1 ,_, speculates_VVZ why_RRQ dystopias_NN2 are_VBR presently_RR so_RG popular_JJ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   72 He says this literary form reflects the desire of teenagers to be liberated from authority and fend for themselves .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   72 He_PPHS1 says_VVZ this_DD1 literary_JJ form_NN1 reflects_VVZ the_AT desire_NN1 of_IO teenagers_NN2 to_TO be_VBI liberated_VVN from_II authority_NN1 and_CC fend_VV0 for_IF themselves_PPX2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   73 He mentioned that an unfortunate side effect of this mentality is to remove the parents from the storyline ( Pryor ) .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   73 He_PPHS1 mentioned_VVD that_CST an_AT1 unfortunate_JJ side_NN1 effect_NN1 of_IO this_DD1 mentality_NN1 is_VBZ to_TO remove_VVI the_AT parents_NN2 from_II the_AT storyline_NN1 (_( Pryor_NP1 )_) ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   74 Katniss 's father died in a mining accident , and she has a dysfunctional relationship with her mother .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   74 Katniss_NP1@ 's_GE father_NN1 died_VVD in_II a_AT1 mining_NN1 accident_NN1 ,_, and_CC she_PPHS1 has_VHZ a_AT1 dysfunctional_JJ relationship_NN1 with_IW her_APPGE mother_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   75 At the beginning of Divergent , on the other hand , Tris has both of her parents ; but she leaves them when she chooses Dauntless .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   75 At_II the_AT beginning_NN1 of_IO Divergent_JJ ,_, on_II the_AT other_JJ hand_NN1 ,_, Tris_NP2 has_VHZ both_RR of_IO her_APPGE parents_NN2 ;_; but_CCB she_PPHS1 leaves_VVZ them_PPHO2 when_CS she_PPHS1 chooses_VVZ Dauntless_JJ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   76 At the end of the novel , they die violently as well ( Roth 443 , 471 ) .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   76 At_II the_AT end_NN1 of_IO the_AT novel_NN1 ,_, they_PPHS2 die_VV0 violently_RR as_RR21 well_RR22 (_( Roth_NP1 443_MC ,_, 471_MC )_) ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   77 Besides this aspect , the more recent young adult fiction has taken place in a world similar to our own .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   77 Besides_II this_DD1 aspect_NN1 ,_, the_AT more_RGR recent_JJ young_JJ adult_NN1 fiction_NN1 has_VHZ taken_VVN place_NN1 in_II a_AT1 world_NN1 similar_JJ to_II our_APPGE own_DA ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   78 Neither of the series in question have mythological creatures -- they consist of believable people .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   78 Neither_DD1 of_IO the_AT series_NN in_II question_NN1 have_VH0 mythological_JJ creatures_NN2 --_NN1 they_PPHS2 consist_VV0 of_IO believable_JJ people_NN ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   79 Mark Fisher makes this point when he says " and it is tempting to see the shift from wizards and lovelorn vampires to teenagers fighting for their lives in a state-organized spectacle as indicative of general change in the cultural temperature . "
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   79 Mark_NP1 Fisher_NP1 makes_VVZ this_DD1 point_NN1 when_CS he_PPHS1 says_VVZ "_" and_CC it_PPH1 is_VBZ tempting_JJ to_TO see_VVI the_AT shift_NN1@ from_II wizards_NN2 and_CC lovelorn_JJ vampires_NN2 to_II teenagers_NN2 fighting_VVG for_IF their_APPGE lives_NN2 in_II a_AT1 state-organized_JJ spectacle_NN1 as_CSA indicative_JJ of_IO general_JJ change_NN1 in_II the_AT cultural_JJ temperature_NN1 ._. "_"
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   80 ( Fisher 27 ) Collins led this trend when she set her story in Panem , a North America many years in the future .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   80 (_( Fisher_NP1 27_MC )_) Collins_NP1 led_VVD this_DD1 trend_NN1 when_CS she_PPHS1 set_VVD her_APPGE story_NN1 in_II Panem_NP1 ,_, a_AT1 North_ND1 America_NP1 many_DA2 years_NNT2 in_II the_AT future_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   81 Roth followed this pattern even more closely , by placing her novel in a futuristic Chicago .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   81 Roth_NP1 followed_VVD this_DD1 pattern_NN1 even_RR more_RGR closely_RR ,_, by_II placing_VVG her_APPGE novel_NN1 in_II a_AT1 futuristic_JJ Chicago_NP1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   82 This is even easier for young adults to relate to , because they can imagine the specific location .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   82 This_DD1 is_VBZ even_RR easier_JJR for_IF young_JJ adults_NN2 to_TO relate_VVI to_II ,_, because_CS they_PPHS2 can_VM imagine_VVI the_AT specific_JJ location_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   83 Fisher also brings another factor to mind .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   83 Fisher_NP1 also_RR brings_VVZ another_DD1 factor_NN1 to_TO mind_VVI ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   84 Katniss is almost willing to give up , because she does not see the Capitol as being defeated ( Fisher 30 ) .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   84 Katniss_NN1 is_VBZ almost_RR willing_JJ to_TO give_VVI up_RP ,_, because_CS she_PPHS1 does_VDZ not_XX see_VVI the_AT Capitol_NP1 as_CSA being_VBG defeated_VVN (_( Fisher_NP1 30_MC )_) ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   85 Tris , contrastingly , is prepared to fight for her freedom when the Dauntless army is formed .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   85 Tris_NP2 ,_, contrastingly_RR ,_, is_VBZ prepared_VVN to_TO fight_VVI for_IF her_APPGE freedom_NN1 when_CS the_AT Dauntless_JJ army_NN1 is_VBZ formed_VVN ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   86 This swift reasoning is a definite improvement upon Katniss , who lacked this courage throughout the majority of her involvement in the Hunger Games .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   86 This_DD1 swift_JJ reasoning_NN1 is_VBZ a_AT1 definite_JJ improvement_NN1 upon_II Katniss_NP1 ,_, who_PNQS lacked_VVD this_DD1 courage_NN1 throughout_II the_AT majority_NN1 of_IO her_APPGE involvement_NN1 in_II the_AT Hunger_NN1 Games_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   87 One final thing that both books had in common was classification .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   87 One_MC1 final_JJ thing_NN1 that_CST both_DB2 books_NN2 had_VHD in_RR21 common_RR22 was_VBDZ classification_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   88 Meghan Cox Gurdon , while reviewing several recent books , mentioned this about Divergent : " the whole story is really an extended metaphor about the trials of modern adolescence : constantly having to take tests that sort and rank you among your peers " ( Gurdon ) .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   88 Meghan_NP1@ Cox_NP1 Gurdon_NP1 ,_, while_CS reviewing_VVG several_DA2 recent_JJ books_NN2 ,_, mentioned_VVD this_DD1 about_II Divergent_JJ :_: "_" the_AT whole_JJ story_NN1 is_VBZ really_RR an_AT1 extended_JJ@ metaphor_NN1 about_II the_AT trials_NN2 of_IO modern_JJ adolescence_NN1 :_: constantly_RR having_VHG to_TO take_VVI tests_NN2 that_CST sort_NN1 and_CC rank_VVI you_PPY among_II your_APPGE peers_NN2 "_" (_( Gurdon_NP1 )_) ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   89 Examples from the book are the aptitude test , Choosing ceremony , and the rankings throughout initiation .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   89 Examples_NN2 from_II the_AT book_NN1 are_VBR the_AT aptitude_NN1 test_NN1 ,_, Choosing_VVG ceremony_NN1 ,_, and_CC the_AT rankings_NN2 throughout_II initiation_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   90 Similarly , The Hunger Games involves the reaping ceremony and the rankings of the individual contestants as projected winners by the Game makers .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   90 Similarly_RR ,_, The_AT Hunger_NN1 Games_NN2 involves_VVZ the_AT reaping_VVG ceremony_NN1 and_CC the_AT rankings_NN2 of_IO the_AT individual_JJ contestants_NN2 as_CSA projected_JJ winners_NN2 by_II the_AT Game_NN1 makers_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    4   91 Having compared all these characteristics from both novels , it is more applicable to see Tris as a projection of Katniss , not the clone most reader assume her to be .
+SENTPOS 2014_4_101_000_012_4 FINAL B    4   91 Having_VHG compared_VVN all_DB these_DD2 characteristics_NN2 from_II both_DB2 novels_NN2 ,_, it_PPH1 is_VBZ more_RGR applicable_JJ to_TO see_VVI Tris_NP2 as_II a_AT1 projection_NN1 of_IO Katniss_NP1 ,_, not_XX the_AT clone_NN1 most_DAT reader_NN1 assume_VV0 her_PPHO1 to_TO be_VBI ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   92 When writing a young adult fiction novel , an important detail is to reflect the struggles and mindsets of the audience .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   92 When_CS writing_VVG a_AT1 young_JJ adult_NN1 fiction_NN1 novel_NN1 ,_, an_AT1 important_JJ detail_NN1 is_VBZ to_TO reflect_VVI the_AT struggles_NN2 and_CC mindsets_NN2 of_IO the_AT audience_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   93 Teenagers are at an age where they want to be independent from their parents .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   93 Teenagers_NN2 are_VBR at_II an_AT1 age_NN1 where_CS they_PPHS2 want_VV0 to_TO be_VBI independent_JJ from_II their_APPGE parents_NN2 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   94 They want adventure in a setting similar to the one they know ; it generally involves a " What if this were the case ? " factor .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   94 They_PPHS2 want_VV0 adventure_NN1 in_II a_AT1 setting_JJ@ similar_JJ to_II the_AT one_PN1 they_PPHS2 know_VV0 ;_; it_PPH1 generally_RR involves_VVZ a_AT1 "_" What_DDQ if_CS this_DD1 were_VBDR the_AT case_NN1 ?_? "_" factor_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   95 They struggle with being compared constantly to everyone else .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   95 They_PPHS2 struggle_VV0@ with_IW being_VBG compared_VVN constantly_RR to_II everyone_PN1 else_RR ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   96 Suzanne Collins may have captured this essence in her The Hunger Games trilogy , but Veronica Roth refined it .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   96 Suzanne_NP1 Collins_NP1 may_VM have_VHI captured_VVN this_DD1 essence_NN1 in_II her_PPHO1 The_AT Hunger_NN1 Games_NN2 trilogy_NN1 ,_, but_CCB Veronica_NP1 Roth_NP1 refined_VVD@ it_PPH1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   97 In Divergent , she put Tris through as similar set of trials to the ones Katniss experienced .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   97 In_II Divergent_JJ ,_, she_PPHS1 put_VVD Tris_NP2 through_II as_RG@ similar_JJ set_NN1 of_IO trials_NN2 to_II the_AT ones_NN2 Katniss_VV0 experienced_JJ ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   98 The result , however , was the creation of an even more heroic character and a much more relatable novel .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   98 The_AT result_NN1 ,_, however_RR ,_, was_VBDZ the_AT creation_NN1 of_IO an_AT1 even_RR more_RGR heroic_JJ character_NN1 and_CC a_AT1 much_RR more_RGR relatable_JJ novel_NN1 ._.
+SENTPOS 2014_4_101_000_012_4 FINAL A    5   98  Collins may have had the ingredients for success , but Roth had the proportions of the recipe down to a science .
+SENTPOS 2014_4_101_000_012_4 FINAL B    5   98  Collins_NP1 may_VM have_VHI had_VHN@ the_AT ingredients_NN2 for_IF success_NN1 ,_, but_CCB Roth_NP1 had_VHD the_AT proportions_NN2 of_IO the_AT recipe_NN1 down_RP to_II a_AT1 science_NN1 ._.

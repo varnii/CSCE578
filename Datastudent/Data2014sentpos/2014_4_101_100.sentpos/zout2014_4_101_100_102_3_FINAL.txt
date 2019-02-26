@@ -1,0 +1,162 @@
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    0 The food that our grandparents ate as kids is no longer the same food that they eat today .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    0 The_AT food_NN1 that_CST our_APPGE grandparents_NN2 ate_VVD as_CSA kids_NN2 is_VBZ no_RR21 longer_RR22 the_AT same_DA food_NN1 that_CST they_PPHS2 eat_VV0 today_RT ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    1 We have turned to science to solve our production problems .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    1 We_PPIS2 have_VH0 turned_VVN to_II science_NN1 to_TO solve_VVI our_APPGE production_NN1 problems_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    2 Large businesses have taken over the food world by separating the consumer from the source of their food .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    2 Large_JJ businesses_NN2 have_VH0 taken_VVN over_II the_AT food_NN1 world_NN1 by_II separating_VVG the_AT consumer_NN1 from_II the_AT source_NN1 of_IO their_APPGE food_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    3 How many of us can say what farm we buy our food from ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    3 How_RGQ@ many_DA2 of_IO us_PPIO2 can_VM say_VVI what_DDQ farm_VV0% we_PPIS2 buy_VV0 our_APPGE food_NN1 from_II ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    4 Not very many of us .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    4 Not_XX very_RG many_DA2 of_IO us_PPIO2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    5 The food bought at grocery stores today is genetically modified .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    5 The_AT food_NN1 bought_VVN at_II grocery_NN1 stores_NN2 today_RT is_VBZ genetically_RR modified_VVN ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    6 When a crop is genetically modified a part from the DNA of that crop is taken out and replaced with part of the DNA from a animal or bacteria .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    6 When_CS a_AT1 crop_NN1 is_VBZ genetically_RR modified_VVN a_AT1 part_NN1 from_II the_AT DNA_NN1 of_IO that_DD1 crop_NN1 is_VBZ taken_VVN out_RP and_CC replaced_VVN with_IW part_NN1 of_IO the_AT DNA_NN1 from_II a_AT1 animal_NN1 or_CC bacteria_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    7 The DNA is changed to " better " the crop in some way according to the seed companies .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    7 The_AT DNA_NN1 is_VBZ changed_VVN to_II "_" better_JJR "_" the_AT crop_NN1 in_II some_DD way_NN1 according_II21 to_II22 the_AT seed_NN1 companies_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    0    8 I believe that GMO , or genetically modified organism , food should be labeled because they are not proven to be safe , they support big business , and consumers should know what is in their food .
+SENTPOS 2014_4_101_100_102_3 FINAL B    0    8 I_PPIS1 believe_VV0 that_CST GMO_NP1 ,_, or_CC genetically_RR modified_JJ organism_NN1 ,_, food_NN1 should_VM be_VBI labeled_VVN@ because_CS they_PPHS2 are_VBR not_XX proven_VVN to_TO be_VBI safe_JJ ,_, they_PPHS2 support_VV0 big_JJ business_NN1 ,_, and_CC consumers_NN2 should_VM know_VVI what_DDQ is_VBZ in_II their_APPGE food_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1    9 A study was conducted in four European countries testing the sensory experience of tasting a GMO food .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1    9 A_AT1 study_NN1 was_VBDZ conducted_VVN in_II four_MC European_JJ countries_NN2 testing_VVG the_AT sensory_JJ experience_NN1 of_IO tasting_VVG a_AT1 GMO_NN1 food_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1   10 European countries label or ban GMO foods according to each countries laws .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1   10 European_JJ countries_NN2 label_VV0 or_CC ban_VV0 GMO_NN1 foods_NN2 according_II21 to_II22 each_DD1 countries_NN2 laws_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1   11 The participants tasted the GMO food and the results came back as the experimental group had a positive experience tasting the GMO food ( Bech-Larson , Grunert , and Lahteenmaki 104 ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1   11 The_AT participants_NN2 tasted_VVD the_AT GMO_NN1 food_NN1 and_CC the_AT results_NN2 came_VVD back_RP as_II the_AT experimental_JJ group_NN1 had_VHD a_AT1 positive_JJ experience_NN1 tasting_VVG the_AT GMO_NN1 food_NN1 (_( Bech-Larson_NP1 ,_, Grunert_NP1 ,_, and_CC Lahteenmaki_NP1 104_MC )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1   12 It can be argued that GMOs are fine because they have a good taste .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1   12 It_PPH1 can_VM be_VBI argued_VVN that_CST GMOs_NN2 are_VBR fine_JJ because_CS they_PPHS2 have_VH0 a_AT1 good_JJ taste_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1   13 This argument does not correlate with the argument that GMOs are not proven to be safe .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1   13 This_DD1 argument_NN1 does_VDZ not_XX correlate_VVI with_IW the_AT argument_NN1 that_CST GMOs_NN2 are_VBR not_XX proven_VVN to_TO be_VBI safe_JJ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1   14 These large corporations may say that GMO foods are not proven to be unsafe , but they are also not proven to be safe .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1   14 These_DD2 large_JJ corporations_NN2 may_VM say_VVI that_DD1 GMO_NN1 foods_NN2 are_VBR not_XX proven_VVN to_TO be_VBI unsafe_JJ ,_, but_CCB they_PPHS2 are_VBR also_RR not_XX proven_VVN to_TO be_VBI safe_JJ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    1   15 It is too early to tell .
+SENTPOS 2014_4_101_100_102_3 FINAL B    1   15 It_PPH1 is_VBZ too_RG early_JJ to_TO tell_VVI ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    2   16 The large corporations just do what they need to do to make money .
+SENTPOS 2014_4_101_100_102_3 FINAL B    2   16 The_AT large_JJ corporations_NN2 just_RR do_VD0 what_DDQ they_PPHS2 need_VV0 to_TO do_VDI to_TO make_VVI money_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    2   17 These companies may argue that labeling what their products are made with would create a change in tastes within the market .
+SENTPOS 2014_4_101_100_102_3 FINAL B    2   17 These_DD2 companies_NN2 may_VM argue_VVI that_DD1 labeling_NN1@ what_DDQ their_APPGE products_NN2 are_VBR made_VVN with_IW would_VM create_VVI a_AT1 change_NN1 in_II tastes_NN2 within_II the_AT market_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    2   18 This causes the consumer to move to non GMO foods and the companies to lose money .
+SENTPOS 2014_4_101_100_102_3 FINAL B    2   18 This_DD1 causes_VVZ the_AT consumer_NN1 to_TO move_VVI to_II non_FU GMO_NN1 foods_NN2 and_CC the_AT companies_NN2 to_TO lose_VVI money_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    2   19 Companies need to make a profit to survive , but I also think that each consumer has the right to know what they are putting into their body .
+SENTPOS 2014_4_101_100_102_3 FINAL B    2   19 Companies_NN2 need_VV0 to_TO make_VVI a_AT1 profit_NN1 to_TO survive_VVI ,_, but_CCB I_PPIS1 also_RR think_VV0 that_CST each_DD1 consumer_NN1 has_VHZ the_AT right_NN1 to_TO know_VVI what_DDQ they_PPHS2 are_VBR putting_VVG into_II their_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    3   20 The companies that create these GMO crops say that these are good because we can feed more people with less space , water , and pesticides .
+SENTPOS 2014_4_101_100_102_3 FINAL B    3   20 The_AT companies_NN2 that_CST create_VV0 these_DD2 GMO_NN1 crops_NN2 say_VV0 that_CST these_DD2 are_VBR good_JJ because_CS we_PPIS2 can_VM feed_VVI more_DAR people_NN with_IW less_DAR space_NN1 ,_, water_NN1 ,_, and_CC pesticides_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    3   21 Sure we can give these seeds to third world countries that need the food , but most of the time the United States exports the crops .
+SENTPOS 2014_4_101_100_102_3 FINAL B    3   21 Sure_JJ we_PPIS2 can_VM give_VVI these_DD2 seeds_NN2 to_II third_MD world_NN1 countries_NN2 that_CST need_VV0 the_AT food_NN1 ,_, but_CCB most_DAT of_IO the_AT time_NNT1 the_AT United_NP1 States_NP1 exports_VVZ the_AT crops_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    3   22 Famers are using more pesticides now than ever and it is costing them .
+SENTPOS 2014_4_101_100_102_3 FINAL B    3   22 Famers_NN2 are_VBR using_VVG more_DAR pesticides_NN2 now_RT than_CSN ever_RR and_CC it_PPH1 is_VBZ costing_VVG them_PPHO2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    3   23 Breeds of super bugs and super weeds are emerging that could wipe out all of our crops if we are not careful .
+SENTPOS 2014_4_101_100_102_3 FINAL B    3   23 Breeds_NN2 of_IO super_JJ bugs_NN2 and_CC super_JJ weeds_NN2 are_VBR emerging_VVG that_CST could_VM wipe_VVI out_RP all_DB of_IO our_APPGE crops_NN2 if_CS we_PPIS2 are_VBR not_XX careful_JJ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   24 There are over 47,000 products in grocery stores today ( Food Inc . ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   24 There_EX are_VBR over_RG 47,000_MC products_NN2 in_II grocery_NN1 stores_NN2 today_RT (_( Food_NN1 Inc_JJ ._. )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   25 Our grocery stores are packed full of products that contains either wheat , soybeans or corn .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   25 Our_APPGE grocery_NN1 stores_NN2 are_VBR packed_VVN full_JJ of_IO products_NN2 that_CST contains_VVZ either_RR wheat_NN1 ,_, soybeans_NN2 or_CC corn_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   26 These crops are the ones that are genetically modified .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   26 These_DD2 crops_NN2 are_VBR the_AT ones_NN2 that_CST are_VBR genetically_RR modified_VVN ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   27 There are no facts that prove that GMOs are safe for human consumption .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   27 There_EX are_VBR no_AT facts_NN2 that_CST prove_VV0 that_CST GMOs_NN2 are_VBR safe_JJ for_IF human_JJ consumption_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   28 " ... the Food and Drug Administration did not do its own safety testing of GMOs before they were put into our food supply , " ( Bartolotto ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   28 "_" ..._... the_AT Food_NN1 and_CC Drug_NN1 Administration_NN1 did_VDD not_XX do_VDI its_APPGE own_DA safety_NN1 testing_NN1 of_IO GMOs_NP2 before_CS they_PPHS2 were_VBDR put_VVN into_II our_APPGE food_NN1 supply_NN1 ,_, "_" (_( Bartolotto_NP1 )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   29 Lets go back in history and look at another powerful industry : The tobacco industry .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   29 Lets_VVZ go_VVI back_RP in_II history_NN1 and_CC look_VV0 at_II another_DD1 powerful_JJ industry_NN1 :_: The_AT tobacco_NN1 industry_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   30 For years they marketed to the public how cool you would look smoking .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   30 For_IF years_NNT2 they_PPHS2 marketed_VVD to_II the_AT public_NN1 how_RRQ cool_VV0@ you_PPY would_VM look_VVI smoking_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   31 The question of if it was safe was never considered by the consumer .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   31 The_AT question_NN1 of_IO if_CSW@ it_PPH1 was_VBDZ safe_JJ was_VBDZ never_RR considered_VVN by_II the_AT consumer_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   32 History is repeating itself .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   32 History_NN1 is_VBZ repeating_VVG itself_PPX1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   33 We , the consumers are not told where they , the companies , are getting their food and the industry does not want us to see what is happening behind closed doors .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   33 We_PPIS2 ,_, the_AT consumers_NN2 are_VBR not_XX told_VVN where_CS they_PPHS2 ,_, the_AT companies_NN2 ,_, are_VBR getting_VVG their_APPGE food_NN1 and_CC the_AT industry_NN1 does_VDZ not_XX want_VVI us_PPIO2 to_TO see_VVI what_DDQ is_VBZ happening_VVG behind_II closed_JJ doors_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   34 In the film Food Inc. this issue is addressed , " The food has become much more dangerous in ways that are being hidden from us , " ( Food Inc . ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   34 In_II the_AT film_NN1 Food_NN1 Inc._JJ this_DD1 issue_NN1 is_VBZ addressed_VVN ,_, "_" The_AT food_NN1 has_VHZ become_VVN@ much_RR more_RGR dangerous_JJ in_II ways_NN2 that_CST are_VBR being_VBG hidden_VVN from_II us_PPIO2 ,_, "_" (_( Food_NN1 Inc_JJ ._. )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   35 These large companies keep their farmers from talking about the GMO crops from the consumer .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   35 These_DD2 large_JJ companies_NN2 keep_VV0 their_APPGE farmers_NN2 from_II talking_VVG about_II the_AT GMO_NN1 crops_NN2 from_II the_AT consumer_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   36 There is so much that we do not know about our food today .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   36 There_EX is_VBZ so_RG much_DA1 that_CST we_PPIS2 do_VD0 not_XX know_VVI about_II our_APPGE food_NN1 today_RT ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   37 How can we , as consumers , know what is safe for us when we have put our trust into this large industry and all they want to do is make money by selling us these GMO products ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   37 How_RRQ can_VM we_PPIS2 ,_, as_CSA consumers_NN2 ,_, know_VV0 what_DDQ is_VBZ safe_JJ for_IF us_PPIO2 when_RRQ we_PPIS2 have_VH0 put_VVN our_APPGE trust_NN1 into_II this_DD1 large_JJ industry_NN1 and_CC all_DB they_PPHS2 want_VV0 to_TO do_VDI is_VBZ make_NN1% money_NN1 by_II selling_VVG us_PPIO2 these_DD2 GMO_NN1 products_NN2 ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    4   38 We have no idea , but like the tobacco industry we will find the truth .
+SENTPOS 2014_4_101_100_102_3 FINAL B    4   38 We_PPIS2 have_VH0 no_AT idea_NN1 ,_, but_CCB like_II the_AT tobacco_NN1 industry_NN1 we_PPIS2 will_VM find_VVI the_AT truth_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   39 Large food production supports large industry .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   39 Large_JJ food_NN1 production_NN1 supports_VVZ large_JJ industry_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   40 Who do large industries support ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   40 Who_PNQS do_VD0 large_JJ industries_NN2 support_VV0 ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   41 " We have never had food companies this big and this powerful in our history , " ( Food Inc . ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   41 "_" We_PPIS2 have_VH0 never_RR had_VHN food_NN1 companies_NN2 this_DD1 big_JJ and_CC this_DD1 powerful_JJ in_II our_APPGE history_NN1 ,_, "_" (_( Food_NN1 Inc_JJ ._. )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   42 These food companies support candidates running for government offices and this gives them the advantage over the consumer in policy especially Monsanto .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   42 These_DD2 food_NN1 companies_NN2 support_VV0 candidates_NN2 running_VVG for_IF government_NN1 offices_NN2 and_CC this_DD1 gives_VVZ them_PPHO2 the_AT advantage_NN1 over_II the_AT consumer_NN1 in_II policy_NN1 especially_RR Monsanto_NP1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   43 Who is Monsanto ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   43 Who_PNQS is_VBZ Monsanto_NP1 ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   44 Monsanto is a chemical company that produces DDT , Agent Orange , and RoundUp .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   44 Monsanto_NN1 is_VBZ a_AT1 chemical_JJ company_NN1 that_CST produces_VVZ DDT_NP1 ,_, Agent_NN1 Orange_NN1 ,_, and_CC RoundUp_NP1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   45 In 1980 , when a law was passed that you could paten life , a new opportunity rose .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   45 In_II 1980_MC ,_, when_RRQ a_AT1 law_NN1 was_VBDZ passed_VVN that_CST you_PPY could_VM paten_VVI life_NN1 ,_, a_AT1 new_JJ opportunity_NN1 rose_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   46 Later in 1996 , Monsanto created a soybean resistant to the chemical RoundUp .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   46 Later_RRR in_II 1996_MC ,_, Monsanto_NP1 created_VVD a_AT1 soybean_JJ resistant_JJ to_II the_AT chemical_JJ RoundUp_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   47 They marketed it to farmers and by 2008 , the patented soybean represents over ninety percent of the soybeans planted in the United States .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   47 They_PPHS2 marketed_VVD it_PPH1 to_II farmers_NN2 and_CC by_II 2008_MC ,_, the_AT patented_JJ@ soybean_NN1 represents_VVZ over_RG ninety_MC percent_NNU of_IO the_AT soybeans_NN2 planted_VVN in_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   48 As more people learn about this topic the more they are outraged .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   48 As_CSA more_DAR people_NN learn_VV0 about_II this_DD1 topic_NN1 the_AT more_RRR they_PPHS2 are_VBR outraged_JJ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   49 Outside of Monsanto world headquarters over five hundred non-GMO supporters marched on the opposite side of the street to protest the GMO crops Monsanto produces .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   49 Outside_II21 of_II22 Monsanto_NP1 world_NN1 headquarters_NN over_RG five_MC hundred_NNO non-GMO_JJ supporters_NN2 marched_VVN on_II the_AT opposite_JJ side_NN1 of_IO the_AT street_NN1 to_TO protest_VVI the_AT GMO_NN1 crops_NN2 Monsanto_NN1 produces_VVZ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   50 A farmer that was present spoke up , " Organic farmer Mark Brown said Monsanto controls seed markets , " ( Leiser ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   50 A_AT1 farmer_NN1 that_CST was_VBDZ present_NN1 spoke_VVD up_RP ,_, "_" Organic_JJ farmer_NN1 Mark_NP1 Brown_NP1 said_VVD Monsanto_NP1 controls_VVZ seed_NN1 markets_NN2 ,_, "_" (_( Leiser_NP1 )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   51 He also offered seeds for any farmer that terminates their contract with Monsanto .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   51 He_PPHS1 also_RR offered_VVD seeds_NN2 for_IF any_DD farmer_NN1 that_CST terminates_VVZ their_APPGE contract_NN1 with_IW Monsanto_NP1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   52 They are also involved in the government .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   52 They_PPHS2 are_VBR also_RR involved_JJ in_II the_AT government_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   53 Monsanto supported the Bush administration and there are several former employees of Monsanto in our country 's capitol .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   53 Monsanto_NP1@ supported_VVD the_AT Bush_NP1 administration_NN1 and_CC there_EX are_VBR several_DA2 former_DA employees_NN2 of_IO Monsanto_NN1 in_II our_APPGE country_NN1 's_GE capitol_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   54 Even in the supreme court ( Food Inc . ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   54 Even_RR in_II the_AT supreme_JJ court_NN1 (_( Food_NN1 Inc_JJ ._. )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   55 This is how they prevent labeling of their products .
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   55 This_DD1 is_VBZ how_RRQ they_PPHS2 prevent_VV0 labeling_NN1@ of_IO their_APPGE products_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    5   56 What does this say about our nations leaders ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    5   56 What_DDQ does_VDZ this_DD1 say_VVI about_II our_APPGE nations_NN2 leaders_NN2 ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   57 The normal consumer will not know how to pronounce some of the ingredients on a label of a produced food .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   57 The_AT normal_JJ consumer_NN1 will_VM not_XX know_VVI how_RRQ to_TO pronounce_VVI some_DD of_IO the_AT ingredients_NN2 on_II a_AT1 label_NN1 of_IO a_AT1 produced_JJ% food_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   58 If you can not pronounce the ingredient in the food that you are eating do you think that it is healthy for you ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   58 If_CS you_PPY can_VM not_XX pronounce_VVI the_AT ingredient_NN1 in_II the_AT food_NN1 that_CST you_PPY are_VBR eating_NN1 do_VD0 you_PPY think_VVI that_CST it_PPH1 is_VBZ healthy_JJ for_IF you_PPY ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   59 I say no .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   59 I_PPIS1 say_VV0 no_UH ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   60 If you have no clue what any of the ingredients are in a food product you are buying , put it back on the shelf .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   60 If_CS you_PPY have_VH0 no_AT clue_NN1 what_DDQ any_DD of_IO the_AT ingredients_NN2 are_VBR in_II a_AT1 food_NN1 product_NN1 you_PPY are_VBR buying_VVG ,_, put_VV0 it_PPH1 back_RP on_II the_AT shelf_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   61 Seventy-eight percent of the food in the grocery store have GMOs and much of the food contains GMO corn .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   61 Seventy-eight_MC percent_NNU of_IO the_AT food_NN1 in_II the_AT grocery_NN1 store_NN1 have_VH0 GMOs_NN2 and_CC much_DA1 of_IO the_AT food_NN1 contains_VVZ GMO_NN1 corn_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   62 " So much of our industrial food turns out to be clever rearrangements of corn , " ( Food Inc . ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   62 "_" So_RG much_DA1 of_IO our_APPGE industrial_JJ food_NN1 turns_VVZ out_RP to_TO be_VBI clever_JJ rearrangements_NN2 of_IO corn_NN1 ,_, "_" (_( Food_NN1 Inc_JJ ._. )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   63 Our government pays farmers to produce as much corn as possible .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   63 Our_APPGE government_NN1 pays_VVZ farmers_NN2 to_TO produce_VVI as_RG much_DA1 corn_NN1 as_CSA possible_JJ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   64 With the abundance of corn we have chemically turned the crop into obscure ingredients in our food .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   64 With_IW the_AT abundance_NN1 of_IO corn_NN1 we_PPIS2 have_VH0 chemically_RR turned_VVN the_AT crop_NN1 into_II obscure_JJ ingredients_NN2 in_II our_APPGE food_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   65 Mark Lynas , who is an environmentalist and science writer , spoke at a food industry meeting about labeling GMO foods .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   65 Mark_NP1 Lynas_NP2 ,_, who_PNQS is_VBZ an_AT1 environmentalist_NN1 and_CC science_NN1 writer_NN1 ,_, spoke_VVD at_II a_AT1 food_NN1 industry_NN1 meeting_VVG about_II labeling_VVG GMO_NN1 foods_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   66 " I 'm here to challenge them and provoke them , which is why I told them today that they have to stop opposing GMO labeling .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   66 "_" I_PPIS1 'm_VBM here_RL to_TO challenge_VVI them_PPHO2 and_CC provoke_VVI them_PPHO2 ,_, which_DDQ is_VBZ why_RRQ I_PPIS1 told_VVD them_PPHO2 today_RT that_CST they_PPHS2 have_VH0 to_TO stop_VVI opposing_JJ GMO_NN1 labeling_VVG ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   67 I believe people do have the right to know what 's in their food , and they as an industry have a responsibility and a mandate to deliver on that , " ( Eng ) .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   67 I_PPIS1 believe_VV0 people_NN do_VD0 have_VHI the_AT right_NN1 to_TO know_VVI what_DDQ 's_VBZ in_II their_APPGE food_NN1 ,_, and_CC they_PPHS2 as_II an_AT1 industry_NN1 have_VH0 a_AT1 responsibility_NN1 and_CC a_AT1 mandate_NN1 to_TO deliver_VVI on_II that_DD1 ,_, "_" (_( Eng_NP1 )_) ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   68 Companies are spending millions of dollar to keep their food information from the consumers .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   68 Companies_NN2 are_VBR spending_VVG millions_NNO2 of_IO dollar_NNU1 to_TO keep_VVI their_APPGE food_NN1 information_NN1 from_II the_AT consumers_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   69 As consumers we should demand to know what is on the food that we are buying .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   69 As_CSA consumers_NN2 we_PPIS2 should_VM demand_VVI to_TO know_VVI what_DDQ is_VBZ on_II the_AT food_NN1 that_CST we_PPIS2 are_VBR buying_VVG ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   70 We are spending out hard earned money on food we think is safe for us .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   70 We_PPIS2 are_VBR spending_VVG out_RP hard_RR earned_VVN money_NN1 on_II food_NN1 we_PPIS2 think_VV0 is_VBZ safe_JJ for_IF us_PPIO2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   71 We are feeding our kids , the next generation , GMO foods that are potentially harmful .
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   71 We_PPIS2 are_VBR feeding_VVG our_APPGE kids_NN2 ,_, the_AT next_MD generation_NN1 ,_, GMO_NP1 foods_NN2 that_CST are_VBR potentially_RR harmful_JJ ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    6   72 If we have no information on how safe our food is how can we trust these companies to tell us without proof ?
+SENTPOS 2014_4_101_100_102_3 FINAL B    6   72 If_CS we_PPIS2 have_VH0 no_AT information_NN1 on_II how_RGQ@ safe_JJ our_APPGE food_NN1 is_VBZ how_RRQ can_VM we_PPIS2 trust_VVI these_DD2 companies_NN2 to_TO tell_VVI us_PPIO2 without_IW proof_NN1 ?_?
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   73 Look at the ingredients of the food that you buy .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   73 Look_VV0 at_II the_AT ingredients_NN2 of_IO the_AT food_NN1 that_CST you_PPY buy_VV0 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   74 It is so simple to check before you buy .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   74 It_PPH1 is_VBZ so_RG simple_JJ to_TO check_VVI before_CS you_PPY buy_VV0 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   75 You can change the market , make these companies label their GMO products .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   75 You_PPY can_VM change_VVI the_AT market_NN1 ,_, make_VV0 these_DD2 companies_NN2 label_VVI their_APPGE GMO_NN1 products_NN2 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   76 It is as simple as choosing your foods carefully .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   76 It_PPH1 is_VBZ as_RG simple_JJ as_CSA choosing_VVG your_APPGE foods_NN2 carefully_RR ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   77 One less swipe at the grocery store by each of us can send the food industry the message .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   77 One_MC1 less_DAR swipe_NN1 at_II the_AT grocery_NN1 store_NN1 by_II each_DD1 of_IO us_PPIO2 can_VM send_VVI the_AT food_NN1 industry_NN1 the_AT message_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   78 We can change the industry .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   78 We_PPIS2 can_VM change_VVI the_AT industry_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   79 Look at the tobacco industry and how as consumers we demanded to know the truth .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   79 Look_VV0 at_II the_AT tobacco_NN1 industry_NN1 and_CC how_RRQ as_II@ consumers_NN2 we_PPIS2 demanded_VVD to_TO know_VVI the_AT truth_NN1 ._.
+SENTPOS 2014_4_101_100_102_3 FINAL A    7   79  We can overcome and discover the truth they are keeping from us .
+SENTPOS 2014_4_101_100_102_3 FINAL B    7   79  We_PPIS2 can_VM overcome_VVI and_CC discover_VVI the_AT truth_NN1 they_PPHS2 are_VBR keeping_VVG from_II us_PPIO2 ._.

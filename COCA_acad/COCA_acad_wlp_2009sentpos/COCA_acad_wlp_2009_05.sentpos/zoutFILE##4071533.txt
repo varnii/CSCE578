@@ -1,0 +1,358 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    0 WHEN DAN JUDGE WAS 9 YEARS old , his father , a San Francisco-based insurance defense lawyer , packed his wife and three children into a Volkswagen camper and traveled around Europe for six months .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    0 WHEN_RRQ_CS DAN_NP1 JUDGE_NN1 WAS_VBDZ 9_MC YEARS_NNT2 old_JJ ,_Y his_APPGE father_NN1 ,_Y a_AT1 San_NP1 Francisco-based_NP1 insurance_NN1 defense_NN1 lawyer_NN1 ,_Y packed_VVD_VVN his_APPGE wife_NN1 and_CC three_MC children_NN2 into_II a_AT1 Volkswagen_NP1 camper_NN1 and_CC traveled_VVD around_II_RP Europe_NP1 for_IF six_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    1 That experience so influenced Judge that he and his wife , Christina Cordoza , quit their jobs , rented out their Orinda , Calif. , home and led their 10-year-old son and 8-year-old daughter on an open-ended trip around the world .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    1 That_DD1 experience_NN1 so_RR influenced_VVN Judge_VV0_NN1 that_CST he_PPHS1 and_CC his_APPGE wife_NN1 ,_Y Christina_NP1 Cordoza_NP1 ,_Y quit_VVD_VV0 their_APPGE jobs_NN2 ,_Y rented_VVD_VVN out_RP their_APPGE Orinda_NN1@_NP1 ,_Y Calif._NP1 ,_Y home_NN1_RL and_CC led_VVD their_APPGE 10-year-old_JJ son_NN1 and_CC 8-year-old_JJ daughter_NN1 on_II an_AT1 open-ended_JJ trip_NN1 around_II the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    2 <p> From August 2007 through last May , the Judge-Cordozas visited 18 countries , spending time in Western Europe , the Middle East , Africa and Asia , staying at most two weeks in any one location .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    2 <p>_Y From_II August_NPM1 2007_MC through_II last_MD May_NPM1 ,_Y the_AT Judge-Cordozas_NN2 visited_VVD_VVN 18_MC countries_NN2 ,_Y spending_VVG_JJ@ time_NNT1 in_II Western_NP1 Europe_NP1 ,_Y the_AT Middle_JJ East_ND1 ,_Y Africa_NP1 and_CC Asia_NP1 ,_Y staying_VVG at_RR21 most_RR22 two_MC weeks_NNT2 in_II any_DD one_MC1 location_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    3 Their accommodations ranged from cottages and apartments to upscale hotels to " dumps , " and the family slept many nights on trains , boats and airplanes .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    3 Their_APPGE accommodations_NN2 ranged_VVN_VVD from_II cottages_NN2 and_CC apartments_NN2 to_II upscale_NN1 hotels_NN2 to_II "_Y dumps_NN2 ,_Y "_Y and_CC the_AT family_NN1 slept_VVD many_DA2 nights_NNT2 on_II trains_NN2 ,_Y boats_NN2 and_CC airplanes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    4 Before they left , the family had a rough idea of where they 'd visit but stayed flexible -- planning six weeks in advance , and lining up travel and living arrangements at Internet cafes while on the road .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    4 Before_CS they_PPHS2 left_VVD ,_Y the_AT family_NN1 had_VHD a_AT1 rough_JJ idea_NN1 of_IO where_RRQ they_PPHS2 'd_VM visit_VVI but_CCB stayed_VVD flexible_JJ --_ZZ planning_NN1_VVG six_MC weeks_NNT2 in_II advance_NN1 ,_Y and_CC lining_VVG up_RP_II@ travel_NN1 and_CC living_JJ_VVG_NN1 arrangements_NN2 at_II Internet_NP1_NN1 cafes_NN2 while_CS_VV0% on_II the_AT road_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    5 <p> " We talked We made a pinkie promise , " says Cordoza , 44 , who was an employment lawyer for Lucasfilm .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    5 <p>_Y "_Y We_PPIS2 talked_VVD We_PPIS2 made_VVD a_AT1 pinkie_NN1 promise_NN1_VV0 ,_Y "_Y says_VVZ Cordoza_NP1 ,_Y 44_MC ,_Y who_PNQS was_VBDZ an_AT1 employment_NN1 lawyer_NN1 for_IF Lucasfilm_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    6 " We are crazy about travel , and our lives had gotten really kind of insane .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    6 "_Y We_PPIS2 are_VBR crazy_JJ about_II travel_NN1 ,_Y and_CC our_APPGE lives_NN2 had_VHD gotten_VVN really_RR kind_RR21%_NN1 of_RR22_IO insane_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    7 We had big jobs and our kids were doing activities .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    7 We_PPIS2 had_VHD big_JJ jobs_NN2 and_CC our_APPGE kids_NN2 were_VBDR doing_VDG activities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    8 Every day I had to write a long note for the nanny .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    8 Every_AT1 day_NNT1 I_PPIS1 had_VHD to_TO write_VVI a_AT1 long_JJ note_NN1_VV0 for_IF the_AT nanny_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0    9 It was like a house of cards -- if one card came out , the whole thing would fall -- and I did n't like how I was feeling .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0    9 It_PPH1 was_VBDZ like_II a_AT1 house_NN1 of_IO cards_NN2 --_NN1_JJ if_CS one_MC1 card_NN1 came_VVD out_RP ,_Y the_AT whole_JJ thing_NN1 would_VM fall_VVI --_ZZ and_CC I_PPIS1 did_VDD n't_XX like_VVI how_RRQ I_PPIS1 was_VBDZ feeling_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   10 " <p> Cordoza longed to connect with her family -- her " team , " as she calls them .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   10 "_Y <p>_Y Cordoza_NP1@_NN1 longed_VVD to_TO connect_VVI with_IW her_APPGE family_NN1 --_NN1 her_APPGE "_Y team_NN1 ,_Y "_Y as_CSA she_PPHS1 calls_VVZ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   11 " I wanted to really know these guys .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   11 "_Y I_PPIS1 wanted_VVD to_TO really_RR know_VVI these_DD2 guys_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   12 I wanted to sit and focus and answer their questions , and not talk to Dan about something via e-mail , not be two ships passing in the night .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   12 I_PPIS1 wanted_VVD to_TO sit_VVI and_CC focus_NN1_VV0 and_CC answer_VVI their_APPGE questions_NN2 ,_Y and_CC not_XX talk_VV0_NN1 to_II Dan_NP1 about_II something_PN1 via_II e-mail_NN1 ,_Y not_XX be_VBI two_MC ships_NN2 passing_VVG in_II the_AT night_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   13 I wanted to show our kids the world .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   13 I_PPIS1 wanted_VVD to_TO show_VVI our_APPGE kids_NN2 the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   14 I wanted to be there when they saw the Taj Mahal , their first wild animal in Africa , the first time they ate pasta in Siena .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   14 I_PPIS1 wanted_VVD to_TO be_VBI there_RL when_CS they_PPHS2 saw_VVD the_AT Taj_NP1 Mahal_NP1 ,_Y their_APPGE first_MD wild_JJ animal_NN1 in_II Africa_NP1 ,_Y the_AT first_MD time_NNT1 they_PPHS2 ate_VVD pasta_NN1 in_II Siena_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   15 We realized we 're " <p> For his part , Judge , 45 , who was a lawyer at the power company Calpine Corp. , wanted to " step off the treadmill " the way his father had done .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   15 We_PPIS2 realized_VVD we_PPIS2 're_VBR "_Y <p>_Y For_IF his_APPGE part_NN1 ,_Y Judge_VV0_NN1_NP1@ ,_Y 45_MC ,_Y who_PNQS was_VBDZ a_AT1 lawyer_NN1 at_II the_AT power_NN1 company_NN1 Calpine_NP1 Corp._NP1 ,_Y wanted_VVD_VVN to_TO "_Y step_VVI off_II_RP the_AT treadmill_NN1 "_Y the_AT way_NN1 his_APPGE father_NN1 had_VHD done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   16 " We wanted the kids to appreciate the rest of the world and create in them some empathy and concern for others .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   16 "_Y We_PPIS2 wanted_VVD the_AT kids_NN2 to_TO appreciate_VVI the_AT rest_NN1 of_IO the_AT world_NN1 and_CC create_VV0 in_II them_PPHO2 some_DD empathy_NN1 and_CC concern_NN1_VV0@ for_IF others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   17 Orinda is a great place to live , but it 's not how most of the world is .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   17 Orinda_NN1_NP1@ is_VBZ a_AT1 great_JJ place_NN1 to_TO live_VVI ,_Y but_CCB it_PPH1 's_VBZ not_XX how_RRQ most_DAT of_IO the_AT world_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   18 " <p> TAKING PROLONGED TIME off would amount to career suicide for many attorneys .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   18 "_Y <p>_Y TAKING_VVG PROLONGED_JJ TIME_NNT1 off_RP would_VM amount_NN1 to_TO career_NN1 suicide_NN1 for_IF many_DA2 attorneys_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   19 But others , like Judge and Cordoza , have found ways to make it work .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   19 But_CCB others_NN2 ,_Y like_II_JJ@ Judge_NN1_NP1@ and_CC Cordoza_NP1 ,_Y have_VH0 found_VVN ways_NN2 to_TO make_VVI it_PPH1 work_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   20 Taking a leap of faith , these lawyers simply walked away from their law practices without any clear picture of what they were going to do at the end of their time off .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   20 Taking_VVG a_AT1 leap_NN1 of_IO faith_NN1 ,_Y these_DD2 lawyers_NN2 simply_RR walked_VVD_VVN@ away_II21_RL from_II22_II their_APPGE law_NN1 practices_NN2_VVZ@ without_IW any_DD clear_JJ picture_NN1 of_IO what_DDQ they_PPHS2 were_VBDR going_VVGK to_TO do_VDI at_II the_AT end_NN1 of_IO their_APPGE time_NNT1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   21 Nor did that ambiguity deter them .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   21 Nor_CC did_VDD that_DD1 ambiguity_NN1 deter_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   22 <p> The couple were concerned about what would happen upon their return , but not unduly so .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   22 <p>_Y The_AT couple_NN1 were_VBDR concerned_JJ about_II what_DDQ would_VM happen_VVI upon_II their_APPGE return_NN1 ,_Y but_CCB not_XX unduly_RR so_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   23 " With the two of us , we figured that we had twice the chance of somebody landing a job sooner rather than of contract or other short-term work .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   23 "_Y With_IW the_AT two_MC of_IO us_PPIO2 ,_Y we_PPIS2 figured_VVD that_CST we_PPIS2 had_VHD twice_RR the_AT chance_NN1 of_IO somebody_PN1 landing_VVG a_AT1 job_NN1 sooner_RRR rather_CS21 than_CS22 of_IO contract_NN1 or_CC other_JJ short-term_JJ work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   24 " <p> Though Judge calls himself and his wife fairly risk averse -- especially knowing that they were blowing through retirement savings and their kids ' college funds while out playing hooky for nine months , they felt their around-the-world voyage had a higher calling that was worth the risk .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   24 "_Y <p>_Y Though_CS Judge_NN1_NP1@ calls_VVZ himself_PPX1 and_CC his_APPGE wife_NN1 fairly_RR risk_VV0 averse_JJ --_NN1_JJ especially_RR knowing_VVG that_CST they_PPHS2 were_VBDR blowing_VVG through_II retirement_NN1 savings_NN2 and_CC their_APPGE kids_NN2 '_GE college_NN1 funds_NN2 while_VV0%_CS out_RP playing_VVG hooky_JJ for_IF nine_MC months_NNT2 ,_Y they_PPHS2 felt_VVD their_APPGE around-the-world_NN1 voyage_VVI had_VHD a_AT1 higher_JJR calling_NN1@_JJ@ that_CST_DD1 was_VBDZ worth_II the_AT risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   25 <p> " To be honest , we were proud of ourselves for doing something that was on the wild and crazy side , and not characteristic of your average lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   25 <p>_Y "_Y To_TO be_VBI honest_JJ ,_Y we_PPIS2 were_VBDR proud_JJ of_IO ourselves_PPX2 for_IF doing_VDG something_PN1 that_CST was_VBDZ on_II the_AT wild_JJ and_CC crazy_JJ side_NN1 ,_Y and_CC not_XX characteristic_JJ_NN1 of_IO your_APPGE average_JJ_NN1 lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   26 We were trying to put family and life experiences higher on our list of priorities than building our careers or adding to our stock portfolios .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   26 We_PPIS2 were_VBDR trying_VVG to_TO put_VVI family_NN1 and_CC life_NN1 experiences_NN2_VVZ% higher_JJR_RRR@ on_II our_APPGE list_NN1 of_IO priorities_NN2 than_CSN building_VVG@_NN1 our_APPGE careers_NN2 or_CC adding_VVG to_II our_APPGE stock_NN1 portfolios_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   27 " <p> Maria Hekker , a corporate mergers and acquisitions lawyer , spent 10 years as general counsel of Barra Inc. , a financial services technology company with offices worldwide ; she worked in Berkeley , Calif .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   27 "_Y <p>_Y Maria_NP1 Hekker_NP1 ,_Y a_AT1 corporate_JJ mergers_NN2 and_CC acquisitions_NN2 lawyer_NN1 ,_Y spent_VVD_VVN 10_MC years_NNT2 as_CSA_RG@ general_JJ counsel_NN1 of_IO Barra_NP1 Inc._JJ ,_Y a_AT1 financial_JJ services_NN2 technology_NN1 company_NN1 with_IW offices_NN2 worldwide_RL ;_Y she_PPHS1 worked_VVD in_II Berkeley_NP1 ,_Y Calif_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   28 " I loved every minute , " she recalls .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   28 "_Y I_PPIS1 loved_VVD every_AT1 minute_NNT1 ,_Y "_Y she_PPHS1 recalls_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   29 " It was a great job , incredibly intense .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   29 "_Y It_PPH1 was_VBDZ a_AT1 great_JJ job_NN1 ,_Y incredibly_RR intense_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   30 " <p> But at some point , she hit a wall .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   30 "_Y <p>_Y But_CCB at_II some_DD point_NN1 ,_Y she_PPHS1 hit_VVD a_AT1 wall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   31 " I needed to do something children -- one of whom passed away .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   31 "_Y I_PPIS1 needed_VVD to_TO do_VDI something_PN1 children_NN2 --_NN1_JJ one_MC1 of_IO whom_PNQO passed_VVD away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   32 <p> In 2002 , in the middle of a deal , Hekker approached the company 's CEO about taking a short break .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   32 <p>_Y In_II 2002_MC ,_Y in_II the_AT middle_NN1 of_IO a_AT1 deal_NN1 ,_Y Hekker_NP1 approached_VVD the_AT company_NN1 's_GE CEO_NN1 about_II taking_VVG a_AT1 short_JJ break_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   33 But she soon realized that what she really wanted was n't a sabbatical but rather to submit her resignation so she 'd have enough time to write a book .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   33 But_CCB she_PPHS1 soon_RR realized_VVD that_CST_DD1 what_DDQ she_PPHS1 really_RR wanted_VVD_VVN was_VBDZ n't_XX a_AT1 sabbatical_NN1 but_CCB rather_RR@ to_TO submit_VVI her_APPGE resignation_NN1 so_CS@_RR she_PPHS1 'd_VM have_VHI enough_DD time_NNT1 to_TO write_VVI a_AT1 book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   34 " I always , always loved mystery novels .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   34 "_Y I_PPIS1 always_RR ,_Y always_RR loved_VVN_VVD mystery_NN1 novels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   35 I read them the way other people watch TV , " she recalls .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   35 I_PPIS1 read_VV0_VVD them_PPHO2 the_AT way_NN1 other_JJ_NN1@ people_NN watch_VV0_NN1 TV_NN1 ,_Y "_Y she_PPHS1 recalls_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   36 " It was my fantasy career -- like being a rock star .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   36 "_Y It_PPH1 was_VBDZ my_APPGE fantasy_NN1 career_NN1 --_NN1 like_II being_VBG a_AT1 rock_NN1 star_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   37 " <p> Hekker , 46 , and her husband had " both been going full bore " in their careers -- his in academic medicine at the University of California at San Francisco .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   37 "_Y <p>_Y Hekker_NN1_NP1@ ,_Y 46_MC ,_Y and_CC her_APPGE husband_NN1 had_VHD "_Y both_RR been_VBN going_VVG full_JJ bore_NN1 "_Y in_II their_APPGE careers_NN2 --_NN1 his_PPGE@ in_II academic_JJ medicine_NN1 at_II the_AT University_NN1 of_IO California_NP1 at_II San_NP1 Francisco_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   38 " It 's not like he was a wealthy investment banker , " Hekker explains about her financial situation , " but he did have health insurance .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   38 "_Y It_PPH1 's_VBZ not_XX like_CS%_RR% he_PPHS1 was_VBDZ a_AT1 wealthy_JJ investment_NN1 banker_NN1 ,_Y "_Y Hekker_NP1_NN1 explains_VVZ about_II_RP@ her_APPGE financial_JJ situation_NN1 ,_Y "_Y but_CCB he_PPHS1 did_VDD have_VHI health_NN1 insurance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   39 " <p> Plus , she adds , shortly before she quit , her company 's stock peaked -- though she did not plan for or rely on that when she quit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   39 "_Y <p>_Y Plus_NN1@_RR%_II ,_Y she_PPHS1 adds_VVZ ,_Y shortly_RR before_CS she_PPHS1 quit_VVD ,_Y her_APPGE company_NN1 's_GE stock_NN1 peaked_VVD_VVN --_ZZ though_CS she_PPHS1 did_VDD not_XX plan_VVI for_IF or_CC rely_VV0 on_RP@_II that_CST_DD1 when_CS she_PPHS1 quit_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   40 choice Hekker and her husband made , she says , was not incurring any debt beyond their mortgage .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   40 choice_NN1 Hekker_NN1_NP1 and_CC her_APPGE husband_NN1 made_VVD_VVN ,_Y she_PPHS1 says_VVZ ,_Y was_VBDZ not_XX incurring_VVG any_DD debt_NN1 beyond_II their_APPGE mortgage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   41 Also , " we worked very hard to live within the income of just one of our salaries so we could build our savings .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   41 Also_RR ,_Y "_Y we_PPIS2 worked_VVD very_RG hard_JJ_RR to_TO live_VVI within_II the_AT income_NN1 of_IO just_RR one_MC1 of_IO our_APPGE salaries_NN2 so_CS@_RR we_PPIS2 could_VM build_VVI our_APPGE savings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   42 Both of these principles -- incurring little or no debt and continually building savings -- would help anyone wanting to plan to take some time off .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   42 Both_DB2 of_IO these_DD2 principles_NN2 --_NN1_JJ incurring_VVG little_JJ_RR_DA1 or_CC no_AT debt_NN1 and_CC continually_RR building_VVG@_NN1 savings_NN2 --_NN1 would_VM help_VVI anyone_PN1 wanting_VVG_JJ to_TO plan_VVI to_TO take_VVI some_DD time_NNT1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   43 " <p> Though Hekker was " very open-ended " about her post-writing career plan , she did think that she 'd return to a general counsel job , probably after a year .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   43 "_Y <p>_Y Though_CS Hekker_NP1_NN1 was_VBDZ "_Y very_RG open-ended_JJ "_Y about_II her_APPGE post-writing_JJ_NN1 career_NN1 plan_NN1 ,_Y she_PPHS1 did_VDD think_VVI that_CST she_PPHS1 'd_VM return_VVI to_II a_AT1 general_JJ_NN1 counsel_NN1 job_NN1 ,_Y probably_RR after_II_CS a_AT1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   44 <p> In the beginning , " there was some mopping up to be done " after quitting the job that had permitted only three or four hours of sleep a night .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   44 <p>_Y In_II the_AT beginning_NN1 ,_Y "_Y there_EX was_VBDZ some_DD mopping_VVG up_RP to_TO be_VBI done_VDN "_Y after_II quitting_VVG the_AT job_NN1 that_CST had_VHD permitted_VVN only_RR three_MC or_CC four_MC hours_NNT2 of_IO sleep_NN1_VV0 a_AT1 night_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   45 Soon after that settling-in period , Hekker attended a mystery writers ' conference at a well-known Bay Area bookstore .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   45 Soon_RR after_CS_II that_DD1 settling-in_NN1_JJ@ period_NN1 ,_Y Hekker_NP1 attended_VVD a_AT1 mystery_NN1 writers_NN2 '_GE conference_NN1 at_II a_AT1 well-known_JJ Bay_NN1_JJ@ Area_NN1 bookstore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   46 " It was really a great thing to do right at the start .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   46 "_Y It_PPH1 was_VBDZ really_RR a_AT1 great_JJ thing_NN1 to_TO do_VDI right_RR at_II the_AT start_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   47 It got me excited .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   47 It_PPH1 got_VVD me_PPIO1 excited_JJ_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   48 " <p> After the conference , Hekker formed a writing group with another attendee .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   48 "_Y <p>_Y After_CS_II the_AT conference_NN1 ,_Y Hekker_NP1 formed_VVD a_AT1 writing_NN1 group_NN1 with_IW another_DD1 attendee_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   49 They the other to review .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   49 They_PPHS2 the_AT other_JJ to_TO review_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   50 " I needed a deadline because I had been in a deadline-driven field for years .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   50 "_Y I_PPIS1 needed_VVD a_AT1 deadline_NN1 because_CS I_PPIS1 had_VHD been_VBN in_II a_AT1 deadline-driven_JJ_NN1 field_NN1 for_IF years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   51 Otherwise , I 'd wind up saying to myself , ' Let me go organize photo albums ' instead of writing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   51 Otherwise_RR ,_Y I_PPIS1 'd_VM wind_VVI up_RP saying_VVG to_II myself_PPX1 ,_Y '_GE_"@ Let_VV0 me_PPIO1 go_NN1% organize_VVI photo_NN1 albums_NN2 '_GE instead_II21 of_II22 writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   52 " <p> Hekket emphasizes that she did not quit law to be home with her children .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   52 "_Y <p>_Y Hekket_NN1_NP1@ emphasizes_VVZ that_CST she_PPHS1 did_VDD not_XX quit_VVI law_NN1 to_TO be_VBI home_RL with_IW her_APPGE children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   53 In fact , she maintained her full-time nanny while she wrote , which ended up being about four hours a day , three to four days a week .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   53 In_II fact_NN1 ,_Y she_PPHS1 maintained_VVD her_APPGE_PPHO1 full-time_JJ nanny_NN1 while_CS she_PPHS1 wrote_VVD ,_Y which_DDQ ended_VVD up_RP_II@ being_VBG about_RG four_MC hours_NNT2 a_AT1 day_NNT1 ,_Y three_MC to_II four_MC days_NNT2 a_AT1 week_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   54 Titled Out of Options , her novel centers around a young Bay Area attorney in the midst of a public offering .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   54 Titled_VVN Out_II21 of_II22 Options_NN2 ,_Y her_APPGE novel_JJ_NN1 centers_NN2 around_II a_AT1 young_JJ Bay_NN1_JJ@ Area_NN1 attorney_NN1 in_II the_AT midst_NN1 of_IO a_AT1 public_JJ_NN1 offering_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   55 All told , Hekker spent 16 months on the first draft and then began revisions .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   55 All_DB told_VVN ,_Y Hekker_NP1 spent_VVD 16_MC months_NNT2 on_II the_AT first_MD draft_NN1 and_CC then_RT began_VVD revisions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   56 <p> After working on the book for three years , she still had no plans to return to law , even though she 'd been approached about general counsel jobs early on in her time off .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   56 <p>_Y After_II working_VVG on_II the_AT book_NN1 for_IF three_MC years_NNT2 ,_Y she_PPHS1 still_RR had_VHD no_AT plans_NN2 to_TO return_VVI to_II law_NN1 ,_Y even_CS21 though_CS22 she_PPHS1 'd_VHD been_VBN approached_VVN about_II general_JJ_NN1 counsel_NN1 jobs_NN2 early_RR on_RP@_II in_II her_APPGE_PPHO1 time_NNT1 off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   57 But in 2005 , a parent at her kids ' school asked Hekker to join his new consulting company .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   57 But_CCB in_II 2005_MC ,_Y a_AT1 parent_NN1 at_II her_APPGE kids_NN2 '_GE school_NN1 asked_VVD Hekker_NP1_NN1 to_TO join_VVI his_APPGE new_JJ consulting_JJ_NN1 company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   58 " I had unofficially helped him start , interesting business .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   58 "_Y I_PPIS1 had_VHD unofficially_RR helped_VVN him_PPHO1 start_VVI ,_Y interesting_JJ business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   59 " When he asked her to come in as chief operating officer , with responsibility for the legal work , Hekker accepted .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   59 "_Y When_CS_RRQ he_PPHS1 asked_VVD her_PPHO1 to_TO come_VVI in_RP@_II as_RG@_CSA_II@ chief_JJ operating_NN1 officer_NN1 ,_Y with_IW responsibility_NN1 for_IF the_AT legal_JJ work_NN1 ,_Y Hekker_NP1_NN1 accepted_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   60 <p> Even after taking the new job , she maintained the writing group .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   60 <p>_Y Even_RR after_II taking_VVG the_AT new_JJ job_NN1 ,_Y she_PPHS1 maintained_VVD the_AT writing_NN1 group_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   61 " I was itching to get back to writing , " she says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   61 "_Y I_PPIS1 was_VBDZ itching_VVG to_TO get_VVI back_RP to_II writing_NN1_VVG ,_Y "_Y she_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   62 " And the new business was n't taking off the way I would have liked .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   62 "_Y And_CC the_AT new_JJ business_NN1 was_VBDZ n't_XX taking_VVG off_II_RP the_AT way_NN1 I_PPIS1 would_VM have_VHI liked_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   63 " <p> After two years at that company , Hekker decided to take another break ; she now is back to working full time on the Out of Options rewrite .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   63 "_Y <p>_Y After_II_CS two_MC years_NNT2 at_II that_DD1 company_NN1 ,_Y Hekker_NP1 decided_VVD to_TO take_VVI another_DD1 break_NN1 ;_Y she_PPHS1 now_RT is_VBZ back_RP_NN1 to_II working_VVG full_JJ time_NNT1 on_II the_AT Out_II21 of_II22 Options_NN2 rewrite_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   64 She 's close to finishing the novel 's " big remodel " and will soon give it to trusted friends to read -- and then shop it to agents .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   64 She_PPHS1 's_VBZ close_JJ to_II finishing_VVG the_AT novel_NN1 's_GE_VBZ "_Y big_JJ remodel_NN1 "_Y and_CC will_VM soon_RR give_VVI it_PPH1 to_II trusted_JJ friends_NN2 to_TO read_VVI --_ZZ and_CC then_RT shop_VVI it_PPH1 to_II agents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   65 <p> But even if the book is never published , Hekker insists that taking time off from her law practice will still have been worthwhile .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   65 <p>_Y But_CCB even_CS21 if_CS22 the_AT book_NN1 is_VBZ never_RR published_VVN_VVD ,_Y Hekker_NP1_NN1 insists_VVZ that_CST_DD1 taking_VVG_JJ% time_NNT1 off_RP from_II her_APPGE law_NN1 practice_NN1 will_VM still_RR have_VHI been_VBN worthwhile_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   66 " Leaving law to write enabled me to develop that part of myself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   66 "_Y Leaving_VVG law_NN1 to_TO write_VVI enabled_VVN_VVD me_PPIO1 to_TO develop_VVI that_DD1_CST part_NN1 of_IO myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   67 It was such a treasure .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   67 It_PPH1 was_VBDZ such_DA a_AT1 treasure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   68 " <p> So many legal careers are " like runaway trains , " lawyer coach who also has an office in Washington , D.C. Attorneys like Hekker who take time off are " wise enough to decide if the train is one they want to be on before too many years go by .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   68 "_Y <p>_Y So_RG many_DA2 legal_JJ careers_NN2 are_VBR "_Y like_II_JJ@ runaway_JJ_NN1 trains_NN2_VVZ ,_Y "_Y lawyer_NN1 coach_NN1 who_PNQS also_RR has_VHZ an_AT1 office_NN1 in_II Washington_NP1 ,_Y D.C._NP1 Attorneys_NN2 like_II Hekker_NP1_NN1 who_PNQS take_VV0 time_NNT1 off_RP are_VBR "_Y wise_JJ enough_RR to_TO decide_VVI if_CSW@_CS the_AT train_NN1 is_VBZ one_PN1 they_PPHS2 want_VV0 to_TO be_VBI on_RP@_II before_II_CS_RT@ too_RG many_DA2 years_NNT2 go_VV0 by_RP%_II ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   69 They are usually smart enough to know they need to take a step back and really regroup and think about the track they want to be on .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   69 They_PPHS2 are_VBR usually_RR smart_JJ_VV0% enough_RR_DD to_TO know_VVI they_PPHS2 need_VV0 to_TO take_VVI a_AT1 step_NN1 back_RP and_CC really_RR regroup_VV0 and_CC think_VV0 about_II the_AT track_NN1 they_PPHS2 want_VV0 to_TO be_VBI on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   70 " <p> Typically , lawyers who want to take time off are on the cusp of something -- whether it 's partnership or a firm 's demand to ramp up business development or take on a leadership role .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   70 "_Y <p>_Y Typically_RR ,_Y lawyers_NN2 who_PNQS want_VV0 to_TO take_VVI time_NNT1 off_RP are_VBR on_II the_AT cusp_NN1 of_IO something_PN1 --_ZZ whether_CSW it_PPH1 's_VBZ partnership_NN1 or_CC a_AT1 firm_NN1 's_GE demand_NN1 to_II ramp_NN1 up_II@_RP business_NN1 development_NN1 or_CC take_VV0 on_RP a_AT1 leadership_NN1 role_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   71 <p> In her experience , Ostrow has never known a lawyer to take time off who was not already financially secure .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   71 <p>_Y In_II her_APPGE experience_NN1 ,_Y Ostrow_NP1_NN1 has_VHZ never_RR known_VVN a_AT1 lawyer_NN1 to_TO take_VVI time_NNT1 off_RP_II who_PNQS was_VBDZ not_XX already_RR financially_RR secure_VV0_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   72 " It does n't mean they 're wealthy , " she explains .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   72 "_Y It_PPH1 does_VDZ n't_XX mean_VVI they_PPHS2 're_VBR wealthy_JJ ,_Y "_Y she_PPHS1 explains_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   73 " But they know they can go six to 12 months without earning a lot of money .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   73 "_Y But_CCB they_PPHS2 know_VV0 they_PPHS2 can_VM go_VVI six_MC to_II 12_MC months_NNT2 without_IW earning_VVG a_AT1 lot_NN1 of_IO money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   74 " <p> Often , attorneys who 've been mulling over a career break decide to actually do it because of some unexpected opportunity , such as the end of huge not a sudden thing , " Ostrow says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   74 "_Y <p>_Y Often_RR ,_Y attorneys_NN2 who_PNQS 've_VH0 been_VBN mulling_VVG over_RP_II a_AT1 career_NN1 break_NN1_VV0 decide_VV0 to_TO actually_RR do_VDI it_PPH1 because_II21 of_II22 some_DD unexpected_JJ opportunity_NN1 ,_Y such_II21 as_II22 the_AT end_NN1 of_IO huge_JJ not_XX a_AT1 sudden_JJ thing_NN1 ,_Y "_Y Ostrow_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   75 " Every once in a while , something big happens that triggers it such as somebody their age dying and the lawyer being hit with mortality .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   75 "_Y Every_AT1 once_RR in_II a_AT1 while_NNT1@ ,_Y something_PN1 big_RR%_JJ happens_VVZ that_CST_DD1 triggers_VVZ it_PPH1 such_II21 as_II22 somebody_PN1 their_APPGE age_NN1 dying_VVG_JJ and_CC the_AT lawyer_NN1 being_VBG hit_VVN with_IW mortality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   76 Either way , the wish is to rest and explore opportunities .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   76 Either_DD1 way_NN1 ,_Y the_AT wish_NN1 is_VBZ to_TO rest_VVI and_CC explore_VVI opportunities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   77 " <p> For some attorneys , being away from the law actually reinforces how much they enjoy it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   77 "_Y <p>_Y For_IF some_DD attorneys_NN2 ,_Y being_VBG away_II21_RL from_II22_II the_AT law_NN1 actually_RR reinforces_VVZ how_RRQ_RGQ@ much_RR they_PPHS2 enjoy_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   78 <p> Jeff Bean had been handling high-end corporate real estate matters at a boutique firm he co-founded in suburban Detroit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   78 <p>_Y Jeff_NP1 Bean_NN1 had_VHD been_VBN handling_VVG high-end_JJ corporate_JJ real_JJ estate_NN1 matters_NN2_VVZ@ at_II a_AT1 boutique_NN1 firm_NN1 he_PPHS1 co-founded_VVD in_II_RP@ suburban_JJ Detroit_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   79 He 'd served as managing partner , handling administrative matters , including the partners ' retirement plans and the firm 's equity deals in real estate development .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   79 He_PPHS1 'd_VHD served_VVN as_CSA_RG@_II@ managing_JJ_VVG partner_NN1 ,_Y handling_VVG administrative_JJ matters_NN2 ,_Y including_II_VVG@ the_AT partners_NN2 '_GE retirement_NN1 plans_NN2_VVZ and_CC the_AT firm_NN1 's_GE equity_NN1 deals_VVZ_NN2 in_II real_JJ estate_NN1 development_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   80 In 2004 , he quit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   80 In_II 2004_MC ,_Y he_PPHS1 quit_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   81 <p> " I just stopped working , " says Bean , who left to manage his own investments , something he called a natural jumping-off point from the firm business he 'd been handling .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   81 <p>_Y "_Y I_PPIS1 just_RR stopped_VVN_VVD working_VVG_JJ@ ,_Y "_Y says_VVZ Bean_NN1 ,_Y who_PNQS left_VVD to_TO manage_VVI his_APPGE own_DA investments_NN2 ,_Y something_PN1 he_PPHS1 called_VVD@ a_AT1 natural_JJ jumping-off_JJ point_NN1 from_II the_AT firm_JJ_NN1 business_NN1 he_PPHS1 'd_VHD been_VBN handling_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   82 Bean was in a financial position to not work .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   82 Bean_NN1 was_VBDZ in_II a_AT1 financial_JJ position_NN1 to_II not_XX work_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   83 " I was lucky .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   83 "_Y I_PPIS1 was_VBDZ lucky_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   84 Other people my age live paycheck to paycheck .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   84 Other_JJ people_NN my_APPGE age_NN1 live_RR@_JJ_VV0 paycheck_VV0_NN1 to_TO paycheck_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   85 " <p> For several months , Bean traded options in " hung out and kicked back .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   85 "_Y <p>_Y For_IF several_DA2 months_NNT2 ,_Y Bean_NN1 traded_JJ options_NN2 in_II "_Y hung_VVD_VVN out_RP and_CC kicked_VVD_VVN back_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   86 " He was 48 and still had kids at home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   86 "_Y He_PPHS1 was_VBDZ 48_MC and_CC still_RR had_VHN@_VHD kids_NN2 at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   87 His family supported the career move .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   87 His_APPGE family_NN1 supported_VVD_VVN the_AT career_NN1 move_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   88 " Their main concern was that I was doing something fulfilling .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   88 "_Y Their_APPGE main_JJ concern_NN1 was_VBDZ that_CST I_PPIS1 was_VBDZ doing_VDG something_PN1 fulfilling_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   89 " <p> Eighteen months into his time off , a friend of Bean 's who worked at Jaffe Raitt Heuer Weiss in Detroit had a large client that needed a senior attorney .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   89 "_Y <p>_Y Eighteen_MC months_NNT2 into_II his_APPGE time_NNT1 off_RP ,_Y a_AT1 friend_NN1 of_IO Bean_NN1 's_GE who_PNQS worked_VVD at_II Jaffe_NP1 Raitt_NP1 Heuer_NP1 Weiss_NP1_NN1_VV0 in_II Detroit_NP1 had_VHD a_AT1 large_JJ client_NN1 that_CST needed_VVD a_AT1 senior_JJ attorney_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   90 Bean had not been actively looking to return to lawyering -- especially at a firm -- but the option to work part time appealed to him .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   90 Bean_NN1 had_VHD not_XX been_VBN actively_RR looking_VVG to_TO return_VVI to_II lawyering_VVG_JJ@ --_NN1_JJ especially_RR at_II a_AT1 firm_JJ_NN1 --_NN1_JJ but_CCB the_AT option_NN1 to_TO@_II work_VVI_NN1 part_NN1 time_NNT1 appealed_VVN_VVD to_II him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   91 " The client and I got along well and it was a nice firm , " Bean recalls .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   91 "_Y The_AT client_NN1 and_CC I_PPIS1 got_VVD along_RP_II well_RR_NN1@_JJ@ and_CC it_PPH1 was_VBDZ a_AT1 nice_JJ firm_NN1_JJ ,_Y "_Y Bean_NN1 recalls_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   92 Before long , the position became full time and Bean is now a Jaffe Raitt partner .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   92 Before_II long_RR ,_Y the_AT position_NN1 became_VVD full_JJ time_NNT1 and_CC Bean_NN1 is_VBZ now_RT a_AT1 Jaffe_NP1 Raitt_NP1 partner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   93 <p> " I 'm back in the saddle , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   93 <p>_Y "_Y I_PPIS1 'm_VBM back_RP in_II the_AT saddle_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   94 " If you asked me when I left if I would return , I would have said , ' No way .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   94 "_Y If_CS you_PPY asked_VVD me_PPIO1 when_RRQ_CS I_PPIS1 left_VVD if_CS_CSW@ I_PPIS1 would_VM return_VVI ,_Y I_PPIS1 would_VM have_VHI said_VVN@ ,_Y '_GE_"@ No_XX way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   95 ' But my return was a natural , organic progression -- not , ' Crap , I need a job .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   95 '_"@_GE But_CCB my_APPGE return_NN1 was_VBDZ a_AT1 natural_JJ ,_Y organic_JJ progression_NN1 --_NN1 not_XX ,_Y '_GE Crap_NN1 ,_Y I_PPIS1 need_VV0 a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   96 ' says Bean , now 53 , who has been back at work for two years .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   96 '_"@_GE says_VVZ Bean_NN1 ,_Y now_RT 53_MC ,_Y who_PNQS has_VHZ been_VBN back_RP at_II work_NN1 for_IF two_MC years_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   97 " The change from small firm to big firm made a huge difference .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   97 "_Y The_AT change_NN1 from_II small_JJ firm_NN1 to_II big_JJ firm_NN1 made_VVD_VVN a_AT1 huge_JJ difference_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   98 It was really energizing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   98 It_PPH1 was_VBDZ really_RR energizing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0   99 There are different people , different ages .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0   99 There_EX are_VBR different_JJ people_NN ,_Y different_JJ ages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  100 I was able to come in as a senior guy and mentor .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  100 I_PPIS1 was_VBDZ able_JK to_TO come_VVI in_RP@ as_II a_AT1 senior_JJ guy_NN1 and_CC mentor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  101 " <p> TODAY BEAN PLANS TO practice law indefinitely .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  101 "_Y <p>_Y TODAY_RT BEAN_NN1 PLANS_VVZ_NN2 TO_II practice_NN1 law_NN1 indefinitely_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  102 " I am billing as many hours as I ever have in my career , " he says , adding that his children are now grown .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  102 "_Y I_PPIS1 am_VBM billing_VVG@ as_RG@ many_DA2 hours_NNT2 as_CSA I_PPIS1 ever_RR have_VH0 in_II my_APPGE career_NN1 ,_Y "_Y he_PPHS1 says_VVZ ,_Y adding_VVG that_CST his_APPGE children_NN2 are_VBR now_RT grown_VVN_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  103 " I have no pressure to be home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  103 "_Y I_PPIS1 have_VH0 no_AT pressure_NN1 to_TO be_VBI home_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  104 I do n't feel like I 'm shortchanging somebody in my family , and I really like the work I 'm doing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  104 I_PPIS1 do_VD0 n't_XX feel_VVI like_CS%_II_RR% I_PPIS1 'm_VBM shortchanging_VVG somebody_PN1 in_II my_APPGE family_NN1 ,_Y and_CC I_PPIS1 really_RR like_VV0 the_AT work_NN1 I_PPIS1 'm_VBM doing_VDG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  105 " <p> For lawyers contemplating taking a break from a legal career , Bean advises living " within your means .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  105 "_Y <p>_Y For_IF lawyers_NN2 contemplating_VVG taking_VVG a_AT1 break_NN1 from_II a_AT1 legal_JJ career_NN1 ,_Y Bean_NN1 advises_VVZ living_VVG_NN1_JJ "_Y within_II your_APPGE means_NN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  106 If you want an escape hatch , have a capital plan for yourself -- even for new lawyers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  106 If_CS you_PPY want_VV0 an_AT1 escape_NN1 hatch_NN1_VV0 ,_Y have_VH0 a_AT1 capital_NN1_JJ@ plan_NN1_VV0 for_IF yourself_PPX1 --_ZZ even_RR_NNT1% for_IF new_JJ lawyers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  107 " Because he 'd lived modestly , Bean was n't afraid " to step off track , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  107 "_Y Because_CS he_PPHS1 'd_VHD lived_VVN modestly_RR ,_Y Bean_NN1 was_VBDZ n't_XX afraid_JJ "_Y to_TO step_VVI off_II_RP track_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  108 " But I would have " <p> There are , in fact , distinct risks to leaving a law practice .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  108 "_Y But_CCB I_PPIS1 would_VM have_VHI "_Y <p>_Y There_EX are_VBR ,_Y in_II fact_NN1 ,_Y distinct_JJ risks_NN2 to_II leaving_VVG a_AT1 law_NN1 practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  109 And the longer you 're out , the harder it is to get back in , if that 's what you decide , career counselor Ostrow cautions .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  109 And_CC the_AT longer_JJR_RRR you_PPY 're_VBR out_RP ,_Y the_AT harder_JJR_RRR it_PPH1 is_VBZ to_TO get_VVI back_RP in_II_RP@ ,_Y if_CS_CSW@ that_DD1 's_VBZ what_DDQ you_PPY decide_VV0 ,_Y career_NN1_VV0@ counselor_NN1 Ostrow_NN1_NP1 cautions_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  110 <p> But , she says , it 's hard to quantify how long is too long .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  110 <p>_Y But_CCB ,_Y she_PPHS1 says_VVZ ,_Y it_PPH1 's_VBZ hard_JJ to_TO quantify_VVI how_RGQ@_RRQ long_RR_JJ is_VBZ too_RG long_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  111 " The amount of time is probably less crucial than what the attorney has been doing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  111 "_Y The_AT amount_NN1 of_IO time_NNT1 is_VBZ probably_RR less_RGR crucial_JJ than_CSN what_DDQ the_AT attorney_NN1 has_VHZ been_VBN doing_VDG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  112 " <p> In general , Ostrow adds , the longer a lawyer is out , the harder it is to demonstrate up-to-date skills and knowledge of the current market plus a commitment to the profession .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  112 "_Y <p>_Y In_RR21 general_RR22 ,_Y Ostrow_NP1_NN1 adds_VVZ ,_Y the_AT longer_RRR a_AT1 lawyer_NN1 is_VBZ out_RP ,_Y the_AT harder_JJR_RRR it_PPH1 is_VBZ to_TO demonstrate_VVI up-to-date_JJ skills_NN2 and_CC knowledge_NN1 of_IO the_AT current_JJ market_NN1 plus_II a_AT1 commitment_NN1 to_II the_AT profession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  113 " It 's also harder to sustain contacts over a long time unless you continue to actively travel in those circles .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  113 "_Y It_PPH1 's_VBZ also_RR harder_JJR to_TO sustain_VVI contacts_NN2 over_II a_AT1 long_JJ time_NNT1 unless_CS you_PPY continue_VV0 to_TO actively_RR travel_VVI in_II_RP@ those_DD2 circles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  114 Sometimes someone who has been out for a long time can go back for formal training like an L.LM. , and this makes returning easier .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  114 Sometimes_RT someone_PN1 who_PNQS has_VHZ been_VBN out_RP for_IF a_AT1 long_JJ time_NNT1 can_VM go_VVI back_RP for_IF formal_JJ training_NN1 like_II an_AT1 L.LM._NP1 ,_Y and_CC this_DD1 makes_VVZ returning_VVG easier_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  115 " <p> " If you are a lawyer with a well-developed practice and you have a lot of clients , it 's probably difficult " to take time off for six months if you leave them in good hands and you 're in phone contact .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  115 "_Y <p>_Y "_Y If_CS you_PPY are_VBR a_AT1 lawyer_NN1 with_IW a_AT1 well-developed_JJ practice_NN1 and_CC you_PPY have_VH0 a_AT1 lot_NN1 of_IO clients_NN2 ,_Y it_PPH1 's_VBZ probably_RR difficult_JJ "_Y to_TO take_VVI time_NNT1 off_RP for_IF six_MC months_NNT2 if_CS you_PPY leave_VV0 them_PPHO2 in_II good_JJ hands_NN2 and_CC you_PPY 're_VBR in_II phone_NN1 contact_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  116 A year is hard .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  116 A_AT1 year_NNT1 is_VBZ hard_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  117 Traditional law practice has its own definition of commitment , and people in the industry are suspicious of people who do n't commit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  117 Traditional_JJ law_NN1 practice_NN1 has_VHZ its_Z' own_DA definition_NN1 of_IO commitment_NN1 ,_Y and_CC people_NN in_II the_AT industry_NN1 are_VBR suspicious_JJ of_IO people_NN who_PNQS do_VD0 n't_XX commit_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  118 " <p> If there 's even a chance you will want to return to a traditional practice , Ostrow advises not burning any bridges and also keeping one toe in the water .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  118 "_Y <p>_Y If_CS there_EX 's_VBZ even_RR a_AT1 chance_NN1 you_PPY will_VM want_VVI to_TO return_VVI to_II a_AT1 traditional_JJ practice_NN1 ,_Y Ostrow_NP1_NN1 advises_VVZ not_XX burning_VVG any_DD bridges_NN2 and_CC also_RR keeping_VVG one_MC1 toe_NN1 in_II the_AT water_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  119 <p> " Unless you 're absolutely certain you never want to practice again , maintain your networks and keep your license current , " she says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  119 <p>_Y "_Y Unless_CS you_PPY 're_VBR absolutely_RR certain_JJ you_PPY never_RR want_VV0 to_TO practice_NN1 again_RT ,_Y maintain_VV0 your_APPGE networks_NN2 and_CC keep_VV0 your_APPGE license_NN1 current_NN1@_JJ ,_Y "_Y she_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  120 " Stay involved in whatever way makes sense to you : Take CLE in a different area of practice or take on a pro bono case .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  120 "_Y Stay_VV0 involved_JJ in_II whatever_DDQV way_NN1 makes_VVZ sense_NN1 to_II you_PPY :_Y Take_VV0 CLE_NN1_NP1 in_II a_AT1 different_JJ area_NN1 of_IO practice_NN1 or_CC take_VV0 on_RP a_AT1 pro_JJ_NN1 bono_NN1 case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  121 That way , if you do want to return , you can say , ' I never really left .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  121 That_DD1 way_NN1 ,_Y if_CS you_PPY do_VD0 want_VVI to_TO return_VVI ,_Y you_PPY can_VM say_VVI ,_Y '_"@_GE I_PPIS1 never_RR really_RR left_VVN_VVD_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  122 I just took a step back and now I 'm committed .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  122 I_PPIS1 just_RR took_VVD a_AT1 step_NN1 back_RP and_CC now_RT I_PPIS1 'm_VBM committed_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  123 ' " <p> Despite the risks , taking a year off has distinct benefits .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  123 '_"@_GE "_Y <p>_Y Despite_II the_AT risks_NN2 ,_Y taking_VVG a_AT1 year_NNT1 off_II_RP_JJ% has_VHZ distinct_JJ benefits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  124 According to Hekker , an intense and stressful job can narrow helped broaden her horizons .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  124 According_II21 to_II22 Hekker_NP1_NN1 ,_Y an_AT1 intense_JJ and_CC stressful_JJ job_NN1 can_VM narrow_VVI helped_VVN_VVD broaden_VVI her_APPGE horizons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  125 <p> " You can rediscover parts of yourself that you were in tune with before the intensity of working , " she explains .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  125 <p>_Y "_Y You_PPY can_VM rediscover_VVI parts_NN2 of_IO yourself_PPX1 that_CST you_PPY were_VBDR in_II tune_NN1 with_IW before_II_CS the_AT intensity_NN1 of_IO working_VVG_JJ@ ,_Y "_Y she_PPHS1 explains_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  126 For instance , Hekker had once been a competitive swimmer but says she never exercised much after she passed the bar .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  126 For_REX21 instance_REX22 ,_Y Hekker_NP1 had_VHD once_RR been_VBN a_AT1 competitive_JJ swimmer_NN1 but_CCB says_VVZ she_PPHS1 never_RR exercised_VVN much_RR_DA1 after_CS she_PPHS1 passed_VVD the_AT bar_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  127 She 's since returned to the sport and now trains for triathlons , which she describes as " a wonderful , empowering thing to do .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  127 She_PPHS1 's_VBZ_VHZ@ since_RR@_CS returned_VVN_VVD to_II the_AT sport_NN1 and_CC now_RT trains_VVZ for_IF triathlons_NN2 ,_Y which_DDQ she_PPHS1 describes_VVZ as_II "_Y a_AT1 wonderful_JJ ,_Y empowering_JJ_VVG thing_NN1 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  128 " <p> Bean found that taking time off taught him about himself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  128 "_Y <p>_Y Bean_NN1 found_VVD_VVN that_CST_DD1 taking_VVG_JJ% time_NNT1 off_RP taught_VVD him_PPHO1 about_II himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  129 <p> " I realized that I like being busy .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  129 <p>_Y "_Y I_PPIS1 realized_VVD that_CST I_PPIS1 like_VV0 being_VBG busy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  130 It was the takeaway lesson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  130 It_PPH1 was_VBDZ the_AT takeaway_NN1 lesson_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  131 Now I can sec working my whole life .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  131 Now_RT I_PPIS1 can_VV0% sec_NNU working_VVG my_APPGE whole_JJ life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  132 I 'm nor geared , personality-wise , to sit and hang out .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  132 I_PPIS1 'm_VBM nor_CC geared_VVD_VVN ,_Y personality-wise_JJ ,_Y to_TO sit_VVI and_CC hang_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  133 And that was interesting to find out .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  133 And_CC that_DD1 was_VBDZ interesting_JJ to_TO find_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  134 " <p> FOR GLOBE-TROTTER JUDGE , the risks of him and his wife quitting then attorney jobs were outweighed the benefits .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  134 "_Y <p>_Y FOR_IF GLOBE-TROTTER_NP1 JUDGE_NN1_VV0 ,_Y the_AT risks_NN2 of_IO him_PPHO1 and_CC his_APPGE wife_NN1 quitting_VVG then_RT_JJ% attorney_NN1 jobs_NN2 were_VBDR outweighed_VVN the_AT benefits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  135 " The best thing was getting rid of all the pressures , the chores we have in our ordinary lives , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  135 "_Y The_AT best_JJT thing_NN1 was_VBDZ getting_VVG rid_VVN of_IO all_DB the_AT pressures_NN2 ,_Y the_AT chores_NN2 we_PPIS2 have_VH0 in_II our_APPGE ordinary_JJ lives_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  136 <p> Cordoza adds : " I like the not everything .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  136 <p>_Y Cordoza_NN1_NP1@ adds_VVZ :_Y "_Y I_PPIS1 like_VV0 the_AT not_XX everything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  137 Time with your family is No. 1 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  137 Time_NNT1 with_IW your_APPGE family_NN1 is_VBZ No._XX 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  138 " <p> In between visiting the great pyramids , riding gondolas in Venice , observing tigers in India and surfing in Bali , Judge and Cordoza home-schooled their kills .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  138 "_Y <p>_Y In_RL21_II21 between_RL22_II22 visiting_VVG the_AT great_JJ pyramids_NN2 ,_Y riding_VVG gondolas_NN2 in_II Venice_NP1 ,_Y observing_VVG tigers_NN2 in_II India_NP1 and_CC surfing_VVG in_II Bali_NP1_NN1 ,_Y Judge_NN1_VV0_NP1@ and_CC Cordoza_NP1 home-schooled_NN1 their_APPGE kills_NN2% ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  139 They brought fourth- and fifth-grade workbooks for math and grammar , and the children had writing assignments each day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  139 They_PPHS2 brought_VVD fourth-_JJ and_CC fifth-grade_JJ_NN1 workbooks_NN2 for_IF math_NN1 and_CC grammar_NN1 ,_Y and_CC the_AT children_NN2 had_VHD writing_NN1_VVG_JJ% assignments_NN2 each_DD1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  140 <p> But the real education , Cordoza explains , was off the pages .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  140 <p>_Y But_CCB the_AT real_JJ education_NN1 ,_Y Cordoza_NP1 explains_VVZ ,_Y was_VBDZ off_II_RP the_AT pages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  141 <p> " In Cambodia , for example , we spent a lot of time talking about communism and the Khmer Rouge .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  141 <p>_Y "_Y In_II Cambodia_NP1 ,_Y for_REX21 example_REX22 ,_Y we_PPIS2 spent_VVD a_AT1 lot_NN1 of_IO time_NNT1 talking_VVG about_II communism_NN1 and_CC the_AT Khmer_NP1 Rouge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  142 We went to the Killing Fields .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  142 We_PPIS2 went_VVD to_II the_AT Killing_NN1 Fields_NN2_NP@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  143 We discussed why some countries were faring better than others .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  143 We_PPIS2 discussed_VVD why_RRQ some_DD countries_NN2 were_VBDR faring_VVG better_JJR_RRR than_CSN others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  144 To us , that was then education , " she says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  144 To_II us_PPIO2 ,_Y that_DD1_CST was_VBDZ then_RT_JJ% education_NN1 ,_Y "_Y she_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  145 <p> " I remember teaching them long division in our Athens apartment .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  145 <p>_Y "_Y I_PPIS1 remember_VV0 teaching_VVG them_PPHO2 long_JJ division_NN1 in_II our_APPGE Athens_NP1 apartment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  146 But what resonates with me was the conversations we had about different systems of government .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  146 But_CCB what_DDQ resonates_VVZ with_IW me_PPIO1 was_VBDZ the_AT conversations_NN2 we_PPIS2 had_VHD about_RG%_II different_JJ systems_NN2 of_IO government_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  147 The saw firsthand that communism sounds good bill does n't really work .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  147 The_AT saw_NN1@ firsthand_RR that_DD1_CST communism_NN1 sounds_VVZ good_JJ bill_NN1 does_VDZ n't_XX really_RR work_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  148 We talked about science , politics , history .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  148 We_PPIS2 talked_VVD about_II science_NN1 ,_Y politics_NN1 ,_Y history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  149 " <p> The Judge-Cordozas ' worldwide trek was pricier than they 'd expected , like the others , they 'd always tried to live relatively modestly .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  149 "_Y <p>_Y The_AT Judge-Cordozas_NN2 '_GE worldwide_JJ trek_NN1 was_VBDZ pricier_JJR than_CSN they_PPHS2 'd_VHD expected_VVN ,_Y like_II the_AT others_NN2 ,_Y they_PPHS2 'd_VHD always_RR tried_VVN to_TO live_VVI relatively_RR modestly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  150 Still , they will now have to work five to 10 years longer than their friends .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  150 Still_RR ,_Y they_PPHS2 will_VM now_RT have_VHI to_TO work_VVI five_MC to_II 10_MC years_NNT2 longer_RRR than_CSN their_APPGE friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  151 " But we felt like that was OK , " Judge says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  151 "_Y But_CCB we_PPIS2 felt_VVD like_II that_DD1 was_VBDZ OK_RR ,_Y "_Y Judge_NN1_NP1@ says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  152 " This was the time to live life at its fullest .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  152 "_Y This_DD1 was_VBDZ the_AT time_NNT1 to_TO live_VVI life_NN1 at_II its_Z' fullest_JJT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  153 " <p> After about eight months on the road , Judge and Cordoza sensed it would soon be rune to return home mostly because their kids were tired .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  153 "_Y <p>_Y After_CS about_RG eight_MC months_NNT2 on_II the_AT road_NN1 ,_Y Judge_NN1_VV0_NP1@ and_CC Cordoza_NP1 sensed_VVD it_PPH1 would_VM soon_RR be_VBI rune_NN1 to_TO return_VVI home_RL mostly_RR because_CS their_APPGE kids_NN2 were_VBDR tired_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  154 At that point , Judge sent a half-dozen e-mails to headhunters and other legal contacts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  154 At_II that_DD1 point_NN1 ,_Y Judge_NP1@_NN1 sent_VVD_VVN a_AT1 half-dozen_M e-mails_NN2 to_II headhunters_NN2 and_CC other_JJ legal_JJ contacts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  155 Three weeks later , a recruiter contacted him about what he calls " a dream job .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  155 Three_MC weeks_NNT2 later_RRR ,_Y a_AT1 recruiter_NN1 contacted_VVD_VVN him_PPHO1 about_II what_DDQ he_PPHS1 calls_VVZ "_Y a_AT1 dream_NN1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  156 " <p> From a small island in Indonesia , Judge interviewed for -- and landed -- the general counsel position at Bright Source Energy Inc. , a solar plant design company in Oakland , Calif .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  156 "_Y <p>_Y From_II a_AT1 small_JJ island_NN1 in_II Indonesia_NP1 ,_Y Judge_NP1@_NN1_VV0 interviewed_VVD_VVN for_IF --_NN1_JJ and_CC landed_JJ_VVD --_NN1_JJ the_AT general_JJ_NN1 counsel_NN1 position_NN1 at_II Bright_JJ Source_NN1 Energy_NN1 Inc._JJ ,_Y a_AT1 solar_JJ plant_NN1 design_NN1 company_NN1 in_II Oakland_NP1 ,_Y Calif_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  157 Soon after they returned home , Cordoza picked up overflow work for a law firm as well as temporary assignments from Axiom Legal , a contract attorney firm that provides outsourced general counsel services .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  157 Soon_RR after_CS they_PPHS2 returned_VVD home_RL ,_Y Cordoza_NP1 picked_VVD up_RP overflow_NN1_VV0 work_NN1_VV0 for_IF a_AT1 law_NN1 firm_NN1 as_II31 well_II32 as_II33 temporary_JJ assignments_NN2 from_II Axiom_NN1 Legal_JJ ,_Y a_AT1 contract_NN1 attorney_NN1 firm_NN1 that_CST_DD1 provides_VVZ outsourced_JJ@ general_JJ_NN1 counsel_NN1 services_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  158 <p> Judge for him and Cordoza to quit and return to lawyering .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  158 <p>_Y Judge_NN1 for_IF him_PPHO1 and_CC Cordoza_NP1_NN1@ to_TO quit_VVI and_CC return_VVI to_II lawyering_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  159 " It would have been harder to leave it we were partners in a law firm and were leaving a big client base .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  159 "_Y It_PPH1 would_VM have_VHI been_VBN harder_JJR to_TO leave_VVI it_PPH1 we_PPIS2 were_VBDR partners_NN2 in_II a_AT1 law_NN1 firm_NN1 and_CC were_VBDR leaving_VVG a_AT1 big_JJ client_NN1 base_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  160 " <p> For Cordoza , the only downside of time off was that she now struggles to return to " this Zen place " that she reached while .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  160 "_Y <p>_Y For_IF Cordoza_NP1 ,_Y the_AT only_JJ downside_NN1 of_IO time_NNT1 off_RP was_VBDZ that_CST she_PPHS1 now_RT struggles_VVZ to_TO return_VVI to_II "_Y this_DD1 Zen_NP1 place_VV0_NN1 "_Y that_CST she_PPHS1 reached_VVD while_NNT1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  161 " It 's so easy to get sucked back into multitasking , racing around .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  161 "_Y It_PPH1 's_VBZ so_RG_RR easy_JJ to_TO get_VVI sucked_VVN back_RP into_II multitasking_VVG_NN1@ ,_Y racing_VVG around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  162 " <p> Though Judge admits that he 'd rather be playing , he is also " really excited to get back to work .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  162 "_Y <p>_Y Though_CS Judge_NN1_NP1@ admits_VVZ that_CST he_PPHS1 'd_VM rather_RR be_VBI playing_VVG ,_Y he_PPHS1 is_VBZ also_RR "_Y really_RR excited_JJ_VVN@_VVD@ to_TO get_VVI back_RP to_II_TO@ work_NN1_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  163 My job right now is really challenging and demanding , but I can do it be cause my batteries are recharged .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  163 My_APPGE job_NN1 right_RR_NN1 now_RT is_VBZ really_RR challenging_JJ_VVG and_CC demanding_VVG_JJ@ ,_Y but_CCB I_PPIS1 can_VM do_VDI it_PPH1 be_VBI cause_NN1 my_APPGE batteries_NN2 are_VBR recharged_VVN@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  164 " <p> More importantly , Judge says , he returned to lawyering with more confidence .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  164 "_Y <p>_Y More_RGR_RRR importantly_RR ,_Y Judge_NN1_NP1@ says_VVZ ,_Y he_PPHS1 returned_VVD to_II lawyering_VVG with_IW more_DAR confidence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  165 <p> " I 've lost my paranoia about losing a job .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  165 <p>_Y "_Y I_PPIS1 've_VH0 lost_VVN my_APPGE paranoia_NN1 about_II losing_VVG a_AT1 job_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  166 I 'm not as worried .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  166 I_PPIS1 'm_VBM not_XX as_RG@_CSA worried_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  167 I learned you can step away .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  167 I_PPIS1 learned_VVD you_PPY can_VM step_VVI away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  168 Nothing is fatal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  168 Nothing_PN1 is_VBZ fatal_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  169 You can come back and land on your feet .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  169 You_PPY can_VM come_VVI back_RP and_CC land_NN1_VV0@ on_II your_APPGE feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  170 It 's given me more perspective .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  170 It_PPH1 's_VHZ given_VVN me_PPIO1 more_RRR perspective_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  171 " <p> Christina Cordoia , spent nine months traveling the world , staying no more than two weeks in one place .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  171 "_Y <p>_Y Christina_NP1@_NN1 Cordoia_NP1 ,_Y spent_VVD_VVN nine_MC months_NNT2 traveling_VVG the_AT world_NN1 ,_Y staying_VVG no_AT more_DAR than_CSN two_MC weeks_NNT2 in_II one_MC1 place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  172 " We were trying to put family and life experiences higher on our list of priorities than building our careers or adding to our stock portfolios , " says Judge .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  172 "_Y We_PPIS2 were_VBDR trying_VVG to_TO put_VVI family_NN1 and_CC life_NN1 experiences_NN2_VVZ% higher_JJR_RRR@ on_II our_APPGE list_NN1 of_IO priorities_NN2 than_CSN building_VVG@_NN1 our_APPGE careers_NN2 or_CC adding_VVG to_II our_APPGE stock_NN1 portfolios_NN2 ,_Y "_Y says_VVZ Judge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  173 <p> L : More online See a slideshow and lists of the family 's favorites , abajournal.com/magazine <p> " Leaving law to write enabled me to develop that part of myself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  173 <p>_Y L_ZZ1_NP1@ :_Y More_RRR_DAR online_RR See_VV0 a_AT1 slideshow_NN1 and_CC lists_NN2 of_IO the_AT family_NN1 's_GE favorites_NN2 ,_Y abajournal.com/magazine_FU <p>_Y "_Y Leaving_VVG law_NN1 to_TO write_VVI enabled_VVN_VVD me_PPIO1 to_TO develop_VVI that_DD1_CST part_NN1 of_IO myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  174 " -- MARIA HEKKER <p> MAP <p> PHOTO ( COLOR ) : " I just stopped working .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  174 "_Y --_ZZ MARIA_NP1 HEKKER_NN1 <p>_Y MAP_NN1_VV0@ <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y "_Y I_PPIS1 just_RR stopped_VVN_VVD working_VVG_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  175 ... I was lucky .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  175 ..._... I_PPIS1 was_VBDZ lucky_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  176 " -- JEFF BEAN <p> PHOTO ( COLOR ) : " It 's so easy to get sucked back into multitasking , racing around .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  176 "_Y --_ZZ JEFF_NP1 BEAN_NN1 <p>_Y PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y "_Y It_PPH1 's_VBZ so_RG_RR easy_JJ to_TO get_VVI sucked_VVN back_RP into_II multitasking_VVG_NN1@ ,_Y racing_VVG around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  177 " -- CHRISTINA CORDOZA <p> By Leslie A. Gordon <p> Illustration by Neil Gower <p> Leslie A. Gordon , a former lawyer , is a legal journalist based in San Francisco .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  177 "_Y --_ZZ CHRISTINA_NN1_NP1 CORDOZA_NN1_NP1 <p>_Y By_II Leslie_NP1 A._ZZ Gordon_NP1 <p>_Y Illustration_NN1 by_II Neil_NP1 Gower_NP1 <p>_Y Leslie_NP1 A._ZZ Gordon_NP1 ,_Y a_AT1 former_DA lawyer_NN1 ,_Y is_VBZ a_AT1 legal_JJ journalist_NN1 based_VVN in_II San_NP1 Francisco_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  A    0  178 <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071533 COCA  B    0  178 <p>_Y

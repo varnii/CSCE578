@@ -1,0 +1,244 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    0 NUMEROUS OUTDOOR sports magazines are geared toward participants of every level-from weekend athletes to highly competitive racers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    0 NUMEROUS_JJ OUTDOOR_JJ sports_NN2 magazines_NN2 are_VBR geared_VVN toward_II participants_NN2 of_IO every_AT1 level-from_II weekend_NNT1 athletes_NN2 to_II_TO highly_RR competitive_JJ racers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    1 Some publications are dedicated to one sport ; others deliver insight into a variety of outdoor recreations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    1 Some_DD publications_NN2 are_VBR dedicated_VVN to_II one_MC1 sport_NN1 ;_Y others_NN2 deliver_VV0 insight_NN1 into_II a_AT1 variety_NN1 of_IO outdoor_JJ recreations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    2 Whether regionally or nationally circulated , all of these magazines are dedicated to helping their readers get the most enjoyment out of their favorite sport .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    2 Whether_CSW regionally_RR or_CC nationally_RR circulated_VVN_VVD ,_Y all_DB of_IO these_DD2 magazines_NN2 are_VBR dedicated_VVN to_II helping_VVG their_APPGE readers_NN2 get_VVI the_AT most_DAT_RGT enjoyment_NN1 out_II21 of_II22 their_APPGE favorite_JJ_NN1 sport_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    3 If you 're knowledge able about biking , hiking , paddling or another outdoor athletic pleasure , and you want to share your savvy with other diehards , here are six ideas to help you land an assignment : Tell a trail tale .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    3 If_CS you_PPY 're_VBR knowledge_NN1 able_JJ about_II biking_VVG_NN1@ ,_Y hiking_VVG ,_Y paddling_VVG or_CC another_DD1 outdoor_JJ athletic_JJ pleasure_NN1 ,_Y and_CC you_PPY want_VV0 to_TO share_VVI your_APPGE savvy_NN1_JJ with_IW other_JJ diehards_NN2 ,_Y here_RL are_VBR six_MC ideas_NN2 to_TO help_VVI you_PPY land_VVI an_AT1 assignment_NN1 :_Y Tell_VV0 a_AT1 trail_NN1 tale_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    4 " We want people who know bicycle travel and can relate a story as an expert , " says Michael Deme , editor of bicycle-travel magazine Adventure Cyclist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    4 "_Y We_PPIS2 want_VV0 people_NN who_PNQS know_VV0 bicycle_NN1 travel_NN1 and_CC can_VM relate_VVI a_AT1 story_NN1 as_II_CSA an_AT1 expert_NN1 ,_Y "_Y says_VVZ Michael_NP1 Deme_NP1 ,_Y editor_NN1 of_IO bicycle-travel_JJ_NN1 magazine_NN1 Adventure_NN1 Cyclist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    5 Deme notes that trek stories about South America as a cycling destination are popular right now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    5 Deme_NN1_NP1@ notes_VVZ_NN2 that_CST_DD1 trek_VV0_NN1 stories_NN2 about_II South_ND1 America_NP1 as_II_CSA a_AT1 cycling_NN1 destination_NN1 are_VBR popular_JJ right_NN1_JJ_RR now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    6 Another trend : using the bicycle to raise funds and awareness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    6 Another_DD1 trend_NN1 :_Y using_VVG the_AT bicycle_NN1 to_TO raise_VVI funds_NN2 and_CC awareness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    7 Have you discovered a good trail in the Northwest ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    7 Have_VHI you_PPY discovered_VVN a_AT1 good_JJ trail_NN1 in_II the_AT Northwest_ND1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    8 Outdoors NW publishes sports-travel features that focus on Oregon , Washington and Idaho .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    8 Outdoors_RL_NN1 NW_ND1 publishes_VVZ sports-travel_JJ_NN1 features_NN2_VVZ@ that_CST_DD1 focus_VV0_NN1 on_II Oregon_NP1 ,_Y Washington_NP1 and_CC Idaho_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0    9 own trip .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0    9 own_DA trip_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   10 Your piece should answer questions like , " What is there to offer ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   10 Your_APPGE piece_NN1 should_VM answer_VVI questions_NN2 like_VV0@_II ,_Y "_Y What_DDQ is_VBZ there_EX to_TO offer_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   11 Are rental bike places readily available ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   11 Are_VBR rental_NN1 bike_NN1 places_NN2_VVZ@ readily_RR available_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   12 Are there kayak rentals ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   12 Are_VBR there_RL kayak_NN1 rentals_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   13 , " says publisher and editor Carolyn Price .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   13 ,_Y "_Y says_VVZ publisher_NN1 and_CC editor_NN1 Carolyn_NP1 Price_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   14 Cycle California !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   14 Cycle_NN1_VV0% California_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   15 Magazine is a regional publication targeted to biking enthusiasts in northern California and northern Nevada , but destination pieces are not limited to that region .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   15 Magazine_NN1 is_VBZ a_AT1 regional_JJ publication_NN1 targeted_VVN_VVD to_II biking_VVG_JJ@ enthusiasts_NN2 in_II northern_JJ California_NP1 and_CC northern_JJ Nevada_NP1 ,_Y but_CCB destination_NN1 pieces_NN2 are_VBR not_XX limited_VVN to_II that_DD1 region_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   16 " A good story does n't have to be based in California .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   16 "_Y A_AT1_ZZ1 good_JJ story_NN1 does_VDZ n't_XX have_VHI to_TO be_VBI based_VVN in_II California_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   17 We will have one about touring in Cuba coming out soon , " says publisher/editor Tracy Corral .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   17 We_PPIS2 will_VM have_VHI one_PN1_MC1 about_II touring_VVG_NN1 in_II Cuba_NP1 coming_VVG out_RP soon_RR ,_Y "_Y says_VVZ publisher/editor_NN1 Tracy_NP1 Corral_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   18 Every issue of Rails to Trails profiles an abandoned railroad line converted into a trail for hiking , walking and biking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   18 Every_AT1 issue_NN1 of_IO Rails_NN2 to_II Trails_NN2 profiles_VVZ@ an_AT1 abandoned_JJ@ railroad_NN1 line_NN1 converted_VVN_VVD into_II a_AT1 trail_NN1 for_IF hiking_VVG_NN1@ ,_Y walking_VVG_NN1 and_CC biking_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   19 The cover feature also includes a sidebar with trail facts and trip-planning resources .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   19 The_AT cover_NN1 feature_NN1 also_RR includes_VVZ a_AT1 sidebar_NN1 with_IW trail_NN1 facts_NN2 and_CC trip-planning_JJ_NN1 resources_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   20 The ideal writer of this story is " somebody who has a good visual eye and can turn that into words , " says Jennifer Kaleba , the magazine 's editor in chief .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   20 The_AT ideal_JJ writer_NN1 of_IO this_DD1 story_NN1 is_VBZ "_Y somebody_PN1 who_PNQS has_VHZ a_AT1 good_JJ visual_JJ eye_NN1 and_CC can_VM turn_VVI that_CST_DD1 into_II words_NN2 ,_Y "_Y says_VVZ Jennifer_NP1 Kaleba_NP1 ,_Y the_AT magazine_NN1 's_GE editor_NN1 in_II chief_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   21 Offer expert reviews and fitness how-to 's .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   21 Offer_VV0_NN1 expert_NN1_JJ@ reviews_NN2_VVZ and_CC fitness_NN1 how-to_RRQ 's_GE ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   22 Sports magazines rely on the techno-savvy to help readers find greater enjoyment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   22 Sports_NN2 magazines_NN2 rely_VV0 on_II_RP@ the_AT techno-savvy_JJ_NN1 to_TO help_VVI readers_NN2 find_VVI greater_JJR enjoyment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   23 The Gear hardware .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   23 The_AT Gear_NN1 hardware_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   24 Typical how-to 's for Cycle California !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   24 Typical_JJ how-to_RRQ 's_VBZ for_IF Cycle_NN1 California_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   25 Magazine might be " changing from a ten-speed to a single speed , or a tire article that focuses on the nuances of a 29-inch versus a 26-inch tire , " Corral says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   25 Magazine_NN1 might_VM be_VBI "_Y changing_VVG_JJ from_II a_AT1 ten-speed_NN1_JJ to_II a_AT1 single_JJ speed_NN1 ,_Y or_CC a_AT1 tire_VV0 article_NN1 that_CST_DD1 focuses_VVZ on_II the_AT nuances_NN2 of_IO a_AT1 29-inch_NNU1_JJ versus_II a_AT1 26-inch_JJ tire_VV0 ,_Y "_Y Corral_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   26 Competitor , an endurance sports magazine that focuses on running , publishes 11 regional editions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   26 Competitor_NN1 ,_Y an_AT1 endurance_NN1 sports_NN2 magazine_NN1 that_CST_DD1 focuses_VVZ on_II_RP@ running_VVG_NN1_JJ ,_Y publishes_VVZ 11_MC regional_JJ editions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   27 Writers who practice the sport contribute training and nutrition pieces , although they must also interview expert sources .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   27 Writers_NN2 who_PNQS practice_NN1 the_AT sport_NN1 contribute_VV0 training_NN1 and_CC nutrition_NN1 pieces_NN2 ,_Y although_CS they_PPHS2 must_VM also_RR interview_VVI expert_NN1_JJ@ sources_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   28 Rebecca Heaton , editorial director , noted that the magazine is particularly interested in fitness trends that are good for cross-training .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   28 Rebecca_NP1 Heaton_NP1 ,_Y editorial_JJ_NN1 director_NN1 ,_Y noted_VVD_VVN that_CST the_AT magazine_NN1 is_VBZ particularly_RR interested_JJ in_II fitness_NN1 trends_NN2 that_CST are_VBR good_JJ for_IF cross-training_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   29 Profile an endearing personality .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   29 Profile_VV0@ an_AT1 endearing_JJ personality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   30 Every sports community loves its movers and shakers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   30 Every_AT1 sports_NN2 community_NN1 loves_VVZ its_Z' movers_NN2 and_CC shakers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   31 Rails to Trails runs a Q of a person who has made an impact in the trail community .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   31 Rails_NN2 to_II Trails_NN2 runs_VVZ a_AT1 Q_NN1@ of_IO a_AT1 person_NN1 who_PNQS has_VHZ made_VVN an_AT1 impact_NN1 in_II the_AT trail_NN1 community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   32 Competitor 's closing page profiles " people who have struggled through something ; someone passionate about the sport , " Heaton says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   32 Competitor_NN1 's_GE closing_JJ_NN1 page_NN1 profiles_NN2_VVZ@ "_Y people_NN who_PNQS have_VH0 struggled_VVN through_II something_PN1 ;_Y someone_PN1 passionate_JJ about_II the_AT sport_NN1 ,_Y "_Y Heaton_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   33 In addition , the magazine runs a feature profile of multiple individuals who fit a common theme , like a recent spread on comeback athletes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   33 In_RR21 addition_RR22 ,_Y the_AT magazine_NN1 runs_VVZ a_AT1 feature_NN1 profile_NN1 of_IO multiple_JJ_NN1 individuals_NN2 who_PNQS fit_VV0 a_AT1 common_JJ theme_NN1 ,_Y like_II a_AT1 recent_JJ spread_NN1 on_II comeback_NN1 athletes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   34 Pieces on widely recognized athletes have the potential NW likes sketches of area people " who are doing great things , or a person who has been transformed by outdoor recreation , " Price says , citing a story about a local individual who participated in a three-week sled race in the North Pole .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   34 Pieces_NN2 on_II_RP@ widely_RR recognized_VVN_VVD_JJ@ athletes_NN2 have_VH0 the_AT potential_JJ_NN1 NW_ND1 likes_VVZ sketches_NN2 of_IO area_NN1 people_NN "_Y who_PNQS are_VBR doing_VDG great_JJ things_NN2 ,_Y or_CC a_AT1 person_NN1 who_PNQS has_VHZ been_VBN transformed_VVN by_II outdoor_JJ recreation_NN1 ,_Y "_Y Price_NP1_NN1 says_VVZ ,_Y citing_VVG a_AT1 story_NN1 about_II a_AT1 local_JJ individual_NN1 who_PNQS participated_VVD in_II_RP@ a_AT1 three-week_JJ_NNT1 sled_JJ@_VVD race_NN1 in_II the_AT North_ND1 Pole_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   35 And do n't rule out women as possible subjects .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   35 And_CC do_VD0 n't_XX rule_VVI out_RP women_NN2 as_CSA_RG@ possible_JJ subjects_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   36 " There is a resurgence of women discovering outdoor recreation and sports and an I-can-do-this mentality .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   36 "_Y There_EX is_VBZ a_AT1 resurgence_NN1 of_IO women_NN2 discovering_VVG outdoor_JJ recreation_NN1 and_CC sports_NN2 and_CC an_AT1 I-can-do-this_DD1_RG% mentality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   37 A lot of women -- as well as men -- are on our covers , " Price adds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   37 A_AT1 lot_NN1 of_IO women_NN2 --_NN1_JJ as_II31 well_II32 as_II33 men_NN2 --_NN1_JJ are_VBR on_II our_APPGE covers_NN2 ,_Y "_Y Price_NP1_NN1 adds_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   38 Appeal to a wide audience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   38 Appeal_VV0_NN1 to_II a_AT1 wide_JJ audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   39 " There are a lot of different disciplines within what we call paddling , " says Jeff Moag , editor of Canoe Kayak .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   39 "_Y There_EX are_VBR a_AT1 lot_NN1 of_IO different_JJ disciplines_NN2 within_II what_DDQ we_PPIS2 call_VV0 paddling_VVG_NN1@_JJ@ ,_Y "_Y says_VVZ Jeff_NP1 Moag_NP1 ,_Y editor_NN1 of_IO Canoe_NN1 Kayak_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   40 " We are looking for stories that interest everyone along that continuum .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   40 "_Y We_PPIS2 are_VBR looking_VVG for_IF stories_NN2 that_CST_DD1 interest_VV0%_NN1 everyone_PN1 along_II_RP that_DD1 continuum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   41 " Recent short articles in the magazine 's front-of-the-book section , Put In , discussed traveling by airplane with a kayak , as well as boating during the economic recession .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   41 "_Y Recent_JJ short_JJ articles_NN2 in_II the_AT magazine_NN1 's_GE front-of-the-book_JJ_NN1 section_NN1 ,_Y Put_VVD_VV0_VVN In_RP@ ,_Y discussed_VVD_VVN traveling_VVG by_II airplane_NN1 with_IW a_AT1 kayak_NN1 ,_Y as_II31 well_II32 as_II33 boating_VVG_NN1 during_II the_AT economic_JJ recession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   42 Moag suggests river access and environmental issues as suitable topics for this department , which is the easiest place to break into the older males , but the magazine gets passed around to other family members .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   42 Moag_NN1_NP1@ suggests_VVZ river_NN1 access_NN1 and_CC environmental_JJ issues_NN2 as_CSA_RG@ suitable_JJ topics_NN2 for_IF this_DD1 department_NN1 ,_Y which_DDQ is_VBZ the_AT easiest_JJT place_NN1_VV0 to_TO break_VVI into_II the_AT older_JJR males_NN2 ,_Y but_CCB the_AT magazine_NN1 gets_VVZ passed_VVN around_RP to_II other_JJ family_NN1 members_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   43 " We try to be mindful of having stories that do n't just reach our supporting demographic but the member 's family demographic , " Kaleba says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   43 "_Y We_PPIS2 try_VV0 to_TO be_VBI mindful_JJ of_IO having_VHG stories_NN2 that_CST do_VD0 n't_XX just_RR reach_VVI our_APPGE supporting_JJ demographic_JJ but_CCB the_AT member_NN1 's_GE family_NN1 demographic_JJ ,_Y "_Y Kaleba_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   44 She notes that a recent story about " ROMEOs " ( Retired Old Men Eating Out ) ran in the same issue as an article about a woman who started a bike maintenance course to promote female cycling .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   44 She_PPHS1 notes_VVZ that_CST a_AT1 recent_JJ story_NN1 about_II "_Y ROMEOs_NN2 "_Y (_Y Retired_JJ_VVN Old_JJ Men_NN2 Eating_VVG Out_RP )_Y ran_VVD in_II the_AT same_DA issue_NN1 as_CSA an_AT1 article_NN1 about_II a_AT1 woman_NN1 who_PNQS started_VVD a_AT1 bike_NN1 maintenance_NN1 course_NN1 to_TO promote_VVI female_JJ_NN1 cycling_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   45 And do n't forget about kids .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   45 And_CC do_VD0 n't_XX forget_VVI about_II kids_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   46 Cycle California !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   46 Cycle_NN1_VV0% California_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   47 Magazine looks for family-friendly stories .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   47 Magazine_NN1 looks_VVZ for_IF family-friendly_JJ stories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   48 " There are a lot more events for kids now -- triathlons , bike races .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   48 "_Y There_EX are_VBR a_RR21@ lot_RR22 more_DAR events_NN2 for_IF kids_NN2 now_RT --_ZZ triathlons_NN2 ,_Y bike_NN1 races_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   49 I 'd like to run articles that encourage people to be active with their kids , " Corral says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   49 I_PPIS1 'd_VM like_VVI to_TO run_VVI articles_NN2 that_CST encourage_VV0 people_NN to_TO be_VBI active_JJ with_IW their_APPGE kids_NN2 ,_Y "_Y Corral_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   50 Describe the heat of the moment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   50 Describe_VV0 the_AT heat_NN1 of_IO the_AT moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   51 If you 've had an aha !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   51 If_CS you_PPY 've_VH0 had_VHN an_AT1 aha_UH !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   52 moment in the field , consider writing a personal essay about it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   52 moment_NN1 in_II the_AT field_NN1 ,_Y consider_VV0 writing_VVG a_AT1 personal_JJ essay_NN1 about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   53 Paddlers , send it to Canoe Kayak for consideration in Aquaphile .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   53 Paddlers_NN2_NP1@ ,_Y send_VV0 it_PPH1 to_II Canoe_NN1 Kayak_NN1 for_IF consideration_NN1 in_II Aquaphile_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   54 First-person bike essays published in Adventure Cyclist are often inspirational , but not always .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   54 First-person_JJ_NN1 bike_NN1 essays_NN2 published_VVN in_II Adventure_NN1 Cyclist_NN1 are_VBR often_RR inspirational_JJ ,_Y but_CCB not_XX always_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   55 " Sometimes they .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   55 "_Y Sometimes_RT they_PPHS2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   56 " Focus on a single event , not an entire tour , " he adds .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   56 "_Y Focus_VV0_NN1 on_II_RP@ a_AT1 single_JJ event_NN1 ,_Y not_XX an_AT1 entire_JJ tour_NN1 ,_Y "_Y he_PPHS1 adds_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   57 Take your best shot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   57 Take_VV0 your_APPGE best_JJT_RRT shot_NN1_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   58 Photos are highly important for these publications .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   58 Photos_NN2 are_VBR highly_RR important_JJ for_IF these_DD2 publications_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   59 " We are a photo-driven magazine , and we try not to use stock photos very much , " Moag says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   59 "_Y We_PPIS2 are_VBR a_AT1 photo-driven_JJ_NN1 magazine_NN1 ,_Y and_CC we_PPIS2 try_VV0 not_XX to_TO use_VVI stock_NN1 photos_NN2 very_RG much_DA1_RR ,_Y "_Y Moag_NP1_NN1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   60 " Photos are a big part of the selection process .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   60 "_Y Photos_NN2 are_VBR a_AT1 big_JJ part_NN1 of_IO the_AT selection_NN1 process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   61 " Canoe Kayak editors request photos as part of the query package .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   61 "_Y Canoe_NN1 Kayak_NN1 editors_NN2 request_VV0_NN1 photos_NN2 as_II part_NN1 of_IO the_AT query_NN1 package_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   62 " It makes my job a little easier when I do n't have to hunt for pictures , " Outdoors NW 's Price explains .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   62 "_Y It_PPH1 makes_VVZ my_APPGE job_NN1 a_RR21 little_RR22 easier_RRR_JJR when_CS I_PPIS1 do_VD0 n't_XX have_VHI to_TO hunt_VVI for_IF pictures_NN2 ,_Y "_Y Outdoors_RL_NN1 NW_ND1 's_VBZ Price_NP1_NN1 explains_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   63 " And it 's always fun if the writer can even be in the picture .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   63 "_Y And_CC it_PPH1 's_VBZ always_RR fun_JJ if_CS_CSW@ the_AT writer_NN1 can_VM even_RR be_VBI in_II the_AT picture_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   64 " Cycle California !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   64 "_Y Cycle_NN1_VV0% California_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   65 Magazine and Adventure Cyclist also look for original digital photos from writers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   65 Magazine_NN1 and_CC Adventure_NN1 Cyclist_NN1 also_RR look_VV0 for_IF original_JJ digital_JJ photos_NN2 from_II writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   66 Outdoor sports publications serve as a key resource for an active-lifestyle audience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   66 Outdoor_JJ sports_NN2 publications_NN2 serve_VV0 as_II_CSA a_AT1 key_JJ_NN1 resource_NN1 for_IF an_AT1 active-lifestyle_JJ_NN1 audience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   67 If you can write like a pro and are knowledgeable about a nonteam sport , start blazing the query trail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   67 If_CS you_PPY can_VM write_VVI like_II a_AT1 pro_NN1_JJ and_CC are_VBR knowledgeable_JJ about_II a_AT1 nonteam_NN1 sport_NN1 ,_Y start_VV0_NN1 blazing_VVG the_AT query_NN1 trail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   68 After all , what could be better than getting paid for your passion ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   68 After_II all_DB ,_Y what_DDQ could_VM be_VBI better_JJR_RRR than_CSN getting_VVG paid_VVN for_IF your_APPGE passion_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   69 Magazines dedicated to bicycling and other outdoor recreational the sport they 're writing about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   69 Magazines_NN2 dedicated_VVN_VVD to_II bicycling_VVG and_CC other_JJ outdoor_JJ recreational_JJ the_AT sport_NN1 they_PPHS2 're_VBR writing_VVG about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   70 OUTDOOR SPORTS MARKETS ADVENTURE CYCLIST Bicycle-travel magazine from Adventure Cycling Association .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   70 OUTDOOR_JJ SPORTS_NN2 MARKETS_NN2 ADVENTURE_NN1 CYCLIST_JJ_NN1_NP1 Bicycle-travel_JJ_NN1 magazine_NN1 from_II Adventure_NN1 Cycling_NN1 Association_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   71 9 issues/year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   71 9_MC issues/year_FU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   72 Circ. : 43,000 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   72 Circ._ZZ :_Y 43,000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   73 Tips : Queries recommended .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   73 Tips_NN2_VVZ :_Y Queries_NN2 recommended_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   74 Include writing samples , photos .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   74 Include_VV0 writing_VVG_NN1 samples_NN2 ,_Y photos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   75 Submission guidelines online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   75 Submission_NN1 guidelines_NN2 online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   76 Response : 6 weeks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   76 Response_NN1 :_Y 6_MC weeks_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   77 Payment : 30 -45/word ; photos : $100-$250 for interior , $500 for cover .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   77 Payment_NN1 :_Y 30_MC -45/word_FU ;_Y photos_NN2 :_Y $100-$250_NNU for_IF interior_NN1_JJ ,_Y $500_NNU for_IF cover_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   78 Contact : Michael Deme , editor : **29;73029;TOOLONG **28;73060;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   78 Contact_VV0_NN1 :_Y Michael_NP1 Deme_NP1 ,_Y editor_NN1 :_Y **29;73029;TOOLONG_FO **28;73060;TOOLONG_FU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   79 CANOE KAYAK Magazine for canoeists , kayakers and rafters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   79 CANOE_NN1 KAYAK_NN1 Magazine_NN1 for_IF canoeists_NN2 ,_Y kayakers_NN2 and_CC rafters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   80 Bimonthly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   80 Bimonthly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   81 Circ. : 50,000 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   81 Circ._ZZ :_Y 50,000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   82 Tips : " Describe the proposed story in detail ; show how it 's unique .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   82 Tips_NN2_VVZ :_Y "_Y Describe_VV0 the_AT proposed_JJ story_NN1 in_II detail_NN1 ;_Y show_VV0 how_RRQ it_PPH1 's_VBZ unique_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   83 " Send clips , low-res photos .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   83 "_Y Send_VV0 clips_NN2 ,_Y low-res_NN2 photos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   84 Send complete mss for Aquaphile .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   84 Send_VV0 complete_JJ_VV0 mss_NNU for_IF Aquaphile_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   85 Response : 1 week .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   85 Response_NN1 :_Y 1_MC1 week_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   86 Payment : 50/word ; photos : $75-$350 for interior , $500 for cover .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   86 Payment_NN1 :_Y 50/word_FU ;_Y photos_NN2 :_Y $75-$350_NNU for_IF interior_NN1_JJ ,_Y $500_NNU for_IF cover_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   87 Contact : For features , Aquaphile , Unfiltered and Destinations : Jeff Moag : **29;73090;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   87 Contact_VV0_NN1 :_Y For_IF features_NN2 ,_Y Aquaphile_NP1_NN1 ,_Y Unfiltered_JJ and_CC Destinations_NN2 :_Y Jeff_NP1 Moag_NP1 :_Y **29;73090;TOOLONG_FO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   88 For Put In and Dirtbag Diaries : Joe Carberry : **32;73121;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   88 For_IF_CS% Put_VVN_VV0 In_RP@_II and_CC Dirtbag_VV0_NN1_NP1 Diaries_NN2 :_Y Joe_NP1 Carberry_NP1 :_Y **32;73121;TOOLONG_FO ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   89 For Gear : Dave Shively : **32;73155;TOOLONG www.canoekayak.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   89 For_IF Gear_NN1 :_Y Dave_NP1 Shively_NP1 :_Y **32;73155;TOOLONG_FO www.canoekayak.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   90 COMPETITOR 11 regional editions that focus on running and endurance sports .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   90 COMPETITOR_NN1 11_MC regional_JJ editions_NN2 that_CST focus_VV0_NN1 on_II_RP@ running_VVG_NN1_JJ and_CC endurance_NN1 sports_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   91 10 issues/year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   91 10_MC issues/year_FU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   92 Circ. : 800,000 Queries are forwarded to appropriate regional editor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   92 Circ._ZZ :_Y 800,000_MC Queries_NN2 are_VBR forwarded_VVN to_TO appropriate_VVI regional_JJ editor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   93 Response : 1 month .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   93 Response_NN1 :_Y 1_MC1 month_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   94 Payment : $50-$400 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   94 Payment_NN1 :_Y $50-$400_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   95 Contact : Rebecca Heaton , editorial director , **27;73189;TOOLONG www.competitor.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   95 Contact_VV0_NN1 :_Y Rebecca_NP1 Heaton_NP1 ,_Y editorial_JJ_NN1 director_NN1 ,_Y **27;73189;TOOLONG_FO www.competitor.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   96 CYCLE CALIFORNIA !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   96 CYCLE_NN1 CALIFORNIA_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   97 MAGAZINE Biking-enthusiast magazine distributed in northern California and northern Nevada .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   97 MAGAZINE_NN1 Biking-enthusiast_NN1_JJ magazine_NN1 distributed_VVN in_II northern_JJ California_NP1 and_CC northern_JJ Nevada_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   98 Includes features ( 750-1,000 words ) , short articles ( 250-500words ) and short news stories ( 50-150words ) .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   98 Includes_VVZ features_NN2 (_Y 750-1,000_MCMC words_NN2 )_Y ,_Y short_JJ articles_NN2 (_Y 250-500words_NN2 )_Y and_CC short_JJ news_NN1 stories_NN2 (_Y 50-150words_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0   99 11 issues/year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0   99 11_MC issues/year_FU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  100 Circ. : 31,000 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  100 Circ._ZZ :_Y 31,000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  101 Tips : Request submission guidelines via e-mail .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  101 Tips_NN2_VVZ :_Y Request_VV0_NN1 submission_NN1 guidelines_NN2 via_II e-mail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  102 Accepts unsolicited mss .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  102 Accepts_VVZ unsolicited_JJ mss_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  103 Response : 1-2 weeks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  103 Response_NN1 :_Y 1-2_MCMC weeks_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  104 Payment : 15/word ( half for reprints ) ; photos/artwork : $50 for interior , $125 for cover .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  104 Payment_NN1 :_Y 15/word_FU (_Y half_DB_NN1@_RR@ for_IF reprints_NN2 )_Y ;_Y photos/artwork_FU :_Y $50_NNU for_IF interior_NN1_JJ ,_Y $125_NNU for_IF cover_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  105 Contact : Tracy Corral , publisher/editor : **27;73218;TOOLONG www.cyclecalifornia.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  105 Contact_VV0_NN1 :_Y Tracy_NP1 Corral_NP1 ,_Y publisher/editor_NN1 :_Y **27;73218;TOOLONG_FO www.cyclecalifornia.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  106 OUTDOORS NW Resource for outdoor enthusiasts living in the Pacific Northwest .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  106 OUTDOORS_RL_NN1 NW_ND1 Resource_NP1 for_IF outdoor_JJ enthusiasts_NN2 living_VVG in_II the_AT Pacific_NP1 Northwest_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  107 Bimonthly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  107 Bimonthly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  108 Circ , : 40,000 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  108 Circ_NN1_NP1@ ,_Y :_Y 40,000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  109 Tips : " 100 percent of our stories are NW-related ; be familiar with the area .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  109 Tips_NN2_VVZ :_Y "_Y 100_MC percent_NNU of_IO our_APPGE stories_NN2 are_VBR NW-related_JJ ;_Y be_VBI familiar_JJ with_IW the_AT area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  110 " Submission guidelines online .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  110 "_Y Submission_NN1 guidelines_NN2 online_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  111 Response : 1 month .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  111 Response_NN1 :_Y 1_MC1 month_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  112 Payment : $25-$125 ; photos : $25 for interior , $100 for cover .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  112 Payment_NN1 :_Y $25-$125_NNU ;_Y photos_NN2 :_Y $25_NNU for_IF interior_NN1_JJ ,_Y $100_NNU for_IF cover_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  113 Contact : Carolyn Price , publisher/editor : editor@outdoorsnw.com. www.outdoorsnw.com .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  113 Contact_VV0_NN1 :_Y Carolyn_NP1 Price_NP1 ,_Y publisher/editor_NN1 :_Y editor@outdoorsnw.com._FO www.outdoorsnw.com_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  114 RAILS TO TRAILS Magazine published by : Profile and rotating features : Query with theme or story ideas and trail examples .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  114 RAILS_NN2 TO_II TRAILS_NN2 Magazine_NN1 published_VVN by_II :_Y Profile_NN1_VV0@ and_CC rotating_VVG_JJ@ features_NN2 :_Y Query_VV0_NN1 with_IW theme_NN1 or_CC story_NN1 ideas_NN2 and_CC trail_VV0_NN1 examples_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  115 Cover features : Send letter of interest , note region you cover , and send clips .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  115 Cover_VV0_NN1 features_NN2 :_Y Send_VV0 letter_NN1 of_IO interest_NN1 ,_Y note_VV0_NN1 region_NN1 you_PPY cover_VV0 ,_Y and_CC send_VV0 clips_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  116 Response : 2 weeks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  116 Response_NN1 :_Y 2_MC weeks_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  117 Payment : 75-$1.25/word .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  117 Payment_NN1 :_Y 75-$1.25/word_FU ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  118 Contact : Karl Wirsing , managing editor : karl@railstotrails.org , www.railstotrails.org .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  118 Contact_VV0_NN1 :_Y Karl_NP1 Wirsing_NP1 ,_Y managing_JJ_VVG editor_NN1 :_Y karl@railstotrails.org_FO ,_Y www.railstotrails.org_ZZ_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  119 By Ligaya Figueras Freelance editor and writer Ligaya Figueras enjoys combining work and play .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  119 By_II Ligaya_NP1 Figueras_NP2 Freelance_VV0_NN1 editor_NN1 and_CC writer_NN1 Ligaya_NP1 Figueras_NP2 enjoys_VVZ combining_VVG_JJ@ work_NN1 and_CC play_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  120 She has written touring-cyclist articles and destination features for Rails to Trails , Missouri Life , Silent Sports , St. Louis Magazine and Sauce .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  120 She_PPHS1 has_VHZ written_VVN touring-cyclist_NN1_JJ@ articles_NN2 and_CC destination_NN1 features_NN2_VVZ@ for_IF Rails_NN2 to_II Trails_NN2 ,_Y Missouri_NP1 Life_NN1 ,_Y Silent_JJ Sports_NN2 ,_Y St._NP1 Louis_NP1 Magazine_NN1 and_CC Sauce_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  A    0  121 
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080332 COCA  B    0  121 

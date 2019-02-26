@@ -1,0 +1,118 @@
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    0 all that talk about a flat world is just a metaphor .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    0 all_RR@ that_DD1_CST talk_NN1_VV0 about_II a_AT1 flat_JJ world_NN1 is_VBZ just_RR a_AT1 metaphor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    1 The Earth is in fact still round .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    1 The_AT Earth_NN1 is_VBZ in_II fact_NN1 still_RR round_RP_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    2 The norms and practices that we take for granted on one side may be quite different on the other .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    2 The_AT norms_NN2 and_CC practices_NN2_VVZ@ that_CST we_PPIS2 take_VV0 for_IF granted_VVN on_II one_MC1 side_NN1 may_VM be_VBI quite_RG different_JJ on_II the_AT other_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    3 It can save business people and technical managers a lot of trouble to know about some of the differences .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    3 It_PPH1 can_VM save_VVI business_NN1 people_NN and_CC technical_JJ managers_NN2 a_AT1 lot_NN1 of_IO trouble_NN1 to_TO know_VVI about_II some_DD of_IO the_AT differences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    4 Take the contract , for example .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    4 Take_VV0 the_AT contract_NN1 ,_Y for_REX21 example_REX22 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    5 For Westerners , a legal contract is a binding agreement .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    5 For_IF Westerners_NN2 ,_Y a_AT1 legal_JJ contract_NN1 is_VBZ a_AT1 binding_JJ agreement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    6 In Asia , the mindset is less hard and fast , more open to interpretation among friends .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    6 In_II Asia_NP1 ,_Y the_AT mindset_NN1 is_VBZ less_RGR hard_JJ and_CC fast_RR_JJ ,_Y more_RGR_RRR open_JJ_RR@_VV0 to_II interpretation_NN1 among_II friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    7 As Song Jong-Ho of Doowon Group in South Korea explains , " We really do not value the contract .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    7 As_CSA_II@ Song_NN1 Jong-Ho_NP1 of_IO Doowon_NP1_NN1 Group_NN1 in_II South_ND1 Korea_NP1 explains_VVZ ,_Y "_Y We_PPIS2 really_RR do_VD0 not_XX value_NN1_VV0% the_AT contract_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    8 We just value our word .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    8 We_PPIS2 just_RR value_VV0% our_APPGE word_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0    9 We are more for friendship than contracts .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0    9 We_PPIS2 are_VBR more_RRR_DAR for_IF friendship_NN1 than_CSN contracts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   10 We do n't count on each paragraph .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   10 We_PPIS2 do_VD0 n't_XX count_VVI on_II each_DD1 paragraph_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   11 If we understand each other , we can overlook minor problems or differences .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   11 If_CS we_PPIS2 understand_VV0 each_PPX221 other_PPX222 ,_Y we_PPIS2 can_VM overlook_VVI minor_JJ problems_NN2 or_CC differences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   12 " Contracts are not a traditional way of doing business in Asia .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   12 "_Y Contracts_NN2 are_VBR not_XX a_AT1 traditional_JJ way_NN1 of_IO doing_VDG business_NN1 in_II Asia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   13 Asian companies prefer general agreements that allow for flexibility as circumstances change .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   13 Asian_JJ companies_NN2 prefer_VV0 general_JJ_NN1 agreements_NN2 that_CST allow_VV0 for_IF flexibility_NN1 as_CSA_II@ circumstances_NN2 change_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   14 Companies would rather do business with someone they trust .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   14 Companies_NN2 would_VM rather_RR@ do_VDI business_NN1 with_IW someone_PN1 they_PPHS2 trust_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   15 and the option to alter the agreement as circumstances change .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   15 and_CC the_AT option_NN1 to_TO alter_VVI the_AT agreement_NN1 as_CSA_II@ circumstances_NN2 change_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   16 What is critical to doing business with Asian companies is the personal relationship and a continuous partnership based on trust .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   16 What_DDQ is_VBZ critical_JJ to_II doing_VDG business_NN1 with_IW Asian_JJ companies_NN2 is_VBZ the_AT personal_JJ relationship_NN1 and_CC a_AT1 continuous_JJ partnership_NN1 based_VVN on_II trust_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   17 The Western contract is a legality that is tolerated in the context of international trade .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   17 The_AT Western_JJ contract_NN1 is_VBZ a_AT1 legality_NN1 that_CST_DD1 is_VBZ tolerated_VVN in_II the_AT context_NN1 of_IO international_JJ trade_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   18 For Asian business partnerships , trust is a much stronger bond than a legal contract .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   18 For_IF Asian_JJ business_NN1 partnerships_NN2 ,_Y trust_NN1_VV0 is_VBZ a_AT1 much_RR stronger_JJR bond_NN1 than_CSN a_AT1 legal_JJ contract_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   19 Because Asian business partners put less emphasis on written contracts , they expect that negotiations will continue after they sign the agreement .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   19 Because_CS Asian_JJ business_NN1 partners_NN2 put_VV0_VVD less_DAR emphasis_NN1 on_II written_JJ@ contracts_NN2 ,_Y they_PPHS2 expect_VV0 that_CST negotiations_NN2 will_VM continue_VVI after_CS they_PPHS2 sign_VV0 the_AT agreement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   20 If you feel that the contract is a legal and binding agreement and are not willing to bend , doing business with your Asian counterparts will prove challenging .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   20 If_CS you_PPY feel_VV0 that_CST the_AT contract_NN1 is_VBZ a_AT1 legal_JJ and_CC binding_JJ_VVG agreement_NN1 and_CC are_VBR not_XX willing_JJ to_TO bend_VVI ,_Y doing_VDG business_NN1 with_IW your_APPGE Asian_JJ counterparts_NN2 will_VM prove_VVI challenging_JJ_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   21 You must show that you rely on trust as much as what 's written on paper , or even more .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   21 You_PPY must_VM show_VVI that_CST you_PPY rely_VV0 on_II_RP@ trust_NN1_VV0 as_RG much_DA1 as_CSA what_DDQ 's_VBZ_VHZ@ written_VVN on_II paper_NN1 ,_Y or_CC even_RR more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   22 To the Asian , the contract is just the beginning of the relationship .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   22 To_II the_AT Asian_JJ_NN1@ ,_Y the_AT contract_NN1 is_VBZ just_RR the_AT beginning_NN1 of_IO the_AT relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   23 If you are n't aware of this , you may at times feel betrayed by what appear to be empty promises or broken contractual deals .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   23 If_CS you_PPY are_VBR n't_XX aware_JJ of_IO this_DD1 ,_Y you_PPY may_VM at_II times_NNT2 feel_VV0 betrayed_VVN by_II what_DDQ appear_VV0 to_TO be_VBI empty_JJ promises_NN2 or_CC broken_JJ_VVN contractual_JJ deals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   24 In the Asian business world , the contract is viewed as a statement of and void if the sense is that it goes against " the communal good .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   24 In_II the_AT Asian_JJ business_NN1 world_NN1 ,_Y the_AT contract_NN1 is_VBZ viewed_VVN as_II a_AT1 statement_NN1 of_IO and_CC void_JJ_NN1_VV0@ if_CS_CSW@ the_AT sense_NN1 is_VBZ that_CST it_PPH1 goes_VVZ against_II "_Y the_AT communal_JJ good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   25 " As Song Jon-Ho explains , " We have many bosses , many layers of management , and reporting relationships .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   25 "_Y As_CSA_II@ Song_NN1 Jon-Ho_NP1 explains_VVZ ,_Y "_Y We_PPIS2 have_VH0 many_DA2 bosses_NN2 ,_Y many_DA2 layers_NN2 of_IO management_NN1 ,_Y and_CC reporting_VVG_NN1_JJ@ relationships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   26 So it takes a long time to report through the channels .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   26 So_RR it_PPH1 takes_VVZ a_AT1 long_JJ time_NNT1 to_TO report_VVI through_II the_AT channels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   27 And the person who is responsible for the job is not so clear as you ( in understanding what the contract means ) , so sometimes we make a mistake .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   27 And_CC the_AT person_NN1 who_PNQS is_VBZ responsible_JJ for_IF the_AT job_NN1 is_VBZ not_XX so_RG_RR clear_JJ_RR@ as_CSA you_PPY (_Y in_II understanding_NN1_VVG what_DDQ the_AT contract_NN1 means_VVZ_NN )_Y ,_Y so_RR_CS@ sometimes_RT we_PPIS2 make_VV0 a_AT1 mistake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   28 We say , ' Yes , I will follow your contract , ' but I report to my boss and he wants to amend it .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   28 We_PPIS2 say_VV0 ,_Y '_"@ Yes_UH ,_Y I_PPIS1 will_VM follow_VVI your_APPGE contract_NN1 ,_Y '_GE_"@ but_CCB I_PPIS1 report_VV0@ to_II my_APPGE boss_NN1 and_CC he_PPHS1 wants_VVZ to_TO amend_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   29 " This could be a problem for Western partners who rely more on paper than relationships .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   29 "_Y This_DD1 could_VM be_VBI a_AT1 problem_NN1 for_IF Western_JJ partners_NN2 who_PNQS rely_VV0 more_RRR_DAR on_II paper_NN1 than_CSN relationships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   30 Asian partners will need time to " discuss and share our opinions .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   30 Asian_JJ partners_NN2 will_VM need_VVI time_NNT1 to_TO "_Y discuss_VVI and_CC share_VVI our_APPGE opinions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   31 " If the timeline is tight and you push your Asian partners , you may just push them away .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   31 "_Y If_CS the_AT timeline_NN1 is_VBZ tight_JJ_RR and_CC you_PPY push_VV0 your_APPGE Asian_JJ partners_NN2 ,_Y you_PPY may_VM just_RR push_VVI them_PPHO2 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   32 It 's also important to remember that , as difficult as it may be to get to the point of agreement , getting out of an agreement can be equally difficult .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   32 It_PPH1 's_VBZ also_RR important_JJ to_TO remember_VVI that_DD1_CST ,_Y as_RG difficult_JJ as_CSA it_PPH1 may_VM be_VBI to_TO get_VVI to_II the_AT point_NN1 of_IO agreement_NN1 ,_Y getting_VVG out_II21 of_II22 an_AT1 agreement_NN1 can_VM be_VBI equally_RR difficult_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   33 The good news is but you can trust them to keep their promises .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   33 The_AT good_JJ news_NN1 is_VBZ but_CCB you_PPY can_VM trust_VVI them_PPHO2 to_TO keep_VVI their_APPGE promises_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   34 In their culture , loyalty is everything .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   34 In_II their_APPGE culture_NN1 ,_Y loyalty_NN1 is_VBZ everything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   35 Asian partners realize that contracts are a required part of a deal with their Western counterparts .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   35 Asian_JJ partners_NN2 realize_VV0 that_CST contracts_NN2 are_VBR a_AT1 required_JJ part_NN1 of_IO a_AT1 deal_NN1 with_IW their_APPGE Western_JJ counterparts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   36 But , because of cultural differences , it 's important to have some clear guidelines on how to create a contract that will work for both parties .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   36 But_CCB ,_Y because_II21 of_II22 cultural_JJ differences_NN2 ,_Y it_PPH1 's_VBZ important_JJ to_TO have_VHI some_DD clear_JJ guidelines_NN2 on_II how_RRQ to_TO create_VVI a_AT1 contract_NN1 that_CST_DD1 will_VM work_VVI for_IF both_DB2 parties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   37 * Ambiguities in the agreement may be interpreted in your Asian partner 's favor .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   37 *_FU Ambiguities_NN2 in_II the_AT agreement_NN1 may_VM be_VBI interpreted_VVN in_II your_APPGE Asian_JJ partner_NN1 's_GE favor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   38 That 's just human nature .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   38 That_DD1 's_VBZ just_RR human_JJ nature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   39 In order to avoid any misunderstandings , the agreement needs to be clearly written and clearly understood by both parties .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   39 In_BCL21 order_BCL22 to_TO avoid_VVI any_DD misunderstandings_NN2 ,_Y the_AT agreement_NN1 needs_VVZ_NN2 to_TO be_VBI clearly_RR written_VVN and_CC clearly_RR understood_VVN by_II both_DB2 parties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   40 * Each item should be clearly separated and each point must also be clearly separated to ensure that both sides understand one another .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   40 *_FU Each_DD1 item_NN1 should_VM be_VBI clearly_RR separated_VVN_JJ and_CC each_DD1 point_NN1 must_VM also_RR be_VBI clearly_RR separated_VVN to_TO ensure_VVI that_CST both_DB2 sides_NN2 understand_VV0 one_PPX121 another_PPX122 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   41 * The contract will be revised as it progresses through the various layers of approval .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   41 *_FU The_AT contract_NN1 will_VM be_VBI revised_VVN as_CSA it_PPH1 progresses_VVZ through_II the_AT various_JJ layers_NN2 of_IO approval_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   42 Be certain that you allow sufficient time for this process .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   42 Be_VB0 certain_JJ that_CST you_PPY allow_VV0 sufficient_JJ time_NNT1 for_IF this_DD1 process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   43 * Rather than trying to work out every detail ahead of time , recognize that you will discuss matters as they occur throughout the life of the agreement .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   43 *_FU Rather_II21 than_II22 trying_VVG to_TO work_VVI out_RP every_AT1 detail_NN1 ahead_II21 of_II22 time_NNT1 ,_Y recognize_VV0 that_CST you_PPY will_VM discuss_VVI matters_NN2 as_CSA they_PPHS2 occur_VV0 throughout_II the_AT life_NN1 of_IO the_AT agreement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   44 * Negotiations only really begin as relationship develops in working through issues on a daily basis .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   44 *_FU Negotiations_NN2 only_RR really_RR begin_VV0 as_II_CSA relationship_NN1 develops_VVZ in_II_RP@ working_VVG through_II_RP@ issues_NN2 on_II a_AT1 daily_JJ basis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   45 Westerners want to make money on the first contract they have with a new business partner .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   45 Westerners_NN2 want_VV0 to_TO make_VVI money_NN1 on_II the_AT first_MD contract_NN1 they_PPHS2 have_VH0 with_IW a_AT1 new_JJ business_NN1 partner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   46 That is not the expectation of your Asian counterparts .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   46 That_DD1 is_VBZ not_XX the_AT expectation_NN1 of_IO your_APPGE Asian_JJ counterparts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   47 As a Chinese software engineer explained to me , " Sometimes , in China , you get the first contract .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   47 As_II_CSA a_AT1 Chinese_JJ software_NN1 engineer_NN1 explained_VVN_VVD to_II me_PPIO1 ,_Y "_Y Sometimes_RT ,_Y in_II China_NP1 ,_Y you_PPY get_VV0 the_AT first_MD contract_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   48 In the first phase , the company wants a contract , even if they do n't make money .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   48 In_II the_AT first_MD phase_NN1 ,_Y the_AT company_NN1 wants_VVZ a_AT1 contract_NN1 ,_Y even_CS21 if_CS22 they_PPHS2 do_VD0 n't_XX make_VVI money_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   49 Later , in the second phase , we could make money because we now had a relationship .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   49 Later_RRR_JJR ,_Y in_II the_AT second_MD phase_NN1 ,_Y we_PPIS2 could_VM make_VVI money_NN1 because_CS we_PPIS2 now_RT had_VHD a_AT1 relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   50 But first , we had to cooperate .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   50 But_CCB first_MD ,_Y we_PPIS2 had_VHD to_TO cooperate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   51 That was how we outbid the Western competition .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   51 That_DD1 was_VBDZ how_RRQ we_PPIS2 outbid_VV0 the_AT Western_JJ competition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   52 We provided good customer service , we helped our Asian partners make money in the first phase .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   52 We_PPIS2 provided_VVD good_JJ customer_NN1 service_NN1 ,_Y we_PPIS2 helped_VVD our_APPGE Asian_JJ partners_NN2 make_VV0 money_NN1 in_II the_AT first_MD phase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   53 In the second and third phases , they let us make a profit .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   53 In_II the_AT second_MD_NNT1 and_CC third_MD phases_NN2 ,_Y they_PPHS2 let_VV0 us_PPIO2 make_VVI a_AT1 profit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   54 No other company could compete with us , " because the relationship was already strongly cemented .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   54 No_AT other_JJ company_NN1 could_VM compete_VVI with_IW us_PPIO2 ,_Y "_Y because_CS the_AT relationship_NN1 was_VBDZ already_RR strongly_RR cemented_VVN_VVD_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   55 * 3 Quick Tips * * Do n't let yourself get hung up on the first contract .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   55 *_FU 3_MC Quick_JJ Tips_NN2 *_FU *_FU Do_VD0 n't_XX let_VVI yourself_PPX1 get_VVI hung_VVN up_RP on_II the_AT first_MD contract_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   56 * * Do n't expect to make money on the first just the start of a long-term relationship .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   56 *_FU *_FU Do_VD0 n't_XX expect_VVI to_TO make_VVI money_NN1 on_II the_AT first_MD just_RR the_AT start_NN1 of_IO a_AT1 long-term_JJ relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   57 By Mia Doucet Mia Doucet is a coach , consultant , and trainer who advises her clients ' technical people on practices that support their companies ' sales efforts .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   57 By_II Mia_NP1 Doucet_NP1 Mia_NP1 Doucet_NP1_NN1 is_VBZ a_AT1 coach_NN1 ,_Y consultant_NN1 ,_Y and_CC trainer_NN1 who_PNQS advises_VVZ her_APPGE clients_NN2 '_GE technical_JJ people_NN on_II practices_NN2 that_CST support_VV0 their_APPGE companies_NN2 '_GE sales_NN efforts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  A    0   58 She can be reached through her Web site , **27;46909;TOOLONG
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080074 COCA  B    0   58 She_PPHS1 can_VM be_VBI reached_VVN through_II her_APPGE Web_NN1 site_NN1 ,_Y **27;46909;TOOLONG_NNU

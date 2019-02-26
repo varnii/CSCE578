@@ -1,0 +1,10 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  A    0    0 The Board of Directors includes NEHA 's nationally elected officers and regional vice presidents .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  B    0    0 The_AT Board_NN1 of_IO Directors_NN2 includes_VVZ NEHA_NN1_NP1 's_VBZ_GE nationally_RR elected_VVN_JJ@ officers_NN2 and_CC regional_JJ vice_JJ_NN1 presidents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  A    0    1 Affiliate presidents ( or appointed representatives ) comprise the Affiliate Presidents Council .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  B    0    1 Affiliate_NN1 presidents_NN2 (_Y or_CC appointed_JJ@_VVN representatives_NN2 )_Y comprise_VV0 the_AT Affiliate_NN1 Presidents_NN2 Council_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  A    0    2 Technical section chairpersons , the executive director and all past presidents of the association are ex officio council members .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  B    0    2 Technical_JJ section_NN1 chairpersons_NN2 ,_Y the_AT executive_NN1_JJ@ director_NN1 and_CC all_DB_RR@ past_JJ presidents_NN2 of_IO the_AT association_NN1 are_VBR ex_JJ21_RR21 officio_JJ22_RR22 council_NN1 members_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  A    0    3 This list is current as of press time .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  B    0    3 This_DD1 list_NN1 is_VBZ current_JJ as_II21 of_II22 press_NN1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  A    0    4 <p> pre-formatted table
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070869 COCA  B    0    4 <p>_Y pre-formatted_ZZ table_NN1

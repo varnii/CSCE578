@@ -1,0 +1,134 @@
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    0 " The Necklace " is a story about a poor unknown lady , named Mme. Loisel wo is invited to a ball .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    0 "_" The_AT Necklace_NN1 "_" is_VBZ a_AT1 story_NN1 about_II a_AT1 poor_JJ unknown_JJ lady_NN1 ,_, named_VVD Mme._NNB Loisel_NP1 wo_FU is_VBZ invited_VVN to_II a_AT1 ball_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    1 Throughout the story , there is a theme of elegance and its importance to Mme. Loisel .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    1 Throughout_II the_AT story_NN1 ,_, there_EX is_VBZ a_AT1 theme_NN1 of_IO elegance_NN1 and_CC its_APPGE importance_NN1 to_II Mme._NNB Loisel_NP1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    2 Mme. Loisel gets discouraged when invited to the ball because she does not have anything nice to wear .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    2 Mme._NNB Loisel_NP1 gets_VVZ discouraged_VVN when_CS invited_VVN to_II the_AT ball_NN1 because_CS she_PPHS1 does_VDZ not_XX have_VHI anything_PN1 nice_JJ to_TO wear_VVI ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    3 In then she is reminded of a friend , Mme. Forestier who is very wealthy .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    3 In_II then_RT she_PPHS1 is_VBZ reminded_VVN of_IO a_AT1 friend_NN1 ,_, Mme._NNB Forestier_NP1 who_PNQS is_VBZ very_RG wealthy_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    4 Mme. Loisel borrows a very elegant necklace from Mme. Forestier and ends up losing it at the ball .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    4 Mme._NNB Loisel_NP1 borrows_VVZ a_AT1 very_RG elegant_JJ necklace_NN1 from_II Mme._NNB Forestier_NP1 and_CC ends_VVZ up_RP losing_VVG it_PPH1 at_II the_AT ball_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    5 She then has to work the rest of her life in order to repay the new necklace she returned to Mme. Forestier .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    5 She_PPHS1 then_RT has_VHZ to_TO work_VVI the_AT rest_NN1 of_IO her_APPGE life_NN1 in_BCL21 order_BCL22 to_TO repay_VVI the_AT new_JJ necklace_NN1 she_PPHS1 returned_VVD to_II Mme._NNB Forestier_NP1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    6 Close reading of this story shows how she views extreme places and materialistic objects such as the necklace .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    6 Close_JJ reading_NN1 of_IO this_DD1 story_NN1 shows_VVZ how_RRQ she_PPHS1 views_VVZ@ extreme_JJ places_NN2 and_CC materialistic_JJ objects_NN2 such_II21 as_II22 the_AT necklace_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    7 Through the story , Mme. Loisel had no means of being known by a wealthy man , she wanted others to look up to her , and she began to feel different emotions when she saw the necklace for the first time .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    7 Through_II the_AT story_NN1 ,_, Mme._NNB Loisel_NP1 had_VHD no_AT means_NN of_IO being_VBG known_VVN by_II a_AT1 wealthy_JJ man_NN1 ,_, she_PPHS1 wanted_VVD others_NN2 to_TO look_VVI up_II21 to_II22 her_PPHO1 ,_, and_CC she_PPHS1 began_VVD to_TO feel_VVI different_JJ emotions_NN2 when_RRQ she_PPHS1 saw_VVD the_AT necklace_NN1 for_IF the_AT first_MD time_NNT1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    0    8 What Mme. Loisel learns is that being very wealthy does not mean that everything they have is very expensive , and it is very possible to make cheaper things look elegant .
+SENTPOS 2014_4_101_500_515_1 FINAL B    0    8 What_DDQ Mme._NNB Loisel_NP1 learns_VVZ is_VBZ that_DD1 being_VBG very_RG wealthy_JJ does_VDZ not_XX mean_VVI that_CST everything_PN1 they_PPHS2 have_VH0 is_VBZ very_RG expensive_JJ ,_, and_CC it_PPH1 is_VBZ very_RG possible_JJ to_TO make_VVI cheaper_JJR things_NN2 look_VV0 elegant_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1    9 From the beginning , it is apparent that Mme. Loisel is not very well off : " She had no dowry , no expectations , no means of being known , understood , loved , wedded , by any rich and distinguished man ; and that she let herself be married to a little clerk at the Ministry of Public Instruction " ( Maupassant 21-22 ) .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1    9 From_II the_AT beginning_NN1 ,_, it_PPH1 is_VBZ apparent_JJ that_CST Mme._NNB Loisel_NP1 is_VBZ not_XX very_RG well_RR off_RP :_: "_" She_PPHS1 had_VHD no_AT dowry_NN1 ,_, no_AT expectations_NN2 ,_, no_AT means_NN of_IO being_VBG known_VVN ,_, understood_VVD ,_, loved_VVD ,_, wedded_JJ ,_, by_II any_DD rich_JJ and_CC distinguished_JJ man_NN1 ;_; and_CC that_CST she_PPHS1 let_VVD@ herself_PPX1 be_VBI married_VVN% to_II a_AT1 little_JJ clerk_NN1 at_II the_AT Ministry_NN1 of_IO Public_JJ Instruction_NN1 "_" (_( Maupassant_NP1 21-22_MCMC )_) ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1   10 Mme. Loisel did not have any expectation to have a rich man know her at all .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1   10 Mme._NNB Loisel_NP1 did_VDD not_XX have_VHI any_DD expectation_NN1 to_TO have_VHI a_AT1 rich_JJ man_NN1 know_VV0 her_PPHO1 at_RR21 all_RR22 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1   11 This part of the story explains that by saying she does not think a rich man will even know her .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1   11 This_DD1 part_NN1 of_IO the_AT story_NN1 explains_VVZ that_CST by_II saying_VVG she_PPHS1 does_VDZ not_XX think_VVI a_AT1 rich_JJ man_NN1 will_VM even_RR know_VVI her_PPHO1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1   12 It continues by saying that she can not be understood until she is known .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1   12 It_PPH1 continues_VVZ by_II saying_VVG that_CST she_PPHS1 can_VM not_XX be_VBI understood_VVN until_CS she_PPHS1 is_VBZ known_VVN ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1   13 Then she can not be loved until she is understood and not wedded until she is loved .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1   13 Then_RT she_PPHS1 can_VM not_XX be_VBI loved_VVN until_CS she_PPHS1 is_VBZ understood_VVN and_CC not_XX wedded_JJ until_CS she_PPHS1 is_VBZ loved_VVN ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1   14 She did not think any of these things were possible so she let herself be married to a teacher at the Ministry of Public Instruction .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1   14 She_PPHS1 did_VDD not_XX think_VVI any_DD of_IO these_DD2 things_NN2 were_VBDR possible_JJ so_CS@ she_PPHS1 let_VVD@ herself_PPX1 be_VBI married_VVN% to_II a_AT1 teacher_NN1 at_II the_AT Ministry_NN1 of_IO Public_JJ Instruction_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    1   15 The Public Instruction is a school system where her husband works , teachers do not make a very high salary , which is why Mme. Loisel let herself be married to him ; she did not think it was going to do better .
+SENTPOS 2014_4_101_500_515_1 FINAL B    1   15 The_AT Public_JJ Instruction_NN1 is_VBZ a_AT1 school_NN1 system_NN1 where_CS her_APPGE husband_NN1 works_VVZ ,_, teachers_NN2 do_VD0 not_XX make_VVI a_AT1 very_RG high_JJ salary_NN1 ,_, which_DDQ is_VBZ why_RRQ Mme._NNB Loisel_NP1 let_VVD@ herself_PPX1 be_VBI married_VVN% to_II him_PPHO1 ;_; she_PPHS1 did_VDD not_XX think_VVI it_PPH1 was_VBDZ going_VVGK to_TO do_VDI better_RRR ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   16 Mme. Loisel is angry that she does not own very nice things such as curtains , clothing , and furniture in her house .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   16 Mme._NNB Loisel_NP1 is_VBZ angry_JJ that_CST she_PPHS1 does_VDZ not_XX own_VVI very_RG nice_JJ things_NN2 such_II21 as_II22 curtains_NN2 ,_, clothing_NN1 ,_, and_CC furniture_NN1 in_II her_APPGE house_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   17 She has always wanted to be a wealthy young woman who people look up too .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   17 She_PPHS1 has_VHZ always_RR wanted_VVN to_TO be_VBI a_AT1 wealthy_JJ young_JJ woman_NN1 who_PNQS people_NN look_VV0 up_RP too_RR@ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   18 Mme. Loisel 's husband makes the best of the money they have .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   18 Mme._NNB Loisel_NP1 's_GE husband_NN1 makes_VVZ the_AT best_JJT of_IO the_AT money_NN1 they_PPHS2 have_VH0 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   19 One night when he got home he said " Ah , the good pot-au-feu !
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   19 One_MC1 night_NNT1 when_RRQ he_PPHS1 got_VVD home_RL he_PPHS1 said_VVD "_" Ah_UH ,_, the_AT good_JJ pot-au-feu_NP1 !_!
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   20 I do n't know anything better than that " ( Maupassant , 22 ) .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   20 I_PPIS1 do_VD0 n't_XX know_VVI anything_PN1 better_JJR than_CSN that_DD1 "_" (_( Maupassant_NP1 ,_, 22_MC )_) ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   21 He is okay with there financial status and does not need money to be happy .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   21 He_PPHS1 is_VBZ okay_JJ with_IW there_RL financial_JJ status_NN1 and_CC does_VDZ not_XX need_VVI money_NN1 to_TO be_VBI happy_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   22 Having the same dinner every night is not negative for him because he is satisfied with the way he lives .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   22 Having_VHG the_AT same_DA dinner_NN1 every_AT1 night_NNT1 is_VBZ not_XX negative_JJ for_IF him_PPHO1 because_CS he_PPHS1 is_VBZ satisfied_VVN@ with_IW the_AT way_NN1 he_PPHS1 lives_VVZ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    2   23 Although Mme. Loisel feels different , one of her former schoolmates was very wealthy , Mme. Forestier and Mme. Loisel did not like to be around her often because she suffered and was not as wealthy .
+SENTPOS 2014_4_101_500_515_1 FINAL B    2   23 Although_CS Mme._NNB Loisel_NP1 feels_VVZ different_JJ ,_, one_MC1 of_IO her_APPGE former_DA schoolmates_NN2 was_VBDZ very_RG wealthy_JJ ,_, Mme._NNB Forestier_NP1 and_CC Mme._NNB Loisel_NP1 did_VDD not_XX like_VVI to_TO be_VBI around_II her_PPHO1 often_RR because_CS she_PPHS1 suffered_VVD and_CC was_VBDZ not_XX as_RG@ wealthy_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    3   24 Mme. Loisel loved jewels and dresses , but did not have any .
+SENTPOS 2014_4_101_500_515_1 FINAL B    3   24 Mme._NNB Loisel_NP1 loved_VVD jewels_NN2 and_CC dresses_NN2 ,_, but_CCB did_VDD not_XX have_VHI any_DD ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    3   25 She had always dreamed of being envied , idolized , and charming .
+SENTPOS 2014_4_101_500_515_1 FINAL B    3   25 She_PPHS1 had_VHD always_RR dreamed_VVN of_IO being_VBG envied_VVN@ ,_, idolized_VVD ,_, and_CC charming_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    3   26 She wants people to envy her and wants them to want to be just like her .
+SENTPOS 2014_4_101_500_515_1 FINAL B    3   26 She_PPHS1 wants_VVZ people_NN to_TO envy_VVI her_PPHO1 and_CC wants_VVZ them_PPHO2 to_TO want_VVI to_TO be_VBI just_RR like_II her_PPHO1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    3   27 She wants people to think that she is a charming person by her wealthy personality and someone that everyone loved and wanted to be around .
+SENTPOS 2014_4_101_500_515_1 FINAL B    3   27 She_PPHS1 wants_VVZ people_NN to_TO think_VVI that_CST she_PPHS1 is_VBZ a_AT1 charming_JJ person_NN1 by_II her_APPGE wealthy_JJ personality_NN1 and_CC someone_PN1 that_CST everyone_PN1 loved_VVD and_CC wanted_VVD to_TO be_VBI around_RP ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    3   28 She wanted to be idolized because of her beauty with all her expensive gowns and jewels .
+SENTPOS 2014_4_101_500_515_1 FINAL B    3   28 She_PPHS1 wanted_VVD to_TO be_VBI idolized_VVN@ because_II21 of_II22 her_APPGE beauty_NN1 with_IW all_DB her_APPGE expensive_JJ gowns_NN2 and_CC jewels_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    4   29 When Mme. Loisel 's husband came home very excited it was because he had got her an invitation to the ball .
+SENTPOS 2014_4_101_500_515_1 FINAL B    4   29 When_CS Mme._NNB Loisel_NP1 's_GE husband_NN1 came_VVD home_RL very_RG excited_JJ it_PPH1 was_VBDZ because_CS he_PPHS1 had_VHD got_VVN her_PPHO1 an_AT1 invitation_NN1 to_II the_AT ball_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    4   30 Mme. Loisel became discouraged because she did not have any expensive clothing or jewels and she did not want to look poor .
+SENTPOS 2014_4_101_500_515_1 FINAL B    4   30 Mme._NNB Loisel_NP1 became_VVD discouraged_VVN because_CS she_PPHS1 did_VDD not_XX have_VHI any_DD expensive_JJ clothing_NN1 or_CC jewels_NN2 and_CC she_PPHS1 did_VDD not_XX want_VVI to_TO look_VVI poor_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    4   31 Mme. Loisel did not think of her options until her husband suggested her friend Mme. Forestier .
+SENTPOS 2014_4_101_500_515_1 FINAL B    4   31 Mme._NNB Loisel_NP1 did_VDD not_XX think_VVI of_IO her_APPGE options_NN2 until_CS her_APPGE husband_NN1 suggested_VVD her_APPGE friend_NN1 Mme._NNB Forestier_NP1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    4   32 He realized she did not have any jewels , and he knew Mme. Forestier was wealthy and could possibly lend her something very expensive and elegant in .
+SENTPOS 2014_4_101_500_515_1 FINAL B    4   32 He_PPHS1 realized_VVD she_PPHS1 did_VDD not_XX have_VHI any_DD jewels_NN2 ,_, and_CC he_PPHS1 knew_VVD Mme._NNB Forestier_NP1 was_VBDZ wealthy_JJ and_CC could_VM possibly_RR lend_VVI her_PPHO1 something_PN1 very_RG expensive_JJ and_CC elegant_JJ in_II ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   33 Mme. Loisel went to Mme. Forestiers one day to pick something out that she would feel wealthy and beautiful in .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   33 Mme._NNB Loisel_NP1 went_VVD to_II Mme._NNB Forestiers_NP1 one_MC1 day_NNT1 to_TO pick_VVI something_PN1 out_RP that_CST she_PPHS1 would_VM feel_VVI wealthy_JJ and_CC beautiful_JJ in_II ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   34 Mme. Forestier was kind enough to let her choose any jewel she wanted .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   34 Mme._NNB Forestier_NP1 was_VBDZ kind_NN1 enough_RR to_TO let_VVI her_PPHO1 choose_VVI any_DD jewel_NN1 she_PPHS1 wanted_VVD ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   35 Mme. Loisel did not like any until she found a satin box .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   35 Mme._NNB Loisel_NP1 did_VDD not_XX like_VVI any_RR% until_CS she_PPHS1 found_VVD a_AT1 satin_NN1 box_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   36 " In a black satin box , a superb necklace of diamonds , and her heart began to beat with an immoderate desire .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   36 "_" In_II a_AT1 black_JJ satin_NN1 box_NN1 ,_, a_AT1 superb_JJ necklace_NN1 of_IO diamonds_NN2 ,_, and_CC her_APPGE heart_NN1 began_VVD to_TO beat_VVI with_IW an_AT1 immoderate_JJ desire_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   37 Her hands trembled as she took it .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   37 Her_APPGE hands_NN2 trembled_VVD as_CSA she_PPHS1 took_VVD it_PPH1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   38 She fastened it around her throat , outside her high-necked dress , and remained lost in ecstasy at the sight of herself " ( Maupassant , 24 ) .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   38 She_PPHS1 fastened_VVD it_PPH1 around_RP her_APPGE throat_NN1 ,_, outside_II her_APPGE high-necked_JJ dress_NN1 ,_, and_CC remained_VVD lost_VVN in_II ecstasy_NN1 at_II the_AT sight_NN1 of_IO herself_PPX1 "_" (_( Maupassant_NP1 ,_, 24_MC )_) ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   39 The word ecstasy shows her excitement , how much she really loves it , and how she would be upset if she ever lost it .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   39 The_AT word_NN1 ecstasy_NN1 shows_VVZ her_APPGE excitement_NN1 ,_, how_RGQ@ much_DA1 she_PPHS1 really_RR loves_VVZ it_PPH1 ,_, and_CC how_RRQ she_PPHS1 would_VM be_VBI upset_VVN if_CS she_PPHS1 ever_RR lost_VVD it_PPH1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   40 She did not think she could look this outstanding and wealthy .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   40 She_PPHS1 did_VDD not_XX think_VVI she_PPHS1 could_VM look_VVI this_DD1 outstanding_JJ and_CC wealthy_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   41 This necklace was in a very expensive box that leads Mme. Loisel to believe it is real diamonds , which would be very expensive .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   41 This_DD1 necklace_NN1 was_VBDZ in_II a_AT1 very_RG expensive_JJ box_NN1 that_CST leads_VVZ Mme._NNB Loisel_NP1 to_TO believe_VVI it_PPH1 is_VBZ real_JJ diamonds_NN2 ,_, which_DDQ would_VM be_VBI very_RG expensive_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   42 Mme. Forestier did not mind at all and let her borrow it .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   42 Mme._NNB Forestier_NP1 did_VDD not_XX mind_VVI at_RR21 all_RR22 and_CC let_VV0 her_PPHO1 borrow_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   43 Mme. Forestier saw pearls and stones at first but was very hesitant .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   43 Mme._NNB Forestier_NP1 saw_VVD pearls_NN2 and_CC stones_NN2 at_RR21 first_RR22 but_CCB was_VBDZ very_RG hesitant_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   44 Most of the expensive jewels were all together and the elegant looking necklace that Mme. Loisel chose was on its own .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   44 Most_DAT of_IO the_AT expensive_JJ jewels_NN2 were_VBDR all_DB together_RL and_CC the_AT elegant_JJ looking_JJ% necklace_NN1 that_CST Mme._NNB Loisel_NP1 chose_VVD was_VBDZ on_II its_APPGE own_DA ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    5   45 Mme. Loisel felt very elegant when she put it on and knew that she would fit in with all the other women .
+SENTPOS 2014_4_101_500_515_1 FINAL B    5   45 Mme._NNB Loisel_NP1 felt_VVD very_RG elegant_JJ when_CS she_PPHS1 put_VVD it_PPH1 on_RP@ and_CC knew_VVD that_CST she_PPHS1 would_VM fit_VVI in_RP@ with_IW all_DB the_AT other_JJ women_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    6   46 During the ball , Mme. Loisel was very excited , she believed she finally had looked and felt very elegant and pretty .
+SENTPOS 2014_4_101_500_515_1 FINAL B    6   46 During_II the_AT ball_NN1 ,_, Mme._NNB Loisel_NP1 was_VBDZ very_RG excited_JJ ,_, she_PPHS1 believed_VVD she_PPHS1 finally_RR had_VHD looked_VVN and_CC felt_VVN very_RG elegant_JJ and_CC pretty_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    6   47 She felt as though she was being viewed as a wealthy woman rather a poor woman .
+SENTPOS 2014_4_101_500_515_1 FINAL B    6   47 She_PPHS1 felt_VVD as_CS21 though_CS22 she_PPHS1 was_VBDZ being_VBG viewed_VVN as_II a_AT1 wealthy_JJ woman_NN1 rather_RG a_AT1 poor_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    6   48 At four a.m. , she left the ball and noticed she no longer had the necklace on , it was gone .
+SENTPOS 2014_4_101_500_515_1 FINAL B    6   48 At_II four_MC a.m._RA ,_, she_PPHS1 left_VVD the_AT ball_NN1 and_CC noticed_VVD she_PPHS1 no_RR21 longer_RR22 had_VHD the_AT necklace_NN1 on_RP@ ,_, it_PPH1 was_VBDZ gone_VVN ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    6   49 She bought a new necklace for Mme. Forestier without her knowing the real truth about what happened .
+SENTPOS 2014_4_101_500_515_1 FINAL B    6   49 She_PPHS1 bought_VVD a_AT1 new_JJ necklace_NN1 for_IF Mme._NNB Forestier_NP1 without_IW her_PPHO1 knowing_VVG the_AT real_JJ truth_NN1 about_II what_DDQ happened_VVD ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   50 For ten years , Mme. Loisel worked to repay the elegant necklace she borrowed from Mme. Forestier .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   50 For_IF ten_MC years_NNT2 ,_, Mme._NNB Loisel_NP1 worked_VVD to_TO repay_VVI the_AT elegant_JJ necklace_NN1 she_PPHS1 borrowed_VVD from_II Mme._NNB Forestier_NP1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   51 She changed her way of life and began doing heavy housework .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   51 She_PPHS1 changed_VVD her_APPGE way_NN1 of_IO life_NN1 and_CC began_VVD doing_VDG heavy_JJ housework_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   52 Although she was not very old , she looked old .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   52 Although_CS she_PPHS1 was_VBDZ not_XX very_RG old_JJ ,_, she_PPHS1 looked_VVD old_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   53 Some evenings Mme. Loisel would look back at that evening and realize how beautiful and elegant she felt .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   53 Some_DD evenings_NNT2 Mme._NNB Loisel_NP1 would_VM look_VVI back_RP at_II that_DD1 evening_NNT1 and_CC realize_VVI how_RGQ@ beautiful_JJ and_CC elegant_JJ she_PPHS1 felt_VVD ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   54 She thought of the first time she saw the necklace and how much she really loved it .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   54 She_PPHS1 thought_VVD of_IO the_AT first_MD time_NNT1 she_PPHS1 saw_VVD the_AT necklace_NN1 and_CC how_RGQ@ much_DA1 she_PPHS1 really_RR loved_VVD it_PPH1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   55 She thought of the way all the other wealthy women looked up to her and felt as though she finally fit in .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   55 She_PPHS1 thought_VVD of_IO the_AT way_NN1 all_DB the_AT other_JJ wealthy_JJ women_NN2 looked_VVN up_II21 to_II22 her_PPHO1 and_CC felt_VVD as_CS21 though_CS22 she_PPHS1 finally_RR fit_VV0 in_RP@ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    7   56 She viewed wealth and beauty as a very important part of her life .
+SENTPOS 2014_4_101_500_515_1 FINAL B    7   56 She_PPHS1 viewed_VVD wealth_NN1 and_CC beauty_NN1 as_II a_AT1 very_RG important_JJ part_NN1 of_IO her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    8   57 On her day off , Mme. Loisel went for a walk and came upon Mme. Forestier .
+SENTPOS 2014_4_101_500_515_1 FINAL B    8   57 On_II her_APPGE day_NNT1 off_RP ,_, Mme._NNB Loisel_NP1 went_VVD for_IF a_AT1 walk_NN1 and_CC came_VVD upon_II Mme._NNB Forestier_NP1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    8   58 When she approached Mme. Forestier , Mme. Loisel was not recognized because of how much she aged .
+SENTPOS 2014_4_101_500_515_1 FINAL B    8   58 When_CS she_PPHS1 approached_VVD Mme._NNB Forestier_NP1 ,_, Mme._NNB Loisel_NP1 was_VBDZ not_XX recognized_VVN because_II21 of_II22 how_RGQ@ much_DA1 she_PPHS1 aged_VVD@ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    8   59 When Mme. Loisel told Mme. Forestier what happened , she came to find that the necklace was worth no more then 500 francs .
+SENTPOS 2014_4_101_500_515_1 FINAL B    8   59 When_CS Mme._NNB Loisel_NP1 told_VVD Mme._NNB Forestier_NP1 what_DDQ happened_VVD ,_, she_PPHS1 came_VVD to_TO find_VVI that_CST the_AT necklace_NN1 was_VBDZ worth_II no_AT more_RRR then_RT 500_MC francs_NNU2 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    8   60 She was wearing the necklace that night of the ball and it was not expensive , although it did look very elegant , it was worth almost nothing .
+SENTPOS 2014_4_101_500_515_1 FINAL B    8   60 She_PPHS1 was_VBDZ wearing_VVG the_AT necklace_NN1 that_DD1 night_NNT1 of_IO the_AT ball_NN1 and_CC it_PPH1 was_VBDZ not_XX expensive_JJ ,_, although_CS it_PPH1 did_VDD look_VVI very_RG elegant_JJ ,_, it_PPH1 was_VBDZ worth_II almost_RR nothing_PN1 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    8   61 She looked and felt just as beautiful in something that was not expensive rather then something that was .
+SENTPOS 2014_4_101_500_515_1 FINAL B    8   61 She_PPHS1 looked_VVD and_CC felt_VVD just_RR as_RG beautiful_JJ in_II something_PN1 that_CST was_VBDZ not_XX expensive_JJ rather_RR@ then_RT something_PN1 that_CST was_VBDZ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    8   62 It taught her that she did not have to be extremely wealthy in order to own expensive looking items .
+SENTPOS 2014_4_101_500_515_1 FINAL B    8   62 It_PPH1 taught_VVD her_PPHO1 that_CST she_PPHS1 did_VDD not_XX have_VHI to_TO be_VBI extremely_RR wealthy_JJ in_BCL21 order_BCL22 to_TO own_VVI expensive_JJ looking_VVG items_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    9   63 The way Mme. Loisel viewed elegant things was very different then Mme. Forestier did .
+SENTPOS 2014_4_101_500_515_1 FINAL B    9   63 The_AT way_NN1 Mme._NNB Loisel_NP1 viewed_VVD elegant_JJ things_NN2 was_VBDZ very_RG different_JJ then_RT Mme._NNB Forestier_NP1 did_VDD ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    9   64 Mme. Loisel did not realize she could feel just as beautiful in something that was not expensive .
+SENTPOS 2014_4_101_500_515_1 FINAL B    9   64 Mme._NNB Loisel_NP1 did_VDD not_XX realize_VVI she_PPHS1 could_VM feel_VVI just_RR as_RG beautiful_JJ in_II something_PN1 that_CST was_VBDZ not_XX expensive_JJ ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    9   65 She was still looked up to and envied as a charming young lady at the ball that night , and she was not wearing anything overly expensive like the rest of the ladies .
+SENTPOS 2014_4_101_500_515_1 FINAL B    9   65 She_PPHS1 was_VBDZ still_RR looked_VVN up_II21 to_II22 and_CC envied_VVD as_II a_AT1 charming_JJ young_JJ lady_NN1 at_II the_AT ball_NN1 that_DD1 night_NNT1 ,_, and_CC she_PPHS1 was_VBDZ not_XX wearing_VVG anything_PN1 overly_RR expensive_JJ like_II the_AT rest_NN1 of_IO the_AT ladies_NN2 ._.
+SENTPOS 2014_4_101_500_515_1 FINAL A    9   65  The story shows that if someone is wealthy , it does not mean that everything they have is expensive .
+SENTPOS 2014_4_101_500_515_1 FINAL B    9   65  The_AT story_NN1 shows_VVZ that_CST if_CS someone_PN1 is_VBZ wealthy_JJ ,_, it_PPH1 does_VDZ not_XX mean_VVI that_CST everything_PN1 they_PPHS2 have_VH0 is_VBZ expensive_JJ ._.

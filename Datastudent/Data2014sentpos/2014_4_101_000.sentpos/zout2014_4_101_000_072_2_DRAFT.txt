@@ -1,0 +1,94 @@
+SENTPOS 2014_4_101_000_072_2 DRAFT A    0    0 The startling image from the cancer society depicts a child seemingly suffocating from a plastic bag over his head ; from a distance at least .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    0    0 The_AT startling_JJ image_NN1 from_II the_AT cancer_NN1 society_NN1 depicts_VVZ a_AT1 child_NN1 seemingly_RR suffocating_VVG from_II a_AT1 plastic_NN1 bag_NN1 over_II his_APPGE head_NN1 ;_; from_II a_AT1 distance_NN1 at_RR21 least_RR22 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    0    1 But as we zoom in closer , the plastic bag is only the shape and the content is smoke , and the words below appear to be " Smoking is n't just suicide .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    0    1 But_CCB as_CSA we_PPIS2 zoom_VV0 in_RP@ closer_RRR ,_, the_AT plastic_NN1 bag_NN1 is_VBZ only_RR the_AT shape_NN1 and_CC the_AT content_NN1 is_VBZ smoke_NN1 ,_, and_CC the_AT words_NN2 below_RL appear_VV0 to_TO be_VBI "_" Smoking_VVG is_VBZ n't_XX just_RR suicide_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    0    2 It 's murder . "
+SENTPOS 2014_4_101_000_072_2 DRAFT B    0    2 It_PPH1 's_VBZ murder_NN1 ._. "_"
+SENTPOS 2014_4_101_000_072_2 DRAFT A    0    3 Luckily for us , the readers , the text on the image is the main message the artist wants to get across , but sometimes words need visual help to get the message across .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    0    3 Luckily_RR for_IF us_PPIO2 ,_, the_AT readers_NN2 ,_, the_AT text_NN1 on_II the_AT image_NN1 is_VBZ the_AT main_JJ message_NN1 the_AT artist_NN1 wants_VVZ to_TO get_VVI across_RL@ ,_, but_CCB sometimes_RT words_NN2 need_VV0 visual_JJ help_NN1 to_TO get_VVI the_AT message_NN1 across_RL@ ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    0    4 By choosing to show the message through contrast , childhood references , underlying messages and emotion , the artist was able to support the text .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    0    4 By_II choosing_VVG to_TO show_VVI the_AT message_NN1 through_II contrast_NN1 ,_, childhood_NN1 references_NN2 ,_, underlying_VVG messages_NN2 and_CC emotion_NN1 ,_, the_AT artist_NN1 was_VBDZ able_JK to_TO support_VVI the_AT text_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1    5 The most visually obvious trait to this image is the choice is displaying opposites .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1    5 The_AT most_RGT visually_RR obvious_JJ trait_NN1 to_II this_DD1 image_NN1 is_VBZ the_AT choice_NN1 is_VBZ displaying_VVG opposites_NN2 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1    6 The contrast between subject and background .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1    6 The_AT contrast_NN1 between_II subject_NN1 and_CC background_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1    7 In terms of lighting , the background is a solid black while the subject , the boy is pale and bright .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1    7 In_II31 terms_II32 of_II33 lighting_NN1 ,_, the_AT background_NN1 is_VBZ a_AT1 solid_JJ black_JJ while_CS the_AT subject_NN1 ,_, the_AT boy_NN1 is_VBZ pale_JJ and_CC bright_JJ ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1    8 The contrast alone supports the theme because by choosing dark verses light , the artist meant this to portray life verses death .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1    8 The_AT contrast_NN1 alone_RR supports_VVZ the_AT theme_NN1 because_CS by_II choosing_VVG dark_JJ verses_NN2 light_VV0@ ,_, the_AT artist_NN1 meant_VVD this_DD1 to_TO portray_VVI life_NN1 verses_NN2 death_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1    9 Death is being naturally portrayed by the dark background and life by the little boy himself .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1    9 Death_NN1 is_VBZ being_VBG naturally_RR portrayed_VVN by_II the_AT dark_JJ background_NN1 and_CC life_NN1 by_II the_AT little_JJ boy_NN1 himself_PPX1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1   10 The text says that smoking is murder , so what is it murdering ?
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1   10 The_AT text_NN1 says_VVZ that_DD1 smoking_NN1 is_VBZ murder_NN1 ,_, so_RR what_DDQ is_VBZ it_PPH1 murdering_JJ ?_?
+SENTPOS 2014_4_101_000_072_2 DRAFT A    1   11 The contrast emphasizes the subject of the ad .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    1   11 The_AT contrast_NN1 emphasizes_VVZ the_AT subject_NN1 of_IO the_AT ad_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   12 The next supporting factor is the shape the smoke takes around the boy 's head .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   12 The_AT next_MD supporting_JJ factor_NN1 is_VBZ the_AT shape_NN1 the_AT smoke_NN1 takes_VVZ around_II the_AT boy_NN1 's_GE head_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   13 The smoke takes shape of what we as the audience can assume to be a plastic bag .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   13 The_AT smoke_NN1 takes_VVZ shape_NN1 of_IO what_DDQ we_PPIS2 as_II the_AT audience_NN1 can_VM assume_VVI to_TO be_VBI a_AT1 plastic_NN1 bag_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   14 This indication refers back to what we learned as children .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   14 This_DD1 indication_NN1 refers_VVZ back_RP to_II what_DDQ we_PPIS2 learned_VVD as_CSA children_NN2 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   15 As a general " no-no " we learned to never put plastic bags over our heads , and it helps that there is warning label on anything and everything packaged to help remind us just in case we forget .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   15 As_II a_AT1 general_JJ "_" no-no_JJ "_" we_PPIS2 learned_VVD to_TO never_RR put_VVI plastic_NN1 bags_NN2 over_II our_APPGE heads_NN2 ,_, and_CC it_PPH1 helps_VVZ that_CST there_EX is_VBZ warning_VVG@ label_NN1 on_II anything_PN1 and_CC everything_PN1 packaged_VVN to_TO help_VVI remind_VVI us_PPIO2 just_RR in_CS21 case_CS22 we_PPIS2 forget_VV0 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   16 We were taught that we could suffocate , lose air , and face a very fatal consequence .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   16 We_PPIS2 were_VBDR taught_VVN that_CST we_PPIS2 could_VM suffocate_VVI ,_, lose_VV0 air_NN1 ,_, and_CC face_VVI a_AT1 very_RG fatal_JJ consequence_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   17 Having the little boy be portrayed as life and the smoke as a plastic bag that is a contributor in a form of death , the artist achieved the goal of " Smoking is n't just suicide .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   17 Having_VHG the_AT little_JJ boy_NN1 be_VBI portrayed_VVN as_CSA life_NN1 and_CC the_AT smoke_NN1 as_II a_AT1 plastic_NN1 bag_NN1 that_CST is_VBZ a_AT1 contributor_NN1 in_II a_AT1 form_NN1 of_IO death_NN1 ,_, the_AT artist_NN1 achieved_VVN the_AT goal_NN1 of_IO "_" Smoking_NN1 is_VBZ n't_XX just_RR suicide_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   18 Its murder " almost too obviously .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   18 Its_APPGE murder_NN1 "_" almost_RR too_RG obviously_RR ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    2   19 The smoke is blatantly suffocating the boy- the smoke is murdering his life .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    2   19 The_AT smoke_NN1 is_VBZ blatantly_RR suffocating_VVG the_AT boy-_NN1 the_AT smoke_NN1 is_VBZ murdering_VVG his_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   20 But as we look deeper into this image , we see that the artist hit almost every aspect of the contributors and consequences of smoking .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   20 But_CCB as_CSA we_PPIS2 look_VV0 deeper_RRR into_II this_DD1 image_NN1 ,_, we_PPIS2 see_VV0 that_CST the_AT artist_NN1 hit_VVD almost_RR every_AT1 aspect_NN1 of_IO the_AT contributors_NN2 and_CC consequences_NN2 of_IO smoking_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   21 As we look closer , the boy is young and can not escape the smoke .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   21 As_CSA we_PPIS2 look_VV0 closer_RRR ,_, the_AT boy_NN1 is_VBZ young_JJ and_CC can_VM not_XX escape_VVI the_AT smoke_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   22 By this the artist also referred to second hand smoking .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   22 By_II this_DD1 the_AT artist_NN1 also_RR referred_VVN to_II second_MD hand_NN1 smoking_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   23 As young children it 's hard to avoid anything really because we 're guided in everything we do .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   23 As_CSA young_JJ children_NN2 it_PPH1 's_VBZ hard_JJ to_TO avoid_VVI anything_PN1 really_RR because_CS we_PPIS2 're_VBR guided_VVN in_II everything_PN1 we_PPIS2 do_VD0 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   24 Avoiding cigarette smoke , especially if it is within your own home is something that a child unfortunately can not escape .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   24 Avoiding_VVG cigarette_NN1 smoke_NN1 ,_, especially_RR if_CS it_PPH1 is_VBZ within_II your_APPGE own_DA home_NN1 is_VBZ something_PN1 that_CST a_AT1 child_NN1 unfortunately_RR can_VM not_XX escape_VVI ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   25 As we continue to look deeper we see that this is an ad for children against cancer .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   25 As_CSA we_PPIS2 continue_VV0 to_TO look_VVI deeper_RRR we_PPIS2 see_VV0 that_CST this_DD1 is_VBZ an_AT1 ad_NN1 for_IF children_NN2 against_II cancer_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   26 Not only does this ad raise awareness for smoking as a form of death but also for cancer awareness .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   26 Not_XX only_RR does_VDZ this_DD1 ad_NN1 raise_VVI awareness_NN1 for_IF smoking_VVG as_II a_AT1 form_NN1 of_IO death_NN1 but_CCB also_RR for_IF cancer_NN1 awareness_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   27 It 's a stretch to say that this ad raises awareness for both death and cancer since they always almost go hand in hand , but there is a difference as fine as it may be .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   27 It_PPH1 's_VBZ a_AT1 stretch_NN1@ to_TO say_VVI that_CST this_DD1 ad_NN1 raises_VVZ awareness_NN1 for_IF both_RR death_NN1 and_CC cancer_NN1 since_CS they_PPHS2 always_RR almost_RR go_VV0 hand_NN1 in_II hand_NN1 ,_, but_CCB there_EX is_VBZ a_AT1 difference_NN1 as_RG fine_JJ as_CSA it_PPH1 may_VM be_VBI ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    3   28 The image is specifically targeting how smoke leads to cancer and how cancer will lead to death .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    3   28 The_AT image_NN1 is_VBZ specifically_RR targeting_VVG how_RRQ smoke_NN1 leads_VVZ to_II cancer_NN1 and_CC how_RRQ cancer_NN1 will_VM lead_VVI to_II death_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   29 But no message is truly received if it does not result in some kind of emotion .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   29 But_CCB no_AT message_NN1 is_VBZ truly_RR received_VVN if_CS it_PPH1 does_VDZ not_XX result_VVI in_II some_DD kind_NN1 of_IO emotion_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   30 All the previous mentioned inferences contribute to how the artist chose discomfort , anger and dissatisfaction as the emotions that we take from the image .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   30 All_DB the_AT previous_JJ mentioned_VVD inferences_NN2 contribute_VV0 to_II how_RRQ the_AT artist_NN1 chose_VVD discomfort_NN1 ,_, anger_NN1 and_CC dissatisfaction_NN1 as_II the_AT emotions_NN2 that_CST we_PPIS2 take_VV0 from_II the_AT image_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   31 Having the subject be a young boy was the main contributor to our human emotions .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   31 Having_VHG the_AT subject_NN1 be_VBI a_AT1 young_JJ boy_NN1 was_VBDZ the_AT main_JJ contributor_NN1 to_II our_APPGE human_JJ emotions_NN2 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   32 Being young took part to the emotion of innocence .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   32 Being_VBG young_JJ took_VVD part_NN1 to_II the_AT emotion_NN1 of_IO innocence_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   33 Having that innocence be crying and helpless left the audience with discomfort .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   33 Having_VHG that_DD1 innocence_NN1 be_VBI crying_VVG and_CC helpless_JJ left_VVD the_AT audience_NN1 with_IW discomfort_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   34 As humans , we can not help but want to help a crying child by raising our voices , speaking softly and asking what 's wrong .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   34 As_CSA humans_NN2 ,_, we_PPIS2 can_VM not_XX help_VVI but_CCB want_VV0 to_TO help_VVI a_AT1 crying_NN1 child_NN1 by_II raising_VVG our_APPGE voices_NN2 ,_, speaking_VVG softly_RR and_CC asking_VVG what_DDQ 's_VBZ wrong_JJ ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   35 What if the boy was a man being suffocated by smoke ?
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   35 What_DDQ if_CS the_AT boy_NN1 was_VBDZ a_AT1 man_NN1 being_VBG suffocated_VVN by_II smoke_NN1 ?_?
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   36 We certainly would not feel the same way and would change our mindset into not wanting to help , but maybe scold .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   36 We_PPIS2 certainly_RR would_VM not_XX feel_VVI the_AT same_DA way_NN1 and_CC would_VM change_VVI our_APPGE mindset_NN1 into_II not_XX wanting_VVG to_TO help_VVI ,_, but_CCB maybe_RR scold_VV0 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   37 Because a man is certainly capable of making his own decisions .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   37 Because_CS a_AT1 man_NN1 is_VBZ certainly_RR capable_JJ of_IO making_VVG his_APPGE own_DA decisions_NN2 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   38 What 's so powerful about this particular image is that it leaves us angry that we ca n't help the specific boy because it is only a picture .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   38 What_DDQ 's_VBZ so_RG powerful_JJ about_II this_DD1 particular_JJ image_NN1 is_VBZ that_CST it_PPH1 leaves_VVZ us_PPIO2 angry_JJ that_CST we_PPIS2 ca_VM n't_XX help_VVI the_AT specific_JJ boy_NN1 because_CS it_PPH1 is_VBZ only_RR a_AT1 picture_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   39 It has us wanting to grab the bag of smoke off his head and wipe his tears away .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   39 It_PPH1 has_VHZ us_PPIO2 wanting_VVG to_TO grab_VVI the_AT bag_NN1 of_IO smoke_NN1 off_II his_APPGE head_NN1 and_CC wipe_VV0 his_APPGE tears_NN2 away_RL ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   40 This image wants us to help .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   40 This_DD1 image_NN1 wants_VVZ us_PPIO2 to_TO help_VVI ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   41 It makes us want to do something to help this crying child .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   41 It_PPH1 makes_VVZ us_PPIO2 want_VVI to_TO do_VDI something_PN1 to_TO help_VVI this_DD1 crying_NN1 child_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    4   42 It leaves us dissatisfied .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    4   42 It_PPH1 leaves_VVZ us_PPIO2 dissatisfied_JJ ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    5   43 By drawing us in with the strong contrast in subject and background , by making us realize the plastic bag was actually smoke , and by making us viewers feel nothing but negative emotions , and because the last thing it left us with us was wanting to help or do something , the artist achieved his goal in delivering his message .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    5   43 By_II drawing_VVG us_PPIO2 in_RP@ with_IW the_AT strong_JJ contrast_NN1 in_II subject_NN1 and_CC background_NN1 ,_, by_II making_VVG us_PPIO2 realize_VVI the_AT plastic_NN1 bag_NN1 was_VBDZ actually_RR smoke_VV0 ,_, and_CC by_II making_VVG us_PPIO2 viewers_NN2 feel_VV0 nothing_PN1 but_II negative_JJ emotions_NN2 ,_, and_CC because_CS the_AT last_MD thing_NN1 it_PPH1 left_VVD us_PPIO2 with_IW us_PPIO2 was_VBDZ wanting_VVG to_TO help_VVI or_CC do_VDI something_PN1 ,_, the_AT artist_NN1 achieved_VVN his_APPGE goal_NN1 in_II delivering_VVG his_APPGE message_NN1 ._.
+SENTPOS 2014_4_101_000_072_2 DRAFT A    5   44 How do we help and prevent murders caused by smoke ?
+SENTPOS 2014_4_101_000_072_2 DRAFT B    5   44 How_RRQ do_VD0 we_PPIS2 help_VVI and_CC prevent_VVI murders_NN2 caused_VVN by_II smoke_NN1 ?_?
+SENTPOS 2014_4_101_000_072_2 DRAFT A    5   45 How do we help the boy ?
+SENTPOS 2014_4_101_000_072_2 DRAFT B    5   45 How_RRQ do_VD0 we_PPIS2 help_VVI the_AT boy_NN1 ?_?
+SENTPOS 2014_4_101_000_072_2 DRAFT A    5   45  We simply stop smoking .
+SENTPOS 2014_4_101_000_072_2 DRAFT B    5   45  We_PPIS2 simply_RR stop_VV0 smoking_NN1 ._.

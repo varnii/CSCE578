@@ -1,0 +1,108 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    0 I started writing poetry because I wanted to tell people what it was like to have Asperger 's syndrome .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    0 I_ZZ1%_MC1% started_VVD writing_VVG_NN1 poetry_NN1 because_CS I_PPIS1 wanted_VVD to_TO tell_VVI people_NN what_DDQ it_PPH1 was_VBDZ like_JJ@_RR% to_TO have_VHI Asperger_NP1_NN1 's_GE syndrome_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    1 I do n't know how my life would be different without Asperger 's .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    1 I_PPIS1 do_VD0 n't_XX know_VVI how_RRQ my_APPGE life_NN1 would_VM be_VBI different_JJ without_IW Asperger_NP1_NN1 's_GE ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    2 I have had it for as long as I can remember .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    2 I_PPIS1 have_VH0 had_VHN it_PPH1 for_IF_CS% as_CS31 long_CS32 as_CS33 I_PPIS1 can_VM remember_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    3 Autism spectrum disorders are neurological conditions that affect the brain 's ability to read , write , speak , and know how to deal with life in general .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    3 Autism_NN1_NP1@ spectrum_NN1 disorders_NN2 are_VBR neurological_JJ conditions_NN2 that_CST affect_VV0 the_AT brain_NN1 's_GE ability_NN1 to_TO read_VVI ,_Y write_VV0 ,_Y speak_VV0 ,_Y and_CC know_VV0 how_RRQ to_TO deal_VVI with_IW life_NN1 in_RR21 general_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    4 I look at the world differently than most people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    4 I_PPIS1 look_VV0 at_II the_AT world_NN1 differently_RR than_CSN most_DAT people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    5 Sometimes it is difficult to know how to respond to certain social situations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    5 Sometimes_RT it_PPH1 is_VBZ difficult_JJ to_TO know_VVI how_RRQ to_TO respond_VVI to_II certain_JJ social_JJ situations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    6 I find it hard to be in control when a ' particular situation is confusing , but I am learning how to work through these things .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    6 I_PPIS1 find_VV0 it_PPH1 hard_RR_JJ to_TO be_VBI in_II control_NN1 when_CS_RRQ a_AT1 '_GE particular_JJ situation_NN1 is_VBZ confusing_JJ ,_Y but_CCB I_PPIS1 am_VBM learning_VVG how_RRQ to_TO@ work_VVI through_II_RP@ these_DD2 things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    7 I 'm also learning that you do n't have to be like everybody else .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    7 I_PPIS1 'm_VBM also_RR learning_VVG that_CST you_PPY do_VD0 n't_XX have_VHI to_TO be_VBI like_II_JJ@ everybody_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    8 You just have to be confident in who you are .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    8 You_PPY just_RR have_VH0 to_TO be_VBI confident_JJ in_II who_PNQS you_PPY are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0    9 Life-Changing Painting I discovered I could paint when I was 7 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0    9 Life-Changing_JJ_NN1 Painting_NN1 I_PPIS1 discovered_VVD I_PPIS1 could_VM paint_VVI when_RRQ_CS I_PPIS1 was_VBDZ 7_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   10 My teacher Mrs. Brock was so encouraging about my art , even when she became very ill .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   10 My_APPGE teacher_NN1 Mrs._NNB Brock_NP1 was_VBDZ so_RG_RR encouraging_JJ about_II my_APPGE art_NN1 ,_Y even_CS21 when_CS22 she_PPHS1 became_VVD very_RG ill_Z' ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   11 She loved my painting of a because it reminded her of her favorite song .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   11 She_PPHS1 loved_VVD my_APPGE painting_NN1 of_IO a_AT1 because_CS it_PPH1 reminded_VVD her_PPHO1 of_IO her_APPGE favorite_JJ_NN1 song_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   12 After she died , her husband told me that she hung that painting at the foot of her bed so that she could see it all the time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   12 After_CS she_PPHS1 died_VVD ,_Y her_APPGE husband_NN1 told_VVD me_PPIO1 that_CST she_PPHS1 hung_VVD that_DD1_CST painting_NN1 at_II the_AT foot_NN1 of_IO her_APPGE bed_NN1 so_CS21 that_CS22 she_PPHS1 could_VM see_VVI it_PPH1 all_DB the_AT time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   13 Knowing that I had made something that meant so much to her meant so much to me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   13 Knowing_VVG that_CST I_PPIS1 had_VHD made_VVN something_PN1 that_CST meant_VVD so_RG much_DA1_RR to_II her_PPHO1 meant_VVD_VVN so_RG much_DA1_RR to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   14 It changed my life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   14 It_PPH1 changed_VVD my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   15 Before then , my life had been spinning out of control .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   15 Before_II then_RT ,_Y my_APPGE life_NN1 had_VHD been_VBN spinning_VVG out_II21 of_II22 control_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   16 I could n't stay focused , and I did n't think very much of myself because it seemed I was always getting in trouble for not being able to understand the world around me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   16 I_PPIS1 could_VM n't_XX stay_VVI focused_VVN_JJ@ ,_Y and_CC I_PPIS1 did_VDD n't_XX think_VVI very_RG much_DA1 of_IO myself_PPX1 because_CS it_PPH1 seemed_VVD I_PPIS1 was_VBDZ always_RR getting_VVG in_II trouble_NN1 for_IF not_XX being_VBG able_JK to_TO understand_VVI the_AT world_NN1 around_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   17 Because of Mrs. Brock , I realized I had something to give that might make a difference in people 's lives .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   17 Because_II21 of_II22 Mrs._NNB Brock_NP1 ,_Y I_PPIS1 realized_VVD I_PPIS1 had_VHD something_PN1 to_TO give_VVI that_CST_DD1 might_VM make_VVI a_AT1 difference_NN1 in_II people_NN 's_GE lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   18 She made me think about the songs I loved , and I began to paint my impression of those songs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   18 She_PPHS1 made_VVD me_PPIO1 think_NN1% about_II the_AT songs_NN2 I_PPIS1 loved_VVD ,_Y and_CC I_PPIS1 began_VVD to_TO paint_VVI my_APPGE impression_NN1 of_IO those_DD2 songs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   19 A New Point Of View Soon after , people asked me to show my art and sing for charity events .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   19 A_AT1_ZZ1 New_JJ Point_NN1 Of_IO View_NN1 Soon_RR after_CS ,_Y people_NN asked_VVD me_PPIO1 to_TO show_VVI my_APPGE art_NN1 and_CC sing_VVI for_IF charity_NN1 events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   20 I was so surprised , but also happy to do it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   20 I_PPIS1 was_VBDZ so_RG_RR surprised_JJ ,_Y but_CCB also_RR happy_JJ to_TO do_VDI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   21 I began to donate prints of my me differently when they knew I could paint .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   21 I_PPIS1 began_VVD to_TO donate_VVI prints_NN2 of_IO my_APPGE me_PPIO1 differently_RR when_CS_RRQ they_PPHS2 knew_VVD I_PPIS1 could_VM paint_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   22 I know that having something to give made me a different person .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   22 I_PPIS1 know_VV0 that_DD1 having_VHG something_PN1 to_TO give_VVI made_VVN_VVD me_PPIO1 a_AT1 different_JJ person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   23 I learned that when you give , you receive happiness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   23 I_PPIS1 learned_VVD that_CST when_CS you_PPY give_VV0 ,_Y you_PPY receive_VV0 happiness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   24 When I had the honor of speaking at the United Nations for Autism Speaks and RCM Autism Notebook , I was able to share my story with delegates from all over the world .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   24 When_CS_RRQ I_PPIS1 had_VHD the_AT honor_NN1 of_IO speaking_VVG at_II the_AT United_JJ Nations_NN2 for_IF Autism_NN1 Speaks_VVZ and_CC RCM_FO Autism_NN1 Notebook_NN1 ,_Y I_PPIS1 was_VBDZ able_JK to_TO share_VVI my_APPGE story_NN1 with_IW delegates_NN2 from_II all_RR over_II the_AT world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   25 This was very special to me because these people really want to find out what causes autism and how to cure it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   25 This_DD1 was_VBDZ very_RG special_JJ to_II me_PPIO1 because_CS these_DD2 people_NN really_RR want_VV0 to_TO find_VVI out_RP what_DDQ causes_VVZ autism_NN1 and_CC how_RRQ to_TO cure_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   26 Actions and words do matter .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   26 Actions_NN2 and_CC words_NN2 do_VD0 matter_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   27 That 's why I love to speak about autism .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   27 That_DD1 's_VBZ why_RRQ I_PPIS1 love_VV0 to_TO speak_VVI about_II autism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   28 Everything we do has some kind of consequence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   28 Everything_PN1 we_PPIS2 do_VD0 has_VHZ some_DD kind_NN1 of_IO consequence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   29 We can hurt people , or we can build people up .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   29 We_PPIS2 can_VM hurt_VVI people_NN ,_Y or_CC we_PPIS2 can_VM build_VVI people_NN up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   30 It is our choice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   30 It_PPH1 is_VBZ our_APPGE choice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   31 Get Creative !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   31 Get_VV0 Creative_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   32 I think it is very important for teens to express themselves .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   32 I_PPIS1 think_VV0 it_PPH1 is_VBZ very_RG important_JJ for_IF teens_NN2 to_TO express_VVI themselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   33 It 's a way to know yourself more clearly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   33 It_PPH1 's_VBZ a_AT1 way_NN1 to_TO know_VVI yourself_PPX1 more_RRR_DAR clearly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   34 You can turn your thoughts and feelings into a piece of artwork or a poem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   34 You_PPY can_VM turn_VVI your_APPGE thoughts_NN2 and_CC feelings_NN2 into_II a_AT1 piece_NN1 of_IO artwork_NN1 or_CC a_AT1 poem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   35 For example , when you paint , colors can help you express different emotions .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   35 For_REX21 example_REX22 ,_Y when_CS_RRQ you_PPY paint_VV0 ,_Y colors_NN2 can_VM help_VVI you_PPY express_VVI different_JJ emotions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   36 When you write yourself and not be afraid to write down what you feel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   36 When_CS_RRQ you_PPY write_VV0 yourself_PPX1 and_CC not_XX be_VBI afraid_JJ to_TO write_VVI down_RP what_DDQ you_PPY feel_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   37 Creativity makes you unique and sets you apart from others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   37 Creativity_NN1 makes_VVZ you_PPY unique_JJ and_CC sets_VVZ you_PPY apart_II21 from_II22 others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   38 Creative ideas also help you make your dreams come true .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   38 Creative_JJ ideas_NN2 also_RR help_VV0 you_PPY make_VVI your_APPGE dreams_NN2 come_VVI true_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   39 They help you wipe away your inhibitions and make you look at things in a new way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   39 They_PPHS2 help_VV0 you_PPY wipe_VVI away_RL your_APPGE inhibitions_NN2 and_CC make_VVI you_PPY look_VVI at_II things_NN2 in_II a_AT1 new_JJ way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   40 I hope my story helps people to believe they can overcome their challenges and achieve their dreams .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   40 I_PPIS1 hope_VV0 my_APPGE story_NN1 helps_VVZ people_NN to_TO believe_VVI they_PPHS2 can_VM overcome_VVI their_APPGE challenges_NN2 and_CC achieve_VVI their_APPGE dreams_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   41 I like to encourage others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   41 I_PPIS1 like_VV0 to_TO encourage_VVI others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   42 I know what encouragement has meant to me .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   42 I_PPIS1 know_VV0 what_DDQ encouragement_NN1 has_VHZ meant_VVN to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   43 Dig Deeper READING COMPREHENSION 1 In what does Amanda NOT believe ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   43 Dig_VV0 Deeper_JJR_RRR READING_NN1_VVG_NP1 COMPREHENSION_NN1 1_MC1 In_II what_DDQ does_VDZ Amanda_NP1 NOT_XX believe_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   44 pre-formatted table Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   44 pre-formatted_ZZ table_NN1 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   45 Amanda 's life changed forever when she gave a gift to a teacher .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   45 Amanda_NP1 's_GE life_NN1 changed_VVD_VVN forever_RT when_CS_RRQ she_PPHS1 gave_VVD a_AT1 gift_NN1 to_II a_AT1 teacher_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   46 Amanda says that " when you give , you receive happiness .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   46 Amanda_NP1 says_VVZ that_CST "_Y when_CS you_PPY give_VV0 ,_Y you_PPY receive_VV0 happiness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   47 " How have you influenced the lives of others ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   47 "_Y How_RRQ have_VH0 you_PPY influenced_VVN the_AT lives_NN2 of_IO others_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   48 Write a personal essay about a gift , helping hand , or a kind word you 've given to improve someone 's day , and how your action made you feel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   48 Write_VV0 a_AT1 personal_JJ essay_NN1 about_II a_AT1 gift_NN1 ,_Y helping_VVG_NN1 hand_NN1 ,_Y or_CC a_AT1 kind_NN1_JJ@ word_NN1 you_PPY 've_VH0 given_VVN to_TO improve_VVI someone_PN1 's_GE_VBZ day_NNT1 ,_Y and_CC how_RRQ your_APPGE action_NN1 made_VVD_VVN you_PPY feel_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   49 PHOTO ( COLOR ) : The Autism Society of America named Oklahoma native Amanda LaMunyon , 14 , the 2008 Outstanding recent painting by Amanda , East Coast-America .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   49 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y The_AT Autism_NN1 Society_NN1 of_IO America_NP1 named_VVD Oklahoma_NP1 native_JJ_NN1@ Amanda_NP1 LaMunyon_NP1 ,_Y 14_MC ,_Y the_AT 2008_MC Outstanding_JJ recent_JJ painting_NN1 by_II Amanda_NP1 ,_Y East_ND1 Coast-America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   50 PHOTO ( COLOR ) : Vase of Pink Roses , 2003 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   50 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Vase_NN1 of_IO Pink_JJ Roses_NN2 ,_Y 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   51 PHOTO ( COLOR ) : MY Little Corner , 2006 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   51 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y MY_APPGE Little_JJ Corner_NN1 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   52 PHOTO ( COLOR ) : Amanda sang at the Oklahoma State Capitol in Oklahoma City last February .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   52 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Amanda_NP1 sang_VVD at_II the_AT Oklahoma_NP1 State_NN1 Capitol_NP1 in_II Oklahoma_NP1 City_NN1 last_MD February_NPM1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  A    0   53 By Amanda LaMunyon
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080227 COCA  B    0   53 By_II Amanda_NP1 LaMunyon_NP1

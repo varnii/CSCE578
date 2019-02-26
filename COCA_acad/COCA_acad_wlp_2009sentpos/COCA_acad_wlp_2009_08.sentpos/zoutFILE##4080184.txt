@@ -1,0 +1,134 @@
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    0 Just off Highway 1 , approximately ten minutes north of San Simeon , California , is one of the largest colonies of Elephant Seals in America .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    0 Just_RR off_II_RP Highway_NN1 1_MC1 ,_Y approximately_RR ten_MC minutes_NNT2 north_ND1 of_IO San_NP1 Simeon_NP1 ,_Y California_NP1 ,_Y is_VBZ one_MC1 of_IO the_AT largest_JJT colonies_NN2 of_IO Elephant_NN1 Seals_VVZ_NN2 in_II America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    1 During the month of February , the females spend most of their time on the sand giving birth to the new pups .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    1 During_II the_AT month_NNT1 of_IO February_NPM1 ,_Y the_AT females_NN2 spend_VV0 most_DAT of_IO their_APPGE time_NNT1 on_II the_AT sand_NN1 giving_VVG birth_NN1 to_II the_AT new_JJ pups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    2 The best time of year to see this event is mid month as the population is at its peak .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    2 The_AT best_JJT time_NNT1 of_IO year_NNT1 to_TO see_VVI this_DD1 event_NN1 is_VBZ mid_JJ month_NNT1 as_II_CSA the_AT population_NN1 is_VBZ at_II its_Z' peak_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    3 The beach is full of Elephant Seals during this season .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    3 The_AT beach_NN1 is_VBZ full_JJ of_IO Elephant_NN1 Seals_VVZ_NN2 during_II this_DD1 season_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    4 The pups weigh 60 to 80 pounds at birth and are 3 to 4 feel long .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    4 The_AT pups_NN2 weigh_VV0 60_MC to_II 80_MC pounds_NN2 at_II birth_NN1 and_CC are_VBR 3_MC to_II 4_MC feel_VV0 long_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    5 At this point the new pups are black because they have n't grown their fur yet .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    5 At_II this_DD1 point_NN1 the_AT new_JJ pups_NN2 are_VBR black_JJ because_CS they_PPHS2 have_VH0 n't_XX grown_VVN their_APPGE fur_NN1 yet_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    6 The adult females range from 900 to 1800 pounds and 9 to 12 feet in length .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    6 The_AT adult_NN1_JJ@ females_NN2 range_VV0@_NN1 from_II 900_MC to_II 1800_MC pounds_NN2 and_CC 9_MC to_II 12_MC feet_NN2 in_II length_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    7 The males are considerably larger tipping the scales anywhere from 3000 to 5000 pounds and range from 14 to 16 feet in length .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    7 The_AT males_NN2 are_VBR considerably_RR larger_JJR tipping_NN1@ the_AT scales_NN2 anywhere_RL from_II 3000_MC to_II 5000_MC pounds_NN2 and_CC range_NN1_VV0@ from_II 14_MC to_II 16_MC feet_NN2 in_II length_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    8 Survival rate of the pups in the first year is 37% and by the fourth year the rate has decreased to 16% .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    8 Survival_NN1 rate_NN1 of_IO the_AT pups_NN2 in_II the_AT first_MD year_NNT1 is_VBZ 37%_NNU and_CC by_II the_AT fourth_MD year_NNT1 the_AT rate_NN1 has_VHZ decreased_VVN to_II 16%_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0    9 If they survive the first 4 to 6 years of the pups lakes about a month .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0    9 If_CS they_PPHS2 survive_VV0 the_AT first_MD 4_MC to_II 6_MC years_NNT2 of_IO the_AT pups_NN2 lakes_NN2 about_II a_AT1 month_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   10 The pups have increased to an astounding 250 to 300 pounds in this first month and have already quadrupled in weight .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   10 The_AT pups_NN2 have_VH0 increased_VVN to_II an_AT1 astounding_NN1@_JJ@ 250_MC to_II 300_MC pounds_NN2 in_II this_DD1 first_MD month_NNT1 and_CC have_VH0 already_RR quadrupled_VVN in_II weight_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   11 Female Elephant Seals have grown to full maturity within 6 years while die males continue to grow for a little longer and do not mature quite as quickly as the females .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   11 Female_JJ_NN1 Elephant_NN1 Seals_NN2 have_VH0 grown_VVN to_II full_JJ maturity_NN1 within_II 6_MC years_NNT2 while_CS die_VV0 males_NN2 continue_VV0 to_TO grow_VVI for_IF a_RR21 little_RR22 longer_RRR_JJR and_CC do_VD0 not_XX mature_VVI quite_RG as_RG quickly_RR as_CSA the_AT females_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   12 By March , most of the adults are gone and the weaned pups are left to teach themselves how to swim .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   12 By_II March_NPM1 ,_Y most_DAT of_IO the_AT adults_NN2 are_VBR gone_VVN and_CC the_AT weaned_JJ@ pups_NN2 are_VBR left_VVN to_TO teach_VVI themselves_PPX2 how_RRQ to_TO swim_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   13 At this time , the weaned pups often gather into pods for protection while on land .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   13 At_II this_DD1 time_NNT1 ,_Y the_AT weaned_JJ@ pups_NN2 often_RR gather_VV0 into_II pods_NN2 for_IF protection_NN1 while_CS on_II land_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   14 They also tend to move further up the beach and try to avoid tile adult males that have not left yet .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   14 They_PPHS2 also_RR tend_VV0 to_TO move_VVI further_RRR up_RP_II@ the_AT beach_NN1 and_CC try_VVI to_TO avoid_VVI tile_NN1 adult_NN1 males_NN2 that_CST have_VH0 not_XX left_VVN yet_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   15 As pups , they will spend most of their time sleeping as their bodies begin to change and adapt to sea life .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   15 As_CSA pups_VVZ_NN2 ,_Y they_PPHS2 will_VM spend_VVI most_DAT of_IO their_APPGE time_NNT1 sleeping_NN1_VVG as_CSA_II@ their_APPGE bodies_NN2 begin_VV0 to_TO change_VVI and_CC adapt_VVI to_II sea_NN1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   16 When not sleeping , the males will often spar and practice their fighting skills in order to get ready for adult life and male mating rituals .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   16 When_RRQ_CS not_XX sleeping_VVG_JJ ,_Y the_AT males_NN2 will_VM often_RR spar_VVI and_CC practice_NN1 their_APPGE fighting_NN1 skills_NN2 in_BCL21 order_BCL22 to_TO get_VVI ready_JJ for_IF adult_NN1_JJ@ life_NN1 and_CC male_JJ_NN1 mating_JJ_NN1 rituals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   17 They square up with each other and bump chests .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   17 They_PPHS2 square_VV0@ up_RP with_IW each_PPX221 other_PPX222 and_CC bump_NN1_VV0@ chests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   18 Elephant Seal pups have also been known to kelp .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   18 Elephant_NN1 Seal_NN1_VV0 pups_NN2 have_VH0 also_RR been_VBN known_VVN to_TO kelp_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   19 By two months old , the pups have become proficient swimmers .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   19 By_II two_MC months_NNT2 old_JJ ,_Y the_AT pups_NN2 have_VH0 become_VVN@ proficient_JJ swimmers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   20 Half of the weaned pups that leave the area will not survive long enough to return .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   20 Half_DB of_IO the_AT weaned_JJ@ pups_NN2 that_CST leave_VV0 the_AT area_NN1 will_VM not_XX survive_VVI long_RR enough_RR_DD to_TO return_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   21 Their survival generally depends on whether or not they can find food , and be able to avoid predators .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   21 Their_APPGE survival_NN1 generally_RR depends_VVZ on_II whether_CSW31 or_CSW32 not_CSW33 they_PPHS2 can_VM find_VVI food_NN1 ,_Y and_CC be_VBI able_JK to_TO avoid_VVI predators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   22 Their ability to deep dive plays a significant role in both of these .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   22 Their_APPGE ability_NN1 to_II deep_JJ dive_NN1 plays_VVZ a_AT1 significant_JJ role_NN1 in_II both_DB2 of_IO these_DD2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   23 With the ability to dive as deep as 5000 feet , the only other mammal that can out dive the Elephant Seal is the Sperm Whale .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   23 With_IW the_AT ability_NN1 to_TO dive_VVI as_RG deep_RR_JJ as_CSA 5000_MC feet_NN2 ,_Y the_AT only_JJ other_JJ mammal_NN1 that_CST can_VV0%_VM out_RP dive_VVI the_AT Elephant_NN1 Seal_NN1 is_VBZ the_AT Sperm_NN Whale_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   24 These seals can lower their metabolic rate and divert oxygen to internal organs and the brain .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   24 These_DD2 seals_NN2 can_VM lower_VVI their_APPGE metabolic_JJ rate_NN1 and_CC divert_VVI oxygen_NN1 to_II internal_JJ organs_NN2 and_CC the_AT brain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   25 Not only can they store oxygen in their lungs , they can also store it in their blood and muscles , allowing them to dive for more than an hour at a time .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   25 Not_XX only_RR can_VM_VV0% they_PPHS2 store_VVI oxygen_NN1 in_II their_APPGE lungs_NN2 ,_Y they_PPHS2 can_VM also_RR store_VVI it_PPH1 in_II_RP@ their_APPGE blood_NN1 and_CC muscles_NN2 ,_Y allowing_VVG them_PPHO2 to_TO dive_VVI for_IF more_DAR than_CSN an_AT1 hour_NNT1 at_II a_AT1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   26 Their exterior blubber helps them to maintain a 100-degree internal temperature while on these dives .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   26 Their_APPGE exterior_JJ_NN1 blubber_NN1 helps_VVZ them_PPHO2 to_TO maintain_VVI a_AT1 100-degree_JJ internal_JJ temperature_NN1 while_CS on_II these_DD2 dives_NN2@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   27 This often makes it difficult to keep their internal temperature cool while on land .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   27 This_DD1 often_RR makes_VVZ it_PPH1 difficult_JJ to_TO keep_VVI their_APPGE internal_JJ temperature_NN1 cool_JJ_RR@_NN1@ while_NNT1@_CS on_II land_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   28 Adults will spend as much as 90% of their time underwater .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   28 Adults_NN2 will_VM spend_VVI as_RG much_DA1 as_CSA 90%_NNU of_IO their_APPGE time_NNT1 underwater_RL ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   29 These dives continue during the , Elephant Seals will return to the beaches of Saul Simeon to molt .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   29 These_DD2 dives_NN2@ continue_VV0 during_II the_AT ,_Y Elephant_NN1 Seals_NN2_VVZ will_VM return_VVI to_II the_AT beaches_NN2 of_IO Saul_NP1 Simeon_NP1 to_TO molt_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   30 The males have often returned from as far away as Alaska , while the females generally wander as far away as the southern end of Canada before their return .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   30 The_AT males_NN2 have_VH0 often_RR returned_VVN from_II as_RG far_RR away_RL as_CSA Alaska_NP1 ,_Y while_CS the_AT females_NN2 generally_RR wander_VV0 as_RG far_RR away_RL as_CSA the_AT southern_JJ end_NN1 of_IO Canada_NP1 before_II_CS their_APPGE return_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   31 While in the water , the females dine on various types of squid .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   31 While_CS in_II the_AT water_NN1 ,_Y the_AT females_NN2 dine_VV0 on_II_RP@ various_JJ types_NN2 of_IO squid_NN ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   32 The males are believed to have a much larger variety of diet including rays , skates , ratfish , small sharks , and hagfish .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   32 The_AT males_NN2 are_VBR believed_VVN to_TO have_VHI a_AT1 much_RR larger_JJR variety_NN1 of_IO diet_NN1 including_II rays_NN2 ,_Y skates_NN2_VVZ ,_Y ratfish_NN1 ,_Y small_JJ sharks_NN2 ,_Y and_CC hagfish_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   33 Males are believed to be deeper divers than females .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   33 Males_NN2 are_VBR believed_VVN to_TO be_VBI deeper_JJR divers_NN2_JJ than_CSN females_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   34 Adult male Elephant Seals can have canines as large as 6 inches long .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   34 Adult_NN1_JJ@ male_NN1_JJ Elephant_NN1 Seals_NN2_VVZ can_VM have_VHI canines_NN2 as_RG large_JJ as_CSA 6_MC inches_NNU2 long_JJ_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   35 Female 's canines can reach 3 inches or more in length .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   35 Female_NN1 's_GE canines_NN2 can_VM reach_VVI 3_MC inches_NNU2 or_CC more_RRR_DAR in_II length_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   36 The Elephant Seals do not have too many natural predators .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   36 The_AT Elephant_NN1 Seals_NN2 do_VD0 not_XX have_VHI too_RG many_DA2 natural_JJ predators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   37 One of their predators is the Great While Shark , which reaches lengths as huge as 20 feel .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   37 One_MC1 of_IO their_APPGE predators_NN2 is_VBZ the_AT Great_JJ While_CS_NNT1@ Shark_NN1 ,_Y which_DDQ reaches_VVZ lengths_NN2 as_RG huge_JJ as_CSA 20_MC feel_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   38 However , they do not dive as deep as the male Elephant Seal thus they have to catch the seal while diving or resurfacing .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   38 However_RR ,_Y they_PPHS2 do_VD0 not_XX dive_VVI as_RG deep_RR_JJ as_CSA the_AT male_JJ_NN1 Elephant_NN1 Seal_NN1_VV0 thus_RR they_PPHS2 have_VH0 to_TO catch_VVI the_AT seal_NN1 while_CS diving_VVG_JJ_NN1 or_CC resurfacing_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   39 The Orca or Killer Whale is another danger for the seals .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   39 The_AT Orca_NP1_NN1@ or_CC Killer_NN1 Whale_NN1 is_VBZ another_DD1 danger_NN1 for_IF the_AT seals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   40 Orcas can get as large prey on the seals .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   40 Orcas_NN2_NP1@ can_VM get_VVI as_RG large_JJ prey_VVI on_II the_AT seals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   41 Another predator of the Elephant Seal is the Cookie Cutter Shark .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   41 Another_DD1 predator_NN1 of_IO the_AT Elephant_NN1 Seal_NN1 is_VBZ the_AT Cookie_NN1 Cutter_NN1 Shark_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   42 Living in the deeper waters , these sharks only reach about twenty inches in length .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   42 Living_VVG_NN1_JJ in_II the_AT deeper_JJR waters_NN2 ,_Y these_DD2 sharks_NN2 only_RR_JJ reach_VV0_NN1 about_RG twenty_MC inches_NNU2 in_II length_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   43 They move in quickly and lake a small chunk of skin or blubber about the size of a golf ball or tennis ball .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   43 They_PPHS2 move_VV0 in_RP@_II quickly_RR and_CC lake_NN1 a_AT1 small_JJ chunk_NN1 of_IO skin_NN1 or_CC blubber_NN1 about_II the_AT size_NN1 of_IO a_AT1 golf_NN1 ball_NN1 or_CC tennis_NN1 ball_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   44 These bites do not seriously injure the seal .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   44 These_DD2 bites_NN2 do_VD0 not_XX seriously_RR injure_VVI the_AT seal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   45 While the seals are lying on the beach , you can sometimes see the small chunks taken out of them .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   45 While_CS the_AT seals_NN2 are_VBR lying_VVG on_II the_AT beach_NN1 ,_Y you_PPY can_VM sometimes_RT see_VVI the_AT small_JJ chunks_NN2 taken_VVN out_II21 of_II22 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   46 In June , when the Elephant Seals return , they have already begun to molt .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   46 In_II June_NPM1 ,_Y when_CS_RRQ the_AT Elephant_NN1 Seals_NN2_VVZ return_VV0_NN1 ,_Y they_PPHS2 have_VH0 already_RR begun_VVN to_TO molt_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   47 As they repopulate the beach you can see them in all stages of molting .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   47 As_CSA they_PPHS2 repopulate_VV0 the_AT beach_NN1 you_PPY can_VM see_VVI them_PPHO2 in_II_RP@ all_DB stages_NN2 of_IO molting_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   48 Some will still have their full coats while others may be entirely black revealing their skin .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   48 Some_DD will_VM still_RR have_VHI their_APPGE full_JJ coats_NN2 while_CS others_NN2 may_VM be_VBI entirely_RR black_JJ_VV0% revealing_VVG their_APPGE skin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   49 During this season , the seals tend to molt together with very little conflict between each other .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   49 During_II this_DD1 season_NNT1 ,_Y the_AT seals_NN2 tend_VV0 to_TO molt_VVI together_RL with_IW very_RG little_DA1 conflict_NN1 between_II each_PPX221 other_PPX222 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   50 In July and August things get pretty exciting in San Simeon .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   50 In_II July_NPM1 and_CC August_NPM1 things_NN2 get_VV0 pretty_RG exciting_JJ in_II San_NP1 Simeon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   51 The adult males begin to practice their fighting skills again by sparring with one another .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   51 The_AT adult_NN1_JJ@ males_NN2 begin_VV0 to_II practice_NN1 their_APPGE fighting_NN1 skills_NN2 again_RT by_II sparring_VVG_NN1 with_IW one_PPX121 another_PPX122 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   52 Bumping chests together , growling , and biting at each mating rituals .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   52 Bumping_VVG_JJ@ chests_NN2 together_RL ,_Y growling_VVG ,_Y and_CC biting_VVG_JJ at_II each_PPX221 mating_JJ_NN1 rituals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   53 This naturally makes it a great time to take out your camera and catch these gladiators in action .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   53 This_DD1 naturally_RR makes_VVZ it_PPH1 a_AT1 great_JJ time_NNT1 to_TO take_VVI out_RP your_APPGE camera_NN1 and_CC catch_VVI these_DD2 gladiators_NN2 in_II action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   54 The beach with the Elephant Seals has a wooden pathway with side rails and while some of the seals snuggle up right next to the pathway , others keep their distance from human reach .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   54 The_AT beach_NN1 with_IW the_AT Elephant_NN1 Seals_NN2 has_VHZ a_AT1 wooden_JJ pathway_NN1 with_IW side_NN1 rails_NN2 and_CC while_CS some_DD of_IO the_AT seals_NN2 snuggle_VV0 up_RP right_RR_NN1 next_II21 to_II22 the_AT pathway_NN1 ,_Y others_NN2 keep_VV0 their_APPGE distance_NN1 from_II human_JJ_NN1 reach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   55 When photographing the Elephant Seals , it 's a good idea to bring a zoom lens such as a 300mm with some kind of linage stabilization to capture the battling males in action .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   55 When_CS photographing_VVG the_AT Elephant_NN1 Seals_NN2_VVZ ,_Y it_PPH1 's_VBZ a_AT1 good_JJ idea_NN1 to_TO bring_VVI a_AT1 zoom_NN1 lens_NN1 such_II21 as_II22 a_AT1 300mm_NNU with_IW some_DD kind_NN1 of_IO linage_NN1 stabilization_NN1 to_TO capture_VVI the_AT battling_JJ@ males_NN2 in_II action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   56 Another reason to have a far-reaching lens is that the Piedras Blancas Lighthouse is just north of the Elephant Seal Sanctuary .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   56 Another_DD1 reason_NN1 to_TO have_VHI a_AT1 far-reaching_JJ lens_NN1 is_VBZ that_CST the_AT Piedras_NP2 Blancas_NN2@_NP2 Lighthouse_NN1 is_VBZ just_RR north_ND1 of_IO the_AT Elephant_NN1 Seal_NN1_VV0 Sanctuary_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   57 This historical landmark has been in operation since 1875 .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   57 This_DD1 historical_JJ landmark_NN1 has_VHZ been_VBN in_II operation_NN1 since_II 1875_MC ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   58 The Coast Guard is now responsible for operation of the lighthouse .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   58 The_AT Coast_NN1 Guard_NN1 is_VBZ now_RT responsible_JJ for_IF operation_NN1 of_IO the_AT lighthouse_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   59 The US Geological Services Biological Resource Department also utilizes the Piedras Blancas Lighthouse area to monitor and survey the activities of seals , otters , and other marine life in the area .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   59 The_AT US_NP1 Geological_JJ Services_NN2 Biological_JJ Resource_NN1 Department_NN1 also_RR utilizes_VVZ the_AT Piedras_NP2 Blancas_NN2@_NP2 Lighthouse_NN1 area_NN1 to_TO monitor_VVI and_CC survey_VVI the_AT activities_NN2 of_IO seals_NN2 ,_Y otters_NN2 ,_Y and_CC other_JJ marine_JJ life_NN1 in_II the_AT area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   60 Photos for this article were taken with a Nikon D-80 and a 300mm VR lens .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   60 Photos_NN2 for_IF this_DD1 article_NN1 were_VBDR taken_VVN with_IW a_AT1 Nikon_NN1 D-80_FO and_CC a_AT1 300mm_NNU VR_NP1 lens_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   61 If shooting in mid-day , use a the lighter colors of the seals .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   61 If_CS shooting_VVG in_II mid-day_NNT1 ,_Y use_VV0 a_AT1 the_AT lighter_JJR_NN1 colors_NN2 of_IO the_AT seals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   62 Sometimes the fog will help defuse the light decreasing harsh lighting conditions .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   62 Sometimes_RT the_AT fog_NN1 will_VM help_VVI defuse_VVI the_AT light_JJ_NN1 decreasing_JJ_VVG harsh_JJ lighting_NN1 conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   63 You may want to bring along a UV filter as well .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   63 You_PPY may_VM want_VVI to_TO bring_VVI along_RP_II a_AT1 UV_JJ filter_NN1 as_RR21_RG well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   64 Above all else , it 's just an amazing experience .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   64 Above_II all_DB else_RR ,_Y it_PPH1 's_VBZ just_RR an_AT1 amazing_JJ experience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   65 Any mention of products or services in this article or anywhere else in the PSA Journal does not constitute an endorsement or approval of those items .
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   65 Any_DD mention_NN1 of_IO products_NN2 or_CC services_NN2 in_II this_DD1 article_NN1 or_CC anywhere_RL else_RR in_II the_AT PSA_NP1 Journal_NN1 does_VDZ not_XX constitute_VVI an_AT1 endorsement_NN1 or_CC approval_NN1 of_IO those_DD2 items_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  A    0   66 PHOTO ( COLOR ) : Seals mating PHOTO ( COLOR ) : Sunset , Highway 1 PHOTO ( COLOR ) : Relaxing PHOTO ( COLOR ) : Males sparring By John Crippen , Atascadero , CA
+SENTPOS COCA_acad_wlp_2009_08_FILE##4080184 COCA  B    0   66 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Seals_VVZ_NN2 mating_JJ_VVG PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Sunset_NN1 ,_Y Highway_NN1 1_MC1 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Relaxing_JJ_VVG PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Males_NN2 sparring_VVG By_II John_NP1 Crippen_NP1 ,_Y Atascadero_NP1_NN1 ,_Y CA_NP1@_VM

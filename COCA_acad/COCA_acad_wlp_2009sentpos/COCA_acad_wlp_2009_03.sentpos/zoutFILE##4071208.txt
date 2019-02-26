@@ -1,0 +1,312 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    0 AS A CHARTER MEMBER of International Thriller Writers , Inc .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    0 AS_CSA_II A_ZZ1_AT1@ CHARTER_NN1 MEMBER_NN1 of_IO International_JJ Thriller_NN1 Writers_NN2 ,_Y Inc_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    1 , ( ITW ) I can tell you that the field of thriller writing has burgeoned and commands respect .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    1 ,_Y (_Y ITW_NP1 )_Y I_PPIS1 can_VM tell_VVI you_PPY that_CST the_AT field_NN1 of_IO thriller_NN1 writing_NN1 has_VHZ burgeoned_VVN and_CC commands_VVZ_NN2 respect_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    2 No longer marginalized at mystery conventions , thriller writers and fans now have their own organization--and its membership continues to soar .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    2 No_XX longer_RR22 marginalized_VVD_VVN@ at_II mystery_NN1 conventions_NN2 ,_Y thriller_NN1 writers_NN2 and_CC fans_NN2_VVZ@ now_RT have_VH0 their_APPGE own_DA organization--and_CC its_Z' membership_NN1 continues_VVZ to_TO soar_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    3 And the demand for thrillers is great , as evidenced by the fact that nearly every bestseller list includes at least one thriller title .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    3 And_CC the_AT demand_NN1 for_IF thrillers_NN2 is_VBZ great_JJ ,_Y as_CSA evidenced_VVN by_II the_AT fact_NN1 that_CST nearly_RR every_AT1 bestseller_NN1 list_NN1 includes_VVZ at_RR21 least_RR22 one_MC1 thriller_NN1 title_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    4 So it ' s understandable why beginning writers are humming to join the scene-why they sign up in droves for thriller-writing workshops .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    4 So_RR it_PPH1 '_"@_GE s_ZZ1 understandable_JJ why_RRQ beginning_NN1 writers_NN2 are_VBR humming_VVG to_TO join_VVI the_AT scene-why_RRQ they_PPHS2 sign_VV0 up_RP in_II droves_NN2 for_IF thriller-writing_JJ_NN1 workshops_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    5 But before outlining some basics of a successful thriller , let me clear away some confusion .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    5 But_CCB before_II outlining_VVG some_DD basics_NN2 of_IO a_AT1 successful_JJ thriller_NN1 ,_Y let_VV0 me_PPIO1 clear_RR@_JJ away_RL some_DD confusion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    6 Thrillers are often lumped together with mysteries , with which they share some characteristics , such as crime , violence , police-procedural matters , suspense , dramatic action , cliffhanger scene endings and romance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    6 Thrillers_NN2 are_VBR often_RR lumped_VVN together_RL with_IW mysteries_NN2 ,_Y with_IW which_DDQ they_PPHS2 share_VV0 some_DD characteristics_NN2 ,_Y such_II21 as_II22 crime_NN1 ,_Y violence_NN1 ,_Y police-procedural_JJ matters_NN2 ,_Y suspense_NN1 ,_Y dramatic_JJ action_NN1 ,_Y cliffhanger_VV0_NN1 scene_NN1 endings_NN2 and_CC romance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    7 But some fundamental differences distinguish the two genres and the respective writing strategies .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    7 But_CCB some_DD fundamental_JJ differences_NN2 distinguish_VV0 the_AT two_MC genres_NN2 and_CC the_AT respective_JJ writing_NN1 strategies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    8 Mysteries are about solving crimes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    8 Mysteries_NN2 are_VBR about_II solving_VVG_NN1 crimes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0    9 Thrillers are about preventing them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0    9 Thrillers_NN2 are_VBR about_II preventing_VVG them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   10 In mysteries something bad has already happened--like that story is driven by detection , the methodical piecing together of clues until the hero nabs the villain at the end .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   10 In_II mysteries_NN2 something_PN1 bad_JJ_RR% has_VHZ already_RR happened--like_JJ that_CST_DD1 story_NN1 is_VBZ driven_VVN by_II detection_NN1 ,_Y the_AT methodical_JJ piecing_VVG together_RL of_IO clues_NN2 until_CS_II@ the_AT hero_NN1 nabs_VVZ the_AT villain_NN1 at_II the_AT end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   11 Thus , mysteries are by definition intellectual exercises--whodunits .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   11 Thus_RR ,_Y mysteries_NN2 are_VBR by_II definition_NN1 intellectual_NN1_JJ exercises--whodunits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   12 In thrillers , however , something bad is about to happen , and readers and protagonists alike may know who the villains are and where and when the mayhem will take place .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   12 In_II thrillers_NN2 ,_Y however_RR ,_Y something_PN1 bad_JJ is_VBZ about_RPK to_TO happen_VVI ,_Y and_CC readers_NN2 and_CC protagonists_NN2 alike_RR may_VM know_VVI who_PNQS the_AT villains_NN2 are_VBR and_CC where_RRQ_CS and_CC when_CS_RRQ the_AT mayhem_NN1 will_VM take_VVI place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   13 The whole story is about good guys doing what they can to stop that .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   13 The_AT whole_JJ story_NN1 is_VBZ about_II_RG% good_JJ guys_NN2 doing_VDG what_DDQ they_PPHS2 can_VV0%_VM to_TO stop_VVI that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   14 And now for the basics 1 Let dread drive your thriller .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   14 And_CC now_RT for_IF the_AT basics_NN2 1_MC1 Let_VV0 dread_NN1_VV0 drive_VVI your_APPGE thriller_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   15 Since every thriller is about stopping someone else ' s scheme of mayhem , the protagonists invariably find innocent people and themselves in danger .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   15 Since_CS every_AT1 thriller_NN1 is_VBZ about_II stopping_VVG someone_PN1 else_RR '_GE s_ZZ1 scheme_NN1 of_IO mayhem_NN1 ,_Y the_AT protagonists_NN2 invariably_RR find_VV0 innocent_JJ people_NN and_CC themselves_PPX2 in_II danger_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   16 Thus , the engine that drives all thrillers is dread .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   16 Thus_RR ,_Y the_AT engine_NN1 that_CST_DD1 drives_VVZ all_DB thrillers_NN2 is_VBZ dread_NN1_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   17 It ' s what propels James Bond in every Ian Fleming tale , or Clarice Starling in Thomas Harris ' The Silence of the Lambs , or , on a yet smaller canvas , what keeps Paul Sheldon writing for his life in Stephen King ' s classic Misery .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   17 It_NN1%_PPH1 '_VBZ s_ZZ1 what_DDQ propels_VVZ James_NP1 Bond_NP1 in_II every_AT1 Ian_NP1 Fleming_NP1 tale_NN1 ,_Y or_CC Clarice_NP1 Starling_NN1 in_II Thomas_NP1 Harris_NP1 '_GE The_AT Silence_NN1 of_IO the_AT Lambs_NN2 ,_Y or_CC ,_Y on_II a_AT1 yet_RR smaller_JJR canvas_NN1 ,_Y what_DDQ keeps_VVZ Paul_NP1 Sheldon_NP1 writing_NN1_VVG for_IF his_APPGE life_NN1 in_II Stephen_NP1 King_NP1@_NN1 '_GE s_ZZ1 classic_JJ Misery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   18 So if you want to write a thriller , be certain vicariously , the reader .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   18 So_RR if_CS you_PPY want_VV0 to_TO write_VVI a_AT1 thriller_NN1 ,_Y be_VBI certain_JJ vicariously_RR ,_Y the_AT reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   19 Dread puts the protagonist on edge , makes him feel lost , desperate , even threatened with failure and death .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   19 Dread_NN1 puts_VVZ the_AT protagonist_NN1 on_II edge_NN1 ,_Y makes_VVZ him_PPHO1 feel_VVI lost_VVN_JJ@ ,_Y desperate_JJ ,_Y even_RR threatened_VVN_VVD with_IW failure_NN1 and_CC death_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   20 These are emotions readers can empathize with , and reader empathy is fundamental to the story ' s success .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   20 These_DD2 are_VBR emotions_NN2 readers_NN2 can_VM empathize_VVI with_IW ,_Y and_CC reader_NN1 empathy_NN1 is_VBZ fundamental_JJ to_II the_AT story_NN1 '_GE s_ZZ1 success_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   21 We feel for Clarice ; we fear for Paul in his horrible captivity at the hands of a homicidal fan. 2 Write about the underdog .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   21 We_PPIS2 feel_VV0 for_IF Clarice_NP1_NN1@ ;_Y we_PPIS2 fear_VV0 for_IF Paul_NP1 in_II his_APPGE horrible_JJ captivity_NN1 at_II the_AT hands_NN2 of_IO a_AT1 homicidal_JJ fan._NNU 2_MC Write_VV0 about_II the_AT underdog_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   22 The villain is arguably the most important character in a thriller .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   22 The_AT villain_NN1 is_VBZ arguably_RR the_AT most_RGT important_JJ character_NN1 in_II a_AT1 thriller_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   23 Why ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   23 Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   24 Because the villain provides the story its plot and goal : preventing mayhem .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   24 Because_CS the_AT villain_NN1 provides_VVZ the_AT story_NN1 its_Z' plot_NN1 and_CC goal_NN1 :_Y preventing_VVG mayhem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   25 He or she initiates the action , while the protagonist gives the story character--someone with whom readers need to empathize .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   25 He_PPHS1 or_CC she_PPHS1 initiates_VVZ the_AT action_NN1 ,_Y while_CS the_AT protagonist_NN1 gives_VVZ the_AT story_NN1 character--someone_PN1 with_IW whom_PNQO readers_NN2 need_VV0 to_TO empathize_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   26 So make your protagonist somebody with the most to lose .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   26 So_RR make_VV0 your_APPGE protagonist_NN1 somebody_PN1 with_IW the_AT most_RRT@ to_TO lose_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   27 We all love the underdog--someone we ' re emotionally bound to ; someone with a lot of painful baggage ; someone who must also fight her own demons before she saves the day .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   27 We_PPIS2 all_DB love_VV0 the_AT underdog--someone_PN1 we_PPIS2 '_GE_"@ re_II emotionally_RR bound_VVN_VVD to_II_TO ;_Y someone_PN1 with_IW a_AT1 lot_NN1 of_IO painful_JJ baggage_NN1 ;_Y someone_PN1 who_PNQS must_VM also_RR fight_VVI her_APPGE own_DA demons_NN2 before_CS she_PPHS1 saves_VVZ the_AT day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   28 From the start , Clarice Starling has everything going against her : She ' s female in the male-dominated FBI ; she ' s self-conscious of her rube roots , as Hannibal Lecter reminds her at the onset ; she ' s walking wounded over the murder of her father when she was 14 ; and she is haunted by the screaming of slaughtered lambs from childhood .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   28 From_II the_AT start_NN1 ,_Y Clarice_NP1 Starling_NN1 has_VHZ everything_PN1 going_VVG against_II her_PPHO1 :_Y She_PPHS1 '_"@_GE s_ZZ1 female_JJ_NN1 in_II the_AT male-dominated_JJ_NN1 FBI_NP1 ;_Y she_PPHS1 '_"@_GE s_ZZ1 self-conscious_JJ of_IO her_APPGE rube_NN1 roots_NN2 ,_Y as_CSA Hannibal_NP1 Lecter_NP1 reminds_VVZ her_PPHO1 at_II the_AT onset_NN1 ;_Y she_PPHS1 '_"@_GE s_ZZ1 walking_NN1_VVG wounded_VVN_VVD_JJ over_II_RP the_AT murder_NN1 of_IO her_APPGE father_NN1 when_CS_RRQ she_PPHS1 was_VBDZ 14_MC ;_Y and_CC she_PPHS1 is_VBZ haunted_VVN by_II the_AT screaming_NN1@ of_IO slaughtered_JJ% lambs_NN2 from_II childhood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   29 Worse , she must stop a serial killer who skins his female victims .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   29 Worse_JJR_RRR@ ,_Y she_PPHS1 must_VM stop_VVI a_AT1 serial_JJ_NN1 killer_NN1 who_PNQS skins_VVZ@ his_APPGE female_JJ_NN1 victims_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   30 Worse still , she must confide in the infamous **43;2812;TOOLONG who knows Buffalo Bill ' s identity but likes playing mind games .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   30 Worse_JJR_RRR@ still_RR ,_Y she_PPHS1 must_VM confide_VVI in_II the_AT infamous_JJ **43;2812;TOOLONG_FU who_PNQS knows_VVZ Buffalo_NP1 Bill_NP1 '_GE s_ZZ1 identity_NN1 but_CCB likes_VVZ_NN2 playing_VVG mind_NN1 games_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   31 Against all those odds , she must demonstrate strength , integrity and moral values while trying to nab the killer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   31 Against_II all_DB those_DD2 odds_NN2 ,_Y she_PPHS1 must_VM demonstrate_VVI strength_NN1 ,_Y integrity_NN1 and_CC moral_JJ values_NN2 while_CS trying_VVG to_TO nab_VVI the_AT killer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   32 When she does , we cheer. 3 Use multiple points of view .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   32 When_CS_RRQ she_PPHS1 does_VDZ ,_Y we_PPIS2 cheer._NNU 3_MC Use_VV0_NN1 multiple_JJ_NN1 points_NN2 of_IO view_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   33 Most thrillers employ multiple POVs because of the various advantages .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   33 Most_DAT thrillers_NN2 employ_VV0 multiple_JJ POVs_NP2 because_II21 of_II22 the_AT various_JJ advantages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   34 First , having four or five POVs lets you flesh out secondary characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   34 First_MD ,_Y having_VHG four_MC or_CC five_MC POVs_NP2 lets_Z' you_PPY flesh_NN1 out_RP_II% secondary_JJ_NN1 characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   35 Every character thinks the story is about him or her , and each has distinct motives , desires and fears--especially villains .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   35 Every_AT1 character_NN1 thinks_VVZ the_AT story_NN1 is_VBZ about_II him_PPHO1 or_CC her_PPHO1 ,_Y and_CC each_DD1 has_VHZ distinct_JJ motives_NN2 ,_Y desires_NN2_VVZ and_CC fears--especially_NN2 villains_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   36 No real villain looks in the mirror and says , " That ' s the face of evil .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   36 No_XX real_JJ villain_NN1 looks_VVZ in_II the_AT mirror_NN1 and_CC says_VVZ ,_Y "_Y That_DD1 '_VBZ s_ZZ1 the_AT face_NN1 of_IO evil_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   37 " Instead , they have sweet-smelling reasons privileged childhoods ; they were abused , deprived ; they were at odds with society , the law , nature , God .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   37 "_Y Instead_RR ,_Y they_PPHS2 have_VH0 sweet-smelling_JJ reasons_NN2 privileged_JJ childhoods_NN2 ;_Y they_PPHS2 were_VBDR abused_VVN ,_Y deprived_VVD_VVN_JJ ;_Y they_PPHS2 were_VBDR at_II odds_NN2 with_IW society_NN1 ,_Y the_AT law_NN1 ,_Y nature_NN1 ,_Y God_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   38 Thus they feel entitled to get back , to make up for perceived injustices .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   38 Thus_RR they_PPHS2 feel_VV0 entitled_VVN to_TO get_VVI back_RP ,_Y to_TO make_VVI up_RP for_IF perceived_JJ@ injustices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   39 In The Silence of the Lambs , we hear Buffalo Bill tell his dog that when he skins his next victim he will complete a girl suit so he can be pretty like his mother .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   39 In_II The_AT Silence_NN1 of_IO the_AT Lambs_NN2 ,_Y we_PPIS2 hear_VV0 Buffalo_NP1 Bill_NP1 tell_VV0 his_APPGE dog_NN1 that_CST when_CS he_PPHS1 skins_VVZ@ his_APPGE next_MD victim_NN1 he_PPHS1 will_VM complete_VVI a_AT1 girl_NN1 suit_NN1_VV0 so_CS@_RR he_PPHS1 can_VM be_VBI pretty_JJ_RG like_II his_APPGE mother_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   40 Creepy as that is , we sense his twisted motives and transgender cravings as his character takes shape .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   40 Creepy_JJ as_II@_CSA that_REX21 is_REX22 ,_Y we_PPIS2 sense_VV0@ his_APPGE twisted_JJ motives_NN2 and_CC transgender_VV0_NN1 cravings_NN2 as_CSA_II@ his_APPGE character_NN1 takes_VVZ shape_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   41 Second , multiple POVs create dramatic tension .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   41 Second_MD ,_Y multiple_JJ POVs_NP2 create_VV0 dramatic_JJ tension_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   42 If readers are privy to a villain ' s plans , if they know more than the protagonist , suspense is intensified and the sense of dread ratcheted up as the villain closes in on his prey .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   42 If_CS readers_NN2 are_VBR privy_JJ to_II a_AT1 villain_NN1 '_GE s_ZZ1 plans_NN2_VVZ ,_Y if_CS they_PPHS2 know_VV0 more_DAR_RRR than_CSN the_AT protagonist_NN1 ,_Y suspense_NN1 is_VBZ intensified_VVN_JJ and_CC the_AT sense_NN1 of_IO dread_NN1 ratcheted_VVD up_RP as_II_CSA the_AT villain_NN1 closes_VVZ in_RP@ on_II his_APPGE prey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   43 Third , multiple POVs create dramatic irony .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   43 Third_MD ,_Y multiple_JJ POVs_NP2 create_VV0 dramatic_JJ irony_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   44 Characters have different takes on other characters .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   44 Characters_NN2 have_VH0 different_JJ takes_VVZ on_RP other_JJ characters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   45 In Dennis Lehane ' s Mystic River , Dave Boyle ruminates on his secret killing of a pedophile the same night that Katie , the daughter of his ex-con friend Jimmy Marcus , is hear Celeste Boyle ' s interior agony as she breaks down and tells Jimmy Marcus that she suspects her husband , Dave , killed Katie .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   45 In_II Dennis_NP1 Lehane_NP1 '_GE s_ZZ1 Mystic_NP1 River_NNL1 ,_Y Dave_NP1 Boyle_NP1 ruminates_VVZ on_II_RP@ his_APPGE secret_JJ_NN1 killing_NN1 of_IO a_AT1 pedophile_NN1 the_AT same_DA night_NNT1 that_CST Katie_NP1 ,_Y the_AT daughter_NN1 of_IO his_APPGE ex-con_NN1 friend_NN1 Jimmy_NP1 Marcus_NP1 ,_Y is_VBZ hear_VV0 Celeste_NP1 Boyle_NP1 '_GE s_ZZ1 interior_JJ agony_NN1 as_CSA she_PPHS1 breaks_VVZ down_RP and_CC tells_VVZ Jimmy_NP1 Marcus_NP1 that_CST she_PPHS1 suspects_VVZ her_APPGE husband_NN1 ,_Y Dave_NP1 ,_Y killed_VVD_VVN Katie_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   46 That creates an " Oh no !
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   46 That_DD1 creates_VVZ an_AT1 "_Y Oh_UH no_UH !_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   47 " moment and dread of the inevitable tragedy to come .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   47 "_Y moment_NN1 and_CC dread_NN1 of_IO the_AT inevitable_JJ tragedy_NN1 to_TO come_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   48 Fourth , multiple POVs allow alternate characters to supply important exposition and technical information .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   48 Fourth_MD ,_Y multiple_JJ POVs_NP2 allow_VV0 alternate_JJ characters_NN2 to_TO supply_VVI important_JJ exposition_NN1 and_CC technical_JJ information_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   49 For example , it is through the interior reflections of Hannibal Lecter that we learn his connection to Buffalo Bill .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   49 For_REX21 example_REX22 ,_Y it_PPH1 is_VBZ through_II the_AT interior_JJ_NN1 reflections_NN2 of_IO Hannibal_NP1 Lecter_NP1 that_CST we_PPIS2 learn_VV0 his_APPGE connection_NN1 to_II Buffalo_NP1 Bill_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   50 This strategy spares the author from compromising the action scenes or gumming up the pacing with such details .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   50 This_DD1 strategy_NN1 spares_VVZ@_NN2 the_AT author_NN1 from_II compromising_VVG the_AT action_NN1 scenes_NN2 or_CC gumming_VVG up_RP_II@ the_AT pacing_VVG with_IW such_DA details_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   51 As a writer , you don ' t want your protagonist to explain how plastic explosives work while he ' s running from them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   51 As_CSA a_AT1 writer_NN1 ,_Y you_PPY don_VD '_GE t_ZZ1 want_VV0 your_APPGE protagonist_NN1 to_TO explain_VVI how_RRQ plastic_NN1 explosives_NN2 work_VV0 while_CS he_PPHS1 '_"@_GE s_ZZ1 running_VVG_JJ_NN1 from_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   52 Caveat : Stick to one character POV per scene .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   52 Caveat_NN1 :_Y Stick_VV0_NN1 to_II one_MC1 character_NN1 POV_NP1 per_II scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   53 Don ' t toggle from one to the other .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   53 Don_NP1 '_GE t_ZZ1 toggle_NN1_VV0@ from_II one_PN1_MC1 to_II the_AT other_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   54 That ' s cheating and jarring .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   54 That_DD1 '_VBZ s_ZZ1 cheating_VVG_JJ@ and_CC jarring_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   55 Anchor every scene in a single mind ' s eye. 4 Open your book with action .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   55 Anchor_VV0@ every_AT1 scene_NN1 in_II a_AT1 single_JJ mind_NN1 '_GE s_ZZ1 eye._NNU 4_MC Open_VV0@_JJ your_APPGE book_NN1 with_IW action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   56 All thrillers are about preventing crime .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   56 All_DB thrillers_NN2 are_VBR about_II preventing_VVG crime_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   57 Thus , many open with violent or menacing action .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   57 Thus_RR ,_Y many_DA2 open_JJ_VV0 with_IW violent_JJ or_CC menacing_JJ action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   58 Why ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   58 Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   59 Because or get that bookstore browser to take your book to the cashier .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   59 Because_CS or_CC get_VV0 that_DD1 bookstore_NN1 browser_NN1 to_TO take_VVI your_APPGE book_NN1 to_II the_AT cashier_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   60 An action opener not only promises danger , dread and brisk pacing but should suggest what ' s at stake , possibly even the book ' s slant or themes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   60 An_AT1 action_NN1 opener_NN1 not_XX only_RR promises_VVZ danger_NN1 ,_Y dread_NN1_VV0 and_CC brisk_JJ pacing_VVG but_CCB should_VM suggest_VVI what_DDQ '_"@_GE s_ZZ1 at_II stake_NN1 ,_Y possibly_RR even_RR the_AT book_NN1 '_GE s_ZZ1 slant_NN1_VV0 or_CC themes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   61 The Da Vinci Code opens with the murder of the Louvre ' s chief curator and suggests religious esoterica .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   61 The_AT Da_NP1 Vinci_NP1 Code_NN1 opens_VVZ with_IW the_AT murder_NN1 of_IO the_AT Louvre_NP1 '_GE s_ZZ1 chief_JJ curator_NN1 and_CC suggests_VVZ religious_JJ esoterica_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   62 My own novel Skin Deep opens with the murder of a beautiful woman and projects the theme of deadly obsession .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   62 My_APPGE own_DA novel_JJ_NN1 Skin_NN1 Deep_RR_NN1@ opens_VVZ with_IW the_AT murder_NN1 of_IO a_AT1 beautiful_JJ woman_NN1 and_CC projects_VVZ@_NN2 the_AT theme_NN1 of_IO deadly_JJ obsession_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   63 Although ideally your thriller should create a sense of dread from the opening scene , it need not begin with a crime .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   63 Although_CS ideally_RR your_APPGE thriller_NN1 should_VM create_VVI a_AT1 sense_NN1 of_IO dread_NN1 from_II the_AT opening_NN1_JJ@ scene_NN1 ,_Y it_PPH1 need_VM@ not_XX begin_VVI with_IW a_AT1 crime_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   64 The Silence of the Lambs opens with Clarice being assigned to get a profile of serial killers from inmate " Hannibal the Cannibal " with the warning not to tell him anything personal .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   64 The_AT Silence_NN1 of_IO the_AT Lambs_NN2 opens_VVZ with_IW Clarice_NP1_NN1@ being_VBG assigned_VVN to_TO get_VVI a_AT1 profile_NN1 of_IO serial_JJ_NN1 killers_NN2 from_II inmate_NN1 "_Y Hannibal_NP1 the_AT Cannibal_NN1 "_Y with_IW the_AT warning_NN1 not_XX to_TO tell_VVI him_PPHO1 anything_PN1 personal_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   65 And Paul Sheldon is pulled out of a car accident and resuscitated by a clearly demented fan .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   65 And_CC Paul_NP1 Sheldon_NP1 is_VBZ pulled_VVN out_II21 of_II22 a_AT1 car_NN1 accident_NN1 and_CC resuscitated_VVD by_II a_AT1 clearly_RR demented_JJ fan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   66 In each initial scene , dread is established and so are the stakes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   66 In_II each_DD1 initial_JJ_NN1 scene_NN1 ,_Y dread_NN1_VV0 is_VBZ established_VVN and_CC so_RR are_VBR the_AT stakes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   67 Do not make the opening scene a " bio dump " Do not open with that for later .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   67 Do_VD0 not_XX make_VVI the_AT opening_NN1_JJ@ scene_NN1 a_AT1 "_Y bio_NN1 dump_NN1 "_Y Do_VD0 not_XX open_VVI with_IW that_CS22 for_IF later_JJR_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   68 The opening scene must be stripped to bare action .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   68 The_AT opening_NN1_JJ@ scene_NN1 must_VM be_VBI stripped_VVN to_TO bare_VVI action_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   69 Caveat : This does not , however , mean pedestrian prose .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   69 Caveat_NN1 :_Y This_DD1 does_VDZ not_XX ,_Y however_RR ,_Y mean_JJ_VV0 pedestrian_NN1 prose_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   70 You should create carefully polished narrative and dialogue to cue readers that despite the minimalism , you ' re no hack .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   70 You_PPY should_VM create_VVI carefully_RR polished_JJ_VVN_VVD narrative_NN1_JJ and_CC dialogue_NN1 to_II cue_NN1 readers_NN2 that_CST despite_II the_AT minimalism_NN1 ,_Y you_PPY '_GE_"@ re_II no_AT hack_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   71 And no more than 10 typed double-space pages .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   71 And_CC no_AT more_DAR than_CSN 10_MC typed_VVD_JJ@ double-space_JJ_NN1 pages_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   72 Your purpose is the fast grab. 5 Give your hero two quests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   72 Your_APPGE purpose_NN1 is_VBZ the_AT fast_JJ grab._NNU 5_MC Give_VV0 your_APPGE hero_NN1 two_MC quests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   73 From the outset , know what your main characters want and what they fear , because all conflict reduces to desire versus danger .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   73 From_II the_AT outset_NN1 ,_Y know_VV0 what_DDQ your_APPGE main_JJ characters_NN2 want_VV0 and_CC what_DDQ they_PPHS2 fear_VV0 ,_Y because_CS all_DB conflict_NN1 reduces_VVZ to_TO desire_VVI versus_II danger_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   74 Every good novel has two quests--what I call the Public Quest and Personal Quest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   74 Every_AT1 good_JJ novel_NN1 has_VHZ two_MC quests--what_NN2 I_PPIS1 call_VV0 the_AT Public_JJ_NN1 Quest_NN1 and_CC Personal_JJ Quest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   75 If your protagonist is an investigator , then his Public Quest is stopping the villain from doing evil .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   75 If_CS your_APPGE protagonist_NN1 is_VBZ an_AT1 investigator_NN1 ,_Y then_RT his_APPGE Public_JJ_NN1 Quest_NN1 is_VBZ stopping_VVG the_AT villain_NN1 from_II doing_VDG evil_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   76 But he should also be fighting private demons--guilt , grief , addictions , loneliness , etc. --and trying to be at a better place by the end of the Public Quest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   76 But_CCB he_PPHS1 should_VM also_RR be_VBI fighting_VVG private_JJ demons--guilt_NN2 ,_Y grief_NN1 ,_Y addictions_NN2 ,_Y loneliness_NN1 ,_Y etc._RA --and_CC trying_VVG to_TO be_VBI at_II a_AT1 better_JJR place_NN1 by_II the_AT end_NN1 of_IO the_AT Public_JJ_NN1 Quest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   77 This Personal Quest usually develops within the first third of the story and should climax with the Public Quest victory .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   77 This_DD1 Personal_JJ Quest_NN1 usually_RR develops_VVZ within_II the_AT first_MD third_MD of_IO the_AT story_NN1 and_CC should_VM climax_VVI with_IW the_AT Public_JJ_NN1 Quest_NN1 victory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   78 Clarice Starling ' s Public Quest Her Personal Quest is to rise above all the odds against her : inexperience , gender , hillbilly roots , loss , and the haunting screaming of the lambs .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   78 Clarice_VV0_NN1 Starling_NN1 '_GE s_ZZ1 Public_JJ Quest_NN1 Her_APPGE Personal_JJ Quest_NN1 is_VBZ to_TO rise_VVI above_II all_DB the_AT odds_NN2 against_II her_PPHO1 :_Y inexperience_NN1 ,_Y gender_NN1 ,_Y hillbilly_JJ@_RR roots_NN2_VVZ@ ,_Y loss_NN1 ,_Y and_CC the_AT haunting_JJ@_NN1@ screaming_NN1@ of_IO the_AT lambs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   79 Ironically she draws from her youth , femaleness , empathy , and her mother ' s strength to prove her worth as an agent .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   79 Ironically_RR she_PPHS1 draws_VVZ from_II her_APPGE youth_NN1 ,_Y femaleness_NN1 ,_Y empathy_NN1 ,_Y and_CC her_APPGE mother_NN1 '_GE s_ZZ1 strength_NN1 to_TO prove_VVI her_APPGE_PPHO1 worth_NN1@_II as_II_CSA an_AT1 agent_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   80 At the end , both quests climax at once as she gets her man with professional expedience .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   80 At_II the_AT end_NN1 ,_Y both_DB2 quests_NN2 climax_VV0 at_RR21 once_RR22 as_CSA she_PPHS1 gets_VVZ her_APPGE man_NN1 with_IW professional_JJ expedience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   81 Likewise , Paul Sheldon in Misery wants to escape Annie Wilkes ' captivity .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   81 Likewise_RR ,_Y Paul_NP1 Sheldon_NP1 in_II Misery_NN1 wants_VVZ to_TO escape_VVI Annie_NP1 Wilkes_NP1 '_GE captivity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   82 But soon he realizes that she plans to kill him and herself once he finishes the book she forces him to write .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   82 But_CCB soon_RR he_PPHS1 realizes_VVZ that_CST she_PPHS1 plans_VVZ to_TO kill_VVI him_PPHO1 and_CC herself_PPX1 once_CS@_RR he_PPHS1 finishes_VVZ the_AT book_NN1 she_PPHS1 forces_VVZ@ him_PPHO1 to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   83 So for the rest of the story , he decides at least he ' ll die a better writer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   83 So_RR for_IF the_AT rest_NN1 of_IO the_AT story_NN1 ,_Y he_PPHS1 decides_VVZ at_RR21 least_RR22 he_PPHS1 '_VBZ ll_NNU die_VV0 a_AT1 better_JJR writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   84 In the end , his typewriter proves to be the literal and figurative weapon that fulfills both quests .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   84 In_II the_AT end_NN1 ,_Y his_APPGE typewriter_NN1 proves_VVZ to_TO be_VBI the_AT literal_JJ and_CC figurative_JJ weapon_NN1 that_CST fulfills_VVZ_NN2 both_RR_DB2 quests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   85 It ' s this all-important Personal Quest where characters are fleshed out , where they re-examine their needs and desires , where they show their moral fiber and determination in conquering their demons .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   85 It_NN1%_PPH1 '_VBZ s_ZZ1 this_DD1_RG% all-important_JJ Personal_JJ Quest_NN1 where_RRQ_CS characters_NN2 are_VBR fleshed_VVN out_RP ,_Y where_CS_RRQ they_PPHS2 re-examine_VV0 their_APPGE needs_NN2 and_CC desires_NN2_VVZ ,_Y where_CS_RRQ they_PPHS2 show_VV0 their_APPGE moral_JJ fiber_NN1 and_CC determination_NN1 in_II conquering_VVG@ their_APPGE demons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   86 It ' s also where they your protagonist miserable .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   86 It_NN1%_PPH1 '_VBZ s_ZZ1 also_RR where_CS_RRQ they_PPHS2 your_APPGE protagonist_NN1 miserable_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   87 To show that your heroes have the right stuff , torment them .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   87 To_TO show_VVI that_CST your_APPGE heroes_NN2 have_VH0 the_AT right_JJ_NN1 stuff_NN1 ,_Y torment_VV0@ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   88 Fill their quests with false hope , anxiety , heartache and near-death experiences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   88 Fill_VV0 their_APPGE quests_NN2 with_IW false_JJ hope_NN1 ,_Y anxiety_NN1 ,_Y heartache_NN1 and_CC near-death_JJ_NN1 experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   89 Why ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   89 Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   90 Because readers love to see heroes suffer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   90 Because_CS readers_NN2 love_VV0 to_TO see_VVI heroes_NN2 suffer_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   91 We know they ' re going to win , but not until the end--not until they ' ve made it through the fires .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   91 We_PPIS2 know_VV0 they_PPHS2 '_GE_"@ re_II going_VVGK to_TO win_VVI ,_Y but_CCB not_XX until_CS_II@ the_AT end--not_ZZ until_CS they_PPHS2 '_GE ve_NN1 made_VVD_VVN it_PPH1 through_II the_AT fires_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   92 How they handle those struggles determines the strength--and richness--of their character .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   92 How_RRQ they_PPHS2 handle_VV0 those_DD2 struggles_NN2 determines_VVZ the_AT strength--and_CC richness--of_NN1 their_APPGE character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   93 By the end , they ' ve earned our respect and their happiness , and we can enjoy the catharsis .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   93 By_II the_AT end_NN1 ,_Y they_PPHS2 '_GE ve_NN1 earned_VVD_VVN our_APPGE respect_NN1 and_CC their_APPGE happiness_NN1 ,_Y and_CC we_PPIS2 can_VM enjoy_VVI the_AT catharsis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   94 Compounding the conflicts for your protagonists also provides the requisite plot with twists and turns that keep the reader engaged .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   94 Compounding_VVG the_AT conflicts_NN2 for_IF your_APPGE protagonists_NN2 also_RR provides_VVZ the_AT requisite_JJ_NN1 plot_NN1 with_IW twists_NN2 and_CC turns_VVZ that_CST keep_VV0 the_AT reader_NN1 engaged_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   95 Just as Lecter is about to reveal to Starling Buffalo Bill ' s true identity , a sleazy psychologist betrays her .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   95 Just_RR as_CSA Lecter_NP1 is_VBZ about_RPK to_TO reveal_VVI to_II Starling_NN1 Buffalo_NP1 Bill_NP1 '_GE s_ZZ1 true_JJ identity_NN1 ,_Y a_AT1 sleazy_JJ psychologist_NN1 betrays_VVZ her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   96 Lecter is turned off .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   96 Lecter_NP1 is_VBZ turned_VVN off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   97 Then Clarice is pulled off the case , forcing her to save the latest victim on her own .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   97 Then_RT Clarice_NP1_VV0@ is_VBZ pulled_VVN off_RP the_AT case_NN1 ,_Y forcing_VVG her_PPHO1 to_TO save_VVI the_AT latest_JJT victim_NN1 on_II her_APPGE own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   98 Likewise , King throws hurdle after hurdle at Paul Sheldon as Sheldon tries to finish his book .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   98 Likewise_RR ,_Y King_NN1_NP1@ throws_VVZ hurdle_NN1 after_II_CS hurdle_NN1 at_II Paul_NP1 Sheldon_NP1 as_CSA_II@ Sheldon_NP1 tries_VVZ to_TO finish_VVI his_APPGE book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0   99 Annie takes an axe to his keeps losing keys ; he ' s in constant pain and fear of his impending death ; and Annie turns out to be a serial killer who ' s dying to kill them both .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0   99 Annie_NP1 takes_VVZ an_AT1 axe_NN1 to_II his_APPGE keeps_VVZ losing_VVG_JJ@ keys_NN2 ;_Y he_PPHS1 '_"@_GE s_ZZ1 in_II constant_JJ pain_NN1 and_CC fear_NN1 of_IO his_APPGE impending_JJ death_NN1 ;_Y and_CC Annie_NP1 turns_VVZ out_RP to_TO be_VBI a_AT1 serial_JJ_NN1 killer_NN1 who_PNQS '_"@_GE s_ZZ1 dying_JJ_VVG to_TO kill_VVI them_PPHO2 both_DB2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  100 But he perseveres to write a better book and fight her to the death--hers. * 7 Make your hero a changed person .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  100 But_CCB he_PPHS1 perseveres_VVZ to_TO write_VVI a_AT1 better_JJR book_NN1 and_CC fight_VVI her_PPHO1 to_II the_AT death--hers._JJ *_FU 7_MC Make_VV0 your_APPGE hero_NN1 a_AT1 changed_JJ@ person_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  101 Given all you ' ve put your protagonist through , he or she should emerge a changed person at the end .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  101 Given_VVN all_DB you_PPY '_GE ve_NN1 put_VVD_VV0_VVN your_APPGE protagonist_NN1 through_RP@_II ,_Y he_PPHS1 or_CC she_PPHS1 should_VM emerge_VVI a_AT1 changed_JJ@ person_NN1 at_II the_AT end_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  102 Protagonists ' quests are not just rites of passage , but extraordinary learning experiences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  102 Protagonists_NN2 '_GE quests_NN2 are_VBR not_XX just_RR_JJ@ rites_NN2 of_IO passage_NN1 ,_Y but_CCB extraordinary_JJ learning_NN1 experiences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  103 So they must end up at a higher , better place .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  103 So_RR they_PPHS2 must_VM end_VVI up_RP at_II a_AT1 higher_JJR ,_Y better_JJR_RRR place_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  104 Paul Sheldon wears a prosthetic ; he still has nightmares about Annie Wilkes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  104 Paul_NP1 Sheldon_NP1 wears_VVZ a_AT1 prosthetic_JJ_NN1@ ;_Y he_PPHS1 still_RR has_VHZ nightmares_NN2 about_II Annie_NP1 Wilkes_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  105 But he ' s a better man and writer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  105 But_CCB he_PPHS1 '_"@_GE s_ZZ1 a_AT1 better_JJR man_NN1 and_CC writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  106 Likewise , Clarice Starling is stronger and more confident , and she has saved a lamb from slaughter .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  106 Likewise_RR ,_Y Clarice_NP1 Starling_NN1 is_VBZ stronger_JJR and_CC more_RGR confident_JJ ,_Y and_CC she_PPHS1 has_VHZ saved_VVN a_AT1 lamb_NN1 from_II slaughter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  107 Even Hannibal Lecter sends her a note of praise at the end. * 8 Pace your story .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  107 Even_RR Hannibal_NP1 Lecter_NP1 sends_VVZ her_PPHO1 a_AT1 note_NN1 of_IO praise_NN1 at_II the_AT end._NNU *_FU 8_MC Pace_VV0@_NN1 your_APPGE story_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  108 We ' re all put off at parties when a longwinded bore corners us .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  108 We_PPIS2 '_GE_"@ re_II all_DB put_VV0_VVD_VVN off_RP at_II parties_NN2 when_RRQ_CS a_AT1 longwinded_JJ@ bore_NN1 corners_NN2 us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  109 This is true of thrillers also .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  109 This_DD1 is_VBZ true_JJ of_IO thrillers_NN2 also_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  110 exposition or misplaced description , excessive character development , interior reflection and technical info , and not enough dramatic action--readers may grab another book .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  110 exposition_NN1 or_CC misplaced_JJ description_NN1 ,_Y excessive_JJ character_NN1 development_NN1 ,_Y interior_JJ_NN1 reflection_NN1 and_CC technical_JJ info_NN1 ,_Y and_CC not_XX enough_RR_DD dramatic_JJ action--readers_NN2 may_VM grab_VVI another_DD1 book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  111 The challenge is knowing how much is too much and where to lace in important exposition while maintaining narrative thrust .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  111 The_AT challenge_NN1 is_VBZ knowing_VVG how_RGQ@ much_DA1 is_VBZ too_RG much_DA1 and_CC where_RRQ to_II lace_NN1 in_II important_JJ exposition_NN1 while_CS maintaining_VVG narrative_JJ_NN1 thrust_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  112 However slight , each scene should have a new character disclosure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  112 However_RGQV_RRQV_RR slight_JJ ,_Y each_DD1 scene_NN1 should_VM have_VHI a_AT1 new_JJ character_NN1 disclosure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  113 Yet be certain such details relate to the plot or theme .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  113 Yet_RR be_VB0 certain_JJ such_DA details_NN2 relate_VV0 to_II the_AT plot_NN1 or_CC theme_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  114 If your protagonist likes tropical fish and the finny breed has nothing to do with the tale , then flush the fish .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  114 If_CS your_APPGE protagonist_NN1 likes_VVZ tropical_JJ fish_NN and_CC the_AT finny_JJ_NN1 breed_NN1 has_VHZ nothing_PN1 to_TO do_VDI with_IW the_AT tale_NN1 ,_Y then_RT flush_VV0 the_AT fish_NN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  115 Because thrillers are driven by dread , you need a ticking clock against which your protagonist must race to beat the villains .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  115 Because_CS thrillers_NN2 are_VBR driven_VVN by_II dread_NN1 ,_Y you_PPY need_VV0 a_AT1 ticking_NN1 clock_VVI against_II which_DDQ your_APPGE protagonist_NN1 must_VM race_VVI to_TO beat_VVI the_AT villains_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  116 That countdown creates your story ' s requisite urgency .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  116 That_DD1 countdown_NN1 creates_VVZ your_APPGE story_NN1 '_GE s_ZZ1 requisite_JJ urgency_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  117 Here are a couple of tips for fleshing out characters while not compromising the pacing ( see the sidebar on page 25 for more ) : " Alternate fast-action scenes with **26;2857;TOOLONG scenes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  117 Here_RL are_VBR a_AT1 couple_NN1 of_IO tips_NN2 for_IF fleshing_VVG out_RP characters_NN2 while_CS not_XX compromising_VVG the_AT pacing_VVG (_Y see_VV0 the_AT sidebar_NN1 on_II page_NN1 25_MC for_IF more_DAR_RRR )_Y :_Y "_Y Alternate_VV0_JJ fast-action_JJ_NN1 scenes_NN2 with_IW **26;2857;TOOLONG_NN1 scenes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  118 As in thriller movies , a wham-bam action scene is almost always followed by characters reflecting on matters , filling in background , etc. , while the audience relishes is to lace Private Quest material into a Public Quest scene .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  118 As_CSA in_II thriller_NN1 movies_NN2 ,_Y a_AT1 wham-bam_JJ_NN1 action_NN1 scene_NN1 is_VBZ almost_RR always_RR followed_VVN by_II characters_NN2 reflecting_VVG on_II_RP@ matters_NN2 ,_Y filling_VVG in_II background_NN1 ,_Y etc._RA ,_Y while_CS the_AT audience_NN1 relishes_VVZ is_VBZ to_II lace_NN1 Private_JJ_NN1@ Quest_NN1 material_NN1 into_II a_AT1 Public_JJ_NN1 Quest_NN1 scene_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  119 In Skin Deep , two homicide detectives return from an autopsy .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  119 In_II Skin_NN1 Deep_RR_NN1@ ,_Y two_MC homicide_NN1 detectives_NN2 return_VV0 from_II an_AT1 autopsy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  120 During a lull , one partner ' s discussion of the case segues to his personal problems .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  120 During_II a_AT1 lull_NN1 ,_Y one_MC1 partner_NN1 '_GE s_ZZ1 discussion_NN1 of_IO the_AT case_NN1 segues_VVZ_NN2 to_II his_APPGE personal_JJ problems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  121 So we get some take on the murder while glimpsing the conflicts that make up the Personal Quest .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  121 So_RR we_PPIS2 get_VV0 some_DD take_VV0 on_RP the_AT murder_NN1 while_CS glimpsing_VVG the_AT conflicts_NN2 that_CST make_VV0 up_RP the_AT Personal_JJ Quest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  122 ( These twin quests should never be far from each other. ) 9 Show , don ' t tell .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  122 (_Y These_DD2 twin_JJ@_NN1 quests_NN2 should_VM never_RR be_VBI far_RR_JJ from_II each_PPX221 other._PPX222 )_Y 9_MC Show_NN1_VV0 ,_Y don_VD '_GE t_ZZ1 tell_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  123 When you want to reveal an important aspect of a character , dramatize it .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  123 When_CS_RRQ you_PPY want_VV0 to_TO reveal_VVI an_AT1 important_JJ aspect_NN1 of_IO a_AT1 character_NN1 ,_Y dramatize_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  124 Readers want to be eyewitnesses to key plot developments .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  124 Readers_NN2 want_VV0 to_TO be_VBI eyewitnesses_NN2 to_TO key_VVI plot_NN1 developments_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  125 Instead of telling readers that in their first meeting Clarice Starling stood up to Hannibal Lecter , Harris writes a brilliant dialogue exchange through the cell bars .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  125 Instead_II21 of_II22 telling_VVG_JJ@ readers_NN2 that_CST in_II their_APPGE first_MD meeting_NN1 Clarice_NP1_NN1@ Starling_NN1 stood_VVD_VVN@ up_II21 to_II22 Hannibal_NP1 Lecter_NP1 ,_Y Harris_NP1 writes_VVZ a_AT1 brilliant_JJ dialogue_NN1 exchange_NN1 through_II the_AT cell_NN1 bars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  126 Following Lecter ' s scathing mockery of Clarice ' s student status and tube roots , she presses him to point his " high-powered intellect " at himself and explain why he kills and consumes his victims .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  126 Following_VVG_II@ Lecter_NP1 '_GE s_ZZ1 scathing_JJ mockery_NN1 of_IO Clarice_NP1 '_GE s_ZZ1 student_NN1 status_NN1 and_CC tube_NN1 roots_NN2 ,_Y she_PPHS1 presses_VVZ@ him_PPHO1 to_TO point_VVI his_APPGE "_Y high-powered_JJ_NN1 intellect_NN1 "_Y at_II himself_PPX1 and_CC explain_VV0 why_RRQ he_PPHS1 kills_VVZ and_CC consumes_VVZ his_APPGE victims_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  127 Her boldness is rewarded with Lecter giving her the first clue .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  127 Her_APPGE boldness_NN1 is_VBZ rewarded_VVN with_IW Lecter_NP1 giving_VVG her_PPHO1 the_AT first_MD clue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  128 In Misery , instead her hack a cop to death , then drive over him with her Lawn-Boy mower .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  128 In_II Misery_NN1 ,_Y instead_II21 her_PPHO1_APPGE hack_VV0_NN1 a_AT1 cop_NN1 to_II death_NN1 ,_Y then_RT drive_VV0 over_II_RP him_PPHO1 with_IW her_APPGE_PPHO1 Lawn-Boy_NP1 mower_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  129 Disgusting details , but high drama .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  129 Disgusting_JJ details_NN2 ,_Y but_CCB high_JJ drama_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  130 Yes , it ' s harder to do , but better writing also keeps up the pace and avoids long , dull summaries .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  130 Yes_UH ,_Y it_PPH1 '_"@_GE s_ZZ1 harder_RRR to_TO do_VDI ,_Y but_CCB better_RRR_JJR writing_VVG_NN1 also_RR keeps_VVZ up_RP_II@ the_AT pace_NN1 and_CC avoids_VVZ long_RR_JJ ,_Y dull_JJ summaries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  131 Never pass up scenes of high drama. 10 Teach us something .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  131 Never_RR pass_VV0 up_RP scenes_NN2 of_IO high_JJ drama._NNU 10_MC Teach_VV0 us_PPIO2 something_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  132 All novels should entertain and educate .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  132 All_DB novels_NN2 should_VM entertain_VVI and_CC educate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  133 But thrillers in particular are about inside information , secrets--the workings of the FBI , CIA , criminal forensics , etc .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  133 But_CCB thrillers_NN2 in_RR21 particular_RR22 are_VBR about_RP@_II_RG% inside_II_JJ@ information_NN1 ,_Y secrets--the_NN2 workings_NN2 of_IO the_AT FBI_NP1 ,_Y CIA_NP1 ,_Y criminal_JJ_NN1 forensics_NN2_NN1 ,_Y etc_RA ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  134 Depending on the slant , you should share your expertise and research with readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  134 Depending_II21 on_II22 the_AT slant_NN1 ,_Y you_PPY should_VM share_VVI your_APPGE expertise_NN1 and_CC research_NN1_VV0@ with_IW readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  135 Misery teaches us something about the writing process , how authors create ideas and strategies to engage readers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  135 Misery_NN1 teaches_VVZ us_PPIO2 something_PN1 about_II the_AT writing_NN1 process_NN1_VV0 ,_Y how_RRQ authors_NN2 create_VV0 ideas_NN2 and_CC strategies_NN2 to_TO engage_VVI readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  136 Harris ' novel teaches us about forensics , criminal minds and butterflies .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  136 Harris_NP1 '_GE novel_NN1 teaches_VVZ us_PPIO2 about_II forensics_NN2_NN1 ,_Y criminal_JJ_NN1 minds_NN2 and_CC butterflies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  137 Caveat : Know when too much technical detail is counterproductive .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  137 Caveat_NN1 :_Y Know_VV0 when_RRQ too_RG much_DA1_RR technical_JJ detail_NN1 is_VBZ counterproductive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  138 You don ' t want to blind your reader with science , for example , nor do you want to slow your story ' s pace with large blocks of explanation .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  138 You_PPY don_VD '_GE t_ZZ1 want_VV0 to_TO blind_VVI your_APPGE reader_NN1 with_IW science_NN1 ,_Y for_REX21 example_REX22 ,_Y nor_CC do_VD0 you_PPY want_VVI to_TO slow_VVI your_APPGE story_NN1 '_GE s_ZZ1 pace_NN1_VV0@ with_IW large_JJ blocks_NN2 of_IO explanation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  139 Research is seductive and sharing it is fun .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  139 Research_NN1 is_VBZ seductive_JJ and_CC sharing_VVG it_PPH1 is_VBZ fun_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  140 But you : More on pacing " AVOID lengthy explanations or exposition in action scenes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  140 But_CCB you_PPY :_Y More_RRR_DAR on_II pacing_VVG "_Y AVOID_VV0 lengthy_JJ explanations_NN2 or_CC exposition_NN1 in_II action_NN1 scenes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  141 Don ' t stop to explain how plastic explosives work while on a chase .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  141 Don_NP1 '_GE t_ZZ1 stop_VV0 to_TO explain_VVI how_RRQ plastic_NN1 explosives_NN2 work_VV0 while_CS_NNT1@ on_II a_AT1 chase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  142 " AVOID passive voice : " The screams could be heard in his bedroom " Versus : " He heard the screams in his bedroom .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  142 "_Y AVOID_VV0 passive_JJ voice_NN1 :_Y "_Y The_AT screams_NN2 could_VM be_VBI heard_VVN in_II his_APPGE bedroom_NN1 "_Y Versus_II :_Y "_Y He_PPHS1 heard_VVD the_AT screams_NN2 in_II his_APPGE bedroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  143 " " AVOID adverbs : " I don ' t want to talk about it , " she said angrily .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  143 "_Y "_Y AVOID_VV0 adverbs_NN2 :_Y "_Y I_MC1%_PPIS1 don_VD '_GE_"@ t_ZZ1 want_VV0 to_TO talk_VVI about_II it_PPH1 ,_Y "_Y she_PPHS1 said_VVD angrily_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  144 Versus : " I don ' t want to talk about it , " she said and smacked her hand on the table .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  144 Versus_II :_Y "_Y I_MC1%_PPIS1 don_VD '_GE_"@ t_ZZ1 want_VV0 to_TO talk_VVI about_II it_PPH1 ,_Y "_Y she_PPHS1 said_VVD and_CC smacked_VVD her_APPGE hand_NN1 on_II the_AT table_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  145 " MINIMIZE sentences beginning with adverbial or participial phrases : " Trying to determine the fastest way out of the cellar , Diane ran for the bulkhead .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  145 "_Y MINIMIZE_VV0 sentences_NN2 beginning_VVG with_IW adverbial_JJ or_CC participial_JJ phrases_NN2 :_Y "_Y Trying_VVG to_TO determine_VVI the_AT fastest_JJT way_NN1 out_II21 of_II22 the_AT cellar_NN1 ,_Y Diane_NP1 ran_VVD for_IF the_AT bulkhead_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  146 " Versus : " Diana ran for the bulkhead .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  146 "_Y Versus_II :_Y "_Y Diana_NP1 ran_VVD for_IF the_AT bulkhead_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  147 It was the fastest way out .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  147 It_PPH1 was_VBDZ the_AT fastest_JJT way_NN1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  148 " " WRITE short paragraphs in scenes of high drama .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  148 "_Y "_Y WRITE_VV0 short_JJ paragraphs_NN2 in_II scenes_NN2 of_IO high_JJ drama_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  149 They look faster on the page than big , thick ones .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  149 They_PPHS2 look_VV0 faster_RRR_JJR on_II the_AT page_NN1 than_CSN big_JJ ,_Y thick_JJ ones_Z' ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  150 " WRITE scenes ending with cliffhangers to keep readers reading .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  150 "_Y WRITE_VV0 scenes_NN2 ending_VVG with_IW cliffhangers_NN2 to_TO keep_VVI readers_NN2 reading_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  151 Consider : Surprises or provocative announcements : " ( Misery ) Epiphanies : " The son of a bitch can sew .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  151 Consider_VV0 :_Y Surprises_NN2 or_CC provocative_JJ announcements_NN2 :_Y "_Y (_Y Misery_NN1 )_Y Epiphanies_NP1_NN2 :_Y "_Y The_AT son_NN1 of_IO a_AT1 bitch_NN1 can_VM sew_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  152 " ( The Silence of the Lambs ) Someone from the past unexpectedly showing up : The gun-toting mother of the killer in Michael Connelly ' s The Lincoln Lawyer. --Gary Braver By Gary Braver Gary Braver is the author of seven critically acclaimed thrillers , including Skin Deep , Elixir , Gray Matter and Flashback , the only thriller to win a prestigious Massachusetts Book Award for Fiction , in 2006 .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  152 "_Y (_Y The_AT Silence_NN1 of_IO the_AT Lambs_NN2 )_Y Someone_PN1 from_II the_AT past_NN1_JJ unexpectedly_RR showing_VVG up_RP :_Y The_AT gun-toting_JJ_NN1 mother_NN1 of_IO the_AT killer_NN1 in_II Michael_NP1 Connelly_NP1 '_GE s_ZZ1 The_AT Lincoln_NP1 Lawyer._NP1 --Gary_NP1 Braver_JJR By_II Gary_NP1 Braver_JJR Gary_NP1 Braver_JJR is_VBZ the_AT author_NN1 of_IO seven_MC critically_RR acclaimed_JJ_VVN thrillers_NN2 ,_Y including_II_VVG@ Skin_NN1 Deep_RR_NN1@ ,_Y Elixir_NP1_NN1 ,_Y Gray_NP1_JJ@ Matter_NN1_VV0 and_CC Flashback_NP1_NN1 ,_Y the_AT only_JJ thriller_NN1 to_TO win_VVI a_AT1 prestigious_JJ Massachusetts_NP1 Book_NN1 Award_NN1 for_IF Fiction_NN1 ,_Y in_II 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  153 Three hove been optioned for movies .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  153 Three_MC hove_VVD been_VBN optioned_VVN@ for_IF movies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  154 Under his real name , Gary Goshgarian , he is a professor of English at Northeastern University and author of five writing textbooks .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  154 Under_II his_APPGE real_JJ name_NN1 ,_Y Gary_NP1 Goshgarian_JJ_NN1@ ,_Y he_PPHS1 is_VBZ a_AT1 professor_NN1 of_IO English_NN1_JJ at_II Northeastern_JJ University_NN1 and_CC author_NN1 of_IO five_MC writing_NN1_VVG textbooks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  A    0  155 Web : www. garybraver. com.
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071208 COCA  B    0  155 Web_NN1 :_Y www._ZZ garybraver._NNU com._NNU

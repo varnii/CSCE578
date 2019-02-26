@@ -1,0 +1,800 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    0 I birthed myself overnight into a family of seven .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    0 I_ZZ1%_MC1% birthed_VVD myself_PPX1 overnight_RT_JJ into_II a_AT1 family_NN1 of_IO seven_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    1 They didn ' t care that I came from across the sea , or that I neither looked nor acted like anyone in their bustling community .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    1 They_PPHS2 didn_VV0_NN1 '_"@_GE t_ZZ1 care_VV0_NN1 that_CST I_PPIS1 came_VVD from_II across_II_RL@ the_AT sea_NN1 ,_Y or_CC that_CST I_PPIS1 neither_RR looked_VVN_VVD nor_CC acted_VVN_VVD like_II anyone_PN1 in_II their_APPGE bustling_JJ community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    2 They just knew that I needed a place to call home .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    2 They_PPHS2 just_RR knew_VVD that_CST I_PPIS1 needed_VVD a_AT1 place_NN1 to_TO call_VVI home_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    3 During the several months I ' d spent in Ghana researching the slave trade , I ' d already lived in over three households .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    3 During_II the_AT several_DA2 months_NNT2 I_PPIS1 '_"@_GE d_ZZ1 spent_VVN_VVD in_II Ghana_NP1 researching_VVG the_AT slave_NN1 trade_NN1 ,_Y I_ZZ1%_MC1% '_GE d_ZZ1 already_RR lived_VVD_VVN in_RP@ over_RG three_MC households_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    4 The most recent family had swindled money from me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    4 The_AT most_RGT recent_JJ family_NN1 had_VHD swindled_VVN money_NN1 from_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    5 At first , I was reluctant to accept my boyfriend Ato ' s offer to board with his family in Elmina .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    5 At_RR21 first_RR22 ,_Y I_PPIS1 was_VBDZ reluctant_JJ to_TO accept_VVI my_APPGE boyfriend_NN1 Ato_NP1_NN1 '_GE s_ZZ1 offer_VV0_NN1 to_TO board_VVI with_IW his_APPGE family_NN1 in_II Elmina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    6 Besides being tired of the constant relocating , something about Elmina made me uneasy .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    6 Besides_RR_II being_VBG tired_JJ_VVN% of_IO the_AT constant_JJ_NN1@ relocating_NN1%_VVG ,_Y something_PN1 about_II Elmina_NP1 made_VVD me_PPIO1 uneasy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    7 Without Ato ' s offer , though , I would have abandoned my research there .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    7 Without_IW Ato_NP1_NN1 '_GE s_ZZ1 offer_VV0_NN1 ,_Y though_CS_RR@ ,_Y I_PPIS1 would_VM have_VHI abandoned_VVN my_APPGE research_NN1 there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    8 Ever since walking with my battered suitcases into their worn , cozy house on Trafalgar Square , I saw there was nothing to worry about .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    8 Ever_RR since_II walking_VVG with_IW my_APPGE battered_JJ suitcases_NN2 into_II their_APPGE worn_JJ@ ,_Y cozy_JJ house_NN1 on_II Trafalgar_NP1 Square_NNL1 ,_Y I_PPIS1 saw_VVD there_EX_RL was_VBDZ nothing_PN1 to_TO worry_VVI about_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0    9 His family immediately embraced me as daughter , sister , auntie , niece .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0    9 His_APPGE family_NN1 immediately_RR embraced_VVD_VVN me_PPIO1 as_II@_CSA daughter_NN1 ,_Y sister_NN1 ,_Y auntie_NN1 ,_Y niece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   10 If there ' s one thing that unites us I sometimes catch a Passions episode or a Ghanaian soap opera with Mum Ato ' s mother .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   10 If_CS there_RL '_VBZ s_ZZ1 one_MC1 thing_NN1 that_CST_DD1 unites_VVZ us_PPIO2 I_PPIS1 sometimes_RT catch_VV0 a_AT1 Passions_NN2 episode_NN1 or_CC a_AT1 Ghanaian_JJ soap_NN1 opera_NN1 with_IW Mum_NN1 Ato_NP1_NN1 '_GE s_ZZ1 mother_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   11 In the mornings , before my ten-year-old niece , Nana , leaves for school , she and I watch the GTV lineup : Ghanaian news , BBC news , the kids ' math and language enrichment programs , cartoons educating children about puberty and abuse , Ghanaian music videos .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   11 In_II the_AT mornings_NNT2 ,_Y before_CS_II my_APPGE ten-year-old_JJ niece_NN1 ,_Y Nana_NN1 ,_Y leaves_VVZ_NN2 for_IF school_NN1 ,_Y she_PPHS1 and_CC I_PPIS1 watch_VV0 the_AT GTV_NP1 lineup_NN1 :_Y Ghanaian_JJ news_NN1 ,_Y BBC_NP1 news_NN1 ,_Y the_AT kids_NN2 '_GE math_NN1 and_CC language_NN1 enrichment_NN1 programs_NN2 ,_Y cartoons_NN2 educating_VVG children_NN2 about_II puberty_NN1 and_CC abuse_NN1 ,_Y Ghanaian_JJ music_NN1 videos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   12 Nana is amused when I sing along with the commercial slogans advertising everything from Gold ' s mosquito coils and Tampico to Omo soap and Champion condoms .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   12 Nana_NN1 is_VBZ amused_JJ_VVN@ when_CS_RRQ I_PPIS1 sing_VV0 along_II21 with_II22 the_AT commercial_JJ slogans_NN2 advertising_VVG@ everything_PN1 from_II Gold_NN1 '_GE s_ZZ1 mosquito_NN1 coils_NN2 and_CC Tampico_NP1_NN1@ to_II Omo_NP1_NN1 soap_NN1 and_CC Champion_NN1_JJ@ condoms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   13 In one commercial that makes me uncomfortable , a Ghanaian man visits the U.S. embassy in Accra to try to get a visa .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   13 In_II one_MC1_PN1 commercial_JJ_NN1@ that_CST makes_VVZ me_PPIO1 uncomfortable_JJ ,_Y a_AT1 Ghanaian_JJ man_NN1 visits_VVZ@_NN2 the_AT U.S._NP1 embassy_NN1 in_II Accra_NP1 to_TO try_VVI to_TO get_VVI a_AT1 visa_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   14 He wears a T-shirt that advertises a particular brand of rice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   14 He_PPHS1 wears_VVZ a_AT1 T-shirt_NN1 that_CST_DD1 advertises_VVZ a_AT1 particular_JJ brand_NN1 of_IO rice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   15 The consular agent , a white woman , is entranced with him because she loves the rice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   15 The_AT consular_JJ agent_NN1 ,_Y a_AT1 white_JJ woman_NN1 ,_Y is_VBZ entranced_VVN@ with_IW him_PPHO1 because_CS she_PPHS1 loves_VVZ the_AT rice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   16 Next , the man and the white woman are bundled in winter coats in the States , arms around each other as fake snow falls .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   16 Next_MD ,_Y the_AT man_NN1 and_CC the_AT white_JJ woman_NN1 are_VBR bundled_VVN in_II winter_NNT1 coats_NN2 in_II the_AT States_NP1 ,_Y arms_NN2 around_II each_PPX221 other_PPX222 as_CSA_RG@ fake_JJ snow_NN1 falls_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   17 He chats on his cell phone with a friend in Ghana about how the " Such-and-such rice is so good , it can get you oburony " a white person , or a foreigner .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   17 He_PPHS1 chats_VVZ on_II_RP@ his_APPGE cell_NN1 phone_NN1 with_IW a_AT1 friend_NN1 in_II Ghana_NP1 about_II how_RRQ the_AT "_Y Such-and-such_J rice_NN1 is_VBZ so_RG_RR good_JJ ,_Y it_PPH1 can_VM get_VVI you_PPY oburony_NN1 "_Y a_AT1 white_JJ person_NN1 ,_Y or_CC a_AT1 foreigner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   18 Every time it comes on , I wonder what my new family thinks of me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   18 Every_AT1 time_NNT1 it_PPH1 comes_VVZ on_RP@ ,_Y I_PPIS1 wonder_VV0 what_DDQ my_APPGE new_JJ family_NN1 thinks_VVZ of_IO me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   19 Even though they call me Yaa the name for a Thursday-born woman and even though I ' m African American , I am still oburonyi .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   19 Even_CS21 though_CS22 they_PPHS2 call_VV0 me_PPIO1 Yaa_NP1 the_AT name_NN1 for_IF a_AT1 Thursday-born_JJ_NN1 woman_NN1 and_CC even_CS21 though_CS22 I_ZZ1% '_GE m_ZZ1_MC@ African_JJ American_JJ_NN1@ ,_Y I_PPIS1 am_VBM still_JJ@_RR oburonyi_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   20 After all , my accent is different from Ghanaians .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   20 After_II all_DB ,_Y my_APPGE accent_NN1 is_VBZ different_JJ from_II Ghanaians_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   21 My skin is much lighter .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   21 My_APPGE skin_NN1 is_VBZ much_RR_DA1 lighter_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   22 And try as I might to adapt to local culture , I haven ' t perfected it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   22 And_CC try_VV0 as_CSA I_PPIS1 might_VM to_TO adapt_VVI to_II local_JJ culture_NN1 ,_Y I_MC1%_PPIS1_ZZ1% haven_NN1 '_GE t_ZZ1 perfected_VVD_VVN it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   23 And then , Ato and I haven ' t advertised our relationship to the family .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   23 And_CC then_RT ,_Y Ato_NP1_NN1 and_CC I_MC1%_ZZ1%_PPIS1 haven_NN1 '_GE t_ZZ1 advertised_VVD_VVN our_APPGE relationship_NN1 to_II the_AT family_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   24 Would they treat me differently if they knew I was more than Ato ' s " sister " ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   24 Would_VM they_PPHS2 treat_VVI me_PPIO1 differently_RR if_CS they_PPHS2 knew_VVD I_PPIS1 was_VBDZ more_RRR_DAR than_CSN Ato_NP1 '_GE s_ZZ1 "_Y sister_NN1 "_Y ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   25 I ' ve already seen the family ' s confusion over what they must consider " Yaa ' s strange ways , " like my rolling out of bed at 9 : 00 , three hours after everyone else has awakened .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   25 I_ZZ1@_MC1@ '_GE ve_NN1 already_RR seen_VVN the_AT family_NN1 '_GE s_ZZ1 confusion_NN1 over_II what_DDQ they_PPHS2 must_VM consider_VVI "_Y Yaa_NP1 '_GE s_ZZ1 strange_JJ ways_NN2 ,_Y "_Y like_II my_APPGE rolling_JJ_NN1@_VVG out_II21 of_II22 bed_NN1 at_II 9_MC :_Y 00_MC ,_Y three_MC hours_NNT2 after_CS_II everyone_PN1 else_RR has_VHZ awakened_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   26 Like bathing only once each day , when the Ghanaians I ' ve lived with hand-wash all the stains out of my clothes , in the absence of washing machines .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   26 Like_II bathing_VVG only_RR_JJ once_RR_CS@ each_DD1 day_NNT1 ,_Y when_RRQ the_AT Ghanaians_NN2 I_ZZ1%_MC1% '_GE ve_NN1 lived_VVN_VVD with_IW hand-wash_NN1_JJ all_DB the_AT stains_NN2 out_II21 of_II22 my_APPGE clothes_NN2 ,_Y in_II the_AT absence_NN1 of_IO washing_VVG_NN1 machines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   27 The family also wonders why I ' m afraid of cockroaches .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   27 The_AT family_NN1 also_RR wonders_VVZ why_RRQ I_ZZ1% '_GE m_ZZ1_MC@ afraid_JJ of_IO cockroaches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   28 I was happily using the latrine until the night somebody replaced the light bulb in the stall .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   28 I_PPIS1 was_VBDZ happily_RR using_VVG the_AT latrine_NN1 until_CS_II@ the_AT night_NNT1 somebody_PN1 replaced_VVD_VVN the_AT light_NN1 bulb_NN1 in_II the_AT stall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   29 I didn ' t panic too much at the sight of the giant cockroach on the door , but little Nana still snickered at my reaction as she killed it for me with her flip-flop .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   29 I_MC1@_PPIS1 didn_NN1 '_GE t_ZZ1 panic_VV0@_NN1 too_RG much_DA1_RR at_II the_AT sight_NN1 of_IO the_AT giant_JJ_NN1 cockroach_NN1 on_II the_AT door_NN1 ,_Y but_CCB little_DA1_JJ Nana_NN1 still_RR snickered_VVD_VVN@ at_II my_APPGE reaction_NN1 as_CSA she_PPHS1 killed_VVD it_PPH1 for_IF me_PPIO1 with_IW her_APPGE flip-flop_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   30 A glance inside the stall revealed no more roaches , so I approached the waist-high cement platform , inside of which is a hole that leads deep into the ground .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   30 A_AT1_ZZ1 glance_NN1_VV0 inside_II the_AT stall_NN1 revealed_VVD_VVN no_AT more_DAR roaches_NN2 ,_Y so_CS@_RR I_PPIS1 approached_VVD the_AT waist-high_JJ cement_NN1 platform_NN1 ,_Y inside_NN1@_RL of_IO which_DDQ is_VBZ a_AT1 hole_NN1 that_CST_DD1 leads_VVZ deep_RR_JJ into_II the_AT ground_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   31 When I lifted the wooden cover , two finger-long cockroaches scampered out .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   31 When_CS_RRQ I_PPIS1 lifted_VVD the_AT wooden_JJ cover_NN1 ,_Y two_MC finger-long_JJ cockroaches_NN2 scampered_VVD out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   32 I screamed and fled the stall .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   32 I_PPIS1 screamed_VVD and_CC fled_VVD the_AT stall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   33 No one understood my horror when they suggested that I just " brush away " the roaches while squatting over the hole .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   33 No_XX one_PN122 understood_VVD my_APPGE horror_NN1 when_CS_RRQ they_PPHS2 suggested_VVD that_CST I_PPIS1 just_RR "_Y brush_VV0 away_RL "_Y the_AT roaches_NN2 while_CS squatting_VVG over_II_RP the_AT hole_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   34 Still , a few days later , Mum gave me a chamber pot to use in my bedroom after dark , when the roaches roam .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   34 Still_RR ,_Y a_AT1 few_DA2 days_NNT2 later_RRR ,_Y Mum_NN1 gave_VVD me_PPIO1 a_AT1 chamber_NN1 pot_NN1 to_TO use_VVI in_II_RP@ my_APPGE bedroom_NN1 after_II_CS dark_NN1_JJ ,_Y when_CS_RRQ the_AT roaches_NN2 roam_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   35 The only family member who ' s ' s tall and has a paunch .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   35 The_AT only_JJ family_NN1 member_NN1 who_PNQS '_"@_GE s_ZZ1 '_"@_GE s_ZZ1 tall_JJ and_CC has_VHZ a_AT1 paunch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   36 He chastised me in his booming voice one morning when I was eating breakfast .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   36 He_PPHS1 chastised_VVD me_PPIO1 in_II his_APPGE booming_JJ_NN1 voice_NN1 one_MC1 morning_NNT1 when_RRQ_CS I_PPIS1 was_VBDZ eating_VVG breakfast_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   37 I wore pants and sat with my legs cocked open , whereas Nana had her knees pressed together ladylike beneath the brown skirt of her school uniform .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   37 I_PPIS1 wore_VVD pants_NN2 and_CC sat_VVD with_IW my_APPGE legs_NN2 cocked_VVD_VVN open_JJ_RR@ ,_Y whereas_CS Nana_NN1 had_VHD her_APPGE knees_NN2 pressed_VVN together_RL ladylike_JJ beneath_II the_AT brown_JJ skirt_NN1 of_IO her_APPGE school_NN1 uniform_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   38 Little Uncle , on the other hand , is delighted by anything I do .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   38 Little_DA1_JJ Uncle_NN1 ,_Y on_II the_AT other_JJ hand_NN1 ,_Y is_VBZ delighted_VVN by_II anything_PN1 I_PPIS1 do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   39 His large , round eyes the only feature he shares with Big Uncle , his brother brighten whenever he sees me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   39 His_APPGE large_JJ ,_Y round_JJ_II eyes_NN2 the_AT only_JJ feature_NN1 he_PPHS1 shares_VVZ@ with_IW Big_JJ Uncle_NN1 ,_Y his_APPGE brother_NN1 brighten_VV0 whenever_RRQV he_PPHS1 sees_VVZ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   40 He even cheers with raised fists when I respond to his Fante greetings properly .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   40 He_PPHS1 even_RR cheers_NN2@ with_IW raised_JJ@ fists_NN2 when_RRQ_CS I_PPIS1 respond_VV0 to_II his_APPGE Fante_NN1 greetings_NN2 properly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   41 If , earlier in my stay in Ghana , I had to use a latrine stocked with newspaper instead of " T-roll , " take a cold bucket bath in the next stall when I ' m too lazy to use the heating coil , and see black squiggly things in the plastic barrels of water stored for bathing and tooth brushing , I probably would have freaked out .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   41 If_CS ,_Y earlier_RRR_JJR in_II my_APPGE stay_NN1@ in_II Ghana_NP1 ,_Y I_PPIS1 had_VHD to_TO use_VVI a_AT1 latrine_NN1 stocked_VVN_VVD with_IW newspaper_NN1 instead_II21 of_II22 "_Y T-roll_NN1 ,_Y "_Y take_VV0 a_AT1 cold_JJ bucket_NN1 bath_NN1 in_II the_AT next_MD stall_NN1_VV0 when_CS_RRQ I_ZZ1% '_GE m_MC@ too_RG_RR@ lazy_JJ to_TO use_VVI the_AT heating_NN1 coil_NN1_VV0 ,_Y and_CC see_VVI black_JJ squiggly_JJ things_NN2 in_II the_AT plastic_NN1 barrels_NN2 of_IO water_NN1 stored_VVN_VVD for_IF bathing_VVG and_CC tooth_NN1 brushing_VVG_NN1@ ,_Y I_PPIS1 probably_RR would_VM have_VHI freaked_VVN out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   42 If , when I first arrived , I had to share a home with so many people it all feels natural .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   42 If_CS ,_Y when_CS_RRQ I_PPIS1 first_MD arrived_VVD_VVN ,_Y I_PPIS1 had_VHD to_TO share_VVI a_AT1 home_NN1 with_IW so_RG many_DA2 people_NN it_PPH1 all_DB_RR@ feels_VVZ natural_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   43 It probably helps that I ' m treated like a guest , even though Ato has urged everyone not to .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   43 It_PPH1 probably_RR helps_VVZ that_CST I_ZZ1%_MC1% '_GE m_ZZ1_NNU@_MC@ treated_VVN like_II a_AT1 guest_NN1 ,_Y even_CS21 though_CS22 Ato_NP1_NN1 has_VHZ urged_VVN everyone_PN1 not_XX to_TO_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   44 Mum gives me large portions of food and extra meat or fish .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   44 Mum_NN1 gives_VVZ me_PPIO1 large_JJ portions_NN2 of_IO food_NN1 and_CC extra_JJ meat_NN1 or_CC fish_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   45 If I tell her I need to sweep , she calls Nana , who enters my room with the short palm-fiber broom and goes to work .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   45 If_CS I_PPIS1 tell_VV0 her_PPHO1 I_PPIS1 need_VV0 to_TO sweep_VVI ,_Y she_PPHS1 calls_VVZ Nana_NN1 ,_Y who_PNQS enters_VVZ my_APPGE room_NN1 with_IW the_AT short_JJ palm-fiber_JJ_NN1 broom_NN1 and_CC goes_VVZ to_II work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   46 I ' m not even allowed to iron my own clothes .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   46 I_ZZ1@_MC1@ '_GE m_MC@ not_XX even_RR allowed_VVN_VVD to_TO iron_VVI my_APPGE own_DA clothes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   47 When Mum catches me doing it , she calls the nearest family member to finish for me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   47 When_CS_RRQ Mum_NN1 catches_VVZ me_PPIO1 doing_VDG it_PPH1 ,_Y she_PPHS1 calls_VVZ the_AT nearest_JJT family_NN1 member_NN1 to_TO finish_VVI for_IF me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   48 They brush me aside without protest and finish the task .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   48 They_PPHS2 brush_VV0 me_PPIO1 aside_RL without_IW protest_NN1 and_CC finish_VV0 the_AT task_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   49 When I ' m with my family , Elmina is perfect .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   49 When_CS_RRQ I_ZZ1% '_GE m_ZZ1_MC@_NNU@ with_IW my_APPGE family_NN1 ,_Y Elmina_NP1 is_VBZ perfect_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   50 At least , it would be , if I never had to go outside .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   50 At_RR21 least_RR22 ,_Y it_PPH1 would_VM be_VBI ,_Y if_CS I_PPIS1 never_RR had_VHD to_TO go_VVI outside_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   51 " Buronyi , how are you ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   51 "_Y Buronyi_NN2_NP1@ ,_Y how_RRQ are_VBR you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   52 I ' m fine .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   52 I_ZZ1@_MC1@ '_GE m_ZZ1_MC@ fine_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   53 Thank you !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   53 Thank_VV0 you_PPY !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   54 " The children who trail me down the streets of Elmina , shouting the song every time I ' m outdoors , are as annoying as the mosquitoes that feast nightly on my ankles .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   54 "_Y The_AT children_NN2 who_PNQS trail_VV0 me_PPIO1 down_RP_II@ the_AT streets_NN2 of_IO Elmina_NP1 ,_Y shouting_VVG the_AT song_NN1 every_AT1 time_NNT1 I_ZZ1%_MC1%_PPIS1 '_GE m_MC@_ZZ1_NNU@ outdoors_RL_NN1 ,_Y are_VBR as_RG annoying_JJ as_CSA the_AT mosquitoes_NN2 that_CST_DD1 feast_NN1_VV0% nightly_RR_JJ on_II my_APPGE ankles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   55 I cringe to think about depositing myself in Elmina for my entire time in Ghana .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   55 I_PPIS1 cringe_VV0 to_TO think_VVI about_II_RP@ depositing_VVG myself_PPX1 in_II Elmina_NP1_NN1@ for_IF my_APPGE entire_JJ time_NNT1 in_II Ghana_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   56 I dreamt that as my interviews with the town ' s elders multiplied , I ' d gradually get to know many people and become part of the community .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   56 I_PPIS1 dreamt_VVD that_CST_DD1 as_CSA_II@ my_APPGE interviews_NN2 with_IW the_AT town_NN1 '_GE s_ZZ1 elders_NN2 multiplied_VVD_VVN ,_Y I_ZZ1%_MC1% '_GE d_ZZ1 gradually_RR get_VV0 to_TO know_VVI many_DA2 people_NN and_CC become_VVI part_NN1 of_IO the_AT community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   57 But after a few weeks of living there , I ' ve become locally famous .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   57 But_CCB after_CS_II a_AT1 few_DA2 weeks_NNT2 of_IO living_VVG_NN1 there_RL ,_Y I_ZZ1%_MC1% '_GE ve_NN1 become_VV0_VVN@ locally_RR famous_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   58 In a bad way .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   58 In_II a_AT1 bad_JJ way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   59 I now understand why celebrities get plastic surgery to change how they look .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   59 I_PPIS1 now_RT understand_VV0 why_RRQ celebrities_NN2 get_VV0 plastic_NN1 surgery_NN1 to_TO change_VVI how_RRQ they_PPHS2 look_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   60 I can ' t be anonymous in Elmina , and I don ' t think it ' s just because of my culture and body language .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   60 I_PPIS1_MC1@ can_VM_NN1% '_"@_GE t_ZZ1 be_VBI anonymous_JJ in_II Elmina_NP1 ,_Y and_CC I_MC1%_PPIS1_ZZ1% don_VD '_GE_"@ t_ZZ1 think_VV0 it_PPH1 '_"@_GE s_ZZ1 just_RR_JJ@ because_II21 of_II22 my_APPGE culture_NN1 and_CC body_NN1 language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   61 I think it ' s because of my cinnamon complexion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   61 I_PPIS1 think_VV0 it_PPH1 '_"@_GE s_ZZ1 because_II21 of_II22 my_APPGE cinnamon_NN1 complexion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   62 When I mentioned my difficulties to a Ghanaian friend of mine , she said that people also had a hard time adjusting to her when she lived in Europe and in the States .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   62 When_CS_RRQ I_PPIS1 mentioned_VVD my_APPGE difficulties_NN2 to_II a_AT1 Ghanaian_JJ friend_NN1 of_IO mine_PPGE ,_Y she_PPHS1 said_VVD that_CST people_NN also_RR had_VHN@_VHD a_AT1 hard_JJ time_NNT1 adjusting_VVG to_II her_PPHO1 when_CS_RRQ she_PPHS1 lived_VVD in_II Europe_NP1 and_CC in_II the_AT States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   63 On the surface , she asserted , we ' re all human , but our culture distinguishes us .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   63 On_II the_AT surface_NN1 ,_Y she_PPHS1 asserted_VVD ,_Y we_PPIS2 '_GE_"@ re_II all_DB human_JJ_NN1 ,_Y but_CCB our_APPGE culture_NN1 distinguishes_VVZ us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   64 And nuances are found even in the way we sit how we cross our legs if we cross them how we position .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   64 And_CC nuances_NN2 are_VBR found_VVN even_RR in_II the_AT way_NN1 we_PPIS2 sit_VV0 how_RRQ we_PPIS2 cross_VV0 our_APPGE legs_NN2 if_CS we_PPIS2 cross_VV0 them_PPHO2 how_RRQ we_PPIS2 position_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   65 One day , I decided to explain to her how we could be connected , even though I don ' t look like the average Ghanaian .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   65 One_MC1 day_NNT1 ,_Y I_PPIS1 decided_VVD to_TO explain_VVI to_II her_PPHO1 how_RRQ we_PPIS2 could_VM be_VBI connected_VVN ,_Y even_CS21 though_CS22 I_PPIS1_MC1% don_VV0_NN1 '_"@_GE t_ZZ1 look_VV0 like_II the_AT average_JJ_NN1 Ghanaian_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   66 " You know what ancestors are , right ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   66 "_Y You_PPY know_VV0 what_DDQ ancestors_NN2 are_VBR ,_Y right_RR_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   67 " I asked her .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   67 "_Y I_PPIS1 asked_VVD her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   68 " Your grandparents ' grandparents and all those before them .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   68 "_Y Your_APPGE grandparents_NN2 '_GE grandparents_NN2 and_CC all_DB those_DD2 before_II them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   69 Some of mine came from Africa .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   69 Some_DD of_IO mine_PPGE came_VVD from_II Africa_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   70 That means I ' m twntum black .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   70 That_DD1 means_VVZ_NN I_MC1%_ZZ1% '_GE m_ZZ1_MC@_NNU@ twntum_NN1 black_NN1@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   71 " She looked at me as though I had five eyes .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   71 "_Y She_PPHS1 looked_VVD at_II me_PPIO1 as_CS21 though_CS22 I_PPIS1 had_VHD five_MC eyes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   72 Pressing a gangly forearm to mine , she explained patiently , " HwE , Auntie Yaa , I am tuntum .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   72 Pressing_VVG a_AT1 gangly_JJ forearm_NN1 to_II mine_PPGE_NN1 ,_Y she_PPHS1 explained_VVD patiently_RR ,_Y "_Y HwE_NP1 ,_Y Auntie_NNB Yaa_NP1 ,_Y I_PPIS1 am_VBM tuntum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   73 You are red kOkOO .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   73 You_PPY are_VBR red_JJ kOkOO_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   74 " She pointed at my shoulders and ears , which the sun had made darker than the rest of me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   74 "_Y She_PPHS1 pointed_VVD at_II my_APPGE shoulders_NN2 and_CC ears_NN2 ,_Y which_DDQ the_AT sun_NN1 had_VHD made_VVN darker_JJR than_CSN the_AT rest_NN1 of_IO me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   75 " You are getting black there .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   75 "_Y You_PPY are_VBR getting_VVG black_JJ_NN1@ there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   76 " Okay , so Ghanaians think of " black " as a color and not necessarily as a " race .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   76 "_Y Okay_RR ,_Y so_CS@_RR Ghanaians_NN2 think_VV0 of_IO "_Y black_JJ_NN1@ "_Y as_II_CSA a_AT1 color_NN1 and_CC not_XX necessarily_RR as_II_CSA a_AT1 "_Y race_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   77 " After several months in Ghana , I ' d finally gotten that concept .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   77 "_Y After_CS_II several_DA2 months_NNT2 in_II Ghana_NP1 ,_Y I_ZZ1%_MC1% '_GE d_ZZ1 finally_RR gotten_VVN that_DD1 concept_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   78 But what about obibinyi , the term Ghanaians use for other black Africans ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   78 But_CCB what_DDQ about_II obibinyi_NN2 ,_Y the_AT term_NN1 Ghanaians_NN2 use_VV0 for_IF other_JJ black_JJ Africans_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   79 If other Ghanaians as ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   79 If_CS other_JJ Ghanaians_NN2 as_RG ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   80 Nana tapped a finger against her cheek and thought for a second .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   80 Nana_NN1 tapped_VVD_VVN a_AT1 finger_NN1 against_II her_APPGE cheek_NN1 and_CC thought_VVN_VVD_NN1 for_IF a_AT1 second_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   81 She shook her head vigorously .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   81 She_PPHS1 shook_VVD her_APPGE head_NN1 vigorously_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   82 " I have an auntie who is even fairer than you , but she is obibinyi .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   82 "_Y I_PPIS1 have_VH0 an_AT1 auntie_NN1 who_PNQS is_VBZ even_RR fairer_JJR than_CSN you_PPY ,_Y but_CCB she_PPHS1 is_VBZ obibinyi_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   83 You are not .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   83 You_PPY are_VBR not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   84 " I recalled that I had seen the rare light-skinned Ghanaian strolling through Trafalgar Square past their darker-hued neighbors , natural as rain on an overcast day .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   84 "_Y I_PPIS1 recalled_VVD that_CST I_PPIS1 had_VHD seen_VVN the_AT rare_JJ light-skinned_JJ Ghanaian_NN1@_JJ strolling_VVG through_II Trafalgar_NP1 Square_NNL1 past_II their_APPGE darker-hued_JJR neighbors_NN2 ,_Y natural_JJ_RR@ as_CSA_II@ rain_NN1 on_II an_AT1 overcast_JJ day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   85 So maybe it ' s not only my color that makes Ghanaians stare .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   85 So_RR maybe_RR it_PPH1 '_"@_GE s_ZZ1 not_XX only_RR my_APPGE color_NN1 that_CST_DD1 makes_VVZ Ghanaians_NN2 stare_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   86 But if there ' s one thing I could change about myself , I ' d do a reverse Michael Jackson : I ' d make myself darker .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   86 But_CCB if_CS there_RL '_VBZ s_ZZ1 one_MC1 thing_NN1 I_PPIS1 could_VM change_VVI about_II myself_PPX1 ,_Y I_ZZ1%_MC1% '_GE d_MC%_ZZ1 do_VD0 a_AT1 reverse_JJ_NN1 Michael_NP1 Jackson_NP1 :_Y I_MC1%_ZZ1%_PPIS1 '_GE_"@ d_ZZ1 make_VV0 myself_PPX1 darker_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   87 Ironically , before learning to appreciate my African ancestry , I wanted to be even lighter .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   87 Ironically_RR ,_Y before_II learning_VVG to_TO appreciate_VVI my_APPGE African_JJ ancestry_NN1 ,_Y I_PPIS1 wanted_VVD to_TO be_VBI even_RR lighter_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   88 Ghana could be a haven , then , for my dark-skinned brothers and sisters of the African Diaspora who walk in shame because others have convinced them that light is right .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   88 Ghana_NP1 could_VM be_VBI a_AT1 haven_NN1 ,_Y then_RT ,_Y for_IF my_APPGE dark-skinned_JJ brothers_NN2 and_CC sisters_NN2 of_IO the_AT African_JJ Diaspora_NN1 who_PNQS walk_VV0 in_II_RP@ shame_NN1 because_CS others_NN2 have_VH0 convinced_VVN them_PPHO2 that_DD1_CST light_NN1 is_VBZ right_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   89 There ' s no hope for me , though , because my skin has reached its maximum darkness .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   89 There_RL '_VBZ s_ZZ1 no_AT hope_NN1 for_IF me_PPIO1 ,_Y though_CS_RR@ ,_Y because_CS my_APPGE skin_NN1 has_VHZ reached_VVN its_Z' maximum_JJ_NN1 darkness_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   90 It ' s even begun to sunburn and peel light skin is the main thing that gets me singled out .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   90 It_NN1%_PPH1 '_VBZ s_ZZ1 even_RR begun_VVN to_II sunburn_NN1 and_CC peel_NN1_VV0 light_JJ_NN1 skin_NN1 is_VBZ the_AT main_JJ thing_NN1 that_CST_DD1 gets_VVZ me_PPIO1 singled_VVN out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   91 They ' ve responded by arguing that plenty of Ghanaians have my complexion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   91 They_PPHS2 '_GE ve_NN1 responded_VVN by_II arguing_VVG that_CST plenty_PN of_IO Ghanaians_NN2 have_VH0 my_APPGE complexion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   92 But I haven ' t seen nearly as much variation as in the States .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   92 But_CCB I_MC1%_PPIS1 haven_NN1 '_GE t_ZZ1 seen_VVN nearly_RR as_RG much_DA1 variation_NN1 as_CSA in_II the_AT States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   93 The " 31 flavors " of skin tones would hardly apply .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   93 The_AT "_Y 31_MC flavors_NN2 "_Y of_IO skin_NN1 tones_NN2 would_VM hardly_RR apply_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   94 The contrast between the average Ghanaian and me is stark .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   94 The_AT contrast_NN1 between_II the_AT average_JJ_NN1 Ghanaian_JJ_NN1@ and_CC me_PPIO1 is_VBZ stark_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   95 I often feel like a lone pistachio in a bushel of coffee beans .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   95 I_PPIS1 often_RR feel_VV0 like_II a_AT1 lone_JJ pistachio_NN1 in_II a_AT1 bushel_NN1 of_IO coffee_NN1 beans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   96 When European traders lived in Elmina from the fifteenth to nineteenth centuries , there were plenty of Euro-Elminan common-law marriages , and the white men were raping African women they bought for slavery in the Americas .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   96 When_CS_RRQ European_JJ traders_NN2 lived_VVN_VVD in_II Elmina_NP1 from_II the_AT fifteenth_MD to_II nineteenth_MD centuries_NNT2 ,_Y there_EX were_VBDR plenty_PN of_IO Euro-Elminan_JJ_NN1 common-law_NN1 marriages_NN2 ,_Y and_CC the_AT white_JJ men_NN2 were_VBDR raping_VVG_JJ African_JJ women_NN2 they_PPHS2 bought_VVD for_IF slavery_NN1 in_II the_AT Americas_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   97 Mixed-race people were therefore a common sight in Elmina .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   97 Mixed-race_JJ people_NN were_VBDR therefore_RR a_AT1 common_JJ sight_NN1 in_II Elmina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   98 That ' s so much not the case today that I ' ve become more color conscious than ever .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   98 That_DD1 '_VBZ s_ZZ1 so_RR_CS@ much_RR not_XX the_AT case_NN1 today_RT that_CST I_ZZ1%_MC1% '_GE ve_NN1 become_VV0_VVN@ more_DAR_RRR color_NN1_VV0@ conscious_JJ than_CSN ever_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0   99 I can ' t help but stare when I see a light-skinned Ghanaian .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0   99 I_PPIS1_MC1@ can_VM_NN1% '_"@_GE t_ZZ1 help_NN1_VV0 but_CCB stare_VV0 when_RRQ_CS I_PPIS1 see_VV0 a_AT1 light-skinned_JJ Ghanaian_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  100 How ' d they get that way ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  100 How_RRQ_RGQ@ '_"@_GE d_ZZ1 they_PPHS2 get_VV0 that_DD1 way_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  101 I wonder .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  101 I_PPIS1 wonder_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  102 Do they feel like outsiders , too ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  102 Do_VD0 they_PPHS2 feel_VVI like_II_JJ@ outsiders_NN2 ,_Y too_RR@ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  103 When I spot a light-skinned , seventy-something woman in Elmina one day on her door , suddenly feeling shy about introducing myself .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  103 When_CS_RRQ I_PPIS1 spot_VV0@ a_AT1 light-skinned_JJ_NN1@ ,_Y seventy-something_PN1 woman_NN1 in_II Elmina_NP1 one_MC1 day_NNT1 on_II_RP@ her_APPGE door_NN1 ,_Y suddenly_RR feeling_VVG shy_JJ about_II introducing_VVG myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  104 I ' m a complete stranger and want to ask her personal questions .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  104 I_ZZ1@_MC1@ '_GE m_NNU@_MC@_ZZ1 a_AT1 complete_JJ stranger_NN1 and_CC want_VV0 to_TO ask_VVI her_APPGE_PPHO1 personal_JJ questions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  105 To my relief , she smiles cheerfully and invites me inside her house .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  105 To_II my_APPGE relief_NN1 ,_Y she_PPHS1 smiles_VVZ cheerfully_RR and_CC invites_VVZ me_PPIO1 inside_II_RL her_APPGE house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  106 She could pass for a tall Polish woman if not for her plump cheeks , wide nose , and pale yellow skin .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  106 She_PPHS1 could_VM pass_VVI for_IF a_AT1 tall_JJ Polish_JJ woman_NN1 if_CS not_XX for_IF her_APPGE_PPHO1 plump_JJ cheeks_NN2 ,_Y wide_JJ nose_NN1 ,_Y and_CC pale_JJ yellow_JJ skin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  107 In the sitting room , she openly tells me where her color came from .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  107 In_II the_AT sitting_NN1 room_NN1 ,_Y she_PPHS1 openly_RR tells_VVZ me_PPIO1 where_RRQ_CS her_APPGE color_NN1 came_VVD from_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  108 A few generations ago , she had an ancestor who was a Dutch trader in Elmina .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  108 A_AT1 few_DA2 generations_NN2 ago_RA ,_Y she_PPHS1 had_VHD an_AT1 ancestor_NN1 who_PNQS was_VBDZ a_AT1 Dutch_JJ trader_NN1 in_II Elmina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  109 Her father was white as well .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  109 Her_APPGE father_NN1 was_VBDZ white_JJ as_RR21_CSA well_RR22_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  110 I ask her what ' s been on the edge of my tongue since first seeing her : do Ghanaians ever call her oburonyi ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  110 I_PPIS1 ask_VV0 her_PPHO1 what_DDQ '_"@_GE s_ZZ1 been_VBN on_II the_AT edge_NN1 of_IO my_APPGE tongue_NN1 since_CS_II@ first_MD seeing_VVG her_PPHO1 :_Y do_VD0 Ghanaians_NN2 ever_RR call_VVI her_APPGE oburonyi_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  111 She laughs .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  111 She_PPHS1 laughs_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  112 " They called me that when I was a small girl .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  112 "_Y They_PPHS2 called_VVD@ me_PPIO1 that_CST when_CS I_PPIS1 was_VBDZ a_AT1 small_JJ girl_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  113 Even now , it happens-o .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  113 Even_RR now_RT ,_Y it_PPH1 happens-o_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  114 Just the other day , I was outside-o , at the junction there , and I had removed my head cover .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  114 Just_RR the_AT other_JJ day_NNT1 ,_Y I_PPIS1 was_VBDZ outside-o_RL_JJ ,_Y at_II the_AT junction_NN1 there_RL ,_Y and_CC I_PPIS1 had_VHD removed_VVN my_APPGE head_NN1_JJ@ cover_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  115 A man was staring at my hair .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  115 A_AT1 man_NN1 was_VBDZ staring_VVG at_II my_APPGE hair_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  116 I said , " What is it you are looking at ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  116 I_PPIS1 said_VVD ,_Y "_Y What_DDQ is_VBZ it_PPH1 you_PPY are_VBR looking_VVG at_II ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  117 ' d said it in Fante , to the shock of the man who perceived her to be a foreigner .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  117 '_"@_GE d_ZZ1 said_VVD it_PPH1 in_II Fante_NP1_NN1 ,_Y to_II the_AT shock_NN1 of_IO the_AT man_NN1 who_PNQS perceived_VVD her_PPHO1 to_TO be_VBI a_AT1 foreigner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  118 " How does it make you feel when someone calls you that ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  118 "_Y How_RRQ does_VDZ it_PPH1 make_VVI you_PPY feel_VVI when_RRQ_CS someone_PN1 calls_VVZ you_PPY that_DD1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  119 " She shrugs .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  119 "_Y She_PPHS1 shrugs_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  120 " It is fine-o .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  120 "_Y It_PPH1 is_VBZ fine-o_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  121 " Really ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  121 "_Y Really_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  122 Then she needs to give me some tips on how to cope .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  122 Then_RT she_PPHS1 needs_VVZ to_TO give_VVI me_PPIO1 some_DD tips_NN2 on_II how_RRQ to_TO cope_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  123 I don ' t think I can stomach hearing that word for the rest of my stay in Ghana , let alone for seven decades .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  123 I_MC1@_PPIS1 don_VD '_GE t_ZZ1 think_VV0 I_PPIS1 can_VM_VV0% stomach_NN1 hearing_VVG_NN1 that_DD1_CST word_NN1 for_IF the_AT rest_NN1 of_IO my_APPGE stay_NN1@ in_II Ghana_NP1 ,_Y let_VVD_VV0 alone_RR for_IF seven_MC decades_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  124 As she escorts me to the front door , she asks where I ' m from .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  124 As_CSA she_PPHS1 escorts_NN2 me_PPIO1 to_II the_AT front_JJ_NN1 door_NN1 ,_Y she_PPHS1 asks_VVZ where_RRQ_CS I_ZZ1% '_GE m_NNU@_ZZ1_MC@ from_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  125 " I was born in New Jersey .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  125 "_Y I_PPIS1 was_VBDZ born_VVN in_II New_NP1 Jersey_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  126 " She frowns .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  126 "_Y She_PPHS1 frowns_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  127 " But are you a Ghanaian who lives there and has come back ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  127 "_Y But_CCB are_VBR you_PPY a_AT1 Ghanaian_NN1@ who_PNQS lives_VVZ there_RL and_CC has_VHZ come_VVN back_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  128 " " No , I ' m from there .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  128 "_Y "_Y No_XX ,_Y I_ZZ1%_MC1% '_GE m_NNU@_ZZ1_MC@ from_II there_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  129 " " But how did you get to be your color ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  129 "_Y "_Y But_CCB how_RRQ did_VDD you_PPY get_VVI to_TO be_VBI your_APPGE color_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  130 " she asks .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  130 "_Y she_PPHS1 asks_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  131 As my mind ' s wheels are spinning overtime , she seems to think a moment .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  131 As_CSA_II@ my_APPGE mind_NN1 '_GE s_ZZ1 wheels_NN2 are_VBR spinning_VVG overtime_RR_NN1 ,_Y she_PPHS1 seems_VVZ to_TO think_VVI a_AT1 moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  132 " So you are a black American ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  132 "_Y So_CS@_RR you_PPY are_VBR a_AT1 black_JJ American_JJ_NN1@ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  133 " I nod .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  133 "_Y I_PPIS1 nod_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  134 ' s thought I was Ghanaian , despite my accent , despite my body language and my skin color even though it ' s more tan than hers !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  134 '_"@_GE s_ZZ1 thought_VVD_NN1 I_PPIS1 was_VBDZ Ghanaian_JJ ,_Y despite_II my_APPGE accent_NN1 ,_Y despite_II my_APPGE body_NN1 language_NN1 and_CC my_APPGE skin_NN1 color_NN1 even_CS21 though_CS22 it_PPH1 '_"@_GE s_ZZ1 more_RRR tan_JJ_NN1 than_CSN hers_PPGE !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  135 Somehow , I don ' t think she would have made the same assumption if she were a darker-skinned Ghanaian .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  135 Somehow_RR ,_Y I_MC1%_PPIS1 don_VD '_GE_"@ t_ZZ1 think_VV0 she_PPHS1 would_VM have_VHI made_VVN the_AT same_DA assumption_NN1 if_CS she_PPHS1 were_VBDR a_AT1 darker-skinned_JJR Ghanaian_NN1@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  136 She opens the front door to let me out .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  136 She_PPHS1 opens_VVZ the_AT front_JJ_NN1 door_NN1 to_TO let_VVI me_PPIO1 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  137 A group of schoolchildren passing by immediately wave at both of us and scream , " Buronyi !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  137 A_AT1 group_NN1 of_IO schoolchildren_NN2 passing_VVG by_II_RP% immediately_RR wave_VV0@_NN1 at_II both_DB2 of_IO us_PPIO2 and_CC scream_NN1_VV0 ,_Y "_Y Buronyi_NP1_NN1_JJ !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  138 Buronyi !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  138 Buronyi_NN2_NP1@ !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  139 " The woman notices my frown and tells me I ' ll just have to get used to it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  139 "_Y The_AT woman_NN1 notices_VVZ my_APPGE frown_NN1 and_CC tells_VVZ me_PPIO1 I_MC1% '_GE ll_NNU just_RR have_VH0 to_TO get_VVI used_JJ to_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  140 My hearing has gone fuzzy on one side .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  140 My_APPGE hearing_NN1 has_VHZ gone_VVN fuzzy_JJ on_II one_MC1 side_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  141 Mum examines my sore ear , saying , " Our foremothers would put some palm oil in our ears when we were young , but I don ' t know how your body will react to our African medicines. " -- Our medicines ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  141 Mum_NN1 examines_VVZ my_APPGE sore_JJ ear_NN1 ,_Y saying_VVG ,_Y "_Y Our_APPGE foremothers_NN2 would_VM put_VVI some_DD palm_NN1 oil_NN1 in_II our_APPGE ears_NN2 when_CS_RRQ we_PPIS2 were_VBDR young_JJ ,_Y but_CCB I_PPIS1_MC1% don_VV0_NN1 '_"@_GE t_ZZ1 know_VV0 how_RRQ your_APPGE body_NN1 will_VM react_VVI to_II our_APPGE African_JJ medicines._NNU "_Y --_NN1_JJ Our_APPGE medicines_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  142 Mum has already seen that my hair is the same texture as hers , but that ' s not enough to convince her that I ' m like her .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  142 Mum_NN1 has_VHZ already_RR seen_VVN that_CST my_APPGE hair_NN1 is_VBZ the_AT same_DA texture_NN1 as_CSA hers_PPGE ,_Y but_CCB that_DD1 '_VBZ s_ZZ1 not_XX enough_RR_DD to_TO convince_VVI her_PPHO1 that_CST I_ZZ1%_MC1% '_GE m_NNU@_ZZ1_MC@ like_II her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  143 I let the comment slide a foreigner .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  143 I_PPIS1 let_VV0 the_AT comment_NN1 slide_VVI a_AT1 foreigner_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  144 And never has she called me oburonyi .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  144 And_CC never_RR has_VHZ she_PPHS1 called_VVN me_PPIO1 oburonyi_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  145 When my ear continues to bother me later in the day , I give in to Mum ' s and Ato ' s urgings to go to the hospital in nearby Cape Coast .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  145 When_CS my_APPGE ear_NN1 continues_VVZ to_TO bother_VVI me_PPIO1 later_RRR in_II the_AT day_NNT1 ,_Y I_PPIS1 give_VV0 in_RP to_II Mum_NN1 '_GE s_ZZ1 and_CC Ato_NP1_NN1 '_GE s_ZZ1 urgings_NN2 to_TO go_VVI to_II the_AT hospital_NN1 in_II nearby_JJ_RL Cape_NP1 Coast_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  146 A few hours later , after seeing a nurse and two doctors , I ' m diagnosed with an ear infection .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  146 A_AT1 few_DA2 hours_NNT2 later_RRR ,_Y after_II seeing_VVG a_AT1 nurse_NN1 and_CC two_MC doctors_NN2 ,_Y I_ZZ1%_MC1% '_GE m_ZZ1_NNU@_MC@ diagnosed_VVN_VVD with_IW an_AT1 ear_NN1 infection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  147 One of the doctors prescribes an antibiotic , but by the time I return to Elmina , the pharmacies have closed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  147 One_MC1 of_IO the_AT doctors_NN2 prescribes_VVZ an_AT1 antibiotic_NN1 ,_Y but_CCB by_II the_AT time_NNT1 I_PPIS1 return_VV0 to_II Elmina_NP1 ,_Y the_AT pharmacies_NN2 have_VH0 closed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  148 The next morning , I find myself procrastinating .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  148 The_AT next_MD morning_NNT1 ,_Y I_PPIS1 find_VV0 myself_PPX1 procrastinating_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  149 The nearest pharmacy , across the street from the entrance to Trafalgar Square , is barely two minutes away .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  149 The_AT nearest_JJT pharmacy_NN1 ,_Y across_II the_AT street_NN1 from_II the_AT entrance_NN1 to_II Trafalgar_NP1 Square_NNL1 ,_Y is_VBZ barely_RR two_MC minutes_NNT2 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  150 But I don ' t want to go by myself .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  150 But_CCB I_PPIS1_MC1% don_VV0_NN1 '_"@_GE t_ZZ1 want_VV0 to_TO go_VVI by_II myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  151 I finally admit a personal weakness : I find it too stressful to leave the family ' s house by myself .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  151 I_PPIS1 finally_RR admit_VV0 a_AT1 personal_JJ weakness_NN1 :_Y I_PPIS1 find_VV0 it_PPH1 too_RG stressful_JJ to_TO leave_VVI the_AT family_NN1 '_GE s_ZZ1 house_NN1_VV0@ by_II myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  152 It ' s what I feared about moving to Elmina .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  152 It_NN1%_PPH1 '_VBZ s_ZZ1 what_DDQ I_PPIS1 feared_VVD about_II_RP@ moving_VVG to_II Elmina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  153 I had tried to explain it to Ato when he invited me to live with his family .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  153 I_PPIS1 had_VHD tried_VVN to_TO explain_VVI it_PPH1 to_II Ato_NP1_NN1 when_RRQ_CS he_PPHS1 invited_VVD me_PPIO1 to_TO live_VVI with_IW his_APPGE family_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  154 It was the thing that bothered me about by my peers for most my life has made me don armor I don ' t need and has made me see battles raging all over the place .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  154 It_PPH1 was_VBDZ the_AT thing_NN1 that_CST bothered_VVD me_PPIO1 about_II by_II my_APPGE peers_NN2 for_IF most_DAT my_APPGE life_NN1 has_VHZ made_VVN me_PPIO1 don_VD armor_NN1 I_MC1%_PPIS1 don_VD '_GE t_ZZ1 need_NN1_VV0 and_CC has_VHZ made_VVN me_PPIO1 see_VVI battles_NN2 raging_VVG all_RR over_II the_AT place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  155 Outsider status isn ' t just annoying and uncomfortable to me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  155 Outsider_NN1 status_NN1 isn_NN1 '_GE t_ZZ1 just_RR_JJ@ annoying_JJ and_CC uncomfortable_JJ to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  156 It can be physically debilitating .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  156 It_PPH1 can_VM be_VBI physically_RR debilitating_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  157 When walking past stares and whispers , my hands tremble , and I can feel my pupils dilating .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  157 When_CS walking_VVG past_JJ_II_NN1 stares_NN2 and_CC whispers_NN2_VVZ ,_Y my_APPGE hands_NN2 tremble_VV0 ,_Y and_CC I_PPIS1 can_VM feel_VVI my_APPGE pupils_NN2 dilating_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  158 My adrenaline level rises so high that the slightest unexpected sound can startle me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  158 My_APPGE adrenaline_NN1 level_NN1 rises_VVZ_NN2 so_RG_RR high_JJ that_CST the_AT slightest_JJT unexpected_JJ sound_NN1 can_VM startle_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  159 Every step becomes a challenge .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  159 Every_AT1 step_NN1 becomes_VVZ a_AT1 challenge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  160 The stares don ' t matter as much if I have someone to walk with and talk to .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  160 The_AT stares_NN2 don_VD '_GE t_ZZ1 matter_VV0_NN1 as_RG@_CSA much_DA1_RR if_CS I_PPIS1 have_VH0 someone_PN1 to_TO walk_VVI with_IW and_CC talk_VVI to_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  161 Someone who can acknowledge me as a human being .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  161 Someone_PN1 who_PNQS can_VM acknowledge_VVI me_PPIO1 as_II a_AT1 human_JJ being_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  162 There are too many days in Elmina when I feel like I ' ve grown an extra ear on my forehead or stepped off a spaceship from Pluto .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  162 There_EX are_VBR too_RG many_DA2 days_NNT2 in_II Elmina_NP1 when_RRQ I_PPIS1 feel_VV0 like_II I_ZZ1%_MC1% '_GE ve_NN1 grown_VVN_VVD@ an_AT1 extra_JJ ear_NN1 on_II my_APPGE forehead_NN1 or_CC stepped_VVD_VVN off_RP_II a_AT1 spaceship_NN1 from_II Pluto_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  163 Or else everyone looks at me like I ' ve committed murder and gotten away with it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  163 Or_CC else_RR everyone_PN1 looks_VVZ at_II me_PPIO1 like_II I_ZZ1%_MC1% '_GE ve_NN1_VV0 committed_JJ_VVN murder_NN1 and_CC gotten_VVN away_RL with_IW it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  164 I know that Ato or my brother Ebo would go to the pharmacy for me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  164 I_PPIS1 know_VV0 that_CST_DD1 Ato_NP1_NN1 or_CC my_APPGE brother_NN1 Ebo_NN1_NP1 would_VM go_VVI to_II the_AT pharmacy_NN1 for_IF me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  165 After all , it was Ebo who once rushed to block away .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  165 After_II all_DB ,_Y it_PPH1 was_VBDZ Ebo_NP1_NN1 who_PNQS once_RR rushed_VVN_VVD to_TO block_NN1 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  166 Something strange did happen that day , though .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  166 Something_PN1 strange_JJ did_VDD happen_VVI that_DD1 day_NNT1 ,_Y though_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  167 I hadn ' t finished breakfast , so I grabbed my leftover roll and half-empty water sachet and prepared to walk out .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  167 I_MC1@_PPIS1 hadn_NN1 '_GE t_ZZ1 finished_JJ@ breakfast_NN1 ,_Y so_CS@_RR I_PPIS1 grabbed_VVD my_APPGE leftover_JJ roll_NN1 and_CC half-empty_JJ water_NN1 sachet_NN1 and_CC prepared_VVN_JJ_VVD@ to_TO walk_VVI out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  168 Mum insisted that I finish eating .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  168 Mum_NN1 insisted_VVD that_CST I_PPIS1 finish_VV0 eating_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  169 I told her I needed to get to Cape Coast soon to meet someone , so I stuffed the roll into my bag and met Ebo in front of the house .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  169 I_PPIS1 told_VVD her_PPHO1 I_PPIS1 needed_VVD to_TO get_VVI to_II Cape_NP1 Coast_NP1 soon_RR to_TO meet_VVI someone_PN1 ,_Y so_CS@_RR I_PPIS1 stuffed_VVD the_AT roll_NN1 into_II my_APPGE bag_NN1 and_CC met_VVD_VVN Ebo_NP1_NN1 in_II31 front_II32 of_II33 the_AT house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  170 He stared at my water sachet .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  170 He_PPHS1 stared_VVD at_II my_APPGE water_NN1 sachet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  171 " Uh , maybe we should wait until you are done , " he said in his hesitating , rough voice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  171 "_Y Uh_UH ,_Y maybe_RR we_PPIS2 should_VM wait_VVI until_CS you_PPY are_VBR done_VDN ,_Y "_Y he_PPHS1 said_VVD in_II_RP@ his_APPGE hesitating_NN1@_JJ@ ,_Y rough_JJ voice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  172 I shrugged .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  172 I_PPIS1 shrugged_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  173 " No , I ' ll take it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  173 "_Y No_XX ,_Y I_ZZ1%_MC1% '_GE ll_NNU take_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  174 " When we reached Chapel Square to wait for the taxi , Ebo pulled the water sachet from my hand and deposited it by the gutter , saying , " We ' ll just get you another one in town .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  174 "_Y When_CS_RRQ we_PPIS2 reached_VVD Chapel_NP1 Square_NNL1 to_TO wait_VVI for_IF the_AT taxi_NN1 ,_Y Ebo_NP1 pulled_VVD the_AT water_NN1 sachet_NN1 from_II my_APPGE hand_NN1 and_CC deposited_VVD it_PPH1 by_II the_AT gutter_NN1 ,_Y saying_VVG ,_Y "_Y We_PPIS2 '_GE_"@ ll_NNU just_RR get_VV0 you_PPY another_DD1 one_PN1 in_II town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  175 " Someone later told me that in Ghana , it ' s socially inappropriate to drink or eat while walking in public .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  175 "_Y Someone_PN1 later_RRR told_VVD_VVN me_PPIO1 that_CST_DD1 in_II Ghana_NP1 ,_Y it_PPH1 '_"@_GE s_ZZ1 socially_RR inappropriate_JJ to_TO drink_VVI or_CC eat_VVI while_CS walking_VVG in_RR21 public_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  176 As usual , no one would come out and the hint through their pinched smiles and reserved body language .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  176 As_RR21 usual_RR22 ,_Y no_PN121 one_PN122 would_VM come_VVI out_RP and_CC the_AT hint_NN1 through_II their_APPGE pinched_JJ smiles_NN2 and_CC reserved_JJ body_NN1 language_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  177 Despite Ato ' s and Ebo ' s willingness to escort me in Elmina , I ' m too proud to ask them .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  177 Despite_II Ato_NP1 '_GE s_ZZ1 and_CC Ebo_NP1_NN1 '_GE s_ZZ1 willingness_NN1 to_TO escort_VVI me_PPIO1 in_II Elmina_NP1 ,_Y I_ZZ1%_MC1% '_GE m_MC@ too_RG_RR@ proud_JJ to_TO ask_VVI them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  178 They ' ll wonder why I can ' t make the short pharmacy trek by myself .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  178 They_PPHS2 '_GE_"@ ll_NNU wonder_NN1_VV0 why_RRQ I_PPIS1 can_VM '_"@_GE t_ZZ1 make_VV0 the_AT short_JJ pharmacy_NN1 trek_NN1_VV0 by_II myself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  179 My next best option is little Nana .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  179 My_APPGE next_MD best_JJT option_NN1 is_VBZ little_DA1_JJ Nana_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  180 She enjoys my company , and I won ' t have to explain anything to her , especially if I bribe her with some " biscuit " or in America-speak , cookies .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  180 She_PPHS1 enjoys_VVZ my_APPGE company_NN1 ,_Y and_CC I_PPIS1 won_VVD '_"@_GE t_ZZ1 have_VH0 to_TO explain_VVI anything_PN1 to_II her_PPHO1 ,_Y especially_RR if_CS I_PPIS1 bribe_VV0 her_PPHO1 with_IW some_DD "_Y biscuit_NN1 "_Y or_CC in_II_RP@ America-speak_VV0 ,_Y cookies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  181 She could become my permanent Elmina walking companion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  181 She_PPHS1 could_VM become_VVI my_APPGE permanent_JJ Elmina_NN1@_NP1 walking_NN1_VVG companion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  182 " Hey Nana , " I call with a smirk , " you wan na hang out with your Auntie Yaa for a second ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  182 "_Y Hey_UH Nana_NN1 ,_Y "_Y I_PPIS1 call_VV0 with_IW a_AT1 smirk_NN1 ,_Y "_Y you_PPY wan_VV0 na_TO hang_VVI out_RP with_IW your_APPGE Auntie_NNB Yaa_NP1 for_IF a_AT1 second_NNT1_MD ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  183 Come to the pharmacy with me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  183 Come_VV0 to_II the_AT pharmacy_NN1 with_IW me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  184 " She hesitates , which I find strange .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  184 "_Y She_PPHS1 hesitates_VVZ ,_Y which_DDQ I_PPIS1 find_VV0 strange_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  185 Not long ago , she was eager to join me on a walk to Elmina ' s slave trading castle .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  185 Not_XX long_RR ago_RA ,_Y she_PPHS1 was_VBDZ eager_JJ to_TO join_VVI me_PPIO1 on_II a_AT1 walk_NN1 to_II Elmina_NP1 '_GE s_ZZ1 slave_NN1_VV0@ trading_NN1_VVG castle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  186 Ato had decided to treat Nana , Mum , and me to lunch that day , but he wanted us to meet him at the house a bit early .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  186 Ato_NP1@_NN1 had_VHD decided_VVN to_TO treat_VVI Nana_NN1 ,_Y Mum_NN1 ,_Y and_CC me_PPIO1 to_II lunch_NN1 that_DD1 day_NNT1 ,_Y but_CCB he_PPHS1 wanted_VVD us_PPIO2 to_TO meet_VVI him_PPHO1 at_II the_AT house_NN1 a_RR21 bit_RR22 early_JJ_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  187 Nana could have chosen to walk with Mum later , but she pleaded for me to wait .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  187 Nana_NN1 could_VM have_VHI chosen_VVN to_TO walk_VVI with_IW Mum_NN1 later_RRR ,_Y but_CCB she_PPHS1 pleaded_VVD for_IF me_PPIO1 to_TO wait_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  188 She scampered out of her T-shirt and faded skirt , whisked a brush through her short-cropped hair , and even dressed up for the occasion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  188 She_PPHS1 scampered_VVD out_II21 of_II22 her_APPGE T-shirt_NN1 and_CC faded_JJ skirt_NN1 ,_Y whisked_VVD_VVN a_AT1 brush_NN1 through_II her_APPGE short-cropped_JJ_NN1 hair_NN1 ,_Y and_CC even_RR dressed_VVN up_RP for_IF the_AT occasion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  189 So why is she hemming and hawing now ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  189 So_RR why_RRQ is_VBZ she_PPHS1 hemming_VVG and_CC hawing_VVG now_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  190 " Uh , okay .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  190 "_Y Uh_UH ,_Y okay_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  191 But Auntie , when we are walking , do not talk to me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  191 But_CCB Auntie_NN1 ,_Y when_CS_RRQ we_PPIS2 are_VBR walking_VVG ,_Y do_VD0 not_XX talk_VVI to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  192 Please , I beg you !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  192 Please_RR ,_Y I_PPIS1 beg_VV0 you_PPY !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  193 " What ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  193 "_Y What_DDQ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  194 !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  194 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  195 " Nana why ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  195 "_Y Nana_NN1 why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  196 " She dances circles around me , smiling .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  196 "_Y She_PPHS1 dances_NN2 circles_NN2 around_II me_PPIO1 ,_Y smiling_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  197 " Please , just do this for me , eh ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  197 "_Y Please_RR ,_Y just_RR do_VD0 this_DD1 for_IF me_PPIO1 ,_Y eh_UH ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  198 And walk a bit away from me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  198 And_CC walk_VV0_NN1 a_RR21 bit_RR22 away_RL from_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  199 I beg .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  199 I_PPIS1 beg_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  200 " She darts off somewhere .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  200 "_Y She_PPHS1 darts_VVZ off_RP somewhere_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  201 Sharp images flash into my mind .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  201 Sharp_JJ images_NN2 flash_VV0 into_II my_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  202 Nana walking next to me in a frilly dress , unusually quiet .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  202 Nana_NN1 walking_VVG_NN1 next_II21 to_II22 me_PPIO1 in_II a_AT1 frilly_JJ dress_NN1 ,_Y unusually_RR quiet_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  203 Nana and me on our way to meet Ato at the castle .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  203 Nana_NN1 and_CC me_PPIO1 on_II our_APPGE way_NN1 to_TO meet_VVI Ato_NN1_NP1 at_II the_AT castle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  204 Me joking with her to ease tension I ' ve never felt with her .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  204 Me_PPIO1 joking_VVG with_IW her_PPHO1 to_TO ease_VVI tension_NN1 I_ZZ1%_MC1% '_GE ve_NN1 never_RR felt_VVN_VVD with_IW her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  205 She taking silent glances at me as we just bought .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  205 She_PPHS1 taking_VVG silent_JJ glances_NN2 at_II me_PPIO1 as_CSA we_PPIS2 just_RR bought_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  206 The backdrop of Elminan vendors and pedestrians fuzzy and out of focus , because I have company to distract me from their scrutiny .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  206 The_AT backdrop_NN1 of_IO Elminan_JJ_NN1_NP1 vendors_NN2 and_CC pedestrians_NN2 fuzzy_JJ and_CC out_II21 of_II22 focus_NN1 ,_Y because_CS I_PPIS1 have_VH0 company_NN1 to_TO distract_VVI me_PPIO1 from_II their_APPGE scrutiny_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  207 Ato keeps insisting that Elminans don ' t watch me as much as I think they do , but I believe that he ' s trying to assuage my anxiety .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  207 Ato_NN1_NP1@ keeps_VVZ insisting_VVG that_CST Elminans_NN2 don_VD '_GE t_ZZ1 watch_VV0 me_PPIO1 as_RG much_DA1 as_CSA I_PPIS1 think_VV0 they_PPHS2 do_VD0 ,_Y but_CCB I_PPIS1 believe_VV0 that_CST he_PPHS1 '_"@_GE s_ZZ1 trying_VVG_JJ@ to_TO assuage_VVI my_APPGE anxiety_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  208 Long before he and I started dating , I recalled that Elminans would focus their attention on our hands , clasped between us .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  208 Long_RR before_CS he_PPHS1 and_CC I_PPIS1 started_VVD dating_NN1_VVG ,_Y I_PPIS1 recalled_VVD that_CST Elminans_NN2 would_VM focus_VVI their_APPGE attention_NN1 on_II our_APPGE hands_NN2 ,_Y clasped_VVN_VVD between_II us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  209 I always had to reassure myself that in Ghana , it ' s acceptable for friends to hold hands , whether they be male and female , or even two men .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  209 I_PPIS1 always_RR had_VHD to_TO reassure_VVI myself_PPX1 that_CST_DD1 in_II Ghana_NP1 ,_Y it_PPH1 '_"@_GE s_ZZ1 acceptable_JJ for_IF friends_NN2 to_TO hold_VVI hands_NN2 ,_Y whether_CSW they_PPHS2 be_VBI male_JJ and_CC female_NN1_JJ ,_Y or_CC even_RR two_MC men_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  210 But recently , Ato had started releasing my hand on our walks through town .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  210 But_CCB recently_RR ,_Y Ato_NP1 had_VHD started_VVN releasing_VVG my_APPGE hand_NN1 on_II our_APPGE walks_NN2 through_II town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  211 He admitted that it was because the people were making him uncomfortable , too .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  211 He_PPHS1 admitted_VVD that_CST it_PPH1 was_VBDZ because_CS the_AT people_NN were_VBDR making_VVG him_PPHO1 uncomfortable_JJ ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  212 Yet , he remains optimistic and stresses that they ' ll eventually get used to me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  212 Yet_RR ,_Y he_PPHS1 remains_VVZ optimistic_JJ and_CC stresses_VVZ_NN2 that_CST they_PPHS2 '_GE_"@ ll_NNU eventually_RR get_VV0 used_JJ to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  213 Ebo , on the other hand , is unconvinced that Elminans are treating me any differently than they do other Elminans .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  213 Ebo_NN1_NP1@ ,_Y on_II the_AT other_JJ hand_NN1 ,_Y is_VBZ unconvinced_JJ that_CST Elminans_NN2 are_VBR treating_VVG me_PPIO1 any_DD differently_RR than_CSN they_PPHS2 do_VD0 other_JJ Elminans_NN2_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  214 I go to the comm. center m right , after all , about the heightened attention Elminans give me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  214 I_PPIS1 go_VV0 to_II the_AT comm._NNU center_NN1 m_ZZ1_MC@_NNU@ right_JJ_NN1_RR ,_Y after_II all_DB ,_Y about_II the_AT heightened_JJ attention_NN1 Elminans_NN2 give_VV0 me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  215 Even little Nana has noticed it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  215 Even_RR little_JJ_DA1 Nana_NN1 has_VHZ noticed_VVN it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  216 " It ' s not that , " Ato explains .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  216 "_Y It_NN1%_PPH1 '_VBZ s_ZZ1 not_XX that_DD1_CST ,_Y "_Y Ato_NP1_NN1 explains_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  217 " There are some people here who even want to be seen with you foreigners .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  217 "_Y There_EX are_VBR some_DD people_NN here_RL who_PNQS even_RR want_VV0 to_TO be_VBI seen_VVN with_IW you_PPY foreigners_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  218 You see , Nana has some faults in her English , and if you are walking together , she is afraid you ' ll notice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  218 You_PPY see_VV0 ,_Y Nana_NN1 has_VHZ some_DD faults_NN2 in_II her_APPGE English_NN1_JJ ,_Y and_CC if_CS_CSW@ you_PPY are_VBR walking_VVG together_RL ,_Y she_PPHS1 is_VBZ afraid_JJ you_PPY '_GE_"@ ll_NNU notice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  219 " Not true at all .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  219 "_Y Not_XX true_JJ_RR% at_RR21 all_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  220 On all those mornings after Ato has left for work and I ' m working up the courage to leave the house , Nana and I share plenty of time talking and joking with each other .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  220 On_II all_DB those_DD2 mornings_NNT2 after_II_CS Ato_NP1_NN1 has_VHZ left_VVN for_IF work_NN1 and_CC I_ZZ1%_MC1% '_GE m_ZZ1_MC@ working_VVG up_RP_II@ the_AT courage_NN1 to_TO leave_VVI the_AT house_NN1 ,_Y Nana_NN1 and_CC I_PPIS1 share_VV0 plenty_PN of_IO time_NNT1 talking_VVG_NN1@ and_CC joking_VVG with_IW each_PPX221 other_PPX222 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  221 I tell Ato to ask her the reason for her comment , since it ' s a disturbing one even if my suspicion isn ' t true .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  221 I_PPIS1 tell_VV0 Ato_NN1_NP1 to_TO ask_VVI her_PPHO1 the_AT reason_NN1 for_IF her_APPGE comment_NN1 ,_Y since_CS it_PPH1 '_"@_GE s_ZZ1 a_AT1 disturbing_JJ one_PN1 even_CS21 if_CS22 my_APPGE suspicion_NN1 isn_NN1 '_GE t_ZZ1 true_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  222 As he sternly questions her , she covers her face and giggles .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  222 As_CSA he_PPHS1 sternly_RR questions_VVZ% her_PPHO1 ,_Y she_PPHS1 covers_VVZ her_APPGE face_NN1 and_CC giggles_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  223 " Oh !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  223 "_Y Oh_UH !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  224 Auntie Yaa !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  224 Auntie_NNB Yaa_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  225 You shouldn ' t have told him-o .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  225 You_PPY shouldn_NN1_VV0 '_GE t_ZZ1 have_VH0 told_VVN him-o_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  226 " She scurries off again , but I locate her parked in front of the firmly , " why don ' t you want me to talk to you when we ' re walking together ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  226 "_Y She_PPHS1 scurries_VVZ off_RP again_RT ,_Y but_CCB I_PPIS1 locate_VV0 her_PPHO1 parked_VVN_VVD in_II31 front_II32 of_II33 the_AT firmly_RR ,_Y "_Y why_RRQ don_VD '_GE t_ZZ1 you_PPY want_VV0 me_PPIO1 to_TO talk_VVI to_II you_PPY when_CS_RRQ we_PPIS2 '_GE_"@ re_II walking_VVG together_RL ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  227 " " Because the people stare at my face .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  227 "_Y "_Y Because_CS the_AT people_NN stare_VV0 at_II my_APPGE face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  228 " " Why ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  228 "_Y "_Y Why_RRQ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  229 Is it because they think I ' m oburonyi ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  229 Is_VBZ it_PPH1 because_CS they_PPHS2 think_VV0 I_ZZ1%_MC1% '_GE m_MC@_ZZ1 oburonyi_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  230 She nods .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  230 She_PPHS1 nods_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  231 " Nana , when did you first figure this out ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  231 "_Y Nana_NN1 ,_Y when_RRQ did_VDD you_PPY first_MD figure_VVI this_DD1 out_RP ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  232 " She runs to the African-American history calendar I gave the family as a moving-in gift .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  232 "_Y She_PPHS1 runs_VVZ to_II the_AT African-American_JJ history_NN1 calendar_NN1 I_PPIS1 gave_VVD the_AT family_NN1 as_II_CSA a_AT1 moving-in_NN1_JJ@ gift_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  233 Her long fingers scan the boxes until they ' ve traced back two weeks. " 24th April , " she proclaims .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  233 Her_APPGE long_JJ fingers_NN2 scan_VV0 the_AT boxes_NN2 until_CS they_PPHS2 '_GE ve_NN1 traced_VVD_VVN back_RP two_MC weeks._NNU "_Y 24th_MD April_NPM1 ,_Y "_Y she_PPHS1 proclaims_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  234 " And what happened that day , Nana ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  234 "_Y And_CC what_DDQ happened_VVD that_DD1 day_NNT1 ,_Y Nana_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  235 " " We were walking to the castle .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  235 "_Y "_Y We_PPIS2 were_VBDR walking_VVG to_II the_AT castle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  236 " She ' s pinpointed the exact day !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  236 "_Y She_PPHS1 '_"@_GE s_ZZ1 pinpointed_VVD the_AT exact_JJ day_NNT1 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  237 I don ' t know what saddens me more .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  237 I_MC1@_PPIS1 don_VD '_GE t_ZZ1 know_VV0 what_DDQ saddens_VVZ me_PPIO1 more_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  238 Nana ' s embarrassment at being seen in town with me ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  238 Nana_NN1 '_GE s_ZZ1 embarrassment_NN1 at_II being_VBG seen_VVN in_II town_NN1 with_IW me_PPIO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  239 My having this discomfort of people staring at me ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  239 My_APPGE having_VHG this_DD1 discomfort_NN1 of_IO people_NN staring_VVG at_II me_PPIO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  240 The seemingly simple solution to my fear collapsing in seconds ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  240 The_AT seemingly_RR simple_JJ solution_NN1 to_II my_APPGE fear_NN1 collapsing_VVG in_II_RP@ seconds_NNT2 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  241 Or my still needing to get to the pharmacy ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  241 Or_CC my_APPGE still_RR_NN1% needing_VVG to_TO get_VVI to_II the_AT pharmacy_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  242 As I sit there staring into ' s just transpired .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  242 As_CSA I_PPIS1 sit_VV0 there_RL staring_VVG into_II '_"@_GE s_ZZ1 just_RR transpired_VVN_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  243 There ' s no more gloating in my voice , only fatigue .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  243 There_RL '_VBZ s_ZZ1 no_AT_RR% more_RGR_RRR_DAR gloating_JJ@_VVG_NN1@ in_II my_APPGE voice_NN1 ,_Y only_JJ fatigue_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  244 He stands over me for a moment .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  244 He_PPHS1 stands_VVZ over_II_RP me_PPIO1 for_IF a_AT1 moment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  245 " Where is your prescription , princess ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  245 "_Y Where_RRQ is_VBZ your_APPGE prescription_NN1 ,_Y princess_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  246 " he eventually says .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  246 "_Y he_PPHS1 eventually_RR says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  247 " I will take it over for you .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  247 "_Y I_PPIS1 will_VM take_VVI it_PPH1 over_RP for_IF you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  248 " Like clockwork , I awake at 9 : 00 AM and go to the back yard for my daily bucket bath .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  248 "_Y Like_II_JJ@ clockwork_NN1 ,_Y I_PPIS1 awake_VV0@ at_II 9_MC :_Y 00_MC AM_RA@ and_CC go_VV0 to_II the_AT back_NN1_JJ@ yard_NN1 for_IF my_APPGE daily_JJ bucket_NN1 bath_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  249 I ' m eager to play with my cat , the friendly white one with the gray patches on its face .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  249 I_ZZ1@_MC1@ '_GE m_ZZ1_MC@ eager_JJ to_TO play_VVI with_IW my_APPGE cat_NN1 ,_Y the_AT friendly_JJ white_JJ_NN1@ one_PN1_MC1 with_IW the_AT gray_JJ patches_NN2 on_II its_Z' face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  250 Whenever I come home , he trots over to me with that permanent smiley face that cats have .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  250 Whenever_RRQV I_PPIS1 come_VV0 home_RL ,_Y he_PPHS1 trots_VVZ over_RP to_II me_PPIO1 with_IW that_DD1 permanent_JJ smiley_NN1 face_VV0_NN1 that_CST cats_NN2 have_VH0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  251 I ' ve nicknamed him Baby , since he was born shortly before my arrival , and because his mother had rejected him .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  251 I_ZZ1@_MC1@ '_GE ve_NN1 nicknamed_VVN_VVD@ him_PPHO1 Baby_NN1 ,_Y since_CS he_PPHS1 was_VBDZ born_VVN shortly_RR before_II_CS my_APPGE arrival_NN1 ,_Y and_CC because_CS his_APPGE mother_NN1 had_VHD rejected_VVN him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  252 During dinnertime , he runs upstairs and lingers if we ' re eating fish , and I sneak him some when no one ' s watching .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  252 During_II dinnertime_NNT1 ,_Y he_PPHS1 runs_VVZ upstairs_RL and_CC lingers_VVZ if_CS_CSW@ we_PPIS2 '_GE_"@ re_II eating_VVG_NN1 fish_NN ,_Y and_CC I_PPIS1 sneak_VV0 him_PPHO1 some_DD when_RRQ_CS no_PN121 one_PN122 '_GE s_ZZ1 watching_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  253 I delight in playing with him and look forward to petting him every morning .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  253 I_PPIS1 delight_VV0@ in_II_RP@ playing_VVG with_IW him_PPHO1 and_CC look_VV0 forward_RL to_II petting_VVG him_PPHO1 every_AT1 morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  254 On my way to the wash stall , I don ' bench .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  254 On_II my_APPGE way_NN1 to_II the_AT wash_NN1 stall_NN1_VV0 ,_Y I_MC1%_PPIS1 don_VD '_GE_"@ bench_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  255 I stop by Atos room to greet him good morning , and he tells me that he ' s sold Baby to someone for food .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  255 I_PPIS1 stop_VV0 by_II Atos_NP1_NN2 room_NN1 to_TO greet_VVI him_PPHO1 good_JJ morning_NNT1 ,_Y and_CC he_PPHS1 tells_VVZ me_PPIO1 that_CST he_PPHS1 '_"@_GE s_ZZ1 sold_JJ@_VVN Baby_NN1 to_II someone_PN1 for_IF food_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  256 I think he ' s just joking .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  256 I_PPIS1 think_VV0 he_PPHS1 '_"@_GE s_ZZ1 just_RR joking_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  257 He ' s mentioned off and on wanting to get rid of all the cats because they keep doing their business in the house .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  257 He_PPHS1 '_"@_GE s_ZZ1 mentioned_VVD_VVN off_RP and_CC on_II wanting_VVG_JJ to_TO get_VVI rid_VVN of_IO all_DB the_AT cats_NN2 because_CS they_PPHS2 keep_VV0 doing_VDG their_APPGE business_NN1 in_II the_AT house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  258 They ' re expected to go outside , as I ' ve caught Baby doing , making the earth of Trafalgar Square his litter box .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  258 They_PPHS2 '_GE_"@ re_II expected_JJ to_TO go_VVI outside_RL ,_Y as_CSA I_ZZ1% '_GE ve_NN1 caught_VVD_VVN Baby_NN1 doing_VDG ,_Y making_VVG the_AT earth_NN1 of_IO Trafalgar_NP1 Square_NNL1 his_APPGE litter_NN1 box_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  259 I had always wondered why Ato had cats around , since few Ghanaians keep animals as pets .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  259 I_PPIS1 had_VHD always_RR wondered_VVN why_RRQ Ato_NP1_NN1 had_VHD cats_NN2 around_RP ,_Y since_CS few_DA2 Ghanaians_NN2 keep_VV0 animals_NN2 as_CSA_II@ pets_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  260 The family feeds them Kenkey and dinner leftovers , but no one goes out of their way to play with or pet them .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  260 The_AT family_NN1 feeds_VVZ them_PPHO2 Kenkey_NP1_NN1@ and_CC dinner_NN1 leftovers_NN2 ,_Y but_CCB no_PN121 one_PN122 goes_VVZ out_II21 of_II22 their_APPGE way_NN1 to_TO play_VVI with_IW or_CC pet_VV0@ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  261 Since I ' ve missed my cat , which I left with my family in New Jersey , I ' ve spoiled Ato ' s cats as much as I please .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  261 Since_CS I_ZZ1% '_GE ve_NN1 missed_VVD_VVN my_APPGE cat_NN1 ,_Y which_DDQ I_PPIS1 left_VVD with_IW my_APPGE family_NN1 in_II New_NP1 Jersey_NP1 ,_Y I_ZZ1%_MC1% '_GE ve_NN1 spoiled_VVD Ato_NP1 '_GE s_ZZ1 cats_NN2 as_RG much_DA1 as_CSA I_PPIS1 please_RR_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  262 The next thing I know , Ato is telling me not to look outside , but I must .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  262 The_AT next_MD thing_NN1 I_PPIS1 know_VV0 ,_Y Ato_NP1_NN1 is_VBZ telling_VVG me_PPIO1 not_XX to_II_TO look_NN1_VV0 outside_RL ,_Y but_CCB I_PPIS1 must_VM ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  263 A hard lump forms in my throat .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  263 A_AT1_ZZ1 hard_JJ lump_NN1 forms_VVZ_NN2 in_II my_APPGE throat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  264 In a stool before the coal pot .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  264 In_II a_AT1 stool_NN1 before_II_CS the_AT coal_NN1 pot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  265 Opposite him , on the ground .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  265 Opposite_II% him_PPHO1 ,_Y on_II the_AT ground_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  266 Baby .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  266 Baby_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  267 Laying limp .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  267 Laying_VVG limp_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  268 A watery pool of blood flows from his neck .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  268 A_AT1_ZZ1 watery_JJ pool_NN1 of_IO blood_NN1 flows_VVZ_NN2 from_II his_APPGE neck_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  269 Ato tells me he got someone to kill him that morning .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  269 Ato_NN1_NP1@ tells_VVZ me_PPIO1 he_PPHS1 got_VVD someone_PN1 to_TO kill_VVI him_PPHO1 that_DD1 morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  270 The uncles will eat him today .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  270 The_AT uncles_NN2 will_VM eat_VVI him_PPHO1 today_RT ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  271 The cat was so friendly , Ato says , that it trotted up to the person who took its life .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  271 The_AT cat_NN1 was_VBDZ so_RG_RR friendly_JJ ,_Y Ato_NP1_NN1 says_VVZ ,_Y that_CST it_PPH1 trotted_VVD up_II21 to_II22 the_AT person_NN1 who_PNQS took_VVD its_Z' life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  272 To say I ' m hurt is an understatement .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  272 To_TO say_VVI I_MC1%_ZZ1% '_GE m_ZZ1_MC@_NNU@ hurt_JJ_VV0_NN1@_VVN is_VBZ an_AT1 understatement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  273 To top things off , as I ' m washing down , acrid smoke drifts into the wash stall .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  273 To_TO top_VVI things_NN2 off_RP ,_Y as_CSA I_ZZ1% '_GE m_ZZ1_MC@ washing_VVG down_RP ,_Y acrid_JJ smoke_NN1 drifts_NN2 into_II the_AT wash_NN1 stall_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  274 I smell burning hair and know that Big Uncle must be singing off Baby ' s fur .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  274 I_PPIS1 smell_VV0 burning_JJ_VVG hair_NN1 and_CC know_VV0 that_CST_DD1 Big_JJ Uncle_NN1 must_VM be_VBI singing_VVG off_II_RP Baby_NN1 '_GE s_ZZ1 fur_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  275 My eyes start tearing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  275 My_APPGE eyes_NN2 start_VV0 tearing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  276 Before long , I ' m sobbing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  276 Before_II long_RR ,_Y I_ZZ1%_MC1% '_GE m_ZZ1_MC@ sobbing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  277 I try to hide the sound , since I sense the family won ' t understand why I ' m upset .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  277 I_PPIS1 try_VV0 to_TO hide_VVI the_AT sound_NN1 ,_Y since_CS I_PPIS1 sense_VV0@ the_AT family_NN1 won_VVD_VVN '_"@_GE t_ZZ1 understand_VV0 why_RRQ I_ZZ1% '_GE m_ZZ1_MC@_NNU@ upset_JJ_VV0_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  278 It ' s just a cat , after all .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  278 It_NN1%_PPH1 '_VBZ s_ZZ1 just_RR a_AT1 cat_NN1 ,_Y after_II all_DB ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  279 But I love cats .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  279 But_CCB I_PPIS1 love_VV0 cats_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  280 As I flee from the yard , the corners of my tearing eyes catch Big Uncle by the coal pot , I glimpse it : Baby ' s charred , stiff body .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  280 As_CSA I_PPIS1 flee_VV0 from_II the_AT yard_NN1 ,_Y the_AT corners_NN2 of_IO my_APPGE tearing_VVG_JJ% eyes_NN2 catch_VV0 Big_JJ Uncle_NN1 by_II the_AT coal_NN1 pot_NN1 ,_Y I_PPIS1 glimpse_VV0 it_PPH1 :_Y Baby_NN1 '_GE s_ZZ1 charred_VVD_JJ@ ,_Y stiff_JJ body_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  281 I go to my room and refuse to emerge .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  281 I_PPIS1 go_VV0 to_II my_APPGE room_NN1 and_CC refuse_VV0_NN1 to_TO emerge_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  282 Nana comes in , approaching me with a concerned look on her face and stroking my forehead .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  282 Nana_NN1 comes_VVZ in_RP@ ,_Y approaching_VVG me_PPIO1 with_IW a_AT1 concerned_JJ look_NN1 on_II her_APPGE face_NN1 and_CC stroking_VVG my_APPGE forehead_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  283 She snickers when she discovers why I ' m upset .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  283 She_PPHS1 snickers_NN2 when_RRQ_CS she_PPHS1 discovers_VVZ why_RRQ I_ZZ1% '_GE m_ZZ1_MC@_NNU@ upset_JJ_VV0_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  284 I feel like hitting her .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  284 I_PPIS1 feel_VV0 like_II hitting_VVG her_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  285 I guess she tells Ato , because he comes in next , asking me what ' s wrong .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  285 I_PPIS1 guess_VV0 she_PPHS1 tells_VVZ Ato_NP1_NN1 ,_Y because_CS he_PPHS1 comes_VVZ in_II_RP@ next_MD ,_Y asking_VVG me_PPIO1 what_DDQ '_"@_GE s_ZZ1 wrong_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  286 I can ' t explain why the painful , cloudy emotions have been swirling in me for an hour since seeing Baby ' s fate .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  286 I_PPIS1_MC1@ can_VM_NN1% '_"@_GE t_ZZ1 explain_VV0 why_RRQ the_AT painful_JJ ,_Y cloudy_JJ emotions_NN2 have_VH0 been_VBN swirling_VVG in_II me_PPIO1 for_IF an_AT1 hour_NNT1 since_II seeing_VVG Baby_NN1 '_GE s_ZZ1 fate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  287 The only thing I manage to get out is , " Couldn ' t you have waited till I was gone , at least ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  287 The_AT only_JJ thing_NN1 I_PPIS1 manage_VV0 to_TO get_VVI out_RP is_VBZ ,_Y "_Y Couldn_NP1 '_GE t_ZZ1 you_PPY have_VH0 waited_VVN till_CS I_PPIS1 was_VBDZ gone_VVN ,_Y at_RR21 least_RR22 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  288 " I had previously arranged a two-week visit by myself to see slave-trade sites in Senegal and The Gambia .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  288 "_Y I_PPIS1 had_VHD previously_RR arranged_VVN a_AT1 two-week_JJ visit_NN1 by_II myself_PPX1 to_TO see_VVI slave-trade_JJ_NN1 sites_NN2 in_II Senegal_NP1 and_CC The_AT Gambia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  289 My trip was scheduled to commence in just a few days .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  289 My_APPGE trip_NN1 was_VBDZ scheduled_VVN to_TO commence_VVI in_RP@_II just_RR a_AT1 few_DA2 days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  290 Ato convinces me to come to the living room for breakfast , which I eat sullenly .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  290 Ato_NN1_NP1@ convinces_VVZ me_PPIO1 to_TO come_VVI to_II the_AT living_NN1 room_NN1 for_IF breakfast_NN1 ,_Y which_DDQ I_PPIS1 eat_VV0 sullenly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  291 Nana sits across from me with her schoolmate .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  291 Nana_NN1 sits_VVZ across_RL@_II from_II me_PPIO1 with_IW her_APPGE schoolmate_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  292 They stare at me are red and puffy , I ' m sure .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  292 They_PPHS2 stare_VV0 at_II me_PPIO1 are_VBR red_JJ and_CC puffy_JJ ,_Y I_ZZ1%_MC1% '_GE m_ZZ1_MC@ sure_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  293 Look at the grown lady , isn ' t she funny ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  293 Look_VV0 at_II the_AT grown_VVN lady_NN1 ,_Y isn_NN1 '_GE t_ZZ1 she_PPHS1 funny_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  294 Crying over a cat , they ' re probably saying .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  294 Crying_VVG_NN1 over_RP_II a_AT1 cat_NN1 ,_Y they_PPHS2 '_GE_"@ re_II probably_RR saying_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  295 Little Uncle enters the room without his usual greeting and skulks past me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  295 Little_DA1_JJ Uncle_NN1 enters_VVZ the_AT room_NN1 without_IW his_APPGE usual_JJ greeting_NN1 and_CC skulks_VVZ_NN2 past_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  296 I believe he knows that killing the cat has hurt me and feels sorry about it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  296 I_PPIS1 believe_VV0 he_PPHS1 knows_VVZ that_CST_DD1 killing_VVG the_AT cat_NN1 has_VHZ hurt_VVN me_PPIO1 and_CC feels_VVZ sorry_JJ about_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  297 In my anger , I hope the meal prepared from the cat will upset his stomach .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  297 In_II my_APPGE anger_NN1 ,_Y I_PPIS1 hope_VV0 the_AT meal_NN1 prepared_VVN from_II the_AT cat_NN1 will_VM upset_VVI his_APPGE stomach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  298 I need to escape Elmina soon .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  298 I_PPIS1 need_VV0 to_TO escape_VVI Elmina_NP1 soon_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  299 More like right now .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  299 More_RGR_RRR_DAR like_JJ@_II right_NN1_RR_JJ now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  300 I hop into a taxi headed for Cape Coast to clear my mind .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  300 I_PPIS1 hop_VV0 into_II a_AT1 taxi_NN1 headed_VVN for_IF Cape_NP1 Coast_NP1 to_TO clear_VVI my_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  301 On the ride back , I realize that Baby ' s death was just a catalyst for my nonstop tears that morning .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  301 On_II the_AT ride_NN1 back_NN1_RP ,_Y I_PPIS1 realize_VV0 that_DD1_CST Baby_NN1 '_GE s_ZZ1 death_NN1 was_VBDZ just_RR a_AT1 catalyst_NN1 for_IF my_APPGE nonstop_JJ tears_NN2 that_DD1 morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  302 Besides Ato and his family , that cat was one of few living beings in Elmina that ever looked happy to see me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  302 Besides_II_RR Ato_NP1_NN1 and_CC his_APPGE family_NN1 ,_Y that_DD1 cat_NN1 was_VBDZ one_MC1 of_IO few_DA2 living_JJ beings_NN2 in_II Elmina_NP1_NN1@ that_CST_DD1 ever_RR looked_VVN_VVD happy_JJ to_TO see_VVI me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  303 Ato turns his red motorbike at Elmina Junction .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  303 Ato_NN1_NP1@ turns_VVZ his_APPGE red_JJ_NN1 motorbike_NN1 at_II Elmina_NP1 Junction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  304 We whiz by the shops at Elmina New Market , which are sealed with their brown metal security gates .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  304 We_PPIS2 whiz_VV0 by_II the_AT shops_NN2 at_II Elmina_NP1 New_JJ Market_NN1 ,_Y which_DDQ are_VBR sealed_VVN with_IW their_APPGE brown_JJ metal_NN1 security_NN1 gates_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  305 I feel myself getting tense , is everything okay with you ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  305 I_PPIS1 feel_VV0 myself_PPX1 getting_VVG tense_JJ_NN1@ ,_Y is_VBZ everything_PN1 okay_JJ with_IW you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  306 You have been quiet this whole ride .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  306 You_PPY have_VH0 been_VBN quiet_JJ this_DD1 whole_JJ_NN1 ride_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  307 " I don ' t answer .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  307 "_Y I_MC1@_PPIS1 don_VD '_GE t_ZZ1 answer_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  308 I ' m too busy observing the old man walking at the roadside .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  308 I_ZZ1@_MC1@ '_GE m_MC@_ZZ1 too_RG_RR@ busy_JJ_VV0@ observing_VVG the_AT old_JJ man_NN1 walking_VVG_NN1 at_II the_AT roadside_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  309 Watching him watching oburonyi me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  309 Watching_VVG him_PPHO1 watching_VVG oburonyi_NN2 me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  310 He nearly drops his head load of firewood to gawk .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  310 He_PPHS1 nearly_RR drops_VVZ his_APPGE head_NN1_JJ@ load_NN1 of_IO firewood_NN1 to_TO gawk_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  311 As we near Elmina ' s more crowded streets , I mull over the interview with an elderly woman , which we ' re returning from .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  311 As_CSA we_PPIS2 near_VV0@ Elmina_NP1 '_GE s_ZZ1 more_RRR crowded_JJ_VVD streets_NN2 ,_Y I_PPIS1 mull_VV0 over_RP_II the_AT interview_NN1 with_IW an_AT1 elderly_JJ woman_NN1 ,_Y which_DDQ we_PPIS2 '_GE_"@ re_II returning_VVG from_II ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  312 To our shock , she talked openly about slavery within her family , considered a taboo topic .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  312 To_II our_APPGE shock_NN1 ,_Y she_PPHS1 talked_VVD openly_RR about_II slavery_NN1 within_II her_APPGE family_NN1 ,_Y considered_VVD_VVN a_AT1 taboo_JJ_NN1 topic_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  313 According to what I ' d read , these domestic " slaves " experienced none of the savageries as did those in the Americas .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  313 According_II21 to_II22 what_DDQ I_PPIS1_ZZ1%_MC1% '_"@_GE d_ZZ1 read_VV0_VVD_VVN ,_Y these_DD2 domestic_JJ "_Y slaves_NN2 "_Y experienced_VVD_VVN none_PN of_IO the_AT savageries_NN2 as_CSA did_VDD those_DD2 in_II the_AT Americas_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  314 They were in fact vital to the family lineage , which is based on a matrilineal descent system .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  314 They_PPHS2 were_VBDR in_II fact_NN1 vital_JJ to_II the_AT family_NN1 lineage_NN1_VV0 ,_Y which_DDQ is_VBZ based_VVN on_II a_AT1 matrilineal_JJ descent_NN1 system_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  315 Families with few female heirs bought women in hopes of birthing more girls .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  315 Families_NN2 with_IW few_DA2 female_JJ heirs_NN2 bought_VVD_VVN women_NN2 in_II hopes_NN2 of_IO birthing_VVG more_DAR girls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  316 Our elderly informant reiterated this , labeling the woman in question who currently acts as her servant her sister .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  316 Our_APPGE elderly_JJ informant_NN1 reiterated_VVD this_DD1 ,_Y labeling_VVG the_AT woman_NN1 in_II question_NN1 who_PNQS currently_RR acts_VVZ as_CSA_II@ her_APPGE servant_NN1 her_APPGE sister_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  317 Ironically , the remark came after expressing anger over the servant ' s no children of her own .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  317 Ironically_RR ,_Y the_AT remark_NN1 came_VVD after_II expressing_VVG anger_NN1_VV0 over_II_RP the_AT servant_NN1 '_GE s_ZZ1 no_AT children_NN2 of_IO her_APPGE own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  318 The revelation disturbs me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  318 The_AT revelation_NN1 disturbs_VVZ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  319 It makes me aware of a deeper , inerasable outsider status in Elmina .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  319 It_PPH1 makes_VVZ me_PPIO1 aware_JJ of_IO a_AT1 deeper_JJR ,_Y inerasable_JJ outsider_NN1 status_NN1 in_II Elmina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  320 I wonder how I , of foreign blood , can ever be accepted there , when some citizens are still considered foreigners , generations after their " family " purchased one of their ancestors !
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  320 I_PPIS1 wonder_VV0 how_RRQ I_PPIS1_ZZ1% ,_Y of_IO foreign_JJ blood_NN1 ,_Y can_VM ever_RR be_VBI accepted_VVN there_RL ,_Y when_CS_RRQ some_DD citizens_NN2 are_VBR still_RR considered_VVN_VVD foreigners_NN2 ,_Y generations_NN2 after_II_CS their_APPGE "_Y family_NN1 "_Y purchased_VVD_VVN one_MC1 of_IO their_APPGE ancestors_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  321 I wrap my arms tighter around Ato ' s waist .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  321 I_PPIS1 wrap_VV0 my_APPGE arms_NN2 tighter_RRR@_JJR around_II Ato_NP1 '_GE s_ZZ1 waist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  322 He navigates around potholes on the street .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  322 He_PPHS1 navigates_VVZ around_RP_II potholes_NN2 on_II the_AT street_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  323 When I rest my chin on his shoulder , his torso goes rigid .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  323 When_CS_RRQ I_PPIS1 rest_VV0 my_APPGE chin_NN1 on_II his_APPGE shoulder_NN1 ,_Y his_APPGE torso_NN1 goes_VVZ rigid_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  324 " Please , dear , sit up .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  324 "_Y Please_RR ,_Y dear_UH ,_Y sit_VV0 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  325 " " Where will you drop me today , Ato ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  325 "_Y "_Y Where_RRQ will_VM you_PPY drop_VVI me_PPIO1 today_RT ,_Y Ato_NP1_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  326 " I say into his ear , not moving from my position .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  326 "_Y I_PPIS1 say_VV0 into_II his_APPGE ear_NN1 ,_Y not_XX moving_VVG from_II my_APPGE position_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  327 He squirms .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  327 He_PPHS1 squirms_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  328 " Victoria Market .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  328 "_Y Victoria_NP1 Market_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  329 I will meet you back at home .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  329 I_PPIS1 will_VM meet_VVI you_PPY back_RP at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  330 " He stops at Victoria Market , a small square filled with cement structures , where the new market was meant to go .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  330 "_Y He_PPHS1 stops_VVZ at_II Victoria_NP1 Market_NN1_VV0 ,_Y a_AT1 small_JJ square_NN1 filled_VVN_VVD with_IW cement_NN1 structures_NN2 ,_Y where_CS_RRQ the_AT new_JJ market_NN1 was_VBDZ meant_VVN to_TO go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  331 Ato ' s house is a short walk away .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  331 Ato_NP1@_NN1 '_GE s_ZZ1 house_NN1 is_VBZ a_AT1 short_JJ walk_NN1_VV0 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  332 On our past few trips on the bike , he ' , when we ' ve set out from the house , he ' s asked me to meet him around the corner at Victoria Market .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  332 On_II our_APPGE past_JJ_NN1 few_DA2 trips_NN2 on_II the_AT bike_NN1 ,_Y he_PPHS1 '_"@_GE ,_Y when_CS_RRQ we_PPIS2 '_GE ve_NN1 set_VVN out_RP from_II the_AT house_NN1 ,_Y he_PPHS1 '_"@_GE s_ZZ1 asked_VVD me_PPIO1 to_TO meet_VVI him_PPHO1 around_II_RP the_AT corner_NN1 at_II Victoria_NP1 Market_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  333 I climb off the bike and fold my arms across my chest .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  333 I_PPIS1 climb_VV0 off_RP_II the_AT bike_NN1 and_CC fold_VV0 my_APPGE arms_NN2 across_II my_APPGE chest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  334 " Why , Ato ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  334 "_Y Why_RRQ ,_Y Ato_NP1_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  335 Why can ' t I ride all the way home with you ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  335 Why_RRQ can_NN1%_VM '_GE_"@ t_ZZ1 I_PPIS1 ride_VV0 all_DB the_AT way_NN1 home_RL_NN1 with_IW you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  336 " He doesn ' t look at me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  336 "_Y He_PPHS1 doesn_NN1 '_GE t_ZZ1 look_VV0_NN1 at_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  337 " I don ' t want to go into it now .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  337 "_Y I_MC1@_PPIS1 don_VD '_GE t_ZZ1 want_VV0 to_TO go_VVI into_II it_PPH1 now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  338 " I march off to the house .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  338 "_Y I_PPIS1 march_VV0 off_RP to_II the_AT house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  339 I ' m too annoyed to pay attention to my surroundings , but I know my audience is there .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  339 I_ZZ1@_MC1@ '_GE m_MC@_ZZ1 too_RG_RR@ annoyed_JJ_VVN@ to_TO pay_VVI attention_NN1 to_II my_APPGE surroundings_NN2 ,_Y but_CCB I_PPIS1 know_VV0 my_APPGE audience_NN1 is_VBZ there_RL% ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  340 Especially the young seamstresses who work at one of several massive three-level houses surrounding Trafalgar Square .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  340 Especially_RR the_AT young_JJ seamstresses_NN2 who_PNQS work_VV0 at_II one_MC1 of_IO several_DA2 massive_JJ three-level_JJ_NN1 houses_NN2 surrounding_VVG_JJ Trafalgar_NP1 Square_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  341 They whisper and giggle whenever they see me in the square .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  341 They_PPHS2 whisper_VV0 and_CC giggle_NN1 whenever_RRQV they_PPHS2 see_VV0 me_PPIO1 in_II the_AT square_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  342 Ebo frowns to see me entering the front yard alone .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  342 Ebo_NN1_NP1@ frowns_VVZ_NN2 to_TO see_VVI me_PPIO1 entering_VVG the_AT front_JJ_NN1 yard_NN1 alone_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  343 " Didn ' t you leave with Ato ?
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  343 "_Y Didn_NP1@_NN1 '_GE t_ZZ1 you_PPY leave_VV0 with_IW Ato_NP1_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  344 " he asks .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  344 "_Y he_PPHS1 asks_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  345 " Ask him why I ' m walking , " I spit out as Ato buzzes up on his bike and parks .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  345 "_Y Ask_VV0 him_PPHO1 why_RRQ I_ZZ1% '_GE m_ZZ1_MC@_NNU@ walking_NN1_VVG_JJ@ ,_Y "_Y I_PPIS1 spit_VV0 out_RP as_CSA_II@ Ato_NP1_NN1 buzzes_VVZ up_RP on_II his_APPGE bike_NN1 and_CC parks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  346 Upstairs on the Mum ' s close friend and Nana are also present , but my latent anger makes me feel like doing something impulsive .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  346 Upstairs_RL on_II the_AT Mum_NN1 '_GE s_ZZ1 close_JJ friend_NN1 and_CC Nana_NN1 are_VBR also_RR present_JJ_VV0@ ,_Y but_CCB my_APPGE latent_JJ anger_NN1 makes_VVZ me_PPIO1 feel_NN1% like_II doing_VDG something_PN1 impulsive_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  347 As Ato comes up the stairs , I feel myself snarling .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  347 As_CSA_II@ Ato_NP1_NN1 comes_VVZ up_II the_AT stairs_NN2 ,_Y I_PPIS1 feel_VV0 myself_PPX1 snarling_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  348 " He ' s too embarrassed to be seen with oburonyi , " I say in a loud voice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  348 "_Y He_PPHS1 '_"@_GE s_ZZ1 too_RR@ embarrassed_JJ_VVD@ to_TO be_VBI seen_VVN with_IW oburonyi_NN2 ,_Y "_Y I_PPIS1 say_VV0 in_II_RP@ a_AT1 loud_JJ voice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  349 Mum puts an arm around me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  349 Mum_NN1 puts_VVZ an_AT1 arm_NN1 around_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  350 " Oh Yaa , don ' t let them do this to you .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  350 "_Y Oh_UH Yaa_NP1 ,_Y don_VD '_GE t_ZZ1 let_VV0 them_PPHO2 do_VDI this_DD1 to_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  351 " I pull away from Mum and turn my back to everyone to watch the busyness of brown bodies in Trafalgar Square .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  351 "_Y I_PPIS1 pull_VV0 away_II21_RL from_II22_II Mum_NN1 and_CC turn_VV0 my_APPGE back_NN1 to_II everyone_PN1 to_TO watch_VVI the_AT busyness_NN1 of_IO brown_JJ bodies_NN2 in_II Trafalgar_NP1 Square_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  352 A little girl down there notices me and fixes me with the stare .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  352 A_AT1 little_JJ girl_NN1 down_RP there_RL notices_VVZ me_PPIO1 and_CC fixes_VVZ me_PPIO1 with_IW the_AT stare_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  353 It ' s a wide-eyed gaze , as though she ' s seeing for the first time something she ' s only read about .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  353 It_NN1%_PPH1 '_VBZ s_ZZ1 a_AT1 wide-eyed_JJ gaze_NN1 ,_Y as_CS21 though_CS22 she_PPHS1 '_"@_GE s_ZZ1 seeing_VVG for_IF the_AT first_MD time_NNT1 something_PN1 she_PPHS1 '_"@_GE s_ZZ1 only_RR read_VVN_VV0_VVD about_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  354 She pokes her friend and points at me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  354 She_PPHS1 pokes_VVZ her_APPGE friend_NN1 and_CC points_NN2_VVZ at_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  355 There ' s a hardness in their eyes .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  355 There_RL '_VBZ s_ZZ1 a_AT1 hardness_NN1 in_II their_APPGE eyes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  356 They try to focus on where they ' re walking , to avoid the watery mud patches caused by a recent thunderstorm , but their heads keep turning up to me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  356 They_PPHS2 try_VV0 to_TO focus_VVI on_RP@_II where_CS_RRQ they_PPHS2 '_GE_"@ re_II walking_NN1_VVG ,_Y to_TO avoid_VVI the_AT watery_JJ mud_NN1 patches_NN2 caused_VVN by_II a_AT1 recent_JJ thunderstorm_NN1 ,_Y but_CCB their_APPGE heads_NN2 keep_VV0 turning_VVG_NN1 up_II21 to_II22 me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  357 are ignorant-o , " she says .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  357 are_VBR ignorant-o_JJ ,_Y "_Y she_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  358 " Most of these people have never been anywhere or seen anything .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  358 "_Y Most_DAT of_IO these_DD2 people_NN have_VH0 never_RR been_VBN anywhere_RL or_CC seen_VVN anything_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  359 You mustn ' t pay them any mind .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  359 You_PPY mustn_NN1_VV0 '_GE t_ZZ1 pay_VV0 them_PPHO2 any_DD mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  360 " All I want is for them not to pay me any mind .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  360 "_Y All_DB I_PPIS1 want_VV0 is_VBZ for_IF them_PPHO2 not_XX to_TO pay_VVI me_PPIO1 any_DD mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  361 Elmina has made me want to be a ghost .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  361 Elmina_NN1_NP1@ has_VHZ made_VVN me_PPIO1 want_VVI to_TO be_VBI a_AT1 ghost_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  362 That way , I could truly blend in with the town I ' m inclined to watch from an upper porch window .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  362 That_DD1 way_NN1 ,_Y I_PPIS1 could_VM truly_RR blend_VVI in_RP@ with_IW the_AT town_NN1 I_ZZ1%_MC1% '_GE m_ZZ1_MC@ inclined_JJ to_TO watch_VVI from_II an_AT1 upper_JJ porch_NN1 window_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  363 I ' m sick of feeling like I ' m stuck in a trench between black U.S.A. and black Africa .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  363 I_ZZ1@_MC1@ '_GE m_ZZ1_MC@_NNU@ sick_JJ_NN1@ of_IO feeling_VVG_NN1 like_II I_ZZ1%_MC1% '_GE m_ZZ1_NNU@_MC@ stuck_VVN_VVD in_II a_AT1 trench_NN1 between_II black_JJ U.S.A._NP1 and_CC black_JJ Africa_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  364 In the country of my birth , my race designates me a hyphenated citizen .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  364 In_II the_AT country_NN1 of_IO my_APPGE birth_NN1 ,_Y my_APPGE race_NN1 designates_VVZ me_PPIO1 a_AT1 hyphenated_JJ citizen_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  365 Beyond that , my so-called people are always trying to revoke my " black card " because they think I ' m too something for a black girl : too quiet , too imaginative , too strange .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  365 Beyond_II that_DD1 ,_Y my_APPGE so-called_JJ people_NN are_VBR always_RR trying_VVG to_TO revoke_VVI my_APPGE "_Y black_JJ card_NN1 "_Y because_CS they_PPHS2 think_VV0 I_ZZ1%_MC1% '_GE m_ZZ1_MC@ too_RR@_RG something_PN1 for_IF a_AT1 black_JJ girl_NN1 :_Y too_RG quiet_JJ ,_Y too_RG imaginative_JJ ,_Y too_RG strange_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  366 During my last night in Elmina , I feel like celebrating .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  366 During_II my_APPGE last_MD night_NNT1 in_II Elmina_NP1 ,_Y I_PPIS1 feel_VV0 like_II celebrating_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  367 It ' s not just because I won ' t have to deal with the stares anymore .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  367 It_NN1%_PPH1 '_VBZ s_ZZ1 not_XX just_RR because_CS I_PPIS1 won_VVD '_"@_GE t_ZZ1 have_VH0 to_TO deal_VVI with_IW the_AT stares_NN2 anymore_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  368 The town experiences " lights off " in other words to walk around town .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  368 The_AT town_NN1 experiences_NN2 "_Y lights_NN2_VVZ% off_RP "_Y in_II other_JJ words_NN2 to_TO walk_VVI around_II_RP town_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  369 The only other times I ' ve felt comfortable there have been during two other major blackouts .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  369 The_AT only_JJ other_JJ_NN1@ times_NNT2_II% I_PPIS1_ZZ1%_MC1% '_GE ve_NN1 felt_VVD_VVN comfortable_JJ there_RL_EX have_VH0 been_VBN during_II two_MC other_JJ major_JJ blackouts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  370 Elmina ' s streets became deliciously dark .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  370 Elmina_NP1@_NN1 '_GE s_ZZ1 streets_NN2 became_VVD deliciously_RR dark_JJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  371 My blackness was finally undistinguishable from everyone else ' s .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  371 My_APPGE blackness_NN1 was_VBDZ finally_RR undistinguishable_JJ from_II everyone_PN1 else_RR '_GE s_ZZ1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  372 Ato and I join the group of comm. center patrons sitting on the bench outside the house .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  372 Ato_NN1_NP1@ and_CC I_PPIS1 join_VV0 the_AT group_NN1 of_IO comm._NNU center_NN1 patrons_NN2 sitting_VVG on_II the_AT bench_NN1 outside_II the_AT house_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  373 Squinting through the dark , I notice that none of the patrons focuses on me , because they can ' t see me so well .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  373 Squinting_VVG through_II the_AT dark_NN1_JJ ,_Y I_PPIS1 notice_VV0 that_CST none_PN of_IO the_AT patrons_NN2 focuses_VVZ on_II me_PPIO1 ,_Y because_CS they_PPHS2 can_VM '_"@_GE t_ZZ1 see_VV0 me_PPIO1 so_RG well_RR ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  374 At some point , I force myself to mold the local sounds and sights into my memory .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  374 At_II some_DD point_NN1 ,_Y I_PPIS1 force_VV0@ myself_PPX1 to_TO mold_VVI the_AT local_JJ sounds_NN2 and_CC sights_NN2 into_II my_APPGE memory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  375 Nana ' s laugh coming from somewhere in Trafalgar Square .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  375 Nana_NN1 '_GE s_ZZ1 laugh_VV0 coming_VVG from_II somewhere_RL in_II Trafalgar_NP1 Square_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  376 Mum appearing at a porch window to reprimand her in Fante .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  376 Mum_NN1 appearing_VVG at_II a_AT1 porch_NN1 window_NN1 to_TO reprimand_VVI her_PPHO1 in_II Fante_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  377 Two windows over , Big Uncle resting on the windowsill and gazing outside .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  377 Two_MC windows_NN2 over_RP ,_Y Big_JJ Uncle_NN1 resting_VVG_NN1 on_II the_AT windowsill_NN1 and_CC gazing_VVG outside_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  378 Under the guise of blackness , Ato scooting closer to me on the bench .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  378 Under_II the_AT guise_NN1 of_IO blackness_NN1 ,_Y Ato_NP1_NN1 scooting_VVG closer_RRR_JJR to_II me_PPIO1 on_II the_AT bench_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  379 Slipping his hand into mine .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  379 Slipping_VVG his_APPGE hand_NN1 into_II mine_PPGE_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  380 The comm. center patrons sitting near us chatter in Fante , oblivious .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  380 The_AT comm._NNU center_NN1 patrons_NN2 sitting_VVG near_II us_PPIO2 chatter_VV0_NN1 in_II Fante_NP1_NN1 ,_Y oblivious_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  381 The next morning , Ato and Mum surprise me with a farewell photo gold jewelry , and her mother ' s dress .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  381 The_AT next_MD morning_NNT1 ,_Y Ato_NP1_NN1 and_CC Mum_NN1 surprise_VV0@ me_PPIO1 with_IW a_AT1 farewell_NN1 photo_NN1 gold_NN1_JJ@ jewelry_NN1 ,_Y and_CC her_APPGE mother_NN1 '_GE s_ZZ1 dress_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  382 We head to the small photo studio up the block .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  382 We_PPIS2 head_VV0@ to_II the_AT small_JJ photo_NN1 studio_NN1 up_II@_RP the_AT block_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  383 Her friend creates a tekkua , a traditional Fante wig , for me to wear in my photos .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  383 Her_APPGE friend_NN1 creates_VVZ a_AT1 tekkua_NN1 ,_Y a_AT1 traditional_JJ Fante_NN1 wig_NN1 ,_Y for_IF me_PPIO1 to_TO wear_VVI in_II_RP@ my_APPGE photos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  384 I hold my head tall and proud under the heat of synthetic hair , layered into a cone on my head .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  384 I_PPIS1 hold_VV0 my_APPGE head_NN1_JJ@ tall_JJ and_CC proud_JJ under_II the_AT heat_NN1 of_IO synthetic_JJ hair_NN1 ,_Y layered_VVN@_JJ into_II a_AT1 cone_NN1 on_II my_APPGE head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  385 I don ' t start crying until after we ' ve returned home ; until after I ' ve eaten the fufu with palm nut soup and chicken my favorite , which Mum has prepared especially for me ; until after the taxi ' s arrived to take me away .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  385 I_MC1@_PPIS1 don_VD '_GE t_ZZ1 start_VV0_NN1 crying_NN1_VVG until_CS after_CS we_PPIS2 '_GE ve_NN1 returned_VVD_VVN home_RL ;_Y until_CS after_CS I_PPIS1 '_GE ve_NN1 eaten_VVN the_AT fufu_NN1 with_IW palm_NN1 nut_NN1 soup_NN1 and_CC chicken_VV0@_NN1 my_APPGE favorite_NN1_JJ ,_Y which_DDQ Mum_NN1 has_VHZ prepared_VVN especially_RR for_IF me_PPIO1 ;_Y until_CS after_CS_II the_AT taxi_NN1 '_GE s_ZZ1 arrived_VVD_VVN to_TO take_VVI me_PPIO1 away_RL ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  386 As Ato helps the driver load my bags into the trunk , I hug Nana .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  386 As_CSA_II@ Ato_NP1_NN1 helps_VVZ the_AT driver_NN1 load_VVI my_APPGE bags_NN2 into_II the_AT trunk_NN1 ,_Y I_PPIS1 hug_VV0 Nana_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  387 She doesn ' t let go .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  387 She_PPHS1 doesn_NN1 '_GE t_ZZ1 let_VV0 go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  388 She presses her face to my chest , and I feel her bony shoulders trembling .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  388 She_PPHS1 presses_VVZ@ her_APPGE face_NN1 to_II my_APPGE chest_NN1 ,_Y and_CC I_PPIS1 feel_VV0 her_APPGE_PPHO1 bony_JJ shoulders_NN2 trembling_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  389 When I see her red , watery eyes , I lose it .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  389 When_CS_RRQ I_PPIS1 see_VV0 her_APPGE red_NN1_JJ ,_Y watery_JJ eyes_NN2 ,_Y I_PPIS1 lose_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  390 Nana runs through the house , wailing .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  390 Nana_NN1 runs_VVZ_NN2 through_II the_AT house_NN1 ,_Y wailing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  391 Mum hugs me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  391 Mum_NN1 hugs_VVZ@ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  392 I try to keep my voice steady enough to tell her how me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  392 I_PPIS1 try_VV0 to_TO keep_VVI my_APPGE voice_NN1 steady_RR@_VV0@_JJ enough_RR_DD to_TO tell_VVI her_PPHO1 how_RGQ@_RRQ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  393 Try to tell her how much I ' ll miss them all .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  393 Try_VV0 to_TO tell_VVI her_PPHO1 how_RGQ@_RRQ much_RR_DA1 I_MC1%_PPIS1_ZZ1% '_GE ll_NNU miss_VV0 them_PPHO2 all_DB ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  394 Big Uncle pulls me into an awkward hug , gruffly telling Nana and me to dry our tears .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  394 Big_JJ Uncle_NN1 pulls_VVZ me_PPIO1 into_II an_AT1 awkward_JJ hug_NN1 ,_Y gruffly_RR telling_VVG_JJ@ Nana_NN1 and_CC me_PPIO1 to_TO dry_VVI our_APPGE tears_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  395 When my taxi pulls out of Trafalgar Square , Ato drapes his arm around me and kisses me .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  395 When_CS my_APPGE taxi_NN1 pulls_VVZ out_II21 of_II22 Trafalgar_NP1 Square_NNL1 ,_Y Ato_NP1_NN1 drapes_VVZ his_APPGE arm_NN1 around_II me_PPIO1 and_CC kisses_VVZ@ me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  396 I look at him in shock .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  396 I_PPIS1 look_VV0 at_II him_PPHO1 in_II shock_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  397 Only once has he kissed me outside of the house in Elmina : sheltered behind the fence of a drinking spot on noisy Liverpool Street .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  397 Only_RR once_RR has_VHZ he_PPHS1 kissed_VVN me_PPIO1 outside_II21 of_II22 the_AT house_NN1 in_II Elmina_NP1 :_Y sheltered_JJ_VVN@ behind_II the_AT fence_NN1 of_IO a_AT1 drinking_NN1 spot_RR21@_NN1 on_RR22_II noisy_JJ Liverpool_NP1 Street_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  398 " Let them think what they want , " Ato declares as the taxi jostles across the uneven ground of Trafalgar Square .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  398 "_Y Let_VV0 them_PPHO2 think_VVI what_DDQ they_PPHS2 want_VV0 ,_Y "_Y Ato_NP1_NN1 declares_VVZ as_II_CSA the_AT taxi_NN1 jostles_VVZ across_II the_AT uneven_JJ ground_NN1 of_IO Trafalgar_NP1 Square_NNL1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  A    0  399 By Kim Coleman Foote Kim Coleman Footc is the winner of the 2008 PALF Africana Nonfiction contest , judged by Kadija Sesay.
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070904 COCA  B    0  399 By_II Kim_NP1 Coleman_NP1 Foote_NP1 Kim_NP1 Coleman_NP1 Footc_NP1 is_VBZ the_AT winner_NN1 of_IO the_AT 2008_MC PALF_NP1 Africana_NP1 Nonfiction_NN1_NP1@ contest_NN1 ,_Y judged_VVN by_II Kadija_NP1 Sesay._NP1

@@ -1,0 +1,96 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    0 Adults are n't the only ones feeling discouraged about jobs these days .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    0 Adults_NN2 are_VBR n't_XX the_AT only_JJ ones_Z' feeling_VVG_NN1 discouraged_VVN_VVD about_II jobs_NN2 these_DD2 days_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    1 According to the U.S. Bureau of Labor Statistics , about one out of every four teens looking for a job this year has not found one .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    1 According_II21 to_II22 the_AT U.S._NP1 Bureau_NN1 of_IO Labor_NN1 Statistics_NN ,_Y about_II one_MC1 out_RP of_IO every_AT1 four_MC teens_NN2 looking_VVG for_IF a_AT1 job_NN1 this_DD1 year_NNT1 has_VHZ not_XX found_VVN one_PN1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    2 Enter enterprising teens .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    2 Enter_VV0 enterprising_JJ teens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    3 A growing number of students are making money by doing what they love to do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    3 A_AT1_ZZ1 growing_JJ number_NN1 of_IO students_NN2 are_VBR making_VVG money_NN1 by_II doing_VDG what_DDQ they_PPHS2 love_VV0 to_TO do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    4 From baking , dancing , drumming , and even operating vending machines , teens are out in the workforce -- full force !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    4 From_II baking_NN1_VVG ,_Y dancing_VVG_NN1 ,_Y drumming_NN1_VVG@ ,_Y and_CC even_RR operating_VVG vending_JJ@_VVG_NN1@ machines_NN2 ,_Y teens_NN2 are_VBR out_RP in_II the_AT workforce_NN1 --_ZZ full_JJ force_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    5 Teen Entrepreneurs According to the McKelvey Foundation , which gives college scholarships to teens who have run their own companies for at least a year , the number of applications they received increased from 900 in 2008 to 1,200 in 2009 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    5 Teen_NN1 Entrepreneurs_NN2 According_II21 to_II22 the_AT McKelvey_NP1 Foundation_NN1 ,_Y which_DDQ gives_VVZ college_NN1 scholarships_NN2 to_II teens_NN2 who_PNQS have_VH0 run_VVN their_APPGE own_DA companies_NN2 for_IF at_RR21 least_RR22 a_AT1 year_NNT1 ,_Y the_AT number_NN1 of_IO applications_NN2 they_PPHS2 received_VVD increased_VVN_JJ from_II 900_MC in_II 2008_MC to_II 1,200_MC in_II 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    6 This year , the group awarded 70 scholarships to enterprising teens .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    6 This_DD1 year_NNT1 ,_Y the_AT group_NN1 awarded_VVN_VVD@ 70_MC scholarships_NN2 to_II enterprising_JJ teens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    7 One of those teens is 18-year-old Tony Adams from Harlem in New York City .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    7 One_MC1 of_IO those_DD2 teens_NN2 is_VBZ 18-year-old_JJ Tony_NP1 Adams_NP1 from_II Harlem_NP1 in_II New_NP1 York_NP1 City_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    8 " Being able to say I 'm a young entrepreneur is the best feeling in the world , " Tony told a reporter for the newspaper Crain 's New York Business .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    8 "_Y Being_VBG able_JK to_TO say_VVI I_PPIS1 'm_VBM a_AT1 young_JJ entrepreneur_NN1 is_VBZ the_AT best_JJT_RRT feeling_NN1_VVG in_II the_AT world_NN1 ,_Y "_Y Tony_NP1 told_VVD a_AT1 reporter_NN1 for_IF the_AT newspaper_NN1 Crain_NN1 's_GE_VBZ New_NP1 York_NP1 Business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0    9 The newspaper featured Tony McKelvey Foundation 's Entrepreneurial Scholarship program .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0    9 The_AT newspaper_NN1 featured_VVD Tony_NP1 McKelvey_NP1 Foundation_NN1 's_GE Entrepreneurial_JJ Scholarship_NN1 program_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   10 Two years ago , Tony founded a vending-machine company called King Tone 's Vending Corp .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   10 Two_MC years_NNT2 ago_RA ,_Y Tony_NP1 founded_VVD a_AT1 vending-machine_JJ_NN1 company_NN1 called_VVD@_VVN King_NNB Tone_NP1 's_GE Vending_JJ@_NP1_NN1@_VVG Corp_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   11 Tony started the company to help raise money to pay for college .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   11 Tony_NP1 started_VVD the_AT company_NN1 to_TO help_VVI raise_NN1@_VV0 money_NN1 to_TO pay_VVI for_IF college_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   12 At first , he bought used gumball and snack machines ; then he filled them with snacks that he bought at wholesale retailers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   12 At_RR21 first_RR22 ,_Y he_PPHS1 bought_VVD used_JJ gumball_NN1 and_CC snack_NN1_VV0@ machines_NN2 ;_Y then_RT he_PPHS1 filled_VVD them_PPHO2 with_IW snacks_NN2 that_CST he_PPHS1 bought_VVD at_II wholesale_JJ retailers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   13 The business took off -- Tony forecasts sales will hit $12,000 this year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   13 The_AT business_NN1 took_VVD off_RP_II --_ZZ Tony_NP1 forecasts_VVZ@_NN2 sales_NN will_VM hit_VVI $12,000_NNU this_DD1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   14 Tony , who started college at Pennsylvania State this fall , will travel back to New York on weekends to check on his machines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   14 Tony_NP1 ,_Y who_PNQS started_VVD college_NN1 at_II Pennsylvania_NP1 State_NN1 this_DD1 fall_NN1 ,_Y will_VM travel_VVI back_RP to_II New_NP1 York_NP1 on_II weekends_NNT2 to_TO check_VVI on_II_RP@ his_APPGE machines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   15 David Junior Buono , 18 , from Stoneham , Massachusetts , also received a McKelvey Foundation scholarship .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   15 David_NP1 Junior_JJ Buono_NN1_NP1 ,_Y 18_MC ,_Y from_II Stoneham_NP1 ,_Y Massachusetts_NP1 ,_Y also_RR received_VVD_VVN a_AT1 McKelvey_NP1 Foundation_NN1 scholarship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   16 David Junior , who has been called " DJ " since he was born , is an actual DJ .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   16 David_NP1 Junior_JJ ,_Y who_PNQS has_VHZ been_VBN called_VVN "_Y DJ_NN1 "_Y since_CS he_PPHS1 was_VBDZ born_VVN ,_Y is_VBZ an_AT1 actual_JJ DJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   17 DJ had his first paid gig when he was just 11 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   17 DJ_NN1 had_VHD his_APPGE first_MD paid_VVN gig_NN1 when_CS_RRQ he_PPHS1 was_VBDZ just_RR 11_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   18 He played a Christmas party for a local police station , and Spinner Music Productions was born .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   18 He_PPHS1 played_VVD a_AT1 Christmas_NNT1 party_NN1 for_IF a_AT1 local_JJ police_NN2 station_NN1_VV0% ,_Y and_CC Spinner_NP1_NN1 Music_NN1 Productions_NN2 was_VBDZ born_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   19 He now has 10 employees who emcee and play music for proms , carnivals , weddings , and sweet-16 parties .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   19 He_PPHS1 now_RT has_VHZ 10_MC employees_NN2 who_PNQS emcee_NN1 and_CC play_VV0_NN1 music_NN1 for_IF proms_NN2 ,_Y carnivals_NN2 ,_Y weddings_NN2 ,_Y and_CC sweet-16_MC parties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   20 What 's his , " he told Scope .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   20 What_DDQ 's_VBZ his_APPGE ,_Y "_Y he_PPHS1 told_VVD Scope_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   21 " I must stress HIGHLY !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   21 "_Y I_PPIS1 must_VM stress_VVI HIGHLY_RR !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   22 Anybody can buy a boom box and call himself a DJ , but it takes countless hours of practice and dedication to perform the perfect mixes ; you must have the ability to read a crowd , and know your music !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   22 Anybody_PN1 can_VM buy_VVI a_AT1 boom_NN1 box_NN1 and_CC call_VVI himself_PPX1 a_AT1 DJ_NN1 ,_Y but_CCB it_PPH1 takes_VVZ countless_JJ hours_NNT2 of_IO practice_NN1 and_CC dedication_NN1 to_TO perform_VVI the_AT perfect_JJ mixes_NN2 ;_Y you_PPY must_VM have_VHI the_AT ability_NN1 to_TO read_VVI a_AT1 crowd_NN1 ,_Y and_CC know_VVI your_APPGE music_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   23 " Passion Pays When Jennifer Goebel , from Piano , Texas , was 16 , she " wanted a job , but not just any normal teenager job , " she told Scope .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   23 "_Y Passion_NN1 Pays_VVZ When_RRQ_CS Jennifer_NP1 Goebel_NP1 ,_Y from_II Piano_NN1 ,_Y Texas_NP1 ,_Y was_VBDZ 16_MC ,_Y she_PPHS1 "_Y wanted_VVD a_AT1 job_NN1 ,_Y but_CCB not_XX just_RR any_DD normal_JJ teenager_NN1 job_NN1 ,_Y "_Y she_PPHS1 told_VVD Scope_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   24 " I started thinking about possibilities , " says Jennifer , who is a dancer and enjoys spending time with kids .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   24 "_Y I_PPIS1 started_VVD thinking_VVG_NN1 about_II possibilities_NN2 ,_Y "_Y says_VVZ Jennifer_NP1 ,_Y who_PNQS is_VBZ a_AT1 dancer_NN1 and_CC enjoys_VVZ spending_JJ@_VVG_NN1 time_NNT1 with_IW kids_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   25 " After going over all my strengths and weaknesses , I came up with the idea to start my own dance company .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   25 "_Y After_II going_VVG over_RP_II all_DB my_APPGE strengths_NN2 and_CC weaknesses_NN2 ,_Y I_PPIS1 came_VVD up_RP with_IW the_AT idea_NN1 to_TO start_VVI my_APPGE own_DA dance_NN1 company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   26 " Jennifer , now 18 , is the founder of All-American Dance Company .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   26 "_Y Jennifer_NP1 ,_Y now_RT 18_MC ,_Y is_VBZ the_AT founder_NN1 of_IO All-American_JJ Dance_NN1 Company_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   27 She and her employees teach dance to children in private learning centers and day-care centers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   27 She_PPHS1 and_CC her_APPGE employees_NN2 teach_VV0 dance_NN1_VV0 to_II children_NN2 in_RR21_II private_RR22_JJ learning_VVG_NN1 centers_NN2 and_CC day-care_JJ_NN1 centers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   28 " My ultimate dream is to expand All-American Dance Company to 1,000 locations , " she says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   28 "_Y My_APPGE ultimate_JJ dream_NN1 is_VBZ to_TO expand_VVI All-American_JJ Dance_NN1 Company_NN1 to_II 1,000_MC locations_NN2 ,_Y "_Y she_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   29 Like Jennifer , Eric Cieslewicz ( CHEHZ-luh-vich ) , 18 lessons in the basement of his family home in Milford , Ohio .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   29 Like_II Jennifer_NP1 ,_Y Eric_NP1 Cieslewicz_NP1 (_Y CHEHZ-luh-vich_NP1 )_Y ,_Y 18_MC lessons_NN2 in_II the_AT basement_NN1 of_IO his_APPGE family_NN1 home_RL_NN1 in_II Milford_NP1 ,_Y Ohio_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   30 He pulls in more than $400 a month through lessons and performing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   30 He_PPHS1 pulls_VVZ in_II_RP@ more_DAR_RRR than_CSN $400_NNU a_AT1 month_NNT1 through_II lessons_NN2 and_CC performing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   31 As a child , Jessica Cervantes from Miami , Florida , loved baking desserts with her grandmother .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   31 As_II_CSA a_AT1 child_NN1 ,_Y Jessica_NP1 Cervantes_NP1_NN2 from_II Miami_NP1 ,_Y Florida_NP1_FW@ ,_Y loved_VVD_VVN baking_VVG_NN1_JJ@ desserts_NN2 with_IW her_APPGE grandmother_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   32 Two years ago , she noticed that cupcakes were regaining popularity .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   32 Two_MC years_NNT2 ago_RA ,_Y she_PPHS1 noticed_VVD that_CST cupcakes_NN2 were_VBDR regaining_VVG popularity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   33 " I found that the biggest drawback to cupcakes was their messiness , " Jessica , 19 , explains .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   33 "_Y I_PPIS1 found_VVD that_CST the_AT biggest_JJT drawback_NN1 to_II cupcakes_NN2 was_VBDZ their_APPGE messiness_NN1 ,_Y "_Y Jessica_NP1 ,_Y 19_MC ,_Y explains_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   34 " Parents often complained that cupcakes left frosting all over their children 's hands , which ultimately landed on sofas , walls , and floors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   34 "_Y Parents_NN2 often_RR complained_VVD_VVN@ that_CST_DD1 cupcakes_VVZ_NN2 left_JJ_VVD frosting_NN1_VVG all_RR over_II their_APPGE children_NN2 's_GE hands_NN2 ,_Y which_DDQ ultimately_RR landed_VVN_VVD on_II sofas_NN2 ,_Y walls_NN2 ,_Y and_CC floors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   35 I decided to solve this problem .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   35 I_PPIS1 decided_VVD to_TO solve_VVI this_DD1 problem_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   36 " Her winning solution ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   36 "_Y Her_APPGE winning_JJ@ solution_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   37 A cupcake on an edible cookie stick , called Popsy Cakes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   37 A_AT1_ZZ1 cupcake_NN1_VV0 on_II an_AT1 edible_JJ cookie_NN1 stick_NN1_VV0 ,_Y called_VVN Popsy_JJ_NN1 Cakes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   38 " I want to make Popsy Cakes a global sensation , " she says .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   38 "_Y I_PPIS1 want_VV0 to_TO make_VVI Popsy_JJ_NN1 Cakes_NN2 a_AT1 global_JJ sensation_NN1 ,_Y "_Y she_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   39 Inspired ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   39 Inspired_JJ_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   40 Why not turn your dreams into reality ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   40 Why_RRQ not_XX turn_VVI your_APPGE dreams_NN2 into_II reality_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   41 Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   41 Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   42 Imagine you are a business executive .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   42 Imagine_VV0 you_PPY are_VBR a_AT1 business_NN1 executive_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   43 Write a business plan with descriptions of your product or service , your dream client or customer , and how you will advertise your business .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   43 Write_VV0 a_AT1 business_NN1 plan_NN1 with_IW descriptions_NN2 of_IO your_APPGE product_NN1 or_CC service_NN1 ,_Y your_APPGE dream_NN1 client_NN1 or_CC customer_NN1 ,_Y and_CC how_RRQ you_PPY will_VM advertise_VVI your_APPGE business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   44 PHOTO ( COLOR ) ( COLOR ) : Eric Cieslewicz ( above , right ) gives a drum lesson .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   44 PHOTO_NN1 (_Y COLOR_NN1 )_Y (_Y COLOR_NN1 )_Y :_Y Eric_NP1 Cieslewicz_NP1 (_Y above_RL ,_Y right_RR_NN1_JJ )_Y gives_VVZ a_AT1 drum_NN1 lesson_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   45 PHOTO ( COLOR ) : Jennifer Goebel with a young dance student .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   45 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Jennifer_NP1 Goebel_NP1 with_IW a_AT1 young_JJ dance_NN1 student_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   46 PHOTO ( COLOR ) : Jessica Cervantes baked her way to success .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   46 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Jessica_NP1 Cervantes_NP1 baked_VVD her_APPGE way_NN1 to_II success_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  A    0   47 By Erin Meanley
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080223 COCA  B    0   47 By_II Erin_NP1 Meanley_NP1

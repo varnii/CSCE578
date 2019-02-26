@@ -1,0 +1,963 @@
+##4071205
+LIKE	like	ii
+ALL	all	db
+industries	industry	nn2
+confronting	confront	vvg
+today	today	rt
+'	'	ge
+s	s	zz1
+global	global	jj
+economic	economic	jj
+recession	recession	nn1
+,	,	y
+the	the	at
+publishing	publishing	nn1
+industry	industry	nn1
+has	have	vhz
+been	be	vbn
+forced	force	vvn
+to	to	to
+manage	manage	vvi
+the	the	at
+problem	problem	nn1
+of	of	io
+dwindling	dwindling	jj
+demand	demand	nn1
+for	for	if
+its	its	z'
+products	product	nn2
+as	as	csa_ii@
+consumers	consumer	nn2
+cut	cut	vv0_vvn
+back	back	rp
+on	on	ii
+their	their	appge
+spending	spending	nn1
+.	.	y
+Of	of	rr21
+course	course	rr22
+,	,	y
+this	this	dd1
+decreased	decreased	jj@_vvd
+demand	demand	nn1
+for	for	if
+new	new	jj
+books	book	nn2
+has	have	vhz
+hit	hit	vvn
+booksellers	bookseller	nn2
+,	,	y
+publishers	publisher	nn2
+and	and	cc
+authors	author	nn2
+directly	directly	rr
+in	in	ii
+their	their	appge
+pocketbooks	pocketbook	nn2
+.	.	y
+Sara	sara	np1
+Nelson	nelson	np1
+,	,	y
+former	former	da
+editor	editor	nn1
+in	in	ii
+chief	chief	nn1
+of	of	io
+Publishers	publisher	nn2
+Weekly	weekly	rr@_jj
+,	,	y
+explained	explain	vvd_vvn
+diminishing	diminishing	jj_vvg
+book	book	nn1
+sales	sales	nn
+as	as	csa_ii@
+"	"	y
+a	a	at1
+microcosm	microcosm	nn1
+of	of	io
+what	what	ddq
+'	'	"@_ge
+s	s	zz1
+been	be	vbn
+going	go	vvg
+on	on	rp@
+in	in	ii
+the	the	at
+real	real	jj
+world	world	nn1
+,	,	y
+"	"	y
+and	and	cc
+described	describe	vvd_vvn
+their	their	appge
+impact	impact	nn1
+on	on	ii
+publishers	publisher	nn2
+as	as	csa_rg@
+"	"	y
+shocking	shocking	jj
+and	and	cc
+really	really	rr
+sobering	sobering	jj_vvg@
+"	"	y
+in	in	ii
+an	a	at1
+interview	interview	nn1
+that	that	cst
+aired	air	vvd
+on	on	ii_rp@
+National	national	jj
+Public	public	jj_nn1
+Radio	radio	nn1
+.	.	y
+Several	several	da2
+weeks	week	nnt2
+after	after	ii_cs
+the	the	at
+broadcast	broadcast	nn1
+,	,	y
+Nelson	nelson	np1
+was	be	vbdz
+laid	lay	vvn
+off	off	rp
+in	in	ii
+a	a	at1
+corporate	corporate	jj
+restructuring	restructuring	nn1
+.	.	y
+<>		null
+Publishers	publisher	nn2
+have	have	vh0
+reacted	react	vvn
+to	to	ii
+lowering	lower	vvg_nn1
+book	book	nn1
+sales	sales	nn
+predictably	predictably	rr
+by	by	ii
+implementing	implement	vvg
+an	a	at1
+array	array	nn1
+of	of	io
+cost-cutting	cost-cutting	jj_nn1
+strategies	strategy	nn2
+.	.	y
+Several	several	da2
+publishing	publishing	nn1_vvg
+houses	house	nn2
+,	,	y
+including	including	ii_vvg@
+behemoths	behemoth	nn2
+Simon	simon	np1
+&;		null
+Schuster	schuster	np1_nn1
+and	and	cc
+Random	random	jj
+House	house	nn1
+,	,	y
+have	have	vh0
+begun	begin	vvn
+laying	lay	vvg
+off	off	ii_rp
+staff	staff	nn
+.	.	y
+Simon	simon	np1
+&;		null
+Schuster	schuster	np1_nn1
+CEO	ceo	nn1
+Carolyn	carolyn	np1
+Reidy	reidy	np1
+described	describe	vvd
+her	her	appge
+company	company	nn1
+'	'	ge
+s	s	zz1
+layoffs	layoffs	vvz_nn2
+as	as	csa_ii@
+"	"	y
+an	a	at1
+unavoidable	unavoidable	jj
+acknowledgment	acknowledgment	nn1
+of	of	io
+the	the	at
+current	current	jj
+bookselling	bookselling	jj@_nn1@
+marketplace	marketplace	nn1
+and	and	cc
+what	what	ddq
+may	may	vm
+very	very	rg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+concluding	conclude	vvg
+that	that	cst
+"	"	y
+the	the	at
+entire	entire	jj
+publishing	publishing	nn1
+industry	industry	nn1
+is	be	vbz
+coping	cope	vvg
+with	with	iw
+these	these	dd2
+truly	truly	rr
+difficult	difficult	jj
+circumstances	circumstance	nn2
+.	.	y
+"	"	y
+<>		null
+Nashville-based	nashville-based	jj_nn1
+publisher	publisher	nn1
+Thomas	thomas	np1
+Nelson	nelson	np1
+also	also	rr
+cut	cut	vvn_vv0
+10	10	mc
+percent	percent	nnu
+of	of	io
+its	its	z'
+staff	staff	nn
+,	,	y
+with	with	iw
+CEO	ceo	nn1
+Michael	michael	np1
+Hyatt	hyatt	np1
+describing	describe	vvg
+the	the	at
+cuts	cut	nn2
+as	as	ii
+"	"	y
+purely	purely	rr
+a	a	at1
+result	result	nn1
+of	of	io
+the	the	at
+slowdown	slowdown	nn1
+in	in	ii
+the	the	at
+economy	economy	nn1
+.	.	y
+"	"	y
+More	more	dar_rrr
+publishing	publishing	nn1_vvg
+houses	house	nn2
+are	be	vbr
+expected	expect	vvn
+to	to	to
+follow	follow	vvi
+suit	suit	nn1_vv0
+with	with	iw
+layoffs	layoff	nn2
+,	,	y
+hiring	hire	vvg_nn1
+freezes	freeze	nn2
+,	,	y
+freezes	freeze	vvz_nn2
+in	in	ii
+salary	salary	nn1
+,	,	y
+budget	budget	nn1_vv0@
+cuts	cut	nn2_vvz
+and	and	cc
+other	other	jj
+measures	measure	nn2
+.	.	y
+<>		null
+Publisher	publisher	nn1
+Houghton	houghton	np1
+Mifflin	mifflin	np1
+Harcourt	harcourt	np1
+sent	send	vvd
+shock	shock	nn1
+waves	wave	nn2
+through	through	ii
+the	the	at
+publishing	publishing	nn1
+world	world	nn1
+when	when	cs_rrq
+it	it	pph1
+announced	announce	vvd
+a	a	at1
+suspension	suspension	nn1
+of	of	io
+new	new	jj
+book	book	nn1
+acquisitions	acquisition	nn2
+in	in	ii
+the	the	at
+final	final	jj
+weeks	week	nnt2
+of	of	io
+2008	2008	mc
+.	.	y
+Ellen	ellen	np1
+Geiger	geiger	np1
+,	,	y
+an	a	at1
+agent	agent	nn1
+with	with	iw
+the	the	at
+Frances	frances	np1
+Goldin	goldin	np1
+Literary	literary	jj
+Agency	agency	nn1
+,	,	y
+nervously	nervously	rr
+told	tell	vvd_vvn
+NPR	npr	np1
+that	that	cst
+"	"	y
+if	if	cs
+one	one	mc1
+company	company	nn1
+is	be	vbz
+halting	halt	vvg
+their	their	appge
+acquisitions	acquisition	nn2
+,	,	y
+it	it	pph1
+'	'	"@_ge
+s	s	zz1
+really	really	rr
+a	a	at1
+cause	cause	nn1
+of	of	io
+great	great	jj
+concern	concern	nn1
+.	.	y
+"	"	y
+<>		null
+Of	of	rr21
+course	course	rr22
+,	,	y
+book	book	nn1
+publishers	publisher	nn2
+were	be	vbdr
+already	already	rr
+facing	face	vvg
+an	a	at1
+uphill	uphill	jj
+struggle	struggle	nn1
+even	even	rr
+before	before	ii_cs
+the	the	at
+economic	economic	jj
+recession	recession	nn1
+arrived	arrive	vvd_vvn
+.	.	y
+They	they	pphs2
+continue	continue	vv0
+to	to	to
+lose	lose	vvi
+readers	reader	nn2
+,	,	y
+especially	especially	rr
+among	among	ii
+young	young	jj
+people	people	nn
+,	,	y
+who	who	pnqs
+are	be	vbr
+increasingly	increasingly	rr
+turning	turn	vvg
+to	to	ii
+digital	digital	jj
+technology	technology	nn1
+(	(	y
+the	the	at
+Web	web	nn1
+,	,	y
+for	for	rex21
+example	example	rex22
+)	)	y
+and	and	cc
+moving	move	vvg
+away	away	ii21_rl
+from	from	ii22_ii
+the	the	at
+physical	physical	jj
+book	book	nn1
+.	.	y
+Newspapers	newspaper	nn2
+face	face	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+the	the	at
+Chicago	chicago	np1
+Tribune	tribune	nn1
+,	,	y
+Los	los	np1
+Angeles	angeles	np1
+Times	time	nnt2
+and	and	cc
+several	several	da2
+other	other	jj
+newspapers	newspaper	nn2
+,	,	y
+declared	declare	vvd_jj@_vvn
+bankruptcy	bankruptcy	nn1
+in	in	ii
+December	december	npm1
+amid	amid	ii
+dwindling	dwindling	jj
+readership	readership	nn1
+and	and	cc
+revenues	revenue	nn2
+.	.	y
+<>		null
+Unless	unless	cs
+the	the	at
+economy	economy	nn1
+recovers	recover	vvz
+soon	soon	rr
+,	,	y
+publishers	publisher	nn2
+and	and	cc
+authors	author	nn2
+can	can	vm
+expect	expect	vvi
+to	to	to
+face	face	vvi
+lower	low	jjr
+demand	demand	nn1
+for	for	if
+books	book	nn2
+.	.	y
+With	with	iw
+the	the	at
+advent	advent	nn1
+of	of	io
+low-cost	low-cost	jj
+(	(	y
+and	and	cc
+often	often	rr
+no-cost	no-cost	jj_vv0
+)	)	y
+digital	digital	jj
+technology	technology	nn1
+such	such	ii21
+as	as	ii22
+the	the	at
+Internet	internet	nn1_np1
+and	and	cc
+an	a	at1
+array	array	nn1
+of	of	io
+downloadable	downloadable	jj
+entertainment	entertainment	nn1
+choices	choice	nn2
+from	from	ii
+e-books	e-book	nn2
+to	to	ii
+music	music	nn1
+and	and	cc
+film	film	nn1
+,	,	y
+the	the	at
+traditional	traditional	jj
+book	book	nn1
+may	may	vm
+no	no	rr21
+longer	long	rr22
+seem	seem	vvi
+like	like	ii
+the	the	at
+bargain	bargain	nn1
+purchase	purchase	vv0_nn1
+it	it	pph1
+once	once	rr
+was	be	vbdz
+.	.	y
+<>		null
+But	but	ccb
+as	as	csa_ii
+the	the	at
+old	old	jj
+saying	saying	nn1@
+goes	go	vvz
+,	,	y
+every	every	at1
+problem	problem	nn1
+also	also	rr
+represents	represent	vvz
+an	a	at1
+opportunity	opportunity	nn1
+.	.	y
+Some	some	dd
+types	type	nn2
+of	of	io
+books	book	nn2
+should	should	vm
+continue	continue	vvi
+selling	sell	vvg_nn1
+well	well	rr
+,	,	y
+or	or	cc
+possibly	possibly	rr
+doing	do	vdg
+even	even	rr
+better	better	rrr_jjr
+,	,	y
+in	in	ii
+the	the	at
+current	current	jj
+climate	climate	nn1
+.	.	y
+Nonfiction	nonfiction	nn1_np1@
+books	book	nn2
+about	about	ii
+how	how	rrq
+the	the	at
+present	present	jj_nn1
+economic	economic	jj
+crisis	crisis	nn1
+developed	develop	vvn_vvd
+and	and	cc
+might	might	vm
+be	be	vbi
+fixed	fix	vvn
+will	will	vm
+surely	surely	rr
+become	become	vvi
+a	a	at1
+new	new	jj
+trend	trend	nn1
+in	in	ii
+bookselling	bookselling	vvg_nn1@
+,	,	y
+as	as	csa
+will	will	nn1@_vm
+books	book	nn2
+about	about	ii
+how	how	rrq
+to	to	to
+cope	cope	vvi
+effectively	effectively	rr
+with	with	iw
+difficult	difficult	jj
+economic	economic	jj
+times	time	nnt2
+.	.	y
+Frugality	frugality	nn1_np1@
+is	be	vbz
+back	back	rp_nn1
+in	in	ii
+style	style	nn1
+,	,	y
+and	and	cc
+the	the	at
+authors	author	nn2
+(	(	y
+and	and	cc
+their	their	appge
+publishers	publisher	nn2
+)	)	y
+who	who	pnqs
+cater	cater	vv0
+to	to	ii
+these	these	dd2
+changing	changing	jj_vvg
+tastes	taste	nn2
+can	can	vm
+still	still	rr
+expect	expect	vvi
+to	to	to
+do	do	vdi
+well	well	rr
+.	.	y
+<>		null
+Hyatt	hyatt	nn1_vv0_np1@
+is	be	vbz
+choosing	choose	vvg
+to	to	to
+emphasize	emphasize	vvi
+the	the	at
+positive	positive	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+"	"	y
+he	he	pphs1
+asserts	assert	vvz
+that	that	cst
+"	"	y
+every	every	at1
+cloud	cloud	nn1
+has	have	vhz
+a	a	at1
+silver	silver	nn1_jj@
+lining	lining	nn1_vvg
+,	,	y
+"	"	y
+and	and	cc
+he	he	pphs1
+goes	go	vvz
+on	on	rp
+to	to	to
+list	list	vvi
+10	10	mc
+"	"	y
+benefits	benefit	nn2
+of	of	io
+the	the	at
+current	current	jj
+recession	recession	nn1
+"	"	y
+for	for	if
+those	those	dd2
+involved	involved	jj
+in	in	ii
+the	the	at
+book	book	nn1
+business	business	nn1
+.	.	y
+They	they	pphs2
+include	include	vv0
+:	:	y
+"	"	y
+It	it	pph1
+causes	cause	vvz
+you	you	ppy
+to	to	to
+get	get	vvi
+more	more	rgr_dar
+creative	creative	jj
+"	"	y
+"	"	y
+it	it	pph1
+brings	bring	vvz
+you	you	ppy
+back	back	rp
+to	to	ii
+the	the	at
+basics	basics	nn2
+"	"	y
+"	"	y
+it	it	pph1
+causes	cause	vvz
+you	you	ppy
+to	to	to
+be	be	vbi
+less	less	rgr
+wasteful	wasteful	jj
+"	"	y
+and	and	cc
+"	"	y
+it	it	pph1
+accelerates	accelerate	vvz
+change	change	nn1
+"	"	y
+Authors	author	nn2
+and	and	cc
+publishers	publisher	nn2
+,	,	y
+like	like	ii_vv0@_cs%
+everyone	everyone	pn1
+else	else	rr
+in	in	ii
+business	business	nn1
+these	these	dd2
+days	day	nnt2
+,	,	y
+will	will	vm
+have	have	vhi
+to	to	to
+hunker	hunker	nn1
+down	down	rp
+and	and	cc
+look	look	vv0_nn1
+for	for	if
+innovative	innovative	jj
+ways	way	nn2
+to	to	to
+ride	ride	vvi
+out	out	rp
+the	the	at
+present	present	jj_nn1
+recession	recession	nn1
+,	,	y
+while	while	cs
+hoping	hope	vvg
+it	it	pph1
+ends	end	vvz
+sooner	soon	rrr
+rather	rather	cs21
+than	than	cs22
+later	later	rrr
+.	.	y
+<>		null
+L	l	zz1_np1@
+:	:	y
+AN	a	at1
+OPEN	open	jj
+BOOK	book	nn1
+Literary	literary	jj
+words	word	nn2
+from	from	ii
+the	the	at
+Oxford	oxford	np1
+American	american	jj
+Writer	writer	nn1
+'	'	ge
+s	s	zz1
+Thesaurus	thesaurus	nn1
+<>		null
+THESE	these	dd2
+WORDS	word	nn2
+are	be	vbr
+commonly	commonly	rr
+used	use	vvn_vvd
+in	in	ii
+poetry	poetry	nn1
+and	and	cc
+other	other	jj
+literary	literary	jj
+writing	writing	nn1
+:	:	y
+<>		null
+adamantine	adamantine	jj
+unbreakable	unbreakable	jj
+;	;	y
+impenetrable	impenetrable	jj
+<>		null
+anathema	anathema	nn1
+a	a	at1
+curse	curse	nn1
+;	;	y
+a	a	at1
+hex	hex	nn1
+<>		null
+bacchanal	bacchanal	jj_nn1%
+a	a	at1
+drinking	drinking	nn1_jj%
+session	session	nnt1
+;	;	y
+binge	binge	vv0_nn1
+<>		null
+bedew	bedew	nn1_vv0
+sprinkle	sprinkle	vv0_nn1@
+with	with	iw
+water	water	nn1
+<>		null
+behold	behold	vv0
+see	see	vv0
+<>		null
+beseech	beseech	vv0
+ask	ask	vv0
+urgently	urgently	rr
+and	and	cc
+fervently	fervently	rr
+<>		null
+besmirch	besmirch	vv0
+make	make	vv0
+dirty	dirty	jj
+or	or	cc
+discolored	discolored	jj@_vvd
+<>		null
+celerity	celerity	nn1
+swiftness	swiftness	nn1
+<>		null
+cleave	cleave	nn1_vv0
+to	to	to
+stick	stick	vvi
+fast	fast	rr_jj
+to	to	ii
+<>		null
+darkling	darkling	vvg_nn1@
+relating	relate	vvg
+to	to	ii
+growing	growing	jj_vvg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+quickly	quickly	rr
+fading	fade	vvg_jj@
+<>		null
+fell	fell	jj@_vvd
+cruel	cruel	jj
+<>		null
+fervid	fervid	jj
+hot	hot	jj
+or	or	cc
+glowing	glowing	jj_vvg
+<>		null
+gloaming	gloaming	jj@_nn1@
+dusk	dusk	nnt1
+<>		null
+hebetude	hebetude	nn1
+sluggishness	sluggishness	nn1
+<>		null
+impuissant	impuissant	jj_nn1
+powerless	powerless	jj
+<>		null
+insatiate	insatiate	nn1
+never	never	rr
+satisfied	satisfied	jj
+<>		null
+lachrymose	lachrymose	nn1_vv0
+tearful	tearful	jj_nn1%
+;	;	y
+quick	quick	jj_rr@
+to	to	to
+cry	cry	vvi
+<>		null
+lenity	lenity	nn1
+kindness	kindness	nn1
+or	or	cc
+gentleness	gentleness	nn1
+<>		null
+lucent	lucent	jj
+shining	shining	jj
+<>		null
+malefic	malefic	jj
+causing	cause	vvg
+harm	harm	nn1
+<>		null
+mantled	mantle	vvd
+covered	covered	jj@_vvn_vvd
+<>		null
+niveous	niveous	jj
+snowy	snowy	jj
+<>		null
+orb	orb	nn1
+an	a	at1
+eye	eye	nn1
+<>		null
+perfidy	perfidy	nn1
+a	a	at1
+betrayal	betrayal	nn1
+<>		null
+puissant	puissant	jj_nn1
+powerful	powerful	jj
+or	or	cc
+influential	influential	jj
+<>		null
+quidnunc	quidnunc	nn1
+an	a	at1
+inquisitive	inquisitive	jj
+and	and	cc
+gossipy	gossipy	jj_nn1
+person	person	nn1
+<>		null
+redolent	redolent	jj
+fragrant	fragrant	jj
+<>		null
+rend	rend	nn1
+tear	tear	nn1
+to	to	ii
+pieces	piece	nn2
+<>		null
+rimy	rimy	jj_nn1
+frost-covered	frost-covered	jj_nn1
+<>		null
+shade	shade	nn1_vv0@
+a	a	at1
+ghost	ghost	nn1
+<>		null
+storied	storied	jj
+celebrated	celebrated	jj_vvn_vvd
+in	in	ii
+stories	story	nn2
+<>		null
+sylvan	sylvan	jj
+wooded	wooded	jj
+<>		null
+tarry	tarry	nn1
+delay	delay	nn1_vv0
+leaving	leave	vvg
+<>		null
+temerarious	temerarious	jj
+rash	rash	nn1_jj
+or	or	cc
+reckless	reckless	jj
+<>		null
+transpierce	transpierce	nn1
+penetrate	penetrate	vv0
+<>		null
+verdurous	verdurous	jj
+fresh	fresh	jj
+and	and	cc
+green	green	jj
+<>		null
+vesture	vesture	nn1
+clothing	clothing	nn1
+<>		null
+wreathe	wreathe	nn1_vv0
+twist	twist	nn1
+or	or	cc
+entwine	entwine	vv0_nn1
+<>		null
+zephyr	zephyr	vv0
+a	a	at1
+soft	soft	jj
+,	,	y
+gentle	gentle	jj
+breeze	breeze	nn1
+<>		null
+Reprinted	reprint	vvn
+from	from	ii
+Oxford	oxford	np1
+American	american	jj
+Writer	writer	nn1
+'	'	ge
+s	s	zz1
+Thesaurus	thesaurus	nn1
+,	,	y
+2nd	2nd	md
+edition	edition	nn1
+published	publish	vvn
+by	by	ii
+Oxford	oxford	np1
+University	university	nn1
+Press	press	nn1_vv0
+,	,	y
+Inc	inc	jj
+.	.	y
+Oxford	oxford	np1
+University	university	nn1
+Press	press	nn1_vv0
+,	,	y
+Inc.	inc	jj
+,	,	y
+2008	2008	mc
+.	.	y
+<>		null
+PHOTO	photo	nn1
+(	(	y
+COLOR	color	nn1
+)	)	y
+<>		null
+By	by	ii
+Chuck	chuck	np1
+Leddy	leddy	np1
+<>		null

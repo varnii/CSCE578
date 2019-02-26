@@ -1,0 +1,182 @@
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    0 Schwannomas of the nasal septum are extremely rare , and therefore their diagnosis and treatment can pose certain challenges .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    0 Schwannomas_NN2@ of_IO the_AT nasal_JJ septum_NN1 are_VBR extremely_RR rare_JJ ,_Y and_CC therefore_RR their_APPGE diagnosis_NN1 and_CC treatment_NN1 can_VM pose_VVI certain_JJ challenges_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    1 We describe the case of an incidentally discovered schwannoma of the nasal septum that was unique in that the lesion was completely asymptomatic .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    1 We_PPIS2 describe_VV0 the_AT case_NN1 of_IO an_AT1 incidentally_RR discovered_VVD_VVN@ schwannoma_NN1 of_IO the_AT nasal_JJ septum_NN1 that_CST_DD1 was_VBDZ unique_JJ in_CS21%_II that_CS22@_DD1 the_AT lesion_NN1 was_VBDZ completely_RR asymptomatic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    2 In view of our finding , we believe that routine examinations of both nasal fossae should be considered during routine diagnostic laryngeal flexible endoscopy .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    2 In_II31 view_II32 of_II33 our_APPGE finding_NN1 ,_Y we_PPIS2 believe_VV0 that_DD1_CST routine_NN1_JJ@ examinations_NN2 of_IO both_DB2_RR nasal_JJ fossae_NN2 should_VM be_VBI considered_VVN during_II routine_JJ@_NN1 diagnostic_JJ laryngeal_JJ flexible_JJ endoscopy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    3 Schwannomas are neurogenic benign tumors that arise from a proliferation of Schwann cells in the peripheral sheath of myelinated nerves. n1 This proliferation occurs in virtually every anatomic area , but schwannomas are very rare in the nasal cavity and even more so in the nasal septum .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    3 Schwannomas_NN2 are_VBR neurogenic_JJ benign_JJ tumors_NN2 that_CST arise_VV0 from_II a_AT1 proliferation_NN1 of_IO Schwann_NP1_NN1@ cells_NN2 in_II the_AT peripheral_JJ sheath_NN1 of_IO myelinated_JJ@ nerves._NNU n1_FO This_DD1 proliferation_NN1 occurs_VVZ in_RP@_II virtually_RR every_AT1 anatomic_JJ area_NN1 ,_Y but_CCB schwannomas_NN2 are_VBR very_RG rare_JJ in_II the_AT nasal_JJ cavity_NN1 and_CC even_RR more_RGR so_RR in_II the_AT nasal_JJ septum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    4 To the best of our knowledge , only 21 cases of nasal septum schwannoma have been previously reported in the English-language literature. ( n2 We report a new case of nasal septum schwannoma that was unique in that the lesion was completely asymptomatic .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    4 To_II the_AT best_JJT_RRT of_IO our_APPGE knowledge_NN1 ,_Y only_RR 21_MC cases_NN2 of_IO nasal_JJ septum_NN1 schwannoma_NN1 have_VH0 been_VBN previously_RR reported_VVN_VVD in_II the_AT English-language_JJ literature._NNU (_Y n2_FO We_PPIS2 report_VV0@ a_AT1 new_JJ case_NN1 of_IO nasal_JJ septum_NN1 schwannoma_NN1 that_CST_DD1 was_VBDZ unique_JJ in_CS21%_II that_CS22@_DD1 the_AT lesion_NN1 was_VBDZ completely_RR asymptomatic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    5 Case report An 82-year-old man was referred to our Department of Otorhinolaryngology for evaluation of a recurrent dysphonia .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    5 Case_NN1 report_NN1_VV0@ An_AT1 82-year-old_JJ man_NN1 was_VBDZ referred_VVN to_II our_APPGE Department_NN1 of_IO Otorhinolaryngology_NN1_NP1 for_IF evaluation_NN1 of_IO a_AT1 recurrent_JJ_NN1 dysphonia_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    6 He denied any sinonasal symptoms .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    6 He_PPHS1 denied_VVD any_DD sinonasal_NN1_JJ@ symptoms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    7 Findings on the investigation incidentally discovered the presence of a polypoid mass in the left nasal fossa .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    7 Findings_NN2 on_II the_AT investigation_NN1 incidentally_RR discovered_VVD the_AT presence_NN1 of_IO a_AT1 polypoid_JJ_NN1 mass_NN1 in_II the_AT left_JJ nasal_JJ fossa_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    8 Nasal decongestion was administered , and rigid endoscopy with a 0 scope was performed .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    8 Nasal_JJ decongestion_NN1 was_VBDZ administered_VVN ,_Y and_CC rigid_JJ endoscopy_NN1 with_IW a_AT1 0_MC scope_NN1 was_VBDZ performed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0    9 The nasal mass was seen occupying the sphenoethmoid recess ; it had arisen from the nasal septum on the posterior part of the vomer ( figure 1 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0    9 The_AT nasal_JJ mass_NN1 was_VBDZ seen_VVN occupying_VVG the_AT sphenoethmoid_JJ_NN1 recess_NN1 ;_Y it_PPH1 had_VHD arisen_VVN from_II the_AT nasal_JJ septum_NN1 on_II the_AT posterior_JJ_NN1 part_NN1 of_IO the_AT vomer_NN1 (_Y figure_NN1_VV0@ 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   10 The lesion was encapsulated , grayish , and smooth .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   10 The_AT lesion_NN1 was_VBDZ encapsulated_VVN_JJ ,_Y grayish_VV0_JJ ,_Y and_CC smooth_JJ_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   11 Computed tomography ( CT ) demonstrated a soft-tissue mass occupying the posterior part of the left nasal cavity ( figure 2 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   11 Computed_JJ@_VVN tomography_NN1 (_Y CT_NP1@_NN1 )_Y demonstrated_VVD a_AT1 soft-tissue_JJ_NN1 mass_NN1 occupying_VVG the_AT posterior_JJ_NN1 part_NN1 of_IO the_AT left_JJ nasal_JJ cavity_NN1 (_Y figure_NN1 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   12 Under endoscopic control , a biopsy of the mass was obtained .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   12 Under_II_RG@ endoscopic_JJ control_NN1 ,_Y a_AT1 biopsy_NN1 of_IO the_AT mass_NN1 was_VBDZ obtained_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   13 Microscopically , the specimen exhibited a proliferation of ovoid cells with a characteristic palisade pattern , suggesting a schwannoma ( figure 3 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   13 Microscopically_RR_NP1@ ,_Y the_AT specimen_NN1 exhibited_VVD_VVN a_AT1 proliferation_NN1 of_IO ovoid_JJ_NN1 cells_NN2 with_IW a_AT1 characteristic_JJ_NN1 palisade_NN1 pattern_NN1 ,_Y suggesting_VVG a_AT1 schwannoma_NN1 (_Y figure_NN1 3_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   14 Immunohistochemical analysis supported the schwannoma hypothesis .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   14 Immunohistochemical_JJ analysis_NN1 supported_VVD_VVN the_AT schwannoma_NN1 hypothesis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   15 Figure 1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   15 Figure_VV0@_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   16 Rigid endoscopy shows the tumor ( T ) in the left nasal fossa ( NS = nasal septum ; MT = middle turbinate ; IT = inferior turbinate ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   16 Rigid_JJ endoscopy_NN1 shows_VVZ the_AT tumor_NN1 (_Y T_ZZ1 )_Y in_II the_AT left_JJ nasal_JJ fossa_NN1 (_Y NS_NP1 =_FO nasal_JJ septum_NN1 ;_Y MT_NP1 =_FO middle_JJ_NN1 turbinate_NN1_JJ ;_Y IT_NN1 =_FO inferior_JJ turbinate_NN1_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   17 Figure 2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   17 Figure_NN1 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   18 Axial CT of the paranasal sinuses shows the soft-tissue mass occupying the posterior part of the left nasal cavity pattern ( H original magnification x50 ) .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   18 Axial_JJ CT_NN1 of_IO the_AT paranasal_NN1_JJ@ sinuses_NN2_VVZ shows_VVZ the_AT soft-tissue_JJ_NN1 mass_NN1 occupying_VVG the_AT posterior_JJ_NN1 part_NN1 of_IO the_AT left_JJ nasal_JJ cavity_NN1 pattern_NN1 (_Y H_ZZ1 original_JJ magnification_NN1 x50_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   19 We opted for an endonasal endoscopic approach .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   19 We_PPIS2 opted_VVD for_IF an_AT1 endonasal_JJ@_NN1 endoscopic_JJ approach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   20 After making a diode laser mucosal incision and a subperiosteal plane tracing , we extirpated the mass en bloc with free surgical margins .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   20 After_II making_VVG a_AT1 diode_NN1 laser_NN1 mucosal_JJ incision_NN1 and_CC a_AT1 subperiosteal_JJ plane_NN1 tracing_VVG_NN1@ ,_Y we_PPIS2 extirpated_VVD the_AT mass_NN1_JJ en_RR21 bloc_RR22 with_IW free_JJ surgical_JJ margins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   21 Pathologic examination of the excised mass confirmed that it was a schwannoma .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   21 Pathologic_JJ examination_NN1 of_IO the_AT excised_JJ mass_NN1 confirmed_VVD_VVN that_CST it_PPH1 was_VBDZ a_AT1 schwannoma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   22 At 5 years of follow-up , the patient exhibited no evidence of tumor recurrence on endoscopy .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   22 At_II 5_MC years_NNT2 of_IO follow-up_NN1_JJ ,_Y the_AT patient_NN1 exhibited_VVD_VVN no_AT evidence_NN1 of_IO tumor_NN1 recurrence_NN1 on_II endoscopy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   23 Discussion Between 25 and 45% of all schwannomas arise in the head and neck ; they represent approximately 5% of all head and neck tumors.3 ' 4 The most common site of head and neck schwannomas is the VIIIth cranial nerve .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   23 Discussion_NN1 Between_II 25_MC and_CC 45%_NNU of_IO all_DB schwannomas_NN2 arise_VV0 in_II_RP@ the_AT head_NN1 and_CC neck_NN1_VV0@ ;_Y they_PPHS2 represent_VV0 approximately_RR 5%_NNU of_IO all_DB head_NN1_JJ@ and_CC neck_NN1_VV0@ tumors.3_FO '_GE 4_MC The_AT most_RGT common_JJ site_NN1 of_IO head_NN1 and_CC neck_NN1_VV0@ schwannomas_NN2 is_VBZ the_AT VIIIth_NP1_NN1@ cranial_JJ nerve_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   24 Less than 4% of head and neck schwannomas are located in the sinonasal tract. n5 The nasal septum tumor in our patient might have originated in the sheath of an autonomous system nerve or a sensory nerve in the septum .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   24 Less_DAR than_CSN 4%_NNU of_IO head_NN1 and_CC neck_NN1_VV0@ schwannomas_NN2 are_VBR located_VVN in_II the_AT sinonasal_NN1_JJ@ tract._NNU n5_FO The_AT nasal_JJ septum_NN1 tumor_NN1 in_II our_APPGE patient_NN1 might_VM have_VHI originated_VVN in_II the_AT sheath_NN1 of_IO an_AT1 autonomous_JJ system_NN1 nerve_NN1 or_CC a_AT1 sensory_JJ nerve_NN1 in_II the_AT septum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   25 Most patients with nasal septum schwannomas present with unilateral nasal obstruction.6s Other symptoms include unilateral epistaxis , mucopurulent rhinorrhea , anosmia , facial pain , and swelling. ( n9 , n10 ) As far as we know nasal septum schwannoma that was asymptomatic .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   25 Most_DAT patients_NN2 with_IW nasal_JJ septum_NN1 schwannomas_NN2 present_VV0@_NN1_JJ with_IW unilateral_JJ nasal_JJ_NN1@ obstruction.6s_FO Other_JJ symptoms_NN2 include_VV0 unilateral_JJ epistaxis_NN1 ,_Y mucopurulent_JJ rhinorrhea_NN1 ,_Y anosmia_NN1 ,_Y facial_JJ pain_NN1 ,_Y and_CC swelling._NNU (_Y n9_FO ,_Y n10_FO )_Y As_CS31 far_CS32 as_CS33 we_PPIS2 know_VV0 nasal_JJ septum_NN1 schwannoma_NN1 that_CST_DD1 was_VBDZ asymptomatic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   26 Nasal endoscopy , CT , and magnetic resonance imaging ( MRI ) are the key modalities for localizing and defining the extent of nasal cavity schwannomas. n11 CT is particularly useful in identifying the expansive ( but not infiltrative ) spread of the tumor in bone .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   26 Nasal_JJ endoscopy_NN1 ,_Y CT_NN1_NP1@ ,_Y and_CC magnetic_JJ resonance_NN1 imaging_NN1_VVG (_Y MRI_NP1 )_Y are_VBR the_AT key_JJ_NN1 modalities_NN2 for_IF localizing_VVG and_CC defining_VVG the_AT extent_NN1 of_IO nasal_JJ cavity_NN1 schwannomas._NNU n11_FO CT_NN1 is_VBZ particularly_RR useful_JJ in_II identifying_VVG the_AT expansive_JJ (_Y but_CCB not_XX infiltrative_JJ )_Y spread_NN1_VVD of_IO the_AT tumor_NN1 in_II bone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   27 MRI can differentiate a schwannoma from an inflammatory lesion , and it can define intracranial and skull base involvement. ( n12 , n13 ) On MRI , schwannomas frequently appear as an isointense lesion on T 1-weighted imaging and an intermediate to hyperintense lesion on T2-weighted imaging. ( n14 , n15 ) A definitive diagnosis requires histopathologic and immunohistochemical studies .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   27 MRI_NP1_NN2_NN1 can_VM differentiate_VVI a_AT1 schwannoma_NN1 from_II an_AT1 inflammatory_JJ lesion_NN1 ,_Y and_CC it_PPH1 can_VM define_VVI intracranial_JJ and_CC skull_NN1 base_NN1 involvement._NNU (_Y n12_FO ,_Y n13_FO )_Y On_II MRI_NP1_NN2_NN1 ,_Y schwannomas_NN2 frequently_RR appear_VV0 as_II_CSA an_AT1 isointense_NN1 lesion_NN1 on_II T_ZZ1 1-weighted_JJ imaging_NN1 and_CC an_AT1 intermediate_JJ to_TO hyperintense_VVI lesion_NN1 on_II T2-weighted_JJ_NN1 imaging._NNU (_Y n14_FO ,_Y n15_FO )_Y A_ZZ1 definitive_JJ diagnosis_NN1 requires_VVZ histopathologic_JJ and_CC immunohistochemical_JJ studies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   28 A preoperative biopsy can be obtained via an endoscopic endonasal approach .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   28 A_AT1_ZZ1 preoperative_JJ biopsy_NN1 can_VM be_VBI obtained_VVN via_II an_AT1 endoscopic_JJ endonasal_NN1_JJ@ approach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   29 Histologically , schwannomas can exhibit both Antoni type A and Antoni type B patterns in the same specimen.16,17 Immunohistochemistry can demonstrate antibodies to S- 100 , vimentin , smooth-cell actin , desmin , CD34 , and neuron-specific enolase .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   29 Histologically_RR_NP1@ ,_Y schwannomas_NN2 can_VM exhibit_VVI both_DB2_RR Antoni_NP1 type_NN1 A_ZZ1 and_CC Antoni_NP1 type_NN1 B_ZZ1 patterns_NN2 in_II the_AT same_DA specimen.16,17_FO Immunohistochemistry_NN1_NP1 can_VM demonstrate_VVI antibodies_NN2 to_II S-_NN1_JJ 100_MC ,_Y vimentin_NN1 ,_Y smooth-cell_JJ_NN1 actin_NN1 ,_Y desmin_NN1 ,_Y CD34_FO ,_Y and_CC neuron-specific_JJ enolase_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   30 Schwannomas very rarely undergo malignant transformation.12 Because they are both radio- and chemoresistant , the treatment of choice is surgical .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   30 Schwannomas_NN2_NP1@ very_RG rarely_RR undergo_VV0 malignant_NN1_JJ transformation.12_FO Because_CS they_PPHS2 are_VBR both_RR radio-_JJ and_CC chemoresistant_NN1_JJ ,_Y the_AT treatment_NN1 of_IO choice_NN1 is_VBZ surgical_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   31 Removal can be achieved tumor-free margins are obtained , recurrences are rare and the prognosis is excellent. ( n8 , n21 ) Based on our finding that our patient 's schwannoma was completely asymptomatic , we believe that examinations of both nasal fossae should be considered during routine diagnostic laryngeal flexible endoscopy .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   31 Removal_NN1 can_VM be_VBI achieved_VVN tumor-free_JJ margins_NN2 are_VBR obtained_VVN ,_Y recurrences_NN2 are_VBR rare_JJ and_CC the_AT prognosis_NN1 is_VBZ excellent._NNU (_Y n8_FO ,_Y n21_FO )_Y Based_VVN on_II our_APPGE finding_NN1 that_CST our_APPGE patient_NN1 's_GE schwannoma_NN1 was_VBDZ completely_RR asymptomatic_JJ ,_Y we_PPIS2 believe_VV0 that_CST examinations_NN2 of_IO both_DB2_RR nasal_JJ fossae_NN2 should_VM be_VBI considered_VVN during_II routine_JJ@_NN1 diagnostic_JJ laryngeal_JJ flexible_JJ endoscopy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   32 References ( n1 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   32 References_NN2 (_Y n1_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   33 ) Facon F , Forman C , Paris J , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   33 )_Y Facon_NN1_NP1@ F_ZZ1_NP1@ ,_Y Forman_NP1 C_NP1_ZZ1 ,_Y Paris_NP1 J_ZZ1_NP1@ ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   34 A case of nasal septum schwannoma : Endoscopic resection in French .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   34 A_AT1 case_NN1 of_IO nasal_JJ septum_NN1 schwannoma_NN1 :_Y Endoscopic_JJ_NP1 resection_NN1 in_II French_NN1_JJ_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   35 Ann Otolaryngol Chir Cervicofac 2004 ; 121 ( 3 ) : 179-83. ( n2 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   35 Ann_NP1 Otolaryngol_NP1 Chir_NP1 Cervicofac_NP1 2004_MC ;_Y 121_MC (_Y 3_MC )_Y :_Y 179-83._MCMC (_Y n2_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   36 ) Shinohara K , Hashimoto K , Yamashita M , Omori K. Schwannoma of the nasal septum removed with endoscopic surgery .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   36 )_Y Shinohara_NN1_NP1@ K_ZZ1_NP1@ ,_Y Hashimoto_NP1 K_ZZ1_NP1@ ,_Y Yamashita_NP1 M_ZZ1_NN1 ,_Y Omori_NP1 K._NP1 Schwannoma_NP1_NN1@ of_IO the_AT nasal_JJ septum_NN1 removed_VVN_VVD with_IW endoscopic_JJ surgery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   37 Otolaryngol Head Neck Surg 2005 ; 132(6):963-4. ( n3 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   37 Otolaryngol_VV0_NN1 Head_NN1 Neck_NN1 Surg_NN1_NP1_VV0 2005_MC ;_Y 132(6):963-4._FO (_Y n3_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   38 ) Wada A , Matsuda H , Matsuoka K , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   38 )_Y Wada_NN1_NP1@ A_ZZ1 ,_Y Matsuda_NP1 H_ZZ1_NP1@ ,_Y Matsuoka_NP1 K_ZZ1_NP1@ ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   39 A case of schwannoma on the nasal septum .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   39 A_AT1 case_NN1 of_IO schwannoma_NN1 on_II the_AT nasal_JJ septum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   40 Auris Nasus Larynx 2001 ; 28(2) : 173-5. ( n4 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   40 Auris_NP1@_NN1 Nasus_NP1 Larynx_NP1_NN1 2001_MC ;_Y 28(2)_FO :_Y 173-5._MCMC (_Y n4_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   41 ) Alessandrini M , Nucci R , Giacomini PG , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   41 )_Y Alessandrini_NP1@_NN2_JJ@ M_ZZ1_NN1 ,_Y Nucci_NP1_JJ R_ZZ1_NP1@ ,_Y Giacomini_NP1 PG_NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   42 A case of solitary nasal schwannoma .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   42 A_AT1 case_NN1 of_IO solitary_JJ nasal_JJ schwannoma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   43 An Otorrinolaringol Ibero Am 2001 ; 28(2):201-8. ( n5 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   43 An_AT1 Otorrinolaringol_NP1_NN1 Ibero_NP1_NN1 Am_RA@_VBM 2001_MC ;_Y 28(2):201-8._FO (_Y n5_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   44 ) Yang TL A case report and clinicopathologic analysis .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   44 )_Y Yang_NP1 TL_NP1 A_AT1@_ZZ1 case_NN1 report_NN1 and_CC clinicopathologic_JJ analysis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   45 Rhinology 2001 ; 39(3) : 169-72. ( n6 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   45 Rhinology_NN1_NP1@ 2001_MC ;_Y 39(3)_FO :_Y 169-72._MCMC (_Y n6_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   46 ) Bogdasarian RM , Stout AP .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   46 )_Y Bogdasarian_NP1@_JJ RM_NP1 ,_Y Stout_NN1_JJ@ AP_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   47 Neurilemmoma of the nasal septum .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   47 Neurilemmoma_NN1 of_IO the_AT nasal_JJ septum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   48 Arch Otolaryngol 1943 ; 38:62-4. ( n7 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   48 Arch_JJ_NN1 Otolaryngol_NN1_NP1 1943_MC ;_Y 38:62-4._MCMC (_Y n7_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   49 ) Pasic TR , Makielski K. Nasal schwannoma .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   49 )_Y Pasic_JJ TR_JJ ,_Y Makielski_NP1 K._NP1 Nasal_JJ schwannoma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   50 Otolaryngol Head Neck Surg 1990 ; 103(6):943-6. ( n8 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   50 Otolaryngol_VV0_NN1 Head_NN1 Neck_NN1 Surg_NN1_NP1_VV0 1990_MC ;_Y 103(6):943-6._FO (_Y n8_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   51 ) Higo R , Yamasoba T , Kikuchi S. Nasal neurinoma : Case report and review of literature .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   51 )_Y Higo_NN1_NP1@ R_ZZ1_NP1@ ,_Y Yamasoba_NP1 T_ZZ1_NP1@ ,_Y Kikuchi_NP1 S._ZZ Nasal_JJ neurinoma_NN1 :_Y Case_NN1 report_NN1 and_CC review_NN1 of_IO literature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   52 Auris Nasus Larynx 1993 ; 20(4):297-301. ( n9 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   52 Auris_NP1@_NN1 Nasus_NP1 Larynx_NP1_NN1 1993_MC ;_Y 20(4):297-301._FO (_Y n9_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   53 ) Berlucchi M , Piazza C , Blanzuoli l , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   53 )_Y Berlucchi_NP1@_NN2_JJ@ M_ZZ1_NN1 ,_Y Piazza_NP1 C_NP1_ZZ1 ,_Y Blanzuoli_NP1_JJ l_ZZ1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   54 Schwannoma of the nasal septum : A case report with review of the literature .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   54 Schwannoma_NN1 of_IO the_AT nasal_JJ septum_NN1 :_Y A_AT1@_ZZ1 case_NN1 report_NN1 with_IW review_NN1 of_IO the_AT literature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   55 Eur Arch Otorhinolaryngo12000 ; 257(7):402-5. ( n10 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   55 Eur_NN1_NP1@ Arch_NN1 Otorhinolaryngo12000_FO ;_Y 257(7):402-5._FO (_Y n10_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   56 ) Oi H , Watanabe Y , Shojaku H , Mizukoshi K. Nasal septal neurinoma .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   56 )_Y Oi_UH H_NP1@ ,_Y Watanabe_NP1 Y_ZZ1_NP1@ ,_Y Shojaku_NP1 H_ZZ1_NP1@ ,_Y Mizukoshi_NP1 K._NP1 Nasal_JJ septal_JJ neurinoma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   57 Acta Otolaryngol Suppl 1993 ; 504:151-4. ( n11 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   57 Acta_NP1@_NN1 Otolaryngol_NP1 Suppl_NP1_NN1 1993_MC ;_Y 504:151-4._MCMC (_Y n11_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   58 ) Gillman G , Bryson PC .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   58 )_Y Gillman_NN1_NP1@ G_ZZ1_NP1@ ,_Y Bryson_NP1 PC_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   59 Ethmoid schwannoma .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   59 Ethmoid_JJ_NN1 schwannoma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   60 Otolaryngol Head Neck Surg 2005 ; 132(2):334-5. ( n12 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   60 Otolaryngol_VV0_NN1 Head_NN1 Neck_NN1 Surg_NN1_NP1_VV0 2005_MC ;_Y 132(2):334-5._FO (_Y n12_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   61 ) Cakmak O , Yavuz H , Yucel T. Nasal and paranasal sinus schwannomas .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   61 )_Y Cakmak_VV0 O_ZZ1_UH ,_Y Yavuz_NP1 H_ZZ1_NP1@ ,_Y Yucel_NP1 T._NP1 Nasal_JJ_NN1@ and_CC paranasal_NN1_JJ@ sinus_NN1 schwannomas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   62 Eur Arch Otorhinolaryngol 2003 ; 260(4) : 195-7. ( n13 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   62 Eur_NN1_NP1@ Arch_NN1_JJ Otorhinolaryngol_NN1_NP1 2003_MC ;_Y 260(4)_FO :_Y 195-7._MCMC (_Y n13_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   63 Intranasal schwannoma : Magnetic resonance and computed tomography appearance .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   63 Intranasal_JJ schwannoma_NN1 :_Y Magnetic_JJ resonance_NN1 and_CC computed_JJ@_VVD_VVN tomography_NN1 appearance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   64 Am J Otolaryngol 1995 ; 16(4):251-4 ( n14 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   64 Am_VBM J_NP1@ Otolaryngol_NP1_NN1 1995_MC ;_Y 16(4):251-4_FO (_Y n14_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   65 ) Som PM , Shapiro MD , Biller HF , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   65 )_Y Som_NNU1 PM_NP1 ,_Y Shapiro_NP1 MD_NNA ,_Y Biller_NP1 HF_NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   66 Sinonasal tumors and inflammatory tissues : Differentiation with MR imaging .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   66 Sinonasal_NN1_JJ@_NP1@ tumors_NN2 and_CC inflammatory_JJ tissues_NN2 :_Y Differentiation_NN1 with_IW MR_NNB imaging_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   67 Radiology 1988 ; 167(3):803-8. ( n15 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   67 Radiology_NN1_NP1@ 1988_MC ;_Y 167(3):803-8._FO (_Y n15_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   68 ) Younis RT , Gross CW , Lazar RH .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   68 )_Y Younis_NP1@_NN1 RT_NP1_NN1 ,_Y Gross_NP1@_JJ CW_NP1 ,_Y Lazar_NP1_VV0 RH_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   69 Schwannomas of the paranasal sin uses .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   69 Schwannomas_NN2 of_IO the_AT paranasal_NN1_JJ@ sin_NN1 uses_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   70 Case report and clinicopathologic analysis .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   70 Case_NN1 report_NN1 and_CC clinicopathologic_JJ analysis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   71 Arch Otolaryngol Head Neck Surg 1991 ; 117(6):677-80. ( n16 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   71 Arch_JJ_NN1 Otolaryngol_NN1 Head_NN1 Neck_NN1 Surg_NN1_NP1_VV0 1991_MC ;_Y 117(6):677-80._FO (_Y n16_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   72 ) Antoni NR .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   72 )_Y Antoni_NP1 NR_II ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   73 Uber Ruckenmarkstumoren und Neurofibrome .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   73 Uber_FW Ruckenmarkstumoren_NP1 und_NP1 Neurofibrome_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   74 Munich : J.F. Bergmann ; 1920. ( n17 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   74 Munich_NP1 :_Y J.F._NP1 Bergmann_NP1 ;_Y 1920._MC (_Y n17_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   75 ) Verocay J. Multiple Geschwulste als Systemerkrankung am nervosen Apparate .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   75 )_Y Verocay_VV0_NP1@ J._NP1 Multiple_NN1_JJ Geschwulste_NP1_NN1 als_NP2 Systemerkrankung_NP1_VVD am_RA@ nervosen_NN1 Apparate_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   76 Vienna , Leipzig : W. Brauriuller ; 1908. ( n18 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   76 Vienna_NP1 ,_Y Leipzig_NP1 :_Y W._NP1 Brauriuller_NP1 ;_Y 1908._MC (_Y n18_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   77 ) Hasegawa SL , Mentzel T , Fletcher CD .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   77 )_Y Hasegawa_NP1@ SL_NP1 ,_Y Mentzel_NP1 T_ZZ1_NP1@ ,_Y Fletcher_NP1 CD_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   78 Schwannomas of the sinonasal tract and nasopharynx .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   78 Schwannomas_NN2 of_IO the_AT sinonasal_NN1_JJ@ tract_NN1 and_CC nasopharynx_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   79 Mod Pathol 1997 ; 10(8):777-84. ( n19 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   79 Mod_NN1_JJ@ Pathol_NN1_NP1 1997_MC ;_Y 10(8):777-84._FO (_Y n19_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   80 ) Stevens DJ , Kirkham N. Neurofibromas of the paranasal sinuses .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   80 )_Y Stevens_NP1 DJ_NN1 ,_Y Kirkham_NP1 N._NP1 Neurofibromas_NP2_NN2@ of_IO the_AT paranasal_NN1_JJ@ sinuses_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   81 J Laryngol Otol 1988 ; 102(3):256-9. ( n20 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   81 J_NP1@_ZZ1 Laryngol_NP1 Otol_NP1_NN1 1988_MC ;_Y 102(3):256-9._FO (_Y n20_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   82 ) Park EH , Lee SS , Byun SW .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   82 )_Y Park_VV0@_NN1 EH_UH ,_Y Lee_NP1 SS_NP1 ,_Y Byun_NP1_VV0 SW_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   83 A schwannoma in the nasal septum .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   83 A_AT1 schwannoma_NN1 in_II the_AT nasal_JJ septum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   84 Eur Arch Otorhinolaryngol Kaushik V , Irion K , et al .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   84 Eur_NN1_NP1@ Arch_NN1_JJ Otorhinolaryngol_NN1_NP1 Kaushik_NP1_NN1 V_ZZ1 ,_Y Irion_NP1 K_ZZ1_NP1@ ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   85 Schwannoma of the nasal septum .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   85 Schwannoma_NN1 of_IO the_AT nasal_JJ septum_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   86 Br J Radiol 2006 ; 79(943):e16-18 .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   86 Br_NP1@_JJ J_NP1@_ZZ1 Radiol_NP1_VV0_NN1 2006_MC ;_Y 79(943):e16-18_FO ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   87 By Fabio Pagella , MD , From the Department of Otorhinolaryngology , Foundation IRCCS Policlinico San Matteo and the University of Pavia , Pavia , Italy. ; Georgios Giourgos , MD , From the Department of Otorhinolaryngology , Foundation IRCCS Policlinico San Matteo and the University of Pavia , Pavia , Italy. ; Elina Matti , MD , From the Department of Otorhinolaryngology , Foundation IRCCS Policlinico San Matteo and the University of Pavia , Pavia , Italy .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   87 By_II Fabio_NP1 Pagella_NP1 ,_Y MD_NNA ,_Y From_II the_AT Department_NN1 of_IO Otorhinolaryngology_NP1_NN1 ,_Y Foundation_NN1 IRCCS_NN2_NP2 Policlinico_NP1 San_NP1 Matteo_NP1 and_CC the_AT University_NN1 of_IO Pavia_NP1 ,_Y Pavia_NP1 ,_Y Italy._NP1 ;_Y Georgios_NP1 Giourgos_NP1 ,_Y MD_NNA ,_Y From_II the_AT Department_NN1 of_IO Otorhinolaryngology_NP1_NN1 ,_Y Foundation_NN1 IRCCS_NN2_NP2 Policlinico_NP1 San_NP1 Matteo_NP1 and_CC the_AT University_NN1 of_IO Pavia_NP1 ,_Y Pavia_NP1 ,_Y Italy._NP1 ;_Y Elina_NP1 Matti_NP1 ,_Y MD_NNA ,_Y From_II the_AT Department_NN1 of_IO Otorhinolaryngology_NP1_NN1 ,_Y Foundation_NN1 IRCCS_NN2_NP2 Policlinico_NP1 San_NP1 Matteo_NP1 and_CC the_AT University_NN1 of_IO Pavia_NP1 ,_Y Pavia_NP1 ,_Y Italy_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   88 and Andrea Colombo , MD , From the Department of Otorhinolaryngology , Foundation IRCCS Policlinico San Matteo and the University of Pavia , Pavia , Italy .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   88 and_CC Andrea_NP1 Colombo_NP1 ,_Y MD_NNA ,_Y From_II the_AT Department_NN1 of_IO Otorhinolaryngology_NP1_NN1 ,_Y Foundation_NN1 IRCCS_NN2_NP2 Policlinico_NP1 San_NP1 Matteo_NP1 and_CC the_AT University_NN1 of_IO Pavia_NP1 ,_Y Pavia_NP1 ,_Y Italy_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   89 Corresponding author : Georgios Giourgos , MD , Department of Otorhinolaryngology , Fondazione IRCCS Policlinico San Matteo , Viale Golgi 19 , 27100 Pavia , Italy .
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   89 Corresponding_JJ_VVG author_NN1 :_Y Georgios_NP1 Giourgos_NP1 ,_Y MD_NNA ,_Y Department_NN1 of_IO Otorhinolaryngology_NP1_NN1 ,_Y Fondazione_NP1_VV0 IRCCS_NP2_NN2 Policlinico_NP1 San_NP1 Matteo_NP1 ,_Y Viale_NP1 Golgi_NP1_NN1 19_MC ,_Y 27100_MC Pavia_NP1 ,_Y Italy_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  A    0   90 E-mail : ggdoc1@yahoo.com
+SENTPOS COCA_acad_wlp_2009_10_FILE##4080453 COCA  B    0   90 E-mail_NN1_VV0@ :_Y ggdoc1@yahoo.com_FO

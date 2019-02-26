@@ -1,0 +1,126 @@
+SENTPOS 2014_4_101_600_678_1 DRAFT A    1    0 Joel Salatin makes an argument attempting to change how people view food on a daily basis .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    1    0 Joel_NP1 Salatin_NP1 makes_VVZ an_AT1 argument_NN1 attempting_VVG to_TO change_VVI how_RRQ people_NN view_NN1 food_NN1 on_II a_AT1 daily_JJ basis_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    2    1 In 'Declare Your Independence , ' Salatin takes a closer look at how the food industry needs to be changed and why .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    2    1 In_II 'Declare_NN1 Your_APPGE Independence_NN1 ,_, '_GE Salatin_NP1 takes_VVZ a_AT1 closer_JJR look_NN1 at_II how_RRQ the_AT food_NN1 industry_NN1 needs_VVZ to_TO be_VBI changed_VVN and_CC why_RRQ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    3    2 He uses rhetoric in an effective way to help persuade the audience to take action against the ineffective and disturbing manufacturing .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    3    2 He_PPHS1 uses_VVZ rhetoric_NN1 in_II an_AT1 effective_JJ way_NN1 to_TO help_VVI persuade_VVI the_AT audience_NN1 to_TO take_VVI action_NN1 against_II the_AT ineffective_JJ and_CC disturbing_JJ manufacturing_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    4    3 Salatin 's success at convincing the audience to consider his viewpoint is evident through his rhetorical approach .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    4    3 Salatin_NP1@ 's_GE success_NN1 at_II convincing_VVG@ the_AT audience_NN1 to_TO consider_VVI his_APPGE viewpoint_NN1 is_VBZ evident_JJ through_II his_APPGE rhetorical_JJ approach_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    6    4 The use of an inductive argument allows for Salatin 's argument to become more effective and meaningful .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    6    4 The_AT use_NN1 of_IO an_AT1 inductive_JJ argument_NN1 allows_VVZ for_IF Salatin_NP1 's_GE argument_NN1 to_TO become_VVI more_RGR effective_JJ and_CC meaningful_JJ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    7    5 He begins presenting his argument on a more specific scale before becoming more general .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    7    5 He_PPHS1 begins_VVZ presenting_VVG his_APPGE argument_NN1 on_II a_AT1 more_RGR specific_JJ scale_NN1 before_II becoming_VVG more_RGR general_JJ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    8    6 He explains why people need to learn to opt-out and stray from industrialization .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    8    6 He_PPHS1 explains_VVZ why_RRQ people_NN need_VV0 to_TO learn_VVI to_II opt-out_NN1 and_CC stray_VVI from_II industrialization_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A    9    7 By presenting this as the main argument , he produces a more direct approach to the topic .
+SENTPOS 2014_4_101_600_678_1 DRAFT B    9    7 By_II presenting_VVG this_DD1 as_II the_AT main_JJ argument_NN1 ,_, he_PPHS1 produces_VVZ a_AT1 more_RGR direct_JJ approach_NN1 to_II the_AT topic_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   10    8 Once the audience is clear on the argument , he can proceed to the reasoning behind his argument on a more general level .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   10    8 Once_CS@ the_AT audience_NN1 is_VBZ clear_JJ on_II the_AT argument_NN1 ,_, he_PPHS1 can_VM proceed_VVI to_II the_AT reasoning_NN1 behind_II his_APPGE argument_NN1 on_II a_AT1 more_RGR general_JJ level_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   11    9 The reasoning Salatin uses supports his inductive argument .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   11    9 The_AT reasoning_NN1 Salatin_NP1 uses_NN2 supports_VVZ his_APPGE inductive_JJ argument_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   12   10 Not only does he employ dialectical reasoning , he also demonstrates his use of rhetorical reasoning .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   12   10 Not_XX only_RR does_VDZ he_PPHS1 employ_VVI dialectical_JJ reasoning_NN1 ,_, he_PPHS1 also_RR demonstrates_VVZ his_APPGE use_NN1 of_IO rhetorical_JJ reasoning_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   13   11 Dialectical reasoning occurs when he proposes that not all foods are healthy just because they follow federal standards .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   13   11 Dialectical_JJ reasoning_NN1 occurs_VVZ when_RRQ he_PPHS1 proposes_VVZ that_CST not_XX all_DB foods_NN2 are_VBR healthy_JJ just_RR because_CS they_PPHS2 follow_VV0 federal_JJ standards_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   14   12 He effectively compares today 's food industry today to the past and the changing nature of the healthiness of the food .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   14   12 He_PPHS1 effectively_RR compares_VVZ today_RT 's_GE food_NN1 industry_NN1 today_RT to_II the_AT past_NN1 and_CC the_AT changing_JJ nature_NN1 of_IO the_AT healthiness_NN1 of_IO the_AT food_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   15   13 Salatin uses opinions from credited sources to help support his overall argument .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   15   13 Salatin_NN1 uses_VVZ opinions_NN2 from_II credited_JJ@ sources_NN2 to_TO help_VVI support_VVI his_APPGE overall_JJ argument_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   16   14 He also uses rhetorical reasoning to present common misconceptions .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   16   14 He_PPHS1 also_RR uses_VVZ rhetorical_JJ reasoning_NN1 to_TO present_VVI common_JJ misconceptions_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   18   15 People tend to think that food today is healthier just because of the new technological advancements instead of looking at what goes into making the food they eat .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   18   15 People_NN tend_VV0 to_TO think_VVI that_DD1 food_NN1 today_RT is_VBZ healthier_JJR just_RR because_II21 of_II22 the_AT new_JJ technological_JJ advancements_NN2 instead_II21 of_II22 looking_VVG at_II what_DDQ goes_VVZ into_II making_VVG the_AT food_NN1 they_PPHS2 eat_VV0 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   19   16 It is more common for people to believe the government than it is for them to question what they have been told and think for themselves .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   19   16 It_PPH1 is_VBZ more_RGR common_JJ for_IF people_NN to_TO believe_VVI the_AT government_NN1 than_CSN it_PPH1 is_VBZ for_IF them_PPHO2 to_TO question_VVI what_DDQ they_PPHS2 have_VH0 been_VBN told_VVN and_CC think_VV0 for_IF themselves_PPX2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   20   17 Combining both reasoning techniques results in a more complete argument .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   20   17 Combining_VVG both_DB2 reasoning_VVG techniques_NN2 results_NN2 in_II a_AT1 more_RGR complete_JJ argument_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   21   18 By presenting his views from different standpoints , it is easier for the audience to be able to agree with Salatin .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   21   18 By_II presenting_VVG his_APPGE views_NN2 from_II different_JJ standpoints_NN2 ,_, it_PPH1 is_VBZ easier_JJR for_IF the_AT audience_NN1 to_TO be_VBI able_JK to_TO agree_VVI with_IW Salatin_NP1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   23   19 Salatin 's presentation of ethos strengthens his argument by allowing him to make a greater impression on the audience .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   23   19 Salatin_NP1@ 's_GE presentation_NN1 of_IO ethos_NN1 strengthens_VVZ his_APPGE argument_NN1 by_II allowing_VVG him_PPHO1 to_TO make_VVI a_AT1 greater_JJR impression_NN1 on_II the_AT audience_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   24   20 He draws on his situated ethos by using his background to his advantage .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   24   20 He_PPHS1 draws_VVZ on_II his_APPGE situated_JJ% ethos_NN1 by_II using_VVG his_APPGE background_NN1 to_II his_APPGE advantage_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   25   21 Being a farmer allows Salatin to make references that are more reliable because the source , Salatin himself , has previous applicable knowledge .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   25   21 Being_VBG a_AT1 farmer_NN1 allows_VVZ Salatin_NP1 to_TO make_VVI references_NN2 that_CST are_VBR more_RGR reliable_JJ because_CS the_AT source_NN1 ,_, Salatin_NP1 himself_PPX1 ,_, has_VHZ previous_JJ applicable_JJ knowledge_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   26   22 Because his opinion is more relevant and educated , the audience is able to relate and therefore trust him more .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   26   22 Because_CS his_APPGE opinion_NN1 is_VBZ more_RGR relevant_JJ and_CC educated_JJ ,_, the_AT audience_NN1 is_VBZ able_JK to_TO relate_VVI and_CC therefore_RR trust_VVI him_PPHO1 more_DAR ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   27   23 He references his experience in a respectful way by being very modest in his approach with the topic .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   27   23 He_PPHS1 references_VVZ@ his_APPGE experience_NN1 in_II a_AT1 respectful_JJ way_NN1 by_II being_VBG very_RG modest_JJ in_II his_APPGE approach_NN1 with_IW the_AT topic_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   28   24 Although he shows a sense of urgency , he also refrains from offending the audience .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   28   24 Although_CS he_PPHS1 shows_VVZ a_AT1 sense_NN1 of_IO urgency_NN1 ,_, he_PPHS1 also_RR refrains_VVZ from_II offending_VVG the_AT audience_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   29   25 He also establishes his invented ethos by choosing a topic that shows great importance today .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   29   25 He_PPHS1 also_RR establishes_VVZ his_APPGE invented_JJ% ethos_NN1 by_II choosing_VVG a_AT1 topic_NN1 that_CST shows_VVZ great_JJ importance_NN1 today_RT ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   30   26 Instead of simply telling people to change their lives completely , he promotes making little changes that could have a longer impact .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   30   26 Instead_CS21% of_CS22 simply_RR telling_VVG people_NN to_TO change_VVI their_APPGE lives_NN2 completely_RR ,_, he_PPHS1 promotes_VVZ making_VVG little_JJ changes_NN2 that_CST could_VM have_VHI a_AT1 longer_JJR impact_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   31   27 The way in which Salatin utilizes his ethos increases not only his credibility but also his trustworthiness .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   31   27 The_AT way_NN1 in_II which_DDQ Salatin_NP1 utilizes_VVZ his_APPGE ethos_NN1 increases_VVZ not_XX only_RR his_APPGE credibility_NN1 but_CCB also_RR his_APPGE trustworthiness_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   32   28 The argument will be more effective once the audience is able to believe the rhetor and see where the argument itself is coming from .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   32   28 The_AT argument_NN1 will_VM be_VBI more_RGR effective_JJ once_CS@ the_AT audience_NN1 is_VBZ able_JK to_TO believe_VVI the_AT rhetor_NN1 and_CC see_VVI where_RRQ the_AT argument_NN1 itself_PPX1 is_VBZ coming_VVG from_II ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   33   29 The audience believes an argument when it recognizes with their emotions .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   33   29 The_AT audience_NN1 believes_VVZ an_AT1 argument_NN1 when_CS it_PPH1 recognizes_VVZ with_IW their_APPGE emotions_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   35   30 A person 's emotions drive their decisions and have a large impact on how they react to certain situations .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   35   30 A_AT1 person_NN1 's_GE emotions_NN2 drive_VV0 their_APPGE decisions_NN2 and_CC have_VH0 a_AT1 large_JJ impact_NN1 on_II how_RRQ they_PPHS2 react_VV0 to_II certain_JJ situations_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   36   31 Salatin specifically utilizes people 's compassion and desire to help others by using specific case examples .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   36   31 Salatin_NN1 specifically_RR utilizes_VVZ people_NN 's_GE compassion_NN1 and_CC desire_NN1 to_TO help_VVI others_NN2 by_II using_VVG specific_JJ case_NN1 examples_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   38   32 Many people feel deeply when it comes to animals and by discussing the harshness of their situation , people are able to identify with the reality presented before them .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   38   32 Many_DA2 people_NN feel_VV0 deeply_RR when_CS it_PPH1 comes_VVZ to_II animals_NN2 and_CC by_II discussing_VVG the_AT harshness_NN1 of_IO their_APPGE situation_NN1 ,_, people_NN are_VBR able_JK to_TO identify_VVI with_IW the_AT reality_NN1 presented_VVN before_II them_PPHO2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   39   33 The shock value is increased when Salatin goes into great detail in an essay where something would not usually be seen .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   39   33 The_AT shock_NN1 value_NN1 is_VBZ increased_VVN when_CS Salatin_NP1 goes_VVZ into_II great_JJ detail_NN1 in_II an_AT1 essay_NN1 where_CS something_PN1 would_VM not_XX usually_RR be_VBI seen_VVN ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   40   34 He tries to force people to look more closely into what they are eating and how it is produced .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   40   34 He_PPHS1 tries_VVZ to_TO force_VVI people_NN to_TO look_VVI more_RGR closely_RR into_II what_DDQ they_PPHS2 are_VBR eating_VVG and_CC how_RRQ it_PPH1 is_VBZ produced_VVN ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   42   35 Many people choose not to acknowledge a cruel reality until it affects them personally or its shoved in their face .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   42   35 Many_DA2 people_NN choose_VV0 not_XX to_TO acknowledge_VVI a_AT1 cruel_JJ reality_NN1 until_CS it_PPH1 affects_VVZ them_PPHO2 personally_RR or_CC its_APPGE shoved_VVN in_II their_APPGE face_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   43   36 Salatin 's abruptness may create opposition but helps create a more effective message .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   43   36 Salatin_NP1@ 's_GE abruptness_NN1 may_VM create_VVI opposition_NN1 but_CCB helps_NN2@ create_VVI a_AT1 more_RGR effective_JJ message_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   44   37 People are compelled to face the issues when it is brought to a more personal scale by affecting their emotions .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   44   37 People_NN are_VBR compelled_VVN to_TO face_VVI the_AT issues_NN2 when_CS it_PPH1 is_VBZ brought_VVN to_II a_AT1 more_RGR personal_JJ scale_NN1 by_II affecting_VVG their_APPGE emotions_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   45   38 By using pathos as a rhetorical device , Salatin is able to effectively portray his message without losing his ethos .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   45   38 By_II using_VVG pathos_NN1 as_II a_AT1 rhetorical_JJ device_NN1 ,_, Salatin_NP1 is_VBZ able_JK to_TO effectively_RR portray_VVI his_APPGE message_NN1 without_IW losing_VVG his_APPGE ethos_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   46   39 Using enargeia in his argument allows Salatin to make the issue more personal .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   46   39 Using_VVG enargeia_NN1 in_II his_APPGE argument_NN1 allows_VVZ Salatin_NP1 to_TO make_VVI the_AT issue_NN1 more_RGR personal_JJ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   47   40 Employing tactics that make the issue come alive helps convince the audience of Salatin 's argument .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   47   40 Employing_JJ tactics_NN2 that_CST make_VV0 the_AT issue_NN1 come_VVI alive_JJ helps_NN2@ convince_VVI the_AT audience_NN1 of_IO Salatin_NP1 's_GE argument_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   48   41 He uses many examples and references that contain great detail to help show the true nature of the food industry .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   48   41 He_PPHS1 uses_VVZ many_DA2 examples_NN2 and_CC references_NN2 that_CST contain_VV0 great_JJ detail_NN1 to_TO help_VVI show_VVI the_AT true_JJ nature_NN1 of_IO the_AT food_NN1 industry_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   49   42 People should care about the issues at hand because it affects not only how they live today , but also defines the future .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   49   42 People_NN should_VM care_VVI about_II the_AT issues_NN2 at_II hand_NN1 because_CS it_PPH1 affects_VVZ not_XX only_RR how_RRQ they_PPHS2 live_VV0 today_RT ,_, but_CCB also_RR defines_VVZ the_AT future_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   50   43 He argues for people to really take time to think about what they are putting in their body .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   50   43 He_PPHS1 argues_VVZ for_IF people_NN to_TO really_RR take_VVI time_NNT1 to_TO think_VVI about_II what_DDQ they_PPHS2 are_VBR putting_VVG in_II their_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   51   44 Salatin wants people to defy the government and learn for themselves the truth about what is going on with the food they eat .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   51   44 Salatin_NN1 wants_VVZ people_NN to_TO defy_VVI the_AT government_NN1 and_CC learn_VVI for_IF themselves_PPX2 the_AT truth_NN1 about_II what_DDQ is_VBZ going_VVG on_RP@ with_IW the_AT food_NN1 they_PPHS2 eat_VV0 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   52   45 It is not only affecting the animals and the industry itself , but it also affects the health of each individual who chooses to follow suit .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   52   45 It_PPH1 is_VBZ not_XX only_RR affecting_VVG the_AT animals_NN2 and_CC the_AT industry_NN1 itself_PPX1 ,_, but_CCB it_PPH1 also_RR affects_VVZ the_AT health_NN1 of_IO each_DD1 individual_NN1 who_PNQS chooses_VVZ to_TO follow_VVI suit_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   53   46 People are not caring enough about the long-term health effects and the ingredients that go into their food .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   53   46 People_NN are_VBR not_XX caring_VVG enough_RR about_II the_AT long-term_JJ health_NN1 effects_NN2 and_CC the_AT ingredients_NN2 that_CST go_VV0 into_II their_APPGE food_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   54   47 Many just sit back while the government dictates what is safe and unsafe instead of questioning decisions .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   54   47 Many_DA2 just_RR sit_VV0 back_RP while_CS the_AT government_NN1 dictates_NN2 what_DDQ is_VBZ safe_JJ and_CC unsafe_JJ instead_II21 of_II22 questioning_JJ decisions_NN2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   56   48 Salatin tries to play on people 's emotions so that they decide to opt-out and think for themselves .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   56   48 Salatin_NN1 tries_VVZ to_TO play_VVI on_II people_NN 's_GE emotions_NN2 so_CS21 that_CS22 they_PPHS2 decide_VV0 to_II opt-out_NN1 and_CC think_VV0 for_IF themselves_PPX2 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   57   49 Too many people are relying on the government to make their decisions for them instead of researching and deciding individually what is best .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   57   49 Too_RG many_DA2 people_NN are_VBR relying_VVG on_II the_AT government_NN1 to_TO make_VVI their_APPGE decisions_NN2 for_IF them_PPHO2 instead_II21 of_II22 researching_VVG and_CC deciding_VVG individually_RR what_DDQ is_VBZ best_JJT ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   59   50 People are too caught up in what does n't affect them instead of realizing what really matters : their health .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   59   50 People_NN are_VBR too_RR@ caught_VVN up_RP in_II what_DDQ does_VDZ n't_XX affect_VVI them_PPHO2 instead_II21 of_II22 realizing_VVG what_DDQ really_RR matters_VVZ@ :_: their_APPGE health_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   60   51 Salatin uses pathos to try and get people to use their emotions and realize what they are doing is detrimental to their body .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   60   51 Salatin_NN1 uses_VVZ pathos_NN1 to_TO try_VVI and_CC get_VVI people_NN to_TO use_VVI their_APPGE emotions_NN2 and_CC realize_VVI what_DDQ they_PPHS2 are_VBR doing_VDG is_VBZ detrimental_JJ to_II their_APPGE body_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   61   52 He urges people to opt-out and understand the processes of how their food is made and what the benefits are .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   61   52 He_PPHS1 urges_VVZ people_NN to_II opt-out_NN1 and_CC understand_VV0 the_AT processes_NN2 of_IO how_RRQ their_APPGE food_NN1 is_VBZ made_VVN and_CC what_DDQ the_AT benefits_NN2 are_VBR ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   62   53 Just because the cost is low does not mean that it is also healthy .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   62   53 Just_RR because_CS the_AT cost_NN1 is_VBZ low_RR@ does_VDZ not_XX mean_VVI that_CST it_PPH1 is_VBZ also_RR healthy_JJ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   64   54 He tells people about local farmers whose businesses need the profit to make people realize that the better and safer choice might be just around the corner .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   64   54 He_PPHS1 tells_VVZ people_NN about_II local_JJ farmers_NN2 whose_DDQGE businesses_NN2 need_VV0 the_AT profit_NN1 to_TO make_VVI people_NN realize_VVI that_CST the_AT better_JJR and_CC safer_JJR choice_NN1 might_VM be_VBI just_RR around_II the_AT corner_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   66   55 Joel Salatin 's argument influences people to look more closely at what they are using as a source of energy .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   66   55 Joel_NP1 Salatin_NP1 's_GE argument_NN1 influences_NN2 people_NN to_TO look_VVI more_RGR closely_RR at_II what_DDQ they_PPHS2 are_VBR using_VVG as_II a_AT1 source_NN1 of_IO energy_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   67   56 People are not paying attention to what is happening with their food and are ignoring what is most important in life .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   67   56 People_NN are_VBR not_XX paying_VVG attention_NN1 to_II what_DDQ is_VBZ happening_VVG with_IW their_APPGE food_NN1 and_CC are_VBR ignoring_VVG what_DDQ is_VBZ most_RGT important_JJ in_II life_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   68   57 Putting health on the backburner only creates the problems that many are trying to avoid .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   68   57 Putting_VVG health_NN1 on_II the_AT backburner_NN1 only_RR creates_VVZ the_AT problems_NN2 that_CST many_DA2 are_VBR trying_VVG to_TO avoid_VVI ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   69   58 Instead of looking at food as an industry , Salatin urges people to identify it as a journey .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   69   58 Instead_II21 of_II22 looking_VVG at_II food_NN1 as_II an_AT1 industry_NN1 ,_, Salatin_NP1 urges_VVZ people_NN to_TO identify_VVI it_PPH1 as_II a_AT1 journey_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   71   59 When you look at food in a new way and really take time to consider everything going into your body , it is easier to create a healthy lifestyle .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   71   59 When_CS you_PPY look_VV0 at_II food_NN1 in_II a_AT1 new_JJ way_NN1 and_CC really_RR take_VV0 time_NNT1 to_TO consider_VVI everything_PN1 going_VVG into_II your_APPGE body_NN1 ,_, it_PPH1 is_VBZ easier_JJR to_TO create_VVI a_AT1 healthy_JJ lifestyle_NN1 ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   72   60 Just because the government sets regulations and declares that a certain food is healthy does not always mean that it is .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   72   60 Just_RR because_CS the_AT government_NN1 sets_VVZ regulations_NN2 and_CC declares_VVZ that_CST a_AT1 certain_JJ food_NN1 is_VBZ healthy_JJ does_VDZ not_XX always_RR mean_VVI that_CST it_PPH1 is_VBZ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   74   61 Salatin engages with the audience to help them understand that thinking for himself/herself is how to really recognize what opting-out means .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   74   61 Salatin_NN1 engages_VVZ with_IW the_AT audience_NN1 to_TO help_VVI them_PPHO2 understand_VVI that_DD1 thinking_NN1 for_IF himself/herself_PPX1 is_VBZ how_RRQ to_TO really_RR recognize_VVI what_DDQ opting-out_NN1 means_VVZ ._.
+SENTPOS 2014_4_101_600_678_1 DRAFT A   76   61  Through a rhetorically effective argument , Salatin identifies with the audience and convinces them to take his viewpoint into consideration .
+SENTPOS 2014_4_101_600_678_1 DRAFT B   76   61  Through_II a_AT1 rhetorically_RR effective_JJ argument_NN1 ,_, Salatin_NP1 identifies_VVZ with_IW the_AT audience_NN1 and_CC convinces_VVZ them_PPHO2 to_TO take_VVI his_APPGE viewpoint_NN1 into_II consideration_NN1 ._.

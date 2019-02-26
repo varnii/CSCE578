@@ -1,0 +1,80 @@
+SENTPOS 2014_4_101_300_326_2 DRAFT A    0    0 This painting can be observed in three major perspectives .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    0    0 This_DD1 painting_NN1 can_VM be_VBI observed_VVN in_II three_MC major_JJ perspectives_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    0    1 First , observing the color affiliation that artist used in this picture to find out the meaning of these dark color usage .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    0    1 First_MD ,_, observing_VVG the_AT color_NN1 affiliation_NN1 that_CST artist_NN1 used_VVN in_II this_DD1 picture_NN1 to_TO find_VVI out_RP the_AT meaning_NN1 of_IO these_DD2 dark_JJ color_NN1 usage_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    0    2 Second , observing meaning of the location and kinds of goods , and of background .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    0    2 Second_MD ,_, observing_VVG meaning_NN1 of_IO the_AT location_NN1 and_CC kinds_NN2 of_IO goods_NN2 ,_, and_CC of_IO background_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    0    3 Lastly , observing mood of the scene by people 's posture and eyes focus .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    0    3 Lastly_RR ,_, observing_VVG mood_NN1 of_IO the_AT scene_NN1 by_II people_NN 's_GE posture_NN1 and_CC eyes_NN2 focus_VV0 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    0    4 The artist chose bad weather , dark color and gloomy mood to describe the Paris Street to interpret people 's lethargic attitude which is contrary to the image of central commercial area of Paris Street .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    0    4 The_AT artist_NN1 chose_VVD bad_JJ weather_NN1 ,_, dark_JJ color_NN1 and_CC gloomy_JJ mood_NN1 to_TO describe_VVI the_AT Paris_NP1 Street_NNL1 to_TO interpret_VVI people_NN 's_GE lethargic_JJ attitude_NN1 which_DDQ is_VBZ contrary_II21 to_II22 the_AT image_NN1 of_IO central_JJ commercial_JJ area_NN1 of_IO Paris_NP1 Street_NNL1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1    5 Paris street is one of the world famous main street .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1    5 Paris_NP1 street_NN1 is_VBZ one_MC1 of_IO the_AT world_NN1 famous_JJ main_JJ street_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1    6 In this painting , artist uses the gray and blue affiliated color which is a best choice to show the gloomy air of Paris Street .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1    6 In_II this_DD1 painting_NN1 ,_, artist_NN1 uses_VVZ the_AT gray_JJ and_CC blue_JJ affiliated_JJ color_NN1 which_DDQ is_VBZ a_AT1 best_JJT choice_NN1 to_TO show_VVI the_AT gloomy_JJ air_NN1 of_IO Paris_NP1 Street_NNL1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1    7 For example , color of umbrella and clothe is unified to one same kind of color which emphasizes the unity of dark tone .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1    7 For_REX21 example_REX22 ,_, color_NN1 of_IO umbrella_NN1 and_CC clothe_VV0 is_VBZ unified_VVN to_II one_MC1 same_DA kind_NN1 of_IO color_NN1 which_DDQ emphasizes_VVZ the_AT unity_NN1 of_IO dark_JJ tone_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1    8 On the contrary , colors of buildings are yellow and red which are vivid and light colors .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1    8 On_II the_AT contrary_NN1 ,_, colors_NN2 of_IO buildings_NN2 are_VBR yellow_JJ and_CC red_NN1 which_DDQ are_VBR vivid_JJ and_CC light_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1    9 Although these colors are not same affiliation , it does not stick out unnaturally .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1    9 Although_CS these_DD2 colors_NN2 are_VBR not_XX same_DA affiliation_NN1 ,_, it_PPH1 does_VDZ not_XX stick_VVI out_RP unnaturally_RR ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1   10 Since general color of the painting is gray and blue affiliated colors , primary colors mix well with dark colors in the painting .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1   10 Since_CS general_JJ color_NN1 of_IO the_AT painting_NN1 is_VBZ gray_JJ and_CC blue_JJ affiliated_JJ colors_NN2 ,_, primary_JJ colors_NN2 mix_VV0 well_RR with_IW dark_JJ colors_NN2 in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1   11 Artist not only uses depth perspective but also depth of color to express three dimensional effects .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1   11 Artist_NN1 not_XX only_RR uses_VVZ depth_NN1 perspective_NN1 but_CCB also_RR depth_NN1 of_IO color_NN1 to_TO express_VVI three_MC dimensional_JJ effects_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1   12 Dull shades and foggy effect are used to express people and buildings at the back of painting .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1   12 Dull_JJ shades_NN2 and_CC foggy_JJ effect_NN1 are_VBR used_VVN to_TO express_VVI people_NN and_CC buildings_NN2 at_II the_AT back_NN1 of_IO painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1   13 Vivid tone is used to show closeness and emphasize people in front which concentrate viewer 's attention .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1   13 Vivid_JJ tone_NN1 is_VBZ used_VVN to_TO show_VVI closeness_NN1 and_CC emphasize_VVI people_NN in_II front_NN1 which_DDQ concentrate_VV0 viewer_NN1 's_GE attention_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    1   14 Likewise , kind of color , and control of thickness can show dynamic expression .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    1   14 Likewise_RR ,_, kind_NN1 of_IO color_NN1 ,_, and_CC control_NN1 of_IO thickness_NN1 can_VM show_VVI dynamic_JJ expression_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   15 Not only colors but also goods and backgrounds in this picture help to find out new hidden facts in this painting .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   15 Not_XX only_RR colors_NN2 but_CCB also_RR goods_NN2 and_CC backgrounds_NN2 in_II this_DD1 picture_NN1 help_NN1 to_TO find_VVI out_RP new_JJ hidden_JJ@ facts_NN2 in_II this_DD1 painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   16 First of all , we can notice climate condition by goods that people use .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   16 First_MD of_IO all_DB ,_, we_PPIS2 can_VM notice_VVI climate_NN1 condition_NN1 by_II goods_NN2 that_CST people_NN use_VV0 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   17 Even if we can not clearly identify the rainy scene , we can figure out the rain from the umbrellas that people hold .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   17 Even_CS21 if_CS22 we_PPIS2 can_VM not_XX clearly_RR identify_VVI the_AT rainy_JJ scene_NN1 ,_, we_PPIS2 can_VM figure_VVI out_RP the_AT rain_NN1 from_II the_AT umbrellas_NN2 that_CST people_NN hold_VV0 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   18 Another way of finding out climate condition is looking the background .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   18 Another_DD1 way_NN1 of_IO finding_VVG out_RP climate_NN1 condition_NN1 is_VBZ looking_VVG the_AT background_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   19 The besprent shade under the streetlamp shows that shade is not even .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   19 The_AT besprent_JJ shade_NN1 under_II the_AT streetlamp_NN1 shows_VVZ that_DD1 shade_NN1 is_VBZ not_XX even_RR ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   20 It is really shaky by constant rain .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   20 It_PPH1 is_VBZ really_RR shaky_JJ by_II constant_JJ rain_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   21 Left end of this picture , there is a four-wheeled carriage and most of the buildings have low floors ( not skyscrapers ) and built in ancient French style of architecture .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   21 Left_JJ end_NN1 of_IO this_DD1 picture_NN1 ,_, there_EX is_VBZ a_AT1 four-wheeled_JJ carriage_NN1 and_CC most_DAT of_IO the_AT buildings_NN2 have_VH0 low_JJ floors_NN2 (_( not_XX skyscrapers_NN2 )_) and_CC built_VVN in_II ancient_JJ French_JJ style_NN1 of_IO architecture_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   22 This reflects the time period of 1800s in Paris .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   22 This_DD1 reflects_VVZ the_AT time_NNT1 period_NN1 of_IO 1800s_MC2 in_II Paris_NP1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   23 Likewise , without textual information of the painting , we can obtain high quality information just by observing the picture .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   23 Likewise_RR ,_, without_IW textual_JJ information_NN1 of_IO the_AT painting_NN1 ,_, we_PPIS2 can_VM obtain_VVI high_JJ quality_NN1 information_NN1 just_RR by_II observing_VVG the_AT picture_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   24 Also , if we closely look at the background , we can notice the blurry gray sky .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   24 Also_RR ,_, if_CS we_PPIS2 closely_RR look_VV0 at_II the_AT background_NN1 ,_, we_PPIS2 can_VM notice_VVI the_AT blurry_JJ gray_JJ sky_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   25 Even if it is not clear enough to identify the time slot , crowded people in the street explain that the painting is representing cloudy daytime .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   25 Even_CS21 if_CS22 it_PPH1 is_VBZ not_XX clear_RR@ enough_RR to_TO identify_VVI the_AT time_NNT1 slot_NN1 ,_, crowded_JJ people_NN in_II the_AT street_NN1 explain_VV0 that_CST the_AT painting_NN1 is_VBZ representing_VVG cloudy_JJ daytime_NNT1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    2   26 It shows that daytime also can be depressing as much as night .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    2   26 It_PPH1 shows_VVZ that_DD1 daytime_NNT1 also_RR can_VM be_VBI depressing_JJ as_RG much_DA1 as_CSA night_NNT1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   27 We can grasp general atmosphere by the spot to which people 's eyes are bound .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   27 We_PPIS2 can_VM grasp_VVI general_JJ atmosphere_NN1 by_II the_AT spot_NN1 to_II which_DDQ people_NN 's_GE eyes_NN2 are_VBR bound_VVN ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   28 Everyone except the couple in the foreground of the painting is not facing the viewers .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   28 Everyone_PN1 except_II the_AT couple_NN1 in_II the_AT foreground_NN1 of_IO the_AT painting_NN1 is_VBZ not_XX facing_VVG the_AT viewers_NN2 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   29 A couple is the only people that we can see the face clearly .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   29 A_AT1 couple_NN1 is_VBZ the_AT only_JJ people_NN that_CST we_PPIS2 can_VM see_VVI the_AT face_NN1 clearly_RR ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   30 This makes viewers to focus on the facial expression of them .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   30 This_DD1 makes_VVZ viewers_NN2 to_TO focus_VVI on_II the_AT facial_JJ expression_NN1 of_IO them_PPHO2 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   31 They have blank look away and be in a state of impassivity .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   31 They_PPHS2 have_VH0 blank_JJ look_NN1 away_RL and_CC be_VBI in_II a_AT1 state_NN1 of_IO impassivity_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   32 Their faces adds the depressive factor to this painting .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   32 Their_APPGE faces_NN2 adds_VVZ the_AT depressive_NN1 factor_NN1 to_II this_DD1 painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   33 The person next to the streetlamp sets his face toward ground , but nothing is on the ground .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   33 The_AT person_NN1 next_II21 to_II22 the_AT streetlamp_NN1 sets_VVZ his_APPGE face_NN1 toward_II ground_NN1 ,_, but_CCB nothing_PN1 is_VBZ on_II the_AT ground_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   34 Comparing location of people 's eyes with our everyday life expression of people , we can understand the depressing and lethargic mood which uplifts dark atmosphere of the painting .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   34 Comparing_VVG location_NN1 of_IO people_NN 's_GE eyes_NN2 with_IW our_APPGE everyday_JJ life_NN1 expression_NN1 of_IO people_NN ,_, we_PPIS2 can_VM understand_VVI the_AT depressing_JJ and_CC lethargic_JJ mood_NN1 which_DDQ uplifts_NN2 dark_JJ atmosphere_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   35 Eye line of the people is one of the easy traits to miss .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   35 Eye_NN1 line_NN1 of_IO the_AT people_NN is_VBZ one_MC1 of_IO the_AT easy_JJ traits_NN2 to_TO miss_VVI ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   36 Even if it is a trivial change , eyeline contains indirect meaning in it .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   36 Even_CS21 if_CS22 it_PPH1 is_VBZ a_AT1 trivial_JJ change_NN1 ,_, eyeline_NN1 contains_VVZ indirect_JJ meaning_NN1 in_II it_PPH1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    3   37 This is a good example to show how many new things that we can find out from the observation .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    3   37 This_DD1 is_VBZ a_AT1 good_JJ example_NN1 to_TO show_VVI how_RGQ@ many_DA2 new_JJ things_NN2 that_CST we_PPIS2 can_VM find_VVI out_RP from_II the_AT observation_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    4   38 In conclusion , even if viewer 's knowledge of work is on the side on nonexistence , viewers can catch the gloomy atmosphere and people 's feeling in Paris Street by observing the work in detail since Paris Street ; Rainy day ( 1877 ) is painted in direct way of expression .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    4   38 In_II conclusion_NN1 ,_, even_CS21 if_CS22 viewer_NN1 's_GE knowledge_NN1 of_IO work_NN1 is_VBZ on_II the_AT side_NN1 on_II nonexistence_NN1 ,_, viewers_NN2 can_VM catch_VVI the_AT gloomy_JJ atmosphere_NN1 and_CC people_NN 's_GE feeling_NN1 in_II Paris_NP1 Street_NNL1 by_II observing_VVG the_AT work_NN1 in_II detail_NN1 since_CS Paris_NP1 Street_NNL1 ;_; Rainy_JJ day_NNT1 (_( 1877_MC )_) is_VBZ painted_VVN in_II direct_JJ way_NN1 of_IO expression_NN1 ._.
+SENTPOS 2014_4_101_300_326_2 DRAFT A    4   38  The main idea that we have to draw from oberving different factors of the painting is the contrast of dynamic image inbetween the general image of Paris street and gloomy mood of street and people in ths picture .
+SENTPOS 2014_4_101_300_326_2 DRAFT B    4   38  The_AT main_JJ idea_NN1 that_CST we_PPIS2 have_VH0 to_TO draw_VVI from_II oberving_VVG different_JJ factors_NN2 of_IO the_AT painting_NN1 is_VBZ the_AT contrast_NN1 of_IO dynamic_JJ image_NN1 inbetween_NN1 the_AT general_JJ image_NN1 of_IO Paris_NP1 street_NN1 and_CC gloomy_JJ mood_NN1 of_IO street_NN1 and_CC people_NN in_II ths_NNU picture_NN1 ._.

@@ -1,0 +1,192 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    0 Every time Roberto and I went home in the evenings to an empty house , I felt lonely .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    0 Every_AT1 time_NNT1 Roberto_NP1 and_CC I_PPIS1 went_VVD home_RL in_II the_AT evenings_NNT2 to_II an_AT1 empty_JJ house_NN1 ,_Y I_PPIS1 felt_VVD lonely_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    1 Sometimes I imagined hearing the laughter and bickering of my brothers and sister .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    1 Sometimes_RT I_PPIS1 imagined_VVD hearing_VVG the_AT laughter_NN1 and_CC bickering_NN1@_VVG of_IO my_APPGE brothers_NN2 and_CC sister_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    2 I longed for the smell and taste of home cooking , especially flour tortillas , frijoles de la olla , and carne con chile .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    2 I_PPIS1 longed_VVD for_IF the_AT smell_NN1 and_CC taste_NN1 of_IO home_NN1 cooking_NN1_VVG ,_Y especially_RR flour_NN1 tortillas_NN2 ,_Y frijoles_NN2 de_FW la_FW olla_NN1 ,_Y and_CC carne_NN1 con_NN1_VV0 chile_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    3 I missed seeing Pap 's eyes water when he listened to Mexican music on the radio and hearing him repeat stories about Mexico when he was young .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    3 I_PPIS1 missed_VVD seeing_VVG Pap_NN1 's_GE eyes_NN2 water_NN1_VV0% when_CS_RRQ he_PPHS1 listened_VVD to_II Mexican_JJ music_NN1 on_II the_AT radio_NN1 and_CC hearing_VVG him_PPHO1 repeat_VVI stories_NN2 about_II Mexico_NP1 when_RRQ_CS he_PPHS1 was_VBDZ young_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    4 I even missed his bad moods and his constant complaints about his back pain and headaches .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    4 I_PPIS1 even_RR missed_VVD his_APPGE bad_JJ moods_NN2 and_CC his_APPGE constant_JJ complaints_NN2 about_II his_APPGE back_NN1_JJ@ pain_NN1 and_CC headaches_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    5 I buried my head in my schoolbooks .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    5 I_PPIS1 buried_VVD my_APPGE head_NN1 in_II my_APPGE schoolbooks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    6 I wanted to keep on learning and to escape the loneliness I felt for my family .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    6 I_PPIS1 wanted_VVD to_TO keep_VVI on_RP learning_VVG and_CC to_TO escape_VVI the_AT loneliness_NN1 I_PPIS1 felt_VVD for_IF my_APPGE family_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    7 At school I felt alone most of the time , but I did get some attention from my classmates because I did well in math .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    7 At_II school_NN1 I_PPIS1 felt_VVD alone_RR most_DAT of_IO the_AT time_NNT1 ,_Y but_CCB I_PPIS1 did_VDD get_VVI some_DD attention_NN1 from_II my_APPGE classmates_NN2 because_CS I_PPIS1 did_VDD well_RR in_II math_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    8 Mr. Milo arranged our desks according to how well we did on math tests .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    8 Mr._NNB Milo_NP1 arranged_VVD our_APPGE desks_NN2 according_II21 to_II22 how_RGQ@_RRQ well_RR we_PPIS2 did_VDD on_II math_NN1 tests_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0    9 The student with the highest score had the honor of sitting in the front seat , first row .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0    9 The_AT student_NN1 with_IW the_AT highest_JJT score_NN1 had_VHD the_AT honor_NN1 of_IO sitting_VVG in_II the_AT front_JJ_NN1 seat_NN1 ,_Y first_MD row_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   10 most of the time I sat in the second one .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   10 most_DAT of_IO the_AT time_NNT1 I_PPIS1 sat_VVD in_II the_AT second_MD one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   11 Marjorie Ito , the daughter of the Japanese sharecropper for whom we picked strawberries , almost always took first place .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   11 Marjorie_NP1 Ito_NP1 ,_Y the_AT daughter_NN1 of_IO the_AT Japanese_JJ_NN1 sharecropper_NN1 for_IF whom_PNQO we_PPIS2 picked_VVD strawberries_NN2 ,_Y almost_RR always_RR took_VVD first_MD place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   12 My classmates called me " hotshot " and teased me because I worked hard .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   12 My_APPGE classmates_NN2 called_VVN_VVD@ me_PPIO1 "_Y hotshot_NN1 "_Y and_CC teased_VVN me_PPIO1 because_CS I_PPIS1 worked_VVD hard_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   13 I did not mind it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   13 I_PPIS1 did_VDD not_XX mind_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   14 I knew they were being friendly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   14 I_PPIS1 knew_VVD they_PPHS2 were_VBDR being_VBG friendly_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   15 Besides , I wanted to be accepted and , most of all , respected .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   15 Besides_RR ,_Y I_PPIS1 wanted_VVD to_TO be_VBI accepted_VVN and_CC ,_Y most_DAT of_IO all_DB ,_Y respected_VVD_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   16 Papa insisted on our being respectful and respected .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   16 Papa_NN1 insisted_VVD_VVN@ on_II_RP@ our_APPGE being_VBG respectful_JJ and_CC respected_VVD_JJ_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   17 " If you respect others , they will respect you , " he often said .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   17 "_Y If_CS you_PPY respect_VV0@ others_NN2 ,_Y they_PPHS2 will_VM respect_VVI you_PPY ,_Y "_Y he_PPHS1 often_RR said_VVD_VVN@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   18 To make friends , I began to pay close attention to what my classmates did and talked about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   18 To_TO make_VVI friends_NN2 ,_Y I_PPIS1 began_VVD to_TO pay_VVI close_JJ attention_NN1 to_II what_DDQ my_APPGE classmates_NN2 did_VDD and_CC talked_VVN_VVD about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   19 During recess , the girls talked about boys , music , and dancing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   19 During_II recess_NN1 ,_Y the_AT girls_NN2 talked_VVN_VVD about_II boys_NN2 ,_Y music_NN1 ,_Y and_CC dancing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   20 The boys discussed sports , cars , and girls .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   20 The_AT boys_NN2 discussed_VVD_VVN sports_NN2 ,_Y cars_NN2 ,_Y and_CC girls_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   21 When they got together , they talked about different songs and singers and about going to dances on Saturday nights at the Veterans Memorial Building , which was across the street from El Camino Junior High .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   21 When_CS_RRQ they_PPHS2 got_VVD together_RL ,_Y they_PPHS2 talked_VVD about_II different_JJ songs_NN2 and_CC singers_NN2 and_CC about_II going_VVG to_II dances_NN2 on_II Saturday_NPD1 nights_NNT2 at_II the_AT Veterans_NN2 Memorial_NN1 Building_NN1 ,_Y which_DDQ was_VBDZ across_II the_AT street_NN1 from_II El_NP1 Camino_NP1 Junior_JJ High_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   22 Sometimes their animated conversations turned into arguments about the best singer : " Jailhouse Rock , " " Rock Around the Clock , " and " Venus in Blue Jeans .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   22 Sometimes_RT their_APPGE animated_JJ conversations_NN2 turned_VVN_VVD into_II arguments_NN2 about_II the_AT best_JJT singer_NN1 :_Y "_Y Jailhouse_NN1 Rock_NN1 ,_Y "_Y "_Y Rock_NN1_VV0@ Around_II_RP the_AT Clock_NN1 ,_Y "_Y and_CC "_Y Venus_NP1 in_II Blue_JJ Jeans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   23 " I tried to make sense out of them and pictured them in my mind .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   23 "_Y I_PPIS1 tried_VVD to_TO make_VVI sense_NN1 out_II21 of_II22 them_PPHO2 and_CC pictured_VVD them_PPHO2 in_II_RP@ my_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   24 Why would a rock circle a clock ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   24 Why_RRQ would_VM a_AT1 rock_NN1 circle_VVI a_AT1 clock_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   25 Why would the planet Venus dress in jeans ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   25 Why_RRQ would_VM the_AT planet_NN1 Venus_NP1 dress_NN1_VV0 in_II jeans_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   26 I soon discovered that rock ' n ' roll was a type of popular music .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   26 I_PPIS1 soon_RR discovered_VVD that_DD1_CST rock_NN1 '_GE n_ZZ1 '_GE roll_NN1 was_VBDZ a_AT1 type_NN1 of_IO popular_JJ music_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   27 For me , music and dancing were more interesting and fun than sports or cars .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   27 For_IF me_PPIO1 ,_Y music_NN1 and_CC dancing_NN1 were_VBDR more_RGR interesting_JJ and_CC fun_JJ_NN1 than_CSN sports_NN2 or_CC cars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   28 Roberto and I began to tune in to rock ' n ' roll music on the radio .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   28 Roberto_NP1 and_CC I_PPIS1 began_VVD to_TO tune_VVI in_RP@ to_TO rock_VVI '_"@_GE n_ZZ1 '_GE roll_NN1 music_NN1 on_II the_AT radio_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   29 We listened to Little Richard and Elvis Presley .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   29 We_PPIS2 listened_VVD to_II Little_NP1@_JJ Richard_NP1 and_CC Elvis_NP1 Presley_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   30 I enjoyed the rhythm , but I did not pay much attention to the words like I did with Mexican music .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   30 I_PPIS1 enjoyed_VVD the_AT rhythm_NN1 ,_Y but_CCB I_PPIS1 did_VDD not_XX pay_VVI much_DA1 attention_NN1 to_II the_AT words_NN2 like_VV0@_CS% I_PPIS1 did_VDD with_IW Mexican_JJ music_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   31 Of all the popular singers , I liked Elvis the best .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   31 Of_IO all_DB the_AT popular_JJ singers_NN2 ,_Y I_PPIS1 liked_VVD Elvis_NP1 the_AT best_JJT_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   32 His fast songs released energy in my legs and made them move almost on their own .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   32 His_APPGE fast_JJ songs_NN2 released_VVN_JJ@_VVD@ energy_NN1 in_II my_APPGE legs_NN2 and_CC made_VVN them_PPHO2 move_VVI almost_RR on_II their_APPGE own_DA ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   33 His slow songs were melancholy , like some Mexican ranchera songs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   33 His_APPGE slow_JJ songs_NN2 were_VBDR melancholy_JJ ,_Y like_II some_DD Mexican_JJ ranchera_NN1 songs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   34 Listening to Elvis paid off .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   34 Listening_VVG_NN1_JJ to_II Elvis_NP1 paid_VVD off_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   35 During rainy days , when we could not go outside games .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   35 During_II rainy_JJ days_NNT2 ,_Y when_RRQ we_PPIS2 could_VM not_XX go_VVI outside_RL_JJ games_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   36 Miss Ehlis , our homeroom teacher , suggested forming small groups and coming up with skits for the whole class .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   36 Miss_NNB Ehlis_NP1 ,_Y our_APPGE homeroom_NN1 teacher_NN1 ,_Y suggested_VVD_VVN forming_VVG small_JJ groups_NN2 and_CC coming_VVG up_RP with_IW skits_NN2 for_IF the_AT whole_JJ class_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   37 I came up with the idea of creating a skit to show how banks charged interest on loans , since we were studying how to figure percentages in Mr. Milo 's math class .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   37 I_PPIS1 came_VVD up_RP with_IW the_AT idea_NN1 of_IO creating_VVG a_AT1 skit_NN1 to_TO show_VVI how_RRQ banks_NN2 charged_VVD_VVN_JJ@ interest_NN1 on_II loans_NN2 ,_Y since_CS we_PPIS2 were_VBDR studying_VVG how_RRQ to_TO figure_VVI percentages_NN2 in_II Mr._NNB Milo_NP1 's_GE math_NN1 class_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   38 Everyone in my group made a face .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   38 Everyone_PN1 in_II my_APPGE group_NN1 made_VVD_VVN a_AT1 face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   39 " What about something with music ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   39 "_Y What_DDQ about_II something_PN1 with_IW music_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   40 " one of them said enthusiastically .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   40 "_Y one_MC1 of_IO them_PPHO2 said_VVD enthusiastically_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   41 " Yeah , rock ' n ' roll , " another responded .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   41 "_Y Yeah_UH ,_Y rock_NN1 '_GE n_ZZ1 '_GE roll_NN1 ,_Y "_Y another_DD1 responded_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   42 Here is my chance , I thought .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   42 Here_RL is_VBZ my_APPGE chance_NN1 ,_Y I_PPIS1 thought_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   43 " How about me doing one of Elvis 's songs ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   43 "_Y How_RRQ_RGQ@ about_II me_PPIO1 doing_VDG one_MC1 of_IO Elvis_NP1 's_GE songs_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   44 " I said nervously .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   44 "_Y I_PPIS1 said_VVD nervously_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   45 They all dropped their jaws and looked at me as though they had seen a ghost .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   45 They_PPHS2 all_DB_RR@ dropped_VVD_VVN their_APPGE jaws_NN2 and_CC looked_VVN_VVD at_II me_PPIO1 as_CS21 though_CS22 they_PPHS2 had_VHD seen_VVN a_AT1 ghost_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   46 " You !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   46 "_Y You_PPY !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   47 Doing Elvis ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   47 Doing_VDG Elvis_NP1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   48 Elvis with a Mexican accent !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   48 Elvis_NP1 with_IW a_AT1 Mexican_JJ accent_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   49 " one said , laughing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   49 "_Y one_PN1 said_VVD ,_Y laughing_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   50 Others snickered .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   50 Others_NN2 snickered_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   51 I felt blood rushing to my face .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   51 I_PPIS1 felt_VVD blood_NN1 rushing_VVG to_II my_APPGE face_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   52 I clenched my hands and , like a bullfighter facing the bull , I demanded , " Why not ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   52 I_PPIS1 clenched_VVD my_APPGE hands_NN2 and_CC ,_Y like_II a_AT1 bullfighter_NN1 facing_VVG the_AT bull_NN1 ,_Y I_PPIS1 demanded_VVD ,_Y "_Y Why_RRQ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   53 " They all laughed .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   53 "_Y They_PPHS2 all_DB_RR@ laughed_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   54 " Why not ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   54 "_Y Why_RRQ not_XX ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   55 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   55 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   56 " You 're dead serious , are n't you ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   56 "_Y You_PPY 're_VBR dead_RG serious_JJ ,_Y are_VBR n't_XX you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   57 Okay , let 's go for it !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   57 Okay_RR ,_Y let_VM21 's_VM22 go_VVI for_IF it_PPH1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   58 " exclaimed Robert Lindsay , an Elvis fan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   58 "_Y exclaimed_VVD Robert_NP1 Lindsay_NP1 ,_Y an_AT1 Elvis_NP1 fan_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   59 Next day Robert Lindsay brought in several of Elvis 's records and played parts of them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   59 Next_MD day_NNT1 Robert_NP1 Lindsay_NP1 brought_VVD in_II_RP@ several_DA2 of_IO Elvis_NP1 's_GE records_NN2 and_CC played_VVD_JJ@_VVN parts_NN2 of_IO them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   60 I do n't recall exactly why , but I picked " Treat Me Like a Fool .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   60 I_PPIS1 do_VD0 n't_XX recall_VVI exactly_RR why_RRQ ,_Y but_CCB I_PPIS1 picked_VVD "_Y Treat_VV0 Me_PPIO1 Like_II a_AT1 Fool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   61 " I took the record home and played it over and over on a record player that Roberto borrowed from Main Street School .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   61 "_Y I_PPIS1 took_VVD the_AT record_NN1 home_RL_NN1 and_CC played_VVD it_PPH1 over_RP and_CC over_RP on_II a_AT1 record_NN1 player_NN1 that_CST Roberto_NP1 borrowed_VVD from_II Main_NP1 Street_NNL1 School_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   62 I wrote the lyrics down and memorized them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   62 I_PPIS1 wrote_VVD the_AT lyrics_NN2 down_RP and_CC memorized_VVD them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   63 The .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   63 The_AT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   64 next time it rained during recess , it would be our group 's turn-to perform .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   64 next_MD time_NNT1 it_PPH1 rained_VVD during_II recess_NN1 ,_Y it_PPH1 would_VM be_VBI our_APPGE group_NN1 's_GE turn-to_NN1 perform_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   65 That night I prayed for sunshine , but my prayers were not answered .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   65 That_DD1 night_NNT1 I_PPIS1 prayed_VVD for_IF sunshine_NN1 ,_Y but_CCB my_APPGE prayers_NN2 were_VBDR not_XX answered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   66 It poured the next morning .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   66 It_PPH1 poured_VVD the_AT next_MD morning_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   67 I felt butterflies in my .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   67 I_PPIS1 felt_VVD butterflies_NN2 in_II my_APPGE ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   68 stomach .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   68 stomach_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   69 The idea of staying home went through my mind several times , but I had no choice .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   69 The_AT idea_NN1 of_IO staying_VVG_JJ@ home_RL_NN1 went_VVD through_II_RP@ my_APPGE mind_NN1 several_DA2 times_NNT2 ,_Y but_CCB I_PPIS1 had_VHD no_AT choice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   70 I had to do it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   70 I_PPIS1 had_VHD to_TO do_VDI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   71 At recess , my group was ready .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   71 At_II recess_NN1 ,_Y my_APPGE group_NN1 was_VBDZ ready_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   72 They were my backup singers and moral support .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   72 They_PPHS2 were_VBDR my_APPGE backup_NN1 singers_NN2 and_CC moral_JJ support_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   73 Robert Lindsay introduced me as Elvis , and the back of the room with her arms crossed , smiling .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   73 Robert_NP1 Lindsay_NP1 introduced_VVD me_PPIO1 as_CSA_II@ Elvis_NP1 ,_Y and_CC the_AT back_NN1 of_IO the_AT room_NN1 with_IW her_APPGE arms_NN2 crossed_VVD_VVN ,_Y smiling_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   74 My hands were cold and clammy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   74 My_APPGE hands_NN2 were_VBDR cold_JJ and_CC clammy_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   75 The record started and I began to lip-synch the longest song of my life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   75 The_AT record_NN1 started_VVD_VVN@ and_CC I_PPIS1 began_VVD to_II lip-synch_NN1_JJ the_AT longest_JJT song_NN1 of_IO my_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   76 " Treat me like a fool .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   76 "_Y Treat_VV0 me_PPIO1 like_II a_AT1 fool_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   77 Treat me mean and cruel , but love me ... " Everyone shouted and clapped , drowning out the music .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   77 Treat_VV0 me_PPIO1 mean_JJ_NN1@ and_CC cruel_JJ ,_Y but_CCB love_VV0 me_PPIO1 ..._... "_Y Everyone_PN1 shouted_VVD and_CC clapped_VVD ,_Y drowning_VVG out_RP the_AT music_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   78 Robert Lindsay raised the volume , and the class raised their own volume .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   78 Robert_NP1 Lindsay_NP1 raised_VVD the_AT volume_NN1 ,_Y and_CC the_AT class_NN1 raised_VVD_VVN their_APPGE own_DA volume_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   79 Finally Miss Ehlis told everyone to quiet down .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   79 Finally_RR Miss_NNB Ehlis_NP1 told_VVD everyone_PN1 to_II quiet_JJ_NN1@ down_NN1%_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   80 She asked me to start over .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   80 She_PPHS1 asked_VVD me_PPIO1 to_TO start_VVI over_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   81 I felt more at ease and began * the song again .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   81 I_PPIS1 felt_VVD more_RRR_DAR at_II ease_NN1 and_CC began_VVD *_FU the_AT song_NN1 again_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   82 My group swayed and clapped to the rhythm of the song .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   82 My_APPGE group_NN1 swayed_VVN_VVD and_CC clapped_VVN to_II the_AT rhythm_NN1 of_IO the_AT song_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   83 When it was over , everyone cheered and clapped , including Miss Ehlis .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   83 When_CS_RRQ it_PPH1 was_VBDZ over_RP ,_Y everyone_PN1 cheered_VVD_VVN and_CC clapped_VVD ,_Y including_II_VVG@ Miss_NNB Ehlis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   84 Some yelled out , " That was cool , Frankie !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   84 Some_DD yelled_VVD out_RP ,_Y "_Y That_DD1_CST was_VBDZ cool_JJ_RR@ ,_Y Frankie_NP1 !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   85 " From that day on , I was an Elvis fan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   85 "_Y From_II that_DD1 day_NNT1 on_RP@_II ,_Y I_PPIS1 was_VBDZ an_AT1 Elvis_NP1 fan_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   86 EXCERPTED FROM BREAKING THROUGH BY FRANCISCO JIMENEZ , COPYRIGHT 2001 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   86 EXCERPTED_NP1_JJ FROM_II BREAKING_VVG THROUGH_RP@ BY_II FRANCISCO_NP1 JIMENEZ_NP1 ,_Y COPYRIGHT_NN1 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   87 REPRINTED BY PERMISSION OF HOUGHTON MIFFLIN HARCOURT PUBLISHING COMPANY .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   87 REPRINTED_VVN BY_II PERMISSION_NN1 OF_IO HOUGHTON_NP1 MIFFLIN_NP1 HARCOURT_NP1 PUBLISHING_NN1 COMPANY_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   88 ALL RIGHTS RESERVED .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   88 ALL_DB RIGHTS_NN2 RESERVED_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   89 HISPANIC HERITAGE MONTH SEPTEMBER 15 TO OCTOBER 15 Dig Deeper READING COMPREHENSION 1 How Write Now !
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   89 HISPANIC_JJ HERITAGE_NN1 MONTH_NNT1 SEPTEMBER_NPM1 15_MC TO_II OCTOBER_NPM1 15_MC Dig_VV0 Deeper_JJR_RRR READING_NN1_VVG_NP1 COMPREHENSION_NN1 1_MC1 How_RRQ Write_VV0 Now_RT !_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   90 Francisco was incredibly nervous about singing in front of his classmates , but it turned out to be a great experience .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   90 Francisco_NP1 was_VBDZ incredibly_RR nervous_JJ about_II singing_VVG in_II31 front_II32 of_II33 his_APPGE classmates_NN2 ,_Y but_CCB it_PPH1 turned_VVD out_RP to_TO be_VBI a_AT1 great_JJ experience_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   91 Think of a time when you had to do something nerve-wracking .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   91 Think_VV0 of_IO a_AT1 time_NNT1 when_RRQ you_PPY had_VHD to_TO do_VDI something_PN1 nerve-wracking_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   92 Write a short essay about what you had to do , why you were nervous , how it went , and how you felt when it was over .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   92 Write_VV0 a_AT1 short_JJ essay_NN1 about_II what_DDQ you_PPY had_VHD to_TO do_VDI ,_Y why_RRQ you_PPY were_VBDR nervous_JJ ,_Y how_RRQ it_PPH1 went_VVD ,_Y and_CC how_RRQ you_PPY felt_VVD_VVN when_CS_RRQ it_PPH1 was_VBDZ over_RP ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   93 PHOTO ( COLOR ) : Francisco does an Elvis impersonation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   93 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Francisco_NP1 does_VDZ an_AT1 Elvis_NP1 impersonation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   94 PHOTO ( COLOR ) : Francisco and his family worked in fields like this one .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   94 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Francisco_NP1 and_CC his_APPGE family_NN1 worked_VVN_VVD in_II_RP@ fields_NN2 like_II this_DD1 one_PN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  A    0   95 PHOTO ( COLOR ) : Francisco 's hero , rock V roll icon Elvis Presley.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080219 COCA  B    0   95 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y Francisco_NP1 's_GE hero_NN1 ,_Y rock_NN1_VV0@ V_ZZ1_II@ roll_VV0_NN1 icon_NN1 Elvis_NP1 Presley._NP1

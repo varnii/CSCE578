@@ -1,0 +1,108 @@
+SENTPOS 2014_4_101_500_579_4 DRAFT A    0    0 Society is a very important structure in any country .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    0    0 Society_NN1 is_VBZ a_AT1 very_RG important_JJ structure_NN1 in_II any_DD country_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    0    1 It determines the efficiency of the work and manipulates people to do what runs best in it .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    0    1 It_PPH1 determines_VVZ the_AT efficiency_NN1 of_IO the_AT work_NN1 and_CC manipulates_VVZ people_NN to_TO do_VDI what_DDQ runs_VVZ best_RRT in_II it_PPH1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    0    2 For society to work in an efficient manner , it needs to run a kind of disciplinary code .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    0    2 For_IF society_NN1 to_TO@ work_VVI in_II an_AT1 efficient_JJ manner_NN1 ,_, it_PPH1 needs_VVZ to_TO run_VVI a_AT1 kind_NN1 of_IO disciplinary_JJ code_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    0    3 It needs a concept to make the society work and behave in an acceptable , natural manner .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    0    3 It_PPH1 needs_VVZ a_AT1 concept_NN1 to_TO make_VVI the_AT society_NN1 work_NN1 and_CC behave_VVI in_II an_AT1 acceptable_JJ ,_, natural_JJ manner_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    0    4 In the text written by Foucault , Panopticism , we see the ideology of this concept , which is called disciplinary society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    0    4 In_II the_AT text_NN1 written_VVN by_II Foucault_NP1 ,_, Panopticism_NN1 ,_, we_PPIS2 see_VV0 the_AT ideology_NN1 of_IO this_DD1 concept_NN1 ,_, which_DDQ is_VBZ called_VVN disciplinary_JJ society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    0    5 In this essay , we will be looking for how the concept of disciplinary society has been set up , run in a society , and an application in real life .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    0    5 In_II this_DD1 essay_NN1 ,_, we_PPIS2 will_VM be_VBI looking_VVG for_IF how_RRQ the_AT concept_NN1 of_IO disciplinary_JJ society_NN1 has_VHZ been_VBN set_VVN up_RP ,_, run_VVN in_II a_AT1 society_NN1 ,_, and_CC an_AT1 application_NN1 in_II real_JJ life_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1    6 The panopticon was designed to spread to society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1    6 The_AT panopticon_NN1 was_VBDZ designed_VVN to_TO spread_VVI to_II society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1    7 This is done by Bentham 's idea of using disciplinary mechanisms .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1    7 This_DD1 is_VBZ done_VDN by_II Bentham_NP1 's_GE idea_NN1 of_IO using_VVG disciplinary_JJ mechanisms_NN2 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1    8 He formulated it in two images of discipline .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1    8 He_PPHS1 formulated_VVD it_PPH1 in_II two_MC images_NN2 of_IO discipline_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1    9 The first one is a discipline blockade , which is " the enclosed institution , established on the edges of society " .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1    9 The_AT first_MD one_PN1 is_VBZ a_AT1 discipline_NN1 blockade_NN1 ,_, which_DDQ is_VBZ "_" the_AT enclosed_JJ institution_NN1 ,_, established_VVN on_II the_AT edges_NN2 of_IO society_NN1 "_" ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   10 A type of boundary set on each society to keep them away from crossing the line , such as " arresting evil , breaking communications , suspending time " .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   10 A_AT1 type_NN1 of_IO boundary_NN1 set_VVN on_II each_DD1 society_NN1 to_TO keep_VVI them_PPHO2 away_II21 from_II22 crossing_VVG the_AT line_NN1 ,_, such_II21 as_II22 "_" arresting_VVG evil_NN1 ,_, breaking_VVG communications_NN2 ,_, suspending_VVG time_NNT1 "_" ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   11 The second image is discipline-mechanism , which is " a functional mechanism that must improve the exercise of power by making it lighter , more rapid , more effective , a design of subtle coercion for a society to come . "
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   11 The_AT second_MD image_NN1 is_VBZ discipline-mechanism_JJ ,_, which_DDQ is_VBZ "_" a_AT1 functional_JJ mechanism_NN1 that_CST must_VM improve_VVI the_AT exercise_NN1 of_IO power_NN1 by_II making_VVG it_PPH1 lighter_JJR ,_, more_RGR rapid_JJ ,_, more_RGR effective_JJ ,_, a_AT1 design_NN1 of_IO subtle_JJ coercion_NN1 for_IF a_AT1 society_NN1 to_TO come_VVI ._. "_"
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   12 . It is the same idea that we see when we are asked to accomplish a task .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   12 ._. It_PPH1 is_VBZ the_AT same_DA idea_NN1 that_CST we_PPIS2 see_VV0 when_RRQ we_PPIS2 are_VBR asked_VVN@ to_TO accomplish_VVI a_AT1 task_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   13 This idea can be seen through instructors .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   13 This_DD1 idea_NN1 can_VM be_VBI seen_VVN through_II instructors_NN2 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   14 When a specific task with a certain due date is given to a student , he is expected to finish it by that time otherwise , he will be penalized .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   14 When_CS a_AT1 specific_JJ task_NN1 with_IW a_AT1 certain_JJ due_JJ date_NN1 is_VBZ given_VVN to_II a_AT1 student_NN1 ,_, he_PPHS1 is_VBZ expected_VVN to_TO finish_VVI it_PPH1 by_II that_DD1 time_NNT1 otherwise_RR ,_, he_PPHS1 will_VM be_VBI penalized_VVN@ ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   15 This example idolizes the discipline-mechanism .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   15 This_DD1 example_NN1 idolizes_VVZ the_AT discipline-mechanism_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   16 The power that lies with the instructor 's to deduct points can be seen provide a way to let the student work more efficiently .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   16 The_AT power_NN1 that_CST lies_VVZ with_IW the_AT instructor_NN1 's_VBZ to_TO deduct_VVI points_NN2 can_VM be_VBI seen_VVN provide_VV0 a_AT1 way_NN1 to_TO let_VVI the_AT student_NN1 work_NN1 more_RGR efficiently_RR ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   17 To operate these two images , the text explains on three ways to a more profound process .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   17 To_TO operate_VVI these_DD2 two_MC images_NN2 ,_, the_AT text_NN1 explains_VVZ on_II three_MC ways_NN2 to_II a_AT1 more_RGR profound_JJ process_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   18 These are " The functional inversion of the disciplines " , " The swarming of disciplinary mechanisms " , and " The state-control of the mechanisms of discipline " .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   18 These_DD2 are_VBR "_" The_AT functional_JJ inversion_NN1 of_IO the_AT disciplines_NN2 "_" ,_, "_" The_AT swarming_NN1@ of_IO disciplinary_JJ mechanisms_NN2 "_" ,_, and_CC "_" The_AT state-control_NN1 of_IO the_AT mechanisms_NN2 of_IO discipline_NN1 "_" ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   19 Those processes that are led by the two images have increasingly pushed the concept of disciplinary society pushed in society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   19 Those_DD2 processes_NN2 that_CST are_VBR led_VVN by_II the_AT two_MC images_NN2 have_VH0 increasingly_RR pushed_VVN the_AT concept_NN1 of_IO disciplinary_JJ society_NN1 pushed_VVN in_II society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    1   20 By the end , the most dependent concept to run a society in a way that is more efficient is by using this concept .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    1   20 By_II the_AT end_NN1 ,_, the_AT most_RGT dependent_JJ concept_NN1 to_TO run_VVI a_AT1 society_NN1 in_II a_AT1 way_NN1 that_CST is_VBZ more_RGR efficient_JJ is_VBZ by_II using_VVG this_DD1 concept_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   21 The concept of disciplinary society in Panopticism plays a great role in endorsing the penopticon structure .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   21 The_AT concept_NN1 of_IO disciplinary_JJ society_NN1 in_II Panopticism_NN1 plays_VVZ a_AT1 great_JJ role_NN1 in_II endorsing_VVG the_AT penopticon_NN1 structure_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   22 The text expresses it as " a sort of social 'quarantine' " .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   22 The_AT text_NN1 expresses_VVZ it_PPH1 as_CSA "_" a_AT1 sort_NN1 of_IO social_JJ 'quarantine'_NN1 "_" ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   23 It relies greatly on the idea of plague town .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   23 It_PPH1 relies_VVZ greatly_RR on_II the_AT idea_NN1 of_IO plague_NN1 town_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   24 The concept sees individual behavior and defines it as normal .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   24 The_AT concept_NN1 sees_VVZ individual_JJ behavior_NN1 and_CC defines_VVZ it_PPH1 as_RG@ normal_JJ ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   25 It sets boundaries to what can be defined as normal or abnormal .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   25 It_PPH1 sets_VVZ boundaries_NN2 to_II what_DDQ can_VM be_VBI defined_VVN as_CSA normal_JJ or_CC abnormal_JJ ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   26 On those boundaries , it creates the concept of disciplinary society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   26 On_II those_DD2 boundaries_NN2 ,_, it_PPH1 creates_VVZ the_AT concept_NN1 of_IO disciplinary_JJ society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   27 It is the same concept that we saw in Plague Town .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   27 It_PPH1 is_VBZ the_AT same_DA concept_NN1 that_CST we_PPIS2 saw_VVD in_II Plague_NN1 Town_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   28 Even though the town was dealing with a disease , the text wants us to take the disease as symbol .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   28 Even_CS21 though_CS22 the_AT town_NN1 was_VBDZ dealing_VVG with_IW a_AT1 disease_NN1 ,_, the_AT text_NN1 wants_VVZ us_PPIO2 to_TO take_VVI the_AT disease_NN1 as_CSA symbol_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   29 The disease represents any idea that is different from what is normal .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   29 The_AT disease_NN1 represents_VVZ any_DD idea_NN1 that_CST is_VBZ different_JJ from_II what_DDQ is_VBZ normal_JJ ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   30 In Plague Town , any person that carries the disease gets out of the town .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   30 In_II Plague_NN1 Town_NN1 ,_, any_DD person_NN1 that_CST carries_VVZ the_AT disease_NN1 gets_VVZ out_II21 of_II22 the_AT town_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   31 The same analogy of a person with different ideologies is thrown of the society by disciplinary society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   31 The_AT same_DA analogy_NN1 of_IO a_AT1 person_NN1 with_IW different_JJ ideologies_NN2 is_VBZ thrown_VVN of_IO the_AT society_NN1 by_II disciplinary_JJ society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   32 This concept made people behave in a way to be feared from society before the law .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   32 This_DD1 concept_NN1 made_VVD people_NN behave_VVI in_II a_AT1 way_NN1 to_TO be_VBI feared_VVN from_II society_NN1 before_II the_AT law_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   33 For example , it is illegal to disturb people by putting loud music in your house .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   33 For_REX21 example_REX22 ,_, it_PPH1 is_VBZ illegal_JJ to_TO disturb_VVI people_NN by_II putting_VVG loud_JJ music_NN1 in_II your_APPGE house_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   34 Nevertheless , most people will consider of not doing it because people will remember him as the shamed one by his actions .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   34 Nevertheless_RR ,_, most_DAT people_NN will_VM consider_VVI of_IO not_XX doing_VDG it_PPH1 because_CS people_NN will_VM remember_VVI him_PPHO1 as_II the_AT shamed_JJ one_PN1 by_II his_APPGE actions_NN2 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   35 Because this invisible law by society , which we know as disciplinary society , is more powerful and has more effect than the actual laws of the country .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   35 Because_CS this_DD1 invisible_JJ law_NN1 by_II society_NN1 ,_, which_DDQ we_PPIS2 know_VV0 as_RG@ disciplinary_JJ society_NN1 ,_, is_VBZ more_RGR powerful_JJ and_CC has_VHZ more_DAR effect_NN1 than_CSN the_AT actual_JJ laws_NN2 of_IO the_AT country_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   36 In addition , the concept of disciplinary society is more flexible than actual law .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   36 In_RR21 addition_RR22 ,_, the_AT concept_NN1 of_IO disciplinary_JJ society_NN1 is_VBZ more_RGR flexible_JJ than_CSN actual_JJ law_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    2   37 It differs from one culture to another and adapts to its environment .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    2   37 It_PPH1 differs_VVZ from_II one_MC1 culture_NN1 to_II another_DD1 and_CC adapts_VVZ to_II its_APPGE environment_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   38 As a student who came from across the sea , I have encountered many actions that were denied socially in the United States .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   38 As_II a_AT1 student_NN1 who_PNQS came_VVD from_II across_II the_AT sea_NN1 ,_, I_PPIS1 have_VH0 encountered_VVN many_DA2 actions_NN2 that_CST were_VBDR denied_VVN socially_RR in_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   39 As we have our traditional clothes that are usually our daily costume , wearing it in US seems to have negative impression on society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   39 As_CSA we_PPIS2 have_VH0 our_APPGE traditional_JJ clothes_NN2 that_CST are_VBR usually_RR our_APPGE daily_JJ costume_NN1 ,_, wearing_VVG it_PPH1 in_II US_NP1 seems_VVZ to_TO have_VHI negative_JJ impression_NN1 on_II society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   40 People think that we are weird or something of that kind .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   40 People_NN think_VV0 that_CST we_PPIS2 are_VBR weird_JJ or_CC something_PN1 of_IO that_DD1 kind_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   41 Therefore , I have never wore it outside my country .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   41 Therefore_RR ,_, I_PPIS1 have_VH0 never_RR wore_VVN it_PPH1 outside_II my_APPGE country_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   42 In this example , the concept of disciplinary society is explicitly shown .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   42 In_II this_DD1 example_NN1 ,_, the_AT concept_NN1 of_IO disciplinary_JJ society_NN1 is_VBZ explicitly_RR shown_VVN ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   43 Even though there are no real laws broken , the person who wears different clothes than society is marked as a social criminal .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   43 Even_CS21 though_CS22 there_EX are_VBR no_AT real_JJ laws_NN2 broken_VVN ,_, the_AT person_NN1 who_PNQS wears_VVZ different_JJ clothes_NN2 than_CSN society_NN1 is_VBZ marked_VVN as_II a_AT1 social_JJ criminal_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   44 The concept of disciplinary society in wearing clothes makes me change the way I think about picking my clothes .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   44 The_AT concept_NN1 of_IO disciplinary_JJ society_NN1 in_II wearing_VVG clothes_NN2 makes_VVZ me_PPIO1 change_NN1 the_AT way_NN1 I_PPIS1 think_VV0 about_II picking_VVG my_APPGE clothes_NN2 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   45 It made me think as to what society will feel if I wore different from the rest .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   45 It_PPH1 made_VVD me_PPIO1 think_NN1% as_II21 to_II22 what_DDQ society_NN1 will_VM feel_VVI if_CS I_PPIS1 wore_VVD different_JJ from_II the_AT rest_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   46 This idea has a negative impact , in my opinion , because people are free to wear what they want .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   46 This_DD1 idea_NN1 has_VHZ a_AT1 negative_JJ impact_NN1 ,_, in_II my_APPGE opinion_NN1 ,_, because_CS people_NN are_VBR free_JJ to_TO wear_VVI what_DDQ they_PPHS2 want_VV0 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    3   47 The discipline blockade created by this concept freezes the ideology of freedom to a limited space .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    3   47 The_AT discipline_NN1 blockade_NN1 created_VVN by_II this_DD1 concept_NN1 freezes_VVZ the_AT ideology_NN1 of_IO freedom_NN1 to_II a_AT1 limited_JJ space_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    4   48 The disciplinary society concept runs in society in everything that is does .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    4   48 The_AT disciplinary_JJ society_NN1 concept_NN1 runs_VVZ in_II society_NN1 in_II everything_PN1 that_CST is_VBZ does_VDZ ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    4   49 We look to what others think of us before we do certain action .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    4   49 We_PPIS2 look_VV0 to_II what_DDQ others_NN2 think_VV0 of_IO us_PPIO2 before_CS we_PPIS2 do_VD0 certain_JJ action_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    4   50 This behavior is being controlled by the powerful law society brought , which is a nothing but a concept that is written by Foucault .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    4   50 This_DD1 behavior_NN1 is_VBZ being_VBG controlled_VVN by_II the_AT powerful_JJ law_NN1 society_NN1 brought_VVD ,_, which_DDQ is_VBZ a_AT1 nothing_PN1 but_II a_AT1 concept_NN1 that_CST is_VBZ written_VVN by_II Foucault_NP1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    4   51 The concept has its advantages and disadvantages .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    4   51 The_AT concept_NN1 has_VHZ its_APPGE advantages_NN2 and_CC disadvantages_NN2 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    4   52 It can make a society have fewer individual with different ideas that corrupts society .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    4   52 It_PPH1 can_VM make_VVI a_AT1 society_NN1 have_VH0 fewer_DAR individual_NN1 with_IW different_JJ ideas_NN2 that_CST corrupts_VVZ society_NN1 ._.
+SENTPOS 2014_4_101_500_579_4 DRAFT A    4   52  In the same time , it also destroys the creativity that is hidden because of this concept .
+SENTPOS 2014_4_101_500_579_4 DRAFT B    4   52  In_II the_AT same_DA time_NNT1 ,_, it_PPH1 also_RR destroys_VVZ the_AT creativity_NN1 that_CST is_VBZ hidden_VVN because_II21 of_II22 this_DD1 concept_NN1 ._.

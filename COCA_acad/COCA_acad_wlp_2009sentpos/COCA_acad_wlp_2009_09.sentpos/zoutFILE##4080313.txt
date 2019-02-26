@@ -1,0 +1,206 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    0 OF COURSE YOU know your story 's characters are going to talk a lot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    0 OF_RR21 COURSE_RR22 YOU_PPY know_VV0 your_APPGE story_NN1 's_GE characters_NN2 are_VBR going_VVGK to_TO talk_VVI a_AT1_RR21@ lot_NN1_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    1 But what will they talk about ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    1 But_CCB what_DDQ will_VM they_PPHS2 talk_VVI about_II ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    2 Routine matters , certainly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    2 Routine_NN1_JJ@ matters_NN2 ,_Y certainly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    3 But just like people in real life , characters talk about and comment on each other , and in doing so they reveal information about themselves and the person they 're speaking about .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    3 But_CCB just_RR like_II_JJ@_VV0@ people_NN in_II real_JJ life_NN1 ,_Y characters_NN2 talk_VV0 about_II and_CC comment_VV0_NN1 on_II each_PPX221 other_PPX222 ,_Y and_CC in_II doing_VDG so_RR they_PPHS2 reveal_VV0 information_NN1 about_II themselves_PPX2 and_CC the_AT person_NN1 they_PPHS2 're_VBR speaking_VVG about_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    4 Using dialogue this way allows your readers to draw their own conclusions about the characters , which makes for satisfying reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    4 Using_VVG dialogue_NN1 this_DD1 way_NN1 allows_VVZ your_APPGE readers_NN2 to_TO draw_VVI their_APPGE own_DA conclusions_NN2 about_II the_AT characters_NN2 ,_Y which_DDQ makes_VVZ for_IF satisfying_JJ reading_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    5 Rumors I do n't personally believe in gossiping , but while that 's a good rule to live by , it 's not necessarily a good rule to write by .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    5 Rumors_NN2 I_PPIS1 do_VD0 n't_XX personally_RR believe_VVI in_II_RP@ gossiping_VVG_NN1@ ,_Y but_CCB while_CS that_DD1 's_VBZ a_AT1 good_JJ rule_NN1 to_TO live_VVI by_RP%_II ,_Y it_PPH1 's_VBZ not_XX necessarily_RR a_AT1 good_JJ rule_NN1 to_TO write_VVI by_RP%_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    6 Rumors are dynamic ; they can create monsters or gods .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    6 Rumors_NN2 are_VBR dynamic_JJ ;_Y they_PPHS2 can_VM create_VVI monsters_NN2 or_CC gods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    7 Gossip can be mean and petty , but it can also set up your characters even before the reader actually meets them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    7 Gossip_NN1_VV0 can_VM be_VBI mean_JJ and_CC petty_JJ ,_Y but_CCB it_PPH1 can_VM also_RR set_VVI up_RP your_APPGE characters_NN2 even_RR before_II_CS the_AT reader_NN1 actually_RR meets_VVZ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    8 For example , in Joseph Conrad 's Heart of Darkness , the mysterious Kurtz becomes larger than life based on his reputation and the uneasiness he inspires in people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    8 For_REX21 example_REX22 ,_Y in_II Joseph_NP1 Conrad_NP1 's_GE Heart_NN1 of_IO Darkness_NN1 ,_Y the_AT mysterious_JJ Kurtz_NP1_NN1@ becomes_VVZ larger_JJR than_CSN life_NN1 based_VVN on_II his_APPGE reputation_NN1 and_CC the_AT uneasiness_NN1 he_PPHS1 inspires_VVZ in_II people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0    9 The narrator hears about him along the entire route of " he said at last .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0    9 The_AT narrator_NN1 hears_VVZ about_II him_PPHO1 along_II_RP the_AT entire_JJ route_NN1 of_IO "_Y he_PPHS1 said_VVD at_RR21 last_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   10 " He is an emissary of pity and science and progress , and devil knows what else " ... ... " He came to them with thunder and lightning , you know -- and they had never seen anything like it -- and very terrible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   10 "_Y He_PPHS1 is_VBZ an_AT1 emissary_NN1 of_IO pity_NN1 and_CC science_NN1 and_CC progress_NN1 ,_Y and_CC devil_NN1 knows_VVZ what_DDQ else_RR "_Y ..._... ..._... "_Y He_PPHS1 came_VVD to_II them_PPHO2 with_IW thunder_NN1 and_CC lightning_NN1 ,_Y you_PPY know_VV0 --_ZZ and_CC they_PPHS2 had_VHD never_RR seen_VVN anything_PN1 like_II it_PPH1 --_ZZ and_CC very_RG terrible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   11 He could be very terrible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   11 He_PPHS1 could_VM be_VBI very_RG terrible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   12 You ca n't judge Mr. Kurtz as you would an ordinary man .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   12 You_PPY ca_VM n't_XX judge_VVI Mr._NNB Kurtz_NP1 as_CSA you_PPY would_VM an_AT1 ordinary_JJ man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   13 " We hear about Kurtz for about 100 pages before we meet him , and in those pages we find out Kurtz 's effect on the " civilized " people up and down the river .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   13 "_Y We_PPIS2 hear_VV0 about_II Kurtz_NP1_NN1@ for_IF about_RG 100_MC pages_NN2 before_CS we_PPIS2 meet_VV0 him_PPHO1 ,_Y and_CC in_II those_DD2 pages_NN2 we_PPIS2 find_VV0 out_RP Kurtz_NP1 's_GE effect_NN1 on_II the_AT "_Y civilized_JJ "_Y people_NN up_RP and_CC down_II the_AT river_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   14 The narrator is lured forward , up the river , deeper into the darkness , picturing ( as does the reader ) an increasingly unbalanced goal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   14 The_AT narrator_NN1 is_VBZ lured_VVN forward_RL ,_Y up_II the_AT river_NN1 ,_Y deeper_RRR_JJR into_II the_AT darkness_NN1 ,_Y picturing_VVG (_Y as_CSA does_VDZ the_AT reader_NN1 )_Y an_AT1 increasingly_RR unbalanced_JJ goal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   15 Without the constant speculation about what waits at the end of the journey , and without the increasingly ominous rumors , the journey would be less enthralling , less fascinating .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   15 Without_IW the_AT constant_JJ speculation_NN1 about_II what_DDQ waits_VVZ at_II the_AT end_NN1 of_IO the_AT journey_NN1 ,_Y and_CC without_IW the_AT increasingly_RR ominous_JJ rumors_NN2 ,_Y the_AT journey_NN1 would_VM be_VBI less_RGR enthralling_JJ ,_Y less_RGR fascinating_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   16 Without the rumors , Kurtz is only a man gone mad .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   16 Without_IW the_AT rumors_NN2 ,_Y Kurtz_NP1 is_VBZ only_RR a_AT1 man_NN1 gone_VVN mad_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   17 The rumors make him larger than life , symbolic , mythic .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   17 The_AT rumors_NN2 make_VV0 him_PPHO1 larger_JJR than_CSN life_NN1 ,_Y symbolic_JJ ,_Y mythic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   18 What do protagonist say about enemies and friends ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   18 What_DDQ do_VD0 protagonist_NN1 say_VVI about_II enemies_NN2 and_CC friends_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   19 What do neighbors say ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   19 What_DDQ do_VD0 neighbors_NN2 say_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   20 Co-workers ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   20 Co-workers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   21 There are advantages in having characters talk about others : You can describe their faults ; you can describe the way they actually work in the world ; and you can test their aura , success , public persona against their professed beliefs .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   21 There_EX are_VBR advantages_NN2 in_II having_VHG characters_NN2 talk_VVI about_II others_NN2 :_Y You_PPY can_VM describe_VVI their_APPGE faults_NN2 ;_Y you_PPY can_VM describe_VVI the_AT way_NN1 they_PPHS2 actually_RR work_VV0 in_II_RP@ the_AT world_NN1 ;_Y and_CC you_PPY can_VM test_VVI their_APPGE aura_NN1 ,_Y success_NN1 ,_Y public_JJ_NN1 persona_NN1 against_II their_APPGE professed_JJ beliefs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   22 A lot of people think they 're generous and understanding and good listeners -- but they 're not .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   22 A_AT1 lot_NN1 of_IO people_NN think_VV0 they_PPHS2 're_VBR generous_JJ and_CC understanding_NN1_VVG and_CC good_JJ listeners_NN2 --_ZZ but_CCB they_PPHS2 're_VBR not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   23 It can be interesting to test out your characters by seeing how well their own opinions of themselves stack up against the community grapevine .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   23 It_PPH1 can_VM be_VBI interesting_JJ to_TO test_VVI out_RP your_APPGE characters_NN2 by_II seeing_VVG how_RGQ@_RRQ well_RR their_APPGE own_DA opinions_NN2 of_IO themselves_PPX2 stack_VV0 up_RP against_II the_AT community_NN1 grapevine_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   24 In F. Scott Fitzgerald 's The Great Gatsby , for instance , the title character is introduced from a distance .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   24 In_II F._NP1 Scott_NP1 Fitzgerald_NP1 's_GE The_AT Great_JJ Gatsby_NP1 ,_Y for_REX21 instance_REX22 ,_Y the_AT title_NN1 character_NN1 is_VBZ introduced_VVN from_II a_AT1 distance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   25 Nick Carraway , who lives next door to Gatsby , sees car after car arrive to disgorge endless guests to endless parties , but Gatsby himself remains aloof and mysterious , the figure Nick sees staring at lights across the bay .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   25 Nick_NP1 Carraway_NP1 ,_Y who_PNQS lives_VVZ next_MD door_NN1 to_II Gatsby_NP1 ,_Y sees_VVZ car_NN1 after_II_CS car_NN1 arrive_VV0 to_TO disgorge_VVI endless_JJ guests_NN2 to_II endless_JJ parties_NN2 ,_Y but_CCB Gatsby_NP1 himself_PPX1 remains_VVZ aloof_JJ and_CC mysterious_JJ ,_Y the_AT figure_NN1 Nick_NP1 sees_VVZ staring_VVG at_II lights_NN2 across_II the_AT bay_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   26 Gatsby 's guests promote his mystery to great effect : " Gatsby .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   26 Gatsby_NP1 's_GE guests_NN2 promote_VV0 his_APPGE mystery_NN1 to_II great_JJ effect_NN1 :_Y "_Y Gatsby_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   27 Somebody told me -- " The two girls and Jordan leaned together confidentially man once .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   27 Somebody_PN1 told_VVD me_PPIO1 --_NN1_JJ "_Y The_AT two_MC girls_NN2 and_CC Jordan_NP1 leaned_VVD together_RL confidentially_RR man_NN1 once_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   28 " A thrill passed over all of us .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   28 "_Y A_AT1 thrill_NN1 passed_VVD_VVN over_RP_II all_DB of_IO us_PPIO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   29 The three Mr. Mumbles bent forward and listened eagerly .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   29 The_AT three_MC Mr._NNB Mumbles_NP1 bent_VVD forward_RL and_CC listened_VVD_VVN eagerly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   30 " I do n't think it 's so much that , " argued Lucille skeptically ; " It 's more that he was a German spy during the war .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   30 "_Y I_PPIS1 do_VD0 n't_XX think_VVI it_PPH1 's_VBZ so_RG much_DA1_RR that_CST_DD1 ,_Y "_Y argued_VVD Lucille_NP1 skeptically_RR ;_Y "_Y It_PPH1 's_VBZ more_RRR that_CST he_PPHS1 was_VBDZ a_AT1 German_JJ_NN1 spy_NN1 during_II the_AT war_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   31 " This raises our interest in Gatsby -- whom we still do n't know -- by setting Gatsby up as an enigma .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   31 "_Y This_DD1 raises_VVZ our_APPGE interest_NN1 in_II Gatsby_NP1 --_NN1_JJ whom_PNQO we_PPIS2 still_RR do_VD0 n't_XX know_VVI --_NN1_JJ by_II setting_VVG Gatsby_NP1 up_RP as_II an_AT1 enigma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   32 It does n't matter what in particular makes him fascinating ; the fact that he could be anything adds to his allure .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   32 It_PPH1 does_VDZ n't_XX matter_VVI what_DDQ in_RR21 particular_RR22 makes_VVZ him_PPHO1 fascinating_JJ ;_Y the_AT fact_NN1 that_CST he_PPHS1 could_VM be_VBI anything_PN1 adds_VVZ to_II his_APPGE allure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   33 He gains grandeur by it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   33 He_PPHS1 gains_VVZ@ grandeur_NN1 by_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   34 He stands larger than life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   34 He_PPHS1 stands_VVZ larger_JJR than_CSN life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   35 Imagine your characters talking about each other behind your back -- what would the minor characters be saying about the major ones ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   35 Imagine_VV0 your_APPGE characters_NN2 talking_VVG about_II each_PPX221 other_PPX222 behind_II your_APPGE back_NN1_JJ@ --_NN1 what_DDQ would_VM the_AT minor_JJ characters_NN2 be_VBI saying_VVG about_II the_AT major_JJ ones_Z' ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   36 The weak about the strong ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   36 The_AT weak_JJ about_II the_AT strong_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   37 Pretend for a moment that some of them are e-mailing each other -- or even e-mailing you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   37 Pretend_VV0 for_IF a_AT1 moment_NN1 that_CST some_DD of_IO them_PPHO2 are_VBR e-mailing_JJ each_PPX221 other_PPX222 --_ZZ or_CC even_RR e-mailing_JJ_NN1 you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   38 Get these people talking about things that do n't directly concern their part of the plot .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   38 Get_VV0 these_DD2 people_NN talking_VVG about_II things_NN2 that_CST do_VD0 n't_XX directly_RR concern_VVI their_APPGE part_NN1 of_IO the_AT plot_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   39 They may want to speculate about a whole number of things .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   39 They_PPHS2 may_VM want_VVI to_TO speculate_VVI about_II_RP@ a_AT1 whole_JJ number_NN1 of_IO things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   40 Defining statements In Herman Melville to give information about himself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   40 Defining_VVG_JJ@ statements_NN2 In_II Herman_NP1 Melville_NP1 to_TO give_VVI information_NN1 about_II himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   41 In fact , the only thing we know about him is his refusals .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   41 In_II fact_NN1 ,_Y the_AT only_JJ thing_NN1 we_PPIS2 know_VV0 about_II him_PPHO1 is_VBZ his_APPGE refusals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   42 But these have made him immortal .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   42 But_CCB these_DD2 have_VH0 made_VVN him_PPHO1 immortal_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   43 " Will you tell me , Bartleby , where you were born ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   43 "_Y Will_VM_VV0% you_PPY tell_VVI me_PPIO1 ,_Y Bartleby_NP1_NN1 ,_Y where_CS_RRQ you_PPY were_VBDR born_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   44 " " I would prefer not to .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   44 "_Y "_Y I_PPIS1 would_VM prefer_VVI not_XX to_TO_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   45 " " Will you tell me any thing about yourself ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   45 "_Y "_Y Will_VM_VV0% you_PPY tell_VVI me_PPIO1 any_DD thing_NN1 about_II yourself_PPX1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   46 " " I would prefer not to .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   46 "_Y "_Y I_PPIS1 would_VM prefer_VVI not_XX to_TO_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   47 " " But what reasonable objection can you have to speak to me ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   47 "_Y "_Y But_CCB what_DDQ reasonable_JJ objection_NN1 can_VM you_PPY have_VHI to_TO speak_VVI to_II me_PPIO1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   48 I feel friendly towards you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   48 I_PPIS1 feel_VV0 friendly_JJ_NN1@ towards_II you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   49 " ... ... " At present I prefer to give no answer , " he said , and retired into his hermitage .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   49 "_Y ..._... ..._... "_Y At_RR21 present_RR22 I_PPIS1 prefer_VV0 to_TO give_VVI no_AT answer_NN1 ,_Y "_Y he_PPHS1 said_VVD ,_Y and_CC retired_VVD_VVN into_II his_APPGE hermitage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   50 Bartleby is forever identified with the statement " I would prefer not to , " and that statement can mean different things to different people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   50 Bartleby_NN1_NP1@ is_VBZ forever_RT identified_VVN with_IW the_AT statement_NN1 "_Y I_PPIS1 would_VM prefer_VVI not_XX to_TO_II ,_Y "_Y and_CC that_DD1 statement_NN1 can_VM mean_VVI different_JJ things_NN2 to_II different_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   51 But the fact that an entire conflict rests on one seemingly neutral sentence gives weight to how powerful a tool the right phrase can be .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   51 But_CCB the_AT fact_NN1 that_CST an_AT1 entire_JJ conflict_NN1 rests_VVZ_NN2 on_II one_PN1 seemingly_RR neutral_JJ sentence_NN1 gives_VVZ weight_NN1 to_II how_RGQ@_RRQ powerful_JJ a_AT1 tool_NN1 the_AT right_JJ_NN1 phrase_NN1 can_VM be_VBI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   52 How do your characters talk ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   52 How_RRQ do_VD0 your_APPGE characters_NN2 talk_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   53 Are they stiff and withholding or garrulous and foolish ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   53 Are_VBR they_PPHS2 stiff_RR@_JJ and_CC withholding_JJ_NN1_VVG or_CC garrulous_JJ and_CC foolish_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   54 What clues do they give about their intentions by the way they speak , so they do n't all sound alike .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   54 What_DDQ clues_NN2 do_VD0 they_PPHS2 give_VVI about_II_RP@ their_APPGE intentions_NN2 by_II the_AT way_NN1 they_PPHS2 speak_VV0 ,_Y so_CS@_RR they_PPHS2 do_VD0 n't_XX all_DB_RR@ sound_VVI alike_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   55 A good way to do that is to figure out what fundamental core relationships they have with society , and make them known .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   55 A_AT1_ZZ1 good_JJ way_NN1 to_TO do_VDI that_DD1 is_VBZ to_TO figure_VVI out_RP what_DDQ fundamental_JJ core_NN1 relationships_NN2 they_PPHS2 have_VH0 with_IW society_NN1 ,_Y and_CC make_VV0 them_PPHO2 known_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   56 Fashion foibles In Walter Kirn 's Mission to America , two men from an isolated and peculiar religious community venture out to the rest of the United States to recruit fresh DNA .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   56 Fashion_NN1_VV0@ foibles_NN2 In_II Walter_NP1 Kirn_NP1 's_GE Mission_NN1 to_II America_NP1 ,_Y two_MC men_NN2 from_II an_AT1 isolated_JJ and_CC peculiar_JJ religious_JJ community_NN1 venture_VV0_NN1 out_RP to_II the_AT rest_NN1 of_IO the_AT United_NP1 States_NP1 to_TO recruit_VVI fresh_JJ DNA_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   57 They 're introduced to coffee , drugs , fast food and a whole world that judges them on the way they dress .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   57 They_PPHS2 're_VBR introduced_VVN to_II coffee_NN1 ,_Y drugs_NN2 ,_Y fast_JJ food_NN1 and_CC a_AT1 whole_JJ world_NN1 that_CST_DD1 judges_VVZ them_PPHO2 on_II the_AT way_NN1 they_PPHS2 dress_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   58 " Why the Iowa sofa-salesman outfit ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   58 "_Y Why_RRQ the_AT Iowa_NP1 sofa-salesman_JJ_NN1 outfit_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   59 " " My great-grandfather was an Iowan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   59 "_Y "_Y My_APPGE great-grandfather_NN1 was_VBDZ an_AT1 Iowan_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   60 Good guess .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   60 Good_JJ guess_NN1@_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   61 " " But was he in the sofa trade ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   61 "_Y "_Y But_CCB was_VBDZ he_PPHS1 in_II the_AT sofa_NN1 trade_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   62 " she said .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   62 "_Y she_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   63 " You mean my shoes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   63 "_Y You_PPY mean_VV0 my_APPGE shoes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   64 No one likes them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   64 No_PN121 one_PN122 likes_VVZ them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   65 And I do n't care .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   65 And_CC I_PPIS1 do_VD0 n't_XX care_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   66 " " Actually , I mean the whole ensemble .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   66 "_Y "_Y Actually_RR ,_Y I_PPIS1 mean_VV0 the_AT whole_JJ ensemble_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   67 Mostly the short-sleeved dress shirt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   67 Mostly_RR the_AT short-sleeved_JJ dress_NN1 shirt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   68 My uncle wore those .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   68 My_APPGE uncle_NN1 wore_VVD those_DD2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   69 " Not only do we get to see how our protagonist looks ( getting beyond descriptions of face and height ) , but we learn about the speaker 's attitudes and standards he 's OK with it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   69 "_Y Not_XX only_RR do_VD0 we_PPIS2 get_VVI to_TO see_VVI how_RRQ our_APPGE protagonist_NN1 looks_VVZ_NN2@ (_Y getting_VVG beyond_II descriptions_NN2 of_IO face_NN1 and_CC height_NN1 )_Y ,_Y but_CCB we_PPIS2 learn_VV0 about_II_RP@ the_AT speaker_NN1 's_GE attitudes_NN2 and_CC standards_NN2 he_PPHS1 's_VBZ OK_JJ with_IW it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   70 That 's a lot to learn in a short amount of space -- and it 's much more interesting to see it play out than simply being told it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   70 That_DD1 's_VBZ a_RR21@_AT1 lot_RR22_NN1 to_TO_II learn_VVI in_II_RP@ a_AT1 short_JJ amount_NN1 of_IO space_NN1 --_NN1 and_CC it_PPH1 's_VBZ much_RR_DA1 more_RGR_DAR interesting_JJ to_TO see_VVI it_PPH1 play_VVI out_RP than_CSN simply_RR being_VBG told_VVN it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   71 So from this excerpt , we find out how the man dresses , that he 's unconcerned about what others think about his clothing , and that what others think matters to the woman .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   71 So_RR from_II this_DD1 excerpt_NN1 ,_Y we_PPIS2 find_VV0 out_RP how_RRQ the_AT man_NN1 dresses_NN2 ,_Y that_CST he_PPHS1 's_VBZ unconcerned_JJ about_II what_DDQ others_NN2 think_VV0 about_II his_APPGE clothing_NN1 ,_Y and_CC that_DD1_CST what_DDQ others_NN2 think_VV0 matters_NN2 to_II the_AT woman_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   72 We learn a little about their family backgrounds , and we can surmise an awful lot about their current standards and their willingness to put their thoughts into words .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   72 We_PPIS2 learn_VV0 a_RR21_AT1 little_RR22_JJ about_II their_APPGE family_NN1 backgrounds_NN2 ,_Y and_CC we_PPIS2 can_VM surmise_VVI an_RR31 awful_RR32 lot_RR33 about_II their_APPGE current_JJ standards_NN2 and_CC their_APPGE willingness_NN1 to_TO put_VVI their_APPGE thoughts_NN2 into_II words_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   73 Let your characters comment about clothing , then let them say what they 've been thinking about how they present themselves and how they see others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   73 Let_VV0 your_APPGE characters_NN2 comment_VVI about_II clothing_NN1 ,_Y then_RT let_VV0 them_PPHO2 say_VVI what_DDQ they_PPHS2 've_VH0 been_VBN thinking_VVG about_II how_RRQ they_PPHS2 present_VV0@ themselves_PPX2 and_CC how_RRQ they_PPHS2 see_VV0 others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   74 Are they fashion devotees or box-store customers ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   74 Are_VBR they_PPHS2 fashion_VV0@ devotees_NN2 or_CC box-store_JJ_NN1 customers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   75 Followers or loners ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   75 Followers_NN2 or_CC loners_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   76 Hiders or flaunters ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   76 Hiders_NN2_NP1@ or_CC flaunters_NN2_VVZ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   77 Clothes do , indeed , give us an indication of class , style and confidence .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   77 Clothes_NN2 do_VD0 ,_Y indeed_RR ,_Y give_VVI us_PPIO2 an_AT1 indication_NN1 of_IO class_NN1 ,_Y style_NN1 and_CC confidence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   78 Gossip Characters can discuss how they feel about anything under the sun : politics , pollution , commitment , poverty , failure , disease .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   78 Gossip_VV0_NN1 Characters_NN2 can_VM discuss_VVI how_RRQ they_PPHS2 feel_VV0 about_II_RP@ anything_PN1 under_II the_AT sun_NN1 :_Y politics_NN1 ,_Y pollution_NN1 ,_Y commitment_NN1 ,_Y poverty_NN1 ,_Y failure_NN1 ,_Y disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   79 They can discuss how it affects the latter can be much more interesting , perhaps because there 's a lot more freewheeling speculation when we talk about someone else than when we talk about ourselves .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   79 They_PPHS2 can_VM discuss_VVI how_RRQ it_PPH1 affects_VVZ the_AT latter_DA can_VM be_VBI much_RR_DA1 more_RGR_DAR interesting_JJ ,_Y perhaps_RR because_CS there_EX 's_VBZ a_RR21@ lot_RR22 more_RGR freewheeling_JJ@ speculation_NN1 when_CS_RRQ we_PPIS2 talk_VV0 about_II someone_PN1 else_RR than_CSN when_CS_RRQ we_PPIS2 talk_VV0 about_II ourselves_PPX2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   80 Your hero might not want his heroine to ask about that terrifying escapade with snakes , but you can have two other characters discuss it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   80 Your_APPGE hero_NN1 might_VM not_XX want_VVI his_APPGE heroine_NN1 to_TO ask_VVI about_II that_DD1 terrifying_JJ escapade_NN1 with_IW snakes_NN2 ,_Y but_CCB you_PPY can_VM have_VHI two_MC other_JJ characters_NN2 discuss_VV0 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   81 They can have fun with it , use it to highlight a weakness the hero does n't tell us , or demonstrate how brave that modest hero who never mentions it is .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   81 They_PPHS2 can_VM have_VHI fun_JJ_NN1 with_IW it_PPH1 ,_Y use_VV0 it_PPH1 to_TO highlight_VVI a_AT1 weakness_NN1 the_AT hero_NN1 does_VDZ n't_XX tell_VVI us_PPIO2 ,_Y or_CC demonstrate_VV0 how_RGQ@_RRQ brave_JJ_VV0@ that_CST_DD1 modest_JJ hero_NN1 who_PNQS never_RR mentions_VVZ it_PPH1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   82 Your characters can talk about other characters ' looks or how they handle love .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   82 Your_APPGE characters_NN2 can_VM talk_VVI about_II other_JJ characters_NN2 '_GE looks_NN2@ or_CC how_RRQ they_PPHS2 handle_VV0 love_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   83 ( Do they cheat ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   83 (_Y Do_VD0 they_PPHS2 cheat_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   84 How do they treat their lovers ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   84 How_RRQ do_VD0 they_PPHS2 treat_VVI their_APPGE lovers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   85 ) Characters can discuss how other characters always look in mirrors , never return things , never remember birthdays , act holier than thou , take drugs , drink too much , talk behind other people 's backs , or always try to look better than everyone else by belittling people .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   85 )_Y Characters_NN2 can_VM discuss_VVI how_RGQ@_RRQ other_JJ characters_NN2 always_RR look_VV0 in_II_RP@ mirrors_NN2 ,_Y never_RR return_VV0_JJ@ things_NN2 ,_Y never_RR remember_VV0 birthdays_NN2 ,_Y act_VV0 holier_JJR than_CSN thou_PPY ,_Y take_VV0 drugs_NN2 ,_Y drink_VV0 too_RG much_DA1_RR ,_Y talk_VV0_NN1 behind_II other_JJ people_NN 's_GE backs_NN2 ,_Y or_CC always_RR try_VV0 to_TO look_VVI better_RRR_JJR than_CSN everyone_PN1 else_RR by_II belittling_VVG_JJ@ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   86 Are they slobs or cheapskates , do they sing off-key or dance with two left feet ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   86 Are_VBR they_PPHS2 slobs_NN2 or_CC cheapskates_NN2 ,_Y do_VD0 they_PPHS2 sing_VVI off-key_JJ or_CC dance_VV0_NN1 with_IW two_MC left_JJ feet_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   87 Maybe someone wants to mention their gnomes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   87 Maybe_RR someone_PN1 wants_VVZ to_TO mention_VVI their_APPGE gnomes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   88 Two people discussing a third person 's home can be a great way to introduce a character .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   88 Two_MC people_NN discussing_VVG a_AT1 third_MD person_NN1 's_VBZ_GE home_RL_NN1@ can_VM be_VBI a_AT1 great_JJ way_NN1 to_TO introduce_VVI a_AT1 character_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   89 Most gossip , of course , is about family and relationships : divorce , marriage , childbirth , dating .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   89 Most_DAT gossip_NN1_VV0 ,_Y of_RR21 course_RR22 ,_Y is_VBZ about_II family_NN1 and_CC relationships_NN2 :_Y divorce_VV0_NN1 ,_Y marriage_NN1 ,_Y childbirth_NN1 ,_Y dating_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   90 How people handle sex and sexual partners is endlessly fascinating .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   90 How_RRQ people_NN handle_VV0_NN1 sex_NN1 and_CC sexual_JJ partners_NN2 is_VBZ endlessly_RR fascinating_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   91 Past crimes are , of course , delicious , as are suggestions of mob ties and payoffs of any kind .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   91 Past_JJ_II_NN1 crimes_NN2 are_VBR ,_Y of_RR21 course_RR22 ,_Y delicious_JJ ,_Y as_CSA are_VBR suggestions_NN2 of_IO mob_NN1_JJ@ ties_NN2_VVZ and_CC payoffs_NN2 of_IO any_DD kind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   92 Gossip , I think , seeks to establish where that person stands in the social web : powerful , on the rise , on the fall , due to be dismissed from consideration .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   92 Gossip_VV0_NN1 ,_Y I_PPIS1 think_VV0 ,_Y seeks_VVZ to_TO establish_VVI where_RRQ_CS that_DD1 person_NN1 stands_VVZ_NN2 in_II the_AT social_JJ web_NN1 :_Y powerful_JJ ,_Y on_II the_AT rise_NN1 ,_Y on_II the_AT fall_NN1 ,_Y due_JJ to_TO be_VBI dismissed_VVN from_II consideration_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   93 All the details that get discussed , such as job switches , redecorating , constant renovation , plastic surgery ( real or imagined ) , religion , race , intelligence , money and accessibility , contribute to this analysis of status .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   93 All_DB the_AT details_NN2 that_CST get_VV0 discussed_VVN ,_Y such_II21 as_II22 job_NN1 switches_NN2_VVZ ,_Y redecorating_VVG ,_Y constant_JJ renovation_NN1 ,_Y plastic_NN1 surgery_NN1 (_Y real_JJ or_CC imagined_JJ_VVN )_Y ,_Y religion_NN1 ,_Y race_NN1_VV0@ ,_Y intelligence_NN1 ,_Y money_NN1 and_CC accessibility_NN1 ,_Y contribute_VV0 to_II this_DD1 analysis_NN1 of_IO status_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   94 To have characters come alive , to give them all the curiosity and judgment and opinions of real people , sit them down and let them talk about each other .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   94 To_TO have_VHI characters_NN2 come_VVI alive_JJ ,_Y to_TO give_VVI them_PPHO2 all_DB the_AT curiosity_NN1 and_CC judgment_NN1 and_CC opinions_NN2 of_IO real_JJ people_NN ,_Y sit_VV0 them_PPHO2 down_RP and_CC let_VV0 them_PPHO2 talk_VVI about_II each_PPX221 other_PPX222 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   95 They might have interesting things to say .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   95 They_PPHS2 might_VM have_VHI interesting_JJ things_NN2 to_TO say_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   96 PHOTO ( COLOR ) reveal to readers how your protagonist 's view of himself differs from how others see him .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   96 PHOTO_NN1 (_Y COLOR_NN1 )_Y reveal_VVI to_II readers_NN2 how_RRQ your_APPGE protagonist_NN1 's_GE view_NN1 of_IO himself_PPX1 differs_VVZ from_II how_RRQ others_NN2 see_VV0 him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   97 Is he as good a listener as he thinks he is ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   97 Is_VBZ he_PPHS1 as_RG good_JJ_RR% a_AT1 listener_NN1 as_CSA he_PPHS1 thinks_VVZ he_PPHS1 is_VBZ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   98 As generous ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   98 As_CSA_RG@ generous_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0   99 Let his friends and coworkers weigh in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0   99 Let_VV0 his_APPGE friends_NN2 and_CC coworkers_NN2 weigh_VV0 in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0  100 By Karen Heuler Karen Heuler 's stories have appeared in anthologies and in dozens of literary and speculative publications from Alaska Quarterly Review and Arts Letters to Weird Tales .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0  100 By_II Karen_NP1 Heuler_NP1 Karen_NP1 Heuler_NP1 's_GE stories_NN2 have_VH0 appeared_VVN in_II anthologies_NN2 and_CC in_II dozens_M of_IO literary_JJ and_CC speculative_JJ publications_NN2 from_II Alaska_NP1 Quarterly_JJ_NN1 Review_NN1 and_CC Arts_NN2 Letters_NN2 to_II Weird_JJ Tales_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0  101 She has published two novels and a short-story collection , and she has won an O. Henry Prize .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0  101 She_PPHS1 has_VHZ published_VVN two_MC novels_NN2 and_CC a_AT1 short-story_JJ_NN1 collection_NN1 ,_Y and_CC she_PPHS1 has_VHZ won_VVN an_AT1 O._NP1 Henry_NP1 Prize_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  A    0  102 Web : www.karenheuler.com.
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080313 COCA  B    0  102 Web_NN1 :_Y www.karenheuler.com._ZZ_NN

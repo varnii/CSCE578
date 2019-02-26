@@ -1,0 +1,256 @@
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    0 Safety : one of the main human needs for survival has thrived for decades , however never fully achieved .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    0 Safety_NN1 :_: one_MC1 of_IO the_AT main_JJ human_JJ needs_NN2 for_IF survival_NN1 has_VHZ thrived_VVN for_IF decades_NNT2 ,_, however_RGQV never_RR fully_RR achieved_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    1 The United States government prioritizes it 's citizen 's safety and acts to keep everyone safe , however do they go too far ?
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    1 The_AT United_NP1 States_NP1 government_NN1 prioritizes_VVZ it_PPH1 's_VBZ citizen_NN1 's_GE safety_NN1 and_CC acts_VVZ to_TO keep_VVI everyone_PN1 safe_JJ ,_, however_RR do_VD0 they_PPHS2 go_VVI too_RG far_RR ?_?
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    2 As technology grows , the world around us changes drastically and protests , movements , and even wars will never be the same .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    2 As_CSA technology_NN1 grows_VVZ ,_, the_AT world_NN1 around_II us_PPIO2 changes_NN2 drastically_RR and_CC protests_NN2 ,_, movements_NN2 ,_, and_CC even_RR wars_NN2 will_VM never_RR be_VBI the_AT same_DA ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    3 Anonymous , one of the main forces that effect this , has been labeled as vigilantes , dangerous , and even " terrorists " to some degree .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    3 Anonymous_JJ ,_, one_MC1 of_IO the_AT main_JJ forces_NN2 that_CST effect_VV0@ this_DD1 ,_, has_VHZ been_VBN labeled_VVN@ as_CSA vigilantes_NN2 ,_, dangerous_JJ ,_, and_CC even_RR "_" terrorists_NN2 "_" to_II some_DD degree_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    4 They are a group of activists and hackers all around the world that utilize the internet as their battlefield .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    4 They_PPHS2 are_VBR a_AT1 group_NN1 of_IO activists_NN2 and_CC hackers_NN2 all_DB around_II the_AT world_NN1 that_CST utilize_VV0 the_AT internet_NN1 as_CSA their_APPGE battlefield_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    5 They go by the phrase " We are Anonymous .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    5 They_PPHS2 go_VV0 by_II the_AT phrase_NN1 "_" We_PPIS2 are_VBR Anonymous_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    6 We are Legion .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    6 We_PPIS2 are_VBR Legion_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    7 We do not forgive .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    7 We_PPIS2 do_VD0 not_XX forgive_VVI ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    8 We do not forget . "
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    8 We_PPIS2 do_VD0 not_XX forget_VVI ._. "_"
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0    9 They are usually symbolized by a Guy Fawkes mask ; a white mask with Guy Fawkes , a Catholic English who fought for the Spanish in the early 1600's.He was behind " Gunpowder Plot " to blow up the House of Lords in London .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0    9 They_PPHS2 are_VBR usually_RR symbolized_VVN by_II a_AT1 Guy_NP1 Fawkes_NP1 mask_NN1 ;_; a_AT1 white_JJ mask_NN1 with_IW Guy_NP1 Fawkes_NP1 ,_, a_AT1 Catholic_JJ English_NN1 who_PNQS fought_VVD for_IF the_AT Spanish_JJ in_II the_AT early_JJ 1600's.He_FO was_VBDZ behind_II "_" Gunpowder_NN1 Plot_NN1 "_" to_TO blow_VVI up_RP the_AT House_NN1 of_IO Lords_NP in_II London_NP1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   10 It is his face , with his pointed mustache , smiling .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   10 It_PPH1 is_VBZ his_APPGE face_NN1 ,_, with_IW his_APPGE pointed_JJ mustache_NN1 ,_, smiling_VVG ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   11 This became their symbol when it was used in James McTeigue 's film , " V for Vendetta " , and showed up on internet forums .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   11 This_DD1 became_VVD their_APPGE symbol_NN1 when_CS it_PPH1 was_VBDZ used_VVN in_II James_NP1 McTeigue_NP1 's_GE film_NN1 ,_, "_" V_ZZ1 for_IF Vendetta_NN1 "_" ,_, and_CC showed_VVD up_RP on_II internet_NN1 forums_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   12 In the film , the protagonist , a vigilante that goes my the name " V " wears it as he fights injustice , corruption , and tyranny in future Britain .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   12 In_II the_AT film_NN1 ,_, the_AT protagonist_NN1 ,_, a_AT1 vigilante_NN1 that_CST goes_VVZ my_APPGE the_AT name_NN1 "_" V_ZZ1 "_" wears_VVZ it_PPH1 as_CSA he_PPHS1 fights_VVZ injustice_NN1 ,_, corruption_NN1 ,_, and_CC tyranny_NN1 in_II future_JJ Britain_NP1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   13 He goes outside the law to achieve what he believed was right in his mind .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   13 He_PPHS1 goes_VVZ outside_II the_AT law_NN1 to_TO achieve_VVI what_DDQ he_PPHS1 believed_VVD was_VBDZ right_JJ in_II his_APPGE mind_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   14 After the film came out , Anonymous realized that they stand for the same qualities .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   14 After_CS the_AT film_NN1 came_VVD out_RP ,_, Anonymous_JJ realized_VVD that_CST they_PPHS2 stand_VV0 for_IF the_AT same_DA qualities_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   15 Soon after , believing that they fight for the same cause so they took on the mask and later it became their major world wide symbol .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   15 Soon_RR after_CS ,_, believing_VVG that_CST they_PPHS2 fight_VV0 for_IF the_AT same_DA cause_NN1 so_CS@ they_PPHS2 took_VVD on_RP the_AT mask_NN1 and_CC later_RRR it_PPH1 became_VVD their_APPGE major_JJ world_NN1 wide_JJ symbol_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   16 What makes them dangerous is that they can not " be traced to a building or to a country " ( Guzman ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   16 What_DDQ makes_VVZ them_PPHO2 dangerous_JJ is_VBZ that_CST they_PPHS2 can_VM not_XX "_" be_VBI traced_VVN to_II a_AT1 building_NN1 or_CC to_II a_AT1 country_NN1 "_" (_( Guzman_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   17 Anonymous can be found anywhere where corruption or injustice is involved .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   17 Anonymous_JJ can_VM be_VBI found_VVN anywhere_RL where_CS corruption_NN1 or_CC injustice_NN1 is_VBZ involved_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   18 Making their voice heard all around the world , Anonymous 's actions have ranged from hacking and taking down corrupt government websites , to singlehandedly starting riots .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   18 Making_VVG their_APPGE voice_NN1 heard_VVD all_DB around_II the_AT world_NN1 ,_, Anonymous_JJ 's_GE actions_NN2 have_VH0 ranged_VVN from_II hacking_VVG and_CC taking_VVG down_RP corrupt_JJ government_NN1 websites_NN2 ,_, to_II singlehandedly_RR starting_VVG riots_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   19 Not only do they work against different corrupt governments worldwide , but they have also positively impacted society around them by shedding light on negative and inhumane actions being done in their communities .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   19 Not_XX only_RR do_VD0 they_PPHS2 work_VVI against_II different_JJ corrupt_JJ governments_NN2 worldwide_RL ,_, but_CCB they_PPHS2 have_VH0 also_RR positively_RR impacted_VVN society_NN1 around_II them_PPHO2 by_II shedding_VVG light_NN1 on_II negative_JJ and_CC inhumane_JJ actions_NN2 being_VBG done_VDN in_II their_APPGE communities_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   20 Having so much power , they have been on the radar of the United States government as a threat for years .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   20 Having_VHG so_RG much_DA1 power_NN1 ,_, they_PPHS2 have_VH0 been_VBN on_II the_AT radar_NN1 of_IO the_AT United_NP1 States_NP1 government_NN1 as_II a_AT1 threat_NN1 for_IF years_NNT2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   21 The United States government is now taking matters more seriously and giving out maximum sentences to Anonymous members who have been caught .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   21 The_AT United_NP1 States_NP1 government_NN1 is_VBZ now_RT taking_VVG matters_NN2 more_RGR seriously_RR and_CC giving_VVG out_RP maximum_JJ sentences_NN2 to_II Anonymous_JJ members_NN2 who_PNQS have_VH0 been_VBN caught_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   22 A well known example of this is when the FBI caught Hector Xavier Monsegu , who goes by the name " Sabu " .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   22 A_AT1 well_NN1 known_VVN example_NN1 of_IO this_DD1 is_VBZ when_RRQ the_AT FBI_NP1 caught_VVD Hector_NP1 Xavier_NP1 Monsegu_NP1 ,_, who_PNQS goes_VVZ by_II the_AT name_NN1 "_" Sabu_NN1 "_" ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   23 He was sentenced a maximum sentence unless he took the deal offered to him by the FBI : to join them and work with them to find and arrest other Anonymous members .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   23 He_PPHS1 was_VBDZ sentenced_VVN a_AT1 maximum_JJ sentence_NN1 unless_CS he_PPHS1 took_VVD the_AT deal_NN1 offered_VVN to_II him_PPHO1 by_II the_AT FBI_NP1 :_: to_TO join_VVI them_PPHO2 and_CC work_VVI with_IW them_PPHO2 to_TO find_VVI and_CC arrest_VVI other_JJ Anonymous_JJ members_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   24 He was arrested secretly , and he worked for the FBI undercover with a low profile so others would not know .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   24 He_PPHS1 was_VBDZ arrested_VVN secretly_RR ,_, and_CC he_PPHS1 worked_VVD for_IF the_AT FBI_NP1 undercover_JJ with_IW a_AT1 low_JJ profile_NN1 so_RR others_NN2 would_VM not_XX know_VVI ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   25 However should the United States government place them so high on the threat list and invest maximum time and money to stop them ?
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   25 However_RR should_VM the_AT United_NP1 States_NP1 government_NN1 place_VV0 them_PPHO2 so_RG high_JJ on_II the_AT threat_NN1 list_NN1 and_CC invest_VV0 maximum_JJ time_NNT1 and_CC money_NN1 to_TO stop_VVI them_PPHO2 ?_?
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   26 They do not pose a threat to America and work as a force for justice .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   26 They_PPHS2 do_VD0 not_XX pose_VVI a_AT1 threat_NN1 to_II America_NP1 and_CC work_VVI as_II a_AT1 force_NN1 for_IF justice_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    0   27 Even though their actions are extreme in some cases , Anonymous ultimately has a positive impact on society while negatively impacting corrupt governments around the world .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    0   27 Even_CS21 though_CS22 their_APPGE actions_NN2 are_VBR extreme_JJ in_II some_DD cases_NN2 ,_, Anonymous_JJ ultimately_RR has_VHZ a_AT1 positive_JJ impact_NN1 on_II society_NN1 while_CS negatively_RR impacting_VVG corrupt_JJ governments_NN2 around_II the_AT world_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   28 Anonymous positively impacts the society around us in many ways .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   28 Anonymous_JJ positively_RR impacts_NN2 the_AT society_NN1 around_II us_PPIO2 in_II many_DA2 ways_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   29 They help bring inhumane and unjust actions to the public 's attention .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   29 They_PPHS2 help_VV0 bring_VVI inhumane_JJ and_CC unjust_JJ actions_NN2 to_II the_AT public_NN1 's_GE attention_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   30 They take situations that have been hidden from the general public and manage to squeeze it on headline news .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   30 They_PPHS2 take_VV0 situations_NN2 that_CST have_VH0 been_VBN hidden_VVN from_II the_AT general_JJ public_NN1 and_CC manage_VV0 to_TO squeeze_VVI it_PPH1 on_II headline_NN1 news_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   31 One well known protest that positively impacted the society was the hacking of Wakayama Prefecture 's website .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   31 One_PN1 well_RR known_VVN protest_VV0 that_CST positively_RR impacted_VVD the_AT society_NN1 was_VBDZ the_AT hacking_NN1@ of_IO Wakayama_NP1 Prefecture_NP1 's_GE website_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   32 They utilize their skills and hacking knowledge to make their voice heard around the world .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   32 They_PPHS2 utilize_VV0 their_APPGE skills_NN2 and_CC hacking_VVG knowledge_NN1 to_TO make_VVI their_APPGE voice_NN1 heard_VVN around_II the_AT world_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   33 Japanese fishers in Wakayama have a common and widely known practice of hunting dolphins .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   33 Japanese_JJ fishers_NN2 in_II Wakayama_NP1 have_VH0 a_AT1 common_JJ and_CC widely_RR known_VVN practice_NN1 of_IO hunting_NN1 dolphins_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   34 The fishers have been killing dolphins for years .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   34 The_AT fishers_NN2 have_VH0 been_VBN killing_VVG dolphins_NN2 for_IF years_NNT2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   35 They were trapping and slaughtering dolphins in a coastal village .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   35 They_PPHS2 were_VBDR trapping_VVG and_CC slaughtering_VVG dolphins_NN2 in_II a_AT1 coastal_JJ village_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   36 Little to no one knew about what was going on .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   36 Little_RR to_II no_PN121 one_PN122 knew_VVD about_II what_DDQ was_VBDZ going_VVG on_RP@ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   37 It was either overlooked or people did not know the slaughtering existed .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   37 It_PPH1 was_VBDZ either_RR overlooked_VVN or_CC people_NN did_VDD not_XX know_VVI the_AT slaughtering_NN1% existed_VVD ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   38 Once this was brought to Anonymous 's attention , immediately acting , they brought down the website and tweeted about it , allowing masses of people to know what was going on .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   38 Once_RR this_DD1 was_VBDZ brought_VVN to_II Anonymous_JJ 's_GE attention_NN1 ,_, immediately_RR acting_VVG ,_, they_PPHS2 brought_VVD down_RP the_AT website_NN1 and_CC tweeted_VVD about_II it_PPH1 ,_, allowing_VVG masses_NN2 of_IO people_NN to_TO know_VVI what_DDQ was_VBDZ going_VVG on_RP@ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   39 After the website went back up , they tweeted again , this time warning that " the website will be taken down again if villagers in the coastal town of Taiji " ( AHN ) ignore Anonymous and continue their practice in killing dolphins .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   39 After_CS the_AT website_NN1 went_VVD back_RP up_RP ,_, they_PPHS2 tweeted_VVD again_RT ,_, this_DD1 time_NNT1 warning_NN1 that_CST "_" the_AT website_NN1 will_VM be_VBI taken_VVN down_RP again_RT if_CS villagers_NN2 in_II the_AT coastal_JJ town_NN1 of_IO Taiji_NP1 "_" (_( AHN_NP1 )_) ignore_VV0 Anonymous_JJ and_CC continue_VV0 their_APPGE practice_NN1 in_II killing_VVG dolphins_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   40 Following these events , the Ambassador of the United States informed Japan of her disapproval of the trapping and killing dolphins , stating that it was " inhumane and opposed by the U.S. government " ( AHN ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   40 Following_VVG these_DD2 events_NN2 ,_, the_AT Ambassador_NN1 of_IO the_AT United_NP1 States_NP1 informed_VVD Japan_NP1 of_IO her_APPGE disapproval_NN1 of_IO the_AT trapping_NN1 and_CC killing_VVG dolphins_NN2 ,_, stating_VVG that_CST it_PPH1 was_VBDZ "_" inhumane_JJ and_CC opposed_VVN by_II the_AT U.S._NP1 government_NN1 "_" (_( AHN_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   41 Another example that shows Anonymous 's positive impact to the society around them was when they took down a website of Hal Turner , a white supremacist in December 2006 .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   41 Another_DD1 example_NN1 that_CST shows_VVZ Anonymous_JJ 's_VBZ positive_JJ impact_NN1 to_II the_AT society_NN1 around_II them_PPHO2 was_VBDZ when_RRQ they_PPHS2 took_VVD down_RP a_AT1 website_NN1 of_IO Hal_NP1 Turner_NP1 ,_, a_AT1 white_JJ supremacist_NN1 in_II December_NPM1 2006_MC ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   42 Not only was the website taken down , but Turner was forced to pay expensive bandwidth bills .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   42 Not_XX only_RR was_VBDZ the_AT website_NN1 taken_VVN down_RP ,_, but_CCB Turner_NP1 was_VBDZ forced_VVN to_TO pay_VVI expensive_JJ bandwidth_NN1 bills_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   43 One final example of Anonymous 's intervention with the society around and going outside the law to obtain justice is " Project Chanology " .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   43 One_MC1 final_JJ example_NN1 of_IO Anonymous_JJ 's_GE intervention_NN1 with_IW the_AT society_NN1 around_RP and_CC going_VVG outside_II the_AT law_NN1 to_TO obtain_VVI justice_NN1 is_VBZ "_" Project_NN1 Chanology_NN1 "_" ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   44 In January 2008 , Anonymous attacked the Church of Scientology .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   44 In_II January_NPM1 2008_MC ,_, Anonymous_JJ attacked_VVD the_AT Church_NN1 of_IO Scientology_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   45 The Church of Scientology , " a cult-like religion which allegedly imprisons its dissident member " ( Love ) made it to Anonymous 's radar .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   45 The_AT Church_NN1 of_IO Scientology_NP1 ,_, "_" a_AT1 cult-like_JJ religion_NN1 which_DDQ allegedly_RR imprisons_VVZ its_APPGE dissident_JJ member_NN1 "_" (_( Love_NN1 )_) made_VVD it_PPH1 to_II Anonymous_JJ 's_GE radar_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   46 They were imprisoning the members , and inhumane activities were taking place .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   46 They_PPHS2 were_VBDR imprisoning_VVG the_AT members_NN2 ,_, and_CC inhumane_JJ activities_NN2 were_VBDR taking_VVG place_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   47 Once Anonymous found out about this and decided to act , not only did they attack their websites , but they physically protested the church .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   47 Once_RR Anonymous_JJ found_VVD out_RP about_II this_DD1 and_CC decided_VVD to_TO act_VVI ,_, not_XX only_RR did_VDD they_PPHS2 attack_VVI their_APPGE websites_NN2 ,_, but_CCB they_PPHS2 physically_RR protested_VVD the_AT church_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    1   48 These occurrences are not rare and are examples of the many positive actions that Anonymous has carried out for the society around them .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    1   48 These_DD2 occurrences_NN2 are_VBR not_XX rare_JJ and_CC are_VBR examples_NN2 of_IO the_AT many_DA2 positive_JJ actions_NN2 that_CST Anonymous_JJ has_VHZ carried_VVN out_RP for_IF the_AT society_NN1 around_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   49 Another aspect which Anonymous positively impacts in the world is corruption , mainly in governments and countries around the world .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   49 Another_DD1 aspect_NN1 which_DDQ Anonymous_JJ positively_RR impacts_NN2 in_II the_AT world_NN1 is_VBZ corruption_NN1 ,_, mainly_RR in_II governments_NN2 and_CC countries_NN2 around_II the_AT world_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   50 They do not attempt to hide their actions , rather they come out and say it : " To the corrupt -- fear us " ( Murdoch ) -- Anonymous .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   50 They_PPHS2 do_VD0 not_XX attempt_VVI to_TO hide_VVI their_APPGE actions_NN2 ,_, rather_RR@ they_PPHS2 come_VV0 out_RP and_CC say_VV0 it_PPH1 :_: "_" To_II the_AT corrupt_JJ --_NN1 fear_VV0 us_PPIO2 "_" (_( Murdoch_NP1 )_) --_JJ Anonymous_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   51 This is why they are successful with many followers ; they are not afraid to stand up for what they believe in .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   51 This_DD1 is_VBZ why_RRQ they_PPHS2 are_VBR successful_JJ with_IW many_DA2 followers_NN2 ;_; they_PPHS2 are_VBR not_XX afraid_JJ to_TO stand_VVI up_RP for_IF what_DDQ they_PPHS2 believe_VV0 in_RP@ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   52 They expose corruption .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   52 They_PPHS2 expose_VV0 corruption_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   53 They go after corrupted nations and bring their work to light by the power of technology .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   53 They_PPHS2 go_VV0 after_II corrupted_JJ@ nations_NN2 and_CC bring_VV0 their_APPGE work_NN1 to_TO light_VVI by_II the_AT power_NN1 of_IO technology_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   54 One of the main events where an example of this is seen is when Anonymous released information that they had obtained from a forum for hackers in February 2011 .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   54 One_MC1 of_IO the_AT main_JJ events_NN2 where_RRQ an_AT1 example_NN1 of_IO this_DD1 is_VBZ seen_VVN is_VBZ when_RRQ Anonymous_JJ released_JJ@ information_NN1 that_CST they_PPHS2 had_VHD obtained_VVN from_II a_AT1 forum_NN1 for_IF hackers_NN2 in_II February_NPM1 2011_MC ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   55 By finding this information and then later releasing it to the public , Anonymous had enabled " security firm Mandiant ... to use this data to link the Chinese military to cyber-attacks against the U.S. " ( Love ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   55 By_II finding_VVG this_DD1 information_NN1 and_CC then_RT later_RRR releasing_VVG it_PPH1 to_II the_AT public_NN1 ,_, Anonymous_JJ had_VHD enabled_VVN "_" security_NN1 firm_NN1 Mandiant_NN1 ..._... to_TO use_VVI this_DD1 data_NN to_TO link_VVI the_AT Chinese_JJ military_JJ to_II cyber-attacks_NN2 against_II the_AT U.S._NP1 "_" (_( Love_NN1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   56 Yes this information may have been illegally obtained ; however , not only did it stop cyber attackers from carrying out future attacks , but also aided the U.S. government .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   56 Yes_UH this_DD1 information_NN1 may_VM have_VHI been_VBN illegally_RR obtained_VVN ;_; however_RR ,_, not_XX only_RR did_VDD it_PPH1 stop_VVI cyber_NN1 attackers_NN2 from_II carrying_VVG out_RP future_JJ attacks_NN2 ,_, but_CCB also_RR aided_VVD the_AT U.S._NP1 government_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   57 It is events like these that should not be overlooked .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   57 It_PPH1 is_VBZ events_NN2 like_II these_DD2 that_CST should_VM not_XX be_VBI overlooked_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   58 They are not a poison for the United States of America , but rather an ally .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   58 They_PPHS2 are_VBR not_XX a_AT1 poison_NN1 for_IF the_AT United_NP1 States_NP1 of_IO America_NP1 ,_, but_CCB rather_RG an_AT1 ally_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   59 Another example that shows how Anonymous goes after corrupted governments are the launched attacks " infiltrating websites in Singapore and the Philippines " ( Murdoch ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   59 Another_DD1 example_NN1 that_CST shows_VVZ how_RRQ Anonymous_JJ goes_VVZ after_II corrupted_JJ@ governments_NN2 are_VBR the_AT launched_JJ% attacks_NN2 "_" infiltrating_VVG websites_NN2 in_II Singapore_NP1 and_CC the_AT Philippines_NP2 "_" (_( Murdoch_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   60 The activists hacked over five Philippine government agency websites .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   60 The_AT activists_NN2 hacked_VVN over_RG five_MC Philippine_JJ government_NN1 agency_NN1 websites_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   61 The Philippine government has not been delivering it 's citizens the things it claimed it would deliver .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   61 The_AT Philippine_JJ government_NN1 has_VHZ not_XX been_VBN delivering_VVG it_PPH1 's_VBZ citizens_NN2 the_AT things_NN2 it_PPH1 claimed_VVD it_PPH1 would_VM deliver_VVI ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   62 Once hacked , Anonymous posted messages on them urging the general public to march against the corruption .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   62 Once_RR hacked_VVN ,_, Anonymous_JJ posted_JJ@ messages_NN2 on_II them_PPHO2 urging_VVG the_AT general_JJ public_NN1 to_TO march_VVI against_II the_AT corruption_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   63 Among the hacked websites was the Office of Ombudsman .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   63 Among_II the_AT hacked_VVN websites_NN2 was_VBDZ the_AT Office_NN1 of_IO Ombudsman_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   64 There , once users clicked on the message , they were " redirected to a post lambasting the government " ( Murdoch ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   64 There_RL ,_, once_CS@ users_NN2 clicked_VVD on_II the_AT message_NN1 ,_, they_PPHS2 were_VBDR "_" redirected_VVN@ to_II a_AT1 post_NN1 lambasting_VVG the_AT government_NN1 "_" (_( Murdoch_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   65 The message read " The government , in many was , has failed the Filipino citizens ... let us remind the government that fairness justice and freedom are more than just words " ( Murdoch ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   65 The_AT message_NN1 read_VVD "_" The_AT government_NN1 ,_, in_II many_DA2 was_VBDZ ,_, has_VHZ failed_VVN the_AT Filipino_JJ citizens_NN2 ..._... let_VV0 us_PPIO2 remind_VVI the_AT government_NN1 that_CST fairness_NN1 justice_NN1 and_CC freedom_NN1 are_VBR more_DAR than_CSN just_JJ@ words_NN2 "_" (_( Murdoch_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   66 Some of the hacked websites are still being hacked to this day , among the websites being hacked are http : //omb.gov.ph/ , http : //bolinao.gov.ph/home/ , http : //www.vigancity.gov.ph/ , and http : //magarao.gov.ph/.Afraid and under attacks/investigations , Benigo Aquino , the Philippine president , was going on television channels and claiming that he is not a thief .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   66 Some_DD of_IO the_AT hacked_VVN websites_NN2 are_VBR still_RR being_VBG hacked_VVN to_II this_DD1 day_NNT1 ,_, among_II the_AT websites_NN2 being_VBG hacked_VVN are_VBR http_NNU :_: //omb.gov.ph/_VV0 ,_, http_NNU :_: //bolinao.gov.ph/home/_VV0 ,_, http_NNU :_: //www.vigancity.gov.ph/_VV0 ,_, and_CC http_NNU :_: //magarao.gov.ph/.Afraid_FU and_CC under_II attacks/investigations_NN2 ,_, Benigo_NP1 Aquino_NP1 ,_, the_AT Philippine_JJ president_NN1 ,_, was_VBDZ going_VVG on_II television_NN1 channels_NN2 and_CC claiming_VVG that_CST he_PPHS1 is_VBZ not_XX a_AT1 thief_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   67 Another example that shows Anonymous 's intervention in corrupt countries and governments is their threat to Singapore .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   67 Another_DD1 example_NN1 that_CST shows_VVZ Anonymous_JJ 's_GE intervention_NN1 in_II corrupt_JJ countries_NN2 and_CC governments_NN2 is_VBZ their_APPGE threat_NN1 to_II Singapore_NP1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   68 Strait Times newspaper , a pro-government website was hacked .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   68 Strait_NN1 Times_NNT2 newspaper_NN1 ,_, a_AT1 pro-government_JJ website_NN1 was_VBDZ hacked_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   69 The cause was Anonymous " opposing recently introduced licensing rules for news websites in Singapore " ( Murdoch ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   69 The_AT cause_NN1 was_VBDZ Anonymous_JJ "_" opposing_JJ recently_RR introduced_VVN licensing_VVG rules_NN2 for_IF news_NN1 websites_NN2 in_II Singapore_NP1 "_" (_( Murdoch_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   70 Journalists and the news were distorting words .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   70 Journalists_NN2 and_CC the_AT news_NN1 were_VBDR distorting_VVG words_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   71 Anonymous left a video that warns how they have faced " more secure corporations such as the FBI and urges 'fellow Singaporean sister and brothers ' to start a public protest ... on November 5 " ( Murdoch ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   71 Anonymous_JJ left_VVD a_AT1 video_NN1 that_CST warns_VVZ how_RRQ they_PPHS2 have_VH0 faced_VVN "_" more_RGR secure_JJ corporations_NN2 such_II21 as_II22 the_AT FBI_NP1 and_CC urges_NN2 'fellow_VV0 Singaporean_JJ sister_NN1 and_CC brothers_NN2 '_GE to_TO start_VVI a_AT1 public_JJ protest_NN1 ..._... on_II November_NPM1 5_MC "_" (_( Murdoch_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    2   72 These examples are a few of many where Anonymous has stood up in what they believe in and helped fight against corruption .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    2   72 These_DD2 examples_NN2 are_VBR a_AT1 few_DA2 of_IO many_DA2 where_CS Anonymous_JJ has_VHZ stood_VVN up_RP in_II what_DDQ they_PPHS2 believe_VV0 in_RP@ and_CC helped_VVD fight_NN1 against_II corruption_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   73 Having so much power brings problems and responsibility .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   73 Having_VHG so_RG much_DA1 power_NN1 brings_VVZ problems_NN2 and_CC responsibility_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   74 It makes Anonymous dangerous .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   74 It_PPH1 makes_VVZ Anonymous_JJ dangerous_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   75 It is a common fact : the more power one has , the more of a effect and impact they have to people , places , and the society around them .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   75 It_PPH1 is_VBZ a_AT1 common_JJ fact_NN1 :_: the_AT more_DAR power_NN1 one_PN1 has_VHZ ,_, the_AT more_DAR of_IO a_AT1 effect_NN1 and_CC impact_NN1 they_PPHS2 have_VH0 to_TO people_NN ,_, places_NN2 ,_, and_CC the_AT society_NN1 around_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   76 They can go in virtually anyone 's private life and information with a click of a button .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   76 They_PPHS2 can_VM go_VVI in_RP@ virtually_RR anyone_PN1 's_GE private_JJ life_NN1 and_CC information_NN1 with_IW a_AT1 click_NN1 of_IO a_AT1 button_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   77 They can take down and put up websites with a click of that same button .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   77 They_PPHS2 can_VM take_VVI down_RP and_CC put_VVD up_RP websites_NN2 with_IW a_AT1 click_NN1 of_IO that_DD1 same_DA button_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   78 They have the power to control masses of people to protest , all from sitting behind a computer screen .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   78 They_PPHS2 have_VH0 the_AT power_NN1 to_TO control_VVI masses_NN2 of_IO people_NN to_TO protest_VVI ,_, all_DB from_II sitting_VVG behind_II a_AT1 computer_NN1 screen_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   79 They are puppet masters , and society and corrupted victims are their puppets and voices .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   79 They_PPHS2 are_VBR puppet_JJ@ masters_NN2 ,_, and_CC society_NN1 and_CC corrupted_VVD victims_NN2 are_VBR their_APPGE puppets_NN2 and_CC voices_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   80 No citizen should have so much power , and this is why it is illegal .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   80 No_AT citizen_NN1 should_VM have_VHI so_RG much_DA1 power_NN1 ,_, and_CC this_DD1 is_VBZ why_RRQ it_PPH1 is_VBZ illegal_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   81 They go outside the law without consulting anyone , and it is dangerous .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   81 They_PPHS2 go_VV0 outside_II the_AT law_NN1 without_IW consulting_VVG anyone_PN1 ,_, and_CC it_PPH1 is_VBZ dangerous_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   82 It makes U.S citizens and the government feel threatened , vulnerable , and uneasy , and it should .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   82 It_PPH1 makes_VVZ U.S_NP1 citizens_NN2 and_CC the_AT government_NN1 feel_VV0 threatened_VVN ,_, vulnerable_JJ ,_, and_CC uneasy_JJ ,_, and_CC it_PPH1 should_VM ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   83 It is understandable why some label Anonymous as a threat and hate them .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   83 It_PPH1 is_VBZ understandable_JJ why_RRQ some_DD label_VV0 Anonymous_JJ as_II a_AT1 threat_NN1 and_CC hate_VV0 them_PPHO2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   84 Technically they are criminals , and some believe they should be prioritized to the top of the wanted list and trailed to the full extent of the American law .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   84 Technically_RR they_PPHS2 are_VBR criminals_NN2 ,_, and_CC some_DD believe_VV0 they_PPHS2 should_VM be_VBI prioritized_VVN@ to_II the_AT top_NN1 of_IO the_AT wanted_JJ@ list_NN1 and_CC trailed_VVD to_II the_AT full_JJ extent_NN1 of_IO the_AT American_JJ law_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   85 They sometimes take advantage of their power .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   85 They_PPHS2 sometimes_RT take_VV0 advantage_NN1 of_IO their_APPGE power_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   86 An example of this is a recent event that went viral on the internet when Anonymous hacked Fox News after Fox down talked them .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   86 An_AT1 example_NN1 of_IO this_DD1 is_VBZ a_AT1 recent_JJ event_NN1 that_CST went_VVD viral_JJ on_II the_AT internet_NN1 when_CS Anonymous_JJ hacked_VVD Fox_NP1 News_NN1 after_II Fox_NP1 down_RP talked_VVD them_PPHO2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   87 During an interview on live national television , Anonymous intercepted the interview and displayed a screen of a man speaking with a Guy Fawkes mask on .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   87 During_II an_AT1 interview_NN1 on_II live_JJ national_JJ television_NN1 ,_, Anonymous_JJ intercepted_VVD the_AT interview_NN1 and_CC displayed_VVD a_AT1 screen_NN1 of_IO a_AT1 man_NN1 speaking_VVG with_IW a_AT1 Guy_NP1 Fawkes_NP1 mask_VV0@ on_RP@ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   88 The voice was altered so it could not be traced .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   88 The_AT voice_NN1 was_VBDZ altered_VVN so_CS@ it_PPH1 could_VM not_XX be_VBI traced_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   89 In the video , they claimed that Fox has now grabbed their attention and should be careful .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   89 In_II the_AT video_NN1 ,_, they_PPHS2 claimed_VVD that_CST Fox_NP1 has_VHZ now_RT grabbed_VVN their_APPGE attention_NN1 and_CC should_VM be_VBI careful_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   90 This was because Fox supposedly " ravaged " Anonymous 's name .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   90 This_DD1 was_VBDZ because_CS Fox_NP1 supposedly_RR "_" ravaged_VVD "_" Anonymous_JJ 's_GE name_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   91 Anonymous then claims that they are not a secret club , and they do not meet in a club house , mocking Fox News .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   91 Anonymous_JJ then_RT claims_VVZ that_CST they_PPHS2 are_VBR not_XX a_AT1 secret_JJ club_NN1 ,_, and_CC they_PPHS2 do_VD0 not_XX meet_VVI in_II a_AT1 club_NN1 house_NN1 ,_, mocking_JJ Fox_NN1@ News_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   92 Another incident is when they hacked U.S. files and took personal information .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   92 Another_DD1 incident_NN1 is_VBZ when_RRQ they_PPHS2 hacked_VVD U.S._NP1 files_NN2 and_CC took_VVD personal_JJ information_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   93 It is true that they have accessed U.S. citizen 's personal information and acquired credit card number , passwords etc .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   93 It_PPH1 is_VBZ true_JJ that_CST they_PPHS2 have_VH0 accessed_VVN U.S._NP1 citizen_NN1 's_GE personal_JJ information_NN1 and_CC acquired_JJ@ credit_NN1 card_NN1 number_NN1 ,_, passwords_NN2 etc_RA ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   94 However Anonymous did not go farther and steal or endanger lives with this information , thus giving them a sense of trust .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   94 However_RGQV Anonymous_JJ did_VDD not_XX go_VVI farther_RRR and_CC steal_VVI or_CC endanger_VVI lives_NN2 with_IW this_DD1 information_NN1 ,_, thus_RR giving_VVG them_PPHO2 a_AT1 sense_NN1 of_IO trust_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   95 They only go after corruption and unjust actions , mostly in foreign lands .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   95 They_PPHS2 only_RR go_VV0 after_II corruption_NN1 and_CC unjust_JJ actions_NN2 ,_, mostly_RR in_II foreign_JJ lands_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   96 The U.S. government should not be worried nor should they make it a priority to go out , get counter hackers , or find Anonymous members , for there are much more urgent and important matters at hand .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   96 The_AT U.S._NP1 government_NN1 should_VM not_XX be_VBI worried_JJ nor_CC should_VM they_PPHS2 make_VVI it_PPH1 a_AT1 priority_NN1 to_TO go_VVI out_RP ,_, get_VV0 counter_NN1 hackers_NN2 ,_, or_CC find_VV0 Anonymous_JJ members_NN2 ,_, for_CS% there_EX are_VBR much_RR more_RGR urgent_JJ and_CC important_JJ matters_NN2 at_II hand_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   97 This is not to be confused with taking precautions .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   97 This_DD1 is_VBZ not_XX to_TO be_VBI confused_VVN with_IW taking_VVG precautions_NN2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   98 Precautions should always be taken , however not blown out of proportion .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   98 Precautions_NN2 should_VM always_RR be_VBI taken_VVN ,_, however_RR not_XX blown_VVN out_II21 of_II22 proportion_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3   99 Anonymous has helped more than hurt .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3   99 Anonymous_JJ has_VHZ helped_VVN more_RRR than_CSN hurt_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3  100 They fight for those who need help .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3  100 They_PPHS2 fight_VV0 for_IF those_DD2 who_PNQS need_VV0 help_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3  101 Even though their methods may be different and extreme , these " hackavists " , or hacking activists , have proved to be loyal to justice and humanity .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3  101 Even_CS21 though_CS22 their_APPGE methods_NN2 may_VM be_VBI different_JJ and_CC extreme_JJ ,_, these_DD2 "_" hackavists_NN2 "_" ,_, or_CC hacking_VVG activists_NN2 ,_, have_VH0 proved_VVN to_TO be_VBI loyal_JJ to_II justice_NN1 and_CC humanity_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3  102 They almost fight on the same side as the United States government .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3  102 They_PPHS2 almost_RR fight_VV0 on_II the_AT same_DA side_NN1 as_CSA the_AT United_NP1 States_NP1 government_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3  103 Not only do they not target innocent people , but they have even helped the United States government by finding cyber-attackers and reporting information about who they are .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3  103 Not_XX only_RR do_VD0 they_PPHS2 not_XX target_VVI innocent_JJ people_NN ,_, but_CCB they_PPHS2 have_VH0 even_RR helped_VVN the_AT United_NP1 States_NP1 government_NN1 by_II finding_VVG cyber-attackers_NN2 and_CC reporting_VVG information_NN1 about_II who_PNQS they_PPHS2 are_VBR ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    3  104 These protestors take more extreme actions than others , however they stand for justice , equality , and what they believe in .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    3  104 These_DD2 protestors_NN2 take_VV0 more_RGR extreme_JJ actions_NN2 than_CSN others_NN2 ,_, however_RRQV they_PPHS2 stand_VV0 for_IF justice_NN1 ,_, equality_NN1 ,_, and_CC what_DDQ they_PPHS2 believe_VV0 in_RP@ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  105 Anonymous manages to make their voice heard anywhere they need it to be heard .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  105 Anonymous_JJ manages_VVZ to_TO make_VVI their_APPGE voice_NN1 heard_VVD anywhere_RL they_PPHS2 need_VV0 it_PPH1 to_TO be_VBI heard_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  106 They are a " loosely associated international network of activists and hackers ... known for highly publicized cyber-attacks around the world " ( Murdoch ) .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  106 They_PPHS2 are_VBR a_AT1 "_" loosely_RR associated_VVN international_JJ network_NN1 of_IO activists_NN2 and_CC hackers_NN2 ..._... known_VVN for_IF highly_RR publicized_JJ cyber-attacks_NN2 around_II the_AT world_NN1 "_" (_( Murdoch_NP1 )_) ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  107 They were officially established in 2003 , and have remained as a voice in society since then .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  107 They_PPHS2 were_VBDR officially_RR established_VVN in_II 2003_MC ,_, and_CC have_VH0 remained_VVN as_II a_AT1 voice_NN1 in_II society_NN1 since_II then_RT ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  108 Once the sword and firearm was the only way to start a war , but technology is the weapon of today .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  108 Once_CS@ the_AT sword_NN1 and_CC firearm_NN1 was_VBDZ the_AT only_JJ way_NN1 to_TO start_VVI a_AT1 war_NN1 ,_, but_CCB technology_NN1 is_VBZ the_AT weapon_NN1 of_IO today_RT ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  109 Wars , protests , and movements can be started and finished from behind a computer screen , and the computer is the new battlefield of war .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  109 Wars_NN2 ,_, protests_NN2 ,_, and_CC movements_NN2 can_VM be_VBI started_VVN@ and_CC finished_VVN from_II behind_II a_AT1 computer_NN1 screen_NN1 ,_, and_CC the_AT computer_NN1 is_VBZ the_AT new_JJ battlefield_NN1 of_IO war_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  110 Anonymous has positively impacted the society around them .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  110 Anonymous_JJ has_VHZ positively_RR impacted_VVN the_AT society_NN1 around_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  111 They clean up corruption where it is needed the most and restore trust in a corrupted government .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  111 They_PPHS2 clean_VV0@ up_RP corruption_NN1 where_CS it_PPH1 is_VBZ needed_VVN the_AT most_DAT and_CC restore_VV0 trust_NN1 in_II a_AT1 corrupted_JJ@ government_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  112 Time Magazine labeled Anonymous among the " 100 most influential people " in the word in 2012 .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  112 Time_NNT1 Magazine_NN1 labeled_VVD Anonymous_JJ among_II the_AT "_" 100_MC most_RGT influential_JJ people_NN "_" in_II the_AT word_NN1 in_II 2012_MC ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  113 Slowly they are gaining the trust of the general public through the moral actions that they do .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  113 Slowly_RR they_PPHS2 are_VBR gaining_VVG the_AT trust_NN1 of_IO the_AT general_JJ public_NN1 through_II the_AT moral_JJ actions_NN2 that_CST they_PPHS2 do_VD0 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  114 Even though they may blur the lines and go outside the law , their ends justify their means .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  114 Even_CS21 though_CS22 they_PPHS2 may_VM blur_VVI the_AT lines_NN2 and_CC go_VVI outside_II the_AT law_NN1 ,_, their_APPGE ends_NN2 justify_VV0 their_APPGE means_NN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  115 Whether it is a ten year old kid thinking that their hacking methods are " cool " , or a thirty year old adult that believes that they better society and clean up corruption and expose evil doers , Anonymous 's actions are being noticed .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  115 Whether_CSW it_PPH1 is_VBZ a_AT1 ten_MC year_NNT1 old_JJ kid_NN1 thinking_VVG that_CST their_APPGE hacking_NN1@ methods_NN2 are_VBR "_" cool_JJ "_" ,_, or_CC a_AT1 thirty_MC year_NNT1 old_JJ adult_NN1 that_CST believes_VVZ that_CST they_PPHS2 better_VV0% society_NN1 and_CC clean_VV0@ up_RP corruption_NN1 and_CC expose_VV0 evil_JJ doers_NN2 ,_, Anonymous_JJ 's_GE actions_NN2 are_VBR being_VBG noticed_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  116 As technology grows and becomes a larger part of our lives , Anonymous will have a louder voice in society .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  116 As_CSA technology_NN1 grows_VVZ and_CC becomes_VVZ a_AT1 larger_JJR part_NN1 of_IO our_APPGE lives_NN2 ,_, Anonymous_JJ will_VM have_VHI a_AT1 louder_JJR voice_NN1 in_II society_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  117 Whether it is to better the society around them by doing something as simple as bringing down one website to put an end to dolphin slaughter , or by leaking cyber-attackers to the United States Government , they are positively impacting humanity .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  117 Whether_CSW it_PPH1 is_VBZ to_II better_JJR the_AT society_NN1 around_II them_PPHO2 by_II doing_VDG something_PN1 as_RG simple_JJ as_CSA bringing_VVG down_RP one_MC1 website_NN1 to_TO put_VVI an_AT1 end_NN1 to_II dolphin_NN1 slaughter_NN1 ,_, or_CC by_II leaking_VVG cyber-attackers_NN2 to_II the_AT United_NP1 States_NP1 Government_NN1 ,_, they_PPHS2 are_VBR positively_RR impacting_VVG humanity_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    4  118 Shedding light on hidden situations , they alert the general public when something unfair or wrong is happening .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    4  118 Shedding_VVG light_NN1 on_II hidden_JJ@ situations_NN2 ,_, they_PPHS2 alert_VV0 the_AT general_JJ public_NN1 when_CS something_PN1 unfair_JJ or_CC wrong_JJ is_VBZ happening_VVG ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  119 While Anonymous is notorious for mainly working from behind a computer screen , they are also known to physically protest .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  119 While_CS Anonymous_JJ is_VBZ notorious_JJ for_IF mainly_RR working_VVG from_II behind_II a_AT1 computer_NN1 screen_NN1 ,_, they_PPHS2 are_VBR also_RR known_VVN to_TO physically_RR protest_VVI ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  120 In the past , they have lead physical protests around the world while they wear Guy Fawkes masks and dress in black .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  120 In_II the_AT past_NN1 ,_, they_PPHS2 have_VH0 lead_VVN physical_JJ protests_NN2 around_II the_AT world_NN1 while_CS they_PPHS2 wear_VV0 Guy_NP1 Fawkes_NP1 masks_NN2 and_CC dress_VV0 in_II black_JJ ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  121 The mask not only hides their identity for their protection , but also symbolize how they can be anyone , anywhere .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  121 The_AT mask_NN1 not_XX only_RR hides_VVZ their_APPGE identity_NN1 for_IF their_APPGE protection_NN1 ,_, but_CCB also_RR symbolize_VV0 how_RRQ they_PPHS2 can_VM be_VBI anyone_PN1 ,_, anywhere_RL ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  122 Their voice is being amplified by the mistreated , and those fighting against corruption .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  122 Their_APPGE voice_NN1 is_VBZ being_VBG amplified_VVN by_II the_AT mistreated_JJ@ ,_, and_CC those_DD2 fighting_VVG against_II corruption_NN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  123 These " self-proclaimed beacon holders " are a necessary evil , and with all of the evil happening around us today , they are the lesser one .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  123 These_DD2 "_" self-proclaimed_JJ beacon_NN1 holders_NN2 "_" are_VBR a_AT1 necessary_JJ evil_NN1 ,_, and_CC with_IW all_DB of_IO the_AT evil_JJ happening_NN1 around_II us_PPIO2 today_RT ,_, they_PPHS2 are_VBR the_AT lesser_JJ one_PN1 ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  124 If I was put in a situation and had a chance where I could bring aid and justice to a group of people that crucially need it , but I had to use a computer to go outside the law , I know I would take it ... would n't you ?
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  124 If_CS I_PPIS1 was_VBDZ put_VVN in_II a_AT1 situation_NN1 and_CC had_VHD a_AT1 chance_NN1 where_CS I_PPIS1 could_VM bring_VVI aid_NN1 and_CC justice_NN1 to_II a_AT1 group_NN1 of_IO people_NN that_CST crucially_RR need_VV0 it_PPH1 ,_, but_CCB I_PPIS1 had_VHD to_TO use_VVI a_AT1 computer_NN1 to_TO go_VVI outside_II the_AT law_NN1 ,_, I_PPIS1 know_VV0 I_PPIS1 would_VM take_VVI it_PPH1 ..._... would_VM n't_XX you_PPY ?_?
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  125 They symbolize us all .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  125 They_PPHS2 symbolize_VV0 us_PPIO2 all_DB ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  126 They fight for the " little guy " and those who do not have strong voices in society.Anonymous should not be prioritized on the United States government list , and activists caught should not be so heavily charged .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  126 They_PPHS2 fight_VV0 for_IF the_AT "_" little_JJ guy_NN1 "_" and_CC those_DD2 who_PNQS do_VD0 not_XX have_VHI strong_JJ voices_NN2 in_II society.Anonymous_NNU should_VM not_XX be_VBI prioritized_VVN@ on_II the_AT United_NP1 States_NP1 government_NN1 list_NN1 ,_, and_CC activists_NN2 caught_VVN should_VM not_XX be_VBI so_RG heavily_RR charged_VVN ._.
+SENTPOS 2014_4_101_100_177_3 DRAFT A    5  126  Anonymous stands up for what they believe in , and it is something that this world truly needs today .
+SENTPOS 2014_4_101_100_177_3 DRAFT B    5  126  Anonymous_JJ stands_NN2 up_RP for_IF what_DDQ they_PPHS2 believe_VV0 in_RP@ ,_, and_CC it_PPH1 is_VBZ something_PN1 that_CST this_DD1 world_NN1 truly_RR needs_VVZ today_RT ._.

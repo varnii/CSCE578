@@ -1,0 +1,192 @@
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    0 Head injuries are a major problem in all sports and have been since they were created .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    0 Head_NN1 injuries_NN2 are_VBR a_AT1 major_JJ problem_NN1 in_II all_DB sports_NN2 and_CC have_VH0 been_VBN since_CS they_PPHS2 were_VBDR created_VVN ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    1 As sports such as football became more advanced , and became lifestyles and jobs other than games , new methods of training and conditioning were created .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    1 As_CSA sports_NN2 such_II21 as_II22 football_NN1 became_VVD more_RRR advanced_VVN ,_, and_CC became_VVN lifestyles_NN2 and_CC jobs_NN2 other_II21 than_II22 games_NN2 ,_, new_JJ methods_NN2 of_IO training_NN1 and_CC conditioning_NN1 were_VBDR created_VVN ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    2 Players became faster , stronger , bigger , and games became more violent , and dangerous .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    2 Players_NN2 became_VVD faster_RRR ,_, stronger_JJR ,_, bigger_JJR ,_, and_CC games_NN2 became_VVD more_RGR violent_JJ ,_, and_CC dangerous_JJ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    3 The risk of injury increased dramatically and head injuries became a great danger to the game .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    3 The_AT risk_NN1 of_IO injury_NN1 increased_VVD dramatically_RR and_CC head_NN1 injuries_NN2 became_VVD a_AT1 great_JJ danger_NN1 to_II the_AT game_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    4 Football is not the only sport with the risk .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    4 Football_NN1 is_VBZ not_XX the_AT only_JJ sport_NN1 with_IW the_AT risk_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    5 All contact sports , including hockey , boxing , basketball and many others have this problem .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    5 All_DB contact_VV0 sports_NN2 ,_, including_II hockey_NN1 ,_, boxing_NN1 ,_, basketball_NN1 and_CC many_DA2 others_NN2 have_VH0 this_DD1 problem_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    6 Head injuries are a life threating part of the game that athletes who want to play at any level must be aware of .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    6 Head_NN1 injuries_NN2 are_VBR a_AT1 life_NN1 threating_VVG part_NN1 of_IO the_AT game_NN1 that_CST athletes_NN2 who_PNQS want_VV0 to_TO play_VVI at_II any_DD level_NN1 must_VM be_VBI aware_JJ of_IO ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    7 It is a serious problem in sports today and is known to cause deaths , life changing events , and problems in the future for retired players .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    7 It_PPH1 is_VBZ a_AT1 serious_JJ problem_NN1 in_II sports_NN2 today_RT and_CC is_VBZ known_VVN to_TO cause_VVI deaths_NN2 ,_, life_NN1 changing_VVG events_NN2 ,_, and_CC problems_NN2 in_II the_AT future_NN1 for_IF retired_JJ players_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    8 Many problems occur due to the culture of the game , the mindset of the players and their coach , what they believe they can play through , and what they feel an athlete should be , tough dedicated , and one who sacrifices his or her body for the sport .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    8 Many_DA2 problems_NN2 occur_VV0 due_II21 to_II22 the_AT culture_NN1 of_IO the_AT game_NN1 ,_, the_AT mindset_NN1 of_IO the_AT players_NN2 and_CC their_APPGE coach_NN1 ,_, what_DDQ they_PPHS2 believe_VV0 they_PPHS2 can_VM play_VVI through_RP@ ,_, and_CC what_DDQ they_PPHS2 feel_VV0 an_AT1 athlete_NN1 should_VM be_VBI ,_, tough_JJ dedicated_JJ ,_, and_CC one_PN1 who_PNQS sacrifices_VVZ his_APPGE or_CC her_APPGE body_NN1 for_IF the_AT sport_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0    9 What are the problems that result from head injury ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0    9 What_DDQ are_VBR the_AT problems_NN2 that_CST result_VV0 from_II head_NN1 injury_NN1 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0   10 How can we , officials of the sports , the government , parents , coaches , any person associated with the games , protect players from these threats ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0   10 How_RRQ can_VM we_PPIS2 ,_, officials_NN2 of_IO the_AT sports_NN2 ,_, the_AT government_NN1 ,_, parents_NN2 ,_, coaches_NN2 ,_, any_DD person_NN1 associated_VVN with_IW the_AT games_NN2 ,_, protect_VV0 players_NN2 from_II these_DD2 threats_NN2 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0   11 Is it possible to protect them ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0   11 Is_VBZ it_PPH1 possible_JJ to_TO protect_VVI them_PPHO2 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0   12 How does the culture of the game affect player safety ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0   12 How_RRQ does_VDZ the_AT culture_NN1 of_IO the_AT game_NN1 affect_NN1 player_NN1 safety_NN1 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0   13 What are the necessary precautions we must take ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0   13 What_DDQ are_VBR the_AT necessary_JJ precautions_NN2 we_PPIS2 must_VM take_VVI ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0   14 Who really has the ultimate decision on whether or not the player can return to the game ; the medical professional or the individual ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0   14 Who_PNQS really_RR has_VHZ the_AT ultimate_JJ decision_NN1 on_II whether_CSW31 or_CSW32 not_CSW33 the_AT player_NN1 can_VM return_VVI to_II the_AT game_NN1 ;_; the_AT medical_JJ professional_JJ or_CC the_AT individual_NN1 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    0   15 These questions all serve a purpose in the ability and effectiveness of the effort to prevent and protect players from head injuries in sports .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    0   15 These_DD2 questions_NN2 all_DB serve_VV0 a_AT1 purpose_NN1 in_II the_AT ability_NN1 and_CC effectiveness_NN1 of_IO the_AT effort_NN1 to_TO prevent_VVI and_CC protect_VVI players_NN2 from_II head_NN1 injuries_NN2 in_II sports_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   16 Traumatic Brain Injuries , or TBI 's , are an everyday threat to players of all contact sports and can result in life changing affects , death , and complications in the future .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   16 Traumatic_JJ Brain_NN1 Injuries_NN2 ,_, or_CC TBI_NP1 's_GE ,_, are_VBR an_AT1 everyday_JJ threat_NN1 to_II players_NN2 of_IO all_DB contact_VV0 sports_NN2 and_CC can_VM result_VVI in_II life_NN1 changing_NN1@ affects_VVZ ,_, death_NN1 ,_, and_CC complications_NN2 in_II the_AT future_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   17 Concussions usually cause TBI 's .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   17 Concussions_NN2 usually_RR cause_VV0 TBI_NP1 's_GE ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   18 They occur with one fatal concussion or multiple concussions that result in a TBI or other brain injury in the future .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   18 They_PPHS2 occur_VV0 with_IW one_MC1 fatal_JJ concussion_NN1 or_CC multiple_JJ concussions_NN2 that_CST result_VV0 in_II a_AT1 TBI_NN1 or_CC other_JJ brain_NN1 injury_NN1 in_II the_AT future_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   19 ( Sahler ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   19 (_( Sahler_NP1@ )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   20 A concussion is the banging of the brain against the skull , or excessive movement causing confusion , headache , sometimes bleeding and other quandaries .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   20 A_AT1 concussion_NN1 is_VBZ the_AT banging_NN1@ of_IO the_AT brain_NN1 against_II the_AT skull_NN1 ,_, or_CC excessive_JJ movement_NN1 causing_VVG confusion_NN1 ,_, headache_NN1 ,_, sometimes_RT bleeding_VVG and_CC other_JJ quandaries_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   21 Concussions are a common injury in contact sports like football , hockey , and boxing where players travel at a fast pace and hit each other with great force .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   21 Concussions_NN2 are_VBR a_AT1 common_JJ injury_NN1 in_II contact_NN1 sports_NN2 like_II football_NN1 ,_, hockey_NN1 ,_, and_CC boxing_NN1 where_RRQ players_NN2 travel_VV0 at_II a_AT1 fast_JJ pace_NN1 and_CC hit_VVD each_PPX221 other_PPX222 with_IW great_JJ force_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   22 ( Sahler ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   22 (_( Sahler_NP1@ )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   23 Players must be careful of head injuries through out their career , middle school , high school , college , and professionals .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   23 Players_NN2 must_VM be_VBI careful_JJ of_IO head_NN1 injuries_NN2 through_II out_RP their_APPGE career_NN1 ,_, middle_JJ school_NN1 ,_, high_JJ school_NN1 ,_, college_NN1 ,_, and_CC professionals_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   24 Traumatic impacts to the head have led to deaths in high school football .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   24 Traumatic_JJ impacts_NN2 to_II the_AT head_NN1 have_VH0 led_VVN to_II deaths_NN2 in_II high_JJ school_NN1 football_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   25 In one case , a boy named Nathan Stiles was playing a high school football game and was roughed up but did not tell anyone that he had been feeling strange during the game .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   25 In_II one_MC1 case_NN1 ,_, a_AT1 boy_NN1 named_VVN Nathan_NP1 Stiles_NP1 was_VBDZ playing_VVG a_AT1 high_JJ school_NN1 football_NN1 game_NN1 and_CC was_VBDZ roughed_VVN up_RP but_CCB did_VDD not_XX tell_VVI anyone_PN1 that_CST he_PPHS1 had_VHD been_VBN feeling_VVG strange_JJ during_II the_AT game_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   26 The next day , and for four days after the game , Nathan began experiencing bad headaches and felt strange .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   26 The_AT next_MD day_NNT1 ,_, and_CC for_IF four_MC days_NNT2 after_II the_AT game_NN1 ,_, Nathan_NP1 began_VVD experiencing_VVG bad_JJ headaches_NN2 and_CC felt_VVD strange_JJ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   27 He eventually went to get checked out and was diagnosed with a concussion and ordered to sit out for a week .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   27 He_PPHS1 eventually_RR went_VVD to_TO get_VVI checked_VVN out_RP and_CC was_VBDZ diagnosed_VVN with_IW a_AT1 concussion_NN1 and_CC ordered_VVN to_TO sit_VVI out_RP for_IF a_AT1 week_NNT1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   28 When he went back to be checked the doctor recommended he sit out another week but he said he felt fine .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   28 When_CS he_PPHS1 went_VVD back_RP to_TO be_VBI checked_VVN the_AT doctor_NN1 recommended_VVD he_PPHS1 sit_VV0 out_RP another_DD1 week_NNT1 but_CCB he_PPHS1 said_VVD he_PPHS1 felt_VVD fine_JJ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   29 The next day he played in a game and dropped dead of a blood clot in his brain .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   29 The_AT next_MD day_NNT1 he_PPHS1 played_VVD in_II a_AT1 game_NN1 and_CC dropped_VVD dead_JJ of_IO a_AT1 blood_NN1 clot_NN1 in_II his_APPGE brain_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   30 ( Nathan Stiles ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   30 (_( Nathan_NP1 Stiles_NP1 )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   31 If he followed orders his brain may have healed and he may not have died .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   31 If_CS he_PPHS1 followed_VVD orders_NN2 his_APPGE brain_NN1 may_VM have_VHI healed_VVN and_CC he_PPHS1 may_VM not_XX have_VHI died_VVN@ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   32 Another high school football player named Zack Lystedt had a similar occurrence .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   32 Another_DD1 high_JJ school_NN1 football_NN1 player_NN1 named_VVD Zack_NP1 Lystedt_NP1 had_VHD a_AT1 similar_JJ occurrence_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   33 He was playing a game and hit his head hard but continued to play .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   33 He_PPHS1 was_VBDZ playing_VVG a_AT1 game_NN1 and_CC hit_VVD his_APPGE head_NN1 hard_RR but_CCB continued_VVD to_TO play_VVI ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   34 After the game his head suddenly started hurting him .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   34 After_CS the_AT game_NN1 his_APPGE head_NN1 suddenly_RR started_VVD hurting_VVG him_PPHO1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   35 ( cdc.gov ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   35 (_( cdc.gov_NNU )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   36 It progressively became worse , he fell to the ground and fell into a coma for 9 months .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   36 It_PPH1 progressively_RR became_VVD worse_JJR ,_, he_PPHS1 fell_VVD to_II the_AT ground_NN1 and_CC fell_VVD into_II a_AT1 coma_NN1 for_IF 9_MC months_NNT2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   37 His brain had bled and had prevented oxygen from reaching his brain .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   37 His_APPGE brain_NN1 had_VHD bled_VVN and_CC had_VHD prevented_VVN oxygen_NN1 from_II reaching_VVG his_APPGE brain_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   38 He is now mentally disabled for the rest of his life and has to relearn how to walk .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   38 He_PPHS1 is_VBZ now_RT mentally_RR disabled_VVN@ for_IF the_AT rest_NN1 of_IO his_APPGE life_NN1 and_CC has_VHZ to_TO relearn_VVI how_RRQ to_TO walk_VVI ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   39 ( Life Changed ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   39 (_( Life_NN1 Changed_VVN )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   40 The two boys suffered from secondary traumatic impact .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   40 The_AT two_MC boys_NN2 suffered_VVN from_II secondary_JJ traumatic_JJ impact_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   41 Secondary Traumatic Impact is when the brain is severally damaged as a result of an already injured , unhealed brain .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   41 Secondary_JJ Traumatic_JJ Impact_NN1 is_VBZ when_RRQ the_AT brain_NN1 is_VBZ severally_RR damaged_VVN as_II a_AT1 result_NN1 of_IO an_AT1 already_RR injured_VVN ,_, unhealed_JJ brain_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   42 The boys had injured their heads in a previous game , or earlier in the game , their brain was injured , their brains did not heal fully , they kept playing and their brains were severally injured as a result .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   42 The_AT boys_NN2 had_VHD injured_VVN their_APPGE heads_NN2 in_II a_AT1 previous_JJ game_NN1 ,_, or_CC earlier_RRR in_II the_AT game_NN1 ,_, their_APPGE brain_NN1 was_VBDZ injured_VVN ,_, their_APPGE brains_NN2 did_VDD not_XX heal_VVI fully_RR ,_, they_PPHS2 kept_VVD playing_VVG and_CC their_APPGE brains_NN2 were_VBDR severally_RR injured_VVN as_II a_AT1 result_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   43 How can we prevent this from occurring ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   43 How_RRQ can_VM we_PPIS2 prevent_VVI this_DD1 from_II occurring_VVG ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   44 Can we prevent players from playing even when they feel they are ready and healed ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   44 Can_VM we_PPIS2 prevent_VVI players_NN2 from_II playing_VVG even_CS21 when_CS22 they_PPHS2 feel_VV0 they_PPHS2 are_VBR ready_JJ and_CC healed_VVD ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    1   45 What precautions can we take that will prevent this from occurring ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    1   45 What_DDQ precautions_NN2 can_VM we_PPIS2 take_VVI that_DD1 will_VM prevent_VVI this_DD1 from_II occurring_VVG ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   46 Multiple head injuries and constant impact to the head may lead to major problems for athletes later in life .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   46 Multiple_JJ head_NN1 injuries_NN2 and_CC constant_JJ impact_NN1 to_II the_AT head_NN1 may_VM lead_VVI to_II major_JJ problems_NN2 for_IF athletes_NN2 later_RRR in_II life_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   47 There are many retired football players that complain of massive headaches , dementia , and depression .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   47 There_EX are_VBR many_DA2 retired_JJ football_NN1 players_NN2 that_CST complain_VV0 of_IO massive_JJ headaches_NN2 ,_, dementia_NN1 ,_, and_CC depression_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   48 ( OTL ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   48 (_( OTL_NP1 )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   49 A few have even committed suicide because of the pain and the way of life that had resulted from head injuries .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   49 A_AT1 few_DA2 have_VH0 even_RR committed_VVN suicide_NN1 because_II21 of_II22 the_AT pain_NN1 and_CC the_AT way_NN1 of_IO life_NN1 that_CST had_VHD resulted_VVN from_II head_NN1 injuries_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   50 Last year Junior Seau , a former all star football player , committed suicide by firing a bullet into his chest .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   50 Last_MD year_NNT1 Junior_JJ Seau_NN1 ,_, a_AT1 former_DA all_RR@ star_JJ@ football_NN1 player_NN1 ,_, committed_JJ suicide_NN1 by_II firing_VVG a_AT1 bullet_NN1 into_II his_APPGE chest_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   51 Many believe he chose the chest so his brain could be studied after his death .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   51 Many_DA2 believe_VV0 he_PPHS1 chose_VVD the_AT chest_NN1 so_CS@ his_APPGE brain_NN1 could_VM be_VBI studied_VVN after_II his_APPGE death_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   52 So many athletes have complained of this that researchers and scientists have begun examining and analyzing peoples brains who have died and donated their brains to science with a history of head trauma .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   52 So_RG many_DA2 athletes_NN2 have_VH0 complained_VVN of_IO this_DD1 that_CST researchers_NN2 and_CC scientists_NN2 have_VH0 begun_VVN examining_VVG and_CC analyzing_VVG peoples_NN2 brains_NN2 who_PNQS have_VH0 died_VVN and_CC donated_VVN their_APPGE brains_NN2 to_II science_NN1 with_IW a_AT1 history_NN1 of_IO head_NN1 trauma_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   53 What they found was a disease called CTE .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   53 What_DDQ they_PPHS2 found_VVD was_VBDZ a_AT1 disease_NN1 called_VVN CTE_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   54 Chronic Traumatic Encephalopathy is a progressive neurological degradation caused by repetitive brain trauma in a person .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   54 Chronic_JJ Traumatic_JJ Encephalopathy_NN1 is_VBZ a_AT1 progressive_JJ neurological_JJ degradation_NN1 caused_VVN by_II repetitive_JJ brain_NN1 trauma_NN1 in_II a_AT1 person_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   55 Repetitive brain trauma causes atrophy or the wasting away of various parts of the brain in CTE including the cerebral cortex , medial temporal lobe , and p-tau neurofibrillary tangles , a type of protein , through out the brain .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   55 Repetitive_JJ brain_NN1 trauma_NN1 causes_VVZ atrophy_NN1 or_CC the_AT wasting_VVG away_RL of_IO various_JJ parts_NN2 of_IO the_AT brain_NN1 in_II CTE_NP1 including_II the_AT cerebral_JJ cortex_NN1 ,_, medial_JJ temporal_JJ lobe_NN1 ,_, and_CC p-tau_JJ neurofibrillary_JJ tangles_NN2 ,_, a_AT1 type_NN1 of_IO protein_NN1 ,_, through_RP@ out_RP the_AT brain_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   56 ( Spectrum of Disease ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   56 (_( Spectrum_NN1 of_IO Disease_NN1 )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   57 When these proteins are defective and tangle , dementia will result .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   57 When_CS these_DD2 proteins_NN2 are_VBR defective_JJ and_CC tangle_NN1 ,_, dementia_NN1 will_VM result_VVI ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   58 With multiple hits and concussions to the brain , these tangles occur and inflammation of the brain persists .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   58 With_IW multiple_JJ hits_NN2 and_CC concussions_NN2 to_II the_AT brain_NN1 ,_, these_DD2 tangles_NN2 occur_VV0 and_CC inflammation_NN1 of_IO the_AT brain_NN1 persists_VVZ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   59 The symptoms of CTE include irritability , impulsivity , aggression , depression , short-term memory loss and heightened suicidality that usually begin 8 -- 10 years after experiencing repetitive mild traumatic brain injury .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   59 The_AT symptoms_NN2 of_IO CTE_NP1 include_VV0 irritability_NN1 ,_, impulsivity_NN1 ,_, aggression_NN1 ,_, depression_NN1 ,_, short-term_JJ memory_NN1 loss_NN1 and_CC heightened_JJ suicidality_NN1 that_CST usually_RR begin_VV0 8_MC --_JJ 10_MC years_NNT2 after_II experiencing_VVG repetitive_JJ mild_JJ traumatic_JJ brain_NN1 injury_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   60 This is a serious disease that is affecting many retired football players with a history of traumatic brain injuries .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   60 This_DD1 is_VBZ a_AT1 serious_JJ disease_NN1 that_CST is_VBZ affecting_VVG many_DA2 retired_JJ football_NN1 players_NN2 with_IW a_AT1 history_NN1 of_IO traumatic_JJ brain_NN1 injuries_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   61 Something must be done to prevent CTE from forming and affecting more players ' lives .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   61 Something_PN1 must_VM be_VBI done_VDN to_TO prevent_VVI CTE_NN1 from_II forming_VVG and_CC affecting_VVG more_DAR players_NN2 '_GE lives_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   62 ( Spectrum of Disease ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   62 (_( Spectrum_NN1 of_IO Disease_NN1 )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   63 Is there any way we can prevent this ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   63 Is_VBZ there_EX any_DD way_NN1 we_PPIS2 can_VM prevent_VVI this_DD1 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    2   64 Should rules be put in place to reduce the risk , such as not being allowed to hit above the shoulder ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    2   64 Should_VM rules_NN2 be_VBI put_VVN in_II place_NN1 to_TO reduce_VVI the_AT risk_NN1 ,_, such_II21 as_II22 not_XX being_VBG allowed_VVN to_TO hit_VVI above_II the_AT shoulder_NN1 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   65 The culture of the game has a great impact in all sports that pushes players to the limit , sometimes producing greater injury and injuries that will stay with players for the rest of their lives .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   65 The_AT culture_NN1 of_IO the_AT game_NN1 has_VHZ a_AT1 great_JJ impact_NN1 in_II all_DB sports_NN2 that_CST pushes_VVZ players_NN2 to_II the_AT limit_NN1 ,_, sometimes_RT producing_VVG greater_JJR injury_NN1 and_CC injuries_NN2 that_CST will_VM stay_VVI with_IW players_NN2 for_IF the_AT rest_NN1 of_IO their_APPGE lives_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   66 The culture of football for instance is all about sacrificing the body , physical and mental toughness , and playing through being hurt .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   66 The_AT culture_NN1 of_IO football_NN1 for_REX21 instance_REX22 is_VBZ all_DB about_II sacrificing_VVG the_AT body_NN1 ,_, physical_JJ and_CC mental_JJ toughness_NN1 ,_, and_CC playing_VVG through_II being_VBG hurt_VVN ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   67 When an individual first starts playing the game of football , one of the first things they will hear come out of their coaches ' mouth is that being hurt and being injured are two different things .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   67 When_CS an_AT1 individual_JJ first_MD starts_VVZ playing_VVG the_AT game_NN1 of_IO football_NN1 ,_, one_MC1 of_IO the_AT first_MD things_NN2 they_PPHS2 will_VM hear_VVI come_VV0 out_II21 of_II22 their_APPGE coaches_NN2 '_GE mouth_NN1 is_VBZ that_DD1 being_VBG hurt_VVN and_CC being_VBG injured_VVN are_VBR two_MC different_JJ things_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   68 ( Mellifont ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   68 (_( Mellifont_NP1@ )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   69 You can play through being hurt , but injuries are a different story .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   69 You_PPY can_VM play_VVI through_II being_VBG hurt_VVN ,_, but_CCB injuries_NN2 are_VBR a_AT1 different_JJ story_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   70 Coaches will yell at and push players convincing them that they can carry on and play through pain .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   70 Coaches_NN2 will_VM yell_VVI at_II and_CC push_VVI players_NN2 convincing_VVG@ them_PPHO2 that_CST they_PPHS2 can_VM carry_VVI on_RP and_CC play_VVI through_II pain_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   71 This gives young players the wrong idea .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   71 This_DD1 gives_VVZ young_JJ players_NN2 the_AT wrong_JJ idea_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   72 Players become frightened to admit something is wrong and ignore their bodies warning signals .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   72 Players_NN2 become_VV0 frightened_JJ to_TO admit_VVI something_PN1 is_VBZ wrong_JJ and_CC ignore_VVI their_APPGE bodies_NN2 warning_VVG@ signals_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   73 They try to fight through the pain just as their coaches say , sometimes even when it is excruciating .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   73 They_PPHS2 try_VV0 to_TO fight_VVI through_II the_AT pain_NN1 just_RR as_CSA their_APPGE coaches_NN2 say_VV0 ,_, sometimes_RT even_CS21 when_CS22 it_PPH1 is_VBZ excruciating_JJ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   74 Some coaches even tell their players not to go to the doctors if they get hurt , because they know they will have to sit out for a long period of time .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   74 Some_DD coaches_NN2 even_RR tell_VV0 their_APPGE players_NN2 not_XX to_TO go_VVI to_II the_AT doctors_NN2 if_CS they_PPHS2 get_VV0 hurt_JJ ,_, because_CS they_PPHS2 know_VV0 they_PPHS2 will_VM have_VHI to_TO sit_VVI out_RP for_IF a_AT1 long_JJ period_NN1 of_IO time_NNT1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   75 Is the culture of football and other sports causing greater problems and risk of serious injury ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   75 Is_VBZ the_AT culture_NN1 of_IO football_NN1 and_CC other_JJ sports_NN2 causing_VVG greater_JJR problems_NN2 and_CC risk_NN1 of_IO serious_JJ injury_NN1 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   76 How can we get coaches and staff on the same page as medical professionals and researchers ?
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   76 How_RRQ can_VM we_PPIS2 get_VVI coaches_NN2 and_CC staff_NN on_II the_AT same_DA page_NN1 as_CSA medical_JJ professionals_NN2 and_CC researchers_NN2 ?_?
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   77 Maybe coaches should have to take a class every year on the signs of concussion and other head injuries .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   77 Maybe_RR coaches_NN2 should_VM have_VHI to_TO take_VVI a_AT1 class_NN1 every_AT1 year_NNT1 on_II the_AT signs_NN2 of_IO concussion_NN1 and_CC other_JJ head_NN1 injuries_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   78 Maybe that will prevent further life threatening injuries .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   78 Maybe_RR that_DD1 will_VM prevent_VVI further_JJR@ life_NN1 threatening_VVG injuries_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   79 In other instances athletes are so dedicated and into the game that they refuse to sit out and try to play through the pain and injury .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   79 In_II other_JJ instances_NN2 athletes_NN2 are_VBR so_RG dedicated_JJ and_CC into_II the_AT game_NN1 that_CST they_PPHS2 refuse_VV0 to_TO sit_VVI out_RP and_CC try_VVI to_TO play_VVI through_II the_AT pain_NN1 and_CC injury_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   80 Many times they do n't even tell coaches or medical professionals about pain or problems they are having .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   80 Many_DA2 times_NNT2 they_PPHS2 do_VD0 n't_XX even_RR tell_VVI coaches_NN2 or_CC medical_JJ professionals_NN2 about_II pain_NN1 or_CC problems_NN2 they_PPHS2 are_VBR having_VHG ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   81 ( Mellifont ) .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   81 (_( Mellifont_NP1@ )_) ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   82 This is a major problem in all sports at all levels .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   82 This_DD1 is_VBZ a_AT1 major_JJ problem_NN1 in_II all_DB sports_NN2 at_II all_DB levels_NN2 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   83 This happened to me in High School .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   83 This_DD1 happened_VVD to_II@ me_PPIO1 in_II High_JJ School_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   84 In one of the first games of the season I broke my index finger while playing on the offensive line .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   84 In_II one_MC1 of_IO the_AT first_MD games_NN2 of_IO the_AT season_NNT1 I_PPIS1 broke_VVD my_APPGE index_NN1 finger_NN1 while_CS playing_VVG on_II the_AT offensive_JJ line_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   85 I loved the game of football and did not want to miss or sit out any of the games of my senior season , so I did n't get it checked out , I wrapped it up and continued to play .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   85 I_PPIS1 loved_VVD the_AT game_NN1 of_IO football_NN1 and_CC did_VDD not_XX want_VVI to_TO miss_VVI or_CC sit_VVI out_RP any_DD of_IO the_AT games_NN2 of_IO my_APPGE senior_JJ season_NNT1 ,_, so_CS@ I_PPIS1 did_VDD n't_XX get_VVI it_PPH1 checked_VVN out_RP ,_, I_PPIS1 wrapped_VVD it_PPH1 up_RP and_CC continued_VVD to_TO play_VVI ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   86 After the season I went to the doctor and found out I had chipped a piece of the bone and it had attached back onto the wrong place of my finger .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   86 After_CS the_AT season_NNT1 I_PPIS1 went_VVD to_II the_AT doctor_NN1 and_CC found_VVD out_RP I_PPIS1 had_VHD chipped_VVN a_AT1 piece_NN1 of_IO the_AT bone_NN1 and_CC it_PPH1 had_VHD attached_VVN back_RP onto_II the_AT wrong_JJ place_NN1 of_IO my_APPGE finger_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   87 There was no way I could fix it besides surgery , which is very expensive .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   87 There_EX was_VBDZ no_AT way_NN1 I_PPIS1 could_VM fix_VVI it_PPH1 besides_II surgery_NN1 ,_, which_DDQ is_VBZ very_RG expensive_JJ ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   88 And now I have an index finger that is huge and that I have very limited mobility with .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   88 And_CC now_RT I_PPIS1 have_VH0 an_AT1 index_NN1 finger_NN1 that_CST is_VBZ huge_JJ and_CC that_CST I_PPIS1 have_VH0 very_RG limited_VVN mobility_NN1 with_IW ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   89 My grip is terrible , it is hard to open things such as soda bottles and jars , and many times I unconsciously do n't even use it any more .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   89 My_APPGE grip_NN1 is_VBZ terrible_JJ ,_, it_PPH1 is_VBZ hard_JJ to_TO open_JJ things_NN2 such_II21 as_II22 soda_NN1 bottles_NN2 and_CC jars_NN2 ,_, and_CC many_DA2 times_NNT2 I_PPIS1 unconsciously_RR do_VD0 n't_XX even_RR use_VVI it_PPH1 any_DD more_DAR ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    3   90 Its like I am missing a finger .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    3   90 Its_APPGE like_JJ@ I_PPIS1 am_VBM missing_VVG a_AT1 finger_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    4   91 The culture of the game , coaches influence , players dedication , and careless precautions create problems in sports and have led to many fatal head injuries that could have been prevented .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    4   91 The_AT culture_NN1 of_IO the_AT game_NN1 ,_, coaches_NN2 influence_VV0 ,_, players_NN2 dedication_NN1 ,_, and_CC careless_JJ precautions_NN2 create_VV0 problems_NN2 in_II sports_NN2 and_CC have_VH0 led_VVN to_II many_DA2 fatal_JJ head_NN1 injuries_NN2 that_CST could_VM have_VHI been_VBN prevented_VVN ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    4   92 Deaths and problems later in life are resulting from traumatic brain injuries and it is very hard to prevent .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    4   92 Deaths_NN2 and_CC problems_NN2 later_RRR in_II life_NN1 are_VBR resulting_VVG from_II traumatic_JJ brain_NN1 injuries_NN2 and_CC it_PPH1 is_VBZ very_RG hard_JJ to_TO prevent_VVI ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    4   93 Sports are brutal ; players hit each other with an immense amount of energy , strength , and force .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    4   93 Sports_NN2 are_VBR brutal_JJ ;_; players_NN2 hit_VVD each_PPX221 other_PPX222 with_IW an_AT1 immense_JJ amount_NN1 of_IO energy_NN1 ,_, strength_NN1 ,_, and_CC force_NN1 ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    4   94 There is really no way to prevent head injuries from occurring .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    4   94 There_EX is_VBZ really_RR no_AT way_NN1 to_TO prevent_VVI head_NN1 injuries_NN2 from_II occurring_VVG ._.
+SENTPOS 2014_4_101_100_124_2 DRAFT A    4   94  Equipment is being upgraded , rules are being created , and better safety precautions are being put into affect , however , athletes will always be at risk of falling victim to these ailments .
+SENTPOS 2014_4_101_100_124_2 DRAFT B    4   94  Equipment_NN1 is_VBZ being_VBG upgraded_VVN ,_, rules_NN2 are_VBR being_VBG created_VVN ,_, and_CC better_JJR safety_NN1 precautions_NN2 are_VBR being_VBG put_VVN into_II affect_NN1 ,_, however_RR ,_, athletes_NN2 will_VM always_RR be_VBI at_II risk_NN1 of_IO falling_VVG victim_NN1 to_II these_DD2 ailments_NN2 ._.

@@ -1,0 +1,90 @@
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    0 On January 12 , 2010 a catastrophic earthquake hit the small island of Haiti .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    0 On_II January_NPM1 12_MC ,_, 2010_MC a_AT1 catastrophic_JJ earthquake_NN1 hit_VVD the_AT small_JJ island_NN1 of_IO Haiti_NP1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    1 The effects were astronomical , damage and death were exponential , and the entire country was down .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    1 The_AT effects_NN2 were_VBDR astronomical_JJ ,_, damage_NN1 and_CC death_NN1 were_VBDR exponential_NN1 ,_, and_CC the_AT entire_JJ country_NN1 was_VBDZ down_RP ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    2 Overall , this event goes down in Haitian history as a terrible experience for all .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    2 Overall_RR ,_, this_DD1 event_NN1 goes_VVZ down_RP in_II Haitian_JJ history_NN1 as_II a_AT1 terrible_JJ experience_NN1 for_IF all_DB ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    3 Journalists from all over the world reported the earthquake .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    3 Journalists_NN2 from_II all_RR over_II the_AT world_NN1 reported_VVD the_AT earthquake_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    4 One of which was Matthew McDermott .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    4 One_MC1 of_IO which_DDQ was_VBDZ Matthew_NP1 McDermott_NP1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    5 McDermott was present when two children were being rescued from a plethora of rubble , which had trapped the children in darkness for four days .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    5 McDermott_NP1 was_VBDZ present_JJ when_CS two_MC children_NN2 were_VBDR being_VBG rescued_VVN from_II a_AT1 plethora_NN1 of_IO rubble_NN1 ,_, which_DDQ had_VHD trapped_VVN the_AT children_NN2 in_II darkness_NN1 for_IF four_MC days_NNT2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    6 McDermott captured an amazing image that displays one child , Kiki , and his rescue .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    6 McDermott_NP1 captured_VVD an_AT1 amazing_JJ image_NN1 that_CST displays_VVZ one_MC1 child_NN1 ,_, Kiki_NP1 ,_, and_CC his_APPGE rescue_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    7 The photo shows Kiki 's ultimate happiness for finally seeing the light of day and being reunited with his mother .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    7 The_AT photo_NN1 shows_VVZ Kiki_NP1 's_GE ultimate_JJ happiness_NN1 for_IF finally_RR seeing_VVG the_AT light_NN1 of_IO day_NNT1 and_CC being_VBG reunited_VVN with_IW his_APPGE mother_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    8 The picture has Kiki in the center with his outstretched arms as workers pulled him from the rubble and into his mother 's arms .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    8 The_AT picture_NN1 has_VHZ Kiki_JJ in_II the_AT center_NN1 with_IW his_APPGE outstretched_JJ arms_NN2 as_CSA workers_NN2 pulled_VVD him_PPHO1 from_II the_AT rubble_NN1 and_CC into_II his_APPGE mother_NN1 's_GE arms_NN2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0    9 Around Kiki , are more workers with smiles and open arms signifying their happiness with the rescue 's success .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0    9 Around_II Kiki_NP1 ,_, are_VBR more_DAR workers_NN2 with_IW smiles_NN2 and_CC open_JJ arms_NN2 signifying_VVG their_APPGE happiness_NN1 with_IW the_AT rescue_NN1 's_GE success_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    0   10 Aside from solely Kiki 's happiness , this photograph ultimately emphasizes the theme of people helping people because it shows the overall rescue effort and joyful emotions during a time where joy happiness was a rarity .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    0   10 Aside_II21 from_II22 solely_RR Kiki_NP1 's_GE happiness_NN1 ,_, this_DD1 photograph_NN1 ultimately_RR emphasizes_VVZ the_AT theme_NN1 of_IO people_NN helping_VVG people_NN because_CS it_PPH1 shows_VVZ the_AT overall_JJ rescue_NN1 effort_NN1 and_CC joyful_JJ emotions_NN2 during_II a_AT1 time_NNT1 where_RRQ joy_NN1 happiness_NN1 was_VBDZ a_AT1 rarity_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   11 To say the rescue effort was difficult would be an understatement .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   11 To_TO say_VVI the_AT rescue_NN1 effort_NN1 was_VBDZ difficult_JJ would_VM be_VBI an_AT1 understatement_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   12 Kiki and the other child were buried under the debris of a 3-story grocery store .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   12 Kiki_NN2 and_CC the_AT other_JJ child_NN1 were_VBDR buried_VVN under_II the_AT debris_NN1 of_IO a_AT1 3-story_JJ grocery_NN1 store_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   13 In an article published by the New York Post , McDermott explains , " Some workers used saws and jackhammers ; others moved buckets full of debris off the mound of wreckage . "
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   13 In_II an_AT1 article_NN1 published_VVN by_II the_AT New_NP1 York_NP1 Post_NN1 ,_, McDermott_NP1 explains_VVZ ,_, "_" Some_DD workers_NN2 used_JJ saws_NN2 and_CC jackhammers_NN2 ;_; others_NN2 moved_VVD buckets_NN2 full_JJ of_IO debris_NN1 off_II the_AT mound_NN1 of_IO wreckage_NN1 ._. "_"
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   14 Throughout the photograph , you can see the immense amounts of dust on all of the worker 's clothing , work tools , and debris , all of which indicate the measures that had to be taken to retrieve the two children .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   14 Throughout_II the_AT photograph_NN1 ,_, you_PPY can_VM see_VVI the_AT immense_JJ amounts_NN2 of_IO dust_NN1 on_II all_DB of_IO the_AT worker_NN1 's_GE clothing_NN1 ,_, work_VV0 tools_NN2 ,_, and_CC debris_NN1 ,_, all_DB of_IO which_DDQ indicate_VV0 the_AT measures_NN2 that_CST had_VHD to_TO be_VBI taken_VVN to_TO retrieve_VVI the_AT two_MC children_NN2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   15 The concept of people helping people is emphasized here because the great workload was for two children that nobody knew .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   15 The_AT concept_NN1 of_IO people_NN helping_VVG people_NN is_VBZ emphasized_VVN here_RL because_CS the_AT great_JJ workload_NN1 was_VBDZ for_IF two_MC children_NN2 that_CST nobody_PN1 knew_VVD ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   16 We tend to be a secluded society as we only directly help ourselves or and family and indirectly help people we do n't know through anonymous donations .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   16 We_PPIS2 tend_VV0 to_TO be_VBI a_AT1 secluded_JJ society_NN1 as_CSA we_PPIS2 only_RR directly_RR help_VV0 ourselves_PPX2 or_CC and_CC family_NN1 and_CC indirectly_RR help_VV0 people_NN we_PPIS2 do_VD0 n't_XX know_VVI through_II anonymous_JJ donations_NN2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    1   17 Here , we see workers from near and far coming to directly help two children and their mother that in no way are associated with the workers .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    1   17 Here_RL ,_, we_PPIS2 see_VV0 workers_NN2 from_II near_RL and_CC far_RR coming_VVG to_TO directly_RR help_VVI two_MC children_NN2 and_CC their_APPGE mother_NN1 that_CST in_II no_AT way_NN1 are_VBR associated_VVN with_IW the_AT workers_NN2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   18 Emotional expression is most common when we share it are among people we know .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   18 Emotional_JJ expression_NN1 is_VBZ most_RGT common_JJ when_CS we_PPIS2 share_VV0 it_PPH1 are_VBR among_II people_NN we_PPIS2 know_VV0 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   19 We express our happiness when we have succeeded and our sadness when things do n't play out in our favor .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   19 We_PPIS2 express_VV0 our_APPGE happiness_NN1 when_CS we_PPIS2 have_VH0 succeeded_VVN and_CC our_APPGE sadness_NN1 when_RRQ things_NN2 do_VD0 n't_XX play_VVI out_RP in_II our_APPGE favor_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   20 No matter the feeling , we feel the same emotion together when experiencing a common situation .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   20 No_UH matter_VV0 the_AT feeling_NN1 ,_, we_PPIS2 feel_VV0 the_AT same_DA emotion_NN1 together_RL when_CS experiencing_VVG a_AT1 common_JJ situation_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   21 The photograph encompasses a variety of people ; all of who do n't know each other , yet with a collective feeling- this is utter joy .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   21 The_AT photograph_NN1 encompasses_VVZ a_AT1 variety_NN1 of_IO people_NN ;_; all_DB of_IO who_PNQS do_VD0 n't_XX know_VVI each_PPX221 other_PPX222 ,_, yet_RR with_IW a_AT1 collective_JJ feeling-_NN1 this_DD1 is_VBZ utter_JJ joy_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   22 The main focus of the photo shows Kiki , with an iconic grin from ear to ear and arms wide open expressing his joy to be alive and out of the darkness .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   22 The_AT main_JJ focus_NN1 of_IO the_AT photo_NN1 shows_VVZ Kiki_NP1 ,_, with_IW an_AT1 iconic_JJ grin_NN1 from_II ear_NN1 to_II ear_NN1 and_CC arms_NN2 wide_RR open_JJ expressing_VVG his_APPGE joy_NN1 to_TO be_VBI alive_JJ and_CC out_II21 of_II22 the_AT darkness_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   23 McDermott says , " Kiki 's smile will live with me forever " as it really did express how happy he was with being alive .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   23 McDermott_NP1 says_VVZ ,_, "_" Kiki_NP1 's_GE smile_NN1 will_VM live_VVI with_IW me_PPIO1 forever_RT "_" as_CSA it_PPH1 really_RR did_VDD express_VVI how_RGQ@ happy_JJ he_PPHS1 was_VBDZ with_IW being_VBG alive_JJ ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   24 However , there are more people present than just Kiki .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   24 However_RR ,_, there_EX are_VBR more_DAR people_NN present_JJ than_CSN just_RR Kiki_JJ ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   25 Pan over to the worker on the upper left .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   25 Pan_VV0@ over_RP to_II the_AT worker_NN1 on_II the_AT upper_JJ left_JJ ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   26 This man is tall , with outstretched arms just like Kiki .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   26 This_DD1 man_NN1 is_VBZ tall_JJ ,_, with_IW outstretched_JJ arms_NN2 just_RR like_II Kiki_NP1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   27 The worker and Kiki have never met before ; yet have the exact same emotional reaction to the success of the rescue mission .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   27 The_AT worker_NN1 and_CC Kiki_NP1 have_VH0 never_RR met_VVN before_RT@ ;_; yet_RR have_VH0 the_AT exact_JJ same_DA emotional_JJ reaction_NN1 to_II the_AT success_NN1 of_IO the_AT rescue_NN1 mission_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   28 The workers would n't be affected if Kiki had n't been rescued from the rubble .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   28 The_AT workers_NN2 would_VM n't_XX be_VBI affected_VVN if_CS Kiki_NP1 had_VHD n't_XX been_VBN rescued_VVN from_II the_AT rubble_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   29 They would continue with their normal lives and think nothing of it .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   29 They_PPHS2 would_VM continue_VVI with_IW their_APPGE normal_JJ lives_NN2 and_CC think_VVI nothing_PN1 of_IO it_PPH1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   30 However , this group of workers came together to save this young boy and all were as ecstatic as Kiki when he was brought out .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   30 However_RR ,_, this_DD1 group_NN1 of_IO workers_NN2 came_VVD together_RL to_TO save_VVI this_DD1 young_JJ boy_NN1 and_CC all_DB were_VBDR as_RG ecstatic_JJ as_CSA Kiki_JJ when_CS he_PPHS1 was_VBDZ brought_VVN out_RP ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   31 The emotional aspects present in the photograph suggest that coming together as a community is n't solely about work effort in a rescue mission .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   31 The_AT emotional_JJ aspects_NN2 present_VV0@ in_II the_AT photograph_NN1 suggest_VV0 that_CST coming_VVG together_RL as_II a_AT1 community_NN1 is_VBZ n't_XX solely_RR about_II work_NN1 effort_NN1 in_II a_AT1 rescue_NN1 mission_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   32 The emotional expression connects everyone , from little Kiki to the random worker camouflaged in the back ; they are all joyous and thankful for Kiki being saved .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   32 The_AT emotional_JJ expression_NN1 connects_VVZ everyone_PN1 ,_, from_II little_JJ Kiki_NN1 to_II the_AT random_JJ worker_NN1 camouflaged_VVD in_II the_AT back_NN1 ;_; they_PPHS2 are_VBR all_DB joyous_JJ and_CC thankful_JJ for_IF Kiki_NN1 being_VBG saved_VVN ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   33 The happy emotion can also be considered as a silver lining to the terrible event .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   33 The_AT happy_JJ emotion_NN1 can_VM also_RR be_VBI considered_VVN as_II a_AT1 silver_NN1 lining_VVG to_II the_AT terrible_JJ event_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   34 With a simple search on Google , you can see that the earthquake in Haiti was in no means an event that would spark a bit of happiness .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   34 With_IW a_AT1 simple_JJ search_NN1 on_II Google_NP1 ,_, you_PPY can_VM see_VVI that_CST the_AT earthquake_NN1 in_II Haiti_NP1 was_VBDZ in_II no_AT means_NN an_AT1 event_NN1 that_CST would_VM spark_VVI a_AT1 bit_NN1 of_IO happiness_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   35 Over 230,000 people were killed along with the destruction of homes , schools , and work places .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   35 Over_RG 230,000_MC people_NN were_VBDR killed_VVN along_II21 with_II22 the_AT destruction_NN1 of_IO homes_NN2 ,_, schools_NN2 ,_, and_CC work_VV0 places_NN2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   36 Yet despite all of the sadness and utter despair the Haitians were experiencing , McDermott managed to photograph the silver lining to it all .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   36 Yet_RR despite_II all_DB of_IO the_AT sadness_NN1 and_CC utter_JJ despair_NN1 the_AT Haitians_NN2 were_VBDR experiencing_VVG ,_, McDermott_NP1 managed_VVD to_TO photograph_VVI the_AT silver_NN1 lining_VVG to_II it_PPH1 all_DB ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    2   37 With the connection of these random workers , a young boy was reunited with his family and just for a moment , everyone was happy .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    2   37 With_IW the_AT connection_NN1 of_IO these_DD2 random_JJ workers_NN2 ,_, a_AT1 young_JJ boy_NN1 was_VBDZ reunited_VVN with_IW his_APPGE family_NN1 and_CC just_RR for_IF a_AT1 moment_NN1 ,_, everyone_PN1 was_VBDZ happy_JJ ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   38 This photograph has more to show than what appears to the eye .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   38 This_DD1 photograph_NN1 has_VHZ more_DAR to_TO show_VVI than_CSN what_DDQ appears_VVZ to_II the_AT eye_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   39 At an initial glance , the photograph focuses on the rescuing of a little boy .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   39 At_II an_AT1 initial_JJ glance_NN1 ,_, the_AT photograph_NN1 focuses_VVZ on_II the_AT rescuing_NN1% of_IO a_AT1 little_JJ boy_NN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   40 However , by looking past the center , the viewer can see that the photograph is comprised of fellow workers all as happy as Kiki .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   40 However_RR ,_, by_II looking_VVG past_II the_AT center_NN1 ,_, the_AT viewer_NN1 can_VM see_VVI that_CST the_AT photograph_NN1 is_VBZ comprised_VVN of_IO fellow_JJ workers_NN2 all_DB as_RG happy_JJ as_CSA Kiki_NP1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   41 By looking at the success in lending a helping hand to a stranger , we feel the sense of community among humans .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   41 By_II looking_VVG at_II the_AT success_NN1 in_II lending_VVG a_AT1 helping_NN1 hand_NN1 to_II a_AT1 stranger_NN1 ,_, we_PPIS2 feel_VV0 the_AT sense_NN1 of_IO community_NN1 among_II humans_NN2 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   42 This is a rare thing to see as we tend to think of community as a joining of people with a commonality whether it is race , religion , etc .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   42 This_DD1 is_VBZ a_AT1 rare_JJ thing_NN1 to_TO see_VVI as_CSA we_PPIS2 tend_VV0 to_TO think_VVI of_IO community_NN1 as_II a_AT1 joining_NN1@ of_IO people_NN with_IW a_AT1 commonality_NN1 whether_CSW it_PPH1 is_VBZ race_NN1 ,_, religion_NN1 ,_, etc_RA ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   43 The photo suggests that we , with the common trait of simply being human , should lend out a physical helping hand to everyone .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   43 The_AT photo_NN1 suggests_VVZ that_CST we_PPIS2 ,_, with_IW the_AT common_JJ trait_NN1 of_IO simply_RR being_VBG human_JJ ,_, should_VM lend_VVI out_RP a_AT1 physical_JJ helping_NN1 hand_NN1 to_II everyone_PN1 ._.
+SENTPOS 2014_4_101_300_321_2 DRAFT A    3   43  One can only hope that our communal gathering could bring the happiness Kiki and the workers felt that January night .
+SENTPOS 2014_4_101_300_321_2 DRAFT B    3   43  One_PN1 can_VM only_RR hope_VVI that_CST our_APPGE communal_JJ gathering_NN1 could_VM bring_VVI the_AT happiness_NN1 Kiki_NN1 and_CC the_AT workers_NN2 felt_VVD that_CST January_NPM1 night_NNT1 ._.

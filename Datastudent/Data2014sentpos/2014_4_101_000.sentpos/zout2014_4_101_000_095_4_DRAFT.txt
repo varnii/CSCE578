@@ -1,0 +1,88 @@
+SENTPOS 2014_4_101_000_095_4 DRAFT A    0    0 Death , nowadays is never really thought of as such a big thing as long it does n't happen to you or someone you love .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    0    0 Death_NN1 ,_, nowadays_RT is_VBZ never_RR really_RR thought_VVN of_IO as_RG@ such_DA a_AT1 big_JJ thing_NN1 as_CSA long_RR it_PPH1 does_VDZ n't_XX happen_VVI to_II@ you_PPY or_CC someone_PN1 you_PPY love_VV0 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    0    1 Even a friend leaving this plane or shuffling off the mortal coil is no longer delt with as such a big deal .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    0    1 Even_RR a_AT1 friend_NN1 leaving_VVG this_DD1 plane_NN1 or_CC shuffling_NN1 off_II the_AT mortal_JJ coil_NN1 is_VBZ no_RR21 longer_RR22 delt_VV0 with_IW as_RG@ such_DA a_AT1 big_JJ deal_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    0    2 We as a people have become desensitized to the gore due to many things from games to movies , but two pieces of literature show both views of death .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    0    2 We_PPIS2 as_CSA a_AT1 people_NN have_VH0 become_VVN@ desensitized_VVD to_II the_AT gore_NN1 due_II21 to_II22 many_DA2 things_NN2 from_II games_NN2 to_II movies_NN2 ,_, but_CCB two_MC pieces_NN2 of_IO literature_NN1 show_NN1 both_DB2 views_NN2 of_IO death_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    0    3 The first , " The videotape " by Don Delillo , shows the view of a desensitized individual seeing death over and over again .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    0    3 The_AT first_MD ,_, "_" The_AT videotape_NN1 "_" by_II Don_NP1 Delillo_NP1 ,_, shows_VVZ the_AT view_NN1 of_IO a_AT1 desensitized_JJ@ individual_NN1 seeing_VVG death_NN1 over_RP and_CC over_RP again_RT ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    0    4 The second piece is " The Things They Carried " by Tim O'Brian which deals with death in the utmost gory detail and show the view as if you were there in the novel seeing the blood stain your shoes .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    0    4 The_AT second_MD piece_NN1 is_VBZ "_" The_AT Things_NN2 They_PPHS2 Carried_VVD "_" by_II Tim_NP1 O'Brian_NP1 which_DDQ deals_VVZ with_IW death_NN1 in_II the_AT utmost_JJ gory_JJ detail_NN1 and_CC show_VV0 the_AT view_NN1 as_CS21 if_CS22 you_PPY were_VBDR there_RL in_II the_AT novel_NN1 seeing_VVG the_AT blood_NN1 stain_VVI your_APPGE shoes_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    0    5 Both of these stories share an underlying story but they both show enough differences to show up as contrasting views .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    0    5 Both_DB2 of_IO these_DD2 stories_NN2 share_VV0 an_AT1 underlying_JJ story_NN1 but_CCB they_PPHS2 both_DB2 show_VV0 enough_DD differences_NN2 to_TO show_VVI up_RP as_RG@ contrasting_JJ views_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1    6 The first story by Don Delillo view death as a morbid thing but the more that you are around it the less you begin to feel .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1    6 The_AT first_MD story_NN1 by_II Don_NP1 Delillo_NP1 view_NN1 death_NN1 as_II a_AT1 morbid_JJ thing_NN1 but_CCB the_AT more_RRR that_CST you_PPY are_VBR around_II it_PPH1 the_AT less_RGR you_PPY begin_VV0 to_TO feel_VVI ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1    7 In this passage he shows this deadening of emotion ; " You are looking into the mind of home video .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1    7 In_II this_DD1 passage_NN1 he_PPHS1 shows_VVZ this_DD1 deadening_NN1@ of_IO emotion_NN1 ;_; "_" You_PPY are_VBR looking_VVG into_II the_AT mind_NN1 of_IO home_NN1 video_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1    8 It is innocent , it is aimless , it is determined , it is real .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1    8 It_PPH1 is_VBZ innocent_JJ ,_, it_PPH1 is_VBZ aimless_JJ ,_, it_PPH1 is_VBZ determined_VVN ,_, it_PPH1 is_VBZ real_JJ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1    9 He is bald up the middle of his head , a nice guy in his forties whose whole life seems open to the handheld camera .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1    9 He_PPHS1 is_VBZ bald_JJ up_II the_AT middle_NN1 of_IO his_APPGE head_NN1 ,_, a_AT1 nice_JJ guy_NN1 in_II his_APPGE forties_MC2 whose_DDQGE whole_JJ life_NN1 seems_VVZ open_JJ to_II the_AT handheld_JJ camera_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   10 But there is also an element of suspense .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   10 But_CCB there_EX is_VBZ also_RR an_AT1 element_NN1 of_IO suspense_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   11 You keep on looking not because you know something is going to happen---of course you do know something is going to happen and you do look for that reason but you might also keep on looking if you came across this footage for the first time without knowing the out- come .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   11 You_PPY keep_VV0 on_RP looking_VVG not_XX because_CS you_PPY know_VV0 something_PN1 is_VBZ going_VVG to_II happen---of_NN1 course_NN1 you_PPY do_VD0 know_VVI something_PN1 is_VBZ going_VVGK to_TO happen_VVI and_CC you_PPY do_VD0 look_VVI for_IF that_DD1 reason_NN1 but_CCB you_PPY might_VM also_RR keep_VVI on_RP looking_VVG if_CS you_PPY came_VVD across_II this_DD1 footage_NN1 for_IF the_AT first_MD time_NNT1 without_IW knowing_VVG the_AT out-_NN1 come_VV0 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   12 There is a crude power operating here . "
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   12 There_EX is_VBZ a_AT1 crude_JJ power_NN1 operating_VVG here_RL ._. "_"
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   13 ( Delillo 15 ) The person holding the camera is witnessing a somber scene such as death but is unfeeling .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   13 (_( Delillo_NN1 15_MC )_) The_AT person_NN1 holding_VVG the_AT camera_NN1 is_VBZ witnessing_VVG a_AT1 somber_JJ scene_NN1 such_II21 as_II22 death_NN1 but_CCB is_VBZ unfeeling_JJ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   14 Delillo it seems is trying to put across a message of numbness to the audience .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   14 Delillo_NN1 it_PPH1 seems_VVZ is_VBZ trying_VVG to_TO put_VVI across_II a_AT1 message_NN1 of_IO numbness_NN1 to_II the_AT audience_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   15 He does n't focus on the event that is going to happen but more on the suspense .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   15 He_PPHS1 does_VDZ n't_XX focus_VVI on_II the_AT event_NN1 that_CST is_VBZ going_VVGK to_TO happen_VVI but_CCB more_RRR on_II the_AT suspense_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    1   16 This shows how the author is preparing the audience for death but not making it seem so real .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    1   16 This_DD1 shows_VVZ how_RRQ the_AT author_NN1 is_VBZ preparing_VVG the_AT audience_NN1 for_IF death_NN1 but_CCB not_XX making_VVG it_PPH1 seem_VVI so_RG real_JJ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   17 On a contrasting note Tim O'Brian uses his gory detail to make the reader feel as though they are right there .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   17 On_II a_AT1 contrasting_JJ note_NN1 Tim_NP1 O'Brian_NP1 uses_VVZ his_APPGE gory_JJ detail_NN1 to_TO make_VVI the_AT reader_NN1 feel_VVI as_CS21 though_CS22 they_PPHS2 are_VBR right_RR there_RL ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   18 O'Brian shows that in this passage , " He was a slim , dead , almost dainty young man of about twenty .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   18 O'Brian_NP1 shows_VVZ that_CST in_II this_DD1 passage_NN1 ,_, "_" He_PPHS1 was_VBDZ a_AT1 slim_JJ ,_, dead_JJ ,_, almost_RR dainty_JJ young_JJ man_NN1 of_IO about_RG twenty_MC ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   19 He lay with one leg bent beneath him , his jaw in his throat , his face neither expressive nor inexpressive .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   19 He_PPHS1 lay_VVD with_IW one_MC1 leg_NN1 bent_VVN beneath_II him_PPHO1 ,_, his_APPGE jaw_NN1 in_II his_APPGE throat_NN1 ,_, his_APPGE face_NN1 neither_RR expressive_JJ nor_CC inexpressive_JJ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   20 One eye was shut .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   20 One_MC1 eye_NN1 was_VBDZ shut_VVN ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   21 The other was a star-shaped hole . "
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   21 The_AT other_NN1@ was_VBDZ a_AT1 star-shaped_JJ hole_NN1 ._. "_"
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   22 This make the reader seems as though they are standing over this dead body peering into what was once a man and trying to figure out what shape the bullet that went through his eye made .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   22 This_DD1 make_VV0 the_AT reader_NN1 seems_VVZ as_CS21 though_CS22 they_PPHS2 are_VBR standing_VVG over_II this_DD1 dead_JJ body_NN1 peering_VVG into_II what_DDQ was_VBDZ once_RR a_AT1 man_NN1 and_CC trying_VVG to_TO figure_VVI out_RP what_DDQ shape_NN1 the_AT bullet_NN1 that_CST went_VVD through_II his_APPGE eye_NN1 made_VVD ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   23 Maybe we are standing here thinking about how far the bullet traveled before it killed him , or even what speed it was to make the blood splatter just so .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   23 Maybe_RR we_PPIS2 are_VBR standing_VVG here_RL thinking_VVG about_II how_RGQ@ far_RR the_AT bullet_NN1 traveled_VVD before_CS it_PPH1 killed_VVD him_PPHO1 ,_, or_CC even_RR what_DDQ speed_VV0@ it_PPH1 was_VBDZ to_TO make_VVI the_AT blood_NN1 splatter_NN1 just_RR so_RR ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   24 In any case O'Brian uses his prose to rope the audience in to make you feel not just because he wants you to , but because you want to .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   24 In_II any_DD case_NN1 O'Brian_NP1 uses_VVZ his_APPGE prose_NN1 to_II rope_NN1 the_AT audience_NN1 in_RP@ to_TO make_VVI you_PPY feel_VVI not_XX just_RR because_CS he_PPHS1 wants_VVZ you_PPY to_TO ,_, but_CCB because_CS you_PPY want_VV0 to_TO ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   25 He does this because the writer 's job is not just to make you feel but also to make you want to keep reading .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   25 He_PPHS1 does_VDZ this_DD1 because_CS the_AT writer_NN1 's_GE job_NN1 is_VBZ not_XX just_RR to_TO make_VVI you_PPY feel_VVI but_CCB also_RR to_TO make_VVI you_PPY want_VVI to_TO keep_VVI reading_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    2   26 That is why he continues to use as much gory detail as possible to keep the readers interested .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    2   26 That_DD1 is_VBZ why_RRQ he_PPHS1 continues_VVZ to_TO use_VVI as_RG much_DA1 gory_JJ detail_NN1 as_CSA possible_JJ to_TO keep_VVI the_AT readers_NN2 interested_VVD@ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   27 Although the two works differ from each other there are some comparisons that can be made .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   27 Although_CS the_AT two_MC works_NN differ_VV0 from_II each_PPX221 other_PPX222 there_RL are_VBR some_DD comparisons_NN2 that_CST can_VM be_VBI made_VVN ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   28 First starting with O'Brian , he also uses some blunt imagery for death , same as Dellilo .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   28 First_MD starting_NN1 with_IW O'Brian_NP1 ,_, he_PPHS1 also_RR uses_VVZ some_DD blunt_JJ imagery_NN1 for_IF death_NN1 ,_, same_DA as_CSA Dellilo_NP1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   29 O'Brian writes , " They used a hard vocabulary to contain the terrible softness .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   29 O'Brian_NP1 writes_VVZ ,_, "_" They_PPHS2 used_VVD a_AT1 hard_JJ vocabulary_NN1 to_TO contain_VVI the_AT terrible_JJ softness_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   30 Greased they 'd say .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   30 Greased_JJ they_PPHS2 'd_VM say_VVI ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   31 Offed , lit up , zapped while zipping .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   31 Offed_NP1@ ,_, lit_VVD up_RP ,_, zapped_VVD while_CS zipping_VVG ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   32 It was n't cruelty , just stage presence .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   32 It_PPH1 was_VBDZ n't_XX cruelty_NN1 ,_, just_JJ@ stage_NN1 presence_NN1 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   33 They were actors .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   33 They_PPHS2 were_VBDR actors_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   34 When someone died , it was n't quite dying , because in a curious way , it seemed scripted , and because they had their lines mostly memorized , irony mixed with tragedy , and because they called it by other names , as if to encyst and destroy the reality of life itself . "
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   34 When_CS someone_PN1 died_VVD ,_, it_PPH1 was_VBDZ n't_XX quite_RG dying_JJ ,_, because_CS in_II a_AT1 curious_JJ way_NN1 ,_, it_PPH1 seemed_VVD scripted_JJ@ ,_, and_CC because_CS they_PPHS2 had_VHD their_APPGE lines_NN2 mostly_RR memorized_VVN ,_, irony_NN1 mixed_VVN with_IW tragedy_NN1 ,_, and_CC because_CS they_PPHS2 called_VVD@ it_PPH1 by_II other_JJ names_NN2 ,_, as_CS21 if_CS22 to_TO encyst_VVI and_CC destroy_VVI the_AT reality_NN1 of_IO life_NN1 itself_PPX1 ._. "_"
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   35 Even though O'Brian 's basic principle is to drag the reader in and destroy the feelings of the audience to do that he needs times like this quote to reel the reader in .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   35 Even_CS21 though_CS22 O'Brian_NP1 's_GE basic_JJ principle_NN1 is_VBZ to_TO drag_VVI the_AT reader_NN1 in_II and_CC destroy_VVI the_AT feelings_NN2 of_IO the_AT audience_NN1 to_TO do_VDI that_DD1@ he_PPHS1 needs_VVZ times_NNT2 like_II this_DD1 quote_NN1 to_TO reel_VVI the_AT reader_NN1 in_RP@ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   36 It is the same with Delillo only he uses this blunt writing style not to draw readers in , but to make them think about what they just read .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   36 It_PPH1 is_VBZ the_AT same_DA with_IW Delillo_NP1 only_RR he_PPHS1 uses_VVZ this_DD1 blunt_JJ writing_NN1 style_NN1 not_XX to_TO draw_VVI readers_NN2 in_RP@ ,_, but_CCB to_TO make_VVI them_PPHO2 think_VVI about_II what_DDQ they_PPHS2 just_RR read_VVN ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    3   37 Nevertheless readers keep picking up both authors for the comparing and contrasting views .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    3   37 Nevertheless_RR readers_NN2 keep_VV0 picking_VVG up_RP both_DB2 authors_NN2 for_IF the_AT comparing_VVG and_CC contrasting_JJ views_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    4   38 Both authors show examples that they show death in different ways .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    4   38 Both_DB2 authors_NN2 show_VV0 examples_NN2 that_CST they_PPHS2 show_VV0 death_NN1 in_II different_JJ ways_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    4   39 Although both Authors do this they also show examples of being able to work comparatively .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    4   39 Although_CS both_DB2 Authors_NN2 do_VD0 this_DD1 they_PPHS2 also_RR show_VV0 examples_NN2 of_IO being_VBG able_JK to_TO work_VVI comparatively_RR ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    4   40 Delillo writing are usually blunt and neutered to bring in the reader and make them think about what they are reading about .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    4   40 Delillo_NN1 writing_NN1 are_VBR usually_RR blunt_JJ and_CC neutered_VVD to_TO bring_VVI in_RP the_AT reader_NN1 and_CC make_VVI them_PPHO2 think_VVI about_II what_DDQ they_PPHS2 are_VBR reading_VVG about_RP@ ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    4   41 On the contrary to that O'Brian shows both views to both show the hindrance of putting things bluntly and the acceptance of the gore and death in his novels .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    4   41 On_II the_AT contrary_II21 to_II22 that_DD1 O'Brian_NP1 shows_VVZ both_RR views_VVZ@ to_II both_DB2 show_VV0 the_AT hindrance_NN1 of_IO putting_VVG things_NN2 bluntly_RR and_CC the_AT acceptance_NN1 of_IO the_AT gore_NN1 and_CC death_NN1 in_II his_APPGE novels_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    4   42 Both authors sometimes use the numbed version to show tranquility in their pieces .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    4   42 Both_DB2 authors_NN2 sometimes_RT use_VV0 the_AT numbed_JJ version_NN1 to_TO show_VVI tranquility_NN1 in_II their_APPGE pieces_NN2 ._.
+SENTPOS 2014_4_101_000_095_4 DRAFT A    4   42  This is how these authors write and weave together their pieces to create views of death .
+SENTPOS 2014_4_101_000_095_4 DRAFT B    4   42  This_DD1 is_VBZ how_RRQ these_DD2 authors_NN2 write_VV0 and_CC weave_VV0@ together_RL their_APPGE pieces_NN2 to_TO create_VVI views_NN2 of_IO death_NN1 ._.

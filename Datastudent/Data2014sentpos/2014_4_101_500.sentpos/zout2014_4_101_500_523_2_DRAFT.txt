@@ -1,0 +1,90 @@
+SENTPOS 2014_4_101_500_523_2 DRAFT A    0    0 Prisons are made to obtain guilty people and make them better .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    0    0 Prisons_NN2 are_VBR made_VVN to_TO obtain_VVI guilty_JJ people_NN and_CC make_VVI them_PPHO2 better_RRR ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    0    1 They simply give them another chance to improve their selves throughout the years they are determined to spend in there .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    0    1 They_PPHS2 simply_RR give_VV0 them_PPHO2 another_DD1 chance_NN1 to_TO improve_VVI their_APPGE selves_NN2 throughout_II the_AT years_NNT2 they_PPHS2 are_VBR determined_VVN to_TO spend_VVI in_II there_RL ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    0    2 The image is a photo taken in 1905 in New York City .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    0    2 The_AT image_NN1 is_VBZ a_AT1 photo_NN1 taken_VVN in_II 1905_MC in_II New_NP1 York_NP1 City_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    0    3 It is a pretty much broad picture , but its main focus is on The Tombs Prison .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    0    3 It_PPH1 is_VBZ a_AT1 pretty_RG much_DA1 broad_JJ picture_NN1 ,_, but_CCB its_APPGE main_JJ focus_NN1 is_VBZ on_II The_AT Tombs_NN2 Prison_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    0    4 But it also involves the street in front of it , including the citizens and some other buildings .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    0    4 But_CCB it_PPH1 also_RR involves_VVZ the_AT street_NN1 in_II31 front_II32 of_II33 it_PPH1 ,_, including_II the_AT citizens_NN2 and_CC some_DD other_JJ buildings_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1    5 For so many decades , New York City has been known as one of the most significant architectural cities the world has ever seen .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1    5 For_IF so_RG many_DA2 decades_NNT2 ,_, New_NP1 York_NP1 City_NN1 has_VHZ been_VBN known_VVN as_II one_MC1 of_IO the_AT most_RGT significant_JJ architectural_JJ cities_NN2 the_AT world_NN1 has_VHZ ever_RR seen_VVN ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1    6 Everybody has seen the skyscrapers in television at least once in their life .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1    6 Everybody_PN1 has_VHZ seen_VVN the_AT skyscrapers_NN2 in_II television_NN1 at_RR21 least_RR22 once_RR in_II their_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1    7 Even a hundred years back its buildings impress our minds .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1    7 Even_RR a_AT1 hundred_NNO years_NNT2 back_RP its_APPGE buildings_NN2 impress_VV0 our_APPGE minds_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1    8 The Tombs prison is a great example of the early stages of architecture in New York .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1    8 The_AT Tombs_NN2 prison_NN1 is_VBZ a_AT1 great_JJ example_NN1 of_IO the_AT early_JJ stages_NN2 of_IO architecture_NN1 in_II New_NP1 York_NP1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1    9 The way its north and south side are built to form the shapes of half circles .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1    9 The_AT way_NN1 its_APPGE north_ND1 and_CC south_ND1 side_NN1 are_VBR built_VVN to_TO form_VVI the_AT shapes_NN2 of_IO half_DB circles_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   10 The idea of the dome is somewhat taken from the shape of domes in churches .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   10 The_AT idea_NN1 of_IO the_AT dome_NN1 is_VBZ somewhat_RR taken_VVN from_II the_AT shape_NN1 of_IO domes_NN2 in_II churches_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   11 It is the only building in the picture that does n't look a hundred years old .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   11 It_PPH1 is_VBZ the_AT only_JJ building_NN1 in_II the_AT picture_NN1 that_CST does_VDZ n't_XX look_VVI a_AT1 hundred_NNO years_NNT2 old_JJ ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   12 Still it is different from the buildings that are being built nowadays , for example , the decorations of the edges on top of the buildings are no more used in modern buildings .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   12 Still_RR it_PPH1 is_VBZ different_JJ from_II the_AT buildings_NN2 that_CST are_VBR being_VBG built_VVN nowadays_RT ,_, for_REX21 example_REX22 ,_, the_AT decorations_NN2 of_IO the_AT edges_NN2 on_II31 top_II32 of_II33 the_AT buildings_NN2 are_VBR no_AT more_RGR used_JJ in_II modern_JJ buildings_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   13 Similar to any other prison the Tombs has a yard , which is surrounded by a two floor tall wall , which is bordered by an unknown depth low ground .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   13 Similar_JJ to_II any_DD other_JJ prison_NN1 the_AT Tombs_NN2 has_VHZ a_AT1 yard_NN1 ,_, which_DDQ is_VBZ surrounded_VVN by_II a_AT1 two_MC floor_NN1 tall_JJ wall_NN1 ,_, which_DDQ is_VBZ bordered_VVN by_II an_AT1 unknown_JJ depth_NN1 low_JJ ground_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   14 There is no sign of an entrance , but there is a sort of a gate , that looks similar to the gates used to enter a huge castle in fiction stories , the ones that roll down a wooden bridge to get across either side .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   14 There_EX is_VBZ no_AT sign_NN1 of_IO an_AT1 entrance_NN1 ,_, but_CCB there_EX is_VBZ a_AT1 sort_NN1 of_IO a_AT1 gate_NN1 ,_, that_DD1 looks_VVZ similar_JJ to_II the_AT gates_NN2 used_VMK to_TO enter_VVI a_AT1 huge_JJ castle_NN1 in_II fiction_NN1 stories_NN2 ,_, the_AT ones_NN2 that_CST roll_VV0 down_RP a_AT1 wooden_JJ bridge_NN1 to_TO get_VVI across_II either_DD1 side_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   15 Otherwise there is an entrance on the other side of the building .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   15 Otherwise_RR there_EX is_VBZ an_AT1 entrance_NN1 on_II the_AT other_JJ side_NN1 of_IO the_AT building_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   16 The picture gives you an idea about that the Tombs prison is one of the most secure prisons in the US , that assumption is supported by two facts .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   16 The_AT picture_NN1 gives_VVZ you_PPY an_AT1 idea_NN1 about_RP@ that_CST the_AT Tombs_NN2 prison_NN1 is_VBZ one_MC1 of_IO the_AT most_RGT secure_JJ prisons_NN2 in_II the_AT US_NP1 ,_, that_DD1 assumption_NN1 is_VBZ supported_VVN by_II two_MC facts_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   17 The first one is that the prison is inside a populated area , unlike normal prisons , where these would be isolated from any village , town or city .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   17 The_AT first_MD one_PN1 is_VBZ that_CST the_AT prison_NN1 is_VBZ inside_II a_AT1 populated_JJ@ area_NN1 ,_, unlike_JJ normal_JJ prisons_NN2 ,_, where_CS these_DD2 would_VM be_VBI isolated_VVN from_II any_DD village_NN1 ,_, town_NN1 or_CC city_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    1   18 The second fact is that the people in the picture walk beside or stand before it as they want , without any rules preventing them from doing that .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    1   18 The_AT second_MD fact_NN1 is_VBZ that_CST the_AT people_NN in_II the_AT picture_NN1 walk_NN1 beside_II or_CC stand_VV0 before_CS it_PPH1 as_CSA they_PPHS2 want_VV0 ,_, without_IW any_DD rules_NN2 preventing_VVG them_PPHO2 from_II doing_VDG that_DD1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   19 The second most thing New York City is known as is the traffic .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   19 The_AT second_MD most_RGT thing_NN1 New_NP1 York_NP1 City_NN1 is_VBZ known_VVN as_II is_VBZ the_AT traffic_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   20 This picture was taken during the day ; because there was no indication that any lights were turned on .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   20 This_DD1 picture_NN1 was_VBDZ taken_VVN during_II the_AT day_NNT1 ;_; because_CS there_EX was_VBDZ no_AT indication_NN1 that_CST any_DD lights_NN2 were_VBDR turned_VVN on_RP@ ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   21 In addition , the street is filled with people , must have been a busy day .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   21 In_RR21 addition_RR22 ,_, the_AT street_NN1 is_VBZ filled_VVN with_IW people_NN ,_, must_VM have_VHI been_VBN a_AT1 busy_JJ day_NNT1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   22 The common transportation method before the invention of cars was horses , or horse wagons .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   22 The_AT common_JJ transportation_NN1 method_NN1 before_II the_AT invention_NN1 of_IO cars_NN2 was_VBDZ horses_NN2 ,_, or_CC horse_NN1 wagons_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   23 There are different shapes of wagons or as some call carts , half of them are roofless while the other half had a roof , which probably were more expensive .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   23 There_EX are_VBR different_JJ shapes_NN2 of_IO wagons_NN2 or_CC as_CSA some_DD call_NN1 carts_NN2 ,_, half_DB of_IO them_PPHO2 are_VBR roofless_JJ while_CS the_AT other_JJ half_NN1@ had_VHD a_AT1 roof_NN1 ,_, which_DDQ probably_RR were_VBDR more_RGR expensive_JJ ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   24 Horse wagons are also used for purposes other than transportation , such as , carrying goods , agriculture or war vehicles .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   24 Horse_NN1 wagons_NN2 are_VBR also_RR used_VVN for_IF purposes_NN2 other_II21 than_II22 transportation_NN1 ,_, such_II21 as_II22 ,_, carrying_VVG goods_NN2 ,_, agriculture_NN1 or_CC war_NN1 vehicles_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   25 There are at least six horse wagons in the picture , and nearly all of them are the carrying goods kind .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   25 There_EX are_VBR at_RR21 least_RR22 six_MC horse_NN1 wagons_NN2 in_II the_AT picture_NN1 ,_, and_CC nearly_RR all_DB of_IO them_PPHO2 are_VBR the_AT carrying_NN1@ goods_NN2 kind_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   26 However , that was n't the only method of transportation that is shown in the picture .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   26 However_RR ,_, that_DD1 was_VBDZ n't_XX the_AT only_JJ method_NN1 of_IO transportation_NN1 that_CST is_VBZ shown_VVN in_II the_AT picture_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   27 They also operated trolleys at that time .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   27 They_PPHS2 also_RR operated_VVD trolleys_NN2 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   28 They are a somewhat mixture of busses and trains .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   28 They_PPHS2 are_VBR a_AT1 somewhat_RR mixture_NN1 of_IO busses_NN2 and_CC trains_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   29 But they were used before the invention of automobiles , so that may was the inspiration of inventing automobiles .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   29 But_CCB they_PPHS2 were_VBDR used_VVN before_II the_AT invention_NN1 of_IO automobiles_NN2 ,_, so_CS@ that_DD1 may_VM was_VBDZ the_AT inspiration_NN1 of_IO inventing_VVG automobiles_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   30 And they carry huge amounts of people , comparing to horse wagons .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   30 And_CC they_PPHS2 carry_VV0 huge_JJ amounts_NN2 of_IO people_NN ,_, comparing_VVG to_II horse_NN1 wagons_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    2   31 Nevertheless , trolleys could only be used inside the city ; since they had a track on the street that determines its directions .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    2   31 Nevertheless_RR ,_, trolleys_NN2 could_VM only_RR be_VBI used_VVN inside_II the_AT city_NN1 ;_; since_CS they_PPHS2 had_VHD a_AT1 track_NN1 on_II the_AT street_NN1 that_CST determines_VVZ its_APPGE directions_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   32 Snow is a very beautiful phenomenon that happens in a really cold weather .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   32 Snow_NP1 is_VBZ a_AT1 very_RG beautiful_JJ phenomenon_NN1 that_CST happens_VVZ in_II a_AT1 really_RR cold_JJ weather_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   33 The picture indicates that it was a snowy day , the picture is black and white , but the viewer can see that both the street and the walkway were pure white .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   33 The_AT picture_NN1 indicates_VVZ that_CST it_PPH1 was_VBDZ a_AT1 snowy_JJ day_NNT1 ,_, the_AT picture_NN1 is_VBZ black_JJ and_CC white_JJ ,_, but_CCB the_AT viewer_NN1 can_VM see_VVI that_CST both_DB2 the_AT street_NN1 and_CC the_AT walkway_NN1 were_VBDR pure_JJ white_JJ ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   34 So they must be covered in snow .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   34 So_RR they_PPHS2 must_VM be_VBI covered_VVN in_II snow_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   35 Due to cold everybody is wearing jackets and suits , but everyone seems to be wearing identical clothes .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   35 Due_II21 to_II22 cold_JJ everybody_PN1 is_VBZ wearing_VVG jackets_NN2 and_CC suits_NN2 ,_, but_CCB everyone_PN1 seems_VVZ to_TO be_VBI wearing_VVG identical_JJ clothes_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   36 Also each person in the picture was wearing a hat .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   36 Also_RR each_DD1 person_NN1 in_II the_AT picture_NN1 was_VBDZ wearing_VVG a_AT1 hat_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   37 There used to be a hypothesis that respectful gentlemen should wear hats .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   37 There_EX used_VMK to_TO be_VBI a_AT1 hypothesis_NN1 that_CST respectful_JJ gentlemen_NN2 should_VM wear_VVI hats_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   38 In addition , the roads were not paved .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   38 In_RR21 addition_RR22 ,_, the_AT roads_NN2 were_VBDR not_XX paved_VVN ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   39 They were made of bricks .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   39 They_PPHS2 were_VBDR made_VVN of_IO bricks_NN2 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   40 The picture demonstrates large words written vertically on a side of a building across the street from the Tombs prison .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   40 The_AT picture_NN1 demonstrates_VVZ large_JJ words_NN2 written_VVN vertically_RR on_II a_AT1 side_NN1 of_IO a_AT1 building_NN1 across_II the_AT street_NN1 from_II the_AT Tombs_NN2 prison_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   41 Written word on the side of a building is a technique used to sign out the name of the building , or sometimes for advertising .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   41 Written_JJ@ word_NN1 on_II the_AT side_NN1 of_IO a_AT1 building_NN1 is_VBZ a_AT1 technique_NN1 used_VMK to_TO sign_VVI out_RP the_AT name_NN1 of_IO the_AT building_NN1 ,_, or_CC sometimes_RT for_IF advertising_NN1 ._.
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   42 Who would 've imagined that it was used since a century ago ?
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   42 Who_PNQS would_VM 've_VHI imagined_VVN that_CST it_PPH1 was_VBDZ used_VVN since_II@ a_AT1 century_NNT1 ago_RA ?_?
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   43 Furthermore there is a sign that says " offices to rent . "
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   43 Furthermore_RR there_EX is_VBZ a_AT1 sign_NN1 that_CST says_VVZ "_" offices_NN2 to_TO rent_VVI ._. "_"
+SENTPOS 2014_4_101_500_523_2 DRAFT A    3   43  That points out that back then they also used offices to provide to citizens or visitors an easy way to rent apartments or workplaces .
+SENTPOS 2014_4_101_500_523_2 DRAFT B    3   43  That_DD1 points_VVZ out_RP that_DD1 back_NN1 then_RT they_PPHS2 also_RR used_JJ offices_NN2 to_TO provide_VVI to_II citizens_NN2 or_CC visitors_NN2 an_AT1 easy_JJ way_NN1 to_TO rent_VVI apartments_NN2 or_CC workplaces_NN2 ._.

@@ -1,0 +1,92 @@
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    0 The Kissing Sailor is an iconic image .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    0 The_AT Kissing_NN1 Sailor_NN1 is_VBZ an_AT1 iconic_JJ image_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    1 Taken by Alfred Eisenstaedt for LIFE Magazine on V-J Day in 1945 , the image symbolizes the American victory in WWII .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    1 Taken_VVN by_II Alfred_NP1 Eisenstaedt_NP1 for_IF LIFE_NN1 Magazine_NN1 on_II V-J_NP1 Day_NP1 in_II 1945_MC ,_, the_AT image_NN1 symbolizes_VVZ the_AT American_JJ victory_NN1 in_II WWII_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    2 For others , it stands as a testament to the spontaneity of romance .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    2 For_IF others_NN2 ,_, it_PPH1 stands_VVZ as_II a_AT1 testament_NN1 to_II the_AT spontaneity_NN1 of_IO romance_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    3 Among the different interpretations it can be agreed upon that this is a proud , American symbol .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    3 Among_II the_AT different_JJ interpretations_NN2 it_PPH1 can_VM be_VBI agreed_VVN upon_II that_CST this_DD1 is_VBZ a_AT1 proud_JJ ,_, American_JJ symbol_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    4 However , when looked at closely could this image stand for something much more sinister ?
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    4 However_RR ,_, when_CS looked_VVN at_II closely_RR could_VM this_DD1 image_NN1 stand_VVI for_IF something_PN1 much_RR more_RGR sinister_JJ ?_?
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    5 Through the dress and body language of the two people engaged in the act and the attitude of the onlookers it can be suggested that the image promotes a controversial topic in today 's society , rape and its acceptance in society .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    5 Through_II the_AT dress_NN1 and_CC body_NN1 language_NN1 of_IO the_AT two_MC people_NN engaged_VVN in_II the_AT act_NN1 and_CC the_AT attitude_NN1 of_IO the_AT onlookers_NN2 it_PPH1 can_VM be_VBI suggested_VVN that_CST the_AT image_NN1 promotes_VVZ a_AT1 controversial_JJ topic_NN1 in_II today_RT 's_GE society_NN1 ,_, rape_NN1 and_CC its_APPGE acceptance_NN1 in_II society_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    0    6 Alfred Eisenstaedt 's The Kissing Sailor depicts a society that promotes rape culture .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    0    6 Alfred_NP1 Eisenstaedt_NP1 's_GE The_AT Kissing_NN1 Sailor_NN1 depicts_VVZ a_AT1 society_NN1 that_CST promotes_VVZ rape_NN1 culture_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1    7 One of the most simplistic aspects of the photograph that can be looked at is the dress of the two people engaged in the kiss .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1    7 One_MC1 of_IO the_AT most_RGT simplistic_JJ aspects_NN2 of_IO the_AT photograph_NN1 that_CST can_VM be_VBI looked_VVN at_II is_VBZ the_AT dress_NN1 of_IO the_AT two_MC people_NN engaged_VVN in_II the_AT kiss_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1    8 Both are wearing their respective uniforms , a sailor and a nurse .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1    8 Both_DB2 are_VBR wearing_VVG their_APPGE respective_JJ uniforms_NN2 ,_, a_AT1 sailor_NN1 and_CC a_AT1 nurse_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1    9 The white nurse 's uniform stands out against the darkness of the sailor uniform .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1    9 The_AT white_JJ nurse_NN1 's_GE uniform_NN1 stands_VVZ out_RP against_II the_AT darkness_NN1 of_IO the_AT sailor_NN1 uniform_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   10 This dark to light contrast illustrates a timeless battle between good and evil .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   10 This_DD1 dark_NN1 to_TO light_VVI contrast_NN1 illustrates_VVZ a_AT1 timeless_JJ battle_NN1 between_II good_JJ and_CC evil_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   11 In the photograph , the lightly-clad woman is being grabbed by the darkly-clad man .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   11 In_II the_AT photograph_NN1 ,_, the_AT lightly-clad_JJ woman_NN1 is_VBZ being_VBG grabbed_VVN by_II the_AT darkly-clad_JJ man_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   12 The innocent victim is being grabbed by the villain .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   12 The_AT innocent_JJ victim_NN1 is_VBZ being_VBG grabbed_VVN by_II the_AT villain_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   13 Time and time again this dark to light contrast has represented a battle between good and evil and this photograph is no exception .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   13 Time_NNT1 and_CC time_NNT1 again_RT this_DD1 dark_NN1 to_TO light_VVI contrast_NN1 has_VHZ represented_VVN a_AT1 battle_NN1 between_II good_JJ and_CC evil_JJ and_CC this_DD1 photograph_NN1 is_VBZ no_AT exception_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   14 The man in the dark sailor suit is evil , he is a rapist .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   14 The_AT man_NN1 in_II the_AT dark_JJ sailor_NN1 suit_NN1 is_VBZ evil_JJ ,_, he_PPHS1 is_VBZ a_AT1 rapist_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   15 The woman in white is the innocent bystander that is taken advantage of by the dark sailor .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   15 The_AT woman_NN1 in_II white_NN1@ is_VBZ the_AT innocent_JJ bystander_NN1 that_CST is_VBZ taken_VVN advantage_NN1 of_IO by_II the_AT dark_JJ sailor_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    1   16 The dress of the man and women contribute to the idea that this is not a photograph of spontaneous romance but a photograph of rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    1   16 The_AT dress_NN1 of_IO the_AT man_NN1 and_CC women_NN2 contribute_VV0 to_II the_AT idea_NN1 that_CST this_DD1 is_VBZ not_XX a_AT1 photograph_NN1 of_IO spontaneous_JJ romance_NN1 but_CCB a_AT1 photograph_NN1 of_IO rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   17 Not only has the clothing of the couple , but also the body language of the pair suggested rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   17 Not_XX only_RR has_VHZ the_AT clothing_NN1 of_IO the_AT couple_NN1 ,_, but_CCB also_RR the_AT body_NN1 language_NN1 of_IO the_AT pair_NN suggested_VVD rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   18 At first glance , the couple may appear to be locked in a passionate embrace but by looking at the man and woman 's posture , it becomes clear that this is a dominant embrace enacted by the man .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   18 At_II first_MD glance_NN1 ,_, the_AT couple_NN1 may_VM appear_VVI to_TO be_VBI locked_VVN in_II a_AT1 passionate_JJ embrace_NN1 but_CCB by_II looking_VVG at_II the_AT man_NN1 and_CC woman_NN1 's_GE posture_NN1 ,_, it_PPH1 becomes_VVZ clear_JJ that_CST this_DD1 is_VBZ a_AT1 dominant_JJ embrace_NN1 enacted_VVN by_II the_AT man_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   19 The man 's hands can be looked at as evidence of rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   19 The_AT man_NN1 's_GE hands_NN2 can_VM be_VBI looked_VVN at_II as_CSA evidence_NN1 of_IO rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   20 For example , his top hand is wrapped around the woman 's head not in the gentle caressing way that one would expect of a lover , but in a dominant and controlling way that leaves the woman with little ability to move her head .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   20 For_REX21 example_REX22 ,_, his_APPGE top_JJ hand_NN1 is_VBZ wrapped_VVN around_II the_AT woman_NN1 's_GE head_NN1 not_XX in_II the_AT gentle_JJ caressing_JJ@ way_NN1 that_CST one_PN1 would_VM expect_VVI of_IO a_AT1 lover_NN1 ,_, but_CCB in_II a_AT1 dominant_JJ and_CC controlling_VVG way_NN1 that_CST leaves_VVZ the_AT woman_NN1 with_IW little_DA1 ability_NN1 to_TO move_VVI her_APPGE head_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   21 The man 's lower hand is also grasping her in what looks to be a rough way .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   21 The_AT man_NN1 's_GE lower_JJR hand_NN1 is_VBZ also_RR grasping_VVG her_PPHO1 in_II what_DDQ looks_VVZ to_TO be_VBI a_AT1 rough_JJ way_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   22 This hand placement and the way he is leaning over her suggest that the man and woman are not locked in some sort of spontaneous , passionate embrace , but that the man has grabbed the woman and given her no choice in the matter .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   22 This_DD1 hand_NN1 placement_NN1 and_CC the_AT way_NN1 he_PPHS1 is_VBZ leaning_VVG over_II her_PPHO1 suggest_VV0 that_CST the_AT man_NN1 and_CC woman_NN1 are_VBR not_XX locked_VVN in_II some_DD sort_NN1 of_IO spontaneous_JJ ,_, passionate_JJ embrace_NN1 ,_, but_CCB that_CST@ the_AT man_NN1 has_VHZ grabbed_VVN the_AT woman_NN1 and_CC given_VVN her_PPHO1 no_AT choice_NN1 in_II the_AT matter_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   23 The woman 's body language supports this claim .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   23 The_AT woman_NN1 's_GE body_NN1 language_NN1 supports_VVZ this_DD1 claim_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   24 Her arm is laying limp at her side , something that is not characteristic of two people that want to be touching each other .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   24 Her_APPGE arm_NN1 is_VBZ laying_VVG limp_NN1 at_II her_APPGE side_NN1 ,_, something_PN1 that_CST is_VBZ not_XX characteristic_JJ of_IO two_MC people_NN that_CST want_VV0 to_TO be_VBI touching_VVG each_PPX221 other_PPX222 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   25 Her body is bent backwards and away from the man , suggesting that she does not want to be locked in the position so close to him , but she is being held immobile and is helpless to defend herself from the sudden attack .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   25 Her_APPGE body_NN1 is_VBZ bent_VVN backwards_RL and_CC away_II21 from_II22 the_AT man_NN1 ,_, suggesting_VVG that_CST she_PPHS1 does_VDZ not_XX want_VVI to_TO be_VBI locked_VVN in_II the_AT position_NN1 so_RG close_RR to_II him_PPHO1 ,_, but_CCB she_PPHS1 is_VBZ being_VBG held_VVN immobile_JJ and_CC is_VBZ helpless_JJ to_TO defend_VVI herself_PPX1 from_II the_AT sudden_JJ attack_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    2   26 The overall body language of both the man and the woman work together to suggest that the man is engaging in nonconsensual behavior with the woman .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    2   26 The_AT overall_JJ body_NN1 language_NN1 of_IO both_DB2 the_AT man_NN1 and_CC the_AT woman_NN1 work_VV0 together_RL to_TO suggest_VVI that_CST the_AT man_NN1 is_VBZ engaging_VVG in_II nonconsensual_JJ behavior_NN1 with_IW the_AT woman_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   27 It has been established that the image of the couple can be assumed to be an image of rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   27 It_PPH1 has_VHZ been_VBN established_VVN that_CST the_AT image_NN1 of_IO the_AT couple_NN1 can_VM be_VBI assumed_VVN to_TO be_VBI an_AT1 image_NN1 of_IO rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   28 This has been suggested by the dress and body language of the two .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   28 This_DD1 has_VHZ been_VBN suggested_VVN by_II the_AT dress_NN1 and_CC body_NN1 language_NN1 of_IO the_AT two_MC ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   29 However , it is the people in the background of the photograph that suggest that such activities as rape are acceptable in the culture .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   29 However_RR ,_, it_PPH1 is_VBZ the_AT people_NN in_II the_AT background_NN1 of_IO the_AT photograph_NN1 that_CST suggest_VV0 that_CST such_DA activities_NN2 as_CSA rape_NN1 are_VBR acceptable_JJ in_II the_AT culture_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   30 Starting at the left of the photograph , the sailor dressed in white is looking at the embracing couple with a smile on his face .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   30 Starting_VVG at_II the_AT left_NN1@ of_IO the_AT photograph_NN1 ,_, the_AT sailor_NN1 dressed_VVN in_II white_NN1@ is_VBZ looking_VVG at_II the_AT embracing_JJ% couple_NN1 with_IW a_AT1 smile_NN1 on_II his_APPGE face_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   31 Now he may be smiling because the war has ended , but no matter how happy one may be , the image of rape should cause you to falter your smile slightly .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   31 Now_RT he_PPHS1 may_VM be_VBI smiling_VVG because_CS the_AT war_NN1 has_VHZ ended_VVN ,_, but_CCB no_RGQV31 matter_RGQV32 how_RGQV33 happy_JJ one_PN1 may_VM be_VBI ,_, the_AT image_NN1 of_IO rape_NN1 should_VM cause_VVI you_PPY to_TO falter_VVI your_APPGE smile_NN1 slightly_RR ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   32 He is a joyous onlooker .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   32 He_PPHS1 is_VBZ a_AT1 joyous_JJ onlooker_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   33 Moving to the right of the picture we can only clearly see one more face , this is the face of an older woman who is looking at the couple , watching the couple , with a smile on her face .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   33 Moving_VVG to_II the_AT right_NN1 of_IO the_AT picture_NN1 we_PPIS2 can_VM only_RR clearly_RR see_VVI one_MC1 more_DAR face_NN1 ,_, this_DD1 is_VBZ the_AT face_NN1 of_IO an_AT1 older_JJR woman_NN1 who_PNQS is_VBZ looking_VVG at_II the_AT couple_NN1 ,_, watching_VVG the_AT couple_NN1 ,_, with_IW a_AT1 smile_NN1 on_II her_APPGE face_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   34 Again , you would think that watching a man come up and force a woman to kiss him would inspire horror , not a look of joy .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   34 Again_RT ,_, you_PPY would_VM think_VVI that_CST watching_VVG a_AT1 man_NN1 come_VVI up_RP and_CC force_VVI a_AT1 woman_NN1 to_TO kiss_VVI him_PPHO1 would_VM inspire_VVI horror_NN1 ,_, not_XX a_AT1 look_NN1 of_IO joy_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   35 It is also rumored that one of the woman whose face is blocked by the man 's body is actually the fiance of the sailor who is kissing another woman .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   35 It_PPH1 is_VBZ also_RR rumored_VVN that_CST one_MC1 of_IO the_AT woman_NN1 whose_DDQGE face_NN1 is_VBZ blocked_VVN by_II the_AT man_NN1 's_GE body_NN1 is_VBZ actually_RR the_AT fiance_NN1 of_IO the_AT sailor_NN1 who_PNQS is_VBZ kissing_VVG another_DD1 woman_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   36 There is obviously no one making a move to interrupt the embrace , so it is safe to assume that she is okay with this .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   36 There_EX is_VBZ obviously_RR no_RR one_MC1 making_VVG a_AT1 move_NN1 to_TO interrupt_VVI the_AT embrace_NN1 ,_, so_CS@ it_PPH1 is_VBZ safe_JJ to_TO assume_VVI that_CST she_PPHS1 is_VBZ okay_JJ with_IW this_DD1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   37 She is okay with watching her fiance forcibly kiss another woman .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   37 She_PPHS1 is_VBZ okay_JJ with_IW watching_VVG her_APPGE fiance_NN1 forcibly_RR kiss_VV0 another_DD1 woman_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   38 Everyone in the background of this photograph seems to be accepting of the sailor 's dominant actions .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   38 Everyone_PN1 in_II the_AT background_NN1 of_IO this_DD1 photograph_NN1 seems_VVZ to_TO be_VBI accepting_VVG of_IO the_AT sailor_NN1 's_GE dominant_JJ actions_NN2 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    3   39 This is indicative of rape culture , or a culture that defines rape as a social norm .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    3   39 This_DD1 is_VBZ indicative_JJ of_IO rape_NN1 culture_NN1 ,_, or_CC a_AT1 culture_NN1 that_CST defines_VVZ rape_NN1 as_II a_AT1 social_JJ norm_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    4   40 Through the dress of the couple and the body language of the two , it has been suggested that this is an image depicting rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    4   40 Through_II the_AT dress_NN1 of_IO the_AT couple_NN1 and_CC the_AT body_NN1 language_NN1 of_IO the_AT two_MC ,_, it_PPH1 has_VHZ been_VBN suggested_VVN that_CST this_DD1 is_VBZ an_AT1 image_NN1 depicting_VVG rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    4   41 The joyous onlookers suggest that this is an acceptable act .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    4   41 The_AT joyous_JJ onlookers_NN2 suggest_VV0 that_CST this_DD1 is_VBZ an_AT1 acceptable_JJ act_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    4   42 This image depicts a culture that is accepting of rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    4   42 This_DD1 image_NN1 depicts_VVZ a_AT1 culture_NN1 that_CST is_VBZ accepting_VVG of_IO rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    4   43 The man is forcibly kissing the woman , giving her no choice in the matter .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    4   43 The_AT man_NN1 is_VBZ forcibly_RR kissing_VVG the_AT woman_NN1 ,_, giving_VVG her_PPHO1 no_AT choice_NN1 in_II the_AT matter_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    4   44 And it can be seen in the faces of the observers that they are accepting and even enjoying the act of rape .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    4   44 And_CC it_PPH1 can_VM be_VBI seen_VVN in_II the_AT faces_NN2 of_IO the_AT observers_NN2 that_CST they_PPHS2 are_VBR accepting_VVG and_CC even_RR enjoying_VVG the_AT act_NN1 of_IO rape_NN1 ._.
+SENTPOS 2014_4_101_000_062_2 DRAFT A    4   44  All of these aspects come together to suggest that Alfred Eisenstaedt 's The Kissing Sailor is an iconic photo that depicts and validates rape culture .
+SENTPOS 2014_4_101_000_062_2 DRAFT B    4   44  All_DB of_IO these_DD2 aspects_NN2 come_VV0 together_RL to_TO suggest_VVI that_CST Alfred_NP1 Eisenstaedt_NP1 's_GE The_AT Kissing_NN1 Sailor_NN1 is_VBZ an_AT1 iconic_JJ photo_NN1 that_CST depicts_VVZ and_CC validates_VVZ rape_NN1 culture_NN1 ._.

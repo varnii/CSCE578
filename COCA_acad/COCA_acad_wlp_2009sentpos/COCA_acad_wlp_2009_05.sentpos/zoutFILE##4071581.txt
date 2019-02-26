@@ -1,0 +1,780 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    0 ILLITERACY AMONG OUR NATION 'S STUDENTS CONTINUES TO PLAGUE OUR SCHOOLS IN SPITE OF ONE ATTEMPT AFTER ANOTHER TO REMEDY THE SITUATION .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    0 ILLITERACY_NN1 AMONG_II OUR_APPGE NATION_NN1 'S_GE STUDENTS_NN2 CONTINUES_VVZ TO_TO PLAGUE_VVI OUR_APPGE SCHOOLS_NN2 IN_II31 SPITE_II32 OF_II33 ONE_MC1 ATTEMPT_NN1 AFTER_II_CS ANOTHER_DD1 TO_TO REMEDY_VVI THE_AT SITUATION_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    1 IT IS ESPECIALLY SO FOR THE HISPANIC CHILD .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    1 IT_PPH1@ IS_VBZ ESPECIALLY_RR SO_RR FOR_IF THE_AT HISPANIC_JJ CHILD_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    2 THIS OUGHT TO SERVE AS A CLARION CALL FOR TEACHER-LIBRARIANS AND OTHER EDUCATORS WHO ARE CHARGED WITH TEACHING OUR NEXT GENERATION .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    2 THIS_DD1 OUGHT_VMK TO_TO SERVE_VVI AS_II_CSA A_AT1@_ZZ1 CLARION_NN1 CALL_NN1 FOR_IF TEACHER-LIBRARIANS_NN2 AND_CC OTHER_JJ EDUCATORS_NN2 WHO_PNQS@ ARE_VBR CHARGED_VVN WITH_IW TEACHING_VVG OUR_APPGE NEXT_MD GENERATION_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    3 HOW CAN WE ENCOURAGE YOUNG LATINO READERS , GET THEM INTO OUR LIBRARIES WHERE THE BOOKS ARE , AND MAKE READING A FAMILY AFFAIR ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    3 HOW_RRQ CAN_VM WE_PPIS2 ENCOURAGE_VVI YOUNG_JJ LATINO_NN1 READERS_NN2 ,_Y GET_VV0 THEM_PPHO2 INTO_II OUR_APPGE LIBRARIES_NN2 WHERE_RRQ_CS THE_AT BOOKS_NN2 ARE_VBR ,_Y AND_CC MAKE_VV0 READING_VVG_NP1 A_AT1@_ZZ1 FAMILY_NN1 AFFAIR_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    4 <p> L : SOUNDING THE ALARM Though seemingly dated and already hashed out countless times by different literacy specialists and members of the media , this is as good a time as any to revisit the National Endowment for the Arts ' ( NEA ) Reading At Risk survey released in 2004 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    4 <p>_Y L_ZZ1_NP1@ :_Y SOUNDING_VVG THE_AT ALARM_NN1 Though_CS seemingly_RR dated_VVN_JJ and_CC already_RR hashed_VVD_VVN@ out_RP countless_JJ times_NNT2 by_II different_JJ literacy_NN1 specialists_NN2 and_CC members_NN2 of_IO the_AT media_NN ,_Y this_DD1 is_VBZ as_RG good_JJ_RR% a_AT1 time_NNT1 as_CSA any_DD to_TO revisit_VVI the_AT National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 '_GE (_Y NEA_NP1 )_Y Reading_VVG@_NP1_NN1@ At_II Risk_NN1 survey_NN1 released_VVN in_II 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    5 Poet Dana Gioia , chairman of the NEA from 2002 to January 2009 , ( NEA , 2004 ) states in his preface to the document that this " is not a report the National Endowment for the Arts is happy to issue " ( p. vii ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    5 Poet_NN1 Dana_NP1 Gioia_NP1 ,_Y chairman_NN1 of_IO the_AT NEA_NN1_NP1 from_II 2002_MC to_II January_NPM1 2009_MC ,_Y (_Y NEA_NP1_NN1 ,_Y 2004_MC )_Y states_VVZ_NN2 in_II_RP@ his_APPGE preface_NN1 to_II the_AT document_NN1 that_CST this_DD1 "_Y is_VBZ not_XX a_AT1 report_NN1 the_AT National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 is_VBZ happy_JJ to_TO issue_VVI "_Y (_Y p._NNU vii_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    6 The report caused many of us in stop dead in our tracks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    6 The_AT report_NN1 caused_VVD_VVN many_DA2 of_IO us_PPIO2 in_II stop_VV0 dead_JJ in_II our_APPGE tracks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    7 " Has all our work in the classroom over the years been for naught ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    7 "_Y Has_VHZ all_DB our_APPGE work_NN1 in_II the_AT classroom_NN1 over_II the_AT years_NNT2 been_VBN for_IF naught_PN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    8 " we asked .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    8 "_Y we_PPIS2 asked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0    9 " How did we fail our students so miserably ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0    9 "_Y How_RRQ did_VDD we_PPIS2 fail_VVI our_APPGE students_NN2 so_RG_RR miserably_RR ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   10 " <p> The more we studied the numbers the more concerned we became .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   10 "_Y <p>_Y The_AT more_RRR we_PPIS2 studied_VVD the_AT numbers_NN2 the_AT more_RGR concerned_JJ we_PPIS2 became_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   11 As a teacher and Latino , I was particularly interested in the obvious drop in literary reading among Hispanics between 1982 and 2002 ; there was a nearly 10% decline from 36.4 in 1982 to 26.5 in 2002 ( NEA , 2004 , p. 24 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   11 As_II_CSA a_AT1 teacher_NN1 and_CC Latino_NP1_NN1 ,_Y I_PPIS1 was_VBDZ particularly_RR interested_JJ in_II the_AT obvious_JJ drop_NN1 in_II literary_JJ reading_NN1 among_II Hispanics_NP1_NN2_NN1 between_II 1982_MC and_CC 2002_MC ;_Y there_EX was_VBDZ a_AT1 nearly_RR 10%_NNU decline_NN1_VV0 from_II 36.4_MC in_II 1982_MC to_II 26.5_MC in_II 2002_MC (_Y NEA_NP1_NN1 ,_Y 2004_MC ,_Y p._NN1_NNU 24_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   12 As if this information was n't bleak enough , the NEA more recently published a similar document titled To Read or Not to Read : A Question of National Consequence ( 2007 ) that describes the current situation in starker terms than the previous document .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   12 As_CS21 if_CS22 this_DD1 information_NN1 was_VBDZ n't_XX bleak_JJ enough_RR ,_Y the_AT NEA_NN1 more_RGR_RRR recently_RR published_VVN_VVD a_AT1 similar_JJ document_NN1 titled_VVN To_II Read_NP1@ or_CC Not_XX to_II Read_NP1@ :_Y A_AT1@_ZZ1 Question_NN1 of_IO National_JJ Consequence_NN1 (_Y 2007_MC )_Y that_CST_DD1 describes_VVZ the_AT current_JJ situation_NN1 in_II starker_JJR terms_NN2 than_CSN the_AT previous_JJ document_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   13 This time Gioia uses the terms " alarming " and " disturbing " to explain the state of our nation 's reading habits ( p. 3 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   13 This_DD1 time_NNT1 Gioia_NP1_NN1@ uses_VVZ the_AT terms_NN2 "_Y alarming_JJ_VVG@ "_Y and_CC "_Y disturbing_JJ_VVG@ "_Y to_TO explain_VVI the_AT state_NN1 of_IO our_APPGE nation_NN1 's_GE reading_NN1_VVG habits_NN2 (_Y p._NNU 3_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   14 In other words , the problems of illiteracy and aliteracy do not come to a halt simply because the next survey Educators and parents should feel a greater sense of urgency , because the next batch of graduates will be among those represented in the upcoming survey .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   14 In_II other_JJ words_NN2 ,_Y the_AT problems_NN2 of_IO illiteracy_NN1 and_CC aliteracy_NN1 do_VD0 not_XX come_VVI to_II a_AT1 halt_NN1 simply_RR because_CS the_AT next_MD survey_NN1 Educators_NN2_NP1@ and_CC parents_NN2 should_VM feel_VVI a_AT1 greater_JJR sense_NN1 of_IO urgency_NN1 ,_Y because_CS the_AT next_MD batch_NN1 of_IO graduates_NN2 will_VM be_VBI among_II those_DD2 represented_VVN in_II the_AT upcoming_JJ survey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   15 It is not out of the question to imagine a greater decline in literacy between now and then , and if the trends hold , so much worse for the Hispanic community .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   15 It_PPH1 is_VBZ not_XX out_II21 of_II22 the_AT question_NN1 to_TO imagine_VVI a_AT1 greater_JJR decline_NN1 in_II literacy_NN1 between_II now_RT and_CC then_RT ,_Y and_CC if_CS_CSW@ the_AT trends_NN2 hold_VV0 ,_Y so_RG much_DA1_RR worse_JJR for_IF the_AT Hispanic_JJ community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   16 <p> L : FAMILIES READING TOGETHER : THE OUNCE OF PREVENTION MISSING Children 's book author and literacy expert Mere Fox ( 2001 ) argues , " Prevention of reading problems happens long before a child starts school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   16 <p>_Y L_ZZ1_NP1@ :_Y FAMILIES_NN2 READING_VVG TOGETHER_RL :_Y THE_AT OUNCE_NNU1 OF_IO PREVENTION_NN1 MISSING_VVG_JJ Children_NN2 's_GE book_NN1 author_NN1 and_CC literacy_NN1 expert_NN1 Mere_NP1@_JJ Fox_NP1_NN1@ (_Y 2001_MC )_Y argues_VVZ ,_Y "_Y Prevention_NN1 of_IO reading_VVG_NN1 problems_NN2 happens_VVZ long_RR_JJ before_II_CS a_AT1 child_NN1 starts_VVZ school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   17 In fact , the first day of school is almost too late for a child to begin to learn to read " ( p. 13 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   17 In_II fact_NN1 ,_Y the_AT first_MD day_NNT1 of_IO school_NN1 is_VBZ almost_RR too_RG late_JJ for_IF a_AT1 child_NN1 to_TO begin_VVI to_TO learn_VVI to_TO read_VVI "_Y (_Y p._NNU 13_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   18 This means that , for a child to be caught up with his peers in reading , he has to have grown up in a print-rich environment .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   18 This_DD1 means_VVZ that_CST_DD1 ,_Y for_IF a_AT1 child_NN1 to_TO be_VBI caught_VVN up_RP with_IW his_APPGE peers_NN2 in_II reading_NN1_VVG ,_Y he_PPHS1 has_VHZ to_TO have_VHI grown_VVN@ up_RP in_II a_AT1 print-rich_JJ environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   19 That is , he has to have been read to from infancy .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   19 That_REX21 is_REX22 ,_Y he_PPHS1 has_VHZ to_TO have_VHI been_VBN read_VVN to_II from_II infancy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   20 Jim Trelease ( 2006 ) , in his now classic text , The Read-Aloud Handbook , calls it the " sponge factor " ( as a parent and the child ... have time for , " but to be consistent about it ( p. 75 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   20 Jim_NP1 Trelease_NP1 (_Y 2006_MC )_Y ,_Y in_II his_PPGE@ now_RT classic_JJ text_NN1 ,_Y The_AT Read-Aloud_RR Handbook_NN1 ,_Y calls_VVZ it_PPH1 the_AT "_Y sponge_NN1 factor_NN1 "_Y (_Y as_CSA a_AT1 parent_NN1 and_CC the_AT child_NN1 ..._... have_VH0 time_NNT1 for_IF ,_Y "_Y but_CCB to_TO be_VBI consistent_JJ about_II it_PPH1 (_Y p._NNU 75_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   21 The child has to have been surrounded by books , newspapers , and magazines ( Krashen , 2004 , p. 57 ) , and he has to have witnessed his family members in the act of reading ( p. 84 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   21 The_AT child_NN1 has_VHZ to_TO have_VHI been_VBN surrounded_VVN by_II books_NN2 ,_Y newspapers_NN2 ,_Y and_CC magazines_NN2 (_Y Krashen_NP1 ,_Y 2004_MC ,_Y p._NN1_NNU 57_MC )_Y ,_Y and_CC he_PPHS1 has_VHZ to_TO have_VHI witnessed_VVN his_APPGE family_NN1 members_NN2 in_II the_AT act_NN1 of_IO reading_NN1_VVG (_Y p._NNU 84_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   22 All that , just to be on level .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   22 All_DB that_DD1_CST ,_Y just_RR to_TO be_VBI on_II level_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   23 <p> According to the findings in To Read or Not to Read ( 2007 ) , " The number of books in a home is a significant predictor of academic achievement " ( p. 9 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   23 <p>_Y According_II21 to_II22 the_AT findings_NN2 in_RP@_II To_II Read_NP1@ or_CC Not_XX to_II Read_NP1@ (_Y 2007_MC )_Y ,_Y "_Y The_AT number_NN1 of_IO books_NN2 in_II a_AT1 home_NN1 is_VBZ a_AT1 significant_JJ predictor_NN1 of_IO academic_JJ achievement_NN1 "_Y (_Y p._NNU 9_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   24 Fox ( 2001 ) likens this constant exposure to daily literacy in the home to inoculation " against illiteracy " ( p. 14 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   24 Fox_NP1 (_Y 2001_MC )_Y likens_VVZ this_DD1 constant_JJ exposure_NN1 to_II daily_JJ literacy_NN1 in_II the_AT home_NN1 to_II inoculation_NN1 "_Y against_II illiteracy_NN1 "_Y (_Y p._NNU 14_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   25 So it follows that when the simple yet vital act of reading to a child is missing in his experience , he is more likely to become a non- or reluctant reader .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   25 So_RR it_PPH1 follows_VVZ that_CST when_CS the_AT simple_JJ yet_RR vital_JJ act_NN1 of_IO reading_VVG_NN1 to_II a_AT1 child_NN1 is_VBZ missing_VVG_JJ in_II_RP@ his_APPGE experience_NN1 ,_Y he_PPHS1 is_VBZ more_RGR likely_JJ to_TO become_VVI a_AT1 non-_NN1_JJ or_CC reluctant_JJ reader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   26 <p> This problem of illiteracy is further compounded for the Hispanic child because the likelihood that any of the above is regularly slim to none .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   26 <p>_Y This_DD1 problem_NN1 of_IO illiteracy_NN1 is_VBZ further_RRR compounded_VVN_VVD for_IF the_AT Hispanic_JJ child_NN1 because_CS the_AT likelihood_NN1 that_CST any_DD of_IO the_AT above_JJ@_RL is_VBZ regularly_RR slim_JJ to_II none_PN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   27 That is not to say Latino parents do not care for the academic success of their children .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   27 That_DD1 is_VBZ not_XX to_TO say_VVI Latino_NN1_NP1 parents_NN2 do_VD0 not_XX care_VVI for_IF the_AT academic_JJ success_NN1 of_IO their_APPGE children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   28 Quite the contrary , according to Delgado Gaitan ( 2004 ) in her book Involving Latino Families in Schools : Raising Student Achievement Through Home-School Partnerships : " ... Latino parents do care about their children 's education " ( p. vii ) , though this interest usually manifests itself in different ways than it does with their Anglo counterparts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   28 Quite_RR@_RG the_AT contrary_NN1_JJ ,_Y according_II21 to_II22 Delgado_NP1 Gaitan_NP1 (_Y 2004_MC )_Y in_II her_APPGE book_NN1 Involving_VVG Latino_NN1_NP1 Families_NN2 in_II Schools_NN2 :_Y Raising_VVG_NN1 Student_NN1 Achievement_NN1 Through_II Home-School_NP1 Partnerships_NN2 :_Y "_Y ..._... Latino_NN1_NP1@ parents_NN2 do_VD0 care_VVI about_II their_APPGE children_NN2 's_GE education_NN1 "_Y (_Y p._NNU vii_MC )_Y ,_Y though_CS this_DD1 interest_NN1 usually_RR manifests_VVZ itself_PPX1 in_II different_JJ ways_NN2 than_CSN it_PPH1 does_VDZ with_IW their_APPGE Anglo_JJ counterparts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   29 <p> L : A TEACHER-LIBRARIAN 'S JOB IS NEVER DONE This is a call to teacher-librarians , who come into daily contact with young readers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   29 <p>_Y L_ZZ1_NP1@ :_Y A_AT1@_ZZ1 TEACHER-LIBRARIAN_NN1 'S_GE JOB_NN1 IS_VBZ NEVER_RR DONE_VDN This_DD1 is_VBZ a_AT1 call_NN1 to_II teacher-librarians_NN2 ,_Y who_PNQS come_VV0 into_II daily_JJ contact_NN1 with_IW young_JJ readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   30 They are even more concerned for the nonreader , since it is the librarians ' calling , nay , their duty to ensure the books on their shelves circulate , which does not happen if kids , and lots of them , are not checking them out .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   30 They_PPHS2 are_VBR even_RR more_RGR concerned_JJ for_IF the_AT nonreader_NN1 ,_Y since_CS it_PPH1 is_VBZ the_AT librarians_NN2 '_GE calling_NN1@_JJ@ ,_Y nay_UH ,_Y their_APPGE duty_NN1 to_TO ensure_VVI the_AT books_NN2 on_II their_APPGE shelves_NN2 circulate_VV0 ,_Y which_DDQ does_VDZ not_XX happen_VVI if_CSW@_CS kids_NN2 ,_Y and_CC lots_PN of_IO them_PPHO2 ,_Y are_VBR not_XX checking_VVG them_PPHO2 out_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   31 <p> A teacher-librarian knows who uses the library regularly .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   31 <p>_Y A_AT1 teacher-librarian_NN1 knows_VVZ who_PNQS uses_VVZ the_AT library_NN1 regularly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   32 A reader , who does not require a helpful nudge in the direction of that perfect book for her , visits this book haven the teacher-librarian in order to check out a book ( which can be a daunting task for the uninitiated ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   32 A_AT1 reader_NN1 ,_Y who_PNQS does_VDZ not_XX require_VVI a_AT1 helpful_JJ nudge_NN1@_VV0 in_II the_AT direction_NN1 of_IO that_DD1 perfect_JJ book_NN1 for_IF her_PPHO1 ,_Y visits_VVZ@_NN2 this_DD1 book_NN1 haven_NN1 the_AT teacher-librarian_NN1_JJ in_BCL21 order_BCL22 to_TO check_VVI out_RP a_AT1 book_NN1 (_Y which_DDQ can_VM be_VBI a_AT1 daunting_JJ task_NN1 for_IF the_AT uninitiated_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   33 However , what about those children who walk past the library and seem not to show interest in books ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   33 However_RR ,_Y what_DDQ about_II those_DD2 children_NN2 who_PNQS walk_VV0 past_II_RL the_AT library_NN1 and_CC seem_VV0 not_XX to_TO show_VVI interest_NN1 in_II books_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   34 Overjoyed as she might feel at the reading successes of her " regulars , " the librarian is equally saddened by the many who do not stop in .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   34 Overjoyed_JJ as_CSA she_PPHS1 might_VM feel_VVI at_II the_AT reading_NN1 successes_NN2 of_IO her_APPGE "_Y regulars_NN2 ,_Y "_Y the_AT librarian_NN1 is_VBZ equally_RR saddened_VVN by_II the_AT many_DA2 who_PNQS do_VD0 not_XX stop_VVI in_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   35 <p> The teacher-librarian is also frustrated by " reading improvement " programs she knows are doomed to fail , and fail not in and of themselves , but fail because they fall short of reaching the very students who have already experienced disappointment in their literary lives .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   35 <p>_Y The_AT teacher-librarian_NN1 is_VBZ also_RR frustrated_VVN by_II "_Y reading_VVG_NN1 improvement_NN1 "_Y programs_NN2 she_PPHS1 knows_VVZ are_VBR doomed_VVN to_TO fail_VVI ,_Y and_CC fail_VVI not_XX in_RP@_II and_CC of_IO themselves_PPX2 ,_Y but_CCB fail_VV0 because_CS they_PPHS2 fall_VV0 short_JJ of_IO reaching_VVG the_AT very_JJ students_NN2 who_PNQS have_VH0 already_RR experienced_VVN disappointment_NN1 in_II their_APPGE literary_JJ lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   36 Teacher-librarians know these programs are sure to cause more harm than good because , as Richard Pliant asserts as early as 1942 , they " set out merely to raise the reading rate a certain percentage , or to increase the vocabulary by so many words , or to raise reading mileage , or to establish non-regressive eye movements ... or to recognize topic sentences " ( p. 236 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   36 Teacher-librarians_NN2 know_VV0 these_DD2 programs_NN2 are_VBR sure_JJ to_TO cause_VVI more_DAR harm_NN1 than_CSN good_JJ because_CS ,_Y as_CSA Richard_NP1 Pliant_JJ asserts_VVZ as_RG early_RR_JJ as_CSA 1942_MC ,_Y they_PPHS2 "_Y set_VV0_VVD out_RP merely_RR to_TO raise_VVI the_AT reading_NN1 rate_NN1 a_AT1 certain_JJ percentage_NN1 ,_Y or_CC to_TO increase_VVI the_AT vocabulary_NN1 by_II so_RG many_DA2 words_NN2 ,_Y or_CC to_TO raise_VVI reading_VVG_NN1 mileage_NN1 ,_Y or_CC to_TO establish_VVI non-regressive_JJ eye_NN1 movements_NN2 ..._... or_CC to_TO recognize_VVI topic_NN1 sentences_NN2 "_Y (_Y p._NNU 236_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   37 <p> A Hers is to provide students the opportunity at reading success , which can not be measured by end-of-the-month reports indicating hikes or dips in reading level .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   37 <p>_Y A_AT1 Hers_PPGE is_VBZ to_TO provide_VVI students_NN2 the_AT opportunity_NN1 at_II reading_VVG_NN1 success_NN1 ,_Y which_DDQ can_VM not_XX be_VBI measured_VVN by_II end-of-the-month_JJ_NNT1 reports_NN2 indicating_VVG hikes_NN2 or_CC dips_VVZ_NN2 in_II reading_VVG_NN1 level_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   38 The true indication of improvement is to meet with the would-be reader face-to-face , to interact with him on a regular basis .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   38 The_AT true_JJ indication_NN1 of_IO improvement_NN1 is_VBZ to_TO meet_VVI with_IW the_AT would-be_JJ reader_NN1 face-to-face_JJ ,_Y to_TO interact_VVI with_IW him_PPHO1 on_II_RP@ a_AT1 regular_JJ basis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   39 But , as Shakespeare writes , there 's the rub .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   39 But_CCB ,_Y as_CSA Shakespeare_NP1 writes_VVZ ,_Y there_EX 's_VBZ the_AT rub_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   40 If the would-be reader chooses to walk past , what is the teacher-librarian to do ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   40 If_CS the_AT would-be_JJ reader_NN1 chooses_VVZ to_TO walk_VVI past_RL ,_Y what_DDQ is_VBZ the_AT teacher-librarian_JJ_NN1 to_TO do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   41 <p> And when the would-be reader is Latino ( a part of the fastest-growing ethnic group in our nation who is shown in survey after survey to demonstrate little to no interest in reading ) , the teacher-librarian has to think outside the box .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   41 <p>_Y And_CC when_CS the_AT would-be_JJ reader_NN1 is_VBZ Latino_NP1_NN1 (_Y a_AT1 part_NN1 of_IO the_AT fastest-growing_JJT ethnic_JJ group_NN1 in_II our_APPGE nation_NN1 who_PNQS is_VBZ shown_VVN in_II survey_NN1 after_II_CS survey_NN1 to_TO demonstrate_VVI little_RR_DA1_JJ to_II no_AT interest_NN1 in_II reading_VVG_NN1 )_Y ,_Y the_AT teacher-librarian_NN1 has_VHZ to_TO think_VVI outside_II the_AT box_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   42 She must , as a matter of fact , get rid of the box altogether , and create another way of reaching students .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   42 She_PPHS1 must_VM ,_Y as_II a_AT1 matter_NN1 of_JJ32_NN132 fact_NN1 ,_Y get_VV0 rid_VVN of_IO the_AT box_NN1 altogether_RR ,_Y and_CC create_VV0 another_DD1 way_NN1 of_IO reaching_VVG students_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   43 <p> L : IF IT 'S BROKEN , REBUILD IT , AND THEY WILL COME The answer lies in the creation of a Bilingual Book Club .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   43 <p>_Y L_ZZ1_NP1@ :_Y IF_CS IT_PPH1@ 'S_VBZ BROKEN_VVN_JJ ,_Y REBUILD_VV0 IT_NN1_PPH1@ ,_Y AND_CC THEY_PPHS2 WILL_VM COME_VVI The_AT answer_NN1 lies_VVZ_NN2 in_II the_AT creation_NN1 of_IO a_AT1 Bilingual_JJ Book_NN1 Club_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   44 Teacher-librarians , well versed in outside-the-box undertakings , are the likeliest to make the book club a success their parents , teacher-librarians will provide remedies for two major problems affecting Latino communities nationwide .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   44 Teacher-librarians_NN2 ,_Y well_RR versed_VVN in_II outside-the-box_JJ_NN1 undertakings_NN2 ,_Y are_VBR the_AT likeliest_JJT to_TO make_VVI the_AT book_NN1 club_NN1 a_AT1 success_NN1 their_APPGE parents_NN2 ,_Y teacher-librarians_NN2 will_VM provide_VVI remedies_NN2 for_IF two_MC major_JJ problems_NN2 affecting_VVG Latino_NN1_NP1 communities_NN2 nationwide_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   45 First , the problem of illiteracy in the children and second , the obvious lack of traditional parental involvement in schools and in their children 's academic lives .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   45 First_MD ,_Y the_AT problem_NN1 of_IO illiteracy_NN1 in_II the_AT children_NN2 and_CC second_NNT1_MD ,_Y the_AT obvious_JJ lack_NN1 of_IO traditional_JJ parental_JJ involvement_NN1 in_II schools_NN2 and_CC in_II their_APPGE children_NN2 's_GE academic_JJ lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   46 If successful , the Bilingual Book Club will increase Latino children 's reading abilities in a far less stringent and threatening atmosphere than the classroom offers , and it will encourage more on-campus participation among parents .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   46 If_CS successful_JJ ,_Y the_AT Bilingual_JJ Book_NN1 Club_NN1 will_VM increase_VVI Latino_NN1_NP1 children_NN2 's_GE reading_NN1_VVG abilities_NN2 in_II a_AT1 far_RG less_RGR stringent_JJ and_CC threatening_VVG_JJ@ atmosphere_NN1 than_CSN the_AT classroom_NN1 offers_NN2 ,_Y and_CC it_PPH1 will_VM encourage_VVI more_RGR_DAR on-campus_JJ participation_NN1 among_II parents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   47 <p> It has been shown that Latino parents do not participate in school activities because " their roles fall largely outside the partnership model , " writes Susan Auerbach ( 2007 , p. 251 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   47 <p>_Y It_PPH1 has_VHZ been_VBN shown_VVN that_CST_DD1 Latino_NP1_NN1 parents_NN2 do_VD0 not_XX participate_VVI in_II school_NN1 activities_NN2 because_CS "_Y their_APPGE roles_NN2 fall_VV0 largely_RR outside_II the_AT partnership_NN1 model_NN1 ,_Y "_Y writes_VVZ Susan_NP1 Auerbach_NP1 (_Y 2007_MC ,_Y p._NN1_NNU 251_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   48 She defines the more traditional partnership model thus : one that " has been socially constructed to privilege White , middle-class norms and the expectations of educators " ( 252 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   48 She_PPHS1 defines_VVZ the_AT more_RGR traditional_JJ partnership_NN1 model_NN1 thus_RR :_Y one_PN1 that_CST "_Y has_VHZ been_VBN socially_RR constructed_VVN to_II privilege_NN1 White_NP1_NN1@_JJ ,_Y middle-class_JJ norms_NN2 and_CC the_AT expectations_NN2 of_IO educators_NN2 "_Y (_Y 252_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   49 Finders and Lewis ( 1994 ) in their article " Why Some Parents Do n't Come to School " write , " The institutional perspective holds that children who do not succeed in school have parents who do not get involved ( 50 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   49 Finders_NN2_NP1@ and_CC Lewis_NP1 (_Y 1994_MC )_Y in_II their_APPGE article_NN1 "_Y Why_RRQ Some_DD Parents_NN2 Do_VD0 n't_XX Come_VVN@_VV0 to_II School_NN1 "_Y write_VV0 ,_Y "_Y The_AT institutional_JJ perspective_NN1 holds_VVZ that_CST children_NN2 who_PNQS do_VD0 not_XX succeed_VVI in_II school_NN1 have_VH0 parents_NN2 who_PNQS do_VD0 not_XX get_VVI involved_JJ (_Y 50_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   50 They discuss the incorrect though prevailing attitude on low to non-existent parental participation--the " deficit model " they call it--whereby " those who need to come , do n't come , " so something must be lacking on their part .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   50 They_PPHS2 discuss_VV0 the_AT incorrect_JJ though_CS prevailing_JJ attitude_NN1 on_II low_JJ_NN1@ to_II non-existent_JJ parental_JJ participation--the_AT "_Y deficit_NN1 model_NN1 "_Y they_PPHS2 call_VV0 it--whereby_RRQ "_Y those_DD2 who_PNQS need_VV0 to_TO come_VVI ,_Y do_VD0 n't_XX come_VVI ,_Y "_Y so_CS@_RR something_PN1 must_VM be_VBI lacking_VVG on_II_RP@ their_APPGE part_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   51 If absent parents cared about their children 's academic success , would n't they show up for Open House or Meet the Teacher Night , volunteer to read aloud to kids in class , make copies for over-burdened administrators and teachers , chaperon dances or other similar functions , or bake cupcakes for fundraisers ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   51 If_CS absent_JJ parents_NN2 cared_VVN_VVD about_II their_APPGE children_NN2 's_GE academic_JJ success_NN1 ,_Y would_VM n't_XX they_PPHS2 show_VVI up_RP for_IF Open_JJ House_NN1 or_CC Meet_VV0 the_AT Teacher_NN1 Night_NNT1 ,_Y volunteer_VV0 to_TO read_VVI aloud_RR to_II kids_NN2 in_II class_NN1 ,_Y make_VV0 copies_NN2 for_IF over-burdened_JJ@ administrators_NN2 and_CC teachers_NN2 ,_Y chaperon_VV0_NN1 dances_NN2 or_CC other_JJ similar_JJ functions_NN2 ,_Y or_CC bake_VV0 cupcakes_NN2 for_IF fundraisers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   52 They would be there , right ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   52 They_PPHS2 would_VM be_VBI there_RL ,_Y right_RR_NN1_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   53 <p> Not necessarily .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   53 <p>_Y Not_XX necessarily_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   54 As educators , we can not continue to conceive of successful parental involvement in terms of numbers present at school functions or how the school benefits from parents participating .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   54 As_CSA educators_NN2 ,_Y we_PPIS2 can_VM not_XX continue_VVI to_TO conceive_VVI of_IO successful_JJ parental_JJ involvement_NN1 in_II31 terms_II32 of_II33 numbers_NN2 present_VV0@_NN1_JJ at_II school_NN1 functions_NN2 or_CC how_RRQ the_AT school_NN1 benefits_NN2 from_II parents_NN2 participating_VVG_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   55 This way of gauging successful parental involvement only perpetuates what Azmitia et al .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   55 This_DD1 way_NN1 of_IO gauging_VVG successful_JJ parental_JJ involvement_NN1 only_RR perpetuates_VVZ what_DDQ Azmitia_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   56 ( 1994 ) describe as a " mismatch " between an institution 's desired outcome for such relationships and parents ' " experiences and skills " ( n.p. ) , ignoring altogether the parents ' desired re-envisioning , a re-conceptualization on the parts of educators ( teacher-librarians , classroom teachers , and administrators ) as to what we really want from parents and the roles we must play in this new kind of relationship .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   56 (_Y 1994_MC )_Y describe_VV0 as_II a_AT1 "_Y mismatch_NN1 "_Y between_II an_AT1 institution_NN1 's_VBZ_GE_VHZ@ desired_VVN_JJ@ outcome_NN1 for_IF such_DA relationships_NN2 and_CC parents_NN2 '_GE "_Y experiences_NN2 and_CC skills_NN2 "_Y (_Y n.p._NNU )_Y ,_Y ignoring_VVG altogether_RR the_AT parents_NN2 '_GE desired_JJ@ re-envisioning_NN1@_JJ@ ,_Y a_AT1 re-conceptualization_NN1 on_II the_AT parts_NN2 of_IO educators_NN2 (_Y teacher-librarians_NN2 ,_Y classroom_NN1 teachers_NN2 ,_Y and_CC administrators_NN2 )_Y as_II21 to_II22 what_DDQ we_PPIS2 really_RR want_VV0 from_II parents_NN2 and_CC the_AT roles_NN2 we_PPIS2 must_VM play_VVI in_II_RP@ this_DD1 new_JJ kind_NN1 of_IO relationship_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   57 <p> L : STUDENTS ARE MY BOSSES As educators , we need to think of ourselves as servants to a greater cause : the students and their literacy success .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   57 <p>_Y L_ZZ1_NP1@ :_Y STUDENTS_NN2 ARE_VBR MY_APPGE BOSSES_NN2 As_CSA_II@ educators_NN2 ,_Y we_PPIS2 need_VV0 to_TO think_VVI of_IO ourselves_PPX2 as_CSA_II@ servants_NN2 to_II a_AT1 greater_JJR cause_NN1 :_Y the_AT students_NN2 and_CC their_APPGE literacy_NN1 success_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   58 We are here to serve the student , each and every one , one book at a time if need be , but to serve them in the way or ways we know best .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   58 We_PPIS2 are_VBR here_RL to_TO serve_VVI the_AT student_NN1 ,_Y each_DD1 and_CC every_AT1 one_PN1_MC1 ,_Y one_MC1 book_NN1 at_II a_AT1 time_NNT1 if_CS need_VM@ be_VBI ,_Y but_CCB to_TO serve_VVI them_PPHO2 in_II the_AT way_NN1 or_CC ways_NN2 we_PPIS2 know_VV0 best_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   59 Period .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   59 Period_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   60 Librarians know books best , and they know their readers best .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   60 Librarians_NN2 know_VV0 books_NN2 best_RRT ,_Y and_CC they_PPHS2 know_VV0 their_APPGE readers_NN2 best_RRT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   61 They know how to get kids to read .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   61 They_PPHS2 know_VV0 how_RRQ to_TO get_VVI kids_NN2 to_TO read_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   62 They know and love their spaces more than anyone else .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   62 They_PPHS2 know_VV0 and_CC love_VVI their_APPGE spaces_NN2 more_RRR than_CSN anyone_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   63 So , it only makes sense that librarians take the lead with the Bilingual Book Club .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   63 So_RR ,_Y it_PPH1 only_RR makes_VVZ sense_NN1 that_CST librarians_NN2 take_VV0 the_AT lead_NN1 with_IW the_AT Bilingual_JJ Book_NN1 Club_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   64 The benefits of such a labor are countless .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   64 The_AT benefits_NN2 of_IO such_DA a_AT1 labor_NN1 are_VBR countless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   65 Among those who share in this literacy revenue is the school , certainly , but the institution is not the focal point of such a club .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   65 Among_II those_DD2 who_PNQS share_VV0 in_II_RP@ this_DD1 literacy_NN1 revenue_NN1 is_VBZ the_AT school_NN1 ,_Y certainly_RR ,_Y but_CCB the_AT institution_NN1 is_VBZ not_XX the_AT focal_JJ point_NN1 of_IO such_DA a_AT1 club_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   66 academic success or opportunity at academic success is fundamental .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   66 academic_JJ success_NN1 or_CC opportunity_NN1 at_II academic_JJ success_NN1 is_VBZ fundamental_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   67 Then comes the parent group who takes from such interaction several things , among them the language and the knowledge of how to approach literature in the home and what is key to showing understanding in their children 's reading .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   67 Then_RT comes_VVZ the_AT parent_NN1 group_NN1 who_PNQS takes_VVZ from_II such_DA interaction_NN1 several_DA2 things_NN2 ,_Y among_II them_PPHO2 the_AT language_NN1 and_CC the_AT knowledge_NN1 of_IO how_RRQ to_TO approach_VVI literature_NN1 in_II the_AT home_NN1 and_CC what_DDQ is_VBZ key_JJ to_II showing_VVG understanding_NN1_VVG in_II their_APPGE children_NN2 's_GE reading_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   68 <p> The community at large also benefits in that children master literacy not in one language alone , but in two .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   68 <p>_Y The_AT community_NN1 at_RR21 large_RR22 also_RR benefits_NN2 in_II_CS21% that_DD1_CS22@ children_NN2 master_VV0@_NN1 literacy_NN1 not_XX in_II one_MC1 language_NN1 alone_RR_JJ ,_Y but_CCB in_II two_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   69 Bilingual speakers are more attractive to potential employers as a result of their language diversification .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   69 Bilingual_JJ speakers_NN2 are_VBR more_RGR attractive_JJ to_II potential_JJ_NN1 employers_NN2 as_II a_AT1 result_NN1 of_IO their_APPGE language_NN1 diversification_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   70 And of course , schools share in the reward of these clubs because state-mandated test scores will very likely improve when literacy is encouraged at home with as much fervor as it is being stressed at school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   70 And_CC of_RR21 course_RR22 ,_Y schools_NN2 share_VV0 in_II the_AT reward_NN1 of_IO these_DD2 clubs_NN2 because_CS state-mandated_JJ test_NN1 scores_NN2 will_VM very_RG likely_RR@ improve_VVI when_RRQ_CS literacy_NN1 is_VBZ encouraged_VVN at_II home_NN1 with_IW as_RG much_DA1 fervor_NN1 as_CSA it_PPH1 is_VBZ being_VBG stressed_VVN at_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   71 <p> L : A PARENT 'S LOVE BY ANY OTHER NAME ... It is true : a large majority of Latino parents do not attend school functions of any kind , be it Open House , Parent-Teacher Meetings , extra-curricular activities , or sporting events .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   71 <p>_Y L_ZZ1_NP1@ :_Y A_AT1@_ZZ1 PARENT_NN1 'S_GE LOVE_NN1 BY_II ANY_DD OTHER_JJ NAME_NN1 ..._... It_PPH1 is_VBZ true_JJ :_Y a_AT1 large_JJ majority_NN1 of_IO Latino_NN1_NP1 parents_NN2 do_VD0 not_XX attend_VVI school_NN1 functions_NN2 of_IO any_DD kind_NN1 ,_Y be_VBI it_PPH1 Open_JJ House_NN1 ,_Y Parent-Teacher_NN1 Meetings_NN2 ,_Y extra-curricular_JJ activities_NN2 ,_Y or_CC sporting_J events_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   72 They are absent for a variety of reasons , but the most obvious is the language barrier their not know the very private language of the education system .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   72 They_PPHS2 are_VBR absent_JJ for_IF a_AT1 variety_NN1 of_IO reasons_NN2 ,_Y but_CCB the_AT most_RGT obvious_JJ is_VBZ the_AT language_NN1 barrier_NN1 their_APPGE not_XX know_VVI the_AT very_JJ private_JJ language_NN1 of_IO the_AT education_NN1 system_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   73 They do not show up either because they fully entrust educators to take care of their children 's educational lives .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   73 They_PPHS2 do_VD0 not_XX show_VVI up_RP either_RR because_CS they_PPHS2 fully_RR entrust_VV0 educators_NN2 to_TO take_VVI care_NN1 of_IO their_APPGE children_NN2 's_GE educational_JJ lives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   74 Teachers are the ones , after all , who have invested the years into earning degrees and are the experts , and so parents understand this to mean teachers will do their part .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   74 Teachers_NN2 are_VBR the_AT ones_Z' ,_Y after_II all_DB ,_Y who_PNQS have_VH0 invested_VVN the_AT years_NNT2 into_II earning_VVG degrees_NN2 and_CC are_VBR the_AT experts_NN2 ,_Y and_CC so_RR_CS@ parents_NN2 understand_VV0 this_DD1 to_TO mean_VVI teachers_NN2 will_VM do_VDI their_APPGE part_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   75 The reasons are endless .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   75 The_AT reasons_NN2 are_VBR endless_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   76 But , as Delgado Gaitan ( 1992 ) emphatically states , Latino parents do care about their children 's success in schools ( p. 500 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   76 But_CCB ,_Y as_CSA Delgado_NP1 Gaitan_NP1 (_Y 1992_MC )_Y emphatically_RR states_VVZ_NN2 ,_Y Latino_NP1_NN1 parents_NN2 do_VD0 care_VVI about_II their_APPGE children_NN2 's_GE success_NN1 in_II schools_NN2 (_Y p._NNU 500_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   77 Their interest simply manifests itself in ways unfamiliar to educators .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   77 Their_APPGE interest_NN1 simply_RR manifests_VVZ itself_PPX1 in_II ways_NN2 unfamiliar_JJ to_II educators_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   78 <p> For example , though my father rarely attended school events , he instilled in us the need to excel in life , including in school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   78 <p>_Y For_REX21 example_REX22 ,_Y though_CS my_APPGE father_NN1 rarely_RR attended_VVN_VVD school_NN1 events_NN2 ,_Y he_PPHS1 instilled_VVD in_II us_PPIO2 the_AT need_NN1 to_TO excel_VVI in_II life_NN1 ,_Y including_VVG@ in_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   79 He made it very clear he did not want the same physical labor for his children as he experienced because he was uneducated .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   79 He_PPHS1 made_VVD it_PPH1 very_RG clear_RR@_JJ he_PPHS1 did_VDD not_XX want_VVI the_AT same_DA physical_JJ labor_NN1 for_IF his_APPGE children_NN2 as_CSA he_PPHS1 experienced_VVD because_CS he_PPHS1 was_VBDZ uneducated_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   80 Some Latino parents will insist that chores are completed before homework , while others will discipline children who get notes sent home indicating a lack of progress or misbehavior in the says Delgado Gaitain ( 2004 ) , and so this is " a critical advantage for educators to acknowledge and use as a springboard " ( p. 7 ) toward true communication between parents and schools .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   80 Some_DD Latino_NN1 parents_NN2 will_VM insist_VVI that_CST chores_NN2 are_VBR completed_VVN before_II homework_NN1 ,_Y while_CS others_NN2 will_VM_VV0%_NN1@ discipline_NN1 children_NN2 who_PNQS get_VV0 notes_NN2 sent_VVN_VVD home_RL indicating_VVG a_AT1 lack_NN1 of_IO progress_NN1 or_CC misbehavior_NN1 in_II the_AT says_VVZ Delgado_NP1 Gaitain_NN1_JJ (_Y 2004_MC )_Y ,_Y and_CC so_RR_CS@ this_DD1 is_VBZ "_Y a_AT1 critical_JJ advantage_NN1 for_IF educators_NN2 to_TO acknowledge_VVI and_CC use_VVI as_II_CSA a_AT1 springboard_NN1 "_Y (_Y p._NNU 7_MC )_Y toward_II true_JJ communication_NN1 between_II parents_NN2 and_CC schools_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   81 In addition , this true communication " must be ongoing and remain consistent to the mission of ensuring academic success of Latino students " ( p. 23 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   81 In_RR21 addition_RR22 ,_Y this_DD1 true_JJ communication_NN1 "_Y must_VM be_VBI ongoing_JJ and_CC remain_VV0 consistent_JJ to_II the_AT mission_NN1 of_IO ensuring_VVG academic_JJ success_NN1 of_IO Latino_NN1_NP1 students_NN2 "_Y (_Y p._NNU 23_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   82 <p> L : BOOK CLUB NUTS AND BOLTS Let us explore , in terms you can adapt to fit your individual needs , how to set up your own Bilingual Book Club .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   82 <p>_Y L_ZZ1_NP1@ :_Y BOOK_NN1 CLUB_NN1 NUTS_NN2 AND_CC BOLTS_NN2 Let_VV0 us_PPIO2 explore_VVI ,_Y in_II terms_NN2 you_PPY can_VM adapt_VVI to_TO fit_VVI your_APPGE individual_JJ_NN1 needs_NN2_VVZ ,_Y how_RRQ to_TO set_VVI up_RP your_APPGE own_DA Bilingual_JJ Book_NN1 Club_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   83 <p> 1 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   83 <p>_Y 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   84 SIZE MATTERS : Who will your readers be ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   84 SIZE_NN1 MATTERS_NN2_VVZ@ :_Y Who_PNQS will_VM your_APPGE readers_NN2 be_VBI ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   85 A few kids and their parent or parents , guardians , or older siblings who can read with them at home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   85 A_AT1 few_DA2 kids_NN2 and_CC their_APPGE parent_NN1 or_CC parents_NN2 ,_Y guardians_NN2 ,_Y or_CC older_JJR siblings_NN2 who_PNQS can_VM read_VVI with_IW them_PPHO2 at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   86 The club should be small : maybe three or four kids , accompanying parents , and one facilitator .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   86 The_AT club_NN1 should_VM be_VBI small_JJ :_Y maybe_RR three_MC or_CC four_MC kids_NN2 ,_Y accompanying_VVG_JJ parents_NN2 ,_Y and_CC one_MC1 facilitator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   87 The smaller the group , the more manageable it will be ; the more manageable it is , the more orderly it will be ; and the more orderly the dub , better is the chance of it being : " Getting Latino parents to stay involved in their children 's education and maintain connection with the school means that a well-defined structure needs to be in place for them to feel at home in the school " ( p. 55 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   87 The_AT smaller_JJR the_AT group_NN1 ,_Y the_AT more_RGR manageable_JJ it_PPH1 will_VM be_VBI ;_Y the_AT more_RGR manageable_JJ it_PPH1 is_VBZ ,_Y the_AT more_RGR_DAR orderly_JJ it_PPH1 will_VM be_VBI ;_Y and_CC the_AT more_RGR_DAR orderly_JJ the_AT dub_NN1 ,_Y better_RRR_JJR is_VBZ the_AT chance_NN1 of_IO it_PPH1 being_VBG :_Y "_Y Getting_VVG Latino_NN1_NP1 parents_NN2 to_TO stay_VVI involved_JJ in_II their_APPGE children_NN2 's_GE education_NN1 and_CC maintain_VV0 connection_NN1 with_IW the_AT school_NN1 means_VVZ that_CST a_AT1 well-defined_JJ structure_NN1 needs_VVZ_NN2 to_TO be_VBI in_II place_NN1 for_IF them_PPHO2 to_TO feel_VVI at_II home_NN1 in_II the_AT school_NN1 "_Y (_Y p._NNU 55_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   88 <p> In addition , a smaller group means parents will feel more comfortable taking part in the actual discussion .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   88 <p>_Y In_RR21 addition_RR22 ,_Y a_AT1 smaller_JJR group_NN1 means_VVZ_NN parents_NN2 will_VM feel_VVI more_RGR_DAR comfortable_JJ taking_JJ%_VVG_NN1% part_NN1 in_II the_AT actual_JJ discussion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   89 This does not mean you limit yourself to just one group ; organize multiple clubs that meet during the school year , even if not at the same moment of the same day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   89 This_DD1 does_VDZ not_XX mean_VVI you_PPY limit_VV0 yourself_PPX1 to_II_TO just_RR one_MC1 group_NN1 ;_Y organize_VV0 multiple_JJ_NN1 clubs_NN2 that_CST meet_VV0 during_II the_AT school_NN1 year_NNT1 ,_Y even_CS21 if_CS22 not_XX at_II the_AT same_DA moment_NN1 of_IO the_AT same_DA day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   90 The key is to serve as many kids and their parents as possible .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   90 The_AT key_NN1 is_VBZ to_TO serve_VVI as_RG many_DA2 kids_NN2 and_CC their_APPGE parents_NN2 as_CSA possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   91 <p> 2 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   91 <p>_Y 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   92 DELEGATE How feasible is the notion of multiple book clubs under one librarian 's guidance ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   92 DELEGATE_VV0@_NN1 How_RGQ@_RRQ feasible_JJ is_VBZ the_AT notion_NN1 of_IO multiple_JJ_NN1 book_NN1 clubs_NN2 under_RG one_MC1 librarian_NN1 's_GE guidance_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   93 It is not very feasible , unless you delegate much of the work , This means recruiting volunteers who will agree to facilitate their own groups .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   93 It_PPH1 is_VBZ not_XX very_RG feasible_JJ ,_Y unless_CS you_PPY delegate_VV0@ much_DA1 of_IO the_AT work_NN1 ,_Y This_DD1 means_VVZ recruiting_VVG_NN1 volunteers_NN2 who_PNQS will_VM agree_VVI to_TO facilitate_VVI their_APPGE own_DA groups_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   94 <p> Volunteers should : <p> -- look and sound like parent participants , e.g. , Latino parents already active in the school ; <p> -- have a vested interest in the community , ; <p> -- share our vision of literacy success in children , e.g. , library science and education majors looking to serve and learn .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   94 <p>_Y Volunteers_NN2 should_VM :_Y <p>_Y --_ZZ look_NN1 and_CC sound_NN1_VV0@ like_II parent_NN1 participants_NN2 ,_Y e.g._REX ,_Y Latino_NP1_NN1 parents_NN2 already_RR active_JJ in_II the_AT school_NN1 ;_Y <p>_Y --_NN1_JJ have_VH0 a_AT1 vested_JJ interest_NN1 in_II the_AT community_NN1 ,_Y ;_Y <p>_Y --_ZZ share_NN1_VV0 our_APPGE vision_NN1 of_IO literacy_NN1 success_NN1 in_II children_NN2 ,_Y e.g._REX ,_Y library_NN1 science_NN1 and_CC education_NN1 majors_NN2 looking_VVG to_TO serve_VVI and_CC learn_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   95 <p> 3 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   95 <p>_Y 3_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   96 READERS , READERS EVERYWHERE ... Where does a librarian find non- or reluctant readers to transform into life-long readers ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   96 READERS_NN2 ,_Y READERS_NN2 EVERYWHERE_RL ..._... Where_RRQ does_VDZ a_AT1 librarian_NN1 find_VVI non-_JJ_NN1 or_CC reluctant_JJ readers_NN2 to_TO transform_VVI into_II life-long_JJ readers_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   97 This is the time to speak directly to your classroom teachers and counselors .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   97 This_DD1 is_VBZ the_AT time_NNT1 to_TO speak_VVI directly_RR to_II your_APPGE classroom_NN1 teachers_NN2 and_CC counselors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   98 They should certainly be familiar with each child in your school , know his or her literacy level , and know who needs support in the classroom and in the home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   98 They_PPHS2 should_VM certainly_RR be_VBI familiar_JJ with_IW each_DD1 child_NN1 in_II your_APPGE school_NN1 ,_Y know_VV0 his_APPGE or_CC her_APPGE literacy_NN1 level_NN1 ,_Y and_CC know_VV0 who_PNQS needs_VVZ support_NN1 in_II the_AT classroom_NN1 and_CC in_II the_AT home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0   99 Ask your teacher or counselor to recommend three or four children who would benefit most from this kind of intervention .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0   99 Ask_VV0 your_APPGE teacher_NN1 or_CC counselor_NN1 to_TO recommend_VVI three_MC or_CC four_MC children_NN2 who_PNQS would_VM benefit_VVI most_RRT@_DAT from_II this_DD1 kind_NN1 of_IO intervention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  100 Your teacher or counselor can also approach parents about participating in the Book Club , explain the benefits , as well as the goals and desired outcomes , and so on .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  100 Your_APPGE teacher_NN1 or_CC counselor_NN1 can_VM also_RR approach_VVI parents_NN2 about_II participating_VVG in_II the_AT Book_NN1 Club_NN1 ,_Y explain_VV0 the_AT benefits_NN2 ,_Y as_II31 well_II32 as_II33 the_AT goals_NN2 and_CC desired_VVD_JJ@_VVN outcomes_NN2 ,_Y and_RR31 so_RR32 on_RR33 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  101 <p> 4 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  101 <p>_Y 4_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  102 WHERE , OH WHERE , DO WE MEET ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  102 WHERE_RRQ_CS ,_Y OH_UH WHERE_CS ,_Y DO_VD0 WE_PPIS2 MEET_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  103 Where do you host the book club ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  103 Where_RRQ do_VD0 you_PPY host_VVI the_AT book_NN1 club_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  104 It might make sense to meet in the library because the teacher-librarian is leader .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  104 It_PPH1 might_VM make_VVI sense_NN1 to_TO meet_VVI in_II the_AT library_NN1 because_CS the_AT teacher-librarian_NN1 is_VBZ leader_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  105 However , part of the purpose of the club grounds , but parents often find the building overwhelming .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  105 However_RR ,_Y part_NN1 of_IO the_AT purpose_NN1 of_IO the_AT club_NN1 grounds_NN2 ,_Y but_CCB parents_NN2 often_RR find_VV0 the_AT building_NN1 overwhelming_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  106 Therefore , begin in a neutral zone .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  106 Therefore_RR ,_Y begin_VV0 in_II_RP@ a_AT1 neutral_JJ zone_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  107 Consider partnering with a community center , the local bookstore , the neighborhood church , even a participant 's front porch .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  107 Consider_VV0 partnering_VVG with_IW a_AT1 community_NN1 center_NN1 ,_Y the_AT local_JJ bookstore_NN1 ,_Y the_AT neighborhood_NN1 church_NN1 ,_Y even_RR a_AT1 participant_NN1 's_GE front_JJ_NN1 porch_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  108 In a neutral zone , you the school representative are not perceived to be " in charge .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  108 In_II a_AT1 neutral_JJ zone_NN1 ,_Y you_PPY the_AT school_NN1 representative_NN1 are_VBR not_XX perceived_VVN to_TO be_VBI "_Y in_II charge_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  109 " Whatever venue you choose , rest assured , within a few meetings , parents will grow more comfortable with you as a fellow advocate , and the move to the library will not be threatening .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  109 "_Y Whatever_DDQV venue_NN1 you_PPY choose_VV0 ,_Y rest_VV0 assured_JJ ,_Y within_II a_AT1 few_DA2 meetings_NN2 ,_Y parents_NN2 will_VM grow_VVI more_RGR_DAR comfortable_JJ with_IW you_PPY as_II a_AT1 fellow_JJ_NN1 advocate_NN1 ,_Y and_CC the_AT move_NN1 to_II the_AT library_NN1 will_VM not_XX be_VBI threatening_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  110 Once there , parents will slowly stretch their comfort levels by exploring hallways , classrooms , and administrative offices .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  110 Once_RR there_RL ,_Y parents_NN2 will_VM slowly_RR stretch_VVI their_APPGE comfort_NN1 levels_NN2 by_II exploring_VVG hallways_NN2 ,_Y classrooms_NN2 ,_Y and_CC administrative_JJ offices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  111 They will take co-ownership of the school and their children 's academic success .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  111 They_PPHS2 will_VM take_VVI co-ownership_NN1 of_IO the_AT school_NN1 and_CC their_APPGE children_NN2 's_GE academic_JJ success_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  112 The point is that educators build trust in the process .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  112 The_AT point_NN1 is_VBZ that_CST educators_NN2 build_VV0 trust_NN1_VV0 in_II the_AT process_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  113 <p> 5 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  113 <p>_Y 5_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  114 BOOKS AS REFLECTIONS OF CLUB PARTICIPANTS Now , what books shall you select for your Book Club ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  114 BOOKS_NN2 AS_CSA_II@ REFLECTIONS_NN2 OF_IO CLUB_NN1 PARTICIPANTS_NN2 Now_RT ,_Y what_DDQ books_NN2 shall_VM you_PPY select_VVI for_IF your_APPGE Book_NN1 Club_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  115 As a guide , I 've included a selected bibliography , however , it is important to acquire multiple copies of titles selected .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  115 As_II_CSA a_AT1 guide_NN1 ,_Y I_PPIS1 've_VH0 included_VVN a_AT1 selected_JJ bibliography_NN1 ,_Y however_RR ,_Y it_PPH1 is_VBZ important_JJ to_TO acquire_VVI multiple_JJ_NN1 copies_NN2 of_IO titles_NN2 selected_VVN_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  116 The books should be bilingual , because it is in English and Spanish .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  116 The_AT books_NN2 should_VM be_VBI bilingual_JJ ,_Y because_CS it_PPH1 is_VBZ in_II English_NN1_JJ and_CC Spanish_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  117 It is necessary to offer books that are culturally relevant to parents .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  117 It_PPH1 is_VBZ necessary_JJ to_TO offer_VVI books_NN2 that_CST are_VBR culturally_RR relevant_JJ to_II parents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  118 They are more likely to enjoy the process if they see and hear themselves presented in the stories , too .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  118 They_PPHS2 are_VBR more_RGR likely_JJ to_TO enjoy_VVI the_AT process_NN1 if_CS they_PPHS2 see_VV0 and_CC hear_VV0 themselves_PPX2 presented_VVN_VVD in_II the_AT stories_NN2 ,_Y too_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  119 Xavier Garza 's ( 2005 picture book lucha Libre : The Man in the Silver Mask : A Bilingual Cuento is an ideal choice because a majority of Mexicans grow up watching lucha libre , a Latino counterpart to World Wrestling Entertainment .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  119 Xavier_NP1 Garza_NP1 's_GE (_Y 2005_MC picture_NN1 book_NN1 lucha_NN1 Libre_NP1_NN1 :_Y The_AT Man_NN1 in_II the_AT Silver_NP1_NN1@_JJ% Mask_NN1 :_Y A_ZZ1_AT1@ Bilingual_JJ Cuento_NN1 is_VBZ an_AT1 ideal_JJ choice_NN1 because_CS a_AT1 majority_NN1 of_IO Mexicans_NN2 grow_VV0 up_RP watching_VVG lucha_NN1 libre_NN1 ,_Y a_AT1 Latino_NN1 counterpart_NN1 to_II World_NN1 Wrestling_NN1 Entertainment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  120 In it , Carlitos ' father takes the boy to his first match where he learns about the tecnicos ( faces ) and rudos ( heels ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  120 In_II it_PPH1 ,_Y Carlitos_NP1 '_GE father_NN1 takes_VVZ the_AT boy_NN1 to_II his_APPGE first_MD match_NN1_VV0 where_CS_RRQ he_PPHS1 learns_VVZ about_II the_AT tecnicos_NN2 (_Y faces_VVZ_NN2 )_Y and_CC rudos_NN2 (_Y heels_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  121 For the older reader , Diane Bertrand 's ( 1999 ) novel Trino 's Choice is a great selection .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  121 For_IF the_AT older_JJR reader_NN1 ,_Y Diane_NP1 Bertrand_NP1 's_GE (_Y 1999_MC )_Y novel_JJ_NN1 Trino_NN1_NP1 's_GE Choice_NN1 is_VBZ a_AT1 great_JJ selection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  122 In his early teens , Trino must learn right from wrong in a world where it is much easier to do wrong to accomplish something right .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  122 In_II his_APPGE early_JJ teens_NN2 ,_Y Trino_NP1_NN1 must_VM learn_VVI right_RR_NN1_JJ from_II wrong_JJ_NN1@ in_II a_AT1 world_NN1 where_RRQ it_PPH1 is_VBZ much_RR_DA1 easier_JJR to_TO_II do_VDI wrong_JJ_RR@ to_TO accomplish_VVI something_PN1 right_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  123 Trino 's mother is a single parent with two jobs , but finds it difficult to make ends meet .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  123 Trino_NP1@_NN1 's_GE mother_NN1 is_VBZ a_AT1 single_JJ parent_NN1 with_IW two_MC jobs_NN2 ,_Y but_CCB finds_VVZ it_PPH1 difficult_JJ to_TO make_VVI ends_NN2 meet_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  124 Imagine the discussion that will take place if a parent can reminds me of when I was your age .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  124 Imagine_VV0 the_AT discussion_NN1 that_CST_DD1 will_VM take_VVI place_NN1 if_CS a_AT1 parent_NN1 can_VM reminds_VVZ me_PPIO1 of_IO when_RRQ I_PPIS1 was_VBDZ your_APPGE age_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  125 " <p> 6 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  125 "_Y <p>_Y 6_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  126 FUNDING MATTERS * Think Locally : Whether large or small , businesses are often looking for opportunities to do good deeds in the community .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  126 FUNDING_NN1_VVG@ MATTERS_NN2_VVZ@ *_FU Think_VV0 Locally_RR :_Y Whether_CSW large_JJ or_CC small_JJ ,_Y businesses_NN2 are_VBR often_RR looking_VVG for_IF opportunities_NN2 to_TO do_VDI good_JJ deeds_NN2 in_II the_AT community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  127 * Think Culturally : Latino/a-owned business owners should be approached for assistance .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  127 *_FU Think_VV0 Culturally_RR :_Y Latino/a-owned_NN1 business_NN1 owners_NN2 should_VM be_VBI approached_VVN for_IF assistance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  128 * Think Big : There may be a corporate business with an already-established literacy grant program right there in your city .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  128 *_FU Think_VV0 Big_JJ :_Y There_EX may_VM be_VBI a_AT1 corporate_JJ business_NN1 with_IW an_AT1 already-established_JJ_NN1 literacy_NN1 grant_NN1_VV0 program_NN1 right_NN1_RR there_RL in_II your_APPGE city_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  129 * WHO IS THE BOSS ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  129 *_FU WHO_NP1 IS_VBZ THE_AT BOSS_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  130 Initially , you or the volunteer will want to explain the ground rules of the book club ( these will vary from group to group or teacher-librarian to teacher-librarian ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  130 Initially_RR ,_Y you_PPY or_CC the_AT volunteer_NN1 will_VM want_VVI to_TO explain_VVI the_AT ground_NN1_JJ@ rules_NN2 of_IO the_AT book_NN1 club_NN1 (_Y these_DD2 will_VM vary_VVI from_II group_NN1 to_II group_NN1 or_CC teacher-librarian_NN1_JJ to_II teacher-librarian_NN1_JJ )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  131 While you participate in the discussions , it is important to allow parents as much freedom to participate , but model for them what educators look for as indicative of reading success ( understanding character , setting , and conflict in a book ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  131 While_CS you_PPY participate_VV0 in_II_RP@ the_AT discussions_NN2 ,_Y it_PPH1 is_VBZ important_JJ to_TO allow_VVI parents_NN2 as_RG@_CSA much_DA1 freedom_NN1 to_TO participate_VVI ,_Y but_CCB model_NN1_VV0@ for_IF them_PPHO2 what_DDQ educators_NN2 look_VV0 for_IF as_RG@ indicative_JJ of_IO reading_VVG_NN1 success_NN1 (_Y understanding_NN1_VVG_JJ@ character_NN1 ,_Y setting_VVG_NN1 ,_Y and_CC conflict_NN1_VV0@ in_II a_AT1 book_NN1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  132 The Bilingual Book Club should be , in part , a " parent education workshop " ( Delgado Gaitan , 2004 , p. 57 ) , a venue where parents can begin to gain an " p. 20 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  132 The_AT Bilingual_JJ Book_NN1 Club_NN1 should_VM be_VBI ,_Y in_RR21 part_RR22 ,_Y a_AT1 "_Y parent_NN1 education_NN1 workshop_NN1 "_Y (_Y Delgado_NP1 Gaitan_NP1 ,_Y 2004_MC ,_Y p._NN1_NNU 57_MC )_Y ,_Y a_AT1 venue_NN1 where_RRQ_CS parents_NN2 can_VM begin_VVI to_TO gain_VVI an_AT1 "_Y p._NNU 20_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  133 Allow parents to discuss their concerns related to school topics without the fear of retribution ; teach them what the system expects of the child academically ; and advise them on how to help meet those expectations at home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  133 Allow_VV0 parents_NN2 to_TO discuss_VVI their_APPGE concerns_NN2 related_VVN_VVD to_II school_NN1 topics_NN2 without_IW the_AT fear_NN1 of_IO retribution_NN1 ;_Y teach_VV0 them_PPHO2 what_DDQ the_AT system_NN1 expects_VVZ of_IO the_AT child_NN1 academically_RR ;_Y and_CC advise_VV0 them_PPHO2 on_II_RP@ how_RRQ to_TO help_VVI meet_VVI those_DD2 expectations_NN2 at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  134 <p> L : THE BOOK CLUB AND THE OLDER , COOLER STUDENT As the years pass , or if you are implementing this book club at the middle and high school levels , you may need to do some modification .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  134 <p>_Y L_ZZ1_NP1@ :_Y THE_AT BOOK_NN1 CLUB_NN1 AND_CC THE_AT OLDER_JJR ,_Y COOLER_JJR_NN1 STUDENT_NN1 As_II_CSA the_AT years_NNT2 pass_VV0_NN1 ,_Y or_CC if_CS_CSW@ you_PPY are_VBR implementing_VVG this_DD1 book_NN1 club_NN1 at_II the_AT middle_NN1_JJ and_CC high_JJ school_NN1 levels_NN2 ,_Y you_PPY may_VM need_VVI to_TO do_VDI some_DD modification_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  135 As children grow into young adulthood and become social creatures , they are often concerned about image and reputation and so do not want to be seen with parents , much less under these nerdy conditions .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  135 As_CSA children_NN2 grow_VV0 into_II young_JJ adulthood_NN1 and_CC become_VV0 social_JJ creatures_NN2 ,_Y they_PPHS2 are_VBR often_RR concerned_JJ about_II image_NN1 and_CC reputation_NN1 and_CC so_RR do_VD0 not_XX want_VVI to_TO be_VBI seen_VVN with_IW parents_NN2 ,_Y much_DA1_RR less_DAR_RRR under_II these_DD2 nerdy_JJ conditions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  136 Allow for " non-book " book clubs , that is , host " parent education workshops " in order to give parents the language necessary to discuss their children 's books at home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  136 Allow_VV0 for_IF "_Y non-book_JJ_NN1 "_Y book_NN1 clubs_NN2 ,_Y that_REX21 is_REX22 ,_Y host_VV0_NN1 "_Y parent_NN1 education_NN1 workshops_NN2 "_Y in_BCL21 order_BCL22 to_TO give_VVI parents_NN2 the_AT language_NN1 necessary_JJ to_TO discuss_VVI their_APPGE children_NN2 's_GE books_NN2 at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  137 It is true what Delgado Gaitan ( 2004 ) says : " In schools using English only , as students move up in grade , the reading material demands more of the parents .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  137 It_PPH1 is_VBZ true_JJ what_DDQ Delgado_NP1 Gaitan_NP1 (_Y 2004_MC )_Y says_VVZ :_Y "_Y In_II schools_NN2 using_VVG English_NN1_JJ only_RR ,_Y as_CSA students_NN2 move_VV0 up_RP in_II grade_NN1 ,_Y the_AT reading_NN1 material_NN1 demands_VVZ@_NN2 more_DAR_RRR of_IO the_AT parents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  138 Parents , but they try to stay engaged in their children 's learning by encouraging them " ( p. 54 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  138 Parents_NN2 ,_Y but_CCB they_PPHS2 try_VV0 to_TO stay_VVI engaged_VVN_JJ in_II their_APPGE children_NN2 's_GE learning_NN1_VVG by_II encouraging_VVG@ them_PPHO2 "_Y (_Y p._NNU 54_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  139 However , they need to do more than just encourage their children .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  139 However_RR ,_Y they_PPHS2 need_VV0 to_TO do_VDI more_DAR_RRR than_CSN just_RR encourage_VV0 their_APPGE children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  140 If parents are reading the same material their older kids are assigned , though perhaps in the parents ' first language , and you have provided them the lingo , they will do more than just encourage their children .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  140 If_CS parents_NN2 are_VBR reading_VVG the_AT same_DA material_NN1 their_APPGE older_JJR kids_NN2 are_VBR assigned_VVN ,_Y though_CS perhaps_RR in_II the_AT parents_NN2 '_GE first_MD language_NN1 ,_Y and_CC you_PPY have_VH0 provided_VVN them_PPHO2 the_AT lingo_NN1 ,_Y they_PPHS2 will_VM do_VDI more_DAR_RRR than_CSN just_RR encourage_VV0 their_APPGE children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  141 <p> L : TECHNOLOGY : A FRIEND TO THE BOOK CLUB Let us think about one more dimension of our book club idea .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  141 <p>_Y L_ZZ1_NP1@ :_Y TECHNOLOGY_NN1 :_Y A_AT1@_ZZ1 FRIEND_NN1 TO_II THE_AT BOOK_NN1 CLUB_NN1 Let_VV0_VVD@ us_PPIO2 think_VVI about_II one_MC1 more_DAR dimension_NN1 of_IO our_APPGE book_NN1 club_NN1 idea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  142 Enter technology .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  142 Enter_VV0 technology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  143 More and more children and teens have access to computers and the Internet at school and at home .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  143 More_RRR_DAR_RGR and_CC more_DAR children_NN2 and_CC teens_NN2 have_VH0 access_NN1 to_II computers_NN2 and_CC the_AT Internet_NN1_NP1 at_II school_NN1 and_CC at_II home_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  144 In a growing number of schools , every young person has his or her own computer that can be taken home as well as used during school hours .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  144 In_II a_AT1 growing_JJ number_NN1 of_IO schools_NN2 ,_Y every_AT1 young_JJ person_NN1 has_VHZ his_APPGE or_CC her_APPGE own_DA computer_NN1 that_CST_DD1 can_VM be_VBI taken_VVN home_RL as_RG_II31 well_RR_II32 as_CSA_II33 used_VVN_JJ during_II school_NN1 hours_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  145 This new digital world provides a way for the librarian and teacher to build several book clubs operating simultaneously in the digital world .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  145 This_DD1 new_JJ digital_JJ world_NN1 provides_VVZ a_AT1 way_NN1 for_IF the_AT librarian_NN1 and_CC teacher_NN1 to_TO build_VVI several_DA2 book_NN1 clubs_NN2 operating_VVG simultaneously_RR in_II the_AT digital_JJ world_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  146 Imagine the book club leader offers a question to be discussed by both parent and child .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  146 Imagine_VV0 the_AT book_NN1 club_NN1 leader_NN1 offers_VVZ@_NN2 a_AT1 question_NN1 to_TO be_VBI discussed_VVN by_II both_RR parent_NN1 and_CC child_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  147 The and so asks the child what question needs to be answered .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  147 The_AT and_CC so_RR asks_VVZ the_AT child_NN1 what_DDQ question_NN1_VV0@ needs_VVZ_NN2 to_TO be_VBI answered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  148 If there is Internet access at home , then the joint answer can be typed into a blog or wiki .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  148 If_CS there_EX is_VBZ Internet_NP1_NN1 access_NN1 at_II home_NN1 ,_Y then_RT the_AT joint_JJ answer_NN1 can_VM be_VBI typed_VVN into_II a_AT1 blog_NN1 or_CC wiki_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  149 If there is no access , then the joint answer can be typed into a word processor ( or written down ) for the student to upload the next day at school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  149 If_CS there_EX is_VBZ no_AT access_NN1 ,_Y then_RT the_AT joint_JJ answer_NN1 can_VM be_VBI typed_VVN into_II a_AT1 word_NN1 processor_NN1 (_Y or_CC written_VVN down_RP )_Y for_IF the_AT student_NN1 to_TO upload_VVI the_AT next_MD day_NNT1 at_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  150 This new dimension may encourage the parent to learn computer skills From their children or the other way around .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  150 This_DD1 new_JJ dimension_NN1 may_VM encourage_VVI the_AT parent_NN1 to_TO learn_VVI computer_NN1 skills_NN2 From_II their_APPGE children_NN2 or_CC the_AT other_JJ way_NN1 around_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  151 Perhaps ICT literacy grows simultaneously along with reading , conversation , parent/child discussion , and conversation with other Latinos online , while everyone enjoys books together .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  151 Perhaps_RR ICT_VV0 literacy_NN1 grows_VVZ simultaneously_RR along_II21 with_II22 reading_NN1_VVG ,_Y conversation_NN1 ,_Y parent/child_NN1 discussion_NN1 ,_Y and_CC conversation_NN1 with_IW other_JJ Latinos_NN2 online_RR ,_Y while_CS everyone_PN1 enjoys_VVZ books_NN2 together_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  152 <p> L : IMAGINE SUCCESS ... Imagine the following scenario playing out sometime later at a child 's home : morn gets home from work and while fixing the evening 's supper , asks her daughter , " Mi'ja , what are you reading ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  152 <p>_Y L_ZZ1_NP1@ :_Y IMAGINE_VV0 SUCCESS_NN1 ..._... Imagine_VV0 the_AT following_JJ scenario_NN1 playing_VVG out_RP sometime_RT later_RRR_JJR at_II a_AT1 child_NN1 's_VBZ_GE home_RL_NN1@ :_Y morn_NN1 gets_VVZ home_RL from_II work_NN1 and_CC while_CS fixing_VVG the_AT evening_NNT1 's_GE supper_NN1 ,_Y asks_VVZ her_APPGE daughter_NN1 ,_Y "_Y Mi'ja_NP1 ,_Y what_DDQ are_VBR you_PPY reading_VVG ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  153 Oh , and what is the name of the main character ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  153 Oh_UH ,_Y and_CC what_DDQ is_VBZ the_AT name_NN1 of_IO the_AT main_JJ character_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  154 Tell me about him .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  154 Tell_VV0 me_PPIO1 about_II him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  155 ... Is the setting more like where we live or different ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  155 ..._... Is_VBZ the_AT setting_NN1_VVG more_RRR_RGR like_II_JJ@ where_RRQ_CS we_PPIS2 live_VV0 or_CC different_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  156 Oh , and what <p> Compare that to what usually takes place : " Mi'ja , are you done with your homework ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  156 Oh_UH ,_Y and_CC what_DDQ <p>_Y Compare_VV0 that_CST_DD1 to_II what_DDQ usually_RR takes_VVZ place_NN1 :_Y "_Y Mi'ja_NP1 ,_Y are_VBR you_PPY done_VDN with_IW your_APPGE homework_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  157 Good .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  157 Good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  158 Now let me sign the homework log your teacher sent with you .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  158 Now_RT let_VV0 me_PPIO1 sign_NN1 the_AT homework_NN1 log_NN1_VV0@ your_APPGE teacher_NN1 sent_VVN_VVD with_IW you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  159 " <p> Both illustrations present a parent who cares a great deal about her daughter 's academic success .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  159 "_Y <p>_Y Both_DB2 illustrations_NN2 present_VV0@ a_AT1 parent_NN1 who_PNQS cares_VVZ a_RR31@_AT1 great_RR32_JJ deal_RR33_NN1 about_II her_APPGE daughter_NN1 's_GE academic_JJ success_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  160 The former , though , demonstrates how even a few words added to a parent 's language reservoir ( Trelease , 2006 , p. 33 ) can improve the chances of a child becoming a life-long reader , and thus academically successful .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  160 The_AT former_DA ,_Y though_CS_RR@ ,_Y demonstrates_VVZ how_RRQ_RGQ@ even_RR a_AT1 few_DA2 words_NN2 added_VVN_VVD to_II a_AT1 parent_NN1 's_GE language_NN1 reservoir_NN1 (_Y Trelease_NP1_VV0_NN1 ,_Y 2006_MC ,_Y p._NN1_NNU 33_MC )_Y can_VM improve_VVI the_AT chances_NN2 of_IO a_AT1 child_NN1 becoming_VVG a_AT1 life-long_JJ reader_NN1 ,_Y and_CC thus_RR academically_RR successful_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  161 <p> Opening your library to these book clubs is one example of not merely thinking outside the box , but of tearing down the box that is not working for certain children and their parents .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  161 <p>_Y Opening_VVG your_APPGE library_NN1 to_II these_DD2 book_NN1 clubs_NN2 is_VBZ one_MC1 example_NN1 of_IO not_XX merely_RR thinking_VVG outside_II the_AT box_NN1 ,_Y but_CCB of_IO tearing_VVG down_RP_II@ the_AT box_NN1 that_CST_DD1 is_VBZ not_XX working_VVG for_IF certain_JJ children_NN2 and_CC their_APPGE parents_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  162 It requires constructing a new box--one that is most certainly nontraditional , yet insists that parents be active participants in their children 's educational well-being rather than passive ; allows for participation in their first and comfortable language ; and redefines parental involvement so children benefit directly and immediately rather than only the school benefiting ( Delgado Gaitan , , as educator , are not satisfied with serving only some children .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  162 It_PPH1 requires_VVZ constructing_VVG a_AT1 new_JJ box--one_MC that_DD1_CST is_VBZ most_RGT certainly_RR nontraditional_JJ ,_Y yet_RR insists_VVZ that_CST parents_NN2 be_VBI active_JJ participants_NN2 in_II their_APPGE children_NN2 's_GE educational_JJ well-being_NN1 rather_II21 than_II22 passive_JJ_NN1@ ;_Y allows_VVZ for_IF participation_NN1 in_II their_APPGE first_MD and_CC comfortable_JJ language_NN1 ;_Y and_CC redefines_VVZ_NN2 parental_JJ involvement_NN1 so_RR_CS@ children_NN2 benefit_VV0 directly_RR and_CC immediately_RR rather_II21_CS21@ than_II22_CS22@ only_RR the_AT school_NN1 benefiting_VVG_JJ (_Y Delgado_NP1 Gaitan_NP1 ,_Y ,_Y as_CSA educator_NN1 ,_Y are_VBR not_XX satisfied_VVN@_JJ with_IW serving_VVG only_RR some_DD children_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  163 All because you want every one of your students to love reading and books as much as you do .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  163 All_RR@_DB because_CS you_PPY want_VV0 every_AT1 one_MC1 of_IO your_APPGE students_NN2 to_TO love_VVI reading_NN1_VVG and_CC books_NN2 as_RG much_DA1 as_CSA you_PPY do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  164 All because you care , and you dare .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  164 All_RR@_DB because_CS you_PPY care_VV0 ,_Y and_CC you_PPY dare_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  165 <p> Added Benefits for Parent Participants : They will : a .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  165 <p>_Y Added_JJ Benefits_NN2 for_IF Parent_NN1 Participants_NN2 :_Y They_PPHS2 will_VM :_Y a_AT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  166 Begin to learn the language of academia b .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  166 Begin_VV0 to_TO learn_VVI the_AT language_NN1 of_IO academia_NN1 b_ZZ1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  167 Become better acquainted with and feel more at ease on campus c .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  167 Become_VV0 better_RRR acquainted_VVN with_IW and_CC feel_VV0 more_RRR_DAR at_II ease_NN1 on_II campus_NN1 c_ZZ1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  168 Take on school-related responsibilities .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  168 Take_VV0 on_RP school-related_JJ_NN1 responsibilities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  169 d .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  169 d_ZZ1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  170 Take leadership roles in school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  170 Take_VV0 leadership_NN1 roles_NN2 in_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  171 <p> L : REFERENCES -- Auerbach , S. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  171 <p>_Y L_ZZ1_NP1@ :_Y REFERENCES_NN2_VVZ@ --_ZZ Auerbach_NP1 ,_Y S._NP1 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  172 From moral supporters to struggling advocates : Reconceptualizing parent roles in education through the experience of working-class families of color .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  172 From_II moral_JJ supporters_NN2 to_II struggling_JJ_VVG advocates_NN2 :_Y Reconceptualizing_NP1_VVG_JJ@ parent_NN1 roles_NN2 in_II education_NN1 through_II the_AT experience_NN1 of_IO working-class_JJ families_NN2 of_IO color_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  173 Urban Education , 42 ( 3 ) , 250-283 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  173 Urban_JJ Education_NN1 ,_Y 42_MC (_Y 3_MC )_Y ,_Y 250-283_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  174 <p> -- Azmitia , M. , Cooper , C. R. , Garcia , E. E. , Ittel , A. , Johanson , B. , Lopez , E. M. , et al .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  174 <p>_Y --_ZZ Azmitia_NP1_NN1@ ,_Y M._NN1 ,_Y Cooper_NP1 ,_Y C._NP1 R._NP1 ,_Y Garcia_NP1 ,_Y E._NP1 E._NP1 ,_Y Ittel_NP1 ,_Y A._ZZ ,_Y Johanson_NP1 ,_Y B._NP1 ,_Y Lopez_NP1 ,_Y E._NP1 M._NN1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  175 ( 1994 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  175 (_Y 1994_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  176 Links between home and school among low-income Mexican-American and European-American families ( Educational Practice Report : 9 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  176 Links_NN2_VVZ between_II home_NN1 and_CC school_NN1 among_II low-income_JJ_NN1 Mexican-American_JJ_NN1@ and_CC European-American_JJ families_NN2 (_Y Educational_JJ Practice_NN1 Report_NN1 :_Y 9_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  177 Santa Cruz , CA Language Learning .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  177 Santa_NP1 Cruz_NP1 ,_Y CA_NP1@_VM Language_NN1 Learning_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  178 Retrieved from http : **39;14492;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  178 Retrieved_VVN_VVD from_II http_NNU :_Y **39;14492;TOOLONG_VV0_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  179 <p> -- Delgado Gaitan , C. ( 1992 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  179 <p>_Y --_ZZ Delgado_NP1 Gaitan_NP1 ,_Y C._NP1_ZZ1@ (_Y 1992_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  180 School matters in the Mexican-American home : Socializing children to education .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  180 School_NN1 matters_NN2_VVZ@ in_II the_AT Mexican-American_JJ home_NN1 :_Y Socializing_VVG_NP1_JJ@ children_NN2 to_II education_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  181 American Educational Research Journal , 29 ( 3 ) , 495-513 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  181 American_JJ Educational_JJ Research_NN1 Journal_NN1 ,_Y 29_MC (_Y 3_MC )_Y ,_Y 495-513_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  182 <p> -- Delgado Gaitan , C. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  182 <p>_Y --_ZZ Delgado_NP1 Gaitan_NP1 ,_Y C._NP1_ZZ1@ (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  183 Involving latino families : Raising student achievement through home-school partnerships .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  183 Involving_VVG latino_NN1 families_NN2 :_Y Raising_VVG_NN1 student_NN1 achievement_NN1 through_II home-school_JJ_NN1 partnerships_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  184 Thousand Oaks , CA : Corwin Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  184 Thousand_M Oaks_NN2 ,_Y CA_NP1@_VM :_Y Corwin_NP1 Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  185 <p> -- Finders , M. , Lewis , C. ( 1994 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  185 <p>_Y --_ZZ Finders_NN2_NP1 ,_Y M._NN1 ,_Y Lewis_NP1 ,_Y C._NP1_ZZ1@ (_Y 1994_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  186 Why some parents do n't come to school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  186 Why_RRQ some_DD parents_NN2 do_VD0 n't_XX come_VVI to_II school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  187 Educational Leadership , 51 ( 8 ) , 50-54 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  187 Educational_JJ Leadership_NN1 ,_Y 51_MC (_Y 8_MC )_Y ,_Y 50-54_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  188 <p> -- Fox , M. ( 2001 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  188 <p>_Y --_ZZ Fox_NP1_NN1@ ,_Y M._NNU@_NN1 (_Y 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  189 Reading magic : Why reading aloud to our children will change their lives forever .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  189 Reading_NP1_VVG_NN1 magic_NN1_JJ :_Y Why_RRQ reading_NN1 aloud_RR to_II our_APPGE children_NN2 will_VM change_VVI their_APPGE lives_NN2 forever_RT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  190 San Diego , CA : A Harvest Original Harcourt , Inc .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  190 San_NP1 Diego_NP1 ,_Y CA_NP1@_VM :_Y A_ZZ1_AT1@ Harvest_VV0_NN1 Original_JJ Harcourt_NP1 ,_Y Inc_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  191 <p> -- Gioia , D. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  191 <p>_Y --_ZZ Gioia_NP1_NN1@ ,_Y D._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  192 Preface .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  192 Preface_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  193 In Reading at risk : A survey of literary reading in America ( Research Division Report #46 ) ( p. vii ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  193 In_II Reading_NP1_VVG@ at_II risk_NN1 :_Y A_AT1@_ZZ1 survey_NN1 of_IO literary_JJ reading_NN1 in_II America_NP1 (_Y Research_NN1_VV0@ Division_NN1 Report_NN1 #46_NNU )_Y (_Y p._NNU vii_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  194 Washington , DC : Office of Research Analysis , National Endowment for the Arts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  194 Washington_NP1 ,_Y DC_NP1 :_Y Office_NN1 of_IO Research_NN1 Analysis_NN1 ,_Y National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  195 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  195 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  196 In To read or not to read : A question of national consequence .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  196 In_RP@_II To_TO read_VVI or_CC not_XX to_TO read_VVI :_Y A_AT1@_ZZ1 question_NN1 of_IO national_JJ consequence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  197 ( Research Report #47 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  197 (_Y Research_NN1_VV0@ Report_NN1 #47_NNU )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  198 ( pp. 5-6 ) Washington , DC : Office of Research Analysis , National Endowment for the Arts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  198 (_Y pp._NNU2 5-6_MCMC )_Y Washington_NP1 ,_Y DC_NP1 :_Y Office_NN1 of_IO Research_NN1 Analysis_NN1 ,_Y National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  199 <p> -- Krashen , S. D. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  199 <p>_Y --_ZZ Krashen_NP1_NN1@ ,_Y S._NP1 D._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  200 The power of reading : Insights from the research .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  200 The_AT power_NN1 of_IO reading_NN1_VVG :_Y Insights_NN2 from_II the_AT research_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  201 ( 2nd ed .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  201 (_Y 2nd_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  202 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  202 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  203 Portsmouth , NH : Heinemann .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  203 Portsmouth_NP1 ,_Y NH_NP1 :_Y Heinemann_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  204 <p> -- National Endowment for the Arts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  204 <p>_Y --_ZZ National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  205 ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  205 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  206 Reading at risk : A survey of literary reading in America ( Research Division Report #46 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  206 Reading_VVG_NP1_NN1 at_II risk_NN1 :_Y A_AT1@_ZZ1 survey_NN1 of_IO literary_JJ reading_NN1 in_II America_NP1 (_Y Research_NN1_VV0@ Division_NN1 Report_NN1 #46_NNU )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  207 Washington , DC : Office of Research Analysis , National Endowment for the Arts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  207 Washington_NP1 ,_Y DC_NP1 :_Y Office_NN1 of_IO Research_NN1 Analysis_NN1 ,_Y National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  208 <p> -- National Endowment for the Arts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  208 <p>_Y --_ZZ National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  209 ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  209 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  210 To read or not to read : A question of national consequence .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  210 To_TO read_VVI or_CC not_XX to_TO read_VVI :_Y A_AT1@_ZZ1 question_NN1 of_IO national_JJ consequence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  211 ( Research Report #47 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  211 (_Y Research_NN1_VV0@ Report_NN1 #47_NNU )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  212 Washington , DC : Office of Research Analysis , National Endowment for the Arts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  212 Washington_NP1 ,_Y DC_NP1 :_Y Office_NN1 of_IO Research_NN1 Analysis_NN1 ,_Y National_JJ Endowment_NN1 for_IF the_AT Arts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  213 <p> -- Pliant , R. ( 1942 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  213 <p>_Y --_ZZ Pliant_JJ ,_Y R._NP1 (_Y 1942_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  214 Reading Improvement Programs .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  214 Reading_NP1_VVG_NN1 Improvement_NN1 Programs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  215 The English Journal , 31 ( 3 ) , 235-37 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  215 The_AT English_JJ_NN1 Journal_NN1 ,_Y 31_MC (_Y 3_MC )_Y ,_Y 235-37_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  216 <p> Read-Aloud Handbook .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  216 <p>_Y Read-Aloud_RR Handbook_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  217 ( 6th ed .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  217 (_Y 6th_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  218 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  218 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  219 New York : Penguin Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  219 New_NP1 York_NP1 :_Y Penguin_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  220 <p> L : SELECTED BIBLIOGRAPHY PICTURE BOOKS Ada , A. F. , ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  220 <p>_Y L_ZZ1_NP1@ :_Y SELECTED_JJ BIBLIOGRAPHY_NN1 PICTURE_NN1 BOOKS_NN2 Ada_NP1 ,_Y A._ZZ F._NP1_RA@ ,_Y (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  221 Gathering the Sun : An Alphabet in Spanish and English .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  221 Gathering_VVG the_AT Sun_NN1 :_Y An_AT1 Alphabet_NN1 in_II Spanish_JJ_NN1@ and_CC English_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  222 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  222 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  223 S. Silva .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  223 S._NP1 Silva_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  224 New York : Lothrop , Lee Shepard Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  224 New_NP1 York_NP1 :_Y Lothrop_NP1 ,_Y Lee_NP1 Shepard_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  225 <p> Alarcn , F. X. ( 2001 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  225 <p>_Y Alarcn_VV0_NN1_NP1@ ,_Y F._NP1 X._NP1 (_Y 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  226 Iguanas in the snow and other winter poems : Iguanas en la nieve y otros poemas de invierno .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  226 Iguanas_NN2_NP1@ in_II the_AT snow_NN1 and_CC other_JJ winter_NNT1 poems_NN2 :_Y Iguanas_NN2@_NP2 en_FW la_FW nieve_VV0_NN1 y_ZZ1 otros_NN2 poemas_NN2 de_NP1_FW invierno_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  227 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  227 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  228 M. C. Gonzalez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  228 M._NN1 C._NP1 Gonzalez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  229 San Francisco , CA : Children 's Book Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  229 San_NP1 Francisco_NP1 ,_Y CA_NP1@_VM :_Y Children_NN2 's_GE Book_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  230 <p> Alarcn , F. X. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  230 <p>_Y Alarcn_VV0_NN1_NP1@ ,_Y F._NP1 X._NP1 (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  231 Laughing tomatoes and other spring poems : Jitmates risuenos y otros poemas de primavera .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  231 Laughing_VVG_JJ@ tomatoes_NN2 and_CC other_JJ spring_NN1 poems_NN2 :_Y Jitmates_NP1_VVZ risuenos_NN2 y_ZZ1 otros_NN2 poemas_NN2 de_NP1_FW primavera_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  232 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  232 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  233 M. C. Gonzalez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  233 M._NN1 C._NP1 Gonzalez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  234 San Francisco , CA : Children 's Book Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  234 San_NP1 Francisco_NP1 ,_Y CA_NP1@_VM :_Y Children_NN2 's_GE Book_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  235 <p> Brown , M. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  235 <p>_Y Brown_NP1 ,_Y M._NNU@_NN1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  236 My name is Celia : The life of Celia Cruz/Me llama Celia : La vida de Celia Cruz .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  236 My_APPGE name_NN1 is_VBZ Celia_NP1 :_Y The_AT life_NN1 of_IO Celia_NP1 Cruz/Me_FU llama_NN1 Celia_NP1 :_Y La_FU_NP1_FW vida_NN1 de_NP1_FW Celia_NP1 Cruz_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  237 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  237 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  238 R. Lopez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  238 R._NP1 Lopez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  239 Flagstaff , AZ : Luna Rising .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  239 Flagstaff_NN1 ,_Y AZ_NP1_VV0 :_Y Luna_NP1 Rising_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  240 <p> Colato Lanez , R. ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  240 <p>_Y Colato_NP1@_NN1 Lanez_NP1 ,_Y R._NP1 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  241 I am .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  241 I_PPIS1 am_VBM ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  242 G. Ramirez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  242 G._NP1 Ramirez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  243 Houston , TX : Piata Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  243 Houston_NP1 ,_Y TX_NP1 :_Y Piata_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  244 <p> Dorros , A. ( 1991 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  244 <p>_Y Dorros_NN2_NP1@ ,_Y A._ZZ (_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  245 Abuela .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  245 Abuela_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  246 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  246 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  247 E. Klevenl .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  247 E._NP1 Klevenl_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  248 New York : Puffin Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  248 New_NP1 York_NP1 :_Y Puffin_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  249 <p> Dorros , A. ( 1995 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  249 <p>_Y Dorros_NN2_NP1@ ,_Y A._ZZ (_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  250 Abuela .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  250 Abuela_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  251 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  251 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  252 E. Kleven .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  252 E._NP1 Kleven_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  253 ( S. M. Dorros , Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  253 (_Y S._NP1 M._NN1 Dorros_NN2_NP1 ,_Y Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  254 ) New York : Puffin Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  254 )_Y New_NP1 York_NP1 :_Y Puffin_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  255 <p> Garza , X. ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  255 <p>_Y Garza_NN1_NP1@ ,_Y X._NP1 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  256 Lucha libre : The man in the silver mask : A bilingual cuento .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  256 Lucha_NN1_NP1@ libre_NN1 :_Y The_AT man_NN1 in_II the_AT silver_NN1_JJ@ mask_NN1 :_Y A_ZZ1_AT1@ bilingual_JJ cuento_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  257 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  257 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  258 L. H. Crosthwaite .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  258 L._NP1 H._NP1 Crosthwaite_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  259 El Paso , TX : Cinco Puntos Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  259 El_NP1 Paso_NP1 ,_Y TX_NP1 :_Y Cinco_NP1 Puntos_NP2 Press_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  260 <p> Gonzlez , L. ( 2008 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  260 <p>_Y Gonzlez_VV0_NN1_NP1@ ,_Y L._NP1_NNU@ (_Y 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  261 The storyteller 's candle/La velita de los cuentos .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  261 The_AT storyteller_NN1 's_VBZ_GE candle/La_FU velita_NN1 de_FW los_FW cuentos_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  262 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  262 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  263 L. Delacre .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  263 L._NP1 Delacre_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  264 San Francisco , CA : Children 's Book Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  264 San_NP1 Francisco_NP1 ,_Y CA_NP1@_VM :_Y Children_NN2 's_GE Book_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  265 <p> Jimenez , F. ( 1998 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  265 <p>_Y Jimenez_NP1 ,_Y F._NP1_RA@ (_Y 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  266 La mariposa .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  266 La_FU_FW mariposa_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  267 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  267 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  268 S. Silva .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  268 S._NP1 Silva_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  269 New York : Houghton Mifflin .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  269 New_NP1 York_NP1 :_Y Houghton_NP1 Mifflin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  270 <p> Martinez , A. C. ( 1991 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  270 <p>_Y Martinez_NP1 ,_Y A._ZZ C._NP1 (_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  271 The woman who outshone the sun/La mujer que brillaba an ms que el sol .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  271 The_AT woman_NN1 who_PNQS outshone_VVD the_AT sun/La_FU mujer_NN1 que_FW brillaba_NN1 an_AT1 ms_NN1 que_FW el_NN1_VV0 sol_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  272 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  272 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  273 F. Olivera .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  273 F._NP1 Olivera_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  274 San Francisco , CA : Children 's Book Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  274 San_NP1 Francisco_NP1 ,_Y CA_NP1@_VM :_Y Children_NN2 's_GE Book_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  275 the library lady .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  275 the_AT library_NN1 lady_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  276 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  276 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  277 R. Coln .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  277 R._NP1 Coln_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  278 New York : Alfred A. Knopf .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  278 New_NP1 York_NP1 :_Y Alfred_NP1 A._ZZ Knopf_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  279 <p> Mora , P. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  279 <p>_Y Mora_NN1_NP1@ ,_Y P._NP1_NNU@ (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  280 Toms y la seora de la biblioteca .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  280 Toms_NPX y_ZZ1 la_FU seora_NN1 de_FW la_FW biblioteca_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  281 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  281 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  282 R. Coln .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  282 R._NP1 Coln_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  283 New York : Dragonfly Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  283 New_NP1 York_NP1 :_Y Dragonfly_NN1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  284 <p> Morales , Y. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  284 <p>_Y Morales_NN2 ,_Y Y._NP1 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  285 Little night .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  285 Little_DA1_JJ night_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  286 New York : Roaring Brook Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  286 New_NP1 York_NP1 :_Y Roaring_VVG_JJ@ Brook_NP1_NN1@ Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  287 <p> Morales , Y. ( 2007 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  287 <p>_Y Morales_NN2 ,_Y Y._NP1 (_Y 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  288 Nochecita .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  288 Nochecita_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  289 New York : Roaring Brook Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  289 New_NP1 York_NP1 :_Y Roaring_VVG_JJ@ Brook_NP1_NN1@ Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  290 <p> Prez , A. I. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  290 <p>_Y Prez_VV0_NN1_NP1@ ,_Y A._ZZ I._NP1 (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  291 My diary from here to there/Mi diario de aqui hasta all .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  291 My_APPGE diary_NN1 from_II here_RL to_II there/Mi_FU diario_NN1 de_FW aqui_FW hasta_NN1 all_DB_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  292 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  292 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  293 M. C. Gonzalez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  293 M._NN1 C._NP1 Gonzalez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  294 San Francisco , CA : Children 's Book Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  294 San_NP1 Francisco_NP1 ,_Y CA_NP1@_VM :_Y Children_NN2 's_GE Book_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  295 <p> Posada , J. ( with R. Burleigh ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  295 <p>_Y Posada_NN1_NP1@ ,_Y J._NP1 (_Y with_IW R._NP1 Burleigh_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  296 ( 2006 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  296 (_Y 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  297 Play Ball !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  297 Play_VV0_NN1 Ball_NN1 !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  298 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  298 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  299 R. Coln .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  299 R._NP1 Coln_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  300 New York : Simon Schuster Books for Young Readers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  300 New_NP1 York_NP1 :_Y Simon_NP1 Schuster_NP1_NN1 Books_NN2 for_IF Young_JJ Readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  301 <p> Posada , J. ( with R. Burleigh ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  301 <p>_Y Posada_NN1_NP1@ ,_Y J._NP1 (_Y with_IW R._NP1 Burleigh_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  302 ( 2006 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  302 (_Y 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  303 S , Puedes .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  303 S_ZZ1_NP1@ ,_Y Puedes_NP2_VVZ@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  304 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  304 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  305 R. Coln .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  305 R._NP1 Coln_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  306 New York : Simon Schuster Books for Young Readers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  306 New_NP1 York_NP1 :_Y Simon_NP1 Schuster_NP1_NN1 Books_NN2 for_IF Young_JJ Readers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  307 <p> Senz , B. A. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  307 <p>_Y Senz_VV0_NN1_NP1@ ,_Y B._NP1 A._ZZ (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  308 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  308 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  309 G. Garcia .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  309 G._NP1 Garcia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  310 El Paso , TX : Cinco Puntos Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  310 El_NP1 Paso_NP1 ,_Y TX_NP1 :_Y Cinco_NP1 Puntos_NP2 Press_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  311 <p> Soto , G. ( 1993 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  311 <p>_Y Soto_NN1_NP1@ ,_Y G._NP1_NNU@ (_Y 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  312 Too Many Tamales .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  312 Too_RG Many_DA2 Tamales_NP2_NN2@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  313 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  313 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  314 E. Martinez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  314 E._NP1 Martinez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  315 New York : G.P. Putnam 's Sons .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  315 New_NP1 York_NP1 :_Y G.P._NN1 Putnam_NP1 's_GE Sons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  316 <p> Soto , G. ( 1996 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  316 <p>_Y Soto_NN1_NP1@ ,_Y G._NP1_NNU@ (_Y 1996_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  317 Que montn de tamales !
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  317 Que_FW_NP1@ montn_VV0_NN1 de_NP1_FW tamales_NN2 !_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  318 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  318 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  319 E. Martinez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  319 E._NP1 Martinez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  320 ( F. I. Campoy , Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  320 (_Y F._NP1 I._NP1 Campoy_NP1 ,_Y Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  321 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  321 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  322 New York : G.P. Putnam 's Sons .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  322 New_NP1 York_NP1 :_Y G.P._NN1 Putnam_NP1 's_GE Sons_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  323 ( Original work published 1993 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  323 (_Y Original_JJ work_NN1 published_VVD_VVN 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  324 <p> FICTION : CHAPTER BOOKS , STORY COLLECTIONS , AND NOVELS Ada , A. F. ( 1995 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  324 <p>_Y FICTION_NN1 :_Y CHAPTER_NN1 BOOKS_NN2 ,_Y STORY_NN1 COLLECTIONS_NN2 ,_Y AND_CC NOVELS_NN2 Ada_NP1 ,_Y A._ZZ F._NP1_RA@ (_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  325 My name is Maria Isabel .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  325 My_APPGE name_NN1 is_VBZ Maria_NP1 Isabel_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  326 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  326 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  327 K. D. Thompson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  327 K._NP1 D._NP1 Thompson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  328 New York : Aladdin Paperbacks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  328 New_NP1 York_NP1 :_Y Aladdin_NP1 Paperbacks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  329 <p> Ada , A. F. ( 1996 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  329 <p>_Y Ada_NP1 ,_Y A._ZZ F._NP1_RA@ (_Y 1996_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  330 Me llamo Maria Isabel .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  330 Me_PPIO1 llamo_NN1 Maria_NP1 Isabel_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  331 III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  331 III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  332 K. D. Thompson .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  332 K._NP1 D._NP1 Thompson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  333 New York : Aladdin Paperbacks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  333 New_NP1 York_NP1 :_Y Aladdin_NP1 Paperbacks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  334 <p> Alvarez , J. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  334 <p>_Y Alvarez_VV0_NN1_NP1@ ,_Y J._NP1 (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  335 Before we were free .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  335 Before_CS we_PPIS2 were_VBDR free_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  336 New York : Laurel Leaf Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  336 New_NP1 York_NP1 :_Y Laurel_NP1 Leaf_NN1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  337 <p> Alvarez , J. ( 2004 ) Antes de ser libres .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  337 <p>_Y Alvarez_VV0_NN1_NP1@ ,_Y J._NP1 (_Y 2004_MC )_Y Antes_NP2 de_NP1_FO% ser_NN1_JJR libres_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  338 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  338 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  339 L. Valenzuela .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  339 L._NP1 Valenzuela_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  340 New York : Dell-Laurel Leaf .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  340 New_NP1 York_NP1 :_Y Dell-Laurel_NP1 Leaf_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  341 <p> Bertrand , D. , TX : Piata Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  341 <p>_Y Bertrand_NP1 ,_Y D._NP1 ,_Y TX_NP1 :_Y Piata_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  342 <p> Bertrand , D. G. ( 2005 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  342 <p>_Y Bertrand_NP1 ,_Y D._NP1 G._NP1 (_Y 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  343 El dilemma de Trino .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  343 El_NP1 dilemma_NN1 de_NP1_FW Trino_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  344 ( Author , Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  344 (_Y Author_NN1 ,_Y Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  345 Houston , TX : Piata Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  345 Houston_NP1 ,_Y TX_NP1 :_Y Piata_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  346 ( Original work published 1999 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  346 (_Y Original_JJ work_NN1 published_VVD_VVN 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  347 <p> Bertrand , D. G. ( 2004 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  347 <p>_Y Bertrand_NP1 ,_Y D._NP1 G._NP1 (_Y 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  348 Upside down and backwards/De cabeza y al revz .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  348 Upside_RL21 down_RL22 and_CC backwards/De_FU cabeza_NN1 y_ZZ1 al_FW_NP1 revz_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  349 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  349 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  350 K. Hernandez .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  350 K._NP1 Hernandez_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  351 Houston , TX : Piata Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  351 Houston_NP1 ,_Y TX_NP1 :_Y Piata_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  352 <p> Cofer , J. O. ( 1995 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  352 <p>_Y Cofer_VV0_NN1_NP1@ ,_Y J._NP1 O._NP1 (_Y 1995_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  353 An Island Like You .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  353 An_AT1 Island_NN1 Like_II_VV0@ You_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  354 New York : Puffin Books .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  354 New_NP1 York_NP1 :_Y Puffin_NP1 Books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  355 <p> Cofer , J. O. ( 1999 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  355 <p>_Y Cofer_VV0_NN1_NP1@ ,_Y J._NP1 O._NP1 (_Y 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  356 Una isla coma tu : historias del barrio .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  356 Una_NN1_NP1@ isla_NN1 coma_NN1 tu_NN1 :_Y historias_NN2 del_FW barrio_FW ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  357 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  357 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  358 J. E. Tovar Cross .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  358 J._NP1 E._NP1 Tovar_NP1_NN1 Cross_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  359 San Diego , CA : Fondo de Cultura Economica USA .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  359 San_NP1 Diego_NP1 ,_Y CA_NP1@_VM :_Y Fondo_NP1 de_NP1 Cultura_NP1 Economica_NP1 USA_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  360 <p> Jimenez , F. ( 1997 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  360 <p>_Y Jimenez_NP1 ,_Y F._NP1_RA@ (_Y 1997_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  361 The circuit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  361 The_AT circuit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  362 New Mexico : University of New Mexico Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  362 New_NP1 Mexico_NP1 :_Y University_NN1 of_IO New_NP1 Mexico_NP1 Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  363 <p> Jimenez , F. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  363 <p>_Y Jimenez_NP1 ,_Y F._NP1_RA@ (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  364 Cajas de carton .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  364 Cajas_NP1@ de_NP1 carton_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  365 New York : Houghton Mifflin .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  365 New_NP1 York_NP1 :_Y Houghton_NP1 Mifflin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  366 <p> Rivera , T. ( 1991 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  366 <p>_Y Rivera_NP1 ,_Y T._NP1 (_Y 1991_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  367 ... Y no se lo trago la tierra/And the earth did not devour him .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  367 ..._... Y_ZZ1 no_AT se_NN1 lo_UH_FW@ trago_NN1 la_FU tierra/And_FU the_AT earth_NN1 did_VDD not_XX devour_VVI him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  368 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  368 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  369 E. Vigil-Pion .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  369 E._NP1 Vigil-Pion_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  370 , P. M. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  370 ,_Y P._NNU@_NP1 M._NNO@_NN1_NNU@ (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  371 Esperanza rising .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  371 Esperanza_NN1_NP1@ rising_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  372 New York : Scholastic Paperbacks .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  372 New_NP1 York_NP1 :_Y Scholastic_JJ Paperbacks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  373 <p> Ryan , P. M. ( 2002 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  373 <p>_Y Ryan_NP1 ,_Y P._NNU@_NP1 M._NNO@_NN1_NNU@ (_Y 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  374 Esperanza renace .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  374 Esperanza_NN1_NP1@ renace_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  375 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  375 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  376 N. Molinero .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  376 N._NP1 Molinero_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  377 New York : Scholastic en Espaol .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  377 New_NP1 York_NP1 :_Y Scholastic_JJ en_FW Espaol_NP1_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  378 <p> Saldaa , R. , Jr .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  378 <p>_Y Saldaa_NN1_NP1@ ,_Y R._NP1 ,_Y Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  379 ( 2009 ) .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  379 (_Y 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  380 Case of the pen gone missing : A Mickey Rangel mystery/El caso de la pluma perdida : Coleccion Mickey Rangel , detective privado .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  380 Case_NN1 of_IO the_AT pen_NN1 gone_VVN missing_VVG_JJ :_Y A_ZZ1 Mickey_NP1 Rangel_NP1 mystery/El_FU caso_NN1 de_FW la_FW pluma_NN1 perdida_NN1 :_Y Coleccion_NP1 Mickey_NP1 Rangel_NP1 ,_Y detective_NN1 privado_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  381 Trans .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  381 Trans_NP2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  382 C. Villarroel .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  382 C._NP1 Villarroel_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  383 Houston , TX : Piata Books/Arte Pblico Press .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  383 Houston_NP1 ,_Y TX_NP1 :_Y Piata_NP1 Books/Arte_FU Pblico_NP1_NN1@ Press_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  384 <p> By Ren Saldaa , Jr .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  384 <p>_Y By_II Ren_NP1 Saldaa_NP1 ,_Y Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  385 <p> Dr. Rene Saldana , Jr .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  385 <p>_Y Dr._NNB Rene_NP1 Saldana_NP1 ,_Y Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  386 is an assistant professor at the College of Education of Texas Tech University in the Department of Curriculum and Instruction in the Language Literacy Program Area .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  386 is_VBZ an_AT1 assistant_JJ_NN1 professor_NN1 at_II the_AT College_NN1 of_IO Education_NN1 of_IO Texas_NP1 Tech_NN1 University_NN1 in_II the_AT Department_NN1 of_IO Curriculum_NN1 and_CC Instruction_NN1 in_II the_AT Language_NN1 Literacy_NN1 Program_NN1 Area_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  387 He is also author of several works for young adults .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  387 He_PPHS1 is_VBZ also_RR author_NN1 of_IO several_DA2 works_NN for_IF young_JJ adults_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  388 He may be reached at **26;14533;TOOLONG .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  388 He_PPHS1 may_VM be_VBI reached_VVN at_II **26;14533;TOOLONG_FO ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  A    0  389 <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071581 COCA  B    0  389 <p>_Y

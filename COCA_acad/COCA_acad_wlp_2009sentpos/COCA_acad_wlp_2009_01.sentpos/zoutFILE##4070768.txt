@@ -1,0 +1,696 @@
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    0 King : The Social Anthropology of a Late Mississippian Town in Northwestern Georgia .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    0 King_NN1_NP1@ :_Y The_AT Social_JJ Anthropology_NN1 of_IO a_AT1 Late_JJ Mississippian_JJ Town_NN1 in_II Northwestern_JJ Georgia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    1 By David J. Hally .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    1 By_II David_NP1 J._NP1 Hally_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    2 ( Tuscaloosa : University of Alabama Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    2 (_Y Tuscaloosa_NP1@_NN1 :_Y University_NN1 of_IO Alabama_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    3 Pp. 848. $79.95 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    3 Pp._NNU2 848._MC $79.95_NNU paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    4 ISBN 0-8173-5460-3 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    4 ISBN_NP1_VV0 0-8173-5460-3_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    5 ) <p> About the Excellence of the Georgian English Colony in Comparison with Other Colonies by Johannes Agustus Urlsperg , 1747 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    5 )_Y <p>_Y About_II the_AT Excellence_NN1 of_IO the_AT Georgian_JJ English_JJ_NN1 Colony_NN1 in_II31 Comparison_II32 with_II33 Other_JJ Colonies_NN2 by_II Johannes_NP2_NN2@ Agustus_JJ_NP1_NN1 Urlsperg_NN1_NP1 ,_Y 1747_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    6 Translated from the Latin by Theodora H. Miller .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    6 Translated_VVN_VVD from_II the_AT Latin_NN1_JJ by_II Theodora_NP1 H._NP1 Miller_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    7 ( Lanham : University Press of America , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    7 (_Y Lanham_NP1@_NN1 :_Y University_NN1 Press_NN1 of_IO America_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    8 Pp. 125. $23.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    8 Pp._NNU2 125._MC $23.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0    9 ISBN 978-0-7618-4110-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0    9 ISBN_NP1_VV0 978-0-7618-4110-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   10 ) <p> Religion and Profit : Moravians in Early America .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   10 )_Y <p>_Y Religion_NN1 and_CC Profit_NN1_VV0@ :_Y Moravians_NN2 in_II Early_JJ_RR America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   11 By Katherine Cart Engel .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   11 By_II Katherine_NP1 Cart_NN1 Engel_NP1_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   12 ( Philadelphia : University of Pennsylvania Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   12 (_Y Philadelphia_NP1 :_Y University_NN1 of_IO Pennsylvania_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   13 Pp. 304. $39.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   13 Pp._NNU2 304._MC $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   14 ISBN 978-08122-4123-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   14 ISBN_NP1_VV0 978-08122-4123-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   15 ) <p> The Packhorseman .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   15 )_Y <p>_Y The_AT Packhorseman_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   16 By Charles Hudson .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   16 By_II Charles_NP1 Hudson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   17 ( Tuscaloosa : University of Alabama Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   17 (_Y Tuscaloosa_NP1@_NN1 :_Y University_NN1 of_IO Alabama_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   18 Pp. 336. $24.95 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   18 Pp._NNU2 336._MC $24.95_NNU paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   19 ISBN-10 0-8173-5540-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   19 ISBN-10_MC 0-8173-5540-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   20 ) <p> Voices of Our Ancestors : Language Contact in Early South Carolina .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   20 )_Y <p>_Y Voices_NN2 of_IO Our_APPGE Ancestors_NN2 :_Y Language_NN1 Contact_NN1_VV0 in_II Early_JJ_RR South_NP1 Carolina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   21 By Patricia Causey Nichols .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   21 By_II Patricia_NP1 Causey_NP1 Nichols_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   22 ( Columbia : University of South Carolina Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   22 (_Y Columbia_NP1 :_Y University_NN1 of_IO South_NP1 Carolina_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   23 Pp. 208. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   23 Pp._NNU2 208._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   24 ISBN 978-1-57003-775-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   24 ISBN_NP1_VV0 978-1-57003-775-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   25 ) <p> The Beauty of Holiness Louis P. Nelson .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   25 )_Y <p>_Y The_AT Beauty_NN1 of_IO Holiness_NN1 Louis_NP1 P._NP1 Nelson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   26 ( Chapel Hill : University of North Carolina Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   26 (_Y Chapel_NP1 Hill_NNL1 :_Y University_NN1 of_IO North_ND1 Carolina_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   27 Pp. 516. $50.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   27 Pp._NNU2 516._MC $50.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   28 ISBN 978-0-8078-3233-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   28 ISBN_NP1_VV0 978-0-8078-3233-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   29 ) <p> Here , George Washington Was Born : Memory , Material Culture , and the Public History of a National Monument .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   29 )_Y <p>_Y Here_RL ,_Y George_NP1 Washington_NP1 Was_VBDZ Born_VVN :_Y Memory_NN1 ,_Y Material_NN1_JJ@ Culture_NN1 ,_Y and_CC the_AT Public_JJ_NN1 History_NN1 of_IO a_AT1 National_JJ Monument_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   30 By Seth C. Bruggeman .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   30 By_II Seth_NP1 C._NP1 Bruggeman_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   31 ( Athens : University of Georgia Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   31 (_Y Athens_NP1 :_Y University_NN1 of_IO Georgia_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   32 Pp. 260. $24.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   32 Pp._NNU2 260._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   33 ISBN 978-0-8203-3178-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   33 ISBN_NP1_VV0 978-0-8203-3178-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   34 ) <p> Portrait of a Patriot : The Major Political and Legal Papers of Josiah Quincy Junior .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   34 )_Y <p>_Y Portrait_NN1 of_IO a_AT1 Patriot_NN1 :_Y The_AT Major_JJ@_NP1 Political_JJ and_CC Legal_JJ Papers_NN2 of_IO Josiah_NP1 Quincy_NP1 Junior_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   35 Volume Three : The Southern Journal .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   35 Volume_NN1 Three_MC :_Y The_AT Southern_JJ Journal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   36 Edited by Daniel R. Coquillette and Neil Longley York .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   36 Edited_VVN by_II Daniel_NP1 R._NP1 Coquillette_NP1_NN1 and_CC Neil_NP1 Longley_NP1 York_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   37 ( Charlottesville : University Press of Virginia , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   37 (_Y Charlottesville_NP1 :_Y University_NN1 Press_NN1 of_IO Virginia_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   38 Pp. 784. $85.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   38 Pp._NNU2 784._MC $85.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   39 ISBN 978-0-8139-2684-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   39 ISBN_NP1_VV0 978-0-8139-2684-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   40 ) <p> Forgotten Patriots : African American and American Indian Patriots of the Revolutionary War : A Guide to Service , Sources , and Studies .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   40 )_Y <p>_Y Forgotten_JJ@_VVN Patriots_NN2 :_Y African_JJ American_JJ_NN1@ and_CC American_JJ Indian_JJ Patriots_NN2 of_IO the_AT Revolutionary_JJ War_NN1 :_Y A_AT1@_ZZ1 Guide_NN1_VV0 to_II Service_NN1 ,_Y Sources_NN2 ,_Y and_CC Studies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   41 National Society Daughters of the American Revolution .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   41 National_JJ Society_NN1 Daughters_NN2 of_IO the_AT American_JJ Revolution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   42 ( Washington : NSDAR , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   42 (_Y Washington_NP1 :_Y NSDAR_NP1_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   43 Pp. 854. $35.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   43 Pp._NNU2 854._MC $35.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   44 ISBN 978-1-892237-10-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   44 ISBN_NP1_VV0 978-1-892237-10-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   45 ) <p> Liberty and Freedom : North Carolina 's Tour of the Bill of Rights .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   45 )_Y <p>_Y Liberty_NN1 and_CC Freedom_NN1 :_Y North_ND1 Carolina_NP1 's_GE Tour_NN1@ of_IO the_AT Bill_NPX of_IO Rights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   46 Edited by Kenrick N. Simpson .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   46 Edited_VVN by_II Kenrick_NP1 N._NP1 Simpson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   47 ( Pp. 121. $24.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   47 (_Y Pp._NNU2 121._MC $24.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   48 ISBN 978-0-86526-338-3 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   48 ISBN_NP1_VV0 978-0-86526-338-3_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   49 ) <p> Nor the Battle to the Strong : A Novel of the American Revolution in the South .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   49 )_Y <p>_Y Nor_CC the_AT Battle_NN1 to_II the_AT Strong_JJ_NP1@ :_Y A_AT1@_ZZ1 Novel_NN1_JJ of_IO the_AT American_JJ Revolution_NN1 in_II the_AT South_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   50 By Charles F. Price .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   50 By_II Charles_NP1 F._NP1 Price_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   51 ( Savannah : Frederic C. Beil , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   51 (_Y Savannah_NN1 :_Y Frederic_NP1 C._NP1 Beil_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   52 Pp. 447. $25.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   52 Pp._NNU2 447._MC $25.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   53 ISBN 978-1-929490-33-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   53 ISBN_NP1_VV0 978-1-929490-33-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   54 ) <p> If By Sea : The Forging of the American Navy-From the Revolution to the War of 1812 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   54 )_Y <p>_Y If_CS By_II Sea_NN1 :_Y The_AT Forging_NN1 of_IO the_AT American_JJ_NN1@ Navy-From_II the_AT Revolution_NN1 to_II the_AT War_NN1 of_IO 1812_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   55 By George C. Daughan .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   55 By_II George_NP1 C._NP1 Daughan_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   56 ( New York : Basic Books , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   56 (_Y New_NP1 York_NP1 :_Y Basic_JJ Books_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   57 Pp. 536. $30.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   57 Pp._NNU2 536._MC $30.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   58 ISBN 978-0-465-01607-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   58 ISBN_NP1_VV0 978-0-465-01607-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   59 ) <p> Battle for the Southern Frontier : The Creek War and the War of 1812 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   59 )_Y <p>_Y Battle_NN1_VV0@ for_IF the_AT Southern_JJ Frontier_NN1 :_Y The_AT Creek_NN1 War_NN1 and_CC the_AT War_NN1 of_IO 1812_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   60 By Mike Bunn Clay Williams .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   60 By_II Mike_NP1 Bunn_NP1 Clay_NP1@ Williams_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   61 ( Charleston : The History Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   61 (_Y Charleston_NP1 :_Y The_AT History_NN1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   62 Pp. 191. $22.99 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   62 Pp._NNU2 191._MC $22.99_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   63 ISBN 978-1-59629-371-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   63 ISBN_NP1_VV0 978-1-59629-371-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   64 ) <p> Black Liberation on Cumberland Island in 1815 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   64 )_Y <p>_Y Black_JJ Liberation_NN1 on_II Cumberland_NP1 Island_NNL1 in_II 1815_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   65 By Mary R. Bullard .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   65 By_II Mary_NP1 R._NP1 Bullard_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   66 Updated edition .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   66 Updated_JJ edition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   67 ( New Bedford : By the author , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   67 (_Y New_JJ Bedford_NP1 :_Y By_II the_AT author_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   68 Pp. 145. $34.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   68 Pp._NNU2 145._MC $34.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   69 ) <p> Nathaniel Macon of North Carolina : Three Views of His Character and Creed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   69 )_Y <p>_Y Nathaniel_NP1 Macon_NP1 of_IO North_ND1 Carolina_NP1 :_Y Three_MC Views_NN2 of_IO His_APPGE Character_NN1 and_CC Creed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   70 By William S. Price , Jr .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   70 By_II William_NP1 S._NP1 Price_NP1 ,_Y Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   71 ( Raleigh : North Carolina Office of Archives 978-0-86526-334-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   71 (_Y Raleigh_NP1 :_Y North_ND1 Carolina_NP1 Office_NN1 of_IO Archives_NN2 978-0-86526-334-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   72 ) The Papers of Andrew Jackson : Volume 7 , 1829 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   72 )_Y The_AT Papers_NN2 of_IO Andrew_NP1 Jackson_NP1 :_Y Volume_NN1 7_MC ,_Y 1829_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   73 Edited by Daniel Feller , Harold D. Moser , Laura-Eve Moss , and Thomas Coens .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   73 Edited_VVN by_II Daniel_NP1 Feller_NN1 ,_Y Harold_NP1 D._NP1 Moser_NP1 ,_Y Laura-Eve_NP1 Moss_NP1 ,_Y and_CC Thomas_NP1 Coens_NP1_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   74 ( Knoxville : University of Tennessee Press , 2007 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   74 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   75 Pp. 856. $79.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   75 Pp._NNU2 856._MC $79.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   76 ISBN 978-1-57233-596-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   76 ISBN_NP1_VV0 978-1-57233-596-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   77 ) <p> Correspondence of James K. Polk : Volume 11 , 1846 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   77 )_Y <p>_Y Correspondence_NN1 of_IO James_NP1 K._NP1 Polk_NP1 :_Y Volume_NN1 11_MC ,_Y 1846_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   78 Edited by Wayne Cutler .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   78 Edited_VVN by_II Wayne_NP1 Cutler_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   79 ( Knoxville : University of Tennessee Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   79 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   80 Pp. 568. $55.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   80 Pp._NNU2 568._MC $55.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   81 ISBN 978-157233-647-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   81 ISBN_NP1_VV0 978-157233-647-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   82 ) <p> New Studies in the History of American Slavery .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   82 )_Y <p>_Y New_JJ Studies_NN2 in_II the_AT History_NN1 of_IO American_JJ Slavery_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   83 Edited by Edward E. Baptist and Stephanie M. H. Camp .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   83 Edited_VVN by_II Edward_NP1 E._NP1 Baptist_NP1_NN1 and_CC Stephanie_NP1 M._NN1 H._NP1 Camp_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   84 ( Athens : University of Georgia Press , 2006 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   84 (_Y Athens_NP1 :_Y University_NN1 of_IO Georgia_NP1 Press_NN1_VV0 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   85 Pp. 306. $22.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   85 Pp._NNU2 306._MC $22.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   86 ISBN 0-8203-2694-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   86 ISBN_NP1_VV0 0-8203-2694-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   87 ) <p> Maroon Communities in South Carolina : A Documentary Record .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   87 )_Y <p>_Y Maroon_JJ Communities_NN2 in_II South_NP1 Carolina_NP1 :_Y A_AT1@_ZZ1 Documentary_NN1 Record_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   88 Edited by Timothy James Lockley .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   88 Edited_VVN by_II Timothy_NP1 James_NP1 Lockley_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   89 ( Columbia : University of South Carolina Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   89 (_Y Columbia_NP1 :_Y University_NN1 of_IO South_NP1 Carolina_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   90 Pp. 142. $19.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   90 Pp._NNU2 142._MC $19.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   91 ISBN 978-1-57003-777-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   91 ISBN_NP1_VV0 978-1-57003-777-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   92 ) <p> A Republic in Time : Temporality and Social Imagination in Nineteenth-Century America .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   92 )_Y <p>_Y A_AT1 Republic_NN1 in_II Time_NNT1 :_Y Temporality_NP1_NN1 and_CC Social_JJ Imagination_NN1 in_II Nineteenth-Century_JJ America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   93 By Thomas M. Allen .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   93 By_II Thomas_NP1 M._NN1 Allen_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   94 ( Chapel Hill : University of North Carolina Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   94 (_Y Chapel_NP1 Hill_NNL1 :_Y University_NN1 of_IO North_ND1 Carolina_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   95 Pp. 292. ISBN 978-0-8078-5865-3 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   95 Pp._NNU2 292._MC ISBN_NP1_VV0 978-0-8078-5865-3_MCMC paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   96 ) <p> During Wind and Rain : The Jones Family Farm in the Arkansas Delta , 1848-2006 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   96 )_Y <p>_Y During_II Wind_NN1 and_CC Rain_NN1_VV0@ :_Y The_AT Jones_NP1 Family_NN1 Farm_NN1 in_II the_AT Arkansas_NP1 Delta_NN1 ,_Y 1848-2006_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   97 By Margaret Jones Bolsteri .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   97 By_II Margaret_NP1 Jones_NP1 Bolsteri_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   98 ( Fayetteville : University of Arkansas Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   98 (_Y Fayetteville_NP1 :_Y University_NN1 of_IO Arkansas_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0   99 Pp. 144. $16.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0   99 Pp._NNU2 144._MC $16.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  100 ISBN 978-1-55728-871-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  100 ISBN_NP1_VV0 978-1-55728-871-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  101 ) <p> Confederate Colonels : A Biographical Register .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  101 )_Y <p>_Y Confederate_NN1 Colonels_NN2 :_Y A_ZZ1_AT1@ Biographical_JJ Register_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  102 By Brice S. Allardice .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  102 By_II Brice_NP1 S._NP1 Allardice_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  103 ( Columbia : University of Missouri Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  103 (_Y Columbia_NP1 :_Y University_NN1 of_IO Missouri_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  104 Pp. 448. $49.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  104 Pp._NNU2 448._MC $49.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  105 ISBN 978-0-8262-1809-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  105 ISBN_NP1_VV0 978-0-8262-1809-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  106 ) <p> Fear in North Carolina : The Civil War Journals and Letters of the Henry Family .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  106 )_Y <p>_Y Fear_VV0_NN1 in_II North_ND1 Carolina_NP1 :_Y The_AT Civil_JJ War_NN1 Journals_NN2 and_CC Letters_NN2 of_IO the_AT Henry_NP1 Family_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  107 Compiled and edited by Karen L. Clinard and Richard Russell .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  107 Compiled_VVN_VVD and_CC edited_VVN by_II Karen_NP1 L._NP1 Clinard_NP1 and_CC Richard_NP1 Russell_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  108 ( Asheville : Reminiscing Books , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  108 (_Y Asheville_NP1 :_Y Reminiscing_VVG Books_NN2 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  109 Pp. 458. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  109 Pp._NNU2 458._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  110 ISBN 978-0-9793961-3-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  110 ISBN_NP1_VV0 978-0-9793961-3-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  111 ) <p> Upcountry South Carolina Goes To War : Letters of the Anderson , Brockman , and Moore Families , 1853-1865 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  111 )_Y <p>_Y Upcountry_NP1@ South_NP1 Carolina_NP1 Goes_VVZ To_II War_NN1 :_Y Letters_NN2 of_IO the_AT Anderson_NP1 ,_Y Brockman_NP1_NN1 ,_Y and_CC Moore_NP1 Families_NN2 ,_Y 1853-1865_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  112 Edited by Tom Moore Craig .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  112 Edited_VVN by_II Tom_NP1 Moore_NP1 Craig_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  113 Introduction by Melissa Walker and Tom Moore Craig .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  113 Introduction_NN1 by_II Melissa_NP1 Walker_NP1 and_CC Tom_NP1 Moore_NP1 Craig_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  114 ( Columbia : University of South Carolina Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  114 (_Y Columbia_NP1 :_Y University_NN1 of_IO South_NP1 Carolina_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  115 Pp. 216. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  115 Pp._NNU2 216._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  116 ISBN 978-1-57003-796-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  116 ISBN_NP1_VV0 978-1-57003-796-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  117 ) <p> Worthy of Record : The Civil War and Reconstruction Diaries of Columbus Lafayette Turner .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  117 )_Y <p>_Y Worthy_NN1@_JJ of_IO Record_NN1 :_Y The_AT Civil_JJ War_NN1 and_CC Reconstruction_NN1 Diaries_NN2 of_IO Columbus_NP1 Lafayette_NP1 Turner_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  118 Carolina Dept. of Archives History , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  118 Carolina_NP1 Dept._NN1 of_IO Archives_NN2 History_NN1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  119 Pp. 228. $34.69 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  119 Pp._NNU2 228._MC $34.69_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  120 ISBN 978-0-86526-335-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  120 ISBN_NP1_VV0 978-0-86526-335-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  121 ) <p> Cumberland Blood : Champ Ferguson 's Civil War .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  121 )_Y <p>_Y Cumberland_NP1 Blood_NN1 :_Y Champ_NN1 Ferguson_NP1 's_GE Civil_JJ War_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  122 ( Carbondale : Southern Illinois University Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  122 (_Y Carbondale_NP1 :_Y Southern_JJ Illinois_NP1 University_NN1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  123 Pp. 194. $24.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  123 Pp._NNU2 194._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  124 ISBN 0-8093-2860-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  124 ISBN_NP1_VV0 0-8093-2860-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  125 ) <p> Rebel : The Life and Times of John Singleton Mosby .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  125 )_Y <p>_Y Rebel_VV0_NN1 :_Y The_AT Life_NN1 and_CC Times_NNT2 of_IO John_NP1 Singleton_NP1 Mosby_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  126 By Kevin H. Siepel .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  126 By_II Kevin_NP1 H._NP1 Siepel_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  127 Foreword by Senator Eugene McCarthy .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  127 Foreword_NN1 by_II Senator_NNB Eugene_NP1 McCarthy_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  128 ( 1983 ; rpt. , Lincoln : University of Nebraska Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  128 (_Y 1983_MC ;_Y rpt._NNU ,_Y Lincoln_NP1 :_Y University_NN1 of_IO Nebraska_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  129 Pp. 348. $19.95 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  129 Pp._NNU2 348._MC $19.95_NNU paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  130 ISBN 978-0-8032-1609-9 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  130 ISBN_NP1_VV0 978-0-8032-1609-9_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  131 ) <p> The Making of a Southerner : William Barclay Napton 's Private Civil War .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  131 )_Y <p>_Y The_AT Making_NN1@ of_IO a_AT1 Southerner_NN1 :_Y William_NP1 Barclay_NP1 Napton_NP1 's_GE_VBZ Private_JJ Civil_JJ War_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  132 By Christopher Phillips .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  132 By_II Christopher_NP1 Phillips_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  133 ( Columbia : University of Missouri Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  133 (_Y Columbia_NP1 :_Y University_NN1 of_IO Missouri_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  134 Pp. 176. $19.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  134 Pp._NNU2 176._MC $19.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  135 ISBN 978-0-8262-1825-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  135 ISBN_NP1_VV0 978-0-8262-1825-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  136 ) <p> Gender the Sectional Conflict .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  136 )_Y <p>_Y Gender_NN1 the_AT Sectional_JJ Conflict_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  137 By Nina Silber .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  137 By_II Nina_NP1 Silber_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  138 ( Chapel Hill : University of North Carolina Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  138 (_Y Chapel_NP1 Hill_NNL1 :_Y University_NN1 of_IO North_ND1 Carolina_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  139 Pp. 144. $24.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  139 Pp._NNU2 144._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  140 ISBN 978-0-8078-3244-8 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  140 ISBN_NP1_VV0 978-0-8078-3244-8_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  141 ) <p> Saddle Bag and Spinning Wheel : Being the Civil War Letters of George W. Peddy , MD , Surgeon , 56th Georgia Volunteer Regiment , CSA .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  141 )_Y <p>_Y Saddle_NN1_VV0@ Bag_NN1 and_CC Spinning_VVG_JJ@ Wheel_NN1 :_Y Being_VBG the_AT Civil_JJ War_NN1 Letters_NN2 of_IO George_NP1 W._NP1 Peddy_NP1 ,_Y MD_NNA ,_Y Surgeon_NN1 ,_Y 56th_MD Georgia_NP1 Volunteer_NN1 Regiment_NN1 ,_Y CSA_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  142 Edited by George F. Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  142 Edited_VVN by_II George_NP1 F._NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  143 Pp. 332. $35.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  143 Pp._NNU2 332._MC $35.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  144 ISBN 978-0-88146-119-0 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  144 ISBN_NP1_VV0 978-0-88146-119-0_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  145 ) <p> Memoirs of the Stuart Horse Artillery Battalion : Moorman 's and Hart 's Batteries .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  145 )_Y <p>_Y Memoirs_NN2 of_IO the_AT Stuart_NP1 Horse_NN1 Artillery_NN1 Battalion_NN1 :_Y Moorman_NP1 's_GE and_CC Hart_NP1 's_GE Batteries_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  146 Edited by Robert J. Trout .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  146 Edited_VVN by_II Robert_NP1 J._NP1 Trout_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  147 ( Knoxville : University of Tennessee Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  147 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  148 Pp. 392. $45.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  148 Pp._NNU2 392._MC $45.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  149 ISBN 1-57233-605-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  149 ISBN_NP1_VV0 1-57233-605-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  150 ) <p> A Soldier 's Letters to Charming Nellie : The Correspondence of Joseph B. Polley , Hood 's Texas Brigade .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  150 )_Y <p>_Y A_AT1 Soldier_NN1 's_GE Letters_NN2 to_II Charming_JJ Nellie_NP1 :_Y The_AT Correspondence_NN1 of_IO Joseph_NP1 B._NP1 Polley_NP1 ,_Y Hood_NP1 's_GE Texas_NP1 Brigade_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  151 Edited by Richard B. McCaslin .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  151 Edited_VVN by_II Richard_NP1 B._NP1 McCaslin_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  152 ( Knoxville : University of Tennessee Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  152 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  153 Pp. 384. $39.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  153 Pp._NNU2 384._MC $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  154 ISBN 978-1-57233-613-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  154 ISBN_NP1_VV0 978-1-57233-613-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  155 ) <p> The H. L. Hunley : The Secret Hope of the Confederacy .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  155 )_Y <p>_Y The_AT H._NP1 L._NP1 Hunley_NP1 :_Y The_AT Secret_JJ_NN1 Hope_NN1 of_IO the_AT Confederacy_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  156 By Tom Chaffin .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  156 By_II Tom_NP1 Chaffin_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  157 ( New York : Hill Wang , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  157 (_Y New_NP1 York_NP1 :_Y Hill_NP1 Wang_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  158 Pp. 324. $26.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  158 Pp._NNU2 324._MC $26.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  159 ISBN 978-0-8090-9512-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  159 ISBN_NP1_VV0 978-0-8090-9512-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  160 ) <p> Shenandoah 1862 : Stonewall Jackson 's Valley Campaign .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  160 )_Y <p>_Y Shenandoah_NN1_NP1@ 1862_MC :_Y Stonewall_NP1 Jackson_NP1 's_GE Valley_NN1 Campaign_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  161 By Peter Cozzens .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  161 By_II Peter_NP1 Cozzens_NP1_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  162 ( Chapel Hill : University of North Carolina Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  162 (_Y Chapel_NP1 Hill_NNL1 :_Y University_NN1 of_IO North_ND1 Carolina_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  163 Pp. 640. $35.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  163 Pp._NNU2 640._MC $35.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  164 ISBN 978-0-8078-3200-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  164 ISBN_NP1_VV0 978-0-8078-3200-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  165 ) <p> The Final Battles of the Petersburg Campaign : Breaking the Backbone of the Rebellion .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  165 )_Y <p>_Y The_AT Final_JJ_NN1 Battles_NN2 of_IO the_AT Petersburg_NP1 Campaign_NN1_VV0 :_Y Breaking_VVG the_AT Backbone_NN1 of_IO the_AT Rebellion_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  166 Second Ed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  166 Second_MD_NNT1 Ed_NP1_NN1% ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  167 By A. Wilson Greene .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  167 By_II A._ZZ Wilson_NP1 Greene_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  168 ( 592. $49.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  168 (_Y 592._MC $49.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  169 ISBN 1-57233-610-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  169 ISBN_NP1_VV0 1-57233-610-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  170 ) <p> Lee 's Last Casualty : The Life and Letters of Sgt. Robert W. Parker , Second Virginia Cavalry .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  170 )_Y <p>_Y Lee_NP1 's_GE Last_MD Casualty_NN1 :_Y The_AT Life_NN1 and_CC Letters_NN2 of_IO Sgt._NNB Robert_NP1 W._NP1 Parker_NP1 ,_Y Second_MD_NNT1 Virginia_NP1 Cavalry_NN ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  171 Edited by Catherine Wright .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  171 Edited_VVN by_II Catherine_NP1 Wright_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  172 ( Knoxville : University of Tennessee Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  172 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  173 Pp. 264. $34.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  173 Pp._NNU2 264._MC $34.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  174 ISBN 978-1-57233-630-8 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  174 ISBN_NP1_VV0 978-1-57233-630-8_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  175 ) <p> The Good Fight That Did n't End : Henry P. Goddard 's Accounts of Civil War and Peace .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  175 )_Y <p>_Y The_AT Good_JJ Fight_NN1 That_CST_DD1 Did_VDD n't_XX End_VV0_NN1 :_Y Henry_NP1 P._NP1 Goddard_NP1 's_GE Accounts_NN2 of_IO Civil_JJ War_NN1 and_CC Peace_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  176 Edited by Calvin Goddard Zon .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  176 Edited_VVN by_II Calvin_NP1 Goddard_NP1 Zon_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  177 ( Columbia : University of South Carolina Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  177 (_Y Columbia_NP1 :_Y University_NN1 of_IO South_NP1 Carolina_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  178 Pp. 376. $44.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  178 Pp._NNU2 376._MC $44.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  179 ISBN 978-1-57003-772-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  179 ISBN_NP1_VV0 978-1-57003-772-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  180 ) <p> A Place Called Appomattox .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  180 )_Y <p>_Y A_AT1 Place_NN1 Called_VVN Appomattox_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  181 By William Marvel .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  181 By_II William_NP1 Marvel_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  182 ( 2000 ; rpt. , Carbondale : Southern Illinois University Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  182 (_Y 2000_MC ;_Y rpt._NNU ,_Y Carbondale_NP1 :_Y Southern_JJ Illinois_NP1 University_NN1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  183 Pp. 416. $22.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  183 Pp._NNU2 416._MC $22.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  184 ISBN 0-8093-2831-3 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  184 ISBN_NP1_VV0 0-8093-2831-3_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  185 ) New in paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  185 )_Y New_JJ in_II paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  186 <p> Yale 's Confederates : A Biographical Dictionary .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  186 <p>_Y Yale_NP1 's_GE Confederates_NN2 :_Y A_ZZ1_AT1@ Biographical_JJ Dictionary_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  187 By Nathaniel Cheairs Hughes , Jr .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  187 By_II Nathaniel_NP1 Cheairs_NP1 Hughes_NP1 ,_Y Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  188 ( Knoxville : University of Tennessee Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  188 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  189 Pp. 232. $45.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  189 Pp._NNU2 232._MC $45.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  190 ISBN 978-1-57233-635-3 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  190 ISBN_NP1_VV0 978-1-57233-635-3_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  191 ) <p> The Assassin 's Accomplice : Mary Surratt and the Plot to Kill Abraham Lincoln .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  191 )_Y <p>_Y The_AT Assassin_NN1 's_GE Accomplice_NN1 :_Y Mary_NP1 Surratt_NP1 and_CC the_AT Plot_NN1 to_TO_II Kill_VV0 Abraham_NP1 Lincoln_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  192 By Kate Clifford Larson .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  192 By_II Kate_NP1 Clifford_NP1 Larson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  193 ( New York : Basic .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  193 (_Y New_NP1 York_NP1 :_Y Basic_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  194 ) <p> Blacks , Carpetbaggers , and Scalawags : The Constitutional Conventions of Radical Reconstruction .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  194 )_Y <p>_Y Blacks_NN2 ,_Y Carpetbaggers_NP1_NN2_VVZ ,_Y and_CC Scalawags_NP1_VVZ_NN2 :_Y The_AT Constitutional_JJ Conventions_NN2 of_IO Radical_JJ_NN1 Reconstruction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  195 By Richard L. Hume and Jerry B. Gough .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  195 By_II Richard_NP1 L._NP1 Hume_NP and_CC Jerry_NP1 B._NP1 Gough_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  196 ( Baton Rouge : Louisiana State University Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  196 (_Y Baton_NP1 Rouge_NP1 :_Y Louisiana_NP1 State_NN1 University_NN1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  197 Pp. 552. $65.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  197 Pp._NNU2 552._MC $65.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  198 ISBN-13 978-0-8071-3324-8 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  198 ISBN-13_MC 978-0-8071-3324-8_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  199 ) <p> Bitter Freedom : William Stone 's Record of Service in the Freedmen 's Bureau .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  199 )_Y <p>_Y Bitter_JJ Freedom_NN1 :_Y William_NP1 Stone_NP1@_NN1 's_GE Record_NN1 of_IO Service_NN1 in_II the_AT Freedmen_NP1_NN2 's_GE Bureau_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  200 Edited by Suzanne Stone Johnson and Robert Allison Johnson .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  200 Edited_VVN by_II Suzanne_NP1 Stone_NP1@ Johnson_NP1 and_CC Robert_NP1 Allison_NP1 Johnson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  201 Introduction by Lou Falkner Williams .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  201 Introduction_NN1 by_II Lou_NP1 Falkner_NP1 Williams_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  202 ( Columbia : University of South Carolina Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  202 (_Y Columbia_NP1 :_Y University_NN1 of_IO South_NP1 Carolina_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  203 Pp. 176. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  203 Pp._NNU2 176._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  204 ISBN 978-1-57003-766-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  204 ISBN_NP1_VV0 978-1-57003-766-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  205 ) <p> Emancipation Betrayed : The Hidden History of Black Organizing and White Violence in Florida from Reconstruction to the Bloody Election of 1920 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  205 )_Y <p>_Y Emancipation_NN1 Betrayed_VVD_VVN :_Y The_AT Hidden_JJ@_NP1 History_NN1 of_IO Black_NP1@_JJ Organizing_NP1_NN1@ and_CC White_JJ_NP1 Violence_NN1 in_II Florida_NP1 from_II Reconstruction_NN1 to_II the_AT Bloody_JJ Election_NN1 of_IO 1920_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  206 ( Berkeley : University of California Press , 2005 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  206 (_Y Berkeley_NP1 :_Y University_NN1 of_IO California_NP1 Press_NN1_VV0 ,_Y 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  207 Pp. 430. $27.50 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  207 Pp._NNU2 430._MC $27.50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  208 ISBN 0-520-23946-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  208 ISBN_NP1_VV0 0-520-23946-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  209 ) <p> Rails Through the Wiregrass : A History of the Georgia Florida Railroad .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  209 )_Y <p>_Y Rails_NN2 Through_II the_AT Wiregrass_NP1_NN1 :_Y A_AT1@_ZZ1 History_NN1 of_IO the_AT Georgia_NP1 Florida_NP1 Railroad_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  210 By H. Roger Grant .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  210 By_II H._NP1 Roger_NP1 Grant_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  211 ( DeKalb : Northern Illinois University Press , 2006 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  211 (_Y DeKalb_NP1@_VV0_NN1 :_Y Northern_JJ Illinois_NP1 University_NN1 Press_NN1_VV0 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  212 Pp. 223. $36.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  212 Pp._NNU2 223._MC $36.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  213 ISBN 0-87580-365-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  213 ISBN_NP1_VV0 0-87580-365-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  214 ) <p> " Everybody Was Black Down There " : Race and Industrial Change in the : University of Georgia Press , 2007 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  214 )_Y <p>_Y "_Y Everybody_PN1 Was_VBDZ Black_JJ Down_NN1 There_RL "_Y :_Y Race_NN1 and_CC Industrial_JJ Change_NN1 in_II the_AT :_Y University_NN1 of_IO Georgia_NP1 Press_NN1_VV0 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  215 Pp. 304. $24.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  215 Pp._NNU2 304._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  216 ISBN 0-8203-2879-0 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  216 ISBN_NP1_VV0 0-8203-2879-0_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  217 ) <p> Isaac Taylor Tichenor : The Creation of the Baptist New South .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  217 )_Y <p>_Y Isaac_NP1 Taylor_NP1 Tichenor_NP1 :_Y The_AT Creation_NN1 of_IO the_AT Baptist_JJ_NN1 New_JJ South_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  218 By Michael E. Williams Sr. ( Tuscaloosa : University of Alabama Press , 2005 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  218 By_II Michael_NP1 E._NP1 Williams_NP1 Sr._NNA (_Y Tuscaloosa_NP1 :_Y University_NN1 of_IO Alabama_NP1 Press_NN1_VV0 ,_Y 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  219 Pp. 256. $42.50 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  219 Pp._NNU2 256._MC $42.50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  220 ISBN 0-8173-1474-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  220 ISBN_NP1_VV0 0-8173-1474-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  221 ) <p> For Jobs and Freedom : Race and Labor in America Since 1865 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  221 )_Y <p>_Y For_IF Jobs_NN2 and_CC Freedom_NN1 :_Y Race_NN1 and_CC Labor_NN1_VV0@ in_II America_NP1 Since_II 1865_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  222 By Robert H. Zieger .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  222 By_II Robert_NP1 H._NP1 Zieger_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  223 ( Lexington : University Press of Kentucky , 2007 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  223 (_Y Lexington_NP1@_NN1 :_Y University_NN1 Press_NN1 of_IO Kentucky_NP1 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  224 Pp. 312. $37.50 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  224 Pp._NNU2 312._MC $37.50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  225 ISBN 978-0-8131-2460-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  225 ISBN_NP1_VV0 978-0-8131-2460-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  226 ) <p> The Photographic Legacy of Frances Benjamin Johnston .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  226 )_Y <p>_Y The_AT Photographic_JJ Legacy_NN1 of_IO Frances_NP1 Benjamin_NP1 Johnston_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  227 By Maria Elizabeth Ausherman .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  227 By_II Maria_NP1 Elizabeth_NP1 Ausherman_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  228 ( Gainesville : University Press of Florida , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  228 (_Y Gainesville_NP1 :_Y University_NN1 Press_NN1 of_IO Florida_NP1 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  229 Pp. 336. $69.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  229 Pp._NNU2 336._MC $69.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  230 ISBN 978-0-8130-3295-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  230 ISBN_NP1_VV0 978-0-8130-3295-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  231 ) <p> King of the Moonshiners : Lewis R. Redmond in Fact and Fiction .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  231 )_Y <p>_Y King_NN1 of_IO the_AT Moonshiners_NP1_NN2 :_Y Lewis_NP1 R._NP1 Redmond_NP1 in_II Fact_NN1 and_CC Fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  232 Edited by Bruce E. Stewart .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  232 Edited_VVN by_II Bruce_NP1 E._NP1 Stewart_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  233 Foreword by Durwood Dunn .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  233 Foreword_NN1 by_II Durwood_NP1 Dunn_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  234 ( Knoxville : University of Tennessee Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  234 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  235 Pp. 192. $19.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  235 Pp._NNU2 192._MC $19.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  236 ISBN 978-1-57233-640-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  236 ISBN_NP1_VV0 978-1-57233-640-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  237 ) <p> Coming Through : Voices of a South Carolina Gullah Community from WPA Oral Histories .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  237 )_Y <p>_Y Coming_VVG Through_RP@_II :_Y Voices_NN2 of_IO a_AT1 South_NP1 Carolina_NP1 Gullah_NP1 Community_NN1 from_II WPA_NP1_NN1 Oral_JJ_NN1 Histories_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  238 Collected by Genevieve W. Chandler .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  238 Collected_VVN by_II Genevieve_NP1 W._NP1 Chandler_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  239 Ed. by Kincaid Mills , Charles W. Joyner .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  239 Ed._NN1 by_II Kincaid_NP1 Mills_NP1 ,_Y Charles_NP1 W._NP1 Joyner_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  240 ( Columbia : University of South Carolina Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  240 (_Y Columbia_NP1 :_Y University_NN1 of_IO South_NP1 Carolina_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  241 Pp. 384. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  241 Pp._NNU2 384._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  242 ISBN 978-1-57003-721-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  242 ISBN_NP1_VV0 978-1-57003-721-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  243 ) <p> Mule South to Tractor South : Mules , Machines , and the Transformation of the Cotton South .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  243 )_Y <p>_Y Mule_NN1 South_ND1 to_II Tractor_NN1 South_ND1 :_Y Mules_NN2 ,_Y Machines_NN2 ,_Y and_CC the_AT Transformation_NN1 of_IO the_AT Cotton_NP1_NN1 South_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  244 By George B. Ellenberg .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  244 By_II George_NP1 B._NP1 Ellenberg_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  245 ( Tuscaloosa : University of Alabama Press , 2007 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  245 (_Y Tuscaloosa_NP1@_NN1 :_Y University_NN1 of_IO Alabama_NP1 Press_NN1_VV0 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  246 Pp. 219. $42.50 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  246 Pp._NNU2 219._MC $42.50_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  247 ISBN-10 : 0-8173-1597-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  247 ISBN-10_MC :_Y 0-8173-1597-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  248 ) <p> Uneven Ground : Appalachia Since 1945 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  248 )_Y <p>_Y Uneven_JJ Ground_NN1 :_Y Appalachia_NP1 Since_II 1945_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  249 By Ronald D. Eller .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  249 By_II Ronald_NP1 D._NP1 Eller_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  250 ( Lexington : University Press of Kentucky , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  250 (_Y Lexington_NP1@_NN1 :_Y University_NN1 Press_NN1 of_IO Kentucky_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  251 Pp. 376. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  251 Pp._NNU2 376._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  252 ISBN 978-0-8131- 2523-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  252 ISBN_NP1_VV0_NN1 978-0-8131-_NN1_JJ 2523-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  253 ) <p> Race , Politics , and Memory : A Documentary History of the Little Rock School Crisis .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  253 )_Y <p>_Y Race_NN1_VV0@ ,_Y Politics_NN1 ,_Y and_CC Memory_NN1 :_Y A_AT1@_ZZ1 Documentary_NN1 History_NN1 of_IO the_AT Little_NP1 Rock_NP1 School_NN1 Crisis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  254 Edited by Catherine M. Lewis and J. Richard Lewis .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  254 Edited_VVN by_II Catherine_NP1 M._NN1 Lewis_NP1 and_CC J._NP1 Richard_NP1 Lewis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  255 ( Fayetteville : University of Arkansas Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  255 (_Y Fayetteville_NP1 :_Y University_NN1 of_IO Arkansas_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  256 Pp. 278. $59.95 cloth , $19.95 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  256 Pp._NNU2 278._MC $59.95_NNU cloth_NN1 ,_Y $19.95_NNU paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  257 ISBN 978-1-55728-856-1 cloth .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  257 ISBN_NP1_VV0 978-1-55728-856-1_MCMC cloth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  258 ISBN 978-1-55728-857-8 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  258 ISBN_NP1_VV0 978-1-55728-857-8_MCMC paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  259 ) <p> The Atomic Bomb and American Society : New Perspectives .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  259 )_Y <p>_Y The_AT Atomic_JJ Bomb_NN1 and_CC American_JJ Society_NN1 :_Y New_JJ Perspectives_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  260 Edited by Rosemary B. Mariner and G. Kurt Piehler .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  260 Edited_VVN by_II Rosemary_NP1 B._NP1 Mariner_NN1 and_CC G._NP1 Kurt_NP1 Piehler_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  261 ( Knoxville : University of Tennessee Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  261 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  262 Pp. 480. $42.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  262 Pp._NNU2 480._MC $42.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  263 ISBN 978-157233-644-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  263 ISBN_NP1_VV0 978-157233-644-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  264 in America .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  264 in_II America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  265 By Thomas Dyja .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  265 By_II Thomas_NP1 Dyja_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  266 The Library of African-American Biography .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  266 The_AT Library_NN1 of_IO African-American_JJ Biography_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  267 ( Chicago : Ivan R. Dee , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  267 (_Y Chicago_NP1 :_Y Ivan_NP1 R._NP1 Dee_FU ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  268 Pp. 212. $26.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  268 Pp._NNU2 212._MC $26.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  269 ISBN-13 978-1-56663-766-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  269 ISBN-13_MC 978-1-56663-766-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  270 ) <p> Jim Crow America : A Documentary History .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  270 )_Y <p>_Y Jim_NP1 Crow_NP1 America_NP1 :_Y A_AT1@_ZZ1 Documentary_NN1 History_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  271 Edited by Catherine M. Lewis and J. Richard Lewis .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  271 Edited_VVN by_II Catherine_NP1 M._NN1 Lewis_NP1 and_CC J._NP1 Richard_NP1 Lewis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  272 ( Fayetteville : University of Arkansas Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  272 (_Y Fayetteville_NP1 :_Y University_NN1 of_IO Arkansas_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  273 Pp. 296. $19.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  273 Pp._NNU2 296._MC $19.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  274 ISBN 978-1-55728-895-0 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  274 ISBN_NP1_VV0 978-1-55728-895-0_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  275 ) <p> Race , Reason , and Massive Resistance : The Diary of David J. Mays , 1954-1959 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  275 )_Y <p>_Y Race_NN1_VV0@ ,_Y Reason_NN1_VV0@ ,_Y and_CC Massive_JJ Resistance_NN1 :_Y The_AT Diary_NN1 of_IO David_NP1 J._NP1 Mays_NP2% ,_Y 1954-1959_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  276 Edited by James R. Sweeney .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  276 Edited_VVN by_II James_NP1 R._NP1 Sweeney_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  277 ( Athens : University of Georgia Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  277 (_Y Athens_NP1 :_Y University_NN1 of_IO Georgia_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  278 Pp. 302. $39.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  278 Pp._NNU2 302._MC $39.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  279 ISBN 0-8203-3025-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  279 ISBN_NP1_VV0 0-8203-3025-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  280 ) <p> The Civil Rights Movement in American Memory .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  280 )_Y <p>_Y The_AT Civil_JJ Rights_NN2 Movement_NN1 in_II American_JJ Memory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  281 Edited by Renee C. Romano and Leigh Raiford .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  281 Edited_VVN by_II Renee_NP1 C._NP1 Romano_NP1_NN1 and_CC Leigh_NP1 Raiford_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  282 ( Athens : University of Georgia Press , 2006 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  282 (_Y Athens_NP1 :_Y University_NN1 of_IO Georgia_NP1 Press_NN1_VV0 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  283 Pp. 382. $22.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  283 Pp._NNU2 382._MC $22.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  284 ISBN 0-8203-2814-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  284 ISBN_NP1_VV0 0-8203-2814-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  285 ) <p> A New Day in the Delta : Inventing School Desegregation as You Go .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  285 )_Y <p>_Y A_AT1_ZZ1 New_JJ Day_NNT1 in_II the_AT Delta_NN1 :_Y Inventing_VVG School_NN1 Desegregation_NN1 as_CSA You_PPY Go_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  286 By David W. Beckwith .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  286 By_II David_NP1 W._NP1 Beckwith_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  287 ( Tuscaloosa : University of Alabama Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  287 (_Y Tuscaloosa_NP1@_NN1 :_Y University_NN1 of_IO Alabama_NP1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  288 Pp. 384. $29.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  288 Pp._NNU2 384._MC $29.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  289 ISBN <p> Liberated Territory : Untold Local Perspectives on the Black Panther ( Durham : Duke University Press , 2009 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  289 ISBN_NP1_VV0_NN1 <p>_Y Liberated_JJ Territory_NN1 :_Y Untold_JJ Local_NN1_JJ@ Perspectives_NN2 on_II the_AT Black_JJ Panther_NN1 (_Y Durham_NP1 :_Y Duke_NN1 University_NN1 Press_NN1_VV0 ,_Y 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  290 Pp. 303. $23.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  290 Pp._NNU2 303._MC $23.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  291 ISBN 978-0-8223-4326-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  291 ISBN_NP1_VV0 978-0-8223-4326-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  292 ) <p> Opportunity Lost : Race and Poverty in the Memphis City Schools .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  292 )_Y <p>_Y Opportunity_NN1 Lost_VVD_VVN :_Y Race_NN1 and_CC Poverty_NN1 in_II the_AT Memphis_NP1 City_NN1 Schools_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  293 By Marcus D. Pohlmann .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  293 By_II Marcus_NP1 D._NP1 Pohlmann_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  294 ( Knoxville : University of Tennessee Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  294 (_Y Knoxville_NP1 :_Y University_NN1 of_IO Tennessee_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  295 Pp. 296. $42.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  295 Pp._NNU2 296._MC $42.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  296 ISBN 978-1-57233-638-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  296 ISBN_NP1_VV0 978-1-57233-638-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  297 ) <p> Pursuing a Promise : A History of African Americans at Georgia Southern University .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  297 )_Y <p>_Y Pursuing_VVG a_AT1 Promise_NN1 :_Y A_AT1@_ZZ1 History_NN1 of_IO African_JJ Americans_NN2 at_II Georgia_NP1 Southern_JJ University_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  298 By F. Erik Brooks .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  298 By_II F._NP1 Erik_NP1 Brooks_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  299 ( Macon : Mercer University Press , 2006 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  299 (_Y Macon_NP1 :_Y Mercer_NP1 University_NN1 Press_NN1_VV0 ,_Y 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  300 Pp. 193. $35.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  300 Pp._NNU2 193._MC $35.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  301 ISBN 0-88146-018-4 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  301 ISBN_NP1_VV0 0-88146-018-4_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  302 ) <p> Sacred Places : A Guide to the Civil Rights Sites in Atlanta , Georgia .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  302 )_Y <p>_Y Sacred_JJ Places_NN2 :_Y A_AT1@_ZZ1 Guide_NN1_VV0 to_II the_AT Civil_JJ Rights_NN2 Sites_NN2 in_II Atlanta_NP1 ,_Y Georgia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  303 By Harry G. Lefever and Michael C. Page .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  303 By_II Harry_NP1 G._NP1 Lefever_NP1 and_CC Michael_NP1 C._NP1 Page_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  304 Foreword by Congressman John Lewis .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  304 Foreword_NN1 by_II Congressman_NN1 John_NP1 Lewis_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  305 ( Macon : Mercer University Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  305 (_Y Macon_NP1 :_Y Mercer_NP1 University_NN1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  306 Pp. 191. $18.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  306 Pp._NNU2 191._MC $18.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  307 ISBN 978-0-88146-121-3 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  307 ISBN_NP1_VV0 978-0-88146-121-3_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  308 ) <p> Voices from St. Simons : Personal Narratives of an Island 's Past .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  308 )_Y <p>_Y Voices_NN2 from_II St._NP1 Simons_NP1 :_Y Personal_JJ Narratives_NN2 of_IO an_AT1 Island_NN1 's_GE Past_NN1_RL_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  309 Edited by Stephen Doster .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  309 Edited_VVN by_II Stephen_NP1 Doster_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  310 ( Winston-Salem : John F. Blair , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  310 (_Y Winston-Salem_NP1 :_Y John_NP1 F._NP1 Blair_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  311 Pp. 259. $12.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  311 Pp._NNU2 259._MC $12.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  312 ISBN 978-0-89587-357-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  312 ISBN_NP1_VV0 978-0-89587-357-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  313 ) <p> The Vanderbilt Law School : Aspirations and Realities .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  313 )_Y <p>_Y The_AT Vanderbilt_NN1_NP1 Law_NN1 School_NN1 :_Y Aspirations_NN2 and_CC Realities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  314 By D. Don Welch .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  314 By_II D._NP1 Don_NP1 Welch_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  315 ( Nashville .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  315 (_Y Nashville_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  316 ISBN 978-0-8265-1582-7 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  316 ISBN_NP1_VV0 978-0-8265-1582-7_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  317 ) <p> The Sicilian Judge : Anthony Alaimo , An American Hero .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  317 )_Y <p>_Y The_AT Sicilian_JJ Judge_NN1 :_Y Anthony_NP1 Alaimo_NP1 ,_Y An_AT1 American_JJ Hero_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  318 By Vincent Coppola .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  318 By_II Vincent_NP1 Coppola_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  319 ( Macon : Mercer University Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  319 (_Y Macon_NP1 :_Y Mercer_NP1 University_NN1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  320 Pp. 282. $30.00 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  320 Pp._NNU2 282._MC $30.00_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  321 ISBN 978-0-88146-125-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  321 ISBN_NP1_VV0 978-0-88146-125-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  322 ) <p> Them That Believe : The Power and Meaning of the Christian Serpent-Handling Tradition .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  322 )_Y <p>_Y Them_PPHO2 That_CST Believe_VV0 :_Y The_AT Power_NN1 and_CC Meaning_NN1 of_IO the_AT Christian_JJ Serpent-Handling_JJ_NN1 Tradition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  323 By Ralph W. Hood Jr .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  323 By_II Ralph_NP1 W._NP1 Hood_NP1 Jr_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  324 and W. Paul Williamson .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  324 and_CC W._NP1 Paul_NP1 Williamson_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  325 ( Berkeley : University of California Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  325 (_Y Berkeley_NP1 :_Y University_NN1 of_IO California_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  326 Pp. 301. $24.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  326 Pp._NNU2 301._MC $24.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  327 ISBN 978-0-520-25587-6 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  327 ISBN_NP1_VV0 978-0-520-25587-6_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  328 ) <p> Burning Faith : Church Arson in the American South .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  328 )_Y <p>_Y Burning_JJ_VVG Faith_NN1 :_Y Church_NN1 Arson_NN1 in_II the_AT American_JJ South_ND1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  329 By Christopher B. Strain .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  329 By_II Christopher_NP1 B._NP1 Strain_NN1_NP1@_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  330 ( Gainesville : University Press of Florida , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  330 (_Y Gainesville_NP1 :_Y University_NN1 Press_NN1 of_IO Florida_NP1 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  331 Pp. 208. $34.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  331 Pp._NNU2 208._MC $34.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  332 ISBN 978-0-8130-3239-9 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  332 ISBN_NP1_VV0 978-0-8130-3239-9_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  333 ) <p> Georgia Odyssey .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  333 )_Y <p>_Y Georgia_NP1 Odyssey_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  334 By James C. Cobb .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  334 By_II James_NP1 C._NP1 Cobb_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  335 Second Ed .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  335 Second_MD_NNT1 Ed_NP1_NN1% ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  336 ( Athens : University of Georgia Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  336 (_Y Athens_NP1 :_Y University_NN1 of_IO Georgia_NP1 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  337 Pp. 188. $14.95 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  337 Pp._NNU2 188._MC $14.95_NNU ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  338 ISBN-13 978-0-8203-3050-1 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  338 ISBN-13_MC 978-0-8203-3050-1_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  339 ) <p> Seizing Destiny : The Relentless Expansion of American Territory .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  339 )_Y <p>_Y Seizing_JJ_VVG Destiny_NN1 :_Y The_AT Relentless_JJ Expansion_NN1 of_IO American_JJ Territory_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  340 By Richard Kluger .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  340 By_II Richard_NP1 Kluger_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  341 ( New York : Vintage , 2007 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  341 (_Y New_NP1 York_NP1 :_Y Vintage_NN1 ,_Y 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  342 Pp. 649. $17.95 paper .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  342 Pp._NNU2 649._MC $17.95_NNU paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  343 ISBN 978-0-375-71298-2 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  343 ISBN_NP1_VV0 978-0-375-71298-2_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  344 ) <p> Two Alabama Historians Write Alabama History : Honoring Robert David Ward .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  344 )_Y <p>_Y Two_MC Alabama_NP1 Historians_NN2 Write_VV0 Alabama_NP1 History_NN1 :_Y Honoring_NP1 Robert_NP1 David_NP1 Ward_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  345 Press , 2008 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  345 Press_NN1_VV0 ,_Y 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  346 ISBN 978-1-889574-32-5 .
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  346 ISBN_NP1_VV0 978-1-889574-32-5_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  A    0  347 ) <p>
+SENTPOS COCA_acad_wlp_2009_01_FILE##4070768 COCA  B    0  347 )_Y <p>_Y

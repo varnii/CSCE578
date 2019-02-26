@@ -1,0 +1,308 @@
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    0 FRED ARTLIT WAS TOLD IT was a case he could not win -- that no lawyer could win .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    0 FRED_NP1 ARTLIT_NP1 WAS_VBDZ TOLD_VVN IT_PPH1@_NN1 was_VBDZ a_AT1 case_NN1 he_PPHS1 could_VM not_XX win_VVI --_ZZ that_CST no_AT lawyer_NN1 could_VM win_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    1 In 1996 , jet engine supplier Chromalloy sued Pratt Whitney , a unit of United Technologies Corp. , claiming the defendant illegally monopolized the jet engine parts market .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    1 In_II 1996_MC ,_Y jet_NN1 engine_NN1 supplier_NN1 Chromalloy_NN1_NP1 sued_VVD Pratt_NP1 Whitney_NP1 ,_Y a_AT1 unit_NN1 of_IO United_JJ Technologies_NN2 Corp._NP1 ,_Y claiming_VVG the_AT defendant_NN1 illegally_RR monopolized_VVD the_AT jet_NN1 engine_NN1 parts_NN2 market_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    2 The smoking-gun evidence in the 16-week state court trial in San Antonio was an internal , C-level Pratt Whitney memo stating that its goal was to " destroy the opposition " and " put them out of business .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    2 The_AT smoking-gun_JJ_NN1 evidence_NN1 in_II the_AT 16-week_JJ_NNT1 state_NN1 court_NN1 trial_NN1 in_II San_NP1 Antonio_NP1 was_VBDZ an_AT1 internal_JJ ,_Y C-level_JJ_NN1 Pratt_NP1 Whitney_NP1 memo_NN1 stating_VVG that_CST its_Z' goal_NN1 was_VBDZ to_TO "_Y destroy_VVI the_AT opposition_NN1 "_Y and_CC "_Y put_VV0_VVD them_PPHO2 out_II21 of_II22 business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    3 " <p> The memo was accompanied by a drawing of a Chromalloy factory exploding , which was followed by the words " and we will .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    3 "_Y <p>_Y The_AT memo_NN1 was_VBDZ accompanied_VVN by_II a_AT1 drawing_NN1 of_IO a_AT1 Chromalloy_NN1 factory_NN1 exploding_VVG ,_Y which_DDQ was_VBDZ followed_VVN by_II the_AT words_NN2 "_Y and_CC we_PPIS2 will_VM_VV0% ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    4 " <p> When it became clear that the case was going to trial , Pratt Whitney hired Bartlit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    4 "_Y <p>_Y When_CS_RRQ it_PPH1 became_VVD clear_JJ_RR@ that_CST the_AT case_NN1 was_VBDZ going_VVG to_II trial_NN1 ,_Y Pratt_NP1 Whitney_NP1 hired_VVD Bartlit_NP1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    5 <p> " Let 's put it this way , " Bartlit says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    5 <p>_Y "_Y Let_VM21 's_VM22 put_VVI it_PPH1 this_DD1 way_NN1 ,_Y "_Y Bartlit_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    6 " As facts go in antitrust cases , this one did n't look good .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    6 "_Y As_CSA facts_NN2 go_VV0 in_II_RP@ antitrust_NN1 cases_NN2 ,_Y this_DD1 one_PN1 did_VDD n't_XX look_VVI good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    7 " <p> Bartlit told jurors that the memo was nothing more than his client trying to be enthusiastic about the fight ahead , the same locker room before taking the field .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    7 "_Y <p>_Y Bartlit_NP1@_JJ told_VVD jurors_NN2 that_CST the_AT memo_NN1 was_VBDZ nothing_PN1 more_DAR than_CSN his_APPGE client_NN1 trying_VVG to_TO be_VBI enthusiastic_JJ about_II the_AT fight_NN1 ahead_RL ,_Y the_AT same_DA locker_NN1 room_NN1 before_II taking_VVG the_AT field_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    8 <p> " I told the jury that the memo was just a bit of bravado and that 's it , " Bartlit says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    8 <p>_Y "_Y I_PPIS1 told_VVD the_AT jury_NN1 that_CST the_AT memo_NN1 was_VBDZ just_RR a_AT1 bit_NN1 of_IO bravado_NN1 and_CC that_DD1 's_VBZ it_PPH1 ,_Y "_Y Bartlit_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0    9 " I knew I had to keep my argument simple , but I was n't sure it was working .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0    9 "_Y I_PPIS1 knew_VVD I_PPIS1 had_VHD to_TO keep_VVI my_APPGE argument_NN1 simple_JJ ,_Y but_CCB I_PPIS1 was_VBDZ n't_XX sure_JJ it_PPH1 was_VBDZ working_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   10 " <p> Until ... <p> The plaintiff 's star witness was a renowned antitrust expert who had been in court for much of the trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   10 "_Y <p>_Y Until_CS ..._... <p>_Y The_AT plaintiff_NN1 's_GE star_NN1_JJ@ witness_NN1 was_VBDZ a_AT1 renowned_JJ antitrust_NN1 expert_NN1 who_PNQS had_VHD been_VBN in_II court_NN1 for_IF much_DA1 of_IO the_AT trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   11 Under cross-examination , Bartlit asked the expert how much he was being paid by the plaintiff .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   11 Under_II_RG@ cross-examination_NN1_JJ ,_Y Bartlit_NP1 asked_VVD the_AT expert_NN1 how_RGQ@_RRQ much_DA1_RR he_PPHS1 was_VBDZ being_VBG paid_VVN by_II the_AT plaintiff_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   12 <p> The expert responded : $550 a day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   12 <p>_Y The_AT expert_NN1 responded_VVD_VVN :_Y $550_NNU a_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   13 Realizing that Texas jurors were paid a mere $6 a day -- the lowest juror pay in the nation at the time -- Bartlit decided to make some hay out of it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   13 Realizing_VVG that_CST Texas_NP1 jurors_NN2 were_VBDR paid_VVN a_AT1 mere_JJ $6_NNU a_AT1 day_NNT1 --_NN1 the_AT lowest_JJT juror_NN1 pay_NN1_VV0 in_II the_AT nation_NN1 at_II the_AT time_NNT1 --_NN1_JJ Bartlit_NP1 decided_VVD to_TO make_VVI some_DD hay_NN1 out_II21 of_II22 it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   14 <p> " So , when the jurors and I see you sipping coffee during breaks in the hallway , are you getting paid $550 then ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   14 <p>_Y "_Y So_RR ,_Y when_CS_RRQ the_AT jurors_NN2 and_CC I_PPIS1 see_VV0 you_PPY sipping_VVG coffee_NN1 during_II breaks_NN2 in_II the_AT hallway_NN1 ,_Y are_VBR you_PPY getting_VVG paid_VVN $550_NNU then_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   15 " <p> " Yes , I am , " the witness responded .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   15 "_Y <p>_Y "_Y Yes_UH ,_Y I_PPIS1 am_VBM ,_Y "_Y the_AT witness_NN1 responded_VVD_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   16 <p> " Well , when we see you sitting in the back of the courtroom reading then , are you ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   16 <p>_Y "_Y Well_RR ,_Y when_CS_RRQ we_PPIS2 see_VV0 you_PPY sitting_VVG in_II the_AT back_NN1 of_IO the_AT courtroom_NN1 reading_VVG then_RT ,_Y are_VBR you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   17 <p> " Why , yes , I am , " the expert replied .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   17 <p>_Y "_Y Why_RRQ ,_Y yes_UH ,_Y I_PPIS1 am_VBM ,_Y "_Y the_AT expert_NN1 replied_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   18 " But I am losing money on this trial because I 've raised my rate to $600 a day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   18 "_Y But_CCB I_PPIS1 am_VBM losing_VVG_JJ@ money_NN1 on_II this_DD1 trial_NN1 because_CS I_PPIS1 've_VH0 raised_VVN my_APPGE rate_NN1 to_II $600_NNU a_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   19 So every day that I am here , I am actually losing $50 a day .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   19 So_RR every_AT1 day_NNT1 that_CST I_PPIS1 am_VBM here_RL ,_Y I_PPIS1 am_VBM actually_RR losing_VVG $50_NNU a_AT1 day_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   20 " <p> That evening , after court had ended , the jurors told the judge that they had voted to donate their $6 a day to the expert because they felt sorry for him .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   20 "_Y <p>_Y That_DD1 evening_NNT1 ,_Y after_CS_II court_NN1 had_VHD ended_VVN ,_Y the_AT jurors_NN2 told_VVD_VVN the_AT judge_NN1 that_CST they_PPHS2 had_VHD voted_VVN to_TO donate_VVI their_APPGE $6_NNU a_AT1 day_NNT1 to_II the_AT expert_NN1 because_CS they_PPHS2 felt_VVD sorry_JJ for_IF him_PPHO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   21 <p> " At that point , I figured I was in pretty good shape , " Bartlit says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   21 <p>_Y "_Y At_II that_DD1 point_NN1 ,_Y I_PPIS1 figured_VVD I_PPIS1 was_VBDZ in_II_RP@ pretty_RG_JJ good_JJ shape_NN1 ,_Y "_Y Bartlit_NP1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   22 <p> The four-month trial ended with the jury finding for the defendant on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   22 <p>_Y The_AT four-month_JJ_NNT1 trial_NN1 ended_VVN_VVD with_IW the_AT jury_NN1 finding_VVG_NN1 for_IF the_AT defendant_NN1 on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   23 <p> L : HIGH-STAKES LEADER NOW 76 , BARTLIT HAS TRIED SCORES and scores of bench and jury trials .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   23 <p>_Y L_ZZ1_NP1@ :_Y HIGH-STAKES_NN2 LEADER_NN1 NOW_RT 76_MC ,_Y BARTLIT_NP1 HAS_VHZ TRIED_VVN SCORES_NN2 and_CC scores_NN2 of_IO bench_NN1 and_CC jury_NN1 trials_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   24 His 16-page online resume lists more than 50 major trials since 1970 in which the futures of General Motors , United Technologies , Bayer , Amoco and DuPont were at stake .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   24 His_APPGE 16-page_NN1_JJ online_RR_JJ resume_VV0_NN1% lists_NN2_VVZ more_DAR than_CSN 50_MC major_JJ trials_NN2 since_II 1970_MC in_II which_DDQ the_AT futures_NN2 of_IO General_JJ_NN1 Motors_NN2 ,_Y United_JJ_VVD Technologies_NN2 ,_Y Bayer_NP1 ,_Y Amoco_NP1 and_CC DuPont_NP1 were_VBDR at_II stake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   25 Oh yeah , there 's that one little Florida case from November 2000 in .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   25 Oh_UH yeah_UH ,_Y there_EX 's_VBZ that_CST_DD1 one_PN1_MC1 little_RR_JJ Florida_NP1 case_NN1 from_II November_NPM1 2000_MC in_II ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   26 <p> " It is amazing how many lawyers have never tried a case , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   26 <p>_Y "_Y It_PPH1 is_VBZ amazing_JJ_VVG% how_RGQ@_RRQ many_DA2 lawyers_NN2 have_VH0 never_RR tried_VVN a_AT1 case_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   27 " Litigators think about lawsuits .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   27 "_Y Litigators_NN2 think_VV0 about_II lawsuits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   28 Trial lawyers try them .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   28 Trial_NN1 lawyers_NN2 try_VV0 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   29 And I fear that we are witnessing a great decline in the number of trial lawyers who have had these great courtroom experiences to tell about .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   29 And_CC I_PPIS1 fear_VV0 that_CST we_PPIS2 are_VBR witnessing_VVG a_AT1 great_JJ decline_NN1 in_II the_AT number_NN1 of_IO trial_NN1 lawyers_NN2 who_PNQS have_VH0 had_VHN these_DD2 great_JJ courtroom_NN1 experiences_NN2 to_TO tell_VVI about_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   30 " <p> There 's one reason for this , he says : " Very few cases actually go to trial today .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   30 "_Y <p>_Y There_EX 's_VBZ one_MC1 reason_NN1 for_IF this_DD1 ,_Y he_PPHS1 says_VVZ :_Y "_Y Very_RG few_DA2 cases_NN2 actually_RR go_VV0 to_II trial_NN1 today_RT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   31 It is a disturbing and unhealthy trend .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   31 It_PPH1 is_VBZ a_AT1 disturbing_JJ and_CC unhealthy_JJ trend_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   32 " <p> Bartlit remembers the day he decided to become a trial lawyer .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   32 "_Y <p>_Y Bartlit_NP1@ remembers_VVZ the_AT day_NNT1 he_PPHS1 decided_VVD to_TO become_VVI a_AT1 trial_NN1 lawyer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   33 He was a first-year associate at Kirkland Ellis in Chicago in 1963 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   33 He_PPHS1 was_VBDZ a_AT1 first-year_JJ associate_NN1 at_II Kirkland_NP1 Ellis_NP1 in_II Chicago_NP1 in_II 1963_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   34 He was being paid $1,000 less per year than his fellow first-years because he went to " the rinky-dink University of Illinois , " while the others had law degrees from Harvard , Yale and the University of Chicago .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   34 He_PPHS1 was_VBDZ being_VBG paid_VVN $1,000_NNU less_DAR_RRR per_II year_NNT1 than_CSN his_APPGE fellow_JJ_NN1 first-years_NNT2 because_CS he_PPHS1 went_VVD to_II "_Y the_AT rinky-dink_JJ_NN1 University_NN1 of_IO Illinois_NP1 ,_Y "_Y while_CS the_AT others_NN2 had_VHD law_NN1 degrees_NN2 from_II Harvard_NP1 ,_Y Yale_NP1 and_CC the_AT University_NN1 of_IO Chicago_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   35 <p> He asked his father , a small-town Illinois lawyer , for advice on how he could stand out and succeed amid such overachievers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   35 <p>_Y He_PPHS1 asked_VVD his_APPGE father_NN1 ,_Y a_AT1 small-town_JJ_NN1 Illinois_NP1 lawyer_NN1 ,_Y for_IF advice_NN1 on_II how_RRQ he_PPHS1 could_VM stand_VVI out_RP and_CC succeed_VVI amid_II such_DA overachievers_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   36 Simple , his father responded : Find something you can do immediately what that would be : trying cases .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   36 Simple_JJ ,_Y his_APPGE father_NN1 responded_VVD_VVN :_Y Find_VV0 something_PN1 you_PPY can_VM do_VDI immediately_RR what_DDQ that_DD1 would_VM be_VBI :_Y trying_VVG_JJ@ cases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   37 <p> " Sure , all lawyers say they wanted to try cases , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   37 <p>_Y "_Y Sure_JJ ,_Y all_DB lawyers_NN2 say_VV0 they_PPHS2 wanted_VVD to_TO try_VVI cases_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   38 " But I realized that , when push came to shove , not one of them really wanted to actually go to court and try cases to a jury .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   38 "_Y But_CCB I_PPIS1 realized_VVD that_CST_DD1 ,_Y when_CS_RRQ push_NN1@ came_VVD to_TO shove_VVI ,_Y not_XX one_MC1 of_IO them_PPHO2 really_RR wanted_VVN_VVD to_TO actually_RR go_VVI to_II court_NN1 and_CC try_VV0 cases_NN2 to_II a_AT1 jury_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   39 I think it 's because a lot of lawyers probably got the shit beat out of them in high school , so they have this fear of losing .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   39 I_PPIS1 think_VV0 it_PPH1 's_VBZ because_CS a_AT1 lot_NN1 of_IO lawyers_NN2 probably_RR got_VVD_VVN the_AT shit_NN1 beat_VVN out_II21 of_II22 them_PPHO2 in_II high_JJ school_NN1 ,_Y so_CS@_RR they_PPHS2 have_VH0 this_DD1 fear_NN1 of_IO losing_VVG_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   40 They do whatever it takes to avoid going to trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   40 They_PPHS2 do_VD0 whatever_DDQV it_PPH1 takes_VVZ to_TO avoid_VVI going_VVG to_II trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   41 " <p> Bartlit tried his first case as lead counsel in the mid-1960s .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   41 "_Y <p>_Y Bartlit_NP1@ tried_VVD his_APPGE first_MD case_NN1 as_CSA_II@ lead_NN1_VVN@ counsel_NN1_VV0 in_II the_AT mid-1960s_J ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   42 Kirkland Ellis client Amoco faced an antitrust lawsuit in Salt Lake City filed by dozens of service station dealers who claimed Amoco was doing things improperly to control prices .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   42 Kirkland_NP1@ Ellis_NP1 client_NN1 Amoco_NP1_NN1@ faced_VVD an_AT1 antitrust_NN1 lawsuit_NN1 in_II Salt_NP1 Lake_NP1 City_NN1 filed_VVN by_II dozens_M of_IO service_NN1 station_NN1 dealers_NN2 who_PNQS claimed_VVD Amoco_NP1 was_VBDZ doing_VDG things_NN2 improperly_RR to_TO control_VVI prices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   43 In 2009 dollars , he says , more than $100 million was at stake .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   43 In_II 2009_MC dollars_NNU2 ,_Y he_PPHS1 says_VVZ ,_Y more_RRR_DAR than_CSN $100_NNU million_M was_VBDZ at_II stake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   44 <p> Even though Bartlit was n't a partner , he was determined from the start of the case to position himself as the lawyer to try it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   44 <p>_Y Even_CS21 though_CS22 Bartlit_NP1 was_VBDZ n't_XX a_AT1 partner_NN1 ,_Y he_PPHS1 was_VBDZ determined_VVN from_II the_AT start_NN1 of_IO the_AT case_NN1 to_TO position_VVI himself_PPX1 as_II_CSA the_AT lawyer_NN1 to_TO try_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   45 He took every deposition .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   45 He_PPHS1 took_VVD every_AT1 deposition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   46 He reviewed the case did n't settle , it was clear to the client and K partners that Bartlit knew everything about this case and should lead the trial team .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   46 He_PPHS1 reviewed_VVD the_AT case_NN1 did_VDD n't_XX settle_VVI ,_Y it_PPH1 was_VBDZ clear_JJ to_II the_AT client_NN1 and_CC K_ZZ1 partners_NN2 that_CST Bartlit_NP1 knew_VVD everything_PN1 about_II this_DD1 case_NN1 and_CC should_VM lead_VVI the_AT trial_NN1 team_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   47 <p> " Besides , no one else wanted to try it , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   47 <p>_Y "_Y Besides_RR ,_Y no_PN121 one_PN122 else_RR wanted_VVN_VVD to_TO try_VVI it_PPH1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   48 <p> Bartlit started his opening statement by telling jurors that the service station owners were nice people .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   48 <p>_Y Bartlit_NP1@ started_VVD his_APPGE opening_NN1_JJ@ statement_NN1 by_II telling_VVG_JJ@ jurors_NN2 that_CST the_AT service_NN1 station_NN1 owners_NN2 were_VBDR nice_JJ people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   49 <p> " I see them all here in the courtroom .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   49 <p>_Y "_Y I_PPIS1 see_VV0 them_PPHO2 all_DB_RR@ here_RL in_II the_AT courtroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   50 There 's Mr. and Mrs. Thornton .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   50 There_EX 's_VBZ Mr._NNB and_CC Mrs._NNB Thornton_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   51 Will you please stand ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   51 Will_VM_VV0% you_PPY please_RR stand_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   52 Good to see you here , " Bartlit said , before turning toward the jurors .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   52 Good_JJ to_TO see_VVI you_PPY here_RL ,_Y "_Y Bartlit_NP1 said_VVD ,_Y before_II turning_VVG toward_II the_AT jurors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   53 " Now , Mr. and Mrs. Thornton are very good people , and I hate to say this , but Mr. Thornton has n't told the truth .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   53 "_Y Now_RT ,_Y Mr._NNB and_CC Mrs._NNB Thornton_NP1 are_VBR very_RG good_JJ people_NN ,_Y and_CC I_PPIS1 hate_VV0 to_TO say_VVI this_DD1 ,_Y but_CCB Mr._NNB Thornton_NP1 has_VHZ n't_XX told_VVN the_AT truth_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   54 <p> " I feel bad that I have to be the person to show you this , but for some reason -- maybe because their lawyers have told them they have to do this , I do n't know -- but they are n't telling you the truth , " he said .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   54 <p>_Y "_Y I_PPIS1 feel_VV0 bad_JJ that_CST I_PPIS1 have_VH0 to_TO be_VBI the_AT person_NN1 to_TO show_VVI you_PPY this_DD1 ,_Y but_II21_CCB for_II22_IF some_DD reason_NN1 --_NN1 maybe_RR because_CS their_APPGE lawyers_NN2 have_VH0 told_VVN them_PPHO2 they_PPHS2 have_VH0 to_TO do_VDI this_DD1 ,_Y I_PPIS1 do_VD0 n't_XX know_VVI --_ZZ but_CCB they_PPHS2 are_VBR n't_XX telling_VVG you_PPY the_AT truth_NN1 ,_Y "_Y he_PPHS1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   55 <p> Bartlit repeated this with each service next month , he used cross-examination and the plaintiffs ' own documents to show jurors how the plaintiffs ' case was false .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   55 <p>_Y Bartlit_NP1@ repeated_VVD this_DD1 with_IW each_DD1 service_NN1 next_MD month_NNT1 ,_Y he_PPHS1 used_VVD cross-examination_JJ_NN1 and_CC the_AT plaintiffs_NN2 '_GE own_DA documents_NN2 to_TO show_VVI jurors_NN2 how_RRQ the_AT plaintiffs_NN2 '_GE case_NN1 was_VBDZ false_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   56 <p> When closing arguments came , Bartlit started by pointing out that Mr. and Mrs. Thornton and the other owners were now absent from the courtroom .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   56 <p>_Y When_CS_RRQ closing_JJ_VVG arguments_NN2 came_VVD ,_Y Bartlit_NP1 started_VVD by_II pointing_VVG out_RP that_CST Mr._NNB and_CC Mrs._NNB Thornton_NP1 and_CC the_AT other_JJ owners_NN2 were_VBDR now_RT absent_VV0@_JJ from_II the_AT courtroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   57 <p> " Where are they ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   57 <p>_Y "_Y Where_RRQ are_VBR they_PPHS2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   58 Why are n't they here today ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   58 Why_RRQ are_VBR n't_XX they_PPHS2 here_RL today_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   59 " he asked , watching the jurors scan the courtroom looking for the absent plaintiffs .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   59 "_Y he_PPHS1 asked_VVD ,_Y watching_VVG the_AT jurors_NN2 scan_VVI the_AT courtroom_NN1 looking_VVG for_IF the_AT absent_JJ plaintiffs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   60 " I wonder if they did n't come because they did n't want to face you and because they knew you caught them in their lies .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   60 "_Y I_PPIS1 wonder_VV0 if_CSW@_CS they_PPHS2 did_VDD n't_XX come_VVI because_CS they_PPHS2 did_VDD n't_XX want_VVI to_TO face_VVI you_PPY and_CC because_CS they_PPHS2 knew_VVD you_PPY caught_VVD them_PPHO2 in_II_RP@ their_APPGE lies_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   61 I guess they could n't hold their heads up .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   61 I_PPIS1 guess_VV0 they_PPHS2 could_VM n't_XX hold_VVI their_APPGE heads_NN2 up_RP ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   62 " <p> The jury found in Amoco 's favor on all counts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   62 "_Y <p>_Y The_AT jury_NN1 found_VVN_VVD in_II Amoco_NP1 's_GE favor_NN1 on_II all_DB counts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   63 <p> L : TROOP TACTICS BARTLIT WAKES EVERY MORNING BY 4 -- even earlier when he 's in trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   63 <p>_Y L_ZZ1_NP1@ :_Y TROOP_NN1 TACTICS_NN2 BARTLIT_NP1 WAKES_VVZ EVERY_AT1 MORNING_NNT1 BY_II 4_MC --_ZZ even_RR earlier_RRR_JJR when_CS he_PPHS1 's_VBZ in_II trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   64 He exercises for two hours and plays basketball regularly .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   64 He_PPHS1 exercises_VVZ for_IF two_MC hours_NNT2 and_CC plays_VVZ_NN2 basketball_NN1 regularly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   65 He says the physical energy it takes to be a successful trial lawyer is underestimated .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   65 He_PPHS1 says_VVZ the_AT physical_JJ energy_NN1 it_PPH1 takes_VVZ to_TO be_VBI a_AT1 successful_JJ trial_NN1 lawyer_NN1 is_VBZ underestimated_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   66 <p> " Most trials are not sprints , but are marathons , " says Bartlit , Ranger after graduating from West Point and before law school .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   66 <p>_Y "_Y Most_DAT trials_NN2 are_VBR not_XX sprints_NN2 ,_Y but_CCB are_VBR marathons_NN2 ,_Y "_Y says_VVZ Bartlit_NP1_JJ ,_Y Ranger_NN1 after_II graduating_VVG from_II West_NP1 Point_NP1 and_CC before_II_CS law_NN1 school_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   67 <p> " I 've tried several cases that lasted three or four months .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   67 <p>_Y "_Y I_PPIS1 've_VH0 tried_VVN several_DA2 cases_NN2 that_CST lasted_VVD three_MC or_CC four_MC months_NNT2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   68 So you must remain fit and have the strength and energy to handle it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   68 So_RR you_PPY must_VM remain_VVI fit_JJ and_CC have_VH0 the_AT strength_NN1 and_CC energy_NN1 to_TO handle_VVI it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   69 " <p> One of Bartlit 's biggest wins came in 1974 when he represented General Motors in a criminal antitrust case .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   69 "_Y <p>_Y One_MC1 of_IO Bartlit_NP1 's_GE biggest_JJT wins_NN2 came_VVD in_II 1974_MC when_RRQ he_PPHS1 represented_VVD General_JJ_NN1 Motors_NN2 in_II a_AT1 criminal_JJ_NN1 antitrust_NN1 case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   70 GM and Ford had been indicted on charges that the two automakers had conspired to fix prices and maintain a monopoly in the sale of large fleets of cars sold to governmental agencies and large private customers .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   70 GM_NP1 and_CC Ford_NP1 had_VHD been_VBN indicted_VVN on_II charges_NN2 that_CST the_AT two_MC automakers_NN2 had_VHD conspired_VVN to_TO fix_VVI prices_NN2 and_CC maintain_VVI a_AT1 monopoly_NN1 in_II the_AT sale_NN1 of_IO large_JJ fleets_NN2 of_IO cars_NN2 sold_VVN_VVD to_II governmental_JJ agencies_NN2 and_CC large_JJ private_JJ customers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   71 <p> If found guilty , GM faced a modest maximum of $100,000 in criminal fines .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   71 <p>_Y If_CS found_VVN guilty_JJ ,_Y GM_NP1 faced_VVD a_AT1 modest_JJ maximum_NN1 of_IO $100,000_NNU in_II criminal_JJ_NN1 fines_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   72 However , a conviction would have banned the world 's largest car manufacturer from doing business with the government and made it much easier for other criminal prosecutions and private civil lawsuits to move forward .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   72 However_RR ,_Y a_AT1 conviction_NN1 would_VM have_VHI banned_VVN the_AT world_NN1 's_GE largest_JJT car_NN1 manufacturer_NN1 from_II doing_VDG business_NN1 with_IW the_AT government_NN1 and_CC made_VVD it_PPH1 much_RR easier_JJR_RRR for_IF other_JJ criminal_JJ_NN1 prosecutions_NN2 and_CC private_JJ civil_JJ lawsuits_NN2 to_TO move_VVI forward_RL ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   73 <p> " It was one of the most incredible trials of its time , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   73 <p>_Y "_Y It_PPH1 was_VBDZ one_MC1 of_IO the_AT most_RGT incredible_JJ trials_NN2 of_IO its_Z' time_NNT1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   74 Henry Ford and John DeLorean were witnesses .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   74 Henry_NP1 Ford_NP1 and_CC John_NP1 DeLorean_NP1 were_VBDR witnesses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   75 " We estimated total damages to General Motors could have been in the .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   75 "_Y We_PPIS2 estimated_VVD total_JJ damages_NN2 to_II General_JJ_NN1 Motors_NN2 could_VM have_VHI been_VBN in_II the_AT ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   76 " <p> L : SEARCHING FOR UNDERSTANDING IN PUTTING TOGETHER HIS DEPENSE , BARTLIT SIFTED through every single document in the case and every set of minutes from every GM board meeting .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   76 "_Y <p>_Y L_ZZ1_NP1@ :_Y SEARCHING_VVG FOR_IF UNDERSTANDING_VVG_NN1 IN_II_RP@ PUTTING_VVG TOGETHER_RL HIS_APPGE DEPENSE_NN1 ,_Y BARTLIT_NP1 SIFTED_VVD through_II_RP@ every_AT1 single_JJ document_NN1 in_II the_AT case_NN1 and_CC every_AT1 set_NN1 of_IO minutes_NNT2 from_II every_AT1 GM_NP1 board_NN1 meeting_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   77 <p> " I identified every time the GM board and its executives displayed uncertainty , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   77 <p>_Y "_Y I_PPIS1 identified_VVD@ every_AT1 time_NNT1 the_AT GM_NP1 board_NN1 and_CC its_Z' executives_NN2 displayed_VVD_VVN uncertainty_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   78 " Because if there 's uncertainty , it shows there 's no conspiracy .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   78 "_Y Because_CS if_CS there_EX 's_VBZ uncertainty_NN1 ,_Y it_PPH1 shows_VVZ there_EX 's_VBZ no_AT conspiracy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   79 " <p> Then he found the document that would be the foundation of his defense .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   79 "_Y <p>_Y Then_RT he_PPHS1 found_VVD the_AT document_NN1 that_CST_DD1 would_VM be_VBI the_AT foundation_NN1 of_IO his_APPGE defense_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   80 It came in the form of minutes from a key board of directors meeting at which fleet sales were discussed .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   80 It_PPH1 came_VVD in_II the_AT form_NN1 of_IO minutes_NNT2 from_II a_AT1 key_JJ board_NN1 of_IO directors_NN2 meeting_VVG at_II which_DDQ fleet_NN1_JJ@ sales_NN were_VBDR discussed_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   81 The minutes showed the General Motors board and executives pondering a single question over and over : " What will Ford do ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   81 The_AT minutes_NNT2 showed_VVD the_AT General_JJ_NN1 Motors_NN2 board_NN1_VV0@ and_CC executives_NN2 pondering_VVG a_AT1 single_JJ question_NN1 over_RP_II and_CC over_RP_II :_Y "_Y What_DDQ will_VM_VV0% Ford_NP1 do_VDI ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   82 " <p> The four-month trial ended with the jury acquitting GM of all charges .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   82 "_Y <p>_Y The_AT four-month_JJ_NNT1 trial_NN1 ended_VVN_VVD with_IW the_AT jury_NN1 acquitting_VVG GM_NP1 of_IO all_DB charges_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   83 <p> " Jurors are like us : They hate not understanding things , " says Bartlit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   83 <p>_Y "_Y Jurors_NN2_NP1 are_VBR like_II us_PPIO2 :_Y They_PPHS2 hate_VV0 not_XX understanding_VVG_JJ@ things_NN2 ,_Y "_Y says_VVZ Bartlit_JJ_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   84 " They appreciate and trust the people -- be it lawyers or witnesses -- who help them better understand the facts and the meaning of the case .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   84 "_Y They_PPHS2 appreciate_VV0 and_CC trust_VV0 the_AT people_NN --_NN1 be_VBI it_PPH1 lawyers_NN2 or_CC witnesses_NN2_VVZ@ --_NN1 who_PNQS help_VV0 them_PPHO2 better_RRR understand_VVI the_AT facts_NN2 and_CC the_AT meaning_NN1 of_IO the_AT case_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   85 " <p> He points Bradstreet against an antitrust lawsuit filed by National Business Lists .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   85 "_Y <p>_Y He_PPHS1 points_VVZ Bradstreet_NP1 against_II an_AT1 antitrust_NN1 lawsuit_NN1 filed_VVN by_II National_JJ Business_NN1 Lists_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   86 NBL accused D of using its credit ratings unit to control and monopolize the data it needed to develop business lists .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   86 NBL_NP1 accused_VVD D_ZZ1_NP1@ of_IO using_VVG its_Z' credit_NN1 ratings_NN2 unit_NN1 to_TO control_VVI and_CC monopolize_VVI the_AT data_NN it_PPH1 needed_VVD to_TO develop_VVI business_NN1 lists_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   87 <p> NBL sought $7.5 million in damages and demanded that D be required to divest its lucrative mailing list business .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   87 <p>_Y NBL_NP1 sought_VVD $7.5_NNU million_M in_II damages_NN2 and_CC demanded_VVD_VVN that_CST D_ZZ1 be_VBI required_VVN to_TO divest_VVI its_Z' lucrative_JJ mailing_NN1 list_NN1 business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   88 <p> In preparing for trial , Bartlit learned that for 25 years NBL had been developing its lists from information taken from D credit reference books in violation of the copyright infringement agreement .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   88 <p>_Y In_II preparing_VVG for_IF trial_NN1 ,_Y Bartlit_NP1 learned_VVD that_CST_DD1 for_IF 25_MC years_NNT2 NBL_NP1 had_VHD been_VBN developing_VVG its_Z' lists_NN2 from_II information_NN1 taken_VVN from_II D_ZZ1_NP1@ credit_NN1 reference_NN1 books_NN2 in_II violation_NN1 of_IO the_AT copyright_NN1 infringement_NN1 agreement_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   89 <p> In her 1988 book , The Trial Lawyers , Emily Couric quotes Bartlit 's reaction : " Do you mean to tell me these guys ran their business on information they stole from us ?
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   89 <p>_Y In_II her_APPGE_PPHO1 1988_MC book_NN1 ,_Y The_AT Trial_NN1 Lawyers_NN2 ,_Y Emily_NP1 Couric_NP1 quotes_VVZ Bartlit_NP1 's_GE reaction_NN1 :_Y "_Y Do_VD0 you_PPY mean_VVI to_TO tell_VVI me_PPIO1 these_DD2 guys_NN2 ran_VVD their_APPGE business_NN1 on_II information_NN1 they_PPHS2 stole_VVD from_II us_PPIO2 ?_Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   90 " National Business Lists " had been stealing from us for years -- and now they 're complaining that they ca n't steal more .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   90 "_Y National_JJ Business_NN1 Lists_NN2 "_Y had_VHD been_VBN stealing_VVG from_II us_PPIO2 for_IF years_NNT2 --_ZZ and_CC now_RT they_PPHS2 're_VBR complaining_VVG that_CST they_PPHS2 ca_VM n't_XX steal_VVI more_RRR_DAR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   91 " <p> Bartlit had found his defense , and it was a solid offense .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   91 "_Y <p>_Y Bartlit_NP1@ had_VHD found_VVN his_APPGE defense_NN1 ,_Y and_CC it_PPH1 was_VBDZ a_AT1 solid_JJ offense_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   92 Not only did the jury decide against NBL 's claims ; it found the plaintiff infringed Dun Bradstreet 's copyrights and awarded $3.85 RESCUE BARTLIT SAYS HE 'S LEARNED A KEY TO SUCCESS IN court is being one 's self or at least not trying to be someone else .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   92 Not_XX only_RR did_VDD the_AT jury_NN1 decide_VVI against_II NBL_NP1 's_GE claims_NN2 ;_Y it_PPH1 found_VVD the_AT plaintiff_NN1 infringed_VVD_VVN Dun_NN1 Bradstreet_NP1 's_GE copyrights_NN2 and_CC awarded_VVD@_VVN $3.85_NNU RESCUE_NN1 BARTLIT_NP1 SAYS_VVZ HE_PPHS1 'S_VBZ_VHZ@ LEARNED_VVN A_AT1@_ZZ1 KEY_NN1_JJ TO_II SUCCESS_NN1 IN_II court_NN1 is_VBZ being_VBG one_PN1 's_GE self_NN1 or_CC at_RR21 least_RR22 not_XX trying_VVG to_TO be_VBI someone_PN1 else_RR ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   93 <p> " I tell our young lawyers the one thing we know jurors do is evaluate everyone in court , and they do n't trust phonies , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   93 <p>_Y "_Y I_PPIS1 tell_VV0 our_APPGE young_JJ lawyers_NN2 the_AT one_MC1 thing_NN1 we_PPIS2 know_VV0 jurors_NN2 do_VD0 is_VBZ evaluate_VVI everyone_PN1 in_II court_NN1 ,_Y and_CC they_PPHS2 do_VD0 n't_XX trust_VVI phonies_NN2 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   94 " So always be yourself .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   94 "_Y So_RG_RR always_RR be_VBI yourself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   95 If you ca n't figure out how you should act , I always say you should act like John Wayne .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   95 If_CS you_PPY ca_VM n't_XX figure_VVI out_RP how_RRQ you_PPY should_VM act_VVI ,_Y I_PPIS1 always_RR say_VV0 you_PPY should_VM act_VVI like_II John_NP1 Wayne_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   96 John Wayne would n't whine to the judge with objections .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   96 John_NP1 Wayne_NP1 would_VM n't_XX whine_VVI to_II the_AT judge_NN1 with_IW objections_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   97 He would n't be arrogant .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   97 He_PPHS1 would_VM n't_XX be_VBI arrogant_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   98 John Wayne was strong but quiet .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   98 John_NP1 Wayne_NP1 was_VBDZ strong_JJ but_CCB quiet_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0   99 He was a leader who focused on getting the job done .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0   99 He_PPHS1 was_VBDZ a_AT1 leader_NN1 who_PNQS focused_VVD on_II_RP@ getting_VVG the_AT job_NN1 done_VDN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  100 " <p> Bartlit likes playing Wayne , riding to the rescue of his big corporate clients who have received what he calls " the letter .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  100 "_Y <p>_Y Bartlit_JJ_NP1@ likes_NN2_VVZ playing_VVG Wayne_NP1 ,_Y riding_VVG to_II the_AT rescue_NN1 of_IO his_APPGE big_JJ corporate_JJ clients_NN2 who_PNQS have_VH0 received_VVN what_DDQ he_PPHS1 calls_VVZ "_Y the_AT letter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  101 " The letter , he says , is written by a company 's main outside counsel who litigated a matter for years , only to realize it will not be dismissed and is headed for trial .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  101 "_Y The_AT letter_NN1 ,_Y he_PPHS1 says_VVZ ,_Y is_VBZ written_VVN by_II a_AT1 company_NN1 's_GE_VBZ main_JJ outside_JJ_II counsel_NN1 who_PNQS litigated_VVD a_AT1 matter_NN1 for_IF years_NNT2 ,_Y only_RR to_TO_II realize_VVI it_PPH1 will_VM not_XX be_VBI dismissed_VVN and_CC is_VBZ headed_VVN for_IF trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  102 So the letter recommends cutting a deal executives and general counsel telling me that their outside lawyers want them to settle just to avoid trial , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  102 So_RR the_AT letter_NN1 recommends_VVZ cutting_VVG a_AT1 deal_NN1 executives_NN2 and_CC general_JJ_NN1 counsel_NN1 telling_VVG me_PPIO1 that_CST their_APPGE outside_JJ lawyers_NN2 want_VV0 them_PPHO2 to_TO settle_VVI just_RR_JJ@ to_TO avoid_VVI trial_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  103 " But these companies do n't want to settle .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  103 "_Y But_CCB these_DD2 companies_NN2 do_VD0 n't_XX want_VVI to_TO settle_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  104 So they call me .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  104 So_RR they_PPHS2 call_VV0 me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  105 I love getting that call .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  105 I_PPIS1 love_VV0 getting_VVG that_DD1 call_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  106 " <p> Bartlit was at his daughter 's wedding when he received a call from the office of Houston lawyer James Baker , the former secretary of state .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  106 "_Y <p>_Y Bartlit_NP1@ was_VBDZ at_II his_APPGE daughter_NN1 's_GE wedding_NN1 when_CS_RRQ he_PPHS1 received_VVD a_AT1 call_NN1 from_II the_AT office_NN1 of_IO Houston_NP1 lawyer_NN1 James_NP1 Baker_NP1 ,_Y the_AT former_DA secretary_NN1 of_IO state_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  107 Baker needed him to fly immediately to Tallahassee , Fla. , to represent George W. Bush in the election dispute against Al Gore .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  107 Baker_NP1 needed_VVD him_PPHO1 to_TO fly_VVI immediately_RR to_II Tallahassee_NP1_NN1 ,_Y Fla._NP1 ,_Y to_TO represent_VVI George_NP1 W._NP1 Bush_NP1 in_II the_AT election_NN1 dispute_NN1 against_II Al_NP1 Gore_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  108 <p> Bartlit waited until the wedding party was well under way , and then he slipped off to catch a private jet .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  108 <p>_Y Bartlit_NP1@ waited_VVD until_CS_II@ the_AT wedding_NN1 party_NN1 was_VBDZ well_JJ under_RR21 way_RR22 ,_Y and_CC then_RT he_PPHS1 slipped_VVD off_RP to_TO catch_VVI a_AT1 private_JJ jet_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  109 <p> " I told my partner that us representing Bush in this was a no-win situation , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  109 <p>_Y "_Y I_PPIS1 told_VVD my_APPGE partner_NN1 that_CST us_PPIO2 representing_VVG Bush_NP1_NN1@ in_II this_DD1 was_VBDZ a_AT1 no-win_JJ situation_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  110 " If we lost , we would be called incompetent .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  110 "_Y If_CS we_PPIS2 lost_VVD ,_Y we_PPIS2 would_VM be_VBI called_VVN incompetent_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  111 If we won , no one would realize it because they do n't know about trying cases .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  111 If_CS we_PPIS2 won_VVD ,_Y no_PN121 one_PN122 would_VM realize_VVI it_PPH1 because_CS they_PPHS2 do_VD0 n't_XX know_VVI about_II trying_VVG_JJ@ cases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  112 " <p> Bartlit says the jury box was filled with television cameras .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  112 "_Y <p>_Y Bartlit_NP1@ says_VVZ the_AT jury_NN1 box_NN1 was_VBDZ filled_VVN with_IW television_NN1 cameras_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  113 There were more reporters from more places than Bush because of his politics .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  113 There_EX were_VBDR more_DAR reporters_NN2 from_II more_DAR places_NN2 than_CSN Bush_NP1 because_II21 of_II22 his_APPGE politics_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  114 <p> " No one from the Bush camp ever asked me if I was a Republican , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  114 <p>_Y "_Y No_XX one_PN122 from_II the_AT Bush_NP1_NN1@ camp_NN1 ever_RR asked_VVD me_PPIO1 if_CS_CSW@ I_PPIS1 was_VBDZ a_AT1 Republican_NN1 ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  115 " I had n't even contributed to Bush 's campaign .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  115 "_Y I_PPIS1 had_VHD n't_XX even_RR contributed_VVN to_II Bush_NP1 's_GE campaign_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  116 In fact , I gave money to Joe Lieberman because I thought he was a smart and reasonable guy .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  116 In_II fact_NN1 ,_Y I_PPIS1 gave_VVD money_NN1 to_II Joe_NP1 Lieberman_NP1_NN1 because_CS I_PPIS1 thought_VVD he_PPHS1 was_VBDZ a_AT1 smart_JJ and_CC reasonable_JJ guy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  117 " <p> " But I was n't in this case because I thought the country would die if my client lost ; I just thought it would be a great case to try , " he says .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  117 "_Y <p>_Y "_Y But_CCB I_PPIS1 was_VBDZ n't_XX in_II this_DD1 case_NN1 because_CS I_PPIS1 thought_VVD the_AT country_NN1 would_VM die_VVI if_CSW@_CS my_APPGE client_NN1 lost_VVD_VVN ;_Y I_PPIS1 just_RR thought_VVD it_PPH1 would_VM be_VBI a_AT1 great_JJ case_NN1 to_TO try_VVI ,_Y "_Y he_PPHS1 says_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  118 <p> Then Bartlit pauses , as if he is thinking about whether he truly wants to say what 's on his mind .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  118 <p>_Y Then_RT Bartlit_JJ_NP1 pauses_NN2_VVZ ,_Y as_CS21 if_CS22 he_PPHS1 is_VBZ thinking_VVG about_II whether_CSW he_PPHS1 truly_RR wants_VVZ to_TO say_VVI what_DDQ 's_VBZ on_II his_APPGE mind_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  119 Then , he just says it .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  119 Then_RT ,_Y he_PPHS1 just_RR says_VVZ it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  120 <p> " You know , if I were to rate my most important cases , I would n't even put Bush v. Gore in the top 10 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  120 <p>_Y "_Y You_PPY know_VV0 ,_Y if_CS I_PPIS1 were_VBDR to_II rate_NN1 my_APPGE most_RGT important_JJ cases_NN2 ,_Y I_PPIS1 would_VM n't_XX even_RR put_VVI Bush_NP1_NN1@ v._II Gore_NP1 in_II the_AT top_NN1_JJ 10_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  121 " <p> L : JAMES NEAL Born 1929 in Oak Grove , Tenn .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  121 "_Y <p>_Y L_ZZ1_NP1@ :_Y JAMES_NP1 NEAL_NP1 Born_VVN_JJ@ 1929_MC in_II Oak_NN1 Grove_NN1 ,_Y Tenn_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  122 <p> Firm Neal Harwell .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  122 <p>_Y Firm_JJ_NN1 Neal_NP1 Harwell_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  123 <p> Law schools Vanderbilt , Georgetown .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  123 <p>_Y Law_NN1 schools_NN2 Vanderbilt_VV0 ,_Y Georgetown_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  124 <p> L : Significant cases * 1974 -- Neal served White House aides John Ehrlichman and H.R. Haldeman. * 1981 -- Successfully defended Dr. George Nichopoulos on charges that he overprescribed medications to Elvis Presley , Jerry Lee Lewis and other patients .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  124 <p>_Y L_ZZ1_NP1@ :_Y Significant_JJ cases_NN2 *_FU 1974_MC --_ZZ Neal_NP1 served_VVD White_NP1 House_NN1 aides_NN2 John_NP1 Ehrlichman_NP1_NN1 and_CC H.R._NNU Haldeman._NP1 *_FU 1981_MC --_ZZ Successfully_RR defended_VVD_VVN Dr._NNB George_NP1 Nichopoulos_NP2 on_II charges_NN2 that_CST he_PPHS1 overprescribed_VVD medications_NN2 to_II Elvis_NP1 Presley_NP1 ,_Y Jerry_NP1 Lee_NP1 Lewis_NP1 and_CC other_JJ patients_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  125 * 1985 -- Represented Louisiana Gov .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  125 *_FU 1985_MC --_NN1_JJ Represented_VVD Louisiana_NP1 Gov_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  126 Edwin Edwards in his first trial for racketeering .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  126 Edwin_NP1 Edwards_NP1 in_II his_APPGE first_MD trial_NN1 for_IF racketeering_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  127 The jury voted 11-1 to acquit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  127 The_AT jury_NN1 voted_VVD_VVN 11-1_MCMC to_II acquit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  128 On retrial , Edwards was acquitted .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  128 On_II retrial_NN1 ,_Y Edwards_NP1 was_VBDZ acquitted_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  129 * 1987 -- Neal successfully defended movie director John Landis , charged with involuntary manslaughter and child endangerment in the death of actor Vic Morrow and two child actors during the filming of Twilight Zone : The Movie .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  129 *_FU 1987_MC --_ZZ Neal_NP1 successfully_RR defended_VVN_VVD movie_NN1 director_NN1 John_NP1 Landis_NP1 ,_Y charged_VVN_VVD with_IW involuntary_JJ manslaughter_NN1 and_CC child_NN1 endangerment_NN1 in_II the_AT death_NN1 of_IO actor_NN1 Vic_NP1_NN1 Morrow_NP1 and_CC two_MC child_NN1 actors_NN2 during_II the_AT filming_NN1@ of_IO Twilight_NN1 Zone_NN1 :_Y The_AT Movie_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  130 Other career highlights -- As assistant to Attorney General Robert F. Kennedy , Neal successfully prosecuted Jimmy Hoffa , president of the Teamsters union , in 1964 for attempting to bribe a grand juror .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  130 Other_JJ career_NN1 highlights_VVZ --_ZZ As_CSA_II@ assistant_JJ_NN1 to_II Attorney_NN1 General_NNB Robert_NP1 F._NP1 Kennedy_NP1 ,_Y Neal_NP1 successfully_RR prosecuted_VVD_VVN Jimmy_NP1 Hoffa_NP1 ,_Y president_NN1 of_IO the_AT Teamsters_NP1_NN2 union_NN1 ,_Y in_II 1964_MC for_IF attempting_VVG to_TO bribe_VVI a_AT1 grand_JJ juror_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  131 Hoffa received a 15-year sentence .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  131 Hoffa_NP1@_NN1 received_VVD a_AT1 15-year_JJ_NNT1 sentence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  132 Neal has also represented former Vice President AI Gore in personal matters .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  132 Neal_NP1 has_VHZ also_RR represented_VVN former_DA Vice_JJ_NN1 President_NN1 AI_NN1 Gore_NP1 in_II personal_JJ matters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  133 <p> L : FRED H. BARTLIT JR .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  133 <p>_Y L_ZZ1_NP1@ :_Y FRED_NP1 H._NP1 BARTLIT_NP1_JJ JR_JJ_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  134 Born 1932 in Harvey , III .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  134 Born_VVN_JJ@ 1932_MC in_II Harvey_NP1 ,_Y III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  135 <p> Firm Bartlit Beck Herman Palenchar Scott in Chicago and Denver .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  135 <p>_Y Firm_JJ_NN1 Bartlit_NP1_JJ Beck_NP1 Herman_NP1 Palenchar_NP1 Scott_NP1 in_II Chicago_NP1 and_CC Denver_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  136 <p> Law school University of Illinois .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  136 <p>_Y Law_NN1 school_NN1 University_NN1 of_IO Illinois_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  137 General Motors in a $2 billion price-fixing antitrust case in Connecticut .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  137 General_JJ_NN1 Motors_NN2 in_II a_AT1 $2_NNU billion_M price-fixing_JJ antitrust_NN1 case_NN1 in_II Connecticut_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  138 * 1981 -- Defended chemical giant Monsanto in a lawsuit brought by Super Turf claiming treble damages for price fixing on artificial turf products .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  138 *_FU 1981_MC --_NN1_JJ Defended_VVD_VVN chemical_JJ giant_JJ_NN1 Monsanto_NN1 in_II a_AT1 lawsuit_NN1 brought_VVN by_II Super_JJ Turf_NN1 claiming_VVG treble_JJ_NN1 damages_NN2 for_IF price_NN1 fixing_VVG_NN1 on_II artificial_JJ turf_NN1 products_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  139 Monsanto won at trial and on appeal .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  139 Monsanto_NP1@_NN1 won_VVD at_II trial_NN1 and_CC on_II appeal_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  140 * 1996 -- Represented United Technologies on claims brought by Chromalloy that UT 's Pratt Whitney unit monopolized the sale of jet engine parts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  140 *_FU 1996_MC --_NN1_JJ Represented_VVD_VVN United_JJ Technologies_NN2 on_II claims_NN2 brought_VVN by_II Chromalloy_NN1_NP1 that_CST_DD1 UT_NP1_NN1 's_GE Pratt_NP1 Whitney_NP1 unit_NN1 monopolized_VVD the_AT sale_NN1 of_IO jet_NN1 engine_NN1 parts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  141 He won .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  141 He_PPHS1 won_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  142 * 2002 -- Was victorious in appeals of two lawsuits defending Bayer 's patent on the antibiotic drug Cipro .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  142 *_FU 2002_MC --_NN1_JJ Was_VBDZ victorious_JJ in_II appeals_NN2 of_IO two_MC lawsuits_NN2 defending_VVG Bayer_NP1 's_GE patent_NN1 on_II the_AT antibiotic_NN1 drug_NN1 Cipro_NN1_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  143 Also won trials of both in lower courts .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  143 Also_RR won_VVN_VVD trials_NN2 of_IO both_DB2_RR in_II lower_JJR courts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  144 * 2004 -- Successfully defended investment fund Forstmann Little Co. from $1 billion in claims by the state of Connecticut in state court .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  144 *_FU 2004_MC --_ZZ Successfully_RR defended_VVN_VVD investment_NN1 fund_NN1 Forstmann_NP1_VV0@ Little_JJ_NP1@_DA1 Co._NN1_NP1 from_II $1_NNU billion_M in_II claims_NN2 by_II the_AT state_NN1 of_IO Connecticut_NP1 in_II state_NN1 court_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  145 Other career highlights -- Trial counsel ( with partner Phil Beck ) to George W. Bush against Al Gore in 2000 Florida state court election litigation .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  145 Other_JJ career_NN1 highlights_VVZ --_ZZ Trial_NN1 counsel_NN1 (_Y with_IW partner_NN1 Phil_NP1 Beck_NP1 )_Y to_II George_NP1 W._NP1 Bush_NP1 against_II Al_NP1 Gore_NP1 in_II 2000_MC Florida_NP1 state_NN1_VV0 court_NN1 election_NN1 litigation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  146 <p> Date February 2007 .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  146 <p>_Y Date_VV0@_NN1 February_NPM1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  147 <p> Location Blue River , British Columbia , Canada .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  147 <p>_Y Location_NN1 Blue_NP1 River_NNL1 ,_Y British_NP1 Columbia_NP1 ,_Y Canada_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  148 <p> Who Fred Bartlit .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  148 <p>_Y Who_NP1% Fred_NP1 Bartlit_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  149 <p> What Helicopter skiing in the Cariboo and Monashee mountain ranges .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  149 <p>_Y What_DDQ Helicopter_NN1 skiing_NN1_VVG@ in_II the_AT Cariboo_NN1_NP1 and_CC Monashee_NP1_NN1 mountain_NN1 ranges_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  150 <p> Notes Bartlit and group of skiers varies -- but one constant is Glen Summers , a partner in the firm 's Denver office .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  150 <p>_Y Notes_VVZ_NN2 Bartlit_JJ_NP1 and_CC group_NN1 of_IO skiers_NN2 varies_VVZ --_ZZ but_CCB one_MC1 constant_NN1@_JJ is_VBZ Glen_NP1 Summers_NP1 ,_Y a_AT1 partner_NN1 in_II the_AT firm_NN1 's_GE_VBZ Denver_NP1 office_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  151 The trip did n't happen last year , however , because Bartlit was sidelined by a long trial in California .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  151 The_AT trip_NN1 did_VDD n't_XX happen_VVI last_MD year_NNT1 ,_Y however_RR ,_Y because_CS Bartlit_NP1 was_VBDZ sidelined_VVN by_II a_AT1 long_JJ trial_NN1 in_II California_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  152 Bartlit believes that physical fitness contributes to his success in the courtroom .
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  152 Bartlit_NP1@ believes_VVZ that_CST_DD1 physical_JJ fitness_NN1 contributes_VVZ to_II his_APPGE success_NN1 in_II the_AT courtroom_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  A    0  153 <p> PHOTO ( BLACK WHITE ) <p>
+SENTPOS COCA_acad_wlp_2009_05_FILE##4071552 COCA  B    0  153 <p>_Y PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y <p>_Y

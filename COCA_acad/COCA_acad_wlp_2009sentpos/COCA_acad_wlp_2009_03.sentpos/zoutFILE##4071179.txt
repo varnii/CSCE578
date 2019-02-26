@@ -1,0 +1,246 @@
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    0 A COUPLE OF YEARS AGO , while completing my novel The Shape of Water , I left my unfinished manuscript and my unfinished kids to attend a local reading .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    0 A_ZZ1 COUPLE_NN1 OF_IO YEARS_NNT2 AGO_RA ,_Y while_CS completing_VVG my_APPGE novel_NN1_JJ The_AT Shape_NN1 of_IO Water_NN1 ,_Y I_PPIS1 left_VVD my_APPGE unfinished_JJ manuscript_NN1 and_CC my_APPGE unfinished_JJ kids_NN2 to_TO attend_VVI a_AT1 local_JJ reading_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    1 It was n't a particularly noteworthy event , but this time it was transformative .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    1 It_PPH1 was_VBDZ n't_XX a_AT1 particularly_RR noteworthy_JJ event_NN1 ,_Y but_CCB this_DD1 time_NNT1 it_PPH1 was_VBDZ transformative_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    2 At the end , the audience was invited to join a writers group at the adjoining caf .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    2 At_II the_AT end_NN1 ,_Y the_AT audience_NN1 was_VBDZ invited_VVN to_TO join_VVI a_AT1 writers_NN2 group_NN1_VV0% at_II the_AT adjoining_JJ caf_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    3 The featured topic : revision after rejection .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    3 The_AT featured_JJ@ topic_NN1 :_Y revision_NN1 after_II_CS rejection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    4 <p> Ho hum .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    4 <p>_Y Ho_UH hum_UH@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    5 In a primal gesture of escape upon hearing the topic , I assessed the distance between my seat and the exit .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    5 In_II a_AT1 primal_JJ gesture_NN1 of_IO escape_NN1 upon_II hearing_VVG the_AT topic_NN1 ,_Y I_PPIS1 assessed_VVD the_AT distance_NN1 between_II my_APPGE seat_NN1 and_CC the_AT exit_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    6 I stood and took the first step toward the door .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    6 I_PPIS1 stood_VVD and_CC took_VVD the_AT first_MD step_NN1_VV0 toward_II the_AT door_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    7 A woman from the writers group cut me off at the pass .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    7 A_AT1 woman_NN1 from_II the_AT writers_NN2 group_NN1_VV0% cut_VV0_VVD@_VVN me_PPIO1 off_RP at_II the_AT pass_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    8 <p> " Why do n't you join us for a few minutes ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    8 <p>_Y "_Y Why_RRQ do_VD0 n't_XX you_PPY join_VVI us_PPIO2 for_IF a_AT1 few_DA2 minutes_NNT2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0    9 " she asked with the social sinew of an alpha wolf .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0    9 "_Y she_PPHS1 asked_VVD with_IW the_AT social_JJ sinew_NN1 of_IO an_AT1 alpha_NN1 wolf_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   10 <p> My spine caved a little .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   10 <p>_Y My_APPGE spine_NN1 caved_VVD_VVN a_RR21_AT1 little_RR22_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   11 " But ... " ; " I stammered , " I 've so much to ... " <p> " Oh , we 're all busy , " she interrupted , motioning me to her lair I had to admit , it was not just the sameness of topic weighting my feet .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   11 "_Y But_CCB ..._... "_Y ;_Y "_Y I_PPIS1 stammered_VVD ,_Y "_Y I_PPIS1 've_VH0 so_RG much_DA1_RR to_II ..._... "_Y <p>_Y "_Y Oh_UH ,_Y we_PPIS2 're_VBR all_DB_RR@ busy_JJ_VV0@ ,_Y "_Y she_PPHS1 interrupted_VVD ,_Y motioning_VVG me_PPIO1 to_II her_APPGE lair_NN1 I_PPIS1 had_VHD to_TO admit_VVI ,_Y it_PPH1 was_VBDZ not_XX just_RR the_AT sameness_NN1 of_IO topic_NN1 weighting_VVG my_APPGE feet_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   12 Attending a writers group might reveal a personal truth about my own writing habits that I did not want exposed : I am not a pack writer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   12 Attending_VVG a_AT1 writers_NN2 group_NN1 might_VM reveal_VVI a_AT1 personal_JJ truth_NN1 about_II my_APPGE own_DA writing_NN1 habits_NN2 that_CST I_PPIS1 did_VDD not_XX want_VVI exposed_JJ_VVN :_Y I_PPIS1 am_VBM not_XX a_AT1 pack_NN1 writer_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   13 Not at all .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   13 Not_XX at_RR21 all_RR22 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   14 Yes , I envy those writers with critique groups , the ones who hop off to conferences as often as I go to the grocery store .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   14 Yes_UH ,_Y I_PPIS1 envy_VV0 those_DD2 writers_NN2 with_IW critique_NN1 groups_NN2 ,_Y the_AT ones_Z' who_PNQS hop_VV0 off_RP to_II conferences_NN2 as_RG often_RR as_CSA I_PPIS1 go_VV0 to_II the_AT grocery_NN1 store_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   15 They are pack writers : people well connected to a community of writers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   15 They_PPHS2 are_VBR pack_NN1_VV0 writers_NN2 :_Y people_NN well_RR connected_VVN to_II a_AT1 community_NN1 of_IO writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   16 <p> And , deep down , I believed that pack writers were more authentic than I. They , at least , have writing schedules .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   16 <p>_Y And_CC ,_Y deep_RR down_RP ,_Y I_PPIS1 believed_VVD that_CST_DD1 pack_VV0_NN1 writers_NN2 were_VBDR more_RGR authentic_JJ than_CSN I._NP1 They_PPHS2 ,_Y at_RR21 least_RR22 ,_Y have_VH0 writing_NN1_JJ% schedules_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   17 ( I write when I get the chance , in the orthodontist 's waiting room or mentally while in lines .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   17 (_Y I_PPIS1_ZZ1@ write_VV0 when_RRQ_CS I_PPIS1 get_VV0 the_AT chance_NN1 ,_Y in_II the_AT orthodontist_NN1 's_GE waiting_NN1 room_NN1 or_CC mentally_RR while_CS in_II lines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   18 ) And they know things .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   18 )_Y And_CC they_PPHS2 know_VV0 things_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   19 <p> The alpha woman , sensing my hesitation , steered me toward a table .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   19 <p>_Y The_AT alpha_NN1 woman_NN1 ,_Y sensing_VVG my_APPGE hesitation_NN1 ,_Y steered_VVD me_PPIO1 toward_II a_AT1 table_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   20 <p> I introduced myself simply by saying my name and confessing this was my first time .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   20 <p>_Y I_PPIS1 introduced_VVD myself_PPX1 simply_RR by_II saying_VVG my_APPGE name_NN1 and_CC confessing_VVG this_DD1 was_VBDZ my_APPGE first_MD time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   21 They did n't need to know I 'd never been to any writers meeting .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   21 They_PPHS2 did_VDD n't_XX need_VVI to_TO know_VVI I_PPIS1 'd_VHD never_RR been_VBN to_II any_DD writers_NN2 meeting_VVG_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   22 <p> As namedropped agents and editors , I learned they each had a novel in every stage except published .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   22 <p>_Y As_CSA namedropped_VVN agents_NN2 and_CC editors_NN2 ,_Y I_PPIS1 learned_VVD they_PPHS2 each_DD1 had_VHD a_AT1 novel_NN1_JJ in_II every_AT1 stage_NN1 except_CS_II published_VVN_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   23 But their conversation glittered with professionalism .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   23 But_CCB their_APPGE conversation_NN1 glittered_VVD_VVN@ with_IW professionalism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   24 Sigh .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   24 Sigh_NN1_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   25 <p> Well , I am a writer , too , I ( mentally ) pouted , even if I wrote in small chunks of time and had no support group , even if I lacked the resources to fly off to conferences .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   25 <p>_Y Well_RR ,_Y I_PPIS1 am_VBM a_AT1 writer_NN1 ,_Y too_RR@_RG ,_Y I_ZZ1%_MC1% (_Y mentally_RR )_Y pouted_VVD ,_Y even_CS21 if_CS22 I_PPIS1 wrote_VVD in_II_RP@ small_JJ chunks_NN2 of_IO time_NNT1 and_CC had_VHD_VHN@ no_AT support_NN1 group_NN1 ,_Y even_CS21 if_CS22 I_PPIS1 lacked_VVD the_AT resources_NN2 to_TO fly_VVI off_RP to_II conferences_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   26 I sipped my coffee , burned my lip , and shifted around in my chair .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   26 I_PPIS1 sipped_VVD my_APPGE coffee_NN1 ,_Y burned_VVD_VVN my_APPGE lip_NN1 ,_Y and_CC shifted_VVD_VVN around_RP in_II my_APPGE chair_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   27 The alpha female held up a clipboard and reminded the wildly sedate group of the evening 's subject at hand .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   27 The_AT alpha_NN1 female_NN1 held_VVD_VVN up_RP a_AT1 clipboard_NN1 and_CC reminded_VVD the_AT wildly_RR sedate_JJ group_NN1 of_IO the_AT evening_NNT1 's_GE subject_NN1 at_II hand_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   28 <p> " We are here , " she said in her kinetic , lunchroom-monitor tone , " to discuss revision after rejection .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   28 <p>_Y "_Y We_PPIS2 are_VBR here_RL ,_Y "_Y she_PPHS1 said_VVD in_II_RP@ her_APPGE kinetic_JJ ,_Y lunchroom-monitor_JJ_NN1 tone_NN1 ,_Y "_Y to_TO discuss_VVI revision_NN1 after_II_CS rejection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   29 " <p> Ah , the group nodded .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   29 "_Y <p>_Y Ah_UH ,_Y the_AT group_NN1 nodded_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   30 Tales of rejection were offered , and what I , a person trained to detect language patterns ( aka an English teacher ) noticed was the writers ' tones .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   30 Tales_NN2 of_IO rejection_NN1 were_VBDR offered_VVN ,_Y and_CC what_DDQ I_PPIS1 ,_Y a_AT1 person_NN1 trained_VVN_VVD@ to_TO detect_VVI language_NN1 patterns_NN2 (_Y aka_NN1 an_AT1 English_JJ_NN1 teacher_NN1 )_Y noticed_VVD was_VBDZ the_AT writers_NN2 '_GE tones_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   31 Despite long histories of their novel 's rejection , they spoke in the detached , optimistic pitch of a Lamaze coach who never computer-generated sheets on their submissions history .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   31 Despite_II long_JJ histories_NN2 of_IO their_APPGE novel_NN1 's_GE rejection_NN1 ,_Y they_PPHS2 spoke_VVD in_II the_AT detached_JJ ,_Y optimistic_JJ pitch_NN1 of_IO a_AT1 Lamaze_NN1 coach_NN1 who_PNQS never_RR computer-generated_JJ sheets_NN2 on_II their_APPGE submissions_NN2 history_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   32 <p> " Do these records help ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   32 <p>_Y "_Y Do_VD0 these_DD2 records_NN2 help_VVI ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   33 " I asked .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   33 "_Y I_PPIS1 asked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   34 <p> " Could n't live without them " one man confessed .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   34 <p>_Y "_Y Could_VM n't_XX live_VVI without_IW them_PPHO2 "_Y one_MC1 man_NN1 confessed_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   35 " It 's my novel 's chronicle .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   35 "_Y It_PPH1 's_VBZ my_APPGE novel_NN1 's_GE chronicle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   36 Each rejection helps shape my revisions .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   36 Each_DD1 rejection_NN1 helps_VVZ_NN2@ shape_NN1_VV0@ my_APPGE revisions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   37 " <p> " But what if your piece does n't need revision ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   37 "_Y <p>_Y "_Y But_CCB what_DDQ if_CS your_APPGE piece_NN1 does_VDZ n't_XX need_VVI revision_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   38 " I asked .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   38 "_Y I_PPIS1 asked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   39 " What if it was just sent to someone who just does n't get your work ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   39 "_Y What_DDQ if_CS it_PPH1 was_VBDZ just_RR sent_VVN_VVD to_II someone_PN1 who_PNQS just_RR does_VDZ n't_XX get_VVI your_APPGE work_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   40 " <p> The man opened his eyes wide .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   40 "_Y <p>_Y The_AT man_NN1 opened_VVD his_APPGE eyes_NN2 wide_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   41 " I trust their judgment .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   41 "_Y I_PPIS1 trust_VV0 their_APPGE judgment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   42 " <p> I do n't know if it was the teacher in me , prodding independent thought , or the writer in me rallying against the publishing forces , or if it was the cappuccino , but I pressed on .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   42 "_Y <p>_Y I_PPIS1 do_VD0 n't_XX know_VVI if_CSW@_CS it_PPH1 was_VBDZ the_AT teacher_NN1 in_II me_PPIO1 ,_Y prodding_VVG independent_JJ thought_NN1 ,_Y or_CC the_AT writer_NN1 in_II me_PPIO1 rallying_VVG against_II the_AT publishing_NN1 forces_NN2 ,_Y or_CC if_CS_CSW@ it_PPH1 was_VBDZ the_AT cappuccino_NN1 ,_Y but_CCB I_PPIS1 pressed_VVD on_RP@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   43 <p> " We trust anonymous editors ' judgment so willingly " I commented to the group .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   43 <p>_Y "_Y We_PPIS2 trust_VV0 anonymous_JJ editors_NN2 '_GE judgment_NN1 so_RG_RR willingly_RR "_Y I_PPIS1 commented_VVD to_II the_AT group_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   44 Several group members turned to me .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   44 Several_DA2 group_NN1 members_NN2 turned_VVN_VVD to_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   45 <p> " Publishing " a woman said , coming to the man 's defense , " is simply a matter of perseverance .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   45 <p>_Y "_Y Publishing_VVG@_NN1 "_Y a_AT1 woman_NN1 said_VVD ,_Y coming_VVG to_II the_AT man_NN1 's_GE defense_NN1 ,_Y "_Y is_VBZ simply_RR a_AT1 matter_NN1 of_IO perseverance_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   46 All rejection means is you 're one step closer .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   46 All_DB rejection_NN1 means_NN_VVZ is_VBZ you_PPY 're_VBR one_MC1 step_NN1_VV0 closer_RRR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   47 I did not say that publishing is never a matter of perseverance : Only writing is .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   47 I_PPIS1 did_VDD not_XX say_VVI that_DD1_CST publishing_NN1 is_VBZ never_RR a_AT1 matter_NN1 of_IO perseverance_NN1 :_Y Only_JJ_RR writing_NN1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   48 Much writing never sees publication ; a startling amount of it meets the delete button .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   48 Much_RR_DA1 writing_VVG_NN1 never_RR sees_VVZ publication_NN1 ;_Y a_AT1 startling_JJ amount_NN1 of_IO it_PPH1 meets_VVZ the_AT delete_VV0 button_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   49 I have two novels composting marigolds .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   49 I_PPIS1 have_VH0 two_MC novels_NN2 composting_VVG_JJ marigolds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   50 <p> " Are there guarantees ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   50 <p>_Y "_Y Are_VBR there_EX_RL guarantees_VVZ ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   51 " I asked .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   51 "_Y I_PPIS1 asked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   52 <p> " Unstated ones , yes " the man said .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   52 <p>_Y "_Y Unstated_JJ ones_Z' ,_Y yes_UH "_Y the_AT man_NN1 said_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   53 " If you keep revising , keep sending it out , your work will be published .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   53 "_Y If_CS you_PPY keep_VV0 revising_VVG_NN1@_JJ@ ,_Y keep_VV0 sending_VVG it_PPH1 out_RP ,_Y your_APPGE work_NN1 will_VM be_VBI published_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   54 " <p> The group nodded .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   54 "_Y <p>_Y The_AT group_NN1 nodded_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   55 Murmurs of " yes " " he 's right " and " of course " began .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   55 Murmurs_NN2 of_IO "_Y yes_UH "_Y "_Y he_PPHS1 's_VBZ right_JJ_RR "_Y and_CC "_Y of_RR21 course_RR22 "_Y began_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   56 <p> At that moment , the epiphany unfolded : Pack writers functioned by providing a system of hope to one another .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   56 <p>_Y At_II that_DD1 moment_NN1 ,_Y the_AT epiphany_NN1 unfolded_VVD_VVN :_Y Pack_VV0_NN1 writers_NN2 functioned_VVD_VVN@ by_II providing_VVG a_AT1 system_NN1 of_IO hope_NN1 to_II one_PPX121 another_PPX122 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   57 That was the lure .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   57 That_DD1 was_VBDZ the_AT lure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   58 Here , they found support in the uncertain venture of crafting fiction .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   58 Here_RL ,_Y they_PPHS2 found_VVD support_NN1_VV0 in_II the_AT uncertain_JJ venture_NN1 of_IO crafting_VVG_JJ@ fiction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   59 <p> " Look " the man said , handing me a few pages of his draft , " this had a totally different beginning a week ago .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   59 <p>_Y "_Y Look_VV0 "_Y the_AT man_NN1 said_VVD ,_Y handing_VVG me_PPIO1 a_AT1 few_DA2 pages_NN2 of_IO his_APPGE draft_NN1 ,_Y "_Y this_DD1 had_VHD a_AT1 totally_RR different_JJ beginning_NN1_VVG a_AT1 week_NNT1 ago_RA ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   60 After We shared our thoughts on it one evening , I rewrote the entire first chapter .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   60 After_CS We_PPIS2 shared_VVD our_APPGE thoughts_NN2 on_II it_PPH1 one_MC1 evening_NNT1 ,_Y I_PPIS1 rewrote_VV0 the_AT entire_JJ first_MD chapter_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   61 Now , " he sentence is sharp as a tack .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   61 Now_RT ,_Y "_Y he_PPHS1 sentence_NN1 is_VBZ sharp_JJ_RR@ as_II_CSA a_AT1 tack_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   62 " <p> I nodded , his clich echoing in my head .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   62 "_Y <p>_Y I_PPIS1 nodded_VVD ,_Y his_APPGE clich_NN1 echoing_VVG in_II_RP@ my_APPGE head_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   63 Was the purpose of this group to critique and sharpen writing , or was it to support desires that would never be realized ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   63 Was_VBDZ the_AT purpose_NN1 of_IO this_DD1 group_NN1 to_II critique_NN1 and_CC sharpen_VV0 writing_NN1_VVG ,_Y or_CC was_VBDZ it_PPH1 to_TO support_VVI desires_NN2 that_CST_DD1 would_VM never_RR be_VBI realized_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   64 If a group of agents and editors did not see the merits of your writing , this group would .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   64 If_CS a_AT1 group_NN1 of_IO agents_NN2 and_CC editors_NN2 did_VDD not_XX see_VVI the_AT merits_NN2 of_IO your_APPGE writing_NN1 ,_Y this_DD1 group_NN1 would_VM ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   65 And no one , it seemed , saw any danger in that .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   65 And_CC no_PN121 one_PN122 ,_Y it_PPH1 seemed_VVD ,_Y saw_VVD any_DD danger_NN1 in_II that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   66 <p> " Now it 's only a matter of time before you get a bite from an agent " a woman commented to the sharp-as-a-tack man .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   66 <p>_Y "_Y Now_RT it_PPH1 's_VBZ only_RR a_AT1 matter_NN1 of_IO time_NNT1 before_CS you_PPY get_VV0 a_AT1 bite_NN1 from_II an_AT1 agent_NN1 "_Y a_AT1 woman_NN1 commented_VVN_VVD to_II the_AT sharp-as-a-tack_JJ man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   67 <p> Now , allow me an aside here .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   67 <p>_Y Now_RT ,_Y allow_VV0 me_PPIO1 an_AT1 aside_RL_NN1% here_RL ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   68 Publication is never guaranteed , even if you write every day , even if your friends praise your efforts , even if you work really , really hard , quit your job , and go into debt .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   68 Publication_NN1 is_VBZ never_RR guaranteed_VVN_VVD_JJ ,_Y even_CS21 if_CS22 you_PPY write_VV0 every_AT1 day_NNT1 ,_Y even_CS21 if_CS22 your_APPGE friends_NN2 praise_VV0 your_APPGE efforts_NN2 ,_Y even_CS21 if_CS22 you_PPY work_VV0 really_RR ,_Y really_RR hard_RR_JJ ,_Y quit_VVD_VV0 your_APPGE job_NN1 ,_Y and_CC go_VV0 into_II debt_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   69 You may still fail .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   69 You_PPY may_VM still_RR fail_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   70 Before anyone poises fingers above a keyboard , it must be remembered that no matter how tenacious the writer , the difference between writing and publishing is the difference between a date involving bowling and a have to get out to some conferences and meet some agents " another group member suggested to tack man .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   70 Before_CS anyone_PN1 poises_VVZ@ fingers_NN2 above_II a_AT1 keyboard_NN1 ,_Y it_PPH1 must_VM be_VBI remembered_VVN that_CST no_RRQV31_RGQV31 matter_RRQV32_RGQV32 how_RRQV33_RGQV33 tenacious_JJ the_AT writer_NN1 ,_Y the_AT difference_NN1 between_II writing_NN1_VVG and_CC publishing_NN1_VVG is_VBZ the_AT difference_NN1 between_II a_AT1 date_NN1 involving_VVG bowling_NN1 and_CC a_AT1 have_VHI to_TO get_VVI out_RP to_II some_DD conferences_NN2 and_CC meet_VVI some_DD agents_NN2 "_Y another_DD1 group_NN1 member_NN1 suggested_VVD_VVN to_TO tack_VVI man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   71 " What kind of person wo n't look at your manuscript after they 've met you ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   71 "_Y What_DDQ kind_NN1 of_IO person_NN1 wo_VM n't_XX look_VVI at_II your_APPGE manuscript_NN1 after_CS they_PPHS2 've_VH0 met_VVN you_PPY ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   72 " <p> Lots of people , my inner voice shouted , busy people , forgetful people , people who did n't like you in the first place .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   72 "_Y <p>_Y Lots_PN of_IO people_NN ,_Y my_APPGE inner_JJ voice_NN1 shouted_VVD ,_Y busy_JJ people_NN ,_Y forgetful_JJ people_NN ,_Y people_NN who_PNQS did_VDD n't_XX like_VVI you_PPY in_II the_AT first_MD place_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   73 But the group smiled as she said this .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   73 But_CCB the_AT group_NN1 smiled_VVD_VVN@ as_CSA she_PPHS1 said_VVD this_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   74 They trusted each other in the manner people who tell us precisely what we want to hear are trusted .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   74 They_PPHS2 trusted_VVD each_PPX221 other_PPX222 in_II the_AT manner_NN1 people_NN who_PNQS tell_VV0 us_PPIO2 precisely_RR what_DDQ we_PPIS2 want_VV0 to_TO hear_VVI are_VBR trusted_VVN_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   75 <p> The alpha female smiled at me .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   75 <p>_Y The_AT alpha_NN1 female_NN1 smiled_VVD_VVN@ at_II me_PPIO1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   76 " So , where have you been published ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   76 "_Y So_RR ,_Y where_RRQ have_VH0 you_PPY been_VBN published_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   77 " <p> Now , allow me a digression here ( my last , I promise ) , to point out a form of elitism peculiar to writing .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   77 "_Y <p>_Y Now_RT ,_Y allow_VV0 me_PPIO1 a_AT1 digression_NN1 here_RL (_Y my_APPGE last_MD ,_Y I_PPIS1 promise_VV0 )_Y ,_Y to_TO point_VVI out_RP a_AT1 form_NN1 of_IO elitism_NN1 peculiar_JJ to_II writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   78 We are clearly divided into the published ( good , noble , sagacious ) , and the unpublished ( none of those ) .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   78 We_PPIS2 are_VBR clearly_RR divided_VVN into_II the_AT published_JJ@ (_Y good_JJ ,_Y noble_JJ_NN1@ ,_Y sagacious_JJ )_Y ,_Y and_CC the_AT unpublished_JJ (_Y none_PN of_IO those_DD2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   79 I do n't want it this way , and I did n't make it this way , but it is that way .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   79 I_PPIS1 do_VD0 n't_XX want_VVI it_PPH1 this_DD1 way_NN1 ,_Y and_CC I_PPIS1 did_VDD n't_XX make_VVI it_PPH1 this_DD1 way_NN1 ,_Y but_CCB it_PPH1 is_VBZ that_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   80 How easy it would have .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   80 How_RGQ@_RRQ easy_RR@_JJ it_PPH1 would_VM have_VHI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   81 But I am not , so I named magazines , then spoke of my novel .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   81 But_CCB I_PPIS1 am_VBM not_XX ,_Y so_CS@_RR I_PPIS1 named_VVD magazines_NN2 ,_Y then_RT spoke_VVD of_IO my_APPGE novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   82 <p> The alpha female then asked , " So , which conferences have you attended ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   82 <p>_Y The_AT alpha_NN1 female_NN1 then_RT asked_VVD ,_Y "_Y So_RR ,_Y which_DDQ conferences_NN2 have_VH0 you_PPY attended_VVN ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   83 " <p> " I would love to ... well ... none " <p> " How do you publish then ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   83 "_Y <p>_Y "_Y I_PPIS1 would_VM love_VVI to_II ..._... well_RR ..._... none_PN "_Y <p>_Y "_Y How_RRQ do_VD0 you_PPY publish_VVI then_RT ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   84 " She waited .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   84 "_Y She_PPHS1 waited_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   85 The seconds ticked by .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   85 The_AT seconds_NNT2 ticked_VVD by_RP%_II ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   86 <p> Feeling wildly exposed , I answered , " Haphazardly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   86 <p>_Y Feeling_VVG_NN1 wildly_RR exposed_VVN_VVD_JJ ,_Y I_PPIS1 answered_VVD ,_Y "_Y Haphazardly_NP1_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   87 I send work out , and if it gets rejected , I usually just stuff the pages into a folder for a time .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   87 I_PPIS1 send_VV0 work_VV0_NN1 out_RP ,_Y and_CC if_CS_CSW@ it_PPH1 gets_VVZ rejected_JJ@_VVN ,_Y I_PPIS1 usually_RR just_RR stuff_VV0@ the_AT pages_NN2 into_II a_AT1 folder_NN1 for_IF a_AT1 time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   88 " <p> The group regarded me with the look a tropical parrot would get in Iceland .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   88 "_Y <p>_Y The_AT group_NN1 regarded_VVD@_VVN me_PPIO1 with_IW the_AT look_NN1_VV0 a_AT1 tropical_JJ parrot_NN1 would_VM get_VVI in_II Iceland_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   89 <p> " Revision ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   89 <p>_Y "_Y Revision_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   90 " a new voice asked .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   90 "_Y a_AT1 new_JJ voice_NN1 asked_VVD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   91 <p> " Hmm " I groped , " I 've found waiting is a kind of revision .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   91 <p>_Y "_Y Hmm_UH "_Y I_PPIS1 groped_VVD ,_Y "_Y I_PPIS1 've_VH0 found_VVN waiting_VVG_NN1@ is_VBZ a_AT1 kind_NN1 of_IO revision_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   92 I take the piece out later on , then decide if it needs tinkering or not .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   92 I_PPIS1 take_VV0 the_AT piece_NN1 out_RP later_RRR on_RP ,_Y then_RT decide_VV0 if_CSW@_CS it_PPH1 needs_VVZ tinkering_VVG_JJ@_NN1@ or_CC not_XX ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   93 Or maybe I like it the way it is .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   93 Or_CC maybe_RR I_PPIS1 like_VV0 it_PPH1 the_AT way_NN1 it_PPH1 is_VBZ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   94 " <p> " Huh .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   94 "_Y <p>_Y "_Y Huh_UH ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   95 So you do n't take editors ' comments as a guide to revising your piece ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   95 So_RR you_PPY do_VD0 n't_XX take_VVI editors_NN2 '_GE comments_NN2 as_II_CSA a_AT1 guide_NN1 to_II revising_VVG your_APPGE piece_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   96 " And " another man said , " you do n't attend conferences ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   96 "_Y And_CC "_Y another_DD1 man_NN1 said_VVD ,_Y "_Y you_PPY do_VD0 n't_XX attend_VVI conferences_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   97 " <p> " Never " I said quietly .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   97 "_Y <p>_Y "_Y Never_RR "_Y I_PPIS1 said_VVD quietly_RR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   98 <p> Everyone smiled , that kind of tolerant smile generally directed toward insane people who land next to you on the subway .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   98 <p>_Y Everyone_PN1 smiled_VVD ,_Y that_DD1 kind_NN1 of_IO tolerant_JJ smile_NN1 generally_RR directed_VVN_VVD toward_II insane_JJ people_NN who_PNQS land_VV0@ next_II21 to_II22 you_PPY on_II the_AT subway_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0   99 I understood I was not a writer who could return to this group .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0   99 I_PPIS1 understood_VVD I_PPIS1 was_VBDZ not_XX a_AT1 writer_NN1 who_PNQS could_VM return_VVI to_II this_DD1 group_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  100 <p> Part of what brought them together was a system of beliefs I did not share .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  100 <p>_Y Part_NN1 of_IO what_DDQ brought_VVD them_PPHO2 together_RL was_VBDZ a_AT1 system_NN1 of_IO beliefs_NN2 I_PPIS1 did_VDD not_XX share_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  101 I drove back home with that slumping sensation I used to have when a promising date had gone irretrievably wrong .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  101 I_PPIS1 drove_VVD back_RP home_RL with_IW that_DD1 slumping_JJ@_NN1@_VVG sensation_NN1 I_PPIS1 used_VMK to_TO have_VHI when_RRQ_CS a_AT1 promising_JJ date_NN1 had_VHD gone_VVN irretrievably_RR wrong_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  102 <p> That night , alone in the laundry room , I thought of how the group offered sustenance to writers .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  102 <p>_Y That_DD1 night_NNT1 ,_Y alone_RR_JJ in_II the_AT laundry_NN1 room_NN1 ,_Y I_PPIS1 thought_VVD of_IO how_RRQ the_AT group_NN1 offered_VVD_VVN_JJ@ sustenance_NN1 to_II writers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  103 I thought about their blind-faith conviction , their systematized belief in the **27;16334;TOOLONG link .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  103 I_PPIS1 thought_VVD about_II their_APPGE blind-faith_JJ_NN1 conviction_NN1 ,_Y their_APPGE systematized_JJ@ belief_NN1 in_II the_AT **27;16334;TOOLONG_VV0 link_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  104 They had a point .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  104 They_PPHS2 had_VHD a_AT1 point_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  105 Writing is a business .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  105 Writing_NN1_VVG is_VBZ a_AT1 business_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  106 No doubt , revision , conferences and workshops increase your publishing chances .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  106 No_XX doubt_RR22 ,_Y revision_NN1 ,_Y conferences_NN2 and_CC workshops_NN2 increase_VV0 your_APPGE publishing_NN1 chances_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  107 But what if that novel remains a manuscript after you follow the prescription ?
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  107 But_CCB what_DDQ if_CS that_DD1 novel_NN1 remains_VVZ a_AT1 manuscript_NN1 after_CS you_PPY follow_VV0 the_AT prescription_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  108 That was the type of question I did not see addressed by this writers group , and it was not the .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  108 That_DD1 was_VBDZ the_AT type_NN1 of_IO question_NN1 I_PPIS1 did_VDD not_XX see_VVI addressed_VVN by_II this_DD1 writers_VVZ group_NN1_VV0% ,_Y and_CC it_PPH1 was_VBDZ not_XX the_AT ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  109 <p> There is support in groups--and there is also the danger of false conviction .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  109 <p>_Y There_EX is_VBZ support_NN1 in_II groups--and_NN2 there_EX_RL is_VBZ also_RR the_AT danger_NN1 of_IO false_JJ conviction_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  110 The group had an identity sitting at that table , a common bond .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  110 The_AT group_NN1 had_VHD an_AT1 identity_NN1 sitting_VVG at_II that_DD1 table_NN1 ,_Y a_AT1 common_JJ bond_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  111 They were not novelists yet , but they had the belief that they would be , in the same way church groups believe that a pattern of behavior will inevitably gain them admission into heaven .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  111 They_PPHS2 were_VBDR not_XX novelists_NN2 yet_RR ,_Y but_CCB they_PPHS2 had_VHD the_AT belief_NN1 that_CST they_PPHS2 would_VM be_VBI ,_Y in_II the_AT same_DA way_NN1 church_NN1 groups_NN2 believe_VV0 that_CST a_AT1 pattern_NN1 of_IO behavior_NN1 will_VM inevitably_RR gain_VVI them_PPHO2 admission_NN1 into_II heaven_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  112 It struck me how much faith we each need to carry when we pen that first word or move that scene into the next .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  112 It_PPH1 struck_VVD me_PPIO1 how_RGQ@ much_DA1 faith_NN1 we_PPIS2 each_DD1 need_NN1 to_TO carry_VVI when_RRQ_CS we_PPIS2 pen_VV0@ that_DD1_CST first_MD word_NN1 or_CC move_VV0 that_DD1_CST scene_NN1 into_II the_AT next_MD ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  113 And that is what these groups provide : a shared kind of faith that , for some , makes it easier .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  113 And_CC that_DD1_CST is_VBZ what_DDQ these_DD2 groups_NN2 provide_VV0 :_Y a_AT1 shared_JJ kind_NN1 of_IO faith_NN1 that_CST_DD1 ,_Y for_IF some_DD ,_Y makes_VVZ it_PPH1 easier_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  114 I almost wished I could join : Writing is a pursuit that sometimes makes you feel lonesome as an old mountain coyote .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  114 I_PPIS1 almost_RR wished_VVD I_PPIS1 could_VM join_VVI :_Y Writing_NN1_VVG is_VBZ a_AT1 pursuit_NN1 that_CST_DD1 sometimes_RT makes_VVZ you_PPY feel_VVI lonesome_JJ as_II_CSA an_AT1 old_JJ mountain_NN1 coyote_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  115 <p> But as much as I want writing to be easier , I can never be part of any group involving the craft .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  115 <p>_Y But_CCB as_RG much_DA1 as_CSA I_PPIS1 want_VV0 writing_VVG_NN1 to_TO be_VBI easier_RRR_JJR ,_Y I_PPIS1 can_VM never_RR be_VBI part_NN1 of_IO any_DD group_NN1 involving_VVG the_AT craft_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  116 For me , the gliding of one sentence into the next to create a world rich with texture and character is an act that is nearly sacred , and must be make ) regarding revision must stem from that exacting place we each inhabit when we are alone .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  116 For_IF me_PPIO1 ,_Y the_AT gliding_NN1 of_IO one_MC1 sentence_NN1 into_II the_AT next_MD to_TO_II create_VVI a_AT1 world_NN1 rich_JJ with_IW texture_NN1 and_CC character_NN1 is_VBZ an_AT1 act_NN1 that_CST_DD1 is_VBZ nearly_RR sacred_JJ ,_Y and_CC must_VM be_VBI make_VVI )_Y regarding_II_VVG revision_NN1 must_VM stem_VVI from_II that_DD1 exacting_JJ place_NN1 we_PPIS2 each_DD1 inhabit_VV0 when_RRQ_CS we_PPIS2 are_VBR alone_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  117 As I stood there that night folding towels , I understood : Every one of us who writes is an authentic writer ; it is not the method that makes us such , it is the trial .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  117 As_CSA I_PPIS1 stood_VVD there_RL that_DD1 night_NNT1 folding_VVG_NN1_JJ towels_NN2 ,_Y I_PPIS1 understood_VVD :_Y Every_AT1 one_MC1 of_IO us_PPIO2 who_PNQS writes_VVZ is_VBZ an_AT1 authentic_JJ writer_NN1 ;_Y it_PPH1 is_VBZ not_XX the_AT method_NN1 that_CST_DD1 makes_VVZ us_PPIO2 such_DA ,_Y it_PPH1 is_VBZ the_AT trial_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  118 <p> At last , I accepted that .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  118 <p>_Y At_RR21 last_RR22 ,_Y I_PPIS1 accepted_VVD that_DD1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  119 <p> By Anne Spollen <p> Anne Spollen 's first novel , The Shape of Water , was nominated for a National Book Award .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  119 <p>_Y By_II Anne_NP1 Spollen_NP1_NN1 <p>_Y Anne_NP1 Spollen_NP1 's_GE first_MD novel_NN1_JJ ,_Y The_AT Shape_NN1 of_IO Water_NN1 ,_Y was_VBDZ nominated_VVN for_IF a_AT1 National_JJ Book_NN1 Award_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  120 Her fiction and poetry have been in many publications and been nominated for Pushcart prizes .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  120 Her_APPGE fiction_NN1 and_CC poetry_NN1 have_VH0 been_VBN in_II many_DA2 publications_NN2 and_CC been_VBN nominated_VVN for_IF Pushcart_NN1_NP1 prizes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  121 She writes from the New Jersey shore .
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  121 She_PPHS1 writes_VVZ from_II the_AT New_NP1 Jersey_NP1 shore_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  A    0  122 <p>
+SENTPOS COCA_acad_wlp_2009_03_FILE##4071179 COCA  B    0  122 <p>_Y

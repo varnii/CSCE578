@@ -1,0 +1,974 @@
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    0 Changes in the type and prevalence of human diseases have occurred during shifts in human social organization , for example , from hunting and gathering to agriculture and with urbanization during the Industrial Revolution .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    0 Changes_VVZ@_NN2 in_II the_AT type_NN1 and_CC prevalence_NN1 of_IO human_JJ_NN1 diseases_NN2 have_VH0 occurred_VVN during_II shifts_NN2 in_II human_JJ social_JJ organization_NN1 ,_Y for_REX21 example_REX22 ,_Y from_II hunting_NN1 and_CC gathering_VVG_NN1 to_II agriculture_NN1 and_CC with_IW urbanization_NN1 during_II the_AT Industrial_JJ Revolution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    1 The recent emergence and reemergence of infectious diseases appears to be driven by globalization and ecological disruption .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    1 The_AT recent_JJ emergence_NN1 and_CC reemergence_NN1 of_IO infectious_JJ diseases_NN2 appears_VVZ to_TO be_VBI driven_VVN by_II globalization_NN1 and_CC ecological_JJ disruption_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    2 We propose that habitat destruction and biodiversity loss associated with biotic homogenization can increase the incidence and distribution of infectious diseases affecting humans .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    2 We_PPIS2 propose_VV0 that_DD1_CST habitat_NN1 destruction_NN1 and_CC biodiversity_NN1 loss_NN1 associated_VVN with_IW biotic_JJ homogenization_NN1 can_VM increase_VVI the_AT incidence_NN1 and_CC distribution_NN1 of_IO infectious_JJ diseases_NN2 affecting_VVG humans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    3 The clearest connection between biotic homogenization and infectious disease is the spread of nonindigenous vectors and pathogens .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    3 The_AT clearest_JJT connection_NN1 between_II biotic_JJ homogenization_NN1 and_CC infectious_JJ disease_NN1 is_VBZ the_AT spread_NN1 of_IO nonindigenous_JJ vectors_NN2 and_CC pathogens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    4 The loss of predators and hosts that dilute pathogen transmission can also increase the incidence of vectorborne illnesses .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    4 The_AT loss_NN1 of_IO predators_NN2 and_CC hosts_NN2 that_CST_DD1 dilute_JJ_VV0 pathogen_NN1 transmission_NN1 can_VM also_RR increase_VVI the_AT incidence_NN1 of_IO vectorborne_JJ@ illnesses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    5 Other mechanisms include enhanced abiotic conditions for pathogens and vectors and higher host-pathogen encounter rates .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    5 Other_JJ mechanisms_NN2 include_VV0 enhanced_JJ abiotic_JJ conditions_NN2 for_IF pathogens_NN2 and_CC vectors_NN2 and_CC higher_JJR host-pathogen_JJ_NN1 encounter_NN1 rates_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    6 Improved understanding of these causal mechanisms can inform decisionmaking on biodiversity conservation as an effective way to protect human health .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    6 Improved_JJ understanding_NN1 of_IO these_DD2 causal_JJ mechanisms_NN2 can_VM inform_VVI decisionmaking_VVG on_II biodiversity_NN1 conservation_NN1 as_II_CSA an_AT1 effective_JJ way_NN1 to_TO protect_VVI human_JJ_NN1 health_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    7 Keywords : biodiversity ; emerging disease ; vectorborne disease ; public health ; ecosystem services Patterns of health and disease have undergone dramatic transitions during human history , reflecting social and ecological changes ( Barrett et al years ago , the first epidemiologic transition associated with the acceleration of emerging disease occurred during the shift from hunting to agriculture .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    7 Keywords_NN2 :_Y biodiversity_NN1 ;_Y emerging_JJ_VVG disease_NN1 ;_Y vectorborne_JJ@_VVN disease_NN1 ;_Y public_JJ_NN1 health_NN1 ;_Y ecosystem_VV0_NN1 services_NN2 Patterns_NN2 of_IO health_NN1 and_CC disease_NN1 have_VH0 undergone_VVN dramatic_JJ transitions_NN2 during_II human_JJ_NN1 history_NN1 ,_Y reflecting_VVG social_JJ and_CC ecological_JJ changes_NN2 (_Y Barrett_NP1 et_RA21 al_RA22 years_NNT2 ago_RA ,_Y the_AT first_MD epidemiologic_JJ transition_NN1 associated_VVN with_IW the_AT acceleration_NN1 of_IO emerging_JJ_VVG disease_NN1 occurred_VVD_VVN@ during_II the_AT shift_NN1@ from_II hunting_NN1 to_II agriculture_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    8 Along with permanent and larger settlements , animal domestication , and changes in human diet and social organization came a rise in zoonotic infection ( Wolfe et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    8 Along_II21 with_II22 permanent_JJ and_CC larger_JJR settlements_NN2 ,_Y animal_NN1 domestication_NN1 ,_Y and_CC changes_NN2_VVZ@ in_II human_JJ_NN1 diet_NN1 and_CC social_JJ organization_NN1 came_VVD a_AT1 rise_NN1 in_II zoonotic_JJ infection_NN1 (_Y Wolfe_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0    9 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0    9 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   10 As communities became densely crowded , more virulent forms of human pathogens evolved ( Ewald 1994 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   10 As_CSA communities_NN2 became_VVD densely_RR crowded_VVD_JJ_VVN@ ,_Y more_RGR virulent_JJ forms_NN2 of_IO human_JJ_NN1 pathogens_NN2 evolved_VVN_VVD (_Y Ewald_NP1_VV0_NN1 1994_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   11 A second transition occurred during the Industrial Revolution .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   11 A_AT1 second_MD_NNT1 transition_NN1 occurred_VVD_VVN@ during_II the_AT Industrial_JJ Revolution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   12 The incidence of infectious disease and infant mortality decreased , lengthening life expectancy .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   12 The_AT incidence_NN1 of_IO infectious_JJ disease_NN1 and_CC infant_NN1 mortality_NN1 decreased_VVD_VVN ,_Y lengthening_VVG life_NN1 expectancy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   13 At the same time , noninfectious chronic disease rose , accounting for a greater share of overall mortality .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   13 At_II the_AT same_DA time_NNT1 ,_Y noninfectious_JJ chronic_JJ disease_NN1 rose_NN1_VVD ,_Y accounting_VVG for_IF a_AT1 greater_JJR share_NN1 of_IO overall_JJ_NN1 mortality_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   14 Greater water and air pollution caused higher rates of cancer , allergies , birth defects , and impaired cognitive development .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   14 Greater_JJR water_NN1 and_CC air_NN1 pollution_NN1 caused_VVD_VVN higher_JJR rates_NN2 of_IO cancer_NN1 ,_Y allergies_NN2 ,_Y birth_NN1 defects_NN2 ,_Y and_CC impaired_JJ_VVD cognitive_JJ development_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   15 These transitions were not uniform : In some less developed parts of the world , infectious diseases remained a recurring problem and chronic diseases became more common ( Barrett et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   15 These_DD2 transitions_NN2 were_VBDR not_XX uniform_JJ_NN1 :_Y In_II some_DD less_DAR_RGR developed_JJ parts_NN2 of_IO the_AT world_NN1 ,_Y infectious_JJ diseases_NN2 remained_VVD_VVN a_AT1 recurring_JJ problem_NN1 and_CC chronic_JJ diseases_NN2 became_VVD more_RGR_DAR common_JJ (_Y Barrett_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   16 1998 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   16 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   17 It has been proposed that we are in the midst of a new epidemiologic transition , in which globalization and diseases as well as reemerging infections previously thought to be under control ( Barrett et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   17 It_PPH1 has_VHZ been_VBN proposed_VVN that_CST we_PPIS2 are_VBR in_II the_AT midst_NN1 of_IO a_AT1 new_JJ epidemiologic_JJ transition_NN1 ,_Y in_II which_DDQ globalization_NN1 and_CC diseases_NN2 as_II31 well_II32 as_II33 reemerging_VVG_JJ@ infections_NN2 previously_RR thought_VVN_VVD to_TO be_VBI under_II control_NN1 (_Y Barrett_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   18 1998 , McMichael 2001 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   18 1998_MC ,_Y McMichael_NP1 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   19 Such disruption and population expansion are especially important in the dramatic rise in zoonotic diseases ( Wilcox and Gubler 2005 , Jones et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   19 Such_DA disruption_NN1 and_CC population_NN1 expansion_NN1 are_VBR especially_RR important_JJ in_II the_AT dramatic_JJ rise_NN1 in_II zoonotic_JJ diseases_NN2 (_Y Wilcox_NP1 and_CC Gubler_NP1_NN1 2005_MC ,_Y Jones_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   20 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   20 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   21 At the same time , greater mobility and trends in urbanization have contributed to the global nature and reach of these diseases .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   21 At_II the_AT same_DA time_NNT1 ,_Y greater_JJR mobility_NN1 and_CC trends_NN2 in_II urbanization_NN1 have_VH0 contributed_VVN to_II the_AT global_JJ nature_NN1 and_CC reach_NN1 of_IO these_DD2 diseases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   22 Although it is generally accepted that we are in the midst of an accelerating global extinction ( Pimm et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   22 Although_CS it_PPH1 is_VBZ generally_RR accepted_VVN_VVD that_CST we_PPIS2 are_VBR in_II the_AT midst_NN1 of_IO an_AT1 accelerating_JJ global_JJ extinction_NN1 (_Y Pimm_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   23 1995 ) , the connections between biodiversity decline and emerging and reemerging disease in this period have received little attention .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   23 1995_MC )_Y ,_Y the_AT connections_NN2 between_II biodiversity_NN1 decline_NN1 and_CC emerging_JJ_VVG and_CC reemerging_VVG_JJ@ disease_NN1 in_II this_DD1 period_NN1 have_VH0 received_VVN little_DA1_JJ attention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   24 In this article , we discuss the connections between biodiversity loss and human health at multiple hierarchical levels to understand the mechanistic basis of this transition .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   24 In_II this_DD1 article_NN1 ,_Y we_PPIS2 discuss_VV0 the_AT connections_NN2 between_II biodiversity_NN1 loss_NN1 and_CC human_JJ_NN1 health_NN1 at_II multiple_JJ hierarchical_JJ levels_NN2 to_TO understand_VVI the_AT mechanistic_JJ basis_NN1 of_IO this_DD1 transition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   25 Perhaps the clearest link between biodiversity and human health is through the spread of invasive species and pathogens .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   25 Perhaps_RR the_AT clearest_JJT link_NN1 between_II biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 is_VBZ through_II the_AT spread_NN1 of_IO invasive_JJ species_NN and_CC pathogens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   26 Globalization and the transfer of exotic organisms have resulted in widespread biotic homogenization -- the replacement of local biota with nonindigenous species .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   26 Globalization_NN1_NP1@ and_CC the_AT transfer_NN1 of_IO exotic_JJ organisms_NN2 have_VH0 resulted_VVN in_II widespread_JJ biotic_JJ homogenization_NN1 --_NN1 the_AT replacement_NN1 of_IO local_JJ biota_NN2 with_IW nonindigenous_JJ species_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   27 These exotic species can cause extinctions at many levels , from genetic variation to species number .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   27 These_DD2 exotic_JJ species_NN can_VM cause_VVI extinctions_NN2 at_II many_DA2 levels_NN2 ,_Y from_II genetic_JJ variation_NN1 to_II species_NN number_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   28 The spread of vectors and disease has also been an integral part of human history , affecting people and wildlife .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   28 The_AT spread_NN1 of_IO vectors_NN2 and_CC disease_NN1 has_VHZ also_RR been_VBN an_AT1 integral_JJ part_NN1 of_IO human_JJ_NN1 history_NN1 ,_Y affecting_VVG people_NN and_CC wildlife_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   29 During recorded history , some insect vectors have dispersed into new habitats by phoresy ( i.e. , one organism transporting another ) , flight , or wind , but human-aided transport has been responsible for the arrival and spread of most invasive vectors , such as fleas , lice , and mosquitoes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   29 During_II recorded_JJ@ history_NN1 ,_Y some_DD insect_NN1 vectors_NN2 have_VH0 dispersed_VVN into_II new_JJ habitats_NN2 by_II phoresy_NN1_JJ (_Y i.e._REX ,_Y one_MC1 organism_NN1 transporting_VVG another_DD1 )_Y ,_Y flight_NN1 ,_Y or_CC wind_NN1 ,_Y but_CCB human-aided_JJ transport_NN1 has_VHZ been_VBN responsible_JJ for_IF the_AT arrival_NN1 and_CC spread_NN1 of_IO most_DAT_RGT invasive_JJ vectors_NN2 ,_Y such_II21 as_II22 fleas_NN2 ,_Y lice_NN2 ,_Y and_CC mosquitoes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   30 Yellow fever , dengue , malaria , and West Nile encephalitis are some of the diseases that have breached biogeographic barriers through anthropogenic movement ( Lounibos 2002 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   30 Yellow_JJ fever_NN1 ,_Y dengue_VV0_NN1 ,_Y malaria_NN1 ,_Y and_CC West_ND1 Nile_NP1 encephalitis_NN1 are_VBR some_DD of_IO the_AT diseases_NN2 that_CST have_VH0 breached_VVN biogeographic_JJ barriers_NN2 through_II anthropogenic_JJ movement_NN1 (_Y Lounibos_NP1 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   31 Biodiversity loss can also have a direct effect on zoonotic disease transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   31 Biodiversity_NN1_NP1@ loss_NN1 can_VM also_RR have_VHI a_AT1 direct_JJ effect_NN1 on_II zoonotic_JJ disease_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   32 Plant or structural diversity and habitat complexity can influence the composition , abundance , and distribution of animals that play important roles in the transmission cycles of some human diseases .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   32 Plant_NN1_VV0@ or_CC structural_JJ diversity_NN1 and_CC habitat_NN1 complexity_NN1 can_VM influence_VVI the_AT composition_NN1 ,_Y abundance_NN1 ,_Y and_CC distribution_NN1 of_IO animals_NN2 that_CST play_VV0 important_JJ roles_NN2 in_II the_AT transmission_NN1 cycles_NN2 of_IO some_DD human_JJ_NN1 diseases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   33 For example , deforestation and habitat fragmentation or modification , and the accompanying loss of structural diversity , can lead to changes in human contact rates with a variety of pathogens and disease in the diversity or composition of animal hosts may be closely associated with the incidence of zoonotic diseases such as Lyme disease or West Nile virus ( WNV ) in humans ( LoGiudice et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   33 For_REX21 example_REX22 ,_Y deforestation_NN1 and_CC habitat_NN1 fragmentation_NN1 or_CC modification_NN1 ,_Y and_CC the_AT accompanying_JJ loss_NN1 of_IO structural_JJ diversity_NN1 ,_Y can_VM lead_VVI to_II changes_NN2 in_II human_JJ_NN1 contact_NN1 rates_NN2_VVZ@ with_IW a_AT1 variety_NN1 of_IO pathogens_NN2 and_CC disease_NN1 in_II the_AT diversity_NN1 or_CC composition_NN1 of_IO animal_NN1 hosts_NN2 may_VM be_VBI closely_RR associated_VVN with_IW the_AT incidence_NN1 of_IO zoonotic_JJ diseases_NN2 such_II21 as_II22 Lyme_NP1_NN1 disease_NN1 or_CC West_ND1 Nile_NP1 virus_NN1 (_Y WNV_NP1 )_Y in_II humans_NN2 (_Y LoGiudice_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   34 2003 , Ezenwa et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   34 2003_MC ,_Y Ezenwa_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   35 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   35 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   36 At the same time , it is important to note that parasites can be important drivers of biodiversity and components of ecosystem health ( Hudson et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   36 At_II the_AT same_DA time_NNT1 ,_Y it_PPH1 is_VBZ important_JJ to_TO note_VVI that_CST parasites_NN2 can_VM be_VBI important_JJ drivers_NN2 of_IO biodiversity_NN1 and_CC components_NN2 of_IO ecosystem_NN1 health_NN1 (_Y Hudson_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   37 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   37 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   38 Some disease dynamics may operate independently of biodiversity if they rely on nongeneralist vectors or a certain abundance of reservoir hosts ( Kilpatrick et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   38 Some_DD disease_NN1 dynamics_NN may_VM operate_VVI independently_RR of_IO biodiversity_NN1 if_CS they_PPHS2 rely_VV0 on_II_RP@ nongeneralist_NN1_JJ@ vectors_NN2 or_CC a_AT1 certain_JJ abundance_NN1 of_IO reservoir_NN1 hosts_NN2 (_Y Kilpatrick_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   39 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   39 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   40 Finally , although additional hosts can reduce the transmission rates of particular diseases , they can also harbor other pathogens .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   40 Finally_RR ,_Y although_CS additional_JJ hosts_NN2 can_VM reduce_VVI the_AT transmission_NN1 rates_NN2 of_IO particular_JJ diseases_NN2 ,_Y they_PPHS2 can_VM also_RR harbor_VVI other_JJ pathogens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   41 The links between biodiversity and human health occur from the microbial level to that of the habitat .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   41 The_AT links_NN2 between_II biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 occur_VV0 from_II the_AT microbial_JJ level_NN1 to_II that_DD1 of_IO the_AT habitat_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   42 Mechanistic pathways that lead from changes in biodiversity to human health can occur at the genetic , microbial , organismal ( host or vector species ) , community , and habitat levels .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   42 Mechanistic_JJ pathways_NN2 that_CST lead_VV0_NN1 from_II changes_NN2 in_II biodiversity_NN1 to_II human_JJ_NN1 health_NN1 can_VM occur_VVI at_II the_AT genetic_JJ ,_Y microbial_JJ ,_Y organismal_JJ (_Y host_NN1_VV0 or_CC vector_NN1 species_NN )_Y ,_Y community_NN1 ,_Y and_CC habitat_NN1 levels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   43 The range of pathways is summarized in table 1 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   43 The_AT range_NN1 of_IO pathways_NN2 is_VBZ summarized_VVN in_II table_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   44 In this review , investigated in some detail .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   44 In_II this_DD1 review_NN1 ,_Y investigated_VVN in_II some_DD detail_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   45 We then summarize general lessons from this research and identify several key questions that remain to be answered .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   45 We_PPIS2 then_RT summarize_VV0 general_JJ_NN1 lessons_NN2 from_II this_DD1 research_NN1 and_CC identify_VV0 several_DA2 key_JJ questions_NN2 that_CST remain_VV0 to_TO be_VBI answered_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   46 We conclude by describing how decisionmakers can use such information to design conservation initiatives that protect both biodiversity and human health .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   46 We_PPIS2 conclude_VV0 by_II describing_VVG how_RRQ decisionmakers_NN2 can_VM use_VVI such_DA information_NN1 to_TO design_VVI conservation_JJ_NN1 initiatives_NN2 that_CST protect_VV0 both_RR biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   47 Malaria Malaria is an infectious disease transmitted by the female Anopheles mosquito .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   47 Malaria_NN1 Malaria_NN1 is_VBZ an_AT1 infectious_JJ disease_NN1 transmitted_VVN by_II the_AT female_JJ_NN1 Anopheles_NP1 mosquito_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   48 Four species of the malarial parasite Plasmodium commonly infect humans and cause various forms of disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   48 Four_MC species_NN of_IO the_AT malarial_JJ parasite_NN1 Plasmodium_NN1_NP1 commonly_RR infect_VV0 humans_NN2 and_CC cause_VV0 various_JJ forms_NN2 of_IO disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   49 Despite the eradication of malaria from most temperate areas , populations at risk continue to grow , with at least 300 million cases per year and 1 million deaths ( WHO 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   49 Despite_II the_AT eradication_NN1 of_IO malaria_NN1 from_II most_DAT temperate_JJ areas_NN2 ,_Y populations_NN2 at_II risk_NN1 continue_VV0 to_TO grow_VVI ,_Y with_IW at_RR21 least_RR22 300_MC million_M1 cases_NN2 per_II year_NNT1 and_CC 1_MC1 million_M1 deaths_NN2 (_Y WHO_NP1 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   50 Flulike symptoms may include fever , chills , muscle aches , headache , and nausea .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   50 Flulike_JJ symptoms_NN2 may_VM include_VVI fever_NN1 ,_Y chills_NN2 ,_Y muscle_NN1 aches_NN2_VVZ ,_Y headache_NN1 ,_Y and_CC nausea_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   51 In the most severe cases , parasites travel to vital organs such as the brain , which can swell , leading to seizures , coma , and , in 20% to 50% of such cases , death ( Gilles and Warrell 1993 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   51 In_II the_AT most_RGT severe_JJ cases_NN2 ,_Y parasites_NN2 travel_VV0 to_II vital_JJ organs_NN2 such_II21 as_II22 the_AT brain_NN1 ,_Y which_DDQ can_VM swell_VVI ,_Y leading_VVG to_II seizures_NN2 ,_Y coma_NN1 ,_Y and_CC ,_Y in_II 20%_NNU to_II 50%_NNU of_IO such_DA cases_NN2 ,_Y death_NN1 (_Y Gilles_NP1 and_CC Warrell_NP1 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   52 Changes in plant diversity -- particularly through habitat alteration , fragmentation , and deforestation -- can increase the risk of malaria distribution ( Yasuoka and Levins 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   52 Changes_NN2 in_II plant_NN1 diversity_NN1 --_NN1 particularly_RR through_II habitat_NN1 alteration_NN1 ,_Y fragmentation_NN1 ,_Y and_CC deforestation_NN1 --_NN1 can_VM increase_VVI the_AT risk_NN1 of_IO malaria_NN1 distribution_NN1 (_Y Yasuoka_NP1 and_CC Levins_NN2@ 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   53 Deforestation can also increase transmission by raising surface-water availability and creating new breeding sites for some Anopheles mosquitoes ( Walsh et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   53 Deforestation_NN1_NP1@ can_VM also_RR increase_VVI transmission_NN1 by_II raising_VVG surface-water_JJ_NN1 availability_NN1 and_CC creating_VVG new_JJ breeding_NN1 sites_NN2 for_IF some_DD Anopheles_NP1 mosquitoes_NN2 (_Y Walsh_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   54 1993 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   54 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   55 It can also affect microclimates : Existing larval habitats may be exposed to more sunlight , raising water temperatures and changing community dynamics , which can increase the survival of larval mosquitoes ( Tuno et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   55 It_PPH1 can_VM also_RR affect_VVI microclimates_NN2 :_Y Existing_JJ larval_JJ habitats_NN2 may_VM be_VBI exposed_VVN to_II more_DAR sunlight_NN1 ,_Y raising_VVG_NN1 water_NN1 temperatures_NN2 and_CC changing_JJ_VVG community_NN1 dynamics_NN ,_Y which_DDQ can_VM increase_VVI the_AT survival_NN1 of_IO larval_JJ mosquitoes_NN2 (_Y Tuno_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   56 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   56 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   57 A warmer microclimate can cause mosquitoes to digest blood meals more quickly , leading them to feed and lay eggs more often , resulting in higher rates of vector development and reproduction ( Afrane et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   57 A_AT1 warmer_JJR microclimate_NN1 can_VM cause_VVI mosquitoes_NN2 to_TO digest_VVI blood_NN1 meals_NN2 more_RGR quickly_RR ,_Y leading_VVG them_PPHO2 to_TO feed_VVI and_CC lay_JJ@_VV0_VVD eggs_NN2 more_RGR often_RR ,_Y resulting_VVG in_II higher_JJR rates_NN2 of_IO vector_NN1 development_NN1 and_CC reproduction_NN1 (_Y Afrane_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   58 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   58 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   59 Higher temperatures also affect the malaria parasite itself , reducing its development time and making mosquitoes infectious more quickly ( Gilles 1999 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   59 Higher_JJR temperatures_NN2 also_RR affect_VV0 the_AT malaria_NN1 parasite_NN1 itself_PPX1 ,_Y reducing_VVG its_Z' development_NN1 time_NNT1 and_CC making_VVG mosquitoes_NN2 infectious_JJ more_RGR quickly_RR (_Y Gilles_NP1 1999_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   60 Land-use changes can have multiple impacts on disease transmission , as the risk of malaria can depend on the arrival of opportunistic vectors , adaptation of vectors to newly created niches , and migration of nonimmune people ( Walsh et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   60 Land-use_NN1 changes_NN2 can_VM have_VHI multiple_JJ impacts_NN2 on_II disease_NN1 transmission_NN1 ,_Y as_CSA_II the_AT risk_NN1 of_IO malaria_NN1 can_VM depend_VVI on_II the_AT arrival_NN1 of_IO opportunistic_JJ vectors_NN2 ,_Y adaptation_NN1 of_IO vectors_NN2 to_II_TO newly_RR created_VVN_VVD_JJ@ niches_NN2 ,_Y and_CC migration_NN1 of_IO nonimmune_NN1 people_NN (_Y Walsh_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   61 1993 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   61 1993_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   62 Vittor and colleagues ( 2006 ) were the in potential malaria transmission in Amazonian Peru .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   62 Vittor_NN1_NP1@ and_CC colleagues_NN2 (_Y 2006_MC )_Y were_VBDR the_AT in_II potential_JJ_NN1 malaria_NN1 transmission_NN1 in_II Amazonian_JJ Peru_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   63 Compared with forested areas , deforested sites had higher densities of Anopheles darlingi , the most efficient vector of malaria in the region , and higher rates at which humans are bitten .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   63 Compared_VVN with_IW forested_JJ areas_NN2 ,_Y deforested_JJ sites_NN2 had_VHD higher_JJR densities_NN2 of_IO Anopheles_NP1 darlingi_NN2 ,_Y the_AT most_RGT efficient_JJ vector_NN1 of_IO malaria_NN1 in_II the_AT region_NN1 ,_Y and_CC higher_JJR rates_NN2 at_II which_DDQ humans_NN2 are_VBR bitten_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   64 This relationship held true regardless of human population density .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   64 This_DD1 relationship_NN1 held_VVD_VVN true_JJ_RR% regardless_RR of_IO human_JJ_NN1 population_NN1 density_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   65 The effects of landscape change on mosquito distribution may be complex , involving changes in species composition , abundance , and distribution .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   65 The_AT effects_NN2 of_IO landscape_NN1 change_NN1_VV0 on_II mosquito_NN1 distribution_NN1 may_VM be_VBI complex_JJ ,_Y involving_VVG changes_NN2 in_II species_NN composition_NN1 ,_Y abundance_NN1 ,_Y and_CC distribution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   66 Such changes can be influenced by habitat availability and changing microclimates .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   66 Such_DA changes_NN2 can_VM be_VBI influenced_VVN by_II habitat_NN1 availability_NN1 and_CC changing_JJ_VVG microclimates_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   67 Human factors , such as immune status , migration patterns , and treatment of disease , also play important roles in malaria incidence and continued transmission ( Molyneux 1998 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   67 Human_JJ_NN1 factors_NN2 ,_Y such_II21 as_II22 immune_JJ status_NN1 ,_Y migration_NN1 patterns_NN2 ,_Y and_CC treatment_NN1 of_IO disease_NN1 ,_Y also_RR play_VV0 important_JJ roles_NN2 in_II malaria_NN1 incidence_NN1 and_CC continued_JJ_VVD transmission_NN1 (_Y Molyneux_NP1_VV0_NN1 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   68 Furthermore , there is a need to consider the effects on disease transmission of human behaviors that contribute to ecological change and behavioral responses to disease risk ( Pattanayak and Yasuoka 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   68 Furthermore_RR ,_Y there_EX is_VBZ a_AT1 need_NN1 to_TO consider_VVI the_AT effects_NN2 on_II disease_NN1 transmission_NN1 of_IO human_JJ_NN1 behaviors_NN2 that_CST contribute_VV0 to_II ecological_JJ change_NN1 and_CC behavioral_JJ_NN1 responses_NN2 to_II disease_NN1 risk_NN1 (_Y Pattanayak_NP1 and_CC Yasuoka_NP1 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   69 An interdisciplinary approach to studying the relationships among structural diversity , habitat availability , vector ecology , epidemiology , and human behavior is critical in reducing the risk of malaria .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   69 An_AT1 interdisciplinary_JJ approach_NN1 to_II studying_VVG the_AT relationships_NN2 among_II structural_JJ diversity_NN1 ,_Y habitat_NN1 availability_NN1 ,_Y vector_NN1 ecology_NN1 ,_Y epidemiology_NN1 ,_Y and_CC human_JJ_NN1 behavior_NN1 is_VBZ critical_JJ in_II reducing_VVG the_AT risk_NN1 of_IO malaria_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   70 Schistosomiasis The loss of predators can cause dramatic changes that such declines can also affect the transmission of parasitic illnesses .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   70 Schistosomiasis_NN1_NP1@ The_AT loss_NN1 of_IO predators_NN2 can_VM cause_VVI dramatic_JJ changes_NN2 that_CST_DD1 such_DA declines_VVZ can_VM also_RR affect_VVI the_AT transmission_NN1 of_IO parasitic_JJ illnesses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   71 Evidence from Lake Malawi , for example , indicates that overfishing of mollusk-eating fish has resulted in a greater number of Bulinus gastropods and the subsequent spread of schistosomiasis .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   71 Evidence_NN1 from_II Lake_NNL1 Malawi_NP1 ,_Y for_REX21 example_REX22 ,_Y indicates_VVZ that_DD1_CST overfishing_NN1@_VVG of_IO mollusk-eating_JJ_NN1 fish_NN has_VHZ resulted_VVN in_II a_AT1 greater_JJR number_NN1 of_IO Bulinus_NN1_NP1 gastropods_NN2 and_CC the_AT subsequent_JJ spread_NN1 of_IO schistosomiasis_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   72 Schistosomiasis is a parasitic disease that infects humans through skin contact with the free-swimming larval stage ( cercariae ) of trematodes that develop in freshwater snails .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   72 Schistosomiasis_NN1_NP1@ is_VBZ a_AT1 parasitic_JJ disease_NN1 that_CST_DD1 infects_VVZ humans_NN2 through_II skin_NN1 contact_NN1_VV0 with_IW the_AT free-swimming_JJ larval_JJ stage_NN1 (_Y cercariae_NN2 )_Y of_IO trematodes_NN2 that_CST develop_VV0 in_II_RP@ freshwater_JJ snails_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   73 Approximately 200 million people are infected with the disease worldwide , which can be chronic , causing liver and intestinal damage .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   73 Approximately_RR 200_MC million_M1 people_NN are_VBR infected_VVN with_IW the_AT disease_NN1 worldwide_RL ,_Y which_DDQ can_VM be_VBI chronic_JJ ,_Y causing_VVG liver_NN1 and_CC intestinal_JJ damage_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   74 In Malawi , overfishing and the increased use of fine-mesh beach seines have caused a decrease in density of the snail-eating cichlid Trematocranus placodon ( Stauffer et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   74 In_II Malawi_NP1 ,_Y overfishing_VVG and_CC the_AT increased_JJ use_NN1 of_IO fine-mesh_JJ beach_NN1 seines_NN2 have_VH0 caused_VVN a_AT1 decrease_NN1 in_II density_NN1 of_IO the_AT snail-eating_JJ_NN1 cichlid_NN1 Trematocranus_NN1_NP1 placodon_NN1 (_Y Stauffer_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   75 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   75 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   76 The decline of these predators in Lake Malawi appears to have been responsible for the rise in transmission of the schistosome parasites in the lake since the 1980s ( Evers et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   76 The_AT decline_NN1 of_IO these_DD2 predators_NN2 in_II Lake_NNL1 Malawi_NP1 appears_VVZ to_TO have_VHI been_VBN responsible_JJ for_IF the_AT rise_NN1 in_II transmission_NN1 of_IO the_AT schistosome_JJ parasites_NN2 in_II the_AT lake_NN1 since_CS_II@ the_AT 1980s_MC2 (_Y Evers_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   77 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   77 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   78 In Kenya and Cameroon , the introduction of cichlids has been shown to be relatively ineffective in eliminating or reducing schistosomiasis infections ( Slootweg et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   78 In_II Kenya_NP1 and_CC Cameroon_NP1 ,_Y the_AT introduction_NN1 of_IO cichlids_NN2 has_VHZ been_VBN shown_VVN to_TO be_VBI relatively_RR ineffective_JJ in_II eliminating_VVG or_CC reducing_VVG_JJ@ schistosomiasis_NN1 infections_NN2 (_Y Slootweg_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   79 1994 ) , but there control efforts .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   79 1994_MC )_Y ,_Y but_CCB there_EX control_NN1 efforts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   80 For example , Stauffer and colleagues ( 2006 ) contend that a higher density of molluscivorous fishes will reduce cercariae production in the open waters of Lake Malawi and function as a biological control of schistosomes and their hosts .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   80 For_REX21 example_REX22 ,_Y Stauffer_NP1_NN1_VV0 and_CC colleagues_NN2 (_Y 2006_MC )_Y contend_VV0 that_CST a_AT1 higher_JJR density_NN1 of_IO molluscivorous_JJ fishes_NN2 will_VM reduce_VVI cercariae_NN2 production_NN1 in_II the_AT open_JJ waters_NN2 of_IO Lake_NNL1 Malawi_NP1 and_CC function_NN1_VV0@ as_II_CSA a_AT1 biological_JJ control_NN1 of_IO schistosomes_NN2 and_CC their_APPGE hosts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   81 Research into the relationship between snail species richness and schistosomiasis transmission is of interest , since it may reveal other opportunities for controlling transmission through protection or manipulation of the snail community .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   81 Research_NN1_VV0@ into_II the_AT relationship_NN1 between_II snail_NN1 species_NN richness_NN1 and_CC schistosomiasis_NN1 transmission_NN1 is_VBZ of_IO interest_NN1 ,_Y since_CS it_PPH1 may_VM reveal_VVI other_JJ opportunities_NN2 for_IF controlling_VVG_JJ@ transmission_NN1 through_II protection_NN1 or_CC manipulation_NN1 of_IO the_AT snail_NN1 community_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   82 Lyme disease Recent studies have demonstrated that variation in host species diversity has a strong effect on the level of human risk from Lyme disease , the most frequently reported vectorborne disease in the United States .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   82 Lyme_NN1_NP1@ disease_NN1 Recent_JJ studies_NN2 have_VH0 demonstrated_VVN that_DD1_CST variation_NN1 in_II host_NN1 species_NN diversity_NN1 has_VHZ a_AT1 strong_JJ effect_NN1 on_II the_AT level_NN1 of_IO human_JJ_NN1 risk_NN1 from_II Lyme_NP1_NN1 disease_NN1 ,_Y the_AT most_RGT frequently_RR reported_VVN_VVD vectorborne_JJ@ disease_NN1 in_II the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   83 The causative agent of this disease , the spirochete bacterium Borrelia burgdorferi , is transmitted among hosts , including humans , by blood-feeding ticks , such as Ixodes scapularis in eastern and central North America and Ixodes pacificus in the western United States .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   83 The_AT causative_JJ agent_NN1 of_IO this_DD1 disease_NN1 ,_Y the_AT spirochete_NN1 bacterium_NN1 Borrelia_NP1_NN1@ burgdorferi_NN2 ,_Y is_VBZ transmitted_VVN among_II hosts_NN2 ,_Y including_II_VVG@ humans_NN2 ,_Y by_II blood-feeding_JJ_NN1 ticks_NN2 ,_Y such_II21 as_II22 Ixodes_NP1 scapularis_NN1 in_II eastern_JJ and_CC central_JJ North_ND1 America_NP1 and_CC Ixodes_NP1_VVZ pacificus_NN1 in_II the_AT western_JJ United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   84 Ticks feed readily from dozens of species of vertebrates , but host species differ dramatically in their probability of transmitting the infection ( LoGiudice et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   84 Ticks_NN2 feed_VV0 readily_RR from_II dozens_M of_IO species_NN of_IO vertebrates_NN2 ,_Y but_CCB host_VV0 species_NN differ_VV0 dramatically_RR in_II their_APPGE probability_NN1 of_IO transmitting_VVG the_AT infection_NN1 (_Y LoGiudice_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   85 2003 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   85 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   86 Several studies have documented large numbers of ticks , whereas most other hosts serve a protective role by feeding but not infecting the vector ( e.g. , LoGiudice et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   86 Several_DA2 studies_NN2 have_VH0 documented_VVN large_JJ numbers_NN2 of_IO ticks_NN2 ,_Y whereas_CS most_DAT other_JJ hosts_NN2 serve_VV0 a_AT1 protective_JJ role_NN1 by_II feeding_VVG_JJ@ but_CCB not_XX infecting_VVG the_AT vector_NN1 (_Y e.g._REX ,_Y LoGiudice_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   87 2003 , Brisson and Dykuizen 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   87 2003_MC ,_Y Brisson_NP1 and_CC Dykuizen_NP1_NN1_JJ 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   88 In areas dominated by white-footed mice , ticks have a high probability of becoming infected and dangerous to people .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   88 In_II areas_NN2 dominated_VVN by_II white-footed_JJ mice_NN2 ,_Y ticks_NN2 have_VH0 a_AT1 high_JJ probability_NN1 of_IO becoming_VVG infected_JJ and_CC dangerous_JJ to_II people_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   89 The species composition and relative abundance of a host community strongly influence key metrics of disease risk to humans ( Ostfeld and LoGiudice 2003 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   89 The_AT species_NN composition_NN1 and_CC relative_JJ_NN1 abundance_NN1 of_IO a_AT1 host_NN1 community_NN1 strongly_RR influence_VV0 key_JJ metrics_NN1_NN2 of_IO disease_NN1 risk_NN1_VV0 to_II humans_NN2 (_Y Ostfeld_NP1_NN1_VV0 and_CC LoGiudice_NP1 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   90 Because white-footed mice tend to reach higher abundances in species-poor communities ( Nupp and Swihart 1998 ) , host community diversity also influences Lyme disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   90 Because_CS white-footed_JJ mice_NN2 tend_VV0 to_TO reach_VVI higher_JJR abundances_NN2 in_II species-poor_JJ communities_NN2 (_Y Nupp_NP1_NN1_VV0 and_CC Swihart_NP1 1998_MC )_Y ,_Y host_VV0_NN1 community_NN1 diversity_NN1 also_RR influences_VVZ@ Lyme_NN1_NP1 disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   91 Empirical studies confirm that disease risk is significantly higher in areas of low vertebrate diversity , such as small forests ( less than 2 hectares ha ; Allan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   91 Empirical_JJ studies_NN2 confirm_VV0 that_DD1_CST disease_NN1 risk_NN1 is_VBZ significantly_RR higher_JJR in_II areas_NN2 of_IO low_JJ vertebrate_JJ diversity_NN1 ,_Y such_II21 as_II22 small_JJ forests_NN2 (_Y less_DAR than_CSN 2_MC hectares_NNU2 ha_UH ;_Y Allan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   92 2003 ) and highly fragmented landscapes ( Brownstein et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   92 2003_MC )_Y and_CC highly_RR fragmented_JJ landscapes_NN2 (_Y Brownstein_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   93 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   93 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   94 Hantavirus pulmonary syndrome A similar protective effect of high vertebrate diversity seems to occur for hantavirus pulmonary syndrome ( HPS ) in Panama , where the rice rat ( Oligoryzomys fulvescens costaricensis ) is the primary natural reservoir found in Asia , Europe , and the Americas , where particular virus species are associated with specific rodent hosts .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   94 Hantavirus_NP1@_NN1 pulmonary_JJ syndrome_NN1 A_ZZ1 similar_JJ protective_JJ effect_NN1 of_IO high_JJ vertebrate_JJ diversity_NN1 seems_VVZ to_TO occur_VVI for_IF hantavirus_NN1 pulmonary_JJ syndrome_NN1 (_Y HPS_NN2 )_Y in_II Panama_NP1 ,_Y where_RRQ the_AT rice_NN1 rat_NN1 (_Y Oligoryzomys_NP1 fulvescens_NN2 costaricensis_NN1 )_Y is_VBZ the_AT primary_JJ_NN1 natural_JJ reservoir_NN1 found_VVN in_II Asia_NP1 ,_Y Europe_NP1 ,_Y and_CC the_AT Americas_NP2 ,_Y where_CS_RRQ particular_JJ virus_NN1 species_NN are_VBR associated_VVN with_IW specific_JJ rodent_NN1 hosts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   95 Hantaviruses are transmitted among rodents through biting and scratching .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   95 Hantaviruses_NN2 are_VBR transmitted_VVN among_II rodents_NN2 through_II biting_VVG_JJ and_CC scratching_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   96 Transmission to humans can occur when aerosolized rodent feces or urine is inhaled .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   96 Transmission_NN1 to_II humans_NN2 can_VM occur_VVI when_RRQ_CS aerosolized_JJ@ rodent_NN1 feces_NN2_VVZ or_CC urine_NN1 is_VBZ inhaled_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   97 In the Americas , several hantaviruses cause severe pulmonary disease , with death rates as high as 37% ( CDC 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   97 In_II the_AT Americas_NP2 ,_Y several_DA2 hantaviruses_NN2 cause_VV0 severe_JJ pulmonary_JJ disease_NN1 ,_Y with_IW death_NN1 rates_NN2_VVZ@ as_RG high_JJ_RR@ as_CSA 37%_NNU (_Y CDC_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   98 Ruedas and colleagues ( 2004 ) surveyed small-mammal communities in southeastern Panama , where an outbreak of HPS occurred in 1999 and 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   98 Ruedas_NN2_NP1@ and_CC colleagues_NN2 (_Y 2004_MC )_Y surveyed_VVD small-mammal_JJ_NN1 communities_NN2 in_II southeastern_JJ Panama_NP1 ,_Y where_CS_RRQ an_AT1 outbreak_NN1 of_IO HPS_NN2 occurred_VVD_VVN@ in_II 1999_MC and_CC 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0   99 On the basis of an analysis of 13 locations near human-case clusters and a control site , they suggested that human activities that decrease biodiversity , and during periods with unusually heavy precipitation , can increase the probability of HPS outbreaks .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0   99 On_II the_AT basis_NN1 of_IO an_AT1 analysis_NN1 of_IO 13_MC locations_NN2 near_II human-case_JJ_NN1 clusters_NN2 and_CC a_AT1 control_NN1 site_NN1 ,_Y they_PPHS2 suggested_VVD that_CST_DD1 human_JJ_NN1 activities_NN2 that_CST_DD1 decrease_VV0_NN1 biodiversity_NN1 ,_Y and_CC during_II periods_NN2 with_IW unusually_RR heavy_JJ precipitation_NN1 ,_Y can_VM increase_VVI the_AT probability_NN1 of_IO HPS_NN2 outbreaks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  100 An experimental reduction in small-mammal species diversity in Panama 's Azuero Peninsula confirmed that high rodent diversity reduces the density of infected reservoir hosts , a key risk factor for humans ( Suzn et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  100 An_AT1 experimental_JJ reduction_NN1 in_II small-mammal_JJ_NN1 species_NN diversity_NN1 in_II Panama_NP1 's_GE Azuero_NN1_NP1 Peninsula_NN1 confirmed_VVD_VVN that_CST_DD1 high_JJ rodent_NN1 diversity_NN1 reduces_VVZ the_AT density_NN1 of_IO infected_JJ reservoir_NN1 hosts_NN2 ,_Y a_AT1 key_JJ risk_NN1 factor_NN1 for_IF humans_NN2 (_Y Suzn_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  101 2009 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  101 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  102 Rodents ' life history patterns may be another mechanism by which biodiversity decline increases the human risk of hemorrhagic fever viruses can adapt relatively easily to changing environmental conditions , and their fecundity and high reproduction rate allow them to reach high population densities , which facilitate pathogen transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  102 Rodents_NN2 '_GE life_NN1 history_NN1 patterns_NN2 may_VM be_VBI another_DD1 mechanism_NN1 by_II which_DDQ biodiversity_NN1 decline_NN1 increases_VVZ the_AT human_JJ_NN1 risk_NN1 of_IO hemorrhagic_JJ fever_NN1 viruses_NN2 can_VM adapt_VVI relatively_RR easily_RR to_II changing_VVG_JJ environmental_JJ conditions_NN2 ,_Y and_CC their_APPGE fecundity_NN1 and_CC high_JJ reproduction_NN1 rate_NN1 allow_VV0 them_PPHO2 to_TO reach_VVI high_JJ population_NN1 densities_NN2 ,_Y which_DDQ facilitate_VV0 pathogen_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  103 Peixoto and Abramson ( 2006 ) built a mathematical model to predict the effects of variation in biodiversity on HPS dynamics in North America , where the deer mouse ( Peromyscus maniculatus ) is the primary reservoir .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  103 Peixoto_NN1_NP1@ and_CC Abramson_NP1 (_Y 2006_MC )_Y built_VVD_VVN a_AT1 mathematical_JJ model_NN1 to_TO predict_VVI the_AT effects_NN2 of_IO variation_NN1 in_II biodiversity_NN1 on_II HPS_NN2 dynamics_NN in_II North_ND1 America_NP1 ,_Y where_CS_RRQ the_AT deer_NN mouse_NN1 (_Y Peromyscus_NP1_NN1 maniculatus_NN1_JJ )_Y is_VBZ the_AT primary_JJ_NN1 reservoir_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  104 They compared the transmission of HPS in a community that consisted only of P. maniculatus to more diverse communities that included other competing mouse species .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  104 They_PPHS2 compared_VVD the_AT transmission_NN1 of_IO HPS_NN2 in_II a_AT1 community_NN1 that_CST consisted_VVD only_RR of_IO P._NP1_NNU@ maniculatus_NN1_JJ to_II more_RGR diverse_JJ communities_NN2 that_CST included_VVD other_JJ competing_JJ mouse_NN1 species_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  105 The model assumed that the competitor mice do not become infected with HPS , an assumption supported by field data .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  105 The_AT model_NN1 assumed_VVD_VVN that_CST the_AT competitor_NN1 mice_NN2 do_VD0 not_XX become_VVI infected_JJ_VVN with_IW HPS_NN2 ,_Y an_AT1 assumption_NN1 supported_VVN by_II field_NN1 data_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  106 Consistent with the empirical observations of Suzn and colleagues ( 2009 ) , the model indicated that hantavirus infection in deer mice should decrease or even disappear in the presence of competitors .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  106 Consistent_JJ with_IW the_AT empirical_JJ observations_NN2 of_IO Suzn_NP1_NN1 and_CC colleagues_NN2 (_Y 2009_MC )_Y ,_Y the_AT model_NN1 indicated_VVD_VVN that_DD1_CST hantavirus_NN1 infection_NN1 in_II deer_NN mice_NN2 should_VM decrease_VVI or_CC even_RR disappear_VVI in_II_RP@ the_AT presence_NN1 of_IO competitors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  107 For both Lyme disease and HPS , the mechanisms that underlie the negative correlation between diversity and disease risk or incidence require clarification .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  107 For_IF both_DB2 Lyme_NP1_NN1 disease_NN1 and_CC HPS_NN2 ,_Y the_AT mechanisms_NN2 that_CST underlie_VV0 the_AT negative_JJ correlation_NN1 between_II diversity_NN1 and_CC disease_NN1 risk_NN1 or_CC incidence_NN1 require_VV0 clarification_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  108 In the case of Lyme disease , these include interactions between hosts and ticks , between hosts example , an abundance of hosts other than mice appears to reduce tick burdens on Peromyscus ( Brunner and Ostfeld. 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  108 In_II the_AT case_NN1 of_IO Lyme_NP1_NN1 disease_NN1 ,_Y these_DD2 include_VV0 interactions_NN2 between_II hosts_NN2 and_CC ticks_NN2 ,_Y between_II hosts_NN2 example_REX22 ,_Y an_AT1 abundance_NN1 of_IO hosts_NN2 other_II21 than_II22 mice_NN2 appears_VVZ to_TO reduce_VVI tick_NN1 burdens_NN2 on_II Peromyscus_NP1_NN1 (_Y Brunner_NP1 and_CC Ostfeld._NP1 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  109 For HPS , which does not involve a vector , only the host-pathogen and host-host mechanisms are possible .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  109 For_IF HPS_NN2 ,_Y which_DDQ does_VDZ not_XX involve_VVI a_AT1 vector_NN1 ,_Y only_RR the_AT host-pathogen_NN1_JJ and_CC host-host_JJ_NN1 mechanisms_NN2 are_VBR possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  110 Lower population density of reservoir hosts and a lower proportion of individuals that are infected with the pathogen under higher diversity conditions suggest that both mechanisms operate ( Suzn et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  110 Lower_JJR population_NN1 density_NN1 of_IO reservoir_NN1 hosts_NN2 and_CC a_AT1 lower_JJR proportion_NN1 of_IO individuals_NN2 that_CST are_VBR infected_VVN with_IW the_AT pathogen_NN1 under_II higher_JJR diversity_NN1 conditions_NN2 suggest_VV0 that_CST both_DB2 mechanisms_NN2 operate_VV0 (_Y Suzn_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  111 2009 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  111 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  112 Higher diversity of small mammals appears to regulate populations of reservoir hosts through competition or predation .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  112 Higher_JJR diversity_NN1 of_IO small_JJ mammals_NN2 appears_VVZ to_TO regulate_VVI populations_NN2 of_IO reservoir_NN1 hosts_NN2 through_II competition_NN1 or_CC predation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  113 High small-mammal diversity might also inhibit intraspecific aggressive encounters between reservoir hosts that result in hantavirus transmission ( Suzn et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  113 High_JJ_RR@ small-mammal_JJ_NN1 diversity_NN1 might_VM also_RR inhibit_VVI intraspecific_JJ aggressive_JJ encounters_NN2 between_II reservoir_NN1 hosts_NN2 that_CST_DD1 result_VV0_NN1 in_II hantavirus_NN1 transmission_NN1 (_Y Suzn_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  114 2009 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  114 2009_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  115 A major research frontier is to determine the relative importance of these potential mechanisms of the dilution effect ( Keesing et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  115 A_AT1_ZZ1 major_JJ research_NN1 frontier_NN1 is_VBZ to_TO determine_VVI the_AT relative_JJ_NN1 importance_NN1 of_IO these_DD2 potential_JJ mechanisms_NN2 of_IO the_AT dilution_NN1 effect_NN1 (_Y Keesing_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  116 2006 ) and assess their generality among various zoonoses .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  116 2006_MC )_Y and_CC assess_VV0 their_APPGE generality_NN1 among_II various_JJ zoonoses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  117 In principle , experimental manipulations of host communities combined with measurements of host burdens , abundances of unmanipulated species , and infection prevalence or reservoir competence would reveal the strength of each mechanism .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  117 In_II principle_NN1 ,_Y experimental_JJ manipulations_NN2 of_IO host_NN1 communities_NN2 combined_VVN with_IW measurements_NN2 of_IO host_NN1 burdens_NN2 ,_Y abundances_NN2 of_IO unmanipulated_JJ species_NN ,_Y and_CC infection_NN1 prevalence_NN1 or_CC reservoir_NN1 competence_NN1 would_VM reveal_VVI the_AT strength_NN1 of_IO each_DD1 mechanism_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  118 West Nile virus Wild birds WNV ( Marra et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  118 West_ND1 Nile_NP1 virus_NN1 Wild_JJ birds_NN2 WNV_NP1 (_Y Marra_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  119 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  119 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  120 The first known case of this mosquito-borne zoonotic disease occurred in Uganda in 1937 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  120 The_AT first_MD known_JJ@_VVN case_NN1 of_IO this_DD1 mosquito-borne_JJ_NN1 zoonotic_JJ disease_NN1 occurred_VVD_VVN@ in_II Uganda_NP1 in_II 1937_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  121 It is now found in Africa , Europe , Asia , and North America .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  121 It_PPH1 is_VBZ now_RT found_VVN_VVD in_II Africa_NP1 ,_Y Europe_NP1 ,_Y Asia_NP1 ,_Y and_CC North_ND1 America_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  122 West Nile virus appeared in the United States in 1999 , when encephalitis was reported in humans and horses ( Hayes et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  122 West_ND1 Nile_NP1 virus_NN1 appeared_VVD_VVN@ in_II the_AT United_NP1 States_NP1 in_II 1999_MC ,_Y when_RRQ encephalitis_NN1 was_VBDZ reported_VVN in_II humans_NN2 and_CC horses_NN2 (_Y Hayes_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  123 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  123 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  124 Although it is unknown how this recent invasion began , the spread of WNV has caused the decline of bird populations throughout North America ( LaDeau et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  124 Although_CS it_PPH1 is_VBZ unknown_JJ how_RRQ this_DD1 recent_JJ invasion_NN1 began_VVD ,_Y the_AT spread_NN1 of_IO WNV_NP1 has_VHZ caused_VVN the_AT decline_NN1 of_IO bird_NN1 populations_NN2 throughout_II North_ND1 America_NP1 (_Y LaDeau_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  125 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  125 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  126 In humans , only about 20% of WNV infections are symptomatic , and the virus has a broad spectrum of clinical manifestations , ranging from febrile illness to neuro-invasive disease ( Hayes et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  126 In_II humans_NN2 ,_Y only_RR about_RG 20%_NNU of_IO WNV_NP1 infections_NN2 are_VBR symptomatic_JJ ,_Y and_CC the_AT virus_NN1 has_VHZ a_AT1 broad_JJ spectrum_NN1 of_IO clinical_JJ manifestations_NN2 ,_Y ranging_VVG from_II febrile_JJ_NN1 illness_NN1 to_II neuro-invasive_JJ disease_NN1 (_Y Hayes_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  127 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  127 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  128 The most important mosquito vectors are thought to be Culex species ( Andreadis et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  128 The_AT most_RGT important_JJ mosquito_NN1 vectors_NN2 are_VBR thought_VVN to_TO be_VBI Culex_NN1_NP1 species_NN (_Y Andreadis_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  129 2001 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  129 2001_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  130 Most mammals appear to be incompetent or dead-end hosts for the virus , but among birds , competence varies widely : American robins ( Turdus migratorius ) and American crows ( Corvus brachyrhynchos ) are highly and Canada geese ( Branta canadensis ) and other wading birds are very poor hosts ( Komar et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  130 Most_DAT mammals_NN2 appear_VV0 to_TO be_VBI incompetent_JJ or_CC dead-end_NN1 hosts_NN2 for_IF the_AT virus_NN1 ,_Y but_CCB among_II birds_NN2 ,_Y competence_NN1 varies_VVZ widely_RR :_Y American_JJ robins_NN2 (_Y Turdus_NP1_NN1 migratorius_NN1 )_Y and_CC American_JJ crows_NN2 (_Y Corvus_NP1_NN1 brachyrhynchos_NN2 )_Y are_VBR highly_RR and_CC Canada_NP1 geese_NN2 (_Y Branta_NP1 canadensis_NN1 )_Y and_CC other_JJ wading_JJ birds_NN2 are_VBR very_RG poor_JJ hosts_NN2 (_Y Komar_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  131 2003 , Reisen et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  131 2003_MC ,_Y Reisen_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  132 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  132 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  133 The ecological complexity associated with WNV transmission , including the virus 's broad host range , wide variability in host competence , and the catholic feeding habits of associated vectors , make it a strong candidate as a disease system where transmission dynamics may be linked to patterns of host and vector diversity .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  133 The_AT ecological_JJ complexity_NN1 associated_VVN with_IW WNV_NP1 transmission_NN1 ,_Y including_II_VVG@ the_AT virus_NN1 's_GE broad_JJ host_NN1 range_NN1 ,_Y wide_JJ variability_NN1 in_II host_NN1 competence_NN1 ,_Y and_CC the_AT catholic_JJ feeding_JJ@_NN1@ habits_NN2 of_IO associated_JJ vectors_NN2 ,_Y make_VV0 it_PPH1 a_AT1 strong_JJ candidate_NN1 as_II_CSA a_AT1 disease_NN1 system_NN1 where_CS_RRQ transmission_NN1 dynamics_NN may_VM be_VBI linked_VVN to_II patterns_NN2 of_IO host_NN1 and_CC vector_NN1 diversity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  134 In the simplest case , a dilution effect in highly diverse host communities could result from a reduction in the encounter rate between vectors and the most competent hosts ( Keesing et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  134 In_II the_AT simplest_JJT case_NN1 ,_Y a_AT1 dilution_NN1 effect_NN1 in_II_RP@ highly_RR diverse_JJ host_NN1 communities_NN2 could_VM result_VVI from_II a_AT1 reduction_NN1 in_II the_AT encounter_NN1 rate_NN1 between_II vectors_NN2 and_CC the_AT most_RGT competent_JJ hosts_NN2 (_Y Keesing_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  135 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  135 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  136 Recent work provides evidence that host diversity is linked to WNV ecology in the United States .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  136 Recent_JJ work_NN1 provides_VVZ evidence_NN1 that_CST_DD1 host_VV0_NN1 diversity_NN1 is_VBZ linked_VVN to_II WNV_NP1 ecology_NN1 in_II the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  137 For example , Ezenwa and colleagues ( 2006 ) documented a negative association between the number of non-passerine bird species ( mainly wading birds ) and WNV infection prevalence in Culex mosquitoes across a series of field sites in a single Louisiana county ; the same trend was also apparent on a larger scale Allan and colleagues ( 2009 ) found that bird diversity was negatively correlated with WNV infection in vectors at a regional scale in St. Louis , Missouri , and with human disease incidence at a national level across the United States .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  137 For_REX21 example_REX22 ,_Y Ezenwa_NP1 and_CC colleagues_NN2 (_Y 2006_MC )_Y documented_VVD a_AT1 negative_JJ association_NN1 between_II the_AT number_NN1 of_IO non-passerine_JJ_NN1 bird_NN1 species_NN (_Y mainly_RR wading_JJ birds_NN2 )_Y and_CC WNV_NP1 infection_NN1 prevalence_NN1 in_II Culex_NP1_NN1 mosquitoes_NN2 across_II a_AT1 series_NN of_IO field_NN1 sites_NN2 in_II a_AT1 single_JJ Louisiana_NP1 county_NN1 ;_Y the_AT same_DA trend_NN1 was_VBDZ also_RR apparent_JJ on_II a_AT1 larger_JJR scale_NN1 Allan_NP1 and_CC colleagues_NN2 (_Y 2009_MC )_Y found_VVD that_DD1_CST bird_NN1 diversity_NN1 was_VBDZ negatively_RR correlated_VVN_VVD with_IW WNV_NP1 infection_NN1 in_II vectors_NN2 at_II a_AT1 regional_JJ scale_NN1 in_II St._NP1 Louis_NP1 ,_Y Missouri_NP1 ,_Y and_CC with_IW human_JJ disease_NN1 incidence_NN1 at_II a_AT1 national_JJ level_NN1 across_II the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  138 The mechanisms underlying potential dilution effects in WNV transmission remain to be clarified .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  138 The_AT mechanisms_NN2 underlying_VVG_JJ potential_JJ_NN1 dilution_NN1 effects_NN2 in_II WNV_NP1 transmission_NN1 remain_VV0 to_TO be_VBI clarified_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  139 The relative role of species richness versus species composition is particularly important in the face of increasing habitat loss and land-use change , since these forces contribute not only to a reduction in numbers of species ( Foley et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  139 The_AT relative_JJ_NN1 role_NN1 of_IO species_NN richness_NN1 versus_II species_NN composition_NN1 is_VBZ particularly_RR important_JJ in_II the_AT face_NN1 of_IO increasing_JJ_VVG habitat_NN1 loss_NN1 and_CC land-use_NN1 change_NN1_VV0 ,_Y since_CS these_DD2 forces_NN2 contribute_VV0 not_XX only_RR to_II a_AT1 reduction_NN1 in_II numbers_NN2 of_IO species_NN (_Y Foley_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  140 2005 ) but also potentially favor generalist species that act as amplification hosts .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  140 2005_MC )_Y but_CCB also_RR potentially_RR favor_VV0 generalist_JJ@_NN1 species_NN that_CST act_VV0_NN1 as_CSA_II@ amplification_NN1 hosts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  141 High transmission among birds in an urban environment could be the result of a decline in overall bird diversity or greater densities of highly efficient WNV hosts in peridomestic settings .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  141 High_JJ transmission_NN1 among_II birds_NN2 in_II an_AT1 urban_JJ environment_NN1 could_VM be_VBI the_AT result_NN1 of_IO a_AT1 decline_NN1 in_II overall_JJ_NN1 bird_NN1 diversity_NN1 or_CC greater_JJR densities_NN2 of_IO highly_RR efficient_JJ WNV_NP1 hosts_NN2 in_II peridomestic_JJ settings_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  142 Thus , in low-diversity communities , species identity is likely to play a key role in disease transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  142 Thus_RR ,_Y in_II low-diversity_JJ_NN1 communities_NN2 ,_Y species_NN identity_NN1 is_VBZ likely_JJ to_TO play_VVI a_AT1 key_JJ role_NN1 in_II disease_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  143 The role of land-use change in altering WNV transmission may go beyond the effects of urbanization .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  143 The_AT role_NN1 of_IO land-use_NN1 change_NN1_VV0 in_II altering_VVG WNV_NP1 transmission_NN1 may_VM go_VVI beyond_II the_AT effects_NN2 of_IO urbanization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  144 One study showed that as wetlands decline in the Gulf Coast of Louisiana et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  144 One_MC1 study_NN1 showed_VVD that_CST_DD1 as_CSA_II@ wetlands_NN2 decline_VV0 in_II the_AT Gulf_NP1_NN1@ Coast_NN1 of_IO Louisiana_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  145 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  145 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  146 Of the factors potentially explaining this pattern , the relative abundance of passerine or perching birds to nonpasserine birds was the most important explanatory variable .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  146 Of_IO the_AT factors_NN2 potentially_RR explaining_VVG this_DD1 pattern_NN1 ,_Y the_AT relative_JJ_NN1 abundance_NN1 of_IO passerine_NN1_JJ or_CC perching_VVG_JJ@ birds_NN2 to_II nonpasserine_JJ_NN1 birds_NN2 was_VBDZ the_AT most_RGT important_JJ explanatory_JJ variable_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  147 This suggests that the effects of wetland loss on WNV in this region are very likely mediated by changes in bird species composition .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  147 This_DD1 suggests_VVZ that_CST the_AT effects_NN2 of_IO wetland_NN1 loss_NN1 on_II WNV_NP1 in_II this_DD1 region_NN1 are_VBR very_RG likely_RR@_JJ mediated_VVN by_II changes_NN2 in_II bird_NN1 species_NN composition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  148 Future research on the complex causal links between land-use change , species diversity and composition , and host-vector interactions will be essential for understanding associations between biodiversity and disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  148 Future_JJ_NN1 research_NN1 on_II the_AT complex_JJ causal_JJ links_NN2 between_II land-use_NN1 change_NN1_VV0 ,_Y species_NN diversity_NN1 and_CC composition_NN1 ,_Y and_CC host-vector_JJ_NN1 interactions_NN2 will_VM be_VBI essential_JJ for_IF understanding_VVG_NN1_JJ@ associations_NN2 between_II biodiversity_NN1 and_CC disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  149 Indeed , a recent study of WNV ecology in the Chicago area found no evidence of an association between avian diversity and WNV prevalence in either mosquito vectors or birds ( Loss et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  149 Indeed_RR ,_Y a_AT1 recent_JJ study_NN1 of_IO WNV_NP1 ecology_NN1 in_II the_AT Chicago_NP1 area_NN1 found_VVD_VVN no_AT evidence_NN1 of_IO an_AT1 association_NN1 between_II avian_JJ diversity_NN1 and_CC WNV_NP1 prevalence_NN1 in_II_RP@ either_RR mosquito_NN1 vectors_NN2 or_CC birds_NN2 (_Y Loss_NN1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  150 2009 ) , suggesting that interactions among anthropogenic , biotic , and abiotic factors may drive regional variability in the dynamics of this disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  150 2009_MC )_Y ,_Y suggesting_VVG that_CST interactions_NN2 among_II anthropogenic_JJ ,_Y biotic_JJ_NN1@ ,_Y and_CC abiotic_JJ factors_NN2 may_VM drive_VVI regional_JJ variability_NN1 in_II the_AT dynamics_NN of_IO this_DD1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  151 Forest fragmentation , human encroachment , and pathogen exchange Anthropogenic changes to forest habitats can reduce biodiversity and bring people into closer contact with wildlife , increasing the risk of zoonotic disease transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  151 Forest_NN1 fragmentation_NN1 ,_Y human_JJ_NN1 encroachment_NN1 ,_Y and_CC pathogen_NN1 exchange_NN1_VV0@ Anthropogenic_JJ changes_NN2 to_II forest_NN1 habitats_NN2 can_VM reduce_VVI biodiversity_NN1 and_CC bring_VVI people_NN into_II closer_JJR contact_NN1 with_IW wildlife_NN1 ,_Y increasing_VVG the_AT risk_NN1 of_IO zoonotic_JJ disease_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  152 Nonhuman primates have emerged as important disease reservoirs in this people but also because of their ecological responsiveness to habitat disturbance ( Chapman et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  152 Nonhuman_NN1_JJ@_NP1@ primates_NN2 have_VH0 emerged_VVN as_CSA_RG@_II@ important_JJ disease_NN1 reservoirs_NN2 in_II this_DD1 people_NN but_CCB also_RR because_II21 of_II22 their_APPGE ecological_JJ responsiveness_NN1 to_II habitat_NN1 disturbance_NN1 (_Y Chapman_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  153 2005 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  153 2005_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  154 Recent studies in western Uganda show that forest disturbances can affect infectious disease dynamics at local scales .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  154 Recent_JJ studies_NN2 in_II western_JJ Uganda_NP1 show_VV0_NN1 that_DD1_CST forest_NN1 disturbances_NN2 can_VM affect_VVI infectious_JJ disease_NN1 dynamics_NN at_II local_JJ scales_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  155 Forest fragmentation can alter disease dynamics in primates , and human encroachment strongly affects cross-species infection rates ( Goldberg et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  155 Forest_NN1 fragmentation_NN1 can_VM alter_VVI disease_NN1 dynamics_NN in_II primates_NN2 ,_Y and_CC human_JJ_NN1 encroachment_NN1 strongly_RR affects_VVZ cross-species_JJ infection_NN1 rates_NN2 (_Y Goldberg_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  156 2008a ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  156 2008a_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  157 Goldberg and colleagues ( 2007 ) found that rates of interspecific bacterial exchange are elevated between people and nonhuman primates even where direct contact does not typically occur : Humans frequenting chimpanzee habitats tend to share genetically similar gastrointestinal bacteria with the apes , and the chimpanzees themselves harbored bacteria resistant to multiple antibiotics , even though they had never been administered to local wildlife .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  157 Goldberg_NP1 and_CC colleagues_NN2 (_Y 2007_MC )_Y found_VVD that_CST rates_NN2 of_IO interspecific_JJ bacterial_JJ exchange_NN1 are_VBR elevated_VVN between_II people_NN and_CC nonhuman_NN1_JJ@ primates_NN2 even_RR where_CS_RRQ direct_JJ contact_NN1 does_VDZ not_XX typically_RR occur_VVI :_Y Humans_NN2 frequenting_VVG chimpanzee_NN1 habitats_NN2 tend_VV0 to_TO share_VVI genetically_RR similar_JJ gastrointestinal_JJ bacteria_NN2 with_IW the_AT apes_NN2 ,_Y and_CC the_AT chimpanzees_NN2 themselves_PPX2 harbored_JJ@_VVD bacteria_NN2 resistant_JJ to_II multiple_JJ_NN1 antibiotics_NN2 ,_Y even_CS21 though_CS22 they_PPHS2 had_VHD never_RR been_VBN administered_VVN to_II local_JJ wildlife_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  158 People and livestock living near forest fragments with monkeys exchange gastrointestinal bacteria at accelerated rates ( Goldberg et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  158 People_NN and_CC livestock_NN living_VVG_NN1_JJ near_II_JJ@ forest_NN1 fragments_NN2 with_IW monkeys_NN2 exchange_VV0@ gastrointestinal_JJ bacteria_NN2 at_II accelerated_JJ rates_NN2 (_Y Goldberg_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  159 2008b ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  159 2008b_FO )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  160 The greater the disturbance of a forest fragment , the greater the rate of bacterial transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  160 The_AT greater_JJR the_AT disturbance_NN1 of_IO a_AT1 forest_NN1 fragment_NN1 ,_Y the_AT greater_JJR the_AT rate_NN1 of_IO bacterial_JJ transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  161 Biodiversity loss in these fragments may increase zoonotic and anthroponotic pathogen exchange by forcing species into atypical ecological interactions that facilitate transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  161 Biodiversity_NN1_NP1@ loss_NN1 in_II these_DD2 fragments_NN2 may_VM increase_VVI zoonotic_JJ and_CC anthroponotic_JJ pathogen_NN1 exchange_NN1 by_II forcing_VVG species_NN into_II atypical_JJ ecological_JJ interactions_NN2 that_CST facilitate_VV0 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  162 between biodiversity and infectious disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  162 between_II biodiversity_NN1 and_CC infectious_JJ disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  163 Large-bodied , conspicuous animals with complex social systems and diverse habitat requirements , primates play key ecological roles in forests as seed dispersers , competitors , predators , and prey ( Onderdonk and Chapman 2000 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  163 Large-bodied_NN1_JJ ,_Y conspicuous_JJ animals_NN2 with_IW complex_JJ social_JJ systems_NN2 and_CC diverse_JJ habitat_NN1 requirements_NN2 ,_Y primates_NN2 play_VV0 key_JJ ecological_JJ roles_NN2 in_II forests_NN2 as_CSA_II@ seed_NN1 dispersers_NN2 ,_Y competitors_NN2 ,_Y predators_NN2 ,_Y and_CC prey_NN1 (_Y Onderdonk_NP1_NN1_VV0 and_CC Chapman_NP1 2000_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  164 The transmission dynamics of pathogens between humans and nonhuman primates may be especially sensitive to changing patterns of biological diversity .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  164 The_AT transmission_NN1 dynamics_NN of_IO pathogens_NN2 between_II humans_NN2 and_CC nonhuman_NN1_JJ@ primates_NN2 may_VM be_VBI especially_RR sensitive_JJ to_II changing_JJ_VVG patterns_NN2 of_IO biological_JJ diversity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  165 Improving biodiversity and human health policies Links between biodiversity and human health are often complex , with the interplay of regional and global drivers , such as human migration and climate change , acting over relatively long periods of time .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  165 Improving_JJ_VVG biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 policies_NN2 Links_VVZ_NN2 between_II biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 are_VBR often_RR complex_JJ ,_Y with_IW the_AT interplay_NN1 of_IO regional_JJ and_CC global_JJ drivers_NN2 ,_Y such_II21 as_II22 human_JJ_NN1 migration_NN1 and_CC climate_NN1 change_NN1_VV0 ,_Y acting_VVG over_RP relatively_RR long_JJ periods_NN2 of_IO time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  166 The mechanistic pathways have been identified in the case studies discussed above and in other health outcomes that include viral , bacterial , protozoan , and metazoan agents ( summarized in table 2 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  166 The_AT mechanistic_JJ pathways_NN2 have_VH0 been_VBN identified_VVN in_II the_AT case_NN1 studies_NN2 discussed_VVN above_RL and_CC in_II other_JJ health_NN1 outcomes_NN2 that_CST include_VV0 viral_JJ ,_Y bacterial_JJ ,_Y protozoan_NN1_JJ ,_Y and_CC metazoan_JJ_NN1 agents_NN2 (_Y summarized_VVN in_II table_NN1 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  167 We have focused on human disease as an end point , but there are other non-disease health consequences of biodiversity loss , such as psychological well-being , that have been investigated ( deVries et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  167 We_PPIS2 have_VH0 focused_VVN on_II human_JJ_NN1 disease_NN1 as_II_CSA an_AT1 end_NN1 point_NN1 ,_Y but_CCB there_EX are_VBR other_JJ non-disease_JJ_NN1 health_NN1 consequences_NN2 of_IO biodiversity_NN1 loss_NN1 ,_Y such_II21 as_II22 psychological_JJ well-being_NN1 ,_Y that_CST_DD1 have_VH0 been_VBN investigated_VVN (_Y deVries_NN2 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  168 2003 , Fuller et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  168 2003_MC ,_Y Fuller_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  169 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  169 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  170 At the level of microbial diversity to decreased immune tolerance to allergens ( box 1 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  170 At_II the_AT level_NN1 of_IO microbial_JJ diversity_NN1 to_II decreased_JJ@ immune_JJ tolerance_NN1 to_II allergens_NN2 (_Y box_NN1_VV0@ 1_MC1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  171 On the landscape scale , biodiversity conservation in the Amazon has been linked to the mitigation of vectorborne diseases and the resulting impact on economic well-being , measured by macroeconomic indicators such as gross domestic product , exports , imports , and national investments ( Pattanayak et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  171 On_II the_AT landscape_NN1 scale_NN1 ,_Y biodiversity_NN1 conservation_NN1 in_II the_AT Amazon_NP1_NN1@ has_VHZ been_VBN linked_VVN to_II the_AT mitigation_NN1 of_IO vectorborne_JJ@ diseases_NN2 and_CC the_AT resulting_JJ impact_NN1 on_II economic_JJ well-being_NN1 ,_Y measured_VVN by_II macroeconomic_JJ indicators_NN2 such_II21 as_II22 gross_JJ domestic_JJ product_NN1 ,_Y exports_NN2_VVZ ,_Y imports_NN2 ,_Y and_CC national_JJ investments_NN2 (_Y Pattanayak_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  172 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  172 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  173 For infectious diseases in which high species diversity has been demonstrated to reduce disease risk or incidence , environmental policies that maintain or enhance diversity should be supported .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  173 For_IF infectious_JJ diseases_NN2 in_II which_DDQ high_JJ species_NN diversity_NN1 has_VHZ been_VBN demonstrated_VVN to_TO reduce_VVI disease_NN1 risk_NN1 or_CC incidence_NN1 ,_Y environmental_JJ policies_NN2 that_CST maintain_VV0 or_CC enhance_VV0 diversity_NN1 should_VM be_VBI supported_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  174 For Lyme disease and WNV , high risk or incidence is associated with the loss of vertebrate diversity , which in turn is associated with certain types of habitat destruction and fragmentation ( Allan et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  174 For_IF Lyme_NN1_NP1 disease_NN1 and_CC WNV_NP1 ,_Y high_JJ risk_NN1 or_CC incidence_NN1 is_VBZ associated_VVN with_IW the_AT loss_NN1 of_IO vertebrate_JJ diversity_NN1 ,_Y which_DDQ in_II turn_NN1 is_VBZ associated_VVN with_IW certain_JJ types_NN2 of_IO habitat_NN1 destruction_NN1 and_CC fragmentation_NN1 (_Y Allan_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  175 2003 , LoGiudice et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  175 2003_MC ,_Y LoGiudice_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  176 2003 , Ezenwa et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  176 2003_MC ,_Y Ezenwa_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  177 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  177 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  178 Protecting large forested areas in the vicinity of residential areas may reduce the risk of Lyme disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  178 Protecting_VVG_JJ@ large_JJ forested_JJ areas_NN2 in_II the_AT vicinity_NN1 of_IO residential_JJ areas_NN2 may_VM reduce_VVI the_AT risk_NN1 of_IO Lyme_NP1_NN1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  179 Land-use zoning policies that promote the spatial aggregation of deforestation could help maintain contiguous forested areas at the same time .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  179 Land-use_NN1 zoning_NN1 policies_NN2 that_CST promote_VV0 the_AT spatial_JJ aggregation_NN1 of_IO deforestation_NN1 could_VM help_VVI maintain_VVI contiguous_JJ forested_JJ areas_NN2 at_II the_AT same_DA time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  180 For example , designing housing developments in which are left unfragmented might reduce the disease risk associated with small and scattered forest patches .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  180 For_REX21 example_REX22 ,_Y designing_VVG housing_NN1_VVG developments_NN2 in_II which_DDQ are_VBR left_VVN_JJ unfragmented_JJ might_VM reduce_VVI the_AT disease_NN1 risk_NN1 associated_VVN with_IW small_JJ and_CC scattered_JJ forest_NN1 patches_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  181 For Lyme disease and HPS , small mammals such as mice and shrews are the most important natural reservoirs of the pathogen .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  181 For_IF Lyme_NN1_NP1 disease_NN1 and_CC HPS_NN2 ,_Y small_JJ mammals_NN2 such_II21 as_II22 mice_NN2 and_CC shrews_NN2 are_VBR the_AT most_RGT important_JJ natural_JJ reservoirs_NN2 of_IO the_AT pathogen_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  182 Consequently , direct control of these reservoirs -- for example , by kill trapping or poisoning -- represents an alternative to broader-based environmental management of land use .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  182 Consequently_RR ,_Y direct_JJ control_NN1 of_IO these_DD2 reservoirs_NN2 --_NN1_JJ for_REX21 example_REX22 ,_Y by_II kill_NN1%_VV0 trapping_NN1_VVG or_CC poisoning_VVG_NN1 --_NN1 represents_VVZ an_AT1 alternative_NN1_JJ to_II broader-based_JJR environmental_JJ management_NN1 of_IO land_NN1 use_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  183 However , interventions to reduce populations of small rodents over epidemiologically meaningful scales may be impractical , and could cause indirect negative effects on the environment .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  183 However_RR ,_Y interventions_NN2 to_TO reduce_VVI populations_NN2 of_IO small_JJ rodents_NN2 over_RP_II epidemiologically_RR meaningful_JJ scales_NN2 may_VM be_VBI impractical_JJ ,_Y and_CC could_VM cause_VVI indirect_JJ negative_JJ effects_NN2 on_II the_AT environment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  184 For example , white-footed mice regulate populations of gypsy moths ( Lymantria dispar ) , a destructive , exotic pest that causes enormous economic damage by killing trees ( Jones et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  184 For_REX21 example_REX22 ,_Y white-footed_JJ mice_NN2 regulate_VV0 populations_NN2 of_IO gypsy_NN1 moths_NN2 (_Y Lymantria_NP1 dispar_NN1_VV0 )_Y ,_Y a_AT1 destructive_JJ ,_Y exotic_JJ pest_NN1 that_CST_DD1 causes_VVZ enormous_JJ economic_JJ damage_NN1 by_II killing_VVG_NN1 trees_NN2 (_Y Jones_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  185 1998 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  185 1998_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  186 Mice also serve as a key food supply for carnivorous mammals and birds , and their removal or reduction could indirectly result in wider-scale biodiversity loss .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  186 Mice_NN2 also_RR serve_VV0 as_II_CSA a_AT1 key_JJ food_NN1 supply_NN1_VV0 for_IF carnivorous_JJ mammals_NN2 and_CC birds_NN2 ,_Y and_CC their_APPGE removal_NN1 or_CC reduction_NN1 could_VM indirectly_RR result_VVI in_II wider-scale_JJ biodiversity_NN1 loss_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  187 Targeting reservoir hosts for vaccination might become a feasible strategy for reducing disease risk ( Tsao et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  187 Targeting_VVG reservoir_NN1 hosts_NN2 for_IF vaccination_NN1 might_VM become_VVI a_AT1 feasible_JJ strategy_NN1 for_IF reducing_VVG_JJ@ disease_NN1 risk_NN1 (_Y Tsao_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  188 2004 ) , although practical methods for delivering vaccine to sufficient numbers of mice or of biodiversity in WNV transmission may inform land-use planning that preserves habitat favoring populations and species that moderate disease transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  188 2004_MC )_Y ,_Y although_CS practical_JJ methods_NN2 for_IF delivering_VVG vaccine_NN1 to_II sufficient_JJ numbers_NN2 of_IO mice_NN2 or_CC of_IO biodiversity_NN1 in_II WNV_NP1 transmission_NN1 may_VM inform_VVI land-use_NN1 planning_VVG_NN1 that_CST_DD1 preserves_VVZ habitat_NN1 favoring_VVG_NN1@ populations_NN2 and_CC species_NN that_CST moderate_JJ disease_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  189 For example , natural wetlands protection or restoration in the Gulf Coast region could be geographically targeted to decrease mosquito infection prevalence .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  189 For_REX21 example_REX22 ,_Y natural_JJ wetlands_NN2 protection_NN1 or_CC restoration_NN1 in_II the_AT Gulf_NP1_NN1@ Coast_NN1 region_NN1 could_VM be_VBI geographically_RR targeted_VVN_VVD to_TO decrease_VVI mosquito_NN1 infection_NN1 prevalence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  190 The role of predators and predator loss in infectious disease transmission is an emerging area of study .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  190 The_AT role_NN1 of_IO predators_NN2 and_CC predator_NN1 loss_NN1 in_II infectious_JJ disease_NN1 transmission_NN1 is_VBZ an_AT1 emerging_JJ area_NN1 of_IO study_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  191 For prey populations , predator removal is likely to be harmful when parasites are highly virulent , macroparasites are aggregated in their prey , hosts are long-lived , and predators select infected prey ( Packer et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  191 For_IF prey_NN1 populations_NN2 ,_Y predator_NN1 removal_NN1 is_VBZ likely_JJ to_TO be_VBI harmful_JJ when_CS_RRQ parasites_NN2 are_VBR highly_RR virulent_JJ ,_Y macroparasites_NN2 are_VBR aggregated_VVN in_II their_APPGE prey_NN1 ,_Y hosts_NN2 are_VBR long-lived_JJ ,_Y and_CC predators_NN2 select_VV0 infected_JJ prey_NN1 (_Y Packer_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  192 2003 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  192 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  193 For zoonotic diseases , the connections are less clear .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  193 For_IF zoonotic_JJ diseases_NN2 ,_Y the_AT connections_NN2 are_VBR less_RGR clear_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  194 The role of terrestrial vertebrates in controlling rodent reservoirs of human disease depends on the importance of rodent population density to the disease incidence , the roles of predators in determining population dynamics and rodent density , and the effects of human-caused environmental change on predators and prey ( Ostfeld and Holt 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  194 The_AT role_NN1 of_IO terrestrial_JJ vertebrates_NN2 in_II controlling_VVG_JJ@ rodent_NN1 reservoirs_NN2 of_IO human_JJ_NN1 disease_NN1 depends_VVZ on_II the_AT importance_NN1 of_IO rodent_NN1 population_NN1 density_NN1 to_II the_AT disease_NN1 incidence_NN1 ,_Y the_AT roles_NN2 of_IO predators_NN2 in_II determining_JJ_VVG population_NN1 dynamics_NN and_CC rodent_NN1 density_NN1 ,_Y and_CC the_AT effects_NN2 of_IO human-caused_JJ environmental_JJ change_NN1 on_II predators_NN2 and_CC prey_NN1 (_Y Ostfeld_NP1_NN1_VV0 and_CC Holt_NP1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  195 Stauffer and colleagues ' ( 2006 ) studies of Lake Malawi indicate that overfishing has direct effects on human health .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  195 Stauffer_VV0_NN1_NP1@ and_CC colleagues_NN2 '_GE (_Y 2006_MC )_Y studies_NN2 of_IO Lake_NNL1 Malawi_NP1 indicate_VV0 that_DD1_CST overfishing_NN1@ has_VHZ direct_JJ effects_NN2 on_II human_JJ_NN1 health_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  196 The management reduce schistosomiasis transmission in the lake .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  196 The_AT management_NN1 reduce_VVI schistosomiasis_NN1 transmission_NN1 in_II the_AT lake_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  197 The return of this important food fish also would make an important resource available to local populations .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  197 The_AT return_NN1 of_IO this_DD1 important_JJ food_NN1 fish_NN also_RR would_VM make_VVI an_AT1 important_JJ resource_NN1 available_JJ to_II local_JJ populations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  198 Yet biological control by a single species will not completely eliminate the disease ( Slootweg et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  198 Yet_RR biological_JJ control_NN1 by_II a_AT1 single_JJ species_NN will_VM not_XX completely_RR eliminate_VVI the_AT disease_NN1 (_Y Slootweg_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  199 1994 , Stauffer et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  199 1994_MC ,_Y Stauffer_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  200 2006 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  200 2006_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  201 Integrated management and ecological restoration may be necessary to rid schistosomiasis from infected areas .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  201 Integrated_JJ management_NN1 and_CC ecological_JJ restoration_NN1 may_VM be_VBI necessary_JJ to_TO rid_VVI schistosomiasis_NN1 from_II infected_JJ areas_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  202 Predatory fish have been successfully exploited as biological controls against dengue-transmitting Aedes aegypti mosquitoes in Australian wells and around gold mines ( Russell et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  202 Predatory_JJ fish_NN have_VH0 been_VBN successfully_RR exploited_VVN_VVD as_CSA_RG@_II@ biological_JJ controls_NN2 against_II dengue-transmitting_JJ_NN1 Aedes_NP2_VVZ@ aegypti_NN2 mosquitoes_NN2 in_II Australian_JJ wells_NN2 and_CC around_II_RG@_RP gold_NN1_JJ@ mines_NN2 (_Y Russell_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  203 1996 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  203 1996_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  204 In some cases , mosquito control can be better achieved by combining biocontrols with environmental modification ( Bence 1982 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  204 In_II some_DD cases_NN2 ,_Y mosquito_NN1 control_NN1 can_VM be_VBI better_RRR achieved_VVN by_II combining_VVG_JJ@ biocontrols_NN2 with_IW environmental_JJ modification_NN1 (_Y Bence_NP1 1982_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  205 Application of the bacteria Bacillus thuringiensis and Bacillus sphaericus has been effective in reducing malaria in Nicaragua , China , and Cameroon ( Sutherst 2004 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  205 Application_NN1 of_IO the_AT bacteria_NN2 Bacillus_NN1 thuringiensis_FW and_CC Bacillus_NN1 sphaericus_NN1 has_VHZ been_VBN effective_JJ in_II reducing_VVG_JJ@ malaria_NN1 in_II Nicaragua_NP1 ,_Y China_NP1 ,_Y and_CC Cameroon_NP1 (_Y Sutherst_NP1_VV0_NN1 2004_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  206 Biological controls can be sustainable and cost effective against some disease-carrying vectors , and a combination of strategies that are locally appropriate may be required .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  206 Biological_JJ controls_NN2 can_VM be_VBI sustainable_JJ and_CC cost_VV0_NN1_VVD@ effective_JJ against_II some_DD disease-carrying_JJ_NN1 vectors_NN2 ,_Y and_CC a_AT1 combination_NN1 of_IO strategies_NN2 that_CST are_VBR locally_RR appropriate_JJ_VV0@ may_VM be_VBI required_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  207 Understanding how habitat alteration and human settlement affect the abundance and distribution of important vector species can help identify landscape features and natural resource extraction , that may be useful in predicting disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  207 Understanding_VVG_NN1 how_RRQ habitat_NN1 alteration_NN1 and_CC human_JJ_NN1 settlement_NN1 affect_VV0_NN1 the_AT abundance_NN1 and_CC distribution_NN1 of_IO important_JJ vector_NN1 species_NN can_VM help_VVI identify_VVI landscape_NN1 features_NN2 and_CC natural_JJ resource_NN1 extraction_NN1 ,_Y that_DD1_CST may_VM be_VBI useful_JJ in_II predicting_VVG disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  208 Land-use policies could be modified to help minimize or prevent potential adverse health effects from a greater abundance of important malaria-transmitting vectors and contact with humans .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  208 Land-use_NN1 policies_NN2 could_VM be_VBI modified_VVN to_TO help_VVI minimize_VVI or_CC prevent_VVI potential_JJ adverse_JJ health_NN1 effects_NN2 from_II a_AT1 greater_JJR abundance_NN1 of_IO important_JJ malaria-transmitting_JJ_NN1 vectors_NN2 and_CC contact_VV0_NN1 with_IW humans_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  209 At the same time , in addition to traditional malaria control measures , communities might rely more on environmentally based strategies to target vectors , including building closed wells , applying biocontrols , and regularly clearing or removing accessible vector breeding sites .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  209 At_II the_AT same_DA time_NNT1 ,_Y in_II31 addition_II32 to_II33 traditional_JJ malaria_NN1 control_NN1 measures_NN2 ,_Y communities_NN2 might_VM rely_VVI more_RRR_DAR on_II_RP@ environmentally_RR based_VVN strategies_NN2 to_TO target_VVI vectors_NN2 ,_Y including_II_VVG@ building_VVG@_NN1 closed_JJ_VVD wells_NN2 ,_Y applying_VVG biocontrols_NN2 ,_Y and_CC regularly_RR clearing_JJ_VVG or_CC removing_VVG accessible_JJ vector_NN1 breeding_NN1 sites_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  210 A better understanding of how people use natural areas and thus , possibly inadvertently , increase their risk of disease can help guide public policies that focus on behavioral change .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  210 A_AT1 better_JJR understanding_NN1 of_IO how_RRQ people_NN use_VV0 natural_JJ areas_NN2 and_CC thus_RR ,_Y possibly_RR inadvertently_RR ,_Y increase_VV0 their_APPGE risk_NN1 of_IO disease_NN1 can_VM help_VVI guide_NN1_VV0 public_NN1_JJ policies_NN2 that_CST focus_VV0_NN1 on_II_RP@ behavioral_JJ_NN1 change_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  211 Several management strategies may be beneficial in cases where changes in structural diversity are accompanied by human encroachment , including discouraging destruction of wildlife habitats by restricting access , providing alternative sources of income or substitutes for natural products such as fuel wood and bushmeat , and modifying crop-planting practices .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  211 Several_DA2 management_NN1 strategies_NN2 may_VM be_VBI beneficial_JJ in_II cases_NN2 where_RRQ_CS changes_NN2 in_II structural_JJ diversity_NN1 are_VBR accompanied_VVN by_II human_JJ_NN1 encroachment_NN1 ,_Y including_II_VVG@ discouraging_JJ_VVG destruction_NN1 of_IO wildlife_NN1 habitats_NN2 by_II restricting_VVG access_NN1 ,_Y providing_VVG alternative_JJ_NN1 sources_NN2 of_IO income_NN1 or_CC substitutes_NN2 for_IF natural_JJ products_NN2 such_II21 as_II22 fuel_NN1 wood_NN1 and_CC bushmeat_NN1_VV0 ,_Y and_CC modifying_VVG crop-planting_JJ_NN1 practices_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  212 For example , fruit trees favorable to animals such as primates and bats could be maintained in core areas of forest fragments in order to the edges of disturbed habitats .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  212 For_REX21 example_REX22 ,_Y fruit_NN trees_NN2 favorable_JJ to_II animals_NN2 such_II21 as_II22 primates_NN2 and_CC bats_NN2 could_VM be_VBI maintained_VVN in_II core_NN1 areas_NN2 of_IO forest_NN1 fragments_NN2 in_BCL21 order_BCL22 to_TO the_AT edges_NN2 of_IO disturbed_JJ habitats_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  213 Ultimately , people 's disease-prevention behaviors , including changes to ecosystems , respond to disease levels in their communities , suggesting a dynamic feedback between exposure and control ( Pattanayak and Yasuoka 2008 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  213 Ultimately_RR ,_Y people_NN 's_GE disease-prevention_JJ_NN1 behaviors_NN2 ,_Y including_II_VVG@ changes_NN2 to_II ecosystems_NN2 ,_Y respond_VV0 to_II disease_NN1 levels_NN2 in_II their_APPGE communities_NN2 ,_Y suggesting_VVG a_AT1 dynamic_JJ feedback_NN1 between_II exposure_NN1 and_CC control_NN1_VV0 (_Y Pattanayak_NP1 and_CC Yasuoka_NP1 2008_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  214 Data from Brazil and Indonesia show that the deforestation-related risks of malaria are three times greater than predicted by a simple model lacking the potential feedback of malaria-stricken communities that clear more land because of the poverty associated with the disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  214 Data_NN from_II Brazil_NP1 and_CC Indonesia_NP1 show_VV0_NN1 that_CST the_AT deforestation-related_JJ_NN1 risks_NN2 of_IO malaria_NN1 are_VBR three_MC times_NNT2 greater_JJR than_CSN predicted_VVN by_II a_AT1 simple_JJ model_NN1 lacking_VVG the_AT potential_JJ_NN1 feedback_NN1 of_IO malaria-stricken_JJ communities_NN2 that_CST clear_VV0@_RR@ more_DAR land_NN1 because_II21 of_II22 the_AT poverty_NN1 associated_VVN with_IW the_AT disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  215 The incorporation of human behavior marks a departure from a purely biophysical approach , one that can easily overlook social , cultural , and economic drivers crucial to understanding anthropogenic ecosystem disruptions and their health impacts ( Parkes et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  215 The_AT incorporation_NN1 of_IO human_JJ_NN1 behavior_NN1 marks_VVZ@_NN2 a_AT1 departure_NN1 from_II a_AT1 purely_RR biophysical_JJ approach_NN1 ,_Y one_PN1 that_CST can_VM easily_RR overlook_VVI social_JJ ,_Y cultural_JJ ,_Y and_CC economic_JJ drivers_NN2 crucial_JJ to_II understanding_VVG anthropogenic_JJ ecosystem_NN1 disruptions_NN2 and_CC their_APPGE health_NN1 impacts_NN2 (_Y Parkes_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  216 2003 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  216 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  217 Traditional ecological research and interdisciplinary studies by health and social scientists can help account for the interactions and feedbacks between ecological and human behavioral factors ( box 2 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  217 Traditional_JJ ecological_JJ research_NN1 and_CC interdisciplinary_JJ studies_NN2 by_II health_NN1 and_CC social_JJ scientists_NN2 can_VM help_VVI account_NN1_VV0 for_IF the_AT interactions_NN2 and_CC feedbacks_NN2 between_II ecological_JJ and_CC human_JJ behavioral_JJ_NN1 factors_NN2 (_Y box_NN1_VV0@ 2_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  218 Conclusion Along with increasing mobility , demographic change , and anthropogenic disturbance , we appear to be undergoing a distinct change in global disease ecology .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  218 Conclusion_NN1 Along_II21 with_II22 increasing_JJ_VVG mobility_NN1 ,_Y demographic_JJ change_NN1 ,_Y and_CC anthropogenic_JJ disturbance_NN1 ,_Y we_PPIS2 appear_VV0 to_TO be_VBI undergoing_VVG a_AT1 distinct_JJ change_NN1 in_II global_JJ disease_NN1 ecology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  219 Recent studies at the interface of biodiversity and affect health-related outcomes , but policies that are derived from basic research still need to be designed and implemented .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  219 Recent_JJ studies_NN2 at_II the_AT interface_NN1 of_IO biodiversity_NN1 and_CC affect_VV0_NN1 health-related_JJ_NN1 outcomes_NN2 ,_Y but_CCB policies_NN2 that_CST are_VBR derived_VVN from_II basic_JJ research_NN1 still_RR need_VV0 to_TO be_VBI designed_VVN and_CC implemented_VVN_VVD@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  220 Clearly , there is a need for improved health monitoring of human populations in at-risk areas where population growth is high , ecologically disruptive development is under way , and human and wildlife overlap considerably .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  220 Clearly_RR ,_Y there_EX is_VBZ a_AT1 need_NN1 for_IF improved_JJ health_NN1 monitoring_NN1 of_IO human_JJ_NN1 populations_NN2 in_II at-risk_JJ_NN1 areas_NN2 where_RRQ_CS population_NN1 growth_NN1 is_VBZ high_JJ_RR@ ,_Y ecologically_RR disruptive_JJ development_NN1 is_VBZ under_RR21 way_RR22 ,_Y and_CC human_JJ_NN1 and_CC wildlife_NN1 overlap_NN1 considerably_RR ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  221 Jones and colleagues ( 2008 ) noted that global resources to combat the risk of emerging infectious diseases are poorly allocated : The risks of emergence are greatest in lower-latitude developing countries in the tropics , particularly for zoonotic diseases of wildlife origin .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  221 Jones_NP1 and_CC colleagues_NN2 (_Y 2008_MC )_Y noted_VVD_VVN that_CST_DD1 global_JJ resources_NN2 to_TO combat_VVI the_AT risk_NN1 of_IO emerging_VVG_JJ infectious_JJ diseases_NN2 are_VBR poorly_RR allocated_VVN_JJ_VVD@ :_Y The_AT risks_NN2 of_IO emergence_NN1 are_VBR greatest_JJT in_II lower-latitude_JJ_NN1 developing_JJ countries_NN2 in_II the_AT tropics_NN ,_Y particularly_RR for_IF zoonotic_JJ diseases_NN2 of_IO wildlife_NN1 origin_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  222 Effectively addressing emerging diseases requires adequate health infrastructure that recognizes the environmental , epidemiological , and social drivers of disease transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  222 Effectively_RR addressing_VVG emerging_JJ diseases_NN2 requires_VVZ adequate_JJ health_NN1 infrastructure_NN1 that_CST_DD1 recognizes_VVZ the_AT environmental_JJ ,_Y epidemiological_JJ ,_Y and_CC social_JJ drivers_NN2 of_IO disease_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  223 The links between changes in ecosystems , biodiversity , and infectious diseases are complex .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  223 The_AT links_NN2 between_II changes_NN2 in_II ecosystems_NN2 ,_Y biodiversity_NN1 ,_Y and_CC infectious_JJ diseases_NN2 are_VBR complex_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  224 These links may involve other social and global environmental changes , such as climate change , migration , and population growth , which occur over different scales of space and time , so there may be many ways in which these factors interact to affect human disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  224 These_DD2 links_NN2 may_VM involve_VVI other_JJ social_JJ and_CC global_JJ environmental_JJ changes_NN2 ,_Y such_II21 as_II22 climate_NN1 change_NN1_VV0 ,_Y migration_NN1 ,_Y and_CC population_NN1 growth_NN1 ,_Y which_DDQ occur_VV0 over_RP_II different_JJ scales_NN2 of_IO space_NN1 and_CC time_NNT1 ,_Y so_CS@_RR there_EX may_VM be_VBI many_DA2 ways_NN2 in_II which_DDQ these_DD2 factors_NN2 interact_VV0 to_TO affect_VVI human_JJ_NN1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  225 The complexity of disease life cycles evolution and species interactions , need to be better appreciated and understood .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  225 The_AT complexity_NN1 of_IO disease_NN1 life_NN1 cycles_NN2 evolution_NN1 and_CC species_NN interactions_NN2 ,_Y need_VV0 to_TO be_VBI better_RRR appreciated_VVN_VVD and_CC understood_VVN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  226 The case studies described in this article have clear implications for how we make decisions related to pest management of vectors , hosts , and pathogens ; land use and development ; and wildlife conservation .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  226 The_AT case_NN1 studies_NN2 described_VVN_VVD in_II this_DD1 article_NN1 have_VH0 clear_JJ implications_NN2 for_IF how_RRQ we_PPIS2 make_VV0 decisions_NN2 related_VVN_VVD to_II pest_NN1 management_NN1 of_IO vectors_NN2 ,_Y hosts_NN2 ,_Y and_CC pathogens_NN2 ;_Y land_NN1 use_NN1 and_CC development_NN1 ;_Y and_CC wildlife_NN1 conservation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  227 Research programs and approaches to policy evaluation that integrate biodiversity and human health can help unite public health and conservation goals .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  227 Research_NN1_VV0@ programs_NN2 and_CC approaches_VVZ_NN2 to_II policy_NN1 evaluation_NN1 that_CST integrate_VV0 biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 can_VM help_VVI unite_VVI public_JJ_NN1 health_NN1 and_CC conservation_JJ_NN1 goals_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  228 The relationship clearly requires more research , but these studies indicate that biodiversity protection may be as important to people on a local scale in their everyday lives as it is in remote protected ecosystems .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  228 The_AT relationship_NN1 clearly_RR requires_VVZ more_DAR research_NN1 ,_Y but_CCB these_DD2 studies_NN2 indicate_VV0 that_DD1_CST biodiversity_NN1 protection_NN1 may_VM be_VBI as_RG@ important_JJ to_II people_NN on_II a_AT1 local_JJ scale_NN1 in_II their_APPGE everyday_JJ lives_NN2 as_CSA it_PPH1 is_VBZ in_II remote_JJ protected_JJ ecosystems_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  229 Acknowledgments We thank Gary Foley for his technical review and support of the Biodiversity and Human Health research initiative at the US Environmental Protection Agency , which was launched at the 2006 Interdisciplinary Forum and Workshop on Biodiversity and Human Health at the Smithsonian Institution .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  229 Acknowledgments_NN2 We_PPIS2 thank_VV0 Gary_NP1 Foley_NP1 for_IF his_APPGE technical_JJ review_NN1 and_CC support_NN1 of_IO the_AT Biodiversity_NN1_NP1 and_CC Human_JJ_NN1 Health_NN1 research_NN1 initiative_NN1 at_II the_AT US_NP1 Environmental_JJ Protection_NN1 Agency_NN1 ,_Y which_DDQ was_VBDZ launched_VVN at_II the_AT 2006_MC Interdisciplinary_JJ Forum_NN1 and_CC Workshop_NN1 on_II Biodiversity_NP1_NN1 and_CC Human_JJ_NN1 Health_NN1 at_II the_AT Smithsonian_NP1 Institution_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  230 We also thank Peter Jutro for his review and thoughtful comments on the manuscript .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  230 We_PPIS2 also_RR thank_VV0 Peter_NP1 Jutro_NP1_NN1 for_IF his_APPGE review_NN1 and_CC thoughtful_JJ comments_NN2 on_II the_AT manuscript_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  231 Box 1 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  231 Box_VV0@_NN1 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  232 Microbial diversity and human disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  232 Microbial_JJ diversity_NN1 and_CC human_JJ_NN1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  233 Microbial ecology , the study Of the interrelationships between microorganisms and their living and has great potential to inform our understanding of the relationships between biodiversity and health .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  233 Microbial_JJ ecology_NN1 ,_Y the_AT study_NN1 Of_IO the_AT interrelationships_NN2 between_II microorganisms_NN2 and_CC their_APPGE living_NN1_JJ and_CC has_VHZ great_JJ potential_NN1_JJ to_TO inform_VVI our_APPGE understanding_NN1 of_IO the_AT relationships_NN2 between_II biodiversity_NN1 and_CC health_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  234 In humans , certain bacteria are vital to the proper development of the immune system , protection against microorganisms that could cause disease , and the digestion and absorption of food and nutrients .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  234 In_II humans_NN2 ,_Y certain_JJ bacteria_NN2 are_VBR vital_JJ to_II the_AT proper_JJ development_NN1 of_IO the_AT immune_JJ system_NN1 ,_Y protection_NN1 against_II microorganisms_NN2 that_CST_DD1 could_VM cause_VVI disease_NN1 ,_Y and_CC the_AT digestion_NN1 and_CC absorption_NN1 of_IO food_NN1 and_CC nutrients_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  235 The ecological balance of microbes in and on a person 's body can have major impacts on that person 's health and well-being , with the best-known examples being allergic diseases such as asthma , food allergies , and inflammatory bowel disease ( IBD ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  235 The_AT ecological_JJ balance_NN1 of_IO microbes_NN2 in_II_RP@ and_CC on_II a_AT1 person_NN1 's_GE body_NN1 can_VM have_VHI major_JJ impacts_NN2 on_II that_DD1 person_NN1 's_GE health_NN1 and_CC well-being_NN1 ,_Y with_IW the_AT best-known_JJ examples_NN2 being_VBG allergic_JJ diseases_NN2 such_II21 as_II22 asthma_NN1 ,_Y food_NN1 allergies_NN2 ,_Y and_CC inflammatory_JJ bowel_NN1 disease_NN1 (_Y IBD_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  236 These immune disorders appear to result from changes in exposure to microbial populations ( mainly bacteria ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  236 These_DD2 immune_JJ disorders_NN2 appear_VV0 to_TO result_VVI from_II changes_NN2 in_II exposure_NN1 to_II microbial_JJ populations_NN2 (_Y mainly_RR bacteria_NN2 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  237 Natural exposure to microbes through mucosal surfaces may be critical for the development of the immune system and of clinical tolerance to allergens , and microbial diversity may offer a front line of defense against these common diseases ( Strober et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  237 Natural_JJ exposure_NN1 to_II microbes_NN2 through_II mucosal_JJ surfaces_NN2 may_VM be_VBI critical_JJ for_IF the_AT development_NN1 of_IO the_AT immune_JJ system_NN1 and_CC of_IO clinical_JJ tolerance_NN1 to_II allergens_NN2 ,_Y and_CC microbial_JJ diversity_NN1 may_VM offer_VVI a_AT1 front_JJ_NN1 line_NN1 of_IO defense_NN1 against_II these_DD2 common_JJ diseases_NN2 (_Y Strober_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  238 2002 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  238 2002_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  239 Policy implications : Traditional medical paradigms have stressed antibiotics , or pre- and probiotics , as therapeutic strategies for modulating specific constituents of microbial communities .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  239 Policy_NN1 implications_NN2 :_Y Traditional_JJ medical_JJ paradigms_NN2 have_VH0 stressed_VVN antibiotics_NN2 ,_Y or_CC pre-_JJ and_CC probiotics_NN2_NN1 ,_Y as_CSA_RG@ therapeutic_JJ strategies_NN2 for_IF modulating_VVG specific_JJ constituents_NN2 of_IO microbial_JJ communities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  240 The recognition that maintaining a balanced for health presents new opportunities for ecologically informed public health interventions .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  240 The_AT recognition_NN1 that_CST maintaining_VVG a_AT1 balanced_JJ for_IF health_NN1 presents_VVZ new_JJ opportunities_NN2 for_IF ecologically_RR informed_VVN_VVD public_JJ_NN1 health_NN1 interventions_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  241 For example , insufficient exposure to a diverse population of microbes ( especially to gram-negative bacteria ) may result in an immune system imbalance that favors allergic responses , such as asthma .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  241 For_REX21 example_REX22 ,_Y insufficient_JJ exposure_NN1 to_II a_AT1 diverse_JJ population_NN1 of_IO microbes_NN2 (_Y especially_RR to_II gram-negative_JJ bacteria_NN2 )_Y may_VM result_VVI in_II an_AT1 immune_JJ system_NN1 imbalance_NN1 that_CST_DD1 favors_VVZ allergic_JJ responses_NN2 ,_Y such_II21 as_II22 asthma_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  242 Public health recommendations could target at-risk populations in Western cities known to have inadequate exposure to endotoxins .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  242 Public_JJ_NN1 health_NN1 recommendations_NN2 could_VM target_VVI at-risk_JJ_NN1 populations_NN2 in_II Western_JJ_NP1 cities_NN2 known_VVN to_TO have_VHI inadequate_JJ exposure_NN1 to_II endotoxins_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  243 Controlled clinical exposure to certain microbes or microbial factors can stimulate host immune system defenses .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  243 Controlled_VVN_JJ@_VVD clinical_JJ exposure_NN1 to_II certain_JJ microbes_NN2 or_CC microbial_JJ factors_NN2 can_VM stimulate_VVI host_NN1_VV0 immune_JJ system_NN1 defenses_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  244 Probiotics also could help correct microbial ecological imbalances , treating conditions such as food allergies ( Iweala and Nagler 2006 ) , IBD , and vaginal infections ( Zhou et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  244 Probiotics_NN2_NN1_NP1@ also_RR could_VM help_VVI correct_JJ microbial_JJ ecological_JJ imbalances_NN2 ,_Y treating_VVG conditions_NN2 such_II21 as_II22 food_NN1 allergies_NN2 (_Y Iweala_NP1 and_CC Nagler_NP1_NN1 2006_MC )_Y ,_Y IBD_NP1_VV0_NN1 ,_Y and_CC vaginal_JJ infections_NN2 (_Y Zhou_NP1 et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  245 2007 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  245 2007_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  246 Indeed , probiotics are already available commercially as dietary supplements intended to restore the physiological homeostasis of microbial communities .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  246 Indeed_RR ,_Y probiotics_NN2 are_VBR already_RR available_JJ commercially_RR as_CSA_RG@ dietary_JJ supplements_NN2 intended_VVD_VVN to_TO restore_VVI the_AT physiological_JJ homeostasis_NN1 of_IO microbial_JJ communities_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  247 Further research at the interface of microbial ecology and the health sciences can lead to unique insights into the etiology of diseases linked to microbial exposure , and to new strategies for disease prevention and treatment .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  247 Further_JJR_RRR research_NN1 at_II the_AT interface_NN1 of_IO microbial_JJ ecology_NN1 and_CC the_AT health_NN1 sciences_NN2 can_VM lead_VVI to_II unique_JJ insights_NN2 into_II the_AT etiology_NN1 of_IO diseases_NN2 linked_VVN to_II microbial_JJ exposure_NN1 ,_Y and_CC to_II new_JJ strategies_NN2 for_IF disease_NN1 prevention_NN1 and_CC treatment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  248 Box 2 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  248 Box_NN1_VV0@ 2_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  249 Decisionmaking tools The lack of sufficient and reliable information prevents the full and careful consideration of environmentally ( CEA ) and benefit-cost analysis ( BCA ) are two prominent decision-support tools .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  249 Decisionmaking_VVG_JJ@_NP1@ tools_NN2 The_AT lack_NN1 of_IO sufficient_JJ and_CC reliable_JJ information_NN1 prevents_VVZ the_AT full_JJ and_CC careful_JJ consideration_NN1 of_IO environmentally_RR (_Y CEA_NP1 )_Y and_CC benefit-cost_JJ_VV0_NN1 analysis_NN1 (_Y BCA_NP1 )_Y are_VBR two_MC prominent_JJ decision-support_JJ_NN1 tools_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  250 The quantification of effects is necessary for applying either CEA or BCA .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  250 The_AT quantification_NN1 of_IO effects_NN2 is_VBZ necessary_JJ for_IF applying_VVG either_RR CEA_NP1_NN1 or_CC BCA_NP1_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  251 To apply CEA or BCA to a broader range of human health protection measures -- including those based on ecosystem protections or other environmentally based measures suggested by the case studies reviewed above -- additional research should also focus on quantifying the health and ecological effects of alternative management approaches and estimating the values of changes in relevant health and ecological end points .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  251 To_TO apply_VVI CEA_NP1_NN1 or_CC BCA_NN1_NP1 to_II a_AT1 broader_JJR range_NN1 of_IO human_JJ_NN1 health_NN1 protection_NN1 measures_NN2_VVZ@ --_NN1_JJ including_II those_DD2 based_VVN on_II ecosystem_NN1 protections_NN2 or_CC other_JJ_NN1@ environmentally_RR based_VVN measures_NN2 suggested_VVN by_II the_AT case_NN1 studies_NN2 reviewed_VVN_VVD above_II_RL --_ZZ additional_JJ research_NN1 should_VM also_RR focus_VVI on_II_RP@ quantifying_VVG the_AT health_NN1 and_CC ecological_JJ effects_NN2 of_IO alternative_JJ_NN1 management_NN1 approaches_NN2_VVZ and_CC estimating_VVG the_AT values_NN2 of_IO changes_NN2 in_II relevant_JJ health_NN1 and_CC ecological_JJ end_NN1 points_NN2_VVZ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  252 Anticipating the potential effects of an intervention can help avoid unintended consequences if , for instance , an action reduces the incentives to use personal preventative measures or increases incentives for land-use changes that will expose more people to disease-transmitting vectors .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  252 Anticipating_VVG the_AT potential_JJ_NN1 effects_NN2 of_IO an_AT1 intervention_NN1 can_VM help_VVI avoid_VVI unintended_JJ consequences_NN2 if_CS ,_Y for_REX21 instance_REX22 ,_Y an_AT1 action_NN1 reduces_VVZ the_AT incentives_NN2 to_TO use_VVI personal_JJ preventative_JJ measures_NN2 or_CC increases_VVZ_NN2 incentives_NN2 for_IF land-use_NN1 changes_NN2_VVZ@ that_CST_DD1 will_VM expose_VVI more_DAR people_NN to_II disease-transmitting_JJ_NN1 vectors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  253 Valuing changes in ecological and health end points is a necessary input for BCA and can be useful in its own right for setting priorities by improving our understanding of which health and ecological risks people consider to be most important .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  253 Valuing_VVG changes_NN2 in_II ecological_JJ and_CC health_NN1 end_NN1_VV0 points_NN2_VVZ is_VBZ a_AT1 necessary_JJ input_NN1 for_IF BCA_NP1_NN1 and_CC can_VM be_VBI useful_JJ in_II its_Z' own_DA right_NN1 for_IF setting_VVG_NN1 priorities_NN2 by_II improving_VVG our_APPGE understanding_NN1 of_IO which_DDQ health_NN1 and_CC ecological_JJ risks_NN2 people_NN consider_VV0 to_TO be_VBI most_RGT important_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  254 This may require novel applications of economic valuation methods that typically have been used by as improvements in recreation opportunities and air and water quality ( Freeman 2003 ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  254 This_DD1 may_VM require_VVI novel_JJ_NN1 applications_NN2 of_IO economic_JJ valuation_NN1 methods_NN2 that_CST typically_RR have_VH0 been_VBN used_VVN by_II as_II22 improvements_NN2 in_II recreation_NN1 opportunities_NN2 and_CC air_NN1 and_CC water_NN1 quality_NN1 (_Y Freeman_NN1 2003_MC )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  255 Human health scientists and ecologists have a role to play here as well , in helping economists to design environmental valuation studies to properly account for the joint production of ecological and human health benefits .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  255 Human_JJ_NN1 health_NN1 scientists_NN2 and_CC ecologists_NN2 have_VH0 a_AT1 role_NN1 to_TO play_VVI here_RL as_RR21_RG well_RR22_RR ,_Y in_II helping_VVG_NN1 economists_NN2 to_TO design_VVI environmental_JJ valuation_NN1 studies_NN2 to_TO properly_RR account_VVI for_IF the_AT joint_JJ production_NN1 of_IO ecological_JJ and_CC human_JJ_NN1 health_NN1 benefits_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  256 The value of information : Incomplete knowledge , combined with the irreversible nature of some forms of biodiversity loss , such as species extinctions , implies a type of premium for biodiversity protection called quasi-option value .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  256 The_AT value_NN1 of_IO information_NN1 :_Y Incomplete_JJ knowledge_NN1 ,_Y combined_VVN with_IW the_AT irreversible_JJ nature_NN1 of_IO some_DD forms_NN2 of_IO biodiversity_NN1 loss_NN1 ,_Y such_II21 as_II22 species_NN extinctions_NN2 ,_Y implies_VVZ a_AT1 type_NN1 of_IO premium_NN1_JJ for_IF biodiversity_NN1 protection_NN1 called_VVN_VVD@ quasi-option_NN1 value_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  257 This is the value of forestalling an irreversible change with uncertain consequences based on the possibility of learning more in the interim .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  257 This_DD1 is_VBZ the_AT value_NN1 of_IO forestalling_VVG an_AT1 irreversible_JJ change_NN1 with_IW uncertain_JJ consequences_NN2 based_VVN on_II the_AT possibility_NN1 of_IO learning_VVG_NN1 more_RRR_DAR in_II the_AT interim_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  258 The value of new research in biodiversity and human health will depend on its potential for discovering ways to enhance the effectiveness of current public health measures or for discovering new , more cost-effective measures .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  258 The_AT value_NN1 of_IO new_JJ research_NN1 in_II biodiversity_NN1 and_CC human_JJ_NN1 health_NN1 will_VM depend_VVI on_II its_Z' potential_NN1_JJ for_IF discovering_VVG ways_NN2 to_TO enhance_VVI the_AT effectiveness_NN1 of_IO current_JJ public_JJ_NN1 health_NN1 measures_NN2 or_CC for_IF discovering_VVG new_JJ ,_Y more_RGR cost-effective_JJ measures_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  259 Quasi-option value provides a conceptual tool for targeting new research such that a balance is achieved between varying probabilities of success and potential payoffs .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  259 Quasi-option_NN1 value_NN1 provides_VVZ a_AT1 conceptual_JJ tool_NN1 for_IF targeting_VVG new_JJ research_NN1 such_CS21 that_CS22 a_AT1 balance_NN1 is_VBZ achieved_VVN between_II varying_JJ_VVG probabilities_NN2 of_IO success_NN1 and_CC potential_JJ_NN1 payoffs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  260 Table 1 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  260 Table_NN1_VV0% 1_MC1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  261 Mechanisms linking biodiversity change and human health at different levels .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  261 Mechanisms_NN2 linking_VVG biodiversity_NN1 change_NN1 and_CC human_JJ_NN1 health_NN1 at_II different_JJ levels_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  262 pre-formatted table References cited Afrane , Yan G. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  262 pre-formatted_ZZ table_NN1 References_NN2 cited_VVD_VVN Afrane_NN1 ,_Y Yan_NP1 G._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  263 Effects of microclimate changes caused by deforestation on the survivorship and reproductive fitness of Anopheles gambiae in western Kenya highlands .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  263 Effects_NN2 of_IO microclimate_JJ_NN1 changes_NN2 caused_VVN by_II deforestation_NN1 on_II the_AT survivorship_NN1 and_CC reproductive_JJ fitness_NN1 of_IO Anopheles_NP1 gambiae_NN2 in_II western_JJ Kenya_NP1 highlands_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  264 American Journal of Tropical Medicine and Hygiene 74 : 772-778 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  264 American_JJ Journal_NN1 of_IO Tropical_JJ Medicine_NN1 and_CC Hygiene_NN1 74_MC :_Y 772-778_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  265 Allan BF , Keesing F , Ostfeld RS. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  265 Allan_NP1 BF_NP1 ,_Y Keesing_NP1_VVG F_ZZ1_NP1@ ,_Y Ostfeld_NP1_VV0_NN1 RS._ZZ 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  266 Effects of habitat fragmentation on Lyme disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  266 Effects_NN2 of_IO habitat_NN1 fragmentation_NN1 on_II Lyme_NP1_NN1 disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  267 Conservation Biology 17 : 267-272 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  267 Conservation_JJ_NN1 Biology_NN1 17_MC :_Y 267-272_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  268 Allan BF , et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  268 Allan_NP1 BF_NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  269 2009 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  269 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  270 Ecological correlates of risk and incidence of West Nile virus in the United States .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  270 Ecological_JJ correlates_NN2@ of_IO risk_NN1 and_CC incidence_NN1 of_IO West_ND1 Nile_NP1 virus_NN1 in_II the_AT United_NP1 States_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  271 Oecologia 158 : 699-708 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  271 Oecologia_NN1_NP1@ 158_MC :_Y 699-708_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  272 Andreadis TG , Anderson JF , Vossbrinck CR. 2001 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  272 Andreadis_NP1 TG_NP1 ,_Y Anderson_NP1 JF_NP1 ,_Y Vossbrinck_NP1 CR._NP1 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  273 Mosquito surveillance for West Nile virus in Connecticut , 2000 : Isolation from Culex pipiens , Cx. restuans , Cx. salinarius , and Culiseta melanura .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  273 Mosquito_NN1 surveillance_NN1 for_IF West_ND1 Nile_NP1 virus_NN1 in_II Connecticut_NP1 ,_Y 2000_MC :_Y Isolation_NN1 from_II Culex_NP1_NN1 pipiens_NN2 ,_Y Cx._MC restuans_NN2 ,_Y Cx._MC salinarius_NN1 ,_Y and_CC Culiseta_NP1 melanura_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  274 Emerging Infectious Diseases 7 : 670-674 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  274 Emerging_JJ_VVG Infectious_JJ Diseases_NN2 7_MC :_Y 670-674_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  275 Barrett R , Kuzawa CW , McDade T , Armelagos GJ. 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  275 Barrett_NP1 R_ZZ1_NP1@ ,_Y Kuzawa_NP1 CW_NP1 ,_Y McDade_NP1 T_ZZ1_NP1@ ,_Y Armelagos_NP1 GJ._NP1 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  276 Emerging and re-emerging infectious diseases : The third epidemiologic transition .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  276 Emerging_JJ_VVG and_CC re-emerging_JJ_VVG infectious_JJ diseases_NN2 :_Y The_AT third_MD epidemiologic_JJ transition_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  277 Annual Review of Anthropology 27 : 247-271 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  277 Annual_JJ Review_NN1 of_IO Anthropology_NN1 27_MC :_Y 247-271_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  278 Bence JR .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  278 Bence_NP1 JR_NNA ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  279 1982 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  279 1982_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  280 Some interactions of predaceous insects and mosquitofish Gambusia affinis : A review of some recent results .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  280 Some_DD interactions_NN2 of_IO predaceous_JJ insects_NN2 and_CC mosquitofish_NN1 Gambusia_NP1_NN1@ affinis_NN1 :_Y A_AT1@_ZZ1 review_NN1 of_IO some_DD recent_JJ results_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  281 Bulletin of the Society Dykhuizen DE .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  281 Bulletin_NN1 of_IO the_AT Society_NN1 Dykhuizen_NP1 DE_NP1_FW ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  282 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  282 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  283 A modest model explains the distribution and abundance of Borrelia burgdorferi strains .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  283 A_AT1_ZZ1 modest_JJ model_NN1 explains_VVZ the_AT distribution_NN1 and_CC abundance_NN1 of_IO Borrelia_NP1_NN1@ burgdorferi_NN2 strains_VVZ_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  284 American Journal of Tropical Medicine and Hygiene 74 : 615-622 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  284 American_JJ Journal_NN1 of_IO Tropical_JJ Medicine_NN1 and_CC Hygiene_NN1 74_MC :_Y 615-622_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  285 Brownstein JS , Skelly DK , Holford TR , Fish D. 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  285 Brownstein_NP1@_NN1 JS_NP2 ,_Y Skelly_NP1 DK_NP1 ,_Y Holford_NP1 TR_JJ ,_Y Fish_NP1@_NN D._NP1 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  286 Forest fragmentation predicts local scale heterogeneity of Lyme disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  286 Forest_NN1 fragmentation_NN1 predicts_VVZ local_JJ scale_NN1 heterogeneity_NN1 of_IO Lyme_NP1_NN1 disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  287 Oecologia 146 : 469-475 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  287 Oecologia_NN1_NP1@ 146_MC :_Y 469-475_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  288 Brunner JL , Ostfeld RS. 2008 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  288 Brunner_NP1 JL_NP1 ,_Y Ostfeld_NP1_VV0_NN1 RS._ZZ 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  289 Multiple causes of variable tick burdens on small-mammal hosts .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  289 Multiple_JJ_NN1 causes_NN2 of_IO variable_JJ_NN1 tick_NN1 burdens_NN2 on_II small-mammal_JJ_NN1 hosts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  290 Ecology 89 : 2259-2272 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  290 Ecology_NN1 89_MC :_Y 2259-2272_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  291 CDC Centers for Disease Control and Prevention .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  291 CDC_NP1 Centers_NN2 for_IF Disease_NN1 Control_NN1 and_CC Prevention_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  292 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  292 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  293 Two Cases of Hantavirus Pulmonary Syndrome -- Randolph County , West Virginia , July 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  293 Two_MC Cases_NN2 of_IO Hantavirus_NP1_NN1 Pulmonary_JJ Syndrome_NN1 --_NN1_JJ Randolph_NP1 County_NN1 ,_Y West_NP1 Virginia_NP1 ,_Y July_NPM1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  294 Morbidity and Mortality Weekly Report 53 : 1086-1089 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  294 Morbidity_NN1 and_CC Mortality_NN1 Weekly_JJ_NN1@ Report_NN1 53_MC :_Y 1086-1089_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  295 Chapman CA , Gillespie TR , Goldberg TL. 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  295 Chapman_NP1 CA_NP1@_VM ,_Y Gillespie_NP1 TR_JJ ,_Y Goldberg_NP1 TL._NP1 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  296 Primates and the ecology of their infectious diseases : How will anthropogenic change affect host-parasite interactions ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  296 Primates_NN2 and_CC the_AT ecology_NN1 of_IO their_APPGE infectious_JJ diseases_NN2 :_Y How_RRQ will_VM anthropogenic_JJ change_NN1 affect_VV0_NN1 host-parasite_JJ_NN1 interactions_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  297 Evolutionary Anthropology 14:134-144. de Vries S , Verheij RA , Groenewegen PP , Spreeuwenberg P. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  297 Evolutionary_JJ Anthropology_NN1 14:134-144._MCMC de_NP1_FW Vries_NP1 S_ZZ1_NP1@ ,_Y Verheij_NP1 RA_NNA ,_Y Groenewegen_NP1_NN1 PP_NN1 ,_Y Spreeuwenberg_NP1 P._NP1 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  298 Natural environments -- healthy environments ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  298 Natural_JJ environments_NN2 --_ZZ healthy_JJ environments_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  299 An exploratory analysis of the relationship between greenspace and health .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  299 An_AT1 exploratory_JJ analysis_NN1 of_IO the_AT relationship_NN1 between_II greenspace_NN1 and_CC health_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  300 Environment and Planning A 35 : 1717-1731 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  300 Environment_NN1 and_CC Planning_VVG_NN1 A_ZZ1 35_MC :_Y 1717-1731_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  301 Evers BN , Madsen H , McKaye intermediate host , Bulinus nyassanus , is a ' preferred ' food for the cichlid fish , Trematocranus placodon , at Cape Maclear , Lake Malawi .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  301 Evers_NP1@ BN_NP1 ,_Y Madsen_NP1 H_ZZ1_NP1@ ,_Y McKaye_NP1 intermediate_JJ host_NN1 ,_Y Bulinus_NP1_NN1 nyassanus_NN1 ,_Y is_VBZ a_AT1 '_GE preferred_JJ '_GE food_NN1 for_IF the_AT cichlid_NN1 fish_NN ,_Y Trematocranus_NP1_NN1 placodon_NN1 ,_Y at_II Cape_NP1 Maclear_NP1 ,_Y Lake_NNL1 Malawi_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  302 Annual Review of Tropical Medicine and Parasitology 100 : 75-85 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  302 Annual_JJ Review_NN1 of_IO Tropical_JJ Medicine_NN1 and_CC Parasitology_NP1_NN1 100_MC :_Y 75-85_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  303 Ewald PW .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  303 Ewald_VV0_NP1@ PW_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  304 1994 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  304 1994_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  305 Evolution of Infectious Disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  305 Evolution_NN1 of_IO Infectious_JJ Disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  306 Oxford University Press .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  306 Oxford_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  307 Ezenwa VO , Godsey MS , King RJ , Guptill SC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  307 Ezenwa_NP1@_NN1 VO_NP1_NN1 ,_Y Godsey_NP1 MS_NN1 ,_Y King_NP1@ RJ_NP1 ,_Y Guptill_NP1 SC_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  308 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  308 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  309 Avian diversity and West Nile virus : Testing associations between biodiversity and infectious disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  309 Avian_JJ diversity_NN1 and_CC West_ND1 Nile_NP1 virus_NN1 :_Y Testing_VVG_NP1_JJ@_NN1 associations_NN2 between_II biodiversity_NN1 and_CC infectious_JJ disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  310 Proceedings of the Royal Society B 273:109-117 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  310 Proceedings_NN2 of_IO the_AT Royal_JJ Society_NN1 B_ZZ1 273:109-117_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  311 Ezenwa VO , Milheim LE , Coffey MF , Godsey MS , King RJ , Guptill SC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  311 Ezenwa_NP1@_NN1 VO_NP1_NN1 ,_Y Milheim_NP1 LE_NP1_FW ,_Y Coffey_NP1 MF_NP1 ,_Y Godsey_NP1 MS_NN1 ,_Y King_NP1@ RJ_NP1 ,_Y Guptill_NP1 SC_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  312 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  312 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  313 Land cover variation and West Nile virus prevalence : Patterns , processes , and implications for disease control .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  313 Land_NN1_NP1@_VV0@ cover_NN1_VV0 variation_NN1 and_CC West_ND1 Nile_NP1 virus_NN1 prevalence_NN1 :_Y Patterns_NN2 ,_Y processes_NN2 ,_Y and_CC implications_NN2 for_IF disease_NN1 control_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  314 Vector-Borne and Zoonotic Diseases 7 : 173-180 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  314 Vector-Borne_NN1_JJ and_CC Zoonotic_JJ_NN1 Diseases_NN2 7_MC :_Y 173-180_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  315 Foley JA , et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  315 Foley_NP1 JA_NP1_FW ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  316 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  316 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  317 Global consequences of land use .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  317 Global_JJ consequences_NN2 of_IO land_NN1 use_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  318 Science 300 : 570-574 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  318 Science_NN1 300_MC :_Y 570-574_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  319 Freeman AM III .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  319 Freeman_NN1 AM_VBM_RA@ III_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  320 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  320 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  321 The Measurement of Environmental and Resource Values : Theory and Methods .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  321 The_AT Measurement_NN1 of_IO Environmental_JJ and_CC Resource_VV0_NN1 Values_NN2_VVZ@ :_Y Theory_NN1 and_CC Methods_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  322 2nd ed .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  322 2nd_MD ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  323 Resources for the Future .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  323 Resources_NN2 for_IF the_AT Future_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  324 Fuller RA , Irvine KN , Devine-Wright P , greenspace increase with biodiversity .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  324 Fuller_NP1 RA_NNA ,_Y Irvine_NP1 KN_NP1 ,_Y Devine-Wright_NP1 P_ZZ1_NP1@ ,_Y greenspace_NN1 increase_NN1_VV0 with_IW biodiversity_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  325 Biology Letters 3 : 390-394 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  325 Biology_NN1 Letters_NN2 3_MC :_Y 390-394_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  326 Gilles HM. 1999 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  326 Gilles_NP1 HM._ZZ 1999_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  327 Epidemiology .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  327 Epidemiology_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  328 Oxford University Press .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  328 Oxford_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  329 Gilles HM , Warrell DA .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  329 Gilles_NP1 HM_NP1 ,_Y Warrell_NP1 DA_NN1_FU ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  330 1993 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  330 1993_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  331 Bruce-Chwatt 's Essential Malariology .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  331 Bruce-Chwatt_NP1 's_GE Essential_JJ Malariology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  332 Oxford University Press .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  332 Oxford_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  333 Goldberg TL , Gillespie TR , Rwego IB , Wheeler E , Estoff EL , Chapman CA. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  333 Goldberg_NP1 TL_NP1 ,_Y Gillespie_NP1 TR_JJ ,_Y Rwego_NP1 IB_NP1_NN1 ,_Y Wheeler_NP1 E_ZZ1_NP1@ ,_Y Estoff_NP1 EL_NP1 ,_Y Chapman_NP1 CA._NP1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  334 Patterns of gastrointestinal bacterial exchange between chimpanzees and humans involved in research and tourism in western Uganda .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  334 Patterns_NN2 of_IO gastrointestinal_JJ bacterial_JJ exchange_NN1 between_II chimpanzees_NN2 and_CC humans_NN2 involved_JJ in_II research_NN1 and_CC tourism_NN1 in_II western_JJ Uganda_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  335 Biological Conservation 135:511-517 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  335 Biological_JJ Conservation_NN1 135:511-517_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  336 Goldberg TL , Gillespie TR , Rwego IB. 2008a .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  336 Goldberg_NP1 TL_NP1 ,_Y Gillespie_NP1 TR_JJ ,_Y Rwego_NP1 IB._NP1 2008a_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  337 Health and disease in the people , primates , and domestic animals of Kibale National Park : Implications for conservation .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  337 Health_NN1 and_CC disease_NN1 in_II the_AT people_NN ,_Y primates_NN2 ,_Y and_CC domestic_JJ animals_NN2 of_IO Kibale_NP1 National_JJ Park_NN1 :_Y Implications_NN2 for_IF conservation_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  338 Pages 75-87 in Wrangham R , Ross E , eds .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  338 Pages_NN2 75-87_MCMC in_II Wrangham_NP1 R_ZZ1_NP1@ ,_Y Ross_NP1 E_ZZ1_NP1@ ,_Y eds_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  339 Science and Conservation in African Forests : The Benefits of Long-term Research .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  339 Science_NN1 and_CC Conservation_NN1_JJ in_II African_JJ Forests_NN2 :_Y The_AT Benefits_NN2 of_IO Long-term_JJ Research_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  340 Cambridge University Press .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  340 Cambridge_NP1 University_NN1 Press_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  341 Goldberg TL , Gillespie TR , Rwego IB , Estoff EE , Chapman CA. 2008b .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  341 Goldberg_NP1 TL_NP1 ,_Y Gillespie_NP1 TR_JJ ,_Y Rwego_NP1 IB_NP1_NN1 ,_Y Estoff_VV0_NN1 EE_UH ,_Y Chapman_NP1 CA._NP1 2008b_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  342 Forest fragmentation as cause of bacterial transmission among primates , humans , and livestock , Uganda .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  342 Forest_NN1 fragmentation_NN1 as_CSA_II@ cause_NN1 of_IO bacterial_JJ transmission_NN1 among_II primates_NN2 ,_Y humans_NN2 ,_Y and_CC livestock_NN ,_Y Uganda_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  343 Emerging Infectious Diseases 14 : 1375-1382 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  343 Emerging_JJ_VVG Infectious_JJ Diseases_NN2 14_MC :_Y 1375-1382_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  344 Hayes EB , Sejvar JJ , Zaki SR , Lanciotti RS , Bode and clinical manifestations of West Nile virus disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  344 Hayes_NP1 EB_NP1 ,_Y Sejvar_NP1 JJ_NP1 ,_Y Zaki_NP1 SR_NNA ,_Y Lanciotti_JJ_NP1 RS_NN1 ,_Y Bode_NP1 and_CC clinical_JJ manifestations_NN2 of_IO West_ND1 Nile_NP1 virus_NN1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  345 Emerging Infectious Diseases 11 : 1174-1179 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  345 Emerging_JJ_VVG Infectious_JJ Diseases_NN2 11_MC :_Y 1174-1179_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  346 Hudson PJ , Dobson AP , Lafferty KD. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  346 Hudson_NP1 PJ_NP1 ,_Y Dobson_NP1 AP_NP1 ,_Y Lafferty_NP1 KD._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  347 Is a healthy ecosystem one that is rich in parasites ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  347 Is_VBZ a_AT1 healthy_JJ ecosystem_NN1_VV0 one_PN1 that_CST_DD1 is_VBZ rich_JJ in_II parasites_NN2 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  348 Trends in Ecology and Evolution 21 : 381-385 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  348 Trends_NN2 in_II Ecology_NN1 and_CC Evolution_NN1 21_MC :_Y 381-385_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  349 Iweala , OI , Nagler CR. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  349 Iweala_NN1_NP1@ ,_Y OI_UH ,_Y Nagler_NP1 CR._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  350 Immune privilege in the gut : The establishment and maintenance of non-responsiveness to dietary antigens and commensal flora .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  350 Immune_JJ privilege_NN1 in_II the_AT gut_NN1 :_Y The_AT establishment_NN1 and_CC maintenance_NN1 of_IO non-responsiveness_NN1_JJ to_II dietary_JJ antigens_NN2 and_CC commensal_NN1_JJ@ flora_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  351 Immunological Reviews 213:82-100 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  351 Immunological_JJ Reviews_NN2 213:82-100_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  352 Jones CG , Ostfeld RS , Schauber EM , Richard M , Wolff JO .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  352 Jones_NP1 CG_NP1 ,_Y Ostfeld_NP1_VV0_NN1 RS_NN1 ,_Y Schauber_NP1 EM_FU ,_Y Richard_NP1 M_ZZ1_NN1 ,_Y Wolff_NP1 JO_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  353 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  353 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  354 Chain reactions linking acorns to gypsy moth outbreaks and Lyme-disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  354 Chain_NN1_VV0@ reactions_NN2 linking_VVG acorns_NN2 to_II gypsy_NN1 moth_NN1 outbreaks_NN2 and_CC Lyme-disease_JJ_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  355 Science 279 : 1023-1026 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  355 Science_NN1 279_MC :_Y 1023-1026_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  356 Jones KE , Patel NG , Levy MA , Storeygard A , Balk D , Gittleman JL , Daszak P. 2008 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  356 Jones_NP1 KE_NP1 ,_Y Patel_NP1 NG_NP1 ,_Y Levy_NP1 MA_NNA ,_Y Storeygard_NP1 A_ZZ1 ,_Y Balk_NP1_VV0 D_ZZ1_NP1@ ,_Y Gittleman_NP1 JL_NP1 ,_Y Daszak_NP1 P._NP1 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  357 Global trends in emerging infectious diseases .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  357 Global_JJ trends_NN2 in_II emerging_VVG_JJ infectious_JJ diseases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  358 Nature 451 : 990-994 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  358 Nature_NN1 451_MC :_Y 990-994_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  359 Keesing F , Holt RD , Ostfeld RS. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  359 Keesing_VVG_NP1@ F_ZZ1_NP1@ ,_Y Holt_NP1 RD_NNL1 ,_Y Ostfeld_NP1_VV0_NN1 RS._ZZ 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  360 Effects of species diversity on disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  360 Effects_NN2 of_IO species_NN diversity_NN1 on_II disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  361 Ecology Letters 9 : 485-498 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  361 Ecology_NN1 Letters_NN2 9_MC :_Y 485-498_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  362 Kilpatrick MA , Daszak P , Jones MJ , Marra PP , Kramer LD. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  362 Kilpatrick_NP1 MA_NNA ,_Y Daszak_NP1 P_ZZ1_NP1@ ,_Y Jones_NP1 MJ_NP1 ,_Y Marra_NP1 PP_NN1 ,_Y Kramer_NP1 LD._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  363 Host heterogeneity dominates West Nile virus 2327-2333 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  363 Host_VV0_NN1 heterogeneity_NN1 dominates_VVZ West_ND1 Nile_NP1 virus_NN1 2327-2333_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  364 Komar N , Langevin S , Hinten S , Nemeth N , Edwards E , Hettler D , Davis B , Bowen R , Bunning M. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  364 Komar_NP1 N_ZZ1_NP1@ ,_Y Langevin_NP1 S_ZZ1_NP1@ ,_Y Hinten_NP1_VV0 S_ZZ1_NP1@ ,_Y Nemeth_NP1 N_ZZ1_NP1@ ,_Y Edwards_NP1 E_ZZ1_NP1@ ,_Y Hettler_NP1 D_ZZ1_NP1@ ,_Y Davis_NP1 B_ZZ1_NP1@ ,_Y Bowen_NP1 R_ZZ1_NP1@ ,_Y Bunning_VVG_NP1 M._NN1 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  365 Experimental infection of North American birds with the New York 1999 strain of West Nile virus .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  365 Experimental_JJ infection_NN1 of_IO North_NP1 American_JJ birds_NN2 with_IW the_AT New_NP1 York_NP1 1999_MC strain_NN1 of_IO West_ND1 Nile_NP1 virus_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  366 Emerging Infectious Diseases 9:311-322 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  366 Emerging_JJ_VVG Infectious_JJ Diseases_NN2 9:311-322_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  367 LaDeau SL , Kilpatrick AM , Marra PP. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  367 LaDeau_NP1@ SL_NP1 ,_Y Kilpatrick_NP1 AM_RA@ ,_Y Marra_NP1 PP._NNU2 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  368 West Nile virus emergence and large-scale declines of North American bird populations .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  368 West_ND1 Nile_NP1 virus_NN1 emergence_NN1 and_CC large-scale_JJ declines_VVZ of_IO North_NP1 American_JJ bird_NN1 populations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  369 Nature 447 : 710-714 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  369 Nature_NN1 447_MC :_Y 710-714_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  370 LoGiudice K , Ostfeld RS , Schmidt KA , Keesing F. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  370 LoGiudice_VV0 K_ZZ1 ,_Y Ostfeld_NP1_VV0_NN1 RS_NN1 ,_Y Schmidt_NP1 KA_NN1 ,_Y Keesing_NP1_VVG F._NP1 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  371 The ecology of infectious disease : Effects of host diversity and community composition on Lyme disease risk .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  371 The_AT ecology_NN1 of_IO infectious_JJ disease_NN1 :_Y Effects_NN2 of_IO host_NN1 diversity_NN1 and_CC community_NN1 composition_NN1 on_II Lyme_NP1_NN1 disease_NN1 risk_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  372 Proceedings of the National Academy of Sciences 100 : 567-571 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  372 Proceedings_NN2 of_IO the_AT National_JJ Academy_NN1 of_IO Sciences_NN2 100_MC :_Y 567-571_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  373 Loss SR , Hamer GL , Walker ED , Ruiz MO , Goldberg TL , Kitron UD , Brawn JD. 2009 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  373 Loss_NP1 SR_NNA ,_Y Hamer_NP1 GL_NP1 ,_Y Walker_NP1 ED_NP1 ,_Y Ruiz_NP1 MO_NP1 ,_Y Goldberg_NP1 TL_NP1 ,_Y Kitron_NP1 UD_NP1_NN1 ,_Y Brawn_NP1 JD._ZZ 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  374 Avian host community structure and prevalence of West Nile virus in Chicago , Illinois .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  374 Avian_JJ host_NN1 community_NN1 structure_NN1 and_CC prevalence_NN1 of_IO West_ND1 Nile_NP1 virus_NN1 in_II Chicago_NP1 ,_Y Illinois_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  375 Oecologia 159 : 415-424 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  375 Oecologia_NN1_NP1@ 159_MC :_Y 415-424_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  376 Lounibos LP. 2002 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  376 Lounibos_NP1@_NN2 LP._NN1 2002_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  377 Invasions by insect vectors of human disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  377 Invasions_NN2 by_II insect_NN1 vectors_NN2 of_IO human_JJ_NN1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  378 Annual Review of Entomology 47 : 233-266 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  378 Annual_JJ Review_NN1 of_IO Entomology_NN1 47_MC :_Y 233-266_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  379 McMichael AJ. 2001 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  379 McMichael_NP1 AJ._NP1 2001_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  380 Human culture , history 's fourth great transition ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  380 Human_JJ_NN1 culture_NN1 ,_Y history_NN1 's_GE fourth_MD great_JJ transition_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  381 Ecosystem Health 7:107-115 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  381 Ecosystem_VV0_NN1 Health_NN1 7:107-115_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  382 Marra PP , Griffing S , Caffrey C , Kilpatrick AM , McLean R , Brand C , Saito E , Dupuis AP , Kramer l , Novak R. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  382 Marra_NN1_NP1@ PP_NN1 ,_Y Griffing_NP1_VVG S_ZZ1_NP1@ ,_Y Caffrey_NP1 C_NP1_ZZ1 ,_Y Kilpatrick_NP1 AM_RA@ ,_Y McLean_NP1 R_ZZ1_NP1@ ,_Y Brand_NP1 C_NP1_ZZ1 ,_Y Saito_NP1 E_ZZ1_NP1@ ,_Y Dupuis_NP1 AP_NP1 ,_Y Kramer_NP1 l_ZZ1 ,_Y Novak_NP R._NP1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  383 West Nile virus and wildlife .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  383 West_ND1 Nile_NP1 virus_NN1 and_CC wildlife_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  384 BioScience 54 : 393-402 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  384 BioScience_NN1_NP1@ 54_MC :_Y 393-402_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  385 Mills J. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  385 Mills_NP1 J._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  386 Biodiversity loss and emerging infectious disease : An example from the rodent-borne hemorrhagic fevers .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  386 Biodiversity_NN1_NP1@ loss_NN1 and_CC emerging_JJ_VVG infectious_JJ disease_NN1 :_Y An_AT1 example_NN1 from_II the_AT rodent-borne_JJ_NN1 hemorrhagic_JJ fevers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  387 Biodiversity 7 : 9-17 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  387 Biodiversity_NN1_NP1@ 7_MC :_Y 9-17_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  388 Molyneux DH .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  388 Molyneux_VV0_NP1@ DH_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  389 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  389 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  390 Vector-borne parasitic diseases -- an overview of recent changes .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  390 Vector-borne_JJ parasitic_JJ diseases_NN2 --_NN1_JJ an_AT1 overview_NN1 of_IO recent_JJ changes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  391 International Journal for Parasitology 28 : 927-934 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  391 International_JJ Journal_NN1 for_IF Parasitology_NP1_NN1 28_MC :_Y 927-934_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  392 Nupp TE , Swihart RK. 1998 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  392 Nupp_VV0_NP1@ TE_FW ,_Y Swihart_NP1 RK._NP1 1998_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  393 Effects of forest fragmentation on population attributes of white-footed mice and eastern chipmunks .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  393 Effects_NN2 of_IO forest_NN1 fragmentation_NN1 on_II population_NN1 attributes_NN2_VVZ of_IO white-footed_JJ mice_NN2 and_CC eastern_JJ chipmunks_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  394 Journal of Mammalogy 79 : 1234-1243 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  394 Journal_NN1 of_IO Mammalogy_NP1_NN1 79_MC :_Y 1234-1243_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  395 Onderdonk DA , Chapman CA. 2000 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  395 Onderdonk_VV0 DA_FU_NN1 ,_Y Chapman_NP1 CA._NP1 2000_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  396 Coping with forest fragmentation : The primates of Kibale National Park , Uganda .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  396 Coping_VVG with_IW forest_NN1 fragmentation_NN1 :_Y The_AT primates_NN2 of_IO Kibale_NP1 National_JJ Park_NN1 ,_Y Uganda_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  397 International Journal of Primatology 21 : 587-611 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  397 International_JJ Journal_NN1 of_IO Primatology_NP1_NN1 21_MC :_Y 587-611_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  398 Ostfeld RS , Holt RD. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  398 Ostfeld_VV0_NN1 RS_NN1 ,_Y Holt_NP1 RD._NNL1 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  399 Are predators good for your health ?
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  399 Are_VBR predators_NN2 good_JJ for_IF your_APPGE health_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  400 Evaluating evidence for top-down regulation of zoonotic disease reservoirs .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  400 Evaluating_VVG evidence_NN1 for_IF top-down_JJ regulation_NN1 of_IO zoonotic_JJ disease_NN1 reservoirs_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  401 Frontiers in Ecology and the Environment 2 : 13-20 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  401 Frontiers_NN2 in_II Ecology_NN1 and_CC the_AT Environment_NN1 2_MC :_Y 13-20_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  402 Ostfeld loss , and the erosion of an ecosystem service .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  402 Ostfeld_VV0_NN1 loss_NN1 ,_Y and_CC the_AT erosion_NN1 of_IO an_AT1 ecosystem_NN1 service_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  403 Ecology 84:1421-1427 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  403 Ecology_NN1 84:1421-1427_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  404 Packer C , Holt RD Hudson PJ Lafferty KD , Dobson AP .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  404 Packer_NP1@_NN1 C_NP1_ZZ1 ,_Y Holt_NP1 RD_NNL1 Hudson_NP1 PJ_NP1 Lafferty_NP1 KD_NP1 ,_Y Dobson_NP1 AP_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  405 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  405 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  406 Keeping the herds healthy and alert : Implications of predator control for infectious disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  406 Keeping_VVG the_AT herds_NN2 healthy_JJ and_CC alert_VV0_JJ :_Y Implications_NN2 of_IO predator_NN1 control_NN1_VV0 for_IF infectious_JJ disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  407 Ecology Letters 6 : 797-802 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  407 Ecology_NN1 Letters_NN2 6_MC :_Y 797-802_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  408 Parkes M , Panelli R , Weinstein P. 2003 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  408 Parkes_NP1 M_ZZ1_NN1 ,_Y Panelli_NP1_JJ R_ZZ1_NP1@ ,_Y Weinstein_NP1 P._NP1 2003_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  409 Converging paradigms for environmental health theory and practice .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  409 Converging_JJ_VVG paradigms_NN2 for_IF environmental_JJ health_NN1 theory_NN1 and_CC practice_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  410 Environmental Health Perspectives 111 : 669-675 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  410 Environmental_JJ Health_NN1 Perspectives_NN2 111_MC :_Y 669-675_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  411 Pattanayak SK , Yasuoka J. 2008 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  411 Pattanayak_VV0_NP1@ SK_NP1 ,_Y Yasuoka_NP1 J._NP1 2008_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  412 Deforestation and malaria : Revisiting the human ecology perspective .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  412 Deforestation_NN1_NP1@ and_CC malaria_NN1 :_Y Revisiting_VVG the_AT human_JJ_NN1 ecology_NN1 perspective_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  413 Pages 197-217 in Pierce Colfer CJ , ed .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  413 Pages_NN2 197-217_MCMC in_II Pierce_NP1 Colfer_NP1 CJ_NP1 ,_Y ed_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  414 Forests , People , and Health : A Global Interdisciplinary Overview .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  414 Forests_NN2 ,_Y People_NN ,_Y and_CC Health_NN1 :_Y A_ZZ1_AT1@ Global_JJ Interdisciplinary_JJ Overview_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  415 Earthscan .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  415 Earthscan_NN1_NP1@ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  416 Pattanayak SK , Ross MT , Depro BM , Bauch SC , Timmins C , Jones K , Alger K. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  416 Pattanayak_VV0_NP1@ SK_NP1 ,_Y Ross_NP1 MT_NNL1 ,_Y Depro_NP1 BM_NP1 ,_Y Bauch_NP1_VV0 SC_FO ,_Y Timmins_NP1 C_NP1_ZZ1 ,_Y Jones_NP1 K_ZZ1_NP1@ ,_Y Alger_NP1 K._NP1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  417 Climate change , contagions , and conservation : Using econometric analysis in computable general equilibrium modeling .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  417 Climate_NN1 change_NN1_VV0 ,_Y contagions_NN2 ,_Y and_CC conservation_NN1_JJ :_Y Using_VVG econometric_JJ analysis_NN1 in_II computable_JJ general_JJ_NN1 equilibrium_NN1 modeling_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  418 Working Paper .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  418 Working_NN1 Paper_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  419 RTI .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  419 RTI_NP1_NN2_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  420 Peixoto I , Abramson G. 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  420 Peixoto_NN1_NP1@ I_ZZ1%_PPIS1_MC1% ,_Y Abramson_NP1 G._NP1 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  421 The effect of biodiversity on the hantavirus epizootic .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  421 The_AT effect_NN1 of_IO biodiversity_NN1 on_II the_AT hantavirus_NN1 epizootic_NN1@_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  422 Ecology 87 : 873-879 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  422 Ecology_NN1 87_MC :_Y 873-879_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  423 Pimm SL , Russell GJ , Gittleman JL , Brooks TM. 347-350 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  423 Pimm_UH_NP1@ SL_NP1 ,_Y Russell_NP1 GJ_NP1 ,_Y Gittleman_NP1 JL_NP1 ,_Y Brooks_NP1 TM._NP1 347-350_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  424 Reisen WK , Fang Y , Martinez VM. 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  424 Reisen_NP1@ WK_NP1 ,_Y Fang_NN1 Y_ZZ1 ,_Y Martinez_NP1 VM._NP1 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  425 Avian host and mosquito ( Diptera : Culicidae ) vector competence determine the efficiency of West Nile and St. Louis encephalitis virus transmission .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  425 Avian_JJ host_NN1 and_CC mosquito_NN1 (_Y Diptera_NP1 :_Y Culicidae_NP1 )_Y vector_NN1 competence_NN1 determine_VV0 the_AT efficiency_NN1 of_IO West_ND1 Nile_NP1 and_CC St._NP1 Louis_NP1 encephalitis_NN1 virus_NN1 transmission_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  426 Journal of Medical Entomology 42 : 367-375 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  426 Journal_NN1 of_IO Medical_JJ Entomology_NN1 42_MC :_Y 367-375_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  427 Ruedas LA , et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  427 Ruedas_NP1@ LA_NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  428 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  428 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  429 Community ecology of small mammal populations in Panama following an outbreak of hantavirus pulmonary syndrome .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  429 Community_NN1 ecology_NN1 of_IO small_JJ mammal_NN1 populations_NN2 in_II Panama_NP1 following_VVG_II@ an_AT1 outbreak_NN1 of_IO hantavirus_NN1 pulmonary_JJ syndrome_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  430 Journal of Vector Ecology 29 : 177-191 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  430 Journal_NN1 of_IO Vector_NN1 Ecology_NN1 29_MC :_Y 177-191_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  431 Russell BM , Muir LD , Weinstein P , Kay BH. 1996 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  431 Russell_NP1 BM_NP1 ,_Y Muir_NP1 LD_NP1 ,_Y Weinstein_NP1 P_ZZ1_NP1@ ,_Y Kay_NP1 BH._ZZ 1996_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  432 Surveillance of the mosquito Aedes aegypti and its biocontrol with the copepod Mesocyclops aspericornis in Australian wells and gold mines .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  432 Surveillance_NN1 of_IO the_AT mosquito_NN1 Aedes_VVZ@_NP2 aegypti_NN2 and_CC its_Z' biocontrol_NN1 with_IW the_AT copepod_NN1 Mesocyclops_VVZ_NN2_NP1 aspericornis_NN1 in_II Australian_JJ wells_NN2 and_CC gold_NN1_JJ@ mines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  433 Medical and Veterinary Entomology 10 : 155-160 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  433 Medical_JJ and_CC Veterinary_JJ_NP1_NN1 Entomology_NN1 10_MC :_Y 155-160_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  434 Slootweg R , Malek EA , McCullough FS. 1994 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  434 Slootweg_VV0 R_ZZ1 ,_Y Malek_NP1 EA_NP1 ,_Y McCullough_NP1 FS._NP2 1994_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  435 The biological control of snail intermediate hosts of schistosomiasis by fish .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  435 The_AT biological_JJ control_NN1 of_IO snail_NN1 intermediate_JJ hosts_NN2 of_IO schistosomiasis_NN1 by_II fish_NN ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  436 Reviews in Fish Biology and Fisheries 4 : 67-90 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  436 Reviews_NN2_VVZ in_II Fish_NN_NP1@ Biology_NN1 and_CC Fisheries_NN2 4_MC :_Y 67-90_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  437 Stauffer JR Jr. , et al .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  437 Stauffer_NP1 JR_NNA Jr._NP1 ,_Y et_RA21 al_RA22 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  438 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  438 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  439 Schistosomiasis in Lake Malawi : Relationship of fish and intermediate host density to prevalence of human infection .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  439 Schistosomiasis_NN1_NP1@ in_II Lake_NNL1 Malawi_NP1 :_Y Relationship_NN1 of_IO fish_NN and_CC intermediate_JJ host_NN1 density_NN1 to_II prevalence_NN1 of_IO human_JJ_NN1 infection_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  440 EcoHealth 3 : 22-27 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  440 EcoHealth_NN1_NP1@ 3_MC :_Y 22-27_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  441 Strober W , Fuss IJ , Blumberg RS. 2002 Review of Immunology 20 : 495-549 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  441 Strober_NN1_NP1@ W_ZZ1_NP1@ ,_Y Fuss_VV0_NN1 IJ_NP1 ,_Y Blumberg_NP1 RS._ZZ 2002_MC Review_NN1 of_IO Immunology_NP1_NN1 20_MC :_Y 495-549_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  442 Sutherst RW. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  442 Sutherst_VV0_NP1@ RW._ZZ 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  443 Global change and human vulnerability to vector-borne diseases .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  443 Global_JJ change_NN1 and_CC human_JJ_NN1 vulnerability_NN1 to_II vector-borne_JJ_NN1 diseases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  444 Clinical Microbiology Reviews 17 : 136-173 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  444 Clinical_JJ Microbiology_NN1_NP1 Reviews_VVZ_NN2 17_MC :_Y 136-173_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  445 Suzin G , Marc E , Giermakowski JT , Mills IN , Ceballos G , Ostfeld RS , Armin B , Pascale JM , Yates TL. 2009 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  445 Suzin_NN1_NP1@ G_ZZ1_NP1@ ,_Y Marc_NP1 E_ZZ1_NP1@ ,_Y Giermakowski_NP1 JT_NP1 ,_Y Mills_NP1_NN2@ IN_II_RP@ ,_Y Ceballos_NN2@_NP2 G_ZZ1_NP1@ ,_Y Ostfeld_NP1_VV0_NN1 RS_NN1 ,_Y Armin_NP1 B_ZZ1_NP1@ ,_Y Pascale_NP1 JM_NP1 ,_Y Yates_NP1 TL._NP1 2009_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  446 Experimental evidence for reduced rodent diversity causing increased hantavirus prevalence .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  446 Experimental_JJ evidence_NN1 for_IF reduced_JJ@ rodent_NN1 diversity_NN1 causing_VVG increased_JJ hantavirus_NN1 prevalence_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  447 PLoS ONE 4 : e5461 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  447 PLoS_NP2 ONE_MC1 4_MC :_Y e5461_FO ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  448 Tsao JI , Wootton JT , Bunikis J , Luna MG , Fish D , Barbour AG. 2004 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  448 Tsao_NP1@_NN1 JI_NP1_NN2_NN1 ,_Y Wootton_NP1 JT_NP1 ,_Y Bunikis_NP1 J_ZZ1_NP1@ ,_Y Luna_NP1 MG_NNA ,_Y Fish_NN_NP1@_VV0@ D_ZZ1_NP1@ ,_Y Barbour_NP1 AG._FO 2004_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  449 An ecological approach to preventing human infection : Vaccinating wild mouse reservoirs intervenes in the Lyme disease cycle .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  449 An_AT1 ecological_JJ approach_NN1 to_II preventing_VVG human_JJ_NN1 infection_NN1 :_Y Vaccinating_VVG_NP1 wild_JJ mouse_NN1 reservoirs_NN2 intervenes_VVZ in_II the_AT Lyme_NN1_NP1 disease_NN1 cycle_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  450 Proceedings of the National Academy of Sciences 101 : 18159-18164 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  450 Proceedings_NN2 of_IO the_AT National_JJ Academy_NN1 of_IO Sciences_NN2 101_MC :_Y 18159-18164_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  451 Tuno N , Wilberforce O , Minakawa N , Takagi M , Yan G. 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  451 Tuno_NN1_NP1@ N_ZZ1_NP1@ ,_Y Wilberforce_NP1 O_ZZ1_NP1@ ,_Y Minakawa_NP1 N_ZZ1_NP1@ ,_Y Takagi_NP1_JJ M_ZZ1_NN1 ,_Y Yan_NP1 G._NP1 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  452 Survivorship of Anopheles gambiae sensu stricto ( Diptera : Culicidae ) larvae in western Kenya highland forest .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  452 Survivorship_NN1 of_IO Anopheles_NP1 gambiae_NN2 sensu_II stricto_NN1 (_Y Diptera_NP1 :_Y Culicidae_NP1 )_Y larvae_NN2 in_II western_JJ Kenya_NP1 highland_NN1 forest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  453 Journal of Medical Entomology 42 : 270-277 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  453 Journal_NN1 of_IO Medical_JJ Entomology_NN1 42_MC :_Y 270-277_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  454 Vittor AY , Gilman RH , Tielsch J , Glass G , Shields TIM , Lozano WS , Pinedo-Cancino V , Patz JA .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  454 Vittor_NN1 AY_UH ,_Y Gilman_NP1_NN1 RH_FO ,_Y Tielsch_NP1 J_ZZ1_NP1@ ,_Y Glass_NP1 G_ZZ1_NP1@ ,_Y Shields_NP1@_VVZ TIM_NP1 ,_Y Lozano_NP1 WS_NP2 ,_Y Pinedo-Cancino_NP1 V_ZZ1 ,_Y Patz_NP1 JA_NP1_FW ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  455 2006 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  455 2006_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  456 The effect the primary vector of falciparum malaria in the Peruvian Amazon .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  456 The_AT effect_NN1 the_AT primary_JJ_NN1 vector_NN1 of_IO falciparum_NN1 malaria_NN1 in_II the_AT Peruvian_JJ Amazon_NN1@_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  457 American Journal of Tropical Medicine and Hygiene 74:3-11 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  457 American_JJ Journal_NN1 of_IO Tropical_JJ Medicine_NN1 and_CC Hygiene_NN1 74:3-11_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  458 Walsh JF , Molyneux D , Birley MH. 1993 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  458 Walsh_NP1 JF_NP1 ,_Y Molyneux_NP1_VV0 D_ZZ1_NP1@ ,_Y Birley_NP1 MH._NP1 1993_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  459 Deforestation : Effects on vector-borne disease .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  459 Deforestation_NP1@_NN1 :_Y Effects_NN2 on_II vector-borne_JJ_NN1 disease_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  460 Parasitology 106 ( suppl .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  460 Parasitology_NN1_NP1@ 106_MC (_Y suppl_NN1_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  461 ) : S55-S75 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  461 )_Y :_Y S55-S75_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  462 Wilcox BA , Gubler DJ .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  462 Wilcox_NP1 BA_NNA ,_Y Gubler_NP1_NN1 DJ_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  463 2005 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  463 2005_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  464 Disease ecology and the global emergence of zoonotic pathogens .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  464 Disease_NN1 ecology_NN1 and_CC the_AT global_JJ emergence_NN1 of_IO zoonotic_JJ pathogens_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  465 Environmental Health and Preventive Medicine 10 : 263-272 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  465 Environmental_JJ Health_NN1 and_CC Preventive_JJ Medicine_NN1 10_MC :_Y 263-272_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  466 Wolfe ND , Dunavan CR Diamond J. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  466 Wolfe_NP1 ND_NP1 ,_Y Dunavan_NP1 CR_NP1 Diamond_NN1 J._NP1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  467 Origins of major human infectious diseases .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  467 Origins_NN2 of_IO major_JJ human_JJ_NN1 infectious_JJ diseases_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  468 Nature 447 : 279-283 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  468 Nature_NN1 447_MC :_Y 279-283_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  469 WHO World Health Organization .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  469 WHO_NP1 World_NN1 Health_NN1 Organization_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  470 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  470 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  471 Fact Sheet : Malaria .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  471 Fact_NN1 Sheet_NN1 :_Y Malaria_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  472 ( 4 November 2009 ; **44;6766;TOOLONG ) Yasuoka J , Levins R. 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  472 (_Y 4_MC November_NPM1 2009_MC ;_Y **44;6766;TOOLONG_FU )_Y Yasuoka_NP1 J_ZZ1_NP1@ ,_Y Levins_NP2_NN2@ R._NP1 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  473 Impact of deforestation and agricultural development on anopheline ecology and malaria epidemiology .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  473 Impact_NN1 of_IO deforestation_NN1 and_CC agricultural_JJ development_NN1 on_II anopheline_NN1 ecology_NN1 and_CC malaria_NN1 epidemiology_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  474 American Journal of Tropical Medicine and Hygiene 76 : 450-460 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  474 American_JJ Journal_NN1 of_IO Tropical_JJ Medicine_NN1 and_CC Hygiene_NN1 76_MC :_Y 450-460_MCMC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  475 Zhou X , Brown CJ , Abdo Z , Davis CC , Hansmann MA , Joyce P , Foster JA , Forney LJ .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  475 Zhou_NP1 X_ZZ1 ,_Y Brown_NP1 CJ_NP1 ,_Y Abdo_NP1 Z_ZZ1_NP1@ ,_Y Davis_NP1 CC_NP1 ,_Y Hansmann_NP1 MA_NNA ,_Y Joyce_NP1 P_ZZ1_NP1@ ,_Y Foster_NP1 JA_NP1_FW ,_Y Forney_NP1 LJ_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  476 2007 .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  476 2007_MC ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  477 Differences in the composition of vaginal microbial communities found in healthy Caucasian and black women .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  477 Differences_NN2 in_II the_AT composition_NN1 of_IO vaginal_JJ microbial_JJ communities_NN2 found_VVN_VVD in_II healthy_JJ Caucasian_NN1_JJ and_CC black_JJ women_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  478 Journal of the International Society Pongsiri ; Joe Roman ; Vanessa O. Ezenwa ; Tony L. Goldberg ; Hillel S. Koren ; Stephen C. Newbold ; Richard S. Ostfeld ; Subhrendu K. Pattanayak and Daniel J. Salkeld Montira J. Pongsiri ( pongsiri.montira@epa.gov ) is an environmental health scientist in the Office of the Science Adviser at the US Environmental Protection Agency ( EPA ) .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  478 Journal_NN1 of_IO the_AT International_JJ Society_NN1 Pongsiri_NP1_NN1 ;_Y Joe_NP1 Roman_NN1_NP1@_JJ ;_Y Vanessa_NP1 O._NP1 Ezenwa_NP1 ;_Y Tony_NP1 L._ZZ Goldberg_NP1 ;_Y Hillel_NP1 S._ZZ Koren_NP1_NN1 ;_Y Stephen_NP1 C._NP1 Newbold_NP1_NN1 ;_Y Richard_NP1 S._ZZ Ostfeld_NP1_NN1 ;_Y Subhrendu_NP1 K._NP1 Pattanayak_NP1 and_CC Daniel_NP1 J._NP1 Salkeld_NP1 Montira_NP1 J._NP1 Pongsiri_NP1 (_Y pongsiri.montira@epa.gov_FO )_Y is_VBZ an_AT1 environmental_JJ health_NN1 scientist_NN1 in_II the_AT Office_NN1 of_IO the_AT Science_NN1 Adviser_NN1 at_II the_AT US_NP1 Environmental_JJ Protection_NN1 Agency_NN1 (_Y EPA_NP1 )_Y ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  479 Joe Roman ( jroman@uvm.edu ) , co-lead author on the article , was in the EPA as a Science and Technology Policy Fellow with the American Association for the Advancement of Science when this manuscript was prepared ; he is now a fellow at the Gund Institute for Ecological Economics , University of Vermont , Burlington .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  479 Joe_NP1 Roman_NP1@_NN1 (_Y jroman@uvm.edu_FO )_Y ,_Y co-lead_VV0_NN1 author_NN1 on_II the_AT article_NN1 ,_Y was_VBDZ in_II the_AT EPA_NP1 as_II_CSA a_AT1 Science_NN1 and_CC Technology_NN1 Policy_NN1 Fellow_NN1 with_IW the_AT American_JJ Association_NN1 for_IF the_AT Advancement_NN1 of_IO Science_NN1 when_CS_RRQ this_DD1 manuscript_NN1 was_VBDZ prepared_VVN ;_Y he_PPHS1 is_VBZ now_RT a_AT1 fellow_NN1_JJ at_II the_AT Gund_NP1_NN1@ Institute_NN1 for_IF Ecological_JJ Economics_NN1 ,_Y University_NN1 of_IO Vermont_NP1 ,_Y Burlington_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  480 Vanessa O. Ezenwa is an assistant professor in the Division of Biological Sciences , University of Montana , Missoula .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  480 Vanessa_NP1 O._NP1 Ezenwa_NP1 is_VBZ an_AT1 assistant_JJ_NN1 professor_NN1 in_II the_AT Division_NN1 of_IO Biological_JJ Sciences_NN2 ,_Y University_NN1 of_IO Montana_NP1 ,_Y Missoula_NP1_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  481 Tony L. Goldberg is an associate professor at the University of Wisconsin -- Madison .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  481 Tony_NP1 L._ZZ Goldberg_NP1 is_VBZ an_AT1 associate_JJ_NN1 professor_NN1 at_II the_AT University_NN1 of_IO Wisconsin_NP1 --_NN1_JJ Madison_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  482 Hillel S. Koren is a research professor at the University of North Carolina Institute for the Environment in Durham , and a retired senior adviser in the Office of Research and Development , EPA , Research Triangle Park , at the National Center for Environmental Economics , EPA , Washington , DC .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  482 Hillel_VV0_NP1@ S._ZZ Koren_NP1_NN1 is_VBZ a_AT1 research_NN1 professor_NN1 at_II the_AT University_NN1 of_IO North_ND1 Carolina_NP1 Institute_NN1 for_IF the_AT Environment_NN1 in_II Durham_NP1 ,_Y and_CC a_AT1 retired_JJ senior_JJ adviser_NN1 in_II the_AT Office_NN1 of_IO Research_NN1 and_CC Development_NN1 ,_Y EPA_NP1 ,_Y Research_NN1_VV0@ Triangle_NN1 Park_NN1 ,_Y at_II the_AT National_JJ Center_NN1 for_IF Environmental_JJ Economics_NN1 ,_Y EPA_NP1 ,_Y Washington_NP1 ,_Y DC_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  483 Richard S. Ostfeld is a senior scientist at the Cary Institute of Ecosystem Studies in Millbrook , New York .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  483 Richard_NP1 S._ZZ Ostfeld_NP1_NN1 is_VBZ a_AT1 senior_JJ scientist_NN1 at_II the_AT Cary_NP1 Institute_NN1 of_IO Ecosystem_NN1_NP1 Studies_NN2 in_II Millbrook_NP1 ,_Y New_NP1 York_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  484 Subhrendu K. Pattanayak is an associate professor at the Sanford School of Public Policy and Nicholas School of the Environment at Duke University in Durham , North Carolina .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  484 Subhrendu_NP1@ K._NP1 Pattanayak_NP1 is_VBZ an_AT1 associate_JJ_NN1 professor_NN1 at_II the_AT Sanford_NP1_NN1@ School_NN1 of_IO Public_JJ_NN1 Policy_NN1 and_CC Nicholas_NP1 School_NN1 of_IO the_AT Environment_NN1 at_II Duke_NN1 University_NN1 in_II Durham_NP1 ,_Y North_ND1 Carolina_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  485 Daniel J. Salkeld is a postdoctoral researcher at Woods Institute for the Environment , Stanford University , California .
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  485 Daniel_NP1 J._NP1 Salkeld_NP1_NN1 is_VBZ a_AT1 postdoctoral_JJ_NN1 researcher_NN1 at_II Woods_NP1 Institute_NN1 for_IF the_AT Environment_NN1 ,_Y Stanford_NP1 University_NN1 ,_Y California_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  A    0  486 
+SENTPOS COCA_acad_wlp_2009_06_FILE##4079853 COCA  B    0  486 

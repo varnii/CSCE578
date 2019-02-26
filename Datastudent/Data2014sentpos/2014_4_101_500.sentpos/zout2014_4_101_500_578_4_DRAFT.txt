@@ -1,0 +1,76 @@
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    0 Discipline is familiar to everybody because one is disciplined when he or she is young .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    0 Discipline_NN1 is_VBZ familiar_JJ to_II everybody_PN1 because_CS one_PN1 is_VBZ disciplined_VVN when_CS he_PPHS1 or_CC she_PPHS1 is_VBZ young_JJ ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    1 The first disciplinary institution one will have is his or her family .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    1 The_AT first_MD disciplinary_JJ institution_NN1 one_PN1 will_VM have_VHI is_VBZ his_APPGE or_CC her_APPGE family_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    2 Family serves as the fundamental educational sources to the child .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    2 Family_NN1 serves_VVZ as_II the_AT fundamental_JJ educational_JJ sources_NN2 to_II the_AT child_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    3 And then school , which counts as equally significant as families , also serves the intermediaries of behavior and success .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    3 And_CC then_RT school_NN1 ,_, which_DDQ counts_VVZ as_RG@ equally_RR significant_JJ as_CSA families_NN2 ,_, also_RR serves_VVZ the_AT intermediaries_NN2 of_IO behavior_NN1 and_CC success_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    4 Discipline is also used to unionize people , organizing people in different groups and having proper punishment .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    4 Discipline_NN1 is_VBZ also_RR used_VVN to_TO unionize_VVI people_NN ,_, organizing_VVG people_NN in_II different_JJ groups_NN2 and_CC having_VHG proper_JJ punishment_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    5 Foucault talks about discipline in his essay , " Panopticism , " that certain rules will have power over people or groups and their effects to later life .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    5 Foucault_VV0 talks_NN2 about_II discipline_NN1 in_II his_APPGE essay_NN1 ,_, "_" Panopticism_NN1 ,_, "_" that_DD1 certain_JJ rules_NN2 will_VM have_VHI power_NN1 over_II people_NN or_CC groups_NN2 and_CC their_APPGE effects_NN2 to_II later_JJR life_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    6 What discipline does to one person is not just temporarily , but the big panoptic view of one person 's life .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    6 What_DDQ discipline_NN1 does_VDZ to_II one_MC1 person_NN1 is_VBZ not_XX just_RR temporarily_RR ,_, but_CCB the_AT big_JJ panoptic_JJ view_NN1 of_IO one_MC1 person_NN1 's_GE life_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    0    7 The existence of discipline makes the world well ruled without much chaos .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    0    7 The_AT existence_NN1 of_IO discipline_NN1 makes_VVZ the_AT world_NN1 well_RR ruled_VVN without_IW much_DA1 chaos_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1    8 The concept of panopticism includes many theories .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1    8 The_AT concept_NN1 of_IO panopticism_NN1 includes_VVZ many_DA2 theories_NN2 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1    9 The difference of watching and being watched is formulated by panopticon .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1    9 The_AT difference_NN1 of_IO watching_VVG and_CC being_VBG watched_VVN@ is_VBZ formulated_VVN by_II panopticon_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   10 The theory tests that the difference of one 's behavior with or without being watched .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   10 The_AT theory_NN1 tests_VVZ@ that_CST the_AT difference_NN1 of_IO one_PN1 's_GE behavior_NN1 with_IW or_CC without_IW being_VBG watched_VVN@ ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   11 The focus of Foucault 's panopticism is the observer of human behavior and the discipline of a certain group .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   11 The_AT focus_NN1 of_IO Foucault_NP1 's_GE panopticism_NN1 is_VBZ the_AT observer_NN1 of_IO human_JJ behavior_NN1 and_CC the_AT discipline_NN1 of_IO a_AT1 certain_JJ group_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   12 Discipline is significant in his theory .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   12 Discipline_NN1 is_VBZ significant_JJ in_II his_APPGE theory_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   13 Foucault talks about the discipline and how it extends to infinity area , " a sort of social 'quarantine' to an indefinitely generalizable mechanism of 'panopticism' " ( 256 ) .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   13 Foucault_VV0 talks_NN2 about_II the_AT discipline_NN1 and_CC how_RRQ it_PPH1 extends_VVZ to_II infinity_NN1 area_NN1 ,_, "_" a_AT1 sort_NN1 of_IO social_JJ 'quarantine'_NN1 to_II an_AT1 indefinitely_RR generalizable_JJ mechanism_NN1 of_IO 'panopticism'_NN1 "_" (_( 256_MC )_) ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   14 Foucault points out that " the disciplinary institutions was no doubt only the most visible aspect of various , more profound processes " ( 251 ) .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   14 Foucault_NN1 points_VVZ out_RP that_CST "_" the_AT disciplinary_JJ institutions_NN2 was_VBDZ no_RR21 doubt_RR22 only_RR the_AT most_RGT visible_JJ aspect_NN1 of_IO various_JJ ,_, more_RGR profound_JJ processes_NN2 "_" (_( 251_MC )_) ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   15 The institutions organize people 's behavior and punish people who violate the rules .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   15 The_AT institutions_NN2 organize_VV0 people_NN 's_GE behavior_NN1 and_CC punish_VV0 people_NN who_PNQS violate_VV0 the_AT rules_NN2 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    1   16 The purpose of punishment is to avoid the future repeat of violation and its harm to the society , so discipline has an active effect on people , especially in the young age , discipline has a strong impact to the future development and behavior .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    1   16 The_AT purpose_NN1 of_IO punishment_NN1 is_VBZ to_TO avoid_VVI the_AT future_JJ repeat_NN1% of_IO violation_NN1 and_CC its_APPGE harm_NN1 to_II the_AT society_NN1 ,_, so_RR discipline_NN1 has_VHZ an_AT1 active_JJ effect_NN1 on_II people_NN ,_, especially_RR in_II the_AT young_JJ age_NN1 ,_, discipline_NN1 has_VHZ a_AT1 strong_JJ impact_NN1 to_II the_AT future_JJ development_NN1 and_CC behavior_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   17 While prison does not apply to me , Foucault 's institutions , such as family and school , have strong impact on my life .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   17 While_CS prison_NN1 does_VDZ not_XX apply_VVI to_II me_PPIO1 ,_, Foucault_NP1 's_GE institutions_NN2 ,_, such_II21 as_II22 family_NN1 and_CC school_NN1 ,_, have_VH0 strong_JJ impact_NN1 on_II my_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   18 The first discipline I have is in the Lower school , where I was punished by talking in class .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   18 The_AT first_MD discipline_NN1 I_PPIS1 have_VH0 is_VBZ in_II the_AT Lower_JJR school_NN1 ,_, where_CS I_PPIS1 was_VBDZ punished_VVN by_II talking_VVG in_II class_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   19 In the Lower School , students are not supposed to be talking in classes unless the teacher wants them to do so .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   19 In_II the_AT Lower_JJR School_NN1 ,_, students_NN2 are_VBR not_XX supposed_JJ to_TO be_VBI talking_VVG in_II classes_NN2 unless_CS the_AT teacher_NN1 wants_VVZ them_PPHO2 to_TO do_VDI so_RR ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   20 This rule is partially successful because if everyone is talking at the same time , the teacher will not be able to teach anything in class ; however , some punishment to little kids has certain bad influences over their fear to speak in public .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   20 This_DD1 rule_NN1 is_VBZ partially_RR successful_JJ because_CS if_CS everyone_PN1 is_VBZ talking_VVG at_II the_AT same_DA time_NNT1 ,_, the_AT teacher_NN1 will_VM not_XX be_VBI able_JK to_TO teach_VVI anything_PN1 in_II class_NN1 ;_; however_RR ,_, some_DD punishment_NN1 to_II little_JJ kids_NN2 has_VHZ certain_JJ bad_JJ influences_NN2 over_II their_APPGE fear_NN1 to_TO speak_VVI in_RR21 public_RR22 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   21 Luckily , the fear to speak up does not apply to me .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   21 Luckily_RR ,_, the_AT fear_NN1 to_TO speak_VVI up_RP does_VDZ not_XX apply_VVI to_II me_PPIO1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   22 The further discipline I have in school is through the Middle school , which is a boarding school .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   22 The_AT further_JJR@ discipline_NN1 I_PPIS1 have_VH0 in_II school_NN1 is_VBZ through_II the_AT Middle_JJ school_NN1 ,_, which_DDQ is_VBZ a_AT1 boarding_NN1 school_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   23 The school is one of the most strictest schools in my neighborhood area .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   23 The_AT school_NN1 is_VBZ one_MC1 of_IO the_AT most_RGT strictest_JJT schools_NN2 in_II my_APPGE neighborhood_NN1 area_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   24 One example will be not talking at all after bedtime and cleaning the dorm room spotless everyday .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   24 One_MC1 example_NN1 will_VM be_VBI not_XX talking_VVG at_II all_DB after_II bedtime_NNT1 and_CC cleaning_VVG the_AT dorm_NN1 room_NN1 spotless_JJ everyday_JJ ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   25 Those disciplines are very beneficial to the success of classes and outside of school .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   25 Those_DD2 disciplines_NN2 are_VBR very_RG beneficial_JJ to_II the_AT success_NN1 of_IO classes_NN2 and_CC outside_II21 of_II22 school_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   26 Talking after bedtime distracts students from focusing school and from sleeping .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   26 Talking_VVG after_II bedtime_NNT1 distracts_VVZ students_NN2 from_II focusing_VVG school_NN1 and_CC from_II sleeping_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   27 There are a few times that we were caught talking after bedtime so the teacher punished us by letting us cleaning the classroom for a week .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   27 There_EX are_VBR a_AT1 few_DA2 times_NNT2 that_CST we_PPIS2 were_VBDR caught_VVN talking_VVG after_II bedtime_NNT1 so_CS@ the_AT teacher_NN1 punished_VVN us_PPIO2 by_II letting_VVG us_PPIO2 cleaning_VVG the_AT classroom_NN1 for_IF a_AT1 week_NNT1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   28 Although we did not learn from the first time , we later understood the importance of not talking after bedtime .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   28 Although_CS we_PPIS2 did_VDD not_XX learn_VVI from_II the_AT first_MD time_NNT1 ,_, we_PPIS2 later_RRR understood_VVD the_AT importance_NN1 of_IO not_XX talking_VVG after_II bedtime_NNT1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   29 In high school , the rules are not as strict but once someone violates them , the consequences are much more severe .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   29 In_II high_JJ school_NN1 ,_, the_AT rules_NN2 are_VBR not_XX as_RG@ strict_JJ but_CCB once_RR someone_PN1 violates_VVZ them_PPHO2 ,_, the_AT consequences_NN2 are_VBR much_RR more_RGR severe_JJ ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   30 One of the most common violations in the school is plagiarism because people want to take advantage of others in order to get a better grade .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   30 One_MC1 of_IO the_AT most_RGT common_JJ violations_NN2 in_II the_AT school_NN1 is_VBZ plagiarism_NN1 because_CS people_NN want_VV0 to_TO take_VVI advantage_NN1 of_IO others_NN2 in_BCL21 order_BCL22 to_TO get_VVI a_AT1 better_JJR grade_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   31 There is one time I came very close to plagiarism because I forgot to cite the sources , but luckily , it was just a draft , and my teacher saved me from going before the Honor Board .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   31 There_EX is_VBZ one_MC1 time_NNT1 I_PPIS1 came_VVD very_RG close_JJ to_II plagiarism_NN1 because_CS I_PPIS1 forgot_VVD to_TO cite_VVI the_AT sources_NN2 ,_, but_CCB luckily_RR ,_, it_PPH1 was_VBDZ just_RR a_AT1 draft_NN1 ,_, and_CC my_APPGE teacher_NN1 saved_VVD me_PPIO1 from_II going_VVG before_II the_AT Honor_NN1 Board_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   32 Later , I was more careful with the citation .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   32 Later_RRR ,_, I_PPIS1 was_VBDZ more_RGR careful_JJ with_IW the_AT citation_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   33 High school did prepare me well for college , not just the knowledge , but all the rules we have to follow .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   33 High_JJ school_NN1 did_VDD prepare_VVI me_PPIO1 well_RR for_IF college_NN1 ,_, not_XX just_RR the_AT knowledge_NN1 ,_, but_CCB all_DB the_AT rules_NN2 we_PPIS2 have_VH0 to_TO follow_VVI ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   34 As simple as talking in classes or after bedtime , to more severe one like plagiarism .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   34 As_RG simple_JJ as_CSA talking_VVG in_II classes_NN2 or_CC after_II bedtime_NNT1 ,_, to_II more_RGR severe_JJ one_PN1 like_II plagiarism_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   35 School , as a disciplinary institution , influences me so much for my college life .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   35 School_NN1 ,_, as_CSA a_AT1 disciplinary_JJ institution_NN1 ,_, influences_VVZ@ me_PPIO1 so_RG much_DA1 for_IF my_APPGE college_NN1 life_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   36 As the better the habits are rooted in my behavior , I feel grateful that my schools have shaped me to a disciplined person .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   36 As_II the_AT better_JJR the_AT habits_NN2 are_VBR rooted_VVN in_II my_APPGE behavior_NN1 ,_, I_PPIS1 feel_VV0 grateful_JJ that_CST my_APPGE schools_NN2 have_VH0 shaped_VVN me_PPIO1 to_II a_AT1 disciplined_JJ person_NN1 ._.
+SENTPOS 2014_4_101_500_578_4 DRAFT A    2   36  Discipline has a big impact on my life and I am sure to everyone else as well .
+SENTPOS 2014_4_101_500_578_4 DRAFT B    2   36  Discipline_NN1 has_VHZ a_AT1 big_JJ impact_NN1 on_II my_APPGE life_NN1 and_CC I_PPIS1 am_VBM sure_JJ to_II everyone_PN1 else_RR as_RR21 well_RR22 ._.

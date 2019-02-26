@@ -1,0 +1,182 @@
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    0 " Women 's sports are a joke , " is a common comment you hear from men .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    0 "_" Women_NN2 's_GE sports_NN2 are_VBR a_AT1 joke_NN1 ,_, "_" is_VBZ a_AT1 common_JJ comment_NN1 you_PPY hear_VV0 from_II men_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    1 However , I am female , and I agree .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    1 However_RR ,_, I_PPIS1 am_VBM female_JJ ,_, and_CC I_PPIS1 agree_VV0 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    2 It 's not the women 's sports themselves that are a joke , but what the female athletes are doing with them .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    2 It_PPH1 's_VBZ not_XX the_AT women_NN2 's_GE sports_NN2 themselves_PPX2 that_CST are_VBR a_AT1 joke_NN1 ,_, but_CCB what_DDQ the_AT female_JJ athletes_NN2 are_VBR doing_VDG with_IW them_PPHO2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    3 What is that ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    3 What_DDQ is_VBZ that_DD1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    4 Female athletes pose nearly nude , or nude , in many magazines including Playboy , Maxim , and FHM .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    4 Female_JJ athletes_NN2 pose_VV0 nearly_RR nude_JJ ,_, or_CC nude_JJ ,_, in_II many_DA2 magazines_NN2 including_II Playboy_NP1 ,_, Maxim_NN1 ,_, and_CC FHM_NP1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    5 This posing puts them in a terrible position .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    5 This_DD1 posing_NN1@ puts_VVZ them_PPHO2 in_II a_AT1 terrible_JJ position_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    6 As opposed to the great role models these athletes could be for body image for young women because of their strength , they play a role of irony in their acts of weakness .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    6 As_II31 opposed_II32 to_II33 the_AT great_JJ role_NN1 models_NN2 these_DD2 athletes_NN2 could_VM be_VBI for_IF body_NN1 image_NN1 for_IF young_JJ women_NN2 because_II21 of_II22 their_APPGE strength_NN1 ,_, they_PPHS2 play_VV0 a_AT1 role_NN1 of_IO irony_NN1 in_II their_APPGE acts_NN2 of_IO weakness_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    7 Instead , they are put into a subjective position called self-objectification .
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    7 Instead_RR ,_, they_PPHS2 are_VBR put_VVN into_II a_AT1 subjective_JJ position_NN1 called_VVN self-objectification_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    0    8 The key question behind all of this is : why are strong women putting themselves in this position ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    0    8 The_AT key_JJ question_NN1 behind_II all_DB of_IO this_DD1 is_VBZ :_: why_RRQ are_VBR strong_JJ women_NN2 putting_VVG themselves_PPX2 in_II this_DD1 position_NN1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    1    9 So what exactly is this position these women are putting themselves in ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    1    9 So_RR what_DDQ exactly_RR is_VBZ this_DD1 position_NN1 these_DD2 women_NN2 are_VBR putting_VVG themselves_PPX2 in_RP@ ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   10 The term is called self-objectification : the picking and probing at the human body as if it is an object .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   10 The_AT term_NN1 is_VBZ called_VVN self-objectification_NN1 :_: the_AT picking_NN1% and_CC probing_JJ at_II the_AT human_JJ body_NN1 as_CS21 if_CS22 it_PPH1 is_VBZ an_AT1 object_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   11 This is due to the social circumstances in which women are treated as would be expected , objects .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   11 This_DD1 is_VBZ due_II21 to_II22 the_AT social_JJ circumstances_NN2 in_II which_DDQ women_NN2 are_VBR treated_VVN as_CSA would_VM be_VBI expected_VVN ,_, objects_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   12 This combined with thin-ideal internalization -- the obsession with a thin image as a result of the media 's emphasis on the subject -- is a huge contribution to the start of an eating disorder .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   12 This_DD1 combined_VVN with_IW thin-ideal_JJ internalization_NN1 --_NN1 the_AT obsession_NN1 with_IW a_AT1 thin_JJ image_NN1 as_II a_AT1 result_NN1 of_IO the_AT media_NN 's_GE emphasis_NN1 on_II the_AT subject_NN1 --_NN1 is_VBZ a_AT1 huge_JJ contribution_NN1 to_II the_AT start_NN1 of_IO an_AT1 eating_NN1 disorder_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   13 ( Kroon Van Diest ) In the United States , it has been estimated that 10 million females are struggling with an eating disorder whereas only 1 million males are doing the same .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   13 (_( Kroon_NNU1 Van_NP1 Diest_NP1 )_) In_II the_AT United_NP1 States_NP1 ,_, it_PPH1 has_VHZ been_VBN estimated_VVN that_CST 10_MC million_NNO females_NN2 are_VBR struggling_VVG with_IW an_AT1 eating_NN1 disorder_NN1 whereas_CS only_RR 1_MC1 million_NNO males_NN2 are_VBR doing_VDG the_AT same_DA ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   14 ( Bissell , Porterfield ) Why is it that ten times as many women have an eating disorder as opposed to males ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   14 (_( Bissell_VV0 ,_, Porterfield_NP1 )_) Why_RRQ is_VBZ it_PPH1 that_RG% ten_MC times_NNT2 as_RG@ many_DA2 women_NN2 have_VH0 an_AT1 eating_NN1 disorder_NN1 as_II31 opposed_II32 to_II33 males_NN2 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   15 Well , one major reason is these two factors .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   15 Well_RR ,_, one_MC1 major_JJ reason_NN1 is_VBZ these_DD2 two_MC factors_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   16 Self-objectification and thin-ideal internalization is sparked in women during social experiences that encourage the importance of physical appearance over competence .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   16 Self-objectification_NN1 and_CC thin-ideal_JJ internalization_NN1 is_VBZ sparked_VVN in_II women_NN2 during_II social_JJ experiences_NN2 that_CST encourage_VV0 the_AT importance_NN1 of_IO physical_JJ appearance_NN1 over_II competence_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   17 Men may have some stress to appear a certain way , but it is not stressed the same way for women .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   17 Men_NN2 may_VM have_VHI some_DD stress_NN1 to_TO appear_VVI a_AT1 certain_JJ way_NN1 ,_, but_CCB it_PPH1 is_VBZ not_XX stressed_VVN the_AT same_DA way_NN1 for_IF women_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   18 Perhaps this is why such fit women such as professional female athletes are so commonly objectified .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   18 Perhaps_RR this_DD1 is_VBZ why_RRQ such_DA fit_JJ women_NN2 such_DA as_CSA professional_JJ female_JJ athletes_NN2 are_VBR so_RG commonly_RR objectified_VVN ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   19 But why do they do it ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   19 But_CCB why_RRQ do_VD0 they_PPHS2 do_VDI it_PPH1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   20 Well , it could make them feel relevant .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   20 Well_RR ,_, it_PPH1 could_VM make_VVI them_PPHO2 feel_VVI relevant_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   21 However , it keeps this idea of physical appearance over competence in play .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   21 However_RR ,_, it_PPH1 keeps_VVZ this_DD1 idea_NN1 of_IO physical_JJ appearance_NN1 over_II competence_NN1 in_II play_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    1   22 80% of women are dissatisfied with their bodies ( Bissell , Porterfield ) , something sparked by self-objectification and thin-ideal internalization .
+SENTPOS 2014_4_101_100_104_2 FINAL B    1   22 80%_NNU of_IO women_NN2 are_VBR dissatisfied_JJ with_IW their_APPGE bodies_NN2 (_( Bissell_NP1 ,_, Porterfield_NP1 )_) ,_, something_PN1 sparked_VVD by_II self-objectification_NN1 and_CC thin-ideal_JJ internalization_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   23 ( Kroon Van Diest ) Some examples of female athletes who objectify themselves , thus encouraging this " object " attitude towards women , are NASCAR 's Danica Patrick and the LPGA 's Natalie Gulbis in FHM , volleyball player Misty May and swimmer Dana Torres in Maxim , and swimmer Amanda Beard in Playboy , Maxim , and FHM .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   23 (_( Kroon_NNU1 Van_NP1 Diest_NP1 )_) Some_DD examples_NN2 of_IO female_JJ athletes_NN2 who_PNQS objectify_VV0 themselves_PPX2 ,_, thus_RR encouraging_VVG@ this_DD1 "_" object_NN1 "_" attitude_NN1 towards_II women_NN2 ,_, are_VBR NASCAR_NP1 's_GE Danica_NP1 Patrick_NP1 and_CC the_AT LPGA_NP1 's_GE Natalie_NP1 Gulbis_NP1 in_II FHM_NP1 ,_, volleyball_NN1 player_NN1 Misty_JJ May_NPM1 and_CC swimmer_NN1 Dana_NP1 Torres_NP1 in_II Maxim_NN1 ,_, and_CC swimmer_NN1 Amanda_NP1 Beard_NN1 in_II Playboy_NP1 ,_, Maxim_NN1 ,_, and_CC FHM_NP1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   24 These are some of the nation 's top female athletes .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   24 These_DD2 are_VBR some_DD of_IO the_AT nation_NN1 's_GE top_JJ female_JJ athletes_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   25 They are physically strong , yet feel the need to pose naked in front of the camera .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   25 They_PPHS2 are_VBR physically_RR strong_JJ ,_, yet_RR feel_VV0 the_AT need_NN1 to_TO pose_VVI naked_JJ in_II31 front_II32 of_II33 the_AT camera_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   26 This goes completely against the reason why they are even making money for playing a sport -- Title IX .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   26 This_DD1 goes_VVZ completely_RR against_II the_AT reason_NN1 why_RRQ they_PPHS2 are_VBR even_RR making_VVG money_NN1 for_IF playing_VVG a_AT1 sport_NN1 --_NN1 Title_NN1 IX_MC ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   27 When Title IX was instated , its purpose was to give women more opportunities in a multitude of areas , most specifically athletics .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   27 When_CS Title_NN1 IX_MC was_VBDZ instated_VVN@ ,_, its_APPGE purpose_NN1 was_VBDZ to_TO give_VVI women_NN2 more_DAR opportunities_NN2 in_II a_AT1 multitude_NN1 of_IO areas_NN2 ,_, most_RGT specifically_RR athletics_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   28 These pictures do the polar opposite .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   28 These_DD2 pictures_NN2 do_VD0 the_AT polar_JJ opposite_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   29 Studies have been shown that athletes both male and female who are better known for their looks than their athletic ability are perceived by the public as less talented , less aggressive , and less heroic .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   29 Studies_NN2 have_VH0 been_VBN shown_VVN that_CST athletes_NN2 both_RR male_JJ and_CC female_NN1 who_PNQS are_VBR better_RRR known_VVN for_IF their_APPGE looks_NN2@ than_CSN their_APPGE athletic_JJ ability_NN1 are_VBR perceived_VVN by_II the_AT public_NN1 as_RG@ less_RGR talented_JJ ,_, less_RGR aggressive_JJ ,_, and_CC less_RGR heroic_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   30 ( Daniels , Wartena ) This is the biggest issue in this cluster of problems : strong women posing naked in front of a camera encourage men to feel stronger , more powerful , and all around better than them .
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   30 (_( Daniels_NP1 ,_, Wartena_NP1 )_) This_DD1 is_VBZ the_AT biggest_JJT issue_NN1 in_II this_DD1 cluster_NN1 of_IO problems_NN2 :_: strong_JJ women_NN2 posing_VVG naked_JJ in_II31 front_II32 of_II33 a_AT1 camera_NN1 encourage_VV0 men_NN2 to_TO feel_VVI stronger_JJR ,_, more_RGR powerful_JJ ,_, and_CC all_DB around_RP better_RRR than_CSN them_PPHO2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    2   31 So why do these women do something that causes such a reaction ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    2   31 So_RR why_RRQ do_VD0 these_DD2 women_NN2 do_VDI something_PN1 that_CST causes_VVZ such_DA a_AT1 reaction_NN1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   32 Not every female athlete acts this way .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   32 Not_XX every_AT1 female_JJ athlete_NN1 acts_VVZ this_DD1 way_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   33 Mia Hamm , who is considered the greatest female soccer player of all time , is known for her athletic ability , not her looks .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   33 Mia_NP1@ Hamm_NP1 ,_, who_PNQS is_VBZ considered_VVN the_AT greatest_JJT female_JJ soccer_NN1 player_NN1 of_IO all_DB time_NNT1 ,_, is_VBZ known_VVN for_IF her_APPGE athletic_JJ ability_NN1 ,_, not_XX her_APPGE looks_NN2@ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   34 Her former U.S. National Women 's Soccer teammate Brandi Chastain is under the same category .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   34 Her_APPGE former_DA U.S._NP1 National_JJ Women_NN2 's_GE Soccer_NN1 teammate_NN1 Brandi_NP1 Chastain_NN1 is_VBZ under_II the_AT same_DA category_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   35 A study was done with a picture of Brandi Chastain and adolescent girls and boys .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   35 A_AT1 study_NN1 was_VBDZ done_VDN with_IW a_AT1 picture_NN1 of_IO Brandi_NP1 Chastain_NN1 and_CC adolescent_JJ girls_NN2 and_CC boys_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   36 Both genders typically agreed when they looked at the photo that she was powerful and they respected her -- a positive reaction .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   36 Both_DB2 genders_NN2 typically_RR agreed_VVN when_CS they_PPHS2 looked_VVD at_II the_AT photo_NN1 that_CST she_PPHS1 was_VBDZ powerful_JJ and_CC they_PPHS2 respected_VVD her_APPGE --_NN1 a_AT1 positive_JJ reaction_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   37 However , there was a minority of boys that felt intimidated by her .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   37 However_RR ,_, there_EX was_VBDZ a_AT1 minority_NN1 of_IO boys_NN2 that_CST felt_VVD intimidated_VVD by_II her_PPHO1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   38 One boy actually said , " She 's asking me : can you kick as hard as me , and I feel funny . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   38 One_MC1 boy_NN1 actually_RR said_VVD ,_, "_" She_PPHS1 's_VBZ asking_VVG me_PPIO1 :_: can_VM you_PPY kick_VVI as_RG hard_RR as_CSA me_PPIO1 ,_, and_CC I_PPIS1 feel_VV0 funny_JJ ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   39 ( Daniels , Wartena ) This is the reaction female athletes should portray in the media : powerful , intimidating woman .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   39 (_( Daniels_NP1 ,_, Wartena_NP1 )_) This_DD1 is_VBZ the_AT reaction_NN1 female_NN1 athletes_NN2 should_VM portray_VVI in_II the_AT media_NN :_: powerful_JJ ,_, intimidating_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   40 Why should they not ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   40 Why_RRQ should_VM they_PPHS2 not_XX ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   41 Male athletes such as Tiger Woods are considered powerful and intimidating in a sport that requires no physical contact with another person .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   41 Male_JJ athletes_NN2 such_II21 as_II22 Tiger_NN1 Woods_NN2@ are_VBR considered_VVN powerful_JJ and_CC intimidating_JJ in_II a_AT1 sport_NN1 that_CST requires_VVZ no_AT physical_JJ contact_NN1 with_IW another_DD1 person_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    3   42 So when a woman is dominating a sport such as soccer , you should feel like she can kick your ass .
+SENTPOS 2014_4_101_100_104_2 FINAL B    3   42 So_RR when_CS a_AT1 woman_NN1 is_VBZ dominating_VVG a_AT1 sport_NN1 such_II21 as_II22 soccer_NN1 ,_, you_PPY should_VM feel_VVI like_CS% she_PPHS1 can_VM kick_VVI your_APPGE ass_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   43 Whether or not the media will admit to it , they play a huge role in the issue at hand .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   43 Whether_CSW31 or_CSW32 not_CSW33 the_AT media_NN will_VM admit_VVI to_II it_PPH1 ,_, they_PPHS2 play_VV0 a_AT1 huge_JJ role_NN1 in_II the_AT issue_NN1 at_II hand_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   44 As Jennifer Knight and Tracy Guiliano said in their article , " He 's a Laker , She 's a Looker " in the academic journal Sex Roles , " They do not reflect the public opinion , they shape it . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   44 As_CSA Jennifer_NP1 Knight_NP1 and_CC Tracy_NP1 Guiliano_NP1 said_VVD in_II their_APPGE article_NN1 ,_, "_" He_PPHS1 's_VBZ a_AT1 Laker_NP1 ,_, She_PPHS1 's_VBZ a_AT1 Looker_NN1 "_" in_II the_AT academic_JJ journal_NN1 Sex_NN1 Roles_NN2 ,_, "_" They_PPHS2 do_VD0 not_XX reflect_VVI the_AT public_NN1 opinion_NN1 ,_, they_PPHS2 shape_VV0@ it_PPH1 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   45 ( Knight , Guiliano ) Obviously , all Americans have the right to free speech by the Bill of Rights , so this is n't necessarily a right we can fight for through legislature .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   45 (_( Knight_NP1 ,_, Guiliano_NP1 )_) Obviously_RR ,_, all_DB Americans_NN2 have_VH0 the_AT right_NN1 to_TO free_VVI speech_NN1 by_II the_AT Bill_NN1 of_IO Rights_NN2 ,_, so_CS@ this_DD1 is_VBZ n't_XX necessarily_RR a_AT1 right_NN1 we_PPIS2 can_VM fight_VVI for_IF through_II legislature_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   46 It is something that must be done by women on our own terms .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   46 It_PPH1 is_VBZ something_PN1 that_CST must_VM be_VBI done_VDN by_II women_NN2 on_II our_APPGE own_DA terms_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   47 Women can not continue to allow men to see them as objects .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   47 Women_NN2 can_VM not_XX continue_VVI to_TO allow_VVI men_NN2 to_TO see_VVI them_PPHO2 as_CSA objects_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   48 Doing so makes men think it is okay to treat every woman this way .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   48 Doing_VDG so_RR makes_VVZ men_NN2 think_VVI it_PPH1 is_VBZ okay_JJ to_TO treat_VVI every_AT1 woman_NN1 this_DD1 way_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   49 Just in the world of sports , swimmer Leisel Jones has been affected first-hand by such a thing .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   49 Just_RR in_II the_AT world_NN1 of_IO sports_NN2 ,_, swimmer_NN1 Leisel_NP1 Jones_NP1 has_VHZ been_VBN affected_VVN first-hand_RR by_II such_DA a_AT1 thing_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   50 The swimmer became a gold-medalist in the 2008 Olympics , yet when the London games approached in 2012 , she was scrutinized for how she looked in a bikini .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   50 The_AT swimmer_NN1 became_VVD a_AT1 gold-medalist_NN1 in_II the_AT 2008_MC Olympics_NN2 ,_, yet_RR when_CS the_AT London_NP1 games_NN2 approached_VVN in_II 2012_MC ,_, she_PPHS1 was_VBDZ scrutinized_VVN for_IF how_RRQ she_PPHS1 looked_VVD in_II a_AT1 bikini_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   51 ( Buzinski ) Outside of the sports world , this type of treatment has affected many women .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   51 (_( Buzinski_NP1@ )_) Outside_II21 of_II22 the_AT sports_NN2 world_NN1 ,_, this_DD1 type_NN1 of_IO treatment_NN1 has_VHZ affected_VVN many_DA2 women_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   52 It begins at an early age .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   52 It_PPH1 begins_VVZ at_II an_AT1 early_JJ age_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   53 Dr. Elizabeth Daniels , an expert on this subject , once said , " As girls mature , their bodies are increasingly looked at , commented upon , and otherwise evaluated by others . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   53 Dr._NNB Elizabeth_NP1 Daniels_NP1 ,_, an_AT1 expert_NN1 on_II this_DD1 subject_NN1 ,_, once_RR said_VVD ,_, "_" As_CSA girls_NN2 mature_VV0 ,_, their_APPGE bodies_NN2 are_VBR increasingly_RR looked_VVN at_II ,_, commented_VVN upon_II ,_, and_CC otherwise_RR evaluated_VVN by_II others_NN2 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   54 ( Daniels , Wartena ) This shows in statistics of adolescent females .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   54 (_( Daniels_NP1 ,_, Wartena_NP1 )_) This_DD1 shows_VVZ in_II statistics_NN of_IO adolescent_JJ females_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   55 42% of first through third grade girls want to be thinner .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   55 42%_NNU of_IO first_MD through_II third_MD grade_NN1 girls_NN2 want_VV0 to_TO be_VBI thinner_JJR ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   56 Plus , 81% of 10-year-olds are afraid of being fat .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   56 Plus_NN1@ ,_, 81%_NNU of_IO 10-year-olds_NN2 are_VBR afraid_JJ of_IO being_VBG fat_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   57 ( Bissell , Porterfield ) What these children do not understand is that baby fat is normal and healthy at this age .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   57 (_( Bissell_VV0 ,_, Porterfield_NP1 )_) What_DDQ these_DD2 children_NN2 do_VD0 not_XX understand_VVI is_VBZ that_DD1 baby_NN1 fat_NN1 is_VBZ normal_JJ and_CC healthy_JJ at_II this_DD1 age_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   58 Why are they so concerned about their weight ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   58 Why_RRQ are_VBR they_PPHS2 so_RR concerned_JJ about_II their_APPGE weight_NN1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   59 The sad part is it will most likely continue throughout their lives if we do not make some sort of change .
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   59 The_AT sad_JJ part_NN1 is_VBZ it_PPH1 will_VM most_RGT likely_RR@ continue_VVI throughout_II their_APPGE lives_NN2 if_CS we_PPIS2 do_VD0 not_XX make_VVI some_DD sort_NN1 of_IO change_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   60 As Elizabeth Daniels said , " Women 's bodies are scrutinized as objects for the pleasure and evaluation of others . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   60 As_CSA Elizabeth_NP1 Daniels_NP1 said_VVD ,_, "_" Women_NN2 's_GE bodies_NN2 are_VBR scrutinized_VVN as_CSA objects_NN2 for_IF the_AT pleasure_NN1 and_CC evaluation_NN1 of_IO others_NN2 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    4   61 ( Daniels , Wartena ) How can someone gain pleasure from making a person feel this way ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    4   61 (_( Daniels_NP1 ,_, Wartena_NP1 )_) How_RRQ can_VM someone_PN1 gain_VVI pleasure_NN1 from_II making_VVG a_AT1 person_NN1 feel_VVI this_DD1 way_NN1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   62 As many people have learned throughout the years , people love to put other people down to make themselves feel better just like the people that criticize the young girls .
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   62 As_RG@ many_DA2 people_NN have_VH0 learned_VVN throughout_II the_AT years_NNT2 ,_, people_NN love_VV0 to_TO put_VVI other_JJ people_NN down_RP to_TO make_VVI themselves_PPX2 feel_VV0 better_RRR just_RR like_II the_AT people_NN that_CST criticize_VV0 the_AT young_JJ girls_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   63 It may not be intentional that they make them feel this way , but it makes them feel powerful .
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   63 It_PPH1 may_VM not_XX be_VBI intentional_JJ that_CST they_PPHS2 make_VV0 them_PPHO2 feel_VVI this_DD1 way_NN1 ,_, but_CCB it_PPH1 makes_VVZ them_PPHO2 feel_VVI powerful_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   64 So why of all places must people be so critical in the world of athletics ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   64 So_RR why_RRQ of_IO all_DB places_NN2 must_VM people_NN be_VBI so_RG critical_JJ in_II the_AT world_NN1 of_IO athletics_NN1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   65 Well , a writer from The Nation , Mary Jo Kane , says it is , " The reinforcement of their status as second class citizens in one of the most powerful , economic , social , and political institutions on the planet . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   65 Well_RR ,_, a_AT1 writer_NN1 from_II The_AT Nation_NN1 ,_, Mary_NP1 Jo_NP1 Kane_NP1 ,_, says_VVZ it_PPH1 is_VBZ ,_, "_" The_AT reinforcement_NN1 of_IO their_APPGE status_NN1 as_CSA second_MD class_NN1 citizens_NN2 in_II one_MC1 of_IO the_AT most_RGT powerful_JJ ,_, economic_JJ ,_, social_JJ ,_, and_CC political_JJ institutions_NN2 on_II the_AT planet_NN1 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   66 ( Kane ) As she states , it is just so internationally recognized .
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   66 (_( Kane_NP1@ )_) As_CSA she_PPHS1 states_VVZ ,_, it_PPH1 is_VBZ just_RR so_RG internationally_RR recognized_VVN ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   67 After all , events such as the Olympics , the FIFA World Cup , the Women 's World Cup , the British Open and other golf tournaments , the Australian Open and other tennis tournaments , are all something that people across the world can understand .
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   67 After_II all_DB ,_, events_NN2 such_II21 as_II22 the_AT Olympics_NN2 ,_, the_AT FIFA_NP1 World_NN1 Cup_NN1 ,_, the_AT Women_NN2 's_GE World_NN1 Cup_NN1 ,_, the_AT British_JJ Open_JJ and_CC other_JJ golf_NN1 tournaments_NN2 ,_, the_AT Australian_JJ Open_JJ and_CC other_JJ tennis_NN1 tournaments_NN2 ,_, are_VBR all_DB something_PN1 that_CST people_NN across_II the_AT world_NN1 can_VM understand_VVI ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   68 The languages they speak may be different , but that does not stop someone from playing an incredible tennis match against another player .
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   68 The_AT languages_NN2 they_PPHS2 speak_VV0 may_VM be_VBI different_JJ ,_, but_CCB that_DD1 does_VDZ not_XX stop_VVI someone_PN1 from_II playing_VVG an_AT1 incredible_JJ tennis_NN1 match_NN1 against_II another_DD1 player_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    5   69 Therefore , showing a female athlete that competes in such an exposition is the easiest way to show to the world that America sees women as sexual objects .
+SENTPOS 2014_4_101_100_104_2 FINAL B    5   69 Therefore_RR ,_, showing_VVG a_AT1 female_JJ athlete_NN1 that_CST competes_VVZ in_II such_DA an_AT1 exposition_NN1 is_VBZ the_AT easiest_JJT way_NN1 to_TO show_VVI to_II the_AT world_NN1 that_CST America_NP1 sees_VVZ women_NN2 as_CSA sexual_JJ objects_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   70 One opposing opinion may include the not-so-unusual saying " sex sells . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   70 One_MC1 opposing_JJ opinion_NN1 may_VM include_VVI the_AT not-so-unusual_JJ saying_NN1@ "_" sex_NN1 sells_VVZ ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   71 A story that may support this includes one about women 's volleyball in the Olympics .
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   71 A_AT1 story_NN1 that_CST may_VM support_VVI this_DD1 includes_VVZ one_PN1 about_II women_NN2 's_GE volleyball_NN1 in_II the_AT Olympics_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   72 The uniform for the 2012 Summer Olympics in London was very skimpy to say the least .
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   72 The_AT uniform_NN1 for_IF the_AT 2012_MC Summer_NNT1 Olympics_NN2 in_II London_NP1 was_VBDZ very_RG skimpy_JJ to_TO say_VVI the_AT least_RRT ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   73 It was against the Muslim religion for such women to play their sport in .
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   73 It_PPH1 was_VBDZ against_II the_AT Muslim_JJ religion_NN1 for_IF such_DA women_NN2 to_TO play_VVI their_APPGE sport_NN1 in_RP@ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   74 Therefore , they were allowed to wear more clothes .
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   74 Therefore_RR ,_, they_PPHS2 were_VBDR allowed_VVN to_TO wear_VVI more_DAR clothes_NN2 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   75 One NY Post writer felt a uniform is a uniform , and everyone must wear it .
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   75 One_MC1 NY_NP1 Post_NN1 writer_NN1 felt_VVD a_AT1 uniform_NN1 is_VBZ a_AT1 uniform_NN1 ,_, and_CC everyone_PN1 must_VM wear_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   76 His response to the Muslims covering up was , " Now competitors can wear whatever they want -- although it could wind up making the Olympics ' sexiest sport to look more like a weekend rec league . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   76 His_APPGE response_NN1 to_II the_AT Muslims_NN2 covering_VVG up_RP was_VBDZ ,_, "_" Now_RT competitors_NN2 can_VM wear_VVI whatever_DDQV they_PPHS2 want_VV0 --_JJ although_CS it_PPH1 could_VM wind_VVI up_RP making_VVG the_AT Olympics_NN2 '_GE sexiest_JJT sport_NN1 to_TO look_VVI more_RRR like_II a_AT1 weekend_NNT1 rec_NN1 league_NN1 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    6   77 Based on that statement , I assume that is evidence that he only watches women 's volleyball because he believes it is " the Olympics ' sexiest sport . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    6   77 Based_VVN on_II that_DD1 statement_NN1 ,_, I_PPIS1 assume_VV0 that_DD1 is_VBZ evidence_NN1 that_CST he_PPHS1 only_RR watches_VVZ women_NN2 's_GE volleyball_NN1 because_CS he_PPHS1 believes_VVZ it_PPH1 is_VBZ "_" the_AT Olympics_NN2 '_GE sexiest_JJT sport_NN1 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    7   78 ( Buzinski ) On the other hand , to quote The Nation writer Mary Jo Kane again , " Sex sells sex , not women 's sports . "
+SENTPOS 2014_4_101_100_104_2 FINAL B    7   78 (_( Buzinski_NP1@ )_) On_II the_AT other_JJ hand_NN1 ,_, to_TO quote_VVI The_AT Nation_NN1 writer_NN1 Mary_NP1 Jo_NP1 Kane_NP1 again_RT ,_, "_" Sex_NN1 sells_VVZ sex_NN1 ,_, not_XX women_NN2 's_GE sports_NN2 ._. "_"
+SENTPOS 2014_4_101_100_104_2 FINAL A    7   79 A study was done questioning how people felt about athletes ( both male and female ) who were known better for their looks than their athletic ability .
+SENTPOS 2014_4_101_100_104_2 FINAL B    7   79 A_AT1 study_NN1 was_VBDZ done_VDN questioning_NN1 how_RRQ people_NN felt_VVD about_II athletes_NN2 (_( both_RR male_JJ and_CC female_NN1 )_) who_PNQS were_VBDR known_VVN better_RRR for_IF their_APPGE looks_NN2@ than_CSN their_APPGE athletic_JJ ability_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    7   80 These athletes were perceived as less talented , less aggressive , and less heroic .
+SENTPOS 2014_4_101_100_104_2 FINAL B    7   80 These_DD2 athletes_NN2 were_VBDR perceived_VVN as_RG@ less_RGR talented_JJ ,_, less_RGR aggressive_JJ ,_, and_CC less_RGR heroic_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   81 ( Daniels , Wartena ) So I guess the key question we need to go back to is : Why would a woman put herself in such a position ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   81 (_( Daniels_NP1 ,_, Wartena_NP1 )_) So_CS@ I_PPIS1 guess_VV0 the_AT key_JJ question_NN1 we_PPIS2 need_VV0 to_TO go_VVI back_RP to_TO is_VBZ :_: Why_RRQ would_VM a_AT1 woman_NN1 put_VVI herself_PPX1 in_II such_DA a_AT1 position_NN1 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   82 Does she wish to be perceived as less talented , less aggressive , and less heroic ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   82 Does_VDZ she_PPHS1 wish_VVI to_TO be_VBI perceived_VVN as_RG@ less_RGR talented_JJ ,_, less_RGR aggressive_JJ ,_, and_CC less_RGR heroic_JJ ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   83 Well , from my research , the only thing I can think of is that they are afraid of change or power , or maybe it 's the classic " any attention is better than none " thought process .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   83 Well_RR ,_, from_II my_APPGE research_NN1 ,_, the_AT only_JJ thing_NN1 I_PPIS1 can_VM think_VVI of_IO is_VBZ that_CST they_PPHS2 are_VBR afraid_JJ of_IO change_NN1 or_CC power_NN1 ,_, or_CC maybe_RR it_PPH1 's_VBZ the_AT classic_NN1 "_" any_DD attention_NN1 is_VBZ better_JJR than_CSN none_PN "_" thought_VVD process_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   84 Well , Title IX was not written for nothing .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   84 Well_RR ,_, Title_NN1 IX_MC was_VBDZ not_XX written_VVN for_IF nothing_PN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   85 These female athletes are physically strong women who need to become mentally strong .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   85 These_DD2 female_JJ athletes_NN2 are_VBR physically_RR strong_JJ women_NN2 who_PNQS need_VV0 to_TO become_VVI mentally_RR strong_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   86 They need to fight for their ability to show off their strength and not let anyone let them feel inferior .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   86 They_PPHS2 need_VV0 to_TO fight_VVI for_IF their_APPGE ability_NN1 to_TO show_VVI off_RP their_APPGE strength_NN1 and_CC not_XX let_VVN@ anyone_PN1 let_VVD@ them_PPHO2 feel_VVI inferior_JJ ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   87 These women could be great role models to young women who struggle with body image .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   87 These_DD2 women_NN2 could_VM be_VBI great_JJ role_NN1 models_NN2 to_II young_JJ women_NN2 who_PNQS struggle_VV0@ with_IW body_NN1 image_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   88 However , coming off as a sexual object continues this idea of self-objectification .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   88 However_RR ,_, coming_VVG off_RP as_II a_AT1 sexual_JJ object_NN1 continues_VVZ this_DD1 idea_NN1 of_IO self-objectification_NN1 ._.
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   89 Women must work together to answer the question researcher Kristin Harrison of the University of Michigan asked : What features of sports magazines are beneficial to young women , and are they offsetting the detrimental features ?
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   89 Women_NN2 must_VM work_VVI together_RL to_TO answer_VVI the_AT question_NN1 researcher_NN1 Kristin_NP1 Harrison_NP1 of_IO the_AT University_NN1 of_IO Michigan_NP1 asked_VVD :_: What_DDQ features_NN2 of_IO sports_NN2 magazines_NN2 are_VBR beneficial_JJ to_II young_JJ women_NN2 ,_, and_CC are_VBR they_PPHS2 offsetting_VVG the_AT detrimental_JJ features_NN2 ?_?
+SENTPOS 2014_4_101_100_104_2 FINAL A    8   89  ( Exposure ) These women are not objects , and when they start believing it and showing that to the world , women across the country may realize the same thing .
+SENTPOS 2014_4_101_100_104_2 FINAL B    8   89  (_( Exposure_NN1 )_) These_DD2 women_NN2 are_VBR not_XX objects_NN2 ,_, and_CC when_CS they_PPHS2 start_VV0 believing_VVG it_PPH1 and_CC showing_VVG that_CST to_II the_AT world_NN1 ,_, women_NN2 across_II the_AT country_NN1 may_VM realize_VVI the_AT same_DA thing_NN1 ._.

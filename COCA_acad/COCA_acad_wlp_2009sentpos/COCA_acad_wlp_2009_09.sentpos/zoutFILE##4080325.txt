@@ -1,0 +1,224 @@
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    0 IT 'S HARD TO give advice to writers or to people who feel they would like to write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    0 IT_NN1_PPH1@ 'S_VBZ HARD_JJ TO_TO give_VVI advice_NN1 to_II writers_NN2 or_CC to_II people_NN who_PNQS feel_VV0 they_PPHS2 would_VM like_VVI to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    1 I seldom do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    1 I_PPIS1 seldom_RR do_VD0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    2 But for the last year 1991-1992 , I have been teaching a small workshop of novelists at the New York University graduate program , and together we 've developed some maxims that work for us : The decision to become an artist is one that must be made or recognized alone .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    2 But_II21_CCB for_II22_IF the_AT last_MD year_NNT1 1991-1992_MCMC ,_Y I_PPIS1 have_VH0 been_VBN teaching_VVG a_AT1 small_JJ workshop_NN1 of_IO novelists_NN2 at_II the_AT New_NP1 York_NP1 University_NN1 graduate_NN1_VV0 program_NN1 ,_Y and_CC together_RL we_PPIS2 've_VH0 developed_VVN some_DD maxims_NN2 that_CST work_VV0_NN1 for_IF us_PPIO2 :_Y The_AT decision_NN1 to_TO become_VVI an_AT1 artist_NN1 is_VBZ one_PN1 that_CST must_VM be_VBI made_VVN or_CC recognized_VVD_VVN alone_RR_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    3 When I was young , 19 or 20 , I used to write short stories and send them off to magazines .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    3 When_CS_RRQ I_PPIS1 was_VBDZ young_JJ ,_Y 19_MC or_CC 20_MC ,_Y I_PPIS1 used_VMK to_TO write_VVI short_JJ stories_NN2 and_CC send_VVI them_PPHO2 off_RP to_II magazines_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    4 I developed a regular correspondence with an editor at one of them who , while rejecting my stories , often wrote cheerful letters .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    4 I_PPIS1 developed_VVD a_AT1 regular_JJ correspondence_NN1 with_IW an_AT1 editor_NN1 at_II one_MC1 of_IO them_PPHO2 who_PNQS ,_Y while_CS rejecting_VVG my_APPGE stories_NN2 ,_Y often_RR wrote_VVD cheerful_JJ letters_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    5 After a year or two of this , I applied to the graduate program in writing at Columbia .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    5 After_CS_II a_AT1 year_NNT1 or_CC two_MC of_IO this_DD1 ,_Y I_PPIS1 applied_VVD to_II the_AT graduate_NN1 program_NN1 in_II writing_VVG_NN1 at_II Columbia_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    6 When I was accepted and considering moving my life east , where I knew no one , to be a debt-laden student at 24 , I wrote to the magazine editor and asked " Do you think I have the talent to make it as a writer ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    6 When_CS_RRQ I_PPIS1 was_VBDZ accepted_VVN_JJ and_CC considering_CS_II moving_VVG my_APPGE life_NN1 east_ND1 ,_Y where_CS_RRQ I_PPIS1 knew_VVD no_PN121 one_PN122 ,_Y to_TO be_VBI a_AT1 debt-laden_JJ_NN1 student_NN1 at_II 24_MC ,_Y I_PPIS1 wrote_VVD to_II the_AT magazine_NN1 editor_NN1 and_CC asked_VVD "_Y Do_VD0 you_PPY think_VVI I_PPIS1 have_VH0 the_AT talent_NN1 to_TO make_VVI it_PPH1 as_II_CSA a_AT1 writer_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    7 mumbling something about decisions one has to make oneself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    7 mumbling_VVG something_PN1 about_II decisions_NN2 one_PN1_MC1 has_VHZ to_TO make_VVI oneself_PNX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    8 He was a kind man .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    8 He_PPHS1 was_VBDZ a_AT1 kind_NN1_JJ@ man_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0    9 But no one should have the power to tell you what you can and can not do .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0    9 But_CCB no_PN121 one_PN122 should_VM have_VHI the_AT power_NN1 to_TO tell_VVI you_PPY what_DDQ you_PPY can_VM_VV0% and_CC can_VM not_XX do_VDI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   10 So much of writing is a matter of grand leaps .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   10 So_RR much_DA1 of_IO writing_NN1_VVG is_VBZ a_AT1 matter_NN1 of_IO grand_JJ leaps_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   11 All the judge -- in this case , my faceless editor in the East -- has to go on is words on pages written now .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   11 All_DB the_AT judge_NN1 --_NN1 in_II this_DD1 case_NN1 ,_Y my_APPGE faceless_JJ editor_NN1 in_II the_AT East_ND1 --_NN1 has_VHZ to_TO go_VVI on_RP@ is_VBZ words_NN2 on_II pages_NN2 written_VVN now_RT ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   12 He ca n't imagine or predict what your imagination will be capable of in a year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   12 He_PPHS1 ca_VM n't_XX imagine_VVI or_CC predict_VVI what_DDQ your_APPGE imagination_NN1 will_VM be_VBI capable_JJ of_IO in_II a_AT1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   13 A commitment to writing is a serious and abiding vocation .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   13 A_AT1 commitment_NN1 to_II writing_NN1_VVG is_VBZ a_AT1 serious_JJ and_CC abiding_JJ_VVG vocation_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   14 It will direct and order your daily life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   14 It_PPH1 will_VM direct_VVI and_CC order_VVI your_APPGE daily_JJ life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   15 If you want it badly enough , you must begin to make arrangements .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   15 If_CS you_PPY want_VV0 it_PPH1 badly_RR enough_RR ,_Y you_PPY must_VM begin_VVI to_TO make_VVI arrangements_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   16 Everyone has a different way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   16 Everyone_PN1 has_VHZ a_AT1 different_JJ way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   17 Some bold young people stand on top of college desks declaring that they are going to be writers ; other people quietly let all else go falling around them , failing jobs , failing to earn food , failing to do the expected .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   17 Some_DD bold_JJ young_JJ people_NN stand_VV0 on_II31 top_II32 of_II33 college_NN1 desks_NN2 declaring_VVG that_CST they_PPHS2 are_VBR going_VVGK to_TO be_VBI writers_NN2 ;_Y other_JJ people_NN quietly_RR let_VV0 all_DB_RR@ else_RR go_VVI falling_VVG around_II them_PPHO2 ,_Y failing_VVG jobs_NN2 ,_Y failing_VVG to_TO earn_VVI food_NN1 ,_Y failing_VVG to_TO do_VDI the_AT expected_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   18 But whatever his way , the artist declares himself .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   18 But_CCB whatever_DDQV his_APPGE way_NN1 ,_Y the_AT artist_NN1 declares_VVZ himself_PPX1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   19 Try , as much as possible , to develop once or twice and the feeling goes away , let it pass .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   19 Try_VV0 ,_Y as_RG much_DA1 as_CSA possible_JJ ,_Y to_TO develop_VVI once_RR or_CC twice_RR and_CC the_AT feeling_NN1 goes_VVZ away_RL ,_Y let_VV0 it_PPH1 pass_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   20 If you feel you have some great stories to tell if only you had the time to sit down and write them , speak up at dinner parties .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   20 If_CS you_PPY feel_VV0 you_PPY have_VH0 some_DD great_JJ stories_NN2 to_TO tell_VVI if_CS only_RR you_PPY had_VHD the_AT time_NNT1 to_TO sit_VVI down_RP and_CC write_VVI them_PPHO2 ,_Y speak_VV0 up_RP at_II dinner_NN1 parties_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   21 But if you are persistently tormented by the idea of writing or becoming a writer and genuinely enchanted when you write a paragraph or a short story that seems strange and complete to you , then try to arrange your life in a way so that you can read and write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   21 But_CCB if_CS you_PPY are_VBR persistently_RR tormented_VVN by_II the_AT idea_NN1 of_IO writing_NN1_VVG or_CC becoming_VVG a_AT1 writer_NN1 and_CC genuinely_RR enchanted_VVN_VVD when_CS_RRQ you_PPY write_VV0 a_AT1 paragraph_NN1 or_CC a_AT1 short_JJ story_NN1 that_CST_DD1 seems_VVZ strange_JJ and_CC complete_VV0_JJ to_II you_PPY ,_Y then_RT try_VV0 to_TO arrange_VVI your_APPGE life_NN1 in_II a_AT1 way_NN1 so_CS21 that_CS22 you_PPY can_VM read_VVI and_CC write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   22 Try not to become overly obsessed with questions such as " Do I have the talent ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   22 Try_VV0 not_XX to_TO become_VVI overly_RR obsessed_JJ with_IW questions_NN2 such_II21 as_II22 "_Y Do_VD0 I_PPIS1 have_VHI the_AT talent_NN1 ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   23 " If you want to write , particularly if you want to write novels , you must somehow make the time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   23 "_Y If_CS you_PPY want_VV0 to_TO write_VVI ,_Y particularly_RR if_CS you_PPY want_VV0 to_TO write_VVI novels_NN2 ,_Y you_PPY must_VM somehow_RR make_VVI the_AT time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   24 You need lots and lots of time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   24 You_PPY need_VV0 lots_PN and_CC lots_PN of_IO time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   25 You need time to make mistakes , you need days to mull and get little down on paper , you need time on both sides of you to feel truly free .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   25 You_PPY need_VV0 time_NNT1 to_TO make_VVI mistakes_NN2 ,_Y you_PPY need_VV0 days_NNT2 to_TO mull_VVI and_CC get_VVI little_RR_DA1 down_RP on_II paper_NN1 ,_Y you_PPY need_VV0 time_NNT1 on_II both_DB2 sides_NN2 of_IO you_PPY to_TO feel_VVI truly_RR free_JJ_VV0@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   26 Of course , unless you are a millionaire or a nun in an unusually endowed cloister , you to get solitude .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   26 Of_RR21 course_RR22 ,_Y unless_CS you_PPY are_VBR a_AT1 millionaire_NN1 or_CC a_AT1 nun_NN1 in_II an_AT1 unusually_RR endowed_VVN_JJ@_VVD cloister_NN1 ,_Y you_PPY to_TO get_VVI solitude_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   27 Regular time is more valuable to most writers than irregular blocks of time , and whole days are luxury and treasure .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   27 Regular_JJ time_NNT1 is_VBZ more_RGR valuable_JJ to_II most_DAT writers_NN2 than_CSN irregular_JJ blocks_NN2 of_IO time_NNT1 ,_Y and_CC whole_JJ days_NNT2 are_VBR luxury_JJ and_CC treasure_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   28 Set up a schedule and stick to it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   28 Set_VV0 up_RP a_AT1 schedule_NN1 and_CC stick_VV0_NN1 to_II it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   29 Resist the temptation to alter your schedule when things in life arise .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   29 Resist_VV0 the_AT temptation_NN1 to_TO alter_VVI your_APPGE schedule_NN1 when_RRQ_CS things_NN2 in_II life_NN1 arise_VV0 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   30 Because they always will .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   30 Because_CS they_PPHS2 always_RR will_VM_VV0%_NN1@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   31 When a friend is upset , an aunt is in town , the dog needs to go to the vet , remind yourself that people with regular hours manage to be humane and kind without wandering out of the office for three hours in the afternoon .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   31 When_CS a_AT1 friend_NN1 is_VBZ upset_VVN_JJ ,_Y an_AT1 aunt_NN1 is_VBZ in_II town_NN1 ,_Y the_AT dog_NN1 needs_VVZ_NN2 to_TO go_VVI to_II the_AT vet_NN1 ,_Y remind_VV0 yourself_PPX1 that_CST people_NN with_IW regular_JJ hours_NNT2 manage_VV0 to_TO be_VBI humane_JJ and_CC kind_NN1 without_IW wandering_VVG out_II21 of_II22 the_AT office_NN1 for_IF three_MC hours_NNT2 in_II the_AT afternoon_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   32 Think of yourself as a surgeon or as a senator .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   32 Think_VV0 of_IO yourself_PPX1 as_II_CSA a_AT1 surgeon_NN1 or_CC as_II_CSA a_AT1 senator_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   33 Your schedule needs to be that sacrosanct .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   33 Your_APPGE schedule_NN1 needs_VVZ_NN2 to_TO be_VBI that_RG sacrosanct_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   34 No one else will see it that way .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   34 No_PN121 one_PN122 else_RR will_VM see_VVI it_PPH1 that_DD1 way_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   35 You must first .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   35 You_PPY must_VM first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   36 Stay at your desk even on the days that seem dull and uninspired .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   36 Stay_VV0 at_II your_APPGE desk_NN1 even_RR on_II the_AT days_NNT2 that_CST seem_VV0 dull_JJ and_CC uninspired_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   37 Often inspiration comes out of the work , out of reading .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   37 Often_RR inspiration_NN1 comes_VVZ out_II21 of_II22 the_AT work_NN1 ,_Y out_II21 of_II22 reading_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   38 Often inspiration comes the hour before you have to go .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   38 Often_RR inspiration_NN1 comes_VVZ the_AT hour_NNT1 before_CS you_PPY have_VH0 to_TO go_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   39 Invest in your work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   39 Invest_VV0 in_II_RP@ your_APPGE work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   40 Use whatever resources you have , in terms of time or money , for what you want a year from your job-job , go where you need to go to write .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   40 Use_VV0 whatever_DDQV resources_NN2 you_PPY have_VH0 ,_Y in_II31 terms_II32 of_II33 time_NNT1 or_CC money_NN1 ,_Y for_IF what_DDQ you_PPY want_VV0 a_AT1 year_NNT1 from_II your_APPGE job-job_NN1_JJ ,_Y go_VV0 where_CS you_PPY need_VV0 to_TO go_VVI to_TO write_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   41 If that means you pay for three-hours-a-day day care instead of buying the new couch , go ahead .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   41 If_CS that_DD1 means_VVZ you_PPY pay_VV0 for_IF three-hours-a-day_JJ_NNT1 day_NNT1 care_NN1_VV0 instead_II21 of_II22 buying_VVG the_AT new_JJ couch_NN1 ,_Y go_VV0 ahead_RL ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   42 Try to be brave .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   42 Try_VV0 to_TO be_VBI brave_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   43 Try not to think of the outcome and of your chances of succeeding unduly much .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   43 Try_VV0 not_XX to_TO think_VVI of_IO the_AT outcome_NN1 and_CC of_IO your_APPGE chances_NN2 of_IO succeeding_VVG_JJ unduly_RR much_RR_DA1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   44 If you are anxious by nature , it may help if you decide to devote yourself to writing for a year .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   44 If_CS you_PPY are_VBR anxious_JJ by_II nature_NN1 ,_Y it_PPH1 may_VM help_VVI if_CSW@_CS you_PPY decide_VV0 to_TO devote_VVI yourself_PPX1 to_II writing_VVG_NN1 for_IF a_AT1 year_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   45 Promise yourself that after that one year , you may re-evaluate .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   45 Promise_VV0 yourself_PPX1 that_CST after_CS_II that_DD1 one_MC1 year_NNT1 ,_Y you_PPY may_VM re-evaluate_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   46 A year is not a long period to give to a vocation you believe may fulfill you .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   46 A_AT1 year_NNT1 is_VBZ not_XX a_AT1 long_JJ period_NN1 to_TO give_VVI to_II a_AT1 vocation_NN1 you_PPY believe_VV0 may_VM fulfill_VVI you_PPY ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   47 Forget vacations .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   47 Forget_VV0 vacations_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   48 You do n't need vacations ; you need to work , you need to grow into working , you need to feel the shape of a life immersed in work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   48 You_PPY do_VD0 n't_XX need_VVI vacations_NN2 ;_Y you_PPY need_VV0 to_TO@_II work_VVI_NN1 ,_Y you_PPY need_VV0 to_TO grow_VVI into_II working_VVG ,_Y you_PPY need_VV0 to_TO feel_VVI the_AT shape_NN1 of_IO a_AT1 life_NN1 immersed_VVN_VVD in_II work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   49 A week with old friends , the weekend away ... you will say you have to work , they will say , fine , we have work , too , bring your books .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   49 A_AT1 week_NNT1 with_IW old_JJ friends_NN2 ,_Y the_AT weekend_NNT1 away_RL ..._... you_PPY will_VM say_VVI you_PPY have_VH0 to_TO work_VVI ,_Y they_PPHS2 will_VM say_VVI ,_Y fine_JJ ,_Y we_PPIS2 have_VH0 work_NN1 ,_Y too_RR@_RG ,_Y bring_VV0 your_APPGE books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   50 Then you will be there , weeding their garden with them , and as you shyly by the suspicion that you should be chopping .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   50 Then_RT you_PPY will_VM be_VBI there_RL ,_Y weeding_VVG their_APPGE garden_NN1 with_IW them_PPHO2 ,_Y and_CC as_CSA you_PPY shyly_RR by_II the_AT suspicion_NN1 that_CST you_PPY should_VM be_VBI chopping_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   51 Duty is the enemy of art .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   51 Duty_NN1 is_VBZ the_AT enemy_NN1 of_IO art_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   52 Once you 've developed a solid and regular discipline , you 'll be able to allow yourself greater internal freedom in the work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   52 Once_CS@_RR you_PPY 've_VH0 developed_VVN a_AT1 solid_JJ and_CC regular_JJ discipline_NN1 ,_Y you_PPY 'll_VM be_VBI able_JK to_TO allow_VVI yourself_PPX1 greater_JJR internal_JJ freedom_NN1 in_II the_AT work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   53 Though some writers have used specific page quotas a day to spur themselves on , I discourage too direct a plan .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   53 Though_CS some_DD writers_NN2 have_VH0 used_VVN specific_JJ page_NN1 quotas_NN2 a_AT1 day_NNT1 to_TO spur_VVI themselves_PPX2 on_RP@ ,_Y I_PPIS1 discourage_VV0 too_RG direct_RR@_JJ a_AT1 plan_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   54 I think you need to explore within the work , on many levels , including the structural .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   54 I_PPIS1 think_VV0 you_PPY need_VV0 to_TO explore_VVI within_II the_AT work_NN1 ,_Y on_II many_DA2 levels_NN2 ,_Y including_II_VVG@ the_AT structural_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   55 Perfect is the enemy of good .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   55 Perfect_JJ_VV0@ is_VBZ the_AT enemy_NN1 of_IO good_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   56 My friend Allan Gurganus used to say this to his classes .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   56 My_APPGE friend_NN1 Allan_NP1 Gurganus_NP1 used_VMK to_TO say_VVI this_DD1 to_II his_APPGE classes_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   57 At Yaddo one morning at break , he and Joseph Caldwell agreed that the cure for writer 's block was easy : Lower your standards .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   57 At_II Yaddo_NP1_NN1 one_MC1 morning_NNT1 at_II break_NN1 ,_Y he_PPHS1 and_CC Joseph_NP1 Caldwell_NP1 agreed_VVD that_CST the_AT cure_NN1 for_IF writer_NN1 's_GE block_NN1 was_VBDZ easy_JJ :_Y Lower_VV0@ your_APPGE standards_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   58 By this , they meant nothing cynical .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   58 By_II this_DD1 ,_Y they_PPHS2 meant_VVD nothing_PN1 cynical_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   59 We should not expect every first draft to be a masterpiece .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   59 We_PPIS2 should_VM not_XX expect_VVI every_AT1 first_MD draft_NN1_VV0 to_TO be_VBI a_AT1 masterpiece_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   60 Many of us work in many drafts like many layers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   60 Many_DA2 of_IO us_PPIO2 work_VV0_NN1 in_II_RP@ many_DA2 drafts_NN2 like_II many_DA2 layers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   61 For some novelists , the first draft is sketchy and structural , all architecture , to be detailed and colored later .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   61 For_IF some_DD novelists_NN2 ,_Y the_AT first_MD draft_NN1 is_VBZ sketchy_JJ and_CC structural_JJ ,_Y all_DB architecture_NN1 ,_Y to_TO be_VBI detailed_JJ_VVN@ and_CC colored_VVD later_RRR_JJR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   62 For others , character comes first .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   62 For_IF others_NN2 ,_Y character_NN1 comes_VVZ first_MD ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   63 Some people write very slowly , rewriting .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   63 Some_DD people_NN write_VV0 very_RG slowly_RR ,_Y rewriting_NN1@_JJ@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   64 No one can teach you the specifics of how to write a novel .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   64 No_PN121 one_PN122 can_VM teach_VVI you_PPY the_AT specifics_NN2 of_IO how_RRQ to_TO write_VVI a_AT1 novel_NN1_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   65 How you work is a deeply personal matter , as idiosyncratic and varied as how we each love .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   65 How_RRQ you_PPY work_VV0 is_VBZ a_AT1 deeply_RR personal_JJ matter_NN1 ,_Y as_CSA_RG@ idiosyncratic_JJ and_CC varied_VVN_VVD as_II@ how_RRQ we_PPIS2 each_DD1 love_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   66 You need to discover , as you work , what your methods are .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   66 You_PPY need_VV0 to_TO discover_VVI ,_Y as_CSA you_PPY work_VV0 ,_Y what_DDQ your_APPGE methods_NN2 are_VBR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   67 Trial and error are the only teachers .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   67 Trial_NN1 and_CC error_NN1 are_VBR the_AT only_JJ teachers_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   68 The more you work , the less pressure will be on you to do it exactly right the first time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   68 The_AT more_RGR_DAR_RRR you_PPY work_VV0 ,_Y the_AT less_DAR pressure_NN1 will_VM be_VBI on_II you_PPY to_TO do_VDI it_PPH1 exactly_RR right_RR the_AT first_MD time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   69 The longer you devote yourself to your art , the easier it will become to recognize and trust your instincts .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   69 The_AT longer_JJR_RRR you_PPY devote_VV0 yourself_PPX1 to_II your_APPGE art_NN1 ,_Y the_AT easier_JJR_RRR it_PPH1 will_VM become_VVI to_TO recognize_VVI and_CC trust_VVI your_APPGE instincts_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   70 As much as possible , discover which form you are most comfortable writing in .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   70 As_RG much_DA1 as_CSA possible_JJ ,_Y discover_VV0 which_DDQ form_VV0 you_PPY are_VBR most_RGT comfortable_JJ writing_NN1_VVG in_RP@_II ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   71 Many people write both short stories and novels , but few excel in both forms .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   71 Many_DA2 people_NN write_VV0 both_RR short_JJ stories_NN2 and_CC novels_NN2 ,_Y but_CCB few_DA2 excel_VV0 in_II both_DB2 forms_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   72 Writers of short stories believe in epiphanies , they believe in realizations , in moments , in dramatic realization , changing a life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   72 Writers_NN2 of_IO short_JJ stories_NN2 believe_VV0 in_II_RP@ epiphanies_NN2 ,_Y they_PPHS2 believe_VV0 in_II_RP@ realizations_NN2 ,_Y in_II moments_NN2 ,_Y in_II dramatic_JJ realization_NN1 ,_Y changing_VVG a_AT1 life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   73 For the most part , novelists do n't .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   73 For_RR41 the_RR42 most_RR43 part_RR44 ,_Y novelists_NN2 do_VD0 n't_XX ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   74 They believe in the various effects of time .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   74 They_PPHS2 believe_VV0 in_II_RP@ the_AT various_JJ effects_NN2 of_IO time_NNT1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   75 For every epiphany , they see repetition , recidivism , stillness , no change , one step forward , how to be a great artist .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   75 For_IF every_AT1 epiphany_NN1 ,_Y they_PPHS2 see_VV0 repetition_NN1 ,_Y recidivism_NN1 ,_Y stillness_NN1 ,_Y no_AT_UH change_NN1 ,_Y one_MC1 step_NN1_VV0 forward_RL ,_Y how_RRQ to_TO be_VBI a_AT1 great_JJ artist_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   76 It only makes sense to talk about how to work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   76 It_PPH1 only_RR makes_VVZ sense_NN1 to_TO talk_VVI about_II how_RRQ to_TO@ work_VVI ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   77 One ca n't prescribe inspiration or miracle ; one can only discuss how to encourage those flights .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   77 One_PN1 ca_VM n't_XX prescribe_VVI inspiration_NN1 or_CC miracle_NN1 ;_Y one_PN1 can_VM only_RR discuss_VVI how_RRQ to_TO encourage_VVI those_DD2 flights_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   78 Discover your natural tendencies , and consider experiments to go against your grain .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   78 Discover_VV0 your_APPGE natural_JJ tendencies_NN2 ,_Y and_CC consider_VV0 experiments_NN2 to_TO go_VVI against_II your_APPGE grain_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   79 As a teacher , it 's hard to recommend alcohol or drugs , but I 've been tempted , sometimes , with good writers who ca n't seem to loosen up , with writers who were always overly good students , used to neat assignments , immediate results and straight As .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   79 As_II_CSA a_AT1 teacher_NN1 ,_Y it_PPH1 's_VBZ hard_JJ to_TO recommend_VVI alcohol_NN1 or_CC drugs_NN2 ,_Y but_CCB I_PPIS1 've_VH0 been_VBN tempted_VVN ,_Y sometimes_RT ,_Y with_IW good_JJ writers_NN2 who_PNQS ca_VM n't_XX seem_VVI to_TO loosen_VVI up_RP ,_Y with_IW writers_NN2 who_PNQS were_VBDR always_RR overly_RR good_JJ students_NN2 ,_Y used_VVN_VVD to_II neat_JJ assignments_NN2 ,_Y immediate_JJ results_NN2 and_CC straight_RR_JJ As_CSA_II@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   80 Of course , with self-styled mavericks , who thrive on irresponsibility , one wonders what a month of simple , restricted life could give the work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   80 Of_RR21 course_RR22 ,_Y with_IW self-styled_JJ mavericks_NN2 ,_Y who_PNQS thrive_VV0 on_II_RP@ irresponsibility_NN1 ,_Y one_PN1_MC1 wonders_VVZ what_DDQ a_AT1 month_NNT1 of_IO simple_JJ ,_Y restricted_JJ life_NN1 could_VM give_VVI the_AT work_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   81 Practice reading aloud .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   81 Practice_NN1 reading_VVG_NN1 aloud_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   82 Often , we agonize over a given line or paragraph .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   82 Often_RR ,_Y we_PPIS2 agonize_VV0 over_RP_II a_AT1 given_JJ@ line_NN1 or_CC paragraph_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   83 " Is it brilliant or is it really stupid or embarrassing ?
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   83 "_Y Is_VBZ it_PPH1 brilliant_JJ or_CC is_VBZ it_PPH1 really_RR stupid_JJ or_CC embarrassing_JJ ?_Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   84 " We want to cut it , but then again it may be our bravest , best work .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   84 "_Y We_PPIS2 want_VV0 to_TO cut_VVI it_PPH1 ,_Y but_CCB then_RT again_RT it_PPH1 may_VM be_VBI our_APPGE bravest_JJT ,_Y best_RRT_JJT work_VV0_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   85 Somehow , at a podium , reading in front of an audience that matters to you brilliant or stupid , and if , as is all too often the case , it 's the latter , you 'll find yourself cutting it .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   85 Somehow_RR ,_Y at_II a_AT1 podium_NN1 ,_Y reading_VVG in_II31 front_II32 of_II33 an_AT1 audience_NN1 that_CST matters_NN2_VVZ@ to_II you_PPY brilliant_JJ or_CC stupid_JJ ,_Y and_CC if_CS_CSW@ ,_Y as_CSA is_VBZ all_RR too_RG often_RR the_AT case_NN1 ,_Y it_PPH1 's_VBZ the_AT latter_DA ,_Y you_PPY 'll_VM find_VVI yourself_PPX1 cutting_VVG it_PPH1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   86 Reading aloud , preferably to an audience of some kind , is a fine editor .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   86 Reading_VVG_NP1 aloud_RR ,_Y preferably_RR to_II an_AT1 audience_NN1 of_IO some_DD kind_NN1 ,_Y is_VBZ a_AT1 fine_JJ editor_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   87 Read great books .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   87 Read_VV0 great_JJ books_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   88 Read and reread your favorite classics .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   88 Read_VV0_VVN and_CC reread_VVD_VV0 your_APPGE favorite_JJ_NN1 classics_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   89 Keep your eyes on the stars .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   89 Keep_VV0 your_APPGE eyes_NN2 on_II the_AT stars_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   90 Avoid envy as much as possible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   90 Avoid_VV0 envy_VV0_NN1 as_RG much_DA1 as_CSA possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   91 The only cure for it is a healthy interest and attention to your own work , and the expansion that comes from reading truly great literature .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   91 The_AT only_JJ cure_NN1 for_IF it_PPH1 is_VBZ a_AT1 healthy_JJ interest_NN1 and_CC attention_NN1 to_II your_APPGE own_DA work_NN1 ,_Y and_CC the_AT expansion_NN1 that_CST_DD1 comes_VVZ from_II reading_VVG truly_RR great_JJ literature_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   92 Reading this week 's bestseller is apt to make you feel smaller in your life .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   92 Reading_VVG_NP1 this_DD1 week_NNT1 's_GE bestseller_NN1 is_VBZ apt_JJ to_TO make_VVI you_PPY feel_VVI smaller_JJR in_II your_APPGE life_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   93 After reading Chekhov and Tolstoy , Proust or George Eliot , anything is possible .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   93 After_II reading_VVG Chekhov_NP1 and_CC Tolstoy_NP1 ,_Y Proust_NP1 or_CC George_NP1 Eliot_NP1 ,_Y anything_PN1 is_VBZ possible_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   94 On the other hand , some of my students enjoy reading and browsing in bookstores when they feel low .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   94 On_II the_AT other_JJ hand_NN1 ,_Y some_DD of_IO my_APPGE students_NN2 enjoy_VV0 reading_NN1_VVG and_CC browsing_VVG_NN1 in_II_RP@ bookstores_NN2 when_CS_RRQ they_PPHS2 feel_VV0 low_JJ_RR@ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   95 The surge of " I can do better than this " gets them back and writing .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   95 The_AT surge_NN1 of_IO "_Y I_PPIS1_ZZ1% can_VM do_VDI better_RRR than_CSN this_DD1 "_Y gets_VVZ them_PPHO2 back_RP and_CC writing_NN1_VVG ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   96 As soon as possible , find an audience among your friends .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   96 As_RG soon_RR as_CSA possible_JJ ,_Y find_VV0 an_AT1 audience_NN1 among_II your_APPGE friends_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   97 It is important to find critics you trust and respect .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   97 It_PPH1 is_VBZ important_JJ to_TO find_VVI critics_NN2 you_PPY trust_VV0 and_CC respect_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   98 Many people have found colleagues or privately .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   98 Many_DA2 people_NN have_VH0 found_VVN colleagues_NN2 or_CC privately_RR ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0   99 I recommend listening to what the readers say about your story or chapter , writing it all down ( making clear notes as to who said what ) , and then looking the comments over later , in an hour of greater tranquility .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0   99 I_PPIS1 recommend_VV0 listening_VVG_NN1_JJ to_II what_DDQ the_AT readers_NN2 say_VV0 about_II your_APPGE story_NN1 or_CC chapter_NN1 ,_Y writing_VVG it_PPH1 all_DB down_RP (_Y making_VVG clear_JJ notes_NN2 as_II21 to_II22 who_PNQS said_VVD what_DDQ )_Y ,_Y and_CC then_RT looking_VVG the_AT comments_NN2 over_II_RP later_JJR_RRR ,_Y in_II an_AT1 hour_NNT1 of_IO greater_JJR tranquility_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  100 Some comments may strike you as inapt .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  100 Some_DD comments_NN2 may_VM strike_VVI you_PPY as_RG@_CSA inapt_JJ ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  101 If so , ignore them .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  101 If_CS so_RR ,_Y ignore_VV0 them_PPHO2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  102 Let yourself be moved by the suggestion of a critic only if the idea he or she voiced causes a feeling of recognition in you , if an inspiration of sorts is started in you by the comment .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  102 Let_VV0 yourself_PPX1 be_VBI moved_VVN by_II the_AT suggestion_NN1 of_IO a_AT1 critic_NN1 only_RR_JJ if_CS the_AT idea_NN1 he_PPHS1 or_CC she_PPHS1 voiced_VVD causes_NN2_VVZ a_AT1 feeling_NN1 of_IO recognition_NN1 in_II you_PPY ,_Y if_CS an_AT1 inspiration_NN1 of_IO sorts_NN2 is_VBZ started_VVN@ in_II you_PPY by_II the_AT comment_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  103 In time , in a workshop , you 'll develop a feeling of respect for some readers and critics more than others .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  103 In_II time_NNT1 ,_Y in_II a_AT1 workshop_NN1 ,_Y you_PPY 'll_VM develop_VVI a_AT1 feeling_NN1 of_IO respect_NN1 for_IF some_DD readers_NN2 and_CC critics_NN2 more_RRR than_CSN others_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  104 Trust them ; ignore the rest .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  104 Trust_VV0 them_PPHO2 ;_Y ignore_VV0 the_AT rest_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  105 Art is not a simple matter of democracy .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  105 Art_NN1 is_VBZ not_XX a_AT1 simple_JJ matter_NN1 of_IO democracy_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  106 PHOTO ( BLACK WHITE ) : " Stay at your desk even an the days that seem dull and uninspired , " advised Mona Simpson in 1992 .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  106 PHOTO_NN1 (_Y BLACK_JJ WHITE_JJ_NN1@_NP1@ )_Y :_Y "_Y Stay_VV0 at_II your_APPGE desk_NN1 even_RR an_AT1 the_AT days_NNT2 that_CST seem_VV0 dull_JJ and_CC uninspired_JJ ,_Y "_Y advised_VVD Mona_NP1 Simpson_NP1 in_II 1992_MC ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  107 PHOTO ( COLOR ) : First published in May 1992 By Mona Simpson Mona Simpson is the author of Anywhere but Here , Rood .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  107 PHOTO_NN1 (_Y COLOR_NN1 )_Y :_Y First_MD published_VVN in_II May_NPM1 1992_MC By_II Mona_NP1 Simpson_NP1 Mona_NP1 Simpson_NP1 is_VBZ the_AT author_NN1 of_IO Anywhere_RL but_CCB Here_RL ,_Y Rood_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  108 She was the recipient of a Guggenheim Fellowship and Whiting Writers Award , among other honors .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  108 She_PPHS1 was_VBDZ the_AT recipient_NN1 of_IO a_AT1 Guggenheim_NP1 Fellowship_NN1 and_CC Whiting_NN Writers_NN2 Award_NN1_VV0% ,_Y among_II other_JJ honors_NN2 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  109 She teaches literature at Bard College in New York and maintains a residence in Santa Monica , Calif .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  109 She_PPHS1 teaches_VVZ literature_NN1 at_II Bard_NN1 College_NN1 in_II New_NP1 York_NP1 and_CC maintains_VVZ a_AT1 residence_NN1 in_II Santa_NP1 Monica_NP1 ,_Y Calif_NP1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  110 She is currently at work on a new book .
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  110 She_PPHS1 is_VBZ currently_RR at_II work_NN1 on_II a_AT1 new_JJ book_NN1 ._Y
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  A    0  111 
+SENTPOS COCA_acad_wlp_2009_09_FILE##4080325 COCA  B    0  111 

@@ -1,0 +1,4595 @@
+##4070874
+Shigellosis	shigellosis	nn1_np1
+is	be	vbz
+an	a	at1
+acute	acute	jj
+gastroenteritis	gastroenteritis	nn1
+caused	cause	vvn
+by	by	ii
+Shigella	shigella	np1
+species	species	nn
+.	.	y
+Forty	forty	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+were	be	vbdr
+obtained	obtain	vvn
+from	from	ii
+the	the	at
+river	river	nn1
+Narmada	narmada	nn1@_np1
+during	during	ii
+2005-2006	2005-2006	mcmc
+.	.	y
+Twenty-three	twenty-three	mc
+isolates	isolate	nn2%_vvz
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+flexneri	flexneri	nn2
+,	,	y
+10	10	mc
+as	as	csa_ii@
+S.	s	np1
+sonnei	sonnei	nn2
+,	,	y
+and	and	cc
+seven	seven	mc
+as	as	csa_ii@
+S.	s	np1
+dysenteriae	dysenteriae	nn2
+on	on	ii
+the	the	at
+basis	basis	nn1
+of	of	io
+biochemical	biochemical	jj
+tests	test	nn2
+and	and	cc
+serotyping	serotyping	vvg_nn1@
+.	.	y
+All	all	db
+the	the	at
+isolates	isolate	nn2%
+harbored	harbor	vvd
+at	at	rr21
+least	least	rr22
+one	one	mc1
+plasmid	plasmid	nn1
+(	(	y
+range	range	nn1_vv0@
+:	:	y
+1-4	1-4	mcmc
+)	)	y
+and	and	cc
+exhibited	exhibit	vvd_vvn
+12	12	mc
+distinct	distinct	jj
+plasmid	plasmid	nn1
+profile	profile	nn1
+patterns	pattern	nn2
+.	.	y
+Out	out	ii21
+of	of	ii22
+40	40	mc
+isolates	isolate	vvz
+,	,	y
+90%	90%	nnu
+were	be	vbdr
+found	find	vvn
+to	to	to
+be	be	vbi
+resistant	resistant	jj
+against	against	ii
+more	more	dar
+than	than	csn
+two	two	mc
+antibiotics	antibiotic	nn2
+.	.	y
+All	all	db
+of	of	io
+the	the	at
+isolates	isolate	nn2%
+were	be	vbdr
+resistant	resistant	jj
+to	to	ii
+ciprofloxacin	ciprofloxacin	nn1
+.	.	y
+It	it	pph1
+is	be	vbz
+noteworthy	noteworthy	jj
+that	that	cst
+all	all	db
+of	of	io
+the	the	at
+S.	s	np1_nn1@
+dysenteriae	dysenteriae	nn2
+strains	strain	nn2
+were	be	vbdr
+resistant	resistant	jj
+to	to	to
+chloramphenicol	chloramphenicol	vvi
+and	and	cc
+trimethoprim	trimethoprim	nn1_vv0
+,	,	y
+and	and	cc
+that	that	cst_dd1
+all	all	db
+of	of	io
+the	the	at
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+and	and	cc
+S.	s	np1_nn1@
+sonnei	sonnei	nn2
+strains	strain	nn2
+were	be	vbdr
+resistant	resistant	jj
+to	to	ii
+cephotaxime	cephotaxime	nn1
+,	,	y
+amikacin	amikacin	nn1
+,	,	y
+and	and	cc
+norfloxacin	norfloxacin	nn1
+,	,	y
+which	which	ddq
+can	can	vm
+be	be	vbi
+used	use	vvn
+for	for	if
+the	the	at
+treatment	treatment	nn1
+of	of	io
+shigellosis	shigellosis	nn1
+.	.	y
+Forty-two	forty-two	mc
+and	and	cc
+a	a	at1
+half	half	rr@_nn1@
+percent	percent	nnu
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz_nn2%
+were	be	vbdr
+found	find	vvn
+to	to	to
+be	be	vbi
+Congo	congo	np1
+red	red	jj_nn1
+positive	positive	jj_nn1%
+.	.	y
+Since	since	cs
+the	the	at
+Congo	congo	np1
+red	red	jj_nn1
+binding	binding	jj
+test	test	nn1
+is	be	vbz
+cheap	cheap	jj
+and	and	cc
+simple	simple	jj
+,	,	y
+it	it	pph1
+can	can	vm
+be	be	vbi
+used	use	vvn
+to	to	to
+determine	determine	vvi
+the	the	at
+virulence	virulence	nn1
+properties	property	nn2
+of	of	io
+Shigella	shigella	np1
+species	species	nn
+.	.	y
+We	we	ppis2
+could	could	vm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+and	and	cc
+plasmid	plasmid	nn1
+profile	profile	nn1
+.	.	y
+<p>	<p>	y
+The	the	at
+genus	genus	nn1
+Shigella	shigella	np1_nn1@
+is	be	vbz
+composed	compose	vvn
+of	of	io
+four	four	mc
+species	species	nn
+,	,	y
+S.	s	np1
+dysenteriae	dysenteriae	nn2
+,	,	y
+S.	s	np1
+boydii	boydii	nn2
+,	,	y
+S.	s	np1
+flexneri	flexneri	nn2
+,	,	y
+and	and	cc
+S.	s	np1_nn1@
+sonnei	sonnei	nn2
+,	,	y
+and	and	cc
+is	be	vbz
+usually	usually	rr
+transmitted	transmit	vvn_vvd
+to	to	ii
+humans	human	nn2
+by	by	ii
+ingestion	ingestion	nn1
+of	of	io
+contaminated	contaminated	jj@
+water	water	nn1
+and	and	cc
+foods	food	nn2
+.	.	y
+The	the	at
+infective	infective	jj
+dose	dose	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+is	be	vbz
+very	very	rg
+low	low	jj_rr@
+,	,	y
+varying	vary	vvg
+from	from	ii
+101	101	mc
+to	to	ii
+104	104	mc
+organisms	organism	nn2
+(	(	y
+Min	min	nnu
+,	,	y
+Park	park	np1_nn1
+,	,	y
+&;		null
+Kim	kim	np1
+,	,	y
+2002	2002	mc
+)	)	y
+.	.	y
+Shigellosis	shigellosis	nn1_np1@
+is	be	vbz
+endemic	endemic	jj
+throughout	throughout	ii
+the	the	at
+world	world	nn1
+;	;	y
+it	it	pph1
+is	be	vbz
+among	among	ii
+the	the	at
+most	most	rgt
+common	common	jj
+causes	cause	nn2
+of	of	io
+bacterial	bacterial	jj
+diarrheal	diarrheal	jj
+diseases	disease	nn2
+;	;	y
+and	and	cc
+it	it	pph1
+is	be	vbz
+responsible	responsible	jj
+for	for	if
+approximately	approximately	rr
+165	165	mc
+million	million	m
+cases	case	nn2
+of	of	io
+diarrhea	diarrhea	nn1
+annually	annually	rr
+.	.	y
+Of	of	io
+those	those	dd2
+cases	case	nn2
+,	,	y
+163	163	mc
+million	million	m
+are	be	vbr
+in	in	ii
+developing	develop	vvg_jj
+,	,	y
+countries	country	nn2
+and	and	cc
+1.5	1.5	mc
+million	million	m
+are	be	vbr
+in	in	ii
+industrialized	industrialized	jj
+countries	country	nn2
+.	.	y
+It	it	pph1
+is	be	vbz
+estimated	estimate	vvn
+that	that	cst_rg%
+1.1	1.1	mc
+million	million	m
+people	people	nn
+die	die	vv0
+annually	annually	rr
+from	from	ii
+Shigella	shigella	np1
+infection	infection	nn1
+and	and	cc
+nearly	nearly	rr
+580,000	580,000	mc
+cases	case	nn2
+of	of	io
+shigellosis	shigellosis	nn1
+are	be	vbr
+reported	report	vvn
+among	among	ii
+travelers	traveler	nn2
+from	from	ii
+industrialized	industrialized	jj
+countries	country	nn2
+.	.	y
+The	the	at
+frequency	frequency	nn1
+of	of	io
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+,	,	y
+S.	s	np1
+sonnei	sonnei	nn2
+,	,	y
+S.	s	np1
+boydii	boydii	nn2
+,	,	y
+and	and	cc
+S.	s	np1_nn1@
+dysenteriae	dysenteriae	nn2
+was	be	vbdz
+60%	60%	nnu
+,	,	y
+15%	15%	nnu
+,	,	y
+6%	6%	nnu
+and	and	cc
+6%	6%	nnu
+(	(	y
+30%	30%	nnu
+of	of	io
+S.	s	np1_nn1@
+dysenteriae	dysenteriae	nn2
+cases	case	nn2
+were	be	vbdr
+type	type	nn1
+1	1	mc1
+)	)	y
+in	in	ii
+developing	developing	jj_vvg
+countries	country	nn2
+,	,	y
+respectively	respectively	rr
+;	;	y
+and	and	cc
+16%	16%	nnu
+,	,	y
+77%	77%	nnu
+,	,	y
+2%	2%	nnu
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+et	et	ra21
+al.	al	ra22
+,	,	y
+1999	1999	mc
+;	;	y
+Peirano	peirano	np1
+,	,	y
+Souza	souza	np1
+,	,	y
+&;		null
+Rodrigues	rodrigues	np1_nn2_vvz
+,	,	y
+2006	2006	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+Many	many	da2
+of	of	io
+the	the	at
+bacterial	bacterial	jj
+virulence	virulence	nn1
+determinants	determinant	nn2
+that	that	cst
+mediate	mediate	vv0
+the	the	at
+complex	complex	jj_nn1
+interactions	interaction	nn2
+are	be	vbr
+encoded	encode	vvn
+by	by	ii
+large	large	jj
+plasmids	plasmid	nn2
+(	(	y
+Askhenazi		np1_nn1
+,	,	y
+Levy	levy	np1
+,	,	y
+&;		null
+Kazaronovski		np1_nn1
+,	,	y
+2003	2003	mc
+)	)	y
+.	.	y
+Determination	determination	nn1
+of	of	io
+plasmid	plasmid	nn1
+profile	profile	nn1
+has	have	vhz
+been	be	vbn
+shown	show	vvn
+to	to	to
+be	be	vbi
+a	a	at1
+powerful	powerful	jj
+tool	tool	nn1
+in	in	ii
+epidemiological	epidemiological	jj
+studies	study	nn2
+when	when	cs_rrq
+used	use	vvn_jj
+as	as	ii_csa
+a	a	at1
+fingerprint	fingerprint	nn1
+for	for	if
+a	a	at1
+strain	strain	nn1
+(	(	y
+Askhenazi		np1_nn1
+,	,	y
+Levy	levy	np1
+,	,	y
+&;		null
+Kazaronovski		np1_nn1
+,	,	y
+2003	2003	mc
+)	)	y
+.	.	y
+Plasmid	plasmid	nn1
+profile	profile	nn1
+may	may	vm
+aid	aid	vvi
+in	in	ii
+differentiation	differentiation	nn1
+of	of	io
+strains	strain	nn2
+,	,	y
+identifying	identify	vvg
+a	a	at1
+source	source	nn1
+of	of	io
+infection	infection	nn1
+,	,	y
+or	or	cc
+evaluating	evaluate	vvg
+the	the	at
+efficiency	efficiency	nn1
+control	control	nn1
+measures	measure	nn2
+(	(	y
+Litwin	litwin	np1
+&;		null
+Ryan	ryan	np1
+,	,	y
+1991	1991	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+Indiscriminate	indiscriminate	jj
+use	use	nn1
+of	of	io
+drugs	drug	nn2
+and	and	cc
+horizontal	horizontal	jj
+gene	gene	nn1
+transfer	transfer	nn1
+have	have	vh0
+led	lead	vvn
+to	to	ii
+the	the	at
+resistance	resistance	nn1
+of	of	io
+Shigella	shigella	np1
+species	species	nn
+to	to	ii_to
+commonly	commonly	rr
+used	used	jj_vvn
+antibiotics	antibiotic	nn2
+.	.	y
+Resistance	resistance	nn1
+patterns	pattern	nn2
+are	be	vbr
+influenced	influence	vvn
+by	by	ii
+geographic	geographic	jj
+location	location	nn1
+,	,	y
+year	year	nnt1
+of	of	io
+isolation	isolation	nn1
+,	,	y
+classes	class	nn2
+of	of	io
+antimicrobial	antimicrobial	jj
+agents	agent	nn2
+,	,	y
+and	and	cc
+pressure	pressure	nn1
+exerted	exert	vvn
+by	by	ii
+antimicrobial	antimicrobial	jj
+use	use	nn1
+.	.	y
+It	it	pph1
+was	be	vbdz
+noticed	notice	vvn
+that	that	cst_dd1
+over	over	ii_rp
+past	past	jj_ii
+decades	decade	nnt2
+,	,	y
+Shigella	shigella	np1
+strains	strain	nn2
+have	have	vh0
+progressively	progressively	rr
+become	become	vv0
+resistant	resistant	jj
+to	to	ii
+most	most	dat
+of	of	io
+the	the	at
+widely	widely	rr
+used	used	jj_vvn
+anti-microbials	anti-microbials	nn2
+,	,	y
+such	such	ii21
+as	as	ii22
+ampicillin	ampicillin	nn1
+,	,	y
+chloramphenicol	chloramphenicol	vv0_nn1
+,	,	y
+tetracycline	tetracycline	vv0_nn1
+,	,	y
+and	and	cc
+**28;7127;TOOLONG		nn1
+(	(	y
+Askhenazi		np1_nn1
+,	,	y
+Levy	levy	np1
+,	,	y
+&;		null
+Kazaronovski		np1_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+exist	exist	vv0
+in	in	ii_rp@
+the	the	at
+corresponding	corresponding	jj
+resistance	resistance	nn1
+rates	rate	nn2
+.	.	y
+This	this	dd1
+may	may	vm
+be	be	vbi
+due	due	ii21
+to	to	ii22
+the	the	at
+occurrence	occurrence	nn1
+and	and	cc
+spread	spread	nn1
+of	of	io
+antimicrobial-resistant	antimicrobial-resistant	jj
+clones	clone	nn2
+.	.	y
+<p>	<p>	y
+People	people	nn
+from	from	ii
+India	india	np1
+and	and	cc
+other	other	jj_nn1@
+.	.	y
+developing	developing	jj
+countries	country	nn2
+use	use	vv0
+river	river	nn1
+water	water	nn1
+directly	directly	rr
+not	not	xx
+only	only	rr
+for	for	if
+drinking	drink	vvg_nn1
+but	but	ccb
+also	also	rr
+for	for	if
+various	various	jj
+recreational	recreational	jj
+purposes	purpose	nn2
+.	.	y
+Narmada	narmada	nn1_np1@
+is	be	vbz
+the	the	at
+fifth	fifth	md
+largest	large	jjt
+river	river	nn1
+of	of	io
+India	india	np1
+.	.	y
+It	it	pph1
+originates	originate	vvz
+from	from	ii
+Amarkantak		np1
+(	(	y
+M.P.	mp	np1
+)	)	y
+and	and	cc
+merges	merge	vvz
+into	into	ii
+the	the	at
+Arabian	arabian	jj
+Sea	sea	nn1
+at	at	ii
+Dahej		np1
+(	(	y
+Gujarat	gujarat	np1
+)	)	y
+.	.	y
+Its	its	z'
+catchment	catchment	nn1
+areas	area	nn2
+sustain	sustain	vv0
+various	various	jj
+agricultural	agricultural	jj
+and	and	cc
+industrial	industrial	jj
+communities	community	nn2
+.	.	y
+This	this	dd1
+water	water	nn1
+system	system	nn1
+also	also	rr
+serves	serve	vvz
+as	as	ii
+a	a	at1
+main	main	jj
+source	source	nn1
+of	of	io
+water	water	nn1
+to	to	ii
+the	the	at
+large	large	jj
+rural	rural	jj
+population	population	nn1
+that	that	cst_dd1
+resides	reside	vvz
+in	in	ii
+this	this	dd1
+region	region	nn1
+(	(	y
+Sharma	sharma	np1
+&;		null
+Khokale		np1
+,	,	y
+1999	1999	mc
+)	)	y
+.	.	y
+The	the	at
+aim	aim	nn1
+of	of	io
+this	this	dd1
+study	study	nn1
+was	be	vbdz
+to	to	to
+identify	identify	vvi
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+isolated	isolate	vvn_vvd
+from	from	ii
+fresh	fresh	jj
+water	water	nn1
+and	and	cc
+to	to	to
+compare	compare	vvi
+antibiotic	antibiotic	nn1
+resistance	resistance	nn1
+,	,	y
+plasmid	plasmid	nn1
+profile	profile	nn1
+,	,	y
+and	and	cc
+phenotypic	phenotypic	jj
+virulent	virulent	jj
+strains	strain	nn2
+by	by	ii
+Congo	congo	np1
+red	red	jj_nn1
+binding	binding	jj_nn1@_vvg
+and	and	cc
+production	production	nn1
+of	of	io
+hemolysin	hemolysin	nn1
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+Materials	material	nn2
+and	and	cc
+Methods	method	nn2
+Water	water	nn1
+Samples	sample	vvz@_nn2
+The	the	at
+river	river	nn1
+Narmada	narmada	np1_nn1@
+(	(	y
+latitude	latitude	nn1
+2123	2123	mc
+'	'	ge
+to	to	ii
+2446	2446	mc
+'	'	ge
+N	xx_n	zz1_np1@
+,	,	y
+longitude	longitude	nn1
+7232	7232	mc
+'	'	ge
+to	to	ii
+8146	8146	mc
+'	'	ge
+E	e	zz1
+)	)	y
+is	be	vbz
+the	the	at
+largest	large	jjt
+west-flowing	west-flowing	jj_nn1
+river	river	nn1
+in	in	ii
+the	the	at
+Indian	indian	jj
+peninsula	peninsula	nn1
+.	.	y
+Total	total	jj_nn1
+length	length	nn1
+of	of	io
+the	the	at
+river	river	nn1
+from	from	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+km	km	nnu
+.	.	y
+It	it	pph1
+originates	originate	vvz
+from	from	ii
+Amarkantak		np1
+at	at	ii
+1,151	1,151	mc
+m	m	nno@_nnu@
+altitude	altitude	nn1
+(	(	y
+latitude	latitude	nn1
+2240	2240	mc
+'	'	ge
+N	xx_n	zz1_np1@
+and	and	cc
+longitude	longitude	nn1
+8146	8146	mc
+'	'	ge
+E	e	zz1
+)	)	y
+in	in	ii
+the	the	at
+Shahdol	shahdol	nn1_np1
+district	district	nn1
+from	from	ii
+the	the	at
+Maikal	maikal	jj_np1
+ranges	range	nn2_vvz
+in	in	ii
+Madhya	madhya	np1
+Pradesh	pradesh	np1
+,	,	y
+flowing	flow	vvg
+through	through	ii_rp@
+different	different	jj
+cities	city	nn2
+(	(	y
+Dindori		np1_nn1
+,	,	y
+Mandla	mandla	np1
+,	,	y
+Jabalpur		np1_vv0_nn1
+,	,	y
+Narsinghpur		np1_vv0_nn1
+,	,	y
+Hoshangabad		np1
+,	,	y
+Omkareshwar		np1_vv0_nn1
+,	,	y
+Koral	koral	np1_nn1
+,	,	y
+Neelkantheshwar		np1_vv0_nn1
+,	,	y
+Ankleshwar		np1_vv0_nn1
+,	,	y
+and	and	cc
+Dahej		np1
+)	)	y
+,	,	y
+which	which	ddq
+are	be	vbr
+surrounded	surround	vvn
+with	with	iw
+dense	dense	jj
+human	human	jj_nn1
+population	population	nn1
+,	,	y
+agricultural	agricultural	jj
+farms	farm	nn2
+,	,	y
+and	and	cc
+large	large	jj
+and	and	cc
+small	small	jj
+industries	industry	nn2
+.	.	y
+<p>	<p>	y
+Water	water	nn1
+samples	sample	nn2
+were	be	vbdr
+collected	collect	vvn
+from	from	ii
+11	11	mc
+different	different	jj
+stations	station	nn2
+of	of	io
+the	the	at
+river	river	nn1
+from	from	ii
+its	its	z'
+origin	origin	nn1
+(	(	y
+Amarkantak		np1
+)	)	y
+to	to	to
+end	end	vvi
+(	(	y
+Dahej		np1
+)	)	y
+on	on	ii
+a	a	at1
+seasonal	seasonal	jj
+basis	basis	nn1
+from	from	ii
+July	july	npm1
+2005	2005	mc
+to	to	ii
+June	june	npm1
+2006	2006	mc
+.	.	y
+Samples	sample	nn2
+of	of	io
+1000	1000	mc
+ml	ml	nnu
+were	be	vbdr
+collected	collect	vvn
+in	in	ii
+sterilized	sterilized	jj@
+bottles	bottle	nn2
+from	from	ii
+the	the	at
+surface	surface	nn1
+and	and	cc
+subsurface	subsurface	nn1
+(	(	y
+approximately	approximately	rr
+1.5	1.5	mc
+feet	foot	nn2
+below	below	ii
+the	the	at
+surface	surface	nn1
+)	)	y
+from	from	ii
+all	all	db
+the	the	at
+sampling	sampling	nn1
+stations	station	nn2
+,	,	y
+brought	bring	vvn_vvd
+to	to	ii
+the	the	at
+laboratory	laboratory	nn1
+under	under	ii_rg@
+ice-cold	ice-cold	jj
+conditions	condition	nn2
+,	,	y
+and	and	cc
+analyzed	analyze	vvd
+immediately	immediately	rr
+for	for	if
+the	the	at
+presence	presence	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+.	.	y
+<p>	<p>	y
+Isolation	isolation	nn1
+and	and	cc
+Identification	identification	nn1
+of	of	io
+Shigella	shigella	np1
+Water	water	nn1
+samples	sample	nn2
+of	of	io
+1000	1000	mc
+ml	ml	nnu
+were	be	vbdr
+filtered	filter	vvn
+through	through	ii
+a	a	at1
+Sartorius	sartorius	nn1@_np1
+membrane	membrane	nn1
+filter	filter	nn1
+(	(	y
+0.22	0.22	mc
+m	m	nno@_nnu@
+pore	pore	nn1
+size	size	nn1
+,	,	y
+47	47	mc
+mm	mm	nnu
+diameter	diameter	nn1
+)	)	y
+.	.	y
+The	the	at
+membrane	membrane	nn1
+filter	filter	nn1
+was	be	vbdz
+transferred	transfer	vvn
+into	into	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+incubated	incubate	vvd
+at	at	ii
+372C		fo
+for	for	if
+six	six	mc
+hours	hour	nnt2
+under	under	ii
+shaking	shake	vvg
+conditions	condition	nn2
+(	(	y
+Faruque		np1
+et	et	ra21
+al.	al	ra22
+,	,	y
+2002	2002	mc
+)	)	y
+.	.	y
+After	after	cs_ii
+enrichment	enrichment	nn1
+it	it	pph1
+was	be	vbdz
+streaked	streak	vvn
+onto	onto	ii
+the	the	at
+XLD	xld	np1
+agar	agar	nn1_vv0
+plate	plate	nn1
+and	and	cc
+incubated	incubate	vvd
+at	at	ii
+372C		fo
+for	for	if
+18	18	mc
+to	to	ii
+24	24	mc
+hours	hour	nnt2
+.	.	y
+Red-headed	red-headed	jj
+pink	pink	jj
+colonies	colony	nn2
+were	be	vbdr
+isolated	isolate	vvn_jj
+,	,	y
+transferred	transfer	vvn
+to	to	ii
+nutrient	nutrient	nn1_jj@
+agar	agar	nn1
+,	,	y
+and	and	cc
+incubated	incubate	vvn
+at	at	ii
+372C		fo
+overnight	overnight	rt
+.	.	y
+<p>	<p>	y
+Biochemical	biochemical	jj
+Characteristics	characteristic	nn2
+All	all	db
+the	the	at
+isolates	isolate	nn2%
+were	be	vbdr
+examined	examine	vvn
+for	for	if
+the	the	at
+following	following	jj
+biochemical	biochemical	jj
+characteristics	characteristic	nn2
+:	:	y
+oxidase	oxidase	nn1
+production	production	nn1
+,	,	y
+urease	urease	vv0_nn1
+production	production	nn1
+,	,	y
+Methyl	methyl	np1_nn1
+Red	red	jj_nn1@
+and	and	cc
+Vogues	vogue	nn2
+Proskauer	proskauer	np1_nn1@
+test	test	nn1_vv0
+,	,	y
+indole	indole	nn1
+production	production	nn1
+,	,	y
+citrate	citrate	jj_vv0
+production	production	nn1
+,	,	y
+arginine	arginine	jj_nn1
+dehydrolase	dehydrolase	nn1
+,	,	y
+lysine	lysine	vv0_nn1
+decarboxylase	decarboxylase	nn1_vv0
+,	,	y
+ornithine	ornithine	vv0_nn1
+decarboxylase	decarboxylase	nn1_vv0
+,	,	y
+gluconate	gluconate	vv0_nn1_jj
+,	,	y
+malonate	malonate	vv0_nn1_jj
+,	,	y
+acid	acid	nn1
+production	production	nn1
+from	from	ii
+arabinose	arabinose	nn1
+,	,	y
+dulcitol	dulcitol	vv0_nn1
+,	,	y
+glucose	glucose	nn1
+,	,	y
+lactose	lactose	nn1
+,	,	y
+maltose	maltose	vv0_nn1
+,	,	y
+mannitol	mannitol	vv0_nn1
+,	,	y
+raffinose	raffinose	vv0_nn1
+,	,	y
+rhamnose	rhamnose	vv0_nn1
+,	,	y
+sorbitol	sorbitol	vv0_nn1
+,	,	y
+sucrose	sucrose	vv0_nn1
+,	,	y
+trehalose	trehalose	vv0_nn1
+,	,	y
+and	and	cc
+xylose	xylose	nn1_vv0
+(	(	y
+MacFaddin		np1
+,	,	y
+1980	1980	mc
+)	)	y
+.	.	y
+They	they	pphs2
+were	be	vbdr
+tentatively	tentatively	rr
+identified	identify	vvn
+with	with	iw
+the	the	at
+help	help	nn1
+of	of	io
+Bergey	bergey	np1
+'s	's	ge
+Manual	manual	nn1
+of	of	io
+Systematic	systematic	jj
+Bacteriology	bacteriology	nn1_np1
+(	(	y
+Krieg	krieg	np1_vv0_nn1
+,	,	y
+Sneath	sneath	np1_nn1
+,	,	y
+Staley	staley	np1
+,	,	y
+&;		null
+Holt	holt	np1
+,	,	y
+1984	1984	mc
+)	)	y
+and	and	cc
+Probabilistic	probabilistic	jj_np1
+Identification	identification	nn1
+of	of	io
+Bacteria	bacteria	nn2
+(	(	y
+PIB	pib	np1
+)	)	y
+computer	computer	nn1
+kit	kit	nn1
+(	(	y
+Bryant	bryant	np1
+,	,	y
+2003	2003	mc
+)	)	y
+,	,	y
+and	and	cc
+confirmed	confirm	vvn_vvd
+on	on	ii
+the	the	at
+basis	basis	nn1
+of	of	io
+molecular	molecular	jj
+studies	study	nn2
+(	(	y
+Random	random	jj_nn1@
+Amplified	amplified	jj@_vvd_vvn
+Polymorphic	polymorphic	jj_np1
+DNA	dna	nn1
+RAPD	rapd	nn1_np1
+and	and	cc
+Amplified	amplify	vvd_vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+1998	1998	mc
+;	;	y
+Villalobo		np1
+&;		null
+Tortes	torte	np1_nn2
+,	,	y
+1998	1998	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+Serological	serological	jj
+Analysis	analysis	nn1
+Forty	forty	mc
+isolates	isolate	vvz_nn2%
+confirmed	confirm	vvn_jj@_vvd
+as	as	csa_ii@
+Shigella	shigella	np1
+spp.	spp	nnu
+were	be	vbdr
+subjected	subject	vvn
+to	to	ii
+serotyping		vvg
+by	by	ii
+slide	slide	nn1
+agglutination	agglutination	nn1
+test	test	nn1_vv0
+with	with	iw
+poly	poly	nn1
+A	a	zz1
+,	,	y
+poly	poly	nn1
+B	b	zz1
+,	,	y
+C1	c1	fo
+,	,	y
+C2	c2	fo
+,	,	y
+C3	c3	fo
+,	,	y
+and	and	cc
+D	d	zz1
+antigens	antigen	nn2
+(	(	y
+Edwards	edwards	np1
+&;		null
+Ewing	ewing	np1
+,	,	y
+1972	1972	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+Antibiogram	antibiogram	vv0_nn1
+Analysis	analysis	nn1
+Disk	disk	nn1
+diffusion	diffusion	nn1
+assay	assay	nn1
+was	be	vbdz
+performed	perform	vvn
+to	to	to
+assess	assess	vvi
+the	the	at
+antibiotic	antibiotic	nn1
+resistance/sensitivity	resistance/sensitivity	nn1
+pattern	pattern	nn1
+(	(	y
+Clinical	clinical	jj
+Laboratory	laboratory	nn1
+Standard	standard	nn1_jj
+Institute	institute	nn1
+CLSI		nn2_nn1_np1
+,	,	y
+2002	2002	mc
+)	)	y
+.	.	y
+Susceptibility	susceptibility	nn1_np1@
+to	to	ii
+antimicrobial	antimicrobial	jj
+agents	agent	nn2
+was	be	vbdz
+tested	test	vvn
+on	on	ii
+Mueller-Hinton		np1
+agar	agar	nn1_vv0
+using	use	vvg
+commercially	commercially	rr
+available	available	jj
+disks	disk	nn2
+(	(	y
+Himedia	himedia	np1
+,	,	y
+India	india	np1
+)	)	y
+:	:	y
+Amikacin		np1_nn1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Amoxicillin	amoxicillin	np1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Ampicillin	ampicillin	np1
+,	,	y
+10	10	mc
+mcg	mcg	nnu
+;	;	y
+Cephotaxime		np1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Ceftazidime		np1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Chloramphenicol		np1_vv0
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Ciprofloxacin	ciprofloxacin	np1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Gentamycin		np1
+,	,	y
+10	10	mc
+mcg	mcg	nnu
+;	;	y
+Nalidixic	nalidixic	jj_nn1
+acid	acid	nn1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+Norfloxacin	norfloxacin	np1
+,	,	y
+10	10	mc
+mcg	mcg	nnu
+;	;	y
+Streptomycin	streptomycin	np1
+,	,	y
+25	25	mc
+mcg	mcg	nnu
+;	;	y
+Tetracycline	tetracycline	np1
+,	,	y
+30	30	mc
+mcg	mcg	nnu
+;	;	y
+and	and	cc
+Trimethoprim		np1_nn1_vv0
+,	,	y
+10	10	mc
+mcg	mcg	nnu
+.	.	y
+<p>	<p>	y
+Determination	determination	nn1
+of	of	io
+Minimum	minimum	jj
+Inhibitory	inhibitory	jj
+Concentration	concentration	nn1
+(	(	y
+MIC	mic	np1
+)	)	y
+Minimum	minimum	jj_nn1
+inhibitory	inhibitory	jj
+concentration	concentration	nn1
+of	of	io
+each	each	dd1
+antibiotic	antibiotic	nn1
+to	to	ii
+growth	growth	nn1
+of	of	io
+50%	50%	nnu
+(	(	y
+MIC50		fo
+)	)	y
+and	and	cc
+90%	90%	nnu
+(	(	y
+MIC90		fo
+)	)	y
+of	of	io
+the	the	at
+isolates	isolate	nn2%
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+2	2	mc
+g/ml	g/ml	nnu
+to	to	ii
+64	64	mc
+g/ml	g/ml	nnu
+in	in	ii
+agar	agar	nn1
+was	be	vbdz
+prepared	prepare	vvn
+by	by	ii
+two-fold	two-fold	jj
+serial	serial	jj_nn1
+dilution	dilution	nn1
+(	(	y
+CLSI		np1_nn1
+,	,	y
+2002	2002	mc
+)	)	y
+.	.	y
+To	to	to
+obtain	obtain	vvi
+a	a	at1
+final	final	jj
+inoculum	inoculum	nn1
+size	size	nn1
+of	of	io
+104-105	104-105	mcmc
+CFU/spot	cfu/spot	nn1
+,	,	y
+20	20	mc
+l	l	nnu@
+of	of	io
+standardized	standardized	jj
+inoculum	inoculum	nn1
+(	(	y
+107	107	mc
+CFU/ml	cfu/ml	fu
+)	)	y
+of	of	io
+each	each	dd1
+isolate	isolate	nn1%
+was	be	vbdz
+inoculated	inoculate	vvn@
+in	in	ii
+20	20	mc
+ml	ml	nnu
+Muller-Hinton		np1
+agar	agar	nn1_vv0
+medium	medium	nn1
+containing	contain	vvg
+the	the	at
+desired	desired	jj@
+concentration	concentration	nn1
+of	of	io
+antibiotic	antibiotic	nn1
+.	.	y
+<p>	<p>	y
+Antibiotic-free	antibiotic-free	jj
+plates	plate	nn2
+were	be	vbdr
+used	use	vvn
+as	as	csa_rg@_ii@
+negative	negative	jj
+controls	control	nn2
+.	.	y
+MIC50		fo
+and	and	cc
+MIC90		fo
+of	of	io
+each	each	dd1
+antimicrobial	antimicrobial	jj
+agent	agent	nn1
+against	against	ii
+Shigella	shigella	np1
+isolates	isolate	vvz_nn2%
+were	be	vbdr
+evaluated	evaluate	vvn
+after	after	ii
+incubating	incubate	vvg
+the	the	at
+plates	plate	nn2
+containing	contain	vvg
+completely	completely	rr
+absorbed	absorbed	jj_vvn
+inoculum	inoculum	nn1
+at	at	ii
+37C	37c	fo
+for	for	if
+18	18	mc
+hours	hour	nnt2
+.	.	y
+<p>	<p>	y
+Plasmid	plasmid	nn1
+Analysis	analysis	nn1
+Plasmids	plasmid	nn2
+were	be	vbdr
+isolated	isolate	vvn
+by	by	ii
+alkaline	alkaline	jj
+lysis	lysis	nn1
+method	method	nn1
+(	(	y
+Sambrook	sambrook	np1
+,	,	y
+2001	2001	mc
+;	;	y
+Kaisar	kaisar	np1_vv0
+,	,	y
+Zhahirul		np1_vv0_nn1
+,	,	y
+&;		null
+Aminul		np1_vv0_nn1
+,	,	y
+2003	2003	mc
+)	)	y
+.	.	y
+Briefly	briefly	rr
+,	,	y
+a	a	at1
+single	single	jj
+colony	colony	nn1
+was	be	vbdz
+picked	pick	vvn
+up	up	rp
+and	and	cc
+grown	grow	vvn_vvd@
+overnight	overnight	rt_jj
+in	in	ii
+5	5	mc
+ml	ml	nnu
+Luria-Bertini	luria-bertini	jj_nn1
+broth	broth	nn1
+.	.	y
+Cells	cell	nn2
+were	be	vbdr
+lysed	lyse	vvn
+by	by	ii
+the	the	at
+addition	addition	nn1
+of	of	io
+10%	10%	nnu
+sodium	sodium	nn1
+dodecyl	dodecyl	nn1
+sulphate	sulphate	nn1
+and	and	cc
+5N	5n	fo
+sodium	sodium	nn1
+hydroxide	hydroxide	nn1
+and	and	cc
+proteins	protein	nn2
+were	be	vbdr
+precipitated	precipitate	vvn
+by	by	ii
+phenol/chloroform	phenol/chloroform	nn1
+solution	solution	nn1
+(	(	y
+1:1	1:1	mc
+)	)	y
+.	.	y
+The	the	at
+precipitated	precipitate	vvn_vvd
+DNA	dna	nn1
+was	be	vbdz
+washed	wash	vvn
+with	with	iw
+70%	70%	nnu
+ethanol	ethanol	nn1
+and	and	cc
+suspended	suspend	vvn_vvd
+in	in	ii
+Tris-EDTA	tris-edta	jj_np1_nn1
+buffer	buffer	nn1
+.	.	y
+Plasmid	plasmid	nn1
+bands	band	nn2
+were	be	vbdr
+separated	separate	vvn
+by	by	ii
+electrophoresis	electrophoresis	nn1
+through	through	ii
+agarose	agarose	nn1
+gel	gel	nn1
+(	(	y
+0.8%	0.8%	fo
+)	)	y
+in	in	ii
+Tris-acetate-EDTA	tris-acetate-edta	jj_np1_nn1
+buffer	buffer	nn1
+.	.	y
+DNA	dna	nn1
+fragments	fragment	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+and	and	cc
+photographed	photograph	vvn_vvd
+under	under	ii_rg@
+UV	uv	jj
+light	light	jj_nn1
+illuminator	illuminator	nn1
+.	.	y
+<p>	<p>	y
+Determination	determination	nn1
+of	of	io
+Congo	congo	np1
+Red	red	jj
+Binding	binding	jj
+Ability	ability	nn1
+and	and	cc
+Hemolysin		np1_nn1
+Production	production	nn1
+Phenotypic	phenotypic	jj
+analysis	analysis	nn1
+for	for	if
+screening	screening	nn1_vvg
+of	of	io
+virulent	virulent	jj
+Shigella	shigella	nn1@_np1
+spp.	spp	nnu
+was	be	vbdz
+done	do	vdn
+by	by	ii
+Congo	congo	np1
+red	red	jj_nn1
+dye	dye	nn1
+.	.	y
+A	a	at1
+colony	colony	nn1
+of	of	io
+fresh	fresh	jj
+culture	culture	nn1
+of	of	io
+isolated	isolated	jj
+bacteria	bacteria	nn2
+was	be	vbdz
+inoculated	inoculate	vvn@
+on	on	ii
+a	a	at1
+plate	plate	nn1
+containing	contain	vvg
+TSA	tsa	np1
+(	(	y
+trypticase	trypticase	nn1
+soy	soy	jj
+agar	agar	nn1
+)	)	y
+and	and	cc
+Congo	congo	np1
+red	red	jj_nn1
+solution	solution	nn1
+(	(	y
+final	final	jj_nn1
+concentration	concentration	nn1
+of	of	io
+0.003%		fo
+)	)	y
+to	to	to
+detect	detect	vvi
+red	red	jj
+pigmented	pigmented	jj
+colony	colony	nn1
+(	(	y
+Tacket	tacket	np1_nn1
+,	,	y
+Shahed	shahed	jj_vvd@
+,	,	y
+&;		null
+Huq	huq	np1
+,	,	y
+1984	1984	mc
+)	)	y
+.	.	y
+For	for	if
+hemolysis	hemolysis	nn1
+production	production	nn1
+,	,	y
+5%	5%	nnu
+freshly	freshly	rr
+pooled	pool	vvn_vvd
+defibrinated	defibrinated	jj@
+blood	blood	nn1
+was	be	vbdz
+added	add	vvn
+in	in	ii
+blood	blood	nn1
+agar	agar	nn1_vv0
+base	base	nn1
+and	and	cc
+pure	pure	jj
+culture	culture	nn1
+was	be	vbdz
+point	point	nn1
+inoculated	inoculate	vvd_vvn@
+and	and	cc
+incubated	incubate	vvd
+at	at	ii
+37C	37c	fo
+for	for	if
+24	24	mc
+hours	hour	nnt2
+.	.	y
+Appearance	appearance	nn1
+of	of	io
+clearing	clearing	jj_vvg_nn1
+zone	zone	nn1
+around	around	ii
+the	the	at
+bacterial	bacterial	jj
+colony	colony	nn1
+indicated	indicate	vvd_vvn
+-hemolysin		nn1_jj
+(	(	y
+Burke	burke	np1
+et	et	np1_fw
+.	.	y
+al.	al	nnu
+,	,	y
+1981	1981	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+Results	result	nn2_vvz@
+Forty	forty	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1
+were	be	vbdr
+obtained	obtain	vvn
+from	from	ii
+water	water	nn1
+samples	sample	nn2
+.	.	y
+<p>	<p>	y
+Biochemical	biochemical	jj
+Analysis	analysis	nn1
+Out	out	ii21
+of	of	ii22
+40	40	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+,	,	y
+seven	seven	mc
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+dysenteriae	dysenteriae	nn2
+,	,	y
+23	23	mc
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+flexneri	flexneri	nn2
+,	,	y
+and	and	cc
+10	10	mc
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+sonnei	sonnei	nn2
+on	on	ii
+the	the	at
+basis	basis	nn1
+of	of	io
+morphological	morphological	jj
+,	,	y
+cultural	cultural	jj
+,	,	y
+and	and	cc
+biochemical	biochemical	jj
+characteristics	characteristic	nn2
+(	(	y
+Table	table	nn1
+1	1	mc1
+)	)	y
+and	and	cc
+confirmed	confirm	vvn
+by	by	ii
+RAPD	rapd	np1_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Analysis	analysis	nn1
+Twenty-three	twenty-three	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1
+showed	show	vvd
+agglutination	agglutination	nn1
+with	with	iw
+polyB	polyb	nn1
+antigen	antigen	nn1
+and	and	cc
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+flexneri	flexneri	nn2
+.	.	y
+Seven	seven	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1
+showed	show	vvd
+agglutination	agglutination	nn1
+with	with	iw
+polyA	polya	nn1
+antigen	antigen	nn1
+and	and	cc
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+dysenteriae	dysenteriae	nn2
+,	,	y
+and	and	cc
+10	10	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1
+showed	show	vvd
+agglutination	agglutination	nn1
+with	with	iw
+D	d	zz1_np1@
+antigen	antigen	nn1
+and	and	cc
+were	be	vbdr
+identified	identify	vvn
+as	as	csa_ii@
+S.	s	np1
+sonnei	sonnei	nn2
+.	.	y
+<p>	<p>	y
+Antibiotic	antibiotic	nn1
+Susceptibility	susceptibility	nn1_np1
+All	all	db
+the	the	at
+isolates	isolate	nn2%
+showed	show	vvd
+sensitivity	sensitivity	nn1
+to	to	ii
+ciprofloxacin	ciprofloxacin	nn1
+and	and	cc
+variable	variable	jj_nn1
+resistance	resistance	nn1
+against	against	ii
+the	the	at
+remaining	remaining	jj
+12	12	mc
+antibiotics	antibiotic	nn2
+(	(	y
+Table	table	nn1
+2	2	mc
+)	)	y
+.	.	y
+Among	among	ii
+40	40	mc
+isolates	isolate	vvz
+,	,	y
+30	30	mc
+patterns	pattern	nn2
+of	of	io
+antibiotic	antibiotic	nn1
+resistance	resistance	nn1
+were	be	vbdr
+observed	observe	vvn
+.	.	y
+Further	far	jjr
+analysis	analysis	nn1
+revealed	reveal	vvd_vvn
+that	that	cst_dd1
+nearly	nearly	rr
+90%	90%	nnu
+of	of	io
+isolates	isolate	nn2%
+were	be	vbdr
+resistant	resistant	jj
+to	to	ii
+two	two	mc
+or	or	cc
+more	more	dar
+drugs	drug	nn2
+.	.	y
+At	at	ii
+2	2	mc
+g/ml	g/ml	nnu
+and	and	cc
+4	4	mc
+g/ml	g/ml	nnu
+concentration	concentration	nn1
+,	,	y
+ciprofloxacin	ciprofloxacin	nn1
+inhibited	inhibit	vvd_vvn
+the	the	at
+growth	growth	nn1
+of	of	io
+50%	50%	nnu
+and	and	cc
+90%	90%	nnu
+of	of	io
+the	the	at
+isolates	isolate	nn2%
+,	,	y
+respectively	respectively	rr
+.	.	y
+The	the	at
+MIC50		fo
+and	and	cc
+MIC90		fo
+values	value	nn2
+of	of	io
+nalidixic	nalidixic	jj
+acid	acid	nn1
+were	be	vbdr
+very	very	rg
+high	high	jj
+and	and	cc
+the	the	at
+remaining	remaining	jj
+antibiotics	antibiotic	nn2
+were	be	vbdr
+within	within	ii
+range	range	nn1
+(	(	y
+Table	table	nn1
+3	3	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+Plasmid	plasmid	nn1
+Profile	profile	nn1
+Analysis	analysis	nn1
+Analysis	analysis	nn1
+of	of	io
+plasmid	plasmid	nn1
+DNA	dna	nn1
+revealed	reveal	vvd_vvn
+that	that	cst
+most	most	dat
+of	of	io
+the	the	at
+Shigella	shigella	np1_nn1@
+isolates	isolate	vvz
+contained	contained	jj@_vvn
+multiple	multiple	jj_nn1
+plasmids	plasmid	nn2
+(	(	y
+1--4		mcmc
+plasmid	plasmid	nn1
+bands	band	vvz_nn2
+)	)	y
+ranging	range	vvg
+from	from	ii
+18	18	mc
+kb	kb	nnu
+(	(	y
+kilo-base	kilo-base	nn1
+pairs	pair	nn2
+)	)	y
+to	to	ii
+220	220	mc
+kb	kb	nnu
+and	and	cc
+formed	form	vvd_vvn
+a	a	at1
+number	number	nn1
+of	of	io
+unique	unique	jj
+banding	banding	nn1
+patterns	pattern	nn2
+.	.	y
+Twelve	twelve	mc
+distinct	distinct	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Determination	determination	nn1
+of	of	io
+Congo	congo	np1
+Red	red	jj
+Binding	binding	jj
+Ability	ability	nn1
+and	and	cc
+Hemolysin		np1_nn1
+Production	production	nn1
+In	in	ii
+all	all	db
+,	,	y
+42.5%	42.5%	fo
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz_nn2%
+were	be	vbdr
+Congo	congo	np1
+red	red	jj_nn1
+positive	positive	jj_nn1%
+.	.	y
+All	all	db
+of	of	io
+the	the	at
+Congo	congo	np1
+red	red	jj_nn1
+positive	positive	jj
+colonies	colony	nn2
+produced	produce	vvd_vvn
+-hemolysin		nn1_jj
+on	on	ii
+blood	blood	nn1
+agar	agar	nn1
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+Discussion	discussion	nn1
+Several	several	da2
+previous	previous	jj
+studies	study	nn2
+have	have	vh0
+also	also	rr
+detected	detect	vvn
+Shigella	shigella	np1_nn1@
+in	in	ii
+surface	surface	nn1
+water	water	nn1
+samples	sample	nn2
+(	(	y
+De	de	np1
+,	,	y
+Sen	sen	nna
+,	,	y
+&;		null
+Tewari	tewari	np1_nn1
+,	,	y
+1993	1993	mc
+;	;	y
+Sharma	sharma	np1
+&;		null
+Rajput	rajput	np1
+,	,	y
+1996	1996	mc
+;	;	y
+Faruque		np1
+et	et	np1_fw
+.	.	y
+al.	al	nnu
+,	,	y
+2002	2002	mc
+;	;	y
+Obi	obi	np1
+et	et	np1_fw
+.	.	y
+al.	al	nnu
+,	,	y
+2004	2004	mc
+)	)	y
+and	and	cc
+showed	show	vvd
+that	that	cst_dd1
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+was	be	vbdz
+the	the	at
+most	most	rgt
+prevalent	prevalent	jj
+species	species	nn
+in	in	ii
+developing	developing	jj_vvg
+countries	country	nn2
+including	including	ii
+India	india	np1
+.	.	y
+In	in	ii
+our	our	appge
+study	study	nn1
+,	,	y
+more	more	rrr_dar
+than	than	csn
+50%	50%	nnu
+of	of	io
+the	the	at
+isolates	isolate	nn2%
+belonged	belong	vvd_vvn@
+to	to	ii
+S.	s	np1
+flexneri	flexneri	nn2
+.	.	y
+<p>	<p>	y
+The	the	at
+progressive	progressive	jj
+increase	increase	nn1
+in	in	ii
+antimicrobial	antimicrobial	jj
+resistance	resistance	nn1
+among	among	ii
+enteric	enteric	jj
+pathogens	pathogen	nn2
+in	in	ii
+developing	developing	jj_vvg
+countries	country	nn2
+is	be	vbz
+becoming	become	vvg
+a	a	at1
+critical	critical	jj
+area	area	nn1
+of	of	io
+concern	concern	nn1
+.	.	y
+During	during	ii
+the	the	at
+present	present	jj_nn1
+investigation	investigation	nn1
+,	,	y
+50%	50%	nnu
+of	of	io
+isolates	isolate	nn2%
+were	be	vbdr
+resistant	resistant	jj
+to	to	ii
+three	three	mc
+commonly	commonly	rr
+used	used	jj_vvn
+antibiotics	antibiotic	nn2
+:	:	y
+ampicillin	ampicillin	nn1
+,	,	y
+amoxicillin	amoxicillin	nn1
+,	,	y
+and	and	cc
+tetracycline	tetracycline	nn1_vv0
+,	,	y
+which	which	ddq
+might	might	vm
+be	be	vbi
+due	due	ii21
+to	to	ii22
+either	either	dd1_rr
+geographic	geographic	jj
+differences	difference	nn2
+or	or	cc
+indiscriminate	indiscriminate	jj
+use	use	nn1
+of	of	io
+these	these	dd2
+drugs	drug	nn2
+.	.	y
+<p>	<p>	y
+Antimicrobial	antimicrobial	jj
+agents	agent	nn2
+as	as	csa_rg@
+effective	effective	jj
+options	option	nn2
+for	for	if
+shigellosis	shigellosis	nn1
+treatment	treatment	nn1
+are	be	vbr
+becoming	become	vvg
+limited	limited	jj_vvn
+due	due	ii21
+to	to	ii22
+globally	globally	rr
+emerging	emerging	jj_vvg
+drug	drug	nn1
+resistance	resistance	nn1
+.	.	y
+Multiple-resistant	multiple-resistant	jj
+strains	strain	nn2
+have	have	vh0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Scoulica		np1
+,	,	y
+&;		null
+Tselentis		np1_nn1
+,	,	y
+1998	1998	mc
+)	)	y
+,	,	y
+Africa	africa	np1
+(	(	y
+Egah		np1
+et	et	ra21
+al.	al	ra22
+,	,	y
+2003	2003	mc
+)	)	y
+,	,	y
+Asia	asia	np1
+(	(	y
+Lee	lee	np1
+et	et	ra21
+al.	al	ra22
+,	,	y
+2001	2001	mc
+)	)	y
+,	,	y
+England	england	np1
+and	and	cc
+Wales	wales	np1
+(	(	y
+Cheasty	cheasty	np1
+,	,	y
+Skinner	skinner	np1
+,	,	y
+Rowe	rowe	np1
+,	,	y
+&;		null
+Threlfall	threlfall	np1
+,	,	y
+1998	1998	mc
+)	)	y
+,	,	y
+and	and	cc
+South	south	nd1
+America	america	np1
+(	(	y
+Fulla		np1
+,	,	y
+Valeria	valeria	np1
+,	,	y
+Dura	dura	np1
+,	,	y
+Lagos	lagos	np1
+,	,	y
+&;		null
+Levine	levine	np1
+,	,	y
+2005	2005	mc
+)	)	y
+.	.	y
+Data	data	nn
+from	from	ii
+developing	developing	jj_vvg
+countries	country	nn2
+such	such	ii21
+as	as	ii22
+Chile	chile	np1
+indicated	indicate	vvd
+that	that	cst
+most	most	dat
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+are	be	vbr
+resistant	resistant	jj
+to	to	ii
+ampicillin	ampicillin	nn1
+(	(	y
+82%	82%	nnu
+)	)	y
+,	,	y
+cotrimoxazole	cotrimoxazole	nn1
+(	(	y
+65%	65%	nnu
+)	)	y
+,	,	y
+tetracycline	tetracycline	nn1_vv0
+(	(	y
+53%	53%	nnu
+)	)	y
+,	,	y
+and	and	cc
+chloramphenicol	chloramphenicol	nn1_vv0
+(	(	y
+49%	49%	nnu
+)	)	y
+(	(	y
+Fulla		np1
+,	,	y
+Valeria	valeria	np1
+,	,	y
+Dura	dura	np1
+,	,	y
+Lagos	lagos	np1
+,	,	y
+&;		null
+Levine	levine	np1
+,	,	y
+2005	2005	mc
+)	)	y
+.	.	y
+<p>	<p>	y
+During	during	ii
+the	the	at
+present	present	jj_nn1
+investigation	investigation	nn1
+,	,	y
+S.	s	np1
+flexneri	flexneri	nn2
+isolates	isolate	nn2%_vvz
+showed	show	vvd_vvn%
+resistance	resistance	nn1
+to	to	ii
+ampicillin	ampicillin	nn1
+,	,	y
+amoxicillin	amoxicillin	nn1
+,	,	y
+tetracycline	tetracycline	vv0_nn1
+,	,	y
+nalidixic	nalidixic	jj
+acid	acid	nn1
+,	,	y
+and	and	cc
+ceftazidime	ceftazidime	nn1
+.	.	y
+S.	s	np1
+sonnei	sonnei	nn2
+presented	present	vvd_vvn
+a	a	at1
+similar	similar	jj
+resistance	resistance	nn1
+profile	profile	nn1
+except	except	cs_ii
+with	with	ii31
+respect	respect	ii32
+to	to	ii33
+ceftazidime	ceftazidime	nn1
+.	.	y
+Most	most	dat
+of	of	io
+the	the	at
+S.	s	np1_nn1@
+dysenteriae	dysenteriae	nn2
+showed	show	vvd
+resistance	resistance	nn1
+to	to	ii
+amikacin	amikacin	nn1
+,	,	y
+amoxicillin	amoxicillin	nn1
+,	,	y
+ampicillin	ampicillin	nn1
+,	,	y
+cephotaxime	cephotaxime	nn1
+,	,	y
+gentamycin	gentamycin	nn1
+,	,	y
+and	and	cc
+nalidixic	nalidixic	jj
+acid	acid	nn1
+.	.	y
+Thus	thus	rr
+,	,	y
+it	it	pph1
+can	can	vm
+be	be	vbi
+concluded	conclude	vvn
+that	that	cst
+this	this	dd1
+antimicrobial	antimicrobial	jj
+resistance	resistance	nn1
+pattern	pattern	nn1
+towards	towards	ii
+ampicillin	ampicillin	nn1
+,	,	y
+amoxicillin	amoxicillin	nn1
+,	,	y
+nalidixic	nalidixic	jj
+acid	acid	nn1
+,	,	y
+and	and	cc
+tetracycline	tetracycline	nn1
+continues	continue	vvz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+was	be	vbdz
+also	also	rr
+reported	report	vvn
+by	by	ii
+Niyogi	niyogi	np1_nn1_jj
+in	in	ii
+2005	2005	mc
+.	.	y
+We	we	ppis2
+could	could	vm
+not	not	xx
+find	find	vvi
+any	any	dd
+specific	specific	jj
+correlation	correlation	nn1
+between	between	ii
+serotype	serotype	nn1
+and	and	cc
+antimicrobial	antimicrobial	jj
+resistance	resistance	nn1
+because	because	cs
+one	one	mc1
+serotype	serotype	nn1
+had	have	vhd
+variable	variable	jj_nn1
+resistance	resistance	nn1
+phenotypes	phenotype	nn2
+(	(	y
+e.g.	eg	rex
+,	,	y
+S.	s	np1
+flexneri	flexneri	nn2
+had	have	vhd
+18	18	mc
+different	different	jj
+phenotypes	phenotype	nn2
+)	)	y
+.	.	y
+<p>	<p>	y
+The	the	at
+essential	essential	jj
+mechanism	mechanism	nn1
+of	of	io
+virulence	virulence	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+resides	reside	vvz
+in	in	ii_rp@
+its	its	z'
+ability	ability	nn1
+to	to	to
+enter	enter	vvi
+susceptible	susceptible	jj
+epithelial	epithelial	jj
+cells	cell	nn2
+and	and	cc
+to	to	to
+induce	induce	vvi
+apoptosis	apoptosis	nn1
+in	in	ii
+infected	infected	jj
+macrophages	macrophage	nn2
+(	(	y
+Clerc	clerc	np1
+,	,	y
+Ryter	ryter	np1_nn1
+,	,	y
+Mounier		np1_nn1
+,	,	y
+&;		null
+Sansonetti	sansonetti	np1_nn1
+,	,	y
+1986	1986	mc
+)	)	y
+.	.	y
+The	the	at
+virulence	virulence	nn1
+genes	gene	nn2
+necessary	necessary	jj
+for	for	if
+invasion	invasion	nn1
+of	of	io
+epithelial	epithelial	jj
+cells	cell	nn2
+are	be	vbr
+present	present	jj
+on	on	ii
+a	a	at1
+large	large	jj
+220	220	mc
+kb	kb	nnu
+plasmid	plasmid	nn1
+,	,	y
+called	call	vvn_vvd@
+the	the	at
+virulence	virulence	nn1
+plasmid	plasmid	nn1
+or	or	cc
+the	the	at
+invasion	invasion	nn1
+plasmid	plasmid	nn1
+(	(	y
+pINV	pinv	nn1
+)	)	y
+,	,	y
+which	which	ddq
+is	be	vbz
+present	present	jj_nn1
+in	in	ii
+all	all	db
+pathogenic	pathogenic	jj
+strains	strain	nn2
+(	(	y
+Watanabe	watanabe	np1
+&;		null
+Nakamura	nakamura	np1
+,	,	y
+1985	1985	mc
+)	)	y
+.	.	y
+In	in	ii
+the	the	at
+present	present	jj_nn1
+study	study	nn1
+,	,	y
+out	out	ii21
+of	of	ii22
+40	40	mc
+isolates	isolate	vvz_nn2%
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+,	,	y
+92.5%	92.5%	fo
+of	of	io
+isolates	isolate	nn2%
+harbored	harbor	vvd
+220	220	mc
+kb	kb	nnu
+plasmids	plasmid	nn2
+and	and	cc
+most	most	dat
+of	of	io
+the	the	at
+isolates	isolate	nn2%
+showed	show	vvd
+multidrug	multidrug	nn1
+resistance	resistance	nn1
+.	.	y
+Nowroozi		np1@
+&;		null
+Hakemi		np1_nn1
+(	(	y
+2006	2006	mc
+)	)	y
+also	also	rr
+reported	report	vvn_vvd
+large	large	jj
+plasmids	plasmid	nn2
+in	in	ii
+most	most	dat
+of	of	io
+the	the	at
+strains	strain	nn2
+(	(	y
+70.8%	70.8%	fo
+)	)	y
+isolated	isolate	vvd_vvn
+from	from	ii
+Iran	iran	np1
+.	.	y
+We	we	ppis2
+observed	observe	vvd
+a	a	at1
+maximum	maximum	nn1_jj
+four	four	mc
+and	and	cc
+minimum	minimum	nn1_jj
+one	one	mc1
+plasmid	plasmid	nn1
+in	in	ii
+any	any	dd
+isolate	isolate	vv0
+with	with	iw
+size	size	nn1
+ranging	range	vvg
+from	from	ii
+18	18	mc
+kb	kb	nnu
+to	to	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+(	(	y
+e.g.	eg	rex
+,	,	y
+S.	s	np1
+flexneri	flexneri	nn2
+had	have	vhd
+six	six	mc
+different	different	jj
+plasmid	plasmid	nn1
+profiles	profile	nn2_vvz@
+)	)	y
+,	,	y
+and	and	cc
+thus	thus	rr
+no	no	at
+correlation	correlation	nn1
+could	could	vm
+be	be	vbi
+made	make	vvn
+between	between	ii
+serotype	serotype	nn1
+and	and	cc
+plasmid	plasmid	nn1
+DNA	dna	nn1
+profiles	profile	nn2
+.	.	y
+<p>	<p>	y
+The	the	at
+ability	ability	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+to	to	to
+bind	bind	vvi
+to	to	ii
+Congo	congo	np1
+red	red	nn1
+is	be	vbz
+generally	generally	rr
+correlated	correlate	vvn_vvd
+with	with	iw
+their	their	appge
+virulence	virulence	nn1
+properties	property	nn2
+(	(	y
+Payne	payne	np1
+,	,	y
+Richard	richard	np1
+,	,	y
+&;		null
+Elstein	elstein	np1
+,	,	y
+1977	1977	mc
+)	)	y
+.	.	y
+In	in	ii
+this	this	dd1
+study	study	nn1
+,	,	y
+42.5%	42.5%	fo
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz_nn2%
+were	be	vbdr
+Congo	congo	np1
+red	red	nn1_jj
+and	and	cc
+hemolysin	hemolysin	nn1
+positive	positive	jj_nn1%
+.	.	y
+Nowroozi		np1@
+&;		null
+Hakemi		np1_nn1
+(	(	y
+2006	2006	mc
+)	)	y
+reported	report	vvd
+the	the	at
+relationship	relationship	nn1
+between	between	ii
+the	the	at
+virulence	virulence	nn1
+of	of	io
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+and	and	cc
+its	its	z'
+ability	ability	nn1
+to	to	to
+absorb	absorb	vvi
+Congo	congo	np1
+red	red	nn1_jj
+.	.	y
+In	in	ii
+another	another	dd1
+study	study	nn1
+,	,	y
+Sankaran	sankaran	np1_nn1
+and	and	cc
+co-authors	co-author	nn2
+(	(	y
+1989	1989	mc
+)	)	y
+also	also	rr
+reported	report	vvn_vvd
+that	that	cst
+all	all	db
+Congo	congo	np1
+red	red	jj_nn1
+positive	positive	jj
+strains	strain	nn2
+of	of	io
+S.	s	np1_nn1@
+dysenteriae	dysenteriae	nn2
+type1	type1	fo
+,	,	y
+S.	s	np1
+flexneri	flexneri	nn2
+,	,	y
+and	and	cc
+S.	s	np1_nn1@
+sonnei	sonnei	nn2
+were	be	vbdr
+hemolysin	hemolysin	nn1
+positive	positive	jj_nn1%
+.	.	y
+<p>	<p>	y
+The	the	at
+presence	presence	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+in	in	ii
+the	the	at
+aquatic	aquatic	jj
+environment	environment	nn1
+and	and	cc
+dispersion	dispersion	nn1
+of	of	io
+different	different	jj
+virulence	virulence	nn1
+genes	gene	nn2
+among	among	ii
+the	the	at
+isolates	isolate	nn2%
+,	,	y
+which	which	ddq
+appears	appear	vvz
+to	to	to
+constitute	constitute	vvi
+an	a	at1
+environmental	environmental	jj
+reservoir	reservoir	nn1
+of	of	io
+Shigella-specific	shigella-specific	jj
+virulence	virulence	nn1
+genes	gene	nn2
+,	,	y
+is	be	vbz
+demonstrated	demonstrate	vvn
+.	.	y
+Since	since	cs_rr@
+critical	critical	jj
+virulence	virulence	nn1
+genes	gene	nn2
+in	in	ii
+Shigella	shigella	np1
+are	be	vbr
+carried	carry	vvn
+by	by	ii
+plasmids	plasmid	nn2
+or	or	cc
+mobile	mobile	jj
+genetic	genetic	jj
+elements	element	nn2
+,	,	y
+the	the	at
+environmental	environmental	jj
+gene	gene	nn1
+pool	pool	nn1
+may	may	vm
+contribute	contribute	vvi
+to	to	ii
+an	a	at1
+optimum	optimum	jj
+combination	combination	nn1
+of	of	io
+genes	gene	nn2
+,	,	y
+causing	cause	vvg
+the	the	at
+emergence	emergence	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+by	by	ii
+close	close	jj
+contact	contact	nn1
+of	of	io
+the	the	at
+population	population	nn1
+with	with	iw
+surface	surface	nn1
+water	water	nn1
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+Conclusion	conclusion	nn1
+Present	present	nn1_jj
+results	result	nn2
+indicated	indicate	vvd_vvn
+that	that	cst_dd1
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+with	with	iw
+antibiotic	antibiotic	nn1
+resistance	resistance	nn1
+were	be	vbdr
+widespread	widespread	jj
+in	in	ii
+the	the	at
+river	river	nn1
+Narmada	narmada	np1_nn1@
+.	.	y
+High	high	jj
+levels	level	nn2
+of	of	io
+antibiotic	antibiotic	nn1
+resistance	resistance	nn1
+in	in	ii
+most	most	dat
+of	of	io
+the	the	at
+isolates	isolate	nn2%_vvz
+against	against	ii
+amoxicillin	amoxicillin	nn1
+and	and	cc
+ampicillin	ampicillin	nn1
+indicated	indicate	vvd_vvn
+that	that	cst
+the	the	at
+-lactamase	-lactamase	jj_nn1
+gene	gene	nn1
+might	might	vm
+be	be	vbi
+widely	widely	rr
+present	present	jj_vv0@
+in	in	ii
+the	the	at
+gene	gene	nn1
+pool	pool	nn1
+of	of	io
+microbes	microbe	nn2
+in	in	ii
+this	this	dd1
+environment	environment	nn1
+.	.	y
+Continuous	continuous	jj
+monitoring	monitoring	nn1
+of	of	io
+antimicrobial	antimicrobial	jj
+susceptibilities	susceptibility	nn2
+of	of	io
+Shigella	shigella	np1_nn1@
+spp.	spp	nnu
+is	be	vbz
+thus	thus	rr
+essential	essential	jj
+for	for	if
+effective	effective	jj
+therapy	therapy	nn1
+and	and	cc
+control	control	nn1_vv0
+measures	measure	nn2_vvz@
+against	against	ii
+shigellosis	shigellosis	nn1
+.	.	y
+The	the	at
+emergence	emergence	nn1
+of	of	io
+multiple-drug	multiple-drug	jj_nn1
+resistance	resistance	nn1
+demands	demand	vvz@_nn2
+continuous	continuous	jj
+monitoring	monitoring	nn1
+of	of	io
+the	the	at
+susceptibility	susceptibility	nn1
+pattern	pattern	nn1
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz
+.	.	y
+Our	our	appge
+study	study	nn1
+established	establish	vvd_vvn
+the	the	at
+patterns	pattern	nn2
+of	of	io
+resistance	resistance	nn1
+of	of	io
+antimicrobial	antimicrobial	jj
+agents	agent	nn2
+and	and	cc
+recognition	recognition	nn1
+of	of	io
+changing	change	vvg_jj
+microbial	microbial	jj
+resistance	resistance	nn1
+patterns	pattern	nn2
+.	.	y
+Simple	simple	jj
+measures	measure	nn2
+like	like	ii
+washing	wash	vvg_nn1
+hands	hand	nn2
+coupled	couple	vvn_vvd
+with	with	iw
+strict	strict	jj
+public	public	jj_nn1
+health	health	nn1
+strategies	strategy	nn2
+like	like	ii
+clean	clean	jj
+water	water	nn1
+supplies	supply	nn2_vvz
+,	,	y
+good	good	jj
+sewage	sewage	nn1
+management	management	nn1
+,	,	y
+and	and	cc
+a	a	at1
+clean	clean	jj
+environment	environment	nn1
+should	should	vm
+help	help	vvi
+in	in	ii_rp@
+reducing	reduce	vvg_jj@
+morbidity	morbidity	nn1
+and	and	cc
+mortality	mortality	nn1
+due	due	ii21
+to	to	ii22
+diarrheal	diarrheal	jj
+diseases	disease	nn2
+.	.	y
+<p>	<p>	y
+Acknowledgements	acknowledgement	nn2
+:	:	y
+We	we	ppis2
+are	be	vbr
+thankful	thankful	jj
+to	to	ii
+the	the	at
+Ministry	ministry	nn1
+of	of	io
+Environment	environment	nn1
+and	and	cc
+Forest	forest	nn1
+,	,	y
+Government	government	nn1
+of	of	io
+India	india	np1
+,	,	y
+for	for	if
+financial	financial	jj
+assistance	assistance	nn1
+.	.	y
+Thanks	thanks	nn2
+are	be	vbr
+also	also	rr
+due	due	ii21
+to	to	ii22
+Head	head	nn1
+,	,	y
+Dept	department	nn1
+of	of	io
+P.G	page	np1
+.	.	y
+Studies	study	nn2
+and	and	cc
+Biological	biological	jj
+Research	research	nn1
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+India	india	np1
+,	,	y
+for	for	if
+lab	lab	nn1
+facilities	facility	nn2
+.	.	y
+<p>	<p>	y
+Although	although	cs
+most	most	dat
+of	of	io
+the	the	at
+information	information	nn1
+presented	present	vvn_vvd
+in	in	ii
+the	the	at
+Journal	journal	nn1
+refers	refer	vvz
+to	to	ii
+situations	situation	nn2
+within	within	ii
+the	the	at
+United	united	np1
+States	state	np1
+,	,	y
+environmental	environmental	jj
+health	health	nn1
+and	and	cc
+protection	protection	nn1
+know	know	vv0
+no	no	at
+boundaries	boundary	nn2
+.	.	y
+The	the	at
+Journal	journal	nn1
+periodically	periodically	rr
+runs	run	vvz
+International	international	jj
+Perspectives	perspective	nn2
+to	to	to
+ensure	ensure	vvi
+that	that	cst_dd1
+issues	issue	vvz@_nn2
+relevant	relevant	jj
+to	to	ii
+our	our	appge
+international	international	jj
+constituency	constituency	nn1
+,	,	y
+representing	represent	vvg
+over	over	rg
+60	60	mc
+countries	country	nn2
+worldwide	worldwide	rl
+,	,	y
+are	be	vbr
+addressed	address	vvn
+.	.	y
+Our	our	appge
+goal	goal	nn1
+is	be	vbz
+to	to	to
+raise	raise	vvi
+diverse	diverse	jj
+issues	issue	nn2
+of	of	io
+interest	interest	nn1
+to	to	ii
+all	all	db
+our	our	appge
+readers	reader	nn2
+,	,	y
+irrespective	irrespective	ii21
+of	of	ii22
+origin	origin	nn1
+.	.	y
+<p>	<p>	y
+L	l	zz1_np1@
+:	:	y
+TABLE	table	nn1
+1	1	mc1
+Biochemical	biochemical	jj
+Characteristics	characteristic	nn2
+of	of	io
+Shigella	shigella	np1
+Isolates	isolate	vvz
+from	from	ii
+the	the	at
+River	river	nnl1
+Narmada	narmada	np1
+pre-formatted		zz
+table	table	nn1
+L	l	zz1_np1@
+:	:	y
+TABLE	table	nn1
+2	2	mc
+Number	number	nn1
+of	of	io
+Resistant	resistant	jj
+Isolates	isolate	vvz
+of	of	io
+Shigella	shigella	np1
+and	and	cc
+Percent	percent	nnu
+Resistance	resistance	nn1
+Among	among	ii
+Species	species	nn
+pre-formatted		zz
+table	table	nn1
+L	l	zz1_np1@
+:	:	y
+TABLE	table	nn1
+3	3	mc
+Minimum	minimum	jj
+Inhibitory	inhibitory	jj
+Concentration	concentration	nn1
+(	(	y
+MIC	mic	np1
+)	)	y
+of	of	io
+Antimicrobials	antimicrobials	np1
+for	for	if
+Shigella	shigella	np1
+Isolates	isolate	vvz
+pre-formatted		zz
+table	table	nn1
+L	l	zz1_np1@
+:	:	y
+TABLE	table	nn1
+4	4	mc
+Plasmid	plasmid	nn1
+Profile	profile	nn1
+Analysis	analysis	nn1
+of	of	io
+Shigella	shigella	np1
+Isolated	isolate	vvd
+from	from	ii
+River	river	nn1
+pre-formatted		zz
+table	table	nn1
+L	l	zz1_np1@
+:	:	y
+REFERENCES	reference	nn2_vvz@
+--		zz
+Askhenazi	askhenazi	nn1_np1_nn2@
+,	,	y
+S.	s	np1
+,	,	y
+Levy	levy	np1
+,	,	y
+I.	i	np1
+,	,	y
+&;		null
+Kazaronovski		np1_nn1
+,	,	y
+V.	xx_v	nnu
+(	(	y
+2003	2003	mc
+)	)	y
+.	.	y
+Growing	growing	jj_vvg
+antimicrobial	antimicrobial	jj
+resistance	resistance	nn1
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz
+.	.	y
+Journal	journal	nn1
+of	of	io
+Antimicrobial	antimicrobial	jj_np1
+Chemotherapy	chemotherapy	nn1
+,	,	y
+51,427-429		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Bryant	bryant	np1
+,	,	y
+T.N.	tn	np1
+(	(	y
+2003	2003	mc
+)	)	y
+.	.	y
+Probabilistic	probabilistic	jj
+identification	identification	nn1
+of	of	io
+bacteria	bacteria	nn2
+,	,	y
+PIB	pib	np1_vv0_nn1
+computer	computer	nn1
+kit	kit	nn1
+Computer	computer	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.	.	y
+<p>	<p>	y
+--		zz
+Burke	burke	np1
+,	,	y
+V.	xx_v	nnu
+,	,	y
+Robinson	robinson	np1
+,	,	y
+J.	xx_j	np1
+,	,	y
+Alkinson		np1
+,	,	y
+H.M.	hm	np1
+,	,	y
+Dibble	dibble	np1_vv0_nn1
+,	,	y
+M.	m	nn1
+,	,	y
+Berry	berry	np1
+,	,	y
+R.J.	rj	np1
+,	,	y
+&;		null
+Gracey	gracey	np1
+,	,	y
+M.	m	nnu@_nn1
+(	(	y
+1981	1981	mc
+)	)	y
+.	.	y
+Exotoxin	exotoxin	nn1
+of	of	io
+Aeromonas	aeromonas	np2
+hydrophila	hydrophila	nn1
+.	.	y
+Australian	australian	jj
+Journal	journal	nn1
+of	of	io
+Experimental	experimental	jj
+Biology	biology	nn1
+Medical	medical	jj
+Sciences	science	nn2
+,	,	y
+59	59	mc
+,	,	y
+753-761		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Cheasty	cheasty	np1_jj
+,	,	y
+T.	t	np1
+,	,	y
+Skinner	skinner	np1
+,	,	y
+J.A.	ja	np1
+,	,	y
+Rowe	rowe	np1
+,	,	y
+B.	b	np1
+,	,	y
+&;		null
+Threlfall	threlfall	np1
+,	,	y
+E.J.	e.j	np1
+(	(	y
+1998	1998	mc
+)	)	y
+.	.	y
+Increasing	increasing	jj_vvg
+incidence	incidence	nn1
+of	of	io
+antibiotic	antibiotic	nn1
+resistance	resistance	nn1
+in	in	ii
+Shigella	shigella	np1
+from	from	ii
+humans	human	nn2
+in	in	ii
+England	england	np1
+and	and	cc
+Wales	wales	np1
+:	:	y
+Recommendations	recommendation	nn2
+for	for	if
+therapy	therapy	nn1
+.	.	y
+Microbial	microbial	jj
+Drug	drug	nn1
+Resistance	resistance	nn1
+,	,	y
+4	4	mc
+,	,	y
+57-60	57-60	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Clerc	clerc	np1_nn1@
+,	,	y
+P.	xx_p	np1
+,	,	y
+Ryter	ryter	np1_nn1
+,	,	y
+A.	a	zz
+,	,	y
+Mounier		np1_nn1
+,	,	y
+J.	xx_j	np1
+,	,	y
+&;		null
+Sansonetti	sansonetti	np1_nn1
+,	,	y
+P.J.	pj	np1
+(	(	y
+1986	1986	mc
+)	)	y
+.	.	y
+Plasmid-mediated	plasmid-mediated	jj
+intracellular	intracellular	jj
+multiplication	multiplication	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+flexneri	flexneri	nn2
+.	.	y
+Annales	annales	fw
+De	de	fw@_np1
+L	l	np1@_zz1
+Institute	institute	nn1
+Pasteur	pasteur	np1_nn1
+Microbiology	microbiology	np1_nn1
+,	,	y
+137(3)		fo
+,	,	y
+315-320		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Clinical	clinical	jj
+Laboratory	laboratory	nn1
+Standard	standard	nn1_jj
+Institute	institute	nn1
+(	(	y
+CLSI		np1
+)	)	y
+.	.	y
+(	(	y
+2002	2002	mc
+)	)	y
+.	.	y
+Performance	performance	nn1
+standards	standard	nn2
+for	for	if
+antimicrobial	antimicrobial	jj
+susceptibility	susceptibility	nn1
+testing	testing	nn1_vvg
+:	:	y
+15	15	mc
+informational	informational	jj
+supplement	supplement	nn1
+(	(	y
+M100	m100	fo
+;	;	y
+F15	f15	fo
+)	)	y
+.	.	y
+Wayne	wayne	np1
+,	,	y
+PA	pa	np1@_nn1
+:	:	y
+CLSI		np1_nn2_nn1_jj
+.	.	y
+<p>	<p>	y
+--		zz
+De	de	np1
+,	,	y
+A.	a	zz
+,	,	y
+Sen	sen	nna
+,	,	y
+P.C.	p.c	nnu
+,	,	y
+&;		null
+Tewari	tewari	np1_nn1
+,	,	y
+I.C.	ic	np1
+(	(	y
+1993	1993	mc
+)	)	y
+.	.	y
+Enteropathogenic	enteropathogenic	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Pathology	pathology	nn1
+&;		null
+Microbiology	microbiology	nn1_np1
+,	,	y
+36	36	mc
+,	,	y
+425-432		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Edwards	edwards	np1
+,	,	y
+P.R.	p.r	np1
+,	,	y
+&;		null
+Ewing	ewing	np1
+,	,	y
+W.H.	wh	np1
+(	(	y
+1972	1972	mc
+)	)	y
+.	.	y
+Identification	identification	nn1
+of	of	io
+the	the	at
+Enterobacteriaceae	enterobacteriaceae	np1
+(	(	y
+3rd	3rd	md
+ed	ed	nn1
+.	.	y
+)	)	y
+.	.	y
+Minneapolis	minneapolis	np1
+:	:	y
+Burgess	burgess	np1
+Publication	publication	nn1
+Co	co	nn1_np1
+.	.	y
+<p>	<p>	y
+--		zz
+Egah		np1_nn1@
+,	,	y
+D.Z.	d.z	np1
+,	,	y
+Banwat		np1_vv0_nn1
+,	,	y
+E.B.	eb	np1
+,	,	y
+Audu	audu	np1_nn1
+,	,	y
+E.S.	es	np2
+,	,	y
+Allanana		np1
+,	,	y
+J.A.	ja	np1
+,	,	y
+Danung		np1_vvd_vvn
+,	,	y
+M.L.	m.l	nnu
+,	,	y
+Damen	damen	np1_nn2
+,	,	y
+J.G.	jg	np1
+,	,	y
+&;		null
+Badung		np1_vvd_vvn
+,	,	y
+B.P.	bp	np1
+(	(	y
+2003	2003	mc
+)	)	y
+.	.	y
+Multiple	multiple	jj_nn1
+drug	drug	nn1
+resistant	resistant	jj
+strains	strain	nn2
+of	of	io
+Shigella	shigella	np1
+isolated	isolate	vvd
+in	in	ii
+Jos	jos	np1
+.	.	y
+The	the	at
+Nigerian	nigerian	jj_nn1
+Postgraduate	postgraduate	nn1
+Medical	medical	jj
+Journal	journal	nn1
+,	,	y
+10	10	mc
+,	,	y
+154-156	154-156	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Faruque	faruque	nn1_np1
+,	,	y
+S.M.	sm	np1
+,	,	y
+Khan	khan	np1
+,	,	y
+R.	xx_r	np1
+,	,	y
+Kammuzzaman		np1_nn1
+,	,	y
+M.	m	nn1
+,	,	y
+Tamasaki		np1_nn1
+,	,	y
+S.	s	np1
+,	,	y
+Ahmad	ahmad	np1
+,	,	y
+Q.S.		nn2_np2
+,	,	y
+Azim	azim	np1_vv0_nn1
+,	,	y
+T.	t	np1
+,	,	y
+Nair	nair	np1_vv0_nn1
+,	,	y
+G.B.	gb	np1
+,	,	y
+Takeda	takeda	np1
+,	,	y
+Y.	y	np1
+,	,	y
+&;		null
+Sack	sack	vv0_nn1
+,	,	y
+D.A	da	np1
+.	.	y
+(	(	y
+2002	2002	mc
+)	)	y
+.	.	y
+Isolation	isolation	nn1
+Shigella	shigella	np1_nn1@
+dysenteriae	dysenteriae	nn2
+type	type	nn1_vv0%
+1	1	mc1
+and	and	cc
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+strains	strain	vvz_nn2
+from	from	ii
+surface	surface	nn1
+water	water	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+:	:	y
+Comparative	comparative	jj
+molecular	molecular	jj
+analysis	analysis	nn1
+of	of	io
+environmental	environmental	jj
+Shigella	shigella	nn1@_np1
+versus	versus	ii
+clinical	clinical	jj
+strains	strain	nn2
+.	.	y
+Applied	applied	jj_vvn
+Environmental	environmental	jj
+&;		null
+Microbiology	microbiology	nn1_np1
+,	,	y
+68(8)		fo
+,	,	y
+3908-3913		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Fulla		np1_nn1@
+,	,	y
+N.	xx_n	np1_nnu
+,	,	y
+Valeria	valeria	np1
+,	,	y
+P.	xx_p	np1
+,	,	y
+Dura	dura	np1
+,	,	y
+N.C.	nc	np1
+,	,	y
+Lagos	lagos	np1
+,	,	y
+R.	xx_r	np1
+,	,	y
+&;		null
+Levine	levine	np1
+,	,	y
+M.M.	m.m	nnu
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Shigella	shigella	np1
+species	species	nn
+isolated	isolate	vvn_vvd
+from	from	ii
+a	a	at1
+semirural	semi-rural	jj_nn1
+community	community	nn1
+in	in	ii
+the	the	at
+northern	northern	jj
+administrative	administrative	jj
+area	area	nn1
+of	of	io
+Santiago	santiago	np1
+,	,	y
+Chile	chile	np1
+.	.	y
+American	american	jj
+Journal	journal	nn1
+of	of	io
+Tropical	tropical	jj
+Medicine	medicine	nn1
+&;		null
+Hygiene	hygiene	nn1
+,	,	y
+72(6)		fo
+,	,	y
+851-854		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Kaisar	kaisar	nn1_np1
+,	,	y
+A.	a	zz
+,	,	y
+Zhahirul		np1_vv0_nn1
+,	,	y
+I.T.	i.t	np1
+,	,	y
+&;		null
+Aminul		np1_vv0_nn1
+,	,	y
+I.M.	im	np1
+(	(	y
+2003	2003	mc
+)	)	y
+.	.	y
+Phenotypic	phenotypic	jj
+and	and	cc
+genotypic	genotypic	jj
+characterization	characterization	nn1
+of	of	io
+provisional	provisional	jj
+serotype	serotype	nn1
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+1c	1c	fo
+and	and	cc
+clonal	clonal	jj
+relationship	relationship	nn1
+with	with	iw
+1b	1b	fo
+strains	strain	nn2_vvz
+isolated	isolate	vvn_jj_vvd
+in	in	ii
+Bangladesh	bangladesh	np1
+.	.	y
+Journal	journal	nn1
+of	of	io
+Clinical	clinical	jj
+Microbiology	microbiology	nn1_np1
+,	,	y
+41(1)	41(1)	fo
+,	,	y
+110-117	110-117	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Kotloff	kotloff	nn1_np1
+,	,	y
+K.L.	kl	np1
+,	,	y
+Winickoff		np1
+,	,	y
+J.P.	j.p	nna
+,	,	y
+Ivanoff	ivanoff	np1_vv0_nn1
+,	,	y
+B.	b	np1
+,	,	y
+Clemens	clemens	np1
+,	,	y
+J.D.	jd	np1
+,	,	y
+Swerdlaw		np1_nn1
+,	,	y
+D.L.	d.l	mc
+,	,	y
+Sansonetti	sansonetti	np1_nn1
+,	,	y
+P.S.	ps	nn1
+,	,	y
+Adak	adak	np1
+,	,	y
+G.K.	gk	np1
+,	,	y
+&;		null
+Levine	levine	np1
+,	,	y
+M.M.	m.m	nnu
+(	(	y
+1999	1999	mc
+)	)	y
+.	.	y
+Global	global	jj
+burden	burden	nn1
+of	of	io
+Shigella	shigella	np1
+infection	infection	nn1
+:	:	y
+Identification	identification	nn1
+for	for	if
+vaccine	vaccine	nn1
+development	development	nn1
+and	and	cc
+implementation	implementation	nn1
+of	of	io
+control	control	nn1
+strategies	strategy	nn2
+.	.	y
+Bulletin	bulletin	nn1
+of	of	io
+the	the	at
+WHO	who	np1
+,	,	y
+77(8)		fo
+,	,	y
+651-666		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Kreig	kreig	nn1_np1
+,	,	y
+R.N.	rn	np1
+,	,	y
+Sneath	sneath	np1_nn1
+,	,	y
+P.H.A.		np1
+,	,	y
+Staley	staley	np1
+,	,	y
+J.T.	jt	np1
+&;		null
+Holt	holt	np1
+,	,	y
+G.	g	np1_nnu@
+(	(	y
+1984	1984	mc
+)	)	y
+.	.	y
+Bergey	bergey	np1@_nn1
+'s	's	ge
+manual	manual	nn1
+of	of	io
+determinative	determinative	jj
+bacteriology	bacteriology	nn1
+.	.	y
+Baltimore	baltimore	np1
+:	:	y
+William	william	np1
+and	and	cc
+Wilkins	wilkins	np1
+Co	co	np1
+Lee	lee	np1
+,	,	y
+J.C.	j.c	np1
+,	,	y
+Ob	ob	np1
+,	,	y
+J.Y.	jy	np1
+,	,	y
+Kim	kim	np1
+,	,	y
+K.S.	k.s	np2
+,	,	y
+Jeong	jeong	np1_vv0_nn1
+,	,	y
+Y.W.		np1
+,	,	y
+Cho	cho	np1_nn1
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+&;		null
+Cho	cho	np1_nn1
+,	,	y
+D.T.	dt	np1
+(	(	y
+2001	2001	mc
+)	)	y
+.	.	y
+Antimicrobial	antimicrobial	jj
+resistance	resistance	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+sonnei	sonnei	nn2
+in	in	ii
+Korea	korea	np1
+during	during	ii
+the	the	at
+last	last	md
+two	two	mc
+decades	decade	nnt2
+.	.	y
+Acta	acta	np1@_nn1
+Pathologica		np1
+,	,	y
+Microbiologica		np1
+et	et	np1
+Immunologica		np1
+Scandinavica	scandinavica	np1
+,	,	y
+109(3)		fo
+,	,	y
+228-234		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Litwin	litwin	np1_nn1@
+,	,	y
+C.M.	c.m	nnu
+,	,	y
+&;		null
+Ryan	ryan	np1
+,	,	y
+K.J.	kj	np1
+(	(	y
+1991	1991	mc
+)	)	y
+.	.	y
+Molecular	molecular	jj
+epidemiology	epidemiology	nn1
+of	of	io
+Shigella	shigella	np1_nn1@
+infections	infection	nn2
+:	:	y
+Plasmid	plasmid	nn1
+profiles	profile	nn2
+,	,	y
+serotype	serotype	vv0_nn1
+correlation	correlation	nn1
+,	,	y
+and	and	cc
+restriction	restriction	nn1
+endonuclease	endonuclease	nn1_vv0
+analysis	analysis	nn1
+.	.	y
+Journal	journal	nn1
+of	of	io
+Microbiology	microbiology	np1_nn1
+,	,	y
+29(1)	29(1)	fo
+,	,	y
+104-108	104-108	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+MacFaddin		np1
+,	,	y
+F.J.	fj	np1
+(	(	y
+1980	1980	mc
+)	)	y
+.	.	y
+Biochemical	biochemical	jj
+tests	test	nn2
+for	for	if
+identification	identification	nn1
+of	of	io
+medical	medical	jj
+bacteria	bacteria	nn2
+(	(	y
+Vol.	volume	nn1
+1	1	mc1
+)	)	y
+.	.	y
+Baltimore	baltimore	np1
+:	:	y
+Williams	williams	np1
+and	and	cc
+Wilkins	wilkins	np1
+Co	co	np1_nn1
+.	.	y
+<p>	<p>	y
+--		zz
+Maraki	maraki	nn1_np1_nn2@
+,	,	y
+S.	s	np1
+,	,	y
+Georgiladakis		np1_nn1
+,	,	y
+A.	a	zz
+,	,	y
+Christidou		np1_nn1
+,	,	y
+A.	a	zz
+,	,	y
+Scoulica		np1
+,	,	y
+E.	e	np1
+,	,	y
+&;		null
+Tselentis		np1_nn1
+,	,	y
+Y.	y	np1
+(	(	y
+1998	1998	mc
+)	)	y
+.	.	y
+Antimicrobial	antimicrobial	jj
+susceptibilities	susceptibility	nn2
+and	and	cc
+beta-lactamase	beta-lactamase	jj_nn1
+production	production	nn1
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz
+in	in	ii
+Crete	crete	np1
+,	,	y
+Greece	greece	np1
+,	,	y
+during	during	ii
+period	period	nn1
+1991-1995	1991-1995	mcmc
+.	.	y
+Acta	acta	np1@_nn1
+Pathologica		np1
+,	,	y
+Microbiologica		np1
+et	et	np1
+Immunologica		np1
+Scandinavica	scandinavica	np1
+,	,	y
+106(9)		fo
+,	,	y
+879-883		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Min	min	nnu
+,	,	y
+S.K.	sk	np1
+,	,	y
+Park	park	np1_nn1
+,	,	y
+E.H.	e.h	np1
+,	,	y
+&;		null
+Kim	kim	np1
+,	,	y
+M.H.	mh	np1
+(	(	y
+2002	2002	mc
+)	)	y
+.	.	y
+Molecular	molecular	jj
+epidemiological	epidemiological	jj
+characteristics	characteristic	nn2
+of	of	io
+S.	s	np1_nn1@
+flexneri	flexneri	nn2
+strains	strain	nn2_vvz
+isolated	isolate	vvn_vvd_jj
+in	in	ii
+Busan	busan	np1_nn1_jj
+during	during	ii
+the	the	at
+period	period	nn1
+1998	1998	mc
+to	to	ii
+2002	2002	mc
+:	:	y
+Antibiogram		np1_vv0_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Environment	environment	nn1
+,	,	y
+12	12	mc
+,	,	y
+38-47	38-47	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Niyogi	niyogi	nn1_np1_nn2@
+,	,	y
+S.K.	sk	np1
+(	(	y
+2005	2005	mc
+)	)	y
+.	.	y
+Shigellosis	shigellosis	nn1_np1@
+.	.	y
+Journal	journal	nn1
+of	of	io
+Microbiology	microbiology	np1_nn1
+,	,	y
+43(2)		fo
+,	,	y
+133-143	133-143	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Nowroozi	nowroozi	nn1_np1_nn2@
+,	,	y
+J.	xx_j	np1
+,	,	y
+&;		null
+Hakemi		np1_nn1
+,	,	y
+V.	xx_v	nnu
+(	(	y
+2006	2006	mc
+)	)	y
+.	.	y
+Plasmid	plasmid	nn1
+profile	profile	nn1
+,	,	y
+antibiotic	antibiotic	nn1
+resistance	resistance	nn1
+,	,	y
+and	and	cc
+phynotypic	phynotypic	jj
+virulent	virulent	jj
+strains	strain	nn2
+of	of	io
+S.	s	np1
+Flexneri		np1_nn1
+.	.	y
+Iranian	iranian	jj
+Journal	journal	nn1
+of	of	io
+Public	public	jj_nn1
+Health	health	nn1
+,	,	y
+35(4)		fo
+,	,	y
+43-48	43-48	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Obi	obi	nn1_np1_nn2@
+,	,	y
+C.L.	c.l	fo
+,	,	y
+Bessong		np1_vv0_nn1
+,	,	y
+P.O.	po	nn1
+,	,	y
+Momba		np1
+,	,	y
+M.N.B.		np1
+,	,	y
+Postgieter		np1_nn1
+,	,	y
+N.	xx_n	np1_nnu
+,	,	y
+Samie	samie	np1
+,	,	y
+A.	a	zz
+,	,	y
+&;		null
+Igumbor		np1_nn1
+,	,	y
+E.O	eo	np1
+.	.	y
+(	(	y
+2004	2004	mc
+)	)	y
+.	.	y
+Profiles	profile	nn2
+of	of	io
+antibiotic	antibiotic	nn1
+susceptibilities	susceptibility	nn2
+of	of	io
+bacterial	bacterial	jj
+isolates	isolate	nn2%_vvz
+and	and	cc
+physico-chemical	physico-chemical	jj_nn1
+quality	quality	nn1
+of	of	io
+water	water	nn1
+supply	supply	nn1_vv0
+in	in	ii
+rural	rural	jj
+Venda	venda	nn1@_np1
+communities	community	nn2
+,	,	y
+South	south	np1
+Africa	africa	np1
+.	.	y
+Water	water	nn1_vv0%
+South	south	np1
+Africa	africa	np1
+,	,	y
+30(4)		fo
+,	,	y
+4378--4738		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Payne	payne	np1
+,	,	y
+S.M.	sm	np1
+,	,	y
+&;		null
+Finkelstein	finkelstein	np1
+,	,	y
+R.A.	r.a	nna
+(	(	y
+1977	1977	mc
+)	)	y
+.	.	y
+Detection	detection	nn1
+and	and	cc
+differentiation	differentiation	nn1
+of	of	io
+iron-responsive	iron-responsive	jj
+avirulent	avirulent	jj
+mutants	mutant	nn2
+on	on	ii
+Congo	congo	np1
+red	red	jj_nn1
+agar	agar	nn1
+.	.	y
+Infection	infection	nn1
+&;		null
+Immunity	immunity	nn1
+,	,	y
+18(1)	18(1)	fo
+,	,	y
+94-98	94-98	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Peirano	peirano	nn1_np1
+,	,	y
+G.	g	np1
+,	,	y
+Souza	souza	np1
+,	,	y
+F.S.	f.s	np2
+,	,	y
+&;		null
+Rodrigues	rodrigues	np1_nn2_vvz
+,	,	y
+D.P.	dp	np1
+(	(	y
+2006	2006	mc
+)	)	y
+.	.	y
+Frequency	frequency	nn1
+of	of	io
+serovars	serovars	nn2
+and	and	cc
+antimicrobial	antimicrobial	jj
+resistance	resistance	nn1
+in	in	ii
+Shigella	shigella	np1
+spp	spp	nnu
+.	.	y
+Memorias	memoria	nn2_np2@
+do	do	vd0
+Instituto	instituto	np1
+Oswaldo	oswaldo	np1
+Cruz	cruz	np1
+,	,	y
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,	,	y
+R.	xx_r	np1
+(	(	y
+2001	2001	mc
+)	)	y
+.	.	y
+Molecular	molecular	jj
+cloning	cloning	nn1
+:	:	y
+A	a	at1@_zz1
+laboratory	laboratory	nn1
+manual	manual	nn1
+(	(	y
+Vol.	volume	nn1
+1	1	mc1
+,	,	y
+pp.	pp	nnu2
+1.1-7.84		mcmc
+)	)	y
+.	.	y
+Cold	cold	jj_nn1
+Spring	spring	nn1
+Harbor	harbor	nn1
+,	,	y
+NY	ny	np1
+:	:	y
+Cold	cold	jj
+Spring	spring	nn1
+Harbor	harbor	nn1
+Laboratory	laboratory	nn1
+Press	press	nn1
+.	.	y
+<p>	<p>	y
+--		zz
+Sankaran	sankaran	nn1_np1
+,	,	y
+K.	k	np1
+,	,	y
+Ramachandaran		np1_nn1
+,	,	y
+V.	xx_v	nnu
+,	,	y
+Subrahmanyam	subrahmanyam	np1_vv0_nn1
+,	,	y
+Y.V.	y.v	np1
+,	,	y
+Rajarathnam		np1
+,	,	y
+S.	s	np1
+,	,	y
+Elango		np1_nn1
+,	,	y
+S.	s	np1
+,	,	y
+&;		null
+Roy	roy	np1
+,	,	y
+R.K.	rk	np1
+(	(	y
+1989	1989	mc
+)	)	y
+.	.	y
+Congo	congo	np1
+red	red	jj_nn1
+mediated	mediated	jj@_vvd
+regulation	regulation	nn1
+of	of	io
+levels	level	nn2
+of	of	io
+Shigella	shigella	np1_nn1@
+flexneri	flexneri	nn2
+2a	2a	fo
+membrane	membrane	nn1
+proteins	protein	nn2
+.	.	y
+Infection	infection	nn1
+&;		null
+Immunity	immunity	nn1
+,	,	y
+57(8)		fo
+,	,	y
+2364-2371		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Sharma	sharma	np1
+,	,	y
+A.	a	zz
+,	,	y
+&;		null
+Khokale		np1
+,	,	y
+D.	d	np1
+(	(	y
+1999	1999	mc
+)	)	y
+.	.	y
+Seasonal	seasonal	jj
+variation	variation	nn1
+of	of	io
+aeromonads		nn2
+and	and	cc
+its	its	z'
+correlation	correlation	nn1
+with	with	iw
+physico-chemical	physico-chemical	jj
+characteristics	characteristic	nn2
+of	of	io
+river	river	nn1
+Narmada	narmada	nn1@_np1
+at	at	ii
+Jabalpur		np1_nn1
+.	.	y
+Proceeding	proceed	vvg
+Academic	academic	jj
+Environmental	environmental	jj
+Biology	biology	nn1
+,	,	y
+8(1)	8(1)	fo
+,	,	y
+99-105		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Sharma	sharma	np1
+,	,	y
+A.	a	zz
+,	,	y
+&;		null
+Rajput	rajput	np1_vv0_nn1
+,	,	y
+S.	s	np1
+(	(	y
+1996	1996	mc
+)	)	y
+.	.	y
+Microbial	microbial	jj
+quality	quality	nn1
+and	and	cc
+persistence	persistence	nn1
+of	of	io
+enteropathogenic	enteropathogenic	jj
+Shigella	shigella	nn1@_np1
+in	in	ii
+fresh	fresh	jj
+water	water	nn1
+environments	environment	nn2
+.	.	y
+Ecology	ecology	nn1
+Environment	environment	nn1
+&;		null
+Conservation	conservation	nn1
+,	,	y
+2	2	mc
+,	,	y
+29-36	29-36	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Silvia	silvia	np1_nn1@
+,	,	y
+Y.	y	np1
+B.	b	np1
+,	,	y
+Gloria	gloria	np1
+,	,	y
+R.F.	rf	np1
+,	,	y
+Do	do	vd0
+Valle	valle	np1
+,	,	y
+Martinez	martinez	np1
+,	,	y
+M.	m	nn1
+B.	b	np1
+,	,	y
+Trabulsi		np1_nn1
+,	,	y
+L.R.	lr	np1
+,	,	y
+&;		null
+Moreira-Filho		np1
+,	,	y
+C.A.	ca	np1
+(	(	y
+1998	1998	mc
+)	)	y
+.	.	y
+Characterization	characterization	nn1
+of	of	io
+enteroinvasive	enteroinvasive	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Microbiology	microbiology	nn1_np1
+Letters	letter	nn2
+,	,	y
+165(1)		fo
+,	,	y
+159-165		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Tacket	tacket	nn1_np1
+,	,	y
+C.O.	c.o	np1_fo
+,	,	y
+Shahed	shahed	jj_vvd@
+,	,	y
+N.	xx_n	np1_nnu
+,	,	y
+&;		null
+Huq	huq	np1
+,	,	y
+M.I.	mi	np1
+(	(	y
+1984	1984	mc
+)	)	y
+.	.	y
+Use	use	vv0_nn1
+fullness	fullness	nn1
+of	of	io
+plasmid	plasmid	nn1
+profiles	profile	nn2_vvz@
+for	for	if
+differentiation	differentiation	nn1
+of	of	io
+Shigella	shigella	np1
+isolates	isolate	vvz
+in	in	ii
+Bangladesh	bangladesh	np1
+.	.	y
+Journal	journal	nn1
+of	of	io
+Clinical	clinical	jj
+Microbiology	microbiology	nn1_np1
+,	,	y
+20	20	mc
+,	,	y
+300-301	300-301	mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Villalobo	villalobo	nn1_np1
+,	,	y
+E.	e	np1
+,	,	y
+&;		null
+Tortes	torte	np1_nn2
+,	,	y
+A.		zz
+(	(	y
+1998	1998	mc
+)	)	y
+.	.	y
+PCR	pcr	np1
+for	for	if
+detection	detection	nn1
+of	of	io
+Shigella	shigella	np1
+species	species	nn
+in	in	ii
+mayonnaise	mayonnaise	nn1
+.	.	y
+Applied	applied	jj_vvn
+and	and	cc
+Environmental	environmental	jj
+Microbiology	microbiology	nn1_np1
+,	,	y
+64(4)		fo
+,	,	y
+1242-1245		mcmc
+.	.	y
+<p>	<p>	y
+--		zz
+Watanabe	watanabe	np1_nn1@
+,	,	y
+H.	h	np1
+,	,	y
+&;		null
+Nakamura	nakamura	np1
+,	,	y
+A.		zz
+(	(	y
+1985	1985	mc
+)	)	y
+.	.	y
+Large	large	jj
+plasmids	plasmid	nn2
+associated	associate	vvn
+with	with	iw
+virulence	virulence	nn1
+in	in	ii
+Shigella	shigella	np1
+spp.	spp	nnu
+have	have	vh0
+a	a	at1
+common	common	jj
+function	function	nn1
+necessary	necessary	jj
+for	for	if
+epithelial	epithelial	jj
+cell	cell	nn1
+penetration	penetration	nn1
+.	.	y
+Infection	infection	nn1
+&;		null
+Immunity	immunity	nn1
+,	,	y
+48(1)	48(1)	fo
+,	,	y
+260-262	260-262	mcmc
+.	.	y
+<p>	<p>	y
+By	by	ii
+Anjana		np1
+Sharma	sharma	np1
+,	,	y
+M.Sc.	m.sc	nna
+,	,	y
+Ph.D.	phd	np1
+;	;	y
+Susheel		np1
+Kumar	kumar	np1
+Singh	singh	np1
+,	,	y
+J.R.F.		np1
+,	,	y
+Ph.D	phd	np1
+.	.	y
+and	and	cc
+Lokesh	lokesh	np1_vv0
+Kori	kori	np1_nn1
+,	,	y
+J.R.F		np1
+,	,	y
+M.Sc	msc	np1_nn1
+.	.	y
+<p>	<p>	y
+Corresponding	corresponding	jj_vvg
+Author	author	nn1
+:	:	y
+Anjana		np1
+Sharma	sharma	np1
+,	,	y
+Professor	professor	nn1
+,	,	y
+Department	department	nn1
+of	of	io
+PG	page	np1
+.	.	y
+Studies	study	nn2
+and	and	cc
+Biological	biological	jj
+Research	research	nn1
+,	,	y
+R.D.	r.d	nn1
+University	university	nn1
+,	,	y
+Jabalpur		np1_vv0_nn1
+,	,	y
+India	india	np1
+482001	482001	mc
+.	.	y
+E-mail	e-mail	nn1_vv0@
+:	:	y
+anjoo1999@yahoo.com		fo
+.	.	y
+<p>	<p>	y
