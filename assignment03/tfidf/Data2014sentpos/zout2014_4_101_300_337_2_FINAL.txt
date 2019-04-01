@@ -1,0 +1,130 @@
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    0 The paint Checkmate was created by Friedrich Moritz August Retzsch .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    0 The_AT paint_NN1 Checkmate_NN1 was_VBDZ created_VVN by_II Friedrich_NP1 Moritz_NP1 August_NPM1 Retzsch_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    1 In the painting there are three figures .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    1 In_II the_AT painting_NN1 there_EX are_VBR three_MC figures_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    2 On the left of the painting there is a man with a green robe and a metal helmet .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    2 On_II the_AT left_NN1@ of_IO the_AT painting_NN1 there_EX is_VBZ a_AT1 man_NN1 with_IW a_AT1 green_JJ robe_NN1 and_CC a_AT1 metal_NN1 helmet_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    3 On the right of the painting is a man wearing red clothes with a black jacket .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    3 On_II the_AT right_NN1 of_IO the_AT painting_NN1 is_VBZ a_AT1 man_NN1 wearing_VVG red_JJ clothes_NN2 with_IW a_AT1 black_JJ jacket_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    4 Then in the middle of the painting is an angel that is looking at the man on the right of the painting .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    4 Then_RT in_II the_AT middle_NN1 of_IO the_AT painting_NN1 is_VBZ an_AT1 angel_NN1 that_CST is_VBZ looking_VVG at_II the_AT man_NN1 on_II the_AT right_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    5 The man in the green and the man in the red clothing are playing chess .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    5 The_AT man_NN1 in_II the_AT green_NN1 and_CC the_AT man_NN1 in_II the_AT red_JJ clothing_NN1 are_VBR playing_VVG chess_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    6 The man in the green is playing as black while the man in the red is playing as white .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    6 The_AT man_NN1 in_II the_AT green_NN1 is_VBZ playing_VVG as_RG@ black_JJ while_CS the_AT man_NN1 in_II the_AT red_NN1 is_VBZ playing_VVG as_RG@ white_JJ ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    7 The angel in the painting is not doing anything but looking at the man in the red .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    7 The_AT angel_NN1 in_II the_AT painting_NN1 is_VBZ not_XX doing_VDG anything_RR21 but_RR22 looking_VVG at_II the_AT man_NN1 in_II the_AT red_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    0    8 This painting tells the story of a two men playing chess with an angel being the spectator , but there is more to the painting than just a chess match .
+SENTPOS 2014_4_101_300_337_2 FINAL B    0    8 This_DD1 painting_NN1 tells_VVZ the_AT story_NN1 of_IO a_AT1 two_MC men_NN2 playing_VVG chess_NN1 with_IW an_AT1 angel_NN1 being_VBG the_AT spectator_NN1 ,_, but_CCB there_EX is_VBZ more_RRR to_II the_AT painting_NN1 than_CSN just_RR a_AT1 chess_NN1 match_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1    9 The painting tells the looker that good does not always the winner through the use of color , the chess pieces , and the people The colors used in Checkmate are mostly dark colors , but there are some light colors .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1    9 The_AT painting_NN1 tells_VVZ the_AT looker_NN1 that_CST good_JJ does_VDZ not_XX always_RR the_AT winner_NN1 through_II the_AT use_NN1 of_IO color_NN1 ,_, the_AT chess_NN1 pieces_NN2 ,_, and_CC the_AT people_NN The_AT colors_NN2 used_VVN in_II Checkmate_NN1 are_VBR mostly_RR dark_JJ colors_NN2 ,_, but_CCB there_EX are_VBR some_DD light_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   10 The dark colors are mostly used in the background of the painting and the light colors are on the people .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   10 The_AT dark_JJ colors_NN2 are_VBR mostly_RR used_VVN in_II the_AT background_NN1 of_IO the_AT painting_NN1 and_CC the_AT light_JJ colors_NN2 are_VBR on_II the_AT people_NN ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   11 The dark colors also take a majority of the painting while the light colors are only one the people in the paint .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   11 The_AT dark_JJ colors_NN2 also_RR take_VV0 a_AT1 majority_NN1 of_IO the_AT painting_NN1 while_CS the_AT light_JJ colors_NN2 are_VBR only_RR one_MC1 the_AT people_NN in_II the_AT paint_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   12 These two things makes the audience of the painting look at the people in the painting .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   12 These_DD2 two_MC things_NN2 makes_VVZ the_AT audience_NN1 of_IO the_AT painting_NN1 look_NN1 at_II the_AT people_NN in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   13 The people in the painting are different from the background and this difference causes people to notice the people in the painting .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   13 The_AT people_NN in_II the_AT painting_NN1 are_VBR different_JJ from_II the_AT background_NN1 and_CC this_DD1 difference_NN1 causes_VVZ people_NN to_TO notice_VVI the_AT people_NN in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   14 Then when the lookers see the people in the painting the lookers will follow the direction that the people in the painting are looking .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   14 Then_RT when_CS the_AT lookers_NN2 see_VV0 the_AT people_NN in_II the_AT painting_NN1 the_AT lookers_NN2 will_VM follow_VVI the_AT direction_NN1 that_CST the_AT people_NN in_II the_AT painting_NN1 are_VBR looking_VVG ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   15 This following of facial direction will show the looker the chess board .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   15 This_DD1 following_NN1@ of_IO facial_JJ direction_NN1 will_VM show_VVI the_AT looker_NN1 the_AT chess_NN1 board_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   16 The chess board will tell the looker that they are in a battle and that the man in green is winning .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   16 The_AT chess_NN1 board_NN1 will_VM tell_VVI the_AT looker_NN1 that_CST they_PPHS2 are_VBR in_II a_AT1 battle_NN1 and_CC that_CST the_AT man_NN1 in_II green_NN1 is_VBZ winning_VVG ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   17 This fact that a side is winning helps the theme by make sure that there is a battle for the theme is about evil winning .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   17 This_DD1 fact_NN1 that_CST a_AT1 side_NN1 is_VBZ winning_VVG helps_VVZ the_AT theme_NN1 by_II make_VV0 sure_JJ that_CST there_EX is_VBZ a_AT1 battle_NN1 for_IF the_AT theme_NN1 is_VBZ about_II evil_NN1 winning_VVG ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   18 If there is no side that is perceived to be winning then this would make the theme be something different .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   18 If_CS there_EX is_VBZ no_AT side_NN1 that_CST is_VBZ perceived_VVN to_TO be_VBI winning_VVG then_RT this_DD1 would_VM make_VVI the_AT theme_NN1 be_VBI something_PN1 different_JJ ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   19 Another purpose that colors serves is that the colors in the chess game itself tells the looker who is the good guy and who is the bad guy .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   19 Another_DD1 purpose_NN1 that_CST colors_NN2 serves_VVZ is_VBZ that_CST the_AT colors_NN2 in_II the_AT chess_NN1 game_NN1 itself_PPX1 tells_VVZ the_AT looker_NN1 who_PNQS is_VBZ the_AT good_JJ guy_NN1 and_CC who_PNQS is_VBZ the_AT bad_JJ guy_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   20 The colors that are seen in the chess game are black , white and brown .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   20 The_AT colors_NN2 that_CST are_VBR seen_VVN in_II the_AT chess_NN1 game_NN1 are_VBR black_JJ ,_, white_JJ and_CC brown_JJ ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   21 Black and white are two colors that are seen as opposing colors .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   21 Black_JJ and_CC white_JJ are_VBR two_MC colors_NN2 that_CST are_VBR seen_VVN as_CSA opposing_JJ colors_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   22 White is the color of good and black is the color for evil .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   22 White_NP1@ is_VBZ the_AT color_NN1 of_IO good_JJ and_CC black_NN1@ is_VBZ the_AT color_NN1 for_IF evil_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   23 This symbolism of colors shows the looker that there is a battle between good and evil .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   23 This_DD1 symbolism_NN1 of_IO colors_NN2 shows_VVZ the_AT looker_NN1 that_CST there_EX is_VBZ a_AT1 battle_NN1 between_II good_JJ and_CC evil_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   24 The man in green is evil as he is playing the black chess pieces and the man in the red is good as he is playing the white chess pieces .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   24 The_AT man_NN1 in_II green_NN1 is_VBZ evil_JJ as_CSA he_PPHS1 is_VBZ playing_VVG the_AT black_JJ chess_NN1 pieces_NN2 and_CC the_AT man_NN1 in_II the_AT red_NN1 is_VBZ good_JJ as_CSA he_PPHS1 is_VBZ playing_VVG the_AT white_JJ chess_NN1 pieces_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   25 This fact helps the looker to see that this is a battle between good and evil .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   25 This_DD1 fact_NN1 helps_VVZ the_AT looker_NN1 to_TO see_VVI that_CST this_DD1 is_VBZ a_AT1 battle_NN1 between_II good_JJ and_CC evil_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    1   26 This battle is seen with black having more pieces and can be assumed to be the winner .
+SENTPOS 2014_4_101_300_337_2 FINAL B    1   26 This_DD1 battle_NN1 is_VBZ seen_VVN with_IW black_JJ having_VHG more_DAR pieces_NN2 and_CC can_VM be_VBI assumed_VVN to_TO be_VBI the_AT winner_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   27 The objects painted in Checkmate show that evil is the winner of the game of chess that the man in green and the man in red are playing .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   27 The_AT objects_NN2 painted_VVN in_II Checkmate_NN1 show_VV0 that_DD1 evil_NN1 is_VBZ the_AT winner_NN1 of_IO the_AT game_NN1 of_IO chess_NN1 that_CST the_AT man_NN1 in_II green_JJ and_CC the_AT man_NN1 in_II red_NN1 are_VBR playing_VVG ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   28 One way that the painting is showing that evil is winning is that the decor of the place that the chess game is held .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   28 One_MC1 way_NN1 that_CST the_AT painting_NN1 is_VBZ showing_VVG that_DD1 evil_NN1 is_VBZ winning_VVG is_VBZ that_CST the_AT decor_NN1 of_IO the_AT place_NN1 that_CST the_AT chess_NN1 game_NN1 is_VBZ held_VVN ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   29 The statues in the right and left top corners of the painting show that this is not a nice place .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   29 The_AT statues_NN2 in_II the_AT right_NN1 and_CC left_JJ top_JJ corners_NN2 of_IO the_AT painting_NN1 show_VV0 that_CST this_DD1 is_VBZ not_XX a_AT1 nice_JJ place_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   30 The statues are of an animal that is not of the earth .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   30 The_AT statues_NN2 are_VBR of_IO an_AT1 animal_NN1 that_CST is_VBZ not_XX of_IO the_AT earth_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   31 The two statues in the top corners of the painting have bulging eyes , a long jaw , with a tongue that extends through the opening between the top and bottom jaws .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   31 The_AT two_MC statues_NN2 in_II the_AT top_JJ corners_NN2 of_IO the_AT painting_NN1 have_VH0 bulging_JJ@ eyes_NN2 ,_, a_AT1 long_JJ jaw_NN1 ,_, with_IW a_AT1 tongue_NN1 that_CST extends_VVZ through_II the_AT opening_NN1 between_II the_AT top_NN1 and_CC bottom_JJ jaws_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   32 This shows that they animals are not of the world and that they are not animals on the good guy side .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   32 This_DD1 shows_VVZ that_CST they_PPHS2 animals_NN2 are_VBR not_XX of_IO the_AT world_NN1 and_CC that_CST they_PPHS2 are_VBR not_XX animals_NN2 on_II the_AT good_JJ guy_NN1 side_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   33 The animals are horrible looking .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   33 The_AT animals_NN2 are_VBR horrible_JJ looking_VVG ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   34 This characteristic is usually used for evil as the good side have beautiful creatures like an angel .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   34 This_DD1 characteristic_NN1 is_VBZ usually_RR used_VVN for_IF evil_NN1 as_II the_AT good_JJ side_NN1 have_VH0 beautiful_JJ creatures_NN2 like_II an_AT1 angel_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   35 Another piece of decor that shows evil is that the legs of the table shows a picture of a skeleton bird pulling something off from some humanoid .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   35 Another_DD1 piece_NN1 of_IO decor_NN1 that_CST shows_VVZ evil_NN1 is_VBZ that_CST the_AT legs_NN2 of_IO the_AT table_NN1 shows_VVZ a_AT1 picture_NN1 of_IO a_AT1 skeleton_NN1 bird_NN1 pulling_VVG something_PN1 off_RP from_II some_DD humanoid_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   36 The humanoid has his faced covered and thus the emotion can not be seen .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   36 The_AT humanoid_NN1 has_VHZ his_APPGE faced_VVN covered_VVN and_CC thus_RR the_AT emotion_NN1 can_VM not_XX be_VBI seen_VVN ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   37 This carving for the legs is not a picture of someone on the good side .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   37 This_DD1 carving_NN1 for_IF the_AT legs_NN2 is_VBZ not_XX a_AT1 picture_NN1 of_IO someone_PN1 on_II the_AT good_JJ side_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   38 These two facts show that evil is about to win because the room has decor that are not of human things and the carving are terrible to look at .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   38 These_DD2 two_MC facts_NN2 show_VV0 that_DD1 evil_NN1 is_VBZ about_RPK to_TO win_VVI because_CS the_AT room_NN1 has_VHZ decor_NN1 that_CST are_VBR not_XX of_IO human_JJ things_NN2 and_CC the_AT carving_NN1 are_VBR terrible_JJ to_TO look_VVI at_II ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   39 The decor in the room would not be something that looks terrible is the good guy was winning .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   39 The_AT decor_NN1 in_II the_AT room_NN1 would_VM not_XX be_VBI something_PN1 that_CST looks_VVZ terrible_JJ is_VBZ the_AT good_JJ guy_NN1 was_VBDZ winning_VVG ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   40 The decor would be more peaceful , light colored , and not have images of monsters or skulls .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   40 The_AT decor_NN1 would_VM be_VBI more_RGR peaceful_JJ ,_, light_NN1 colored_VVD ,_, and_CC not_XX have_VH0 images_NN2 of_IO monsters_NN2 or_CC skulls_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   41 Another object that shows that the game is going to be won by evil is what is on the chess board .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   41 Another_DD1 object_NN1 that_CST shows_VVZ that_CST the_AT game_NN1 is_VBZ going_VVGK to_TO be_VBI won_VVN by_II evil_NN1 is_VBZ what_DDQ is_VBZ on_II the_AT chess_NN1 board_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   42 The chess board shows that the man in green has almost all his pieces except for two .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   42 The_AT chess_NN1 board_NN1 shows_VVZ that_CST the_AT man_NN1 in_II green_NN1 has_VHZ almost_RR all_DB his_APPGE pieces_NN2 except_II21 for_II22 two_MC ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   43 This fact shows the looker that the man in green has more powerful chess pieces than the man in red .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   43 This_DD1 fact_NN1 shows_VVZ the_AT looker_NN1 that_CST the_AT man_NN1 in_II green_NN1 has_VHZ more_RGR powerful_JJ chess_NN1 pieces_NN2 than_CSN the_AT man_NN1 in_II red_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   44 The man red can be seen with have lost all but four pieces .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   44 The_AT man_NN1 red_NN1 can_VM be_VBI seen_VVN with_IW have_VH0 lost_VVN all_RR21 but_RR22 four_MC pieces_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   45 This means that the man in red is about to lose to the man in green in terms of power and numbers .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   45 This_DD1 means_VVZ that_CST the_AT man_NN1 in_II red_NN1 is_VBZ about_RPK to_TO lose_VVI to_II the_AT man_NN1 in_II green_NN1 in_II31 terms_II32 of_II33 power_NN1 and_CC numbers_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   46 This is difference in power and in numbers show the looker that the man that fight for good is not always the winner .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   46 This_DD1 is_VBZ difference_NN1 in_II power_NN1 and_CC in_II numbers_NN2 show_VV0 the_AT looker_NN1 that_CST the_AT man_NN1 that_CST fight_VV0 for_RR21 good_RR22 is_VBZ not_XX always_RR the_AT winner_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    2   47 The man that fights for evil is sometimes the winner .
+SENTPOS 2014_4_101_300_337_2 FINAL B    2   47 The_AT man_NN1 that_CST fights_VVZ for_IF evil_NN1 is_VBZ sometimes_RT the_AT winner_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   48 Now the last piece that Retzsch uses to show that evil can be the winner is how the painter painted the chess players .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   48 Now_RT the_AT last_MD piece_NN1 that_CST Retzsch_NP1 uses_VVZ to_TO show_VVI that_DD1 evil_NN1 can_VM be_VBI the_AT winner_NN1 is_VBZ how_RRQ the_AT painter_NN1 painted_VVN the_AT chess_NN1 players_NN2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   49 The facial expressions on the chess players show different attitudes on them .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   49 The_AT facial_JJ expressions_NN2 on_II the_AT chess_NN1 players_NN2 show_VV0 different_JJ attitudes_NN2 on_II them_PPHO2 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   50 The man in green is watching the man in red and the man in green is also has a very curios look on his attitude .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   50 The_AT man_NN1 in_II green_NN1 is_VBZ watching_VVG the_AT man_NN1 in_II red_JJ and_CC the_AT man_NN1 in_II green_NN1 is_VBZ also_RR has_VHZ a_AT1 very_JJ curios_NN2 look_VV0 on_II his_APPGE attitude_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   51 These two facts show that the man in green believes that he is about to win .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   51 These_DD2 two_MC facts_NN2 show_VV0 that_CST the_AT man_NN1 in_II green_NN1 believes_VVZ that_CST he_PPHS1 is_VBZ about_RPK to_TO win_VVI ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   52 The curious look he has is just wondering what the man in red is about to do and the look has shown no real concern for what the man in red is trying to do .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   52 The_AT curious_JJ look_NN1 he_PPHS1 has_VHZ is_VBZ just_RR wondering_VVG what_DDQ the_AT man_NN1 in_II red_NN1 is_VBZ about_RPK to_TO do_VDI and_CC the_AT look_NN1 has_VHZ shown_VVN no_AT real_JJ concern_NN1 for_IF what_DDQ the_AT man_NN1 in_II red_NN1 is_VBZ trying_VVG to_TO do_VDI ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   53 The man in red on the other hand does not have a relaxed face .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   53 The_AT man_NN1 in_II red_NN1 on_II the_AT other_JJ hand_NN1 does_VDZ not_XX have_VHI a_AT1 relaxed_JJ face_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   54 The man in red can be seen with a face full of concentration .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   54 The_AT man_NN1 in_II red_NN1 can_VM be_VBI seen_VVN with_IW a_AT1 face_NN1 full_JJ of_IO concentration_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   55 This concentration is because the man in red has only a few options left and thus has to find a way out of the situation , but can not .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   55 This_DD1 concentration_NN1 is_VBZ because_CS the_AT man_NN1 in_II red_NN1 has_VHZ only_RR a_AT1 few_DA2 options_NN2 left_VVN and_CC thus_RR has_VHZ to_TO find_VVI a_AT1 way_NN1 out_II21 of_II22 the_AT situation_NN1 ,_, but_CCB can_VM not_XX ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    3   56 These two different facial expression shows that the man in green is about to win thus evil is about to win .
+SENTPOS 2014_4_101_300_337_2 FINAL B    3   56 These_DD2 two_MC different_JJ facial_JJ expression_NN1 shows_VVZ that_CST the_AT man_NN1 in_II green_NN1 is_VBZ about_RPK to_TO win_VVI thus_RR evil_JJ is_VBZ about_RPK to_TO win_VVI ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   57 The painting Checkmate is about two men playing chess in a very dark room .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   57 The_AT painting_NN1 Checkmate_NN1 is_VBZ about_RG two_MC men_NN2 playing_VVG chess_NN1 in_II a_AT1 very_RG dark_JJ room_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   58 The two players represent evil and good .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   58 The_AT two_MC players_NN2 represent_VV0 evil_JJ and_CC good_JJ ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   59 The man in green representing evil and the man in red representing good .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   59 The_AT man_NN1 in_II green_JJ representing_JJ@ evil_NN1 and_CC the_AT man_NN1 in_II red_NN1 representing_VVG good_JJ ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   60 These two players are near the end of the game .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   60 These_DD2 two_MC players_NN2 are_VBR near_II the_AT end_NN1 of_IO the_AT game_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   61 The man in green is about to win because he has more chess pieces and more powerful chess piece .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   61 The_AT man_NN1 in_II green_NN1 is_VBZ about_RPK to_TO win_VVI because_CS he_PPHS1 has_VHZ more_DAR chess_NN1 pieces_NN2 and_CC more_RGR powerful_JJ chess_NN1 piece_NN1 ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   62 These two things show that evil is about to win .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   62 These_DD2 two_MC things_NN2 show_VV0 that_DD1 evil_NN1 is_VBZ about_RPK to_TO win_VVI ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   63 The Retzsch also uses the colors in the painting and other objects in the painting to show that evil is about .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   63 The_AT Retzsch_NN1 also_RR uses_VVZ the_AT colors_NN2 in_II the_AT painting_NN1 and_CC other_JJ objects_NN2 in_II the_AT painting_NN1 to_TO show_VVI that_DD1 evil_NN1 is_VBZ about_RP@ ._.
+SENTPOS 2014_4_101_300_337_2 FINAL A    4   63  All of these elements help tell the audience of the painting that the good guy does not always win and sometime evil does prevail .
+SENTPOS 2014_4_101_300_337_2 FINAL B    4   63  All_DB of_IO these_DD2 elements_NN2 help_VV0 tell_VVI the_AT audience_NN1 of_IO the_AT painting_NN1 that_CST the_AT good_JJ guy_NN1 does_VDZ not_XX always_RR win_VVI and_CC sometime_JJ evil_NN1 does_VDZ prevail_VVI ._.

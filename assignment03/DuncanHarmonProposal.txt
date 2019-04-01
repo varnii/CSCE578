@@ -1,0 +1,30 @@
+Duncan Harmon
+18 March 2018
+CSCE 578 Text Processing
+Buell
+
+For assignment 3 I plan to do SVD on the student essays in order to separate the documents by defi-
+ning characteristics. The end result of this project would be to either have a graphical represent-
+ation of the clusters of documents and the centroids or to list the documents in each cluster via text (both will
+probably be used as each provides its own benefits).
+
+Each document will be a vector in a Vector Space Model, each dimension being the different terms in
+the corpus and the positions in each dimension being the frequency of the term. These documents, 
+once all gathered in a Document x Term matrix can be transformed via SVD. 
+
+I'm hoping this project will help me develop a further understanding of how an SVD works and its 
+uses.
+
+A fun continuation of this would be to compile a list of key topics from each document and create a
+searchable library of the documents able to be sorted by key topics, being a VERY simple search
+engine. This could be continued even further to be a far more functional search engine (my current
+idea for my project).
+
+I'm hoping the results will be better than my attempt at the Thesaurus with the vector space model
+as these documents are much larger than the definitions of terms used in the thesaurus. I will 
+probably run a cosine analysis on the vectors before and after SVD to see how the results change,
+and to see how accurate a cosine analysis is on documents of this size. 
+
+I will have to look again into using SVD, different clustering algorithms to find a quick yet accu-
+rate one, and other algorithms to help speed the process up if possible because it is no quick task
+with so many dimensions and documents to deal with.

@@ -1,0 +1,108 @@
+SENTPOS 2014_4_101_300_329_2 FINAL A    0    0 Disunity among the military is never talked about because they seem formed together and act as a single unit .
+SENTPOS 2014_4_101_300_329_2 FINAL B    0    0 Disunity_NN1 among_II the_AT military_NN1@ is_VBZ never_RR talked_VVN about_II because_CS they_PPHS2 seem_VV0 formed_VVN together_RL and_CC act_VV0 as_II a_AT1 single_JJ unit_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    0    1 The military tries to instill this unity in every soldier .
+SENTPOS 2014_4_101_300_329_2 FINAL B    0    1 The_AT military_JJ tries_NN2 to_TO instill_VVI this_DD1 unity_NN1 in_II every_AT1 soldier_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    0    2 However , disunity does occur and it may be the collapse of a military unit .
+SENTPOS 2014_4_101_300_329_2 FINAL B    0    2 However_RR ,_, disunity_NN1 does_VDZ occur_VVI and_CC it_PPH1 may_VM be_VBI the_AT collapse_NN1 of_IO a_AT1 military_JJ unit_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    0    3 This occurs because every soldier is able to decide for himself based on his beliefs and feelings .
+SENTPOS 2014_4_101_300_329_2 FINAL B    0    3 This_DD1 occurs_VVZ because_CS every_AT1 soldier_NN1 is_VBZ able_JK to_TO decide_VVI for_IF himself_PPX1 based_VVN on_II his_APPGE beliefs_NN2 and_CC feelings_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    0    4 By looking at Flower Power , a photograph by Bernie Boston , the viewer is able to see how unity among a military unit is weakening .
+SENTPOS 2014_4_101_300_329_2 FINAL B    0    4 By_II looking_VVG at_II Flower_NN1 Power_NN1 ,_, a_AT1 photograph_NN1 by_II Bernie_NP1 Boston_NP1 ,_, the_AT viewer_NN1 is_VBZ able_JK to_TO see_VVI how_RRQ unity_NN1 among_II a_AT1 military_JJ unit_NN1 is_VBZ weakening_VVG ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    0    5 Although not the main message of the photograph this important minor feature many be overlooked but is depicting the strength a single individual can have over a group of others with more power .
+SENTPOS 2014_4_101_300_329_2 FINAL B    0    5 Although_CS not_XX the_AT main_JJ message_NN1 of_IO the_AT photograph_NN1 this_DD1 important_JJ minor_JJ feature_NN1 many_DA2 be_VBI overlooked_VVN but_CCB is_VBZ depicting_VVG the_AT strength_NN1 a_AT1 single_JJ individual_NN1 can_VM have_VHI over_II a_AT1 group_NN1 of_IO others_NN2 with_IW more_DAR power_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1    6 The picture was taken in 1967 during a march on the Pentagon .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1    6 The_AT picture_NN1 was_VBDZ taken_VVN in_II 1967_MC during_II a_AT1 march_NN1 on_II the_AT Pentagon_NP1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1    7 People were protesting the Vietnam War .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1    7 People_NN were_VBDR protesting_VVG the_AT Vietnam_NP1 War_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1    8 American people were frustrated with the war and were frustrated with its current path .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1    8 American_JJ people_NN were_VBDR frustrated_VVN with_IW the_AT war_NN1 and_CC were_VBDR frustrated_VVN with_IW its_APPGE current_JJ path_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1    9 This was the last major march on the Pentagon while protesting the war ( Bernstein ) .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1    9 This_DD1 was_VBDZ the_AT last_MD major_JJ march_NN1 on_II the_AT Pentagon_NP1 while_CS protesting_VVG the_AT war_NN1 (_( Bernstein_NP1 )_) ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   10 The image depicts two groups of men .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   10 The_AT image_NN1 depicts_VVZ two_MC groups_NN2 of_IO men_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   11 The more powerful group that seems to be controlling the others is roughly 15 military police .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   11 The_AT more_RGR powerful_JJ group_NN1 that_CST seems_VVZ to_TO be_VBI controlling_VVG the_AT others_NN2 is_VBZ roughly_RR 15_MC military_JJ police_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   12 These men are standing on the left and topside of the group of unarmed men .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   12 These_DD2 men_NN2 are_VBR standing_VVG on_II the_AT left_JJ and_CC topside_NN1 of_IO the_AT group_NN1 of_IO unarmed_JJ men_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   13 They are all pointing guns at the second group of five men .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   13 They_PPHS2 are_VBR all_DB pointing_VVG guns_NN2 at_II the_AT second_MD group_NN1 of_IO five_MC men_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   14 Four of the five men are standing behind the fifth man .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   14 Four_MC of_IO the_AT five_MC men_NN2 are_VBR standing_VVG behind_II the_AT fifth_MD man_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   15 This fifth man seems to be the leader of the second group .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   15 This_DD1 fifth_MD man_NN1 seems_VVZ to_TO be_VBI the_AT leader_NN1 of_IO the_AT second_MD group_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   16 This man can be seen as the leader because he is the only person acting out when the guns are pointed in the group 's direction .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   16 This_DD1 man_NN1 can_VM be_VBI seen_VVN as_II the_AT leader_NN1 because_CS he_PPHS1 is_VBZ the_AT only_JJ person_NN1 acting_VVG out_RP when_CS the_AT guns_NN2 are_VBR pointed_VVN in_II the_AT group_NN1 's_GE direction_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   17 He is placing flowers into the barrels of the military polices ' guns .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   17 He_PPHS1 is_VBZ placing_VVG flowers_NN2 into_II the_AT barrels_NN2 of_IO the_AT military_JJ polices_FU '_GE guns_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   18 One of the military police in the top left corner is taking the flowers the unarmed man placed into the barrel of the gun out .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   18 One_MC1 of_IO the_AT military_JJ police_NN2 in_II the_AT top_JJ left_JJ corner_NN1 is_VBZ taking_VVG the_AT flowers_NN2 the_AT unarmed_JJ man_NN1 placed_VVN into_II the_AT barrel_NN1 of_IO the_AT gun_NN1 out_RP ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   19 The image directs the viewer 's eye to the center of the photograph .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   19 The_AT image_NN1 directs_VVZ the_AT viewer_NN1 's_GE eye_NN1 to_II the_AT center_NN1 of_IO the_AT photograph_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   20 This occurs because of the lines the guns create point towards the smaller group of men .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   20 This_DD1 occurs_VVZ because_II21 of_II22 the_AT lines_NN2 the_AT guns_NN2 create_VV0 point_NN1 towards_II the_AT smaller_JJR group_NN1 of_IO men_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   21 After the attention is directed to the center it is turned towards the man placing flowers into the guns .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   21 After_CS the_AT attention_NN1 is_VBZ directed_VVN to_II the_AT center_NN1 it_PPH1 is_VBZ turned_VVN towards_II the_AT man_NN1 placing_NN1 flowers_NN2 into_II the_AT guns_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   22 This happens because he is contrasted with everyone else in the image .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   22 This_DD1 happens_VVZ because_CS he_PPHS1 is_VBZ contrasted_VVN@ with_IW everyone_PN1 else_RR in_II the_AT image_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   23 While the military police and the four other men are dressed in dark clothing the man is dressed in a light colored shirt .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   23 While_CS the_AT military_JJ police_NN2 and_CC the_AT four_MC other_JJ men_NN2 are_VBR dressed_VVN in_II dark_JJ clothing_NN1 the_AT man_NN1 is_VBZ dressed_VVN in_II a_AT1 light_JJ colored_JJ@ shirt_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    1   24 After noticing the man placing the flowers into the gun barrels the viewer follows his arm towards the gun barrels where one of the military figures is removing flowers from the guns .
+SENTPOS 2014_4_101_300_329_2 FINAL B    1   24 After_II noticing_VVG the_AT man_NN1 placing_VVG the_AT flowers_NN2 into_II the_AT gun_NN1 barrels_NN2 the_AT viewer_NN1 follows_VVZ his_APPGE arm_NN1 towards_II the_AT gun_NN1 barrels_NN2 where_CS one_MC1 of_IO the_AT military_JJ figures_NN2 is_VBZ removing_VVG flowers_NN2 from_II the_AT guns_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   25 If the viewer were to stop inspecting the image here they would only be able to receive a general idea of what is going on .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   25 If_CS the_AT viewer_NN1 were_VBDR to_TO stop_VVI inspecting_VVG the_AT image_NN1 here_RL they_PPHS2 would_VM only_RR be_VBI able_JK to_TO receive_VVI a_AT1 general_JJ idea_NN1 of_IO what_DDQ is_VBZ going_VVG on_RP@ ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   26 The smaller group of men is protesting the Vietnam ar by placing flowers into the gun barrels of the military ( Boston ) .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   26 The_AT smaller_JJR group_NN1 of_IO men_NN2 is_VBZ protesting_VVG the_AT Vietnam_NP1 ar_UH by_II placing_VVG flowers_NN2 into_II the_AT gun_NN1 barrels_NN2 of_IO the_AT military_JJ (_( Boston_NP1 )_) ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   27 This is correct but after looking deeper into the picture there reads a different story .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   27 This_DD1 is_VBZ correct_JJ but_CCB after_II looking_VVG deeper_RRR into_II the_AT picture_NN1 there_EX reads_VVZ a_AT1 different_JJ story_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   28 After continuing up the military figures arm , the viewer notices something interesting .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   28 After_II continuing_VVG up_RP the_AT military_JJ figures_NN2 arm_NN1 ,_, the_AT viewer_NN1 notices_VVZ something_PN1 interesting_JJ ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   29 The face of the man seems to be confused and inquisitive .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   29 The_AT face_NN1 of_IO the_AT man_NN1 seems_VVZ to_TO be_VBI confused_VVN and_CC inquisitive_JJ ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   30 After seeing the military mans face , another face stands out behind his head .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   30 After_II seeing_VVG the_AT military_JJ mans_NN2 face_VV0 ,_, another_DD1 face_NN1 stands_VVZ out_RP behind_II his_APPGE head_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   31 This face seems to be laughing .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   31 This_DD1 face_NN1 seems_VVZ to_TO be_VBI laughing_VVG ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   32 These two men 's faces show the theme of deterioration of unity .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   32 These_DD2 two_MC men_NN2 's_GE faces_NN2 show_VV0 the_AT theme_NN1 of_IO deterioration_NN1 of_IO unity_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   33 The unity can be said that it is deteriorating because the military is supposed to seem as a single unit showing no emotion .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   33 The_AT unity_NN1 can_VM be_VBI said_VVN@ that_CST it_PPH1 is_VBZ deteriorating_JJ because_CS the_AT military_NN1@ is_VBZ supposed_JJ to_TO seem_VVI as_II a_AT1 single_JJ unit_NN1 showing_VVG no_AT emotion_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   34 The cause of these two men 's departure from unity is the flowers the man is placing in the gun barrels .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   34 The_AT cause_NN1 of_IO these_DD2 two_MC men_NN2 's_GE departure_NN1 from_II unity_NN1 is_VBZ the_AT flowers_NN2 the_AT man_NN1 is_VBZ placing_VVG in_II the_AT gun_NN1 barrels_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   35 This is showing even the most minuscule object , such as a flower , can cause disunity amongst the military .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   35 This_DD1 is_VBZ showing_VVG even_RR the_AT most_RGT minuscule_JJ object_NN1 ,_, such_II21 as_II22 a_AT1 flower_NN1 ,_, can_VM cause_VVI disunity_NN1 amongst_II the_AT military_JJ ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   36 This raises a major concern that if flowers can cause two soldiers to break their uniformity , a larger object such as a person giving a speech could have a much larger impact .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   36 This_DD1 raises_VVZ a_AT1 major_JJ concern_NN1 that_CST if_CS flowers_NN2 can_VM cause_VVI two_MC soldiers_NN2 to_TO break_VVI their_APPGE uniformity_NN1 ,_, a_AT1 larger_JJR object_NN1 such_II21 as_II22 a_AT1 person_NN1 giving_VVG a_AT1 speech_NN1 could_VM have_VHI a_AT1 much_RR larger_JJR impact_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   37 Once noticing this small sign of disunity many more signs appear such as in the bottom of the image one of the soldiers is not wearing his helmet .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   37 Once_RR noticing_VVG this_DD1 small_JJ sign_NN1 of_IO disunity_NN1 many_DA2 more_DAR signs_NN2 appear_VV0 such_II21 as_II22 in_II the_AT bottom_NN1 of_IO the_AT image_NN1 one_MC1 of_IO the_AT soldiers_NN2 is_VBZ not_XX wearing_VVG his_APPGE helmet_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   38 Another sign in the picture of disunity comes not only from the soldiers but also from the protestors .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   38 Another_DD1 sign_NN1 in_II the_AT picture_NN1 of_IO disunity_NN1 comes_VVZ not_XX only_RR from_II the_AT soldiers_NN2 but_CCB also_RR from_II the_AT protestors_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   39 All the protestors are facing the man placing the flowers into the guns except one who is looking in the other direction .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   39 All_DB the_AT protestors_NN2 are_VBR facing_VVG the_AT man_NN1 placing_VVG the_AT flowers_NN2 into_II the_AT guns_NN2 except_CS one_PN1 who_PNQS is_VBZ looking_VVG in_II the_AT other_JJ direction_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   40 This disunity just as the disunity of the military may make them seem weak and unorganized .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   40 This_DD1 disunity_NN1 just_RR as_CSA the_AT disunity_NN1 of_IO the_AT military_NN1@ may_VM make_VVI them_PPHO2 seem_VVI weak_JJ and_CC unorganized_JJ ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    2   41 This might possibly be why the one soldier is laughing while he should be serious .
+SENTPOS 2014_4_101_300_329_2 FINAL B    2   41 This_DD1 might_VM possibly_RR be_VBI why_RRQ the_AT one_MC1 soldier_NN1 is_VBZ laughing_VVG while_CS he_PPHS1 should_VM be_VBI serious_JJ ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    3   42 The symbolism in this image also creates a strong effect on the unity .
+SENTPOS 2014_4_101_300_329_2 FINAL B    3   42 The_AT symbolism_NN1 in_II this_DD1 image_NN1 also_RR creates_VVZ a_AT1 strong_JJ effect_NN1 on_II the_AT unity_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    3   43 The soldiers in the image are representing oppression with their weapons and serious stature and uniformity with their uniforms and similar in the image .
+SENTPOS 2014_4_101_300_329_2 FINAL B    3   43 The_AT soldiers_NN2 in_II the_AT image_NN1 are_VBR representing_VVG oppression_NN1 with_IW their_APPGE weapons_NN2 and_CC serious_JJ stature_NN1 and_CC uniformity_NN1 with_IW their_APPGE uniforms_NN2 and_CC similar_JJ in_II the_AT image_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    3   44 However , the man dressed in white represents peace or openness and freedom through the flowers .
+SENTPOS 2014_4_101_300_329_2 FINAL B    3   44 However_RR ,_, the_AT man_NN1 dressed_VVN in_II white_NN1@ represents_VVZ peace_NN1 or_CC openness_NN1 and_CC freedom_NN1 through_II the_AT flowers_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    3   45 He is placing the flowers into the gun barrels because nature is meant to represent that untouched peaceful freedom .
+SENTPOS 2014_4_101_300_329_2 FINAL B    3   45 He_PPHS1 is_VBZ placing_VVG the_AT flowers_NN2 into_II the_AT gun_NN1 barrels_NN2 because_CS nature_NN1 is_VBZ meant_VVN to_TO represent_VVI that_DD1 untouched_JJ peaceful_JJ freedom_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    3   46 This openness and the flowers are a much smaller force than the uniformity and oppression in the image yet they are still having a direct effect on these two larger forces .
+SENTPOS 2014_4_101_300_329_2 FINAL B    3   46 This_DD1 openness_NN1 and_CC the_AT flowers_NN2 are_VBR a_AT1 much_RR smaller_JJR force_NN1 than_CSN the_AT uniformity_NN1 and_CC oppression_NN1 in_II the_AT image_NN1 yet_RR they_PPHS2 are_VBR still_RR having_VHG a_AT1 direct_JJ effect_NN1 on_II these_DD2 two_MC larger_JJR forces_NN2 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    3   47 The breakdown of the military and their stiffness is showing the power of a smaller individual or group of individuals on a more powerful group or idea .
+SENTPOS 2014_4_101_300_329_2 FINAL B    3   47 The_AT breakdown_NN1 of_IO the_AT military_JJ and_CC their_APPGE stiffness_NN1 is_VBZ showing_VVG the_AT power_NN1 of_IO a_AT1 smaller_JJR individual_NN1 or_CC group_NN1 of_IO individuals_NN2 on_II a_AT1 more_RGR powerful_JJ group_NN1 or_CC idea_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    4   48 The main purpose of the photograph was to convey the message of anti-war .
+SENTPOS 2014_4_101_300_329_2 FINAL B    4   48 The_AT main_JJ purpose_NN1 of_IO the_AT photograph_NN1 was_VBDZ to_TO convey_VVI the_AT message_NN1 of_IO anti-war_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    4   49 While it is terrifying seeing people being threatened with guns , the power of the flowers creates a sense of tranquility .
+SENTPOS 2014_4_101_300_329_2 FINAL B    4   49 While_CS it_PPH1 is_VBZ terrifying_VVG seeing_VVG people_NN being_VBG threatened_VVN with_IW guns_NN2 ,_, the_AT power_NN1 of_IO the_AT flowers_NN2 creates_VVZ a_AT1 sense_NN1 of_IO tranquility_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    4   50 This is why the picture is called " Flower Power . "
+SENTPOS 2014_4_101_300_329_2 FINAL B    4   50 This_DD1 is_VBZ why_RRQ the_AT picture_NN1 is_VBZ called_VVN "_" Flower_NN1 Power_NN1 ._. "_"
+SENTPOS 2014_4_101_300_329_2 FINAL A    4   51 Once the picture is thoroughly inspected many different issues such as disunity and protesting that were prevalent during this time arise .
+SENTPOS 2014_4_101_300_329_2 FINAL B    4   51 Once_CS@ the_AT picture_NN1 is_VBZ thoroughly_RR inspected_VVN many_DA2 different_JJ issues_NN2 such_II21 as_II22 disunity_NN1 and_CC protesting_VVG that_CST were_VBDR prevalent_JJ during_II this_DD1 time_NNT1 arise_VV0 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    4   52 The disunity among the military is the least recognizable in the image but the most powerful piece .
+SENTPOS 2014_4_101_300_329_2 FINAL B    4   52 The_AT disunity_NN1 among_II the_AT military_NN1@ is_VBZ the_AT least_RGT recognizable_JJ in_II the_AT image_NN1 but_CCB the_AT most_RGT powerful_JJ piece_NN1 ._.
+SENTPOS 2014_4_101_300_329_2 FINAL A    4   52  The disunity is represented through the different military men not being seen as a single unit but instead many different individuals .
+SENTPOS 2014_4_101_300_329_2 FINAL B    4   52  The_AT disunity_NN1 is_VBZ represented_VVN through_II the_AT different_JJ military_JJ men_NN2 not_XX being_VBG seen_VVN as_II a_AT1 single_JJ unit_NN1 but_CCB instead_RR many_DA2 different_JJ individuals_NN2 ._.

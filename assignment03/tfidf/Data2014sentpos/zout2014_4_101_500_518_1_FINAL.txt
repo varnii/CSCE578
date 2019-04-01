@@ -1,0 +1,132 @@
+SENTPOS 2014_4_101_500_518_1 FINAL A    0    0 The Catcher in the Rye , a famous book written by J.D. Salinger , has impacted several generations since 1950s .
+SENTPOS 2014_4_101_500_518_1 FINAL B    0    0 The_AT Catcher_NN1 in_II the_AT Rye_NP1 ,_, a_AT1 famous_JJ book_NN1 written_VVN by_II J.D._NP1 Salinger_NP1 ,_, has_VHZ impacted_VVN several_DA2 generations_NN2 since_II@ 1950s_MC2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    0    1 The protagonist in the story is a sixty years old boy who dislikes the world of adults .
+SENTPOS 2014_4_101_500_518_1 FINAL B    0    1 The_AT protagonist_NN1 in_II the_AT story_NN1 is_VBZ a_AT1 sixty_MC years_NNT2 old_JJ boy_NN1 who_PNQS dislikes_VVZ the_AT world_NN1 of_IO adults_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    0    2 The boy 's name is Holden Caulfield , and the story begins with his departure from Pencey prep , a famous school he attended in Agerstown .
+SENTPOS 2014_4_101_500_518_1 FINAL B    0    2 The_AT boy_NN1 's_GE name_NN1 is_VBZ Holden_NP1 Caulfield_NP1 ,_, and_CC the_AT story_NN1 begins_VVZ with_IW his_APPGE departure_NN1 from_II Pencey_NP1 prep_NN1 ,_, a_AT1 famous_JJ school_NN1 he_PPHS1 attended_VVD in_II Agerstown_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    0    3 He gets expelled , because he failed four of his five classes .
+SENTPOS 2014_4_101_500_518_1 FINAL B    0    3 He_PPHS1 gets_VVZ expelled_JJ@ ,_, because_CS he_PPHS1 failed_VVD four_MC of_IO his_APPGE five_MC classes_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1    4 First , in chapter one , Holden mentions that he has a brother who works for Hollywood , and gives up a career in serious literature for money and fame of the movies .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1    4 First_MD ,_, in_II chapter_NN1 one_MC1 ,_, Holden_NP1 mentions_VVZ that_CST he_PPHS1 has_VHZ a_AT1 brother_NN1 who_PNQS works_VVZ for_IF Hollywood_NP1 ,_, and_CC gives_VVZ up_RP a_AT1 career_NN1 in_II serious_JJ literature_NN1 for_IF money_NN1 and_CC fame_NN1 of_IO the_AT movies_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1    5 We can know Holden 's personality from second chapters .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1    5 We_PPIS2 can_VM know_VVI Holden_NP1 's_GE personality_NN1 from_II second_MD chapters_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1    6 He went to visit Mr. Spencer for politeness , even he failed in his history class .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1    6 He_PPHS1 went_VVD to_TO visit_VVI Mr._NNB Spencer_NP1 for_IF politeness_NN2 ,_, even_RR he_PPHS1 failed_VVD in_II his_APPGE history_NN1 class_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1    7 His cynicism gets showed from the conversation with Mrs Spencer .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1    7 His_APPGE cynicism_NN1 gets_VVZ showed_VVN from_II the_AT conversation_NN1 with_IW Mrs_NNB Spencer_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1    8 When Mr. Spencer asks him that the reason Holden left his last school , Holden 's answer in his mind was that there were so many hypocrite , especially the headmaster Roxas(Salinger) .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1    8 When_CS Mr._NNB Spencer_NP1 asks_VVZ him_PPHO1 that_CST the_AT reason_NN1 Holden_NP1 left_VVD his_APPGE last_MD school_NN1 ,_, Holden_NP1 's_GE answer_NN1 in_II his_APPGE mind_NN1 was_VBDZ that_CST there_EX were_VBDR so_RG many_DA2 hypocrite_NN1 ,_, especially_RR the_AT headmaster_NN1 Roxas(Salinger)_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1    9 Holden says that every Friday , when parents come to school to pick their kids up , Roxas would be super nice to those parents who drive cars and dress nicely .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1    9 Holden_NP1 says_VVZ that_CST every_AT1 Friday_NPD1 ,_, when_CS parents_NN2 come_VV0 to_II school_NN1 to_TO pick_VVI their_APPGE kids_NN2 up_RP ,_, Roxas_NP2 would_VM be_VBI super_JJ nice_JJ to_II those_DD2 parents_NN2 who_PNQS drive_VV0 cars_NN2 and_CC dress_VV0 nicely_RR ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1   10 When he sees some parents who dress bad , he would not say anything , but just smile at them for a second .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1   10 When_CS he_PPHS1 sees_VVZ some_DD parents_NN2 who_PNQS dress_VV0 bad_JJ ,_, he_PPHS1 would_VM not_XX say_VVI anything_PN1 ,_, but_CCB just_RR smile_VV0 at_II them_PPHO2 for_IF a_AT1 second_NNT1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1   11 However , Holden did not tell Mr. Spencer what he really think about the reason he left his last school , because he knew that Mr. Spencer could not understand him .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1   11 However_RR ,_, Holden_NP1 did_VDD not_XX tell_VVI Mr._NNB Spencer_NP1 what_DDQ he_PPHS1 really_RR think_VV0 about_II the_AT reason_NN1 he_PPHS1 left_VVD his_APPGE last_MD school_NN1 ,_, because_CS he_PPHS1 knew_VVD that_CST Mr._NNB Spencer_NP1 could_VM not_XX understand_VVI him_PPHO1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    1   12 Therefore he ran away .
+SENTPOS 2014_4_101_500_518_1 FINAL B    1   12 Therefore_RR he_PPHS1 ran_VVD away_RL ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   13 Second , after Holden fought with Mr Rudd letta , he left school immediately because he was so angry .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   13 Second_MD ,_, after_CS Holden_NP1 fought_VVD with_IW Mr_NNB Rudd_NP1 letta_NN1 ,_, he_PPHS1 left_VVD school_NN1 immediately_RR because_CS he_PPHS1 was_VBDZ so_RG angry_JJ ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   14 He went to New York and decide to live in a hotel , because he did not really want to see his parents .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   14 He_PPHS1 went_VVD to_II New_NP1 York_NP1 and_CC decide_VV0 to_TO live_VVI in_II a_AT1 hotel_NN1 ,_, because_CS he_PPHS1 did_VDD not_XX really_RR want_VVI to_TO see_VVI his_APPGE parents_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   15 During this time , many things happened around him .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   15 During_II this_DD1 time_NNT1 ,_, many_DA2 things_NN2 happened_VVD around_II him_PPHO1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   16 Holden went to Ernie 's .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   16 Holden_NP1 went_VVD to_II Ernie_NP1 's_GE ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   17 He does not really like the pianoforte Ernie played after he he feel the environment in the Ernie 's .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   17 He_PPHS1 does_VDZ not_XX really_RR like_VVI the_AT pianoforte_NN1 Ernie_NP1 played_VVD after_CS he_PPHS1 he_PPHS1 feel_VV0 the_AT environment_NN1 in_II the_AT Ernie_NP1 's_GE ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   18 People applaud no matter they like the pianoforte or not , and Ernie will bow phonily after he plays(Salinger) .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   18 People_NN applaud_VV0 no_AT matter_NN1 they_PPHS2 like_VV0 the_AT pianoforte_NN1 or_CC not_XX ,_, and_CC Ernie_NP1 will_VM bow_VVI phonily_RR after_CS he_PPHS1 plays(Salinger)_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   19 Holden thinks that Ernie does not even think about weather he does well or not , and the fickleness of the crowed changes Ernie .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   19 Holden_NP1 thinks_VVZ that_CST Ernie_NP1 does_VDZ not_XX even_RR think_VVI about_II weather_NN1 he_PPHS1 does_VDZ well_RR or_CC not_XX ,_, and_CC the_AT fickleness_NN1 of_IO the_AT crowed_VVD changes_NN2 Ernie_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   20 Therefore , he takes a table and listens the conversations around him .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   20 Therefore_RR ,_, he_PPHS1 takes_VVZ a_AT1 table_NN1 and_CC listens_VVZ the_AT conversations_NN2 around_II him_PPHO1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   21 Holden gets disgusting by the phony talk of a couple .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   21 Holden_NP1 gets_VVZ disgusting_JJ by_II the_AT phony_JJ talk_NN1 of_IO a_AT1 couple_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   22 The boy was talking about a professional football game to his girlfriend .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   22 The_AT boy_NN1 was_VBDZ talking_VVG about_II a_AT1 professional_JJ football_NN1 game_NN1 to_II his_APPGE girlfriend_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   23 The girl had no interest on football , but she was listening , even she did not really pay attention .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   23 The_AT girl_NN1 had_VHD no_AT interest_NN1 on_II football_NN1 ,_, but_CCB she_PPHS1 was_VBDZ listening_VVG ,_, even_RR she_PPHS1 did_VDD not_XX really_RR pay_VVI attention_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   24 There are another couple seat near Holden .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   24 There_EX are_VBR another_DD1 couple_NN1 seat_NN1 near_II Holden_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   25 The man dresses like a Yale student .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   25 The_AT man_NN1 dresses_NN2 like_II a_AT1 Yale_NP1 student_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   26 He was stroking the girl 's private part while he was telling her a story about a person in his dorm who ate aspirin for suicide .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   26 He_PPHS1 was_VBDZ stroking_VVG the_AT girl_NN1 's_GE private_JJ part_NN1 while_CS he_PPHS1 was_VBDZ telling_VVG her_PPHO1 a_AT1 story_NN1 about_II a_AT1 person_NN1 in_II his_APPGE dorm_NN1 who_PNQS ate_VVD aspirin_NN for_IF suicide_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   27 Although he dresses like a successful man which most people think you are successful if you go to a nice school such as Yale , he was doing the dirty things .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   27 Although_CS he_PPHS1 dresses_VVZ@ like_II a_AT1 successful_JJ man_NN1 which_DDQ most_DAT people_NN think_VV0 you_PPY are_VBR successful_JJ if_CS you_PPY go_VV0 to_II a_AT1 nice_JJ school_NN1 such_II21 as_II22 Yale_NP1 ,_, he_PPHS1 was_VBDZ doing_VDG the_AT dirty_JJ things_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   28 After that , Holden encounters an obnoxious girl named Lillian Simmons , whom D.B. dated in the past .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   28 After_II that_DD1 ,_, Holden_NP1 encounters_VVZ an_AT1 obnoxious_JJ girl_NN1 named_VVD Lillian_NP1 Simmons_NP1 ,_, whom_PNQO D.B._NP1 dated_VVD@ in_II the_AT past_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   29 She does not respect people by blocking everyone 's way .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   29 She_PPHS1 does_VDZ not_XX respect_VVI people_NN by_II blocking_VVG everyone_PN1 's_GE way_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    2   30 She showed a big passion after she knew D.B. was working for Hollywood , and Holden thinks that the reason she invites him to seat with them is that she wants Holden to tell D.B. how nice is she .
+SENTPOS 2014_4_101_500_518_1 FINAL B    2   30 She_PPHS1 showed_VVD a_AT1 big_JJ passion_NN1 after_CS she_PPHS1 knew_VVD D.B._NP1 was_VBDZ working_VVG for_IF Hollywood_NP1 ,_, and_CC Holden_NP1 thinks_VVZ that_CST the_AT reason_NN1 she_PPHS1 invites_VVZ him_PPHO1 to_II seat_NN1 with_IW them_PPHO2 is_VBZ that_CST she_PPHS1 wants_VVZ Holden_NP1 to_TO tell_VVI D.B._NP1 how_RRQ nice_JJ is_VBZ she_PPHS1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   31 Last but not the least , the most famous part in the book should be the conversation between Holden and his sister Phoebe .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   31 Last_MD but_CCB not_XX the_AT least_RRT ,_, the_AT most_RGT famous_JJ part_NN1 in_II the_AT book_NN1 should_VM be_VBI the_AT conversation_NN1 between_II Holden_NP1 and_CC his_APPGE sister_NN1 Phoebe_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   32 At the time Holden went back home , Phoebe was sleeping in D.B. 's room .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   32 At_II the_AT time_NNT1 Holden_NP1 went_VVD back_RP home_RL ,_, Phoebe_NP1 was_VBDZ sleeping_VVG in_II D.B._NP1 's_GE room_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   33 Phoebe was overjoyed to see him .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   33 Phoebe_NP1 was_VBDZ overjoyed_JJ to_TO see_VVI him_PPHO1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   34 She started telling him things in her life .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   34 She_PPHS1 started_VVD telling_VVG him_PPHO1 things_NN2 in_II her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   35 Holden also enjoyed listening Phoebe 's talking , because she was still innocent , and what she told were the things she truthfully wanted to share with Holden .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   35 Holden_NP1 also_RR enjoyed_VVN listening_VVG Phoebe_NP1 's_GE talking_NN1@ ,_, because_CS she_PPHS1 was_VBDZ still_RR innocent_JJ ,_, and_CC what_DDQ she_PPHS1 told_VVD were_VBDR the_AT things_NN2 she_PPHS1 truthfully_RR wanted_VVN to_TO share_VVI with_IW Holden_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   36 However , Phoebe got angry after she noticed that Holden was home two days early and he must be kicked out by school .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   36 However_RR ,_, Phoebe_NP1 got_VVD angry_JJ after_CS she_PPHS1 noticed_VVD that_CST Holden_NP1 was_VBDZ home_RL two_MC days_NNT2 early_JJ and_CC he_PPHS1 must_VM be_VBI kicked_VVN out_RP by_II school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   37 We all know that people get mad about the things you do because they care about you .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   37 We_PPIS2 all_DB know_VV0 that_CST people_NN get_VV0 mad_JJ about_II the_AT things_NN2 you_PPY do_VD0 because_CS they_PPHS2 care_VV0 about_II you_PPY ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   38 That was what Holden felt from Phoebe .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   38 That_DD1 was_VBDZ what_DDQ Holden_NP1 felt_VVD from_II Phoebe_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   39 Holden explained to Phoebe why he did not like the school .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   39 Holden_NP1 explained_VVD to_II Phoebe_NP1 why_RRQ he_PPHS1 did_VDD not_XX like_VVI the_AT school_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   40 As he says , adults look lousy when they are sleeping , children look all right(Salinger) .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   40 As_CSA he_PPHS1 says_VVZ ,_, adults_NN2 look_VV0 lousy_JJ when_CS they_PPHS2 are_VBR sleeping_VVG ,_, children_NN2 look_VV0 all_DB right(Salinger)_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   41 Afterwards , Phoebe asked him what he wanted to do with his life .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   41 Afterwards_RT ,_, Phoebe_NP1 asked_VVD him_PPHO1 what_DDQ he_PPHS1 wanted_VVD to_TO do_VDI with_IW his_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   42 Holden said " I 'm standing on the edge of some crazy cliff .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   42 Holden_NP1 said_VVD "_" I_PPIS1 'm_VBM standing_VVG on_II the_AT edge_NN1 of_IO some_DD crazy_JJ cliff_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   43 What I have to do , I have to catch everybody if they start to go over the cliff -- I mean if they 're running and they do n't look where they 're going I have to come out from somewhere and catch them .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   43 What_DDQ I_PPIS1 have_VH0 to_TO do_VDI ,_, I_PPIS1 have_VH0 to_TO catch_VVI everybody_PN1 if_CS they_PPHS2 start_VV0 to_TO go_VVI over_II the_AT cliff_NN1 --_NN1 I_PPIS1 mean_VV0 if_CSW@ they_PPHS2 're_VBR running_VVG and_CC they_PPHS2 do_VD0 n't_XX look_VVI where_RRQ they_PPHS2 're_VBR going_VVG I_PPIS1 have_VH0 to_TO come_VVI out_RP from_II somewhere_RL and_CC catch_VVI them_PPHO2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   44 That 's all I 'd do all day .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   44 That_DD1 's_VBZ all_DB I_PPIS1 'd_VM do_VDI all_DB day_NNT1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   45 I 'd just be the catcher in the rye and all(Salinger) . "
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   45 I_PPIS1 'd_VM just_RR be_VBI the_AT catcher_NN1 in_II the_AT rye_NN1 and_CC all(Salinger)_NN1 ._. "_"
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   46 This reveals that he yearn for idealistic childhood and his role as the catcher of innocence .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   46 This_DD1 reveals_VVZ that_CST he_PPHS1 yearn_VV0 for_IF idealistic_JJ childhood_NN1 and_CC his_APPGE role_NN1 as_II the_AT catcher_NN1 of_IO innocence_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   47 Why does Salinger use " catcher " here , but not " savior " or " protector " ?
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   47 Why_RRQ does_VDZ Salinger_NP1 use_VVI "_" catcher_NN1 "_" here_RL ,_, but_CCB not_XX "_" savior_NN1 "_" or_CC "_" protector_NN1 "_" ?_?
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   48 Imagine a graph which having a cliff at the end of the rye .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   48 Imagine_VV0 a_AT1 graph_NN1 which_DDQ having_VHG a_AT1 cliff_NN1 at_II the_AT end_NN1 of_IO the_AT rye_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   49 Holden knows that children will fall off the cliff if there is not a catcher .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   49 Holden_NP1 knows_VVZ that_CST children_NN2 will_VM fall_VVI off_II the_AT cliff_NN1 if_CS there_EX is_VBZ not_XX a_AT1 catcher_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   50 As we all know , rye is pure , which there is only wheat .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   50 As_CSA we_PPIS2 all_DB know_VV0 ,_, rye_NN1 is_VBZ pure_JJ ,_, which_DDQ there_EX is_VBZ only_JJ wheat_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   51 Holden uses rye describe the purely innocence of children .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   51 Holden_NP1 uses_VVZ rye_NN1 describe_VV0 the_AT purely_RR innocence_NN1 of_IO children_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   52 Salinger does not use " protect " here , because there is no need for protecting if a child fall off the cliff .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   52 Salinger_NP1 does_VDZ not_XX use_VVI "_" protect_VV0 "_" here_RL ,_, because_CS there_EX is_VBZ no_AT need_NN1 for_IF protecting_VVG if_CSW@ a_AT1 child_NN1 fall_NN1 off_II the_AT cliff_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   53 All he wants to do is catching the children who will fall .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   53 All_DB he_PPHS1 wants_VVZ to_TO do_VDI is_VBZ catching_VVG the_AT children_NN2 who_PNQS will_VM fall_VVI ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   54 Salinger does not use " savior " , either , because Holden does not think he saves the children .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   54 Salinger_NP1 does_VDZ not_XX use_VVI "_" savior_NN1 "_" ,_, either_RR ,_, because_CS Holden_NP1 does_VDZ not_XX think_VVI he_PPHS1 saves_VVZ the_AT children_NN2 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   55 He does not think himself as great as other readers do .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   55 He_PPHS1 does_VDZ not_XX think_VVI himself_PPX1 as_RG great_JJ as_CSA other_JJ readers_NN2 do_VD0 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   56 For him , catching a kid who will fall off the cliff is his responsible .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   56 For_IF him_PPHO1 ,_, catching_VVG a_AT1 kid_NN1 who_PNQS will_VM fall_VVI off_II the_AT cliff_NN1 is_VBZ his_APPGE responsible_JJ ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   57 If Salinger uses " savior " instead of " catcher " , it will show the glorification of Holden .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   57 If_CS Salinger_NP1 uses_VVZ "_" savior_NN1 "_" instead_II21 of_II22 "_" catcher_NN1 "_" ,_, it_PPH1 will_VM show_VVI the_AT glorification_NN1 of_IO Holden_NP1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   58 However , Holden dose not think about the honor he can get by being a catcher .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   58 However_RR ,_, Holden_NP1 dose_NN1 not_XX think_VV0 about_II the_AT honor_NN1 he_PPHS1 can_VM get_VVI by_II being_VBG a_AT1 catcher_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    3   59 The point of Holden is wanting to let the innocence of children stay , or in another word , retain the innocence without the alienation .
+SENTPOS 2014_4_101_500_518_1 FINAL B    3   59 The_AT point_NN1 of_IO Holden_NP1 is_VBZ wanting_VVG to_TO let_VVI the_AT innocence_NN1 of_IO children_NN2 stay_VV0 ,_, or_CC in_II another_DD1 word_NN1 ,_, retain_VV0 the_AT innocence_NN1 without_IW the_AT alienation_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    4   60 Unfortunately , we can not get a result from the ending of the book .
+SENTPOS 2014_4_101_500_518_1 FINAL B    4   60 Unfortunately_RR ,_, we_PPIS2 can_VM not_XX get_VVI a_AT1 result_NN1 from_II the_AT ending_NN1 of_IO the_AT book_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    4   61 Holden is always trying not to be alone , but he just can not step into people 's world which have already been alienated .
+SENTPOS 2014_4_101_500_518_1 FINAL B    4   61 Holden_NP1 is_VBZ always_RR trying_VVG not_XX to_TO be_VBI alone_JJ ,_, but_CCB he_PPHS1 just_RR can_VM not_XX step_VVI into_II people_NN 's_GE world_NN1 which_DDQ have_VH0 already_RR been_VBN alienated_VVN ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    4   62 Therefore , he wants to be a catcher in the rye ; he wants to let more children keep their innocence .
+SENTPOS 2014_4_101_500_518_1 FINAL B    4   62 Therefore_RR ,_, he_PPHS1 wants_VVZ to_TO be_VBI a_AT1 catcher_NN1 in_II the_AT rye_NN1 ;_; he_PPHS1 wants_VVZ to_TO let_VVI more_DAR children_NN2 keep_VVI their_APPGE innocence_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    4   63 Nevertheless , the power of alienation by the society is so strong that it is impossible for him to catch others ' innocence .
+SENTPOS 2014_4_101_500_518_1 FINAL B    4   63 Nevertheless_RR ,_, the_AT power_NN1 of_IO alienation_NN1 by_II the_AT society_NN1 is_VBZ so_RG strong_JJ that_CST it_PPH1 is_VBZ impossible_JJ for_IF him_PPHO1 to_TO catch_VVI others_NN2 '_GE innocence_NN1 ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    4   64 We do not know what kind of life will Holden have with the incessant disappoints .
+SENTPOS 2014_4_101_500_518_1 FINAL B    4   64 We_PPIS2 do_VD0 not_XX know_VVI what_DDQ kind_NN1 of_IO life_NN1 will_VM Holden_NP1 have_VHI with_IW the_AT incessant_JJ disappoints_VVZ ._.
+SENTPOS 2014_4_101_500_518_1 FINAL A    4   64  Maybe he will be alone forever , or he may be alienated by this society .
+SENTPOS 2014_4_101_500_518_1 FINAL B    4   64  Maybe_RR he_PPHS1 will_VM be_VBI alone_JJ forever_RT ,_, or_CC he_PPHS1 may_VM be_VBI alienated_VVN by_II this_DD1 society_NN1 ._.

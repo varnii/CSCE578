@@ -1,0 +1,122 @@
+SENTPOS 2014_4_101_000_025_1 FINAL A    0    0 A tribute years earlier than the 74th Hunger Games turned savage within the arena and ate a dead tribute 's heart .
+SENTPOS 2014_4_101_000_025_1 FINAL B    0    0 A_AT1 tribute_NN1 years_NNT2 earlier_RRR than_CSN the_AT 74th_MD Hunger_NN1 Games_NN2 turned_VVD savage_NN1 within_II the_AT arena_NN1 and_CC ate_VVD a_AT1 dead_JJ tribute_NN1 's_GE heart_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    0    1 Blood dripping down the face of a young boy , a mangled body lying at his feet , and an animalistic look in the eyes of this boy is a perfect symbol of the dehumanization process that takes place from the Hunger Games .
+SENTPOS 2014_4_101_000_025_1 FINAL B    0    1 Blood_NN1 dripping_VVG down_RP the_AT face_NN1 of_IO a_AT1 young_JJ boy_NN1 ,_, a_AT1 mangled_JJ@ body_NN1 lying_VVG at_II his_APPGE feet_NN2 ,_, and_CC an_AT1 animalistic_JJ look_NN1 in_II the_AT eyes_NN2 of_IO this_DD1 boy_NN1 is_VBZ a_AT1 perfect_JJ symbol_NN1 of_IO the_AT dehumanization_NN1 process_VV0 that_CST takes_VVZ place_NN1 from_II the_AT Hunger_NN1 Games_NN2 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    0    2 By looking at the tense argument Katniss has with Peeta on the roof , we can see how Peeta is searching for his identity as a person and how he will act within the arena ; which is important , because this scene shows that Peeta Mellark is the true rebel , not Katniss .
+SENTPOS 2014_4_101_000_025_1 FINAL B    0    2 By_II looking_VVG at_II the_AT tense_JJ argument_NN1 Katniss_NN1 has_VHZ with_IW Peeta_NP1 on_II the_AT roof_NN1 ,_, we_PPIS2 can_VM see_VVI how_RRQ Peeta_NP1 is_VBZ searching_VVG for_IF his_APPGE identity_NN1 as_II a_AT1 person_NN1 and_CC how_RRQ he_PPHS1 will_VM act_VVI within_II the_AT arena_NN1 ;_; which_DDQ is_VBZ important_JJ ,_, because_CS this_DD1 scene_NN1 shows_VVZ that_CST Peeta_NP1 Mellark_NP1 is_VBZ the_AT true_JJ rebel_NN1 ,_, not_XX Katniss_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    3 First off , there lies the question of whether Peeta has given up , accepting death , or maybe there is more to it .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    3 First_MD off_RP ,_, there_EX lies_VVZ the_AT question_NN1 of_IO whether_CSW Peeta_NP1 has_VHZ given_VVN up_RP ,_, accepting_VVG death_NN1 ,_, or_CC maybe_RR there_EX is_VBZ more_RRR to_II it_PPH1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    4 Peeta leads the reader to believe he has completely given up when he says , " I 've never been a contender in these Games anyway " ( 141 ) .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    4 Peeta_NN1 leads_VVZ the_AT reader_NN1 to_TO believe_VVI he_PPHS1 has_VHZ completely_RR given_VVN up_RP when_CS he_PPHS1 says_VVZ ,_, "_" I_PPIS1 've_VH0 never_RR been_VBN a_AT1 contender_NN1 in_II these_DD2 Games_NN2 anyway_RR "_" (_( 141_MC )_) ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    5 Hopelessness seems to have set in on Peeta as he sees his imminent death approaching .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    5 Hopelessness_NN1 seems_VVZ to_TO have_VHI set_VVN in_RP@ on_II Peeta_NP1 as_CSA he_PPHS1 sees_VVZ his_APPGE imminent_JJ death_NN1 approaching_VVG ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    6 On the surface it really seems like Peeta is giving up , he even talks about dying as himself , meaning he has accepted death .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    6 On_II the_AT surface_NN1 it_PPH1 really_RR seems_VVZ like_II Peeta_NP1 is_VBZ giving_VVG up_RP ,_, he_PPHS1 even_RR talks_VVZ@ about_II dying_VVG as_II@ himself_PPX1 ,_, meaning_VVG he_PPHS1 has_VHZ accepted_VVN death_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    7 Although it seems he has completely given up , if the reader looks closer he/she will see Peeta 's true motive .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    7 Although_CS it_PPH1 seems_VVZ he_PPHS1 has_VHZ completely_RR given_VVN up_RP ,_, if_CS the_AT reader_NN1 looks_VVZ closer_RRR he/she_PPHS1 will_VM see_VVI Peeta_NP1 's_GE true_JJ motive_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    8 Peeta knows he will die , because he will protect Katniss and try to help her win .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    8 Peeta_NN1 knows_VVZ he_PPHS1 will_VM die_VVI ,_, because_CS he_PPHS1 will_VM protect_VVI Katniss_NP1 and_CC try_VVI to_TO help_VVI her_APPGE win_NN1@ ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1    9 To Peeta , protecting Katniss is how he will die as himself , it gives his death meaning .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1    9 To_II Peeta_NP1 ,_, protecting_VVG Katniss_NN1 is_VBZ how_RRQ he_PPHS1 will_VM die_VVI as_II@ himself_PPX1 ,_, it_PPH1 gives_VVZ his_APPGE death_NN1 meaning_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1   10 When Peeta says , " &lsqb; &rsqb; what else am I allowed to care about at this point ? " ( 142 ) , he realizes Katniss is what he should care about at this point .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1   10 When_CS Peeta_NP1 says_VVZ ,_, "_" &lsqb;_( &rsqb;_) what_DDQ else_RR am_VBM I_PPIS1 allowed_VVN to_TO care_VVI about_II at_II this_DD1 point_NN1 ?_? "_" (_( 142_MC )_) ,_, he_PPHS1 realizes_VVZ Katniss_NN1 is_VBZ what_DDQ he_PPHS1 should_VM care_VVI about_II at_II this_DD1 point_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1   11 Peeta 's plan to save Katniss is not known to the reader , because the scene is in Katniss 's point of view and Katniss always thinks Peeta is scheming and looking for a way to gain advantage over her .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1   11 Peeta_NP1@ 's_GE plan_NN1 to_TO save_VVI Katniss_NN1 is_VBZ not_XX known_VVN to_II the_AT reader_NN1 ,_, because_CS the_AT scene_NN1 is_VBZ in_II Katniss_NP1 's_GE point_NN1 of_IO view_NN1 and_CC Katniss_VV0 always_RR thinks_VVZ Peeta_NP1 is_VBZ scheming_VVG and_CC looking_VVG for_IF a_AT1 way_NN1 to_TO gain_VVI advantage_NN1 over_II her_PPHO1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1   12 Had it been in Peeta 's point of view the reader could see his intentions .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1   12 Had_VHD it_PPH1 been_VBN in_II Peeta_NP1 's_GE point_NN1 of_IO view_NN1 the_AT reader_NN1 could_VM see_VVI his_APPGE intentions_NN2 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1   13 Through Katniss , the reader sees Peeta 's remark , " Give my mother my best when you make it back , will you ? " ( 142 ) , as a sign that he has given up all hope of winning .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1   13 Through_II Katniss_NP1 ,_, the_AT reader_NN1 sees_VVZ Peeta_NP1 's_GE remark_NN1 ,_, "_" Give_VV0 my_APPGE mother_NN1 my_APPGE best_JJT when_CS you_PPY make_VV0 it_PPH1 back_RP ,_, will_VM you_PPY ?_? "_" (_( 142_MC )_) ,_, as_CSA a_AT1 sign_NN1 that_CST he_PPHS1 has_VHZ given_VVN up_RP all_DB hope_NN1 of_IO winning_VVG ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1   14 In all reality though , Peeta is saying that Katniss will live and he will die , because her life is more important than his .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1   14 In_II all_DB reality_NN1 though_CS ,_, Peeta_NP1 is_VBZ saying_VVG that_DD1 Katniss_NN1 will_VM live_VVI and_CC he_PPHS1 will_VM die_VVI ,_, because_CS her_APPGE life_NN1 is_VBZ more_RGR important_JJ than_CSN his_PPGE@ ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    1   15 So yes , Peeta has accepted death , but it is a death chosen by him and it will be a noble death .
+SENTPOS 2014_4_101_000_025_1 FINAL B    1   15 So_RR yes_UH ,_, Peeta_NP1 has_VHZ accepted_VVN death_NN1 ,_, but_CCB it_PPH1 is_VBZ a_AT1 death_NN1 chosen_VVN by_II him_PPHO1 and_CC it_PPH1 will_VM be_VBI a_AT1 noble_JJ death_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   16 So , how is it rebellious that Peeta is going to die in The Hunger Games ?
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   16 So_RR ,_, how_RRQ is_VBZ it_PPH1 rebellious_JJ that_CST Peeta_NP1 is_VBZ going_VVGK to_TO die_VVI in_II The_AT Hunger_NN1 Games_NN2 ?_?
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   17 What difference does it make that he is willing to sacrifice himself ?
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   17 What_DDQ difference_NN1 does_VDZ it_PPH1 make_VVI that_CST he_PPHS1 is_VBZ willing_JJ to_TO sacrifice_VVI himself_PPX1 ?_?
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   18 Peeta is a martyr .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   18 Peeta_NN1 is_VBZ a_AT1 martyr_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   19 That is why he is rebellious .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   19 That_DD1 is_VBZ why_RRQ he_PPHS1 is_VBZ rebellious_JJ ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   20 The Games are supposed to make each contestant desperate ; willing to do anything to survive .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   20 The_AT Games_NN2 are_VBR supposed_JJ to_TO make_VVI each_DD1 contestant_NN1 desperate_JJ ;_; willing_JJ to_TO do_VDI anything_PN1 to_TO survive_VVI ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   21 This desperation is what transforms tributes from teenagers to " monsters . "
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   21 This_DD1 desperation_NN1 is_VBZ what_DDQ transforms_VVZ tributes_NN2 from_II teenagers_NN2 to_II "_" monsters_NN2 ._. "_"
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   22 The prime example is Titus of District 6 who Katniss informs us turned cannibalistic in a past Game .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   22 The_AT prime_JJ example_NN1 is_VBZ Titus_NP1 of_IO District_NN1 6_MC who_PNQS Katniss_VV0 informs_VVZ us_PPIO2 turned_VVD cannibalistic_JJ in_II a_AT1 past_JJ Game_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   23 Katniss describes Titus as a " beast tribute . "
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   23 Katniss_NN1 describes_VVZ Titus_NP1 as_II a_AT1 "_" beast_NN1 tribute_NN1 ._. "_"
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   24 These adjectives , monster and beast , illustrate the humanity lost when tributes play The Game .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   24 These_DD2 adjectives_NN2 ,_, monster_NN1 and_CC beast_NN1 ,_, illustrate_VV0 the_AT humanity_NN1 lost_VVD when_RRQ tributes_NN2 play_VV0 The_AT Game_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   25 Katniss and Peeta could use adjectives like awful , terrible , scary , or insane , but those words are too human to describe the results of what happens to tributes that play this Game .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   25 Katniss_VV0 and_CC Peeta_NP1 could_VM use_VVI adjectives_NN2 like_II awful_JJ ,_, terrible_JJ ,_, scary_JJ ,_, or_CC insane_JJ ,_, but_CCB those_DD2 words_NN2 are_VBR too_RG human_JJ to_TO describe_VVI the_AT results_NN2 of_IO what_DDQ happens_VVZ to_II@ tributes_NN2 that_CST play_VV0 this_DD1 Game_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   26 Play , is also a key word here .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   26 Play_VV0 ,_, is_VBZ also_RR a_AT1 key_JJ word_NN1 here_RL ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   27 Every other tribute has played the Game by the rules of the Game so they can win the Game .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   27 Every_AT1 other_JJ tribute_NN1 has_VHZ played_VVN the_AT Game_NN1 by_II the_AT rules_NN2 of_IO the_AT Game_NN1 so_CS@ they_PPHS2 can_VM win_VVI the_AT Game_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   28 Peeta does n't want to play their Games , " I keep wishing I could think of a way to to show the Capitol they do n't own me .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   28 Peeta_NN1 does_VDZ n't_XX want_VVI to_TO play_VVI their_APPGE Games_NN2 ,_, "_" I_PPIS1 keep_VV0 wishing_VVG I_PPIS1 could_VM think_VVI of_IO a_AT1 way_NN1 to_II to_TO show_VVI the_AT Capitol_NP1 they_PPHS2 do_VD0 n't_XX own_VVI me_PPIO1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   29 That I 'm more than just a piece in their Games " ( 142 ) .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   29 That_CST I_PPIS1 'm_VBM more_DAR than_CSN just_RR a_AT1 piece_NN1 in_II their_APPGE Games_NN2 "_" (_( 142_MC )_) ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   30 Peeta 's refusal to play the Game the way the Gamemakers want him to play it is rebellion .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   30 Peeta_NP1@ 's_GE refusal_NN1 to_TO play_VVI the_AT Game_NN1 the_AT way_NN1 the_AT Gamemakers_NN2 want_VV0 him_PPHO1 to_TO play_VVI it_PPH1 is_VBZ rebellion_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   31 The Gamemakers expects him to fight savagely to save his life so their audience gets a good show , and to keep the Districts in their place .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   31 The_AT Gamemakers_NP1 expects_VVZ him_PPHO1 to_TO fight_VVI savagely_RR to_TO save_VVI his_APPGE life_NN1 so_CS@ their_APPGE audience_NN1 gets_VVZ a_AT1 good_JJ show_NN1 ,_, and_CC to_TO keep_VVI the_AT Districts_NN2 in_II their_APPGE place_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   32 By refusing to be selfish and by dying with honor , Peeta will prove a point to everyone .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   32 By_II refusing_VVG to_TO be_VBI selfish_JJ and_CC by_II dying_VVG with_IW honor_NN1 ,_, Peeta_NP1 will_VM prove_VVI a_AT1 point_NN1 to_II everyone_PN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   33 His point is that the Capitol does not own him or any other human being within Panem .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   33 His_APPGE point_NN1 is_VBZ that_CST the_AT Capitol_NP1 does_VDZ not_XX own_VVI him_PPHO1 or_CC any_DD other_JJ human_JJ being_NN1 within_II Panem_NP1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   34 Peeta says , " I want to die as myself " ( 141 ) , meaning he is going to die a free man proving to all District members across Panem that they need n't follow the rules of the Capitol .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   34 Peeta_NN1 says_VVZ ,_, "_" I_PPIS1 want_VV0 to_TO die_VVI as_II@ myself_PPX1 "_" (_( 141_MC )_) ,_, meaning_VVG he_PPHS1 is_VBZ going_VVGK to_TO die_VVI a_AT1 free_JJ man_NN1 proving_VVG to_II all_DB District_NN1 members_NN2 across_II Panem_NN1 that_CST they_PPHS2 need_VM@ n't_XX follow_VVI the_AT rules_NN2 of_IO the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   35 Peeta is willing to die for his beliefs .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   35 Peeta_NN1 is_VBZ willing_JJ to_TO die_VVI for_IF his_APPGE beliefs_NN2 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   36 Peeta Mellark is a martyr .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   36 Peeta_NP1@ Mellark_NP1 is_VBZ a_AT1 martyr_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    2   37 Peeta Mellark is a rebel .
+SENTPOS 2014_4_101_000_025_1 FINAL B    2   37 Peeta_NP1@ Mellark_NP1 is_VBZ a_AT1 rebel_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   38 The girl on fire , Katniss , a symbol of rebellion against the oppressive Capitol .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   38 The_AT girl_NN1 on_II fire_NN1 ,_, Katniss_NP1 ,_, a_AT1 symbol_NN1 of_IO rebellion_NN1 against_II the_AT oppressive_JJ Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   39 I think the opposite .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   39 I_PPIS1 think_VV0 the_AT opposite_JJ ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   40 Katniss is a selfish girl who is complying with the Capitol 's Game so she can save her life .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   40 Katniss_NN1 is_VBZ a_AT1 selfish_JJ girl_NN1 who_PNQS is_VBZ complying_VVG with_IW the_AT Capitol_NP1 's_GE Game_NN1 so_CS@ she_PPHS1 can_VM save_VVI her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   41 She was n't planning rebellion , it was n't a thought when she entered the Games , her life was .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   41 She_PPHS1 was_VBDZ n't_XX planning_VVG rebellion_NN1 ,_, it_PPH1 was_VBDZ n't_XX a_AT1 thought_NN1 when_CS she_PPHS1 entered_VVD the_AT Games_NN2 ,_, her_APPGE life_NN1 was_VBDZ ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   42 Katniss even admits that she is only thinking of herself when Peeta asks if she has been thinking about her family , " 'No , ' I admit a bit guiltily .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   42 Katniss_VV0 even_RR admits_VVZ that_CST she_PPHS1 is_VBZ only_JJ thinking_NN1 of_IO herself_PPX1 when_CS Peeta_NP1 asks_VVZ if_CS she_PPHS1 has_VHZ been_VBN thinking_VVG about_II her_APPGE family_NN1 ,_, "_" 'No_NN1 ,_, '_"@ I_PPIS1 admit_VV0 a_RR21 bit_RR22 guiltily_RR ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   43 All I can do is wonder about tomorrow' " ( 141 ) .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   43 All_DB I_PPIS1 can_VM do_VDI is_VBZ wonder_NN1 about_II tomorrow'_NN1 "_" (_( 141_MC )_) ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   44 The girl on fire simply thinks about how she will fight tomorrow , while the boy with bread plans on how to prove a point to the Capitol .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   44 The_AT girl_NN1 on_II fire_NN1 simply_RR thinks_VVZ about_II how_RRQ she_PPHS1 will_VM fight_VVI tomorrow_RT ,_, while_CS the_AT boy_NN1 with_IW bread_NN1 plans_VVZ on_II how_RRQ to_TO prove_VVI a_AT1 point_NN1 to_II the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   45 Katniss even accepts that she will be a piece in the Game , she does n't look for another way to play .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   45 Katniss_VV0 even_RR accepts_VVZ that_CST she_PPHS1 will_VM be_VBI a_AT1 piece_NN1 in_II the_AT Game_NN1 ,_, she_PPHS1 does_VDZ n't_XX look_VVI for_IF another_DD1 way_NN1 to_TO play_VVI ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   46 When Peeta is figuring out how to show everyone he is more than just a piece in the Game , Katniss says , " 'But you 're not , ' I say .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   46 When_CS Peeta_NP1 is_VBZ figuring_VVG out_RP how_RRQ to_TO show_VVI everyone_PN1 he_PPHS1 is_VBZ more_DAR than_CSN just_RR a_AT1 piece_NN1 in_II the_AT Game_NN1 ,_, Katniss_NP1 says_VVZ ,_, "_" 'But_VV0 you_PPY 're_VBR not_XX ,_, '_"@ I_PPIS1 say_VV0 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   47 None of us are .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   47 None_PN of_IO us_PPIO2 are_VBR ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   48 That 's how the Games work' " ( 142 ) .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   48 That_DD1 's_VBZ how_RRQ the_AT Games_NN2 work'_VV0 "_" (_( 142_MC )_) ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   49 Katniss just submits to the Capitol , sacrificing any freedom or individuality like the Districts have for years .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   49 Katniss_VV0 just_RR submits_VVZ to_II the_AT Capitol_NP1 ,_, sacrificing_VVG any_DD freedom_NN1 or_CC individuality_NN1 like_II the_AT Districts_NN2 have_VH0 for_IF years_NNT2 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   50 On the other hand , Peeta , is a revolutionist fighting for what is right and not submitting to oppression and evil .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   50 On_II the_AT other_JJ hand_NN1 ,_, Peeta_NP1 ,_, is_VBZ a_AT1 revolutionist_NN1 fighting_VVG for_IF what_DDQ is_VBZ right_JJ and_CC not_XX submitting_VVG to_II oppression_NN1 and_CC evil_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   51 Even though Peeta 's intentions are honorable and brave , Katniss tries to shoot down his rebellious thoughts .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   51 Even_CS21 though_CS22 Peeta_NP1 's_GE intentions_NN2 are_VBR honorable_JJ and_CC brave_JJ ,_, Katniss_NP1 tries_VVZ to_TO shoot_VVI down_RP his_APPGE rebellious_JJ thoughts_NN2 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   52 When Peeta talks about being an individual , a human , Katniss says , " who cares , Peeta ? " ( 142 ) .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   52 When_CS Peeta_NP1 talks_NN2 about_II being_VBG an_AT1 individual_JJ ,_, a_AT1 human_NN1 ,_, Katniss_NP1 says_VVZ ,_, "_" who_PNQS cares_VVZ ,_, Peeta_NP1 ?_? "_" (_( 142_MC )_) ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    3   53 Katniss does n't care about freedom , just survival so she can live in a mundane dystopia for the rest of her life , while Peeta wants to die so that his people will have a happier free life devoid of oppression .
+SENTPOS 2014_4_101_000_025_1 FINAL B    3   53 Katniss_NN1 does_VDZ n't_XX care_VVI about_II freedom_NN1 ,_, just_JJ@ survival_NN1 so_CS@ she_PPHS1 can_VM live_VVI in_II a_AT1 mundane_JJ dystopia_NN1 for_IF the_AT rest_NN1 of_IO her_APPGE life_NN1 ,_, while_CS Peeta_NP1 wants_VVZ to_TO die_VVI so_CS21 that_CS22 his_APPGE people_NN will_VM have_VHI a_AT1 happier_JJR free_JJ life_NN1 devoid_JJ of_IO oppression_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   54 By looking at the tense argument Katniss has with Peeta on the roof , we can see how Peeta is searching for his identity as a person and how he will act within the arena ; which is important , because this scene shows that Peeta Mellark is the true rebel , not Katniss .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   54 By_II looking_VVG at_II the_AT tense_JJ argument_NN1 Katniss_NN1 has_VHZ with_IW Peeta_NP1 on_II the_AT roof_NN1 ,_, we_PPIS2 can_VM see_VVI how_RRQ Peeta_NP1 is_VBZ searching_VVG for_IF his_APPGE identity_NN1 as_II a_AT1 person_NN1 and_CC how_RRQ he_PPHS1 will_VM act_VVI within_II the_AT arena_NN1 ;_; which_DDQ is_VBZ important_JJ ,_, because_CS this_DD1 scene_NN1 shows_VVZ that_CST Peeta_NP1 Mellark_NP1 is_VBZ the_AT true_JJ rebel_NN1 ,_, not_XX Katniss_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   55 All proof shows that Peeta actually wanted to change the world for the better and revolt against Capitol oppression .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   55 All_DB proof_NN1 shows_VVZ that_CST Peeta_NP1 actually_RR wanted_VVN to_TO change_VVI the_AT world_NN1 for_IF the_AT better_JJR and_CC revolt_NN1 against_II Capitol_NP1 oppression_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   56 Somehow though , Katniss becomes the Mockingjay and the leader of the revolution .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   56 Somehow_RR though_CS ,_, Katniss_NP1 becomes_VVZ the_AT Mockingjay_NN1 and_CC the_AT leader_NN1 of_IO the_AT revolution_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   57 Also , Katniss has to be convinced to be the Mockingjay , because her selfishness makes her want to not have that kind of responsibility .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   57 Also_RR ,_, Katniss_NP1 has_VHZ to_TO be_VBI convinced_VVN@ to_TO be_VBI the_AT Mockingjay_NN1 ,_, because_CS her_APPGE selfishness_NN1 makes_VVZ her_PPHO1 want_VV0 to_TO not_XX have_VHI that_DD1 kind_NN1 of_IO responsibility_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   58 Katniss is seen as the one who starts it all with the berries , but days before the berries the seed of rebellion is planted with Peeta 's decision .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   58 Katniss_NN1 is_VBZ seen_VVN as_II the_AT one_PN1 who_PNQS starts_VVZ it_PPH1 all_DB with_IW the_AT berries_NN2 ,_, but_CCB days_NNT2 before_II the_AT berries_NN2 the_AT seed_NN1 of_IO rebellion_NN1 is_VBZ planted_VVN with_IW Peeta_NP1 's_GE decision_NN1 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   59 This decision to play by his own rules and die for his beliefs is what makes Peeta the true rebel in The Hunger Games .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   59 This_DD1 decision_NN1 to_TO play_VVI by_II his_APPGE own_DA rules_NN2 and_CC die_VVI for_IF his_APPGE beliefs_NN2 is_VBZ what_DDQ makes_VVZ Peeta_NP1 the_AT true_JJ rebel_NN1 in_II The_AT Hunger_NN1 Games_NN2 ._.
+SENTPOS 2014_4_101_000_025_1 FINAL A    4   59  Peeta Mellark is a game changer .
+SENTPOS 2014_4_101_000_025_1 FINAL B    4   59  Peeta_NP1@ Mellark_NP1 is_VBZ a_AT1 game_NN1 changer_NN1 ._.

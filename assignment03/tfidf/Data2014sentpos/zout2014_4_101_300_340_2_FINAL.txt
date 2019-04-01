@@ -1,0 +1,100 @@
+SENTPOS 2014_4_101_300_340_2 FINAL A    0    0 Gustav Klimt was a famous Austrian symbolist painter who has created over 80 paintings , murals , and sketches .
+SENTPOS 2014_4_101_300_340_2 FINAL B    0    0 Gustav_NP1 Klimt_NP1 was_VBDZ a_AT1 famous_JJ Austrian_JJ symbolist_JJ painter_NN1 who_PNQS has_VHZ created_VVN over_RG 80_MC paintings_NN2 ,_, murals_NN2 ,_, and_CC sketches_NN2 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    0    1 His subject of interest was the female body .
+SENTPOS 2014_4_101_300_340_2 FINAL B    0    1 His_APPGE subject_NN1 of_IO interest_NN1 was_VBDZ the_AT female_JJ body_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    0    2 One particular painting named Judith and the Head of Holofernes , also known as Judith I. Many of Klimt 's paintings feature a female heroine with partial or full nudity ( " Biography " ) .
+SENTPOS 2014_4_101_300_340_2 FINAL B    0    2 One_MC1 particular_JJ painting_NN1 named_VVD Judith_NP1 and_CC the_AT Head_NN1 of_IO Holofernes_NP2 ,_, also_RR known_VVN as_II Judith_NP1 I._NP1 Many_DA2 of_IO Klimt_NP1 's_GE paintings_NN2 feature_VV0@ a_AT1 female_JJ heroine_NN1 with_IW partial_JJ or_CC full_JJ nudity_NN1 (_( "_" Biography_NN1 "_" )_) ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    0    3 Ironically , nudity is regularly a dehumanizing feature that takes power away from women but the women that Klimt paints appear powerful despite being nude .
+SENTPOS 2014_4_101_300_340_2 FINAL B    0    3 Ironically_RR ,_, nudity_NN1 is_VBZ regularly_RR a_AT1 dehumanizing_JJ@ feature_NN1 that_CST takes_VVZ power_NN1 away_II21 from_II22 women_NN2 but_CCB the_AT women_NN2 that_CST Klimt_VV0 paints_NN2 appear_VV0 powerful_JJ despite_II being_VBG nude_JJ ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    0    4 Judith I has this unique quality within it , as well as several other signs of power .
+SENTPOS 2014_4_101_300_340_2 FINAL B    0    4 Judith_NP1 I_ZZ1% has_VHZ this_DD1 unique_JJ quality_NN1 within_II it_PPH1 ,_, as_II31 well_II32 as_II33 several_DA2 other_JJ signs_NN2 of_IO power_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    0    5 Klimt demonstrates the power Judith through her physical appearance , depictions of wealth , as well as other small specific details throughout the painting .
+SENTPOS 2014_4_101_300_340_2 FINAL B    0    5 Klimt_NN1 demonstrates_VVZ the_AT power_NN1 Judith_NP1 through_II her_APPGE physical_JJ appearance_NN1 ,_, depictions_NN2 of_IO wealth_NN1 ,_, as_II31 well_II32 as_II33 other_JJ small_JJ specific_JJ details_NN2 throughout_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1    6 The physical appearance of Judith and her physical location on the canvas prove her power in the story that the painting tells .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1    6 The_AT physical_JJ appearance_NN1 of_IO Judith_NP1 and_CC her_APPGE physical_JJ location_NN1 on_II the_AT canvas_NN1 prove_VV0 her_APPGE power_NN1 in_II the_AT story_NN1 that_CST the_AT painting_NN1 tells_VVZ ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1    7 Judith 's face has strong masculine features .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1    7 Judith_NP1 's_GE face_NN1 has_VHZ strong_JJ masculine_JJ features_NN2 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1    8 She has prominent cheekbones and a well-defined nose .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1    8 She_PPHS1 has_VHZ prominent_JJ cheekbones_NN2 and_CC a_AT1 well-defined_JJ nose_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1    9 Features such as these are not commonly attributed femininity because women are supposed to have soft lines and a comforting face .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1    9 Features_NN2 such_II21 as_II22 these_DD2 are_VBR not_XX commonly_RR attributed_VVN femininity_NN1 because_CS women_NN2 are_VBR supposed_JJ to_TO have_VHI soft_JJ lines_NN2 and_CC a_AT1 comforting_JJ face_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   10 Judith is a hero , and a warrior with great power , greater power than men ; therefore she has sharp features and strong expression to attribute to her power .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   10 Judith_NP1 is_VBZ a_AT1 hero_NN1 ,_, and_CC a_AT1 warrior_NN1 with_IW great_JJ power_NN1 ,_, greater_JJR power_NN1 than_CSN men_NN2 ;_; therefore_RR she_PPHS1 has_VHZ sharp_JJ features_NN2 and_CC strong_JJ expression_NN1 to_TO attribute_VVI to_II her_APPGE power_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   11 On the canvas , she is quite literally above man .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   11 On_II the_AT canvas_NN1 ,_, she_PPHS1 is_VBZ quite_RG literally_RR above_II man_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   12 In the far bottom right corner , the head of a man can be seen .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   12 In_II the_AT far_JJ bottom_JJ right_JJ corner_NN1 ,_, the_AT head_NN1 of_IO a_AT1 man_NN1 can_VM be_VBI seen_VVN ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   13 Judith 's hand pushes the head down almost as though she is lifting herself up above him .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   13 Judith_NP1 's_GE hand_NN1 pushes_VVZ the_AT head_NN1 down_RP almost_RR as_CS21 though_CS22 she_PPHS1 is_VBZ lifting_VVG herself_PPX1 up_RP above_II him_PPHO1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   14 Men are generally seen as more powerful and as the decision makers over women , but instead Klimt depicts Judith as on top with her eyes looking down on him ( Klimt ) .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   14 Men_NN2 are_VBR generally_RR seen_VVN as_RG@ more_RGR powerful_JJ and_CC as_II the_AT decision_NN1 makers_NN2 over_II women_NN2 ,_, but_CCB instead_RR Klimt_NP1 depicts_VVZ Judith_NP1 as_CSA on_II top_NN1 with_IW her_APPGE eyes_NN2 looking_VVG down_RP on_II him_PPHO1 (_( Klimt_NP1 )_) ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   15 She holds more power than man based on her location above him .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   15 She_PPHS1 holds_VVZ more_DAR power_NN1 than_CSN man_NN1 based_VVN on_II her_APPGE location_NN1 above_II him_PPHO1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    1   16 The two are on two different levels , both in terms of location and dress .
+SENTPOS 2014_4_101_300_340_2 FINAL B    1   16 The_AT two_MC are_VBR on_II two_MC different_JJ levels_NN2 ,_, both_RR in_II31 terms_II32 of_II33 location_NN1 and_CC dress_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   17 There are certain characteristics that convey power , like wealth .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   17 There_EX are_VBR certain_JJ characteristics_NN2 that_CST convey_VV0 power_NN1 ,_, like_II wealth_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   18 The clothes and jewelry that people wear generally are the best clue about whether people are wealthy or not .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   18 The_AT clothes_NN2 and_CC jewelry_NN1 that_CST people_NN wear_VV0 generally_RR are_VBR the_AT best_JJT clue_NN1 about_II whether_CSW people_NN are_VBR wealthy_JJ or_CC not_XX ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   19 Judith appears in a bright , metallic , green gown that is adorned in a golden pattern , but it has been pulled open to show both the breast and the stomach .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   19 Judith_NP1 appears_VVZ in_II a_AT1 bright_JJ ,_, metallic_JJ ,_, green_JJ gown_NN1 that_CST is_VBZ adorned_VVN in_II a_AT1 golden_JJ pattern_NN1 ,_, but_CCB it_PPH1 has_VHZ been_VBN pulled_VVN open_JJ to_TO show_VVI both_DB2 the_AT breast_NN1 and_CC the_AT stomach_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   20 The material that the gown is made of appears silky in nature .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   20 The_AT material_NN1 that_CST the_AT gown_NN1 is_VBZ made_VVN of_IO appears_VVZ silky_JJ in_II nature_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   21 To accompany her dress , she wears gold bangles around her arm , and a bejeweled chocker around her neck ( Klimt ) .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   21 To_TO accompany_VVI her_APPGE dress_NN1 ,_, she_PPHS1 wears_VVZ gold_NN1 bangles_NN2 around_II her_APPGE arm_NN1 ,_, and_CC a_AT1 bejeweled_JJ@ chocker_NN1 around_II her_APPGE neck_NN1 (_( Klimt_NP1 )_) ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   22 All of these items just exude wealth and money .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   22 All_DB of_IO these_DD2 items_NN2 just_RR exude_VV0 wealth_NN1 and_CC money_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   23 Unlike Judith , the man that appears in this painting shows no sign of wealth .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   23 Unlike_II@ Judith_NP1 ,_, the_AT man_NN1 that_CST appears_VVZ in_II this_DD1 painting_NN1 shows_VVZ no_AT sign_NN1 of_IO wealth_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   24 He appears dark and unclean and his hair is grossly overgrown ( Klimt ) .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   24 He_PPHS1 appears_VVZ dark_JJ and_CC unclean_JJ and_CC his_APPGE hair_NN1 is_VBZ grossly_RR overgrown_VVN (_( Klimt_NP1 )_) ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   25 People of wealth or money have power over those who do not .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   25 People_NN of_IO wealth_NN1 or_CC money_NN1 have_VH0 power_NN1 over_II those_DD2 who_PNQS do_VD0 not_XX ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   26 Therefore , Judith has absolute power over the poor man in the corner .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   26 Therefore_RR ,_, Judith_NP1 has_VHZ absolute_JJ power_NN1 over_II the_AT poor_JJ man_NN1 in_II the_AT corner_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   27 While these main features first lead viewers to the overwhelming theme of power , there are several other underlying features that reflect the theme as well .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   27 While_CS these_DD2 main_JJ features_NN2 first_MD lead_NN1 viewers_NN2 to_II the_AT overwhelming_JJ theme_NN1 of_IO power_NN1 ,_, there_EX are_VBR several_DA2 other_JJ underlying_JJ features_NN2 that_CST reflect_VV0 the_AT theme_NN1 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    2   28 Klimt did not just use big picture features to covey power but rather every inch of the painting .
+SENTPOS 2014_4_101_300_340_2 FINAL B    2   28 Klimt_NP1@ did_VDD not_XX just_RR use_VVI big_JJ picture_NN1 features_NN2 to_II covey_NN1 power_NN1 but_CCB rather_RG every_AT1 inch_NNU1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   29 There are several little details that if looked at closely enough , definitely add to Judith 's power .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   29 There_EX are_VBR several_DA2 little_JJ details_NN2 that_CST if_CS looked_VVN at_II closely_RR enough_RR ,_, definitely_RR add_VV0 to_II Judith_NP1 's_GE power_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   30 The detail that stands out the most out is how Klimt 's color and line choices draw viewers first to Judith and later to the man .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   30 The_AT detail_NN1 that_CST stands_VVZ out_RP the_AT most_RGT out_RP is_VBZ how_RRQ Klimt_NP1 's_GE color_NN1 and_CC line_NN1 choices_NN2 draw_VV0 viewers_NN2 first_MD to_II Judith_NP1 and_CC later_RRR to_II the_AT man_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   31 Judith appears bright and bold , in her skin tone and in her clothing .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   31 Judith_NP1 appears_VVZ bright_JJ and_CC bold_JJ ,_, in_II her_APPGE skin_NN1 tone_NN1 and_CC in_II her_APPGE clothing_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   32 While the man and the woman are of the same ethnicity , Klimt 's use of reds and pale oranges to color Judith , versus the tan and brown used on the man , draws our eyes immediately towards her , leaving him as an afterthought ( Klimt ) .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   32 While_CS the_AT man_NN1 and_CC the_AT woman_NN1 are_VBR of_IO the_AT same_DA ethnicity_NN1 ,_, Klimt_NP1 's_GE use_NN1 of_IO reds_NN2 and_CC pale_JJ oranges_NN2 to_TO color_VVI Judith_NP1 ,_, versus_II the_AT tan_NN1 and_CC brown_JJ used_JJ on_II the_AT man_NN1 ,_, draws_VVZ our_APPGE eyes_NN2 immediately_RR towards_II her_PPHO1 ,_, leaving_VVG him_PPHO1 as_II an_AT1 afterthought_NN1 (_( Klimt_NP1 )_) ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   33 The path Klimt created through hand and eye positioning also leads the viewer the low positioned man .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   33 The_AT path_NN1 Klimt_NN1 created_VVN through_II hand_NN1 and_CC eye_NN1 positioning_VVG also_RR leads_VVZ the_AT viewer_NN1 the_AT low_JJ positioned_JJ@ man_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   34 The first noticeable thing is Judith 's eyes , which are downcast .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   34 The_AT first_MD noticeable_JJ thing_NN1 is_VBZ Judith_NP1 's_GE eyes_NN2 ,_, which_DDQ are_VBR downcast_JJ ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   35 These are seen first because the face attracts the on looker and the eyes being closed is not characteristically seen in a painting of a woman .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   35 These_DD2 are_VBR seen_VVN first_MD because_CS the_AT face_NN1 attracts_VVZ the_AT on_II looker_NN1 and_CC the_AT eyes_NN2 being_VBG closed_VVN is_VBZ not_XX characteristically_RR seen_VVN in_II a_AT1 painting_NN1 of_IO a_AT1 woman_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   36 From there we skip immediately past her open breast to her horizontal arm due to the line created by Judith 's eyes .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   36 From_II there_RL we_PPIS2 skip_VV0 immediately_RR past_II her_APPGE open_JJ breast_NN1 to_II her_APPGE horizontal_JJ arm_NN1 due_II21 to_II22 the_AT line_NN1 created_VVN by_II Judith_NP1 's_GE eyes_NN2 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   37 By following the length of her arm , we finally end up at the man 's head .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   37 By_II following_VVG the_AT length_NN1 of_IO her_APPGE arm_NN1 ,_, we_PPIS2 finally_RR end_VV0 up_RP at_II the_AT man_NN1 's_GE head_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   38 These artistic choices lead to power because Klimt makes Judith the primary subject of the painting by drawing the viewer to her first .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   38 These_DD2 artistic_JJ choices_NN2 lead_VV0 to_II power_NN1 because_CS Klimt_NP1 makes_VVZ Judith_NP1 the_AT primary_JJ subject_NN1 of_IO the_AT painting_NN1 by_II drawing_VVG the_AT viewer_NN1 to_II her_APPGE first_MD ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    3   39 This leaves on lookers to notice the man after the woman has been thoroughly noted and inspected .
+SENTPOS 2014_4_101_300_340_2 FINAL B    3   39 This_DD1 leaves_VVZ on_II lookers_NN2 to_TO notice_VVI the_AT man_NN1 after_II the_AT woman_NN1 has_VHZ been_VBN thoroughly_RR noted_VVN and_CC inspected_VVN ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    4   40 The last main evidence of power within the piece is Klimt 's selective use of detailing .
+SENTPOS 2014_4_101_300_340_2 FINAL B    4   40 The_AT last_MD main_JJ evidence_NN1 of_IO power_NN1 within_II the_AT piece_NN1 is_VBZ Klimt_NP1 's_GE selective_JJ use_NN1 of_IO detailing_VVG ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    4   41 It is clear that Judith her self is wildly detailed through her sharp lines and bright clothes , the man below her is darker and less visible , and the final piece of this painting in the background that they stand before ( Klimt ) .
+SENTPOS 2014_4_101_300_340_2 FINAL B    4   41 It_PPH1 is_VBZ clear_JJ that_CST Judith_NP1 her_APPGE self_NN1 is_VBZ wildly_RR detailed_VVN@ through_II her_APPGE sharp_JJ lines_NN2 and_CC bright_JJ clothes_NN2 ,_, the_AT man_NN1 below_II her_PPHO1 is_VBZ darker_JJR and_CC less_RGR visible_JJ ,_, and_CC the_AT final_JJ piece_NN1 of_IO this_DD1 painting_NN1 in_II the_AT background_NN1 that_CST they_PPHS2 stand_VV0 before_II (_( Klimt_NP1 )_) ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    4   42 The bushes and tree behind them look almost like a quick unfinished sketch that was tossed onto the canvas last minute .
+SENTPOS 2014_4_101_300_340_2 FINAL B    4   42 The_AT bushes_NN2 and_CC tree_NN1 behind_II them_PPHO2 look_VV0 almost_RR like_II a_AT1 quick_JJ unfinished_JJ sketch_NN1 that_CST was_VBDZ tossed_VVN onto_II the_AT canvas_NN1 last_MD minute_NNT1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    4   43 By making the background unimportant and slightly unpleasing to the eye , it draws us yet again back to the subject of the painting , Judith , putting her detail and importance above all else .
+SENTPOS 2014_4_101_300_340_2 FINAL B    4   43 By_II making_VVG the_AT background_NN1 unimportant_JJ and_CC slightly_RR unpleasing_JJ to_II the_AT eye_NN1 ,_, it_PPH1 draws_VVZ us_PPIO2 yet_RR again_RT back_RP to_II the_AT subject_NN1 of_IO the_AT painting_NN1 ,_, Judith_NP1 ,_, putting_VVG her_APPGE detail_NN1 and_CC importance_NN1 above_II all_DB else_RR ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    5   44 The work of art by Gustav Klimt known as Judith and the Head of Holofernes , or Judith I , simply screams power .
+SENTPOS 2014_4_101_300_340_2 FINAL B    5   44 The_AT work_NN1 of_IO art_NN1 by_II Gustav_NP1 Klimt_NP1 known_VVN as_II Judith_NP1 and_CC the_AT Head_NN1 of_IO Holofernes_NP2 ,_, or_CC Judith_NP1 I_ZZ1% ,_, simply_RR screams_VVZ power_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    5   45 Whether its smaller details like that of color choice , or where the eye is drawn , to a much larger feature like Judith 's physical appearance and location on the actual canvas .
+SENTPOS 2014_4_101_300_340_2 FINAL B    5   45 Whether_CSW its_APPGE smaller_JJR details_NN2 like_II that_DD1 of_IO color_NN1 choice_NN1 ,_, or_CC where_CS the_AT eye_NN1 is_VBZ drawn_VVN ,_, to_II a_AT1 much_RR larger_JJR feature_NN1 like_II Judith_NP1 's_GE physical_JJ appearance_NN1 and_CC location_NN1 on_II the_AT actual_JJ canvas_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    5   46 There are so many things about this particular piece that can be picked out to counteract Klimt 's decision to paint her as a partial nude .
+SENTPOS 2014_4_101_300_340_2 FINAL B    5   46 There_EX are_VBR so_RG many_DA2 things_NN2 about_II this_DD1 particular_JJ piece_NN1 that_CST can_VM be_VBI picked_VVN out_RP to_TO counteract_VVI Klimt_NP1 's_GE decision_NN1 to_TO paint_VVI her_PPHO1 as_II a_AT1 partial_JJ nude_JJ ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    5   47 Nudity is a common feature that generally strips a woman of her power and dehumanizes her but instead in this piece it adds to her masculinity .
+SENTPOS 2014_4_101_300_340_2 FINAL B    5   47 Nudity_NN1 is_VBZ a_AT1 common_JJ feature_NN1 that_CST generally_RR strips_VVZ a_AT1 woman_NN1 of_IO her_APPGE power_NN1 and_CC dehumanizes_VVZ her_PPHO1 but_CCB instead_RR in_II this_DD1 piece_NN1 it_PPH1 adds_VVZ to_II her_APPGE masculinity_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    5   48 Everything about Judith puts her on top on man , quite literally , and in terms of importance .
+SENTPOS 2014_4_101_300_340_2 FINAL B    5   48 Everything_PN1 about_II Judith_NP1 puts_VVZ her_PPHO1 on_II top_NN1 on_II man_NN1 ,_, quite_RG literally_RR ,_, and_CC in_II31 terms_II32 of_II33 importance_NN1 ._.
+SENTPOS 2014_4_101_300_340_2 FINAL A    5   48  Judith , in turn , has stripped man of all his power leaving him as a lowly after thought instead of the subject .
+SENTPOS 2014_4_101_300_340_2 FINAL B    5   48  Judith_NP1 ,_, in_II turn_NN1 ,_, has_VHZ stripped_VVN man_NN1 of_IO all_DB his_APPGE power_NN1 leaving_VVG him_PPHO1 as_II a_AT1 lowly_JJ after_CS thought_VVN instead_II21 of_II22 the_AT subject_NN1 ._.

@@ -1,0 +1,116 @@
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    0 " The Rats in the Wall " is a scary story written by H.P.Lovecraft .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    0 "_" The_AT Rats_NN2 in_II the_AT Wall_NN1 "_" is_VBZ a_AT1 scary_JJ story_NN1 written_VVN by_II H.P.Lovecraft_NP1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    1 This story talked about a man who moved in Exham Priory , an old castle .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    1 This_DD1 story_NN1 talked_VVN about_II a_AT1 man_NN1 who_PNQS moved_VVD in_II Exham_NP1 Priory_NN1 ,_, an_AT1 old_JJ castle_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    2 His ancestors owned this castle .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    2 His_APPGE ancestors_NN2 owned_VVD this_DD1 castle_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    3 His ancestors were barons before .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    3 His_APPGE ancestors_NN2 were_VBDR barons_NN2 before_RT ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    4 He found some rumors about his family that his ancestors was crazy .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    4 He_PPHS1 found_VVD some_DD rumors_NN2 about_II his_APPGE family_NN1 that_CST his_APPGE ancestors_NN2 was_VBDZ crazy_JJ ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    5 They were called " de la Poer " which means " Cursed of God " .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    5 They_PPHS2 were_VBDR called_VVN "_" de_FW la_FW Poer_VV0 "_" which_DDQ means_VVZ "_" Cursed_VVN of_IO God_NP1 "_" ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    6 Many People who live close to the castle disappeared during that time .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    6 Many_DA2 People_NN who_PNQS live_VV0 close_RR to_II the_AT castle_NN1 disappeared_VVD during_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    7 His ancestors also had a bloody case .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    7 His_APPGE ancestors_NN2 also_RR had_VHN@ a_AT1 bloody_JJ case_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    8 One of the family members killed the barons and their direct heirs .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    8 One_MC1 of_IO the_AT family_NN1 members_NN2 killed_VVD the_AT barons_NN2 and_CC their_APPGE direct_JJ heirs_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0    9 The main character did not think these things were true , so he moved into the castle .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0    9 The_AT main_JJ character_NN1 did_VDD not_XX think_VVI these_DD2 things_NN2 were_VBDR true_JJ ,_, so_CS@ he_PPHS1 moved_VVD into_II the_AT castle_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   10 During the night , he heard strange noise came from the wall , and he saw his cats stay awake to look for something .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   10 During_II the_AT night_NNT1 ,_, he_PPHS1 heard_VVD strange_JJ noise_NN1 came_VVD from_II the_AT wall_NN1 ,_, and_CC he_PPHS1 saw_VVD his_APPGE cats_NN2 stay_VVI awake_JJ to_TO look_VVI for_IF something_PN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   11 This noise districted him and made him can not sleep .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   11 This_DD1 noise_NN1 districted_VVD him_PPHO1 and_CC made_VVD him_PPHO1 can_VM not_XX sleep_VVI ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   12 He invited his friends to come and search for the reason .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   12 He_PPHS1 invited_VVD his_APPGE friends_NN2 to_TO come_VVI and_CC search_VVI for_IF the_AT reason_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   13 They guessed the rats made the sound .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   13 They_PPHS2 guessed_VVD the_AT rats_NN2 made_VVD the_AT sound_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   14 After a long time search , they found the basement and bloody truth , that his ancestors bred human like animals and ate human .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   14 After_CS a_AT1 long_JJ time_NNT1 search_NN1 ,_, they_PPHS2 found_VVD the_AT basement_NN1 and_CC bloody_JJ truth_NN1 ,_, that_CST his_APPGE ancestors_NN2 bred_VVD human_NN1 like_II animals_NN2 and_CC ate_VVD human_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   15 His friend disappeared during the way .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   15 His_APPGE friend_NN1 disappeared_VVD during_II the_AT way_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   16 When he was leaving , something influenced his mind and made him lose control for at least three hours .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   16 When_CS he_PPHS1 was_VBDZ leaving_VVG ,_, something_PN1 influenced_VVD@ his_APPGE mind_NN1 and_CC made_VVD him_PPHO1 lose_VVI control_NN1 for_IF at_RR21 least_RR22 three_MC hours_NNT2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   17 People found him later when he was in his friend 's half-eaten body .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   17 People_NN found_VVD him_PPHO1 later_JJR when_CS he_PPHS1 was_VBDZ in_II his_APPGE friend_NN1 's_GE half-eaten_JJ body_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   18 He was caught and sent into Hanwell , a place use to prison crazy people .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   18 He_PPHS1 was_VBDZ caught_VVN and_CC sent_VVN into_II Hanwell_NP1 ,_, a_AT1 place_NN1 use_NN1 to_II prison_NN1 crazy_JJ people_NN ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    0   19 In this story , Lovecraft used several points to make this story become scary and interesting .
+SENTPOS 2014_4_101_500_502_1 FINAL B    0   19 In_II this_DD1 story_NN1 ,_, Lovecraft_NP1 used_VVD several_DA2 points_NN2 to_TO make_VVI this_DD1 story_NN1 become_VVI scary_JJ and_CC interesting_JJ ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    1   20 Firstly , Lovecraft used first person perspective to show the fear of main character .
+SENTPOS 2014_4_101_500_502_1 FINAL B    1   20 Firstly_RR ,_, Lovecraft_NP1 used_VVD first_MD person_NN1 perspective_NN1 to_TO show_VVI the_AT fear_NN1 of_IO main_JJ character_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    1   21 He used a lot of detail to describe how scary the main character was , such as how the man thought about the strange things .
+SENTPOS 2014_4_101_500_502_1 FINAL B    1   21 He_PPHS1 used_VVD a_AT1 lot_NN1 of_IO detail_NN1 to_TO describe_VVI how_RGQ@ scary_JJ the_AT main_JJ character_NN1 was_VBDZ ,_, such_II21 as_II22 how_RRQ the_AT man_NN1 thought_VVN about_II the_AT strange_JJ things_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    1   22 The man 's feeling was described clearly by Lovecraft .
+SENTPOS 2014_4_101_500_502_1 FINAL B    1   22 The_AT man_NN1 's_GE feeling_NN1 was_VBDZ described_VVN clearly_RR by_II Lovecraft_NP1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    2   23 " As I descended the stairs myself , I became suddenly aware of sounds in the great room below ; sounds of a nature which could not be mistaken .
+SENTPOS 2014_4_101_500_502_1 FINAL B    2   23 "_" As_CSA I_PPIS1 descended_VVD the_AT stairs_NN2 myself_PPX1 ,_, I_PPIS1 became_VVD suddenly_RR aware_JJ of_IO sounds_NN2 in_II the_AT great_JJ room_NN1 below_RL ;_; sounds_NN2 of_IO a_AT1 nature_NN1 which_DDQ could_VM not_XX be_VBI mistaken_VVN ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    2   24 The oak-panelled walls were alive with rats , scampering and milling , whilst Nigger-Man was racing about with the fury of buffed hunter .
+SENTPOS 2014_4_101_500_502_1 FINAL B    2   24 The_AT oak-panelled_JJ walls_NN2 were_VBDR alive_JJ with_IW rats_NN2 ,_, scampering_VVG and_CC milling_NN1 ,_, whilst_CS Nigger-Man_NP1 was_VBDZ racing_VVG about_RP@ with_IW the_AT fury_NN1 of_IO buffed_JJ@ hunter_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    2   25 Reaching the bottom , I switched on the light , which did not this time cause the noise to subside .
+SENTPOS 2014_4_101_500_502_1 FINAL B    2   25 Reaching_VVG the_AT bottom_NN1 ,_, I_PPIS1 switched_VVD on_RP the_AT light_NN1 ,_, which_DDQ did_VDD not_XX this_DD1 time_NNT1 cause_VVI the_AT noise_NN1 to_TO subside_VVI ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    2   26 The rats continued their rat , stampeding with such force and distinctness that I could finally assign to their motions a definite direction .
+SENTPOS 2014_4_101_500_502_1 FINAL B    2   26 The_AT rats_NN2 continued_VVD their_APPGE rat_NN1 ,_, stampeding_VVG with_IW such_DA force_NN1 and_CC distinctness_NN1 that_CST I_PPIS1 could_VM finally_RR assign_VVI to_II their_APPGE motions_NN2 a_AT1 definite_JJ direction_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    2   27 These creatures , in numbers apparently inexhaustible , were engaged in one stupendous migration from inconceivable heights to some depth conceivably , or inconceivably , below . "
+SENTPOS 2014_4_101_500_502_1 FINAL B    2   27 These_DD2 creatures_NN2 ,_, in_II numbers_NN2 apparently_RR inexhaustible_JJ ,_, were_VBDR engaged_VVN in_II one_MC1 stupendous_JJ migration_NN1 from_II inconceivable_JJ heights_NN2 to_II some_DD depth_NN1 conceivably_RR ,_, or_CC inconceivably_RR ,_, below_RL ._. "_"
+SENTPOS 2014_4_101_500_502_1 FINAL A    3   28 ( Lovecraft p37 ) In this paragraph , the first person perspective makes the reader to experience these feelings which the narrator had , to imagine that fearful environment , and to think about how the sound of rats stimulate the narrator 's mind .
+SENTPOS 2014_4_101_500_502_1 FINAL B    3   28 (_( Lovecraft_VV0 p37_FO )_) In_II this_DD1 paragraph_NN1 ,_, the_AT first_MD person_NN1 perspective_NN1 makes_VVZ the_AT reader_NN1 to_TO experience_VVI these_DD2 feelings_NN2 which_DDQ the_AT narrator_NN1 had_VHD ,_, to_TO imagine_VVI that_DD1 fearful_JJ environment_NN1 ,_, and_CC to_TO think_VVI about_II how_RRQ the_AT sound_NN1 of_IO rats_NN2 stimulate_VV0 the_AT narrator_NN1 's_GE mind_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    3   29 It forces the reader to move into this situation and feel the crazy moving what these rats did .
+SENTPOS 2014_4_101_500_502_1 FINAL B    3   29 It_PPH1 forces_VVZ@ the_AT reader_NN1 to_TO move_VVI into_II this_DD1 situation_NN1 and_CC feel_VVI the_AT crazy_JJ moving_NN1@ what_DDQ these_DD2 rats_NN2 did_VDD ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    4   30 The second point is that Lovecraft used some historic things to set some small point for reader , and use it to attract readers .
+SENTPOS 2014_4_101_500_502_1 FINAL B    4   30 The_AT second_MD point_NN1 is_VBZ that_CST Lovecraft_NP1 used_VVD some_DD historic_JJ things_NN2 to_TO set_VVI some_DD small_JJ point_NN1 for_IF reader_NN1 ,_, and_CC use_VV0 it_PPH1 to_TO attract_VVI readers_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    4   31 He built this dramatic castle , and connected the clue with unexpected truth .
+SENTPOS 2014_4_101_500_502_1 FINAL B    4   31 He_PPHS1 built_VVD this_DD1 dramatic_JJ castle_NN1 ,_, and_CC connected_VVD@ the_AT clue_NN1 with_IW unexpected_JJ truth_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    4   32 At the beginning , he introduced the castle 's outlook .
+SENTPOS 2014_4_101_500_502_1 FINAL B    4   32 At_II the_AT beginning_NN1 ,_, he_PPHS1 introduced_VVD the_AT castle_NN1 's_GE outlook_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    5   33 " Exham Priory had remained untenanted , through later allotted to the estates of the Norrys family and much studied because of its peculiar composite architecture ; an architecture involving Gothic towers resting on a Saxon or Romanesque substructure , whose foundation in turn was of a still earlier order or blend of orders----Roman , and even Druidic or native Cymric , if legends speak truly . "
+SENTPOS 2014_4_101_500_502_1 FINAL B    5   33 "_" Exham_NN1 Priory_NN1 had_VHD remained_VVN untenanted_JJ ,_, through_II later_RRR allotted_VVN to_II the_AT estates_NN2 of_IO the_AT Norrys_NP1 family_NN1 and_CC much_RR studied_VVN because_II21 of_II22 its_APPGE peculiar_JJ composite_JJ architecture_NN1 ;_; an_AT1 architecture_NN1 involving_VVG Gothic_JJ towers_NN2 resting_VVG on_II a_AT1 Saxon_NN1 or_CC Romanesque_JJ substructure_NN1 ,_, whose_DDQGE foundation_NN1 in_II turn_NN1 was_VBDZ of_IO a_AT1 still_RR earlier_JJR order_NN1 or_CC blend_NN1 of_IO orders----Roman_NN2 ,_, and_CC even_RR Druidic_JJ or_CC native_JJ Cymric_NP1 ,_, if_CS legends_NN2 speak_VV0 truly_RR ._. "_"
+SENTPOS 2014_4_101_500_502_1 FINAL A    5   34 ( Lovecraft p31 ) The castle 's outlook is an important clue in this story , because it reveals the background and timeline .
+SENTPOS 2014_4_101_500_502_1 FINAL B    5   34 (_( Lovecraft_VV0 p31_FO )_) The_AT castle_NN1 's_GE outlook_NN1 is_VBZ an_AT1 important_JJ clue_NN1 in_II this_DD1 story_NN1 ,_, because_CS it_PPH1 reveals_VVZ the_AT background_NN1 and_CC timeline_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    5   35 It also connects with the things what the main character found at last .
+SENTPOS 2014_4_101_500_502_1 FINAL B    5   35 It_PPH1 also_RR connects_VVZ with_IW the_AT things_NN2 what_DDQ the_AT main_JJ character_NN1 found_VVD at_RR21 last_RR22 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    6   36 " It was a twilit grotto of enormous height , stretching away farther than any eye could see ; a subterraneous world of limitless mystery and horrible suggestion .
+SENTPOS 2014_4_101_500_502_1 FINAL B    6   36 "_" It_PPH1 was_VBDZ a_AT1 twilit_JJ grotto_NN1 of_IO enormous_JJ height_NN1 ,_, stretching_VVG away_RL farther_RRR than_CSN any_DD eye_NN1 could_VM see_VVI ;_; a_AT1 subterraneous_JJ world_NN1 of_IO limitless_JJ mystery_NN1 and_CC horrible_JJ suggestion_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    6   37 There were buildings and other architectural remains----in one terrified glance I saw a weird pattern of tumuli , a savage circle of monoliths , a low domed Roman ruin , a sprawling Saxon pile , and an early English edifice of wood----but all these were dwarfed by the ghoulish spectacle presented by the general surface of the ground . "
+SENTPOS 2014_4_101_500_502_1 FINAL B    6   37 There_EX were_VBDR buildings_NN2 and_CC other_JJ architectural_JJ remains----in_NN2 one_MC1 terrified_JJ glance_NN1 I_PPIS1 saw_VVD a_AT1 weird_JJ pattern_NN1 of_IO tumuli_NN2 ,_, a_AT1 savage_JJ circle_NN1 of_IO monoliths_NN2 ,_, a_AT1 low_JJ domed_JJ@ Roman_JJ ruin_NN1 ,_, a_AT1 sprawling_JJ Saxon_JJ pile_NN1 ,_, and_CC an_AT1 early_JJ English_JJ edifice_NN1 of_IO wood----but_CCB all_DB these_DD2 were_VBDR dwarfed_VVN by_II the_AT ghoulish_JJ spectacle_NN1 presented_VVN by_II the_AT general_JJ surface_NN1 of_IO the_AT ground_NN1 ._. "_"
+SENTPOS 2014_4_101_500_502_1 FINAL A    6   38 ( Lovecraft p42 ) The connection between the historic detail at beginning and the old ruin at last is an interesting point to draw the reader 's attention .
+SENTPOS 2014_4_101_500_502_1 FINAL B    6   38 (_( Lovecraft_VV0 p42_FO )_) The_AT connection_NN1 between_II the_AT historic_JJ detail_NN1 at_II beginning_NN1 and_CC the_AT old_JJ ruin_NN1 at_RR21 last_RR22 is_VBZ an_AT1 interesting_JJ point_NN1 to_TO draw_VVI the_AT reader_NN1 's_GE attention_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    6   39 The short introduction of castle leads the reader to find the conclusion .
+SENTPOS 2014_4_101_500_502_1 FINAL B    6   39 The_AT short_JJ introduction_NN1 of_IO castle_NN1 leads_VVZ the_AT reader_NN1 to_TO find_VVI the_AT conclusion_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    6   40 The small point at first become an awesome answer at last .
+SENTPOS 2014_4_101_500_502_1 FINAL B    6   40 The_AT small_JJ point_NN1 at_RR21 first_RR22 become_VV0 an_AT1 awesome_JJ answer_NN1 at_RR21 last_RR22 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   41 The third point is that the story has some supernatural things .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   41 The_AT third_MD point_NN1 is_VBZ that_CST the_AT story_NN1 has_VHZ some_DD supernatural_JJ things_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   42 Human are always interested in things that they can not see in the real world .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   42 Human_NN1 are_VBR always_RR interested_JJ in_II things_NN2 that_CST they_PPHS2 can_VM not_XX see_VVI in_II the_AT real_JJ world_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   43 In this story , the narrator 's cat , Nigger-man , is the supernatural creature .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   43 In_II this_DD1 story_NN1 ,_, the_AT narrator_NN1 's_GE cat_NN1 ,_, Nigger-man_NN1 ,_, is_VBZ the_AT supernatural_JJ creature_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   44 It is another creature who realizes these strange noise in the castle .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   44 It_PPH1 is_VBZ another_DD1 creature_NN1 who_PNQS realizes_VVZ these_DD2 strange_JJ noise_NN1 in_II the_AT castle_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   45 This cat is a sign which shows the noise appear .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   45 This_DD1 cat_NN1 is_VBZ a_AT1 sign_NN1 which_DDQ shows_VVZ the_AT noise_NN1 appear_VV0 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   46 The cats realize the noise even faster than the narrator does .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   46 The_AT cats_NN2 realize_VV0 the_AT noise_NN1 even_RR faster_RRR than_CSN the_AT narrator_NN1 does_VDZ ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    7   47 In the story , the narrator wake up one time , and watches his cat to make sure of the noise .
+SENTPOS 2014_4_101_500_502_1 FINAL B    7   47 In_II the_AT story_NN1 ,_, the_AT narrator_NN1 wake_VV0 up_RP one_MC1 time_NNT1 ,_, and_CC watches_VVZ his_APPGE cat_NN1 to_TO make_VVI sure_JJ of_IO the_AT noise_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   48 " From this terrific vision I was abruptly awaked by the motion of Nigger-man , who had been sleeping as usual across my feet .
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   48 "_" From_II this_DD1 terrific_JJ vision_NN1 I_PPIS1 was_VBDZ abruptly_RR awaked_VVN by_II the_AT motion_NN1 of_IO Nigger-man_NN1 ,_, who_PNQS had_VHD been_VBN sleeping_VVG as_RR21 usual_RR22 across_II my_APPGE feet_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   49 This time I did not have to question the source of his snarls and hisses , and of the fear which made him sink his claws into my ankle , unconscious of their effect ; for on every side of the chamber the walls were alive with nauseous sound----the verminous slithering of ravenous , gigantic rats . "
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   49 This_DD1 time_NNT1 I_PPIS1 did_VDD not_XX have_VHI to_TO question_VVI the_AT source_NN1 of_IO his_APPGE snarls_NN2 and_CC hisses_NN2 ,_, and_CC of_IO the_AT fear_NN1 which_DDQ made_VVD him_PPHO1 sink_VVI his_APPGE claws_NN2 into_II my_APPGE ankle_NN1 ,_, unconscious_JJ of_IO their_APPGE effect_NN1 ;_; for_IF on_II every_AT1 side_NN1 of_IO the_AT chamber_NN1 the_AT walls_NN2 were_VBDR alive_JJ with_IW nauseous_JJ sound----the_AT verminous_JJ slithering_JJ of_IO ravenous_JJ ,_, gigantic_JJ rats_NN2 ._. "_"
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   50 ( Lovecraft p37 ) It also stays with the narrator in the whole story .
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   50 (_( Lovecraft_VV0 p37_FO )_) It_PPH1 also_RR stays_VVZ with_IW the_AT narrator_NN1 in_II the_AT whole_JJ story_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   51 The narrator 's friend , Norry , asked him to watch Nigger-man .
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   51 The_AT narrator_NN1 's_GE friend_NN1 ,_, Norry_NP1 ,_, asked_VVD him_PPHO1 to_TO watch_VVI Nigger-man_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   52 The narrator questioned himself in the story , " why did he urge me to watch Nigger-man and listen to the cats outside , and why did he guess wildly and vaguely at what could aroused them ?
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   52 The_AT narrator_NN1 questioned_VVD himself_PPX1 in_II the_AT story_NN1 ,_, "_" why_RRQ did_VDD he_PPHS1 urge_VVI me_PPIO1 to_TO watch_VVI Nigger-man_JJ and_CC listen_VVI to_II the_AT cats_NN2 outside_RL ,_, and_CC why_RRQ did_VDD he_PPHS1 guess_VVI wildly_RR and_CC vaguely_RR at_II what_DDQ could_VM aroused_VVD them_PPHO2 ?_?
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   53 ( Lovecraft p39 ) " This question shows the supernatural power in this story .
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   53 (_( Lovecraft_VV0 p39_FO )_) "_" This_DD1 question_NN1 shows_VVZ the_AT supernatural_JJ power_NN1 in_II this_DD1 story_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    8   54 We will think how this cat can influence this mission .
+SENTPOS 2014_4_101_500_502_1 FINAL B    8   54 We_PPIS2 will_VM think_VVI how_RRQ this_DD1 cat_NN1 can_VM influence_VVI this_DD1 mission_NN1 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    9   55 " The Rats in the Wall " attracts people by many things .
+SENTPOS 2014_4_101_500_502_1 FINAL B    9   55 "_" The_AT Rats_NN2 in_II the_AT Wall_NN1 "_" attracts_VVZ people_NN by_II many_DA2 things_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    9   56 First person angle , historic details , and supernatural things are just part of these things .
+SENTPOS 2014_4_101_500_502_1 FINAL B    9   56 First_MD person_NN1 angle_NN1 ,_, historic_JJ details_NN2 ,_, and_CC supernatural_JJ things_NN2 are_VBR just_JJ@ part_NN1 of_IO these_DD2 things_NN2 ._.
+SENTPOS 2014_4_101_500_502_1 FINAL A    9   56  It also has other point to draw the reader 's attention .
+SENTPOS 2014_4_101_500_502_1 FINAL B    9   56  It_PPH1 also_RR has_VHZ other_JJ point_NN1 to_TO draw_VVI the_AT reader_NN1 's_GE attention_NN1 ._.

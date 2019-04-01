@@ -1,0 +1,2 @@
+python tfidf.py ../../SourceText/Datastudent/Data2014sentpos/2014_4_101_400.sentpos zout.txt zlog.txt
+

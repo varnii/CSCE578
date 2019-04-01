@@ -1,0 +1,158 @@
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    0 Barbie Doll is a powerful poem for the American poet Marge Piercy .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    0 Barbie_NP1 Doll_NN1 is_VBZ a_AT1 powerful_JJ poem_NN1 for_IF the_AT American_JJ poet_NN1 Marge_NP1 Piercy_NP1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    1 Barbie Doll was written at a time that second-wave feminism in America was taking place obviously .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    1 Barbie_NP1 Doll_NN1 was_VBDZ written_VVN at_II a_AT1 time_NNT1 that_CST second-wave_JJ feminism_NN1 in_II America_NP1 was_VBDZ taking_VVG place_NN1 obviously_RR ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    2 Piercy was a very active woman in the society aspects , especially , women movements .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    2 Piercy_NP1 was_VBDZ a_AT1 very_RG active_JJ woman_NN1 in_II the_AT society_NN1 aspects_NN2 ,_, especially_RR ,_, women_NN2 movements_NN2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    3 When Piercy 's Barbie Doll first published , it had seen as a result of the feminism that was dominant at that time , it talks about an ordinary girl being asked to play with dolls and to act in specific ways in order to please others or to be acceptable in the society .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    3 When_CS Piercy_NP1 's_GE Barbie_NP1 Doll_NN1 first_MD published_VVD ,_, it_PPH1 had_VHD seen_VVN as_II a_AT1 result_NN1 of_IO the_AT feminism_NN1 that_CST was_VBDZ dominant_JJ at_II that_DD1 time_NNT1 ,_, it_PPH1 talks_VVZ@ about_II an_AT1 ordinary_JJ girl_NN1 being_VBG asked_VVN@ to_TO play_VVI with_IW dolls_NN2 and_CC to_TO act_VVI in_II specific_JJ ways_NN2 in_BCL21 order_BCL22 to_TO please_VVI others_NN2 or_CC to_TO be_VBI acceptable_JJ in_II the_AT society_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    4 In addition , it shows many symbols that reflect feminism manifestations in the society .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    4 In_RR21 addition_RR22 ,_, it_PPH1 shows_VVZ many_DA2 symbols_NN2 that_CST reflect_VV0 feminism_NN1 manifestations_NN2 in_II the_AT society_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    5 In The Carolina Reader , the writer said clearly : " Although " Barbie Doll " might be understood as a product of 1970s feminism , " ( Piercy 194 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    5 In_II The_AT Carolina_NP1 Reader_NN1 ,_, the_AT writer_NN1 said_VVD clearly_RR :_: "_" Although_CS "_" Barbie_NP1 Doll_NN1 "_" might_VM be_VBI understood_VVN as_II a_AT1 product_NN1 of_IO 1970s_MC2 feminism_NN1 ,_, "_" (_( Piercy_NP1 194_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    6 Also , the acquaintance of historical period in which a text had written might inspire the reader to know what is the writer means and what is he trying to show through his text .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    6 Also_RR ,_, the_AT acquaintance_NN1 of_IO historical_JJ period_NN1 in_II which_DDQ a_AT1 text_NN1 had_VHD written_VVN might_VM inspire_VVI the_AT reader_NN1 to_TO know_VVI what_DDQ is_VBZ the_AT writer_NN1 means_NN and_CC what_DDQ is_VBZ he_PPHS1 trying_VVG to_TO show_VVI through_II his_APPGE text_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    0    7 Thus , it will shape your reading of the text and change the idea that the reader thinks about the text .
+SENTPOS 2014_4_101_500_554_3 FINAL B    0    7 Thus_RR ,_, it_PPH1 will_VM shape_VVI your_APPGE reading_NN1 of_IO the_AT text_NN1 and_CC change_VV0 the_AT idea_NN1 that_CST the_AT reader_NN1 thinks_VVZ about_II the_AT text_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1    8 Firstly , The United States of America suffered from a lack of feminism since the beginning of the 19th century ; women were treated harshly and inhumanely because they were have few rights ; and the majority of rights were against them .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1    8 Firstly_RR ,_, The_AT United_NP1 States_NP1 of_IO America_NP1 suffered_VVD from_II a_AT1 lack_NN1 of_IO feminism_NN1 since_CS the_AT beginning_NN1 of_IO the_AT 19th_MD century_NNT1 ;_; women_NN2 were_VBDR treated_VVN harshly_RR and_CC inhumanely_RR because_CS they_PPHS2 were_VBDR have_VH0 few_DA2 rights_NN2 ;_; and_CC the_AT majority_NN1 of_IO rights_NN2 were_VBDR against_II them_PPHO2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1    9 Since Barbie Doll appeared in the second-wave feminism , it shows some of the values that have changed from the first-wave and the values that remained .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1    9 Since_CS Barbie_NP1 Doll_NN1 appeared_VVD in_II the_AT second-wave_JJ feminism_NN1 ,_, it_PPH1 shows_VVZ some_DD of_IO the_AT values_NN2 that_CST have_VH0 changed_VVN from_II the_AT first-wave_NN1 and_CC the_AT values_NN2 that_CST remained_VVD ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   10 In a research tilted " Lunacy in the 19th Century : Women 's admission to Asylums in United States of America " written by both Dr. Katherine Pouba and Dr. Ashley Tianen , it is said in the research that women faced harassments about their bodies and shapes .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   10 In_II a_AT1 research_NN1 tilted_VVD "_" Lunacy_NN1 in_II the_AT 19th_MD Century_NNT1 :_: Women_NN2 's_GE admission_NN1 to_II Asylums_NN2 in_II United_NP1 States_NP1 of_IO America_NP1 "_" written_VVN by_II both_RR Dr._NNB Katherine_NP1 Pouba_NP1 and_CC Dr._NNB Ashley_NP1 Tianen_NP1 ,_, it_PPH1 is_VBZ said_VVN@ in_II the_AT research_NN1 that_CST women_NN2 faced_VVD harassments_NN2 about_II their_APPGE bodies_NN2 and_CC shapes_NN2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   11 In addition , they were subject to asylums and mental institutions if they behave in ways the men do not like .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   11 In_RR21 addition_RR22 ,_, they_PPHS2 were_VBDR subject_II21 to_II22 asylums_NN2 and_CC mental_JJ institutions_NN2 if_CS they_PPHS2 behave_VV0 in_II ways_NN2 the_AT men_NN2 do_VD0 not_XX like_VVI ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   12 Furthermore , there are symptoms that if a woman had it considered abnormal or insane .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   12 Furthermore_RR ,_, there_EX are_VBR symptoms_NN2 that_CST if_CS a_AT1 woman_NN1 had_VHD it_PPH1 considered_VVN abnormal_JJ or_CC insane_JJ ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   13 For example : the sadness and depression due to beloved one death , the using of offensive , insulting , and vulgar language , and lacking of menstrual cycle .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   13 For_REX21 example_REX22 :_: the_AT sadness_NN1 and_CC depression_NN1 due_II21 to_II22 beloved_JJ one_MC1 death_NN1 ,_, the_AT using_NN1 of_IO offensive_JJ ,_, insulting_JJ ,_, and_CC vulgar_JJ language_NN1 ,_, and_CC lacking_VVG of_IO menstrual_JJ cycle_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   14 Not only these symptoms , but also official diagnoses such as neurological disorder what known as epilepsy and nymphomania were reasons for admitting women into mental institutions ( Pouba , and Tianen 95-96 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   14 Not_XX only_RR these_DD2 symptoms_NN2 ,_, but_CCB also_RR official_JJ diagnoses_NN2 such_II21 as_II22 neurological_JJ disorder_NN1 what_DDQ known_VVN as_II epilepsy_NN1 and_CC nymphomania_NN1 were_VBDR reasons_NN2 for_IF admitting_JJ women_NN2 into_II mental_JJ institutions_NN2 (_( Pouba_NP1 ,_, and_CC Tianen_NP1 95-96_MCMC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   15 We notice that there is no trace of such these symptoms in Barbie Doll ; first-wave feminism has gone .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   15 We_PPIS2 notice_VV0 that_CST there_EX is_VBZ no_AT trace_NN1 of_IO such_DA these_DD2 symptoms_NN2 in_II Barbie_NP1 Doll_NN1 ;_; first-wave_JJ feminism_NN1 has_VHZ gone_VVN ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   16 Barbie Doll reflects the miniature second-wave feminism that took place in the late 20th century .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   16 Barbie_NP1 Doll_NN1 reflects_VVZ the_AT miniature_JJ second-wave_JJ feminism_NN1 that_CST took_VVD place_NN1 in_II the_AT late_JJ 20th_MD century_NNT1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   17 On the contrary , in the both two eras , 19th and 20th century , women did not get their rights to live simply free live .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   17 On_II the_AT contrary_NN1 ,_, in_II the_AT both_RR two_MC eras_NN2 ,_, 19th_MD and_CC 20th_MD century_NNT1 ,_, women_NN2 did_VDD not_XX get_VVI their_APPGE rights_NN2 to_TO live_VVI simply_RR free_JJ live_JJ ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   18 They have small rights just in marriage and working , man can place a woman as his slave .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   18 They_PPHS2 have_VH0 small_JJ rights_NN2 just_RR in_II marriage_NN1 and_CC working_VVG ,_, man_NN1 can_VM place_VVI a_AT1 woman_NN1 as_CSA his_APPGE slave_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   19 Nevertheless , in marriage statues , Katherine Pouba and Ashley Tianen wrote : " Males were more likely to marry solely for their own personal gratification or for the women 's reproduction abilities . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   19 Nevertheless_RR ,_, in_II marriage_NN1 statues_NN2 ,_, Katherine_NP1 Pouba_NP1 and_CC Ashley_NP1 Tianen_NP1 wrote_VVD :_: "_" Males_NN2 were_VBDR more_RGR likely_JJ to_TO marry_VVI solely_RR for_IF their_APPGE own_DA personal_JJ gratification_NN1 or_CC for_IF the_AT women_NN2 's_GE reproduction_NN1 abilities_NN2 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   20 ( Pouba , and Tianen 97 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   20 (_( Pouba_NN1 ,_, and_CC Tianen_NP1 97_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   21 Also they gave an example of how a young girl would be treated when first time married by using a one source and they explained briefly that a young girl without any experience or idea when you gave her to a man he will be amorous and jealous and he aims to destroy her innocence and her affections to separate her from the world and even from her mother .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   21 Also_RR they_PPHS2 gave_VVD an_AT1 example_NN1 of_IO how_RRQ a_AT1 young_JJ girl_NN1 would_VM be_VBI treated_VVN when_CS first_MD time_NNT1 married_VVN by_II using_VVG a_AT1 one_MC1 source_NN1 and_CC they_PPHS2 explained_VVD briefly_RR that_CST a_AT1 young_JJ girl_NN1 without_IW any_DD experience_NN1 or_CC idea_NN1 when_CS you_PPY gave_VVD her_PPHO1 to_II a_AT1 man_NN1 he_PPHS1 will_VM be_VBI amorous_JJ and_CC jealous_JJ and_CC he_PPHS1 aims_VVZ to_TO destroy_VVI her_APPGE innocence_NN1 and_CC her_APPGE affections_NN2 to_TO separate_VVI her_PPHO1 from_II the_AT world_NN1 and_CC even_RR from_II her_APPGE mother_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   22 Katherine Pouba and Ashley Tianen commented on this example and they said that this example shows " How the wife 's sole purpose was to please the man .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   22 Katherine_NP1 Pouba_NP1 and_CC Ashley_NP1 Tianen_NP1 commented_VVD on_II this_DD1 example_NN1 and_CC they_PPHS2 said_VVD that_CST this_DD1 example_NN1 shows_VVZ "_" How_RRQ the_AT wife_NN1 's_GE sole_JJ purpose_NN1 was_VBDZ to_TO please_VVI the_AT man_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   23 The role of a woman once she was married went from the role of an individual to her husband 's possession . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   23 The_AT role_NN1 of_IO a_AT1 woman_NN1 once_CS@ she_PPHS1 was_VBDZ married_JJ went_VVD from_II the_AT role_NN1 of_IO an_AT1 individual_NN1 to_II her_APPGE husband_NN1 's_GE possession_NN1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   24 ( Pouba , and Tianen 97 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   24 (_( Pouba_NN1 ,_, and_CC Tianen_NP1 97_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   25 Similar to Barbie Doll , the male society is looking at women 's charms .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   25 Similar_JJ to_II Barbie_NP1 Doll_NN1 ,_, the_AT male_JJ society_NN1 is_VBZ looking_VVG at_II women_NN2 's_GE charms_NN2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   26 Piercy said : " You have a great big nose and fat legs .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   26 Piercy_NP1 said_VVD :_: "_" You_PPY have_VH0 a_AT1 great_JJ big_JJ nose_NN1 and_CC fat_JJ legs_NN2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   27 / She was healthy , tested intelligent , / Possessed strong arms and back , / abundant sexual drive and manual dexterity . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   27 /_FO She_PPHS1 was_VBDZ healthy_JJ ,_, tested_VVD intelligent_JJ ,_, /_FO Possessed_VVN strong_JJ arms_NN2 and_CC back_NN1 ,_, /_FO abundant_JJ sexual_JJ drive_NN1 and_CC manual_JJ dexterity_NN1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   28 ( Piercy 194 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   28 (_( Piercy_NP1 194_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   29 This is obvious that the society looks for its own gratification .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   29 This_DD1 is_VBZ obvious_JJ that_CST the_AT society_NN1 looks_VVZ for_IF its_APPGE own_DA gratification_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   30 Not only this , but also Piercy said that the society is asking the women to do many things must be as the males want her to be .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   30 Not_XX only_RR this_DD1 ,_, but_CCB also_RR Piercy_NP1 said_VVD that_CST the_AT society_NN1 is_VBZ asking_VVG the_AT women_NN2 to_TO do_VDI many_DA2 things_NN2 must_VM be_VBI as_II the_AT males_NN2 want_VV0 her_PPHO1 to_TO be_VBI ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   31 In Barbie Doll , she must be shy , do exercises , wheedle , and to do many things .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   31 In_II Barbie_NP1 Doll_NN1 ,_, she_PPHS1 must_VM be_VBI shy_JJ ,_, do_VD0 exercises_NN2 ,_, wheedle_VV0 ,_, and_CC to_TO do_VDI many_DA2 things_NN2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   32 ( Piercy 194 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   32 (_( Piercy_NP1 194_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   33 But at the end , Piercy said : " Does n't she look pretty ?
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   33 But_CCB at_II the_AT end_NN1 ,_, Piercy_NP1 said_VVD :_: "_" Does_VDZ n't_XX she_PPHS1 look_VVI pretty_JJ ?_?
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   34 Everyone said/ Consummation at last/ to every women a happy ending/ . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   34 Everyone_PN1 said/_JJ Consummation_NN1 at_II last/_NN1 to_II every_AT1 women_NN2 a_AT1 happy_JJ ending/_NN1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   35 ( Piercy 195 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   35 (_( Piercy_NP1 195_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   36 That indicates something , which is the society is envenoming and distorting the girls ' thinking just to have a happy ending by girls ' death or having sexual intercourse .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   36 That_DD1 indicates_VVZ something_PN1 ,_, which_DDQ is_VBZ the_AT society_NN1 is_VBZ envenoming_VVG and_CC distorting_VVG the_AT girls_NN2 '_GE thinking_NN1 just_RR to_TO have_VHI a_AT1 happy_JJ ending_NN1 by_II girls_NN2 '_GE death_NN1 or_CC having_VHG sexual_JJ intercourse_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   37 To sum up , Women must change many things in order to please men and fit in the society as wanted by the society itself .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   37 To_TO sum_VVI up_RP ,_, Women_NN2 must_VM change_VVI many_DA2 things_NN2 in_BCL21 order_BCL22 to_TO please_VVI men_NN2 and_CC fit_VVI in_II the_AT society_NN1 as_CSA wanted_VVN by_II the_AT society_NN1 itself_PPX1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    1   38 This is a clear effect of feminism that did not change and still a problem bothers Marge Piercy .
+SENTPOS 2014_4_101_500_554_3 FINAL B    1   38 This_DD1 is_VBZ a_AT1 clear_JJ effect_NN1 of_IO feminism_NN1 that_CST did_VDD not_XX change_VVI and_CC still_RR a_AT1 problem_NN1 bothers_VVZ Marge_NP1 Piercy_NP1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   39 In the second place , knowing the historical period and the cultural situation in which a text or poem had written can change the way you analyzing the text and shape your understanding into what the author means .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   39 In_II the_AT second_MD place_NN1 ,_, knowing_VVG the_AT historical_JJ period_NN1 and_CC the_AT cultural_JJ situation_NN1 in_II which_DDQ a_AT1 text_NN1 or_CC poem_NN1 had_VHD written_VVN can_VM change_VVI the_AT way_NN1 you_PPY analyzing_VVG the_AT text_NN1 and_CC shape_VV0@ your_APPGE understanding_NN1 into_II what_DDQ the_AT author_NN1 means_VVZ ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   40 We have shown that Barbie Doll implies to many symbols and manifestations of feminism .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   40 We_PPIS2 have_VH0 shown_VVN that_CST Barbie_NP1 Doll_NN1 implies_VVZ to_II many_DA2 symbols_NN2 and_CC manifestations_NN2 of_IO feminism_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   41 For Instance , the girl in Barbie Doll had been presented to dolls : " And presented dolls that did pee-pee/ and miniature GE stoves and irons/ and wee lipsticks the color of cherry candy . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   41 For_REX21 Instance_REX22 ,_, the_AT girl_NN1 in_II Barbie_NP1 Doll_NN1 had_VHD been_VBN presented_VVN to_II dolls_NN2 :_: "_" And_CC presented_VVN dolls_NN2 that_CST did_VDD pee-pee/_VVI and_CC miniature_JJ GE_NP1 stoves_NN2 and_CC irons/_FU and_CC wee_JJ lipsticks_NN2 the_AT color_NN1 of_IO cherry_NN1 candy_NN1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   42 ( Piercy 194 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   42 (_( Piercy_NP1 194_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   43 Actually , these dolls that provided to the girl are symbols of feminism which the family want from the girl to grew up into them .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   43 Actually_RR ,_, these_DD2 dolls_NN2 that_CST provided_VVD to_II the_AT girl_NN1 are_VBR symbols_NN2 of_IO feminism_NN1 which_DDQ the_AT family_NN1 want_VV0 from_II the_AT girl_NN1 to_II grew_VVD up_RP into_II them_PPHO2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   44 It intend to show the girl what she must learn and what to work , the cocking and ironing .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   44 It_PPH1 intend_VV0 to_TO show_VVI the_AT girl_NN1 what_DDQ she_PPHS1 must_VM learn_VVI and_CC what_DDQ to_TO@ work_VVI ,_, the_AT cocking_NN1@ and_CC ironing_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   45 Moreover , it teaches the girl to adjust her outfits in order to fit on the society .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   45 Moreover_RR ,_, it_PPH1 teaches_VVZ the_AT girl_NN1 to_TO adjust_VVI her_APPGE outfits_NN2 in_BCL21 order_BCL22 to_TO fit_VVI on_II the_AT society_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    2   46 The male society is present in the poem in the classmate character , and the classmate was asking the girl to act and behave in certain ways as I mentioned previously , the society want from the girl to be someone else rather than her real character .
+SENTPOS 2014_4_101_500_554_3 FINAL B    2   46 The_AT male_JJ society_NN1 is_VBZ present_JJ in_II the_AT poem_NN1 in_II the_AT classmate_NN1 character_NN1 ,_, and_CC the_AT classmate_NN1 was_VBDZ asking_VVG the_AT girl_NN1 to_TO act_VVI and_CC behave_VVI in_II certain_JJ ways_NN2 as_CSA I_PPIS1 mentioned_VVD previously_RR ,_, the_AT society_NN1 want_VV0 from_II the_AT girl_NN1 to_TO be_VBI someone_PN1 else_RR rather_II21 than_II22 her_APPGE real_JJ character_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   47 In the last place , the poem titled as " Barbie Doll " and no Barbie dolls appear in the poem , so what is that means ?
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   47 In_II the_AT last_MD place_NN1 ,_, the_AT poem_NN1 titled_VVN as_CSA "_" Barbie_NP1 Doll_NN1 "_" and_CC no_AT Barbie_NP1 dolls_NN2 appear_VV0 in_II the_AT poem_NN1 ,_, so_RR what_DDQ is_VBZ that_CST means_VVZ ?_?
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   48 An academic research called " Does Barbie Make Girls Want to Be Thin ?
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   48 An_AT1 academic_JJ research_NN1 called_VVN "_" Does_VDZ Barbie_NP1 Make_VV0 Girls_NN2 Want_VV0 to_TO Be_VBI Thin_JJ ?_?
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   49 The Effect of Experimental Exposure to Images of Dolls on the Body Image of 5- to 8-Year-Old Girl " created by Dr. Helga Dittmar , Dr. Suzanne Ive from University of Sussex , and Dr. Emma Halliwell from University of West of England talks about Barbie dolls affect and influence on girls ' body image .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   49 The_AT Effect_NN1 of_IO Experimental_JJ Exposure_NN1 to_II Images_NN2 of_IO Dolls_NN2 on_II the_AT Body_NN1 Image_NN1 of_IO 5-_NN1 to_II 8-Year-Old_JJ Girl_NN1 "_" created_VVN by_II Dr._NNB Helga_NP1 Dittmar_NP1 ,_, Dr._NNB Suzanne_NP1 Ive_NP1 from_II University_NN1 of_IO Sussex_NP1 ,_, and_CC Dr._NNB Emma_NP1 Halliwell_NP1 from_II University_NN1 of_IO West_ND1 of_IO England_NP1 talks_NN2 about_II Barbie_NP1 dolls_NN2 affect_VV0 and_CC influence_VV0 on_II girls_NN2 '_GE body_NN1 image_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   50 One of the facts that revealed in the research , " 99% of 3- to 10-year-olds in the United States own at least one Barbie Doll . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   50 One_MC1 of_IO the_AT facts_NN2 that_CST revealed_VVD in_II the_AT research_NN1 ,_, "_" 99%_NNU of_IO 3-_NN1 to_II 10-year-olds_NN2 in_II the_AT United_NP1 States_NP1 own_VV0@ at_RR21 least_RR22 one_MC1 Barbie_NP1 Doll_NN1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   51 ( Dittmar et.al. 283 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   51 (_( Dittmar_NN1 et.al._NNU 283_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   52 Yet , Barbie doll is very thin and her weight and body in fact are unobtainable and also unhealthy !
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   52 Yet_RR ,_, Barbie_NP1 doll_NN1 is_VBZ very_RG thin_JJ and_CC her_APPGE weight_NN1 and_CC body_NN1 in_II fact_NN1 are_VBR unobtainable_JJ and_CC also_RR unhealthy_JJ !_!
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   53 Another study was about the impact of exposure a new doll shaped manually and accurately by the American Dietetic Association to enhance a positive body image for girls , and then exposure Barbie doll after that to the girls .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   53 Another_DD1 study_NN1 was_VBDZ about_II the_AT impact_NN1 of_IO exposure_NN1 a_AT1 new_JJ doll_NN1 shaped_VVD manually_RR and_CC accurately_RR by_II the_AT American_JJ Dietetic_JJ Association_NN1 to_TO enhance_VVI a_AT1 positive_JJ body_NN1 image_NN1 for_IF girls_NN2 ,_, and_CC then_RT exposure_NN1 Barbie_NP1 doll_NN1 after_II that_DD1 to_II the_AT girls_NN2 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   54 The recent result was that " The desire for thinness emerges in the girls around age 6 " ( Dittmar et.al.283 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   54 The_AT recent_JJ result_NN1 was_VBDZ that_CST "_" The_AT desire_NN1 for_IF thinness_NN1 emerges_VVZ in_II the_AT girls_NN2 around_II age_NN1 6_MC "_" (_( Dittmar_NP1 et.al.283_FO )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   55 To sum up , young girls show body dissatisfaction after exposure to Barbie doll but not after Emma doll because Barbie doll represent a destructive thin body ideal .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   55 To_TO sum_VVI up_RP ,_, young_JJ girls_NN2 show_VV0 body_NN1 dissatisfaction_NN1 after_II exposure_NN1 to_II Barbie_NP1 doll_NN1 but_CCB not_XX after_II Emma_NP1 doll_NN1 because_CS Barbie_NP1 doll_NN1 represent_VV0 a_AT1 destructive_JJ thin_JJ body_NN1 ideal_NN1@ ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   56 Also , that can lead to tough aftereffects such as " depressed effect and unhealthy eating behaviors , particularly dieting , which , in turn , is a precursor of eating disorder . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   56 Also_RR ,_, that_DD1 can_VM lead_VVI to_II tough_JJ aftereffects_NN2 such_II21 as_II22 "_" depressed_JJ effect_NN1 and_CC unhealthy_JJ eating_NN1 behaviors_NN2 ,_, particularly_RR dieting_VVG ,_, which_DDQ ,_, in_II turn_NN1 ,_, is_VBZ a_AT1 precursor_NN1 of_IO eating_VVG disorder_NN1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   57 ( Dittmar et.al.290 ) That what had happened exactly in the poem , the classmate was annoyed from her fat legs and her big nose , so she ended up by " She cut off her nose and her legs/ and offered them up . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   57 (_( Dittmar_NN1 et.al.290_FO )_) That_CST what_DDQ had_VHD happened_VVN exactly_RR in_II the_AT poem_NN1 ,_, the_AT classmate_NN1 was_VBDZ annoyed_VVN@ from_II her_APPGE fat_JJ legs_NN2 and_CC her_APPGE big_JJ nose_NN1 ,_, so_CS@ she_PPHS1 ended_VVD up_RP by_II "_" She_PPHS1 cut_VVD@ off_RP her_APPGE nose_NN1 and_CC her_APPGE legs/_FU and_CC offered_VVD them_PPHO2 up_RP ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   58 ( Piercy 194 ) .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   58 (_( Piercy_NP1 194_MC )_) ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   59 To go back for the previous question about the title , we can understand that Barbie doll is unrealistic and has strange perfection in thinness , hairstyle , and beauty .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   59 To_TO go_VVI back_RP for_IF the_AT previous_JJ question_NN1 about_II the_AT title_NN1 ,_, we_PPIS2 can_VM understand_VVI that_CST Barbie_NP1 doll_NN1 is_VBZ unrealistic_JJ and_CC has_VHZ strange_JJ perfection_NN1 in_II thinness_NN1 ,_, hairstyle_NN1 ,_, and_CC beauty_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   60 When the girls play with this toy they want to be like it .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   60 When_CS the_AT girls_NN2 play_VV0 with_IW this_DD1 toy_NN1 they_PPHS2 want_VV0 to_TO be_VBI like_II it_PPH1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   61 Also it infers that the society want from the girls to be like Barbie .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   61 Also_RR it_PPH1 infers_VVZ that_CST the_AT society_NN1 want_VV0 from_II the_AT girls_NN2 to_TO be_VBI like_II Barbie_NP1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    3   62 Therefore , using Barbie Doll corresponds with the poem theme .
+SENTPOS 2014_4_101_500_554_3 FINAL B    3   62 Therefore_RR ,_, using_VVG Barbie_NP1 Doll_NN1 corresponds_VVZ with_IW the_AT poem_NN1 theme_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    4   63 In conclusion , it is seen that feminism manifestations did not disappear completely ; some of them had gone and some of them is still present in the time of Piercy .
+SENTPOS 2014_4_101_500_554_3 FINAL B    4   63 In_II conclusion_NN1 ,_, it_PPH1 is_VBZ seen_VVN that_DD1 feminism_NN1 manifestations_NN2 did_VDD not_XX disappear_VVI completely_RR ;_; some_DD of_IO them_PPHO2 had_VHD gone_VVN and_CC some_DD of_IO them_PPHO2 is_VBZ still_RR present_JJ in_II the_AT time_NNT1 of_IO Piercy_NP1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    4   64 Moreover , looking at outside sources talk about a historical period in which a text had written would change and shape the way we think of the text and clearly enhance our understanding to the text .
+SENTPOS 2014_4_101_500_554_3 FINAL B    4   64 Moreover_RR ,_, looking_VVG at_II outside_JJ sources_NN2 talk_VV0 about_II a_AT1 historical_JJ period_NN1 in_II which_DDQ a_AT1 text_NN1 had_VHD written_VVN would_VM change_VVI and_CC shape_VVI the_AT way_NN1 we_PPIS2 think_VV0 of_IO the_AT text_NN1 and_CC clearly_RR enhance_VV0 our_APPGE understanding_NN1 to_II the_AT text_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    4   65 The external sources help us imagine and visualize images and themes in Barbie Doll poem .
+SENTPOS 2014_4_101_500_554_3 FINAL B    4   65 The_AT external_JJ sources_NN2 help_VV0 us_PPIO2 imagine_VVI and_CC visualize_VVI images_NN2 and_CC themes_NN2 in_II Barbie_NP1 Doll_NN1 poem_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   66 Dittmar , Helga , Emma Halliwell , and Suzanne Ive .
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   66 Dittmar_NN1 ,_, Helga_NP1 ,_, Emma_NP1 Halliwell_NP1 ,_, and_CC Suzanne_NP1 Ive_NP1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   67 " Does Barbie Make Girls Want To Be Thin ?
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   67 "_" Does_VDZ Barbie_NP1 Make_VV0 Girls_NN2 Want_VV0 To_TO Be_VBI Thin_JJ ?_?
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   68 The Effect Of Experimental Exposure To Images Of Dolls On The Body Image Of 5- To 8-Year-Old Girls . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   68 The_AT Effect_NN1 Of_IO Experimental_JJ Exposure_NN1 To_II Images_NN2 Of_IO Dolls_NN2 On_II The_AT Body_NN1 Image_NN1 Of_IO 5-_NN1 To_II 8-Year-Old_JJ Girls_NN2 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   69 Developmental Psychology 42.2 ( 2006 ) : 283-292 .
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   69 Developmental_JJ Psychology_NN1 42.2_MC (_( 2006_MC )_) :_: 283-292_MCMC ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   70 Academic Search Complete .
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   70 Academic_JJ Search_NN1 Complete_VV0 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   71 Web .
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   71 Web_NN1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    5   72 5 Nov. 2014 .
+SENTPOS 2014_4_101_500_554_3 FINAL B    5   72 5_MC Nov._NPM1 2014_MC ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    6   73 Pouba , Katherine , and Ashley Tianen .
+SENTPOS 2014_4_101_500_554_3 FINAL B    6   73 Pouba_NN1 ,_, Katherine_NP1 ,_, and_CC Ashley_NP1 Tianen_NP1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    6   74 " Lunacy in The19th Century : Women 's Admission to Asylums in United States of America . "
+SENTPOS 2014_4_101_500_554_3 FINAL B    6   74 "_" Lunacy_NN1 in_II The19th_FO Century_NNT1 :_: Women_NN2 's_GE Admission_NN1 to_II Asylums_NN2 in_II United_NP1 States_NP1 of_IO America_NP1 ._. "_"
+SENTPOS 2014_4_101_500_554_3 FINAL A    6   75 Rep. Vol. 1 .
+SENTPOS 2014_4_101_500_554_3 FINAL B    6   75 Rep._NNB Vol._NN1 1_MC1 ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    6   76 Oshkosh : University of Wisconsin Oshkosh , May 2006 .
+SENTPOS 2014_4_101_500_554_3 FINAL B    6   76 Oshkosh_VV0 :_: University_NN1 of_IO Wisconsin_NP1 Oshkosh_NP1 ,_, May_NPM1 2006_MC ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    6   77 Pp. 95-103 .
+SENTPOS 2014_4_101_500_554_3 FINAL B    6   77 Pp._NNU2 95-103_MCMC ._.
+SENTPOS 2014_4_101_500_554_3 FINAL A    6   77  Print .
+SENTPOS 2014_4_101_500_554_3 FINAL B    6   77  Print_VV0 ._.

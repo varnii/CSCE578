@@ -1,0 +1,50 @@
+Duncan Harmon
+29 March 2019
+CSCE 578 Text Processing
+Buell
+
+The first step of this project was to read the data in from the student data, specifically the 
+/2014_4_101_000.stanford/2014_4_101_000_*.txt.conll files. The .conll files were choses simply 
+because it is easy to gather only the words in each document and other attributes of each word 
+was available if needed.
+After reading and pruning the data for stopwords the A matrix to be "svd'ed" was initialed as
+document v.s. word frequency and normalized. The SVD was then called via numpy.linalg.svd and
+the weighting method used in berry to to have a specific rank of weighting from 1(heavily but
+inaccurately weighted) to the number of documents (practically no weighting at all, but stays
+the more true to the actual data). The product of the trimmed SVD components is the matrix used
+in the document clustering algorithm.
+The clustering algorithm used in this project is the Density-based spatial clustering of appli
+cations with noise (DBSCAN) as higher accuracy was expected with this algorithm than with a 
+kmeans or other similar algorithm when working in higher dimensions.
+Then the matrix is reduced down to 2 dimensions using the multidimensional scaling function
+provided in sklearn.manifold (https://scikit-learn.org/stable/modules/generated/sklearn.manifo
+ld.MDS.html). This is so the data could be graphed using matplotlib.pyplot.
+
+The hardest part of this assignment was by far trying to find the optimal parameters for weigh
+ting and clustering: rank (berry svd weighting), epsilon (DBSCAN radius for two points to be
+considered "nearby neighbors"), and minPts (DBSCAN minimun number of nearby neighbors for a
+point to be considered either a core or branch point of a cluster).
+I thought about running a kmeans on the data after projecting to two dimensions, but I felt 
+like too much of the information would be lost, and decided to keep the clustering in higher
+dimensions.
+With optimizing the rank, I found that the weighting "throws" points out loosely hugging
+evenly spaced axes, the amount of these axes related to the rank. I decided that ranks above 25
+were too space and the weighting just didnt do anything useful other than create one loose
+gathering of points near the center. Around rank 15 and lower, the points are so tightly weighted
+that information is lost.
+--see r50_e2_m3.png and r10_e.75_m2.png--
+The epsilon is what makes it "easier" for points to be a part of a cluster, and so as the rank
+decreased, the epsilon needed to decrease as well, for the points became more compressed. This
+value is mostly about preventing one loose cluster from dominating where there may be smaller
+clusters that could be taken out of that one large one.
+--see r19_e1_m2.png and r19_e2_m3.png--
+The minPts is only useful for controlling the amount of "noise" points. the lower the value, the
+more likely a noise point will be clustered with nearby points.
+
+Optimal values for each are as follows:
+rank    = 17-19
+epsilon = .8-1
+minPts  = 2
+
+While the documents were successfully separated, I still have yet to successfully gather topics
+from each document or even for each cluster.

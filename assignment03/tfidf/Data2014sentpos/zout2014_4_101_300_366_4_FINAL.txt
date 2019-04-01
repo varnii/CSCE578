@@ -1,0 +1,128 @@
+SENTPOS 2014_4_101_300_366_4 FINAL A    0    0 NowadaysThe Sleeping Beauty in the Wood .
+SENTPOS 2014_4_101_300_366_4 FINAL B    0    0 NowadaysThe_VV0 Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    0    1 Perrault 's original story does not include a happy ending like the revised version of the Disney movie ( Perrault 296 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    0    1 Perrault_NP1@ 's_GE original_JJ story_NN1 does_VDZ not_XX include_VVI a_AT1 happy_JJ ending_NN1 like_II the_AT revised_JJ version_NN1 of_IO the_AT Disney_NP1 movie_NN1 (_( Perrault_NP1 296_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    0    2 " There Was Once " is an excerpt from Good Bone , and itthe stereotypical opening of fairy tales .
+SENTPOS 2014_4_101_300_366_4 FINAL B    0    2 "_" There_EX Was_VBDZ Once_RR "_" is_VBZ an_AT1 excerpt_NN1 from_II Good_JJ Bone_NN1 ,_, and_CC itthe_VV0 stereotypical_JJ opening_NN1 of_IO fairy_NN1 tales_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    0    3 These two texts were written by different authors different time period .
+SENTPOS 2014_4_101_300_366_4 FINAL B    0    3 These_DD2 two_MC texts_NN2 were_VBDR written_VVN by_II different_JJ authors_NN2 different_JJ time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    0    4 tories written period reflect similar social issues time period to point out the problems .
+SENTPOS 2014_4_101_300_366_4 FINAL B    0    4 tories_NN2 written_VVN period_NN1 reflect_VV0 similar_JJ social_JJ issues_NN2 time_VV0% period_NN1 to_TO point_VVI out_RP the_AT problems_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    0    5 However , by looking at the similarities and differences in these two texts , the two social problems , the people 's dissatisfaction with government and the gender discrimination , appear in a tale even though the two literary pieces are from different time periods .
+SENTPOS 2014_4_101_300_366_4 FINAL B    0    5 However_RR ,_, by_II looking_VVG at_II the_AT similarities_NN2 and_CC differences_NN2 in_II these_DD2 two_MC texts_NN2 ,_, the_AT two_MC social_JJ problems_NN2 ,_, the_AT people_NN 's_GE dissatisfaction_NN1 with_IW government_NN1 and_CC the_AT gender_NN1 discrimination_NN1 ,_, appear_VV0 in_II a_AT1 tale_NN1 even_CS21 though_CS22 the_AT two_MC literary_JJ pieces_NN2 are_VBR from_II different_JJ time_NNT1 periods_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1    6 " The Sleeping Beauty in the Wood " is one of the typical French fairy tales .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1    6 "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" is_VBZ one_MC1 of_IO the_AT typical_JJ French_JJ fairy_NN1 tales_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1    7 According to Zipes , French fairy tales highlighted the aristocratic elite of seventeenth century .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1    7 According_II21 to_II22 Zipes_NP1 ,_, French_JJ fairy_NN1 tales_NN2 highlighted_VVD the_AT aristocratic_JJ elite_NN1 of_IO seventeenth_MD century_NNT1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1    8 French tales about class struggle .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1    8 French_JJ tales_NN2 about_II class_NN1 struggle_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1    9 Also they were the outcome of violent civilized struggles , and aristocrats ' struggles for hegemony .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1    9 Also_RR they_PPHS2 were_VBDR the_AT outcome_NN1 of_IO violent_JJ civilized_JJ struggles_NN2 ,_, and_CC aristocrats_NN2 '_GE struggles_NN2 for_IF hegemony_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   10 In France , fairy tales were entertainment and education for ruling class .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   10 In_II France_NP1 ,_, fairy_NN1 tales_NN2 were_VBDR entertainment_NN1 and_CC education_NN1 for_IF ruling_JJ class_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   11 They were written in standard high language which made very difficult for to read it ( Zipes 17 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   11 They_PPHS2 were_VBDR written_VVN in_II standard_JJ high_JJ language_NN1 which_DDQ made_VVD very_RG difficult_JJ for_IF to_TO read_VVI it_PPH1 (_( Zipes_NP1 17_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   12 " There Was Once " is one of the story collections of Margaret Atwood .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   12 "_" There_EX Was_VBDZ Once_RR "_" is_VBZ one_MC1 of_IO the_AT story_NN1 collections_NN2 of_IO Margaret_NP1 Atwood_NP1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   13 It is a very short story which unfolds in dialogue form between two people .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   13 It_PPH1 is_VBZ a_AT1 very_RG short_JJ story_NN1 which_DDQ unfolds_VVZ in_II dialogue_NN1 form_NN1 between_II two_MC people_NN ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   14 The author points out that the world of today is very different and not as fictional as the opening of fairy tales that a character in this story talks about .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   14 The_AT author_NN1 points_VVZ out_RP that_CST the_AT world_NN1 of_IO today_RT is_VBZ very_RG different_JJ and_CC not_XX as_RG fictional_JJ as_CSA the_AT opening_NN1 of_IO fairy_NN1 tales_NN2 that_CST a_AT1 character_NN1 in_II this_DD1 story_NN1 talks_NN2 about_II ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   15 Unlike the story of " The Sleeping Beauty in the Wood " , the author selects very concise and direct word choices to convey the meaning clearly within a short story .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   15 Unlike_II@ the_AT story_NN1 of_IO "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" ,_, the_AT author_NN1 selects_VVZ very_RG concise_JJ and_CC direct_JJ word_NN1 choices_NN2 to_TO convey_VVI the_AT meaning_NN1 clearly_RR within_II a_AT1 short_JJ story_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   16 For example , according to the story , " I do n't think it 's nice to make fun of people 's appearances .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   16 For_REX21 example_REX22 ,_, according_II21 to_II22 the_AT story_NN1 ,_, "_" I_PPIS1 do_VD0 n't_XX think_VVI it_PPH1 's_VBZ nice_JJ to_TO make_VVI fun_NN1 of_IO people_NN 's_GE appearances_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   17 Plus you 're encouraging anorexia " ( Atwood 305 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   17 Plus_II you_PPY 're_VBR encouraging_JJ anorexia_NN1 "_" (_( Atwood_NP1 305_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   18 The main character uses very direct speech in a dialogue in this sentence .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   18 The_AT main_JJ character_NN1 uses_VVZ very_RG direct_JJ speech_NN1 in_II a_AT1 dialogue_NN1 in_II this_DD1 sentence_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    1   19 Despite the fact that the each of the two stories are written for different classes of people , they have a common goal of criticizing the same type of social issues by using the concept of fairy tales .
+SENTPOS 2014_4_101_300_366_4 FINAL B    1   19 Despite_II the_AT fact_NN1 that_CST the_AT each_DD1 of_IO the_AT two_MC stories_NN2 are_VBR written_VVN for_IF different_JJ classes_NN2 of_IO people_NN ,_, they_PPHS2 have_VH0 a_AT1 common_JJ goal_NN1 of_IO criticizing_VVG the_AT same_DA type_NN1 of_IO social_JJ issues_NN2 by_II using_VVG the_AT concept_NN1 of_IO fairy_NN1 tales_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   20 The authors are trying to talk about two main things that each of the stories has in common .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   20 The_AT authors_NN2 are_VBR trying_VVG to_TO talk_VVI about_II two_MC main_JJ things_NN2 that_CST each_DD1 of_IO the_AT stories_NN2 has_VHZ in_RR21 common_RR22 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   21 The first thing is the unfair treatment of women and the other thing is an insecure society by a corrupt government .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   21 The_AT first_MD thing_NN1 is_VBZ the_AT unfair_JJ treatment_NN1 of_IO women_NN2 and_CC the_AT other_JJ thing_NN1 is_VBZ an_AT1 insecure_JJ society_NN1 by_II a_AT1 corrupt_JJ government_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   22 The time period of " The Sleeping Beauty in the Wood " was the time before the French enlightenment due to the spread of commoners ' dissatisfaction .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   22 The_AT time_NNT1 period_NN1 of_IO "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" was_VBDZ the_AT time_NNT1 before_II the_AT French_JJ enlightenment_NN1 due_II21 to_II22 the_AT spread_NN1 of_IO commoners_NN2 '_GE dissatisfaction_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   23 There was the advent of the bourgeoisie and they had all wealth of France ( Furet 1-4 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   23 There_EX was_VBDZ the_AT advent_NN1 of_IO the_AT bourgeoisie_NN1 and_CC they_PPHS2 had_VHD all_DB wealth_NN1 of_IO France_NP1 (_( Furet_NP1 1-4_MCMC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   24 According to " The Sleeping Beauty in the Wood " , it says , they saw a very old fairy come into the hall , whom they had not invited , because it was above fifty years since she had been out of a certain tower , and she was believed to be either dead or enchanted ( Perrault 296 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   24 According_II21 to_II22 "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" ,_, it_PPH1 says_VVZ ,_, they_PPHS2 saw_VVD a_AT1 very_RG old_JJ fairy_NN1 come_VVN@ into_II the_AT hall_NN1 ,_, whom_PNQO they_PPHS2 had_VHD not_XX invited_VVN ,_, because_CS it_PPH1 was_VBDZ above_II fifty_MC years_NNT2 since_CS she_PPHS1 had_VHD been_VBN out_II21 of_II22 a_AT1 certain_JJ tower_NN1 ,_, and_CC she_PPHS1 was_VBDZ believed_VVN to_TO be_VBI either_RR dead_JJ or_CC enchanted_JJ (_( Perrault_NP1 296_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   25 The old fairy symbolizes useless and powerless people in society .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   25 The_AT old_JJ fairy_NN1 symbolizes_VVZ useless_JJ and_CC powerless_JJ people_NN in_II society_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   26 The author wants to show how a powerless character could change the situation by challenging the power .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   26 The_AT author_NN1 wants_VVZ to_TO show_VVI how_RRQ a_AT1 powerless_JJ character_NN1 could_VM change_VVI the_AT situation_NN1 by_II challenging_VVG the_AT power_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   27 This is a Perrault 's way of showing a criticism on government.At the time that " There Was Once " was written , dissatisfaction of the Canadian people against the government was prevalent ( Outshoorn 1 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   27 This_DD1 is_VBZ a_AT1 Perrault_NN1 's_GE way_NN1 of_IO showing_VVG a_AT1 criticism_NN1 on_II government.At_NNU the_AT time_NNT1 that_CST "_" There_EX Was_VBDZ Once_RR "_" was_VBDZ written_VVN ,_, dissatisfaction_NN1 of_IO the_AT Canadian_JJ people_NN against_II the_AT government_NN1 was_VBDZ prevalent_JJ (_( Outshoorn_VV0 1_MC1 )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   28 The protagonist of " There Was Once " says , " What 's this was , once ?
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   28 The_AT protagonist_NN1 of_IO "_" There_RL Was_VBDZ Once_RR "_" says_VVZ ,_, "_" What_DDQ 's_VBZ this_DD1 was_VBDZ ,_, once_RR ?_?
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   29 Enough of the dead past .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   29 Enough_DD of_IO the_AT dead_RG past_JJ ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   30 Tell me about now " ( Atwood 306 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   30 Tell_VV0 me_PPIO1 about_II now_RT "_" (_( Atwood_NP1 306_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    2   31 It reflects people 's expectation of the need for progressive change in Canadian government .
+SENTPOS 2014_4_101_300_366_4 FINAL B    2   31 It_PPH1 reflects_VVZ people_NN 's_GE expectation_NN1 of_IO the_AT need_NN1 for_IF progressive_JJ change_NN1 in_II Canadian_JJ government_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   32 Also the creepy and thickly wooded forest in the story of " The Sleeping Beauty in the Wood " symbolizes corrupted and unorganized society .
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   32 Also_RR the_AT creepy_JJ and_CC thickly_RR wooded_JJ forest_NN1 in_II the_AT story_NN1 of_IO "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" symbolizes_VVZ corrupted_JJ@ and_CC unorganized_JJ society_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   33 According to this story , " There grew up all round about the park such a vast number of trees , great and small , bushes and brambles , twining one within another , that neither man nor beast could pass through " ( Perrault 298 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   33 According_II21 to_II22 this_DD1 story_NN1 ,_, "_" There_EX grew_VVD up_RP all_DB round_RP about_II the_AT park_NN1 such_DA a_AT1 vast_JJ number_NN1 of_IO trees_NN2 ,_, great_JJ and_CC small_JJ ,_, bushes_NN2 and_CC brambles_NN2 ,_, twining_VVG one_PN1 within_II another_DD1 ,_, that_DD1 neither_RR man_NN1 nor_CC beast_NN1 could_VM pass_VVI through_II "_" (_( Perrault_NP1 298_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   34 According to the story of " There Was Once " , " Forest ?
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   34 According_II21 to_II22 the_AT story_NN1 of_IO "_" There_RL Was_VBDZ Once_RR "_" ,_, "_" Forest_NN1 ?_?
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   35 Forest is passe , I mean , I 've had it with all this wilderness stuff .
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   35 Forest_NN1 is_VBZ passe_JJ ,_, I_PPIS1 mean_VV0 ,_, I_PPIS1 've_VH0 had_VHN it_PPH1 with_IW all_DB this_DD1 wilderness_NN1 stuff_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   36 It 's not a right image of our society , today .
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   36 It_PPH1 's_VBZ not_XX a_AT1 right_JJ image_NN1 of_IO our_APPGE society_NN1 ,_, today_RT ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   37 Let 's have some urban for a change " ( Atwood 305 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   37 Let_VM21 's_VM22 have_VHI some_DD urban_JJ for_IF a_AT1 change_NN1 "_" (_( Atwood_NP1 305_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    3   38 In the story of " There Was Once " , the term forest is described as old fashioned which symbolizes the old way of governing unlike the figure of developed urban areas and society .
+SENTPOS 2014_4_101_300_366_4 FINAL B    3   38 In_II the_AT story_NN1 of_IO "_" There_RL Was_VBDZ Once_RR "_" ,_, the_AT term_NN1 forest_NN1 is_VBZ described_VVN as_CSA old_JJ fashioned_VVD which_DDQ symbolizes_VVZ the_AT old_JJ way_NN1 of_IO governing_VVG unlike_II@ the_AT figure_NN1 of_IO developed_JJ urban_JJ areas_NN2 and_CC society_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   39 The second thing that both authors point out is the gender discrimination issue .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   39 The_AT second_MD thing_NN1 that_CST both_DB2 authors_NN2 point_VV0@ out_RP is_VBZ the_AT gender_NN1 discrimination_NN1 issue_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   40 Bad figures described in both texts are all women .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   40 Bad_JJ figures_NN2 described_VVN in_II both_DB2 texts_NN2 are_VBR all_DB women_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   41 In " The Sleeping Beauty in the Wood " , the king 's mother , an Ogress says , " I will eat the Queen with the same sauce I had with her children " ( Perrault 301 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   41 In_II "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" ,_, the_AT king_NN1 's_GE mother_NN1 ,_, an_AT1 Ogress_NN1 says_VVZ ,_, "_" I_PPIS1 will_VM eat_VVI the_AT Queen_NN1 with_IW the_AT same_DA sauce_NN1 I_PPIS1 had_VHD with_IW her_APPGE children_NN2 "_" (_( Perrault_NP1 301_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   42 The author applies a bad image to a woman character who is an Ogress in this story .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   42 The_AT author_NN1 applies_VVZ a_AT1 bad_JJ image_NN1 to_II a_AT1 woman_NN1 character_NN1 who_PNQS is_VBZ an_AT1 Ogress_NN1 in_II this_DD1 story_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   43 In this way , the author expresses his criticism for gender discrimination .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   43 In_II this_DD1 way_NN1 ,_, the_AT author_NN1 expresses_VVZ his_APPGE criticism_NN1 for_IF gender_NN1 discrimination_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   44 Also in " The Sleeping Beauty in the Wood " , the author also use important characters to symbolize the gender discrimination .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   44 Also_RR in_II "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" ,_, the_AT author_NN1 also_RR use_VV0 important_JJ characters_NN2 to_TO symbolize_VVI the_AT gender_NN1 discrimination_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   45 Day was the youngest son and Morning was eldest daughter .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   45 Day_NP1@ was_VBDZ the_AT youngest_JJT son_NN1 and_CC Morning_NNT1 was_VBDZ eldest_JJT daughter_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   46 King gives him the name of Day because he is handsomer and more beautiful than his sister Morning ( 300 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   46 King_NN1 gives_VVZ him_PPHO1 the_AT name_NN1 of_IO Day_NNT1 because_CS he_PPHS1 is_VBZ handsomer_JJR and_CC more_RGR beautiful_JJ than_CSN his_APPGE sister_NN1 Morning_NNT1 (_( 300_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    4   47 This is a way to show unfair social status of men and women by applying the concept to the kids who really do not have any bias or power to influence gender discrimination yet .
+SENTPOS 2014_4_101_300_366_4 FINAL B    4   47 This_DD1 is_VBZ a_AT1 way_NN1 to_TO show_VVI unfair_JJ social_JJ status_NN1 of_IO men_NN2 and_CC women_NN2 by_II applying_VVG the_AT concept_NN1 to_II the_AT kids_NN2 who_PNQS really_RR do_VD0 not_XX have_VHI any_DD bias_NN1 or_CC power_NN1 to_TO influence_VVI gender_NN1 discrimination_NN1 yet_RR ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   48 The story " There Was Once " criticizes a negative female image in a direct way .
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   48 The_AT story_NN1 "_" There_EX Was_VBDZ Once_RR "_" criticizes_VVZ a_AT1 negative_JJ female_JJ image_NN1 in_II a_AT1 direct_JJ way_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   49 The protagonist of this story says , " But I am so tired of negative female images !
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   49 The_AT protagonist_NN1 of_IO this_DD1 story_NN1 says_VVZ ,_, "_" But_CCB I_PPIS1 am_VBM so_RG tired_JJ of_IO negative_JJ female_JJ images_NN2 !_!
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   50 And stepmothers -- they always get it in the neck !
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   50 And_CC stepmothers_NN2 --_NN1 they_PPHS2 always_RR get_VV0 it_PPH1 in_II the_AT neck_NN1 !_!
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   51 Change it to stepfather , why do n't you ? "
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   51 Change_VV0 it_PPH1 to_II stepfather_NN1 ,_, why_RRQ do_VD0 n't_XX you_PPY ?_? "_"
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   52 ( Atwood 306 ) .
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   52 (_( Atwood_NN1 306_MC )_) ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   53 Unlike " The Sleeping Beauty in the Wood " , the author 's purpose is to show discrimination more clearly than in " There Was Once " .
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   53 Unlike_II@ "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" ,_, the_AT author_NN1 's_GE purpose_NN1 is_VBZ to_TO show_VVI discrimination_NN1 more_RGR clearly_RR than_CSN in_II "_" There_RL Was_VBDZ Once_RR "_" ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   54 The discrimination in this story was shortly and directly expressed by the intense conversation between two people .
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   54 The_AT discrimination_NN1 in_II this_DD1 story_NN1 was_VBDZ shortly_RR and_CC directly_RR expressed_VVN by_II the_AT intense_JJ conversation_NN1 between_II two_MC people_NN ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    5   55 Hence , they need to use direct terms like stepfather , and forest to give a message to the readers .
+SENTPOS 2014_4_101_300_366_4 FINAL B    5   55 Hence_RR ,_, they_PPHS2 need_VV0 to_TO use_VVI direct_JJ terms_NN2 like_II stepfather_NN1 ,_, and_CC forest_NN1 to_TO give_VVI a_AT1 message_NN1 to_II the_AT readers_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   56 Both stories have a negative trend which is further evidence to support the fact that both have the same social issues .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   56 Both_DB2 stories_NN2 have_VH0 a_AT1 negative_JJ trend_NN1 which_DDQ is_VBZ further_JJR@ evidence_NN1 to_TO support_VVI the_AT fact_NN1 that_CST both_DB2 have_VH0 the_AT same_DA social_JJ issues_NN2 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   57 In conclusion , the comparison between " The Sleeping Beauty in the Wood " and " There Was Once " shows that the authors of different time periods could talk about the same social issues which are the people 's dissatisfactions with government and the gender discrimination .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   57 In_II conclusion_NN1 ,_, the_AT comparison_NN1 between_II "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" and_CC "_" There_EX Was_VBDZ Once_RR "_" shows_VVZ that_CST the_AT authors_NN2 of_IO different_JJ time_NNT1 periods_NN2 could_VM talk_VVI about_II the_AT same_DA social_JJ issues_NN2 which_DDQ are_VBR the_AT people_NN 's_GE dissatisfactions_NN2 with_IW government_NN1 and_CC the_AT gender_NN1 discrimination_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   58 The author of " The Sleeping Beauty in the Wood " uses curse of old fairy and creepy forest scene to to symbolize corrupt government of France .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   58 The_AT author_NN1 of_IO "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" uses_VVZ curse_NN1 of_IO old_JJ fairy_NN1 and_CC creepy_JJ forest_NN1 scene_NN1 to_II to_TO symbolize_VVI corrupt_JJ government_NN1 of_IO France_NP1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   59 The author of " There Was Once " describes the words 'There Was Once' and 'Forest' as dead and old-fashioned government .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   59 The_AT author_NN1 of_IO "_" There_RL Was_VBDZ Once_RR "_" describes_VVZ the_AT words_NN2 'There_NN1 Was_VBDZ Once'_NP1 and_CC 'Forest'_VV0 as_RG@ dead_JJ and_CC old-fashioned_JJ government_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   60 Also the author of " The Sleeping Beauty in the Wood " uses bad woman character and the naming of the king 's children to show the gender discrimination .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   60 Also_RR the_AT author_NN1 of_IO "_" The_AT Sleeping_JJ Beauty_NN1 in_II the_AT Wood_NP1 "_" uses_VVZ bad_JJ woman_NN1 character_NN1 and_CC the_AT naming_NN1 of_IO the_AT king_NN1 's_GE children_NN2 to_TO show_VVI the_AT gender_NN1 discrimination_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   61 " There Was Once " uses the term stepmother for the gender discrimination .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   61 "_" There_EX Was_VBDZ Once_RR "_" uses_VVZ the_AT term_NN1 stepmother_NN1 for_IF the_AT gender_NN1 discrimination_NN1 ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   62 Even though the two authors are from different time period and used their own methods , the comparison shows that the final goal of giving the same type of social messages to the readers coincides .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   62 Even_CS21 though_CS22 the_AT two_MC authors_NN2 are_VBR from_II different_JJ time_NNT1 period_NN1 and_CC used_VVD their_APPGE own_DA methods_NN2 ,_, the_AT comparison_NN1 shows_VVZ that_CST the_AT final_JJ goal_NN1 of_IO giving_VVG the_AT same_DA type_NN1 of_IO social_JJ messages_NN2 to_II the_AT readers_NN2 coincides_VVZ ._.
+SENTPOS 2014_4_101_300_366_4 FINAL A    6   62  Also it was very successful for both of the stories .
+SENTPOS 2014_4_101_300_366_4 FINAL B    6   62  Also_RR it_PPH1 was_VBDZ very_RG successful_JJ for_IF both_DB2 of_IO the_AT stories_NN2 ._.

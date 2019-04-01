@@ -1,0 +1,124 @@
+SENTPOS 2014_4_101_500_543_2 FINAL A    0    0 We all might have wondered about how people looked like in the 1900s , especially people across the Pacific Ocean .
+SENTPOS 2014_4_101_500_543_2 FINAL B    0    0 We_PPIS2 all_DB might_VM have_VHI wondered_VVN% about_II how_RRQ people_NN looked_VVN like_II in_II the_AT 1900s_MC2 ,_, especially_RR people_NN across_II the_AT Pacific_NP1 Ocean_NNL1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    0    1 A Chinese Family is a picture of a typical Chinese family created by the Detroit Photographic Co. between 1898-1905 .
+SENTPOS 2014_4_101_500_543_2 FINAL B    0    1 A_AT1 Chinese_JJ Family_NN1 is_VBZ a_AT1 picture_NN1 of_IO a_AT1 typical_JJ Chinese_JJ family_NN1 created_VVN by_II the_AT Detroit_NP1 Photographic_JJ Co._NN1 between_II 1898-1905_MCMC ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    0    2 The details , framing , and lightness of this picture indicate a lot of things happening in China during that time period .
+SENTPOS 2014_4_101_500_543_2 FINAL B    0    2 The_AT details_NN2 ,_, framing_VVG ,_, and_CC lightness_NN1 of_IO this_DD1 picture_NN1 indicate_VV0 a_AT1 lot_NN1 of_IO things_NN2 happening_VVG in_II China_NP1 during_II that_DD1 time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    3 This picture is pretty simple at the first sight .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    3 This_DD1 picture_NN1 is_VBZ pretty_RG simple_JJ at_II the_AT first_MD sight_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    4 However , when we look closely into it , it gives a lot of details .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    4 However_RR ,_, when_CS we_PPIS2 look_VV0 closely_RR into_II it_PPH1 ,_, it_PPH1 gives_VVZ a_AT1 lot_NN1 of_IO details_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    5 For example , the way they are dressed depicts the mixture of culture in China at that time period .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    5 For_REX21 example_REX22 ,_, the_AT way_NN1 they_PPHS2 are_VBR dressed_VVN depicts_VVZ the_AT mixture_NN1 of_IO culture_NN1 in_II China_NP1 at_II that_DD1 time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    6 The children are dressed in very traditional Chinese costumes whereas they wear pretty western clothes underneath such as jeans , boots .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    6 The_AT children_NN2 are_VBR dressed_VVN in_II very_RG traditional_JJ Chinese_JJ costumes_NN2 whereas_CS they_PPHS2 wear_VV0 pretty_RG western_JJ clothes_NN2 underneath_RL such_II21 as_II22 jeans_NN2 ,_, boots_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    7 At that age , China was forced to open their gate towards the western countries because of the Tang dynasty .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    7 At_II that_DD1 age_NN1 ,_, China_NP1 was_VBDZ forced_VVN to_TO open_VVI their_APPGE gate_NN1 towards_II the_AT western_JJ countries_NN2 because_II21 of_II22 the_AT Tang_NN1 dynasty_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    8 The culture shock brought a huge impact on people 's daily life .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    8 The_AT culture_NN1 shock_NN1 brought_VVD a_AT1 huge_JJ impact_NN1 on_II people_NN 's_GE daily_JJ life_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1    9 People were forced to open their eyes to western culture .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1    9 People_NN were_VBDR forced_VVN to_TO open_VVI their_APPGE eyes_NN2 to_II western_JJ culture_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   10 It brought the mixture of western and traditional culture in China during 1898-1905 .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   10 It_PPH1 brought_VVD the_AT mixture_NN1 of_IO western_JJ and_CC traditional_JJ culture_NN1 in_II China_NP1 during_II 1898-1905_MCMC ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   11 During that time period , China was colonized by a lot of western countries and there were both movements denying and allowing western culture .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   11 During_II that_DD1 time_NNT1 period_NN1 ,_, China_NP1 was_VBDZ colonized_VVN by_II a_AT1 lot_NN1 of_IO western_JJ countries_NN2 and_CC there_EX were_VBDR both_DB2 movements_NN2 denying_VVG and_CC allowing_VVG western_JJ culture_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   12 Women were more conservative at that time .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   12 Women_NN2 were_VBDR more_RGR conservative_JJ at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   13 As we can see in the picture , the woman is wearing very traditional costumes and her hairstyle is very conservative too .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   13 As_CSA we_PPIS2 can_VM see_VVI in_II the_AT picture_NN1 ,_, the_AT woman_NN1 is_VBZ wearing_VVG very_RG traditional_JJ costumes_NN2 and_CC her_APPGE hairstyle_NN1 is_VBZ very_RG conservative_JJ too_RR@ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   14 Married women had to put their hair as a bun like what the woman in the picture did .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   14 Married_JJ women_NN2 had_VHD to_TO put_VVI their_APPGE hair_NN1 as_II a_AT1 bun_NN1 like_II what_DDQ the_AT woman_NN1 in_II the_AT picture_NN1 did_VDD ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   15 What 's more , women could not have their jobs because they had very little education and they were married only to give birth to children at that time .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   15 What_DDQ 's_VBZ more_RRR ,_, women_NN2 could_VM not_XX have_VHI their_APPGE jobs_NN2 because_CS they_PPHS2 had_VHD very_RG little_DA1 education_NN1 and_CC they_PPHS2 were_VBDR married_JJ only_RR to_TO give_VVI birth_NN1 to_II children_NN2 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   16 The number of children or especially the number of male children is the cultural status of women .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   16 The_AT number_NN1 of_IO children_NN2 or_CC especially_RR the_AT number_NN1 of_IO male_JJ children_NN2 is_VBZ the_AT cultural_JJ status_NN1 of_IO women_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   17 Ideally , this woman would be considered pretty successful and should be respected by her husband or other people in their family because she gave birth to and raised four male children .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   17 Ideally_RR ,_, this_DD1 woman_NN1 would_VM be_VBI considered_VVN pretty_RG successful_JJ and_CC should_VM be_VBI respected_VVN by_II her_APPGE husband_NN1 or_CC other_JJ people_NN in_II their_APPGE family_NN1 because_CS she_PPHS1 gave_VVD birth_NN1 to_II and_CC raised_VVD four_MC male_JJ children_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   18 However , this woman looks hunchbacked due to taking care of children and doing housework everyday .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   18 However_RR ,_, this_DD1 woman_NN1 looks_NN2@ hunchbacked_VVD due_II21 to_II22 taking_VVG care_NN1 of_IO children_NN2 and_CC doing_VDG housework_NN1 everyday_JJ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   19 Most of the men were liberal about themselves , so they did not wear traditional costumes most of the time .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   19 Most_DAT of_IO the_AT men_NN2 were_VBDR liberal_JJ about_II themselves_PPX2 ,_, so_CS@ they_PPHS2 did_VDD not_XX wear_VVI traditional_JJ costumes_NN2 most_DAT of_IO the_AT time_NNT1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   20 However , they were conservative about their wives .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   20 However_RR ,_, they_PPHS2 were_VBDR conservative_JJ about_II their_APPGE wives_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   21 They did not want women to wear short or tight clothes .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   21 They_PPHS2 did_VDD not_XX want_VVI women_NN2 to_TO wear_VVI short_JJ or_CC tight_JJ clothes_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   22 In the picture , all of the children seem to be boys .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   22 In_II the_AT picture_NN1 ,_, all_DB of_IO the_AT children_NN2 seem_VV0 to_TO be_VBI boys_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    1   23 This reveals the ideology that most of the Chinese families believe that boys are better than girls at that time .
+SENTPOS 2014_4_101_500_543_2 FINAL B    1   23 This_DD1 reveals_VVZ the_AT ideology_NN1 that_CST most_DAT of_IO the_AT Chinese_JJ families_NN2 believe_VV0 that_CST boys_NN2 are_VBR better_RRR than_CSN girls_NN2 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   24 Another detail to look at is the facial expression .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   24 Another_DD1 detail_NN1 to_TO look_VVI at_II is_VBZ the_AT facial_JJ expression_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   25 It explains that they are hesitated .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   25 It_PPH1 explains_VVZ that_CST they_PPHS2 are_VBR hesitated_VVN@ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   26 The child on the leftmost is the only one that 's not caring about the picture taking because he is too young to understand what 's going on .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   26 The_AT child_NN1 on_II the_AT leftmost_JJ is_VBZ the_AT only_JJ one_PN1 that_CST 's_VBZ not_XX caring_VVG about_II the_AT picture_NN1 taking_VVG because_CS he_PPHS1 is_VBZ too_RG young_JJ to_TO understand_VVI what_DDQ 's_VBZ going_VVG on_RP@ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   27 When we think of family protection , we often think of our father when we are young .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   27 When_CS we_PPIS2 think_VV0 of_IO family_NN1 protection_NN1 ,_, we_PPIS2 often_RR think_VV0 of_IO our_APPGE father_NN1 when_CS we_PPIS2 are_VBR young_JJ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   28 However , there is no man in this " family " picture .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   28 However_RR ,_, there_EX is_VBZ no_AT man_NN1 in_II this_DD1 "_" family_NN1 "_" picture_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   29 There were wars going on during that time period , and men were required to serve in the military which they would not be able to come home most of the time .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   29 There_EX were_VBDR wars_NN2 going_VVG on_RP@ during_II that_DD1 time_NNT1 period_NN1 ,_, and_CC men_NN2 were_VBDR required_VVN to_TO serve_VVI in_II the_AT military_NN1@ which_DDQ they_PPHS2 would_VM not_XX be_VBI able_JK to_TO come_VVI home_NN1 most_DAT of_IO the_AT time_NNT1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   30 Their father might be in the military .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   30 Their_APPGE father_NN1 might_VM be_VBI in_II the_AT military_JJ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   31 In addition , there was a movement called Hundred Days Reform that a group of people suggests that China would develop better from learning the western culture as well as science and technology in 1898 .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   31 In_RR21 addition_RR22 ,_, there_EX was_VBDZ a_AT1 movement_NN1 called_VVN Hundred_NNO Days_NNT2 Reform_VV0@ that_CST a_AT1 group_NN1 of_IO people_NN suggests_VVZ that_CST China_NP1 would_VM develop_VVI better_RRR from_II learning_VVG the_AT western_JJ culture_NN1 as_II31 well_II32 as_II33 science_NN1 and_CC technology_NN1 in_II 1898_MC ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   32 However , the emperor and the conservatives were against that .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   32 However_RR ,_, the_AT emperor_NN1 and_CC the_AT conservatives_NN2 were_VBDR against_II that_DD1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   33 They killed a massive amount of liberals .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   33 They_PPHS2 killed_VVD a_AT1 massive_JJ amount_NN1 of_IO liberals_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   34 Depending on the clothes the children are wearing such as boots and jeans , their father might be a liberal so he might be killed during movements that are against western cultures .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   34 Depending_II21 on_II22 the_AT clothes_NN2 the_AT children_NN2 are_VBR wearing_VVG such_II21 as_II22 boots_NN2 and_CC jeans_NN2 ,_, their_APPGE father_NN1 might_VM be_VBI a_AT1 liberal_JJ so_CS@ he_PPHS1 might_VM be_VBI killed_VVN during_II movements_NN2 that_CST are_VBR against_II western_JJ cultures_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   35 Also , during the Qing dynasty , widows were not supposed to be remarried .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   35 Also_RR ,_, during_II the_AT Qing_JJ@ dynasty_NN1 ,_, widows_NN2 were_VBDR not_XX supposed_JJ to_TO be_VBI remarried_VVN ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    2   36 They were supposed to take care of their children and keep the family well continued .
+SENTPOS 2014_4_101_500_543_2 FINAL B    2   36 They_PPHS2 were_VBDR supposed_JJ to_TO take_VVI care_NN1 of_IO their_APPGE children_NN2 and_CC keep_VVI the_AT family_NN1 well_RR continued_VVN ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   37 In addition , the picture is taken by an American company , which probably means an American photographer took this picture .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   37 In_RR21 addition_RR22 ,_, the_AT picture_NN1 is_VBZ taken_VVN by_II an_AT1 American_JJ company_NN1 ,_, which_DDQ probably_RR means_VVZ an_AT1 American_JJ photographer_NN1 took_VVD this_DD1 picture_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   38 They might be scared of foreigners , or they might not even know what the big machine in front of them is .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   38 They_PPHS2 might_VM be_VBI scared_JJ of_IO foreigners_NN2 ,_, or_CC they_PPHS2 might_VM not_XX even_RR know_VVI what_DDQ the_AT big_JJ machine_NN1 in_II31 front_II32 of_II33 them_PPHO2 is_VBZ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   39 At that time , camera was undeveloped in China .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   39 At_II that_DD1 time_NNT1 ,_, camera_NN1 was_VBDZ undeveloped_JJ in_II China_NP1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   40 As we can see , the resolution of this picture is pretty high compared to the technique at that time .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   40 As_CSA we_PPIS2 can_VM see_VVI ,_, the_AT resolution_NN1 of_IO this_DD1 picture_NN1 is_VBZ pretty_RG high_RR@ compared_VVN to_II the_AT technique_NN1 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   41 Therefore , A Chinese Family was taken by an imported camera that was not common at all .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   41 Therefore_RR ,_, A_ZZ1 Chinese_JJ Family_NN1 was_VBDZ taken_VVN by_II an_AT1 imported_JJ camera_NN1 that_CST was_VBDZ not_XX common_JJ at_RR21 all_RR22 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   42 As a housewife that does not go out a lot , she probably has never seen a camera before .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   42 As_II a_AT1 housewife_NN1 that_CST does_VDZ not_XX go_VVI out_RP a_AT1 lot_NN1 ,_, she_PPHS1 probably_RR has_VHZ never_RR seen_VVN a_AT1 camera_NN1 before_RT ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   43 As mentioned earlier , women were very conservative at that time , so it might be a hard decision the woman in the picture made to let a foreigner take a picture of her family .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   43 As_CSA mentioned_VVN earlier_RRR ,_, women_NN2 were_VBDR very_RG conservative_JJ at_II that_DD1 time_NNT1 ,_, so_CS@ it_PPH1 might_VM be_VBI a_AT1 hard_JJ decision_NN1 the_AT woman_NN1 in_II the_AT picture_NN1 made_VVD to_TO let_VVI a_AT1 foreigner_NN1 take_VVI a_AT1 picture_NN1 of_IO her_APPGE family_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   44 The company that created A Chinese Family has a lot of art photographs about different countries and events between 1898 and 1905 .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   44 The_AT company_NN1 that_CST created_VVD A_AT1@ Chinese_JJ Family_NN1 has_VHZ a_AT1 lot_NN1 of_IO art_NN1 photographs_NN2 about_II different_JJ countries_NN2 and_CC events_NN2 between_II 1898_MC and_CC 1905_MC ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    3   45 Their purpose is to show people from all over the world what people looked like in different locations during that time period .
+SENTPOS 2014_4_101_500_543_2 FINAL B    3   45 Their_APPGE purpose_NN1 is_VBZ to_TO show_VVI people_NN from_II all_RR over_II the_AT world_NN1 what_DDQ people_NN looked_VVN like_II in_II different_JJ locations_NN2 during_II that_DD1 time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   46 The overall color theme is slightly yellow , and the lighting of this picture is pretty dark .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   46 The_AT overall_JJ color_NN1 theme_NN1 is_VBZ slightly_RR yellow_JJ ,_, and_CC the_AT lighting_NN1 of_IO this_DD1 picture_NN1 is_VBZ pretty_RG dark_JJ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   47 It indicates the darkness of the society such as low status of women , and the sex discrimination to the family .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   47 It_PPH1 indicates_VVZ the_AT darkness_NN1 of_IO the_AT society_NN1 such_II21 as_II22 low_JJ status_NN1 of_IO women_NN2 ,_, and_CC the_AT sex_NN1 discrimination_NN1 to_II the_AT family_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   48 The background of the picture is very old and dusty .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   48 The_AT background_NN1 of_IO the_AT picture_NN1 is_VBZ very_RG old_JJ and_CC dusty_JJ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   49 There is a little bit of unorganized doodle on the wall , but it shows the oldness and dirtiness of the wall .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   49 There_EX is_VBZ a_AT1 little_JJ bit_NN1 of_IO unorganized_JJ doodle_NN1 on_II the_AT wall_NN1 ,_, but_CCB it_PPH1 shows_VVZ the_AT oldness_NN1 and_CC dirtiness_NN1 of_IO the_AT wall_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   50 The framing of this visual text is simple .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   50 The_AT framing_NN1@ of_IO this_DD1 visual_JJ text_NN1 is_VBZ simple_JJ ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   51 The picture was taken right in front of the stairs with four children sitting on the stairs and a woman standing aside .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   51 The_AT picture_NN1 was_VBDZ taken_VVN right_RR in_II31 front_II32 of_II33 the_AT stairs_NN2 with_IW four_MC children_NN2 sitting_VVG on_II the_AT stairs_NN2 and_CC a_AT1 woman_NN1 standing_VVG aside_RL ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   52 If this picture is taken nowadays , the children might not be so hesitated and the woman might not be hunchbacked anymore .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   52 If_CS this_DD1 picture_NN1 is_VBZ taken_VVN nowadays_RT ,_, the_AT children_NN2 might_VM not_XX be_VBI so_RR hesitated_VVN and_CC the_AT woman_NN1 might_VM not_XX be_VBI hunchbacked_VVN@ anymore_RR ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   53 Nowadays , we can see foreigners and cameras everywhere , and we take pictures everyday while she needs to take such a big courage to let a foreigner take a picture of her and her children in the 1900s .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   53 Nowadays_RT ,_, we_PPIS2 can_VM see_VVI foreigners_NN2 and_CC cameras_NN2 everywhere_RL ,_, and_CC we_PPIS2 take_VV0 pictures_NN2 everyday_JJ while_CS she_PPHS1 needs_VVZ to_TO take_VVI such_DA a_AT1 big_JJ courage_NN1 to_TO let_VVI a_AT1 foreigner_NN1 take_VVI a_AT1 picture_NN1 of_IO her_PPHO1 and_CC her_APPGE children_NN2 in_II the_AT 1900s_MC2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   54 In addition , if their picture was all over public media back in that time , the woman would be considered not loyal to her husband .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   54 In_RR21 addition_RR22 ,_, if_CS their_APPGE picture_NN1 was_VBDZ all_RR over_II public_JJ media_NN back_RP in_II that_DD1 time_NNT1 ,_, the_AT woman_NN1 would_VM be_VBI considered_VVN not_XX loyal_JJ to_II her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   55 Today , the picture is for us to see what a typical Chinese family looked like in the 1900s whereas if it were shown in the past massively , it would be a shame because women , especially married ones , should not be seen by a lot of people .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   55 Today_RT ,_, the_AT picture_NN1 is_VBZ for_IF us_PPIO2 to_TO see_VVI what_DDQ a_AT1 typical_JJ Chinese_JJ family_NN1 looked_VVN like_II in_II the_AT 1900s_MC2 whereas_CS if_CS it_PPH1 were_VBDR shown_VVN in_II the_AT past_NN1 massively_RR ,_, it_PPH1 would_VM be_VBI a_AT1 shame_NN1 because_CS women_NN2 ,_, especially_RR married_JJ ones_NN2 ,_, should_VM not_XX be_VBI seen_VVN by_II a_AT1 lot_NN1 of_IO people_NN ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    4   56 They were considered to stay inside of the houses and serve their families .
+SENTPOS 2014_4_101_500_543_2 FINAL B    4   56 They_PPHS2 were_VBDR considered_VVN to_TO stay_VVI inside_RL of_IO the_AT houses_NN2 and_CC serve_VVI their_APPGE families_NN2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    5   57 A Chinese family successfully showed us what a typical Chinese family looked like during 1898 and 1905 .
+SENTPOS 2014_4_101_500_543_2 FINAL B    5   57 A_AT1 Chinese_JJ family_NN1 successfully_RR showed_VVD us_PPIO2 what_DDQ a_AT1 typical_JJ Chinese_JJ family_NN1 looked_VVN like_II during_II 1898_MC and_CC 1905_MC ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    5   58 It includes a lot more context when we look deeply into it .
+SENTPOS 2014_4_101_500_543_2 FINAL B    5   58 It_PPH1 includes_VVZ a_RR21@ lot_RR22 more_DAR context_NN1 when_CS we_PPIS2 look_VV0 deeply_RR into_II it_PPH1 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    5   59 Visual text is more powerful than printed text sometimes .
+SENTPOS 2014_4_101_500_543_2 FINAL B    5   59 Visual_JJ text_NN1 is_VBZ more_RGR powerful_JJ than_CSN printed_JJ text_NN1 sometimes_RT ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    5   60 It also gives people the exact look of what things look like instead of people imagining by themselves .
+SENTPOS 2014_4_101_500_543_2 FINAL B    5   60 It_PPH1 also_RR gives_VVZ people_NN the_AT exact_JJ look_NN1 of_IO what_DDQ things_NN2 look_VV0 like_II instead_RR of_IO people_NN imagining_VVG by_II themselves_PPX2 ._.
+SENTPOS 2014_4_101_500_543_2 FINAL A    5   60  In this particular case , a printed picture works a lot better than printed text because it is hard to imagine people across the ocean more than a hundred years ago .
+SENTPOS 2014_4_101_500_543_2 FINAL B    5   60  In_II this_DD1 particular_JJ case_NN1 ,_, a_AT1 printed_JJ picture_NN1 works_VVZ a_RR21@ lot_RR22 better_RRR than_CSN printed_JJ text_NN1 because_CS it_PPH1 is_VBZ hard_JJ to_TO imagine_VVI people_NN across_II the_AT ocean_NN1 more_DAR than_CSN a_AT1 hundred_NNO years_NNT2 ago_RA ._.

@@ -1,0 +1,118 @@
+SENTPOS 2014_4_101_000_089_4 FINAL A    0    0 The classic princess fairytales , such as Cinderella , Sleeping Beauty , Snow White , etc. , involve the oh-so-romantic Prince coming to the rescue and sweeping the princess off her feet .
+SENTPOS 2014_4_101_000_089_4 FINAL B    0    0 The_AT classic_JJ princess_NN1 fairytales_NN2 ,_, such_II21 as_II22 Cinderella_NP1 ,_, Sleeping_JJ Beauty_NN1 ,_, Snow_NP1 White_NP1 ,_, etc._RA ,_, involve_VV0 the_AT oh-so-romantic_JJ Prince_NN1 coming_VVG to_II the_AT rescue_NN1 and_CC sweeping_VVG@ the_AT princess_NN1 off_II her_APPGE feet_NN2 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    0    1 But even the classics need alternate endings to keep up with the changing times in order to keep their appeal .
+SENTPOS 2014_4_101_000_089_4 FINAL B    0    1 But_CCB even_RR the_AT classics_NN2 need_VV0 alternate_JJ endings_NN2 to_TO keep_VVI up_RP with_IW the_AT changing_JJ times_NNT2 in_BCL21 order_BCL22 to_TO keep_VVI their_APPGE appeal_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    0    2 For instance , the recently released Maleficent is the story of Sleeping Beauty , yet the ending now appeals to our generation of a strong female lead that does not need a man 's help to fix her problems .
+SENTPOS 2014_4_101_000_089_4 FINAL B    0    2 For_REX21 instance_REX22 ,_, the_AT recently_RR released_VVN Maleficent_NP1 is_VBZ the_AT story_NN1 of_IO Sleeping_JJ Beauty_NN1 ,_, yet_RR the_AT ending_NN1 now_RT appeals_VVZ@ to_II our_APPGE generation_NN1 of_IO a_AT1 strong_JJ female_NN1 lead_VV0 that_CST does_VDZ not_XX need_VVI a_AT1 man_NN1 's_GE help_NN1 to_TO fix_VVI her_APPGE problems_NN2 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    0    3 " Story of An Hour " by Kate Chopin and " There Was Once " by Margaret Atwood are prime examples of what it means to change or reinvent the traditional " I need a man " female plot .
+SENTPOS 2014_4_101_000_089_4 FINAL B    0    3 "_" Story_NN1 of_IO An_AT1 Hour_NNT1 "_" by_II Kate_NP1 Chopin_NP1 and_CC "_" There_EX Was_VBDZ Once_RR "_" by_II Margaret_NP1 Atwood_NP1 are_VBR prime_JJ examples_NN2 of_IO what_DDQ it_PPH1 means_VVZ to_TO change_VVI or_CC reinvent_VVI the_AT traditional_JJ "_" I_PPIS1 need_VV0 a_AT1 man_NN1 "_" female_NN1 plot_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    0    4 Both stories share this new feminist approach into literature , yet they differ in how each develops the feministic qualities and the female character .
+SENTPOS 2014_4_101_000_089_4 FINAL B    0    4 Both_DB2 stories_NN2 share_VV0 this_DD1 new_JJ feminist_JJ approach_NN1 into_II literature_NN1 ,_, yet_RR they_PPHS2 differ_VV0 in_II how_RRQ each_DD1 develops_VVZ the_AT feministic_JJ qualities_NN2 and_CC the_AT female_JJ character_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    1    5 The first contrast to help us better understand the stories is the way they are told .
+SENTPOS 2014_4_101_000_089_4 FINAL B    1    5 The_AT first_MD contrast_NN1 to_TO help_VVI us_PPIO2 better_RRR understand_VVI the_AT stories_NN2 is_VBZ the_AT way_NN1 they_PPHS2 are_VBR told_VVN ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    1    6 " Story of an Hour " is a complete , traditional story with a beginning , middle and end .
+SENTPOS 2014_4_101_000_089_4 FINAL B    1    6 "_" Story_NN1 of_IO an_AT1 Hour_NNT1 "_" is_VBZ a_AT1 complete_JJ ,_, traditional_JJ story_NN1 with_IW a_AT1 beginning_NN1 ,_, middle_JJ and_CC end_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    1    7 We , as readers , are simply reading what is already set in stone and finding out what will happen event after event .
+SENTPOS 2014_4_101_000_089_4 FINAL B    1    7 We_PPIS2 ,_, as_CSA readers_NN2 ,_, are_VBR simply_RR reading_VVG what_DDQ is_VBZ already_RR set_VVN in_II stone_NN1 and_CC finding_VVG out_RP what_DDQ will_VM happen_VVI event_NN1 after_II event_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    1    8 In " There Was Once , " the text is in the form of an argument or dialogue .
+SENTPOS 2014_4_101_000_089_4 FINAL B    1    8 In_II "_" There_RL Was_VBDZ Once_RR ,_, "_" the_AT text_NN1 is_VBZ in_II the_AT form_NN1 of_IO an_AT1 argument_NN1 or_CC dialogue_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    1    9 There is virtually no middle or end in this because the whole story is a conversation on how the beginning of a classic fairytale should start .
+SENTPOS 2014_4_101_000_089_4 FINAL B    1    9 There_EX is_VBZ virtually_RR no_AT middle_NN1 or_CC end_VV0 in_II this_DD1 because_CS the_AT whole_JJ story_NN1 is_VBZ a_AT1 conversation_NN1 on_II how_RRQ the_AT beginning_NN1 of_IO a_AT1 classic_JJ fairytale_NN1 should_VM start_VVI ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    1   10 The whole story criticizes how the first line of traditional fairytales start and does not continue from that point on .
+SENTPOS 2014_4_101_000_089_4 FINAL B    1   10 The_AT whole_JJ story_NN1 criticizes_VVZ how_RRQ the_AT first_MD line_NN1 of_IO traditional_JJ fairytales_NN2 start_VV0 and_CC does_VDZ not_XX continue_VVI from_II that_DD1 point_NN1 on_RP@ ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   11 Both stories also revolve around a female and her journey into realizing independence .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   11 Both_DB2 stories_NN2 also_RR revolve_VV0 around_RP a_AT1 female_NN1 and_CC her_APPGE journey_NN1 into_II realizing_VVG independence_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   12 The difference is that Mrs. Mallard ( " Story of an Hour " ) struggles into accepting this new mindset because in her time it was considered unnatural , un-lady like , rude , etc .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   12 The_AT difference_NN1 is_VBZ that_CST Mrs._NNB Mallard_NP1 (_( "_" Story_NN1 of_IO an_AT1 Hour_NNT1 "_" )_) struggles_VVZ into_II accepting_VVG this_DD1 new_JJ mindset_NN1 because_CS in_II her_APPGE time_NNT1 it_PPH1 was_VBDZ considered_VVN unnatural_JJ ,_, un-lady_NN1 like_II ,_, rude_JJ ,_, etc_RA ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   13 " She was beginning to recognize this thing that was approaching to possess her , and she was striving to beat it back with her will . "
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   13 "_" She_PPHS1 was_VBDZ beginning_VVG to_TO recognize_VVI this_DD1 thing_NN1 that_CST was_VBDZ approaching_VVG to_TO possess_VVI her_PPHO1 ,_, and_CC she_PPHS1 was_VBDZ striving_VVG to_TO beat_VVI it_PPH1 back_RP with_IW her_APPGE will_NN1@ ._. "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   14 This quote demonstrates the conflict Mrs. Mallard feels .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   14 This_DD1 quote_NN1 demonstrates_VVZ the_AT conflict_NN1 Mrs._NNB Mallard_NP1 feels_VVZ ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   15 She goes through emotional highs and lows and does not quite realize that what she is going through is a total feminist concept of independence ; all she knows is that it is a refreshing feeling .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   15 She_PPHS1 goes_VVZ through_II emotional_JJ highs_NN2 and_CC lows_NN2 and_CC does_VDZ not_XX quite_RR@ realize_VVI that_DD1 what_DDQ she_PPHS1 is_VBZ going_VVG through_RP@ is_VBZ a_AT1 total_JJ feminist_JJ concept_NN1 of_IO independence_NN1 ;_; all_DB she_PPHS1 knows_VVZ is_VBZ that_CST it_PPH1 is_VBZ a_AT1 refreshing_JJ feeling_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   16 On the other hand , in " There Was Once , " the princess is gaining her own independence from the narrator as we read along and has no internal struggle .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   16 On_II the_AT other_JJ hand_NN1 ,_, in_II "_" There_RL Was_VBDZ Once_RR ,_, "_" the_AT princess_NN1 is_VBZ gaining_VVG her_APPGE own_DA independence_NN1 from_II the_AT narrator_NN1 as_CSA we_PPIS2 read_VV0 along_RP and_CC has_VHZ no_AT internal_JJ struggle_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   17 She actually has an external struggle from a listener who is challenging her development .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   17 She_PPHS1 actually_RR has_VHZ an_AT1 external_JJ struggle_NN1 from_II a_AT1 listener_NN1 who_PNQS is_VBZ challenging_VVG her_APPGE development_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   18 Her chance to grow as a character is always stopped and corrected along the way .
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   18 Her_APPGE chance_NN1 to_TO grow_VVI as_II a_AT1 character_NN1 is_VBZ always_RR stopped_VVN and_CC corrected_VVN along_II the_AT way_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    2   19 For example all the use of hyphens at the end of a phrase indicates the interruption of her development : " There was once a girl- . "
+SENTPOS 2014_4_101_000_089_4 FINAL B    2   19 For_REX21 example_REX22 all_DB the_AT use_NN1 of_IO hyphens_NN2 at_II the_AT end_NN1 of_IO a_AT1 phrase_NN1 indicates_VVZ the_AT interruption_NN1 of_IO her_APPGE development_NN1 :_: "_" There_EX was_VBDZ once_RR a_AT1 girl-_NN1 ._. "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   20 Another contrast between these two feminist stories are from the characters themselves .
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   20 Another_DD1 contrast_NN1 between_II these_DD2 two_MC feminist_JJ stories_NN2 are_VBR from_II the_AT characters_NN2 themselves_PPX2 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   21 Mrs. Mallard is already completely developed and has control of her own actions as a written character .
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   21 Mrs._NNB Mallard_NP1 is_VBZ already_RR completely_RR developed_VVN and_CC has_VHZ control_NN1 of_IO her_APPGE own_DA actions_NN2 as_II a_AT1 written_JJ@ character_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   22 Mrs. Mallard is already a complete process .
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   22 Mrs._NNB Mallard_NP1 is_VBZ already_RR a_AT1 complete_JJ process_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   23 The princess from " There Was Once " is being developed into a more independent female .
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   23 The_AT princess_NN1 from_II "_" There_RL Was_VBDZ Once_RR "_" is_VBZ being_VBG developed_VVN into_II a_AT1 more_RGR independent_JJ female_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   24 We are following along the process of the princess ' development " Stop right there .
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   24 We_PPIS2 are_VBR following_VVG along_II the_AT process_NN1 of_IO the_AT princess_NN1 '_GE development_NN1 "_" Stop_NN1 right_NN1 there_RL ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   25 I think we can cut the beautiful , do n't you ? "
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   25 I_PPIS1 think_VV0 we_PPIS2 can_VM cut_VVI the_AT beautiful_JJ ,_, do_VD0 n't_XX you_PPY ?_? "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    3   26 We get to essentially be there for the character development for the princess .
+SENTPOS 2014_4_101_000_089_4 FINAL B    3   26 We_PPIS2 get_VV0 to_TO essentially_RR be_VBI there_RL for_IF the_AT character_NN1 development_NN1 for_IF the_AT princess_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   27 Also both found a way to incorporate marriage into their stories .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   27 Also_RR both_RR found_VVN a_AT1 way_NN1 to_TO incorporate_VVI marriage_NN1 into_II their_APPGE stories_NN2 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   28 Mrs. Mallard is already married and the princess is destined to be married .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   28 Mrs._NNB Mallard_NP1 is_VBZ already_RR married_JJ and_CC the_AT princess_NN1 is_VBZ destined_VVN to_TO be_VBI married_JJ ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   29 Both also emphasize the negative point of view of marriage .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   29 Both_RR also_RR emphasize_VV0 the_AT negative_JJ point_NN1 of_IO view_NN1 of_IO marriage_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   30 Mrs. Mallard almost regrets the marriage and has a moment when she is happy about her new independence because her husband is dead : " What could love , the unsolved mystery , count for in the face of this possession of self-assertion which she suddenly recognized as the strongest impulse of her being ! "
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   30 Mrs._NNB Mallard_NP1 almost_RR regrets_VVZ the_AT marriage_NN1 and_CC has_VHZ a_AT1 moment_NN1 when_RRQ she_PPHS1 is_VBZ happy_JJ about_II her_APPGE new_JJ independence_NN1 because_CS her_APPGE husband_NN1 is_VBZ dead_JJ :_: "_" What_DDQ could_VM love_VVI ,_, the_AT unsolved_JJ mystery_NN1 ,_, count_VV0 for_IF in_II the_AT face_NN1 of_IO this_DD1 possession_NN1 of_IO self-assertion_NN1 which_DDQ she_PPHS1 suddenly_RR recognized_VVN as_II the_AT strongest_JJT impulse_NN1 of_IO her_APPGE being_NN1% !_! "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   31 In " There Was Once , " the story is stopped from having the princess be married so we never get to that point .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   31 In_II "_" There_RL Was_VBDZ Once_RR ,_, "_" the_AT story_NN1 is_VBZ stopped_VVN from_II having_VHG the_AT princess_NN1 be_VBI married_JJ so_CS@ we_PPIS2 never_RR get_VV0 to_II that_DD1 point_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   32 This is a critical factor in the feminist approach .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   32 This_DD1 is_VBZ a_AT1 critical_JJ factor_NN1 in_II the_AT feminist_JJ approach_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   33 Stopping the marriage from happening and having happiness over new found independence both exclude a male .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   33 Stopping_VVG the_AT marriage_NN1 from_II happening_NN1 and_CC having_VHG happiness_NN1 over_RP new_RR found_VVN independence_NN1 both_RR exclude_VV0 a_AT1 male_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    4   34 This only supports the factors of a strong female lead .
+SENTPOS 2014_4_101_000_089_4 FINAL B    4   34 This_DD1 only_RR supports_VVZ the_AT factors_NN2 of_IO a_AT1 strong_JJ female_JJ lead_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   35 The feminist approach between both these stories is from within the main female characters who are both portrayed as strong .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   35 The_AT feminist_JJ approach_NN1 between_II both_DB2 these_DD2 stories_NN2 is_VBZ from_II within_II the_AT main_JJ female_JJ characters_NN2 who_PNQS are_VBR both_RR portrayed_VVN as_CSA strong_JJ ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   36 Mrs. Mallard is strong in the sense that she has the ability to picture life without a husband to provide for her needs " but she saw beyond that bitter moment a long procession of years to come that would belong to her absolutely .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   36 Mrs._NNB Mallard_NP1 is_VBZ strong_JJ in_II the_AT sense_NN1 that_CST she_PPHS1 has_VHZ the_AT ability_NN1 to_TO picture_VVI life_NN1 without_IW a_AT1 husband_NN1 to_TO provide_VVI for_IF her_APPGE needs_NN2 "_" but_CCB she_PPHS1 saw_VVD beyond_II that_DD1 bitter_JJ moment_NN1 a_AT1 long_JJ procession_NN1 of_IO years_NNT2 to_TO come_VVI that_CST would_VM belong_VVI to_II her_PPHO1 absolutely_RR ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   37 And she opened and spread her arms out to them in welcome . "
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   37 And_CC she_PPHS1 opened_VVD and_CC spread_VVD her_APPGE arms_NN2 out_RP to_II them_PPHO2 in_II welcome_NN1 ._. "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   38 The princess is strong in the sense that she is slowly being characterized and developed as less stereotypical .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   38 The_AT princess_NN1 is_VBZ strong_JJ in_II the_AT sense_NN1 that_CST she_PPHS1 is_VBZ slowly_RR being_VBG characterized_VVN and_CC developed_VVN as_RG@ less_RGR stereotypical_JJ ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   39 Both female character developments highlight the modern feminist concept .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   39 Both_RR female_JJ character_NN1 developments_NN2 highlight_VV0 the_AT modern_JJ feminist_JJ concept_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   40 Mrs. Mallard brings out this new mindset from her internal struggle .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   40 Mrs._NNB Mallard_NP1 brings_VVZ out_RP this_DD1 new_JJ mindset_NN1 from_II her_APPGE internal_JJ struggle_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   41 We see that it 's a desire to be a strong , independent female .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   41 We_PPIS2 see_VV0 that_CST it_PPH1 's_VBZ a_AT1 desire_NN1 to_TO be_VBI a_AT1 strong_JJ ,_, independent_JJ female_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   42 We see the happiness it brings to Mrs. Mallard .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   42 We_PPIS2 see_VV0 the_AT happiness_NN1 it_PPH1 brings_VVZ to_II Mrs._NNB Mallard_NP1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   43 In " There Was Once " we get this from a third person view .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   43 In_II "_" There_RL Was_VBDZ Once_RR "_" we_PPIS2 get_VV0 this_DD1 from_II a_AT1 third_MD person_NN1 view_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   44 We are reading into an argument of how helpless traditional fairytales makes females and how females should be less sexualized .
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   44 We_PPIS2 are_VBR reading_VVG into_II an_AT1 argument_NN1 of_IO how_RGQ@ helpless_JJ traditional_JJ fairytales_NN2 makes_VVZ females_NN2 and_CC how_RRQ females_NN2 should_VM be_VBI less_RRR sexualized_VVN ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    5   45 " But I 'm so tired of negative female images ! "
+SENTPOS 2014_4_101_000_089_4 FINAL B    5   45 "_" But_CCB I_PPIS1 'm_VBM so_RG tired_JJ of_IO negative_JJ female_JJ images_NN2 !_! "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    6   46 The strongest support that both stories bring into this feminist approach is the desire to be independent .
+SENTPOS 2014_4_101_000_089_4 FINAL B    6   46 The_AT strongest_JJT support_NN1 that_CST both_DB2 stories_NN2 bring_VV0 into_II this_DD1 feminist_JJ approach_NN1 is_VBZ the_AT desire_NN1 to_TO be_VBI independent_JJ ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    6   47 Feminists refute the idea of having males be dominant and having males be the head of the house .
+SENTPOS 2014_4_101_000_089_4 FINAL B    6   47 Feminists_NN2 refute_VV0 the_AT idea_NN1 of_IO having_VHG males_NN2 be_VBI dominant_JJ and_CC having_VHG males_NN2 be_VBI the_AT head_NN1 of_IO the_AT house_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    6   48 Feminism desire equality for women- that includes not only the right to be independent but the ability to pursue independence without any shame .
+SENTPOS 2014_4_101_000_089_4 FINAL B    6   48 Feminism_NN1 desire_NN1 equality_NN1 for_IF women-_NN1 that_CST includes_VVZ not_XX only_RR the_AT right_NN1 to_TO be_VBI independent_JJ but_CCB the_AT ability_NN1 to_TO pursue_VVI independence_NN1 without_IW any_DD shame_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    6   49 Although Mrs. Mallard struggles with accepting her independence , we know that she should not feel that way- in terms of independence and not the shame from the death of her husband .
+SENTPOS 2014_4_101_000_089_4 FINAL B    6   49 Although_CS Mrs._NNB Mallard_NP1 struggles_VVZ with_IW accepting_VVG her_APPGE independence_NN1 ,_, we_PPIS2 know_VV0 that_CST she_PPHS1 should_VM not_XX feel_VVI that_DD1 way-_NN1 in_II31 terms_II32 of_II33 independence_NN1 and_CC not_XX the_AT shame_NN1 from_II the_AT death_NN1 of_IO her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    7   50 Feminism continues to be more prevalent in our society .
+SENTPOS 2014_4_101_000_089_4 FINAL B    7   50 Feminism_NN1 continues_VVZ to_TO be_VBI more_RGR prevalent_JJ in_II our_APPGE society_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    7   51 It has now become the subject of all types of work : movies , books , poems , art , etc .
+SENTPOS 2014_4_101_000_089_4 FINAL B    7   51 It_PPH1 has_VHZ now_RT become_VV0 the_AT subject_NN1 of_IO all_DB types_NN2 of_IO work_NN1 :_: movies_NN2 ,_, books_NN2 ,_, poems_NN2 ,_, art_NN1 ,_, etc_RA ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    7   52 Feminism has now become its own genre that " Story of an Hour " and " There Was Once " can now be a part of .
+SENTPOS 2014_4_101_000_089_4 FINAL B    7   52 Feminism_NN1 has_VHZ now_RT become_VV0 its_APPGE own_DA genre_NN1 that_CST "_" Story_NN1 of_IO an_AT1 Hour_NNT1 "_" and_CC "_" There_EX Was_VBDZ Once_RR "_" can_VM now_RT be_VBI a_AT1 part_NN1 of_IO ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    8   53 Both Chopin and Atwood give females something to look up to .
+SENTPOS 2014_4_101_000_089_4 FINAL B    8   53 Both_RR Chopin_NP1 and_CC Atwood_NP1 give_VV0 females_NN2 something_PN1 to_TO look_VVI up_II21 to_II22 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    8   54 Chopin may have been more relatable in the sense that it was more realistic , but Atwood completely refutes the traditional princess stories our generation used to grow up with .
+SENTPOS 2014_4_101_000_089_4 FINAL B    8   54 Chopin_NP1 may_VM have_VHI been_VBN more_RGR relatable_JJ in_II the_AT sense_NN1 that_CST it_PPH1 was_VBDZ more_RGR realistic_JJ ,_, but_CCB Atwood_NP1 completely_RR refutes_VVZ the_AT traditional_JJ princess_NN1 stories_NN2 our_APPGE generation_NN1 used_VMK to_TO grow_VVI up_RP with_IW ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    8   55 You could say that Chopin was the Atwood in her day and that Atwood is the Chopin in our day .
+SENTPOS 2014_4_101_000_089_4 FINAL B    8   55 You_PPY could_VM say_VVI that_CST Chopin_NP1 was_VBDZ the_AT Atwood_NP1 in_II her_APPGE day_NNT1 and_CC that_CST Atwood_NP1 is_VBZ the_AT Chopin_NP1 in_II our_APPGE day_NNT1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    9   56 Although " Story of an Hour " was written way before " There Was Once " and in " There Was Once " we get the modern and current vibe , " There Was Once " actually supports " Story of an Hour . "
+SENTPOS 2014_4_101_000_089_4 FINAL B    9   56 Although_CS "_" Story_NN1 of_IO an_AT1 Hour_NNT1 "_" was_VBDZ written_VVN way_NN1 before_CS "_" There_EX Was_VBDZ Once_RR "_" and_CC in_II "_" There_RL Was_VBDZ Once_RR "_" we_PPIS2 get_VV0 the_AT modern_JJ and_CC current_JJ vibe_NN1 ,_, "_" There_EX Was_VBDZ Once_RR "_" actually_RR supports_VVZ "_" Story_NN1 of_IO an_AT1 Hour_NNT1 ._. "_"
+SENTPOS 2014_4_101_000_089_4 FINAL A    9   57 " There Was Once " explains the process of changing how stories are told and " Story of an Hour " is the changed story .
+SENTPOS 2014_4_101_000_089_4 FINAL B    9   57 "_" There_EX Was_VBDZ Once_RR "_" explains_VVZ the_AT process_NN1 of_IO changing_VVG how_RRQ stories_NN2 are_VBR told_VVN and_CC "_" Story_NN1 of_IO an_AT1 Hour_NNT1 "_" is_VBZ the_AT changed_JJ@ story_NN1 ._.
+SENTPOS 2014_4_101_000_089_4 FINAL A    9   57  " There Was Once " as a whole is the process of changing the stereotype and Mrs. Mallard is the result .
+SENTPOS 2014_4_101_000_089_4 FINAL B    9   57  "_" There_EX Was_VBDZ Once_RR "_" as_II a_AT1 whole_NN1 is_VBZ the_AT process_NN1 of_IO changing_VVG the_AT stereotype_NN1 and_CC Mrs._NNB Mallard_NP1 is_VBZ the_AT result_NN1 ._.

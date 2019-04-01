@@ -1,0 +1,138 @@
+SENTPOS 2014_4_101_500_542_2 FINAL A    0    0 Paintings are a language that can help us appreciate everything around us .
+SENTPOS 2014_4_101_500_542_2 FINAL B    0    0 Paintings_NN2 are_VBR a_AT1 language_NN1 that_CST can_VM help_VVI us_PPIO2 appreciate_VVI everything_PN1 around_II us_PPIO2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    0    1 Understanding what lies around determines actively our ability to analyze any work of art .
+SENTPOS 2014_4_101_500_542_2 FINAL B    0    1 Understanding_NN1 what_DDQ lies_VVZ around_RP determines_VVZ actively_RR our_APPGE ability_NN1 to_TO analyze_VVI any_DD work_NN1 of_IO art_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    0    2 In The Ghost - A Christmas Frolic , we can observe small details and gradually look at the bigger picture to find what is happening .
+SENTPOS 2014_4_101_500_542_2 FINAL B    0    2 In_II The_AT Ghost_NN1 -_- A_AT1@ Christmas_NNT1 Frolic_NN1 ,_, we_PPIS2 can_VM observe_VVI small_JJ details_NN2 and_CC gradually_RR look_VV0 at_II the_AT bigger_JJR picture_NN1 to_TO find_VVI what_DDQ is_VBZ happening_VVG ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    0    3 We can combine the title of the story with its coloring to seek how is it involved in the story , and lastly ; we can see through the biggest picture , as a person how to do we see the painting and what can it brings that written texts can not .
+SENTPOS 2014_4_101_500_542_2 FINAL B    0    3 We_PPIS2 can_VM combine_VVI the_AT title_NN1 of_IO the_AT story_NN1 with_IW its_APPGE coloring_NN1 to_TO seek_VVI how_RRQ is_VBZ it_PPH1 involved_JJ in_II the_AT story_NN1 ,_, and_CC lastly_RR ;_; we_PPIS2 can_VM see_VVI through_II the_AT biggest_JJT picture_NN1 ,_, as_CSA a_AT1 person_NN1 how_RRQ to_TO do_VDI we_PPIS2 see_VVI the_AT painting_NN1 and_CC what_DDQ can_VM it_PPH1 brings_VVZ that_DD1 written_JJ@ texts_NN2 can_VM not_XX ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    0    4 These techniques are to be used to look at this painting in a different perspective .
+SENTPOS 2014_4_101_500_542_2 FINAL B    0    4 These_DD2 techniques_NN2 are_VBR to_TO be_VBI used_VVN to_TO look_VVI at_II this_DD1 painting_NN1 in_II a_AT1 different_JJ perspective_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    0    5 The standpoint is a prank done by a little boy , which led to a horrible mistake of prejudging and panicking .
+SENTPOS 2014_4_101_500_542_2 FINAL B    0    5 The_AT standpoint_NN1 is_VBZ a_AT1 prank_NN1 done_VDN by_II a_AT1 little_JJ boy_NN1 ,_, which_DDQ led_VVD to_II a_AT1 horrible_JJ mistake_NN1 of_IO prejudging_VVG and_CC panicking_VVG ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    1    6 Paintings , mounted trophies , and a pendulum clock decorates the room that the The Ghost - A Christmas Frolic sets in .
+SENTPOS 2014_4_101_500_542_2 FINAL B    1    6 Paintings_NN2 ,_, mounted_JJ trophies_NN2 ,_, and_CC a_AT1 pendulum_NN1 clock_NN1 decorates_VVZ the_AT room_NN1 that_CST the_AT The_AT Ghost_NN1 -_- A_AT1@ Christmas_NNT1 Frolic_NN1 sets_VVZ in_RP@ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    1    7 In terms of paintings , these objects are not present for the sake of decorations .
+SENTPOS 2014_4_101_500_542_2 FINAL B    1    7 In_II31 terms_II32 of_II33 paintings_NN2 ,_, these_DD2 objects_NN2 are_VBR not_XX present_JJ for_IF the_AT sake_NN1 of_IO decorations_NN2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    1    8 Each of the objects mentioned are a symbol that represent and support the painting and give it a deeper understanding .
+SENTPOS 2014_4_101_500_542_2 FINAL B    1    8 Each_DD1 of_IO the_AT objects_NN2 mentioned_VVN are_VBR a_AT1 symbol_NN1 that_CST represent_VV0 and_CC support_VV0 the_AT painting_NN1 and_CC give_VV0 it_PPH1 a_AT1 deeper_JJR understanding_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    1    9 They give the painting answers to questions that are raised by the spectator .
+SENTPOS 2014_4_101_500_542_2 FINAL B    1    9 They_PPHS2 give_VV0 the_AT painting_NN1 answers_VVZ to_II questions_NN2 that_CST are_VBR raised_VVN by_II the_AT spectator_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    1   10 These objects show the whereabouts of the painting .
+SENTPOS 2014_4_101_500_542_2 FINAL B    1   10 These_DD2 objects_NN2 show_VV0 the_AT whereabouts_NN2 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    1   11 It shows , according to what we see in the painting , which the painting is at a house of a rich person in the mid eighteenth century .
+SENTPOS 2014_4_101_500_542_2 FINAL B    1   11 It_PPH1 shows_VVZ ,_, according_II21 to_II22 what_DDQ we_PPIS2 see_VV0 in_II the_AT painting_NN1 ,_, which_DDQ the_AT painting_NN1 is_VBZ at_II a_AT1 house_NN1 of_IO a_AT1 rich_JJ person_NN1 in_II the_AT mid_JJ eighteenth_MD century_NNT1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   12 By observing outfits that each person is wearing , and the shattered glass with bottles of wine , it is safe to say that there was a well-dressed party , for a high class of men and women , ruined by the apparent of the ghost .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   12 By_II observing_VVG outfits_NN2 that_CST each_DD1 person_NN1 is_VBZ wearing_VVG ,_, and_CC the_AT shattered_JJ glass_NN1 with_IW bottles_NN2 of_IO wine_NN1 ,_, it_PPH1 is_VBZ safe_JJ to_TO say_VVI that_CST there_EX was_VBDZ a_AT1 well-dressed_JJ party_NN1 ,_, for_IF a_AT1 high_JJ class_NN1 of_IO men_NN2 and_CC women_NN2 ,_, ruined_VVN by_II the_AT apparent_JJ of_IO the_AT ghost_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   13 If we look closely to the ghost , we see him holding a candle with right hand and stretching the left .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   13 If_CS we_PPIS2 look_VV0 closely_RR to_II the_AT ghost_NN1 ,_, we_PPIS2 see_VV0 him_PPHO1 holding_VVG a_AT1 candle_NN1 with_IW right_JJ hand_NN1 and_CC stretching_VVG the_AT left_JJ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   14 The candle is the source of light in the painting .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   14 The_AT candle_NN1 is_VBZ the_AT source_NN1 of_IO light_NN1 in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   15 Looking at the fact that it is with the ghost , it presents horror to the people that are in the room .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   15 Looking_VVG at_II the_AT fact_NN1 that_CST it_PPH1 is_VBZ with_IW the_AT ghost_NN1 ,_, it_PPH1 presents_VVZ horror_NN1 to_II the_AT people_NN that_CST are_VBR in_II the_AT room_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   16 The painting is trying to make us feel how we will feel if we were in those people 's shoes .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   16 The_AT painting_NN1 is_VBZ trying_VVG to_TO make_VVI us_PPIO2 feel_VVI how_RRQ we_PPIS2 will_VM feel_VVI if_CS we_PPIS2 were_VBDR in_II those_DD2 people_NN 's_GE shoes_NN2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   17 We see both his hand , but we do not see his legs .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   17 We_PPIS2 see_VV0 both_RR his_APPGE hand_NN1 ,_, but_CCB we_PPIS2 do_VD0 not_XX see_VVI his_APPGE legs_NN2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   18 The stretch in his hand symbolizes crucifixion .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   18 The_AT stretch_NN1@ in_II his_APPGE hand_NN1 symbolizes_VVZ crucifixion_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   19 Because it is named Christmas frolic , we can assume that it is time of Christmas .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   19 Because_CS it_PPH1 is_VBZ named_JJ@ Christmas_NNT1 frolic_NN1 ,_, we_PPIS2 can_VM assume_VVI that_CST it_PPH1 is_VBZ time_NNT1 of_IO Christmas_NNT1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   20 This gives a paradoxical image because of the time .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   20 This_DD1 gives_VVZ a_AT1 paradoxical_JJ image_NN1 because_II21 of_II22 the_AT time_NNT1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   21 Because it has a relation of Jesus and crucifixion , the symbol of stretching arms of the ghost gave the assumption of impersonating Jesus .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   21 Because_CS it_PPH1 has_VHZ a_AT1 relation_NN1 of_IO Jesus_NP1 and_CC crucifixion_NN1 ,_, the_AT symbol_NN1 of_IO stretching_VVG arms_NN2 of_IO the_AT ghost_NN1 gave_VVD the_AT assumption_NN1 of_IO impersonating_VVG Jesus_NP1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   22 Another thing is that th ghost has an upper body of a human , but a lower body made from wood .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   22 Another_DD1 thing_NN1 is_VBZ that_CST th_NNU ghost_NN1 has_VHZ an_AT1 upper_JJ body_NN1 of_IO a_AT1 human_NN1 ,_, but_CCB a_AT1 lower_JJR body_NN1 made_VVN from_II wood_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   23 This shows a scarier concept assuming that he is neither a human nor a non-living thing .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   23 This_DD1 shows_VVZ a_AT1 scarier_JJR concept_NN1 assuming_VVG that_CST he_PPHS1 is_VBZ neither_RR a_AT1 human_NN1 nor_CC a_AT1 non-living_JJ thing_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   24 However , if we look to what is behind the ghost , we see a small boy with a big smile on his face .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   24 However_RR ,_, if_CS we_PPIS2 look_VV0 to_II what_DDQ is_VBZ behind_II the_AT ghost_NN1 ,_, we_PPIS2 see_VV0 a_AT1 small_JJ boy_NN1 with_IW a_AT1 big_JJ smile_NN1 on_II his_APPGE face_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   25 It shows as if this child is the one who is holding this so-called ghost .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   25 It_PPH1 shows_VVZ as_CS21 if_CS22 this_DD1 child_NN1 is_VBZ the_AT one_PN1 who_PNQS is_VBZ holding_VVG this_DD1 so-called_JJ ghost_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    2   26 A trick made by a little boy who managed to scare sophisticated , elegant people by using simple trick and was supported with time and place .
+SENTPOS 2014_4_101_500_542_2 FINAL B    2   26 A_AT1 trick_NN1 made_VVN by_II a_AT1 little_JJ boy_NN1 who_PNQS managed_VVD to_TO scare_VVI sophisticated_JJ ,_, elegant_JJ people_NN by_II using_VVG simple_JJ trick_NN1 and_CC was_VBDZ supported_VVN with_IW time_NNT1 and_CC place_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    3   27 If we took a step back and saw the painting in a more general perspective , we do not see this boy , but we see people who are in panic and scared .
+SENTPOS 2014_4_101_500_542_2 FINAL B    3   27 If_CS we_PPIS2 took_VVD a_AT1 step_NN1 back_RP and_CC saw_VVD the_AT painting_NN1 in_II a_AT1 more_RGR general_JJ perspective_NN1 ,_, we_PPIS2 do_VD0 not_XX see_VVI this_DD1 boy_NN1 ,_, but_CCB we_PPIS2 see_VV0 people_NN who_PNQS are_VBR in_II panic_NN1 and_CC scared_JJ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    3   28 It shows how people react and judge before even seeing the whole picture .
+SENTPOS 2014_4_101_500_542_2 FINAL B    3   28 It_PPH1 shows_VVZ how_RRQ people_NN react_VV0 and_CC judge_VV0 before_II even_RR seeing_VVG the_AT whole_JJ picture_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    3   29 Even though it is a bad joke , it led people to react in such a behavior that some of them fell into the ground and hurt themselves .
+SENTPOS 2014_4_101_500_542_2 FINAL B    3   29 Even_CS21 though_CS22 it_PPH1 is_VBZ a_AT1 bad_JJ joke_NN1 ,_, it_PPH1 led_VVD people_NN to_TO react_VVI in_II such_DA a_AT1 behavior_NN1 that_CST some_DD of_IO them_PPHO2 fell_VVD into_II the_AT ground_NN1 and_CC hurt_VV0 themselves_PPX2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    3   30 We feel panic looking at this picture and how people react to something extraordinary .
+SENTPOS 2014_4_101_500_542_2 FINAL B    3   30 We_PPIS2 feel_VV0 panic_NN1 looking_VVG at_II this_DD1 picture_NN1 and_CC how_RRQ people_NN react_VV0 to_II something_PN1 extraordinary_JJ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    3   31 We also see how this little boy made the biggest joke of making this ghost appear at a casual party .
+SENTPOS 2014_4_101_500_542_2 FINAL B    3   31 We_PPIS2 also_RR see_VV0 how_RRQ this_DD1 little_JJ boy_NN1 made_VVD the_AT biggest_JJT joke_NN1 of_IO making_VVG this_DD1 ghost_NN1 appear_VVI at_II a_AT1 casual_JJ party_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   32 The title of the painting combined with the coloring of it completes the story and the morale of the painting .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   32 The_AT title_NN1 of_IO the_AT painting_NN1 combined_VVN with_IW the_AT coloring_NN1 of_IO it_PPH1 completes_VVZ the_AT story_NN1 and_CC the_AT morale_NN1 of_IO the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   33 A Christmas Frolic demands us to find the frolic , or thriller , that is in the painting .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   33 A_AT1 Christmas_NNT1 Frolic_NN1 demands_VVZ@ us_PPIO2 to_TO find_VVI the_AT frolic_NN1 ,_, or_CC thriller_NN1 ,_, that_DD1 is_VBZ in_II the_AT painting_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   34 It makes us look closely to what we might not see from the first sight .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   34 It_PPH1 makes_VVZ us_PPIO2 look_VVI closely_RR to_II what_DDQ we_PPIS2 might_VM not_XX see_VVI from_II the_AT first_MD sight_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   35 It shows that the story sets in time of Christmas and , for fun , this little boy decided to ruin a Christmas party by bringing up a ghost that caused everyone to panic .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   35 It_PPH1 shows_VVZ that_CST the_AT story_NN1 sets_VVZ in_II time_NNT1 of_IO Christmas_NNT1 and_CC ,_, for_IF fun_NN1 ,_, this_DD1 little_JJ boy_NN1 decided_VVD to_TO ruin_VVI a_AT1 Christmas_NNT1 party_NN1 by_II bringing_VVG up_RP a_AT1 ghost_NN1 that_CST caused_VVD everyone_PN1 to_TO panic_VVI ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   36 The cream color in dark place while wearing a white cloth will definitely strike fear and horror .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   36 The_AT cream_NN1 color_NN1 in_II dark_JJ place_NN1 while_CS wearing_VVG a_AT1 white_JJ cloth_NN1 will_VM definitely_RR strike_VVI fear_NN1 and_CC horror_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   37 We live in an idea that colorful paintings show happiness .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   37 We_PPIS2 live_VV0 in_II an_AT1 idea_NN1 that_CST colorful_JJ paintings_NN2 show_VV0 happiness_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   38 Paintings , such as this one , who have one colored , dark , and unsaturated theme gives the emotion of panic and horror .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   38 Paintings_NN2 ,_, such_II21 as_II22 this_DD1 one_PN1 ,_, who_PNQS have_VH0 one_PN1 colored_VVN ,_, dark_NN1 ,_, and_CC unsaturated_JJ theme_NN1 gives_VVZ the_AT emotion_NN1 of_IO panic_NN1 and_CC horror_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   39 In this case , this cream color fits the picture completely and having a monochromic painting makes the viewer focus on the color and let it be felt by his heart rather deeply .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   39 In_II this_DD1 case_NN1 ,_, this_DD1 cream_NN1 color_NN1 fits_VVZ the_AT picture_NN1 completely_RR and_CC having_VHG a_AT1 monochromic_JJ painting_NN1 makes_VVZ the_AT viewer_NN1 focus_NN1 on_II the_AT color_NN1 and_CC let_VV0 it_PPH1 be_VBI felt_VVN by_II his_APPGE heart_NN1 rather_RG deeply_RR ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    4   40 This ghost carries the light source that attracts everyone 's attention ad starts to open his arms making everyone screams in fear and panic .
+SENTPOS 2014_4_101_500_542_2 FINAL B    4   40 This_DD1 ghost_NN1 carries_VVZ the_AT light_JJ source_NN1 that_CST attracts_VVZ everyone_PN1 's_GE attention_NN1 ad_NN1 starts_VVZ to_TO open_VVI his_APPGE arms_NN2 making_VVG everyone_PN1 screams_VVZ in_II fear_NN1 and_CC panic_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   41 The angle at which we see this painting is like a " third-eyed view . "
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   41 The_AT angle_NN1 at_II which_DDQ we_PPIS2 see_VV0 this_DD1 painting_NN1 is_VBZ like_II a_AT1 "_" third-eyed_JJ view_NN1 ._. "_"
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   42 We see in an angle that sees everything happening and not being involved .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   42 We_PPIS2 see_VV0 in_II an_AT1 angle_NN1 that_CST sees_VVZ everything_PN1 happening_VVG and_CC not_XX being_VBG involved_VVN ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   43 It is like standing on the corner while this event is going on and observing what is happening without interacting .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   43 It_PPH1 is_VBZ like_II standing_VVG on_II the_AT corner_NN1 while_CS this_DD1 event_NN1 is_VBZ going_VVG on_RP@ and_CC observing_VVG what_DDQ is_VBZ happening_VVG without_IW interacting_JJ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   44 This gives the " bigger picture " advantage .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   44 This_DD1 gives_VVZ the_AT "_" bigger_JJR picture_NN1 "_" advantage_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   45 We could see from these angle details , reality to what is going on , and people who are in the scene can not see it such as the little boy is architects of this scene .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   45 We_PPIS2 could_VM see_VVI from_II these_DD2 angle_NN1 details_NN2 ,_, reality_NN1 to_II what_DDQ is_VBZ going_VVG on_RP@ ,_, and_CC people_NN who_PNQS are_VBR in_II the_AT scene_NN1 can_VM not_XX see_VVI it_PPH1 such_II21 as_II22 the_AT little_JJ boy_NN1 is_VBZ architects_NN2 of_IO this_DD1 scene_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   46 In addition , we get the advantage to assume what will happen next .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   46 In_RR21 addition_RR22 ,_, we_PPIS2 get_VV0 the_AT advantage_NN1 to_TO assume_VVI what_DDQ will_VM happen_VVI next_MD ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   47 We can see on the top of the staircase is an old man , who looks like the host and most likely a parent to the little boy , looking at his party in chaos in astonishment .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   47 We_PPIS2 can_VM see_VVI on_II the_AT top_NN1 of_IO the_AT staircase_NN1 is_VBZ an_AT1 old_JJ man_NN1 ,_, who_PNQS looks_VVZ like_II the_AT host_NN1 and_CC most_RGT likely_JJ a_AT1 parent_NN1 to_II the_AT little_JJ boy_NN1 ,_, looking_VVG at_II his_APPGE party_NN1 in_II chaos_NN1 in_II astonishment_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   48 We can predict that later he finds out that this little boy is in charge of this chaos ; he might scold him or punish him in another way .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   48 We_PPIS2 can_VM predict_VVI that_DD1 later_RRR he_PPHS1 finds_VVZ out_RP that_CST this_DD1 little_JJ boy_NN1 is_VBZ in_II31 charge_II32 of_II33 this_DD1 chaos_NN1 ;_; he_PPHS1 might_VM scold_VVI him_PPHO1 or_CC punish_VV0 him_PPHO1 in_II another_DD1 way_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   49 This shows how this angle can give person opportunities to looks and observe elements that a person involved would not see .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   49 This_DD1 shows_VVZ how_RRQ this_DD1 angle_NN1 can_VM give_VVI person_NN1 opportunities_NN2 to_II looks_NN2@ and_CC observe_VVI elements_NN2 that_CST a_AT1 person_NN1 involved_VVN would_VM not_XX see_VVI ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   50 We can see that people in this painting acted before thinking .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   50 We_PPIS2 can_VM see_VVI that_CST people_NN in_II this_DD1 painting_NN1 acted_VVN before_II thinking_VVG ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   51 First of all , they did not let logic stand and see that there are no ghosts in real life .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   51 First_MD of_IO all_DB ,_, they_PPHS2 did_VDD not_XX let_VVI logic_NN1 stand_NN1 and_CC see_VVI that_CST there_EX are_VBR no_AT ghosts_NN2 in_II real_JJ life_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   52 Secondly , a ghost will never hold up a light and start to swing it because if there were ghost , they are mixture of gases and/or souls .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   52 Secondly_RR ,_, a_AT1 ghost_NN1 will_VM never_RR hold_VVI up_RP a_AT1 light_NN1 and_CC start_VVI to_TO swing_VVI it_PPH1 because_CS if_CS there_EX were_VBDR ghost_NN1 ,_, they_PPHS2 are_VBR mixture_NN1 of_IO gases_NN2 and/or_CC souls_NN2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   53 It is something that is not physical .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   53 It_PPH1 is_VBZ something_PN1 that_CST is_VBZ not_XX physical_JJ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   54 But for these people , emotions of panic and anxiety get the better of them .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   54 But_CCB for_IF these_DD2 people_NN ,_, emotions_NN2 of_IO panic_NN1 and_CC anxiety_NN1 get_VV0 the_AT better_JJR of_IO them_PPHO2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   55 This is something that is usually in real life .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   55 This_DD1 is_VBZ something_PN1 that_CST is_VBZ usually_RR in_II real_JJ life_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   56 Getting the emotions in the way of judging and deciding is something that many people do .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   56 Getting_VVG the_AT emotions_NN2 in_II the_AT way_NN1 of_IO judging_VVG and_CC deciding_VVG is_VBZ something_PN1 that_CST many_DA2 people_NN do_VD0 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    5   57 It is the concept that this painting shows in a more humorist way .
+SENTPOS 2014_4_101_500_542_2 FINAL B    5   57 It_PPH1 is_VBZ the_AT concept_NN1 that_CST this_DD1 painting_NN1 shows_VVZ in_II a_AT1 more_DAR humorist_NN1 way_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    6   58 We can assume that first impression is overrated .
+SENTPOS 2014_4_101_500_542_2 FINAL B    6   58 We_PPIS2 can_VM assume_VVI that_DD1 first_MD impression_NN1 is_VBZ overrated_JJ ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    6   59 We judge at everything by the first glance and not take other possibilities .
+SENTPOS 2014_4_101_500_542_2 FINAL B    6   59 We_PPIS2 judge_VV0 at_II everything_PN1 by_II the_AT first_MD glance_NN1 and_CC not_XX take_VV0 other_JJ possibilities_NN2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    6   60 This leads to disastrous mistakes often , but most importantly , as the painting shows , it leads to a very sarcastic trick made by a little boy .
+SENTPOS 2014_4_101_500_542_2 FINAL B    6   60 This_DD1 leads_VVZ to_II disastrous_JJ mistakes_NN2 often_RR ,_, but_CCB most_RGT importantly_RR ,_, as_CSA the_AT painting_NN1 shows_NN2 ,_, it_PPH1 leads_VVZ to_II a_AT1 very_RG sarcastic_JJ trick_NN1 made_VVN by_II a_AT1 little_JJ boy_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   61 Wright , John Massey .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   61 Wright_NP1 ,_, John_NP1 Massey_NP1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   62 The ghost -- a Christmas frolic -- le revenant. 1814 .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   62 The_AT ghost_NN1 --_NN1 a_AT1 Christmas_NNT1 frolic_NN1 --_NN1 le_FW revenant._NNU 1814_MC ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   63 British Cartoon Prints Collections .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   63 British_JJ Cartoon_NN1 Prints_NN2 Collections_NN2 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   64 The Carolina Reader .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   64 The_AT Carolina_NP1 Reader_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   65 Ed .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   65 Ed_NP1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   66 USC Dept of English .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   66 USC_NP1 Dept_NN1 of_IO English_NN1 ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   67 Plymouth : Hayden-McNeil. 2014. 171 .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   67 Plymouth_NP1 :_: Hayden-McNeil._NP1 2014._MC 171_MC ._.
+SENTPOS 2014_4_101_500_542_2 FINAL A    7   67  Print .
+SENTPOS 2014_4_101_500_542_2 FINAL B    7   67  Print_VV0 ._.

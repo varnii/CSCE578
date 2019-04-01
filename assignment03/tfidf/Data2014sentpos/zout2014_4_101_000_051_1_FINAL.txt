@@ -1,0 +1,102 @@
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    0 " Introduction to Poetry " by Billy Collins has become my all-time favorite poem .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    0 "_" Introduction_NN1 to_II Poetry_NN1 "_" by_II Billy_NP1 Collins_NP1 has_VHZ become_VVN@ my_APPGE all-time_JJ favorite_JJ poem_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    1 From the title you would think it would not even be a poem .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    1 From_II the_AT title_NN1 you_PPY would_VM think_VVI it_PPH1 would_VM not_XX even_RR be_VBI a_AT1 poem_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    2 Possibly it 's a long rubric or guide to the subject of poetry or maybe even a long essay on the famous classic poets and poems that everyone should know .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    2 Possibly_RR it_PPH1 's_VBZ a_AT1 long_JJ rubric_NN1 or_CC guide_VV0 to_II the_AT subject_NN1 of_IO poetry_NN1 or_CC maybe_RR even_RR a_AT1 long_JJ essay_NN1 on_II the_AT famous_JJ classic_JJ poets_NN2 and_CC poems_NN2 that_CST everyone_PN1 should_VM know_VVI ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    3 Instead , Collins 's main point is about how one should take poetry lightly , or for what it is no matter what the content-which totally contradicts what I 've learned about approaching poetry through every English class .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    3 Instead_RR ,_, Collins_NP1 's_GE main_JJ point_NN1 is_VBZ about_II how_RRQ one_PN1 should_VM take_VVI poetry_NN1 lightly_RR ,_, or_CC for_IF what_DDQ it_PPH1 is_VBZ no_DDQV31 matter_DDQV32 what_DDQV33 the_AT content-which_DDQ totally_RR contradicts_VVZ what_DDQ I_PPIS1 've_VH0 learned_VVN about_II approaching_VVG poetry_NN1 through_II every_AT1 English_JJ class_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    4 This central contradiction becomes complicated through the fact that Billy Collins delivered his message through a poem .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    4 This_DD1 central_JJ contradiction_NN1 becomes_VVZ complicated_JJ through_II the_AT fact_NN1 that_CST Billy_NP1 Collins_NP1 delivered_VVD his_APPGE message_NN1 through_II a_AT1 poem_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    5 To understand poetry at all , it must be broken down .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    5 To_TO understand_VVI poetry_NN1 at_RR21 all_RR22 ,_, it_PPH1 must_VM be_VBI broken_VVN down_RP ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    0    6 Collins 's use of poetic devices which the reader must analyze to get to the final point of not analyzing becomes the contradiction .
+SENTPOS 2014_4_101_000_051_1 FINAL B    0    6 Collins_NP1 's_GE use_NN1 of_IO poetic_JJ devices_NN2 which_DDQ the_AT reader_NN1 must_VM analyze_VVI to_TO get_VVI to_II the_AT final_JJ point_NN1 of_IO not_XX analyzing_VVG becomes_VVZ the_AT contradiction_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    1    7 For example Colins 's use in the first stanza of the image of light is misleading .
+SENTPOS 2014_4_101_000_051_1 FINAL B    1    7 For_REX21 example_REX22 Colins_NP2 's_GE use_NN1 in_II the_AT first_MD stanza_NN1 of_IO the_AT image_NN1 of_IO light_NN1 is_VBZ misleading_JJ ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    1    8 The application of light has many connotations which have to be read into in order to understand its references .
+SENTPOS 2014_4_101_000_051_1 FINAL B    1    8 The_AT application_NN1 of_IO light_NN1 has_VHZ many_DA2 connotations_NN2 which_DDQ have_VH0 to_TO be_VBI read_VVN into_II in_BCL21 order_BCL22 to_TO understand_VVI its_APPGE references_NN2 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    1    9 For example , light 's common association with goodness or the allusion to God does n't apply in this poem ; instead the light signifies illumination .
+SENTPOS 2014_4_101_000_051_1 FINAL B    1    9 For_REX21 example_REX22 ,_, light_NN1 's_GE common_JJ association_NN1 with_IW goodness_NN1 or_CC the_AT allusion_NN1 to_II God_NP1 does_VDZ n't_XX apply_VVI in_II this_DD1 poem_NN1 ;_; instead_RR the_AT light_NN1 signifies_VVZ illumination_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    1   10 Light allows a clearer vision or truth to be shown , and that is what Collin is asking us to do with the poetry .
+SENTPOS 2014_4_101_000_051_1 FINAL B    1   10 Light_NN1 allows_VVZ a_AT1 clearer_JJR vision_NN1 or_CC truth_NN1 to_TO be_VBI shown_VVN ,_, and_CC that_DD1 is_VBZ what_DDQ Collin_NP1 is_VBZ asking_VVG us_PPIO2 to_TO do_VDI with_IW the_AT poetry_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    1   11 By asking us to hold the poem " up to the light like a color slide , " he is assuring us that the truth will unfold itself without an intense analysis and possibly not be what we expect .
+SENTPOS 2014_4_101_000_051_1 FINAL B    1   11 By_II asking_VVG us_PPIO2 to_TO hold_VVI the_AT poem_NN1 "_" up_II21 to_II22 the_AT light_NN1 like_II a_AT1 color_NN1 slide_NN1 ,_, "_" he_PPHS1 is_VBZ assuring_VVG us_PPIO2 that_CST the_AT truth_NN1 will_VM unfold_VVI itself_PPX1 without_IW an_AT1 intense_JJ analysis_NN1 and_CC possibly_RR not_XX be_VBI what_DDQ we_PPIS2 expect_VV0 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    1   12 Who expects a rainbow to appear when light is passed through something so colorless ?
+SENTPOS 2014_4_101_000_051_1 FINAL B    1   12 Who_PNQS expects_VVZ a_AT1 rainbow_NN1 to_TO appear_VVI when_RRQ light_NN1 is_VBZ passed_VVN through_II something_PN1 so_RG colorless_JJ ?_?
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   13 Colins 's next stanza has another open invitation for more analysis .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   13 Colins_NP2 's_GE next_MD stanza_NN1 has_VHZ another_DD1 open_JJ invitation_NN1 for_IF more_DAR analysis_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   14 He strikes us with the imagery of a mouse that " probes his way out . "
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   14 He_PPHS1 strikes_VVZ us_PPIO2 with_IW the_AT imagery_NN1 of_IO a_AT1 mouse_NN1 that_CST "_" probes_VVZ his_APPGE way_NN1 out_RP ._. "_"
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   15 Compared to the first stanza of light and truth , the imagery of a rodent probing his way out is almost bitter and bleak .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   15 Compared_VVN to_II the_AT first_MD stanza_NN1 of_IO light_NN1 and_CC truth_NN1 ,_, the_AT imagery_NN1 of_IO a_AT1 rodent_NN1 probing_VVG@ his_APPGE way_NN1 out_RP is_VBZ almost_RR bitter_JJ and_CC bleak_JJ ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   16 The connotation shifts drastically .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   16 The_AT connotation_NN1 shifts_VVZ drastically_RR ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   17 The idea of a mouse probing his way out indicates a sense of discomfort and entrapment , possibly referring to the way a reader feels when analyzing poetry .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   17 The_AT idea_NN1 of_IO a_AT1 mouse_NN1 probing_VVG@ his_APPGE way_NN1 out_RP indicates_VVZ a_AT1 sense_NN1 of_IO discomfort_NN1 and_CC entrapment_NN1 ,_, possibly_RR referring_VVG to_II the_AT way_NN1 a_AT1 reader_NN1 feels_VVZ when_CS analyzing_VVG poetry_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   18 But like the image of light , this image of a rodent had to be analyzed in order to be understood , which takes us back to the central contradiction .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   18 But_CCB like_II the_AT image_NN1 of_IO light_NN1 ,_, this_DD1 image_NN1 of_IO a_AT1 rodent_NN1 had_VHD to_TO be_VBI analyzed_VVN@ in_BCL21 order_BCL22 to_TO be_VBI understood_VVN ,_, which_DDQ takes_VVZ us_PPIO2 back_RP to_II the_AT central_JJ contradiction_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   19 In addition the shift between the first and second stanza evokes analysis because it is so jarring , it is impossible to not at least try to break down .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   19 In_RR21 addition_RR22 the_AT shift_NN1@ between_II the_AT first_MD and_CC second_MD stanza_NN1 evokes_VVZ analysis_NN1 because_CS it_PPH1 is_VBZ so_RR jarring_VVG ,_, it_PPH1 is_VBZ impossible_JJ to_II not_XX at_RR21 least_RR22 try_VV0 to_TO break_VVI down_RP ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   20 You ca n't help but question such an odd , unnatural sense .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   20 You_PPY ca_VM n't_XX help_VVI but_CCB question_VV0@ such_DA an_AT1 odd_JJ ,_, unnatural_JJ sense_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   21 All these critiques contradicts Collin 's plea to just glide across a poem .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   21 All_DB these_DD2 critiques_NN2 contradicts_VVZ Collin_NP1 's_GE plea_NN1 to_TO just_RR glide_VVI across_II a_AT1 poem_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    2   22 He 's taunting us readers by pleading to go a nice speed limit ( I say 50 mph is the perfect drive ) yet throws in a speed bump .
+SENTPOS 2014_4_101_000_051_1 FINAL B    2   22 He_PPHS1 's_VBZ taunting_VVG us_PPIO2 readers_NN2 by_II pleading_VVG to_TO go_VVI a_AT1 nice_JJ speed_NN1 limit_NN1 (_( I_PPIS1 say_VV0 50_MC mph_NNU is_VBZ the_AT perfect_JJ drive_NN1 )_) yet_RR throws_VVZ in_II a_AT1 speed_NN1 bump_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   23 As well as Collins 's use of imagery , his use of style is also telling .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   23 As_II31 well_II32 as_II33 Collins_NP1 's_GE use_NN1 of_IO imagery_NN1 ,_, his_APPGE use_NN1 of_IO style_NN1 is_VBZ also_RR telling_VVG ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   24 The poem is simply put , short and sweet .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   24 The_AT poem_NN1 is_VBZ simply_RR put_VVN ,_, short_JJ and_CC sweet_JJ ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   25 The poem is just four sentences that are broken up into stanzas that do n't exceed four lines .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   25 The_AT poem_NN1 is_VBZ just_RR four_MC sentences_NN2 that_CST are_VBR broken_VVN up_RP into_II stanzas_NN2 that_CST do_VD0 n't_XX exceed_VVI four_MC lines_NN2 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   26 His use of enjambment continues one train of thought which keeps the poem moving , " I want them to waterski-across the surface of a poem-waving at the author 's name on the shore . "
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   26 His_APPGE use_NN1 of_IO enjambment_NN1 continues_VVZ one_MC1 train_NN1 of_IO thought_NN1 which_DDQ keeps_VVZ the_AT poem_NN1 moving_VVG ,_, "_" I_PPIS1 want_VV0 them_PPHO2 to_TO waterski-across_II the_AT surface_NN1 of_IO a_AT1 poem-waving_NN1 at_II the_AT author_NN1 's_GE name_NN1 on_II the_AT shore_NN1 ._. "_"
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   27 His style was fairly straightforward and stayed at an even pace .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   27 His_APPGE style_NN1 was_VBDZ fairly_RR straightforward_JJ and_CC stayed_VVD at_II an_AT1 even_JJ% pace_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   28 The poem was read at ease with no unnatural pauses or unfamiliar grammar .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   28 The_AT poem_NN1 was_VBDZ read_VVN at_II ease_NN1 with_IW no_AT unnatural_JJ pauses_NN2 or_CC unfamiliar_JJ grammar_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   29 Collins also avoided rhyme , a common trait in poetry .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   29 Collins_NP1 also_RR avoided_VVN rhyme_NN1 ,_, a_AT1 common_JJ trait_NN1 in_II poetry_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   30 The lack of rhyme was another accessory to the fluidity and natural vibe of the poem , it made it seem more " every day . "
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   30 The_AT lack_NN1 of_IO rhyme_NN1 was_VBDZ another_DD1 accessory_NN1 to_II the_AT fluidity_NN1 and_CC natural_JJ vibe_NN1 of_IO the_AT poem_NN1 ,_, it_PPH1 made_VVD it_PPH1 seem_VVI more_RRR "_" every_AT1 day_NNT1 ._. "_"
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   31 Colloquial languag and conversations have little to no rhyme .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   31 Colloquial_JJ languag_NN1 and_CC conversations_NN2 have_VH0 little_RR to_II no_AT rhyme_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    3   32 The poem was all one train of thought that made sense .
+SENTPOS 2014_4_101_000_051_1 FINAL B    3   32 The_AT poem_NN1 was_VBDZ all_RR@ one_MC1 train_NN1 of_IO thought_NN1 that_CST made_VVD sense_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    4   33 His plea is for us readers to not " tie the poem to a chair with rope and torture a confession out of it , " but is that not what I , you , or you 're English class are doing with the poem ?
+SENTPOS 2014_4_101_000_051_1 FINAL B    4   33 His_APPGE plea_NN1 is_VBZ for_IF us_PPIO2 readers_NN2 to_II not_XX "_" tie_VV0 the_AT poem_NN1 to_II a_AT1 chair_NN1 with_IW rope_NN1 and_CC torture_VV0 a_AT1 confession_NN1 out_II21 of_II22 it_PPH1 ,_, "_" but_CCB is_VBZ that_CST not_XX what_DDQ I_PPIS1 ,_, you_PPY ,_, or_CC you_PPY 're_VBR English_JJ class_NN1 are_VBR doing_VDG with_IW the_AT poem_NN1 ?_?
+SENTPOS 2014_4_101_000_051_1 FINAL A    4   34 Is it even possible to take a poem and just " hold it up to the light ? "
+SENTPOS 2014_4_101_000_051_1 FINAL B    4   34 Is_VBZ it_PPH1 even_RR possible_JJ to_TO take_VVI a_AT1 poem_NN1 and_CC just_RR "_" hold_VV0 it_PPH1 up_II21 to_II22 the_AT light_NN1 ?_? "_"
+SENTPOS 2014_4_101_000_051_1 FINAL A    4   35 Is it really possible to " waterski across the surface of a poem ? "
+SENTPOS 2014_4_101_000_051_1 FINAL B    4   35 Is_VBZ it_PPH1 really_RR possible_JJ to_II "_" waterski_NN2 across_II the_AT surface_NN1 of_IO a_AT1 poem_NN1 ?_? "_"
+SENTPOS 2014_4_101_000_051_1 FINAL A    5   36 Collins 's main emphasis on his plea comes in at the break between stanzas four and five .
+SENTPOS 2014_4_101_000_051_1 FINAL B    5   36 Collins_NP1 's_GE main_JJ emphasis_NN1 on_II his_APPGE plea_NN1 comes_VVZ in_RP@ at_II the_AT break_NN1 between_II stanzas_NN2 four_MC and_CC five_MC ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    5   37 The idea shifts from light and breezy to dark and aggressive .
+SENTPOS 2014_4_101_000_051_1 FINAL B    5   37 The_AT idea_NN1 shifts_VVZ from_II light_NN1 and_CC breezy_JJ to_II dark_NN1 and_CC aggressive_JJ ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    5   38 Throughout the first four stanzas , he uses " I ask " or " I want " to talk about what one should do with poetry , but then by the fifth stanza it shifts to " But they " indicating what is actually done .
+SENTPOS 2014_4_101_000_051_1 FINAL B    5   38 Throughout_II the_AT first_MD four_MC stanzas_NN2 ,_, he_PPHS1 uses_VVZ "_" I_PPIS1 ask_VV0 "_" or_CC "_" I_PPIS1 want_VV0 "_" to_TO talk_VVI about_II what_DDQ one_PN1 should_VM do_VDI with_IW poetry_NN1 ,_, but_CCB then_RT by_II the_AT fifth_MD stanza_NN1 it_PPH1 shifts_VVZ to_TO "_" But_CCB they_PPHS2 "_" indicating_VVG what_DDQ is_VBZ actually_RR done_VDN ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    5   39 The word " but " is used to introduce something contrasting , a harsh break that brings out how opposite the two parts are .
+SENTPOS 2014_4_101_000_051_1 FINAL B    5   39 The_AT word_NN1 "_" but_CCB "_" is_VBZ used_VVN to_TO introduce_VVI something_PN1 contrasting_VVG ,_, a_AT1 harsh_JJ break_NN1 that_CST brings_VVZ out_RP how_RRQ opposite_II the_AT two_MC parts_NN2 are_VBR ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    5   40 This highlights what Collins wants us to do &lsqb; first four stanzas &rsqb; verses what not to do with poetry .
+SENTPOS 2014_4_101_000_051_1 FINAL B    5   40 This_DD1 highlights_VVZ what_DDQ Collins_NP1 wants_VVZ us_PPIO2 to_TO do_VDI &lsqb;_( first_MD four_MC stanzas_NN2 &rsqb;_) verses_NN2 what_DDQ not_XX to_TO do_VDI with_IW poetry_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   41 His makes it seem clear that his goal is to ask us readers to take poetry for what it is .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   41 His_PPGE@ makes_VVZ it_PPH1 seem_VVI clear_JJ that_CST his_APPGE goal_NN1 is_VBZ to_TO ask_VVI us_PPIO2 readers_NN2 to_TO take_VVI poetry_NN1 for_IF what_DDQ it_PPH1 is_VBZ ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   42 To read as it is given and to take in quick short breaths .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   42 To_TO read_VVI as_CSA it_PPH1 is_VBZ given_VVN and_CC to_TO take_VVI in_II quick_JJ short_JJ breaths_NN2 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   43 To be natural with it-to experience it .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   43 To_TO be_VBI natural_JJ with_IW it-to_PPH1 experience_VV0 it_PPH1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   44 He even accentuates his implication with his choice in imagery and style , but in a way that is unnatural that encourages analysis rather than an easy experience with the poem .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   44 He_PPHS1 even_RR accentuates_VVZ his_APPGE implication_NN1 with_IW his_APPGE choice_NN1 in_II imagery_NN1 and_CC style_NN1 ,_, but_CCB in_II a_AT1 way_NN1 that_CST is_VBZ unnatural_JJ that_CST encourages_VVZ analysis_NN1 rather_II21 than_II22 an_AT1 easy_JJ experience_NN1 with_IW the_AT poem_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   45 Collins is a quite the evil master mind behind this particular literary work of his .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   45 Collins_NP1 is_VBZ a_AT1 quite_RG the_AT evil_JJ master_NN1 mind_NN1 behind_II this_DD1 particular_JJ literary_JJ work_NN1 of_IO his_PPGE@ ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   46 Why ?
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   46 Why_RRQ ?_?
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   47 Because we are sitting here trying to figure out his main idea .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   47 Because_CS we_PPIS2 are_VBR sitting_VVG here_RL trying_VVG to_TO figure_VVI out_RP his_APPGE main_JJ idea_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   48 He 's supporting his own content in his own poem which is a poem about ignoring content .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   48 He_PPHS1 's_VBZ supporting_VVG his_APPGE own_DA content_NN1 in_II his_APPGE own_DA poem_NN1 which_DDQ is_VBZ a_AT1 poem_NN1 about_II ignoring_VVG content_NN1 ._.
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   49 We 're sitting down spending a significant amount of brain power into his poem in " beating it with a hose to find out what it really means . "
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   49 We_PPIS2 're_VBR sitting_VVG down_RP spending_VVG a_AT1 significant_JJ amount_NN1 of_IO brain_NN1 power_NN1 into_II his_APPGE poem_NN1 in_II "_" beating_VVG it_PPH1 with_IW a_AT1 hose_NN1 to_TO find_VVI out_RP what_DDQ it_PPH1 really_RR means_VVZ ._. "_"
+SENTPOS 2014_4_101_000_051_1 FINAL A    6   49  We are over analyzing a poem about not over analyzing .
+SENTPOS 2014_4_101_000_051_1 FINAL B    6   49  We_PPIS2 are_VBR over_II analyzing_VVG a_AT1 poem_NN1 about_II not_XX over_II analyzing_VVG ._.

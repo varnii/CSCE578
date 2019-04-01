@@ -1,0 +1,150 @@
+SENTPOS 2014_4_101_300_354_3 FINAL A    0    0 Jamaica Kincaid is the author of the 1978 short story , " Girl " , a story based on a child living on the island of Antigua in the 1950 's .
+SENTPOS 2014_4_101_300_354_3 FINAL B    0    0 Jamaica_NP1 Kincaid_NP1 is_VBZ the_AT author_NN1 of_IO the_AT 1978_MC short_JJ story_NN1 ,_, "_" Girl_NN1 "_" ,_, a_AT1 story_NN1 based_VVN on_II a_AT1 child_NN1 living_VVG on_II the_AT island_NN1 of_IO Antigua_NP1 in_II the_AT 1950_MC 's_GE ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    0    1 The story is told from the mother 's point of view , who spends her time explaining to her daughter how to properly work , live , and behave as a woman in the Antiguan culture , just as she has done all of her life .
+SENTPOS 2014_4_101_300_354_3 FINAL B    0    1 The_AT story_NN1 is_VBZ told_VVN from_II the_AT mother_NN1 's_GE point_NN1 of_IO view_NN1 ,_, who_PNQS spends_VVZ her_APPGE time_NNT1 explaining_VVG to_II her_APPGE daughter_NN1 how_RRQ to_TO properly_RR work_VVI ,_, live_VVI ,_, and_CC behave_VVI as_II a_AT1 woman_NN1 in_II the_AT Antiguan_JJ culture_NN1 ,_, just_RR as_CSA she_PPHS1 has_VHZ done_VDN all_RR@ of_IO her_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    0    2 The island was under British control at the time this story was written and rules were very strict ( English ) .
+SENTPOS 2014_4_101_300_354_3 FINAL B    0    2 The_AT island_NN1 was_VBDZ under_RG@ British_JJ control_NN1 at_II the_AT time_NNT1 this_DD1 story_NN1 was_VBDZ written_VVN and_CC rules_NN2 were_VBDR very_RG strict_JJ (_( English_NN1 )_) ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    0    3 The lifestyle of the Antiguan women was demanding during this time period because they were expected to remain as household slaves , and they were not able to work outside of the house alongside of the men .
+SENTPOS 2014_4_101_300_354_3 FINAL B    0    3 The_AT lifestyle_NN1 of_IO the_AT Antiguan_JJ women_NN2 was_VBDZ demanding_VVG during_II this_DD1 time_NNT1 period_NN1 because_CS they_PPHS2 were_VBDR expected_VVN to_TO remain_VVI as_II@ household_NN1 slaves_NN2 ,_, and_CC they_PPHS2 were_VBDR not_XX able_JK to_TO work_VVI outside_II21 of_II22 the_AT house_NN1 alongside_RL of_IO the_AT men_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    0    4 Kincaid 's story is told through the use of forceful language , run-on sentences , and references to the expectations of a maturing woman in Antiguan culture .
+SENTPOS 2014_4_101_300_354_3 FINAL B    0    4 Kincaid_NP1@ 's_GE story_NN1 is_VBZ told_VVN through_II the_AT use_NN1 of_IO forceful_JJ language_NN1 ,_, run-on_NN1 sentences_NN2 ,_, and_CC references_NN2 to_II the_AT expectations_NN2 of_IO a_AT1 maturing_JJ woman_NN1 in_II Antiguan_JJ culture_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    0    5 This is important to the reader because each of these literary elements helps to portray a theme of forced work , societal demand , and the process of maturing as a woman in the Antiguan society .
+SENTPOS 2014_4_101_300_354_3 FINAL B    0    5 This_DD1 is_VBZ important_JJ to_II the_AT reader_NN1 because_CS each_DD1 of_IO these_DD2 literary_JJ elements_NN2 helps_VVZ to_TO portray_VVI a_AT1 theme_NN1 of_IO forced_JJ work_NN1 ,_, societal_JJ demand_NN1 ,_, and_CC the_AT process_NN1 of_IO maturing_VVG as_II a_AT1 woman_NN1 in_II the_AT Antiguan_JJ society_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1    6 The use of forceful language within the text guides the reader 's thoughts to understanding the harsh , demanding way in which Antiguan women were treated .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1    6 The_AT use_NN1 of_IO forceful_JJ language_NN1 within_II the_AT text_NN1 guides_NN2 the_AT reader_NN1 's_GE thoughts_NN2 to_II understanding_VVG the_AT harsh_JJ ,_, demanding_VVG way_NN1 in_II which_DDQ Antiguan_JJ women_NN2 were_VBDR treated_VVN ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1    7 Kincaid uses forceful commands throughout the entire story to emphasize the idea of women having no choice as to the work they were expected to perform .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1    7 Kincaid_NP1@ uses_VVZ forceful_JJ commands_NN2 throughout_II the_AT entire_JJ story_NN1 to_TO emphasize_VVI the_AT idea_NN1 of_IO women_NN2 having_VHG no_AT choice_NN1 as_II21 to_II22 the_AT work_NN1 they_PPHS2 were_VBDR expected_VVN to_TO perform_VVI ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1    8 The story starts with Kincaid writing , " wash the white clothes on Monday and put them on the stone heap ; wash the color clothes on Tuesday and put them on the clothesline to dry " ( 196 ) .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1    8 The_AT story_NN1 starts_VVZ with_IW Kincaid_NP1 writing_NN1 ,_, "_" wash_VV0 the_AT white_JJ clothes_NN2 on_II Monday_NPD1 and_CC put_VV0 them_PPHO2 on_II the_AT stone_NN1 heap_NN1 ;_; wash_VV0 the_AT color_NN1 clothes_NN2 on_II Tuesday_NPD1 and_CC put_VV0 them_PPHO2 on_II the_AT clothesline_NN1 to_TO dry_VVI "_" (_( 196_MC )_) ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1    9 The narrator 's tone is intentionally forceful , showing the reader that the work was forced labor , not solely personal choice .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1    9 The_AT narrator_NN1 's_GE tone_NN1 is_VBZ intentionally_RR forceful_JJ ,_, showing_VVG the_AT reader_NN1 that_CST the_AT work_NN1 was_VBDZ forced_JJ labor_NN1 ,_, not_XX solely_RR personal_JJ choice_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   10 Kincaid uses this style of language to directly relate the content back to the idea of the harsh , forced labor conditions in the Antiguan culture .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   10 Kincaid_NP1@ uses_VVZ this_DD1 style_NN1 of_IO language_NN1 to_TO directly_RR relate_VVI the_AT content_JJ back_NN1 to_II the_AT idea_NN1 of_IO the_AT harsh_JJ ,_, forced_JJ labor_NN1 conditions_NN2 in_II the_AT Antiguan_JJ culture_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   11 Women were expected to work in the household and never alongside the men .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   11 Women_NN2 were_VBDR expected_VVN to_TO work_VVI in_II the_AT household_NN1 and_CC never_RR alongside_II the_AT men_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   12 According to a study done on woman in the Caribbean , men were categorized more as the field workers , which left , " women as supportive domestic workers " ( Powell 101 ) , completing tasks such as caring for the family , cleaning the house , and washing the laundry .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   12 According_II21 to_II22 a_AT1 study_NN1 done_VDN on_II woman_NN1 in_II the_AT Caribbean_NP1 ,_, men_NN2 were_VBDR categorized_VVN@ more_RRR as_II the_AT field_NN1 workers_NN2 ,_, which_DDQ left_VVD ,_, "_" women_NN2 as_CSA supportive_JJ domestic_JJ workers_NN2 "_" (_( Powell_NP1 101_MC )_) ,_, completing_VVG tasks_NN2 such_II21 as_II22 caring_VVG for_IF the_AT family_NN1 ,_, cleaning_VVG the_AT house_NN1 ,_, and_CC washing_VVG the_AT laundry_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   13 The daughter in the story was of the age that her mother should begin teaching her how to properly act in society and properly take care of the household duties .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   13 The_AT daughter_NN1 in_II the_AT story_NN1 was_VBDZ of_IO the_AT age_NN1 that_CST her_APPGE mother_NN1 should_VM begin_VVI teaching_VVG her_PPHO1 how_RRQ to_TO properly_RR act_VVI in_II society_NN1 and_CC properly_RR take_VV0 care_NN1 of_IO the_AT household_NN1 duties_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   14 Women and young girls in Antigua had no other choice at that time .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   14 Women_NN2 and_CC young_JJ girls_NN2 in_II Antigua_NP1 had_VHD no_AT other_JJ choice_NN1 at_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   15 The daughter was forced to perform the daily tasks given to her , no matter who they were from .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   15 The_AT daughter_NN1 was_VBDZ forced_VVN to_TO perform_VVI the_AT daily_JJ tasks_NN2 given_VVN to_II her_PPHO1 ,_, no_PNQS31 matter_PNQS32 who_PNQS33 they_PPHS2 were_VBDR from_II ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    1   16 To portray this theme in her writing , Kincaid chose to use forceful language that help the reader to better understand the Antiguan lifestyle for women .
+SENTPOS 2014_4_101_300_354_3 FINAL B    1   16 To_TO portray_VVI this_DD1 theme_NN1 in_II her_APPGE writing_NN1 ,_, Kincaid_NP1 chose_VVD to_TO use_VVI forceful_JJ language_NN1 that_CST help_VV0 the_AT reader_NN1 to_TO better_RRR understand_VVI the_AT Antiguan_JJ lifestyle_NN1 for_IF women_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   17 Throughout the story , Kincaid continues to intentionally use specific stylistic elements to portray the theme that describes the never-ending list of tasks that Antiguan women are constantly presented .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   17 Throughout_II the_AT story_NN1 ,_, Kincaid_NP1 continues_VVZ to_TO intentionally_RR use_VVI specific_JJ stylistic_JJ elements_NN2 to_TO portray_VVI the_AT theme_NN1 that_CST describes_VVZ the_AT never-ending_JJ list_NN1 of_IO tasks_NN2 that_CST Antiguan_JJ women_NN2 are_VBR constantly_RR presented_VVN ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   18 For example , she uses run-on sentences separated by semi-colons , instead of complete sentences separated by periods .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   18 For_REX21 example_REX22 ,_, she_PPHS1 uses_VVZ run-on_NN1 sentences_NN2 separated_VVN by_II semi-colons_NN2 ,_, instead_II21 of_II22 complete_JJ sentences_NN2 separated_VVN by_II periods_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   19 This creates an extensive list of tasks that maturing Antiguan girls were expected to perform .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   19 This_DD1 creates_VVZ an_AT1 extensive_JJ list_NN1 of_IO tasks_NN2 that_CST maturing_JJ Antiguan_JJ girls_NN2 were_VBDR expected_VVN to_TO perform_VVI ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   20 The number of societal norms that were necessary for the girls to perform was never ending , similar to Kincaid 's run-on sentences in her writing .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   20 The_AT number_NN1 of_IO societal_JJ norms_NN2 that_CST were_VBDR necessary_JJ for_IF the_AT girls_NN2 to_TO perform_VVI was_VBDZ never_RR ending_VVG ,_, similar_JJ to_II Kincaid_NP1 's_GE run-on_NN1 sentences_NN2 in_II her_APPGE writing_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   21 Her stylistic choice aids the reader in understanding the extent to which these women worked .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   21 Her_APPGE stylistic_JJ choice_NN1 aids_NN2 the_AT reader_NN1 in_II understanding_VVG the_AT extent_NN1 to_II which_DDQ these_DD2 women_NN2 worked_VVD ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   22 The Antiguan women had an extensive list of tasks to complete each day .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   22 The_AT Antiguan_JJ women_NN2 had_VHD an_AT1 extensive_JJ list_NN1 of_IO tasks_NN2 to_TO complete_VVI each_DD1 day_NNT1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   23 Jamaica Kincaid uses constantly flowing lists to write her story , " Girl " , in order to reiterate the theme .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   23 Jamaica_NP1 Kincaid_NP1 uses_VVZ constantly_RR flowing_JJ lists_NN2 to_TO write_VVI her_APPGE story_NN1 ,_, "_" Girl_NN1 "_" ,_, in_BCL21 order_BCL22 to_TO reiterate_VVI the_AT theme_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   24 This style of writing helps the reader to visualize what the women might suffer through on a daily basis .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   24 This_DD1 style_NN1 of_IO writing_NN1 helps_VVZ the_AT reader_NN1 to_TO visualize_VVI what_DDQ the_AT women_NN2 might_VM suffer_VVI through_RP@ on_II a_AT1 daily_JJ basis_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   25 In " Girl " , the narrator talks of the demand on women from society , saying , " on Sundays try to walk like a lady and not like the slut you are so bent on becoming " ( Kincaid 196 . )
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   25 In_II "_" Girl_NN1 "_" ,_, the_AT narrator_NN1 talks_NN2 of_IO the_AT demand_NN1 on_II women_NN2 from_II society_NN1 ,_, saying_VVG ,_, "_" on_II Sundays_NPD2 try_VV0 to_TO walk_VVI like_II a_AT1 lady_NN1 and_CC not_XX like_II the_AT slut_NN1 you_PPY are_VBR so_RR bent_VVN on_II becoming_VVG "_" (_( Kincaid_NP1 196_MC ._. )_)
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   26 Society expected women to dress , walk , talk , and act like a perfect lady everywhere they went , never lacking proper poise .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   26 Society_NN1 expected_JJ women_NN2 to_TO dress_VVI ,_, walk_VV0 ,_, talk_VV0 ,_, and_CC act_VV0 like_II a_AT1 perfect_JJ lady_NN1 everywhere_RL they_PPHS2 went_VVD ,_, never_RR lacking_VVG proper_JJ poise_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   27 If a woman was not pleased with another person or situation , she was taught to smile at them in a certain way , pretending to be happy with the circumstances or their actions .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   27 If_CS a_AT1 woman_NN1 was_VBDZ not_XX pleased_JJ with_IW another_DD1 person_NN1 or_CC situation_NN1 ,_, she_PPHS1 was_VBDZ taught_VVN to_TO smile_VVI at_II them_PPHO2 in_II a_AT1 certain_JJ way_NN1 ,_, pretending_VVG to_TO be_VBI happy_JJ with_IW the_AT circumstances_NN2 or_CC their_APPGE actions_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   28 A line in Kincaid 's , " Girl " , " This is how you smile to someone you do n't like at all , " ( Kincaid 197 ) depicts the demanding outer expectation of the Antiguan woman .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   28 A_AT1 line_NN1 in_II Kincaid_NP1 's_GE ,_, "_" Girl_NN1 "_" ,_, "_" This_DD1 is_VBZ how_RRQ you_PPY smile_VV0 to_II someone_PN1 you_PPY do_VD0 n't_XX like_VVI at_RR21 all_RR22 ,_, "_" (_( Kincaid_NP1 197_MC )_) depicts_VVZ the_AT demanding_JJ@ outer_JJ expectation_NN1 of_IO the_AT Antiguan_JJ woman_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   29 Women were not allowed to create conflict or stir up society because , in this time , their opinion did not matter in Antigua .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   29 Women_NN2 were_VBDR not_XX allowed_VVN to_TO create_VVI conflict_NN1 or_CC stir_VV0 up_RP society_NN1 because_CS ,_, in_II this_DD1 time_NNT1 ,_, their_APPGE opinion_NN1 did_VDD not_XX matter_VVI in_II Antigua_NP1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   30 Powell stated that " women are at the centre stage of household management " ( 106 ) , in his study of Caribbean women .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   30 Powell_NP1 stated_VVD that_CST "_" women_NN2 are_VBR at_II the_AT centre_NN1 stage_NN1 of_IO household_NN1 management_NN1 "_" (_( 106_MC )_) ,_, in_II his_APPGE study_NN1 of_IO Caribbean_JJ women_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    2   31 A woman 's opinion was completely irrelevant at this stage in history in Antigua unless it was in reference to the way the house was to be kept or the children were to be raised .
+SENTPOS 2014_4_101_300_354_3 FINAL B    2   31 A_AT1 woman_NN1 's_GE opinion_NN1 was_VBDZ completely_RR irrelevant_JJ at_II this_DD1 stage_NN1 in_II history_NN1 in_II Antigua_NP1 unless_CS it_PPH1 was_VBDZ in_II reference_NN1 to_II the_AT way_NN1 the_AT house_NN1 was_VBDZ to_TO be_VBI kept_VVN or_CC the_AT children_NN2 were_VBDR to_TO be_VBI raised_VVN ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   32 Kincaid writes about the expectations of women in completing household chores and raising a family on her own while her husband is working , which leaves the reader to assume that Antiguan women were mature and responsible and had little choice about being that way .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   32 Kincaid_NP1@ writes_VVZ about_II the_AT expectations_NN2 of_IO women_NN2 in_II completing_VVG household_NN1 chores_NN2 and_CC raising_VVG a_AT1 family_NN1 on_II her_APPGE own_DA while_CS her_APPGE husband_NN1 is_VBZ working_VVG ,_, which_DDQ leaves_VVZ the_AT reader_NN1 to_TO assume_VVI that_DD1 Antiguan_JJ women_NN2 were_VBDR mature_JJ and_CC responsible_JJ and_CC had_VHD little_DA1 choice_NN1 about_II being_VBG that_DD1 way_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   33 In a study by Dorian Powell that focused on the role of Caribbean women he found that , " the general mating pattern is on characterized by early entry into unions of unstable nature " ( 102 ) .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   33 In_II a_AT1 study_NN1 by_II Dorian_NP1 Powell_NP1 that_CST focused_VVD on_II the_AT role_NN1 of_IO Caribbean_JJ women_NN2 he_PPHS1 found_VVD that_CST ,_, "_" the_AT general_JJ mating_JJ pattern_NN1 is_VBZ on_RP@ characterized_VVN by_II early_JJ entry_NN1 into_II unions_NN2 of_IO unstable_JJ nature_NN1 "_" (_( 102_MC )_) ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   34 The idea behind this statement is that marriage was not a necessity in order to have children with a man in Caribbean society in that time period .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   34 The_AT idea_NN1 behind_II this_DD1 statement_NN1 is_VBZ that_DD1 marriage_NN1 was_VBDZ not_XX a_AT1 necessity_NN1 in_BCL21 order_BCL22 to_TO have_VHI children_NN2 with_IW a_AT1 man_NN1 in_II Caribbean_JJ society_NN1 in_II that_DD1 time_NNT1 period_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   35 Similarly , Antiguan women were very focused on starting a family and becoming mothers , but it was not always seen as a positive decision .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   35 Similarly_RR ,_, Antiguan_JJ women_NN2 were_VBDR very_RG focused_JJ@ on_II starting_VVG a_AT1 family_NN1 and_CC becoming_VVG mothers_NN2 ,_, but_CCB it_PPH1 was_VBDZ not_XX always_RR seen_VVN as_II a_AT1 positive_JJ decision_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   36 Kincaid writes , " they wo n't recognize immediately the slut I have warned you against becoming " ( 197 ) , which refers to the men seeing an unmarried , impregnated woman as someone who had slept around aimlessly .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   36 Kincaid_NP1@ writes_VVZ ,_, "_" they_PPHS2 wo_VM n't_XX recognize_VVI immediately_RR the_AT slut_NN1 I_PPIS1 have_VH0 warned_VVN you_PPY against_II becoming_VVG "_" (_( 197_MC )_) ,_, which_DDQ refers_VVZ to_II the_AT men_NN2 seeing_VVG an_AT1 unmarried_JJ ,_, impregnated_JJ woman_NN1 as_CSA someone_PN1 who_PNQS had_VHD slept_VVN around_RP aimlessly_RR ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   37 In a woman 's eyes , her actions were innocent as long as she could mother a child .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   37 In_II a_AT1 woman_NN1 's_GE eyes_NN2 ,_, her_APPGE actions_NN2 were_VBDR innocent_JJ as_CS31 long_CS32 as_CS33 she_PPHS1 could_VM mother_VVI a_AT1 child_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   38 Powell also found that , " maternity is a normal and desirable state and the childless woman is an object of pity , contempt , and derision " ( 103 ) .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   38 Powell_NP1 also_RR found_VVN that_CST ,_, "_" maternity_NN1 is_VBZ a_AT1 normal_JJ and_CC desirable_JJ state_NN1 and_CC the_AT childless_JJ woman_NN1 is_VBZ an_AT1 object_NN1 of_IO pity_NN1 ,_, contempt_NN1 ,_, and_CC derision_NN1 "_" (_( 103_MC )_) ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   39 This information aids the reader in understanding how truly important it was for a woman , like the one in Kincaid 's story , to become a mother so early on , no matter how many people viewed it as a promiscuous action .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   39 This_DD1 information_NN1 aids_NN2 the_AT reader_NN1 in_II understanding_VVG how_RGQ@ truly_RR important_JJ it_PPH1 was_VBDZ for_IF a_AT1 woman_NN1 ,_, like_II the_AT one_PN1 in_II Kincaid_NP1 's_GE story_NN1 ,_, to_TO become_VVI a_AT1 mother_NN1 so_RG early_RR on_RP@ ,_, no_RGQV31 matter_RGQV32 how_RGQV33 many_DA2 people_NN viewed_VVD it_PPH1 as_II a_AT1 promiscuous_JJ action_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   40 Because of this societal expectation of having children young and having to complete the housework , women had no choice but to be responsible for their actins and mature in handling their duties .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   40 Because_II21 of_II22 this_DD1 societal_JJ expectation_NN1 of_IO having_VHG children_NN2 young_JJ and_CC having_VHG to_TO complete_VVI the_AT housework_NN1 ,_, women_NN2 had_VHD no_AT choice_NN1 but_CS to_TO be_VBI responsible_JJ for_IF their_APPGE actins_NN2 and_CC mature_VV0 in_II handling_VVG their_APPGE duties_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   41 Once the Antiguan women became mothers , this huge expectation of responsibility was put on them that men did not experience in their work force .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   41 Once_CS@ the_AT Antiguan_JJ women_NN2 became_VVD mothers_NN2 ,_, this_DD1 huge_JJ expectation_NN1 of_IO responsibility_NN1 was_VBDZ put_VVN on_II them_PPHO2 that_CST men_NN2 did_VDD not_XX experience_VVI in_II their_APPGE work_NN1 force_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    3   42 The reader is reminded that the women were now in charge of a child , the household work they were expected to complete , and properly obeying societal demands .
+SENTPOS 2014_4_101_300_354_3 FINAL B    3   42 The_AT reader_NN1 is_VBZ reminded_VVN that_CST the_AT women_NN2 were_VBDR now_RT in_II31 charge_II32 of_II33 a_AT1 child_NN1 ,_, the_AT household_NN1 work_NN1 they_PPHS2 were_VBDR expected_VVN to_TO complete_VVI ,_, and_CC properly_RR obeying_VVG societal_JJ demands_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   43 As it is told through the story of " Girl " , the culture of Antigua is demanding and harsh for a woman .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   43 As_CSA it_PPH1 is_VBZ told_VVN through_II the_AT story_NN1 of_IO "_" Girl_NN1 "_" ,_, the_AT culture_NN1 of_IO Antigua_NP1 is_VBZ demanding_VVG and_CC harsh_JJ for_IF a_AT1 woman_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   44 As they mature from a girl into a woman , society places expectations on them that are not easy to reach , let alone exceed .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   44 As_CSA they_PPHS2 mature_VV0 from_II a_AT1 girl_NN1 into_II a_AT1 woman_NN1 ,_, society_NN1 places_NN2 expectations_NN2 on_II them_PPHO2 that_CST are_VBR not_XX easy_JJ to_TO reach_VVI ,_, let_VVD alone_RR exceed_VVI ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   45 Women are expected to complete extensive tasks during their days in the house and are not able to work with the men .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   45 Women_NN2 are_VBR expected_VVN to_TO complete_VVI extensive_JJ tasks_NN2 during_II their_APPGE days_NNT2 in_II the_AT house_NN1 and_CC are_VBR not_XX able_JK to_TO work_VVI with_IW the_AT men_NN2 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   46 They are forced to act as ladies in every aspect of life , no matter how unhappy or unsatisfied they are .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   46 They_PPHS2 are_VBR forced_VVN to_TO act_VVI as_CSA ladies_NN2 in_II every_AT1 aspect_NN1 of_IO life_NN1 ,_, no_RGQV31 matter_RGQV32 how_RGQV33 unhappy_JJ or_CC unsatisfied_JJ they_PPHS2 are_VBR ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   47 The Antiguan women are expected to be perfectly mature and responsible women beginning at an early age .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   47 The_AT Antiguan_JJ women_NN2 are_VBR expected_VVN to_TO be_VBI perfectly_RR mature_JJ and_CC responsible_JJ women_NN2 beginning_VVG at_II an_AT1 early_JJ age_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   48 Kincaid does a terrific job portraying these themes in her writing by incorporating stylistic elements such as forceful language , run-on sentences and the idea of Antiguan women and their level of maturity which must come about so young .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   48 Kincaid_NP1@ does_VDZ a_AT1 terrific_JJ job_NN1 portraying_VVG these_DD2 themes_NN2 in_II her_APPGE writing_NN1 by_II incorporating_VVG stylistic_JJ elements_NN2 such_II21 as_II22 forceful_JJ language_NN1 ,_, run-on_NN1 sentences_NN2 and_CC the_AT idea_NN1 of_IO Antiguan_JJ women_NN2 and_CC their_APPGE level_NN1 of_IO maturity_NN1 which_DDQ must_VM come_VVI about_RP@ so_RG young_JJ ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   49 These elements help the reader to understand the cultural severity and importance around which this text revolves .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   49 These_DD2 elements_NN2 help_VV0 the_AT reader_NN1 to_TO understand_VVI the_AT cultural_JJ severity_NN1 and_CC importance_NN1 around_II which_DDQ this_DD1 text_NN1 revolves_VVZ ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    4   50 The specific examples used in this text also help the readers to better understand the historical and cultural context from which the information is coming .
+SENTPOS 2014_4_101_300_354_3 FINAL B    4   50 The_AT specific_JJ examples_NN2 used_VVN in_II this_DD1 text_NN1 also_RR help_VV0 the_AT readers_NN2 to_TO better_RRR understand_VVI the_AT historical_JJ and_CC cultural_JJ context_NN1 from_II which_DDQ the_AT information_NN1 is_VBZ coming_VVG ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    6   51 Works Cited " ANTIGUA &; BARBUDA 'S CULTURAL HERITAGE . "
+SENTPOS 2014_4_101_300_354_3 FINAL B    6   51 Works_NN Cited_VVD "_" ANTIGUA_NP1 &;_NULL BARBUDA_NP1 'S_GE CULTURAL_JJ HERITAGE_NN1 ._. "_"
+SENTPOS 2014_4_101_300_354_3 FINAL A    6   52 ANTIGUA &; BARBUDA 'S CULTURAL HERITAGE .
+SENTPOS 2014_4_101_300_354_3 FINAL B    6   52 ANTIGUA_NP1 &;_NULL BARBUDA_NP1 'S_GE CULTURAL_JJ HERITAGE_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    6   53 Web .
+SENTPOS 2014_4_101_300_354_3 FINAL B    6   53 Web_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    6   54 6 Nov. 2014 .
+SENTPOS 2014_4_101_300_354_3 FINAL B    6   54 6_MC Nov._NPM1 2014_MC ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    7   55 Shotte , Dr. Gertrude .
+SENTPOS 2014_4_101_300_354_3 FINAL B    7   55 Shotte_NN1 ,_, Dr._NNB Gertrude_NP1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    7   56 " The History of Steel Pan : Instrument of the Twentieth Century . "
+SENTPOS 2014_4_101_300_354_3 FINAL B    7   56 "_" The_AT History_NN1 of_IO Steel_NP1 Pan_NP1 :_: Instrument_NN1 of_IO the_AT Twentieth_MD Century_NNT1 ._. "_"
+SENTPOS 2014_4_101_300_354_3 FINAL A    7   57 **35;7;TOOLONG .
+SENTPOS 2014_4_101_300_354_3 FINAL B    7   57 **35;7;TOOLONG_FU ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    7   58 London Assembly , 11 Oct. 2013 .
+SENTPOS 2014_4_101_300_354_3 FINAL B    7   58 London_NP1 Assembly_NN1 ,_, 11_MC Oct._NPM1 2013_MC ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    7   59 Web .
+SENTPOS 2014_4_101_300_354_3 FINAL B    7   59 Web_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    7   60 6 Nov. 2014 .
+SENTPOS 2014_4_101_300_354_3 FINAL B    7   60 6_MC Nov._NPM1 2014_MC ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   61 Kincaid , Jamaica .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   61 Kincaid_NP1@ ,_, Jamaica_NP1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   62 " Girl . "
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   62 "_" Girl_NN1 ._. "_"
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   63 The Carolina Reader .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   63 The_AT Carolina_NP1 Reader_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   64 English 101 ed .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   64 English_NN1 101_MC ed_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   65 Vol .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   65 Vol_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   66 Fall 2014 .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   66 Fall_VV0 2014_MC ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   67 Plymouth : Hayden McNeil , 2014. 196-197 .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   67 Plymouth_NP1 :_: Hayden_NP1 McNeil_NP1 ,_, 2014._MC 196-197_MCMC ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    8   68 Print .
+SENTPOS 2014_4_101_300_354_3 FINAL B    8   68 Print_VV0 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    9   69 Powell , Dorian .
+SENTPOS 2014_4_101_300_354_3 FINAL B    9   69 Powell_NP1 ,_, Dorian_NP1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    9   70 " The Role of Women in the Caribbean . "
+SENTPOS 2014_4_101_300_354_3 FINAL B    9   70 "_" The_AT Role_NN1 of_IO Women_NN2 in_II the_AT Caribbean_JJ ._. "_"
+SENTPOS 2014_4_101_300_354_3 FINAL A    9   71 JSTOR .
+SENTPOS 2014_4_101_300_354_3 FINAL B    9   71 JSTOR_NP1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    9   72 Sir Arthur Lewis Institute of Social and Economic Studies , University of the West Indies , 1 June 1984 .
+SENTPOS 2014_4_101_300_354_3 FINAL B    9   72 Sir_NNB Arthur_NP1 Lewis_NP1 Institute_NN1 of_IO Social_JJ and_CC Economic_JJ Studies_NN2 ,_, University_NN1 of_IO the_AT West_NP1 Indies_NP2 ,_, 1_MC1 June_NPM1 1984_MC ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    9   73 Web .
+SENTPOS 2014_4_101_300_354_3 FINAL B    9   73 Web_NN1 ._.
+SENTPOS 2014_4_101_300_354_3 FINAL A    9   73  1 Dec. 2014 **257;43;TOOLONG .
+SENTPOS 2014_4_101_300_354_3 FINAL B    9   73  1_MC1 Dec._NPM1 2014_MC **257;43;TOOLONG_NULL ._.

@@ -1,0 +1,72 @@
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    0 One of the leading causes of deaths in America is drunk driving ; according to the NHTSA , " in 2012 , more than 10,000 people died in alcohol-impaired driving crashes .
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    0 One_MC1 of_IO the_AT leading_JJ causes_NN2 of_IO deaths_NN2 in_II America_NP1 is_VBZ drunk_JJ driving_JJ ;_; according_II21 to_II22 the_AT NHTSA_NN1 ,_, "_" in_II 2012_MC ,_, more_DAR than_CSN 10,000_MC people_NN died_VVD in_II alcohol-impaired_JJ driving_JJ crashes_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    1 -- one every 51 minutes . "
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    1 --_NN1 one_MC1 every_AT1 51_MC minutes_NNT2 ._. "_"
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    2 To combat these statistics , many " drink responsibly " ads have been created , especially by alcohol companies themselves .
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    2 To_TO combat_VVI these_DD2 statistics_NN ,_, many_DA2 "_" drink_VV0 responsibly_RR "_" ads_NN2 have_VH0 been_VBN created_VVN ,_, especially_RR by_II alcohol_NN1 companies_NN2 themselves_PPX2 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    3 For instance , Heineken 's ad for drinking responsibly displays a simple message : " Do n't drink and drive . "
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    3 For_REX21 instance_REX22 ,_, Heineken_NP1 's_GE ad_NN1 for_IF drinking_VVG responsibly_RR displays_VVZ a_AT1 simple_JJ message_NN1 :_: "_" Do_VD0 n't_XX drink_VVI and_CC drive_NN1 ._. "_"
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    4 The ad illustrates the perspective of a drunk driver , effectively conveying the message that while intoxicated , your perceptions are impaired .
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    4 The_AT ad_NN1 illustrates_VVZ the_AT perspective_NN1 of_IO a_AT1 drunk_JJ driver_NN1 ,_, effectively_RR conveying_VVG the_AT message_NN1 that_CST while_CS intoxicated_VVN@ ,_, your_APPGE perceptions_NN2 are_VBR impaired_VVN ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    5 Driving under the influence is an accident waiting to happen .
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    5 Driving_VVG under_II the_AT influence_NN1 is_VBZ an_AT1 accident_NN1 waiting_VVG to_TO happen_VVI ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    6 Heineken is likely speaking to a mature audience -- age 21 and up .
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    6 Heineken_NP1 is_VBZ likely_RR@ speaking_VVG to_II a_AT1 mature_JJ audience_NN1 --_NN1 age_NN1 21_MC and_CC up_RP ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    0    7 To convey the message , the ad uses the elements of : color , lighting , parallelism , perspective and symbolism .
+SENTPOS 2014_4_101_000_068_2 FINAL B    0    7 To_TO convey_VVI the_AT message_NN1 ,_, the_AT ad_NN1 uses_VVZ the_AT elements_NN2 of_IO :_: color_NN1 ,_, lighting_NN1 ,_, parallelism_NN1 ,_, perspective_NN1 and_CC symbolism_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1    8 The image is shot in an empty intersection on a dreary night .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1    8 The_AT image_NN1 is_VBZ shot_VVN in_II an_AT1 empty_JJ intersection_NN1 on_II a_AT1 dreary_JJ night_NNT1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1    9 The sky is pitch-black and the streets are colored by the yellow-toned tungsten streetlamps .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1    9 The_AT sky_NN1 is_VBZ pitch-black_JJ and_CC the_AT streets_NN2 are_VBR colored_VVN by_II the_AT yellow-toned_JJ tungsten_NN1 streetlamps_NN2 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1   10 The grungy monotone color evokes a cold unpleasant feeling .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1   10 The_AT grungy_JJ monotone_NN1 color_NN1 evokes_VVZ a_AT1 cold_JJ unpleasant_JJ feeling_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1   11 The buildings are covered by shadows , implying a sense of evil and surprise around the corner .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1   11 The_AT buildings_NN2 are_VBR covered_VVN by_II shadows_NN2 ,_, implying_VVG a_AT1 sense_NN1 of_IO evil_NN1 and_CC surprise_NN1 around_II the_AT corner_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1   12 The decision to color the picture in a night setting is appropriate because more drunk-driving accidents occur more at night than during the day .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1   12 The_AT decision_NN1 to_TO color_VVI the_AT picture_NN1 in_II a_AT1 night_NNT1 setting_NN1 is_VBZ appropriate_JJ because_CS more_RGR drunk-driving_JJ accidents_NN2 occur_VV0 more_RRR at_II night_NNT1 than_CSN during_II the_AT day_NNT1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1   13 The NHTSA says that in 2011 , " fatal crashes in 2011 were 4.5 times higher at night than during the day . "
+SENTPOS 2014_4_101_000_068_2 FINAL B    1   13 The_AT NHTSA_NN1 says_VVZ that_CST in_II 2011_MC ,_, "_" fatal_JJ crashes_NN2 in_II 2011_MC were_VBDR 4.5_MC times_NNT2 higher_RRR@ at_II night_NNT1 than_CSN during_II the_AT day_NNT1 ._. "_"
+SENTPOS 2014_4_101_000_068_2 FINAL A    1   14 Also the audience may notice that the streets are empty which is implying a late time frame ; a time when everyone is asleep .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1   14 Also_RR the_AT audience_NN1 may_VM notice_VVI that_CST the_AT streets_NN2 are_VBR empty_JJ which_DDQ is_VBZ implying_VVG a_AT1 late_JJ time_NNT1 frame_NN1 ;_; a_AT1 time_NNT1 when_RRQ everyone_PN1 is_VBZ asleep_JJ ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    1   15 If the author decided to portray the picture in a sunny , colorful setting the message would not have been as effective ; the gloominess of the monotone color and bleak lighting gives the ad displeasing character .
+SENTPOS 2014_4_101_000_068_2 FINAL B    1   15 If_CS the_AT author_NN1 decided_VVD to_TO portray_VVI the_AT picture_NN1 in_II a_AT1 sunny_JJ ,_, colorful_JJ setting_VVG the_AT message_NN1 would_VM not_XX have_VHI been_VBN as_RG@ effective_JJ ;_; the_AT gloominess_NN1 of_IO the_AT monotone_NN1 color_NN1 and_CC bleak_JJ lighting_NN1 gives_VVZ the_AT ad_NN1 displeasing_VVG character_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   16 The roads , curbs , signs , and buildings are all symmetrically parallel in Heineken 's ad .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   16 The_AT roads_NN2 ,_, curbs_VVZ ,_, signs_NN2 ,_, and_CC buildings_NN2 are_VBR all_DB symmetrically_RR parallel_RR in_II Heineken_NP1 's_GE ad_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   17 Parallelism plays an important role in an image ; it usually expresses an image as being uniform and flowing .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   17 Parallelism_NN1 plays_VVZ an_AT1 important_JJ role_NN1 in_II an_AT1 image_NN1 ;_; it_PPH1 usually_RR expresses_VVZ an_AT1 image_NN1 as_CSA being_VBG uniform_JJ and_CC flowing_JJ ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   18 Everything seems to be even and parallel except for the white stop line located in the middle of the intersection ; it is not located in its correct position next to the stop sign .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   18 Everything_PN1 seems_VVZ to_TO be_VBI even_RR and_CC parallel_RR except_II21 for_II22 the_AT white_JJ stop_NN1 line_NN1 located_VVN in_II the_AT middle_NN1 of_IO the_AT intersection_NN1 ;_; it_PPH1 is_VBZ not_XX located_VVN in_II its_APPGE correct_JJ position_NN1 next_II21 to_II22 the_AT stop_NN1 sign_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   19 The misplaced stop line symbolizes a disturbance of the flow -- an unexpectedness .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   19 The_AT misplaced_JJ stop_NN1 line_NN1 symbolizes_VVZ a_AT1 disturbance_NN1 of_IO the_AT flow_NN1 --_NN1 an_AT1 unexpectedness_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   20 Driving is symbolic to parallelism ; you picture a person driving a car down a road in a flowing , routine manner .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   20 Driving_VVG is_VBZ symbolic_JJ to_II parallelism_NN1 ;_; you_PPY picture_VV0@ a_AT1 person_NN1 driving_VVG a_AT1 car_NN1 down_II a_AT1 road_NN1 in_II a_AT1 flowing_JJ ,_, routine_NN1 manner_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   21 Accidents happen if there is a disturbance .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   21 Accidents_NN2 happen_VV0 if_CSW@ there_EX is_VBZ a_AT1 disturbance_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   22 The break in flow is symbolic to the cause of car accidents -- alcohol .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   22 The_AT break_NN1 in_II flow_NN1 is_VBZ symbolic_JJ to_II the_AT cause_NN1 of_IO car_NN1 accidents_NN2 --_JJ alcohol_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   23 Alcohol is the reason why the stop line is misplaced ; Heineken includes the text " When you drink your reaction time slows down . "
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   23 Alcohol_NN1 is_VBZ the_AT reason_NN1 why_RRQ the_AT stop_NN1 line_NN1 is_VBZ misplaced_VVN ;_; Heineken_NP1 includes_VVZ the_AT text_NN1 "_" When_CS you_PPY drink_VV0 your_APPGE reaction_NN1 time_NNT1 slows_VVZ down_RP ._. "_"
+SENTPOS 2014_4_101_000_068_2 FINAL A    2   24 Parallelism effectively conveys Heineken 's message because it symbolizes a disruption of flow as an inevitable car wreck .
+SENTPOS 2014_4_101_000_068_2 FINAL B    2   24 Parallelism_NN1 effectively_RR conveys_VVZ Heineken_NP1 's_GE message_NN1 because_CS it_PPH1 symbolizes_VVZ a_AT1 disruption_NN1 of_IO flow_NN1 as_II an_AT1 inevitable_JJ car_NN1 wreck_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   25 Perspective is the element this Heineken ad depends on to get its message across .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   25 Perspective_NN1 is_VBZ the_AT element_NN1 this_DD1 Heineken_NP1 ad_NN1 depends_VVZ on_RP to_TO get_VVI its_APPGE message_NN1 across_RL@ ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   26 We see the image through the drunk driver 's perspective ; we are able visualize and understand the effects of intoxication due to the misplacement of the white stop line and the white text included .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   26 We_PPIS2 see_VV0 the_AT image_NN1 through_II the_AT drunk_JJ driver_NN1 's_GE perspective_NN1 ;_; we_PPIS2 are_VBR able_JJ visualize_VV0 and_CC understand_VV0 the_AT effects_NN2 of_IO intoxication_NN1 due_II21 to_II22 the_AT misplacement_NN1 of_IO the_AT white_JJ stop_NN1 line_NN1 and_CC the_AT white_JJ text_NN1 included_VVD ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   27 Interpreting the stop line a little more , we notice it is in the middle of the intersection , a few yards up from the stop sign .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   27 Interpreting_VVG the_AT stop_NN1 line_NN1 a_RR21 little_RR22 more_RRR ,_, we_PPIS2 notice_VV0 it_PPH1 is_VBZ in_II the_AT middle_NN1 of_IO the_AT intersection_NN1 ,_, a_AT1 few_DA2 yards_NN2 up_RP from_II the_AT stop_NN1 sign_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   28 It is in the perfect position for an incoming car on the cross street to collide with the drunk driver for a T-Bone collision .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   28 It_PPH1 is_VBZ in_II the_AT perfect_JJ position_NN1 for_IF an_AT1 incoming_JJ car_NN1 on_II the_AT cross_NN1 street_NN1 to_TO collide_VVI with_IW the_AT drunk_JJ driver_NN1 for_IF a_AT1 T-Bone_NP1 collision_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   29 The importance of perspective is that if it were viewed through the eyes of a normal sober person , there would not be any risk of an accident .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   29 The_AT importance_NN1 of_IO perspective_NN1 is_VBZ that_CST if_CS it_PPH1 were_VBDR viewed_VVN through_II the_AT eyes_NN2 of_IO a_AT1 normal_JJ sober_JJ person_NN1 ,_, there_EX would_VM not_XX be_VBI any_DD risk_NN1 of_IO an_AT1 accident_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   30 There is no message if the image is not portrayed through the eyes of the drunk driver .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   30 There_EX is_VBZ no_AT message_NN1 if_CS the_AT image_NN1 is_VBZ not_XX portrayed_VVN through_II the_AT eyes_NN2 of_IO the_AT drunk_JJ driver_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    3   31 The image would merely be an empty dark street .
+SENTPOS 2014_4_101_000_068_2 FINAL B    3   31 The_AT image_NN1 would_VM merely_RR be_VBI an_AT1 empty_JJ dark_JJ street_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    4   32 " Do n't drink and drive " seems to be the underlying message by alcohol companies in their ads nowadays .
+SENTPOS 2014_4_101_000_068_2 FINAL B    4   32 "_" Do_VD0 n't_XX drink_VVI and_CC drive_NN1 "_" seems_VVZ to_TO be_VBI the_AT underlying_JJ message_NN1 by_II alcohol_NN1 companies_NN2 in_II their_APPGE ads_NN2 nowadays_RT ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    4   33 One can only ponder the irony -- they are the cause of death , yet they are creating ads to stop it .
+SENTPOS 2014_4_101_000_068_2 FINAL B    4   33 One_PN1 can_VM only_RR ponder_VVI the_AT irony_NN1 --_NN1 they_PPHS2 are_VBR the_AT cause_NN1 of_IO death_NN1 ,_, yet_RR they_PPHS2 are_VBR creating_VVG ads_NN2 to_TO stop_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    4   34 But death is n't always the outcome of impaired driving ; it is just the worst possibility .
+SENTPOS 2014_4_101_000_068_2 FINAL B    4   34 But_CCB death_NN1 is_VBZ n't_XX always_RR the_AT outcome_NN1 of_IO impaired_JJ driving_JJ ;_; it_PPH1 is_VBZ just_RR the_AT worst_JJT possibility_NN1 ._.
+SENTPOS 2014_4_101_000_068_2 FINAL A    4   34  Elements of : color , lighting , parallelism , perspective , and symbolism conveys Heineken 's message -- if you are driving under the influence , you are likely to end in a car accident .
+SENTPOS 2014_4_101_000_068_2 FINAL B    4   34  Elements_NN2 of_IO :_: color_NN1 ,_, lighting_NN1 ,_, parallelism_NN1 ,_, perspective_NN1 ,_, and_CC symbolism_NN1 conveys_VVZ Heineken_NP1 's_GE message_NN1 --_NN1 if_CS you_PPY are_VBR driving_VVG under_II the_AT influence_NN1 ,_, you_PPY are_VBR likely_JJ to_TO end_VVI in_II a_AT1 car_NN1 accident_NN1 ._.

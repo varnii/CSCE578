@@ -1,0 +1,142 @@
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    0 Cells phones are the one thing in today 's world that people ca n't live without .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    0 Cells_NN2 phones_NN2 are_VBR the_AT one_MC1 thing_NN1 in_II today_RT 's_GE world_NN1 that_CST people_NN ca_VM n't_XX live_VVI without_RL% ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    1 The use of cell phones has become an integral part of our daily lives ( Harrison , 1516 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    1 The_AT use_NN1 of_IO cell_NN1 phones_NN2 has_VHZ become_VVN@ an_AT1 integral_JJ part_NN1 of_IO our_APPGE daily_JJ lives_NN2 (_( Harrison_NP1 ,_, 1516_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    2 Many cell phone users probably can not go a day without the use of their cell phones , because it is just the way it is in today 's world .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    2 Many_DA2 cell_NN1 phone_NN1 users_NN2 probably_RR can_VM not_XX go_VVI a_AT1 day_NNT1 without_IW the_AT use_NN1 of_IO their_APPGE cell_NN1 phones_NN2 ,_, because_CS it_PPH1 is_VBZ just_RR the_AT way_NN1 it_PPH1 is_VBZ in_II today_RT 's_GE world_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    3 Texting is something that has become a big deal in the U.S. In 2007 , well over 362 billion text messages were sent in the U.S. , which equals 690,000 texts sent per minute ( Harrison , 1516 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    3 Texting_NP1@ is_VBZ something_PN1 that_CST has_VHZ become_VVN@ a_AT1 big_JJ deal_NN1 in_II the_AT U.S._NP1 In_II 2007_MC ,_, well_RR over_RG 362_MC billion_NNO text_NN1 messages_NN2 were_VBDR sent_VVN in_II the_AT U.S._NP1 ,_, which_DDQ equals_VVZ 690,000_MC texts_NN2 sent_VVN per_II minute_NNT1 (_( Harrison_NP1 ,_, 1516_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    4 Over time technology is something that has advanced as far as cell phones .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    4 Over_II time_NNT1 technology_NN1 is_VBZ something_PN1 that_CST has_VHZ advanced_VVN as_CS31 far_CS32 as_CS33 cell_NN1 phones_NN2 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    5 In today 's society many people use cell phones on a daily basis .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    5 In_II today_RT 's_GE society_NN1 many_DA2 people_NN use_VV0 cell_NN1 phones_NN2 on_II a_AT1 daily_JJ basis_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    6 The use of cell phones while driving is something that many people do as well .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    6 The_AT use_NN1 of_IO cell_NN1 phones_NN2 while_CS driving_VVG is_VBZ something_PN1 that_CST many_DA2 people_NN do_VD0 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    7 There was a study of 91 college students from the U.S. to see how much they text and drive .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    7 There_EX was_VBDZ a_AT1 study_NN1 of_IO 91_MC college_NN1 students_NN2 from_II the_AT U.S._NP1 to_TO see_VVI how_RGQ@ much_RR they_PPHS2 text_NN1 and_CC drive_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    8 The study revealed that 91% of participants reported having used text messaging while driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    8 The_AT study_NN1 revealed_VVD that_CST 91%_NNU of_IO participants_NN2 reported_VVD having_VHG used_VVN text_NN1 messaging_NN1 while_CS driving_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0    9 Many reports said they were texting and driving with children in their vehicles ( Harrison , 1516 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0    9 Many_DA2 reports_NN2 said_VVD they_PPHS2 were_VBDR texting_VVG and_CC driving_VVG with_IW children_NN2 in_II their_APPGE vehicles_NN2 (_( Harrison_NP1 ,_, 1516_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0   10 Texting is not a bad thing but texting and driving could be fatal .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0   10 Texting_NP1@ is_VBZ not_XX a_AT1 bad_JJ thing_NN1 but_CCB texting_VVG and_CC driving_VVG could_VM be_VBI fatal_JJ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    0   11 Distracted driving , which includes a wide range of activities while driving such as talking on the phone , texting , watching videos and regulating the GPS navigator , is recognized as a growing road safety issue ( Benedetto , 31 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    0   11 Distracted_VVN driving_JJ ,_, which_DDQ includes_VVZ a_AT1 wide_JJ range_NN1 of_IO activities_NN2 while_CS driving_VVG such_II21 as_II22 talking_VVG on_II the_AT phone_NN1 ,_, texting_VVG ,_, watching_VVG videos_NN2 and_CC regulating_VVG the_AT GPS_NN2 navigator_NN1 ,_, is_VBZ recognized_VVN as_II a_AT1 growing_JJ road_NN1 safety_NN1 issue_NN1 (_( Benedetto_NP1 ,_, 31_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   12 Whether you feel this is becoming a problem or not , many people who text and drive have been in accidents and , due to those accidents , many people have died from texting and driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   12 Whether_CSW you_PPY feel_VV0 this_DD1 is_VBZ becoming_VVG a_AT1 problem_NN1 or_CC not_XX ,_, many_DA2 people_NN who_PNQS text_NN1 and_CC drive_NN1 have_VH0 been_VBN in_II accidents_NN2 and_CC ,_, due_II21 to_II22 those_DD2 accidents_NN2 ,_, many_DA2 people_NN have_VH0 died_VVN from_II texting_VVG and_CC driving_JJ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   13 The studies showed that 16,000 drivers were killed by the use of cell phones between 2001 and 2007 .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   13 The_AT studies_NN2 showed_VVD that_CST 16,000_MC drivers_NN2 were_VBDR killed_VVN by_II the_AT use_NN1 of_IO cell_NN1 phones_NN2 between_II 2001_MC and_CC 2007_MC ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   14 That 's over six people dying every day from cell phone related accidents ( Wood , 1 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   14 That_DD1 's_VBZ over_RG six_MC people_NN dying_VVG every_AT1 day_NNT1 from_II cell_NN1 phone_NN1 related_JJ accidents_NN2 (_( Wood_NP1 ,_, 1_MC1 )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   15 Many people who use their phones while driving may say they have an important call or text message that they can not wait .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   15 Many_DA2 people_NN who_PNQS use_VV0 their_APPGE phones_NN2 while_CS driving_VVG may_VM say_VVI they_PPHS2 have_VH0 an_AT1 important_JJ call_NN1 or_CC text_NN1 message_NN1 that_CST they_PPHS2 can_VM not_XX wait_VVI ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   16 While you are reading that text that come flashing through on your phone and trying to understand the joke , your brain is not overly conscious of the fact that the car in front of you has had to come to a complete stop ( Wood , 1 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   16 While_CS you_PPY are_VBR reading_VVG that_DD1 text_NN1 that_CST come_VV0 flashing_VVG through_RP@ on_II your_APPGE phone_NN1 and_CC trying_VVG to_TO understand_VVI the_AT joke_NN1 ,_, your_APPGE brain_NN1 is_VBZ not_XX overly_RR conscious_JJ of_IO the_AT fact_NN1 that_CST the_AT car_NN1 in_II31 front_II32 of_II33 you_PPY has_VHZ had_VHN to_TO come_VVI to_II a_AT1 complete_JJ stop_NN1 (_( Wood_NP1 ,_, 1_MC1 )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   17 By the time you look up and react to the stopped car it is too late .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   17 By_II the_AT time_NNT1 you_PPY look_VV0 up_RP and_CC react_VV0 to_II the_AT stopped_JJ@ car_NN1 it_PPH1 is_VBZ too_RG late_JJ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   18 You have hit that car .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   18 You_PPY have_VH0 hit_VVN that_DD1 car_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   19 Taking this risk is something many people do far too often .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   19 Taking_VVG this_DD1 risk_NN1 is_VBZ something_PN1 many_DA2 people_NN do_VD0 far_RR too_RG often_RR ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   20 Driving drunk is a 400 percent increase in crash risk .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   20 Driving_JJ drunk_JJ is_VBZ a_AT1 400_MC percent_NNU increase_NN1 in_II crash_NN1 risk_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   21 Texting has been shown to be possibly a 2,300 percent increase in crash risk ( Koch , 2 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   21 Texting_NP1@ has_VHZ been_VBN shown_VVN to_TO be_VBI possibly_RR a_AT1 2,300_MC percent_NNU increase_NN1 in_II crash_NN1 risk_NN1 (_( Koch_NP1 ,_, 2_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   22 The use of your phone while driving is more deadly than drunk driving , but no matter what the numbers say people still continue to use their phones while driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   22 The_AT use_NN1 of_IO your_APPGE phone_NN1 while_CS driving_VVG is_VBZ more_RGR deadly_JJ than_CSN drunk_JJ driving_JJ ,_, but_CCB no_DDQV31 matter_DDQV32 what_DDQV33 the_AT numbers_NN2 say_VV0 people_NN still_RR continue_VV0 to_TO use_VVI their_APPGE phones_NN2 while_CS driving_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    1   23 According to Penny M. Hagerman , texting and driving increases the risk of accident 23.2 times over unimpaired driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    1   23 According_II21 to_II22 Penny_NP1 M._NN1 Hagerman_NN1 ,_, texting_VVG and_CC driving_NN1@ increases_VVZ the_AT risk_NN1 of_IO accident_NN1 23.2_MC times_NNT2 over_II unimpaired_JJ driving_NN1@ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   24 People who still continue to use their phones while driving when they know the possible outcome of the situation are choosing to do so on their own will .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   24 People_NN who_PNQS still_RR continue_VV0 to_TO use_VVI their_APPGE phones_NN2 while_CS driving_VVG when_RRQ they_PPHS2 know_VV0 the_AT possible_JJ outcome_NN1 of_IO the_AT situation_NN1 are_VBR choosing_VVG to_TO do_VDI so_RR on_II their_APPGE own_DA will_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   25 There are many variables that go into figuring out why some people choose to text and drive when this could lead to death .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   25 There_EX are_VBR many_DA2 variables_NN2 that_CST go_VV0 into_II figuring_VVG out_RP why_RRQ some_DD people_NN choose_VV0 to_II text_NN1 and_CC drive_VV0 when_RRQ this_DD1 could_VM lead_VVI to_II death_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   26 Heidi E. Nemme and Katherine M. White have come up with ideas to figure out why this is still occurring .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   26 Heidi_NP1 E._NP1 Nemme_NP1 and_CC Katherine_NP1 M._NN1 White_NP1 have_VH0 come_VVN up_RP with_IW ideas_NN2 to_TO figure_VVI out_RP why_RRQ this_DD1 is_VBZ still_RR occurring_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   27 One variable that they came up with was a person 's intentions to text and drive .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   27 One_MC1 variable_NN1 that_CST they_PPHS2 came_VVD up_RP with_IW was_VBDZ a_AT1 person_NN1 's_GE intentions_NN2 to_II text_NN1 and_CC drive_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   28 They ask college students and they said , " I plan to send SMS messages while driving in the next week " . ,
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   28 They_PPHS2 ask_VV0 college_NN1 students_NN2 and_CC they_PPHS2 said_VVD ,_, "_" I_PPIS1 plan_VV0 to_TO send_VVI SMS_NP1 messages_NN2 while_CS driving_VVG in_II the_AT next_MD week_NNT1 "_" ._. ,_,
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   29 These college students know they will do it in the next week .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   29 These_DD2 college_NN1 students_NN2 know_VV0 they_PPHS2 will_VM do_VDI it_PPH1 in_II the_AT next_MD week_NNT1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   30 To know why the thoughts goes on in these college students head is something that ca n't be determined .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   30 To_TO know_VVI why_RRQ the_AT thoughts_NN2 goes_VVZ on_RP@ in_II these_DD2 college_NN1 students_NN2 head_NN1 is_VBZ something_PN1 that_CST ca_VM n't_XX be_VBI determined_VVN ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   31 Technology has completely changed the way many people think in today 's world .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   31 Technology_NN1 has_VHZ completely_RR changed_VVN the_AT way_NN1 many_DA2 people_NN think_VV0 in_RP@ today_RT 's_GE world_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   32 Even though they know , Texting while driving increases the risk of accident 23.2 times over unimpaired driving ( Hagerman , 1 ) they still choose to use their phones while they are driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   32 Even_CS21 though_CS22 they_PPHS2 know_VV0 ,_, Texting_VVG while_CS driving_VVG increases_VVZ the_AT risk_NN1 of_IO accident_NN1 23.2_MC times_NNT2 over_II unimpaired_JJ driving_NN1@ (_( Hagerman_NP1 ,_, 1_MC1 )_) they_PPHS2 still_RR choose_VV0 to_TO use_VVI their_APPGE phones_NN2 while_CS they_PPHS2 are_VBR driving_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   33 Hagerman states that texting and driving results in longer response times than even drunken driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   33 Hagerman_NN1 states_VVZ that_CST texting_VVG and_CC driving_JJ results_NN2 in_II longer_JJR response_NN1 times_NNT2 than_CSN even_RR drunken_JJ driving_NN1@ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    2   34 While an unimpaired driver can respond quickly to changes in traffic and begin braking within half a second , a legally drunk driver needs four additional feet to begin braking and a driver who 's texting needs 70 ( Hagerman , 1 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    2   34 While_CS an_AT1 unimpaired_JJ driver_NN1 can_VM respond_VVI quickly_RR to_II changes_NN2 in_II traffic_NN1 and_CC begin_VV0 braking_VVG within_II half_DB a_AT1 second_NNT1 ,_, a_AT1 legally_RR drunk_JJ driver_NN1 needs_VVZ four_MC additional_JJ feet_NN2 to_TO begin_VVI braking_VVG and_CC a_AT1 driver_NN1 who_PNQS 's_VBZ texting_VVG needs_NN2 70_MC (_( Hagerman_NP1 ,_, 1_MC1 )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   35 Knowing the main reason why people make these decisions is something that can not be fully understood .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   35 Knowing_VVG the_AT main_JJ reason_NN1 why_RRQ people_NN make_VV0 these_DD2 decisions_NN2 is_VBZ something_PN1 that_CST can_VM not_XX be_VBI fully_RR understood_VVN ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   36 People will always have the right to do as they please .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   36 People_NN will_VM always_RR have_VHI the_AT right_NN1 to_TO do_VDI as_CSA they_PPHS2 please_RR ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   37 We can only make laws to try to prevent this from happening .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   37 We_PPIS2 can_VM only_RR make_VVI laws_NN2 to_TO try_VVI to_TO prevent_VVI this_DD1 from_II happening_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   38 More than 50 countries have adopted laws prohibiting the use of cellular phones while driving ( Benedetto , 31 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   38 More_DAR than_CSN 50_MC countries_NN2 have_VH0 adopted_VVN laws_NN2 prohibiting_VVG the_AT use_NN1 of_IO cellular_JJ phones_NN2 while_CS driving_VVG (_( Benedetto_NP1 ,_, 31_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   39 Although the majority of countries have made the use of the cell phone while driving illegal its use while driving is still common both for calling and texting ( Benedetto , 30 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   39 Although_CS the_AT majority_NN1 of_IO countries_NN2 have_VH0 made_VVN the_AT use_NN1 of_IO the_AT cell_NN1 phone_NN1 while_CS driving_VVG illegal_JJ its_APPGE use_NN1 while_CS driving_VVG is_VBZ still_RR common_JJ both_RR for_IF calling_VVG and_CC texting_VVG (_( Benedetto_NP1 ,_, 30_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   40 Even though some countries have made an attempt to try to stop the use of cell phones while driving , many people still choose to do so .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   40 Even_CS21 though_CS22 some_DD countries_NN2 have_VH0 made_VVN an_AT1 attempt_NN1 to_TO try_VVI to_TO stop_VVI the_AT use_NN1 of_IO cell_NN1 phones_NN2 while_CS driving_VVG ,_, many_DA2 people_NN still_RR choose_VV0 to_TO do_VDI so_RR ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   41 The creation of these laws could be a good or bad thing .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   41 The_AT creation_NN1 of_IO these_DD2 laws_NN2 could_VM be_VBI a_AT1 good_JJ or_CC bad_JJ thing_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   42 It is a good thing because there is an attempt to try to stop this problem .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   42 It_PPH1 is_VBZ a_AT1 good_JJ thing_NN1 because_CS there_EX is_VBZ an_AT1 attempt_NN1 to_TO try_VVI to_TO stop_VVI this_DD1 problem_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   43 However , these laws will only work if they are enforced .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   43 However_RR ,_, these_DD2 laws_NN2 will_VM only_RR work_VVI if_CSW@ they_PPHS2 are_VBR enforced_VVN ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    3   44 If the law is not enforced , then many people who use their phones while driving are likely to continue to do so .
+SENTPOS 2014_4_101_100_113_2 FINAL B    3   44 If_CS the_AT law_NN1 is_VBZ not_XX enforced_VVN ,_, then_RT many_DA2 people_NN who_PNQS use_VV0 their_APPGE phones_NN2 while_CS driving_VVG are_VBR likely_JJ to_TO continue_VVI to_TO do_VDI so_RR ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   45 Dave Muslovski was a victim to someone that was using their phone while they were driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   45 Dave_NP1 Muslovski_NP1 was_VBDZ a_AT1 victim_NN1 to_II someone_PN1 that_CST was_VBDZ using_VVG their_APPGE phone_NN1 while_CS they_PPHS2 were_VBDR driving_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   46 Muslovski was walking along a highway in Youngstown , Ohio , when he was hit by a 19 year old driver , Whitney Yaeger .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   46 Muslovski_NP1@ was_VBDZ walking_VVG along_RP a_AT1 highway_NN1 in_II Youngstown_NP1 ,_, Ohio_NP1 ,_, when_CS he_PPHS1 was_VBDZ hit_VVN by_II a_AT1 19_MC year_NNT1 old_JJ driver_NN1 ,_, Whitney_NP1 Yaeger_NP1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   47 Dave Muslovski later died in the hospital .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   47 Dave_NP1 Muslovski_NP1 later_RRR died_VVD in_II the_AT hospital_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   48 Dave Muslovski family did not know the cause of death at first , then later they found out it was due to Yaeger texting and driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   48 Dave_NP1 Muslovski_NP1 family_NN1 did_VDD not_XX know_VVI the_AT cause_NN1 of_IO death_NN1 at_RR21 first_RR22 ,_, then_RT later_RRR they_PPHS2 found_VVD out_RP it_PPH1 was_VBDZ due_II21 to_II22 Yaeger_NP1 texting_VVG and_CC driving_JJ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   49 Yaeger said she had not seen Muslovski walking in his reflective gear that morning because she took her eyes off the road to look at her cell phone for a full ten seconds .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   49 Yaeger_NP1@ said_VVD she_PPHS1 had_VHD not_XX seen_VVN Muslovski_JJ walking_NN1 in_II his_APPGE reflective_JJ gear_NN1 that_DD1 morning_NNT1 because_CS she_PPHS1 took_VVD her_APPGE eyes_NN2 off_II the_AT road_NN1 to_TO look_VVI at_II her_APPGE cell_NN1 phone_NN1 for_IF a_AT1 full_JJ ten_MC seconds_NNT2 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   50 In these ten seconds , she took her eyes off the road , she took the life of a civilian just walking .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   50 In_II these_DD2 ten_MC seconds_NNT2 ,_, she_PPHS1 took_VVD her_APPGE eyes_NN2 off_II the_AT road_NN1 ,_, she_PPHS1 took_VVD the_AT life_NN1 of_IO a_AT1 civilian_JJ just_JJ@ walking_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   51 If she had not taken the time to look down at her phone this accident would have never occured .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   51 If_CS she_PPHS1 had_VHD not_XX taken_VVN the_AT time_NNT1 to_TO look_VVI down_RP at_II her_APPGE phone_NN1 this_DD1 accident_NN1 would_VM have_VHI never_RR occured_VVN ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   52 At the time , texting and driving was not illegal in the state of Ohio .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   52 At_II the_AT time_NNT1 ,_, texting_VVG and_CC driving_NN1@ was_VBDZ not_XX illegal_JJ in_II the_AT state_NN1 of_IO Ohio_NP1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   53 Therefore , Yaeger was charged with misdemeanor vehicular homicide .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   53 Therefore_RR ,_, Yaeger_NP1 was_VBDZ charged_VVN with_IW misdemeanor_NN1 vehicular_JJ homicide_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   54 She was sentenced to just 45 days in jail ( Koch , 2 ) .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   54 She_PPHS1 was_VBDZ sentenced_VVN to_II just_RR 45_MC days_NNT2 in_II jail_NN1 (_( Koch_NP1 ,_, 2_MC )_) ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   55 Events that happen like this one is something that should make people realize how dangerous this can be .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   55 Events_NN2 that_CST happen_VV0 like_II this_DD1 one_PN1 is_VBZ something_PN1 that_CST should_VM make_VVI people_NN realize_VVI how_RGQ@ dangerous_JJ this_DD1 can_VM be_VBI ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   56 Car manufactures should put a device in automobiles to block cell phone reception but still give them the capability to call 911 .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   56 Car_NN1 manufactures_VVZ should_VM put_VVI a_AT1 device_NN1 in_II automobiles_NN2 to_TO block_VVI cell_NN1 phone_NN1 reception_NN1 but_CCB still_RR give_VV0 them_PPHO2 the_AT capability_NN1 to_TO call_VVI 911_MC ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   57 This was an idea stated by an anonymous person who also reviewed this article .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   57 This_DD1 was_VBDZ an_AT1 idea_NN1 stated_VVN by_II an_AT1 anonymous_JJ person_NN1 who_PNQS also_RR reviewed_VVN this_DD1 article_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    4   58 Whether or not you agree with this idea , this is just something to look into to try to avoid many more deaths due to the use of phones while driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    4   58 Whether_CSW31 or_CSW32 not_CSW33 you_PPY agree_VV0 with_IW this_DD1 idea_NN1 ,_, this_DD1 is_VBZ just_RR something_PN1 to_TO look_VVI into_II to_TO try_VVI to_TO avoid_VVI many_DA2 more_DAR deaths_NN2 due_II21 to_II22 the_AT use_NN1 of_IO phones_NN2 while_CS driving_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   59 This world has become a technology driven world and technology continues to grow each day .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   59 This_DD1 world_NN1 has_VHZ become_VVN@ a_AT1 technology_NN1 driven_JJ world_NN1 and_CC technology_NN1 continues_VVZ to_TO grow_VVI each_DD1 day_NNT1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   60 With technology being on the rise , no matter what laws are being created people will still use their phones while driving .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   60 With_IW technology_NN1 being_VBG on_II the_AT rise_NN1 ,_, no_DDQV31 matter_DDQV32 what_DDQV33 laws_NN2 are_VBR being_VBG created_VVN people_NN will_VM still_RR use_VVI their_APPGE phones_NN2 while_CS driving_VVG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   61 The only way to completely eliminate this problem is to stop selling cell phones .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   61 The_AT only_JJ way_NN1 to_TO completely_RR eliminate_VVI this_DD1 problem_NN1 is_VBZ to_TO stop_VVI selling_VVG cell_NN1 phones_NN2 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   62 This is something that could not happen .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   62 This_DD1 is_VBZ something_PN1 that_CST could_VM not_XX happen_VVI ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   63 Because of the importance that cell phones have in today 's world .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   63 Because_II21 of_II22 the_AT importance_NN1 that_CST cell_NN1 phones_NN2 have_VH0 in_II today_RT 's_GE world_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   64 Adults that have children that drive are telling them no to text and driving but they do it themselves .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   64 Adults_NN2 that_CST have_VH0 children_NN2 that_CST drive_VV0 are_VBR telling_VVG them_PPHO2 no_RR% to_II text_NN1 and_CC driving_JJ but_CCB they_PPHS2 do_VD0 it_PPH1 themselves_PPX2 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   65 Adults can not expect anyone to listen to what they say when they are doing the same thing younger kids are doing .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   65 Adults_NN2 can_VM not_XX expect_VVI anyone_PN1 to_TO listen_VVI to_II what_DDQ they_PPHS2 say_VV0 when_RRQ they_PPHS2 are_VBR doing_VDG the_AT same_DA thing_NN1 younger_JJR kids_NN2 are_VBR doing_VDG ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   66 We live in a world where the majority of people use their phones while they drive and it 's something that should be taken serious .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   66 We_PPIS2 live_VV0 in_II a_AT1 world_NN1 where_RRQ the_AT majority_NN1 of_IO people_NN use_VV0 their_APPGE phones_NN2 while_CS they_PPHS2 drive_VV0 and_CC it_PPH1 's_VBZ something_PN1 that_CST should_VM be_VBI taken_VVN serious_JJ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   67 If people continue to use their phones while they drive there will be more deaths due to this .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   67 If_CS people_NN continue_VV0 to_TO use_VVI their_APPGE phones_NN2 while_CS they_PPHS2 drive_VV0 there_EX will_VM be_VBI more_DAR deaths_NN2 due_II21 to_II22 this_DD1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   68 Drinking and driving is something that is enforced in the U.S. but using your phone and driving can be more distracting then drinking and driving and this is something that the government does n't take serious .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   68 Drinking_NN1 and_CC driving_VVG is_VBZ something_PN1 that_CST is_VBZ enforced_VVN in_II the_AT U.S._NP1 but_CCB using_VVG your_APPGE phone_NN1 and_CC driving_VVG can_VM be_VBI more_RGR distracting_JJ@ then_RT drinking_VVG and_CC driving_JJ and_CC this_DD1 is_VBZ something_PN1 that_CST the_AT government_NN1 does_VDZ n't_XX take_VVI serious_JJ ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   69 There will be never one solution that we can turn to too try in stop people from doing this , we can only live and learn by our mistakes , but the wrong decision could led to someone 's death or it could led to your death .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   69 There_EX will_VM be_VBI never_RR one_MC1 solution_NN1 that_CST we_PPIS2 can_VM turn_VVI to_TO too_RR@ try_VVI in_II stop_NN1 people_NN from_II doing_VDG this_DD1 ,_, we_PPIS2 can_VM only_RR live_VVI and_CC learn_VVI by_II our_APPGE mistakes_NN2 ,_, but_CCB the_AT wrong_JJ decision_NN1 could_VM led_VVD to_II someone_PN1 's_GE death_NN1 or_CC it_PPH1 could_VM led_VVD to_II your_APPGE death_NN1 ._.
+SENTPOS 2014_4_101_100_113_2 FINAL A    5   69  If you agree or not with the idea to banned the use of phones while driving , you should be aware of how deadly this could be .
+SENTPOS 2014_4_101_100_113_2 FINAL B    5   69  If_CS you_PPY agree_VV0 or_CC not_XX with_IW the_AT idea_NN1 to_II banned_JJ the_AT use_NN1 of_IO phones_NN2 while_CS driving_VVG ,_, you_PPY should_VM be_VBI aware_JJ of_IO how_RGQ@ deadly_JJ this_DD1 could_VM be_VBI ._.

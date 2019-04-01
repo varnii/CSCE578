@@ -1,0 +1,336 @@
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    0 The United States is working at improving their global ranking in education .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    0 The_AT United_NP1 States_NP1 is_VBZ working_VVG at_II improving_VVG their_APPGE global_JJ ranking_NN1 in_II education_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    1 We are behind many other countries when it comes to education , and we want to become more equal to them .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    1 We_PPIS2 are_VBR behind_II many_DA2 other_JJ countries_NN2 when_CS it_PPH1 comes_VVZ to_II education_NN1 ,_, and_CC we_PPIS2 want_VV0 to_TO become_VVI more_RGR equal_JJ to_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    2 Common Core could help us get closer to this and make it a reality .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    2 Common_JJ Core_NN1 could_VM help_VVI us_PPIO2 get_VVI closer_RRR to_II this_DD1 and_CC make_VV0 it_PPH1 a_AT1 reality_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    3 The Common Core State Standards are informed by other top-performing countries to prepare all students for success in our global economy and society .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    3 The_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 are_VBR informed_VVN by_II other_JJ top-performing_JJ countries_NN2 to_TO prepare_VVI all_DB students_NN2 for_IF success_NN1 in_II our_APPGE global_JJ economy_NN1 and_CC society_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    4 The United States wants our education system to be more unified , and the Common Core State Standards could help us unify education throughout the states .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    4 The_AT United_NP1 States_NP1 wants_VVZ our_APPGE education_NN1 system_NN1 to_TO be_VBI more_RRR unified_VVN ,_, and_CC the_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 could_VM help_VVI us_PPIO2 unify_VVI education_NN1 throughout_II the_AT states_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    5 The Standards have been adopted by almost all states in The United States .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    5 The_AT Standards_NN2 have_VH0 been_VBN adopted_VVN by_II almost_RR all_DB states_NN2 in_II The_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    6 The Common Core State Standards will change the education of our future .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    6 The_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 will_VM change_VVI the_AT education_NN1 of_IO our_APPGE future_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    7 The Common Core State Standards provide a clear set of standards that every child should know and when they should know it .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    7 The_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 provide_VV0 a_AT1 clear_JJ set_NN1 of_IO standards_NN2 that_CST every_AT1 child_NN1 should_VM know_VVI and_CC when_CS they_PPHS2 should_VM know_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    8 " The Common Core , adopted by most states , does not constitute a federal curriculum or mandate specific readings .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    8 "_" The_AT Common_JJ Core_NN1 ,_, adopted_VVN by_II most_DAT states_NN2 ,_, does_VDZ not_XX constitute_VVI a_AT1 federal_JJ curriculum_NN1 or_CC mandate_NN1 specific_JJ readings_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0    9 But it does spell out skills that children should learn by different grade levels and general education principles " ( Carr ) .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0    9 But_CCB it_PPH1 does_VDZ spell_VVI out_RP skills_NN2 that_CST children_NN2 should_VM learn_VVI by_II different_JJ grade_NN1 levels_NN2 and_CC general_JJ education_NN1 principles_NN2 "_" (_( Carr_NP1 )_) ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   10 Common Core State Standards are new education standards that were made to be more rigorous and to help prepare students better for college and careers .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   10 Common_JJ Core_NN1 State_NN1 Standards_NN2 are_VBR new_JJ education_NN1 standards_NN2 that_CST were_VBDR made_VVN to_TO be_VBI more_RGR rigorous_JJ and_CC to_TO help_VVI prepare_VVI students_NN2 better_RRR for_IF college_NN1 and_CC careers_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   11 Common Core is more rigorous than the students are used to , so it may take some time for them to adapt .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   11 Common_JJ Core_NN1 is_VBZ more_RGR rigorous_JJ than_CSN the_AT students_NN2 are_VBR used_JJ to_II ,_, so_CS@ it_PPH1 may_VM take_VVI some_DD time_NNT1 for_IF them_PPHO2 to_TO adapt_VVI ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   12 In an article written by Kelly Petty that states how parents feel about Common Core states , " Common Core State Standards were intended to focus on providing what supporters say is rigorous and in-depth coursework in language arts and mathematics so students leave school with a deeper understanding of the concepts and prepared for college and the workforce . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   12 In_II an_AT1 article_NN1 written_VVN by_II Kelly_NP1 Petty_JJ that_CST states_VVZ how_RRQ parents_NN2 feel_VV0 about_II Common_JJ Core_NN1 states_NN2 ,_, "_" Common_JJ Core_NN1 State_NN1 Standards_NN2 were_VBDR intended_VVN to_TO focus_VVI on_II providing_VVG what_DDQ supporters_NN2 say_VV0 is_VBZ rigorous_JJ and_CC in-depth_JJ coursework_NN1 in_II language_NN1 arts_NN2 and_CC mathematics_NN1 so_RR students_NN2 leave_VV0 school_NN1 with_IW a_AT1 deeper_JJR understanding_NN1 of_IO the_AT concepts_NN2 and_CC prepared_VVN for_IF college_NN1 and_CC the_AT workforce_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   13 ( Petty ) The Common Core State Standards clearly lay out where students should be in English and Mathematics .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   13 (_( Petty_JJ )_) The_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 clearly_RR lay_VVD out_RP where_CS students_NN2 should_VM be_VBI in_II English_NN1 and_CC Mathematics_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   14 The Standards are research and evidence based .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   14 The_AT Standards_NN2 are_VBR research_NN1 and_CC evidence_NN1 based_VVN ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   15 They are also clear , understandable , and consistent .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   15 They_PPHS2 are_VBR also_RR clear_JJ ,_, understandable_JJ ,_, and_CC consistent_JJ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   16 Common Core State Standards are also made to erase the gap between the education levels of each state .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   16 Common_JJ Core_NN1 State_NN1 Standards_NN2 are_VBR also_RR made_VVN to_TO erase_VVI the_AT gap_NN1 between_II the_AT education_NN1 levels_NN2 of_IO each_DD1 state_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   17 The Common Core Standards were first introduced to have a set standard for the education of all students living in the United States .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   17 The_AT Common_JJ Core_NN1 Standards_NN2 were_VBDR first_MD introduced_VVN to_TO have_VHI a_AT1 set_NN1 standard_NN1 for_IF the_AT education_NN1 of_IO all_DB students_NN2 living_VVG in_II the_AT United_NP1 States_NP1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   18 " In 1893 , 10 men met in a secret session at Columbia University in New York City until midnight , debating what American high schools should teach .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   18 "_" In_II 1893_MC ,_, 10_MC men_NN2 met_VVN in_II a_AT1 secret_JJ session_NNT1 at_II Columbia_NP1 University_NN1 in_II New_NP1 York_NP1 City_NN1 until_II@ midnight_NNT1 ,_, debating_VVG what_DDQ American_JJ high_JJ schools_NN2 should_VM teach_VVI ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   19 In the final report , the Committee of Ten concluded that students deserved a strong liberal arts education -- in which 'every subject &lsqb; is &rsqb; taught in the same way and to the same extent to every pupil so long as he pursues it , no matter what the probable destination of the pupil may be . ' "
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   19 In_II the_AT final_JJ report_NN1 ,_, the_AT Committee_NN1 of_IO Ten_MC concluded_VVD that_CST students_NN2 deserved_VVD a_AT1 strong_JJ liberal_JJ arts_NN2 education_NN1 --_NN1 in_II which_DDQ 'every_JJ subject_NN1 &lsqb;_( is_VBZ &rsqb;_) taught_VVD in_II the_AT same_DA way_NN1 and_CC to_II the_AT same_DA extent_NN1 to_II every_AT1 pupil_NN1 so_RG long_RR as_CSA he_PPHS1 pursues_VVZ it_PPH1 ,_, no_DDQV31 matter_DDQV32 what_DDQV33 the_AT probable_JJ destination_NN1 of_IO the_AT pupil_NN1 may_VM be_VBI ._. '_"@ "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   20 ( Ripley ) As years passed , depending on where you live determined the education you received .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   20 (_( Ripley_NP1 )_) As_II@ years_NNT2 passed_VVD ,_, depending_II21 on_II22 where_RRQ you_PPY live_VV0 determined_VVN the_AT education_NN1 you_PPY received_VVD ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   21 A child 's education highly depends on where they live .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   21 A_AT1 child_NN1 's_GE education_NN1 highly_RR depends_VVZ on_II where_RRQ they_PPHS2 live_VV0 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   22 A child can move from one school to another and they could be behind .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   22 A_AT1 child_NN1 can_VM move_VVI from_II one_MC1 school_NN1 to_II another_DD1 and_CC they_PPHS2 could_VM be_VBI behind_RL@ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   23 A child can be in the top of their class in one school and then be way behind in another school .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   23 A_AT1 child_NN1 can_VM be_VBI in_II the_AT top_NN1 of_IO their_APPGE class_NN1 in_II one_MC1 school_NN1 and_CC then_RT be_VBI way_NN1 behind_RL@ in_II another_DD1 school_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   24 Common Core State Standards would help solve this problem .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   24 Common_JJ Core_NN1 State_NN1 Standards_NN2 would_VM help_VVI solve_VVI this_DD1 problem_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   25 Every school will be on the same track and it will tremendously help students who have to move in the middle of the school year .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   25 Every_AT1 school_NN1 will_VM be_VBI on_II the_AT same_DA track_NN1 and_CC it_PPH1 will_VM tremendously_RR help_VVI students_NN2 who_PNQS have_VH0 to_TO move_VVI in_II the_AT middle_NN1 of_IO the_AT school_NN1 year_NNT1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   26 This is one of the good things that will come from Common Core .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   26 This_DD1 is_VBZ one_MC1 of_IO the_AT good_JJ things_NN2 that_CST will_VM come_VVI from_II Common_JJ Core_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   27 There are many great proponents to Common Core , but there are some areas where it could use some work .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   27 There_EX are_VBR many_DA2 great_JJ proponents_NN2 to_II Common_JJ Core_NN1 ,_, but_CCB there_EX are_VBR some_DD areas_NN2 where_CS it_PPH1 could_VM use_VVI some_DD work_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    0   28 While implementing the Common Core State Standards into schools , they should look at creativity and student success .
+SENTPOS 2014_4_101_100_162_3 FINAL B    0   28 While_CS implementing_VVG the_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 into_II schools_NN2 ,_, they_PPHS2 should_VM look_VVI at_II creativity_NN1 and_CC student_NN1 success_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   29 Teachers come up with creative activities to do in the class every day .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   29 Teachers_NN2 come_VV0 up_RP with_IW creative_JJ activities_NN2 to_TO do_VDI in_II the_AT class_NN1 every_AT1 day_NNT1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   30 Common Core State Standards may take some of this away .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   30 Common_JJ Core_NN1 State_NN1 Standards_NN2 may_VM take_VVI some_DD of_IO this_DD1 away_RL ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   31 The standards are more rigorous which will mean teachers will have to take more time for explaining .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   31 The_AT standards_NN2 are_VBR more_RGR rigorous_JJ which_DDQ will_VM mean_VVI teachers_NN2 will_VM have_VHI to_TO take_VVI more_DAR time_NNT1 for_IF explaining_VVG ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   32 When so much time is spent on teaching the information , it takes away the time that they would be playing or doing an activity .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   32 When_RRQ so_RG much_DA1 time_NNT1 is_VBZ spent_VVN on_II teaching_VVG the_AT information_NN1 ,_, it_PPH1 takes_VVZ away_RL the_AT time_NNT1 that_CST they_PPHS2 would_VM be_VBI playing_VVG or_CC doing_VDG an_AT1 activity_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   33 In the scholarly book " Play at the Center of the Curriculum " , they go in depth why play is important .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   33 In_II the_AT scholarly_JJ book_NN1 "_" Play_NN1 at_II the_AT Center_NN1 of_IO the_AT Curriculum_NN1 "_" ,_, they_PPHS2 go_VV0 in_II depth_NN1 why_RRQ play_NN1 is_VBZ important_JJ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   34 The authors state , " Until this equilibrium is achieved , the child 's intellectual activity is always bound within the larger domain of play because , not being able to form an objective , reliable , and suitable view of the world , there is always a subordination of the world to the child 's immediate view .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   34 The_AT authors_NN2 state_VV0 ,_, "_" Until_CS this_DD1 equilibrium_NN1 is_VBZ achieved_VVN ,_, the_AT child_NN1 's_GE intellectual_JJ activity_NN1 is_VBZ always_RR bound_VVN within_II the_AT larger_JJR domain_NN1 of_IO play_NN1 because_CS ,_, not_XX being_VBG able_JK to_TO form_VVI an_AT1 objective_NN1 ,_, reliable_JJ ,_, and_CC suitable_JJ view_NN1 of_IO the_AT world_NN1 ,_, there_EX is_VBZ always_RR a_AT1 subordination_NN1 of_IO the_AT world_NN1 to_II the_AT child_NN1 's_GE immediate_JJ view_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   35 In a sense , because children make of the world what they wish , we say that children are bound by play , where work and practice are tied to pretense , fantasy , and imitation " .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   35 In_II a_AT1 sense_NN1 ,_, because_CS children_NN2 make_VV0 of_IO the_AT world_NN1 what_DDQ they_PPHS2 wish_VV0 ,_, we_PPIS2 say_VV0 that_CST children_NN2 are_VBR bound_VVN by_II play_NN1 ,_, where_CS work_NN1 and_CC practice_NN1 are_VBR tied_VVN to_TO pretense_VVI ,_, fantasy_NN1 ,_, and_CC imitation_NN1 "_" ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   36 ( Alward ) Children learn by playing .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   36 (_( Alward_RL )_) Children_NN2 learn_VV0 by_II playing_VVG ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   37 The authors also state , " Play is the heart of developmentally appropriate early childhood programs and , therefore , should be at the center of every curriculum . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   37 The_AT authors_NN2 also_RR state_VV0 ,_, "_" Play_NN1 is_VBZ the_AT heart_NN1 of_IO developmentally_RR appropriate_JJ early_JJ childhood_NN1 programs_NN2 and_CC ,_, therefore_RR ,_, should_VM be_VBI at_II the_AT center_NN1 of_IO every_AT1 curriculum_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   38 ( Alward ) Play is a child 's job and this is how they learn best .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   38 (_( Alward_RL )_) Play_NN1 is_VBZ a_AT1 child_NN1 's_GE job_NN1 and_CC this_DD1 is_VBZ how_RRQ they_PPHS2 learn_VV0 best_RRT ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   39 Children have more creativity than adults and can come up with much more .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   39 Children_NN2 have_VH0 more_DAR creativity_NN1 than_CSN adults_NN2 and_CC can_VM come_VVI up_RP with_IW much_DA1 more_DAR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   40 We do not want them to lose this by taking creativity out of the classroom .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   40 We_PPIS2 do_VD0 not_XX want_VVI them_PPHO2 to_TO lose_VVI this_DD1 by_II taking_VVG creativity_NN1 out_II21 of_II22 the_AT classroom_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   41 If we take out creativity during the school day , then when will they have the chance to be creative ?
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   41 If_CS we_PPIS2 take_VV0 out_RP creativity_NN1 during_II the_AT school_NN1 day_NNT1 ,_, then_RT when_RRQ will_VM they_PPHS2 have_VHI the_AT chance_NN1 to_TO be_VBI creative_JJ ?_?
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   42 Children today are busy and always have something going on .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   42 Children_NN2 today_RT are_VBR busy_JJ and_CC always_RR have_VH0 something_PN1 going_VVG on_RP@ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   43 Once they are out of school and go to whatever after school activities they have that day , they are too tired to do anything else .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   43 Once_CS@ they_PPHS2 are_VBR out_II21 of_II22 school_NN1 and_CC go_VV0 to_II whatever_DDQV after_JJ% school_NN1 activities_NN2 they_PPHS2 have_VH0 that_DD1 day_NNT1 ,_, they_PPHS2 are_VBR too_RG tired_JJ to_TO do_VDI anything_PN1 else_RR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    1   44 Therefore , they will lose their creativity .
+SENTPOS 2014_4_101_100_162_3 FINAL B    1   44 Therefore_RR ,_, they_PPHS2 will_VM lose_VVI their_APPGE creativity_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   45 When children are in centers , it is almost like play to them .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   45 When_RRQ children_NN2 are_VBR in_II centers_NN2 ,_, it_PPH1 is_VBZ almost_RR like_II play_NN1 to_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   46 They have a job to do while they are in their center , but they are having fun .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   46 They_PPHS2 have_VH0 a_AT1 job_NN1 to_TO do_VDI while_CS they_PPHS2 are_VBR in_II their_APPGE center_NN1 ,_, but_CCB they_PPHS2 are_VBR having_VHG fun_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   47 Children will remember the information that was presented in a way that is enjoyable to them more than if they are given information in a way that is not interesting to them .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   47 Children_NN2 will_VM remember_VVI the_AT information_NN1 that_CST was_VBDZ presented_VVN in_II a_AT1 way_NN1 that_CST is_VBZ enjoyable_JJ to_II them_PPHO2 more_RRR than_CSN if_CS they_PPHS2 are_VBR given_VVN information_NN1 in_II a_AT1 way_NN1 that_CST is_VBZ not_XX interesting_JJ to_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   48 They are most likely going to remember the things they enjoy instead of what the teacher had up on the board .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   48 They_PPHS2 are_VBR most_RGT likely_RR@ going_VVGK to_TO remember_VVI the_AT things_NN2 they_PPHS2 enjoy_VV0 instead_II21 of_II22 what_DDQ the_AT teacher_NN1 had_VHD up_RP on_II the_AT board_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   49 I have observed children working in centers in a few classrooms .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   49 I_PPIS1 have_VH0 observed_VVN children_NN2 working_VVG in_II centers_NN2 in_II a_AT1 few_DA2 classrooms_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   50 I have seen that the material that they review in their centers is remembered by the students and sticks with them more than the other information .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   50 I_PPIS1 have_VH0 seen_VVN that_CST the_AT material_NN1 that_CST they_PPHS2 review_VV0 in_II their_APPGE centers_NN2 is_VBZ remembered_VVN by_II the_AT students_NN2 and_CC sticks_VVZ with_IW them_PPHO2 more_RRR than_CSN the_AT other_JJ information_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   51 Play is important to a child 's development .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   51 Play_NN1 is_VBZ important_JJ to_II a_AT1 child_NN1 's_GE development_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   52 There have been many renovations to the Bettendorf Public Library .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   52 There_EX have_VH0 been_VBN many_DA2 renovations_NN2 to_II the_AT Bettendorf_NP1 Public_JJ Library_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   53 They added some play opportunities for children .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   53 They_PPHS2 added_VVD some_DD play_NN1 opportunities_NN2 for_IF children_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   54 " Studies show that there is a direct correlation between play and early literacy skill .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   54 "_" Studies_NN2 show_VV0 that_CST there_EX is_VBZ a_AT1 direct_JJ correlation_NN1 between_II play_NN1 and_CC early_JJ literacy_NN1 skill_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   55 Play encourages healthy brain development while encouraging exploration skills , language skills , social skills , physical skills and creativity .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   55 Play_NN1 encourages_VVZ healthy_JJ brain_NN1 development_NN1 while_CS encouraging_JJ exploration_NN1 skills_NN2 ,_, language_NN1 skills_NN2 ,_, social_JJ skills_NN2 ,_, physical_JJ skills_NN2 and_CC creativity_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   56 Children learn more if they have opportunities for creative free play . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   56 Children_NN2 learn_VV0 more_RRR if_CS they_PPHS2 have_VH0 opportunities_NN2 for_IF creative_JJ free_JJ play_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   57 ( O'Dell ) Play is an important part of the learning process and gives them a chance to express themselves .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   57 (_( O'Dell_NP1 )_) Play_NN1 is_VBZ an_AT1 important_JJ part_NN1 of_IO the_AT learning_NN1 process_NN1 and_CC gives_VVZ them_PPHO2 a_AT1 chance_NN1 to_TO express_VVI themselves_PPX2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   58 Common Core will take away time from play and the children will suffer from it .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   58 Common_JJ Core_NN1 will_VM take_VVI away_RL time_NNT1 from_II play_NN1 and_CC the_AT children_NN2 will_VM suffer_VVI from_II it_PPH1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    2   59 The teachers will be more focused on them passing the test , therefore they will spend more time trying to cover everything instead of making sure they understand the concepts , but teachers need to be less focused on the standardized test and more focused on how much and the quality of the information the children are learning .
+SENTPOS 2014_4_101_100_162_3 FINAL B    2   59 The_AT teachers_NN2 will_VM be_VBI more_RRR focused_VVN on_II them_PPHO2 passing_VVG the_AT test_NN1 ,_, therefore_RR they_PPHS2 will_VM spend_VVI more_DAR time_NNT1 trying_VVG to_TO cover_VVI everything_PN1 instead_II21 of_II22 making_VVG sure_JJ they_PPHS2 understand_VV0 the_AT concepts_NN2 ,_, but_CCB teachers_NN2 need_VV0 to_TO be_VBI less_RRR focused_VVN on_II the_AT standardized_JJ test_NN1 and_CC more_RRR focused_VVN on_II how_RGQ@ much_DA1 and_CC the_AT quality_NN1 of_IO the_AT information_NN1 the_AT children_NN2 are_VBR learning_VVG ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   60 Many people think that the loss in creativity will not affect the students .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   60 Many_DA2 people_NN think_VV0 that_CST the_AT loss_NN1 in_II creativity_NN1 will_VM not_XX affect_VVI the_AT students_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   61 Some think that classrooms will still have the same amount of creativity even with the rigorous standards , which is not possible .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   61 Some_DD think_VV0 that_CST classrooms_NN2 will_VM still_RR have_VHI the_AT same_DA amount_NN1 of_IO creativity_NN1 even_RR with_IW the_AT rigorous_JJ standards_NN2 ,_, which_DDQ is_VBZ not_XX possible_JJ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   62 People who think that creativity is not important in early childhood classrooms has not been exposed to seeing children as they play and connect the information to reality .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   62 People_NN who_PNQS think_VV0 that_DD1 creativity_NN1 is_VBZ not_XX important_JJ in_II early_JJ childhood_NN1 classrooms_NN2 has_VHZ not_XX been_VBN exposed_VVN to_II seeing_VVG children_NN2 as_CSA they_PPHS2 play_VV0 and_CC connect_VV0 the_AT information_NN1 to_II reality_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   63 Elementary School should be designed to be a creative atmosphere .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   63 Elementary_JJ School_NN1 should_VM be_VBI designed_VVN to_TO be_VBI a_AT1 creative_JJ atmosphere_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   64 This is how children express themselves , and it exposes a teacher to understand each individual student .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   64 This_DD1 is_VBZ how_RRQ children_NN2 express_VV0 themselves_PPX2 ,_, and_CC it_PPH1 exposes_VVZ a_AT1 teacher_NN1 to_TO understand_VVI each_DD1 individual_JJ student_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   65 " We have to remember play is the way young people learn . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   65 "_" We_PPIS2 have_VH0 to_TO remember_VVI play_NN1 is_VBZ the_AT way_NN1 young_JJ people_NN learn_VV0 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   66 ( O'Dell ) This is also how teachers get to know their students , therefore they can teach them better because they know their strengths .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   66 (_( O'Dell_NP1 )_) This_DD1 is_VBZ also_RR how_RRQ teachers_NN2 get_VV0 to_TO know_VVI their_APPGE students_NN2 ,_, therefore_RR they_PPHS2 can_VM teach_VVI them_PPHO2 better_RRR because_CS they_PPHS2 know_VV0 their_APPGE strengths_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   67 When a teacher knows all of their students they can meet the students ' needs better .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   67 When_CS a_AT1 teacher_NN1 knows_VVZ all_DB of_IO their_APPGE students_NN2 they_PPHS2 can_VM meet_VVI the_AT students_NN2 '_GE needs_NN2 better_RRR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   68 Activities which involve creativity can help children understand a harder concept .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   68 Activities_NN2 which_DDQ involve_VV0 creativity_NN1 can_VM help_VVI children_NN2 understand_VVI a_AT1 harder_JJR concept_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   69 People expect children to understand everything and think that they can sit there all day and listen to many lessons .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   69 People_NN expect_VV0 children_NN2 to_TO understand_VVI everything_PN1 and_CC think_VVI that_CST they_PPHS2 can_VM sit_VVI there_RL all_DB day_NNT1 and_CC listen_VVI to_II many_DA2 lessons_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   70 They think that children have an attention span like we do and it is proven that they do not .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   70 They_PPHS2 think_VV0 that_CST children_NN2 have_VH0 an_AT1 attention_NN1 span_NN1 like_CS% we_PPIS2 do_VD0 and_CC it_PPH1 is_VBZ proven_VVN that_CST they_PPHS2 do_VD0 not_XX ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    3   71 These people believe the Common Core Standards will improve our schools .
+SENTPOS 2014_4_101_100_162_3 FINAL B    3   71 These_DD2 people_NN believe_VV0 the_AT Common_JJ Core_NN1 Standards_NN2 will_VM improve_VVI our_APPGE schools_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   72 Teachers are also not having their students do as much creative writing anymore .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   72 Teachers_NN2 are_VBR also_RR not_XX having_VHG their_APPGE students_NN2 do_VD0 as_II@ much_RR creative_JJ writing_NN1 anymore_RR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   73 In New Orleans at Belle Chasse Elementary they used to write about their personal experiences .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   73 In_II New_NP1 Orleans_NP1 at_II Belle_NP1 Chasse_NP1 Elementary_JJ they_PPHS2 used_VMK to_TO write_VVI about_II their_APPGE personal_JJ experiences_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   74 They would write about their ideal vacation and about what they want to do over spring break .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   74 They_PPHS2 would_VM write_VVI about_II their_APPGE ideal_JJ vacation_NN1 and_CC about_II what_DDQ they_PPHS2 want_VV0 to_TO do_VDI over_II spring_NN1 break_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   75 ( Carr ) This is not happening as much now because of Common Core .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   75 (_( Carr_NP1 )_) This_DD1 is_VBZ not_XX happening_VVG as_RG@ much_RR now_RT because_II21 of_II22 Common_JJ Core_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   76 Common Core State Standards will soon be taking this out of many elementary schools .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   76 Common_JJ Core_NN1 State_NN1 Standards_NN2 will_VM soon_RR be_VBI taking_VVG this_DD1 out_II21 of_II22 many_DA2 elementary_JJ schools_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   77 At Belle Chasse Primary School the students " More rarely writes stories or essays based solely on his experience or imaginative musings anymore .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   77 At_II Belle_NP1 Chasse_NP1 Primary_JJ School_NN1 the_AT students_NN2 "_" More_RGR rarely_RR writes_VVZ stories_NN2 or_CC essays_NN2 based_VVN solely_RR on_II his_APPGE experience_NN1 or_CC imaginative_JJ musings_NN2 anymore_RR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   78 Instead , it 's all about citing 'textual evidence' .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   78 Instead_RR ,_, it_PPH1 's_VBZ all_DB about_II citing_VVG 'textual_JJ evidence'_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   79 ( Carr ) This is a very different approach from what these students are used to .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   79 (_( Carr_NP1 )_) This_DD1 is_VBZ a_AT1 very_RG different_JJ approach_NN1 from_II what_DDQ these_DD2 students_NN2 are_VBR used_JJ to_II ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   80 Students will be asked to write about information that they will be expected to interpret .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   80 Students_NN2 will_VM be_VBI asked_VVN@ to_TO write_VVI about_II information_NN1 that_CST they_PPHS2 will_VM be_VBI expected_VVN to_TO interpret_VVI ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   81 They will be given prompts like who is the main character and what is their characteristics , what is the theme of the story , and what was the problem and how was it solved .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   81 They_PPHS2 will_VM be_VBI given_VVN prompts_NN2 like_II who_PNQS is_VBZ the_AT main_JJ character_NN1 and_CC what_DDQ is_VBZ their_APPGE characteristics_NN2 ,_, what_DDQ is_VBZ the_AT theme_NN1 of_IO the_AT story_NN1 ,_, and_CC what_DDQ was_VBDZ the_AT problem_NN1 and_CC how_RRQ was_VBDZ it_PPH1 solved_VVN ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   82 This will be helpful for the students to learn at an early age and to practice , but it should not be the main focus at this age .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   82 This_DD1 will_VM be_VBI helpful_JJ for_IF the_AT students_NN2 to_TO learn_VVI at_II an_AT1 early_JJ age_NN1 and_CC to_II practice_NN1 ,_, but_CCB it_PPH1 should_VM not_XX be_VBI the_AT main_JJ focus_NN1 at_II this_DD1 age_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   83 They need to be able to create stories and write about what they want to write about also , or they will lose their creativity .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   83 They_PPHS2 need_VV0 to_TO be_VBI able_JK to_TO create_VVI stories_NN2 and_CC write_VVI about_II what_DDQ they_PPHS2 want_VV0 to_TO write_VVI about_II also_RR ,_, or_CC they_PPHS2 will_VM lose_VVI their_APPGE creativity_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    4   84 Students need to be able to write about topics that interest them also or it will take away any desire for them to write in the future .
+SENTPOS 2014_4_101_100_162_3 FINAL B    4   84 Students_NN2 need_VV0 to_TO be_VBI able_JK to_TO write_VVI about_II topics_NN2 that_CST interest_VV0% them_PPHO2 also_RR or_CC it_PPH1 will_VM take_VVI away_RL any_DD desire_NN1 for_IF them_PPHO2 to_TO write_VVI in_II the_AT future_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   85 The lack of creativity will affect student success .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   85 The_AT lack_NN1 of_IO creativity_NN1 will_VM affect_VVI student_NN1 success_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   86 Children learn the best when they can associate it with something .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   86 Children_NN2 learn_VV0 the_AT best_RRT when_CS they_PPHS2 can_VM associate_VVI it_PPH1 with_IW something_PN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   87 Children learn how to say their ABC 's by singing a song , how to tie their shoes with a rhyme , and practice cooking and cleaning through play .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   87 Children_NN2 learn_VV0 how_RRQ to_TO say_VVI their_APPGE ABC_NN1@ 's_VBZ by_II singing_VVG a_AT1 song_NN1 ,_, how_RRQ to_TO tie_VVI their_APPGE shoes_NN2 with_IW a_AT1 rhyme_NN1 ,_, and_CC practice_NN1 cooking_NN1 and_CC cleaning_VVG through_II play_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   88 If children learn these things so well through creativity then why not continue teaching them that way .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   88 If_CS children_NN2 learn_VV0 these_DD2 things_NN2 so_RG well_RR through_II creativity_NN1 then_RT why_RRQ not_XX continue_VVI teaching_VVG them_PPHO2 that_DD1 way_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   89 We see that this is working so why change .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   89 We_PPIS2 see_VV0 that_CST this_DD1 is_VBZ working_VVG so_RR why_RRQ change_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   90 We need to add more creative activities to the classroom not take them away .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   90 We_PPIS2 need_VV0 to_TO add_VVI more_RGR creative_JJ activities_NN2 to_II the_AT classroom_NN1 not_XX take_VV0 them_PPHO2 away_RL ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   91 It is like proving that you have found a cure for cancer , and then not giving it to people with cancer .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   91 It_PPH1 is_VBZ like_II proving_VVG that_CST you_PPY have_VH0 found_VVN a_AT1 cure_NN1 for_IF cancer_NN1 ,_, and_CC then_RT not_XX giving_VVG it_PPH1 to_II people_NN with_IW cancer_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   92 The first years of a child 's life are spent playing .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   92 The_AT first_MD years_NNT2 of_IO a_AT1 child_NN1 's_GE life_NN1 are_VBR spent_VVN playing_VVG ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   93 They learn a lot during this time .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   93 They_PPHS2 learn_VV0 a_AT1 lot_NN1 during_II this_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    5   94 It is proven that children need to play and that they learn through play so that is what they need to do .
+SENTPOS 2014_4_101_100_162_3 FINAL B    5   94 It_PPH1 is_VBZ proven_VVN that_CST children_NN2 need_VV0 to_TO play_VVI and_CC that_CST they_PPHS2 learn_VV0 through_II play_NN1 so_CS@ that_DD1 is_VBZ what_DDQ they_PPHS2 need_VV0 to_TO do_VDI ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6   95 When people envision a classroom they think about each student sitting in a desk with the students in rows all facing the white board where they envision the teacher .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6   95 When_RRQ people_NN envision_VV0 a_AT1 classroom_NN1 they_PPHS2 think_VV0 about_II each_DD1 student_NN1 sitting_VVG in_II a_AT1 desk_NN1 with_IW the_AT students_NN2 in_II rows_NN2 all_DB facing_VVG the_AT white_JJ board_NN1 where_CS they_PPHS2 envision_VV0 the_AT teacher_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6   96 This is not how it needs to be though .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6   96 This_DD1 is_VBZ not_XX how_RRQ it_PPH1 needs_VVZ to_TO be_VBI though_RR@ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6   97 The classroom should not be a quiet place where students sit there and do worksheets , even though that would be the easy thing to do .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6   97 The_AT classroom_NN1 should_VM not_XX be_VBI a_AT1 quiet_JJ place_NN1 where_RRQ students_NN2 sit_VV0 there_RL and_CC do_VD0 worksheets_NN2 ,_, even_CS21 though_CS22 that_DD1 would_VM be_VBI the_AT easy_JJ thing_NN1 to_TO do_VDI ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6   98 The students should be sitting in groups and interacting with each other .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6   98 The_AT students_NN2 should_VM be_VBI sitting_VVG in_II groups_NN2 and_CC interacting_VVG with_IW each_PPX221 other_PPX222 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6   99 The University of Carnegie Mellon did research on group work in a classroom and they found , " Group projects can help students develop a host of skills that are increasingly important in the professional world .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6   99 The_AT University_NN1 of_IO Carnegie_NP1 Mellon_NP1 did_VDD research_VVI on_II group_NN1 work_NN1 in_II a_AT1 classroom_NN1 and_CC they_PPHS2 found_VVD ,_, "_" Group_NN1 projects_NN2 can_VM help_VVI students_NN2 develop_VVI a_AT1 host_NN1 of_IO skills_NN2 that_CST are_VBR increasingly_RR important_JJ in_II the_AT professional_JJ world_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  100 Positive group experiences , moreover , have been shown to contribute to student learning , retention and overall college success . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  100 Positive_JJ group_NN1 experiences_NN2 ,_, moreover_RR ,_, have_VH0 been_VBN shown_VVN to_TO contribute_VVI to_II student_NN1 learning_NN1 ,_, retention_NN1 and_CC overall_JJ college_NN1 success_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  101 ( Benefits of group ) More often than not students will end up with a job where they must work with other people .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  101 (_( Benefits_NN2 of_IO group_NN1 )_) More_RGR often_RR than_CSN not_XX students_NN2 will_VM end_VVI up_RP with_IW a_AT1 job_NN1 where_CS they_PPHS2 must_VM work_VVI with_IW other_JJ people_NN ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  102 They need to do group work to help prepare them and for them to gain the social skills necessary to work in a group .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  102 They_PPHS2 need_VV0 to_TO do_VDI group_NN1 work_NN1 to_TO help_VVI prepare_VVI them_PPHO2 and_CC for_IF them_PPHO2 to_TO gain_VVI the_AT social_JJ skills_NN2 necessary_JJ to_TO@ work_VVI in_II a_AT1 group_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  103 Students can also figure out more complex problems when they are working in a group .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  103 Students_NN2 can_VM also_RR figure_VVI out_RP more_DAR complex_JJ problems_NN2 when_CS they_PPHS2 are_VBR working_VVG in_II a_AT1 group_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  104 When a child is faced with a harder problem and asked to complete it alone , it can be overwhelming .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  104 When_CS a_AT1 child_NN1 is_VBZ faced_VVN with_IW a_AT1 harder_JJR problem_NN1 and_CC asked_VVN to_TO complete_VVI it_PPH1 alone_RR ,_, it_PPH1 can_VM be_VBI overwhelming_JJ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  105 They will decide they can not do it and give up .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  105 They_PPHS2 will_VM decide_VVI they_PPHS2 can_VM not_XX do_VDI it_PPH1 and_CC give_VV0 up_RP ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  106 When they are working with their classmates they can all collaborate and figure it out together .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  106 When_CS they_PPHS2 are_VBR working_VVG with_IW their_APPGE classmates_NN2 they_PPHS2 can_VM all_DB collaborate_VVI and_CC figure_VVI it_PPH1 out_RP together_RL ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  107 It is a learning experience for them and the way a classmate explains something can help them understand a concept they did not understand .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  107 It_PPH1 is_VBZ a_AT1 learning_NN1 experience_NN1 for_IF them_PPHO2 and_CC the_AT way_NN1 a_AT1 classmate_NN1 explains_VVZ something_PN1 can_VM help_VVI them_PPHO2 understand_VVI a_AT1 concept_NN1 they_PPHS2 did_VDD not_XX understand_VVI ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  108 At times a child might be able to explain it to another child better than the teacher .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  108 At_II times_NNT2 a_AT1 child_NN1 might_VM be_VBI able_JK to_TO explain_VVI it_PPH1 to_II another_DD1 child_NN1 better_RRR than_CSN the_AT teacher_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  109 Group work can be a good tool to use in a classroom as long as it is done correctly .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  109 Group_NN1 work_NN1 can_VM be_VBI a_AT1 good_JJ tool_NN1 to_TO use_VVI in_II a_AT1 classroom_NN1 as_CS31 long_CS32 as_CS33 it_PPH1 is_VBZ done_VDN correctly_RR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    6  110 Group work can help a student succeed in a classroom .
+SENTPOS 2014_4_101_100_162_3 FINAL B    6  110 Group_NN1 work_NN1 can_VM help_VVI a_AT1 student_NN1 succeed_VV0 in_II a_AT1 classroom_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  111 Student success is one of the main focuses in education .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  111 Student_NN1 success_NN1 is_VBZ one_MC1 of_IO the_AT main_NN1@ focuses_VVZ in_II education_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  112 Student success is one of the major goals of Common Core , but it will not show the whole picture .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  112 Student_NN1 success_NN1 is_VBZ one_MC1 of_IO the_AT major_JJ goals_NN2 of_IO Common_JJ Core_NN1 ,_, but_CCB it_PPH1 will_VM not_XX show_VVI the_AT whole_JJ picture_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  113 They are putting too much of an emphasis on the standardized test .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  113 They_PPHS2 are_VBR putting_VVG too_RG much_DA1 of_IO an_AT1 emphasis_NN1 on_II the_AT standardized_JJ test_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  114 Classrooms are being taught according to the test .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  114 Classrooms_NN2 are_VBR being_VBG taught_VVN according_II21 to_II22 the_AT test_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  115 According to David Green " To try to live up to the new demands and ensure better test scores , states , districts and schools have purchased resources , materials and scripted curricular modules solely developed for test success .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  115 According_II21 to_II22 David_NP1 Green_JJ "_" To_TO try_VVI to_TO live_VVI up_II21 to_II22 the_AT new_JJ demands_NN2 and_CC ensure_VV0 better_JJR test_NN1 scores_NN2 ,_, states_NN2 ,_, districts_NN2 and_CC schools_NN2 have_VH0 purchased_VVN resources_NN2 ,_, materials_NN2 and_CC scripted_VVN curricular_JJ modules_NN2 solely_RR developed_VVN for_IF test_NN1 success_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  116 Being lost is the practical wisdom and planned spontaneity necessary to work with 20 to 35 individuals in a classroom .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  116 Being_VBG lost_VVN is_VBZ the_AT practical_JJ wisdom_NN1 and_CC planned_JJ@ spontaneity_NN1 necessary_JJ to_TO@ work_VVI with_IW 20_MC to_II 35_MC individuals_NN2 in_II a_AT1 classroom_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  117 Academic creativity has been drained from degraded and overworked experienced teachers .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  117 Academic_JJ creativity_NN1 has_VHZ been_VBN drained_VVN from_II degraded_JJ and_CC overworked_JJ experienced_JJ teachers_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  118 Uniformity has sucked the life out of teaching and learning . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  118 Uniformity_NN1 has_VHZ sucked_VVN the_AT life_NN1 out_II21 of_II22 teaching_NN1 and_CC learning_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  119 ( Green ) Classrooms are all beginning to look alike which is not a good thing .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  119 (_( Green_NP1@ )_) Classrooms_NN2 are_VBR all_DB beginning_VVG to_TO look_VVI alike_RR which_DDQ is_VBZ not_XX a_AT1 good_JJ thing_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  120 It means that they are losing their creativity .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  120 It_PPH1 means_VVZ that_CST they_PPHS2 are_VBR losing_VVG their_APPGE creativity_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  121 The students are not given enough time to fully grasp the concept and are rushed through the content .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  121 The_AT students_NN2 are_VBR not_XX given_VVN enough_DD time_NNT1 to_TO fully_RR grasp_VVI the_AT concept_NN1 and_CC are_VBR rushed_VVN through_II the_AT content_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  122 This will affect their education .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  122 This_DD1 will_VM affect_VVI their_APPGE education_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  123 Teachers feel like they must cover every subject , hence they do not go as in depth as they should .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  123 Teachers_NN2 feel_VV0 like_CS% they_PPHS2 must_VM cover_VVI every_AT1 subject_NN1 ,_, hence_RR they_PPHS2 do_VD0 not_XX go_VVI as_CSA in_II depth_NN1 as_CSA they_PPHS2 should_VM ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  124 Teachers are going through the topics on the surface and not giving their students the chance to dig and see what is below the surface .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  124 Teachers_NN2 are_VBR going_VVG through_II the_AT topics_NN2 on_II the_AT surface_NN1 and_CC not_XX giving_VVG their_APPGE students_NN2 the_AT chance_NN1 to_TO dig_VVI and_CC see_VVI what_DDQ is_VBZ below_II the_AT surface_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  125 This is not the way we should run a classroom .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  125 This_DD1 is_VBZ not_XX the_AT way_NN1 we_PPIS2 should_VM run_VVI a_AT1 classroom_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  126 Teachers need to focus more on teaching in a way that students will enjoy , then the better scores will come along with it .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  126 Teachers_NN2 need_VV0 to_TO focus_VVI more_RRR on_II teaching_VVG in_II a_AT1 way_NN1 that_CST students_NN2 will_VM enjoy_VVI ,_, then_RT the_AT better_JJR scores_NN2 will_VM come_VVI along_II21 with_II22 it_PPH1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  127 Schools have been required to give standardized test sense 2002 when the No Child Left Behind Act was passed .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  127 Schools_NN2 have_VH0 been_VBN required_VVN to_TO give_VVI standardized_JJ test_NN1 sense_NN1 2002_MC when_RRQ the_AT No_AT Child_NN1 Left_VVN Behind_II Act_NN1 was_VBDZ passed_VVN ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  128 Every State was required to come up with their own benchmarks in language arts and mathematics under this act and they were widely varied .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  128 Every_AT1 State_NN1 was_VBDZ required_VVN to_TO come_VVI up_RP with_IW their_APPGE own_DA benchmarks_NN2 in_II language_NN1 arts_NN2 and_CC mathematics_NN1 under_II this_DD1 act_NN1 and_CC they_PPHS2 were_VBDR widely_RR varied_VVN ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  129 ( Lahey ) Now under the Common Core State Standards they have to get new tests that match up with the new standards .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  129 (_( Lahey_NP1@ )_) Now_RT under_II the_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 they_PPHS2 have_VH0 to_TO get_VVI new_JJ tests_NN2 that_CST match_VV0 up_RP with_IW the_AT new_JJ standards_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  130 According to New York Times , " New York was one of the first states to match up standardized tests with the Common Core State Standards , and last week 's testing was the second year students sat for Common Core-aligned tests .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  130 According_II21 to_II22 New_NP1 York_NP1 Times_NNT2 ,_, "_" New_NP1 York_NP1 was_VBDZ one_MC1 of_IO the_AT first_MD states_VVZ to_TO match_VVI up_RP standardized_JJ tests_NN2 with_IW the_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 ,_, and_CC last_MD week_NNT1 's_GE testing_NN1 was_VBDZ the_AT second_MD year_NNT1 students_NN2 sat_VVD for_IF Common_JJ Core-aligned_JJ tests_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  131 Scores fell last year , as might be expected because of the greater rigor inherent in those exams , which caused a lot of anxiety among educators . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  131 Scores_NN2 fell_VVD last_MD year_NNT1 ,_, as_CSA might_VM be_VBI expected_VVN because_II21 of_II22 the_AT greater_JJR rigor_NN1 inherent_JJ in_II those_DD2 exams_NN2 ,_, which_DDQ caused_VVD a_AT1 lot_NN1 of_IO anxiety_NN1 among_II educators_NN2 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  132 ( Lahey ) There is a lot of emphasis put on this test throughout the year , and it can be stressful for the students .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  132 (_( Lahey_NP1@ )_) There_EX is_VBZ a_AT1 lot_NN1 of_IO emphasis_NN1 put_VVN on_II this_DD1 test_NN1 throughout_II the_AT year_NNT1 ,_, and_CC it_PPH1 can_VM be_VBI stressful_JJ for_IF the_AT students_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  133 The students also do not see why these test are important since they are not calculated into their class grade .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  133 The_AT students_NN2 also_RR do_VD0 not_XX see_VVI why_RRQ these_DD2 test_VV0 are_VBR important_JJ since_CS they_PPHS2 are_VBR not_XX calculated_VVN into_II their_APPGE class_NN1 grade_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  134 They do not see them as important , and this can affect the teachers .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  134 They_PPHS2 do_VD0 not_XX see_VVI them_PPHO2 as_CSA important_JJ ,_, and_CC this_DD1 can_VM affect_VVI the_AT teachers_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  135 Teachers get evaluated on how well their students do on the standardized test , so if their students do not take it seriously the teacher 's reputation is at risk .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  135 Teachers_NN2 get_VV0 evaluated_VVN on_II how_RGQ@ well_RR their_APPGE students_NN2 do_VD0 on_II the_AT standardized_JJ test_NN1 ,_, so_RR if_CS their_APPGE students_NN2 do_VD0 not_XX take_VVI it_PPH1 seriously_RR the_AT teacher_NN1 's_GE reputation_NN1 is_VBZ at_II risk_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  136 In some states promotions and teacher salary reflect the test scores , which are supposed to show student success , then the student 's success is supposed to reflect how well the teachers are doing their job .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  136 In_II some_DD states_NN2 promotions_NN2 and_CC teacher_NN1 salary_NN1 reflect_VV0 the_AT test_NN1 scores_NN2 ,_, which_DDQ are_VBR supposed_JJ to_TO show_VVI student_NN1 success_NN1 ,_, then_RT the_AT student_NN1 's_GE success_NN1 is_VBZ supposed_JJ to_TO reflect_VVI how_RGQ@ well_RR the_AT teachers_NN2 are_VBR doing_VDG their_APPGE job_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  137 " Of course , not all tests are bad , and we want to ensure that students are learning valuable content .
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  137 "_" Of_RR21 course_RR22 ,_, not_XX all_DB tests_NN2 are_VBR bad_JJ ,_, and_CC we_PPIS2 want_VV0 to_TO ensure_VVI that_CST students_NN2 are_VBR learning_VVG valuable_JJ content_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    7  138 But if schools focus all their efforts on preparing students for tests , they will not be successful in preparing students for life . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    7  138 But_CCB if_CS schools_NN2 focus_VV0 all_DB their_APPGE efforts_NN2 on_II preparing_VVG students_NN2 for_IF tests_NN2 ,_, they_PPHS2 will_VM not_XX be_VBI successful_JJ in_II preparing_VVG students_NN2 for_IF life_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  139 ( Starko ) Parents are worried that Common Core State Standards will affect their children 's success in school .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  139 (_( Starko_NP1@ )_) Parents_NN2 are_VBR worried_JJ that_CST Common_JJ Core_NN1 State_NN1 Standards_NN2 will_VM affect_VVI their_APPGE children_NN2 's_GE success_NN1 in_II school_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  140 Parents are and always will be highly invested in their child 's education .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  140 Parents_NN2 are_VBR and_CC always_RR will_VM be_VBI highly_RR invested_VVN in_II their_APPGE child_NN1 's_GE education_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  141 Parents want their children to do good and come home with good grades .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  141 Parents_NN2 want_VV0 their_APPGE children_NN2 to_TO do_VDI good_JJ and_CC come_VV0 home_RL with_IW good_JJ grades_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  142 They see this change as a danger to that .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  142 They_PPHS2 see_VV0 this_DD1 change_NN1 as_II a_AT1 danger_NN1 to_II that_DD1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  143 Common Core is a more rigorous set of standards that the children are not used to , so it will affect their grades .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  143 Common_JJ Core_NN1 is_VBZ a_AT1 more_RGR rigorous_JJ set_NN1 of_IO standards_NN2 that_CST the_AT children_NN2 are_VBR not_XX used_JJ to_II ,_, so_CS@ it_PPH1 will_VM affect_VVI their_APPGE grades_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  144 The students will have to put in a little more effort in the Common Core State Standards , because if they do not then their grades will reflect it .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  144 The_AT students_NN2 will_VM have_VHI to_TO put_VVI in_RP@ a_RR21 little_RR22 more_DAR effort_NN1 in_II the_AT Common_JJ Core_NN1 State_NN1 Standards_NN2 ,_, because_CS if_CS they_PPHS2 do_VD0 not_XX then_RT their_APPGE grades_NN2 will_VM reflect_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  145 Parents see what is going on right now , which according to Petty is " Common Core in South Carolina has n't gotten much fanfare from parents frustrated over their children 's academic performance and worried they are seeing a complete federal takeover of education that standardizes learning and limits creativity . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  145 Parents_NN2 see_VV0 what_DDQ is_VBZ going_VVG on_RP@ right_RR now_RT ,_, which_DDQ according_II21 to_II22 Petty_JJ is_VBZ "_" Common_JJ Core_NN1 in_II South_NP1 Carolina_NP1 has_VHZ n't_XX gotten_VVN much_DA1 fanfare_NN1 from_II parents_NN2 frustrated_VVN over_II their_APPGE children_NN2 's_GE academic_JJ performance_NN1 and_CC worried_JJ they_PPHS2 are_VBR seeing_VVG a_AT1 complete_JJ federal_JJ takeover_NN1 of_IO education_NN1 that_CST standardizes_VVZ learning_NN1 and_CC limits_VVZ creativity_NN1 ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    8  146 ( Petty ) Many parents are so focused on the fact that almost all of the states are adopting these new standards and how it does lack creativity to see that if it is revised minimally then it could ultimately help their children .
+SENTPOS 2014_4_101_100_162_3 FINAL B    8  146 (_( Petty_JJ )_) Many_DA2 parents_NN2 are_VBR so_RR focused_VVN on_II the_AT fact_NN1 that_CST almost_RR all_DB of_IO the_AT states_NN2 are_VBR adopting_VVG these_DD2 new_JJ standards_NN2 and_CC how_RRQ it_PPH1 does_VDZ lack_VVI creativity_NN1 to_TO see_VVI that_CST if_CS it_PPH1 is_VBZ revised_VVN minimally_RR then_RT it_PPH1 could_VM ultimately_RR help_VVI their_APPGE children_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  147 Overall Common Core State Standards are a good idea .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  147 Overall_RR Common_JJ Core_NN1 State_NN1 Standards_NN2 are_VBR a_AT1 good_JJ idea_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  148 They help alleviate the gap between required education standards in the different states .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  148 They_PPHS2 help_VV0 alleviate_VVI the_AT gap_NN1 between_II required_JJ education_NN1 standards_NN2 in_II the_AT different_JJ states_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  149 Common Core State Standards help keep a strong focus on what they need to be covering in class .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  149 Common_JJ Core_NN1 State_NN1 Standards_NN2 help_VV0 keep_VVI a_AT1 strong_JJ focus_NN1 on_II what_DDQ they_PPHS2 need_VV0 to_TO be_VBI covering_VVG in_II class_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  150 They do need some work though .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  150 They_PPHS2 do_VD0 need_VVI some_DD work_NN1 though_RR@ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  151 They really need to revise a couple things to put a bigger emphasis on creativity and student success .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  151 They_PPHS2 really_RR need_VV0 to_TO revise_VVI a_AT1 couple_NN1 things_NN2 to_TO put_VVI a_AT1 bigger_JJR emphasis_NN1 on_II creativity_NN1 and_CC student_NN1 success_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  152 There are many ways that they could incorporate these small changes .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  152 There_EX are_VBR many_DA2 ways_NN2 that_CST they_PPHS2 could_VM incorporate_VVI these_DD2 small_JJ changes_NN2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  153 Common Core Standards just need to add some time for play , and that would help them seem more appealing .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  153 Common_JJ Core_NN1 Standards_NN2 just_RR need_VV0 to_TO add_VVI some_DD time_NNT1 for_IF play_NN1 ,_, and_CC that_DD1 would_VM help_VVI them_PPHO2 seem_VVI more_RGR appealing_JJ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  154 " New York Times columnist Thomas Friedman coined the term 'Carlson 's law' to describe Dr. Curtis Carlson 's take on autocracy in the workplace : 'Innovation that happens from the bottom up tends to be chaotic but smart .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  154 "_" New_NP1 York_NP1 Times_NNT2 columnist_NN1 Thomas_NP1 Friedman_NP1 coined_VVD the_AT term_NN1 'Carlson_NN1 's_GE law'_NN1 to_TO describe_VVI Dr._NNB Curtis_NP1 Carlson_NP1 's_GE take_VV0 on_RP autocracy_NN1 in_II the_AT workplace_NN1 :_: 'Innovation_NN1 that_CST happens_VVZ from_II the_AT bottom_NN1 up_RP tends_VVZ to_TO be_VBI chaotic_JJ but_CCB smart_JJ ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  155 Innovation that happens from the top down tends to be orderly but dumb . "
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  155 Innovation_NN1 that_CST happens_VVZ from_II the_AT top_JJ down_NN1% tends_VVZ to_TO be_VBI orderly_JJ but_CCB dumb_JJ ._. "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  156 ( Green ) There needs to be more interactions between the students in the classroom and not just the teacher at the front of the class .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  156 (_( Green_NP1@ )_) There_EX needs_VVZ to_TO be_VBI more_DAR interactions_NN2 between_II the_AT students_NN2 in_II the_AT classroom_NN1 and_CC not_XX just_RR the_AT teacher_NN1 at_II the_AT front_NN1 of_IO the_AT class_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  157 Children can learn a lot from each other if we give them the chance to .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  157 Children_NN2 can_VM learn_VVI a_AT1 lot_NN1 from_II each_PPX221 other_PPX222 if_CS we_PPIS2 give_VV0 them_PPHO2 the_AT chance_NN1 to_II ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  158 Children are open-minded and see things differently than we do .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  158 Children_NN2 are_VBR open-minded_JJ and_CC see_VV0 things_NN2 differently_RR than_CSN we_PPIS2 do_VD0 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  159 A concept that is simple to us can be hard for them to wrap their mind around .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  159 A_AT1 concept_NN1 that_CST is_VBZ simple_JJ to_II us_PPIO2 can_VM be_VBI hard_JJ for_IF them_PPHO2 to_TO wrap_VVI their_APPGE mind_NN1 around_RP ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  160 If we allow them to have more time to work on activities then these harder concepts can be understood by them .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  160 If_CS we_PPIS2 allow_VV0 them_PPHO2 to_TO have_VHI more_DAR time_NNT1 to_TO@ work_VVI on_II activities_NN2 then_RT these_DD2 harder_JJR concepts_NN2 can_VM be_VBI understood_VVN by_II them_PPHO2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  161 Common Core just needs to allow more time for this and not focus so much on the standardized test .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  161 Common_JJ Core_NN1 just_RR needs_VVZ to_TO allow_VVI more_DAR time_NNT1 for_IF this_DD1 and_CC not_XX focus_VV0 so_RG much_DA1 on_II the_AT standardized_JJ test_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  162 This will help fix many of the problems that we now have in our education system .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  162 This_DD1 will_VM help_VVI fix_VVI many_DA2 of_IO the_AT problems_NN2 that_CST we_PPIS2 now_RT have_VH0 in_II our_APPGE education_NN1 system_NN1 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  163 I think that Common Core is a good idea and I like that there are just a few things about it that I see could be made better .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  163 I_PPIS1 think_VV0 that_CST Common_JJ Core_NN1 is_VBZ a_AT1 good_JJ idea_NN1 and_CC I_PPIS1 like_VV0 that_CST there_EX are_VBR just_RR a_AT1 few_DA2 things_NN2 about_II it_PPH1 that_CST I_PPIS1 see_VV0 could_VM be_VBI made_VVN better_RRR ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  164 I know that it will never be perfect , but I believe that Common Core will improve many of the problems that I have seen .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  164 I_PPIS1 know_VV0 that_CST it_PPH1 will_VM never_RR be_VBI perfect_JJ ,_, but_CCB I_PPIS1 believe_VV0 that_CST Common_JJ Core_NN1 will_VM improve_VVI many_DA2 of_IO the_AT problems_NN2 that_CST I_PPIS1 have_VH0 seen_VVN ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  165 " Top down innovation is what Common Core and other efforts to homogenize education are bringing to us .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  165 "_" Top_VV0@ down_RP innovation_NN1 is_VBZ what_DDQ Common_JJ Core_NN1 and_CC other_JJ efforts_NN2 to_TO homogenize_VVI education_NN1 are_VBR bringing_VVG to_II us_PPIO2 ._.
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  166 So the only real question left is : Why have President Obama , Education Secretary Arne Duncan , the National Governors Association , the Council of Chief State School Officers , Bill Gates and Achieve Inc. chosen to be orderly but dumb , especially when the opportunity cost is children ? "
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  166 So_RR the_AT only_JJ real_JJ question_NN1 left_NN1@ is_VBZ :_: Why_RRQ have_VH0 President_NNB Obama_NP1 ,_, Education_NN1 Secretary_NN1 Arne_NP1 Duncan_NP1 ,_, the_AT National_JJ Governors_NN2 Association_NN1 ,_, the_AT Council_NN1 of_IO Chief_JJ State_NN1 School_NN1 Officers_NN2 ,_, Bill_NP1 Gates_NP1 and_CC Achieve_VV0 Inc._JJ chosen_VVN to_TO be_VBI orderly_JJ but_CCB dumb_JJ ,_, especially_RR when_CS the_AT opportunity_NN1 cost_NN1 is_VBZ children_NN2 ?_? "_"
+SENTPOS 2014_4_101_100_162_3 FINAL A    9  166  ( Green ) We just have to think about which problems we are more concerned about and about what is better for the children because that is what it is all about anyways .
+SENTPOS 2014_4_101_100_162_3 FINAL B    9  166  (_( Green_NP1@ )_) We_PPIS2 just_RR have_VH0 to_TO think_VVI about_II which_DDQ problems_NN2 we_PPIS2 are_VBR more_RGR concerned_JJ about_II and_CC about_II what_DDQ is_VBZ better_JJR for_IF the_AT children_NN2 because_CS that_DD1 is_VBZ what_DDQ it_PPH1 is_VBZ all_DB about_II anyways_NN2 ._.

@@ -1,0 +1,128 @@
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    0 What is the difference between a celebrity and a prisoner ?
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    0 What_DDQ is_VBZ the_AT difference_NN1 between_II a_AT1 celebrity_NN1 and_CC a_AT1 prisoner_NN1 ?_?
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    1 To a tribute in the Hunger Games , there is none .
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    1 To_II a_AT1 tribute_NN1 in_II the_AT Hunger_NN1 Games_NN2 ,_, there_EX is_VBZ none_PN ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    2 Katniss Everdeen realizes this completely as she is saying goodbye to her friends and family in the Justice Building .
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    2 Katniss_VV0 Everdeen_NP1 realizes_VVZ this_DD1 completely_RR as_CSA she_PPHS1 is_VBZ saying_VVG goodbye_NN1@ to_II her_APPGE friends_NN2 and_CC family_NN1 in_II the_AT Justice_NN1 Building_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    3 The strongest point occurs when she speaks with Gale .
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    3 The_AT strongest_JJT point_NN1 occurs_VVZ when_RRQ she_PPHS1 speaks_VVZ with_IW Gale_NP1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    4 Through Gale 's interaction with Katniss before she is taken to the Capitol , one can see Gale 's character expanded which many readers do not take into account , because they are distracted by the anticipation of what is to come as well as the would-be romance between the two .
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    4 Through_II Gale_NP1 's_GE interaction_NN1 with_IW Katniss_NN1 before_CS she_PPHS1 is_VBZ taken_VVN to_II the_AT Capitol_NP1 ,_, one_PN1 can_VM see_VVI Gale_NP1 's_GE character_NN1 expanded_VVD which_DDQ many_DA2 readers_NN2 do_VD0 not_XX take_VVI into_II account_NN1 ,_, because_CS they_PPHS2 are_VBR distracted_VVN by_II the_AT anticipation_NN1 of_IO what_DDQ is_VBZ to_TO come_VVI as_II31 well_II32 as_II33 the_AT would-be_JJ romance_NN1 between_II the_AT two_MC ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    5 This is important because it actually reveals the opposing perspectives the two friends have as a result of their dehumanizing oppression under the Capitol .
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    5 This_DD1 is_VBZ important_JJ because_CS it_PPH1 actually_RR reveals_VVZ the_AT opposing_JJ perspectives_NN2 the_AT two_MC friends_NN2 have_VH0 as_II a_AT1 result_NN1 of_IO their_APPGE dehumanizing_JJ@ oppression_NN1 under_II the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    0    6 While Katniss actually gained an appreciation for the value of life , Gale instinctively degrades it to make coping less painful .
+SENTPOS 2014_4_101_000_009_1 FINAL B    0    6 While_CS Katniss_NP1 actually_RR gained_VVN an_AT1 appreciation_NN1 for_IF the_AT value_NN1 of_IO life_NN1 ,_, Gale_NP1 instinctively_RR degrades_VVZ it_PPH1 to_TO make_VVI coping_VVG less_RGR painful_JJ ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1    7 Most readers easily lose the importance of this scene , because they are caught up in the romance that might come from Katniss and Gale .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1    7 Most_DAT readers_NN2 easily_RR lose_VV0 the_AT importance_NN1 of_IO this_DD1 scene_NN1 ,_, because_CS they_PPHS2 are_VBR caught_VVN up_RP in_II the_AT romance_NN1 that_CST might_VM come_VVI from_II Katniss_NP1 and_CC Gale_NP1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1    8 He is the only boy she has been around up to this point .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1    8 He_PPHS1 is_VBZ the_AT only_JJ boy_NN1 she_PPHS1 has_VHZ been_VBN around_RP up_II21 to_II22 this_DD1 point_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1    9 He has to be the one .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1    9 He_PPHS1 has_VHZ to_TO be_VBI the_AT one_PN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   10 Katniss rushes to him for comfort when he offers her an embrace , while simultaneously denying she might have deeper feelings for him ( Collins 38 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   10 Katniss_VV0 rushes_NN2 to_II him_PPHO1 for_IF comfort_NN1 when_CS he_PPHS1 offers_VVZ@ her_PPHO1 an_AT1 embrace_NN1 ,_, while_CS simultaneously_RR denying_VVG she_PPHS1 might_VM have_VHI deeper_JJR feelings_NN2 for_IF him_PPHO1 (_( Collins_NP1 38_MC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   11 To the presumptuous reader , this is a definite sign of love to come .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   11 To_II the_AT presumptuous_JJ reader_NN1 ,_, this_DD1 is_VBZ a_AT1 definite_JJ sign_NN1 of_IO love_NN1 to_TO come_VVI ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   12 The pair is rushing to have their conversation , and they are not allowed to finish before their time is up .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   12 The_AT pair_NN is_VBZ rushing_VVG to_TO have_VHI their_APPGE conversation_NN1 ,_, and_CC they_PPHS2 are_VBR not_XX allowed_VVN to_TO finish_VVI before_II their_APPGE time_NNT1 is_VBZ up_RP ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   13 Only when they are torn apart does Katniss truly begin to panic ( Collins 40 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   13 Only_RR when_CS they_PPHS2 are_VBR torn_VVN apart_RL does_VDZ Katniss_NP1 truly_RR begin_VVI to_TO panic_VVI (_( Collins_NP1 40_MC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   14 Likewise , Gale has been telling Katniss that her best chance is to get a bow , and she has been arguing she has no hope ( Collins 39 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   14 Likewise_RR ,_, Gale_NP1 has_VHZ been_VBN telling_VVG Katniss_NN1 that_CST her_APPGE best_JJT chance_NN1 is_VBZ to_TO get_VVI a_AT1 bow_NN1 ,_, and_CC she_PPHS1 has_VHZ been_VBN arguing_VVG she_PPHS1 has_VHZ no_AT hope_NN1 (_( Collins_NP1 39_MC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   15 When the Peacekeepers pull Gale away from her at the end of the scene , she shouts to him to take care of her family ( Collins 40 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   15 When_CS the_AT Peacekeepers_NN2 pull_VV0 Gale_NN1 away_II21 from_II22 her_PPHO1 at_II the_AT end_NN1 of_IO the_AT scene_NN1 ,_, she_PPHS1 shouts_VVZ to_II him_PPHO1 to_TO take_VVI care_NN1 of_IO her_APPGE family_NN1 (_( Collins_NP1 40_MC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   16 She does not think she will be coming home from the Games .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   16 She_PPHS1 does_VDZ not_XX think_VVI she_PPHS1 will_VM be_VBI coming_VVG home_RL from_II the_AT Games_NN2 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   17 Gruesome details from past Hunger Games are also being revealed , serving as another distraction .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   17 Gruesome_JJ details_NN2 from_II past_JJ Hunger_NN1 Games_NN2 are_VBR also_RR being_VBG revealed_VVN ,_, serving_VVG as_CSA another_DD1 distraction_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    1   18 Suzanne Collins masterfully distracts her audience into breezing over the important details which will captivate them later in the series .
+SENTPOS 2014_4_101_000_009_1 FINAL B    1   18 Suzanne_NP1 Collins_NP1 masterfully_RR distracts_VVZ her_APPGE audience_NN1 into_II breezing_VVG over_II the_AT important_JJ details_NN2 which_DDQ will_VM captivate_VVI them_PPHO2 later_RRR in_II the_AT series_NN ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   19 The importance of this discussion is not held by the short-term advice Gale is offering Katniss , but by the long-term conflicts it poses to the reader .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   19 The_AT importance_NN1 of_IO this_DD1 discussion_NN1 is_VBZ not_XX held_VVN by_II the_AT short-term_JJ advice_NN1 Gale_NN1 is_VBZ offering_VVG Katniss_NP1 ,_, but_CCB by_II the_AT long-term_JJ conflicts_NN2 it_PPH1 poses_VVZ to_II the_AT reader_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   20 Gale is a representation of the rage that comes with oppression .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   20 Gale_NP1 is_VBZ a_AT1 representation_NN1 of_IO the_AT rage_NN1 that_CST comes_VVZ with_IW oppression_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   21 Although he is reassuring her , he maintains a cold ironic humor about the content of the Games .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   21 Although_CS he_PPHS1 is_VBZ reassuring_VVG her_PPHO1 ,_, he_PPHS1 maintains_VVZ a_AT1 cold_JJ ironic_JJ humor_NN1 about_II the_AT content_NN1 of_IO the_AT Games_NN2 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   22 When referring to one year he says , " Since that year half of them died of cold .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   22 When_CS referring_VVG to_II one_MC1 year_NNT1 he_PPHS1 says_VVZ ,_, "_" Since_CS that_DD1 year_NNT1 half_DB of_IO them_PPHO2 died_VVD of_IO cold_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   23 Not much entertainment in that . "
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   23 Not_XX much_DA1 entertainment_NN1 in_II that_DD1 ._. "_"
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   24 ( Collins 39 ) This also shows his understanding of the Capitol 's view .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   24 (_( Collins_NP1 39_MC )_) This_DD1 also_RR shows_VVZ his_APPGE understanding_NN1 of_IO the_AT Capitol_NP1 's_GE view_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   25 Although primarily angry , Gale is not without understanding of the world around him .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   25 Although_CS primarily_RR angry_JJ ,_, Gale_NP1 is_VBZ not_XX without_IW understanding_NN1 of_IO the_AT world_NN1 around_II him_PPHO1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   26 He verges on thinking similarly to the very people he hates .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   26 He_PPHS1 verges_VVZ on_II thinking_VVG similarly_RR to_II the_AT very_JJ people_NN he_PPHS1 hates_VVZ ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   27 His next reassurance is telling her , " it 's just hunting . "
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   27 His_APPGE next_MD reassurance_NN1 is_VBZ telling_VVG her_PPHO1 ,_, "_" it_PPH1 's_VBZ just_JJ@ hunting_NN1 ._. "_"
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   28 ( Collins 40 ) Ultimately , Gale has more than one purpose .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   28 (_( Collins_NP1 40_MC )_) Ultimately_RR ,_, Gale_NP1 has_VHZ more_DAR than_CSN one_MC1 purpose_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   29 First , he is Katniss 's confidant and one of her oldest friends .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   29 First_MD ,_, he_PPHS1 is_VBZ Katniss_NP1 's_GE confidant_NN1 and_CC one_MC1 of_IO her_APPGE oldest_JJT friends_NN2 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   30 Likewise , he represents the aggressive , more animal side of Katniss .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   30 Likewise_RR ,_, he_PPHS1 represents_VVZ the_AT aggressive_JJ ,_, more_DAR animal_NN1 side_NN1 of_IO Katniss_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   31 She proves this by agreeing with him about the ease of hunting people , if she can put aside the fact they are humans as well ( Collins 40 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   31 She_PPHS1 proves_VVZ this_DD1 by_II agreeing_VVG with_IW him_PPHO1 about_II the_AT ease_NN1 of_IO hunting_NN1 people_NN ,_, if_CS she_PPHS1 can_VM put_VVI aside_RL the_AT fact_NN1 they_PPHS2 are_VBR humans_NN2 as_RR21 well_RR22 (_( Collins_NP1 40_MC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   32 He furthermore represents the Capitol 's mindset .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   32 He_PPHS1 furthermore_RR represents_VVZ the_AT Capitol_NP1 's_GE mindset_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    2   33 Finally , he is one of the primary representations of the emotional state of not just the subjugated people of Panem , but also of anyone who has ever been in such a broken state .
+SENTPOS 2014_4_101_000_009_1 FINAL B    2   33 Finally_RR ,_, he_PPHS1 is_VBZ one_MC1 of_IO the_AT primary_JJ representations_NN2 of_IO the_AT emotional_JJ state_NN1 of_IO not_XX just_RR the_AT subjugated_JJ@ people_NN of_IO Panem_NP1 ,_, but_CCB also_RR of_IO anyone_PN1 who_PNQS has_VHZ ever_RR been_VBN in_II such_DA a_AT1 broken_JJ state_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    3   34 Although there are many dynamics in this one scene , the most significant conflict is posed near the end when Gale and Katniss are discussing murder .
+SENTPOS 2014_4_101_000_009_1 FINAL B    3   34 Although_CS there_EX are_VBR many_DA2 dynamics_NN in_II this_DD1 one_MC1 scene_NN1 ,_, the_AT most_RGT significant_JJ conflict_NN1 is_VBZ posed_VVN near_II the_AT end_NN1 when_CS Gale_NP1 and_CC Katniss_NP1 are_VBR discussing_VVG murder_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    3   35 He asks , " How different can it be , really ? "
+SENTPOS 2014_4_101_000_009_1 FINAL B    3   35 He_PPHS1 asks_VVZ ,_, "_" How_RRQ different_JJ can_VM it_PPH1 be_VBI ,_, really_RR ?_? "_"
+SENTPOS 2014_4_101_000_009_1 FINAL A    3   36 ( Collins 40 ) In this pivotal moment , the reader is confronted with the comparison of humans to animals .
+SENTPOS 2014_4_101_000_009_1 FINAL B    3   36 (_( Collins_NP1 40_MC )_) In_II this_DD1 pivotal_JJ moment_NN1 ,_, the_AT reader_NN1 is_VBZ confronted_VVN with_IW the_AT comparison_NN1 of_IO humans_NN2 to_II animals_NN2 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    3   37 Collins ' viewpoint is noticeable , because Gale 's statement that murdering people is the same as killing animals reinforces the idea in the reader 's mind that the opposite is true .
+SENTPOS 2014_4_101_000_009_1 FINAL B    3   37 Collins_NP1 '_GE viewpoint_NN1 is_VBZ noticeable_JJ ,_, because_CS Gale_NP1 's_GE statement_NN1 that_CST murdering_JJ people_NN is_VBZ the_AT same_DA as_CSA killing_VVG animals_NN2 reinforces_VVZ the_AT idea_NN1 in_II the_AT reader_NN1 's_GE mind_NN1 that_CST the_AT opposite_NN1@ is_VBZ true_JJ ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    3   38 Katniss does not argue this point further ; she almost agrees , but maintains the idea that this murder is a terrible prospect .
+SENTPOS 2014_4_101_000_009_1 FINAL B    3   38 Katniss_NN1 does_VDZ not_XX argue_VVI this_DD1 point_NN1 further_RRR ;_; she_PPHS1 almost_RR agrees_VVZ ,_, but_CCB maintains_VVZ the_AT idea_NN1 that_CST this_DD1 murder_NN1 is_VBZ a_AT1 terrible_JJ prospect_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   39 This conflict of dehumanization is also demonstrated by Katniss 's circumstance .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   39 This_DD1 conflict_NN1 of_IO dehumanization_NN1 is_VBZ also_RR demonstrated_VVN by_II Katniss_NP1 's_GE circumstance_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   40 She is about to enter an arena to kill other children for the sport and entertainment of the Capitol .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   40 She_PPHS1 is_VBZ about_RPK to_TO enter_VVI an_AT1 arena_NN1 to_TO kill_VVI other_JJ children_NN2 for_IF the_AT sport_NN1 and_CC entertainment_NN1 of_IO the_AT Capitol_NP1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   41 Within the space of a few words , she has remembered three separate occasions where other young people were killed .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   41 Within_II the_AT space_NN1 of_IO a_AT1 few_DA2 words_NN2 ,_, she_PPHS1 has_VHZ remembered_VVN three_MC separate_JJ occasions_NN2 where_RRQ other_JJ young_JJ people_NN were_VBDR killed_VVN ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   42 The Capitol considered the best Hunger Games those that had bloodshed and gore ; the instances with more natural deaths were boring ( Collins 39 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   42 The_AT Capitol_NP1 considered_VVD the_AT best_JJT Hunger_NN1 Games_NN2 those_DD2 that_CST had_VHD bloodshed_NN1 and_CC gore_VV0 ;_; the_AT instances_NN2 with_IW more_RGR natural_JJ deaths_NN2 were_VBDR boring_JJ (_( Collins_NP1 39_MC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   43 Gale is here once again representing the Capitol viewpoint , because they do not see this as offensive .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   43 Gale_NP1 is_VBZ here_RL once_RR21 again_RR22 representing_VVG the_AT Capitol_NP1 viewpoint_NN1 ,_, because_CS they_PPHS2 do_VD0 not_XX see_VVI this_DD1 as_RG@ offensive_JJ ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   44 Both sides of the spectrum are represented here .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   44 Both_DB2 sides_NN2 of_IO the_AT spectrum_NN1 are_VBR represented_VVN here_RL ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   45 The elite who control the situation do not recognize its significance .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   45 The_AT elite_NN1 who_PNQS control_VV0 the_AT situation_NN1 do_VD0 not_XX recognize_VVI its_APPGE significance_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   46 They have been exposed to it for so long without a negative impact on themselves .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   46 They_PPHS2 have_VH0 been_VBN exposed_VVN to_II it_PPH1 for_IF so_RG long_RR without_IW a_AT1 negative_JJ impact_NN1 on_II themselves_PPX2 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   47 On the other hand , there are the average citizens who endure hardships every day .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   47 On_II the_AT other_JJ hand_NN1 ,_, there_EX are_VBR the_AT average_JJ citizens_NN2 who_PNQS endure_VV0 hardships_NN2 every_AT1 day_NNT1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   48 However , they have no ability to control it or improve their standard of living .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   48 However_RR ,_, they_PPHS2 have_VH0 no_AT ability_NN1 to_TO control_VVI it_PPH1 or_CC improve_VV0 their_APPGE standard_NN1 of_IO living_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   49 Unfortunately , they have given up hope .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   49 Unfortunately_RR ,_, they_PPHS2 have_VH0 given_VVN up_RP hope_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   50 Katniss represents them with her constant surety of loss .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   50 Katniss_NN1 represents_VVZ them_PPHO2 with_IW her_APPGE constant_JJ surety_NN1 of_IO loss_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    4   51 For every positive tip Gale tries to give her , she mentally turns it down as unachievable ( Collins 39-40 ) .
+SENTPOS 2014_4_101_000_009_1 FINAL B    4   51 For_IF every_AT1 positive_JJ tip_NN1 Gale_NN1 tries_VVZ to_TO give_VVI her_PPHO1 ,_, she_PPHS1 mentally_RR turns_VVZ it_PPH1 down_RP as_RG@ unachievable_JJ (_( Collins_NP1 39-40_MCMC )_) ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   52 This section of dialogue is comparable to other analogies of the past .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   52 This_DD1 section_NN1 of_IO dialogue_NN1 is_VBZ comparable_JJ to_II other_JJ analogies_NN2 of_IO the_AT past_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   53 It serves its purpose in the fantasy , while at the same time representing a greater resolution .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   53 It_PPH1 serves_VVZ its_APPGE purpose_NN1 in_II the_AT fantasy_NN1 ,_, while_CS at_II the_AT same_DA time_NNT1 representing_VVG a_AT1 greater_JJR resolution_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   54 The impatient reader may miss this , as he is preoccupied by what he thinks will unfold or by what he wants to occur .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   54 The_AT impatient_JJ reader_NN1 may_VM miss_VVI this_DD1 ,_, as_CSA he_PPHS1 is_VBZ preoccupied_JJ by_II what_DDQ he_PPHS1 thinks_VVZ will_VM unfold_VVI or_CC by_II what_DDQ he_PPHS1 wants_VVZ to_TO occur_VVI ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   55 However , this novel is not driven to be a story for entertainment alone , and especially not to please its readers .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   55 However_RR ,_, this_DD1 novel_NN1 is_VBZ not_XX driven_VVN to_TO be_VBI a_AT1 story_NN1 for_IF entertainment_NN1 alone_RR ,_, and_CC especially_RR not_XX to_TO please_VVI its_APPGE readers_NN2 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   56 Its design is to impact its audience to recognize issues in the modern world .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   56 Its_APPGE design_NN1 is_VBZ to_II impact_NN1 its_APPGE audience_NN1 to_TO recognize_VVI issues_NN2 in_II the_AT modern_JJ world_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   57 Not only does this audience realize them , they are automatically drawn to a side .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   57 Not_XX only_RR does_VDZ this_DD1 audience_NN1 realize_VVI them_PPHO2 ,_, they_PPHS2 are_VBR automatically_RR drawn_VVN to_II a_AT1 side_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   58 Humans are precious , unique creations , not animals for slaughter .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   58 Humans_NN2 are_VBR precious_JJ ,_, unique_JJ creations_NN2 ,_, not_XX animals_NN2 for_IF slaughter_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   59 Although Gale serves as the means by which this message is stated , his character is not to be underestimated as only having this purpose .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   59 Although_CS Gale_NP1 serves_VVZ as_II the_AT means_NN by_II which_DDQ this_DD1 message_NN1 is_VBZ stated_VVN ,_, his_APPGE character_NN1 is_VBZ not_XX to_TO be_VBI underestimated_VVN as_CSA only_RR having_VHG this_DD1 purpose_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   60 Collins uses him as a tool to distract the reader .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   60 Collins_NP1 uses_VVZ him_PPHO1 as_II a_AT1 tool_NN1 to_TO distract_VVI the_AT reader_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   61 Also , he represents the emotional state of oppression .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   61 Also_RR ,_, he_PPHS1 represents_VVZ the_AT emotional_JJ state_NN1 of_IO oppression_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   62 Through this one scene of text , the fervent reader can deduce information that pertains not only to the novel but also to the greater purpose of the work .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   62 Through_II this_DD1 one_MC1 scene_NN1 of_IO text_NN1 ,_, the_AT fervent_JJ reader_NN1 can_VM deduce_VVI information_NN1 that_CST pertains_VVZ not_XX only_RR to_II the_AT novel_NN1 but_CCB also_RR to_II the_AT greater_JJR purpose_NN1 of_IO the_AT work_NN1 ._.
+SENTPOS 2014_4_101_000_009_1 FINAL A    5   62  To do this , however , they must recognize who Gale really is and his place in The Hunger Games .
+SENTPOS 2014_4_101_000_009_1 FINAL B    5   62  To_TO do_VDI this_DD1 ,_, however_RR ,_, they_PPHS2 must_VM recognize_VVI who_PNQS Gale_NP1 really_RR is_VBZ and_CC his_APPGE place_NN1 in_II The_AT Hunger_NN1 Games_NN2 ._.

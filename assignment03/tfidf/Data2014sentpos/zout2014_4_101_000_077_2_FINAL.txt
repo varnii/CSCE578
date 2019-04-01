@@ -1,0 +1,102 @@
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    0 The photo shown above is a candid , live photo taken of a young man 's reaction after a cyclone decimated his home in Yangon , Myanmar in 2008 .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    0 The_AT photo_NN1 shown_VVN above_RL is_VBZ a_AT1 candid_JJ ,_, live_JJ photo_NN1 taken_VVN of_IO a_AT1 young_JJ man_NN1 's_GE reaction_NN1 after_II a_AT1 cyclone_NN1 decimated_VVD his_APPGE home_NN1 in_II Yangon_NP1 ,_, Myanmar_NP1 in_II 2008_MC ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    1 The photo depicts desperation , sadness , despair , hopelessness , and stress all in one .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    1 The_AT photo_NN1 depicts_VVZ desperation_NN1 ,_, sadness_NN1 ,_, despair_NN1 ,_, hopelessness_NN1 ,_, and_CC stress_VV0@ all_DB in_II one_PN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    2 Chaos surrounds this man .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    2 Chaos_NN1 surrounds_VVZ this_DD1 man_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    3 This chaos behind him is emphasized with the use of light and blurring , making him the focal point , and the first thing on which you lock your eyes .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    3 This_DD1 chaos_NN1 behind_II him_PPHO1 is_VBZ emphasized_VVN with_IW the_AT use_NN1 of_IO light_NN1 and_CC blurring_VVG ,_, making_VVG him_PPHO1 the_AT focal_JJ point_NN1 ,_, and_CC the_AT first_MD thing_NN1 on_II which_DDQ you_PPY lock_VV0@ your_APPGE eyes_NN2 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    4 This photo shows just how precious life and everything we have is .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    4 This_DD1 photo_NN1 shows_VVZ just_RR how_RGQ@ precious_JJ life_NN1 and_CC everything_PN1 we_PPIS2 have_VH0 is_VBZ ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    5 It has a theme of loss , a loss of family , hope and home , things that everyone can relate to .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    5 It_PPH1 has_VHZ a_AT1 theme_NN1 of_IO loss_NN1 ,_, a_AT1 loss_NN1 of_IO family_NN1 ,_, hope_VV0 and_CC home_RL ,_, things_NN2 that_CST everyone_PN1 can_VM relate_VVI to_II ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    6 Everything that has happened to this young man could happen to anyone and it makes people feel sympathetic for him as well as frightened that this could happen to them too .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    6 Everything_PN1 that_CST has_VHZ happened_VVN to_II@ this_DD1 young_JJ man_NN1 could_VM happen_VVI to_II@ anyone_PN1 and_CC it_PPH1 makes_VVZ people_NN feel_VVI sympathetic_JJ for_IF him_PPHO1 as_II31 well_II32 as_II33 frightened_JJ that_CST this_DD1 could_VM happen_VVI to_II@ them_PPHO2 too_RR@ ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    7 It makes the viewer feel the man 's pain using the strong elements within the picture , like focus , perspective , and placement ; even the man 's body language .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    7 It_PPH1 makes_VVZ the_AT viewer_NN1 feel_VVI the_AT man_NN1 's_GE pain_NN1 using_VVG the_AT strong_JJ elements_NN2 within_II the_AT picture_NN1 ,_, like_II focus_NN1 ,_, perspective_NN1 ,_, and_CC placement_NN1 ;_; even_RR the_AT man_NN1 's_GE body_NN1 language_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    0    8 In telling this story , it uses these elements to portray the emotions felt within the man and the photo .
+SENTPOS 2014_4_101_000_077_2 FINAL B    0    8 In_II telling_VVG this_DD1 story_NN1 ,_, it_PPH1 uses_VVZ these_DD2 elements_NN2 to_TO portray_VVI the_AT emotions_NN2 felt_VVD within_II the_AT man_NN1 and_CC the_AT photo_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1    9 The use of light is one of the most important elements in photography .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1    9 The_AT use_NN1 of_IO light_NN1 is_VBZ one_MC1 of_IO the_AT most_RGT important_JJ elements_NN2 in_II photography_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   10 It can make or break a photo .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   10 It_PPH1 can_VM make_VVI or_CC break_VVI a_AT1 photo_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   11 Light is all about balance .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   11 Light_NN1 is_VBZ all_DB about_II balance_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   12 This photo has a good , purposeful balance of light .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   12 This_DD1 photo_NN1 has_VHZ a_AT1 good_JJ ,_, purposeful_JJ balance_NN1 of_IO light_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   13 There is a contrast between the man and the background .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   13 There_EX is_VBZ a_AT1 contrast_NN1 between_II the_AT man_NN1 and_CC the_AT background_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   14 It has a relatively dark background where all the debris is , but that darkness may have a deeper purpose : it seems to represent the mess this cyclone has made not only physically , but also mentally .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   14 It_PPH1 has_VHZ a_AT1 relatively_RR dark_JJ background_NN1 where_CS all_DB the_AT debris_NN1 is_VBZ ,_, but_CCB that_DD1 darkness_NN1 may_VM have_VHI a_AT1 deeper_JJR purpose_NN1 :_: it_PPH1 seems_VVZ to_TO represent_VVI the_AT mess_NN1 this_DD1 cyclone_NN1 has_VHZ made_VVN not_XX only_RR physically_RR ,_, but_CCB also_RR mentally_RR ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   15 It reflects how dark and chaotic this moment is .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   15 It_PPH1 reflects_VVZ how_RRQ dark_JJ and_CC chaotic_JJ this_DD1 moment_NN1 is_VBZ ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   16 The darkness also emphasizes the man 's emotions of depression and sadness , helping the viewer focus in on him and the feelings that he is portraying .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   16 The_AT darkness_NN1 also_RR emphasizes_VVZ the_AT man_NN1 's_GE emotions_NN2 of_IO depression_NN1 and_CC sadness_NN1 ,_, helping_VVG the_AT viewer_NN1 focus_VVI in_RP@ on_II him_PPHO1 and_CC the_AT feelings_NN2 that_CST he_PPHS1 is_VBZ portraying_VVG ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   17 However , there is some light shown in the photo .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   17 However_RR ,_, there_EX is_VBZ some_DD light_NN1 shown_VVN in_II the_AT photo_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   18 There seems to be a ray of light shining on the man 's back .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   18 There_EX seems_VVZ to_TO be_VBI a_AT1 ray_NN1 of_IO light_NN1 shining_VVG on_II the_AT man_NN1 's_GE back_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   19 It draws the viewer 's eye to the man instantly and more clearly .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   19 It_PPH1 draws_VVZ the_AT viewer_NN1 's_GE eye_NN1 to_II the_AT man_NN1 instantly_RR and_CC more_RGR clearly_RR ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   20 This glimpse of light could also have a meaning of its own : it could mean a ray of hope for this man .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   20 This_DD1 glimpse_NN1 of_IO light_NN1 could_VM also_RR have_VHI a_AT1 meaning_NN1 of_IO its_APPGE own_DA :_: it_PPH1 could_VM mean_VVI a_AT1 ray_NN1 of_IO hope_NN1 for_IF this_DD1 man_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   21 In this moment he has hit rock bottom ; he is lost and empty .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   21 In_II this_DD1 moment_NN1 he_PPHS1 has_VHZ hit_VVN rock_NN1 bottom_NN1 ;_; he_PPHS1 is_VBZ lost_VVN and_CC empty_JJ ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    1   22 However , this tiny glimpse of light could mean there is still hope for this young man to recover and remake his life .
+SENTPOS 2014_4_101_000_077_2 FINAL B    1   22 However_RR ,_, this_DD1 tiny_JJ glimpse_NN1 of_IO light_NN1 could_VM mean_VVI there_RL is_VBZ still_RR hope_VV0 for_IF this_DD1 young_JJ man_NN1 to_TO recover_VVI and_CC remake_VVI his_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   23 The scene depicted in the background also conveys much meaning .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   23 The_AT scene_NN1 depicted_VVN in_II the_AT background_NN1 also_RR conveys_VVZ much_DA1 meaning_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   24 Behind the man there is chaos .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   24 Behind_II the_AT man_NN1 there_EX is_VBZ chaos_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   25 Everything is in shambles , destroyed from this natural disaster .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   25 Everything_PN1 is_VBZ in_II shambles_NN1 ,_, destroyed_VVN from_II this_DD1 natural_JJ disaster_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   26 Homes were destroyed , items were lost and people may have been hurt , some of the most painful things for someone to lose all at once .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   26 Homes_NN2 were_VBDR destroyed_VVN ,_, items_NN2 were_VBDR lost_VVN and_CC people_NN may_VM have_VHI been_VBN hurt_VVN ,_, some_DD of_IO the_AT most_RGT painful_JJ things_NN2 for_IF someone_PN1 to_TO lose_VVI all_RR31 at_RR32 once_RR33 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   27 This is exactly what this man is going through in this scene .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   27 This_DD1 is_VBZ exactly_RR what_DDQ this_DD1 man_NN1 is_VBZ going_VVG through_RP@ in_II this_DD1 scene_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   28 The mess behind him is slightly blurred , and this effect adds to the chaos in a way , enhancing how much of a mess it really is while keeping the focal point on the man to show what this destruction has done to him .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   28 The_AT mess_NN1 behind_II him_PPHO1 is_VBZ slightly_RR blurred_VVN ,_, and_CC this_DD1 effect_NN1 adds_VVZ to_II the_AT chaos_NN1 in_II a_AT1 way_NN1 ,_, enhancing_VVG how_RGQ@ much_DA1 of_IO a_AT1 mess_NN1 it_PPH1 really_RR is_VBZ while_CS keeping_VVG the_AT focal_JJ point_NN1 on_II the_AT man_NN1 to_TO show_VVI what_DDQ this_DD1 destruction_NN1 has_VHZ done_VDN to_II him_PPHO1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   29 While the blur is reflecting the chaos , it is also trying to hide it in order to focus on the man 's strong emotions caused from the chaos .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   29 While_CS the_AT blur_NN1 is_VBZ reflecting_VVG the_AT chaos_NN1 ,_, it_PPH1 is_VBZ also_RR trying_VVG to_TO hide_VVI it_PPH1 in_BCL21 order_BCL22 to_TO focus_VVI on_II the_AT man_NN1 's_GE strong_JJ emotions_NN2 caused_VVN from_II the_AT chaos_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   30 In the photo it is also raining on him .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   30 In_II the_AT photo_NN1 it_PPH1 is_VBZ also_RR raining_VVG on_II him_PPHO1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   31 This rain was definitely a coincidence but it adds to this man 's situation , enhancing the scenes ' gloom and sadness .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   31 This_DD1 rain_NN1 was_VBDZ definitely_RR a_AT1 coincidence_NN1 but_CCB it_PPH1 adds_VVZ to_II this_DD1 man_NN1 's_GE situation_NN1 ,_, enhancing_VVG the_AT scenes_NN2 '_GE gloom_NN1 and_CC sadness_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   32 Rain in general has a gloomy , colder , darker feel to it than sunshine , and in this situation it enhances the emotions felt by both the man and the viewer .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   32 Rain_VV0@ in_RR21 general_RR22 has_VHZ a_AT1 gloomy_JJ ,_, colder_JJR ,_, darker_JJR feel_NN1% to_II it_PPH1 than_CSN sunshine_NN1 ,_, and_CC in_II this_DD1 situation_NN1 it_PPH1 enhances_VVZ the_AT emotions_NN2 felt_VVD by_II both_DB2 the_AT man_NN1 and_CC the_AT viewer_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    2   33 All of these elements of chaos and sadness shown in the background bring the viewer to see that there is not just destruction surrounding him but it is inside him as well .
+SENTPOS 2014_4_101_000_077_2 FINAL B    2   33 All_DB of_IO these_DD2 elements_NN2 of_IO chaos_NN1 and_CC sadness_NN1 shown_VVN in_II the_AT background_NN1 bring_VV0 the_AT viewer_NN1 to_TO see_VVI that_CST there_EX is_VBZ not_XX just_RR destruction_NN1 surrounding_VVG him_PPHO1 but_CCB it_PPH1 is_VBZ inside_II him_PPHO1 as_RR21 well_RR22 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   34 The young man is the most important aspect to the photo , and his body language is what is the most significant when trying to read his true emotions .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   34 The_AT young_JJ man_NN1 is_VBZ the_AT most_RGT important_JJ aspect_NN1 to_II the_AT photo_NN1 ,_, and_CC his_APPGE body_NN1 language_NN1 is_VBZ what_DDQ is_VBZ the_AT most_RGT significant_JJ when_CS trying_VVG to_TO read_VVI his_APPGE true_JJ emotions_NN2 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   35 " Body language is a way people communicate nonverbally through conscious or unconscious gestures and movements " ( " Body Language " ) .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   35 "_" Body_NN1 language_NN1 is_VBZ a_AT1 way_NN1 people_NN communicate_VV0 nonverbally_RR through_II conscious_JJ or_CC unconscious_JJ gestures_NN2 and_CC movements_NN2 "_" (_( "_" Body_NN1 Language_NN1 "_" )_) ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   36 This man is hunched over with his face in his hand looking upset , closed-off and scared .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   36 This_DD1 man_NN1 is_VBZ hunched_VVN over_RP with_IW his_APPGE face_NN1 in_II his_APPGE hand_NN1 looking_VVG upset_JJ ,_, closed-off_JJ and_CC scared_JJ ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   37 It is as if he is trying to hide from what has just happened , while being in such disbelief .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   37 It_PPH1 is_VBZ as_CS21 if_CS22 he_PPHS1 is_VBZ trying_VVG to_TO hide_VVI from_II what_DDQ has_VHZ just_RR happened_VVN ,_, while_CS being_VBG in_II such_DA disbelief_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   38 His facial expression is one of pure sadness and stress .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   38 His_APPGE facial_JJ expression_NN1 is_VBZ one_MC1 of_IO pure_JJ sadness_NN1 and_CC stress_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   39 His one arm is crossing his body tightly , grabbing his other arm expressing a sort of defensive , self-protected yet closed-off feeling .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   39 His_PPGE@ one_MC1 arm_NN1 is_VBZ crossing_VVG his_APPGE body_NN1 tightly_RR ,_, grabbing_VVG his_APPGE other_JJ arm_NN1 expressing_VVG a_AT1 sort_NN1 of_IO defensive_JJ ,_, self-protected_NN1 yet_RR closed-off_JJ feeling_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   40 His body language shows his weakness in this moment , and how delicate his life was and that it was destroyed without any warning .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   40 His_APPGE body_NN1 language_NN1 shows_VVZ his_APPGE weakness_NN1 in_II this_DD1 moment_NN1 ,_, and_CC how_RGQ@ delicate_JJ his_APPGE life_NN1 was_VBDZ and_CC that_CST it_PPH1 was_VBDZ destroyed_VVN without_IW any_DD warning_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   41 After such a disaster like the one in this scene it is not unlikely for someone to act and feel the same as this man does .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   41 After_CS such_DA a_AT1 disaster_NN1 like_II the_AT one_PN1 in_II this_DD1 scene_NN1 it_PPH1 is_VBZ not_XX unlikely_JJ for_IF someone_PN1 to_TO act_VVI and_CC feel_VVI the_AT same_DA as_CSA this_DD1 man_NN1 does_VDZ ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    3   42 No one knows the true story but what one does know just by looking at him is that it is not a good one .
+SENTPOS 2014_4_101_000_077_2 FINAL B    3   42 No_PN121 one_PN122 knows_VVZ the_AT true_JJ story_NN1 but_CCB what_DDQ one_PN1 does_VDZ know_VVI just_RR by_II looking_VVG at_II him_PPHO1 is_VBZ that_CST it_PPH1 is_VBZ not_XX a_AT1 good_JJ one_PN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   43 These elements of light , background , and body language used to tell this story helped to portray the purpose of the photo and create its strong emotional impact .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   43 These_DD2 elements_NN2 of_IO light_NN1 ,_, background_NN1 ,_, and_CC body_NN1 language_NN1 used_VMK to_TO tell_VVI this_DD1 story_NN1 helped_VVD to_TO portray_VVI the_AT purpose_NN1 of_IO the_AT photo_NN1 and_CC create_VV0 its_APPGE strong_JJ emotional_JJ impact_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   44 The use of light , or lack there of , gives the viewer a glimpse of the emotions felt within the photo and the man , while the ray of light portrays hope for him .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   44 The_AT use_NN1 of_IO light_NN1 ,_, or_CC lack_NN1 there_RL of_IO ,_, gives_VVZ the_AT viewer_NN1 a_AT1 glimpse_NN1 of_IO the_AT emotions_NN2 felt_VVD within_II the_AT photo_NN1 and_CC the_AT man_NN1 ,_, while_CS the_AT ray_NN1 of_IO light_NN1 portrays_VVZ hope_NN1 for_IF him_PPHO1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   45 The blurring behind the man reflects the chaos of this disaster and how it has destroyed him , yet still trying to hide it .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   45 The_AT blurring_NN1@ behind_II the_AT man_NN1 reflects_VVZ the_AT chaos_NN1 of_IO this_DD1 disaster_NN1 and_CC how_RRQ it_PPH1 has_VHZ destroyed_VVN him_PPHO1 ,_, yet_RR still_RR trying_VVG to_TO hide_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   46 Just by looking at him the viewer can feel his pain .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   46 Just_RR by_II looking_VVG at_II him_PPHO1 the_AT viewer_NN1 can_VM feel_VVI his_APPGE pain_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   47 He is lost in this moment of weakness .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   47 He_PPHS1 is_VBZ lost_VVN in_II this_DD1 moment_NN1 of_IO weakness_NN1 ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   48 The man in this photo represents how precious life can be .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   48 The_AT man_NN1 in_II this_DD1 photo_NN1 represents_VVZ how_RRQ precious_JJ life_NN1 can_VM be_VBI ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   49 Everyone should be grateful for all that they have because at any moment it can all be taken away .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   49 Everyone_PN1 should_VM be_VBI grateful_JJ for_IF all_DB that_CST they_PPHS2 have_VH0 because_CS at_II any_DD moment_NN1 it_PPH1 can_VM all_DB be_VBI taken_VVN away_RL ._.
+SENTPOS 2014_4_101_000_077_2 FINAL A    4   49  Everything that has happened to this young man could happen to anyone and with the use of these compositional elements , the viewer is able to feel more sympathetic for him as well as frightened that this could happen to them .
+SENTPOS 2014_4_101_000_077_2 FINAL B    4   49  Everything_PN1 that_CST has_VHZ happened_VVN to_II@ this_DD1 young_JJ man_NN1 could_VM happen_VVI to_II@ anyone_PN1 and_CC with_IW the_AT use_NN1 of_IO these_DD2 compositional_JJ elements_NN2 ,_, the_AT viewer_NN1 is_VBZ able_JK to_TO feel_VVI more_RGR sympathetic_JJ for_IF him_PPHO1 as_II31 well_II32 as_II33 frightened_JJ that_CST this_DD1 could_VM happen_VVI to_II@ them_PPHO2 ._.

@@ -1,0 +1,128 @@
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    0 Have you ever heard about reading a painting ?
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    0 Have_VH0 you_PPY ever_RR heard_VVN about_II reading_VVG a_AT1 painting_NN1 ?_?
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    1 It is awkward question to think about in terms of reading .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    1 It_PPH1 is_VBZ awkward_JJ question_NN1 to_TO think_VVI about_II in_II31 terms_II32 of_II33 reading_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    2 People usually look at a painting as photographing of a sight nature , for instance .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    2 People_NN usually_RR look_VV0 at_II a_AT1 painting_NN1 as_CSA photographing_VVG of_IO a_AT1 sight_NN1 nature_NN1 ,_, for_REX21 instance_REX22 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    3 Transferring a particular scene from nature such as flowers makes people like it because of its colors in a way which a painter beautifies his work for audience .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    3 Transferring_VVG a_AT1 particular_JJ scene_NN1 from_II nature_NN1 such_II21 as_II22 flowers_NN2 makes_VVZ people_NN like_II it_PPH1 because_II21 of_II22 its_APPGE colors_NN2 in_II a_AT1 way_NN1 which_DDQ a_AT1 painter_NN1 beautifies_VVZ his_APPGE work_NN1 for_IF audience_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    4 However , painting is not only a way of photographing scenes , but also it is a complex text which contains message .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    4 However_RR ,_, painting_NN1 is_VBZ not_XX only_RR a_AT1 way_NN1 of_IO photographing_VVG scenes_NN2 ,_, but_CCB also_RR it_PPH1 is_VBZ a_AT1 complex_JJ text_NN1 which_DDQ contains_VVZ message_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    5 In addition Painters are producing many interesting works , and they are different from photographers because they are able to add some illustrations such as putting a rat in the middle of painting .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    5 In_RR21 addition_RR22 Painters_NN2 are_VBR producing_VVG many_DA2 interesting_JJ works_NN ,_, and_CC they_PPHS2 are_VBR different_JJ from_II photographers_NN2 because_CS they_PPHS2 are_VBR able_JK to_TO add_VVI some_DD illustrations_NN2 such_II21 as_II22 putting_VVG a_AT1 rat_NN1 in_II the_AT middle_NN1 of_IO painting_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    6 The New Woman in her Bicycle is a good example of how the painter is trying to describe something in a time in a piece of art .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    6 The_AT New_JJ Woman_NN1 in_II her_APPGE Bicycle_NN1 is_VBZ a_AT1 good_JJ example_NN1 of_IO how_RRQ the_AT painter_NN1 is_VBZ trying_VVG to_TO describe_VVI something_PN1 in_II a_AT1 time_NNT1 in_II a_AT1 piece_NN1 of_IO art_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    7 Moreover , this piece of art is containing three main ideas about women 's life style such as wearing new fashionable clothes , riding bicycles , and their satisfying about the new style(Opper) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    7 Moreover_RR ,_, this_DD1 piece_NN1 of_IO art_NN1 is_VBZ containing_VVG three_MC main_JJ ideas_NN2 about_II women_NN2 's_GE life_NN1 style_NN1 such_II21 as_II22 wearing_VVG new_JJ fashionable_JJ clothes_NN2 ,_, riding_VVG bicycles_NN2 ,_, and_CC their_APPGE satisfying_JJ about_II the_AT new_JJ style(Opper)_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    0    8 In fact that many fashions have been developing day by day frequently since 1850s .
+SENTPOS 2014_4_101_500_536_2 FINAL B    0    8 In_II fact_NN1 that_CST many_DA2 fashions_NN2 have_VH0 been_VBN developing_JJ day_NNT1 by_II day_NNT1 frequently_RR since_II@ 1850s_MC2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1    9 Women were wearing strict traditional clothes such as full skirts and narrow sleeves in 1850s .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1    9 Women_NN2 were_VBDR wearing_VVG strict_JJ traditional_JJ clothes_NN2 such_II21 as_II22 full_JJ skirts_NN2 and_CC narrow_JJ sleeves_NN2 in_II 1850s_MC2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   10 People did n't accept women wearing other than that because of culture in that time .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   10 People_NN did_VDD n't_XX accept_VVI women_NN2 wearing_VVG other_II21 than_II22 that_DD1 because_II21 of_II22 culture_NN1 in_II that_DD1 time_NNT1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   11 In The New woman in her Bicycle the painter is describing what had happened in a time when women changed their looking by wearing bloomers .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   11 In_II The_AT New_JJ woman_NN1 in_II her_APPGE Bicycle_NN1 the_AT painter_NN1 is_VBZ describing_VVG what_DDQ had_VHD happened_VVN in_II a_AT1 time_NNT1 when_RRQ women_NN2 changed_VVD their_APPGE looking_VVG by_II wearing_VVG bloomers_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   12 As we can see in this painting , women are wearing bloomers almost all the time ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   12 As_CSA we_PPIS2 can_VM see_VVI in_II this_DD1 painting_NN1 ,_, women_NN2 are_VBR wearing_VVG bloomers_NN2 almost_RR all_DB the_AT time_NNT1 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   13 People , especially men , were shucked about new women 's looking .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   13 People_NN ,_, especially_RR men_NN2 ,_, were_VBDR shucked_VVN@ about_II new_JJ women_NN2 's_VBZ looking_VVG ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   14 For example , because this painting contains more than one scene we can notice that man in picture in the top right was surprised when he saw woman wearing bloomers .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   14 For_REX21 example_REX22 ,_, because_CS this_DD1 painting_NN1 contains_VVZ more_DAR than_CSN one_MC1 scene_NN1 we_PPIS2 can_VM notice_VVI that_DD1 man_NN1 in_II picture_NN1 in_II the_AT top_JJ right_NN1 was_VBDZ surprised_JJ when_CS he_PPHS1 saw_VVD woman_NN1 wearing_VVG bloomers_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   15 So , that means men did n't accept seeing women wearing bloomers .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   15 So_RR ,_, that_DD1 means_VVZ men_NN2 did_VDD n't_XX accept_VVI seeing_VVG women_NN2 wearing_VVG bloomers_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   16 The peak of wearing new clothes did n't stop at usual things , and women had started engaging in different events such as sports and celebrations .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   16 The_AT peak_NN1 of_IO wearing_VVG new_JJ clothes_NN2 did_VDD n't_XX stop_VVI at_II usual_JJ things_NN2 ,_, and_CC women_NN2 had_VHD started_VVN engaging_VVG in_II different_JJ events_NN2 such_II21 as_II22 sports_NN2 and_CC celebrations_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   17 Additionally , we can see clearly in right middle picture and top to the left that women had involved in sports and different events in new looking ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   17 Additionally_RR ,_, we_PPIS2 can_VM see_VVI clearly_RR in_II right_JJ middle_JJ picture_NN1 and_CC top_NN1 to_II the_AT left_JJ that_CST women_NN2 had_VHD involved_JJ in_II sports_NN2 and_CC different_JJ events_NN2 in_II new_JJ looking_VVG (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   18 Moreover , the new fashion has reached even blue events such as funerals .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   18 Moreover_RR ,_, the_AT new_JJ fashion_NN1 has_VHZ reached_VVN even_RR blue_JJ events_NN2 such_II21 as_II22 funerals_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   19 Woman in the right bottom is visiting her husband .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   19 Woman_NN1 in_II the_AT right_JJ bottom_NN1 is_VBZ visiting_VVG her_APPGE husband_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    1   20 Hence , we can see how much new clothes had affected women 's life since 1850s .
+SENTPOS 2014_4_101_500_536_2 FINAL B    1   20 Hence_RR ,_, we_PPIS2 can_VM see_VVI how_RGQ@ much_DA1 new_JJ clothes_NN2 had_VHD affected_VVN women_NN2 's_GE life_NN1 since_II@ 1850s_MC2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   21 Every part in this piece is including women wearing new clothes as well as riding bicycle .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   21 Every_AT1 part_NN1 in_II this_DD1 piece_NN1 is_VBZ including_II women_NN2 wearing_VVG new_JJ clothes_NN2 as_II31 well_II32 as_II33 riding_VVG bicycle_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   22 Women have started riding bicycle in 1850s , and using them in their everyday lives .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   22 Women_NN2 have_VH0 started_VVN riding_VVG bicycle_NN1 in_II 1850s_MC2 ,_, and_CC using_VVG them_PPHO2 in_II their_APPGE everyday_JJ lives_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   23 As we can see in this painting , women riding bikes in celebrations in the middle to the right of big woman 's picture ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   23 As_CSA we_PPIS2 can_VM see_VVI in_II this_DD1 painting_NN1 ,_, women_NN2 riding_VVG bikes_NN2 in_II celebrations_NN2 in_II the_AT middle_NN1 to_II the_AT right_NN1 of_IO big_JJ woman_NN1 's_GE picture_NN1 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   24 In addition , Women are predisposed to work productively when riding bicycles .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   24 In_RR21 addition_RR22 ,_, Women_NN2 are_VBR predisposed_VVN to_TO@ work_VVI productively_RR when_CS riding_VVG bicycles_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   25 For example , in the picture in the middle to the left , we can see that woman is carrying a basket of breads to deliver it somewhere else .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   25 For_REX21 example_REX22 ,_, in_II the_AT picture_NN1 in_II the_AT middle_NN1 to_II the_AT left_JJ ,_, we_PPIS2 can_VM see_VVI that_DD1 woman_NN1 is_VBZ carrying_VVG a_AT1 basket_NN1 of_IO breads_NN2 to_TO deliver_VVI it_PPH1 somewhere_RL else_RR ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   26 Unfortunately , men seem to be losers in that part because they dropped their baskets in the ground .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   26 Unfortunately_RR ,_, men_NN2 seem_VV0 to_TO be_VBI losers_NN2 in_II that_DD1 part_NN1 because_CS they_PPHS2 dropped_VVD their_APPGE baskets_NN2 in_II the_AT ground_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   27 So , that means women are able to compete and beat men even in hard jobs .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   27 So_RR ,_, that_DD1 means_VVZ women_NN2 are_VBR able_JK to_TO compete_VVI and_CC beat_VVI men_NN2 even_RR in_II hard_JJ jobs_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   28 As long as bicycles have been developed , people can get more benefits from them such as carrying someone to somewhere safely as in the picture in the bottom to the right .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   28 As_CS31 long_CS32 as_CS33 bicycles_NN2 have_VH0 been_VBN developed_VVN ,_, people_NN can_VM get_VVI more_DAR benefits_NN2 from_II them_PPHO2 such_II21 as_II22 carrying_VVG someone_PN1 to_II somewhere_RL safely_RR as_CSA in_II the_AT picture_NN1 in_II the_AT bottom_NN1 to_II the_AT right_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   29 There is woman taking her child with her to visit someone , and they are enjoying their time ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   29 There_EX is_VBZ woman_NN1 taking_VVG her_APPGE child_NN1 with_IW her_PPHO1 to_TO visit_VVI someone_PN1 ,_, and_CC they_PPHS2 are_VBR enjoying_VVG their_APPGE time_NNT1 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   30 Bicycles are also included in funeral part because as we notice from the picture in bottom to the right there is woman visiting her husband 's grave by using a bike to reach there .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   30 Bicycles_NN2 are_VBR also_RR included_VVN in_II funeral_NN1 part_NN1 because_CS as_CSA we_PPIS2 notice_VV0 from_II the_AT picture_NN1 in_II bottom_NN1 to_II the_AT right_NN1 there_EX is_VBZ woman_NN1 visiting_VVG her_APPGE husband_NN1 's_GE grave_NN1 by_II using_VVG a_AT1 bike_NN1 to_TO reach_VVI there_RL ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    2   31 Finally , riding bikes has made women 's lives easier and more productive .
+SENTPOS 2014_4_101_500_536_2 FINAL B    2   31 Finally_RR ,_, riding_VVG bikes_NN2 has_VHZ made_VVN women_NN2 's_GE lives_NN2 easier_RRR and_CC more_RGR productive_JJ ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   32 Another thing this picture is describing is satisfaction which women feel when they have changed the way they dress .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   32 Another_DD1 thing_NN1 this_DD1 picture_NN1 is_VBZ describing_VVG is_VBZ satisfaction_NN1 which_DDQ women_NN2 feel_VV0 when_RRQ they_PPHS2 have_VH0 changed_VVN the_AT way_NN1 they_PPHS2 dress_VV0 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   33 Women 's life style was so strict that they could n't even wear whatever they want .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   33 Women_NN2 's_GE life_NN1 style_NN1 was_VBDZ so_RG strict_JJ that_CST they_PPHS2 could_VM n't_XX even_RR wear_VVI whatever_DDQV they_PPHS2 want_VV0 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   34 So this movement has given them some freedom to change their way of living their lives .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   34 So_RR this_DD1 movement_NN1 has_VHZ given_VVN them_PPHO2 some_DD freedom_NN1 to_TO change_VVI their_APPGE way_NN1 of_IO living_VVG their_APPGE lives_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   35 Women feel satisfied and free from old fashions and strict culture which make them feel not able to achieve many things in their lives such as having successful accomplishment .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   35 Women_NN2 feel_VV0 satisfied_JJ and_CC free_JJ from_II old_JJ fashions_NN2 and_CC strict_JJ culture_NN1 which_DDQ make_VV0 them_PPHO2 feel_VVI not_XX able_JK to_TO achieve_VVI many_DA2 things_NN2 in_II their_APPGE lives_NN2 such_II21 as_II22 having_VHG successful_JJ accomplishment_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   36 The big woman 's picture in the middle is illustrating woman 's feelings about old fashion ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   36 The_AT big_JJ woman_NN1 's_GE picture_NN1 in_II the_AT middle_NN1 is_VBZ illustrating_VVG woman_NN1 's_GE feelings_NN2 about_II old_JJ fashion_NN1 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   37 The mice under her long shoes seem to be the obstacle of the women during that time , and she is looking forward to her future without paying attention to them .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   37 The_AT mice_NN2 under_II her_APPGE long_JJ shoes_NN2 seem_VV0 to_TO be_VBI the_AT obstacle_NN1 of_IO the_AT women_NN2 during_II that_DD1 time_NNT1 ,_, and_CC she_PPHS1 is_VBZ looking_VVG forward_RL to_II her_APPGE future_NN1 without_IW paying_VVG attention_NN1 to_II them_PPHO2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   38 However , appearance of mice in that part describes new woman who is not afraid from mice as women did in 1850s ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   38 However_RR ,_, appearance_NN1 of_IO mice_NN2 in_II that_DD1 part_NN1 describes_VVZ new_JJ woman_NN1 who_PNQS is_VBZ not_XX afraid_JJ from_II mice_NN2 as_CSA women_NN2 did_VDD in_II 1850s_MC2 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   39 Additionally , women are scared when they see a mouse in 1850s , but the picture showing woman as a Victorian who has overcame many challenges .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   39 Additionally_RR ,_, women_NN2 are_VBR scared_JJ when_CS they_PPHS2 see_VV0 a_AT1 mouse_NN1 in_II 1850s_MC2 ,_, but_CCB the_AT picture_NN1 showing_VVG woman_NN1 as_II a_AT1 Victorian_JJ who_PNQS has_VHZ overcame_VVN many_DA2 challenges_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   40 The picture behind the big women showing a beast begging under woman 's legs , and that expresses woman 's strength .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   40 The_AT picture_NN1 behind_II the_AT big_JJ women_NN2 showing_VVG a_AT1 beast_NN1 begging_VVG under_II woman_NN1 's_GE legs_NN2 ,_, and_CC that_DD1 expresses_VVZ woman_NN1 's_GE strength_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   41 This woman is scared because of the beast and could n't do anything to the beast .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   41 This_DD1 woman_NN1 is_VBZ scared_JJ because_II21 of_II22 the_AT beast_NN1 and_CC could_VM n't_XX do_VDI anything_PN1 to_II the_AT beast_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   42 She is standing on a chair waiting for someone to help .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   42 She_PPHS1 is_VBZ standing_VVG on_II a_AT1 chair_NN1 waiting_VVG for_IF someone_PN1 to_TO help_VVI ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   43 We can notice that every small picture in this painting does n't have a frame except this picture ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   43 We_PPIS2 can_VM notice_VVI that_CST every_AT1 small_JJ picture_NN1 in_II this_DD1 painting_NN1 does_VDZ n't_XX have_VHI a_AT1 frame_NN1 except_II this_DD1 picture_NN1 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   44 Moreover , a framed picture is hanged on the wall , and that means this scene is from the past .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   44 Moreover_RR ,_, a_AT1 framed_JJ picture_NN1 is_VBZ hanged_VVN on_II the_AT wall_NN1 ,_, and_CC that_DD1 means_VVZ this_DD1 scene_NN1 is_VBZ from_II the_AT past_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   45 This piece of art expresses woman feelings in new looking more confident than women before 1850s .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   45 This_DD1 piece_NN1 of_IO art_NN1 expresses_VVZ woman_NN1 feelings_NN2 in_II new_JJ looking_VVG more_RGR confident_JJ than_CSN women_NN2 before_II 1850s_MC2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   46 Turning to the big woman 's picture , it seems amusing because the woman is wearing many things similar to men 's clothes such as T-shirt and tie .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   46 Turning_VVG to_II the_AT big_JJ woman_NN1 's_GE picture_NN1 ,_, it_PPH1 seems_VVZ amusing_JJ because_CS the_AT woman_NN1 is_VBZ wearing_VVG many_DA2 things_NN2 similar_JJ to_II men_NN2 's_GE clothes_NN2 such_II21 as_II22 T-shirt_NN1 and_CC tie_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   47 This woman is trying to show up by wearing those clothes and putting her hands in her front bucket ( Opper ) .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   47 This_DD1 woman_NN1 is_VBZ trying_VVG to_TO show_VVI up_RP by_II wearing_VVG those_DD2 clothes_NN2 and_CC putting_VVG her_APPGE hands_NN2 in_II her_APPGE front_JJ bucket_NN1 (_( Opper_NP1 )_) ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   48 That also describes her satisfaction about what she is doing .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   48 That_DD1 also_RR describes_VVZ her_APPGE satisfaction_NN1 about_II what_DDQ she_PPHS1 is_VBZ doing_VDG ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    3   49 Therefore , men seem to be beat by women , and they should find another way win the battle against women .
+SENTPOS 2014_4_101_500_536_2 FINAL B    3   49 Therefore_RR ,_, men_NN2 seem_VV0 to_TO be_VBI beat_VVN by_II women_NN2 ,_, and_CC they_PPHS2 should_VM find_VVI another_DD1 way_NN1 win_VV0 the_AT battle_NN1 against_II women_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    4   50 In conclusion , The New Woman in her Bicycle is a piece of art which is a good example of visual reading because it has many symbols .
+SENTPOS 2014_4_101_500_536_2 FINAL B    4   50 In_II conclusion_NN1 ,_, The_AT New_JJ Woman_NN1 in_II her_APPGE Bicycle_NN1 is_VBZ a_AT1 piece_NN1 of_IO art_NN1 which_DDQ is_VBZ a_AT1 good_JJ example_NN1 of_IO visual_JJ reading_NN1 because_CS it_PPH1 has_VHZ many_DA2 symbols_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    4   51 Those symbols have different illustrations which artist can express his idea by using them .
+SENTPOS 2014_4_101_500_536_2 FINAL B    4   51 Those_DD2 symbols_NN2 have_VH0 different_JJ illustrations_NN2 which_DDQ artist_NN1 can_VM express_VVI his_APPGE idea_NN1 by_II using_VVG them_PPHO2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    4   52 Therefore , a reader can interpret and understand the meaning of those symbols .
+SENTPOS 2014_4_101_500_536_2 FINAL B    4   52 Therefore_RR ,_, a_AT1 reader_NN1 can_VM interpret_VVI and_CC understand_VVI the_AT meaning_NN1 of_IO those_DD2 symbols_NN2 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    4   53 The New Woman in her Bicycle is describing the movement in women 's lifestyle including work clothing .
+SENTPOS 2014_4_101_500_536_2 FINAL B    4   53 The_AT New_JJ Woman_NN1 in_II her_APPGE Bicycle_NN1 is_VBZ describing_VVG the_AT movement_NN1 in_II women_NN2 's_GE lifestyle_NN1 including_II work_NN1 clothing_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    4   54 There are many symbols used in this painting such as rats which is usually means something disgusting .
+SENTPOS 2014_4_101_500_536_2 FINAL B    4   54 There_EX are_VBR many_DA2 symbols_NN2 used_VVN in_II this_DD1 painting_NN1 such_II21 as_II22 rats_NN2 which_DDQ is_VBZ usually_RR means_VVZ something_PN1 disgusting_JJ ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    4   55 In fact there are different opinions from variety of people about one piece of art .
+SENTPOS 2014_4_101_500_536_2 FINAL B    4   55 In_II fact_NN1 there_EX are_VBR different_JJ opinions_NN2 from_II variety_NN1 of_IO people_NN about_II one_MC1 piece_NN1 of_IO art_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   56 Opper , Frederick Burr .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   56 Opper_NP1 ,_, Frederick_NP1 Burr_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   57 The new woman and her bicycle-there will be several varieties of her .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   57 The_AT new_JJ woman_NN1 and_CC her_PPHO1 bicycle-there_EX will_VM be_VBI several_DA2 varieties_NN2 of_IO her_PPHO1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   58 1895 .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   58 1895_MC ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   59 Illus. from Puck , v. 37 , no. 954 .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   59 Illus._NP1 from_II Puck_NP1 ,_, v._II 37_MC ,_, no._NN1 954_MC ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   60 The Carolina Reader .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   60 The_AT Carolina_NP1 Reader_NN1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   61 . Ed .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   61 ._. Ed_NP1 ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   62 USC Dept. of English Fall 2014 , Plymouth : Hayden McNeil.167 .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   62 USC_NP1 Dept._NN1 of_IO English_JJ Fall_NN1 2014_MC ,_, Plymouth_NP1 :_: Hayden_NP1 McNeil.167_FO ._.
+SENTPOS 2014_4_101_500_536_2 FINAL A    5   62  Print .
+SENTPOS 2014_4_101_500_536_2 FINAL B    5   62  Print_VV0 ._.

@@ -1,0 +1,128 @@
+SENTPOS 2014_4_101_600_629_1 FINAL A    1    0 In his 'Advice to Graduates ' George Saunders makes his argument for kindness because this is the right time and place to make this argument .
+SENTPOS 2014_4_101_600_629_1 FINAL B    1    0 In_II his_APPGE 'Advice_NN1 to_II Graduates_NN2 '_GE George_NP1 Saunders_NP1 makes_VVZ his_APPGE argument_NN1 for_IF kindness_NN1 because_CS this_DD1 is_VBZ the_AT right_JJ time_NNT1 and_CC place_VV0 to_TO make_VVI this_DD1 argument_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A    2    1 His argument is made to a graduating class of young people ready to go out and make a life for themselves .
+SENTPOS 2014_4_101_600_629_1 FINAL B    2    1 His_APPGE argument_NN1 is_VBZ made_VVN to_II a_AT1 graduating_VVG class_NN1 of_IO young_JJ people_NN ready_JJ to_TO go_VVI out_RP and_CC make_VVI a_AT1 life_NN1 for_IF themselves_PPX2 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A    3    2 His speech is made at Syracuse University for the class of 2013 .
+SENTPOS 2014_4_101_600_629_1 FINAL B    3    2 His_APPGE speech_NN1 is_VBZ made_VVN at_II Syracuse_NP1 University_NN1 for_IF the_AT class_NN1 of_IO 2013_MC ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A    5    3 Saunders takes advantage of this venue and by choosing to make his argument as a graduation speech , I feel that Saunders made the right choices in time , place and audience .
+SENTPOS 2014_4_101_600_629_1 FINAL B    5    3 Saunders_NP1 takes_VVZ advantage_NN1 of_IO this_DD1 venue_NN1 and_CC by_II choosing_VVG to_TO make_VVI his_APPGE argument_NN1 as_II a_AT1 graduation_NN1 speech_NN1 ,_, I_PPIS1 feel_VV0 that_CST Saunders_NP1 made_VVD the_AT right_JJ choices_NN2 in_II time_NNT1 ,_, place_NN1 and_CC audience_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A    7    4 Because of recent stories in the news of bullying , domestic abuse and workplace harassment , and using the fact that they are students set to go into the world , Saunders wants tell them his heartfelt wish for them to become kinder .
+SENTPOS 2014_4_101_600_629_1 FINAL B    7    4 Because_II21 of_II22 recent_JJ stories_NN2 in_II the_AT news_NN1 of_IO bullying_NN1 ,_, domestic_JJ abuse_NN1 and_CC workplace_NN1 harassment_NN1 ,_, and_CC using_VVG the_AT fact_NN1 that_CST they_PPHS2 are_VBR students_NN2 set_VV0 to_TO go_VVI into_II the_AT world_NN1 ,_, Saunders_NP1 wants_VVZ tell_VV0 them_PPHO2 his_APPGE heartfelt_JJ wish_NN1 for_IF them_PPHO2 to_TO become_VVI kinder_JJR ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A    9    5 Saunders picks up on the current conversations that are being talked about , and have been taught about their whole lives , such as bullying , and harassment .
+SENTPOS 2014_4_101_600_629_1 FINAL B    9    5 Saunders_NP1 picks_VVZ up_RP on_II the_AT current_JJ conversations_NN2 that_CST are_VBR being_VBG talked_VVN about_II ,_, and_CC have_VH0 been_VBN taught_VVN about_II their_APPGE whole_JJ lives_NN2 ,_, such_II21 as_II22 bullying_NN1 ,_, and_CC harassment_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   10    6 He begins his talk with an explicit question : 'What do I regret ? ' .
+SENTPOS 2014_4_101_600_629_1 FINAL B   10    6 He_PPHS1 begins_VVZ his_APPGE talk_NN1 with_IW an_AT1 explicit_JJ question_NN1 :_: 'What_NN1 do_VD0 I_PPIS1 regret_VVI ?_? '_GE ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   11    7 He then compares events in his life that he does n't regret with what he truly regrets .
+SENTPOS 2014_4_101_600_629_1 FINAL B   11    7 He_PPHS1 then_RT compares_VVZ events_NN2 in_II his_APPGE life_NN1 that_CST he_PPHS1 does_VDZ n't_XX regret_VVI with_IW what_DDQ he_PPHS1 truly_RR regrets_VVZ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   12    8 He is speaking to young adults who are about to graduate college with hopes to succeed in life .
+SENTPOS 2014_4_101_600_629_1 FINAL B   12    8 He_PPHS1 is_VBZ speaking_VVG to_II young_JJ adults_NN2 who_PNQS are_VBR about_RPK to_TO graduate_VVI college_NN1 with_IW hopes_NN2 to_TO succeed_VVI in_II life_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   12    9 They all have questions if they can succeed , and about their future .
+SENTPOS 2014_4_101_600_629_1 FINAL B   12    9 They_PPHS2 all_DB have_VH0 questions_NN2 if_CS they_PPHS2 can_VM succeed_VVI ,_, and_CC about_II their_APPGE future_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   13   10 He tells them that they can succeed and still be kind at the same time .
+SENTPOS 2014_4_101_600_629_1 FINAL B   13   10 He_PPHS1 tells_VVZ them_PPHO2 that_CST they_PPHS2 can_VM succeed_VVI and_CC still_RR be_VBI kind_NN1 at_II the_AT same_DA time_NNT1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   14   11 He makes it an effective argument by backing it up with his personal experiences .
+SENTPOS 2014_4_101_600_629_1 FINAL B   14   11 He_PPHS1 makes_VVZ it_PPH1 an_AT1 effective_JJ argument_NN1 by_II backing_VVG it_PPH1 up_RP with_IW his_APPGE personal_JJ experiences_NN2 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   15   12 He tell the story of Ellen ; a classmate of his that the other students made fun of , and he regrets not standing up for .
+SENTPOS 2014_4_101_600_629_1 FINAL B   15   12 He_PPHS1 tell_VV0 the_AT story_NN1 of_IO Ellen_NP1 ;_; a_AT1 classmate_NN1 of_IO his_APPGE that_CST the_AT other_JJ students_NN2 made_VVD fun_NN1 of_IO ,_, and_CC he_PPHS1 regrets_VVZ not_XX standing_VVG up_RP for_IF ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   17   13 Saunders uses his statement " Those moments when another human being was there , in front of me , suffering , and I responded .
+SENTPOS 2014_4_101_600_629_1 FINAL B   17   13 Saunders_NP1 uses_VVZ his_APPGE statement_NN1 "_" Those_DD2 moments_NN2 when_RRQ another_DD1 human_JJ being_NN1 was_VBDZ there_RL ,_, in_II31 front_II32 of_II33 me_PPIO1 ,_, suffering_VVG ,_, and_CC I_PPIS1 responded_VVD ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   17   14 . . sensibly .
+SENTPOS 2014_4_101_600_629_1 FINAL B   17   14 ._. ._. sensibly_RR ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   17   15 Reservedly .
+SENTPOS 2014_4_101_600_629_1 FINAL B   17   15 Reservedly_RR ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   18   16 Mildly " to tell how he had responded to Ellen being bullied .
+SENTPOS 2014_4_101_600_629_1 FINAL B   18   16 Mildly_RR "_" to_TO tell_VVI how_RRQ he_PPHS1 had_VHD responded_VVN to_II Ellen_NP1 being_VBG bullied_VVN ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   20   17 This part reminded of one day when I was in the seventh grade and had to ride the city bus to school ; and a group of kids were trying to bully a girl out of her seat , just so one of them could sit down .
+SENTPOS 2014_4_101_600_629_1 FINAL B   20   17 This_DD1 part_NN1 reminded_VVN of_IO one_MC1 day_NNT1 when_RRQ I_PPIS1 was_VBDZ in_II the_AT seventh_MD grade_NN1 and_CC had_VHD to_TO ride_VVI the_AT city_NN1 bus_NN1 to_II school_NN1 ;_; and_CC a_AT1 group_NN1 of_IO kids_NN2 were_VBDR trying_VVG to_TO bully_VVI a_AT1 girl_NN1 out_II21 of_II22 her_APPGE seat_NN1 ,_, just_RR so_RG one_MC1 of_IO them_PPHO2 could_VM sit_VVI down_RP ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   21   18 I stood up for her and ended up getting jumped by five guys once we got off the bus .
+SENTPOS 2014_4_101_600_629_1 FINAL B   21   18 I_PPIS1 stood_VVD up_RP for_IF her_PPHO1 and_CC ended_VVD up_RP getting_VVG jumped_VVN by_II five_MC guys_NN2 once_CS@ we_PPIS2 got_VVD off_II the_AT bus_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   22   19 I do not regret that at all and would do it again in a second .
+SENTPOS 2014_4_101_600_629_1 FINAL B   22   19 I_PPIS1 do_VD0 not_XX regret_VVI that_CST at_RR21 all_RR22 and_CC would_VM do_VDI it_PPH1 again_RT in_II a_AT1 second_NNT1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   23   20 There are moments in life where you do something truly right and it sticks with you for the rest of your life .
+SENTPOS 2014_4_101_600_629_1 FINAL B   23   20 There_EX are_VBR moments_NN2 in_II life_NN1 where_CS you_PPY do_VD0 something_PN1 truly_RR right_JJ and_CC it_PPH1 sticks_VVZ with_IW you_PPY for_IF the_AT rest_NN1 of_IO your_APPGE life_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   25   21 He goes on to tell of other situations that one would think he would regret but does not , because kindness was not part of that experience .
+SENTPOS 2014_4_101_600_629_1 FINAL B   25   21 He_PPHS1 goes_VVZ on_RP to_TO tell_VVI of_IO other_JJ situations_NN2 that_CST one_PN1 would_VM think_VVI he_PPHS1 would_VM regret_VVI but_CCB does_VDZ not_XX ,_, because_CS kindness_NN1 was_VBDZ not_XX part_NN1 of_IO that_DD1 experience_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   27   22 So , by using these examples , he is able to tells us of how he has regret for not being kinder earlier in life , and does not want these graduates to have this same feeling of regret .
+SENTPOS 2014_4_101_600_629_1 FINAL B   27   22 So_RR ,_, by_II using_VVG these_DD2 examples_NN2 ,_, he_PPHS1 is_VBZ able_JK to_TO tells_VVZ us_PPIO2 of_IO how_RRQ he_PPHS1 has_VHZ regret_NN1 for_IF not_XX being_VBG kinder_JJR earlier_RRR in_II life_NN1 ,_, and_CC does_VDZ not_XX want_VVI these_DD2 graduates_NN2 to_TO have_VHI this_DD1 same_DA feeling_NN1 of_IO regret_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   27   23 Not only does bullying happen in school , it also happens in the work place .
+SENTPOS 2014_4_101_600_629_1 FINAL B   27   23 Not_XX only_RR does_VDZ bullying_NN1 happen_VV0 in_II school_NN1 ,_, it_PPH1 also_RR happens_VVZ in_II the_AT work_NN1 place_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   29   24 Saunders wants his audience to know that from them being kind it can make the others around them better .
+SENTPOS 2014_4_101_600_629_1 FINAL B   29   24 Saunders_NP1 wants_VVZ his_APPGE audience_NN1 to_TO know_VVI that_CST from_II them_PPHO2 being_NN1% kind_NN1 it_PPH1 can_VM make_VVI the_AT others_NN2 around_II them_PPHO2 better_RRR ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   31   25 Saunders tell us that kindness is something that we have to learn ; and gradually over time we become kinder and a better person .
+SENTPOS 2014_4_101_600_629_1 FINAL B   31   25 Saunders_NP1 tell_VV0 us_PPIO2 that_DD1 kindness_NN1 is_VBZ something_PN1 that_CST we_PPIS2 have_VH0 to_TO learn_VVI ;_; and_CC gradually_RR over_II time_NNT1 we_PPIS2 become_VV0 kinder_JJR and_CC a_AT1 better_JJR person_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   33   26 In his awareness of disagreement Saunders tells us that we are not born with kindness , and he uses this statement 'Each of us is born with a series of built-in confusions that are probably somehow Darwinian' .
+SENTPOS 2014_4_101_600_629_1 FINAL B   33   26 In_II his_APPGE awareness_NN1 of_IO disagreement_NN1 Saunders_NP1 tells_VVZ us_PPIO2 that_CST we_PPIS2 are_VBR not_XX born_VVN with_IW kindness_NN1 ,_, and_CC he_PPHS1 uses_VVZ this_DD1 statement_NN1 'Each_NN1 of_IO us_PPIO2 is_VBZ born_VVN with_IW a_AT1 series_NN of_IO built-in_JJ confusions_NN2 that_CST are_VBR probably_RR somehow_RR Darwinian'_NP1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   34   27 This makes the argument that young people do not have kindness in them , but has to learn it .
+SENTPOS 2014_4_101_600_629_1 FINAL B   34   27 This_DD1 makes_VVZ the_AT argument_NN1 that_CST young_JJ people_NN do_VD0 not_XX have_VHI kindness_NN1 in_II them_PPHO2 ,_, but_CCB has_VHZ to_TO learn_VVI it_PPH1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   36   28 This is true in some cases ; the internet is full of videos of young children that say rude or mean things to their parents or other people .
+SENTPOS 2014_4_101_600_629_1 FINAL B   36   28 This_DD1 is_VBZ true_JJ in_II some_DD cases_NN2 ;_; the_AT internet_NN1 is_VBZ full_JJ of_IO videos_NN2 of_IO young_JJ children_NN2 that_CST say_VV0 rude_JJ or_CC mean_JJ things_NN2 to_II their_APPGE parents_NN2 or_CC other_JJ people_NN ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   36   29 But is that really unkind ?
+SENTPOS 2014_4_101_600_629_1 FINAL B   36   29 But_CCB is_VBZ that_DD1 really_RR unkind_JJ ?_?
+SENTPOS 2014_4_101_600_629_1 FINAL A   37   30 As a young child you do not know any better ; you have to be taught what is right and wrong .
+SENTPOS 2014_4_101_600_629_1 FINAL B   37   30 As_II a_AT1 young_JJ child_NN1 you_PPY do_VD0 not_XX know_VVI any_DD better_JJR ;_; you_PPY have_VH0 to_TO be_VBI taught_VVN what_DDQ is_VBZ right_JJ and_CC wrong_JJ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   38   31 We learn from our parent and other grown-ups to know what love and kindness is .
+SENTPOS 2014_4_101_600_629_1 FINAL B   38   31 We_PPIS2 learn_VV0 from_II our_APPGE parent_NN1 and_CC other_JJ grown-ups_NN2 to_TO know_VVI what_DDQ love_VV0 and_CC kindness_NN1 is_VBZ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   39   32 I have had friends that had rough childhoods and came from abusive parents ; and when I first met them they were not very kind and quite mean .
+SENTPOS 2014_4_101_600_629_1 FINAL B   39   32 I_PPIS1 have_VH0 had_VHN friends_NN2 that_CST had_VHD rough_JJ childhoods_NN2 and_CC came_VVD from_II abusive_JJ parents_NN2 ;_; and_CC when_CS I_PPIS1 first_MD met_VVD them_PPHO2 they_PPHS2 were_VBDR not_XX very_RG kind_JJ@ and_CC quite_RG mean_JJ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   41   33 I did not really like them , but something told me that they needed a friend and with time , showing them kindness and being there for them as a good friend ; they became a better person .
+SENTPOS 2014_4_101_600_629_1 FINAL B   41   33 I_PPIS1 did_VDD not_XX really_RR like_VVI them_PPHO2 ,_, but_CCB something_PN1 told_VVD me_PPIO1 that_CST they_PPHS2 needed_VVD a_AT1 friend_NN1 and_CC with_IW time_NNT1 ,_, showing_VVG them_PPHO2 kindness_NN1 and_CC being_VBG there_RL for_IF them_PPHO2 as_II a_AT1 good_JJ friend_NN1 ;_; they_PPHS2 became_VVD a_AT1 better_JJR person_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   43   34 I did not really like them , but something told me that they needed a friend and with time , showing them kindness and being there for them as a good friend ; they became a better person .
+SENTPOS 2014_4_101_600_629_1 FINAL B   43   34 I_PPIS1 did_VDD not_XX really_RR like_VVI them_PPHO2 ,_, but_CCB something_PN1 told_VVD me_PPIO1 that_CST they_PPHS2 needed_VVD a_AT1 friend_NN1 and_CC with_IW time_NNT1 ,_, showing_VVG them_PPHO2 kindness_NN1 and_CC being_VBG there_RL for_IF them_PPHO2 as_II a_AT1 good_JJ friend_NN1 ;_; they_PPHS2 became_VVD a_AT1 better_JJR person_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   44   35 Using conjecture in his speech Saunders is showing that kindness already exist in all of us .
+SENTPOS 2014_4_101_600_629_1 FINAL B   44   35 Using_VVG conjecture_NN1 in_II his_APPGE speech_NN1 Saunders_NP1 is_VBZ showing_VVG that_DD1 kindness_NN1 already_RR exist_VV0 in_II all_DB of_IO us_PPIO2 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   46   36 He describes kindness as something that can change , by saying that as we get older we get kinder and more loving .
+SENTPOS 2014_4_101_600_629_1 FINAL B   46   36 He_PPHS1 describes_VVZ kindness_NN1 as_II something_PN1 that_CST can_VM change_VVI ,_, by_II saying_VVG that_CST as_CSA we_PPIS2 get_VV0 older_JJR we_PPIS2 get_VV0 kinder_JJR and_CC more_RGR loving_JJ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   47   37 " One thing in our favor : some of this 'becoming kinder' happens naturally , with age .
+SENTPOS 2014_4_101_600_629_1 FINAL B   47   37 "_" One_MC1 thing_NN1 in_II our_APPGE favor_NN1 :_: some_DD of_IO this_DD1 'becoming_JJ@ kinder'_NN1 happens_VVZ naturally_RR ,_, with_IW age_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   48   38 It might be a simple matter of attrition : as we get older , we come to see how useless it is to be selfish ' how illogical , really " .
+SENTPOS 2014_4_101_600_629_1 FINAL B   48   38 It_PPH1 might_VM be_VBI a_AT1 simple_JJ matter_NN1 of_IO attrition_NN1 :_: as_CSA we_PPIS2 get_VV0 older_JJR ,_, we_PPIS2 come_VV0 to_TO see_VVI how_RGQ@ useless_JJ it_PPH1 is_VBZ to_TO be_VBI selfish_JJ '_"@ how_RGQ@ illogical_JJ ,_, really_RR "_" ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   50   39 In his speech , Saunders gives a sense of urgency to the argument by telling them to 'Hurry up .
+SENTPOS 2014_4_101_600_629_1 FINAL B   50   39 In_II his_APPGE speech_NN1 ,_, Saunders_NP1 gives_VVZ a_AT1 sense_NN1 of_IO urgency_NN1 to_II the_AT argument_NN1 by_II telling_VVG them_PPHO2 to_TO 'Hurry_VVI up_RP ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   50   40 Speed it along . '
+SENTPOS 2014_4_101_600_629_1 FINAL B   50   40 Speed_VV0@ it_PPH1 along_RP ._. '_"@
+SENTPOS 2014_4_101_600_629_1 FINAL A   50   41 and 'Start right now' .
+SENTPOS 2014_4_101_600_629_1 FINAL B   50   41 and_CC 'Start_VV0 right_JJ now'_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   52   42 I agree with this that statement and feel that Saunders would like them to be aware that if they start being kinder now , then having regret later in life would be less likely .
+SENTPOS 2014_4_101_600_629_1 FINAL B   52   42 I_PPIS1 agree_VV0 with_IW this_DD1 that_DD1 statement_NN1 and_CC feel_VV0 that_CST Saunders_NP1 would_VM like_VVI them_PPHO2 to_TO be_VBI aware_JJ that_CST if_CS they_PPHS2 start_VV0 being_VBG kinder_JJR now_RT ,_, then_RT having_VHG regret_NN1 later_RRR in_II life_NN1 would_VM be_VBI less_RGR likely_JJ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   53   43 He goes on to argue that it is a " sickness " to not be kind , that the only cure is being good and proactive .
+SENTPOS 2014_4_101_600_629_1 FINAL B   53   43 He_PPHS1 goes_VVZ on_RP to_TO argue_VVI that_CST it_PPH1 is_VBZ a_AT1 "_" sickness_NN1 "_" to_TO not_XX be_VBI kind_NN1 ,_, that_CST the_AT only_JJ cure_NN1 is_VBZ being_VBG good_JJ and_CC proactive_JJ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   54   44 He also tell us that we can still do all the things we want in life and still be kind in the process .
+SENTPOS 2014_4_101_600_629_1 FINAL B   54   44 He_PPHS1 also_RR tell_VV0 us_PPIO2 that_CST we_PPIS2 can_VM still_RR do_VDI all_DB the_AT things_NN2 we_PPIS2 want_VV0 in_II life_NN1 and_CC still_RR be_VBI kind_NN1 in_II the_AT process_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   56   45 This is true ; by just by taking a few seconds each day and saying " Thank you " , " good job " or " please " can make all the difference in someone 's day .
+SENTPOS 2014_4_101_600_629_1 FINAL B   56   45 This_DD1 is_VBZ true_JJ ;_; by_II just_RR by_II taking_VVG a_AT1 few_DA2 seconds_NNT2 each_DD1 day_NNT1 and_CC saying_VVG "_" Thank_VV0 you_PPY "_" ,_, "_" good_JJ job_NN1 "_" or_CC "_" please_RR "_" can_VM make_VVI all_DB the_AT difference_NN1 in_II someone_PN1 's_GE day_NNT1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   57   46 I know that when one of my managers or the director of my department shows appreciation for the hard work I have been doing , I feel a lot better after doing it .
+SENTPOS 2014_4_101_600_629_1 FINAL B   57   46 I_PPIS1 know_VV0 that_CST when_CS one_MC1 of_IO my_APPGE managers_NN2 or_CC the_AT director_NN1 of_IO my_APPGE department_NN1 shows_VVZ appreciation_NN1 for_IF the_AT hard_JJ work_NN1 I_PPIS1 have_VH0 been_VBN doing_VDG ,_, I_PPIS1 feel_VV0 a_RR21@ lot_RR22 better_RRR after_II doing_VDG it_PPH1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   60   47 This shows his awareness of his audience by talking about them being young and about to enter a new phase of their lives , where they will be anxious to find out if they can have success in what they have working so hard to achieve .
+SENTPOS 2014_4_101_600_629_1 FINAL B   60   47 This_DD1 shows_VVZ his_APPGE awareness_NN1 of_IO his_APPGE audience_NN1 by_II talking_VVG about_II them_PPHO2 being_VBG young_JJ and_CC about_RPK to_TO enter_VVI a_AT1 new_JJ phase_NN1 of_IO their_APPGE lives_NN2 ,_, where_CS they_PPHS2 will_VM be_VBI anxious_JJ to_TO find_VVI out_RP if_CS they_PPHS2 can_VM have_VHI success_NN1 in_II what_DDQ they_PPHS2 have_VH0 working_JJ@ so_RG hard_JJ to_TO achieve_VVI ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   61   48 Saunders makes his point and says this is a good thing ; if you are going to be kinder in the process .
+SENTPOS 2014_4_101_600_629_1 FINAL B   61   48 Saunders_NP1 makes_VVZ his_APPGE point_NN1 and_CC says_VVZ this_DD1 is_VBZ a_AT1 good_JJ thing_NN1 ;_; if_CS you_PPY are_VBR going_VVGK to_TO be_VBI kinder_JJR in_II the_AT process_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   63   49 He defines Kindness by talking about how it is hard with the statements He says that kindness is good and happens naturally with age , and that kindness is love .
+SENTPOS 2014_4_101_600_629_1 FINAL B   63   49 He_PPHS1 defines_VVZ Kindness_NN1 by_II talking_VVG about_II how_RRQ it_PPH1 is_VBZ hard_JJ with_IW the_AT statements_NN2 He_PPHS1 says_VVZ that_DD1 kindness_NN1 is_VBZ good_JJ and_CC happens_VVZ naturally_RR with_IW age_NN1 ,_, and_CC that_DD1 kindness_NN1 is_VBZ love_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   64   50 I like his statement " as you get older , your self will diminish and you will grow in love .
+SENTPOS 2014_4_101_600_629_1 FINAL B   64   50 I_PPIS1 like_VV0 his_APPGE statement_NN1 "_" as_CSA you_PPY get_VV0 older_JJR ,_, your_APPGE self_NN1 will_VM diminish_VVI and_CC you_PPY will_VM grow_VVI in_II love_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   64   51 YOU will gradually be replaced by LOVE . "
+SENTPOS 2014_4_101_600_629_1 FINAL B   64   51 YOU_PPY will_VM gradually_RR be_VBI replaced_VVN by_II LOVE_NN1 ._. "_"
+SENTPOS 2014_4_101_600_629_1 FINAL A   65   52 I have seen this in my father he seemed so much kinder in his older years , less harsh and rude .
+SENTPOS 2014_4_101_600_629_1 FINAL B   65   52 I_PPIS1 have_VH0 seen_VVN this_DD1 in_II my_APPGE father_NN1 he_PPHS1 seemed_VVD so_RG much_DA1 kinder_JJR in_II his_APPGE older_JJR years_NNT2 ,_, less_RGR harsh_JJ and_CC rude_JJ ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   66   53 He always knew how to push my buttons to make me mad , or upset growing up .
+SENTPOS 2014_4_101_600_629_1 FINAL B   66   53 He_PPHS1 always_RR knew_VVD how_RRQ to_TO push_VVI my_APPGE buttons_NN2 to_TO make_VVI me_PPIO1 mad_JJ ,_, or_CC upset_VV0 growing_VVG up_RP ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   68   54 Then in his last few years he was a lot kinder and more prone to say nice things , give good advice , and most of all give good hugs .
+SENTPOS 2014_4_101_600_629_1 FINAL B   68   54 Then_RT in_II his_APPGE last_MD few_DA2 years_NNT2 he_PPHS1 was_VBDZ a_RR21@ lot_RR22 kinder_JJR and_CC more_RGR prone_JJ to_TO say_VVI nice_JJ things_NN2 ,_, give_VV0 good_JJ advice_NN1 ,_, and_CC most_DAT of_IO all_DB give_VV0 good_JJ hugs_NN2 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   69   55 Saunders describes kindness as complex , developing over time and having different parts .
+SENTPOS 2014_4_101_600_629_1 FINAL B   69   55 Saunders_NP1 describes_VVZ kindness_NN1 as_CSA complex_JJ ,_, developing_VVG over_II time_NNT1 and_CC having_VHG different_JJ parts_NN2 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   70   56 Kindness in its self ; is good , and is part of your soul and with a little help it will show itself and make you a better person .
+SENTPOS 2014_4_101_600_629_1 FINAL B   70   56 Kindness_NN1 in_II its_APPGE self_NN1 ;_; is_VBZ good_JJ ,_, and_CC is_VBZ part_NN1 of_IO your_APPGE soul_NN1 and_CC with_IW a_AT1 little_JJ help_NN1 it_PPH1 will_VM show_VVI itself_PPX1 and_CC make_VVI you_PPY a_AT1 better_JJR person_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   72   57 According to this speech we need to start being kinder sooner than later to avoid regret later in life .
+SENTPOS 2014_4_101_600_629_1 FINAL B   72   57 According_II21 to_II22 this_DD1 speech_NN1 we_PPIS2 need_VV0 to_TO start_VVI being_VBG kinder_JJR sooner_RRR than_CSN later_JJR to_TO avoid_VVI regret_NN1 later_RRR in_II life_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   72   58 'Start right now' and to 'be our best selves . '
+SENTPOS 2014_4_101_600_629_1 FINAL B   72   58 'Start_VV0 right_JJ now'_NN1 and_CC to_TO 'be_VVI our_APPGE best_JJT selves_NN2 ._. '_"@
+SENTPOS 2014_4_101_600_629_1 FINAL A   73   59 He also says that 'There 's a confusion in each of us , a sickness , really : selfishness .
+SENTPOS 2014_4_101_600_629_1 FINAL B   73   59 He_PPHS1 also_RR says_VVZ that_DD1 'There_NN1 's_VBZ a_AT1 confusion_NN1 in_II each_DD1 of_IO us_PPIO2 ,_, a_AT1 sickness_NN1 ,_, really_RR :_: selfishness_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   73   60 But there 's also a cure .
+SENTPOS 2014_4_101_600_629_1 FINAL B   73   60 But_CCB there_EX 's_VBZ also_RR a_AT1 cure_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   75   61 So be a good and proactive and even somewhat desperate patient on your own behalf ' seek out the most efficacious anti-selfishness medicines , energetically , for the rest of your life . '
+SENTPOS 2014_4_101_600_629_1 FINAL B   75   61 So_RR be_VBI a_AT1 good_JJ and_CC proactive_JJ and_CC even_RR somewhat_RR desperate_JJ patient_NN1 on_II your_APPGE own_DA behalf_NN1 '_GE seek_VV0 out_RP the_AT most_RGT efficacious_JJ anti-selfishness_JJ medicines_NN2 ,_, energetically_RR ,_, for_IF the_AT rest_NN1 of_IO your_APPGE life_NN1 ._. '_"@
+SENTPOS 2014_4_101_600_629_1 FINAL A   76   62 I believe Saunders has made a great argument for kindness .
+SENTPOS 2014_4_101_600_629_1 FINAL B   76   62 I_PPIS1 believe_VV0 Saunders_NP1 has_VHZ made_VVN a_AT1 great_JJ argument_NN1 for_IF kindness_NN1 ._.
+SENTPOS 2014_4_101_600_629_1 FINAL A   77   62  Kindness is something that our society is in desperate need for and he does a great job at making his point .
+SENTPOS 2014_4_101_600_629_1 FINAL B   77   62  Kindness_NN1 is_VBZ something_PN1 that_CST our_APPGE society_NN1 is_VBZ in_II desperate_JJ need_NN1 for_IF and_CC he_PPHS1 does_VDZ a_AT1 great_JJ job_NN1 at_II making_VVG his_APPGE point_NN1 ._.

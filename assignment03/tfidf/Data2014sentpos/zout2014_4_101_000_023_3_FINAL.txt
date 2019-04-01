@@ -1,0 +1,126 @@
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    0 Anxiety , suicidal thoughts , alienation , cynicism , distrust of authority , isolation , hypersensitivity to injustice , tendency to fits of rage , all-or-nothing thinking , fear of trauma returning these are only a few of the symptoms of PTSD as defined by Post-Traumatic Stress Disorder : A Complete Treatment Guide ( Matsakis , Tilley 19 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    0 Anxiety_NN1 ,_, suicidal_JJ thoughts_NN2 ,_, alienation_NN1 ,_, cynicism_NN1 ,_, distrust_NN1 of_IO authority_NN1 ,_, isolation_NN1 ,_, hypersensitivity_NN1 to_II injustice_NN1 ,_, tendency_NN1 to_II fits_NN2 of_IO rage_NN1 ,_, all-or-nothing_JJ thinking_NN1 ,_, fear_NN1 of_IO trauma_NN1 returning_VVG these_DD2 are_VBR only_RR a_AT1 few_DA2 of_IO the_AT symptoms_NN2 of_IO PTSD_NP1 as_CSA defined_VVN by_II Post-Traumatic_JJ Stress_NN1 Disorder_NN1 :_: A_ZZ1 Complete_JJ Treatment_NN1 Guide_NN1 (_( Matsakis_NP1 ,_, Tilley_NP1 19_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    1 In Suzanne Collins 's Mockingjay , Katniss Everdeen displays each of these and more .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    1 In_II Suzanne_NP1 Collins_NP1 's_GE Mockingjay_NN1 ,_, Katniss_NP1 Everdeen_NP1 displays_VVZ each_DD1 of_IO these_DD2 and_CC more_RRR ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    2 She has suffered so much anguish throughout the Hunger Games series that by the end of the trilogy , the effects of the trauma culminate in the form of a complete mental breakdown .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    2 She_PPHS1 has_VHZ suffered_VVN so_RG much_DA1 anguish_NN1 throughout_II the_AT Hunger_NN1 Games_NN2 series_NN that_CST by_II the_AT end_NN1 of_IO the_AT trilogy_NN1 ,_, the_AT effects_NN2 of_IO the_AT trauma_NN1 culminate_NN1 in_II the_AT form_NN1 of_IO a_AT1 complete_JJ mental_JJ breakdown_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    3 She has suffered through two Hunger Games , a bloody revolution , and probably most significantly , the death of her beloved sister , Prim .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    3 She_PPHS1 has_VHZ suffered_VVN through_II two_MC Hunger_NN1 Games_NN2 ,_, a_AT1 bloody_JJ revolution_NN1 ,_, and_CC probably_RR most_RGT significantly_RR ,_, the_AT death_NN1 of_IO her_APPGE beloved_JJ sister_NN1 ,_, Prim_JJ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    4 When placed in solitary confinement after shooting the new president of Panem , she is practically incapacitated by the fragility of her sanity .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    4 When_CS placed_VVN in_II solitary_JJ confinement_NN1 after_II shooting_VVG the_AT new_JJ president_NN1 of_IO Panem_NP1 ,_, she_PPHS1 is_VBZ practically_RR incapacitated_VVN by_II the_AT fragility_NN1 of_IO her_APPGE sanity_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    5 At her breaking point , she goes through stages of Post Traumatic Stress Disorder ( PTSD ) similar to those of veterans who returned home from the Vietnam War .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    5 At_II her_APPGE breaking_NN1 point_NN1 ,_, she_PPHS1 goes_VVZ through_II stages_NN2 of_IO Post_NN1 Traumatic_JJ Stress_NN1 Disorder_NN1 (_( PTSD_NP1 )_) similar_JJ to_II those_DD2 of_IO veterans_NN2 who_PNQS returned_VVD home_RL from_II the_AT Vietnam_NP1 War_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    6 By looking at Katniss ' psychological state after shooting President Coin , we can see that the accumulation of her trauma left her with significant neurological damage , similar to the PTSD experienced by Vietnam Veterans .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    6 By_II looking_VVG at_II Katniss_NP1 '_GE psychological_JJ state_NN1 after_II shooting_VVG President_NNB Coin_NP1 ,_, we_PPIS2 can_VM see_VVI that_CST the_AT accumulation_NN1 of_IO her_APPGE trauma_NN1 left_VVD her_PPHO1 with_IW significant_JJ neurological_JJ damage_NN1 ,_, similar_JJ to_II the_AT PTSD_NP1 experienced_VVD by_II Vietnam_NP1 Veterans_NN2 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    0    7 This is important because the similarities shared in their feelings of depression , alienation , and anger result from betrayal by their respective governments .
+SENTPOS 2014_4_101_000_023_3 FINAL B    0    7 This_DD1 is_VBZ important_JJ because_CS the_AT similarities_NN2 shared_VVN in_II their_APPGE feelings_NN2 of_IO depression_NN1 ,_, alienation_NN1 ,_, and_CC anger_VV0 result_NN1 from_II betrayal_NN1 by_II their_APPGE respective_JJ governments_NN2 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1    8 Suicide is the first thing on Katniss ' mind after she is imprisoned .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1    8 Suicide_NN1 is_VBZ the_AT first_MD thing_NN1 on_II Katniss_NP1 '_GE mind_NN1 after_CS she_PPHS1 is_VBZ imprisoned_VVN ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1    9 She is depressed and convinced that things will only continue to get worse .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1    9 She_PPHS1 is_VBZ depressed_JJ and_CC convinced_JJ that_CST things_NN2 will_VM only_RR continue_VVI to_TO get_VVI worse_JJR ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   10 She 's exhausted and the one person that always kept her going , Prim , is gone .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   10 She_PPHS1 's_VBZ exhausted_VVN and_CC the_AT one_MC1 person_NN1 that_CST always_RR kept_VVD her_PPHO1 going_VVG ,_, Prim_JJ ,_, is_VBZ gone_VVN ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   11 After listing potential ways to actively kill herself , she resolves on just giving up completely .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   11 After_II listing_VVG potential_JJ ways_NN2 to_TO actively_RR kill_VVI herself_PPX1 ,_, she_PPHS1 resolves_VVZ on_RP@ just_RR giving_VVG up_RP completely_RR ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   12 At her darkest hour , Katniss thinks to herself , " What I can do is give up .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   12 At_II her_APPGE darkest_JJT hour_NNT1 ,_, Katniss_NP1 thinks_VVZ to_II herself_PPX1 ,_, "_" What_DDQ I_PPIS1 can_VM do_VDI is_VBZ give_VVI up_RP ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   13 I resolve to lie on the bed without eating , drinking , or taking my medications .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   13 I_PPIS1 resolve_VV0 to_TO lie_VVI on_II the_AT bed_NN1 without_IW eating_NN1 ,_, drinking_VVG ,_, or_CC taking_VVG my_APPGE medications_NN2 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   14 I could do it , too .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   14 I_PPIS1 could_VM do_VDI it_PPH1 ,_, too_RR@ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   15 Just die " ( Collins 375-376 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   15 Just_RR die_VV0 "_" (_( Collins_NP1 375-376_MCMC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   16 Despite her complete lack of desire to carry on , Katniss manages to survive her imprisonment .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   16 Despite_II her_APPGE complete_JJ lack_NN1 of_IO desire_NN1 to_TO carry_VVI on_RP ,_, Katniss_NP1 manages_VVZ to_TO survive_VVI her_APPGE imprisonment_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   17 Unfortunately , many who suffer from PTSD have not been so lucky and the outcomes have been tragic .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   17 Unfortunately_RR ,_, many_DA2 who_PNQS suffer_VV0 from_II PTSD_NP1 have_VH0 not_XX been_VBN so_RG lucky_JJ and_CC the_AT outcomes_NN2 have_VH0 been_VBN tragic_JJ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   18 Vietnam Veterans underwent the same feelings of hopelessness , dejection , isolation , vulnerability , and emotional constriction upon their return from service ( Ochberg 235 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   18 Vietnam_NP1 Veterans_NN2 underwent_VVD the_AT same_DA feelings_NN2 of_IO hopelessness_NN1 ,_, dejection_NN1 ,_, isolation_NN1 ,_, vulnerability_NN1 ,_, and_CC emotional_JJ constriction_NN1 upon_II their_APPGE return_NN1 from_II service_NN1 (_( Ochberg_NP1 235_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   19 In the midst of the former soldiers ' search for meaning after the war , they lost their identities within their depression .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   19 In_II the_AT midst_NN1 of_IO the_AT former_DA soldiers_NN2 '_GE search_NN1 for_IF meaning_VVG after_II the_AT war_NN1 ,_, they_PPHS2 lost_VVD their_APPGE identities_NN2 within_II their_APPGE depression_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   20 Many succeeded in their attempts to escape their grief and distorted reality .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   20 Many_DA2 succeeded_VVN in_II their_APPGE attempts_NN2 to_TO escape_VVI their_APPGE grief_NN1 and_CC distorted_JJ reality_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    1   21 Based on Katniss ' behavior in Mockingjay , she would have done the same had she not had so many people working to keep her alive .
+SENTPOS 2014_4_101_000_023_3 FINAL B    1   21 Based_VVN on_II Katniss_NP1 '_GE behavior_NN1 in_II Mockingjay_NP1 ,_, she_PPHS1 would_VM have_VHI done_VDN the_AT same_DA had_VHD she_PPHS1 not_XX had_VHN so_RG many_DA2 people_NN working_VVG to_TO keep_VVI her_APPGE alive_JJ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   22 During her imprisonment , Katniss thinks she is completely isolated and alone despite the fact that there are so many people continuously supporting her .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   22 During_II her_APPGE imprisonment_NN1 ,_, Katniss_NP1 thinks_VVZ she_PPHS1 is_VBZ completely_RR isolated_VVN and_CC alone_RR despite_II the_AT fact_NN1 that_CST there_EX are_VBR so_RG many_DA2 people_NN continuously_RR supporting_VVG her_PPHO1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   23 She feels abandoned by all of her loved ones and alienated by the government she had once placed her trust in .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   23 She_PPHS1 feels_VVZ abandoned_VVN by_II all_DB of_IO her_APPGE loved_JJ% ones_NN2 and_CC alienated_VVN by_II the_AT government_NN1 she_PPHS1 had_VHD once_RR placed_VVN her_PPHO1 trust_VV0 in_RP@ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   24 When she realizes her captors are n't going to let her die , she fears they are planning to continue to use her when she eventually is released .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   24 When_CS she_PPHS1 realizes_VVZ her_APPGE captors_NN2 are_VBR n't_XX going_VVGK to_TO let_VVI her_PPHO1 die_VV0 ,_, she_PPHS1 fears_VVZ they_PPHS2 are_VBR planning_VVG to_TO continue_VVI to_TO use_VVI her_PPHO1 when_CS she_PPHS1 eventually_RR is_VBZ released_VVN ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   25 She mulls over this potential punishment : " And then a terrible thought hits me : What if they 're not going to kill me ?
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   25 She_PPHS1 mulls_VVZ over_II this_DD1 potential_JJ punishment_NN1 :_: "_" And_CC then_RT a_AT1 terrible_JJ thought_NN1 hits_VVZ me_PPIO1 :_: What_DDQ if_CS they_PPHS2 're_VBR not_XX going_VVGK to_TO kill_VVI me_PPIO1 ?_?
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   26 What if they have more plans for me ?
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   26 What_DDQ if_CS they_PPHS2 have_VH0 more_DAR plans_NN2 for_IF me_PPIO1 ?_?
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   27 A new way to remake , train , and use me ? "
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   27 A_AT1 new_JJ way_NN1 to_TO remake_VVI ,_, train_VVI ,_, and_CC use_VVI me_PPIO1 ?_? "_"
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   28 ( Collins 377 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   28 (_( Collins_NP1 377_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   29 To Katniss , this is a punishment worse than death .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   29 To_II Katniss_NP1 ,_, this_DD1 is_VBZ a_AT1 punishment_NN1 worse_JJR than_CSN death_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   30 She is blinded by her paranoia and believes they would rather continue torturing her than execute her .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   30 She_PPHS1 is_VBZ blinded_VVN by_II her_APPGE paranoia_NN1 and_CC believes_VVZ they_PPHS2 would_VM rather_RR@ continue_VVI torturing_VVG her_PPHO1 than_CSN execute_VV0 her_PPHO1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   31 She assumes that the government will continue to exploit her for their own agenda even though she has already been completely humiliated .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   31 She_PPHS1 assumes_VVZ that_CST the_AT government_NN1 will_VM continue_VVI to_TO exploit_VVI her_PPHO1 for_IF their_APPGE own_DA agenda_NN1 even_CS21 though_CS22 she_PPHS1 has_VHZ already_RR been_VBN completely_RR humiliated_VVN ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    2   32 Frank Ochberg talks about the feelings of victimization in Vietnam Veterans in a similar way .
+SENTPOS 2014_4_101_000_023_3 FINAL B    2   32 Frank_NP1 Ochberg_NP1 talks_NN2 about_II the_AT feelings_NN2 of_IO victimization_NN1 in_II Vietnam_NP1 Veterans_NN2 in_II a_AT1 similar_JJ way_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    3   33 He writes : The victim often feels diminished , pushed down in a hierarchy of dominance , exploited and invaded Victimization should suggest a transient state of personal disequilibrium , beginning with unanticipated trauma and ending with survivor status or reequilibration ( Ochberg 227 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    3   33 He_PPHS1 writes_VVZ :_: The_AT victim_NN1 often_RR feels_VVZ diminished_JJ@ ,_, pushed_VVD down_RP in_II a_AT1 hierarchy_NN1 of_IO dominance_NN1 ,_, exploited_JJ and_CC invaded_JJ@ Victimization_NN1 should_VM suggest_VVI a_AT1 transient_JJ state_NN1 of_IO personal_JJ disequilibrium_NN1 ,_, beginning_VVG with_IW unanticipated_JJ trauma_NN1 and_CC ending_VVG with_IW survivor_NN1 status_NN1 or_CC reequilibration_NN1 (_( Ochberg_NP1 227_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   34 Draftees could not have anticipated the horrors that awaited them in Vietnam and were greeted upon their return with hatred from their society and rejection by their government ( Ochberg 228 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   34 Draftees_NN2 could_VM not_XX have_VHI anticipated_VVN the_AT horrors_NN2 that_CST awaited_VVD them_PPHO2 in_II Vietnam_NP1 and_CC were_VBDR greeted_VVN upon_II their_APPGE return_NN1 with_IW hatred_NN1 from_II their_APPGE society_NN1 and_CC rejection_NN1 by_II their_APPGE government_NN1 (_( Ochberg_NP1 228_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   35 There is no greater betrayal than complete abandonment by those you were loyally fighting to protect .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   35 There_EX is_VBZ no_AT greater_JJR betrayal_NN1 than_CSN complete_JJ abandonment_NN1 by_II those_DD2 you_PPY were_VBDR loyally_RR fighting_VVG to_TO protect_VVI ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   36 This , in conjunction with the emotional scarring brought on by the trauma itself , contributes to the severity of PTSD .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   36 This_DD1 ,_, in_II31 conjunction_II32 with_II33 the_AT emotional_JJ scarring_NN1@ brought_VVN on_RP@ by_II the_AT trauma_NN1 itself_PPX1 ,_, contributes_VVZ to_II the_AT severity_NN1 of_IO PTSD_NP1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   37 It is important to note the similarities in the situations of the men drafted to serve in Vietnam and the tributes of the Hunger Games .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   37 It_PPH1 is_VBZ important_JJ to_TO note_VVI the_AT similarities_NN2 in_II the_AT situations_NN2 of_IO the_AT men_NN2 drafted_VVD to_TO serve_VVI in_II Vietnam_NP1 and_CC the_AT tributes_NN2 of_IO the_AT Hunger_NN1 Games_NN2 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   38 The Districts have no choice but to turn over two tributes to compete .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   38 The_AT Districts_NN2 have_VH0 no_AT choice_NN1 but_CS to_TO turn_VVI over_RG two_MC tributes_NN2 to_TO compete_VVI ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   39 Katniss had already experienced the rejection of being a tribute twice before being prodded into the war in Mockingjay .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   39 Katniss_NP1@ had_VHD already_RR experienced_VVN the_AT rejection_NN1 of_IO being_VBG a_AT1 tribute_NN1 twice_RR before_II being_VBG prodded_VVN@ into_II the_AT war_NN1 in_II Mockingjay_NP1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   40 The monstrosities she had to endure in all these situations parallel any war zone .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   40 The_AT monstrosities_NN2 she_PPHS1 had_VHD to_TO endure_VVI in_II all_DB these_DD2 situations_NN2 parallel_RR any_DD war_NN1 zone_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   41 It is one thing to volunteer .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   41 It_PPH1 is_VBZ one_MC1 thing_NN1 to_TO volunteer_VVI ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    4   42 But as any soldier knows , including Katniss , there is nothing worse than being forced into that position against your will .
+SENTPOS 2014_4_101_000_023_3 FINAL B    4   42 But_CCB as_CSA any_DD soldier_NN1 knows_VVZ ,_, including_II Katniss_NP1 ,_, there_EX is_VBZ nothing_PN1 worse_JJR than_CSN being_VBG forced_VVN into_II that_DD1 position_NN1 against_II your_APPGE will_NN1@ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   43 Katniss has been taken advantage of throughout the Hunger Games trilogy .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   43 Katniss_NN1 has_VHZ been_VBN taken_VVN advantage_NN1 of_IO throughout_II the_AT Hunger_NN1 Games_NN2 trilogy_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   44 It always upset her , but there was no way of foreseeing the extent of Katniss ' anger by the end .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   44 It_PPH1 always_RR upset_VVD her_PPHO1 ,_, but_CCB there_EX was_VBDZ no_AT way_NN1 of_IO foreseeing_VVG the_AT extent_NN1 of_IO Katniss_NP1 '_GE anger_NN1 by_II the_AT end_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   45 She is not only furious at the authority figures that blatantly abused her , but also the people who she felt she could trust .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   45 She_PPHS1 is_VBZ not_XX only_RR furious_JJ at_II the_AT authority_NN1 figures_VVZ@ that_CST blatantly_RR abused_VVN her_PPHO1 ,_, but_CCB also_RR the_AT people_NN who_PNQS she_PPHS1 felt_VVD she_PPHS1 could_VM trust_VVI ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   46 Her hatred does n't stop at the people she knows .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   46 Her_APPGE hatred_NN1 does_VDZ n't_XX stop_VVI at_II the_AT people_NN she_PPHS1 knows_VVZ ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   47 She expresses disgust for the whole human race .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   47 She_PPHS1 expresses_VVZ disgust_NN1 for_IF the_AT whole_JJ human_JJ race_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   48 In the midst of an internal rant , she declares , " I no longer feel any allegiance to these monsters called human beings , despise being one myself " ( Collins 377 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   48 In_II the_AT midst_NN1 of_IO an_AT1 internal_JJ rant_NN1 ,_, she_PPHS1 declares_VVZ ,_, "_" I_PPIS1 no_RR21 longer_RR22 feel_VV0 any_DD allegiance_NN1 to_II these_DD2 monsters_NN2 called_VVN human_JJ beings_NN2 ,_, despise_VV0 being_VBG one_PN1 myself_PPX1 "_" (_( Collins_NP1 377_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   49 Her frustration is undeniable and fuels her thoughts and actions .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   49 Her_APPGE frustration_NN1 is_VBZ undeniable_JJ and_CC fuels_NN2 her_APPGE thoughts_NN2 and_CC actions_NN2 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   50 After returning home from their service in Vietnam , soldiers were infuriated by the similar sense that they had been used as a pawn ( Ochberg 235 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   50 After_II returning_VVG home_RL from_II their_APPGE service_NN1 in_II Vietnam_NP1 ,_, soldiers_NN2 were_VBDR infuriated_VVN by_II the_AT similar_JJ sense_NN1 that_CST they_PPHS2 had_VHD been_VBN used_VVN as_II a_AT1 pawn_NN1 (_( Ochberg_NP1 235_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    5   51 This rage is considered a symptom of PTSD that places blame on not only those who were involved , but those who stood idly by and chose not to act .
+SENTPOS 2014_4_101_000_023_3 FINAL B    5   51 This_DD1 rage_NN1 is_VBZ considered_VVN a_AT1 symptom_NN1 of_IO PTSD_NP1 that_CST places_NN2 blame_VV0 on_II not_XX only_RR those_DD2 who_PNQS were_VBDR involved_VVN ,_, but_CCB those_DD2 who_PNQS stood_VVD idly_RR by_II and_CC chose_VVD not_XX to_TO act_VVI ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   52 Denying the countless injustices in both the Hunger Games and Vietnam War is an impossible feat .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   52 Denying_VVG the_AT countless_JJ injustices_NN2 in_II both_DB2 the_AT Hunger_NN1 Games_NN2 and_CC Vietnam_NP1 War_NN1 is_VBZ an_AT1 impossible_JJ feat_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   53 The effects of the trauma on those involved caused unimaginable pain .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   53 The_AT effects_NN2 of_IO the_AT trauma_NN1 on_II those_DD2 involved_VVN caused_VVN unimaginable_JJ pain_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   54 The effects linger in ways that destroy the victims from the inside out .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   54 The_AT effects_NN2 linger_VV0 in_II ways_NN2 that_CST destroy_VV0 the_AT victims_NN2 from_II the_AT inside_JJ21 out_JJ22 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   55 In many cases , the damage to the minds of the young who endure the incredible suffering of war and death can not be undone .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   55 In_II many_DA2 cases_NN2 ,_, the_AT damage_NN1 to_II the_AT minds_NN2 of_IO the_AT young_JJ who_PNQS endure_VV0 the_AT incredible_JJ suffering_NN1 of_IO war_NN1 and_CC death_NN1 can_VM not_XX be_VBI undone_VVN ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   56 However , PTSD does not always leave its victims incapacitated .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   56 However_RR ,_, PTSD_NP1 does_VDZ not_XX always_RR leave_VVI its_APPGE victims_NN2 incapacitated_VVN ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   57 There is always hope for recovery .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   57 There_EX is_VBZ always_RR hope_VV0 for_IF recovery_NN1 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   58 At the very end of Mockingjay , Katniss speaks of the flashbacks and nightmares that she and Peeta still endure : " There are still moments when he clutches the back of a chair and hangs on until the flashbacks are over .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   58 At_II the_AT very_JJ end_NN1 of_IO Mockingjay_NP1 ,_, Katniss_NP1 speaks_VVZ of_IO the_AT flashbacks_NN2 and_CC nightmares_NN2 that_CST she_PPHS1 and_CC Peeta_NP1 still_RR endure_VV0 :_: "_" There_EX are_VBR still_JJ@ moments_NN2 when_RRQ he_PPHS1 clutches_VVZ the_AT back_NN1 of_IO a_AT1 chair_NN1 and_CC hangs_VVZ on_RP until_CS the_AT flashbacks_NN2 are_VBR over_RP ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   59 I wake screaming from nightmares of mutts and lost children " ( Collins 388 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   59 I_PPIS1 wake_VV0 screaming_VVG from_II nightmares_NN2 of_IO mutts_NN2 and_CC lost_VVD children_NN2 "_" (_( Collins_NP1 388_MC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   60 In many PTSD cases , these are both lasting problems that persist through the remainder of the sufferer 's lives ( Matsakis 32-33 ) .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   60 In_II many_DA2 PTSD_NP1 cases_NN2 ,_, these_DD2 are_VBR both_RR lasting_JJ problems_NN2 that_CST persist_VV0 through_II the_AT remainder_NN1 of_IO the_AT sufferer_NN1 's_GE lives_NN2 (_( Matsakis_NP1 32-33_MCMC )_) ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   61 Even though the memories still remain , with the support of each other , they can move forward with their lives .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   61 Even_CS21 though_CS22 the_AT memories_NN2 still_RR remain_VV0 ,_, with_IW the_AT support_NN1 of_IO each_PPX221 other_PPX222 ,_, they_PPHS2 can_VM move_VVI forward_RL with_IW their_APPGE lives_NN2 ._.
+SENTPOS 2014_4_101_000_023_3 FINAL A    6   61  In the end , Peeta gives Katniss " the promise that life can go on " ( Collins 388 ) and it does .
+SENTPOS 2014_4_101_000_023_3 FINAL B    6   61  In_II the_AT end_NN1 ,_, Peeta_NP1 gives_VVZ Katniss_VV0 "_" the_AT promise_NN1 that_CST life_NN1 can_VM go_VVI on_II "_" (_( Collins_NP1 388_MC )_) and_CC it_PPH1 does_VDZ ._.

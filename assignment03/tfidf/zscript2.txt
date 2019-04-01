@@ -1,0 +1,2 @@
+python tfidf.py Data2014sentpos zfullout.txt zfulllog.txt
+

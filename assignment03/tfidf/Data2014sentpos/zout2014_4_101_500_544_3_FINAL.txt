@@ -1,0 +1,24 @@
+SENTPOS 2014_4_101_500_544_3 FINAL A    0    0 Have we ever wondered what would happen if we believed everything we heard or saw ?
+SENTPOS 2014_4_101_500_544_3 FINAL B    0    0 Have_VH0 we_PPIS2 ever_RR wondered_VVN what_DDQ would_VM happen_VVI if_CS we_PPIS2 believed_VVD everything_PN1 we_PPIS2 heard_VVD or_CC saw_VVD ?_?
+SENTPOS 2014_4_101_500_544_3 FINAL A    0    1 The Story of an Hour is a Literary Fiction short story by Kate Chopin , it is mainly about a woman , who have been told that her husband just died , and she goes into a phase of confusion and worryness , when she made herself ill and almost got herself killed .
+SENTPOS 2014_4_101_500_544_3 FINAL B    0    1 The_AT Story_NN1 of_IO an_AT1 Hour_NNT1 is_VBZ a_AT1 Literary_JJ Fiction_NN1 short_JJ story_NN1 by_II Kate_NP1 Chopin_NP1 ,_, it_PPH1 is_VBZ mainly_RR about_II a_AT1 woman_NN1 ,_, who_PNQS have_VH0 been_VBN told_VVN that_CST her_APPGE husband_NN1 just_RR died_VVD ,_, and_CC she_PPHS1 goes_VVZ into_II a_AT1 phase_NN1 of_IO confusion_NN1 and_CC worryness_NN1 ,_, when_CS she_PPHS1 made_VVD herself_PPX1 ill_JJ and_CC almost_RR got_VVD herself_PPX1 killed_VVN ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    0    2 But at the end she discovers that her husband is still alive .
+SENTPOS 2014_4_101_500_544_3 FINAL B    0    2 But_CCB at_II the_AT end_NN1 she_PPHS1 discovers_VVZ that_CST her_APPGE husband_NN1 is_VBZ still_RR alive_JJ ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    1    3 People should know where their sources come from , and make sure that they are factual .
+SENTPOS 2014_4_101_500_544_3 FINAL B    1    3 People_NN should_VM know_VVI where_RRQ their_APPGE sources_NN2 come_VV0 from_II ,_, and_CC make_VV0 sure_JJ that_CST they_PPHS2 are_VBR factual_JJ ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    1    4 Nowadays , anyone can send information to anyone about anything in a matter of seconds .
+SENTPOS 2014_4_101_500_544_3 FINAL B    1    4 Nowadays_RT ,_, anyone_PN1 can_VM send_VVI information_NN1 to_II anyone_PN1 about_II anything_PN1 in_II a_AT1 matter_NN1 of_IO seconds_NNT2 ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    1    5 With the variety of sources of information the percentage of the accuracy of these information shrinks multiple times .
+SENTPOS 2014_4_101_500_544_3 FINAL B    1    5 With_IW the_AT variety_NN1 of_IO sources_NN2 of_IO information_NN1 the_AT percentage_NN1 of_IO the_AT accuracy_NN1 of_IO these_DD2 information_NN1 shrinks_VVZ multiple_JJ times_NNT2 ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    2    6 Corley , Pamela C. , and Justin Wedeking .
+SENTPOS 2014_4_101_500_544_3 FINAL B    2    6 Corley_NN1 ,_, Pamela_NP1 C._NP1 ,_, and_CC Justin_NP1 Wedeking_NP1 ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    2    7 " The ( Dis ) Advantage Of Certainty : The Importance Of Certainty In Language . "
+SENTPOS 2014_4_101_500_544_3 FINAL B    2    7 "_" The_AT (_( Dis_NN2 )_) Advantage_NN1 Of_IO Certainty_NN1 :_: The_AT Importance_NN1 Of_IO Certainty_NN1 In_II Language_NN1 ._. "_"
+SENTPOS 2014_4_101_500_544_3 FINAL A    2    8 Law &; Society Review 48.1 ( 2014 ) : 35-62 .
+SENTPOS 2014_4_101_500_544_3 FINAL B    2    8 Law_NN1 &;_NULL Society_NN1 Review_NN1 48.1_MC (_( 2014_MC )_) :_: 35-62_MCMC ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    2    9 Academic Search Complete .
+SENTPOS 2014_4_101_500_544_3 FINAL B    2    9 Academic_JJ Search_NN1 Complete_VV0 ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    2   10 Web .
+SENTPOS 2014_4_101_500_544_3 FINAL B    2   10 Web_NN1 ._.
+SENTPOS 2014_4_101_500_544_3 FINAL A    2   10  7 Nov. 2014 .
+SENTPOS 2014_4_101_500_544_3 FINAL B    2   10  7_MC Nov._NPM1 2014_MC ._.
